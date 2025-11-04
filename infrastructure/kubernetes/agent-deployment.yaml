@@ -1,0 +1,169 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
+# SPDX-License-Identifier: Apache-2.0
+
+# AI-Q + UDF Agent Deployment
+# This manifest deploys the custom FastAPI agent to EKS
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: aiq-agent
+
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: aiq-agent-config
+  namespace: aiq-agent
+data:
+  # Service URLs for in-cluster communication
+  NEMOTRON_NIM_URL: "http://nemotron-nano-service.nim.svc.cluster.local:8000"
+  INSTRUCT_LLM_URL: "http://instruct-llm-service.nim.svc.cluster.local:8000"
+  EMBEDDING_NIM_URL: "http://embedding-service.nim.svc.cluster.local:8000"
+  RAG_SERVER_URL: "http://rag-server.rag.svc.cluster.local:8081/v1"
+
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: aiq-agent-secrets
+  namespace: aiq-agent
+type: Opaque
+stringData:
+  NGC_API_KEY: "${NGC_API_KEY}"  # Replace with actual key or use sealed secrets
+  TAVILY_API_KEY: "${TAVILY_API_KEY}"  # Replace with actual key
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: aiq-agent-backend
+  namespace: aiq-agent
+  labels:
+    app: aiq-agent
+    component: backend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: aiq-agent
+      component: backend
+  template:
+    metadata:
+      labels:
+        app: aiq-agent
+        component: backend
+    spec:
+      containers:
+      - name: aiq-agent
+        # Replace with your ECR image path
+        image: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/aiq-agent:latest"
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8000
+          name: http
+        envFrom:
+        - configMapRef:
+            name: aiq-agent-config
+        - secretRef:
+            name: aiq-agent-secrets
+        resources:
+          requests:
+            cpu: "1000m"
+            memory: "2Gi"
+          limits:
+            cpu: "2000m"
+            memory: "4Gi"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 10
+          periodSeconds: 5
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: aiq-agent-service
+  namespace: aiq-agent
+  labels:
+    app: aiq-agent
+spec:
+  selector:
+    app: aiq-agent
+    component: backend
+  ports:
+  - port: 80
+    targetPort: 8000
+    protocol: TCP
+    name: http
+  type: ClusterIP
+
+---
+# Frontend Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: aiq-agent-frontend
+  namespace: aiq-agent
+  labels:
+    app: aiq-agent
+    component: frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: aiq-agent
+      component: frontend
+  template:
+    metadata:
+      labels:
+        app: aiq-agent
+        component: frontend
+    spec:
+      containers:
+      - name: aiq-frontend
+        # Replace with your ECR image path
+        image: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/aiq-frontend:latest"
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 3000
+          name: http
+        env:
+        - name: NEXT_PUBLIC_BACKEND_URL
+          value: "http://aiq-agent-service.aiq-agent.svc.cluster.local"
+        resources:
+          requests:
+            cpu: "500m"
+            memory: "1Gi"
+          limits:
+            cpu: "1000m"
+            memory: "2Gi"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: aiq-agent-frontend
+  namespace: aiq-agent
+  labels:
+    app: aiq-agent
+    component: frontend
+spec:
+  selector:
+    app: aiq-agent
+    component: frontend
+  ports:
+  - port: 80
+    targetPort: 3000
+    protocol: TCP
+    name: http
+  type: LoadBalancer  # Exposes frontend to the internet
+
