@@ -5,7 +5,7 @@
 fastapi==0.115.12
 uvicorn[standard]==0.32.0
 python-multipart==0.0.12
-pydantic==2.10.0
+pydantic==2.11.2
 pydantic-settings==2.6.0
 
 # CopilotKit SDK for real-time state streaming
