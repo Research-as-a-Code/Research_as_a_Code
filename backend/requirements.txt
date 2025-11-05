@@ -17,7 +17,7 @@ copilotkit==0.1.70
 langchain-core==0.3.37
 langchain-openai==0.2.12
 langgraph==0.3.25
-langgraph-checkpoint==2.0.10
+langgraph-checkpoint==2.0.14
 langchain-community==0.3.18
 
 # NVIDIA AI Endpoints
