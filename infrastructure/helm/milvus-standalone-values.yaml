@@ -1,0 +1,85 @@
+# Minimal Milvus Standalone Configuration
+# Optimized for hackathon/demo use
+
+# Use standalone mode (no cluster complexity)
+cluster:
+  enabled: false
+
+# Standalone Milvus configuration
+standalone:
+  replicas: 1
+  resources:
+    limits:
+      cpu: "2"
+      memory: "4Gi"
+    requests:
+      cpu: "1"
+      memory: "2Gi"
+  persistence:
+    enabled: true
+    storageClass: "gp2"  # Use gp2 for compatibility
+    size: 20Gi
+
+# etcd for metadata (minimal)
+etcd:
+  replicaCount: 1
+  persistence:
+    enabled: true
+    storageClass: "gp2"
+    size: 5Gi
+  resources:
+    limits:
+      cpu: "500m"
+      memory: "1Gi"
+    requests:
+      cpu: "250m"
+      memory: "512Mi"
+
+# MinIO for object storage (minimal)
+minio:
+  mode: standalone
+  persistence:
+    enabled: true
+    storageClass: "gp2"
+    size: 10Gi
+  resources:
+    limits:
+      cpu: "500m"
+      memory: "1Gi"
+    requests:
+      cpu: "250m"
+      memory: "512Mi"
+
+# Disable Pulsar (use Kafka or nothing)
+pulsar:
+  enabled: false
+
+# Enable Kafka for message queue (lightweight)
+kafka:
+  enabled: true
+  replicaCount: 1
+  persistence:
+    enabled: true
+    storageClass: "gp2"
+    size: 5Gi
+  resources:
+    limits:
+      cpu: "1"
+      memory: "2Gi"
+    requests:
+      cpu: "500m"
+      memory: "1Gi"
+
+# No ZooKeeper for standalone
+zookeeper:
+  enabled: false
+
+# Service configuration
+service:
+  type: ClusterIP
+  port: 19530
+
+# Monitoring (disabled for simplicity)
+metrics:
+  enabled: false
+
