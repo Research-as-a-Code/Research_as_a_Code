@@ -58,15 +58,14 @@ aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --
 
 # Build backend
 echo "Building backend image..."
-cd ../../backend
-docker build -t aiq-agent:latest .
+cd ../..  # Go to project root
+docker build -f backend/Dockerfile -t aiq-agent:latest .
 docker tag aiq-agent:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-agent:latest
 docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-agent:latest
 
 # Build frontend
 echo "Building frontend image..."
-cd ../../frontend
-docker build -t aiq-frontend:latest .
+docker build -f frontend/Dockerfile -t aiq-frontend:latest .
 docker tag aiq-frontend:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
 docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
 

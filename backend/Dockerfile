@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements and install dependencies
-COPY requirements.txt .
+COPY backend/requirements.txt .
 RUN pip install --no-cache-dir --user -r requirements.txt
 
 # Final stage
@@ -27,8 +27,8 @@ WORKDIR /app
 COPY --from=builder /root/.local /root/.local
 
 # Copy application code
-COPY main.py .
-COPY ../aira/src/aiq_aira ./aiq_aira
+COPY backend/main.py .
+COPY aira/src/aiq_aira ./aiq_aira
 
 # Make sure scripts in .local are usable
 ENV PATH=/root/.local/bin:$PATH
