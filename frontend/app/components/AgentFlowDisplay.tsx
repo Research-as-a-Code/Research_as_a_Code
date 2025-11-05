@@ -52,7 +52,7 @@ export function AgentFlowDisplay() {
 
   // Subscribe to agent state with useCoAgentStateRender
   // The name "ai_q_researcher" MUST match the app_id in backend main.py
-  const { state } = useCoAgentStateRender<AgentState>({
+  useCoAgentStateRender<AgentState>({
     name: "ai_q_researcher",
     render: ({ state }) => {
       // This render function is called every time the agent state updates
