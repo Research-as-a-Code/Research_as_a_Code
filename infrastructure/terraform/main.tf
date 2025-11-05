@@ -34,6 +34,38 @@ terraform {
 }
 
 # ========================================
+# Provider Configuration
+# ========================================
+
+provider "aws" {
+  region = var.aws_region
+}
+
+provider "kubernetes" {
+  host                   = try(module.eks.cluster_endpoint, "")
+  cluster_ca_certificate = try(base64decode(module.eks.cluster_certificate_authority_data), "")
+  
+  exec {
+    api_version = "client.authentication.k8s.io/v1beta1"
+    command     = "aws"
+    args        = ["eks", "get-token", "--cluster-name", try(module.eks.cluster_name, "")]
+  }
+}
+
+provider "helm" {
+  kubernetes {
+    host                   = try(module.eks.cluster_endpoint, "")
+    cluster_ca_certificate = try(base64decode(module.eks.cluster_certificate_authority_data), "")
+    
+    exec {
+      api_version = "client.authentication.k8s.io/v1beta1"
+      command     = "aws"
+      args        = ["eks", "get-token", "--cluster-name", try(module.eks.cluster_name, "")]
+    }
+  }
+}
+
+# ========================================
 # Local Variables
 # ========================================
 
@@ -164,13 +196,14 @@ module "karpenter" {
   cluster_name = module.eks.cluster_name
 
   irsa_oidc_provider_arn = module.eks.oidc_provider_arn
-  
-  # Karpenter node IAM role
-  node_iam_role_additional_policies = {
-    AmazonSSMManagedInstanceCore = "arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore"
-  }
 
   tags = local.tags
+}
+
+# Attach additional IAM policy to Karpenter node role
+resource "aws_iam_role_policy_attachment" "karpenter_ssm" {
+  role       = module.karpenter.role_name
+  policy_arn = "arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore"
 }
 
 # Karpenter Helm Chart
