@@ -77,3 +77,5 @@ temp/
 
 # Generated documentation
 *.pdf
+# But include tariff PDFs in the data directory
+!data/tariffs/*.pdf
