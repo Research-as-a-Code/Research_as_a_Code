@@ -69,7 +69,7 @@ docker build -f frontend/Dockerfile -t aiq-frontend:latest .
 docker tag aiq-frontend:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
 docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
 
-cd ../../infrastructure/kubernetes
+cd infrastructure/kubernetes
 
 echo "✅ Docker images built and pushed"
 

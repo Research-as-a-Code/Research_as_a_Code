@@ -14,5 +14,9 @@
 # limitations under the License.
 
 # Import registrations to ensure they are loaded
-from . import register
-from .eval import evaluator_register, generator_register
+# Commented out for hackathon minimal implementation
+# from . import register
+# from .eval import evaluator_register, generator_register
+
+# Export key components for hackathon
+__version__ = "1.0.0-hackathon"
