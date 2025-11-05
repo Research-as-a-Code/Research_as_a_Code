@@ -2,7 +2,7 @@
 # AWS & NVIDIA Hackathon Edition
 
 # Core Framework
-fastapi==0.115.0
+fastapi==0.115.12
 uvicorn[standard]==0.32.0
 python-multipart==0.0.12
 pydantic==2.10.0
