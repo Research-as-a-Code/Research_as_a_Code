@@ -49,13 +49,13 @@ metadata:
   name: nvidia-nim
 spec:
   amiFamily: AL2
-  role: "KarpenterNodeRole-ai-q-udf-hackathon"  # Update with actual role name from Terraform
+  role: "KarpenterNodeRole-aiq-udf-eks"  # Update with actual role name from Terraform
   subnetSelectorTerms:
     - tags:
-        karpenter.sh/discovery: "ai-q-udf-hackathon"  # Must match cluster name
+        karpenter.sh/discovery: "aiq-udf-eks"  # Must match cluster name
   securityGroupSelectorTerms:
     - tags:
-        karpenter.sh/discovery: "ai-q-udf-hackathon"
+        karpenter.sh/discovery: "aiq-udf-eks"
   blockDeviceMappings:
     - deviceName: /dev/xvda
       ebs:

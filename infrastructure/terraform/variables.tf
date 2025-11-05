@@ -4,7 +4,7 @@
 variable "cluster_name" {
   description = "Name of the EKS cluster"
   type        = string
-  default     = "ai-q-udf-hackathon"
+  default     = "aiq-udf-eks"
 }
 
 variable "aws_region" {
