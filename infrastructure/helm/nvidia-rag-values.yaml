@@ -1,0 +1,182 @@
+# NVIDIA RAG Blueprint Helm Values
+# Enterprise deployment for US Customs Tariff RAG
+# Integrates with existing Terraform-provisioned EKS cluster
+
+global:
+  # Use existing embedding NIM service deployed in the cluster
+  imagePullSecrets:
+    - name: ngc-secret
+
+# Milvus Vector Database Configuration
+milvus:
+  enabled: true
+  standalone:
+    enabled: true
+    persistence:
+      enabled: true
+      storageClass: gp3  # AWS EBS gp3 (adjust if needed)
+      size: 100Gi
+  etcd:
+    persistence:
+      enabled: true
+      storageClass: gp3
+      size: 10Gi
+  pulsar:
+    persistence:
+      enabled: true
+      storageClass: gp3
+      size: 10Gi
+  resources:
+    limits:
+      cpu: "4"
+      memory: "8Gi"
+    requests:
+      cpu: "2"
+      memory: "4Gi"
+
+# NeMo Retriever Embedding Service
+# Points to your existing deployed embedding NIM
+embeddings:
+  enabled: true
+  # Use the existing embedding service in your cluster
+  externalService:
+    enabled: true
+    host: "embedding-service.nim.svc.cluster.local"
+    port: 8000
+  # If external service not available, deploy dedicated embedding NIM
+  nim:
+    enabled: false
+    image:
+      repository: nvcr.io/nim/snowflake/arctic-embed-l
+      tag: "1.0.1"
+    resources:
+      limits:
+        nvidia.com/gpu: "1"
+
+# RAG Query Server (Port 8081)
+queryServer:
+  enabled: true
+  replicas: 2
+  image:
+    repository: nvcr.io/nvidia/rag/rag-server
+    tag: "latest"
+    pullPolicy: Always
+  service:
+    type: ClusterIP
+    port: 8081
+  resources:
+    limits:
+      cpu: "2"
+      memory: "4Gi"
+    requests:
+      cpu: "1"
+      memory: "2Gi"
+  env:
+    - name: MILVUS_HOST
+      value: "milvus-standalone"
+    - name: MILVUS_PORT
+      value: "19530"
+    - name: EMBEDDING_SERVICE_URL
+      value: "http://embedding-service.nim.svc.cluster.local:8000"
+
+# RAG Ingest Server (Port 8082)
+ingestServer:
+  enabled: true
+  replicas: 1
+  image:
+    repository: nvcr.io/nvidia/rag/ingest-server
+    tag: "latest"
+    pullPolicy: Always
+  service:
+    type: ClusterIP
+    port: 8082
+  resources:
+    limits:
+      cpu: "4"
+      memory: "8Gi"
+      nvidia.com/gpu: "1"  # For PDF processing
+    requests:
+      cpu: "2"
+      memory: "4Gi"
+      nvidia.com/gpu: "1"
+  env:
+    - name: MILVUS_HOST
+      value: "milvus-standalone"
+    - name: MILVUS_PORT
+      value: "19530"
+    - name: EMBEDDING_SERVICE_URL
+      value: "http://embedding-service.nim.svc.cluster.local:8000"
+
+# NIM Microservices for Document Processing
+documentProcessing:
+  # Graphic elements extraction
+  graphicElements:
+    enabled: true
+    image:
+      repository: nvcr.io/nim/nvidia/graphic-elements
+      tag: "latest"
+    resources:
+      limits:
+        nvidia.com/gpu: "1"
+      requests:
+        nvidia.com/gpu: "1"
+  
+  # Table structure recognition
+  tableStructure:
+    enabled: true
+    image:
+      repository: nvcr.io/nim/nvidia/table-structure
+      tag: "latest"
+    resources:
+      limits:
+        nvidia.com/gpu: "1"
+      requests:
+        nvidia.com/gpu: "1"
+  
+  # OCR for scanned documents
+  paddleOCR:
+    enabled: true
+    image:
+      repository: nvcr.io/nim/nvidia/paddle-ocr
+      tag: "latest"
+    resources:
+      limits:
+        nvidia.com/gpu: "1"
+      requests:
+        nvidia.com/gpu: "1"
+
+# Karpenter node provisioning for GPU workloads
+nodeSelector:
+  workload-type: rag
+
+tolerations:
+  - key: nvidia.com/gpu
+    operator: Exists
+    effect: NoSchedule
+
+# Storage for document cache
+persistence:
+  enabled: true
+  storageClass: gp3
+  size: 50Gi
+
+# Monitoring and observability
+monitoring:
+  enabled: true
+  prometheus:
+    enabled: true
+  grafana:
+    enabled: false  # Using external monitoring
+
+# Security
+rbac:
+  create: true
+
+serviceAccount:
+  create: true
+  name: rag-service-account
+
+# Network policies
+networkPolicy:
+  enabled: false  # Configure based on your security requirements
+

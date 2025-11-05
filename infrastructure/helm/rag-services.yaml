@@ -1,0 +1,152 @@
+# Custom RAG Services Deployment
+# If NVIDIA RAG Helm chart is not available, deploy these services manually
+
+---
+# RAG Query Server Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rag-query-server
+  labels:
+    app: rag-query-server
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: rag-query-server
+  template:
+    metadata:
+      labels:
+        app: rag-query-server
+    spec:
+      containers:
+      - name: rag-server
+        image: nvcr.io/nvidia/nemo/nemo-retriever-microservice:25.01
+        ports:
+        - containerPort: 8000
+          name: http
+        env:
+        - name: MILVUS_HOST
+          value: "milvus-standalone.rag-blueprint.svc.cluster.local"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_SERVICE_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        - name: APP_VECTORSTORE_NAME
+          value: "milvus"
+        resources:
+          requests:
+            cpu: "1"
+            memory: "2Gi"
+          limits:
+            cpu: "2"
+            memory: "4Gi"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 10
+          periodSeconds: 5
+      imagePullSecrets:
+      - name: ngc-secret
+
+---
+# RAG Query Server Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: rag-query-server
+  labels:
+    app: rag-query-server
+spec:
+  selector:
+    app: rag-query-server
+  ports:
+  - port: 8081
+    targetPort: 8000
+    protocol: TCP
+    name: http
+  type: ClusterIP
+
+---
+# RAG Ingest Server Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rag-ingest-server
+  labels:
+    app: rag-ingest-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: rag-ingest-server
+  template:
+    metadata:
+      labels:
+        app: rag-ingest-server
+    spec:
+      runtimeClassName: nvidia-container-runtime
+      containers:
+      - name: ingest-server
+        image: nvcr.io/nvidia/nemo/nemo-retriever-microservice:25.01
+        ports:
+        - containerPort: 8000
+          name: http
+        env:
+        - name: MILVUS_HOST
+          value: "milvus-standalone.rag-blueprint.svc.cluster.local"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_SERVICE_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        - name: APP_VECTORSTORE_NAME
+          value: "milvus"
+        - name: NGC_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: ngc-secret
+              key: .dockerconfigjson
+        resources:
+          requests:
+            cpu: "2"
+            memory: "4Gi"
+            nvidia.com/gpu: "1"
+          limits:
+            cpu: "4"
+            memory: "8Gi"
+            nvidia.com/gpu: "1"
+        volumeMounts:
+        - name: document-cache
+          mountPath: /tmp/documents
+      volumes:
+      - name: document-cache
+        emptyDir:
+          sizeLimit: 50Gi
+      imagePullSecrets:
+      - name: ngc-secret
+
+---
+# RAG Ingest Server Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: rag-ingest-server
+  labels:
+    app: rag-ingest-server
+spec:
+  selector:
+    app: rag-ingest-server
+  ports:
+  - port: 8082
+    targetPort: 8000
+    protocol: TCP
+    name: http
+  type: ClusterIP
+

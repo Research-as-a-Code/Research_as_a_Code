@@ -98,6 +98,34 @@ cd ../kubernetes
 # The script will output the LoadBalancer URL
 ```
 
+### Enterprise RAG with US Customs Tariffs
+
+Deploy the NVIDIA RAG Blueprint with Milvus for production-grade document retrieval:
+
+```bash
+# 5. Deploy NVIDIA RAG Blueprint (enterprise vector store)
+cd ../helm
+./deploy-rag-blueprint.sh  # ~15 minutes
+
+# 6. Ingest US Customs Tariff PDFs (99 chapters)
+cd ../../scripts
+./setup_tariff_rag_enterprise.sh  # ~20 minutes
+
+# Test queries:
+# - "What is the tariff for replacement batteries for a Raritan remote management card?"
+# - "What's the tariff of Reese's Pieces?"
+# - "Tariff of a replacement Roomba vacuum motherboard, used"
+```
+
+**Features:**
+- ✅ **Milvus Vector Database** - Enterprise-grade, scalable
+- ✅ **Hybrid Search** - Vector + keyword (BM25) for tariff codes
+- ✅ **GPU-Accelerated PDF Processing** - NVIDIA NIM microservices
+- ✅ **Citation Support** - Returns source documents with answers
+
+📖 **Full Guide:** [NVIDIA_RAG_BLUEPRINT_DEPLOYMENT.md](NVIDIA_RAG_BLUEPRINT_DEPLOYMENT.md)  
+🚀 **Quick Start:** [QUICKSTART_RAG_ENTERPRISE.md](QUICKSTART_RAG_ENTERPRISE.md)
+
 ---
 
 ## 📦 What Gets Deployed
@@ -119,14 +147,31 @@ cd ../kubernetes
    - GPU: 1x NVIDIA A10G (24GB)
    - Service: `embedding-service.nim.svc.cluster.local:8000`
 
+### NVIDIA RAG Blueprint (Optional - Enterprise)
+
+4. **Milvus Vector Database**
+   - Purpose: Scalable vector storage for document collections
+   - Storage: 100Gi EBS gp3
+   - Service: `milvus-standalone.rag-blueprint.svc.cluster.local:19530`
+
+5. **RAG Query Server**
+   - Purpose: Search and retrieval with hybrid search (vector + BM25)
+   - Replicas: 2 (for HA)
+   - Service: `rag-query-server.rag-blueprint.svc.cluster.local:8081`
+
+6. **RAG Ingest Server**
+   - Purpose: GPU-accelerated PDF processing and document ingestion
+   - GPU: 1x NVIDIA A10G (for PDF processing)
+   - Service: `rag-ingest-server.rag-blueprint.svc.cluster.local:8082`
+
 ### Custom Services
 
-4. **AI-Q + UDF Agent Backend**
+7. **AI-Q + UDF Agent Backend**
    - FastAPI service with CopilotKit integration
    - Namespace: `aiq-agent`
    - Replicas: 2 (for HA)
 
-5. **Frontend UI**
+8. **Frontend UI**
    - Next.js application with real-time agent visualization
    - Exposed via AWS LoadBalancer
 
@@ -137,9 +182,14 @@ cd ../kubernetes
 - **NVIDIA GPU Operator** (Driver management)
 - **VPC** (3 AZs, public + private subnets)
 
-**Total GPU Requirement**: 4x NVIDIA A10G GPUs (or equivalent)
+**Total GPU Requirement**: 
+- Base deployment: 4x NVIDIA A10G GPUs (Reasoning, Instruct, Embedding)
+- With enterprise RAG: 5x NVIDIA A10G GPUs (+ PDF processing)
 
-**Estimated Cost**: ~$15-20/hour when fully running (use Spot instances to reduce)
+**Estimated Cost**: 
+- Base: ~$15-20/hour when fully running
+- With RAG Blueprint: ~$20-25/hour
+- **Tip**: Use Spot instances to reduce costs by 50-70%
 
 ---
 

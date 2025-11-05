@@ -21,11 +21,15 @@ class RAGServiceIngestion:
     
     def __init__(
         self,
-        rag_ingest_url: str = "http://rag-server:8082/v1",
+        rag_ingest_url: str = "http://localhost:8082/v1",
         collection_name: str = "us_tariffs",
         tariff_dir: str = "/home/csaba/repos/AIML/Research_as_a_Code/data/tariffs"
     ):
-        self.rag_ingest_url = rag_ingest_url
+        # Normalize URL
+        self.rag_ingest_url = rag_ingest_url.rstrip('/')
+        if not self.rag_ingest_url.endswith('/v1'):
+            self.rag_ingest_url = f"{self.rag_ingest_url}/v1"
+        
         self.collection_name = collection_name
         self.tariff_dir = Path(tariff_dir)
         
