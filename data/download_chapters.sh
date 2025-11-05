@@ -8,7 +8,7 @@ set -e  # Exit on error
 
 # Configuration
 BASE_URL="https://hts.usitc.gov/reststop/file?release=currentRelease&filename=Chapter%20"
-OUTPUT_DIR="./chapters"
+OUTPUT_DIR="./tariffs"
 START_CHAPTER=1
 END_CHAPTER=99
 
