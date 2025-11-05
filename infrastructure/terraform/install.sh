@@ -43,24 +43,30 @@ if [[ ! $REPLY =~ ^[Yy]$ ]]; then
 fi
 
 echo ""
-echo "Step 1/5: Initializing Terraform..."
+echo "Step 1/6: Initializing Terraform..."
 terraform init
 
 echo ""
-echo "Step 2/5: Planning infrastructure..."
-terraform plan -out=tfplan
+echo "Step 2/6: Deploying EKS cluster first (this will take ~15 minutes)..."
+echo "Note: Deploying in two stages to ensure cluster is ready for Helm charts"
+terraform apply -target=module.eks -target=module.vpc -target=module.karpenter -auto-approve
 
 echo ""
-echo "Step 3/5: Applying infrastructure (this will take ~20 minutes)..."
-terraform apply tfplan
-
-echo ""
-echo "Step 4/5: Configuring kubectl..."
+echo "Step 3/6: Configuring kubectl to connect to new cluster..."
 CLUSTER_NAME=$(terraform output -raw cluster_name)
 aws eks update-kubeconfig --region $AWS_DEFAULT_REGION --name $CLUSTER_NAME
 
 echo ""
-echo "Step 5/5: Applying Karpenter NodePool..."
+echo "Step 4/6: Deploying Helm charts (Karpenter, GPU Operator)..."
+echo "Now that cluster is ready, deploying Helm charts..."
+terraform apply -auto-approve
+
+echo ""
+echo "Step 5/6: Waiting for Karpenter to be ready..."
+kubectl wait --for=condition=available --timeout=300s deployment/karpenter -n karpenter || echo "Warning: Karpenter not ready yet"
+
+echo ""
+echo "Step 6/6: Applying Karpenter NodePool configuration..."
 kubectl apply -f karpenter-provisioner.yaml
 
 echo ""
@@ -78,4 +84,5 @@ echo "3. Access the application via the LoadBalancer URL"
 echo ""
 echo "To destroy infrastructure: terraform destroy"
 echo "=================================================="
+
 
