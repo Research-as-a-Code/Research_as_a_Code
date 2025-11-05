@@ -9,7 +9,7 @@ pydantic==2.10.0
 pydantic-settings==2.6.0
 
 # CopilotKit SDK for real-time state streaming
-copilotkit==1.0.0
+copilotkit==0.1.70
 
 # LangChain & LangGraph (NVIDIA NeMo Agent Toolkit)
 langchain-core==0.3.28
