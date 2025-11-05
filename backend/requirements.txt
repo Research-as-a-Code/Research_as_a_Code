@@ -13,11 +13,11 @@ copilotkit==0.1.70
 
 # LangChain & LangGraph (NVIDIA NeMo Agent Toolkit)
 # Note: langgraph 0.3.25+ required by copilotkit
-# langchain-core 0.3.37+ required by langchain-community
-langchain-core==0.3.37
-langchain-openai==0.2.12
-langgraph==0.3.25
-langgraph-checkpoint==2.0.14
+# langchain-core needs to be upgraded to work with pydantic 2.11.2
+langchain-core>=0.3.37
+langchain-openai>=0.2.12
+langgraph>=0.3.25
+langgraph-checkpoint>=2.0.14
 langchain-community==0.3.18
 
 # NVIDIA AI Endpoints
