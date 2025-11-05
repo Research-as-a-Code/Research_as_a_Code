@@ -17,8 +17,12 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY frontend/ .
 
+# Accept backend URL as build argument
+ARG NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+
 # Build the application
 ENV NEXT_TELEMETRY_DISABLED 1
+ENV NEXT_PUBLIC_BACKEND_URL=${NEXT_PUBLIC_BACKEND_URL}
 RUN npm run build
 
 # Runner stage
