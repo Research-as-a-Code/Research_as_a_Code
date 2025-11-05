@@ -39,6 +39,13 @@ for i in $(seq $START_CHAPTER $END_CHAPTER); do
             continue
         }
     
+    # Check if the downloaded file is empty (reserved chapters produce 0-byte PDFs)
+    if [ ! -s "$output_file" ]; then
+        echo "  ⚠️  Chapter $i is empty (reserved for future use) - removing"
+        rm -f "$output_file"
+        continue
+    fi
+    
     echo "  ✓ Saved to $output_file"
 done
 
