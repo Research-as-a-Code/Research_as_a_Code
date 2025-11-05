@@ -11,7 +11,7 @@ metadata:
   labels:
     app: rag-query-server
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: rag-query-server
@@ -26,26 +26,43 @@ spec:
           effect: "NoSchedule"
       containers:
       - name: rag-server
-        image: nvcr.io/nvidia/nemo/nemo-retriever-microservice:25.01
+        image: nvcr.io/nvidia/blueprint/rag-server:2.3.0
+        args: ["--port", "8000", "--host", "0.0.0.0", "--workers", "4"]
         ports:
         - containerPort: 8000
           name: http
         env:
-        - name: MILVUS_HOST
-          value: "milvus-standalone"
-        - name: MILVUS_PORT
-          value: "19530"
-        - name: EMBEDDING_SERVICE_URL
-          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        # Milvus config
+        - name: APP_VECTORSTORE_URL
+          value: "http://milvus-standalone:19530"
         - name: APP_VECTORSTORE_NAME
           value: "milvus"
+        - name: COLLECTION_NAME
+          value: "us_tariffs"
+        # MinIO config  
+        - name: MINIO_ENDPOINT
+          value: "minio:9000"
+        - name: MINIO_ACCESSKEY
+          value: "minioadmin"
+        - name: MINIO_SECRETKEY
+          value: "minioadmin"
+        # Embedding NIM
+        - name: APP_EMBEDDINGS_SERVERURL
+          value: "embedding-service.nim.svc.cluster.local:8000"
+        - name: APP_EMBEDDINGS_MODELNAME
+          value: "nvidia/llama-3.2-nv-embedqa-1b-v2"
+        # LLM config
+        - name: APP_LLM_SERVERURL
+          value: "instruct-llm-service.nim.svc.cluster.local:8000"
+        - name: APP_LLM_MODELNAME
+          value: "nvidia/llama-3.3-nemotron-super-49b-v1.5"
         resources:
           requests:
+            cpu: "500m"
+            memory: "1Gi"
+          limits:
             cpu: "1"
             memory: "2Gi"
-          limits:
-            cpu: "2"
-            memory: "4Gi"
         livenessProbe:
           httpGet:
             path: /health
@@ -107,35 +124,47 @@ spec:
         - key: "nvidia.com/gpu"
           operator: "Exists"
           effect: "NoSchedule"
-      runtimeClassName: nvidia-container-runtime
+      runtimeClassName: nvidia
       containers:
       - name: ingest-server
-        image: nvcr.io/nvidia/nemo/nemo-retriever-microservice:25.01
+        image: nvcr.io/nvidia/blueprint/ingestor-server:2.3.0
+        args: ["--port", "8000", "--host", "0.0.0.0", "--workers", "2"]
         ports:
         - containerPort: 8000
           name: http
         env:
-        - name: MILVUS_HOST
-          value: "milvus-standalone"
-        - name: MILVUS_PORT
-          value: "19530"
-        - name: EMBEDDING_SERVICE_URL
-          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        # Milvus config
+        - name: APP_VECTORSTORE_URL
+          value: "http://milvus-standalone:19530"
         - name: APP_VECTORSTORE_NAME
           value: "milvus"
-        - name: NGC_API_KEY
-          valueFrom:
-            secretKeyRef:
-              name: ngc-secret
-              key: .dockerconfigjson
+        - name: COLLECTION_NAME
+          value: "us_tariffs"
+        # MinIO config  
+        - name: MINIO_ENDPOINT
+          value: "minio:9000"
+        - name: MINIO_ACCESSKEY
+          value: "minioadmin"
+        - name: MINIO_SECRETKEY
+          value: "minioadmin"
+        # Embedding NIM
+        - name: APP_EMBEDDINGS_SERVERURL
+          value: "embedding-service.nim.svc.cluster.local:8000"
+        - name: APP_EMBEDDINGS_MODELNAME
+          value: "nvidia/llama-3.2-nv-embedqa-1b-v2"
+        # LLM config for summary
+        - name: SUMMARY_LLM_SERVERURL
+          value: "instruct-llm-service.nim.svc.cluster.local:8000"
+        - name: SUMMARY_LLM
+          value: "nvidia/llama-3.3-nemotron-super-49b-v1.5"
         resources:
           requests:
-            cpu: "2"
-            memory: "4Gi"
+            cpu: "1"
+            memory: "2Gi"
             nvidia.com/gpu: "1"
           limits:
-            cpu: "4"
-            memory: "8Gi"
+            cpu: "2"
+            memory: "4Gi"
             nvidia.com/gpu: "1"
         volumeMounts:
         - name: document-cache
