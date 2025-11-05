@@ -19,6 +19,11 @@ standalone:
     enabled: true
     storageClass: "gp2"  # Use gp2 for compatibility
     size: 20Gi
+  # Tolerate GPU nodes (NVIDIA RAG Blueprint best practice)
+  tolerations:
+    - key: "nvidia.com/gpu"
+      operator: "Exists"
+      effect: "NoSchedule"
 
 # etcd for metadata (minimal)
 etcd:
@@ -34,6 +39,10 @@ etcd:
     requests:
       cpu: "250m"
       memory: "512Mi"
+  tolerations:
+    - key: "nvidia.com/gpu"
+      operator: "Exists"
+      effect: "NoSchedule"
 
 # MinIO for object storage (minimal)
 minio:
@@ -49,6 +58,10 @@ minio:
     requests:
       cpu: "250m"
       memory: "512Mi"
+  tolerations:
+    - key: "nvidia.com/gpu"
+      operator: "Exists"
+      effect: "NoSchedule"
 
 # Disable Pulsar (use Kafka or nothing)
 pulsar:
@@ -69,6 +82,10 @@ kafka:
     requests:
       cpu: "500m"
       memory: "1Gi"
+  tolerations:
+    - key: "nvidia.com/gpu"
+      operator: "Exists"
+      effect: "NoSchedule"
 
 # No ZooKeeper for standalone
 zookeeper:

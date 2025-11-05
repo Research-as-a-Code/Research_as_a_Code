@@ -6,6 +6,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
+  namespace: rag-blueprint
   name: rag-query-server
   labels:
     app: rag-query-server
@@ -19,6 +20,10 @@ spec:
       labels:
         app: rag-query-server
     spec:
+      tolerations:
+        - key: "nvidia.com/gpu"
+          operator: "Exists"
+          effect: "NoSchedule"
       containers:
       - name: rag-server
         image: nvcr.io/nvidia/nemo/nemo-retriever-microservice:25.01
@@ -27,7 +32,7 @@ spec:
           name: http
         env:
         - name: MILVUS_HOST
-          value: "milvus-standalone.rag-blueprint.svc.cluster.local"
+          value: "milvus-standalone"
         - name: MILVUS_PORT
           value: "19530"
         - name: EMBEDDING_SERVICE_URL
@@ -61,6 +66,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
+  namespace: rag-blueprint
   name: rag-query-server
   labels:
     app: rag-query-server
@@ -73,12 +79,17 @@ spec:
     protocol: TCP
     name: http
   type: ClusterIP
+  
+---
+# Tolerations for GPU nodes
+
 
 ---
 # RAG Ingest Server Deployment
 apiVersion: apps/v1
 kind: Deployment
 metadata:
+  namespace: rag-blueprint
   name: rag-ingest-server
   labels:
     app: rag-ingest-server
@@ -92,6 +103,10 @@ spec:
       labels:
         app: rag-ingest-server
     spec:
+      tolerations:
+        - key: "nvidia.com/gpu"
+          operator: "Exists"
+          effect: "NoSchedule"
       runtimeClassName: nvidia-container-runtime
       containers:
       - name: ingest-server
@@ -101,7 +116,7 @@ spec:
           name: http
         env:
         - name: MILVUS_HOST
-          value: "milvus-standalone.rag-blueprint.svc.cluster.local"
+          value: "milvus-standalone"
         - name: MILVUS_PORT
           value: "19530"
         - name: EMBEDDING_SERVICE_URL
@@ -137,6 +152,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
+  namespace: rag-blueprint
   name: rag-ingest-server
   labels:
     app: rag-ingest-server
