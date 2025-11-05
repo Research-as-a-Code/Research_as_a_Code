@@ -8,7 +8,7 @@ set -e  # Exit on error
 
 # Configuration
 BASE_URL="https://learning.usitc.gov/hts-docs/documents/General%20Note%20"
-OUTPUT_DIR="./general_notes"
+OUTPUT_DIR="./tariffs"
 START_NOTE=1
 END_NOTE=36
 
