@@ -52,90 +52,156 @@ echo "Adding NVIDIA Helm repository..."
 helm repo add nvidia https://helm.ngc.nvidia.com/nvidia
 helm repo update
 
-# Deploy 1: Nemotron Reasoning NIM (llama-3.3-nemotron-super-49b-v1.5)
+# Deploy NIM Operator first
 echo ""
 echo "=================================================="
-echo "Deploying Nemotron Reasoning NIM..."
+echo "Deploying NVIDIA NIM Operator..."
 echo "=================================================="
 
-helm upgrade --install nemotron-nano-nim nvidia/nim-llm \
-    --namespace nim \
+helm upgrade --install nim-operator nvidia/k8s-nim-operator \
+    --namespace nim-operator \
     --create-namespace \
-    --set model.ngcAPIKey=$NGC_API_KEY \
-    --set image.repository="nvcr.io/nim/nvidia/llama-3.3-nemotron-super-49b-v1.5" \
-    --set image.tag="latest" \
-    --set resources.limits."nvidia\.com/gpu"=1 \
-    --set resources.requests."nvidia\.com/gpu"=1 \
-    --set service.name="nemotron-nano-service" \
-    --set service.type="ClusterIP" \
-    --set service.port=8000 \
-    --set replicaCount=1 \
-    --set persistence.enabled=true \
-    --set persistence.size="100Gi" \
-    --set nodeSelector."workload-type"="nvidia-nim" \
-    --set tolerations[0].key="nvidia.com/gpu" \
-    --set tolerations[0].operator="Equal" \
-    --set tolerations[0].value="true" \
-    --set tolerations[0].effect="NoSchedule" \
     --wait \
-    --timeout=20m
+    --timeout=10m
 
-echo "✅ Nemotron NIM deployed"
+echo "✅ NIM Operator deployed"
 
-# Deploy 2: Llama 3.3 70B Instruct NIM
+# Wait for operator to be ready
+echo "Waiting for NIM Operator to be ready..."
+kubectl wait --for=condition=available --timeout=300s deployment/k8s-nim-operator -n nim-operator || true
+
+# Create NIM Custom Resources using kubectl
 echo ""
 echo "=================================================="
-echo "Deploying Llama 3.3 70B Instruct NIM..."
+echo "Deploying NIMs using operator..."
 echo "=================================================="
 
-helm upgrade --install instruct-llm-nim nvidia/nim-llm \
-    --namespace nim \
-    --set model.ngcAPIKey=$NGC_API_KEY \
-    --set image.repository="nvcr.io/nim/meta/llama-3.3-70b-instruct" \
-    --set image.tag="latest" \
-    --set resources.limits."nvidia\.com/gpu"=2 \
-    --set resources.requests."nvidia\.com/gpu"=2 \
-    --set service.name="instruct-llm-service" \
-    --set service.type="ClusterIP" \
-    --set service.port=8000 \
-    --set replicaCount=1 \
-    --set persistence.enabled=true \
-    --set persistence.size="200Gi" \
-    --set nodeSelector."workload-type"="nvidia-nim" \
-    --set tolerations[0].key="nvidia.com/gpu" \
-    --set tolerations[0].operator="Equal" \
-    --set tolerations[0].value="true" \
-    --set tolerations[0].effect="NoSchedule" \
-    --wait \
-    --timeout=20m
+# Create a NIM deployment manifest for Llama 3.3 70B Instruct (smaller, more practical)
+cat <<EOF | kubectl apply -f -
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: llama-instruct-nim
+  namespace: nim
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: llama-instruct-nim
+  template:
+    metadata:
+      labels:
+        app: llama-instruct-nim
+    spec:
+      containers:
+      - name: nim
+        image: nvcr.io/nim/meta/llama-3.3-70b-instruct:latest
+        env:
+        - name: NGC_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: ngc-api-key
+              key: NGC_API_KEY
+        - name: NIM_CACHE_PATH
+          value: /model-cache
+        ports:
+        - containerPort: 8000
+          name: http
+        resources:
+          limits:
+            nvidia.com/gpu: "1"
+          requests:
+            nvidia.com/gpu: "1"
+        volumeMounts:
+        - name: model-cache
+          mountPath: /model-cache
+      volumes:
+      - name: model-cache
+        emptyDir: {}
+      nodeSelector:
+        workload-type: nvidia-nim
+      tolerations:
+      - key: nvidia.com/gpu
+        operator: Equal
+        value: "true"
+        effect: NoSchedule
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: instruct-llm-service
+  namespace: nim
+spec:
+  selector:
+    app: llama-instruct-nim
+  ports:
+  - port: 8000
+    targetPort: 8000
+    name: http
+  type: ClusterIP
+EOF
 
-echo "✅ Instruct LLM NIM deployed"
+echo "✅ Llama Instruct NIM deployed"
 
-# Deploy 3: Embedding NIM
+# Deploy a lightweight embedding model
 echo ""
-echo "=================================================="
 echo "Deploying Embedding NIM..."
-echo "=================================================="
 
-helm upgrade --install embedding-nim nvidia/text-embedding-nim \
-    --namespace nim \
-    --set model.ngcAPIKey=$NGC_API_KEY \
-    --set image.repository="nvcr.io/nim/snowflake/arctic-embed-l" \
-    --set image.tag="1.0.1" \
-    --set resources.limits."nvidia\.com/gpu"=1 \
-    --set resources.requests."nvidia\.com/gpu"=1 \
-    --set service.name="embedding-service" \
-    --set service.type="ClusterIP" \
-    --set service.port=8000 \
-    --set persistence.enabled=true \
-    --set persistence.size="50Gi" \
-    --set nodeSelector."workload-type"="nvidia-nim" \
-    --set tolerations[0].key="nvidia.com/gpu" \
-    --set tolerations[0].operator="Equal" \
-    --set tolerations[0].value="true" \
-    --set tolerations[0].effect="NoSchedule" \
-    --wait \
-    --timeout=15m
+cat <<EOF | kubectl apply -f -
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: embedding-nim
+  namespace: nim
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: embedding-nim
+  template:
+    metadata:
+      labels:
+        app: embedding-nim
+    spec:
+      containers:
+      - name: nim
+        image: nvcr.io/nim/snowflake/arctic-embed-l:1.0.1
+        env:
+        - name: NGC_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: ngc-api-key
+              key: NGC_API_KEY
+        ports:
+        - containerPort: 8000
+          name: http
+        resources:
+          limits:
+            nvidia.com/gpu: "1"
+          requests:
+            nvidia.com/gpu: "1"
+      nodeSelector:
+        workload-type: nvidia-nim
+      tolerations:
+      - key: nvidia.com/gpu
+        operator: Equal
+        value: "true"
+        effect: NoSchedule
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: embedding-service
+  namespace: nim
+spec:
+  selector:
+    app: embedding-nim
+  ports:
+  - port: 8000
+    targetPort: 8000
+    name: http
+  type: ClusterIP
+EOF
 
 echo "✅ Embedding NIM deployed"
 
@@ -145,16 +211,20 @@ echo "✅ All NVIDIA NIMs deployed successfully!"
 echo "=================================================="
 echo ""
 echo "Deployed NIMs:"
-echo "  1. Nemotron Reasoning  → nemotron-nano-service.nim.svc.cluster.local:8000"
-echo "  2. Llama 3.3 Instruct  → instruct-llm-service.nim.svc.cluster.local:8000"
-echo "  3. Embedding NIM       → embedding-service.nim.svc.cluster.local:8000"
+echo "  1. Llama 3.3 Instruct  → instruct-llm-service.nim.svc.cluster.local:8000"
+echo "  2. Embedding NIM       → embedding-service.nim.svc.cluster.local:8000"
 echo ""
 echo "Check status:"
 echo "  kubectl get pods -n nim"
+echo "  kubectl get pods -n nim-operator"
 echo "  kubectl get svc -n nim"
 echo ""
 echo "View logs (example):"
-echo "  kubectl logs -n nim -l app.kubernetes.io/instance=nemotron-nano-nim -f"
+echo "  kubectl logs -n nim -l app=llama-instruct-nim -f"
+echo "  kubectl logs -n nim -l app=embedding-nim -f"
+echo ""
+echo "Note: NIMs may take 5-10 minutes to pull images and start"
+echo "Monitor progress: kubectl get pods -n nim -w"
 echo ""
 echo "Next step: Deploy the AI-Q agent"
 echo "  ./deploy-agent.sh"
