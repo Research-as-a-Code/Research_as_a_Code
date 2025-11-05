@@ -1,0 +1,78 @@
+---
+# Karpenter NodePool for CPU workloads (Milvus, RAG services)
+apiVersion: karpenter.sh/v1beta1
+kind: NodePool
+metadata:
+  name: cpu-workloads
+spec:
+  template:
+    spec:
+      nodeClassRef:
+        name: cpu-workloads
+      requirements:
+        - key: karpenter.sh/capacity-type
+          operator: In
+          values: ["on-demand"]  # Use spot for cost savings: ["spot", "on-demand"]
+        - key: kubernetes.io/arch
+          operator: In
+          values: ["amd64"]
+        - key: karpenter.k8s.aws/instance-category
+          operator: In
+          values: ["c", "m", "r"]  # Compute, general, memory optimized
+        - key: karpenter.k8s.aws/instance-generation
+          operator: Gt
+          values: ["5"]  # Use newer generations (c6i, m6i, r6i, etc)
+  limits:
+    cpu: "100"  # Max 100 vCPUs for CPU workloads
+    memory: "200Gi"
+  disruption:
+    consolidationPolicy: WhenEmptyOrUnderutilized
+    consolidateAfter: 30s
+  weight: 10  # Lower priority than GPU nodepool
+
+---
+# EC2NodeClass for CPU workloads
+apiVersion: karpenter.k8s.aws/v1beta1
+kind: EC2NodeClass
+metadata:
+  name: cpu-workloads
+spec:
+  amiFamily: AL2  # Amazon Linux 2
+  role: "KarpenterNodeRole-aiq-udf-eks"  # Same IAM role
+  
+  subnetSelectorTerms:
+    - tags:
+        karpenter.sh/discovery: "aiq-udf-eks"  # Must match cluster name
+  
+  securityGroupSelectorTerms:
+    - tags:
+        karpenter.sh/discovery: "aiq-udf-eks"
+  
+  # User data for node initialization
+  userData: |
+    #!/bin/bash
+    echo "Starting CPU workload node initialization"
+    
+  # Tags for cost tracking
+  tags:
+    Name: "aiq-udf-eks-cpu-worker"
+    NodeType: "cpu-workloads"
+    ManagedBy: "karpenter"
+    Workload: "milvus-rag"
+
+  # Block device mappings
+  blockDeviceMappings:
+    - deviceName: /dev/xvda
+      ebs:
+        volumeSize: 100Gi
+        volumeType: gp3
+        deleteOnTermination: true
+        encrypted: true
+
+  # Metadata options
+  metadataOptions:
+    httpEndpoint: enabled
+    httpProtocolIPv6: disabled
+    httpPutResponseHopLimit: 2
+    httpTokens: required
+
