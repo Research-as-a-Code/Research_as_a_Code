@@ -55,10 +55,8 @@ class RAGServiceIngestion:
         """Create a new collection in the RAG service"""
         try:
             url = f"{self.rag_ingest_url}/collections"
-            payload = {
-                "collection_name": self.collection_name,
-                "description": "US Harmonized Tariff Schedule - All 99 chapters"
-            }
+            # API expects a list of collection names
+            payload = [self.collection_name]
             
             response = requests.post(url, json=payload, timeout=30)
             
@@ -80,15 +78,34 @@ class RAGServiceIngestion:
     def ingest_pdf(self, pdf_path: Path) -> bool:
         """Ingest a single PDF file into the RAG service"""
         try:
+            import json
             url = f"{self.rag_ingest_url}/documents"
             
-            # Open and send the PDF file
+            # Prepare metadata as JSON string
+            metadata = {
+                "collection_name": self.collection_name,
+                "blocking": False,  # Async ingestion
+                "split_options": {
+                    "chunk_size": 1024,
+                    "chunk_overlap": 150
+                },
+                "custom_metadata": [
+                    {
+                        "filename": pdf_path.name,
+                        "source": f"US Customs Tariff - {pdf_path.name}",
+                        "chapter": pdf_path.stem
+                    }
+                ],
+                "generate_summary": False
+            }
+            
+            # Open and send the PDF file with multipart/form-data
             with open(pdf_path, 'rb') as pdf_file:
                 files = {
-                    'file': (pdf_path.name, pdf_file, 'application/pdf')
+                    'documents': (pdf_path.name, pdf_file, 'application/pdf')
                 }
                 data = {
-                    'collection_name': self.collection_name
+                    'data': json.dumps(metadata)
                 }
                 
                 logger.info(f"📤 Uploading: {pdf_path.name}")
