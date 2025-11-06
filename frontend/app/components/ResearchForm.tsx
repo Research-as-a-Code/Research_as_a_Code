@@ -67,11 +67,11 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     }
   };
 
-  // Example topics
+  // Example topics - US Customs Tariff queries
   const exampleTopics = [
-    "Generate a report on 'NIMs on EKS' and include a cost-benefit analysis",
-    "Analyze the latest developments in quantum computing and their practical applications",
-    "Compare AWS EKS vs Azure AKS for running AI workloads at scale",
+    "What is the tariff for replacement batteries for a Raritan remote management card?",
+    "What's the tariff of Reese's Pieces?",
+    "Tariff of a replacement Roomba vacuum motherboard, used",
   ];
 
   return (
@@ -134,7 +134,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
           value={collection}
           onChange={(e) => setCollection(e.target.value)}
           className="w-full px-4 py-2 bg-gray-900/50 border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/50 transition"
-          placeholder="Enter collection name (leave empty for web-only research)"
+          placeholder="Enter 'us_tariffs' for tariff queries, or leave empty for web-only research"
           disabled={isSubmitting}
         />
       </div>
