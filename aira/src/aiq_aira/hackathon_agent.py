@@ -99,10 +99,12 @@ async def planner_node(state: HackathonAgentState, config: RunnableConfig, write
     prompt_text = state["research_prompt"]
     report_org = state["report_organization"]
     
-    # Planning prompt
-    planning_prompt = f"""Analyze this research request:
+    # Planning prompt template with proper variable escaping
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", "You are a research planning expert."),
+        ("human", """Analyze this research request:
 
-Topic: {prompt_text}
+Topic: {topic}
 Report Organization: {report_org}
 
 Determine if this requires:
@@ -110,12 +112,7 @@ A) SIMPLE_RAG: Standard query-based research (straightforward topic, single doma
 B) DYNAMIC_STRATEGY: Complex multi-step strategy (multiple domains, synthesis needed, cost-benefit analysis)
 
 Respond with JSON:
-{{"strategy": "SIMPLE_RAG" or "DYNAMIC_STRATEGY", "rationale": "brief explanation", "plan": "if DYNAMIC_STRATEGY, outline the research steps"}}
-"""
-    
-    prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are a research planning expert."),
-        ("human", planning_prompt)
+{{"strategy": "SIMPLE_RAG" or "DYNAMIC_STRATEGY", "rationale": "brief explanation", "plan": "if DYNAMIC_STRATEGY, outline the research steps"}}""")
     ])
     
     chain = prompt | llm
@@ -124,7 +121,7 @@ Respond with JSON:
     response_text = ""
     writer({"logs": ["🤔 Analyzing research complexity..."]})
     
-    async for chunk in chain.astream({}):
+    async for chunk in chain.astream({"topic": prompt_text, "report_org": report_org}):
         response_text += chunk.content
         writer({"logs": [chunk.content]})
     
