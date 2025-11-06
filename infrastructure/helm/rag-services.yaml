@@ -120,6 +120,8 @@ spec:
       labels:
         app: rag-ingest-server
     spec:
+      nodeSelector:
+        workload-type: nvidia-nim
       tolerations:
         - key: "nvidia.com/gpu"
           operator: "Exists"

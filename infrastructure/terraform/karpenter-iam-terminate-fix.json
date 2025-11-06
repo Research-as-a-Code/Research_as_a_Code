@@ -1,0 +1,95 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "pricing:GetProducts",
+                "ec2:DescribeSubnets",
+                "ec2:DescribeSpotPriceHistory",
+                "ec2:DescribeSecurityGroups",
+                "ec2:DescribeLaunchTemplates",
+                "ec2:DescribeInstances",
+                "ec2:DescribeInstanceTypes",
+                "ec2:DescribeInstanceTypeOfferings",
+                "ec2:DescribeImages",
+                "ec2:DescribeAvailabilityZones",
+                "ec2:CreateTags",
+                "ec2:CreateLaunchTemplate",
+                "ec2:CreateFleet"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ec2:TerminateInstances",
+                "ec2:DeleteLaunchTemplate"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "ec2:ResourceTag/karpenter.sh/managed-by": "aiq-udf-eks"
+                }
+            },
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "ec2:RunInstances",
+            "Condition": {
+                "StringEquals": {
+                    "ec2:ResourceTag/karpenter.sh/managed-by": "aiq-udf-eks"
+                }
+            },
+            "Resource": "arn:aws:ec2:*:962716963657:launch-template/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "ec2:RunInstances",
+            "Resource": [
+                "arn:aws:ec2:*::snapshot/*",
+                "arn:aws:ec2:*::image/*",
+                "arn:aws:ec2:*:962716963657:volume/*",
+                "arn:aws:ec2:*:962716963657:subnet/*",
+                "arn:aws:ec2:*:962716963657:spot-instances-request/*",
+                "arn:aws:ec2:*:962716963657:security-group/*",
+                "arn:aws:ec2:*:962716963657:network-interface/*",
+                "arn:aws:ec2:*:962716963657:instance/*"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": "ssm:GetParameter",
+            "Resource": "arn:aws:ssm:*:*:parameter/aws/service/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "eks:DescribeCluster",
+            "Resource": "arn:aws:eks:*:962716963657:cluster/aiq-udf-eks"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "iam:PassRole",
+            "Resource": "arn:aws:iam::962716963657:role/Karpenter-aiq-udf-eks-20251105001410250400000017"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iam:GetInstanceProfile",
+                "iam:TagInstanceProfile"
+            ],
+            "Resource": "arn:aws:iam::962716963657:instance-profile/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "sqs:ReceiveMessage",
+                "sqs:GetQueueUrl",
+                "sqs:GetQueueAttributes",
+                "sqs:DeleteMessage"
+            ],
+            "Resource": "arn:aws:sqs:us-west-2:962716963657:Karpenter-aiq-udf-eks"
+        }
+    ]
+}
+

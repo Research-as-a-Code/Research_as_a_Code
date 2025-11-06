@@ -13,12 +13,11 @@ spec:
     metadata:
       labels:
         workload-type: nvidia-nim
-        node.kubernetes.io/instance-type: g5
     spec:
       requirements:
         - key: karpenter.sh/capacity-type
           operator: In
-          values: ["spot", "on-demand"]
+          values: ["on-demand"]  # Use on-demand for reliability
         - key: kubernetes.io/arch
           operator: In
           values: ["amd64"]
@@ -28,7 +27,11 @@ spec:
             - g5.xlarge    # 1x NVIDIA A10G (24GB) - Good for embedding NIM
             - g5.2xlarge   # 1x NVIDIA A10G (24GB) - Good for single NIM
             - g5.4xlarge   # 1x NVIDIA A10G (24GB) - Good for Nemotron
+            - g5.8xlarge   # 1x NVIDIA A10G (24GB) - Good for larger workloads
             - g5.12xlarge  # 4x NVIDIA A10G (96GB) - For multi-NIM on single node
+        - key: karpenter.k8s.aws/instance-family
+          operator: In
+          values: ["g5"]
       nodeClassRef:
         name: nvidia-nim
       taints:
@@ -49,10 +52,10 @@ metadata:
   name: nvidia-nim
 spec:
   amiFamily: AL2
-  role: "KarpenterNodeRole-aiq-udf-eks"  # Update with actual role name from Terraform
+  role: "Karpenter-aiq-udf-eks-20251105001410250400000017"
   subnetSelectorTerms:
     - tags:
-        karpenter.sh/discovery: "aiq-udf-eks"  # Must match cluster name
+        karpenter.sh/discovery: "aiq-udf-eks"
   securityGroupSelectorTerms:
     - tags:
         karpenter.sh/discovery: "aiq-udf-eks"
