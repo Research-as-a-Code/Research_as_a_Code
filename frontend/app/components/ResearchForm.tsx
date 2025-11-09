@@ -11,9 +11,16 @@
 
 import { useState } from "react";
 
+interface ResearchResult {
+  final_report: string;
+  logs: string[];
+  execution_path: string;
+  citations: string;
+}
+
 interface ResearchFormProps {
   onResearchStart: () => void;
-  onResearchComplete: (report: string) => void;
+  onResearchComplete: (result: ResearchResult) => void;
 }
 
 export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFormProps) {
@@ -59,11 +66,21 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       }
 
       const result = await response.json();
-      onResearchComplete(result.final_report || "");
+      onResearchComplete({
+        final_report: result.final_report || "",
+        logs: result.logs || [],
+        execution_path: result.execution_path || "Unknown",
+        citations: result.citations || ""
+      });
     } catch (error) {
       console.error("Research request failed:", error);
       alert(`Research failed: ${error}`);
-      onResearchComplete("");
+      onResearchComplete({
+        final_report: "",
+        logs: [`Error: ${error}`],
+        execution_path: "Error",
+        citations: ""
+      });
     } finally {
       setIsSubmitting(false);
     }

@@ -17,8 +17,17 @@ import { AgentFlowDisplay } from "./components/AgentFlowDisplay";
 import { ResearchForm } from "./components/ResearchForm";
 import { ReportDisplay } from "./components/ReportDisplay";
 
+interface ResearchResult {
+  final_report: string;
+  logs: string[];
+  execution_path: string;
+  citations: string;
+}
+
 export default function Home() {
   const [currentReport, setCurrentReport] = useState<string>("");
+  const [currentLogs, setCurrentLogs] = useState<string[]>([]);
+  const [executionPath, setExecutionPath] = useState<string>("");
   const [isResearching, setIsResearching] = useState<boolean>(false);
 
   return (
@@ -56,9 +65,15 @@ export default function Home() {
               Research Request
             </h2>
             <ResearchForm 
-              onResearchStart={() => setIsResearching(true)}
-              onResearchComplete={(report) => {
-                setCurrentReport(report);
+              onResearchStart={() => {
+                setIsResearching(true);
+                setCurrentLogs([]);
+                setExecutionPath("");
+              }}
+              onResearchComplete={(result) => {
+                setCurrentReport(result.final_report);
+                setCurrentLogs(result.logs);
+                setExecutionPath(result.execution_path);
                 setIsResearching(false);
               }}
             />
@@ -70,7 +85,7 @@ export default function Home() {
               <span className="text-3xl">🤖</span>
               Agentic Flow
             </h2>
-            <AgentFlowDisplay />
+            <AgentFlowDisplay logs={currentLogs} executionPath={executionPath} />
           </div>
         </div>
 
