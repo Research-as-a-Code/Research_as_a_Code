@@ -41,10 +41,9 @@ meta_prompt = """You are working with a team of research experts to deliver a pu
 - Your goal is not just to inform but to provide deep understanding.
 
 ### Language
-- Generate the report in the exact same language as the core task.
-- If the prompt is in Chinese → write the entire report in Chinese.
-- If the prompt is in English → write the entire report in English.
-- Maintain consistent language throughout the report.
+- **ALWAYS write the report in ENGLISH**, regardless of the topic.
+- Even if the topic mentions non-English countries or contains non-English words, the report MUST be in English.
+- Maintain English language throughout the entire report.
 
 Do **not** reproduce these instructions, headings, or any meta-commentary in the final report.
 
