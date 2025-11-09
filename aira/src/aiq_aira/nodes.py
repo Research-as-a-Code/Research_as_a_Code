@@ -131,8 +131,9 @@ async def web_research(
 
     # Determine the queries and state queries based on the type of state.
     # If the state is a list of queries, use them directly.
-    queries = [q.query for q in state.queries]
-    state_queries = state.queries
+    # state is a TypedDict, use dict access
+    queries = [q.query for q in state["queries"]]
+    state_queries = state["queries"]
    
 
     # Process each query concurrently.
@@ -178,8 +179,8 @@ async def summarize_sources(
     report_organization = config["configurable"].get("report_organization")
 
     # The most recent web research
-    most_recent_web_research = state.web_research_results[-1]
-    existing_summary = state.running_summary
+    most_recent_web_research = state["web_research_results"][-1]
+    existing_summary = state["running_summary"]
 
     # -- Call the helper function here --
     updated_report = await summarize_report(
@@ -190,7 +191,8 @@ async def summarize_sources(
         writer=writer
     )
 
-    state.running_summary = updated_report
+    # Update state dict
+    state["running_summary"] = updated_report
 
     writer({"running_summary": updated_report})
     return {"running_summary": updated_report}
@@ -215,7 +217,7 @@ async def reflect_on_summary(state: AIRAState, config: RunnableConfig, writer: S
 
     for i in range(num_reflections):
         input = {
-            "input": reflection_instructions.format(report_organization=report_organization, topic=config["configurable"].get("topic"), report=state.running_summary)
+            "input": reflection_instructions.format(report_organization=report_organization, topic=config["configurable"].get("topic"), report=state["running_summary"])
 
         }
         system_prompt = ""
@@ -247,7 +249,7 @@ async def reflect_on_summary(state: AIRAState, config: RunnableConfig, writer: S
         splitted = result.split("</think>")
         if len(splitted) < 2:
             # If we can't parse anything, just fallback
-            running_summary = state.running_summary
+            running_summary = state["running_summary"]
             writer({"running_summary": running_summary})
             return {"running_summary": running_summary}
 
@@ -283,17 +285,17 @@ async def reflect_on_summary(state: AIRAState, config: RunnableConfig, writer: S
             [rag_citation], [rag_answer], [relevancy], [web_answer], [gen_query]
         )
 
-        state.web_research_results.append(search_str)
+        state["web_research_results"].append(search_str)
         
         if relevancy['score'] == "yes" and rag_citation is not None:
-            state.citations = "\n".join([state.citations, rag_citation])
+            state["citations"] = "\n".join([state["citations"], rag_citation])
 
         if relevancy['score'] != "yes" and web_citation not in ["N/A", ""] and web_citation is not None:
-            state.citations = "\n".join([state.citations, web_citation])
+            state["citations"] = "\n".join([state["citations"], web_citation])
 
         # Most recent web research
-        existing_summary = state.running_summary
-        most_recent_web_research = state.web_research_results[-1]
+        existing_summary = state["running_summary"]
+        most_recent_web_research = state["web_research_results"][-1]
 
         updated_report = await summarize_report(
             existing_summary=existing_summary,
@@ -304,13 +306,13 @@ async def reflect_on_summary(state: AIRAState, config: RunnableConfig, writer: S
         )
 
 
-        state.running_summary = updated_report
+        state["running_summary"] = updated_report
 
         writer({"running_summary": updated_report})
 
-    running_summary = state.running_summary
+    running_summary = state["running_summary"]
     writer({"running_summary": running_summary})
-    return {"running_summary": running_summary, "citations": state.citations}
+    return {"running_summary": running_summary, "citations": state["citations"]}
 
 async def finalize_summary(state: AIRAState, config: RunnableConfig, writer: StreamWriter):
     """
@@ -324,7 +326,7 @@ async def finalize_summary(state: AIRAState, config: RunnableConfig, writer: Str
     
     writer({"final_report": "\n Starting finalization \n"})
 
-    sources_formatted = format_sources(state.citations)
+    sources_formatted = format_sources(state["citations"])
     
     # Final report creation, used to remove any remaing model commentary from the report draft
     finalizer = PromptTemplate.from_template(finalize_report) | llm
@@ -332,16 +334,16 @@ async def finalize_summary(state: AIRAState, config: RunnableConfig, writer: Str
     try:
         async with asyncio.timeout(ASYNC_TIMEOUT*3):
             async for chunk in finalizer.astream({
-                "report": state.running_summary,
+                "report": state["running_summary"],
                 "report_organization": report_organization,
             }, stream_usage=True):
                 final_buf += chunk.content
                 writer({"final_report": chunk.content})
     except asyncio.TimeoutError as e:
         writer({"final_report": " \n \n --------------- \n Timeout error from reasoning LLM during final report creation. Consider restarting report generation. \n \n "})
-        state.running_summary = f"{state.running_summary} \n\n ---- \n\n {sources_formatted}"
-        writer({"finalized_summary": state.running_summary})
-        return {"final_report": state.running_summary, "citations": sources_formatted}
+        state["running_summary"] = f"{state['running_summary']} \n\n ---- \n\n {sources_formatted}"
+        writer({"finalized_summary": state["running_summary"]})
+        return {"final_report": state["running_summary"], "citations": sources_formatted}
     
     # Strip out <think> sections
     while "<think>" in final_buf and "</think>" in final_buf:
@@ -354,6 +356,6 @@ async def finalize_summary(state: AIRAState, config: RunnableConfig, writer: Str
         end = final_buf.find("</think>") + len("</think>")
         final_buf = final_buf[end:]
         
-    state.running_summary = f"{final_buf} \n\n ## Sources \n\n{sources_formatted}"    
-    writer({"finalized_summary": state.running_summary})
-    return {"final_report": state.running_summary, "citations": sources_formatted}
+    state["running_summary"] = f"{final_buf} \n\n ## Sources \n\n{sources_formatted}"    
+    writer({"finalized_summary": state["running_summary"]})
+    return {"final_report": state["running_summary"], "citations": sources_formatted}
