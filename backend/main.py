@@ -217,7 +217,20 @@ async def generate_research(request: ResearchRequest):
     
     # Run agent
     try:
-        final_state = await agent_graph.ainvoke(initial_state, agent_config)
+        # Create per-request config with request parameters
+        request_config = {
+            "configurable": {
+                **agent_config["configurable"],  # Base config (LLMs, etc.)
+                "topic": request.topic,
+                "collection": request.collection,
+                "report_organization": request.report_organization,
+                "search_web": request.search_web
+            }
+        }
+        
+        logger.info(f"Running agent with collection: {request.collection}, search_web: {request.search_web}")
+        
+        final_state = await agent_graph.ainvoke(initial_state, request_config)
         
         # Determine which path was taken
         execution_path = "UDF" if final_state.get("udf_result", {}).get("success") else "Simple RAG"
