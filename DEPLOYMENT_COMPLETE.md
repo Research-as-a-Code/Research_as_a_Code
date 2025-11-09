@@ -38,7 +38,7 @@
 
 #### 3. RAG Blueprint (Namespace: `rag-blueprint`)
 - ✅ **Milvus Vector Database**
-  - Collection: `us_tariff_codes`
+  - Collection: `us_tariffs`
   - Documents: 97 PDFs
   - Status: **OPERATIONAL** ✅
 
