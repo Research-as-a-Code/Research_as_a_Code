@@ -155,10 +155,13 @@ async def process_single_query(
     # Optionally run a web search if the query is not relevant.
     web_answer, web_citation = None, None
     if search_web:
-        
-        if relevancy["score"] == "no":
+        # If no collection specified OR RAG answer not relevant, use web search
+        print(f"🔍 search_utils DEBUG: search_web={search_web}, collection='{collection}', relevancy={relevancy.get('score')}", flush=True)
+        if not collection or relevancy["score"] == "no":
+            print(f"🔍 search_utils DEBUG: Calling search_tavily for query: {query}", flush=True)
             result = await search_tavily(query, writer)
         else:
+            print(f"🔍 search_utils DEBUG: Skipping web search (RAG was relevant)", flush=True)
             result = await dummy()
         if result is not None:
         
