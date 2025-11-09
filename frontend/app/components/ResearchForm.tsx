@@ -39,25 +39,27 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
 
     try {
+      // Use synchronous research endpoint
       const response = await fetch(`${BACKEND_URL}/research`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          topic,
+          topic: topic,
           report_organization: reportOrg,
-          collection,
-          search_web: searchWeb,
+          collection: collection,
+          search_web: searchWeb
         }),
       });
 
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        const errorText = await response.text();
+        throw new Error(`HTTP ${response.status}: ${errorText}`);
       }
 
-      const data = await response.json();
-      onResearchComplete(data.final_report);
+      const result = await response.json();
+      onResearchComplete(result.final_report || "");
     } catch (error) {
       console.error("Research request failed:", error);
       alert(`Research failed: ${error}`);
