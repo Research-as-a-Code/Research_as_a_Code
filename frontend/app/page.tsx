@@ -98,8 +98,8 @@ export default function Home() {
           <div>
             <h3 className="text-white font-semibold mb-2">NVIDIA NIMs</h3>
             <ul className="space-y-1">
-              <li>🧠 Llama-3.3-Nemotron-Super-49B (Reasoning)</li>
-              <li>✍️ Llama-3.3-70B-Instruct (Writing)</li>
+              <li>🧠 Llama-3.1-Nemotron-Nano-8B (Reasoning)</li>
+              <li>✍️ Llama-3.1-Nemotron-Nano-8B (Instruct)</li>
               <li>🔍 NeMo Retriever (Embeddings)</li>
             </ul>
           </div>
