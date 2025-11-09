@@ -37,7 +37,7 @@
 
 ## 📦 RAG Blueprint (Enterprise)
 - **Vector DB**: Milvus Standalone (simplified)
-- **Collection**: `us_tariff_codes`
+- **Collection**: `us_tariffs`
 - **Documents**: 97 PDF files from `data/tariffs`
 - **Status**: ✅ Deployed and operational
 
