@@ -171,6 +171,10 @@ async def web_research(
 
     all_citations = []
     for idx, citation in enumerate(citations):
+        print(f"🔍 web_research DEBUG: Query {idx+1} - relevancy: {relevancy_list[idx]['score']}", flush=True)
+        print(f"🔍 web_research DEBUG: Query {idx+1} - RAG citation length: {len(citation)}", flush=True)
+        print(f"🔍 web_research DEBUG: Query {idx+1} - Web citation length: {len(citations_web[idx])}, value: '{citations_web[idx][:100] if citations_web[idx] else 'EMPTY'}'", flush=True)
+        
         if relevancy_list[idx]["score"] == "yes":
             all_citations.append(citation)
         if relevancy_list[idx]["score"] != "yes" and citations_web[idx] not in ["N/A", ""]:
