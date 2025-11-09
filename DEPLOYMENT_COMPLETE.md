@@ -2,8 +2,10 @@
 
 ## ✅ System Status: FULLY OPERATIONAL
 
-### 🚀 Application URL
+### 🚀 Application URLs
 **Frontend**: http://af2f4f77d44fb4b41bc00856345951e2-974749261.us-west-2.elb.amazonaws.com
+**Backend API Docs**: http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/docs
+**Backend Health**: http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/health
 
 ### 📦 Deployed Components
 

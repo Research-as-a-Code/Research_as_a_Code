@@ -63,43 +63,71 @@ docker build -f backend/Dockerfile -t aiq-agent:latest .
 docker tag aiq-agent:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-agent:latest
 docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-agent:latest
 
-# Build frontend
-echo "Building frontend image..."
-docker build -f frontend/Dockerfile -t aiq-frontend:latest .
-docker tag aiq-frontend:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
-docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
+echo "✅ Backend image built and pushed"
+echo ""
+echo "Note: Frontend will be built after backend LoadBalancer is ready"
 
 cd infrastructure/kubernetes
 
-echo "✅ Docker images built and pushed"
-
-# Step 3: Apply Kubernetes manifests
+# Step 3: Deploy backend only first
 echo ""
-echo "Step 3/5: Applying Kubernetes manifests..."
+echo "Step 3/7: Deploying backend..."
 
-# Replace placeholders in manifest
-export NGC_API_KEY AWS_ACCOUNT_ID AWS_REGION TAVILY_API_KEY
-envsubst < agent-deployment.yaml | kubectl apply -f -
+# Replace placeholders and deploy only backend and namespace
+export NGC_API_KEY AWS_ACCOUNT_ID AWS_REGION TAVILY_API_KEY BACKEND_URL=""
+envsubst < agent-deployment.yaml | kubectl apply -f - --dry-run=client -o yaml > /tmp/agent-full.yaml
 
-echo "✅ Kubernetes manifests applied"
+# Extract and apply only namespace, backend, and backend service
+kubectl apply -f /tmp/agent-full.yaml --selector='!component' 2>/dev/null || true
+kubectl apply -f /tmp/agent-full.yaml --selector='component=backend' 2>/dev/null || true
 
-# Step 4: Wait for deployments
+echo "✅ Backend deployed"
+
+# Step 4: Wait for backend LoadBalancer
 echo ""
-echo "Step 4/5: Waiting for deployments to be ready..."
+echo "Step 4/7: Waiting for backend LoadBalancer..."
 
 kubectl wait --for=condition=available --timeout=300s \
     deployment/aiq-agent-backend -n aiq-agent
 
+echo "Waiting for backend LoadBalancer URL (this may take 2-3 minutes)..."
+kubectl wait --for=jsonpath='{.status.loadBalancer.ingress}' \
+    service/aiq-agent-service -n aiq-agent --timeout=5m
+
+BACKEND_URL=$(kubectl get svc aiq-agent-service -n aiq-agent -o jsonpath='{.status.loadBalancer.ingress[0].hostname}')
+echo "✅ Backend URL: http://$BACKEND_URL"
+
+# Step 5: Build frontend with backend URL
+echo ""
+echo "Step 5/7: Building frontend with backend URL..."
+
+cd ../..
+docker build -f frontend/Dockerfile \
+    --build-arg NEXT_PUBLIC_BACKEND_URL="http://$BACKEND_URL" \
+    -t aiq-frontend:latest .
+docker tag aiq-frontend:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
+docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/aiq-frontend:latest
+
+cd infrastructure/kubernetes
+echo "✅ Frontend image built and pushed"
+
+# Step 6: Deploy frontend
+echo ""
+echo "Step 6/7: Deploying frontend..."
+
+export BACKEND_URL="http://$BACKEND_URL"
+envsubst < agent-deployment.yaml | kubectl apply -f - --selector='component=frontend'
+
 kubectl wait --for=condition=available --timeout=300s \
     deployment/aiq-agent-frontend -n aiq-agent
 
-echo "✅ Deployments ready"
+echo "✅ Frontend deployed"
 
-# Step 5: Get LoadBalancer URL
+# Step 7: Get frontend LoadBalancer URL
 echo ""
-echo "Step 5/5: Retrieving application URL..."
+echo "Step 7/7: Retrieving frontend URL..."
 
-echo "Waiting for LoadBalancer to be assigned (this may take a few minutes)..."
+echo "Waiting for frontend LoadBalancer (this may take 2-3 minutes)..."
 kubectl wait --for=jsonpath='{.status.loadBalancer.ingress}' \
     service/aiq-agent-frontend -n aiq-agent --timeout=5m
 
@@ -110,7 +138,10 @@ echo "=================================================="
 echo "✅ AI-Q + UDF Agent deployed successfully!"
 echo "=================================================="
 echo ""
-echo "Application URL: http://$FRONTEND_URL"
+echo "Application URLs:"
+echo "  Frontend UI:      http://$FRONTEND_URL"
+echo "  Backend API Docs: http://$BACKEND_URL/docs"
+echo "  Backend Health:   http://$BACKEND_URL/health"
 echo ""
 echo "Useful commands:"
 echo "  kubectl get pods -n aiq-agent"
