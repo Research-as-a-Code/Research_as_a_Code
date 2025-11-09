@@ -139,13 +139,15 @@ async def ai_researcher(config: AIResearcherWorkflowConfig, builder: Builder):
         })
         # Streams from generate_queries are not shown unless you stream them directly
         # We'll yield a chunk with the queries
-        yield AIQChatResponseChunk.from_string(f"Queries: {json.dumps(queries_result.queries)}")
+        # queries_result is a dict, not an object - access via dict key
+        queries_list = queries_result.get("queries", [])
+        yield AIQChatResponseChunk.from_string(f"Queries: {json.dumps(queries_list)}")
 
         # Stage 2: Generate summary
         summary_result = await generate_summary.ainvoke({
             "topic": data.topic,
             "report_organization": data.report_organization,
-            "queries": queries_result.queries,
+            "queries": queries_list,
             "search_web": data.search_web,
             "rag_collection": data.rag_collection,
             "llm_name": data.llm_name
@@ -175,11 +177,14 @@ async def ai_researcher(config: AIResearcherWorkflowConfig, builder: Builder):
             "num_queries": data.num_queries,
             "llm_name": data.llm_name
         })
+        # queries_result is a dict, not an object - access via dict key
+        queries_list = queries_result.get("queries", [])
+        
         # Stage 2
         summary_result = await generate_summary.ainvoke({
             "topic": data.topic,
             "report_organization": data.report_organization,
-            "queries": queries_result.queries,
+            "queries": queries_list,
             "search_web": data.search_web,
             "rag_collection": data.rag_collection,
             "llm_name": data.llm_name
