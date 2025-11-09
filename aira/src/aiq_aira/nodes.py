@@ -94,19 +94,27 @@ async def generate_query(state: AIRAState, config: RunnableConfig, writer: Strea
         return {"queries": queries}
 
     # Split to get the final JSON after </think>
-    splitted = answer_agg.split("</think>")
-    if len(splitted) < 2:
-        writer({"generating_questions": " \n \n ---------------- \n \n Timeout error from reasoning LLM, please try again"})
-        logger.info(f"Error processing query response. No </think> tag. Response: {answer_agg}")
-        queries = []
-        return {"queries": queries}
-
-    json_str = splitted[1].strip()
+    print(f"🔍 generate_query DEBUG: LLM response length: {len(answer_agg)}", flush=True)
+    print(f"🔍 generate_query DEBUG: LLM response preview: {answer_agg[:300]}...", flush=True)
+    
+    # Handle both formats: with </think> tag (original) or without (Nemotron)
+    if "</think>" in answer_agg:
+        splitted = answer_agg.split("</think>")
+        json_str = splitted[1].strip()
+        print(f"🔍 generate_query DEBUG: Found </think> tag, using JSON after it", flush=True)
+    else:
+        # No </think> tag - assume entire response is JSON
+        json_str = answer_agg.strip()
+        print(f"🔍 generate_query DEBUG: No </think> tag, treating entire response as JSON", flush=True)
+    
+    print(f"🔍 generate_query DEBUG: JSON string: {json_str[:200]}...", flush=True)
+    
     try:
         queries_raw = parse_json_markdown(json_str)
-        # Convert raw dictionaries to GeneratedQuery objects so validators run
         queries = [GeneratedQuery(**q_dict) for q_dict in queries_raw]
+        print(f"🔍 generate_query DEBUG: Successfully generated {len(queries)} queries", flush=True)
     except Exception as e:
+        print(f"🔍 generate_query DEBUG: ERROR parsing JSON: {e}", flush=True)
         logger.error(f"Error parsing or validating queries: {e}")
         queries = []
 
@@ -138,7 +146,10 @@ async def web_research(
     # state is a TypedDict, use dict access
     queries = [q.query for q in state["queries"]]
     state_queries = state["queries"]
-   
+    
+    print(f"🔍 web_research DEBUG: Processing {len(queries)} queries", flush=True)
+    for i, q in enumerate(queries):
+        print(f"🔍 web_research DEBUG: Query {i+1}: {q[:100]}", flush=True)
 
     # Process each query concurrently.
     results = await asyncio.gather(*[
@@ -167,6 +178,10 @@ async def web_research(
 
     all_citations = set(all_citations) # remove duplicates
     citation_str = "\n".join(all_citations)
+    
+    print(f"🔍 web_research DEBUG: Collected {len(all_citations)} citations", flush=True)
+    print(f"🔍 web_research DEBUG: Citation preview: {citation_str[:200]}...", flush=True)
+    
     return {"citations": citation_str, "web_research_results": [search_str]}
 
 
@@ -329,10 +344,12 @@ async def finalize_summary(state: AIRAState, config: RunnableConfig, writer: Str
     llm = config["configurable"].get("llm")
     report_organization = config["configurable"].get("report_organization")
 
+    print(f"🔍 finalize_summary DEBUG: Citations in state: {len(state.get('citations', ''))} chars", flush=True)
     
     writer({"final_report": "\n Starting finalization \n"})
 
     sources_formatted = format_sources(state["citations"])
+    print(f"🔍 finalize_summary DEBUG: Formatted sources: {len(sources_formatted)} chars", flush=True)
     
     # Final report creation, used to remove any remaing model commentary from the report draft
     finalizer = PromptTemplate.from_template(finalize_report) | llm
