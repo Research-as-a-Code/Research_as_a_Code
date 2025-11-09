@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 # Script to deploy NVIDIA NIMs using Helm charts
-# Deploys: Nemotron (reasoning), Llama 3.3 (instruct), Embedding NIM
+# Deploys: Nemotron-Nano-8B (reasoning/instruct), Embedding NIM
 
 set -e
 
@@ -76,7 +76,7 @@ echo "=================================================="
 echo "Deploying NIMs using operator..."
 echo "=================================================="
 
-# Create a NIM deployment manifest for Llama 3.3 70B Instruct (smaller, more practical)
+# Create a NIM deployment manifest for Nemotron-Nano-8B (Hackathon requirement)
 cat <<EOF | kubectl apply -f -
 apiVersion: apps/v1
 kind: Deployment
@@ -95,7 +95,7 @@ spec:
     spec:
       containers:
       - name: nim
-        image: nvcr.io/nim/meta/llama-3.3-70b-instruct:latest
+        image: nvcr.io/nim/nvidia/llama-3.1-nemotron-nano-8b-v1:latest
         env:
         - name: NGC_API_KEY
           valueFrom:
@@ -211,7 +211,7 @@ echo "✅ All NVIDIA NIMs deployed successfully!"
 echo "=================================================="
 echo ""
 echo "Deployed NIMs:"
-echo "  1. Llama 3.3 Instruct  → instruct-llm-service.nim.svc.cluster.local:8000"
+echo "  1. Nemotron-Nano-8B    → instruct-llm-service.nim.svc.cluster.local:8000"
 echo "  2. Embedding NIM       → embedding-service.nim.svc.cluster.local:8000"
 echo ""
 echo "Check status:"
