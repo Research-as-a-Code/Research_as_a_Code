@@ -350,10 +350,11 @@ def create_hackathon_agent_graph() -> StateGraph:
     # Final report goes to END
     workflow.add_edge("final_report", END)
     
-    # Compile the graph
-    compiled_graph = workflow.compile()
+    # Compile the graph with a checkpointer (required for CopilotKit state streaming)
+    from langgraph.checkpoint.memory import MemorySaver
+    compiled_graph = workflow.compile(checkpointer=MemorySaver())
     
-    logger.info("Hackathon agent graph compiled successfully")
+    logger.info("Hackathon agent graph compiled successfully with checkpointer")
     return compiled_graph
 
 
