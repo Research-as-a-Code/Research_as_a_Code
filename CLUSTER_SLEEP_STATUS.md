@@ -35,27 +35,31 @@
 
 ## ☀️ To Wake Up Tomorrow:
 
-### Quick Start (5-10 minutes):
+### Quick Start (Fully Automated - ~10 minutes):
 ```bash
 cd /home/csaba/repos/AIML/Research_as_a_Code
 ./scripts/wake-cluster.sh
 ```
 
-This will:
-1. Scale up all deployments
-2. Karpenter will auto-provision GPU nodes (~3-5 min)
-3. Pods will start (~2-5 min)
-4. NIMs will load models (~5-10 min)
-5. Display service URLs when ready
+**The script now handles everything automatically:**
+1. ✅ Scales up all deployments (agent + NIMs)
+2. ✅ Waits for Karpenter to provision GPU nodes (~3-5 min)
+3. ✅ Waits for pods to start (~2-3 min)
+4. ✅ Waits for NIMs to load models and be ready (~5-10 min)
+5. ✅ Verifies NIMs are actually serving requests (health checks)
+6. ✅ Displays service URLs when everything is ready
 
-### Manual Alternative:
+**When the script completes, your system is 100% ready to use immediately!** 🎉
+
+### Manual Alternative (if needed):
 ```bash
 # Scale up agent
 kubectl scale deployment aiq-agent-backend --replicas=2 -n aiq-agent
 kubectl scale deployment aiq-agent-frontend --replicas=2 -n aiq-agent
 
-# Scale up NIMs
-kubectl scale deployment instruct-llm-nim --replicas=1 -n nim
+# Scale up NIMs (FIXED: correct names)
+kubectl scale deployment llama-instruct-nim --replicas=1 -n nim
+kubectl scale deployment embedding-nim --replicas=1 -n nim
 
 # Watch nodes being provisioned
 kubectl get nodes -w
@@ -75,6 +79,9 @@ kubectl get svc -n aiq-agent
 4. **Generic responses** - Request parameters not passed to agent
 5. **Chinese responses** - Language enforcement in prompts
 6. **TypedDict access** - Fixed object vs dict attribute access
+7. **GUI footer models** - Updated to show correct Nemotron-Nano-8B
+8. **Wake script bug** - Fixed deployment names and added NIM readiness checks
+9. **Deploy script** - Fixed double `http://` prefix in output
 
 ### ✅ Current System Status:
 - ✅ **Web Search**: WORKING with Tavily API
