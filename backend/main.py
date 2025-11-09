@@ -23,8 +23,8 @@ from pydantic import BaseModel, Field
 
 # CopilotKit SDK
 try:
-    from copilotkit import CopilotKit
-    from copilotkit.langchain import copilotkit_customize_config
+    from copilotkit import CopilotKitSDK
+    from copilotkit.integrations.fastapi import add_fastapi_endpoint
     COPILOTKIT_AVAILABLE = True
 except ImportError:
     COPILOTKIT_AVAILABLE = False
@@ -115,6 +115,42 @@ async def lifespan(app: FastAPI):
     )
     
     logger.info("✅ AI-Q + UDF Agent initialized successfully")
+    
+    # Initialize CopilotKit after agent is created
+    if COPILOTKIT_AVAILABLE:
+        logger.info("Integrating CopilotKit for real-time state streaming")
+        
+        # Create the LangGraph AGUI agent
+        from copilotkit import LangGraphAGUIAgent
+        langgraph_agent = LangGraphAGUIAgent(
+            name="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
+            description="AI-Q Research Assistant with Universal Deep Research",
+            graph=agent_graph,
+            config=agent_config
+        )
+        
+        # Add dict_repr method if missing (compatibility fix for copilotkit 0.1.70)
+        if not hasattr(langgraph_agent, 'dict_repr'):
+            def dict_repr_method(self):
+                return {
+                    'name': self.name,
+                    'description': self.description or ''
+                }
+            langgraph_agent.dict_repr = dict_repr_method.__get__(langgraph_agent, type(langgraph_agent))
+        
+        # Initialize CopilotKit SDK with the agent
+        copilot_sdk = CopilotKitSDK(agents=[langgraph_agent])
+        
+        # Add FastAPI endpoint
+        add_fastapi_endpoint(
+            fastapi_app=app,
+            sdk=copilot_sdk,
+            prefix="/copilotkit"
+        )
+        
+        logger.info("✅ CopilotKit endpoint registered at /copilotkit")
+    else:
+        logger.warning("⚠️ CopilotKit not available - real-time streaming disabled")
     
     yield
     
@@ -247,33 +283,6 @@ async def generate_research(request: ResearchRequest):
     except Exception as e:
         logger.error(f"Research generation failed: {e}", exc_info=True)
         raise HTTPException(status_code=500, detail=f"Research generation failed: {str(e)}")
-
-
-# ========================================
-# CopilotKit Integration
-# ========================================
-
-if COPILOTKIT_AVAILABLE:
-    logger.info("Integrating CopilotKit for real-time state streaming")
-    
-    # Initialize CopilotKit SDK
-    copilot = CopilotKit()
-    
-    # Add LangGraph endpoint
-    # This creates a /copilotkit POST endpoint that streams agent state
-    copilot.add_langgraph_endpoint(
-        app_id="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
-        endpoint="/copilotkit",
-        graph=lambda: agent_graph,  # Pass graph factory
-        config_factory=lambda: agent_config
-    )
-    
-    # Include CopilotKit router in FastAPI app
-    app.include_router(copilot.router)
-    
-    logger.info("✅ CopilotKit endpoint registered at POST /copilotkit")
-else:
-    logger.warning("⚠️ CopilotKit not available - real-time streaming disabled")
 
 
 # ========================================
