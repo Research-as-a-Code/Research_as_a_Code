@@ -160,13 +160,20 @@ async def process_single_query(
         if not collection or relevancy["score"] == "no":
             print(f"🔍 search_utils DEBUG: Calling search_tavily for query: {query}", flush=True)
             result = await search_tavily(query, writer)
+            print(f"🔍 search_utils DEBUG: Tavily returned {len(result) if result else 0} results", flush=True)
+            if result and len(result) > 0:
+                print(f"🔍 search_utils DEBUG: First result keys: {result[0].keys()}", flush=True)
+                if 'score' in result[0]:
+                    print(f"🔍 search_utils DEBUG: First result score: {result[0]['score']}", flush=True)
+                else:
+                    print(f"🔍 search_utils DEBUG: No 'score' field in results!", flush=True)
         else:
             print(f"🔍 search_utils DEBUG: Skipping web search (RAG was relevant)", flush=True)
             result = await dummy()
         if result is not None:
         
             web_answers = [ 
-                res['content'] if 'score' in res and float(res['score']) > 0.6 else "" 
+                res['content'] if 'content' in res else "" 
                 for res in result
             ]
 
@@ -183,25 +190,30 @@ CITATION:
 {res['url'].strip()}
 
 """
-                if 'score' in res and float(res['score']) > 0.6 else "" 
+                if 'content' in res and 'url' in res else "" 
                 for res in result
             ]
 
             web_answer = "\n".join(web_answers)
             web_citation = "\n".join(web_citations)
+            
+            print(f"🔍 search_utils DEBUG: web_answer length: {len(web_answer)}, web_citation length: {len(web_citation)}", flush=True)
 
             # guard against the case where no relevant answers are found
             if bool(re.fullmatch(r"\n*", web_answer)):
                 web_answer = "No relevant result found in web search"
                 web_citation = ""
+                print(f"🔍 search_utils DEBUG: No relevant results (empty web_answer)", flush=True)
 
         else:
             web_answer = "Web not searched since RAG provided relevant answer for query"
             web_citation = ""
+            print(f"🔍 search_utils DEBUG: result was None", flush=True)
 
         # citation includes the answer
         web_result_to_stream = web_citation if web_citation != "" else f"--- \n {web_answer} \n "
         
         writer({"web_answer": web_result_to_stream})
 
+    print(f"🔍 search_utils DEBUG: Returning - web_citation length: {len(web_citation) if web_citation else 0}", flush=True)
     return rag_answer, rag_citation, relevancy, web_answer, web_citation
