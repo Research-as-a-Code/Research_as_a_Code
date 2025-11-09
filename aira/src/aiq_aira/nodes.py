@@ -52,6 +52,8 @@ async def generate_query(state: AIRAState, config: RunnableConfig, writer: Strea
     number_of_queries = config["configurable"].get("number_of_queries")
     report_organization = config["configurable"].get("report_organization")
     topic = config["configurable"].get("topic")
+    
+    print(f"🔍 generate_query DEBUG: topic={topic}, report_org={report_organization}", flush=True)
 
     system_prompt = ""
     system_prompt = update_system_prompt(system_prompt, llm)
@@ -128,6 +130,8 @@ async def web_research(
     llm = config["configurable"].get("llm")
     search_web = config["configurable"].get("search_web")
     collection = config["configurable"].get("collection")
+    
+    print(f"🔍 web_research DEBUG: collection={collection}, search_web={search_web}", flush=True)
 
     # Determine the queries and state queries based on the type of state.
     # If the state is a list of queries, use them directly.
@@ -177,6 +181,8 @@ async def summarize_sources(
     logger.info("SUMMARIZE")
     llm = config["configurable"].get("llm")
     report_organization = config["configurable"].get("report_organization")
+    
+    print(f"🔍 summarize_sources DEBUG: report_organization={report_organization}", flush=True)
 
     # The most recent web research
     most_recent_web_research = state["web_research_results"][-1]

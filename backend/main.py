@@ -196,6 +196,7 @@ async def generate_research(request: ResearchRequest):
     if not agent_graph:
         raise HTTPException(status_code=503, detail="Agent not initialized")
     
+    print(f"🔍 DEBUG: Research request received: {request.topic[:50]}...", flush=True)
     logger.info(f"Research request: {request.topic[:50]}...")
     
     # Prepare initial state
@@ -228,9 +229,11 @@ async def generate_research(request: ResearchRequest):
             }
         }
         
+        print(f"🔍 DEBUG: Running agent with collection={request.collection}, search_web={request.search_web}, topic={request.topic}", flush=True)
         logger.info(f"Running agent with collection: {request.collection}, search_web: {request.search_web}")
         
         final_state = await agent_graph.ainvoke(initial_state, request_config)
+        print(f"🔍 DEBUG: Agent completed, execution_path will be determined", flush=True)
         
         # Determine which path was taken
         execution_path = "UDF" if final_state.get("udf_result", {}).get("success") else "Simple RAG"
