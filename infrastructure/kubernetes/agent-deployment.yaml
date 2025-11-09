@@ -95,6 +95,8 @@ metadata:
   namespace: aiq-agent
   labels:
     app: aiq-agent
+  annotations:
+    service.beta.kubernetes.io/aws-load-balancer-type: "nlb"  # Use NLB to avoid security group conflicts
 spec:
   selector:
     app: aiq-agent
@@ -104,7 +106,7 @@ spec:
     targetPort: 8000
     protocol: TCP
     name: http
-  type: ClusterIP
+  type: LoadBalancer  # Expose backend publicly for browser access
 
 ---
 # Frontend Deployment
@@ -138,7 +140,7 @@ spec:
           name: http
         env:
         - name: NEXT_PUBLIC_BACKEND_URL
-          value: "http://aiq-agent-service.aiq-agent.svc.cluster.local"
+          value: "${BACKEND_URL}"  # Will be replaced by deploy script with actual LoadBalancer URL
         resources:
           requests:
             cpu: "500m"

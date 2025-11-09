@@ -1,0 +1,10 @@
+# Current Backend URLs (after fix)
+
+Backend NLB: af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com
+
+Health Check: http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/health
+API Docs: http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/docs
+
+Frontend URL (still needs backend update): http://af2f4f77d44fb4b41bc00856345951e2-974749261.us-west-2.elb.amazonaws.com
+
+To rebuild frontend with correct backend URL, I'll update the deployment now...
