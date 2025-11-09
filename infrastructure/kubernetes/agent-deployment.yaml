@@ -20,7 +20,7 @@ data:
   NEMOTRON_NIM_URL: "http://nemotron-nano-service.nim.svc.cluster.local:8000"
   INSTRUCT_LLM_URL: "http://instruct-llm-service.nim.svc.cluster.local:8000"
   EMBEDDING_NIM_URL: "http://embedding-service.nim.svc.cluster.local:8000"
-  RAG_SERVER_URL: "http://rag-server.rag.svc.cluster.local:8081/v1"
+  RAG_SERVER_URL: "http://rag-query-server.rag-blueprint.svc.cluster.local:8081/v1"
 
 ---
 apiVersion: v1
