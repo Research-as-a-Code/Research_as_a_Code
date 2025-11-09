@@ -129,7 +129,7 @@ async def lifespan(app: FastAPI):
             config=agent_config
         )
         
-        # Add dict_repr method if missing (compatibility fix for copilotkit 0.1.70)
+        # Add compatibility methods if missing (compatibility fixes for copilotkit 0.1.70)
         if not hasattr(langgraph_agent, 'dict_repr'):
             def dict_repr_method(self):
                 return {
@@ -137,6 +137,53 @@ async def lifespan(app: FastAPI):
                     'description': self.description or ''
                 }
             langgraph_agent.dict_repr = dict_repr_method.__get__(langgraph_agent, type(langgraph_agent))
+        
+        # Add execute method that wraps the run method
+        if not hasattr(langgraph_agent, 'execute'):
+            async def execute_method(self, *, state, config=None, messages, thread_id, node_name=None, actions=None, meta_events=None, **kwargs):
+                """
+                Execute method that wraps LangGraphAGUIAgent.run()
+                This bridges the gap between Agent.execute() and LangGraphAGUIAgent.run()
+                """
+                import uuid
+                import json
+                from ag_ui.core.types import RunAgentInput
+                
+                logger.info(f"✅ execute_method called! thread_id={thread_id}, node_name={node_name}")
+                
+                # Convert CopilotKit format to AG-UI format (using camelCase field names)
+                try:
+                    agent_input = RunAgentInput(
+                        state=state,
+                        messages=messages,
+                        threadId=thread_id,
+                        runId=str(uuid.uuid4()),  # Generate unique run ID
+                        tools=[],  # Empty tools list
+                        context=[],  # Empty context list
+                        forwardedProps={}  # Empty forwarded props
+                    )
+                    
+                    logger.info("✅ RunAgentInput created successfully, calling agent.run()")
+                    
+                    # Run the agent and convert events to JSON strings  
+                    async for event in self.run(agent_input):
+                        # Check if event is already a string or needs serialization
+                        if isinstance(event, str):
+                            # Already a string, ensure it has a newline
+                            if not event.endswith("\n"):
+                                yield event + "\n"
+                            else:
+                                yield event
+                        else:
+                            # Event is a Pydantic model, serialize it to JSON
+                            event_json = json.dumps(event.model_dump()) + "\n"
+                            yield event_json
+                        
+                except Exception as e:
+                    logger.error(f"❌ Error in execute_method: {e}", exc_info=True)
+                    raise
+            
+            langgraph_agent.execute = execute_method.__get__(langgraph_agent, type(langgraph_agent))
         
         # Initialize CopilotKit SDK with the agent
         copilot_sdk = CopilotKitSDK(agents=[langgraph_agent])
@@ -255,15 +302,26 @@ async def generate_research(request: ResearchRequest):
     # Run agent
     try:
         # Create per-request config with request parameters
+        import uuid
+        thread_id = f"research-{uuid.uuid4().hex[:8]}"
+        
+        # Build request config by merging base agent_config with request params
+        if not agent_config or "configurable" not in agent_config:
+            logger.error(f"❌ agent_config is invalid: {agent_config}")
+            raise ValueError("Agent config not properly initialized")
+        
         request_config = {
             "configurable": {
-                **agent_config["configurable"],  # Base config (LLMs, etc.)
+                **agent_config.get("configurable", {}),  # Base config (LLMs, etc.)
+                "thread_id": thread_id,  # Required by MemorySaver checkpointer
                 "topic": request.topic,
                 "collection": request.collection,
                 "report_organization": request.report_organization,
                 "search_web": request.search_web
             }
         }
+        
+        logger.info(f"✅ Request config created with thread_id={thread_id}")
         
         print(f"🔍 DEBUG: Running agent with collection={request.collection}, search_web={request.search_web}, topic={request.topic}", flush=True)
         logger.info(f"Running agent with collection: {request.collection}, search_web: {request.search_web}")
