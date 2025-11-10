@@ -4,23 +4,18 @@
 /**
  * Research Form Component
  * 
- * Allows users to input research parameters and submit requests.
+ * Submits research requests to the backend /research endpoint.
+ * The backend agent state streams through CopilotKit's SSE connection
+ * and updates are received by AgentFlowDisplay via useCoAgentStateRender.
  */
 
 "use client";
 
 import { useState } from "react";
 
-interface ResearchResult {
-  final_report: string;
-  logs: string[];
-  execution_path: string;
-  citations: string;
-}
-
 interface ResearchFormProps {
   onResearchStart: () => void;
-  onResearchComplete: (result: ResearchResult) => void;
+  onResearchComplete: (report: string) => void;
 }
 
 export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFormProps) {
@@ -46,7 +41,9 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
 
     try {
-      // Use synchronous research endpoint
+      // Call the synchronous /research endpoint
+      // The backend agent will emit state updates through CopilotKit SSE
+      // which AgentFlowDisplay will receive via useCoAgentStateRender
       const response = await fetch(`${BACKEND_URL}/research`, {
         method: "POST",
         headers: {
@@ -66,21 +63,11 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       }
 
       const result = await response.json();
-      onResearchComplete({
-        final_report: result.final_report || "",
-        logs: result.logs || [],
-        execution_path: result.execution_path || "Unknown",
-        citations: result.citations || ""
-      });
+      onResearchComplete(result.final_report || "");
     } catch (error) {
       console.error("Research request failed:", error);
       alert(`Research failed: ${error}`);
-      onResearchComplete({
-        final_report: "",
-        logs: [`Error: ${error}`],
-        execution_path: "Error",
-        citations: ""
-      });
+      onResearchComplete("");
     } finally {
       setIsSubmitting(false);
     }

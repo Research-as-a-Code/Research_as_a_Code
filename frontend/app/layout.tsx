@@ -31,7 +31,7 @@ export default function RootLayout({
       </head>
       <body>
         <CopilotKit
-          runtimeUrl={`${BACKEND_URL}/copilotkit`}
+          runtimeUrl={`${BACKEND_URL}/copilotkit/`}
           agent="ai_q_researcher"
         >
           <div className="app-container">

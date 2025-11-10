@@ -46,33 +46,28 @@ interface AgentState {
   logs: string[];
 }
 
-interface AgentFlowDisplayProps {
-  logs?: string[];
-  executionPath?: string;
-}
-
-export function AgentFlowDisplay({ logs: propLogs, executionPath: propExecutionPath }: AgentFlowDisplayProps) {
+export function AgentFlowDisplay() {
   const [flowHistory, setFlowHistory] = useState<string[]>([]);
   const [currentPhase, setCurrentPhase] = useState<string>("Idle");
 
   // Subscribe to agent state with useCoAgentStateRender
-  // The name "ai_q_researcher" MUST match the app_id in backend main.py
+  // The name "ai_q_researcher" MUST match the backend agent name
+  // State updates stream in real-time through /copilotkit SSE connection
   useCoAgentStateRender<AgentState>({
     name: "ai_q_researcher",
     render: ({ state }) => {
-      // This render function is called every time the agent state updates
+      // This render function is called every time the agent state updates via SSE
       
-      // Fallback to props if CopilotKit state is not available
-      const logs = state?.logs && state.logs.length > 0 ? state.logs : (propLogs || []);
-      const udfStrategy = state?.udf_strategy || (propExecutionPath === "UDF" ? "Dynamic UDF" : "");
-      
-      if (logs.length === 0) {
+      if (!state || !state.logs || state.logs.length === 0) {
         return (
           <div className="text-gray-400 italic">
             Agent is idle. Submit a research request to begin.
           </div>
         );
       }
+
+      const logs = state.logs;
+      const udfStrategy = state.udf_strategy || "";
 
       // Determine current phase from logs
       const latestLog = logs[logs.length - 1] || "";
@@ -107,11 +102,11 @@ export function AgentFlowDisplay({ logs: propLogs, executionPath: propExecutionP
           </div>
 
           {/* Strategy Path Indicator */}
-          {(state?.plan || propExecutionPath) && (
+          {state.plan && (
             <div className="bg-purple-900/50 border border-purple-500 rounded-lg p-4">
               <div className="text-sm text-purple-300 mb-2">Strategy Selected</div>
               <div className="text-white">
-                {udfStrategy || propExecutionPath === "UDF" ? (
+                {udfStrategy ? (
                   <span className="inline-flex items-center gap-2">
                     <span className="text-2xl">🚀</span>
                     <span className="font-semibold">Dynamic UDF Strategy</span>
@@ -145,7 +140,7 @@ export function AgentFlowDisplay({ logs: propLogs, executionPath: propExecutionP
           </div>
 
           {/* Queries Display (if available) */}
-          {state?.queries && state.queries.length > 0 && (
+          {state.queries && state.queries.length > 0 && (
             <div className="bg-green-900/30 border border-green-500 rounded-lg p-4">
               <div className="text-sm text-green-300 mb-2 font-semibold">
                 Generated Queries ({state.queries.length})
@@ -161,7 +156,7 @@ export function AgentFlowDisplay({ logs: propLogs, executionPath: propExecutionP
           )}
 
           {/* UDF Result Display (if available) */}
-          {state?.udf_result && state.udf_result.success && (
+          {state.udf_result && state.udf_result.success && (
             <div className="bg-yellow-900/30 border border-yellow-500 rounded-lg p-4">
               <div className="text-sm text-yellow-300 mb-2 font-semibold">
                 UDF Execution Result
@@ -178,7 +173,7 @@ export function AgentFlowDisplay({ logs: propLogs, executionPath: propExecutionP
           )}
 
           {/* Final Report Ready Indicator */}
-          {state?.final_report && state.final_report.length > 0 && (
+          {state.final_report && state.final_report.length > 0 && (
             <div className="bg-emerald-900/50 border border-emerald-500 rounded-lg p-4">
               <div className="text-emerald-300 font-semibold flex items-center gap-2">
                 <span className="text-2xl">🎉</span>
