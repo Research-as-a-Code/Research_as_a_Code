@@ -10,7 +10,7 @@
 
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useAgentStream } from "../contexts/AgentStreamContext";
 
 interface ResearchFormProps {
@@ -27,6 +27,18 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
   const [searchWeb, setSearchWeb] = useState(true);
   
   const { state, startStream } = useAgentStream();
+  const wasProcessing = useRef(false);
+
+  // Watch for streaming completion
+  useEffect(() => {
+    // If we were processing and now we're not, and we have a report
+    if (wasProcessing.current && !state.isProcessing && state.final_report) {
+      onResearchComplete(state.final_report);
+      wasProcessing.current = false;
+    } else if (state.isProcessing) {
+      wasProcessing.current = true;
+    }
+  }, [state.isProcessing, state.final_report, onResearchComplete]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -37,6 +49,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     }
 
     onResearchStart();
+    wasProcessing.current = true;
 
     // Start streaming request
     await startStream({
@@ -45,11 +58,6 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       collection: collection,
       search_web: searchWeb,
     });
-
-    // When streaming completes, notify parent
-    if (state.final_report) {
-      onResearchComplete(state.final_report);
-    }
   };
 
   // Example topics - US Customs Tariff queries
