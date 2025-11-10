@@ -9,7 +9,7 @@ WORKDIR /app
 
 # Install dependencies
 COPY frontend/package.json frontend/package-lock.json* ./
-RUN npm ci
+RUN npm install
 
 # Builder stage
 FROM node:18-alpine AS builder
