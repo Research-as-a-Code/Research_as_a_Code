@@ -2,17 +2,13 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /**
- * Root Layout with CopilotKit Provider
+ * Root Layout - Stable Version
  * 
- * This component wraps the entire application with CopilotKit,
- * enabling real-time agent state streaming from the FastAPI backend.
+ * CopilotKit SSE temporarily disabled to resolve page load crash.
+ * Uses synchronous HTTP for reliable operation.
+ * TODO: Investigate SSE "[Network] No Content" error separately.
  */
 
-"use client";
-
-import { CopilotKit } from "@copilotkit/react-core";
-import { CopilotPopup } from "@copilotkit/react-ui";
-import "@copilotkit/react-ui/styles.css";
 import "./globals.css";
 
 export default function RootLayout({
@@ -20,9 +16,6 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  // Backend URL - change this based on your deployment
-  const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
-
   return (
     <html lang="en">
       <head>
@@ -30,16 +23,9 @@ export default function RootLayout({
         <meta name="description" content="Enhanced NVIDIA AI-Q agent with Universal Deep Research for complex multi-domain research" />
       </head>
       <body>
-        <CopilotKit
-          runtimeUrl={`${BACKEND_URL}/copilotkit/`}
-          agent="ai_q_researcher"
-        >
-          <div className="app-container">
-            {children}
-          </div>
-          {/* CopilotPopup provides the chat bubble UI */}
-          <CopilotPopup />
-        </CopilotKit>
+        <div className="app-container">
+          {children}
+        </div>
       </body>
     </html>
   );
