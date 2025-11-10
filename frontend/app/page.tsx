@@ -46,7 +46,7 @@ export default function Home() {
         </div>
       </header>
 
-      <div className="container mx-auto px-6 py-8 grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="container mx-auto px-6 py-8 grid grid-cols-1 lg:grid-cols-2 gap-8 min-h-[calc(100vh-16rem)]">
         {/* Left Column: Research Form and Agent Flow */}
         <div className="space-y-6">
           {/* Research Form */}
@@ -75,12 +75,14 @@ export default function Home() {
         </div>
 
         {/* Right Column: Report Display */}
-        <div className="bg-gray-800/50 backdrop-blur-lg rounded-lg p-6 shadow-2xl border border-gray-700">
+        <div className="bg-gray-800/50 backdrop-blur-lg rounded-lg p-6 shadow-2xl border border-gray-700 flex flex-col">
           <h2 className="text-2xl font-semibold mb-4 flex items-center gap-2">
             <span className="text-3xl">📄</span>
             Research Report
           </h2>
-          <ReportDisplay report={currentReport} isLoading={isResearching} />
+          <div className="flex-1 min-h-0">
+            <ReportDisplay report={currentReport} isLoading={isResearching} />
+          </div>
         </div>
       </div>
 
