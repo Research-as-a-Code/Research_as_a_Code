@@ -268,6 +268,94 @@ async def health_check():
     }
 
 
+@app.post("/research/stream")
+async def generate_research_stream(request: ResearchRequest):
+    """
+    Generate research report with real-time SSE streaming of agent state.
+    
+    This endpoint streams intermediate states as Server-Sent Events,
+    allowing the frontend to display real-time progress updates.
+    """
+    from fastapi.responses import StreamingResponse
+    import json
+    import uuid
+    
+    if not agent_graph:
+        raise HTTPException(status_code=503, detail="Agent not initialized")
+    
+    logger.info(f"Streaming research request: {request.topic[:50]}...")
+    
+    async def event_stream():
+        """Generator that yields SSE events with agent state updates."""
+        try:
+            # Prepare initial state
+            initial_state: HackathonAgentState = {
+                "research_prompt": request.topic,
+                "report_organization": request.report_organization,
+                "collection": request.collection,
+                "search_web": request.search_web,
+                "plan": "",
+                "queries": [],
+                "web_research_results": [],
+                "citations": "",
+                "running_summary": "",
+                "udf_strategy": "",
+                "udf_result": {},
+                "final_report": "",
+                "logs": []
+            }
+            
+            # Create per-request config
+            thread_id = f"research-{uuid.uuid4().hex[:8]}"
+            request_config = {
+                "configurable": {
+                    **agent_config.get("configurable", {}),
+                    "thread_id": thread_id,
+                    "topic": request.topic,
+                    "collection": request.collection,
+                    "report_organization": request.report_organization,
+                    "search_web": request.search_web
+                }
+            }
+            
+            # Stream agent execution
+            async for event in agent_graph.astream(initial_state, request_config):
+                # Each event is a dict with node name as key and state update as value
+                for node_name, state_update in event.items():
+                    # Send SSE event with node name and updated state
+                    event_data = {
+                        "node": node_name,
+                        "state": state_update,
+                        "type": "update"
+                    }
+                    yield f"data: {json.dumps(event_data)}\n\n"
+            
+            # Send final completion event
+            completion_event = {
+                "type": "complete",
+                "message": "Research generation complete"
+            }
+            yield f"data: {json.dumps(completion_event)}\n\n"
+            
+        except Exception as e:
+            logger.error(f"Stream error: {e}", exc_info=True)
+            error_event = {
+                "type": "error",
+                "message": str(e)
+            }
+            yield f"data: {json.dumps(error_event)}\n\n"
+    
+    return StreamingResponse(
+        event_stream(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no"  # Disable nginx buffering
+        }
+    )
+
+
 @app.post("/research", response_model=ResearchResponse)
 async def generate_research(request: ResearchRequest):
     """

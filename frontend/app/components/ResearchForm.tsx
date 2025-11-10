@@ -2,16 +2,16 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /**
- * Research Form Component
+ * Research Form Component with Real-Time Streaming
  * 
- * Submits research requests to the backend /research endpoint.
- * The backend agent state streams through CopilotKit's SSE connection
- * and updates are received by AgentFlowDisplay via useCoAgentStateRender.
+ * Uses AgentStreamContext to start streaming research requests.
+ * Real-time updates appear in the AgentFlowDisplay component.
  */
 
 "use client";
 
 import { useState } from "react";
+import { useAgentStream } from "../contexts/AgentStreamContext";
 
 interface ResearchFormProps {
   onResearchStart: () => void;
@@ -25,7 +25,8 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
   );
   const [collection, setCollection] = useState("");
   const [searchWeb, setSearchWeb] = useState(true);
-  const [isSubmitting, setIsSubmitting] = useState(false);
+  
+  const { state, startStream } = useAgentStream();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -35,41 +36,19 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       return;
     }
 
-    setIsSubmitting(true);
     onResearchStart();
 
-    const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+    // Start streaming request
+    await startStream({
+      topic: topic,
+      report_organization: reportOrg,
+      collection: collection,
+      search_web: searchWeb,
+    });
 
-    try {
-      // Call the synchronous /research endpoint
-      // The backend agent will emit state updates through CopilotKit SSE
-      // which AgentFlowDisplay will receive via useCoAgentStateRender
-      const response = await fetch(`${BACKEND_URL}/research`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          topic: topic,
-          report_organization: reportOrg,
-          collection: collection,
-          search_web: searchWeb
-        }),
-      });
-
-      if (!response.ok) {
-        const errorText = await response.text();
-        throw new Error(`HTTP ${response.status}: ${errorText}`);
-      }
-
-      const result = await response.json();
-      onResearchComplete(result.final_report || "");
-    } catch (error) {
-      console.error("Research request failed:", error);
-      alert(`Research failed: ${error}`);
-      onResearchComplete("");
-    } finally {
-      setIsSubmitting(false);
+    // When streaming completes, notify parent
+    if (state.final_report) {
+      onResearchComplete(state.final_report);
     }
   };
 
@@ -78,37 +57,39 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     "What is the tariff for replacement batteries for a Raritan remote management card?",
     "What's the tariff of Reese's Pieces?",
     "Tariff of a replacement Roomba vacuum motherboard, used",
+    "What are typical import duties for electronics from China?",
+    "What tariff codes apply to semiconductors?"
   ];
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-4">
-      {/* Topic Input */}
+    <form onSubmit={handleSubmit} className="space-y-6">
+      {/* Research Topic */}
       <div>
-        <label className="block text-sm font-medium text-gray-300 mb-2">
+        <label htmlFor="topic" className="block text-sm font-medium text-gray-200 mb-2">
           Research Topic *
         </label>
         <textarea
+          id="topic"
           value={topic}
           onChange={(e) => setTopic(e.target.value)}
-          className="w-full px-4 py-3 bg-gray-900/50 border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/50 transition"
+          placeholder="Enter your research topic..."
+          className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
           rows={3}
-          placeholder="Enter your research question or topic..."
-          disabled={isSubmitting}
+          required
         />
         
         {/* Example Topics */}
-        <div className="mt-2">
-          <div className="text-xs text-gray-400 mb-1">Quick examples:</div>
-          <div className="flex flex-wrap gap-2">
+        <div className="mt-2 text-xs text-gray-400">
+          <span className="font-semibold">Examples:</span>
+          <div className="mt-1 space-y-1">
             {exampleTopics.map((example, idx) => (
               <button
                 key={idx}
                 type="button"
                 onClick={() => setTopic(example)}
-                className="text-xs bg-blue-900/30 hover:bg-blue-800/50 text-blue-300 px-3 py-1 rounded-full transition"
-                disabled={isSubmitting}
+                className="block text-blue-400 hover:text-blue-300 hover:underline text-left"
               >
-                {example.slice(0, 40)}...
+                • {example}
               </button>
             ))}
           </div>
@@ -117,75 +98,97 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
 
       {/* Report Organization */}
       <div>
-        <label className="block text-sm font-medium text-gray-300 mb-2">
+        <label htmlFor="reportOrg" className="block text-sm font-medium text-gray-200 mb-2">
           Report Organization
         </label>
-        <input
-          type="text"
+        <textarea
+          id="reportOrg"
           value={reportOrg}
           onChange={(e) => setReportOrg(e.target.value)}
-          className="w-full px-4 py-2 bg-gray-900/50 border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/50 transition"
-          placeholder="Describe the desired report structure..."
-          disabled={isSubmitting}
+          className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
+          rows={2}
         />
       </div>
 
-      {/* Collection (Optional) */}
+      {/* Collection Name */}
       <div>
-        <label className="block text-sm font-medium text-gray-300 mb-2">
-          RAG Collection (Optional)
+        <label htmlFor="collection" className="block text-sm font-medium text-gray-200 mb-2">
+          RAG Collection Name
         </label>
         <input
           type="text"
+          id="collection"
           value={collection}
           onChange={(e) => setCollection(e.target.value)}
-          className="w-full px-4 py-2 bg-gray-900/50 border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/50 transition"
-          placeholder="Enter 'us_tariffs' for tariff queries, or leave empty for web-only research"
-          disabled={isSubmitting}
+          placeholder="us_tariffs"
+          className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
         />
+        <p className="mt-2 text-xs text-gray-400">
+          Leave empty for web search only. Use <span className="font-mono bg-gray-700 px-1 rounded">us_tariffs</span> for tariff documents.
+        </p>
       </div>
 
       {/* Search Web Checkbox */}
-      <div className="flex items-center gap-2">
+      <div className="flex items-center">
         <input
           type="checkbox"
           id="searchWeb"
           checked={searchWeb}
           onChange={(e) => setSearchWeb(e.target.checked)}
-          className="w-4 h-4 text-blue-500 bg-gray-900 border-gray-600 rounded focus:ring-2 focus:ring-blue-500"
-          disabled={isSubmitting}
+          className="w-4 h-4 text-blue-600 bg-gray-700 border-gray-600 rounded focus:ring-blue-500 focus:ring-2"
         />
-        <label htmlFor="searchWeb" className="text-sm text-gray-300">
-          Include web search (Tavily)
+        <label htmlFor="searchWeb" className="ml-2 text-sm font-medium text-gray-200">
+          Search the Web (Tavily API)
         </label>
       </div>
 
       {/* Submit Button */}
       <button
         type="submit"
-        disabled={isSubmitting || !topic.trim()}
+        disabled={state.isProcessing}
         className={`w-full py-3 px-6 rounded-lg font-semibold text-white transition-all ${
-          isSubmitting || !topic.trim()
-            ? "bg-gray-700 cursor-not-allowed"
-            : "bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
+          state.isProcessing
+            ? "bg-gray-600 cursor-not-allowed"
+            : "bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 shadow-lg hover:shadow-xl"
         }`}
       >
-        {isSubmitting ? (
+        {state.isProcessing ? (
           <span className="flex items-center justify-center gap-2">
             <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
-              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+              <circle
+                className="opacity-25"
+                cx="12"
+                cy="12"
+                r="10"
+                stroke="currentColor"
+                strokeWidth="4"
+                fill="none"
+              />
+              <path
+                className="opacity-75"
+                fill="currentColor"
+                d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+              />
             </svg>
-            Researching...
+            Processing...
           </span>
         ) : (
-          <span className="flex items-center justify-center gap-2">
-            <span className="text-xl">🚀</span>
-            Start Research
-          </span>
+          "Start Research"
         )}
       </button>
+
+      {/* Status Note */}
+      {state.isProcessing && (
+        <div className="text-sm text-blue-400 text-center animate-pulse">
+          🔄 Agent is working... Watch the Agentic Flow panel for real-time updates!
+        </div>
+      )}
+      
+      {state.error && (
+        <div className="text-sm text-red-400 text-center">
+          ❌ Error: {state.error}
+        </div>
+      )}
     </form>
   );
 }
-

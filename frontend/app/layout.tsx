@@ -2,13 +2,14 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /**
- * Root Layout - Stable Version
+ * Root Layout with Real-Time Streaming
  * 
- * CopilotKit SSE temporarily disabled to resolve page load crash.
- * Uses synchronous HTTP for reliable operation.
- * TODO: Investigate SSE "[Network] No Content" error separately.
+ * Provides AgentStreamContext for real-time SSE updates from /research/stream endpoint.
  */
 
+"use client";
+
+import { AgentStreamProvider } from "./contexts/AgentStreamContext";
 import "./globals.css";
 
 export default function RootLayout({
@@ -23,11 +24,12 @@ export default function RootLayout({
         <meta name="description" content="Enhanced NVIDIA AI-Q agent with Universal Deep Research for complex multi-domain research" />
       </head>
       <body>
-        <div className="app-container">
-          {children}
-        </div>
+        <AgentStreamProvider>
+          <div className="app-container">
+            {children}
+          </div>
+        </AgentStreamProvider>
       </body>
     </html>
   );
 }
-
