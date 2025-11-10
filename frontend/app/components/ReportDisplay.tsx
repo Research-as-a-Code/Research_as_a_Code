@@ -41,9 +41,9 @@ export function ReportDisplay({ report, isLoading }: ReportDisplayProps) {
   }
 
   return (
-    <div className="space-y-4">
+    <div className="flex flex-col h-full space-y-4">
       {/* Download Button */}
-      <div className="flex justify-end">
+      <div className="flex justify-end flex-shrink-0">
         <button
           onClick={() => {
             const blob = new Blob([report], { type: "text/markdown" });
@@ -64,7 +64,7 @@ export function ReportDisplay({ report, isLoading }: ReportDisplayProps) {
       </div>
 
       {/* Report Content with Markdown Rendering */}
-      <div className="prose prose-invert prose-blue max-w-none bg-gray-900/50 rounded-lg p-6 overflow-y-auto max-h-[70vh]">
+      <div className="flex-1 prose prose-invert prose-blue max-w-none bg-gray-900/50 rounded-lg p-6 overflow-y-auto min-h-0">
         <ReactMarkdown
           components={{
             h1: ({ node, ...props }) => <h1 className="text-3xl font-bold text-white mb-4" {...props} />,
