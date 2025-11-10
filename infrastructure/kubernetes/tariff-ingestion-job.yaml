@@ -1,0 +1,192 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
+# SPDX-License-Identifier: Apache-2.0
+
+# Kubernetes Job to ingest tariff PDFs into Milvus
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ingest-script
+  namespace: rag-blueprint
+data:
+  ingest_tariffs.py: |
+    #!/usr/bin/env python3
+    """Tariff PDF Ingestion Script for Milvus"""
+    import os
+    import sys
+    import time
+    from pathlib import Path
+    from typing import List
+    import httpx
+    from pymilvus import connections, Collection, CollectionSchema, FieldSchema, DataType, utility
+
+    # Configuration
+    MILVUS_HOST = os.getenv("MILVUS_HOST", "milvus")
+    MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
+    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+    COLLECTION_NAME = "us_tariffs"
+    EMBEDDING_DIM = 1024
+    CHUNK_SIZE = 500
+    CHUNK_OVERLAP = 100
+
+    def extract_text_from_pdf(pdf_path: str) -> str:
+        try:
+            import PyPDF2
+            text = ""
+            with open(pdf_path, 'rb') as file:
+                pdf_reader = PyPDF2.PdfReader(file)
+                for page in pdf_reader.pages:
+                    text += page.extract_text() + "\n"
+            return text
+        except Exception as e:
+            print(f"  ⚠️  Error: {e}")
+            return ""
+
+    def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> List[str]:
+        chunks = []
+        start = 0
+        while start < len(text):
+            end = start + chunk_size
+            chunk = text[start:end].strip()
+            if len(chunk) > 50:
+                chunks.append(chunk)
+            start += (chunk_size - overlap)
+        return chunks
+
+    def get_embeddings(texts: List[str], nim_url: str) -> List[List[float]]:
+        try:
+            response = httpx.post(
+                f"{nim_url}/v1/embeddings",
+                json={"input": texts, "model": "nvidia/nv-embedqa-e5-v5", "input_type": "passage"},
+                timeout=60.0
+            )
+            response.raise_for_status()
+            return [item["embedding"] for item in response.json()["data"]]
+        except Exception as e:
+            print(f"  ❌ Embedding error: {e}")
+            return []
+
+    def create_collection():
+        print(f"🔧 Setting up collection: {COLLECTION_NAME}")
+        if utility.has_collection(COLLECTION_NAME):
+            print("  Dropping existing collection...")
+            utility.drop_collection(COLLECTION_NAME)
+        
+        fields = [
+            FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
+            FieldSchema(name="embedding", dtype=DataType.FLOAT_VECTOR, dim=EMBEDDING_DIM),
+            FieldSchema(name="text", dtype=DataType.VARCHAR, max_length=65535),
+            FieldSchema(name="source", dtype=DataType.VARCHAR, max_length=512)
+        ]
+        
+        schema = CollectionSchema(fields, description="US Tariff Code collection")
+        collection = Collection(COLLECTION_NAME, schema)
+        
+        index_params = {"metric_type": "L2", "index_type": "IVF_FLAT", "params": {"nlist": 128}}
+        collection.create_index("embedding", index_params)
+        print("  ✅ Collection created!")
+        return collection
+
+    def ingest_pdfs(pdf_dir: str):
+        print("🚀 Starting ingestion...\n")
+        print(f"🔌 Connecting to Milvus at {MILVUS_HOST}:{MILVUS_PORT}")
+        connections.connect(alias="default", host=MILVUS_HOST, port=MILVUS_PORT)
+        print("  ✅ Connected!\n")
+        
+        collection = create_collection()
+        pdf_files = sorted(Path(pdf_dir).glob("*.pdf"))
+        total_files = len(pdf_files)
+        print(f"📚 Found {total_files} PDFs\n")
+        
+        all_embeddings, all_texts, all_sources = [], [], []
+        batch_size = 10
+        
+        for idx, pdf_path in enumerate(pdf_files, 1):
+            filename = pdf_path.name
+            print(f"[{idx}/{total_files}] {filename}")
+            
+            text = extract_text_from_pdf(str(pdf_path))
+            if len(text) < 100:
+                continue
+            
+            chunks = chunk_text(text)
+            print(f"  📄 {len(chunks)} chunks")
+            
+            for i in range(0, len(chunks), batch_size):
+                batch = chunks[i:i + batch_size]
+                embeddings = get_embeddings(batch, EMBEDDING_NIM_URL)
+                
+                if len(embeddings) == len(batch):
+                    all_embeddings.extend(embeddings)
+                    all_texts.extend(batch)
+                    all_sources.extend([filename] * len(batch))
+                time.sleep(0.1)
+            
+            if idx % 50 == 0:
+                print(f"\n💾 Inserting {len(all_embeddings)} chunks...")
+                collection.insert([all_embeddings, all_texts, all_sources])
+                collection.flush()
+                all_embeddings, all_texts, all_sources = [], [], []
+        
+        if all_embeddings:
+            print(f"\n💾 Inserting final {len(all_embeddings)} chunks...")
+            collection.insert([all_embeddings, all_texts, all_sources])
+            collection.flush()
+        
+        collection.load()
+        print(f"\n✅ COMPLETE! Total chunks: {collection.num_entities}\n")
+
+    if __name__ == "__main__":
+        os.system("pip install PyPDF2 > /dev/null 2>&1")
+        import PyPDF2
+        ingest_pdfs("/data/tariffs")
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: tariff-ingestion
+  namespace: rag-blueprint
+spec:
+  ttlSecondsAfterFinished: 3600  # Keep logs for 1 hour
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+      - name: ingestion
+        image: ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/aiq-agent:latest
+        command: ["/bin/bash", "-c"]
+        args:
+          - |
+            echo "🚀 Tariff PDF Ingestion Job"
+            echo "=============================="
+            python3 /scripts/ingest_tariffs.py
+        env:
+        - name: MILVUS_HOST
+          value: "milvus"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        volumeMounts:
+        - name: script
+          mountPath: /scripts
+        - name: tariff-data
+          mountPath: /data/tariffs
+        resources:
+          requests:
+            cpu: "250m"
+            memory: "512Mi"
+          limits:
+            cpu: "1"
+            memory: "2Gi"
+      volumes:
+      - name: script
+        configMap:
+          name: ingest-script
+          defaultMode: 0755
+      - name: tariff-data
+        hostPath:
+          path: /home/csaba/repos/AIML/Research_as_a_Code/data/tariffs
+          type: Directory
+

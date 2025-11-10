@@ -59,7 +59,7 @@ async def search_rag(
         # Get embedding from NIM
         embedding_payload = {
             "input": prompt,
-            "model": "nvidia/nv-embedqa-e5-v5",
+            "model": "snowflake/arctic-embed-l",
             "input_type": "query"
         }
         
@@ -89,8 +89,12 @@ async def search_rag(
             citations_parts = []
             
             for i, hit in enumerate(results[0]):
-                text = hit.entity.get("text", "")
-                source = hit.entity.get("source", f"Doc {i+1}")
+                try:
+                    text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
+                    source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
+                except Exception:
+                    text = str(hit.entity.get('text', ''))
+                    source = str(hit.entity.get('source', f"Doc {i+1}"))
                 content_parts.append(f"[{i+1}] {text}")
                 citations_parts.append(source)
             
