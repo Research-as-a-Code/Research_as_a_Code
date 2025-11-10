@@ -55,8 +55,8 @@ class Config:
     INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "http://instruct-llm.nim.svc.cluster.local:8000")
     EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
     
-    # RAG Service
-    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", "http://rag-server:8081/v1")
+    # RAG uses direct Milvus integration - search_rag expects embedding NIM URL
+    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000"))
     
     # Tavily API Key (for web search)
     TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
