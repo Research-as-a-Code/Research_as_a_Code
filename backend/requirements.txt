@@ -35,6 +35,9 @@ litellm==1.74.3
 # Web Search (Tavily)
 tavily-python==0.5.0
 
+# Vector Database (Milvus)
+pymilvus==2.4.9
+
 # Data Processing
 # pydantic-core version managed by pydantic itself
 PyYAML==6.0.2

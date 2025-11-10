@@ -28,85 +28,93 @@ logger = logging.getLogger(__name__)
 
 async def search_rag(
     session: aiohttp.ClientSession,
-    url: str,
+    url: str,  # Embedding NIM URL
     prompt: str,
     writer: StreamWriter,
     collection: str
 ):
     """
-    Calls a RAG endpoint at `url`, passing `prompt` and referencing `collection`.
-    Returns a tuple (content, citations).
+    Direct Milvus + NIM search: Gets embeddings from NIM, queries Milvus, returns top results.
     """ 
-    writer({"rag_answer": "\n Performing RAG search \n"})
-    logger.info("RAG SEARCH")
-    headers = {
-        "accept": "application/json",
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {RAG_API_KEY}"
-    }
-    data = {
-        "messages": [
-            {"role": "user", "content": prompt}
-        ],
-        "use_knowledge_base": True,
-        "enable_citations": True,
-        "collection_name": collection
-    }
-    req_url = urljoin(url, "generate")
-    try:
-        citations = ""
-        async with asyncio.timeout(ASYNC_TIMEOUT):
-            async with session.post(req_url, headers=headers, json=data) as response:
-                logger.info(f"RAG SEARCH with {req_url} and {data}")
-                response.raise_for_status()
-                raw_result = await response.text()
-                content = ""
-                # Parse line-by-line, as RAG might stream
-                for line in raw_result.splitlines():
-                    if line.startswith("data: "):
-                        event_data = line[6:]  # Remove "data: "
-                        full_result = json.loads(event_data)
-                        content += full_result["choices"][0]["message"]["content"]
-                        if "citations" in full_result:
-                            if "results" in full_result["citations"]:
-                                citations_raw = full_result["citations"]["results"]
-                                cited_docs = [
-                                    (
-                                        f"{c['document_name']}"
-                                        if c['document_type'] == 'text'
-                                        else ""
-                                    )
-                                    for c in citations_raw
-                                ]
-                                citations += ",".join(cited_docs)
-                citations = f"""
----
-QUERY: 
-{prompt}
-
-ANSWER: 
-{content}
-
-CITATION:
-{citations}
-
-"""                
-                return (content, citations)
-    except asyncio.TimeoutError:
-        writer({"rag_answer": f"""
--------------
-Timeout getting RAG answer for question {prompt} 
-"""
-                })
-        return (f"Timeout fetching {req_url}:", "")        
-    except Exception as e:
-        writer({"rag_answer": f"""
--------------
-Error getting RAG answer for question {prompt} 
-"""
-                })
-        return (f"Error fetching {req_url}: {e}", "")
+    writer({"rag_answer": "\n Performing RAG search with Milvus \n"})
+    logger.info(f"RAG SEARCH (Direct Milvus) - collection: {collection}")
     
+    try:
+        from pymilvus import connections, Collection, utility
+        import os
+        import json
+        
+        # Get Milvus connection info
+        milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
+        milvus_port = os.getenv("MILVUS_PORT", "19530")
+        
+        # Connect to Milvus
+        connections.connect(alias="default", host=milvus_host, port=milvus_port)
+        
+        # Check if collection exists
+        if not utility.has_collection(collection):
+            logger.warning(f"Collection '{collection}' does not exist")
+            return ("No RAG collection found", "")
+        
+        # Get embedding from NIM
+        embedding_payload = {
+            "input": prompt,
+            "model": "nvidia/nv-embedqa-e5-v5",
+            "input_type": "query"
+        }
+        
+        async with asyncio.timeout(ASYNC_TIMEOUT):
+            async with session.post(f"{url}/v1/embeddings", json=embedding_payload) as embed_response:
+                embed_response.raise_for_status()
+                embed_result = await embed_response.json()
+                query_embedding = embed_result["data"][0]["embedding"]
+            
+            # Query Milvus
+            coll = Collection(collection)
+            coll.load()
+            
+            search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+            results = coll.search(
+                data=[query_embedding],
+                anns_field="embedding",
+                param=search_params,
+                limit=4,
+                output_fields=["text", "source"]
+            )
+            
+            if not results or len(results[0]) == 0:
+                return ("No relevant documents found", "")
+            
+            content_parts = []
+            citations_parts = []
+            
+            for i, hit in enumerate(results[0]):
+                text = hit.entity.get("text", "")
+                source = hit.entity.get("source", f"Doc {i+1}")
+                content_parts.append(f"[{i+1}] {text}")
+                citations_parts.append(source)
+            
+            content = "\n\n".join(content_parts)
+            citations_str = "\n".join(citations_parts)
+            
+            citations = f"""
+---
+QUERY: {prompt}
+ANSWER: {content}
+CITATIONS: {citations_str}
+---
+"""
+            logger.info(f"RAG found {len(results[0])} results")
+            return (content, citations)
+            
+    except asyncio.TimeoutError:
+        writer({"rag_answer": "Timeout in RAG search"})
+        return ("Timeout fetching RAG", "")        
+    except Exception as e:
+        writer({"rag_answer": f"Error: {str(e)}"})
+        logger.error(f"RAG error: {e}", exc_info=True)
+        return (f"Error: {e}", "")
+
 
 
 async def search_tavily(prompt: str, writer: StreamWriter):

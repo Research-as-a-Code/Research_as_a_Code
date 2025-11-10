@@ -1,0 +1,120 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
+# SPDX-License-Identifier: Apache-2.0
+
+# NVIDIA RAG Chain Server Deployment
+# This provides the RAG query and ingestion API for document retrieval
+
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: chain-server-config
+  namespace: rag-blueprint
+data:
+  # Milvus connection
+  APP_VECTORSTORE_URL: "http://milvus:19530"
+  APP_VECTORSTORE_NAME: "milvus"
+  
+  # NIM endpoints (connect to existing NIMs in nim namespace)
+  APP_LLM_SERVERURL: "http://llama-instruct-nim.nim.svc.cluster.local:8000"
+  APP_EMBEDDINGS_SERVERURL: "http://embedding-nim.nim.svc.cluster.local:8000"
+  
+  # Model configuration
+  APP_LLM_MODELNAME: "nvidia/llama-3.1-nemotron-nano-8b-v1"
+  APP_LLM_MODELENGINE: "nvidia-ai-endpoints"
+  APP_EMBEDDINGS_MODELNAME: "nvidia/nv-embedqa-e5-v5"
+  APP_EMBEDDINGS_MODELENGINE: "nvidia-ai-endpoints"
+  
+  # Text splitter settings
+  APP_TEXTSPLITTER_MODELNAME: "Snowflake/snowflake-arctic-embed-l"
+  APP_TEXTSPLITTER_CHUNKSIZE: "506"
+  APP_TEXTSPLITTER_CHUNKOVERLAP: "200"
+  
+  # Default collection name
+  COLLECTION_NAME: "us_tariffs"
+  
+  # Retriever settings
+  APP_RETRIEVER_TOPK: "4"
+  APP_RETRIEVER_SCORETHRESHOLD: "0.25"
+  
+  # Logging
+  LOGLEVEL: "INFO"
+  
+  # Observability (disabled for now)
+  ENABLE_TRACING: "false"
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: chain-server
+  namespace: rag-blueprint
+  labels:
+    app: chain-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: chain-server
+  template:
+    metadata:
+      labels:
+        app: chain-server
+    spec:
+      containers:
+      - name: chain-server
+        # Using NVIDIA's pre-built chain-server image
+        # If not available, we'll build from the GenerativeAIExamples repo
+        image: 962716963657.dkr.ecr.us-west-2.amazonaws.com/chain-server:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8081
+          name: http
+        envFrom:
+        - configMapRef:
+            name: chain-server-config
+        env:
+        - name: NVIDIA_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: nvidia-api-key
+              key: api-key
+              optional: true
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "100m"
+          limits:
+            memory: "1Gi"
+            cpu: "500m"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8081
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8081
+          initialDelaySeconds: 10
+          periodSeconds: 5
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: chain-server
+  namespace: rag-blueprint
+  labels:
+    app: chain-server
+spec:
+  type: ClusterIP
+  selector:
+    app: chain-server
+  ports:
+  - port: 8081
+    targetPort: 8081
+    protocol: TCP
+    name: http
+
