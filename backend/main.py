@@ -287,7 +287,16 @@ async def generate_research_stream(request: ResearchRequest):
     
     async def event_stream():
         """Generator that yields SSE events with agent state updates."""
+        import asyncio
+        import time
+        
+        last_event_time = time.time()
+        keepalive_interval = 15  # Send keepalive every 15 seconds
+        
         try:
+            # Send initial connection event
+            yield f": connected\n\n"
+            
             # Prepare initial state
             initial_state: HackathonAgentState = {
                 "research_prompt": request.topic,
@@ -318,8 +327,16 @@ async def generate_research_stream(request: ResearchRequest):
                 }
             }
             
+            logger.info(f"🔄 Starting stream for thread_id={thread_id}")
+            
             # Stream agent execution
             async for event in agent_graph.astream(initial_state, request_config):
+                # Check if we need to send keepalive
+                current_time = time.time()
+                if current_time - last_event_time > keepalive_interval:
+                    yield f": keepalive\n\n"
+                    last_event_time = current_time
+                
                 # Each event is a dict with node name as key and state update as value
                 for node_name, state_update in event.items():
                     # Send SSE event with node name and updated state
@@ -329,16 +346,24 @@ async def generate_research_stream(request: ResearchRequest):
                         "type": "update"
                     }
                     yield f"data: {json.dumps(event_data)}\n\n"
+                    last_event_time = current_time
+                    
+                    # Yield control to allow other async operations
+                    await asyncio.sleep(0)
             
             # Send final completion event
+            logger.info(f"✅ Stream completed for thread_id={thread_id}")
             completion_event = {
                 "type": "complete",
                 "message": "Research generation complete"
             }
             yield f"data: {json.dumps(completion_event)}\n\n"
             
+        except asyncio.CancelledError:
+            logger.warning(f"⚠️ Stream cancelled for thread_id={thread_id}")
+            raise
         except Exception as e:
-            logger.error(f"Stream error: {e}", exc_info=True)
+            logger.error(f"❌ Stream error for thread_id={thread_id}: {e}", exc_info=True)
             error_event = {
                 "type": "error",
                 "message": str(e)

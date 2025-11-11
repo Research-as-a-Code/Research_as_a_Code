@@ -120,6 +120,11 @@ export function CopilotAgentDisplay({
           buffer = lines.pop() || "";
 
           for (const line of lines) {
+            // Skip empty lines and SSE comments (keepalive)
+            if (!line || line.startsWith(":")) {
+              continue;
+            }
+            
             if (line.startsWith("data: ")) {
               try {
                 const data = JSON.parse(line.substring(6));
@@ -147,16 +152,24 @@ export function CopilotAgentDisplay({
                   throw new Error(data.message);
                 }
               } catch (e) {
-                console.error("Error parsing SSE:", e);
+                console.error("Error parsing SSE event:", e, "Line:", line);
               }
             }
           }
         }
 
         return `✅ Research completed! Generated ${finalReport.length} characters.`;
-      } catch (error) {
+      } catch (error: any) {
         console.error("❌ Research failed:", error);
         setAgentState(prev => ({ ...prev, isProcessing: false }));
+        
+        // Handle specific streaming errors
+        if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
+          throw new Error("Connection lost during research. Please try again.");
+        } else if (error.message?.includes('ERR_INCOMPLETE_CHUNKED_ENCODING')) {
+          throw new Error("Stream was interrupted. The backend may have timed out. Try a simpler query.");
+        }
+        
         throw error;
       }
     },
