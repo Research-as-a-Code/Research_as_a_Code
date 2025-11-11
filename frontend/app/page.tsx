@@ -13,7 +13,7 @@
 "use client";
 
 import { useState } from "react";
-import { AgentFlowDisplay } from "./components/AgentFlowDisplay";
+import { CopilotAgentDisplay } from "./components/CopilotAgentDisplay";
 import { ResearchForm } from "./components/ResearchForm";
 import { ReportDisplay } from "./components/ReportDisplay";
 
@@ -64,13 +64,19 @@ export default function Home() {
             />
           </div>
 
-          {/* Agent Flow Visualization */}
+          {/* Agent Flow Visualization - Powered by CopilotKit AG-UI */}
           <div className="bg-gray-800/50 backdrop-blur-lg rounded-lg p-6 shadow-2xl border border-gray-700">
             <h2 className="text-2xl font-semibold mb-4 flex items-center gap-2">
               <span className="text-3xl">🤖</span>
-              Agentic Flow
+              Agentic Flow (CopilotKit AG-UI)
             </h2>
-            <AgentFlowDisplay />
+            <CopilotAgentDisplay 
+              onResearchStart={() => setIsResearching(true)}
+              onResearchComplete={(report) => {
+                setCurrentReport(report);
+                setIsResearching(false);
+              }}
+            />
           </div>
         </div>
 
