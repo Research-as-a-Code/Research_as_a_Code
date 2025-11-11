@@ -11,7 +11,7 @@
 "use client";
 
 import { useState } from "react";
-import { useCopilotAction } from "@copilotkit/react-core";
+import { useCopilotResearch } from "../contexts/CopilotResearchContext";
 
 interface ResearchFormProps {
   onResearchStart: () => void;
@@ -26,6 +26,8 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
   const [collection, setCollection] = useState("");
   const [searchWeb, setSearchWeb] = useState(true);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  
+  const { triggerResearch } = useCopilotResearch();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -36,37 +38,18 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     }
 
     setIsSubmitting(true);
-    onResearchStart();
-
-    try {
-      const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
-
-      // Call streaming endpoint
-      const response = await fetch(`${BACKEND_URL}/research/stream`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          topic: topic,
-          report_organization: reportOrg,
-          collection: collection,
-          search_web: searchWeb,
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}`);
-      }
-
-      // This will be handled by the CopilotAgentDisplay component
-      // which listens to the same stream
-    } catch (error) {
-      console.error("Research failed:", error);
-      alert(`Research failed: ${error}`);
-    } finally {
-      setIsSubmitting(false);
-    }
+    
+    // Trigger the CopilotKit action via context
+    // This will be picked up by CopilotAgentDisplay's useEffect
+    triggerResearch({
+      topic,
+      report_organization: reportOrg,
+      collection,
+      search_web: searchWeb,
+    });
+    
+    // Reset after a delay (action will handle actual execution)
+    setTimeout(() => setIsSubmitting(false), 1000);
   };
 
   // Example topics - US Customs Tariff queries

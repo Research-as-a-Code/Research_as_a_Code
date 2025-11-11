@@ -12,10 +12,8 @@
 "use client";
 
 import { CopilotKit } from "@copilotkit/react-core";
-import { CopilotSidebar } from "@copilotkit/react-ui";
-import { AgentStreamProvider } from "./contexts/AgentStreamContext";
+import { CopilotResearchProvider } from "./contexts/CopilotResearchContext";
 import "./globals.css";
-import "@copilotkit/react-ui/styles.css";
 
 export default function RootLayout({
   children,
@@ -36,18 +34,11 @@ export default function RootLayout({
           agent="ai_q_researcher"
           showDevConsole={false}
         >
-          <CopilotSidebar
-            defaultOpen={false}
-            clickOutsideToClose={true}
-            labels={{
-              title: "AI-Q Research Assistant",
-              initial: "Ask me to research any topic! I can search the web and RAG collections.",
-            }}
-          >
+          <CopilotResearchProvider>
             <div className="app-container">
               {children}
             </div>
-          </CopilotSidebar>
+          </CopilotResearchProvider>
         </CopilotKit>
       </body>
     </html>
