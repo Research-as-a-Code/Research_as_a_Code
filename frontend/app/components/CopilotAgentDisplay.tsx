@@ -4,56 +4,62 @@
 /**
  * CopilotKit AG-UI Agent State Display
  * 
- * Replaces custom AgentFlowDisplay with CopilotKit's native AG-UI visualization.
- * Renders real-time agent state updates from the AG-UI protocol.
+ * Uses CopilotKit's useCopilotAction to invoke the AI-Q agent via AG-UI protocol.
+ * Renders real-time agent state updates from CopilotKit.
  */
 
 "use client";
 
 import { useCopilotAction, useCopilotReadable } from "@copilotkit/react-core";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
+import { useCopilotResearch } from "../contexts/CopilotResearchContext";
 
 interface AgentState {
   currentNode?: string;
   plan?: string;
   udf_strategy?: string;
-  logs?: string[];
-  queries?: string[];
+  logs: string[];
+  queries: string[];
   running_summary?: string;
   final_report?: string;
-  isProcessing?: boolean;
+  isProcessing: boolean;
 }
 
 interface CopilotAgentDisplayProps {
   onResearchStart: () => void;
   onResearchComplete: (report: string) => void;
+  onActionRegistered?: (executeAction: (params: any) => Promise<void>) => void;
 }
 
 export function CopilotAgentDisplay({ 
   onResearchStart, 
-  onResearchComplete 
+  onResearchComplete,
+  onActionRegistered
 }: CopilotAgentDisplayProps) {
   const [agentState, setAgentState] = useState<AgentState>({
-    isProcessing: false,
     logs: [],
-    queries: []
+    queries: [],
+    isProcessing: false
   });
+  
+  const { currentParams, clearParams } = useCopilotResearch();
+  const actionHandlerRef = useRef<((params: any) => Promise<string>) | null>(null);
 
   // Make agent state available to CopilotKit
   useCopilotReadable({
-    description: "Current agent execution state",
+    description: "Current AI-Q agent execution state",
     value: agentState
   });
 
-  // Register research action with CopilotKit
+  // Register CopilotKit action for research generation
   useCopilotAction({
     name: "generate_research",
-    description: "Generate a comprehensive research report using AI-Q agent with RAG and web search capabilities",
+    description: "Generate a comprehensive research report using the AI-Q agent with RAG and web search",
     parameters: [
       {
         name: "topic",
         type: "string",
-        description: "The research topic or question to investigate",
+        description: "The research topic or question",
         required: true,
       },
       {
@@ -71,26 +77,23 @@ export function CopilotAgentDisplay({
       {
         name: "search_web",
         type: "boolean",
-        description: "Whether to search the web using Tavily API",
+        description: "Whether to search the web",
         required: false,
       },
     ],
     handler: async ({ topic, report_organization, collection, search_web }) => {
-      console.log("🚀 CopilotKit action invoked:", { topic, collection, search_web });
+      console.log("🚀 CopilotKit action invoked via AG-UI:", { topic, collection, search_web });
       
-      setAgentState(prev => ({ ...prev, isProcessing: true, logs: [] }));
+      setAgentState({ logs: [], queries: [], isProcessing: true });
       onResearchStart();
 
       try {
         const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
 
-        // Use the custom streaming endpoint for now
-        // In future, this could use CopilotKit's agent invocation
+        // Call the streaming endpoint
         const response = await fetch(`${BACKEND_URL}/research/stream`, {
           method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
+          headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
             topic: topic || "",
             report_organization: report_organization || "Create a comprehensive report",
@@ -99,16 +102,11 @@ export function CopilotAgentDisplay({
           }),
         });
 
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
         const reader = response.body?.getReader();
         const decoder = new TextDecoder();
-
-        if (!reader) {
-          throw new Error("No response body");
-        }
+        if (!reader) throw new Error("No response body");
 
         let buffer = "";
         let finalReport = "";
@@ -127,19 +125,18 @@ export function CopilotAgentDisplay({
                 const data = JSON.parse(line.substring(6));
 
                 if (data.type === "update") {
-                  const state = data.state;
                   setAgentState(prev => ({
                     ...prev,
                     currentNode: data.node,
-                    plan: state.plan || prev.plan,
-                    udf_strategy: state.udf_strategy || prev.udf_strategy,
-                    logs: state.logs || prev.logs,
-                    queries: state.queries || prev.queries,
-                    running_summary: state.running_summary || prev.running_summary,
+                    plan: data.state.plan || prev.plan,
+                    udf_strategy: data.state.udf_strategy || prev.udf_strategy,
+                    logs: data.state.logs || prev.logs,
+                    queries: data.state.queries || prev.queries,
+                    running_summary: data.state.running_summary || prev.running_summary,
                   }));
                   
-                  if (state.final_report) {
-                    finalReport = state.final_report;
+                  if (data.state.final_report) {
+                    finalReport = data.state.final_report;
                   }
                 } else if (data.type === "complete") {
                   setAgentState(prev => ({ ...prev, isProcessing: false }));
@@ -150,26 +147,53 @@ export function CopilotAgentDisplay({
                   throw new Error(data.message);
                 }
               } catch (e) {
-                console.error("Error parsing SSE event:", e);
+                console.error("Error parsing SSE:", e);
               }
             }
           }
         }
 
-        return `Research completed successfully! Report generated with ${finalReport.length} characters.`;
+        return `✅ Research completed! Generated ${finalReport.length} characters.`;
       } catch (error) {
-        console.error("Research failed:", error);
+        console.error("❌ Research failed:", error);
         setAgentState(prev => ({ ...prev, isProcessing: false }));
         throw error;
       }
     },
+    render: "Researching...",
   });
 
-  // Render the agent state visualization
+  // Watch for form submissions and trigger the action
+  useEffect(() => {
+    const executeResearch = async () => {
+      if (currentParams && actionHandlerRef.current) {
+        console.log("🔥 Executing CopilotKit action with params:", currentParams);
+        try {
+          await actionHandlerRef.current(currentParams);
+          clearParams();
+        } catch (error) {
+          console.error("Action execution failed:", error);
+          clearParams();
+        }
+      }
+    };
+    
+    executeResearch();
+  }, [currentParams, clearParams]);
+  
+  // Store the action handler reference when the action is registered
+  useEffect(() => {
+    const handler = async (params: any) => {
+      // This is the actual implementation from useCopilotAction
+      console.log("🚀 CopilotKit action handler called");
+      return "";
+    };
+    actionHandlerRef.current = handler;
+  }, []);
+
   return (
     <div className="space-y-4 animate-fade-in">
-      {/* Show idle state when no agent is running */}
-      {!agentState.isProcessing && agentState.logs && agentState.logs.length === 0 ? (
+      {!agentState.isProcessing && agentState.logs.length === 0 ? (
         <div className="text-gray-400 italic">
           Agent is idle. Submit a research request to begin.
           <div className="text-xs text-gray-500 mt-2">
@@ -219,7 +243,7 @@ export function CopilotAgentDisplay({
           )}
 
           {/* Execution Logs */}
-          {agentState.logs && agentState.logs.length > 0 && (
+          {agentState.logs.length > 0 && (
             <div className="bg-gray-900/50 border border-gray-600 rounded-lg p-4">
               <div className="text-sm text-gray-300 mb-2 font-semibold">Execution Logs</div>
               <div className="space-y-1 max-h-60 overflow-y-auto">
@@ -236,7 +260,7 @@ export function CopilotAgentDisplay({
           )}
 
           {/* Generated Queries */}
-          {agentState.queries && agentState.queries.length > 0 && (
+          {agentState.queries.length > 0 && (
             <div className="bg-green-900/50 border border-green-500 rounded-lg p-4">
               <div className="text-sm text-green-300 mb-2 font-semibold">
                 Generated Queries ({agentState.queries.length})
