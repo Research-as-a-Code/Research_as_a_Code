@@ -2,16 +2,16 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /**
- * Research Form Component with Real-Time Streaming
+ * Research Form Component with CopilotKit AG-UI Integration
  * 
- * Uses AgentStreamContext to start streaming research requests.
- * Real-time updates appear in the AgentFlowDisplay component.
+ * Uses CopilotKit actions to invoke the AI-Q researcher agent.
+ * Real-time updates appear through AG-UI protocol streaming.
  */
 
 "use client";
 
-import { useState, useEffect, useRef } from "react";
-import { useAgentStream } from "../contexts/AgentStreamContext";
+import { useState } from "react";
+import { useCopilotAction } from "@copilotkit/react-core";
 
 interface ResearchFormProps {
   onResearchStart: () => void;
@@ -25,20 +25,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
   );
   const [collection, setCollection] = useState("");
   const [searchWeb, setSearchWeb] = useState(true);
-  
-  const { state, startStream } = useAgentStream();
-  const wasProcessing = useRef(false);
-
-  // Watch for streaming completion
-  useEffect(() => {
-    // If we were processing and now we're not, and we have a report
-    if (wasProcessing.current && !state.isProcessing && state.final_report) {
-      onResearchComplete(state.final_report);
-      wasProcessing.current = false;
-    } else if (state.isProcessing) {
-      wasProcessing.current = true;
-    }
-  }, [state.isProcessing, state.final_report, onResearchComplete]);
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -48,16 +35,38 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       return;
     }
 
+    setIsSubmitting(true);
     onResearchStart();
-    wasProcessing.current = true;
 
-    // Start streaming request
-    await startStream({
-      topic: topic,
-      report_organization: reportOrg,
-      collection: collection,
-      search_web: searchWeb,
-    });
+    try {
+      const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+
+      // Call streaming endpoint
+      const response = await fetch(`${BACKEND_URL}/research/stream`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          topic: topic,
+          report_organization: reportOrg,
+          collection: collection,
+          search_web: searchWeb,
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      // This will be handled by the CopilotAgentDisplay component
+      // which listens to the same stream
+    } catch (error) {
+      console.error("Research failed:", error);
+      alert(`Research failed: ${error}`);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   // Example topics - US Customs Tariff queries
@@ -153,14 +162,14 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       {/* Submit Button */}
       <button
         type="submit"
-        disabled={state.isProcessing}
+        disabled={isSubmitting}
         className={`w-full py-3 px-6 rounded-lg font-semibold text-white transition-all ${
-          state.isProcessing
+          isSubmitting
             ? "bg-gray-600 cursor-not-allowed"
             : "bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 shadow-lg hover:shadow-xl"
         }`}
       >
-        {state.isProcessing ? (
+        {isSubmitting ? (
           <span className="flex items-center justify-center gap-2">
             <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
               <circle
@@ -186,15 +195,9 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
       </button>
 
       {/* Status Note */}
-      {state.isProcessing && (
+      {isSubmitting && (
         <div className="text-sm text-blue-400 text-center animate-pulse">
-          🔄 Agent is working... Watch the Agentic Flow panel for real-time updates!
-        </div>
-      )}
-      
-      {state.error && (
-        <div className="text-sm text-red-400 text-center">
-          ❌ Error: {state.error}
+          🔄 CopilotKit AG-UI: Watch real-time updates below!
         </div>
       )}
     </form>
