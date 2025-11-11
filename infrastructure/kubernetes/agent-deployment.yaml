@@ -99,6 +99,7 @@ metadata:
     app: aiq-agent
   annotations:
     service.beta.kubernetes.io/aws-load-balancer-type: "nlb"  # Use NLB to avoid security group conflicts
+    service.beta.kubernetes.io/aws-load-balancer-connection-idle-timeout: "300"  # 5 min timeout for streaming
 spec:
   selector:
     app: aiq-agent
