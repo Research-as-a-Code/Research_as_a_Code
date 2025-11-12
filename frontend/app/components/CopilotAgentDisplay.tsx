@@ -50,8 +50,8 @@ export function CopilotAgentDisplay({
     value: agentState
   });
 
-  // Register CopilotKit action for research generation
-  const { execute: executeCopilotAction } = useCopilotAction({
+  // Register CopilotKit action for research generation (for AG-UI protocol)
+  useCopilotAction({
     name: "generate_research",
     description: "Generate a comprehensive research report using the AI-Q agent with RAG and web search",
     parameters: [
@@ -196,25 +196,102 @@ export function CopilotAgentDisplay({
     render: "Researching...",
   });
 
-  // Watch for form submissions and trigger the action
+  // Watch for form submissions and directly call the backend
   useEffect(() => {
     const executeResearch = async () => {
-      if (currentParams) {
-        console.log("🔥 Executing CopilotKit action with params:", currentParams);
-        try {
-          await executeCopilotAction(currentParams);
-          console.log("✅ Action executed successfully!");
-          clearParams();
-        } catch (error) {
-          console.error("❌ Action execution failed:", error);
-          console.error("Error details:", JSON.stringify(error, null, 2));
-          clearParams();
+      if (!currentParams) return;
+
+      console.log("🔥 Triggering research with params:", currentParams);
+      setAgentState({ logs: [], queries: [], isProcessing: true });
+      onResearchStart();
+
+      try {
+        const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+        console.log("🔗 Backend URL:", BACKEND_URL);
+        console.log("🌐 Full endpoint:", `${BACKEND_URL}/research/stream`);
+
+        const response = await fetch(`${BACKEND_URL}/research/stream`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            topic: currentParams.topic || "",
+            report_organization: currentParams.report_organization || "Create a comprehensive report",
+            collection: currentParams.collection || "",
+            search_web: currentParams.search_web !== false,
+          }),
+        });
+
+        console.log("📨 Response received:", response.status, response.statusText);
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
         }
+
+        const reader = response.body?.getReader();
+        const decoder = new TextDecoder();
+        if (!reader) throw new Error("No response body");
+
+        let buffer = "";
+        let finalReport = "";
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+
+          buffer += decoder.decode(value, { stream: true });
+          const lines = buffer.split("\n");
+          buffer = lines.pop() || "";
+
+          for (const line of lines) {
+            if (!line || line.startsWith(":")) {
+              continue;
+            }
+
+            if (line.startsWith("data: ")) {
+              try {
+                const data = JSON.parse(line.substring(6));
+
+                if (data.type === "update") {
+                  setAgentState((prev) => ({
+                    ...prev,
+                    currentNode: data.node,
+                    plan: data.state.plan || prev.plan,
+                    udf_strategy: data.state.udf_strategy || prev.udf_strategy,
+                    logs: data.state.logs || prev.logs,
+                    queries: data.state.queries || prev.queries,
+                    running_summary: data.state.running_summary || prev.running_summary,
+                  }));
+
+                  if (data.state.final_report) {
+                    finalReport = data.state.final_report;
+                  }
+                } else if (data.type === "complete") {
+                  setAgentState((prev) => ({ ...prev, isProcessing: false }));
+                  if (finalReport) {
+                    onResearchComplete(finalReport);
+                  }
+                } else if (data.type === "error") {
+                  throw new Error(data.message);
+                }
+              } catch (e) {
+                console.error("Error parsing SSE event:", e, "Line:", line);
+              }
+            }
+          }
+        }
+
+        console.log("✅ Research completed!");
+        clearParams();
+      } catch (error: any) {
+        console.error("❌ Research failed:");
+        console.error("Error:", error.message);
+        setAgentState((prev) => ({ ...prev, isProcessing: false }));
+        clearParams();
       }
     };
-    
+
     executeResearch();
-  }, [currentParams, clearParams, executeCopilotAction]);
+  }, [currentParams, clearParams, onResearchStart, onResearchComplete]);
 
   return (
     <div className="space-y-4 animate-fade-in">
