@@ -347,13 +347,9 @@ async def generate_research_stream(request: ResearchRequest):
         import asyncio
         import time
         
-        last_event_time = time.time()
-        keepalive_interval = 5  # Send keepalive every 5 seconds (aggressive for ELB)
-        
         try:
             # Send initial connection event
-            yield f": connected\n\n"
-            last_event_time = time.time()
+            yield f": connected at {time.time()}\n\n"
             
             # Prepare initial state
             initial_state: HackathonAgentState = {
@@ -387,29 +383,37 @@ async def generate_research_stream(request: ResearchRequest):
             
             logger.info(f"🔄 Starting stream for thread_id={thread_id}")
             
-            # Stream agent execution
-            async for event in agent_graph.astream(initial_state, request_config):
-                # Check if we need to send keepalive BEFORE processing
-                current_time = time.time()
-                if current_time - last_event_time > keepalive_interval:
-                    logger.debug(f"⏰ Sending keepalive (last event {current_time - last_event_time:.1f}s ago)")
-                    yield f": keepalive at {current_time}\n\n"
-                    last_event_time = current_time
-                    await asyncio.sleep(0)  # Yield control
-                
-                # Each event is a dict with node name as key and state update as value
-                for node_name, state_update in event.items():
-                    # Send SSE event with node name and updated state
-                    event_data = {
-                        "node": node_name,
-                        "state": state_update,
-                        "type": "update"
-                    }
-                    yield f"data: {json.dumps(event_data)}\n\n"
-                    last_event_time = time.time()  # Update timestamp after sending
+            # Use async iterator with timeout to inject keepalives
+            keepalive_interval = 10  # Send keepalive if no event for 10 seconds
+            agent_stream = agent_graph.astream(initial_state, request_config).__aiter__()
+            
+            while True:
+                try:
+                    # Wait for next event with timeout
+                    event = await asyncio.wait_for(agent_stream.__anext__(), timeout=keepalive_interval)
                     
-                    # Yield control to allow other async operations
+                    # Process the event
+                    for node_name, state_update in event.items():
+                        # Send SSE event with node name and updated state
+                        event_data = {
+                            "node": node_name,
+                            "state": state_update,
+                            "type": "update"
+                        }
+                        yield f"data: {json.dumps(event_data)}\n\n"
+                        await asyncio.sleep(0)
+                        
+                except asyncio.TimeoutError:
+                    # No event received within timeout - send keepalive
+                    logger.debug(f"⏰ No agent event for {keepalive_interval}s, sending keepalive")
+                    yield f": keepalive at {time.time()}\n\n"
                     await asyncio.sleep(0)
+                    continue  # Try to get next event
+                    
+                except StopAsyncIteration:
+                    # Agent stream completed
+                    logger.debug("Agent stream completed normally")
+                    break
             
             # Send final completion event
             logger.info(f"✅ Stream completed for thread_id={thread_id}")
