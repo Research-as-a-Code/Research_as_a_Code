@@ -35,12 +35,14 @@ from aiq_aira.hackathon_agent import create_configured_agent, HackathonAgentStat
 from aiq_aira.udf_integration import UDFIntegration
 from langchain_openai import ChatOpenAI
 
-# Configure logging
+# Configure logging - use uvicorn's logger to ensure logs appear
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format='%(levelname)s:     %(message)s',
+    handlers=[logging.StreamHandler()]
 )
-logger = logging.getLogger(__name__)
+# Use uvicorn's logger for consistency with server logs
+logger = logging.getLogger("uvicorn")
 
 
 # ========================================
