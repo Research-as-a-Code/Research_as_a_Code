@@ -76,132 +76,187 @@ agent_config = None
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Initialize agent on startup."""
+    """Initialize agent on startup with comprehensive error handling."""
     global agent_graph, agent_config
     
-    logger.info("Initializing AI-Q + UDF Agent...")
+    logger.info("=" * 80)
+    logger.info("🚀 LIFESPAN STARTUP BEGINNING")
+    logger.info("=" * 80)
     
-    # Create LLM instances
-    reasoning_llm = ChatOpenAI(
-        base_url=f"{Config.NEMOTRON_NIM_URL}/v1",
-        api_key=Config.NGC_API_KEY,
-        model=Config.NEMOTRON_MODEL,
-        temperature=0.5
-    )
-    
-    instruct_llm = ChatOpenAI(
-        base_url=f"{Config.INSTRUCT_LLM_URL}/v1",
-        api_key=Config.NGC_API_KEY,
-        model=Config.INSTRUCT_MODEL,
-        temperature=0.0
-    )
-    
-    # Create UDF integration
-    udf_integration = UDFIntegration(
-        compiler_llm=reasoning_llm,
-        rag_url=Config.RAG_SERVER_URL,
-        nemotron_nim_url=Config.NEMOTRON_NIM_URL,
-        embedding_nim_url=Config.EMBEDDING_NIM_URL,
-        tavily_api_key=Config.TAVILY_API_KEY
-    )
-    
-    # Create configured agent
-    agent_graph, agent_config = create_configured_agent(
-        reasoning_llm=reasoning_llm,
-        instruct_llm=instruct_llm,
-        udf_integration=udf_integration,
-        rag_url=Config.RAG_SERVER_URL,
-        num_reflections=2
-    )
-    
-    logger.info("✅ AI-Q + UDF Agent initialized successfully")
-    
-    # Initialize CopilotKit after agent is created
-    if COPILOTKIT_AVAILABLE:
-        logger.info("Integrating CopilotKit for real-time state streaming")
+    try:
+        logger.info("Step 1/6: Initializing AI-Q + UDF Agent...")
         
-        # Create the LangGraph AGUI agent
-        from copilotkit import LangGraphAGUIAgent
-        langgraph_agent = LangGraphAGUIAgent(
-            name="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
-            description="AI-Q Research Assistant with Universal Deep Research",
-            graph=agent_graph,
-            config=agent_config
+        # Create LLM instances
+        logger.info("Step 2/6: Creating reasoning LLM...")
+        reasoning_llm = ChatOpenAI(
+            base_url=f"{Config.NEMOTRON_NIM_URL}/v1",
+            api_key=Config.NGC_API_KEY,
+            model=Config.NEMOTRON_MODEL,
+            temperature=0.5
         )
+        logger.info(f"✅ Reasoning LLM created: {Config.NEMOTRON_MODEL}")
         
-        # Add compatibility methods if missing (compatibility fixes for copilotkit 0.1.70)
-        if not hasattr(langgraph_agent, 'dict_repr'):
-            def dict_repr_method(self):
-                return {
-                    'name': self.name,
-                    'description': self.description or ''
-                }
-            langgraph_agent.dict_repr = dict_repr_method.__get__(langgraph_agent, type(langgraph_agent))
+        logger.info("Step 3/6: Creating instruct LLM...")
+        instruct_llm = ChatOpenAI(
+            base_url=f"{Config.INSTRUCT_LLM_URL}/v1",
+            api_key=Config.NGC_API_KEY,
+            model=Config.INSTRUCT_MODEL,
+            temperature=0.0
+        )
+        logger.info(f"✅ Instruct LLM created: {Config.INSTRUCT_MODEL}")
         
-        # Add execute method that wraps the run method
-        if not hasattr(langgraph_agent, 'execute'):
-            async def execute_method(self, *, state, config=None, messages, thread_id, node_name=None, actions=None, meta_events=None, **kwargs):
-                """
-                Execute method that wraps LangGraphAGUIAgent.run()
-                This bridges the gap between Agent.execute() and LangGraphAGUIAgent.run()
-                """
-                import uuid
-                import json
-                from ag_ui.core.types import RunAgentInput
+        # Create UDF integration
+        logger.info("Step 4/6: Creating UDF integration...")
+        udf_integration = UDFIntegration(
+            compiler_llm=reasoning_llm,
+            rag_url=Config.RAG_SERVER_URL,
+            nemotron_nim_url=Config.NEMOTRON_NIM_URL,
+            embedding_nim_url=Config.EMBEDDING_NIM_URL,
+            tavily_api_key=Config.TAVILY_API_KEY
+        )
+        logger.info("✅ UDF integration created")
+        
+        # Create configured agent
+        logger.info("Step 5/6: Creating configured agent graph...")
+        agent_graph, agent_config = create_configured_agent(
+            reasoning_llm=reasoning_llm,
+            instruct_llm=instruct_llm,
+            udf_integration=udf_integration,
+            rag_url=Config.RAG_SERVER_URL,
+            num_reflections=2
+        )
+        logger.info(f"✅ Agent graph created: {type(agent_graph)}")
+        logger.info(f"✅ Agent config created: {type(agent_config)}")
+        
+        logger.info("=" * 80)
+        logger.info("✅ AI-Q + UDF Agent initialized successfully")
+        logger.info("=" * 80)
+        
+        # Initialize CopilotKit after agent is created
+        logger.info("Step 6/6: Initializing CopilotKit integration...")
+        if COPILOTKIT_AVAILABLE:
+            try:
+                logger.info("Integrating CopilotKit for real-time state streaming")
                 
-                logger.info(f"✅ execute_method called! thread_id={thread_id}, node_name={node_name}")
+                # Create the LangGraph AGUI agent
+                from copilotkit import LangGraphAGUIAgent
+                logger.info("✅ LangGraphAGUIAgent imported")
                 
-                # Convert CopilotKit format to AG-UI format (using camelCase field names)
-                try:
-                    agent_input = RunAgentInput(
-                        state=state,
-                        messages=messages,
-                        threadId=thread_id,
-                        runId=str(uuid.uuid4()),  # Generate unique run ID
-                        tools=[],  # Empty tools list
-                        context=[],  # Empty context list
-                        forwardedProps={}  # Empty forwarded props
-                    )
-                    
-                    logger.info("✅ RunAgentInput created successfully, calling agent.run()")
-                    
-                    # Run the agent and convert events to JSON strings  
-                    async for event in self.run(agent_input):
-                        # Check if event is already a string or needs serialization
-                        if isinstance(event, str):
-                            # Already a string, ensure it has a newline
-                            if not event.endswith("\n"):
-                                yield event + "\n"
-                            else:
-                                yield event
-                        else:
-                            # Event is a Pydantic model, serialize it to JSON
-                            event_json = json.dumps(event.model_dump()) + "\n"
-                            yield event_json
+                langgraph_agent = LangGraphAGUIAgent(
+                    name="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
+                    description="AI-Q Research Assistant with Universal Deep Research",
+                    graph=agent_graph,
+                    config=agent_config
+                )
+                logger.info("✅ LangGraphAGUIAgent instance created")
+                
+                # Add compatibility methods if missing (compatibility fixes for copilotkit 0.1.70)
+                if not hasattr(langgraph_agent, 'dict_repr'):
+                    def dict_repr_method(self):
+                        return {
+                            'name': self.name,
+                            'description': self.description or ''
+                        }
+                    langgraph_agent.dict_repr = dict_repr_method.__get__(langgraph_agent, type(langgraph_agent))
+                    logger.info("✅ Added dict_repr compatibility method")
+                
+                # Add execute method that wraps the run method
+                if not hasattr(langgraph_agent, 'execute'):
+                    async def execute_method(self, *, state, config=None, messages, thread_id, node_name=None, actions=None, meta_events=None, **kwargs):
+                        """
+                        Execute method that wraps LangGraphAGUIAgent.run()
+                        This bridges the gap between Agent.execute() and LangGraphAGUIAgent.run()
+                        """
+                        import uuid
+                        import json
+                        from ag_ui.core.types import RunAgentInput
                         
-                except Exception as e:
-                    logger.error(f"❌ Error in execute_method: {e}", exc_info=True)
-                    raise
-            
-            langgraph_agent.execute = execute_method.__get__(langgraph_agent, type(langgraph_agent))
+                        logger.info(f"✅ execute_method called! thread_id={thread_id}, node_name={node_name}")
+                        
+                        # Convert CopilotKit format to AG-UI format (using camelCase field names)
+                        try:
+                            agent_input = RunAgentInput(
+                                state=state,
+                                messages=messages,
+                                threadId=thread_id,
+                                runId=str(uuid.uuid4()),  # Generate unique run ID
+                                tools=[],  # Empty tools list
+                                context=[],  # Empty context list
+                                forwardedProps={}  # Empty forwarded props
+                            )
+                            
+                            logger.info("✅ RunAgentInput created successfully, calling agent.run()")
+                            
+                            # Run the agent and convert events to JSON strings  
+                            async for event in self.run(agent_input):
+                                # Check if event is already a string or needs serialization
+                                if isinstance(event, str):
+                                    # Already a string, ensure it has a newline
+                                    if not event.endswith("\n"):
+                                        yield event + "\n"
+                                    else:
+                                        yield event
+                                else:
+                                    # Event is a Pydantic model, serialize it to JSON
+                                    event_json = json.dumps(event.model_dump()) + "\n"
+                                    yield event_json
+                            
+                        except Exception as e:
+                            logger.error(f"❌ Error in execute_method: {e}", exc_info=True)
+                            raise
+                    
+                    langgraph_agent.execute = execute_method.__get__(langgraph_agent, type(langgraph_agent))
+                    logger.info("✅ Added execute compatibility method")
+                
+                # Initialize CopilotKit SDK with the agent
+                logger.info("Creating CopilotKitSDK...")
+                copilot_sdk = CopilotKitSDK(agents=[langgraph_agent])
+                logger.info("✅ CopilotKitSDK created")
+                
+                # Add FastAPI endpoint
+                logger.info("Adding FastAPI endpoint for CopilotKit...")
+                add_fastapi_endpoint(
+                    fastapi_app=app,
+                    sdk=copilot_sdk,
+                    prefix="/copilotkit"
+                )
+                
+                logger.info("=" * 80)
+                logger.info("✅ CopilotKit endpoint registered at /copilotkit")
+                logger.info("=" * 80)
+                
+            except Exception as e:
+                logger.error("=" * 80)
+                logger.error(f"❌ FAILED to initialize CopilotKit: {e}")
+                logger.error("=" * 80)
+                logger.exception("Full CopilotKit initialization traceback:")
+                # Don't raise - allow the app to continue without CopilotKit
+        else:
+            logger.warning("=" * 80)
+            logger.warning("⚠️ CopilotKit not available - real-time streaming disabled")
+            logger.warning("=" * 80)
         
-        # Initialize CopilotKit SDK with the agent
-        copilot_sdk = CopilotKitSDK(agents=[langgraph_agent])
+        logger.info("=" * 80)
+        logger.info("🎉 LIFESPAN STARTUP COMPLETED - Yielding to application")
+        logger.info("=" * 80)
         
-        # Add FastAPI endpoint
-        add_fastapi_endpoint(
-            fastapi_app=app,
-            sdk=copilot_sdk,
-            prefix="/copilotkit"
-        )
-        
-        logger.info("✅ CopilotKit endpoint registered at /copilotkit")
-    else:
-        logger.warning("⚠️ CopilotKit not available - real-time streaming disabled")
+    except Exception as e:
+        logger.error("=" * 80)
+        logger.error(f"❌ FATAL ERROR during lifespan startup: {e}")
+        logger.error("=" * 80)
+        logger.exception("Full startup traceback:")
+        # Re-raise to prevent the app from starting in a broken state
+        raise
     
     yield
     
+    logger.info("=" * 80)
+    logger.info("🛑 LIFESPAN SHUTDOWN BEGINNING")
+    logger.info("=" * 80)
     logger.info("Shutting down...")
+    logger.info("=" * 80)
+    logger.info("✅ LIFESPAN SHUTDOWN COMPLETE")
+    logger.info("=" * 80)
 
 
 # ========================================
