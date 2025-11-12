@@ -11,7 +11,7 @@
 "use client";
 
 import { useCopilotAction, useCopilotReadable } from "@copilotkit/react-core";
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import { useCopilotResearch } from "../contexts/CopilotResearchContext";
 
 interface AgentState {
@@ -43,7 +43,6 @@ export function CopilotAgentDisplay({
   });
   
   const { currentParams, clearParams } = useCopilotResearch();
-  const actionHandlerRef = useRef<((params: any) => Promise<string>) | null>(null);
 
   // Make agent state available to CopilotKit
   useCopilotReadable({
@@ -52,7 +51,7 @@ export function CopilotAgentDisplay({
   });
 
   // Register CopilotKit action for research generation
-  useCopilotAction({
+  const { execute: executeCopilotAction } = useCopilotAction({
     name: "generate_research",
     description: "Generate a comprehensive research report using the AI-Q agent with RAG and web search",
     parameters: [
@@ -89,8 +88,11 @@ export function CopilotAgentDisplay({
 
       try {
         const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+        console.log("🔗 Backend URL:", BACKEND_URL);
+        console.log("🌐 Full endpoint:", `${BACKEND_URL}/research/stream`);
 
         // Call the streaming endpoint
+        console.log("📡 Initiating fetch to /research/stream...");
         const response = await fetch(`${BACKEND_URL}/research/stream`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -102,9 +104,16 @@ export function CopilotAgentDisplay({
           }),
         });
 
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        console.log("📨 Response received:", response.status, response.statusText);
+        console.log("📊 Response headers:", Object.fromEntries(response.headers.entries()));
+
+        if (!response.ok) {
+          console.error("❌ Response not OK:", response.status);
+          throw new Error(`HTTP ${response.status}`);
+        }
 
         const reader = response.body?.getReader();
+        console.log("📖 Reader obtained:", !!reader);
         const decoder = new TextDecoder();
         if (!reader) throw new Error("No response body");
 
@@ -158,18 +167,29 @@ export function CopilotAgentDisplay({
           }
         }
 
+        console.log("✅ Stream processing complete!");
         return `✅ Research completed! Generated ${finalReport.length} characters.`;
       } catch (error: any) {
-        console.error("❌ Research failed:", error);
+        console.error("❌ Research failed in handler:");
+        console.error("Error name:", error.name);
+        console.error("Error message:", error.message);
+        console.error("Error stack:", error.stack);
+        console.error("Full error object:", error);
+        
         setAgentState(prev => ({ ...prev, isProcessing: false }));
         
         // Handle specific streaming errors
         if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
-          throw new Error("Connection lost during research. Please try again.");
+          const betterError = new Error("Connection lost during research. Please try again.");
+          console.error("Throwing better error:", betterError);
+          throw betterError;
         } else if (error.message?.includes('ERR_INCOMPLETE_CHUNKED_ENCODING')) {
-          throw new Error("Stream was interrupted. The backend may have timed out. Try a simpler query.");
+          const betterError = new Error("Stream was interrupted. The backend may have timed out. Try a simpler query.");
+          console.error("Throwing better error:", betterError);
+          throw betterError;
         }
         
+        console.error("Re-throwing original error");
         throw error;
       }
     },
@@ -179,30 +199,22 @@ export function CopilotAgentDisplay({
   // Watch for form submissions and trigger the action
   useEffect(() => {
     const executeResearch = async () => {
-      if (currentParams && actionHandlerRef.current) {
+      if (currentParams) {
         console.log("🔥 Executing CopilotKit action with params:", currentParams);
         try {
-          await actionHandlerRef.current(currentParams);
+          await executeCopilotAction(currentParams);
+          console.log("✅ Action executed successfully!");
           clearParams();
         } catch (error) {
-          console.error("Action execution failed:", error);
+          console.error("❌ Action execution failed:", error);
+          console.error("Error details:", JSON.stringify(error, null, 2));
           clearParams();
         }
       }
     };
     
     executeResearch();
-  }, [currentParams, clearParams]);
-  
-  // Store the action handler reference when the action is registered
-  useEffect(() => {
-    const handler = async (params: any) => {
-      // This is the actual implementation from useCopilotAction
-      console.log("🚀 CopilotKit action handler called");
-      return "";
-    };
-    actionHandlerRef.current = handler;
-  }, []);
+  }, [currentParams, clearParams, executeCopilotAction]);
 
   return (
     <div className="space-y-4 animate-fade-in">
