@@ -348,11 +348,12 @@ async def generate_research_stream(request: ResearchRequest):
         import time
         
         last_event_time = time.time()
-        keepalive_interval = 15  # Send keepalive every 15 seconds
+        keepalive_interval = 5  # Send keepalive every 5 seconds (aggressive for ELB)
         
         try:
             # Send initial connection event
             yield f": connected\n\n"
+            last_event_time = time.time()
             
             # Prepare initial state
             initial_state: HackathonAgentState = {
@@ -388,11 +389,13 @@ async def generate_research_stream(request: ResearchRequest):
             
             # Stream agent execution
             async for event in agent_graph.astream(initial_state, request_config):
-                # Check if we need to send keepalive
+                # Check if we need to send keepalive BEFORE processing
                 current_time = time.time()
                 if current_time - last_event_time > keepalive_interval:
-                    yield f": keepalive\n\n"
+                    logger.debug(f"⏰ Sending keepalive (last event {current_time - last_event_time:.1f}s ago)")
+                    yield f": keepalive at {current_time}\n\n"
                     last_event_time = current_time
+                    await asyncio.sleep(0)  # Yield control
                 
                 # Each event is a dict with node name as key and state update as value
                 for node_name, state_update in event.items():
@@ -403,7 +406,7 @@ async def generate_research_stream(request: ResearchRequest):
                         "type": "update"
                     }
                     yield f"data: {json.dumps(event_data)}\n\n"
-                    last_event_time = current_time
+                    last_event_time = time.time()  # Update timestamp after sending
                     
                     # Yield control to allow other async operations
                     await asyncio.sleep(0)

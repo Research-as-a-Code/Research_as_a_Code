@@ -210,6 +210,13 @@ export function CopilotAgentDisplay({
         console.log("🔗 Backend URL:", BACKEND_URL);
         console.log("🌐 Full endpoint:", `${BACKEND_URL}/research/stream`);
 
+        // Create AbortController with 10 minute timeout for long-running research
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => {
+          console.warn("⏱️ Request timeout after 10 minutes");
+          controller.abort();
+        }, 10 * 60 * 1000);
+
         const response = await fetch(`${BACKEND_URL}/research/stream`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -219,7 +226,10 @@ export function CopilotAgentDisplay({
             collection: currentParams.collection || "",
             search_web: currentParams.search_web !== false,
           }),
+          signal: controller.signal,
         });
+        
+        clearTimeout(timeoutId);
 
         console.log("📨 Response received:", response.status, response.statusText);
 
@@ -233,10 +243,22 @@ export function CopilotAgentDisplay({
 
         let buffer = "";
         let finalReport = "";
+        let lastDataTime = Date.now();
+        const INACTIVITY_THRESHOLD = 30000; // 30 seconds without data = warning
 
         while (true) {
           const { done, value } = await reader.read();
           if (done) break;
+          
+          // Update last data time
+          const now = Date.now();
+          const timeSinceLastData = now - lastDataTime;
+          lastDataTime = now;
+          
+          // Warn if we haven't received data in a while (but stream is still open)
+          if (timeSinceLastData > INACTIVITY_THRESHOLD) {
+            console.warn(`⚠️ Stream inactive for ${(timeSinceLastData / 1000).toFixed(1)}s`);
+          }
 
           buffer += decoder.decode(value, { stream: true });
           const lines = buffer.split("\n");
@@ -285,7 +307,19 @@ export function CopilotAgentDisplay({
       } catch (error: any) {
         console.error("❌ Research failed:");
         console.error("Error:", error.message);
-        setAgentState((prev) => ({ ...prev, isProcessing: false }));
+        console.error("Error type:", error.name);
+        
+        // Add helpful error message to logs
+        const errorMessage = error.message?.includes("network error") || error.name === "TypeError"
+          ? "⚠️ Network connection lost. The research may still be processing on the server."
+          : `❌ Error: ${error.message}`;
+        
+        setAgentState((prev) => ({
+          ...prev,
+          isProcessing: false,
+          logs: [...prev.logs, errorMessage]
+        }));
+        
         clearParams();
       }
     };
