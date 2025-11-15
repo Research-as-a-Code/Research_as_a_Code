@@ -168,6 +168,16 @@ export function CopilotAgentDisplay({
         }
 
         console.log("✅ Stream processing complete!");
+        
+        // Ensure we mark processing as complete and trigger callback
+        setAgentState(prev => ({ ...prev, isProcessing: false }));
+        if (finalReport) {
+          console.log("📄 Final report received, length:", finalReport.length);
+          onResearchComplete(finalReport);
+        } else {
+          console.warn("⚠️ Stream completed but no final report was received");
+        }
+        
         return `✅ Research completed! Generated ${finalReport.length} characters.`;
       } catch (error: any) {
         console.error("❌ Research failed in handler:");
@@ -303,6 +313,16 @@ export function CopilotAgentDisplay({
         }
 
         console.log("✅ Research completed!");
+        
+        // Ensure we mark processing as complete and trigger callback
+        setAgentState((prev) => ({ ...prev, isProcessing: false }));
+        if (finalReport) {
+          console.log("📄 Final report received, length:", finalReport.length);
+          onResearchComplete(finalReport);
+        } else {
+          console.warn("⚠️ Stream completed but no final report was received");
+        }
+        
         clearParams();
       } catch (error: any) {
         console.error("❌ Research failed:");
