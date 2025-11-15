@@ -83,6 +83,12 @@ export function CopilotAgentDisplay({
     handler: async ({ topic, report_organization, collection, search_web }) => {
       console.log("🚀 CopilotKit action invoked via AG-UI:", { topic, collection, search_web });
       
+      // Prevent duplicate execution - check if already processing
+      if (agentState.isProcessing) {
+        console.log("⏭️ Skipping duplicate execution (already processing)");
+        return "Research already in progress";
+      }
+      
       setAgentState({ logs: [], queries: [], isProcessing: true });
       onResearchStart();
 
@@ -214,13 +220,21 @@ export function CopilotAgentDisplay({
     render: "Researching...",
   });
 
-  // Watch for form submissions and directly call the backend
-  // Note: This runs alongside useCopilotAction but with cache-busting to prevent stale responses
+  // Watch for form submissions and trigger the CopilotKit action
+  // This avoids duplicate execution - we only execute via useCopilotAction handler
   useEffect(() => {
     const executeResearch = async () => {
       if (!currentParams) return;
 
-      console.log("🔥 Triggering research with params:", currentParams);
+      console.log("🔥 Form submitted with params:", currentParams);
+      
+      // Prevent duplicate execution - check if already processing
+      if (agentState.isProcessing) {
+        console.log("⏭️ Skipping useEffect execution (already processing via useCopilotAction)");
+        clearParams();
+        return;
+      }
+      
       setAgentState({ logs: [], queries: [], isProcessing: true });
       onResearchStart();
 
