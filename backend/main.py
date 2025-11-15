@@ -384,16 +384,26 @@ async def generate_research_stream(request: ResearchRequest):
             logger.info(f"🔄 Starting stream for thread_id={thread_id}")
             
             # Use async iterator with timeout to inject keepalives
+            # CRITICAL: stream_mode="updates" ensures we get ALL node updates, not just final state
             keepalive_interval = 10  # Send keepalive if no event for 10 seconds
-            agent_stream = agent_graph.astream(initial_state, request_config).__aiter__()
+            agent_stream = agent_graph.astream(
+                initial_state, 
+                request_config,
+                stream_mode="updates"  # Stream all node updates
+            ).__aiter__()
             
+            event_count = 0
             while True:
                 try:
                     # Wait for next event with timeout
+                    logger.debug(f"Waiting for next agent event (received {event_count} so far)...")
                     event = await asyncio.wait_for(agent_stream.__anext__(), timeout=keepalive_interval)
+                    event_count += 1
+                    logger.info(f"📦 Received event #{event_count} from agent")
                     
                     # Process the event
                     for node_name, state_update in event.items():
+                        logger.info(f"  └─ Node: {node_name}, State keys: {list(state_update.keys())}")
                         # Send SSE event with node name and updated state
                         event_data = {
                             "node": node_name,
@@ -412,7 +422,7 @@ async def generate_research_stream(request: ResearchRequest):
                     
                 except StopAsyncIteration:
                     # Agent stream completed
-                    logger.debug("Agent stream completed normally")
+                    logger.info(f"✅ Agent stream completed after {event_count} events")
                     break
             
             # Send final completion event
