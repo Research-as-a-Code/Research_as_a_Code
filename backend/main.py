@@ -400,6 +400,7 @@ async def generate_research_stream(request: ResearchRequest):
                     event = await asyncio.wait_for(agent_stream.__anext__(), timeout=keepalive_interval)
                     event_count += 1
                     logger.info(f"📦 Received event #{event_count} from agent")
+                    logger.info(f"  └─ Raw event type: {type(event)}, content: {event}")
                     
                     # Process the event
                     for node_name, state_update in event.items():
