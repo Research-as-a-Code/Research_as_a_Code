@@ -88,12 +88,17 @@ export function CopilotAgentDisplay({
 
       try {
         const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+        
+        // Add cache-busting parameter to prevent ELB/CDN caching
+        const cacheBuster = `cb=${Date.now()}-${Math.random().toString(36).substring(7)}`;
+        const endpoint = `${BACKEND_URL}/research/stream?${cacheBuster}`;
+        
         console.log("🔗 Backend URL:", BACKEND_URL);
-        console.log("🌐 Full endpoint:", `${BACKEND_URL}/research/stream`);
+        console.log("🌐 Full endpoint (with cache-buster):", endpoint);
 
         // Call the streaming endpoint
         console.log("📡 Initiating fetch to /research/stream...");
-        const response = await fetch(`${BACKEND_URL}/research/stream`, {
+        const response = await fetch(endpoint, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -139,6 +144,8 @@ export function CopilotAgentDisplay({
                 const data = JSON.parse(line.substring(6));
 
                 if (data.type === "update") {
+                  console.log("📦 State update from node:", data.node, "Keys:", Object.keys(data.state));
+                  
                   setAgentState(prev => ({
                     ...prev,
                     currentNode: data.node,
@@ -150,6 +157,7 @@ export function CopilotAgentDisplay({
                   }));
                   
                   if (data.state.final_report) {
+                    console.log("📄 Final report received in state, length:", data.state.final_report.length);
                     finalReport = data.state.final_report;
                   }
                 } else if (data.type === "complete") {
@@ -207,6 +215,7 @@ export function CopilotAgentDisplay({
   });
 
   // Watch for form submissions and directly call the backend
+  // Note: This runs alongside useCopilotAction but with cache-busting to prevent stale responses
   useEffect(() => {
     const executeResearch = async () => {
       if (!currentParams) return;
@@ -217,8 +226,13 @@ export function CopilotAgentDisplay({
 
       try {
         const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+        
+        // Add cache-busting parameter to prevent ELB/CDN caching
+        const cacheBuster = `cb=${Date.now()}-${Math.random().toString(36).substring(7)}`;
+        const endpoint = `${BACKEND_URL}/research/stream?${cacheBuster}`;
+        
         console.log("🔗 Backend URL:", BACKEND_URL);
-        console.log("🌐 Full endpoint:", `${BACKEND_URL}/research/stream`);
+        console.log("🌐 Full endpoint:", endpoint);
 
         // Create AbortController with 10 minute timeout for long-running research
         const controller = new AbortController();
@@ -227,7 +241,7 @@ export function CopilotAgentDisplay({
           controller.abort();
         }, 10 * 60 * 1000);
 
-        const response = await fetch(`${BACKEND_URL}/research/stream`, {
+        const response = await fetch(endpoint, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -284,6 +298,8 @@ export function CopilotAgentDisplay({
                 const data = JSON.parse(line.substring(6));
 
                 if (data.type === "update") {
+                  console.log("📦 State update from node:", data.node, "Keys:", Object.keys(data.state));
+                  
                   setAgentState((prev) => ({
                     ...prev,
                     currentNode: data.node,
@@ -295,6 +311,7 @@ export function CopilotAgentDisplay({
                   }));
 
                   if (data.state.final_report) {
+                    console.log("📄 Final report received in state, length:", data.state.final_report.length);
                     finalReport = data.state.final_report;
                   }
                 } else if (data.type === "complete") {
