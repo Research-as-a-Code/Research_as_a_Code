@@ -290,18 +290,26 @@ def route_after_planner(state: HackathonAgentState) -> Literal["dynamic_strategy
     """
     Routing function: Decides which path to take after planning.
     """
+    import logging
+    logger = logging.getLogger("uvicorn")
+    
     plan = state.get("plan", "")
+    logger.info(f"🧭 ROUTING: plan field = {plan[:200] if plan else 'EMPTY'}...")
     
     try:
         import json
         decision = json.loads(plan)
         strategy = decision.get("strategy", "SIMPLE_RAG")
+        logger.info(f"🧭 ROUTING: Parsed strategy = {strategy}")
         
         if strategy == "DYNAMIC_STRATEGY":
+            logger.info("🧭 ROUTING: → dynamic_strategy node")
             return "dynamic_strategy"
         else:
+            logger.info("🧭 ROUTING: → simple_rag node")
             return "simple_rag"
-    except:
+    except Exception as e:
+        logger.error(f"🧭 ROUTING ERROR: {e}, defaulting to simple_rag")
         return "simple_rag"
 
 
