@@ -384,7 +384,7 @@ async def generate_research_stream(request: ResearchRequest):
             logger.info(f"🔄 Starting stream for thread_id={thread_id}")
             
             # Use async iterator with timeout to inject keepalives
-            # CRITICAL: stream_mode="updates" ensures we get ALL node updates, not just final state
+            # stream_mode="updates" works correctly WITHOUT checkpointer
             keepalive_interval = 10  # Send keepalive if no event for 10 seconds
             agent_stream = agent_graph.astream(
                 initial_state, 

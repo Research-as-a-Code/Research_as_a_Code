@@ -358,11 +358,13 @@ def create_hackathon_agent_graph() -> StateGraph:
     # Final report goes to END
     workflow.add_edge("final_report", END)
     
-    # Compile the graph with a checkpointer (required for CopilotKit state streaming)
-    from langgraph.checkpoint.memory import MemorySaver
-    compiled_graph = workflow.compile(checkpointer=MemorySaver())
+    # TEMP: Compile WITHOUT checkpointer to test if that's causing the conditional edge issue
+    # The checkpointer might be pausing execution after each node
+    # from langgraph.checkpoint.memory import MemorySaver
+    # compiled_graph = workflow.compile(checkpointer=MemorySaver())
+    compiled_graph = workflow.compile()
     
-    logger.info("Hackathon agent graph compiled successfully with checkpointer")
+    logger.info("Hackathon agent graph compiled successfully WITHOUT checkpointer (testing)")
     return compiled_graph
 
 
