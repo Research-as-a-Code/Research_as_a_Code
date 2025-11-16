@@ -1,6 +1,17 @@
 #!/bin/bash
-# Wake up cluster from sleep
-# Scales deployments back up and waits for Karpenter to provision nodes
+# LEGACY: Deep Wake (After Deep Sleep)
+#
+# ⚠️  This script wakes from deep sleep and includes built-in monitoring.
+# Use this only after running legacy-deep-sleep.sh
+#
+# For daily use, prefer the new modular scripts:
+#   1. ./infrastructure/scripts/wake-cluster.sh
+#   2. ./infrastructure/scripts/monitor-cluster-readiness.sh
+# 
+# Benefits of new scripts:
+# - Faster (Milvus stays warm)
+# - Modular (separate monitoring)
+# - Better tested (17-min validation)
 
 echo "☀️ Waking up cluster..."
 

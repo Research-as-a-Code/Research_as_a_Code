@@ -193,6 +193,58 @@ cd ../../scripts
 
 ---
 
+## 💤 Cluster Management (Cost Savings)
+
+Save ~90% on compute costs when not actively developing:
+
+### Daily Workflow (Recommended)
+
+```bash
+# End of day
+bash infrastructure/scripts/sleep-cluster.sh
+
+# Next morning  
+bash infrastructure/scripts/wake-cluster.sh
+bash infrastructure/scripts/monitor-cluster-readiness.sh  # Auto-exits when ready
+```
+
+**What happens:**
+- **Sleep**: Scales down NIMs + Backend (GPU-intensive)
+- **Keeps running**: Milvus + Frontend (lightweight, ~$1/day)
+- **Wake time**: ~17 minutes (Milvus stays warm)
+- **Cost savings**: ~90% reduction
+
+### Extended Downtime (Weekend/Vacation)
+
+For maximum savings when gone for days:
+
+```bash
+# Before leaving
+bash scripts/legacy-deep-sleep.sh
+
+# When back
+bash scripts/legacy-deep-wake.sh
+```
+
+**Trade-offs:**
+- ✅ 95% cost savings (stops everything)
+- ❌ ~20+ minute wake time (Milvus rehydration)
+
+### Available Scripts
+
+| Script | Purpose | Wake Time | Savings |
+|--------|---------|-----------|---------|
+| `infrastructure/scripts/sleep-cluster.sh` | Daily use (smart) | ~17 min | 90% |
+| `infrastructure/scripts/wake-cluster.sh` | Quick wake | - | - |
+| `infrastructure/scripts/monitor-cluster-readiness.sh` | Wait for ready | Auto-exits | - |
+| `infrastructure/scripts/test-sleep-wake-cycle.sh` | Full validation | 17 min | - |
+| `scripts/legacy-deep-sleep.sh` | Max savings | ~20+ min | 95% |
+| `scripts/legacy-deep-wake.sh` | Deep wake | - | - |
+
+> 💡 **Tip**: The new `infrastructure/scripts/` are recommended for all normal use. See `scripts/README.md` for details.
+
+---
+
 ## 💻 Local Development
 
 ### Backend Development
