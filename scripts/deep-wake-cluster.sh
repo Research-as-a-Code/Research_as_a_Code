@@ -1,14 +1,19 @@
 #!/bin/bash
-# LEGACY: Deep Wake (After Deep Sleep)
+# Deep Wake - Wake from Deep Sleep (Alternative Mode)
 #
-# ⚠️  This script wakes from deep sleep and includes built-in monitoring.
-# Use this only after running legacy-deep-sleep.sh
+# This script wakes from deep sleep and includes built-in monitoring.
+# Use this only after running deep-sleep-cluster.sh
 #
-# For daily use, prefer the new modular scripts:
-#   1. ./infrastructure/scripts/wake-cluster.sh
+# WHEN TO USE:
+#   ✅ After deep-sleep-cluster.sh
+#   ✅ Full cluster restore needed
+#   ✅ Includes built-in monitoring (~20+ min)
+#
+# For daily use, prefer the modular scripts:
+#   1. ./infrastructure/scripts/wake-cluster.sh (~17 min)
 #   2. ./infrastructure/scripts/monitor-cluster-readiness.sh
 # 
-# Benefits of new scripts:
+# Benefits of standard scripts:
 # - Faster (Milvus stays warm)
 # - Modular (separate monitoring)
 # - Better tested (17-min validation)

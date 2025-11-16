@@ -31,31 +31,31 @@ bash infrastructure/scripts/monitor-cluster-readiness.sh
 - ✅ Better UX (progress updates, auto-exit)
 - ✅ 90% cost savings
 
-### 🗄️ Legacy: Deep Sleep Scripts
+### 💤 Alternative: Deep Sleep Scripts
 
 Located in this directory:
 
-- **`legacy-deep-sleep.sh`** - Maximum savings (stops EVERYTHING)
-- **`legacy-deep-wake.sh`** - Full wake (with built-in monitoring)
+- **`deep-sleep-cluster.sh`** - Maximum savings (stops EVERYTHING)
+- **`deep-wake-cluster.sh`** - Full wake (with built-in monitoring)
 
 **Use these for:**
-- Extended downtime (weekends, vacations)
+- Extended downtime (weekends, vacations, 2+ days)
 - Maximum cost savings scenarios
-- Full cluster reset needs
+- When wake time isn't critical
 
 ```bash
 # Before vacation
-bash scripts/legacy-deep-sleep.sh
+bash scripts/deep-sleep-cluster.sh
 
 # After vacation
-bash scripts/legacy-deep-wake.sh
+bash scripts/deep-wake-cluster.sh
 ```
 
 **Trade-offs:**
-- ✅ 95% cost savings (vs 90% for new scripts)
+- ✅ 95% cost savings (vs 90%)
+- ✅ Monolithic (all-in-one script)
 - ❌ Slower wake times (~20+ minutes)
 - ❌ Milvus needs rehydration
-- ❌ Monolithic design (harder to debug)
 
 ## RAG Setup Scripts
 
@@ -70,10 +70,10 @@ These scripts set up the tariff collection with us_tariffs data for the hackatho
 |----------|-------------------|
 | **Daily development** | `infrastructure/scripts/sleep-cluster.sh` + `wake-cluster.sh` |
 | **Testing cluster lifecycle** | `infrastructure/scripts/test-sleep-wake-cycle.sh` |
-| **Weekend/vacation** | `scripts/legacy-deep-sleep.sh` → `legacy-deep-wake.sh` |
+| **Extended downtime (2+ days)** | `scripts/deep-sleep-cluster.sh` → `deep-wake-cluster.sh` |
 | **Just monitoring** | `infrastructure/scripts/monitor-cluster-readiness.sh` |
 
 ---
 
-**💡 Pro Tip**: The new scripts in `infrastructure/scripts/` are recommended for all normal use cases. They provide 90% cost savings with significantly faster wake times and better developer experience.
+**💡 Pro Tip**: The standard scripts in `infrastructure/scripts/` are recommended for daily use. They provide 90% cost savings with significantly faster wake times. Use `deep-sleep-cluster.sh` only when you need maximum savings for extended downtime.
 

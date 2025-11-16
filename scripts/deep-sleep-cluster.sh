@@ -1,13 +1,18 @@
 #!/bin/bash
-# LEGACY: Deep Sleep (Maximum Cost Savings)
+# Deep Sleep - Maximum Cost Savings (Alternative Mode)
 # 
-# ⚠️  This script provides MAXIMUM cost savings by stopping ALL components
-# including Milvus and Frontend. Use this for extended downtime (weekend/vacation).
+# This script provides MAXIMUM cost savings by stopping ALL components
+# including Milvus and Frontend. Best for extended downtime (weekend/vacation).
+#
+# WHEN TO USE:
+#   ✅ Extended downtime (2+ days)
+#   ✅ Maximum cost savings needed (95% vs 90%)
+#   ✅ Not urgently needed tomorrow
 #
 # For daily use, prefer: ./infrastructure/scripts/sleep-cluster.sh
-# - Faster wake times (Milvus stays warm)
-# - 90% cost savings (vs 95% here)
-# - Better for development workflow
+#   - Faster wake times (Milvus stays warm)
+#   - 90% cost savings
+#   - Better for development workflow
 
 echo "💤 Putting cluster to sleep..."
 
@@ -32,8 +37,8 @@ echo ""
 echo "💰 Cost: ~$0.10/hour (EKS control plane only)"
 echo "📊 Savings: ~$3-5/hour (GPU nodes stopped)"
 echo ""
-echo "To wake up tomorrow, run: ./scripts/legacy-deep-wake.sh"
+echo "To wake up later, run: ./scripts/deep-wake-cluster.sh"
 echo ""
-echo "💡 TIP: For faster wake times, use the new scripts:"
-echo "   ./infrastructure/scripts/wake-cluster.sh (keeps Milvus warm)"
+echo "💡 TIP: For faster wake times, use the standard scripts:"
+echo "   ./infrastructure/scripts/sleep-cluster.sh (keeps Milvus warm)"
 

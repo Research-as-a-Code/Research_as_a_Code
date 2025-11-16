@@ -214,34 +214,35 @@ bash infrastructure/scripts/monitor-cluster-readiness.sh  # Auto-exits when read
 - **Wake time**: ~17 minutes (Milvus stays warm)
 - **Cost savings**: ~90% reduction
 
-### Extended Downtime (Weekend/Vacation)
+### Alternative: Deep Sleep (Extended Downtime)
 
-For maximum savings when gone for days:
+For maximum savings when gone for 2+ days:
 
 ```bash
 # Before leaving
-bash scripts/legacy-deep-sleep.sh
+bash scripts/deep-sleep-cluster.sh
 
 # When back
-bash scripts/legacy-deep-wake.sh
+bash scripts/deep-wake-cluster.sh
 ```
 
 **Trade-offs:**
 - ✅ 95% cost savings (stops everything)
+- ✅ All-in-one script (built-in monitoring)
 - ❌ ~20+ minute wake time (Milvus rehydration)
 
 ### Available Scripts
 
 | Script | Purpose | Wake Time | Savings |
 |--------|---------|-----------|---------|
-| `infrastructure/scripts/sleep-cluster.sh` | Daily use (smart) | ~17 min | 90% |
+| `infrastructure/scripts/sleep-cluster.sh` | **Daily use (recommended)** | ~17 min | 90% |
 | `infrastructure/scripts/wake-cluster.sh` | Quick wake | - | - |
-| `infrastructure/scripts/monitor-cluster-readiness.sh` | Wait for ready | Auto-exits | - |
-| `infrastructure/scripts/test-sleep-wake-cycle.sh` | Full validation | 17 min | - |
-| `scripts/legacy-deep-sleep.sh` | Max savings | ~20+ min | 95% |
-| `scripts/legacy-deep-wake.sh` | Deep wake | - | - |
+| `infrastructure/scripts/monitor-cluster-readiness.sh` | Wait for ready (auto-exits) | - | - |
+| `infrastructure/scripts/test-sleep-wake-cycle.sh` | Full lifecycle test | 17 min | - |
+| `scripts/deep-sleep-cluster.sh` | **Extended downtime (2+ days)** | ~20+ min | 95% |
+| `scripts/deep-wake-cluster.sh` | Wake from deep sleep | - | - |
 
-> 💡 **Tip**: The new `infrastructure/scripts/` are recommended for all normal use. See `scripts/README.md` for details.
+> 💡 **Tip**: Use `infrastructure/scripts/` for daily workflow (faster, modular). Use `scripts/deep-sleep-cluster.sh` only for extended downtime when you need maximum savings. See `scripts/README.md` for details.
 
 ---
 
