@@ -52,13 +52,14 @@ logger = logging.getLogger("uvicorn")
 class Config:
     """Application configuration from environment variables."""
     
-    # LLM Endpoints - Use NVIDIA hosted API (integrate.api.nvidia.com)
-    NEMOTRON_NIM_URL = os.getenv("NEMOTRON_NIM_URL", "https://integrate.api.nvidia.com")
-    INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "https://integrate.api.nvidia.com")
-    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "https://integrate.api.nvidia.com")
+    # LLM Endpoints - Use cluster-local NIMs (deployed in nim namespace)
+    # These NIMs were running all along - just had wrong service name!
+    NEMOTRON_NIM_URL = os.getenv("NEMOTRON_NIM_URL", "http://instruct-llm-service.nim.svc.cluster.local:8000")
+    INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "http://instruct-llm-service.nim.svc.cluster.local:8000")
+    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
     
     # RAG uses direct Milvus integration - search_rag expects embedding NIM URL
-    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", os.getenv("EMBEDDING_NIM_URL", "https://integrate.api.nvidia.com"))
+    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", "http://embedding-service.nim.svc.cluster.local:8000")
     
     # Tavily API Key (for web search)
     TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
@@ -92,13 +93,25 @@ async def lifespan(app: FastAPI):
         
         # Create LLM instances
         logger.info("Step 2/6: Creating reasoning LLM...")
+        logger.info(f"   Model: {Config.NEMOTRON_MODEL}")
+        logger.info(f"   Base URL: {Config.NEMOTRON_NIM_URL}")
         reasoning_llm = ChatOpenAI(
             base_url=f"{Config.NEMOTRON_NIM_URL}/v1",
             api_key=Config.NGC_API_KEY,
             model=Config.NEMOTRON_MODEL,
             temperature=0.5
         )
-        logger.info(f"✅ Reasoning LLM created: {Config.NEMOTRON_MODEL}")
+        # Test the LLM to catch configuration errors early
+        try:
+            test_response = reasoning_llm.invoke("Hello")
+            logger.info(f"✅ Reasoning LLM verified: {Config.NEMOTRON_MODEL}")
+            logger.info(f"   Test response: {test_response.content[:50]}...")
+        except Exception as e:
+            logger.error(f"❌ REASONING LLM TEST FAILED!")
+            logger.error(f"   Model: {Config.NEMOTRON_MODEL}")
+            logger.error(f"   URL: {Config.NEMOTRON_NIM_URL}")
+            logger.error(f"   Error: {type(e).__name__}: {str(e)[:200]}")
+            raise
         
         logger.info("Step 3/6: Creating instruct LLM...")
         instruct_llm = ChatOpenAI(
