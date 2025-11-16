@@ -106,9 +106,10 @@ export function CopilotAgentDisplay({
         console.log("📡 Initiating fetch to /research/stream...");
         const response = await fetch(endpoint, {
           method: "POST",
+          cache: 'no-store' as RequestCache,  // Force fetch to bypass ALL browser cache
           headers: { 
             "Content-Type": "application/json",
-            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
             "Pragma": "no-cache",
             "Expires": "0",
             "X-Request-ID": cacheBuster  // Additional uniqueness marker
@@ -263,9 +264,10 @@ export function CopilotAgentDisplay({
 
         const response = await fetch(endpoint, {
           method: "POST",
+          cache: 'no-store' as RequestCache,  // Force fetch to bypass ALL browser cache
           headers: { 
             "Content-Type": "application/json",
-            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
             "Pragma": "no-cache",
             "Expires": "0",
             "X-Request-ID": cacheBuster  // Additional uniqueness marker
