@@ -358,13 +358,12 @@ def create_hackathon_agent_graph() -> StateGraph:
     # Final report goes to END
     workflow.add_edge("final_report", END)
     
-    # TEMP: Compile WITHOUT checkpointer to test if that's causing the conditional edge issue
-    # The checkpointer might be pausing execution after each node
-    # from langgraph.checkpoint.memory import MemorySaver
-    # compiled_graph = workflow.compile(checkpointer=MemorySaver())
-    compiled_graph = workflow.compile()
+    # Re-enable checkpointer for proper async node tracking
+    # Without it, astream() completes before async nodes finish
+    from langgraph.checkpoint.memory import MemorySaver
+    compiled_graph = workflow.compile(checkpointer=MemorySaver())
     
-    logger.info("Hackathon agent graph compiled successfully WITHOUT checkpointer (testing)")
+    logger.info("Hackathon agent graph compiled WITH checkpointer for proper streaming")
     return compiled_graph
 
 
