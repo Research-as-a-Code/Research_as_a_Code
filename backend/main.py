@@ -52,13 +52,13 @@ logger = logging.getLogger("uvicorn")
 class Config:
     """Application configuration from environment variables."""
     
-    # LLM Endpoints (from design plan Table 1)
-    NEMOTRON_NIM_URL = os.getenv("NEMOTRON_NIM_URL", "http://nemotron-nano.nim.svc.cluster.local:8000")
-    INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "http://instruct-llm.nim.svc.cluster.local:8000")
-    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+    # LLM Endpoints - Use NVIDIA hosted API (integrate.api.nvidia.com)
+    NEMOTRON_NIM_URL = os.getenv("NEMOTRON_NIM_URL", "https://integrate.api.nvidia.com")
+    INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "https://integrate.api.nvidia.com")
+    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "https://integrate.api.nvidia.com")
     
     # RAG uses direct Milvus integration - search_rag expects embedding NIM URL
-    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000"))
+    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", os.getenv("EMBEDDING_NIM_URL", "https://integrate.api.nvidia.com"))
     
     # Tavily API Key (for web search)
     TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
@@ -67,8 +67,10 @@ class Config:
     NGC_API_KEY = os.getenv("NGC_API_KEY", "not-needed")
     
     # Model names (Hackathon-specified Nemotron-Nano-8B)
-    NEMOTRON_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
-    INSTRUCT_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
+    # Reasoning model for planning/analysis
+    NEMOTRON_MODEL = "nvidia/llama-3.1-nemotron-51b-instruct"  # Use available 51B model
+    # Instruct model for writing  
+    INSTRUCT_MODEL = "nvidia/llama-3.1-nemotron-51b-instruct"  # Use available 51B model
 
 
 # Global agent instance
