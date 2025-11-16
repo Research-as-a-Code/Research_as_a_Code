@@ -17,6 +17,9 @@ import { CopilotAgentDisplay } from "./components/CopilotAgentDisplay";
 import { ResearchForm } from "./components/ResearchForm";
 import { ReportDisplay } from "./components/ReportDisplay";
 
+// Force dynamic rendering - never cache this page
+export const dynamic = 'force-dynamic';
+
 export default function Home() {
   const [currentReport, setCurrentReport] = useState<string>("");
   const [isResearching, setIsResearching] = useState<boolean>(false);

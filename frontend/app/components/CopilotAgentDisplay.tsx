@@ -81,7 +81,9 @@ export function CopilotAgentDisplay({
       },
     ],
     handler: async ({ topic, report_organization, collection, search_web }) => {
+      const DEPLOYMENT_VERSION = "v2.1-" + Date.now();  // Unique version for this deployment
       console.log("🚀 CopilotKit action invoked via AG-UI:", { topic, collection, search_web });
+      console.log("📦 Deployment version:", DEPLOYMENT_VERSION);
       
       // Prevent duplicate execution - check if already processing
       if (agentState.isProcessing) {
@@ -96,11 +98,13 @@ export function CopilotAgentDisplay({
         const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
         
         // Add cache-busting parameter to prevent ELB/CDN caching
-        const cacheBuster = `cb=${Date.now()}-${Math.random().toString(36).substring(7)}`;
-        const endpoint = `${BACKEND_URL}/research/stream?${cacheBuster}`;
+        const cacheBuster = `${Date.now()}-${Math.random().toString(36).substring(7)}`;
+        const requestId = `req-${cacheBuster}`;
+        const endpoint = `${BACKEND_URL}/research/stream?cb=${cacheBuster}`;
         
         console.log("🔗 Backend URL:", BACKEND_URL);
         console.log("🌐 Full endpoint (with cache-buster):", endpoint);
+        console.log("🆔 Request ID:", requestId, "- If you see this same ID again without submitting, responses are cached!");
 
         // Call the streaming endpoint
         console.log("📡 Initiating fetch to /research/stream...");
@@ -137,10 +141,24 @@ export function CopilotAgentDisplay({
 
         let buffer = "";
         let finalReport = "";
+        let lastDataTime = Date.now();
+        const INACTIVITY_THRESHOLD = 120000; // 120 seconds (2 minutes) - extended as requested
+
+        console.log(`🕐 Starting stream read at ${new Date().toISOString()}, inactivity threshold: ${INACTIVITY_THRESHOLD/1000}s`);
 
         while (true) {
           const { done, value } = await reader.read();
           if (done) break;
+
+          // Update last data time
+          const now = Date.now();
+          const timeSinceLastData = now - lastDataTime;
+          lastDataTime = now;
+          
+          // Warn if we haven't received data in a while (but stream is still open)
+          if (timeSinceLastData > INACTIVITY_THRESHOLD) {
+            console.warn(`⚠️ Stream inactive for ${(timeSinceLastData / 1000).toFixed(1)}s`);
+          }
 
           buffer += decoder.decode(value, { stream: true });
           const lines = buffer.split("\n");
