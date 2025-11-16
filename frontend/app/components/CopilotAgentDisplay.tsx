@@ -106,7 +106,13 @@ export function CopilotAgentDisplay({
         console.log("📡 Initiating fetch to /research/stream...");
         const response = await fetch(endpoint, {
           method: "POST",
-          headers: { "Content-Type": "application/json" },
+          headers: { 
+            "Content-Type": "application/json",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-Request-ID": cacheBuster  // Additional uniqueness marker
+          },
           body: JSON.stringify({
             topic: topic || "",
             report_organization: report_organization || "Create a comprehensive report",
@@ -257,7 +263,13 @@ export function CopilotAgentDisplay({
 
         const response = await fetch(endpoint, {
           method: "POST",
-          headers: { "Content-Type": "application/json" },
+          headers: { 
+            "Content-Type": "application/json",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-Request-ID": cacheBuster  // Additional uniqueness marker
+          },
           body: JSON.stringify({
             topic: currentParams.topic || "",
             report_organization: currentParams.report_organization || "Create a comprehensive report",
