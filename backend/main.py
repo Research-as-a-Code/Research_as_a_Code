@@ -398,14 +398,14 @@ async def generate_research_stream(request: ResearchRequest):
             
             logger.info(f"🔄 Starting stream for thread_id={thread_id}")
             
-            # Use async iterator with timeout to inject keepalives
-            # stream_mode="updates" with checkpointer yields dict of {node_name: state_update}
-            # This is the recommended combination for proper streaming
+            # Use astream_events() for granular streaming of internal node operations
+            # This captures writer() calls and intermediate operations within nodes
+            # Regular astream() only yields when nodes RETURN (causing superstep issues)
             keepalive_interval = 10  # Send keepalive if no event for 10 seconds
-            agent_stream = agent_graph.astream(
+            agent_stream = agent_graph.astream_events(
                 initial_state, 
                 request_config,
-                stream_mode="updates"  # Stream node updates (recommended with checkpointer)
+                version="v2"  # Use v2 for better event structure
             ).__aiter__()
             
             event_count = 0
@@ -418,18 +418,29 @@ async def generate_research_stream(request: ResearchRequest):
                     logger.info(f"📦 Received event #{event_count} from agent")
                     logger.info(f"  └─ Raw event type: {type(event)}, content: {event}")
                     
-                    # Process the event
-                    # In "updates" mode with checkpointer, event is {node_name: state_update}
-                    for node_name, state_update in event.items():
-                        logger.info(f"  └─ Node: {node_name}, State keys: {list(state_update.keys())}")
-                        # Send SSE event with node name and updated state
-                        event_data = {
-                            "node": node_name,
-                            "state": state_update,
+                    # Process astream_events() - different structure than astream()
+                    event_type = event.get("event", "")
+                    event_name = event.get("name", "")
+                    event_data_inner = event.get("data", {})
+                    
+                    # Only process chain_end events (when nodes complete)
+                    if event_type == "on_chain_end" and event_name in ["planner", "simple_rag", "dynamic_strategy", "final_report"]:
+                        logger.info(f"  └─ Node completed: {event_name}")
+                        
+                        # Extract output from the event
+                        output = event_data_inner.get("output", {})
+                        
+                        # Send SSE event
+                        sse_event = {
+                            "node": event_name,
+                            "state": output,
                             "type": "update"
                         }
-                        yield f"data: {json.dumps(event_data)}\n\n"
+                        yield f"data: {json.dumps(sse_event)}\n\n"
                         await asyncio.sleep(0)
+                    elif event_type == "on_custom_event":
+                        # Custom events from writer() calls - log but don't stream to avoid noise
+                        logger.debug(f"  └─ Custom event: {event_data_inner}")
                         
                 except asyncio.TimeoutError:
                     # No event received within timeout - send keepalive
