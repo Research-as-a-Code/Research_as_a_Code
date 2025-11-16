@@ -66,11 +66,11 @@ class Config:
     # NGC API Key (for NIM authentication if needed)
     NGC_API_KEY = os.getenv("NGC_API_KEY", "not-needed")
     
-    # Model names (Hackathon-specified Nemotron-Nano-8B)
+    # Model names - Using Meta Llama 3.1 8B (available with NGC API key)
     # Reasoning model for planning/analysis
-    NEMOTRON_MODEL = "nvidia/llama-3.1-nemotron-51b-instruct"  # Use available 51B model
+    NEMOTRON_MODEL = "meta/llama-3.1-8b-instruct"
     # Instruct model for writing  
-    INSTRUCT_MODEL = "nvidia/llama-3.1-nemotron-51b-instruct"  # Use available 51B model
+    INSTRUCT_MODEL = "meta/llama-3.1-8b-instruct"
 
 
 # Global agent instance
