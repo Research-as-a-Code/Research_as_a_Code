@@ -102,16 +102,17 @@ async def lifespan(app: FastAPI):
             temperature=0.5
         )
         # Test the LLM to catch configuration errors early
+        # TEMPORARILY DISABLED: Allow startup while NIM is still building
         try:
             test_response = reasoning_llm.invoke("Hello")
             logger.info(f"✅ Reasoning LLM verified: {Config.NEMOTRON_MODEL}")
             logger.info(f"   Test response: {test_response.content[:50]}...")
         except Exception as e:
-            logger.error(f"❌ REASONING LLM TEST FAILED!")
-            logger.error(f"   Model: {Config.NEMOTRON_MODEL}")
-            logger.error(f"   URL: {Config.NEMOTRON_NIM_URL}")
-            logger.error(f"   Error: {type(e).__name__}: {str(e)[:200]}")
-            raise
+            logger.warning(f"⚠️ REASONING LLM NOT YET READY (will retry on first request)")
+            logger.warning(f"   Model: {Config.NEMOTRON_MODEL}")
+            logger.warning(f"   URL: {Config.NEMOTRON_NIM_URL}")
+            logger.warning(f"   Error: {type(e).__name__}: {str(e)[:200]}")
+            # Don't raise - allow startup to continue
         
         logger.info("Step 3/6: Creating instruct LLM...")
         instruct_llm = ChatOpenAI(
