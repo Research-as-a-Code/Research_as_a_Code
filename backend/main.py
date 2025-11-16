@@ -399,13 +399,13 @@ async def generate_research_stream(request: ResearchRequest):
             logger.info(f"🔄 Starting stream for thread_id={thread_id}")
             
             # Use async iterator with timeout to inject keepalives
-            # stream_mode="values" yields complete state after each node
-            # This is more reliable for long-running nodes
+            # stream_mode="updates" with checkpointer yields dict of {node_name: state_update}
+            # This is the recommended combination for proper streaming
             keepalive_interval = 10  # Send keepalive if no event for 10 seconds
             agent_stream = agent_graph.astream(
                 initial_state, 
                 request_config,
-                stream_mode="values"  # Stream complete state after each step
+                stream_mode="updates"  # Stream node updates (recommended with checkpointer)
             ).__aiter__()
             
             event_count = 0
@@ -419,20 +419,17 @@ async def generate_research_stream(request: ResearchRequest):
                     logger.info(f"  └─ Raw event type: {type(event)}, content: {event}")
                     
                     # Process the event
-                    # In "values" mode, event is the complete state dict
-                    logger.info(f"  └─ State keys: {list(event.keys())}")
-                    
-                    # Extract current node from __metadata__ if available
-                    current_node = event.get("__metadata__", {}).get("source", "unknown")
-                    
-                    # Send SSE event with the full state
-                    event_data = {
-                        "node": current_node,
-                        "state": event,  # Send full state
-                        "type": "update"
-                    }
-                    yield f"data: {json.dumps(event_data)}\n\n"
-                    await asyncio.sleep(0)
+                    # In "updates" mode with checkpointer, event is {node_name: state_update}
+                    for node_name, state_update in event.items():
+                        logger.info(f"  └─ Node: {node_name}, State keys: {list(state_update.keys())}")
+                        # Send SSE event with node name and updated state
+                        event_data = {
+                            "node": node_name,
+                            "state": state_update,
+                            "type": "update"
+                        }
+                        yield f"data: {json.dumps(event_data)}\n\n"
+                        await asyncio.sleep(0)
                         
                 except asyncio.TimeoutError:
                     # No event received within timeout - send keepalive
