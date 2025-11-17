@@ -88,6 +88,24 @@ CRITICAL REQUIREMENTS:
    - context["report_organization"] - how to structure the report
    - context["search_web"] - whether to include web search
    NOTE: There is NO "query" key! Use context["topic"] for the question.
+8. **THESE ARE THE ONLY 3 TOOLS - DO NOT INVENT OR CALL OTHER FUNCTIONS**
+9. **If you need analysis, use synthesize_findings() - it handles ALL synthesis/analysis**
+10. **If a plan step doesn't map to a tool, SKIP IT or use synthesize_findings()**
+
+❌ FORBIDDEN - DO NOT USE:
+- Calling functions not in the available tools list
+- Inventing helper functions (analyze_*, calculate_*, process_*, evaluate_*)
+- Using Python standard library (open, json.loads, requests, etc.)
+- Any function call other than: search_rag, search_web, synthesize_findings
+
+✅ ALLOWED - YOU CAN USE:
+- Variables: log = [], sources = [], data = []
+- List operations: log.append(), sources.extend()
+- String operations: f"string {variable}"
+- Dict operations: {"key": value}
+- Control flow: if, for, while
+- Exception handling: try/except
+- The 3 async tools: search_rag(), search_web(), synthesize_findings()
 
 EXAMPLE - Tariff Research:
 ```python
@@ -182,6 +200,66 @@ CODE:
         logger.info("=" * 60)
             
         return code
+    
+    def validate_generated_code(self, code: str) -> tuple[bool, str]:
+        """
+        Validate generated UDF code before execution.
+        
+        Checks for:
+        - Only allowed function calls (search_rag, search_web, synthesize_findings)
+        - No forbidden function calls
+        - Valid Python syntax
+        
+        Args:
+            code: The generated Python code to validate
+            
+        Returns:
+            (is_valid, error_message): Tuple of validation result and error message if invalid
+        """
+        import ast
+        
+        allowed_functions = {'search_rag', 'search_web', 'synthesize_findings'}
+        allowed_methods = {'append', 'extend', 'get', 'strip', 'split', 'join', 'format', 'lower', 'upper'}
+        forbidden_patterns = [
+            'analyze_', 'calculate_', 'process_', 'evaluate_', 'compute_',
+            'import ', 'open(', 'json.', 'requests.', 'urllib', '__'
+        ]
+        
+        # Check for forbidden patterns first (faster)
+        code_lower = code.lower()
+        for pattern in forbidden_patterns:
+            if pattern in code_lower:
+                return False, f"Forbidden pattern detected: '{pattern}'. Only use search_rag(), search_web(), synthesize_findings()"
+        
+        # Parse and validate AST
+        try:
+            tree = ast.parse(code)
+        except SyntaxError as e:
+            return False, f"Syntax error in generated code: {e}"
+        
+        # Check all function calls
+        for node in ast.walk(tree):
+            if isinstance(node, ast.Call):
+                func_name = None
+                
+                if isinstance(node.func, ast.Name):
+                    func_name = node.func.id
+                elif isinstance(node.func, ast.Attribute):
+                    # Method call like list.append()
+                    func_name = node.func.attr
+                
+                if func_name:
+                    # Check if it's an allowed function or method
+                    if func_name not in allowed_functions and func_name not in allowed_methods:
+                        return False, f"Forbidden function call: '{func_name}()'. Only allowed: {allowed_functions}"
+        
+        # Check for return statement
+        has_return = any(isinstance(node, ast.Return) for node in ast.walk(tree))
+        if not has_return:
+            return False, "Code must have a return statement returning {'report': ..., 'sources': ..., 'log': ...}"
+        
+        logger.info("✅ Code validation passed")
+        return True, ""
 
 
 class UDFStrategyExecutor:
@@ -525,6 +603,18 @@ class UDFIntegration:
                 sources=[],
                 execution_log=[],
                 error=f"Compilation error: {str(e)}"
+            )
+        
+        # Step 1.5: Validate the generated code
+        is_valid, validation_error = self.compiler.validate_generated_code(compiled_code)
+        if not is_valid:
+            logger.error(f"❌ Generated code validation failed: {validation_error}")
+            return UDFExecutionResult(
+                success=False,
+                synthesized_report=f"Code generation error: {validation_error}\n\nThe LLM tried to use functions that don't exist. Only these tools are available:\n- search_rag(query, collection)\n- search_web(query)\n- synthesize_findings(data)\n\nTip: Try simplifying your query or let the system choose the strategy automatically.",
+                sources=[],
+                execution_log=["Code validation failed", validation_error],
+                error=f"Validation error: {validation_error}"
             )
         
         # Step 2: Execute the compiled code
