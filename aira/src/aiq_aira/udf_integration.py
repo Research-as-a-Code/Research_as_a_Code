@@ -67,20 +67,61 @@ Given a natural language research strategy, convert it into executable Python co
 
 Available Tools:
 - search_rag(query: str, collection: str) -> Dict[str, Any]
+  Returns: {{"content": str, "citations": list, "source": "rag"}}
+  
 - search_web(query: str) -> List[Dict[str, str]]
+  Returns: list of {{"content": str, "url": str, "title": str, "source": "web"}}
+  
 - synthesize_findings(data: List[Dict]) -> str
+  Takes a list of search results and returns a synthesized report string
 
-IMPORTANT RULES:
-- All code must be async/await compatible
-- Use try/except for error handling
-- Return a dict with keys: 'report', 'sources', 'log'
-- Do not use imports - tools are pre-loaded
-- Keep code under 50 lines
+CRITICAL REQUIREMENTS:
+1. All code MUST be async/await compatible
+2. Use try/except for error handling
+3. ABSOLUTELY MUST end with a return statement
+4. The return MUST be a dict with these EXACT keys: "report", "sources", "log"
+5. Do not use imports - tools are pre-loaded in namespace
+6. Access context variables via context["key"]
+
+EXAMPLE - Tariff Research:
+```python
+# Initialize tracking
+log = []
+sources = []
+
+# Step 1: Search RAG for tariff information
+log.append("Searching tariff database")
+tariff_results = await search_rag(
+    "tariff codes for sweets weight ingredients classification",
+    context["collection"]
+)
+sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})
+
+# Step 2: Search web for additional context
+log.append("Searching web for industry standards")
+web_results = await search_web("customs tariff classification sweets confectionery")
+sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])
+
+# Step 3: Synthesize all findings
+log.append("Synthesizing findings")
+all_data = [tariff_results] + web_results
+report = await synthesize_findings(all_data)
+
+# Step 4: MANDATORY RETURN STATEMENT
+return {{"report": report, "sources": sources, "log": log}}
+```
 
 Natural Language Strategy:
 {strategy}
 
-Generate ONLY the Python function body (no function definition, no imports). Start directly with the code:
+NOW GENERATE THE CODE:
+- Write ONLY the Python function body (no function definition, no imports)
+- Start directly with variable initialization (e.g., log = [], sources = [])
+- Make async calls to the tools
+- End with a return statement that returns {{"report": ..., "sources": ..., "log": ...}}
+- DO NOT forget the return statement!
+
+CODE:
 """
 
     def __init__(self, llm: BaseChatModel):
@@ -121,8 +162,15 @@ Generate ONLY the Python function body (no function definition, no imports). Sta
             code = code.split("```python")[1].split("```")[0].strip()
         elif "```" in code:
             code = code.split("```")[1].split("```")[0].strip()
+        
+        # Log the compiled code (always, not just at DEBUG)
+        logger.info("=" * 60)
+        logger.info("📝 COMPILED UDF STRATEGY CODE:")
+        logger.info("=" * 60)
+        for i, line in enumerate(code.split('\n'), 1):
+            logger.info(f"{i:3d} | {line}")
+        logger.info("=" * 60)
             
-        logger.debug(f"Compiled strategy code:\n{code}")
         return code
 
 
@@ -330,8 +378,15 @@ async def _udf_execute():
             exec(wrapped_code, namespace)
             result = await namespace["_udf_execute"]()
             
-            # Validate result format
-            if not isinstance(result, dict):
+            # Validate result format - handle None gracefully
+            if result is None:
+                logger.warning("UDF code returned None - using fallback with execution log")
+                result = {
+                    "report": "UDF execution completed but no report was generated. Check execution log for details.",
+                    "sources": sources,  # Use captured sources
+                    "log": execution_log  # Use captured log
+                }
+            elif not isinstance(result, dict):
                 raise ValueError(f"Strategy must return a dict, got {type(result)}")
             
             return UDFExecutionResult(

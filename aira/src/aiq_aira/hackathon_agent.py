@@ -176,6 +176,12 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     
     # Execute UDF
     strategy = state.get("udf_strategy", "")
+    
+    # Convert dict plan to string if needed (LLM sometimes returns structured JSON)
+    if isinstance(strategy, dict):
+        import json
+        strategy = json.dumps(strategy, indent=2)
+    
     context = {
         "topic": state["research_prompt"],
         "report_organization": state["report_organization"],
