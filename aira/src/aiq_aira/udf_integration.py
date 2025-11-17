@@ -76,38 +76,39 @@ Available Tools:
   Takes a list of search results and returns a synthesized report string
 
 CRITICAL REQUIREMENTS:
-1. All code MUST be async/await compatible
-2. Use try/except for error handling
-3. ABSOLUTELY MUST end with a return statement
-4. The return MUST be a dict with these EXACT keys: "report", "sources", "log"
-5. Do not use imports - tools are pre-loaded in namespace
-6. Access context variables via context["key"]
+1. ONLY await async functions: search_rag(), search_web(), synthesize_findings()
+2. DO NOT await: log.append(), sources.append(), variables, or any list/dict operations
+3. Use try/except for error handling
+4. ABSOLUTELY MUST end with a return statement
+5. The return MUST be a dict with these EXACT keys: "report", "sources", "log"
+6. Do not use imports - tools are pre-loaded in namespace
+7. Access context variables via context["key"]
 
 EXAMPLE - Tariff Research:
 ```python
-# Initialize tracking
+# Initialize tracking (NO await)
 log = []
 sources = []
 
 # Step 1: Search RAG for tariff information
-log.append("Searching tariff database")
-tariff_results = await search_rag(
+log.append("Searching tariff database")  # NO await - list.append() is NOT async
+tariff_results = await search_rag(  # YES await - search_rag() IS async
     "tariff codes for sweets weight ingredients classification",
     context["collection"]
 )
-sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})
+sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})  # NO await
 
 # Step 2: Search web for additional context
-log.append("Searching web for industry standards")
-web_results = await search_web("customs tariff classification sweets confectionery")
-sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])
+log.append("Searching web for industry standards")  # NO await
+web_results = await search_web("customs tariff classification sweets confectionery")  # YES await
+sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])  # NO await
 
 # Step 3: Synthesize all findings
-log.append("Synthesizing findings")
-all_data = [tariff_results] + web_results
-report = await synthesize_findings(all_data)
+log.append("Synthesizing findings")  # NO await
+all_data = [tariff_results] + web_results  # NO await - just assignment
+report = await synthesize_findings(all_data)  # YES await - synthesize_findings() IS async
 
-# Step 4: MANDATORY RETURN STATEMENT
+# Step 4: MANDATORY RETURN STATEMENT (NO await)
 return {{"report": report, "sources": sources, "log": log}}
 ```
 
