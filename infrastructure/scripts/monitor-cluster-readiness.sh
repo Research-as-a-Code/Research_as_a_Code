@@ -53,8 +53,12 @@ check_pod_status() {
     
     echo -n "   Checking ${component_name}... "
     
-    local ready_count=$(kubectl get pods -n "$namespace" -l "$selector" --no-headers 2>/dev/null | grep -c "Running" || echo "0")
+    # Use wc -l instead of grep -c for clean integer output
+    local ready_count=$(kubectl get pods -n "$namespace" -l "$selector" --no-headers 2>/dev/null | grep "Running" | wc -l)
     local total_count=$(kubectl get pods -n "$namespace" -l "$selector" --no-headers 2>/dev/null | wc -l)
+    # Trim whitespace to ensure valid integers
+    ready_count=$(echo "$ready_count" | tr -d ' ')
+    total_count=$(echo "$total_count" | tr -d ' ')
     
     if [ "$ready_count" -eq "$total_count" ] && [ "$total_count" -gt 0 ]; then
         echo -e "${GREEN}✅ Ready ($ready_count/$total_count)${NC}"
@@ -98,7 +102,10 @@ check_nim_ready() {
 check_milvus_ready() {
     echo -n "   Checking Milvus... "
     
-    local milvus_pods=$(kubectl get pods -n rag-blueprint 2>/dev/null | grep milvus | grep -c Running || echo "0")
+    # Use wc -l instead of grep -c for clean integer output
+    local milvus_pods=$(kubectl get pods -n rag-blueprint 2>/dev/null | grep milvus | grep Running | wc -l)
+    # Trim whitespace to ensure valid integer
+    milvus_pods=$(echo "$milvus_pods" | tr -d ' ')
     
     if [ "$milvus_pods" -ge 10 ]; then
         echo -e "${GREEN}✅ Running ($milvus_pods pods)${NC}"
@@ -113,7 +120,10 @@ check_milvus_ready() {
 check_backend_ready() {
     echo -n "   Checking Backend API... "
     
-    local backend_pods=$(kubectl get pods -n aiq-agent -l component=backend --no-headers 2>/dev/null | grep -c Running || echo "0")
+    # Count running pods - use wc -l instead of grep -c for clean integer output
+    local backend_pods=$(kubectl get pods -n aiq-agent -l component=backend --no-headers 2>/dev/null | grep Running | wc -l)
+    # Ensure we have a valid integer (trim whitespace)
+    backend_pods=$(echo "$backend_pods" | tr -d ' ')
     
     if [ "$backend_pods" -eq 0 ]; then
         echo -e "${YELLOW}⏳ No running pods${NC}"
