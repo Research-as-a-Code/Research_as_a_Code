@@ -216,48 +216,92 @@ class UDFStrategyExecutor:
         self.tavily_api_key = tavily_api_key
         
     async def _search_rag_tool(self, query: str, collection: str) -> Dict[str, Any]:
-        """Tool: Search RAG for information."""
+        """Tool: Search RAG using direct Milvus + Embedding NIM (same as main agent)."""
         logger.info(f"UDF Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
         
         try:
-            async with aiohttp.ClientSession() as session:
-                headers = {
-                    "Content-Type": "application/json",
-                    "Authorization": "Bearer not-needed"  # Placeholder for internal calls
+            from pymilvus import connections, Collection, utility
+            import os
+            
+            # Get Milvus connection info
+            milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
+            milvus_port = os.getenv("MILVUS_PORT", "19530")
+            
+            # Connect to Milvus
+            connections.connect(alias="default", host=milvus_host, port=milvus_port)
+            
+            # Check if collection exists
+            if not utility.has_collection(collection):
+                logger.warning(f"Collection '{collection}' does not exist")
+                return {
+                    "content": f"Collection '{collection}' not found",
+                    "citations": [],
+                    "source": "rag"
                 }
-                data = {
-                    "messages": [{"role": "user", "content": query}],
-                    "use_knowledge_base": True,
-                    "enable_citations": True,
-                    "collection_name": collection
+            
+            # Get embedding from NIM
+            async with aiohttp.ClientSession() as session:
+                embedding_payload = {
+                    "input": query,
+                    "model": "snowflake/arctic-embed-l",
+                    "input_type": "query"
                 }
                 
                 async with session.post(
-                    f"{self.rag_url}/generate",
-                    headers=headers,
-                    json=data,
-                    timeout=aiohttp.ClientTimeout(total=60)
-                ) as response:
-                    response.raise_for_status()
-                    raw_result = await response.text()
-                    
-                    # Parse streaming response
-                    content = ""
-                    citations = []
-                    for line in raw_result.splitlines():
-                        if line.startswith("data: "):
-                            event_data = json.loads(line[6:])
-                            content += event_data.get("choices", [{}])[0].get("message", {}).get("content", "")
-                            if "citations" in event_data:
-                                citations.extend(event_data["citations"].get("results", []))
-                    
-                    return {
-                        "content": content,
-                        "citations": citations,
-                        "source": "rag"
-                    }
+                    f"{self.embedding_nim_url}/v1/embeddings",
+                    json=embedding_payload,
+                    timeout=aiohttp.ClientTimeout(total=30)
+                ) as embed_response:
+                    embed_response.raise_for_status()
+                    embed_result = await embed_response.json()
+                    query_embedding = embed_result["data"][0]["embedding"]
+            
+            # Query Milvus
+            coll = Collection(collection)
+            coll.load()
+            
+            search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+            results = coll.search(
+                data=[query_embedding],
+                anns_field="embedding",
+                param=search_params,
+                limit=4,
+                output_fields=["text", "source"]
+            )
+            
+            if not results or len(results[0]) == 0:
+                return {
+                    "content": "No relevant documents found",
+                    "citations": [],
+                    "source": "rag"
+                }
+            
+            # Format results
+            content_parts = []
+            citations = []
+            
+            for i, hit in enumerate(results[0]):
+                try:
+                    text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
+                    source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
+                except Exception:
+                    text = str(hit.entity.get('text', ''))
+                    source = str(hit.entity.get('source', f"Doc {i+1}"))
+                
+                content_parts.append(f"[{i+1}] {text}")
+                citations.append({"source": source, "text": text[:200]})
+            
+            content = "\n\n".join(content_parts)
+            
+            logger.info(f"RAG found {len(results[0])} results from collection '{collection}'")
+            return {
+                "content": content,
+                "citations": citations,
+                "source": "rag"
+            }
+            
         except Exception as e:
-            logger.error(f"RAG search failed: {e}")
+            logger.error(f"RAG search failed: {e}", exc_info=True)
             return {
                 "content": f"Error searching RAG: {str(e)}",
                 "citations": [],

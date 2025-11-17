@@ -20,8 +20,8 @@ data:
   NEMOTRON_NIM_URL: "http://instruct-llm-service.nim.svc.cluster.local:8000"
   INSTRUCT_LLM_URL: "http://instruct-llm-service.nim.svc.cluster.local:8000"
   EMBEDDING_NIM_URL: "http://embedding-service.nim.svc.cluster.local:8000"
-  # Milvus vector database (direct connection)
-  MILVUS_HOST: "milvus.rag-blueprint.svc.cluster.local"
+  # Milvus vector database (direct connection) - using milvus-grpc service that points to proxies
+  MILVUS_HOST: "milvus-grpc.rag-blueprint.svc.cluster.local"
   MILVUS_PORT: "19530"
 
 ---
