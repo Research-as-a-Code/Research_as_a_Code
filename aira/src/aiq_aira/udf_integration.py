@@ -82,7 +82,12 @@ CRITICAL REQUIREMENTS:
 4. ABSOLUTELY MUST end with a return statement
 5. The return MUST be a dict with these EXACT keys: "report", "sources", "log"
 6. Do not use imports - tools are pre-loaded in namespace
-7. Access context variables via context["key"]
+7. Context dict has these EXACT keys (use them as shown):
+   - context["topic"] - the research question/prompt
+   - context["collection"] - the RAG collection name to search
+   - context["report_organization"] - how to structure the report
+   - context["search_web"] - whether to include web search
+   NOTE: There is NO "query" key! Use context["topic"] for the question.
 
 EXAMPLE - Tariff Research:
 ```python
@@ -90,18 +95,22 @@ EXAMPLE - Tariff Research:
 log = []
 sources = []
 
-# Step 1: Search RAG for tariff information
+# Step 1: Search RAG using context variables
 log.append("Searching tariff database")  # NO await - list.append() is NOT async
+query_text = f"tariff codes for {{{{context['topic']}}}}"  # Use context["topic"]!
 tariff_results = await search_rag(  # YES await - search_rag() IS async
-    "tariff codes for sweets weight ingredients classification",
-    context["collection"]
+    query_text,
+    {{{{context["collection"]}}}}  # Use context["collection"]!
 )
 sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})  # NO await
 
-# Step 2: Search web for additional context
-log.append("Searching web for industry standards")  # NO await
-web_results = await search_web("customs tariff classification sweets confectionery")  # YES await
-sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])  # NO await
+# Step 2: Search web if enabled
+if {{{{context["search_web"]}}}}:  # Check context["search_web"]!
+    log.append("Searching web for additional context")  # NO await
+    web_results = await search_web(query_text)  # YES await
+    sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])  # NO await
+else:
+    web_results = []
 
 # Step 3: Synthesize all findings
 log.append("Synthesizing findings")  # NO await
