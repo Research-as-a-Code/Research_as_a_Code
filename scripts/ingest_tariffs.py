@@ -70,7 +70,7 @@ def get_embeddings(texts: List[str], nim_url: str) -> List[List[float]]:
             f"{nim_url}/v1/embeddings",
             json={
                 "input": texts,
-                "model": "nvidia/nv-embedqa-e5-v5",
+                "model": "snowflake/arctic-embed-l",
                 "input_type": "passage"
             },
             timeout=60.0
