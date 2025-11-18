@@ -118,11 +118,12 @@ CRITICAL REQUIREMENTS:
 
 ✅ ALLOWED - YOU CAN USE:
 - Variables: log = [], sources = [], data = []
-- List operations: log.append(), sources.extend()
-- String operations: f"string {{{{variable}}}}"
-- Dict operations: {{{{"key": value}}}}
+- List operations: log.append(), sources.extend(), list.get()
+- Dict operations: {{{{"key": value}}}}, dict.items(), dict.keys(), dict.values()
+- String operations: f"string {{{{variable}}}}", str.format(), str.split(), str.strip()
+- Python built-ins: str(), len(), range(), enumerate(), min(), max(), sum()
 - Control flow: if, for, while
-- Exception handling: try/except
+- Exception handling: try/except with str(e) for error messages
 - The 3 async tools: search_rag(), search_web(), synthesize_findings()
 
 EXAMPLE - Tariff Research:
@@ -246,7 +247,9 @@ CODE:
         import ast
         
         allowed_functions = {'search_rag', 'search_web', 'synthesize_findings'}
-        allowed_methods = {'append', 'extend', 'get', 'strip', 'split', 'join', 'format', 'lower', 'upper'}
+        allowed_methods = {'append', 'extend', 'get', 'strip', 'split', 'join', 'format', 'lower', 'upper', 'items', 'keys', 'values'}
+        # Python built-ins that are safe and commonly needed
+        allowed_builtins = {'str', 'int', 'float', 'bool', 'len', 'range', 'enumerate', 'zip', 'dict', 'list', 'tuple', 'set', 'min', 'max', 'sum', 'any', 'all'}
         forbidden_patterns = [
             'analyze_', 'calculate_', 'process_', 'evaluate_', 'compute_',
             'import ', 'open(', 'json.', 'requests.', 'urllib', '__'
@@ -276,8 +279,8 @@ CODE:
                     func_name = node.func.attr
                 
                 if func_name:
-                    # Check if it's an allowed function or method
-                    if func_name not in allowed_functions and func_name not in allowed_methods:
+                    # Check if it's an allowed function, method, or built-in
+                    if func_name not in allowed_functions and func_name not in allowed_methods and func_name not in allowed_builtins:
                         return False, f"Forbidden function call: '{func_name}()'. Only allowed: {allowed_functions}"
         
         # Check for return statement
