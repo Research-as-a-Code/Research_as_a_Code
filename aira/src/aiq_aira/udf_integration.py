@@ -111,6 +111,10 @@ CRITICAL REQUIREMENTS:
    - context["report_organization"] - how to structure the report
    - context["search_web"] - whether to include web search
    NOTE: There is NO "query" key! Use context["topic"] for the question.
+   **CRITICAL: Extract values to variables first, DO NOT use f-strings with context!**
+   ✅ CORRECT: topic = context["topic"]
+              results = await search_web(topic)
+   ❌ WRONG: results = await search_web(f"query for {{context['topic']}}")  ← Template error!
 
 9. **THESE ARE THE ONLY 3 TOOLS - DO NOT INVENT OR CALL OTHER FUNCTIONS**
 
@@ -161,11 +165,13 @@ report = ""  # ← MUST initialize! Prevents "variable not defined" errors
 
 # STEP 2: Search RAG - returns a SINGLE DICT
 log.append("Searching tariff database")  # NO await
-query_text = f"tariff codes for {{{{context['topic']}}}}"
+# Use context values directly - NO f-strings needed!
+topic = context["topic"]
+collection_name = context["collection"]
 
 try:
     # search_rag returns Dict - single result
-    rag_result = await search_rag(query_text, {{{{context["collection"]}}}})  # YES await
+    rag_result = await search_rag(topic, collection_name)  # YES await
     # ✅ rag_result is a dict, can use .get()
     sources.append({{"type": "rag", "content": rag_result.get("content", "")}})  # NO await
     
@@ -173,7 +179,7 @@ try:
     if {{{{context["search_web"]}}}}:
         log.append("Searching web")  # NO await
         # search_web returns List[Dict] - multiple results
-        web_results = await search_web(query_text)  # YES await - web_results is a LIST!
+        web_results = await search_web(topic)  # YES await - web_results is a LIST!
         
         # ✅ SAFE: Iterate through list (works even if empty - just does 0 iterations)
         for item in web_results:  # NO await - iteration is NOT async
@@ -208,6 +214,8 @@ Natural Language Strategy:
 NOW GENERATE THE CODE:
 - Write ONLY the Python function body (no function definition, no imports)
 - FIRST LINE: Initialize ALL variables: log = [], sources = [], report = ""
+- CRITICAL: Extract context values to variables FIRST: topic = context["topic"], collection_name = context["collection"]
+- CRITICAL: DO NOT use f-strings with context dict! Use variables directly!
 - Use try/except to catch errors and ALWAYS set report in except block
 - Make async calls to the tools WITH PARENTHESES: await search_rag()
 - CRITICAL: Use () to call functions - they are FUNCTION CALLS, not dict keys!
