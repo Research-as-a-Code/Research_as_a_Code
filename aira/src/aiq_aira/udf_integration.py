@@ -65,15 +65,23 @@ Given a natural language research strategy, convert it into executable Python co
 2. Synthesizes findings into a structured report
 3. Tracks all sources and citations
 
-Available Tools:
-- search_rag(query: str, collection: str) -> Dict[str, Any]
-  Returns: {{"content": str, "citations": list, "source": "rag"}}
+Available Tools (BE CAREFUL WITH DATA TYPES!):
+
+1. search_rag(query: str, collection: str) -> Dict[str, Any]
+   Returns: A SINGLE DICT like {{"content": str, "citations": list, "source": "rag"}}
+   Usage: result = await search_rag("query", "collection")
+          content = result.get("content", "")  # ✅ Can use .get() on dict
   
-- search_web(query: str) -> List[Dict[str, str]]
-  Returns: list of {{"content": str, "url": str, "title": str, "source": "web"}}
+2. search_web(query: str) -> List[Dict[str, str]]
+   Returns: A LIST of dicts like [{{"content": str, "url": str, "title": str}}, ...]
+   Usage: results = await search_web("query")  # This is a LIST!
+          for item in results:  # ✅ Must iterate through list
+              content = item.get("content", "")  # ✅ .get() on each item
+          ❌ WRONG: results.get("content")  # ERROR! Can't .get() on list!
   
-- synthesize_findings(data: List[Dict]) -> str
-  Takes a list of search results and returns a synthesized report string
+3. synthesize_findings(data: List[Dict]) -> str
+   Takes a list of search results and returns a synthesized report string
+   Usage: report = await synthesize_findings([rag_result] + web_results)
 
 CRITICAL REQUIREMENTS:
 1. INITIALIZE ALL VARIABLES AT THE START:
@@ -110,6 +118,11 @@ CRITICAL REQUIREMENTS:
 
 11. **If a plan step doesn't map to a tool, SKIP IT or use synthesize_findings()**
 
+12. **CRITICAL: Handle list vs dict correctly!**
+    - search_rag() returns Dict → Use result.get("key")
+    - search_web() returns List[Dict] → Use for item in results: item.get("key")
+    - ❌ NEVER do: list_result.get("key") → Will cause "list has no attribute 'get'" error!
+
 ❌ FORBIDDEN - DO NOT USE:
 - Calling functions not in the available tools list
 - Inventing helper functions (analyze_*, calculate_*, process_*, evaluate_*)
@@ -126,43 +139,53 @@ CRITICAL REQUIREMENTS:
 - Exception handling: try/except with str(e) for error messages
 - The 3 async tools: search_rag(), search_web(), synthesize_findings()
 
-EXAMPLE - Tariff Research:
+EXAMPLE - Tariff Research (PAY ATTENTION TO DATA TYPES!):
 ```python
 # STEP 1: Initialize ALL variables at the start (NO await)
 log = []
 sources = []
 report = ""  # ← MUST initialize! Prevents "variable not defined" errors
 
-# STEP 2: Search RAG using context variables
-log.append("Searching tariff database")  # NO await - list.append() is NOT async
-query_text = f"tariff codes for {{{{context['topic']}}}}"  # Use context["topic"]!
+# STEP 2: Search RAG - returns a SINGLE DICT
+log.append("Searching tariff database")  # NO await
+query_text = f"tariff codes for {{{{context['topic']}}}}"
 
 try:
-    tariff_results = await search_rag(  # YES await - search_rag() IS async
-        query_text,
-        {{{{context["collection"]}}}}  # Use context["collection"]!
-    )
-    sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})  # NO await
+    # search_rag returns Dict - single result
+    rag_result = await search_rag(query_text, {{{{context["collection"]}}}})  # YES await
+    # ✅ rag_result is a dict, can use .get()
+    sources.append({{"type": "rag", "content": rag_result.get("content", "")}})  # NO await
     
-    # STEP 3: Search web if enabled
-    if {{{{context["search_web"]}}}}:  # Check context["search_web"]!
-        log.append("Searching web for additional context")  # NO await
-        web_results = await search_web(query_text)  # YES await
-        sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])  # NO await
+    # STEP 3: Search web - returns a LIST of dicts
+    if {{{{context["search_web"]}}}}:
+        log.append("Searching web")  # NO await
+        # search_web returns List[Dict] - multiple results
+        web_results = await search_web(query_text)  # YES await - web_results is a LIST!
+        
+        # ✅ Iterate through the list to access each dict
+        for item in web_results:  # NO await - iteration is NOT async
+            # ✅ Now item is a dict, can use .get()
+            sources.append({{
+                "type": "web",
+                "url": item.get("url", ""),
+                "title": item.get("title", ""),
+                "content": item.get("content", "")
+            }})  # NO await
     else:
         web_results = []
     
-    # STEP 4: Synthesize all findings
+    # STEP 4: Synthesize - pass list of all results
     log.append("Synthesizing findings")  # NO await
-    all_data = [tariff_results] + web_results  # NO await - just assignment
-    report = await synthesize_findings(all_data)  # YES await - set report here!
+    # Combine single dict + list of dicts into one list
+    all_data = [rag_result] + web_results  # NO await
+    report = await synthesize_findings(all_data)  # YES await
     
 except Exception as e:
-    log.append(f"Error during research: {{{{str(e)}}}}")  # NO await
-    report = f"Research encountered an error: {{{{str(e)}}}}"  # ← MUST set report in except!
+    log.append(f"Error: {{{{str(e)}}}}")  # NO await
+    report = f"Research error: {{{{str(e)}}}}"  # ← Set report in except!
 
-# STEP 5: MANDATORY RETURN STATEMENT (NO await)
-return {{"report": report, "sources": sources, "log": log}}
+# STEP 5: MANDATORY RETURN
+return {{"report": report, "sources": sources, "log": log}}  # NO await
 ```
 
 Natural Language Strategy:
