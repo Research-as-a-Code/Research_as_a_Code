@@ -101,8 +101,8 @@ CRITICAL REQUIREMENTS:
 ✅ ALLOWED - YOU CAN USE:
 - Variables: log = [], sources = [], data = []
 - List operations: log.append(), sources.extend()
-- String operations: f"string {variable}"
-- Dict operations: {"key": value}
+- String operations: f"string {{{{variable}}}}"
+- Dict operations: {{{{"key": value}}}}
 - Control flow: if, for, while
 - Exception handling: try/except
 - The 3 async tools: search_rag(), search_web(), synthesize_findings()
