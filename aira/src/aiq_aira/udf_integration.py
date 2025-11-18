@@ -129,6 +129,13 @@ CRITICAL REQUIREMENTS:
     - ❌ WRONG: report = synthesize_findings  # Missing await and ()!
     - Remember: ALWAYS use () to call functions and await for async functions!
 
+14. **CRITICAL: ALWAYS check list length before accessing indices!**
+    - ❌ WRONG: result = results[0]  # IndexError if list is empty!
+    - ✅ CORRECT: result = results[0] if len(results) > 0 else {{"content": "No results"}}
+    - ✅ CORRECT: if results: result = results[0]
+    - ✅ CORRECT: for item in results:  # Safe - iterates 0 times if empty
+    - **NEVER access list[index] without checking length first!**
+
 ❌ FORBIDDEN - DO NOT USE:
 - Calling functions not in the available tools list
 - Inventing helper functions (analyze_*, calculate_*, process_*, evaluate_*)
@@ -168,8 +175,9 @@ try:
         # search_web returns List[Dict] - multiple results
         web_results = await search_web(query_text)  # YES await - web_results is a LIST!
         
-        # ✅ Iterate through the list to access each dict
+        # ✅ SAFE: Iterate through list (works even if empty - just does 0 iterations)
         for item in web_results:  # NO await - iteration is NOT async
+            # ❌ UNSAFE would be: first_item = web_results[0]  ← IndexError if empty!
             # ✅ Now item is a dict, can use .get()
             sources.append({{
                 "type": "web",
@@ -204,6 +212,10 @@ NOW GENERATE THE CODE:
 - Make async calls to the tools WITH PARENTHESES: await search_rag()
 - CRITICAL: Use () to call functions - they are FUNCTION CALLS, not dict keys!
 - CRITICAL: Always await async functions: await search_rag(), await search_web(), await synthesize_findings()
+- CRITICAL: NEVER access list[index] without checking if list has items first!
+  - ❌ BAD: result = results[0]  ← Will crash if empty!
+  - ✅ GOOD: for item in results:  ← Safe, does 0 iterations if empty
+  - ✅ GOOD: if len(results) > 0: result = results[0]
 - End with a return statement that returns {{"report": report, "sources": sources, "log": log}}
 - DO NOT forget the return statement!
 - REMINDER: report MUST be set before the return (either in try or in except)!
