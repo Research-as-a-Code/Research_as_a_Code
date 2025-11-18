@@ -21,6 +21,10 @@ echo "  • NVIDIA Embedding NIM"
 echo "  • NVIDIA Instruct LLM NIM"
 echo "  • AIQ Agent Backend"
 echo ""
+echo "Will NOT wake up:"
+echo "  • Old Milvus (milvus-pulsarv3) - permanently scaled down"
+echo "  • Milvus Standalone - already running with your data"
+echo ""
 echo -e "${YELLOW}⚠️  Note: NIMs need 5-20 minutes to build TensorRT engines${NC}"
 echo ""
 
@@ -48,7 +52,17 @@ kubectl scale deployment llama-instruct-nim -n nim --replicas=1 2>/dev/null && e
 
 # Scale up Backend
 echo -n "3️⃣ Backend... "
-kubectl scale deployment aiq-agent-backend -n aiq-agent --replicas=2 2>/dev/null && echo -e "${GREEN}✅ Scaled to 2${NC}" || echo -e "${YELLOW}⚠️  Not found${NC}"
+kubectl scale deployment aiq-agent-backend -n aiq-agent --replicas=1 2>/dev/null && echo -e "${GREEN}✅ Scaled to 1${NC}" || echo -e "${YELLOW}⚠️  Not found${NC}"
+
+# Verify old Milvus stays down
+echo -n "4️⃣ Verifying old Milvus stays down... "
+OLD_MILVUS_COUNT=$(kubectl get pods -n rag-blueprint 2>/dev/null | grep "milvus-pulsarv3.*Running" | wc -l)
+OLD_MILVUS_COUNT=$(echo "$OLD_MILVUS_COUNT" | tr -d ' ')  # Trim whitespace
+if [ "$OLD_MILVUS_COUNT" -eq 0 ]; then
+    echo -e "${GREEN}✅ No old Milvus running${NC}"
+else
+    echo -e "${YELLOW}⚠️  Found $OLD_MILVUS_COUNT old Milvus pods (should investigate)${NC}"
+fi
 
 echo ""
 echo -e "${GREEN}✅ Wake up initiated${NC}"

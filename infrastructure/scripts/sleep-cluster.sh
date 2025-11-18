@@ -20,9 +20,10 @@ echo "This will scale down GPU-intensive components:"
 echo "  • NVIDIA Embedding NIM"
 echo "  • NVIDIA Instruct LLM NIM"
 echo "  • AIQ Agent Backend"
+echo "  • Old Milvus components (if any)"
 echo ""
 echo "Keeping running (lightweight):"
-echo "  • Milvus (vector database)"
+echo "  • Milvus Standalone (vector database with your data)"
 echo "  • Frontend"
 echo ""
 
@@ -51,6 +52,22 @@ kubectl scale deployment llama-instruct-nim -n nim --replicas=0 2>/dev/null && e
 # Scale down Backend
 echo -n "3️⃣ Backend... "
 kubectl scale deployment aiq-agent-backend -n aiq-agent --replicas=0 2>/dev/null && echo -e "${GREEN}✅ Scaled to 0${NC}" || echo -e "${YELLOW}⚠️  Not found${NC}"
+
+# Scale down OLD Milvus components (if they're somehow running)
+echo -n "4️⃣ Old Milvus (cleanup)... "
+SCALED_COUNT=0
+kubectl scale statefulset milvus-pulsarv3-broker -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+kubectl scale statefulset milvus-pulsarv3-proxy -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+kubectl scale statefulset milvus-pulsarv3-recovery -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+kubectl scale statefulset milvus-pulsarv3-zookeeper -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+kubectl scale statefulset milvus-pulsarv3-bookie -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+kubectl scale deployment milvus-etcd -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+kubectl scale deployment milvus-minio -n rag-blueprint --replicas=0 2>/dev/null && ((SCALED_COUNT++)) || true
+if [ $SCALED_COUNT -gt 0 ]; then
+    echo -e "${GREEN}✅ Scaled down $SCALED_COUNT components${NC}"
+else
+    echo -e "${YELLOW}⚠️  Already scaled down${NC}"
+fi
 
 echo ""
 echo -e "${GREEN}✅ Cluster is now in sleep mode${NC}"

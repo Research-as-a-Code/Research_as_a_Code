@@ -86,8 +86,19 @@ check_nim_ready() {
     else
         echo -e "${YELLOW}⏳ Not responding yet${NC}"
         
-        # Check if it's still building
-        local pod_name=$(kubectl get pods -n "$namespace" -l "app=${service_name%-service}" --no-headers 2>/dev/null | head -1 | awk '{print $1}')
+        # Check if it's still building - need to map service name to actual pod label
+        # embedding-service -> embedding-nim
+        # instruct-llm-service -> llama-instruct-nim
+        local pod_label=""
+        if [[ "$service_name" == "embedding-service" ]]; then
+            pod_label="app=embedding-nim"
+        elif [[ "$service_name" == "instruct-llm-service" ]]; then
+            pod_label="app=llama-instruct-nim"
+        else
+            pod_label="app=${service_name%-service}"
+        fi
+        
+        local pod_name=$(kubectl get pods -n "$namespace" -l "$pod_label" --no-headers 2>/dev/null | head -1 | awk '{print $1}')
         if [ -n "$pod_name" ]; then
             local last_log=$(kubectl logs -n "$namespace" "$pod_name" --tail=3 2>/dev/null | grep -E "Building|Compiling|startup|Uvicorn" | tail -1)
             if [ -n "$last_log" ]; then
@@ -102,17 +113,25 @@ check_nim_ready() {
 check_milvus_ready() {
     echo -n "   Checking Milvus... "
     
-    # Use wc -l instead of grep -c for clean integer output
-    local milvus_pods=$(kubectl get pods -n rag-blueprint 2>/dev/null | grep milvus | grep Running | wc -l)
-    # Trim whitespace to ensure valid integer
-    milvus_pods=$(echo "$milvus_pods" | tr -d ' ')
+    # Check specifically for milvus-standalone-standalone (the one we actually use)
+    local standalone_ready=$(kubectl get pods -n rag-blueprint -l component=standalone,app.kubernetes.io/instance=milvus-standalone --no-headers 2>/dev/null | grep Running | grep "1/1" | wc -l)
+    standalone_ready=$(echo "$standalone_ready" | tr -d ' ')
     
-    if [ "$milvus_pods" -ge 10 ]; then
-        echo -e "${GREEN}✅ Running ($milvus_pods pods)${NC}"
+    if [ "$standalone_ready" -eq 1 ]; then
+        echo -e "${GREEN}✅ Ready (milvus-standalone)${NC}"
         return 0
     else
-        echo -e "${YELLOW}⏳ Not ready ($milvus_pods pods)${NC}"
-        return 1
+        # Fallback: count all running milvus pods (old threshold was 10, now 4 is enough for standalone + deps)
+        local milvus_pods=$(kubectl get pods -n rag-blueprint 2>/dev/null | grep "milvus.*Running" | grep "1/1" | wc -l)
+        milvus_pods=$(echo "$milvus_pods" | tr -d ' ')
+        
+        if [ "$milvus_pods" -ge 4 ]; then
+            echo -e "${GREEN}✅ Running ($milvus_pods pods)${NC}"
+            return 0
+        else
+            echo -e "${YELLOW}⏳ Not ready ($milvus_pods pods)${NC}"
+            return 1
+        fi
     fi
 }
 
