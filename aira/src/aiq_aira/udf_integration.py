@@ -76,21 +76,39 @@ Available Tools:
   Takes a list of search results and returns a synthesized report string
 
 CRITICAL REQUIREMENTS:
-1. ONLY await async functions: search_rag(), search_web(), synthesize_findings()
-2. DO NOT await: log.append(), sources.append(), variables, or any list/dict operations
-3. Use try/except for error handling
-4. ABSOLUTELY MUST end with a return statement
-5. The return MUST be a dict with these EXACT keys: "report", "sources", "log"
-6. Do not use imports - tools are pre-loaded in namespace
-7. Context dict has these EXACT keys (use them as shown):
+1. INITIALIZE ALL VARIABLES AT THE START:
+   - log = []
+   - sources = []
+   - report = ""  ← MUST initialize this!
+   
+2. ONLY await async functions: search_rag(), search_web(), synthesize_findings()
+
+3. DO NOT await: log.append(), sources.append(), variables, or any list/dict operations
+
+4. Use try/except for error handling, but ALWAYS set report in except blocks:
+   try:
+       report = await synthesize_findings(data)
+   except Exception as e:
+       report = f"Error: {{{{str(e)}}}}"  ← MUST set report in except!
+
+5. ABSOLUTELY MUST end with a return statement
+
+6. The return MUST be a dict with these EXACT keys: "report", "sources", "log"
+
+7. Do not use imports - tools are pre-loaded in namespace
+
+8. Context dict has these EXACT keys (use them as shown):
    - context["topic"] - the research question/prompt
    - context["collection"] - the RAG collection name to search
    - context["report_organization"] - how to structure the report
    - context["search_web"] - whether to include web search
    NOTE: There is NO "query" key! Use context["topic"] for the question.
-8. **THESE ARE THE ONLY 3 TOOLS - DO NOT INVENT OR CALL OTHER FUNCTIONS**
-9. **If you need analysis, use synthesize_findings() - it handles ALL synthesis/analysis**
-10. **If a plan step doesn't map to a tool, SKIP IT or use synthesize_findings()**
+
+9. **THESE ARE THE ONLY 3 TOOLS - DO NOT INVENT OR CALL OTHER FUNCTIONS**
+
+10. **If you need analysis, use synthesize_findings() - it handles ALL synthesis/analysis**
+
+11. **If a plan step doesn't map to a tool, SKIP IT or use synthesize_findings()**
 
 ❌ FORBIDDEN - DO NOT USE:
 - Calling functions not in the available tools list
@@ -109,33 +127,40 @@ CRITICAL REQUIREMENTS:
 
 EXAMPLE - Tariff Research:
 ```python
-# Initialize tracking (NO await)
+# STEP 1: Initialize ALL variables at the start (NO await)
 log = []
 sources = []
+report = ""  # ← MUST initialize! Prevents "variable not defined" errors
 
-# Step 1: Search RAG using context variables
+# STEP 2: Search RAG using context variables
 log.append("Searching tariff database")  # NO await - list.append() is NOT async
 query_text = f"tariff codes for {{{{context['topic']}}}}"  # Use context["topic"]!
-tariff_results = await search_rag(  # YES await - search_rag() IS async
-    query_text,
-    {{{{context["collection"]}}}}  # Use context["collection"]!
-)
-sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})  # NO await
 
-# Step 2: Search web if enabled
-if {{{{context["search_web"]}}}}:  # Check context["search_web"]!
-    log.append("Searching web for additional context")  # NO await
-    web_results = await search_web(query_text)  # YES await
-    sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])  # NO await
-else:
-    web_results = []
+try:
+    tariff_results = await search_rag(  # YES await - search_rag() IS async
+        query_text,
+        {{{{context["collection"]}}}}  # Use context["collection"]!
+    )
+    sources.append({{"type": "rag", "content": tariff_results.get("content", "")}})  # NO await
+    
+    # STEP 3: Search web if enabled
+    if {{{{context["search_web"]}}}}:  # Check context["search_web"]!
+        log.append("Searching web for additional context")  # NO await
+        web_results = await search_web(query_text)  # YES await
+        sources.extend([{{"type": "web", "url": r.get("url", ""), "title": r.get("title", "")}} for r in web_results])  # NO await
+    else:
+        web_results = []
+    
+    # STEP 4: Synthesize all findings
+    log.append("Synthesizing findings")  # NO await
+    all_data = [tariff_results] + web_results  # NO await - just assignment
+    report = await synthesize_findings(all_data)  # YES await - set report here!
+    
+except Exception as e:
+    log.append(f"Error during research: {{{{str(e)}}}}")  # NO await
+    report = f"Research encountered an error: {{{{str(e)}}}}"  # ← MUST set report in except!
 
-# Step 3: Synthesize all findings
-log.append("Synthesizing findings")  # NO await
-all_data = [tariff_results] + web_results  # NO await - just assignment
-report = await synthesize_findings(all_data)  # YES await - synthesize_findings() IS async
-
-# Step 4: MANDATORY RETURN STATEMENT (NO await)
+# STEP 5: MANDATORY RETURN STATEMENT (NO await)
 return {{"report": report, "sources": sources, "log": log}}
 ```
 
@@ -144,10 +169,12 @@ Natural Language Strategy:
 
 NOW GENERATE THE CODE:
 - Write ONLY the Python function body (no function definition, no imports)
-- Start directly with variable initialization (e.g., log = [], sources = [])
-- Make async calls to the tools
-- End with a return statement that returns {{"report": ..., "sources": ..., "log": ...}}
+- FIRST LINE: Initialize ALL variables: log = [], sources = [], report = ""
+- Use try/except to catch errors and ALWAYS set report in except block
+- Make async calls to the tools (with await)
+- End with a return statement that returns {{"report": report, "sources": sources, "log": log}}
 - DO NOT forget the return statement!
+- REMINDER: report MUST be set before the return (either in try or in except)!
 
 CODE:
 """
