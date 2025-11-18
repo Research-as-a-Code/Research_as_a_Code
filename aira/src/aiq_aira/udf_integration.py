@@ -461,7 +461,7 @@ class UDFStrategyExecutor:
     
     async def _search_web_tool(self, query: str) -> List[Dict[str, str]]:
         """Tool: Search web using Tavily."""
-        logger.info(f"UDF Tool Call: search_web(query='{query[:50]}...')")
+        logger.info(f"🌐 UDF Tool Call: search_web(query='{query[:100]}')")
         
         if not self.tavily_api_key:
             logger.warning("Tavily API key not set, returning empty results")
@@ -470,6 +470,7 @@ class UDFStrategyExecutor:
         try:
             from langchain_community.tools import TavilySearchResults
             
+            logger.info("  Creating Tavily tool...")
             tool = TavilySearchResults(
                 max_results=3,
                 search_depth="advanced",
@@ -477,9 +478,11 @@ class UDFStrategyExecutor:
                 api_key=self.tavily_api_key
             )
             
+            logger.info("  Calling Tavily API...")
             results = await tool.ainvoke({"query": query})
+            logger.info(f"  ✅ Tavily returned {len(results) if isinstance(results, list) else 'unknown'} results")
             
-            return [
+            formatted_results = [
                 {
                     "content": r.get("content", ""),
                     "url": r.get("url", ""),
@@ -488,19 +491,23 @@ class UDFStrategyExecutor:
                 }
                 for r in results
             ]
+            logger.info(f"  ✅ search_web() completed with {len(formatted_results)} results")
+            return formatted_results
         except Exception as e:
-            logger.error(f"Web search failed: {e}")
+            logger.error(f"❌ Web search failed: {e}", exc_info=True)
             return []
     
     async def _synthesize_findings_tool(self, data: List[Dict]) -> str:
         """Tool: Synthesize research findings using Nemotron NIM."""
-        logger.info(f"UDF Tool Call: synthesize_findings(data with {len(data)} items)")
+        logger.info(f"📝 UDF Tool Call: synthesize_findings(data with {len(data)} items)")
         
         # Prepare synthesis prompt
+        logger.info("  Preparing findings text...")
         findings_text = "\n\n".join([
             f"Source {i+1} ({item.get('source', 'unknown')}):\n{item.get('content', '')}"
             for i, item in enumerate(data)
         ])
+        logger.info(f"  Findings text length: {len(findings_text)} chars")
         
         synthesis_prompt = f"""Synthesize the following research findings into a coherent report:
 
@@ -513,8 +520,10 @@ Create a structured report that:
 4. Cites sources appropriately
 
 Report:"""
+        logger.info(f"  Synthesis prompt length: {len(synthesis_prompt)} chars")
         
         try:
+            logger.info(f"  Opening HTTP session to {self.nemotron_nim_url}...")
             async with aiohttp.ClientSession() as session:
                 headers = {
                     "Content-Type": "application/json",
@@ -529,18 +538,21 @@ Report:"""
                     "temperature": 0.7
                 }
                 
+                logger.info("  Calling Instruct LLM NIM...")
                 async with session.post(
                     f"{self.nemotron_nim_url}/v1/chat/completions",
                     headers=headers,
                     json=data_payload,
                     timeout=aiohttp.ClientTimeout(total=120)
                 ) as response:
+                    logger.info(f"  Response status: {response.status}")
                     response.raise_for_status()
                     result = await response.json()
-                    
-                    return result["choices"][0]["message"]["content"]
+                    synthesized = result["choices"][0]["message"]["content"]
+                    logger.info(f"  ✅ synthesize_findings() completed. Report length: {len(synthesized)} chars")
+                    return synthesized
         except Exception as e:
-            logger.error(f"Synthesis failed: {e}")
+            logger.error(f"❌ Synthesis failed: {e}", exc_info=True)
             return f"Error synthesizing findings: {str(e)}"
     
     async def execute_strategy(self, compiled_code: str, context: Dict[str, Any]) -> UDFExecutionResult:
@@ -554,7 +566,10 @@ Report:"""
         Returns:
             UDFExecutionResult with the synthesized report and metadata
         """
-        logger.info("Executing UDF strategy code")
+        logger.info("=" * 80)
+        logger.info("UDF EXECUTOR: Starting strategy execution")
+        logger.info(f"  Context: topic='{context.get('topic', 'N/A')[:50]}...', collection='{context.get('collection', 'N/A')}'")
+        logger.info("=" * 80)
         
         execution_log = []
         sources = []
@@ -574,14 +589,18 @@ Report:"""
         
         try:
             # Wrap code in an async function
+            logger.info("📦 Wrapping code in async function...")
             wrapped_code = f"""
 async def _udf_execute():
     {compiled_code.replace(chr(10), chr(10) + '    ')}
 """
             
             # Compile and execute
+            logger.info("🔧 Compiling wrapped code...")
             exec(wrapped_code, namespace)
+            logger.info("▶️  Executing async function...")
             result = await namespace["_udf_execute"]()
+            logger.info(f"✅ Execution completed. Result type: {type(result)}")
             
             # Validate result format - handle None gracefully
             if result is None:
@@ -594,6 +613,10 @@ async def _udf_execute():
             elif not isinstance(result, dict):
                 raise ValueError(f"Strategy must return a dict, got {type(result)}")
             
+            logger.info(f"📊 Report length: {len(result.get('report', ''))}, Sources: {len(result.get('sources', []))}")
+            logger.info("=" * 80)
+            logger.info("UDF EXECUTOR: Returning success")
+            logger.info("=" * 80)
             return UDFExecutionResult(
                 success=True,
                 synthesized_report=result.get("report", ""),
@@ -602,7 +625,10 @@ async def _udf_execute():
             )
             
         except Exception as e:
-            logger.error(f"UDF execution failed: {e}", exc_info=True)
+            logger.error(f"❌ UDF execution failed: {e}", exc_info=True)
+            logger.info("=" * 80)
+            logger.info("UDF EXECUTOR: Returning error")
+            logger.info("=" * 80)
             return UDFExecutionResult(
                 success=False,
                 synthesized_report="",

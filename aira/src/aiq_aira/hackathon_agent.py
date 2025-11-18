@@ -159,7 +159,11 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     This is the core innovation - the agent dynamically generates and executes
     a custom research strategy on-the-fly.
     """
-    logger.info("DYNAMIC STRATEGY NODE: Executing UDF")
+    import asyncio
+    
+    logger.info("=" * 80)
+    logger.info("DYNAMIC STRATEGY NODE: Starting UDF execution")
+    logger.info("=" * 80)
     
     writer({"logs": ["🚀 Executing dynamic UDF strategy..."]})
     
@@ -168,7 +172,7 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     
     if not udf_integration:
         error_msg = "UDF integration not configured"
-        logger.error(error_msg)
+        logger.error(f"❌ {error_msg}")
         return {
             "udf_result": {"success": False, "error": error_msg},
             "logs": [f"❌ {error_msg}"]
@@ -189,14 +193,41 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         "search_web": state.get("search_web", True)
     }
     
+    logger.info("📝 Starting UDF compilation...")
     writer({"logs": ["📝 Compiling strategy to executable code..."]})
     
-    result: UDFExecutionResult = await udf_integration.execute_dynamic_strategy(
-        natural_language_plan=strategy,
-        context=context
-    )
+    try:
+        # Add timeout protection for UDF execution (5 minutes max)
+        logger.info("⏰ Starting UDF execution with 5-minute timeout...")
+        result: UDFExecutionResult = await asyncio.wait_for(
+            udf_integration.execute_dynamic_strategy(
+                natural_language_plan=strategy,
+                context=context
+            ),
+            timeout=300.0  # 5 minutes
+        )
+        logger.info(f"✅ UDF execution completed. Success: {result.success}")
+    except asyncio.TimeoutError:
+        error_msg = "UDF execution timed out after 5 minutes"
+        logger.error(f"❌ {error_msg}")
+        writer({"logs": [f"❌ {error_msg}"]})
+        return {
+            "udf_result": {"success": False, "error": error_msg},
+            "running_summary": f"Error: {error_msg}",
+            "logs": [f"❌ {error_msg}"]
+        }
+    except Exception as e:
+        error_msg = f"UDF execution exception: {str(e)}"
+        logger.error(f"❌ {error_msg}", exc_info=True)
+        writer({"logs": [f"❌ {error_msg}"]})
+        return {
+            "udf_result": {"success": False, "error": str(e)},
+            "running_summary": f"Error: {str(e)}",
+            "logs": [f"❌ {error_msg}"]
+        }
     
     if result.success:
+        logger.info(f"✅ UDF SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
         writer({"logs": [
             "✅ UDF execution completed successfully",
             f"📊 Synthesized report ({len(result.synthesized_report)} chars)",
@@ -209,7 +240,7 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
             for src in result.sources
         ])
         
-        return {
+        return_value = {
             "udf_result": {
                 "success": True,
                 "report": result.synthesized_report,
@@ -219,13 +250,23 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
             "citations": citations_formatted,
             "logs": ["✅ UDF strategy execution complete"]
         }
+        logger.info("=" * 80)
+        logger.info("DYNAMIC STRATEGY NODE: Returning success result")
+        logger.info("=" * 80)
+        return return_value
     else:
         error_msg = f"UDF execution failed: {result.error}"
+        logger.error(f"❌ {error_msg}")
         writer({"logs": [f"❌ {error_msg}"]})
-        return {
+        return_value = {
             "udf_result": {"success": False, "error": result.error},
+            "running_summary": f"UDF Error: {result.error}",
             "logs": [f"❌ {error_msg}"]
         }
+        logger.info("=" * 80)
+        logger.info("DYNAMIC STRATEGY NODE: Returning error result")
+        logger.info("=" * 80)
+        return return_value
 
 
 async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig, writer: StreamWriter):
