@@ -123,6 +123,12 @@ CRITICAL REQUIREMENTS:
     - search_web() returns List[Dict] → Use for item in results: item.get("key")
     - ❌ NEVER do: list_result.get("key") → Will cause "list has no attribute 'get'" error!
 
+13. **CRITICAL: These are FUNCTION CALLS, not dictionary keys!**
+    - ✅ CORRECT: report = await synthesize_findings(data)  # Function call with ()
+    - ❌ WRONG: report = data['synthesize']  # KeyError: 'synthesize'!
+    - ❌ WRONG: report = synthesize_findings  # Missing await and ()!
+    - Remember: ALWAYS use () to call functions and await for async functions!
+
 ❌ FORBIDDEN - DO NOT USE:
 - Calling functions not in the available tools list
 - Inventing helper functions (analyze_*, calculate_*, process_*, evaluate_*)
@@ -195,7 +201,9 @@ NOW GENERATE THE CODE:
 - Write ONLY the Python function body (no function definition, no imports)
 - FIRST LINE: Initialize ALL variables: log = [], sources = [], report = ""
 - Use try/except to catch errors and ALWAYS set report in except block
-- Make async calls to the tools (with await)
+- Make async calls to the tools WITH PARENTHESES: await search_rag()
+- CRITICAL: Use () to call functions - they are FUNCTION CALLS, not dict keys!
+- CRITICAL: Always await async functions: await search_rag(), await search_web(), await synthesize_findings()
 - End with a return statement that returns {{"report": report, "sources": sources, "log": log}}
 - DO NOT forget the return statement!
 - REMINDER: report MUST be set before the return (either in try or in except)!
@@ -501,7 +509,7 @@ Report:"""
                     "Authorization": "Bearer not-needed"
                 }
                 data_payload = {
-                    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+                    "model": "nvidia/llama-3.1-nemotron-nano-8b-v1",
                     "messages": [
                         {"role": "user", "content": synthesis_prompt}
                     ],
