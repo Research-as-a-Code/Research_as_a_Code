@@ -378,7 +378,10 @@ class UDFStrategyExecutor:
         """Tool: Search RAG using direct Milvus + Embedding NIM (same as main agent)."""
         import sys
         print("🔷 _search_rag_tool ENTERED!", flush=True, file=sys.stderr)
-        logger.info(f"UDF Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
+        print(f"🔷 About to call logger.info with query length: {len(query)}", flush=True, file=sys.stderr)
+        # Skip logger.info - it might be causing a deadlock!
+        # logger.info(f"UDF Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
+        print(f"🔷 Skipped logger.info, continuing...", flush=True, file=sys.stderr)
         
         try:
             from pymilvus import connections, Collection, utility
@@ -471,16 +474,17 @@ class UDFStrategyExecutor:
     
     async def _search_web_tool(self, query: str) -> List[Dict[str, str]]:
         """Tool: Search web using Tavily."""
-        logger.info(f"🌐 UDF Tool Call: search_web(query='{query[:100]}')")
+        import sys
+        print(f"🔷 _search_web_tool called with query length: {len(query)}", flush=True, file=sys.stderr)
         
         if not self.tavily_api_key:
-            logger.warning("Tavily API key not set, returning empty results")
+            print("⚠️  Tavily API key not set, returning empty results", flush=True, file=sys.stderr)
             return []
         
         try:
             from langchain_community.tools import TavilySearchResults
             
-            logger.info("  Creating Tavily tool...")
+            print("🔷 Creating Tavily tool...", flush=True, file=sys.stderr)
             tool = TavilySearchResults(
                 max_results=3,
                 search_depth="advanced",
@@ -488,9 +492,9 @@ class UDFStrategyExecutor:
                 api_key=self.tavily_api_key
             )
             
-            logger.info("  Calling Tavily API...")
+            print("🔷 Calling Tavily API...", flush=True, file=sys.stderr)
             results = await tool.ainvoke({"query": query})
-            logger.info(f"  ✅ Tavily returned {len(results) if isinstance(results, list) else 'unknown'} results")
+            print(f"🔷 Tavily returned {len(results) if isinstance(results, list) else 'unknown'} results", flush=True, file=sys.stderr)
             
             formatted_results = [
                 {
@@ -501,23 +505,24 @@ class UDFStrategyExecutor:
                 }
                 for r in results
             ]
-            logger.info(f"  ✅ search_web() completed with {len(formatted_results)} results")
+            print(f"🔷 search_web() completed with {len(formatted_results)} results", flush=True, file=sys.stderr)
             return formatted_results
         except Exception as e:
-            logger.error(f"❌ Web search failed: {e}", exc_info=True)
+            print(f"❌ Web search failed: {e}", flush=True, file=sys.stderr)
             return []
     
     async def _synthesize_findings_tool(self, data: List[Dict]) -> str:
         """Tool: Synthesize research findings using Nemotron NIM."""
-        logger.info(f"📝 UDF Tool Call: synthesize_findings(data with {len(data)} items)")
+        import sys
+        print(f"🔷 _synthesize_findings_tool called with {len(data)} items", flush=True, file=sys.stderr)
         
         # Prepare synthesis prompt
-        logger.info("  Preparing findings text...")
+        print("🔷 Preparing findings text...", flush=True, file=sys.stderr)
         findings_text = "\n\n".join([
             f"Source {i+1} ({item.get('source', 'unknown')}):\n{item.get('content', '')}"
             for i, item in enumerate(data)
         ])
-        logger.info(f"  Findings text length: {len(findings_text)} chars")
+        print(f"🔷 Findings text length: {len(findings_text)} chars", flush=True, file=sys.stderr)
         
         synthesis_prompt = f"""Synthesize the following research findings into a coherent report:
 
@@ -530,10 +535,10 @@ Create a structured report that:
 4. Cites sources appropriately
 
 Report:"""
-        logger.info(f"  Synthesis prompt length: {len(synthesis_prompt)} chars")
+        print(f"🔷 Synthesis prompt length: {len(synthesis_prompt)} chars", flush=True, file=sys.stderr)
         
         try:
-            logger.info(f"  Opening HTTP session to {self.nemotron_nim_url}...")
+            print(f"🔷 Opening HTTP session to {self.nemotron_nim_url}...", flush=True, file=sys.stderr)
             async with aiohttp.ClientSession() as session:
                 headers = {
                     "Content-Type": "application/json",
@@ -548,21 +553,21 @@ Report:"""
                     "temperature": 0.7
                 }
                 
-                logger.info("  Calling Instruct LLM NIM...")
+                print("🔷 Calling Instruct LLM NIM...", flush=True, file=sys.stderr)
                 async with session.post(
                     f"{self.nemotron_nim_url}/v1/chat/completions",
                     headers=headers,
                     json=data_payload,
                     timeout=aiohttp.ClientTimeout(total=120)
                 ) as response:
-                    logger.info(f"  Response status: {response.status}")
+                    print(f"🔷 Response status: {response.status}", flush=True, file=sys.stderr)
                     response.raise_for_status()
                     result = await response.json()
                     synthesized = result["choices"][0]["message"]["content"]
-                    logger.info(f"  ✅ synthesize_findings() completed. Report length: {len(synthesized)} chars")
+                    print(f"🔷 synthesize_findings() completed. Report length: {len(synthesized)} chars", flush=True, file=sys.stderr)
                     return synthesized
         except Exception as e:
-            logger.error(f"❌ Synthesis failed: {e}", exc_info=True)
+            print(f"❌ Synthesis failed: {e}", flush=True, file=sys.stderr)
             return f"Error synthesizing findings: {str(e)}"
     
     async def execute_strategy(self, compiled_code: str, context: Dict[str, Any]) -> UDFExecutionResult:
