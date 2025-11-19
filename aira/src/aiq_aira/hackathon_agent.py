@@ -85,13 +85,15 @@ class HackathonAgentState(TypedDict):
 # Agent Nodes
 # ========================================
 
-async def planner_node(state: HackathonAgentState, config: RunnableConfig, writer: StreamWriter):
+async def planner_node(state: HackathonAgentState, config: RunnableConfig):
     """
     Planner node: Analyzes the research prompt and decides the strategy.
     
     Decision logic:
     - Complex, multi-domain research → Use UDF dynamic strategy
     - Straightforward queries → Use standard AI-Q RAG pipeline
+    
+    NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
     logger.info("PLANNER NODE: Analyzing research prompt")
     
@@ -152,12 +154,14 @@ Respond with JSON:
         }
 
 
-async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConfig, writer: StreamWriter):
+async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConfig):
     """
     UDF Dynamic Strategy Node: Executes the UDF strategy-as-code engine.
     
     This is the core innovation - the agent dynamically generates and executes
     a custom research strategy on-the-fly.
+    
+    NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
     import asyncio
     import sys
@@ -170,8 +174,6 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     logger.info("=" * 80)
     logger.info("DYNAMIC STRATEGY NODE: Starting UDF execution")
     logger.info("=" * 80)
-    
-    writer({"logs": ["🚀 Executing dynamic UDF strategy..."]})
     
     # Get UDF integration from config
     udf_integration: UDFIntegration = config["configurable"].get("udf_integration")
@@ -200,7 +202,6 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     }
     
     logger.info("📝 Starting UDF compilation...")
-    writer({"logs": ["📝 Compiling strategy to executable code..."]})
     
     try:
         # Add timeout protection for UDF execution (5 minutes max)
@@ -216,7 +217,6 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     except asyncio.TimeoutError:
         error_msg = "UDF execution timed out after 5 minutes"
         logger.error(f"❌ {error_msg}")
-        writer({"logs": [f"❌ {error_msg}"]})
         return {
             "udf_result": {"success": False, "error": error_msg},
             "running_summary": f"Error: {error_msg}",
@@ -225,7 +225,6 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     except Exception as e:
         error_msg = f"UDF execution exception: {str(e)}"
         logger.error(f"❌ {error_msg}", exc_info=True)
-        writer({"logs": [f"❌ {error_msg}"]})
         return {
             "udf_result": {"success": False, "error": str(e)},
             "running_summary": f"Error: {str(e)}",
@@ -234,11 +233,6 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     
     if result.success:
         logger.info(f"✅ UDF SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
-        writer({"logs": [
-            "✅ UDF execution completed successfully",
-            f"📊 Synthesized report ({len(result.synthesized_report)} chars)",
-            f"📚 Retrieved {len(result.sources)} sources"
-        ]})
         
         # Format citations
         citations_formatted = "\n".join([
@@ -263,7 +257,6 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     else:
         error_msg = f"UDF execution failed: {result.error}"
         logger.error(f"❌ {error_msg}")
-        writer({"logs": [f"❌ {error_msg}"]})
         return_value = {
             "udf_result": {"success": False, "error": result.error},
             "running_summary": f"UDF Error: {result.error}",
@@ -275,11 +268,13 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         return return_value
 
 
-async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig, writer: StreamWriter):
+async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig):
     """
     Simple RAG pipeline: Uses the standard AI-Q query → research → summarize flow.
     
     This reuses the existing AI-Q nodes.
+    
+    NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
     logger.info("SIMPLE RAG PIPELINE: Running standard AI-Q flow")
     
