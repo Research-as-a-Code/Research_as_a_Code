@@ -586,9 +586,11 @@ Report:"""
         logger.info("=" * 80)
         print("🟡 All logger.info calls complete!", flush=True, file=sys.stderr)
         
+        print("🟡 Creating execution_log and sources...", flush=True, file=sys.stderr)
         execution_log = []
         sources = []
         
+        print("🟡 About to create namespace dict...", flush=True, file=sys.stderr)
         # Create the execution namespace with available tools
         namespace = {
             "search_rag": self._search_rag_tool,
@@ -601,10 +603,14 @@ Report:"""
             "asyncio": asyncio,
             "logger": logger
         }
+        print("🟡 Namespace created successfully!", flush=True, file=sys.stderr)
         
+        print("🟡 Entering try block...", flush=True, file=sys.stderr)
         try:
             # Wrap code in an async function
+            print("🟡 About to log 'Wrapping code'...", flush=True, file=sys.stderr)
             logger.info("📦 Wrapping code in async function...")
+            print("🟡 Logged 'Wrapping code'!", flush=True, file=sys.stderr)
             wrapped_code = f"""
 async def _udf_execute():
     {compiled_code.replace(chr(10), chr(10) + '    ')}
