@@ -402,7 +402,7 @@ async def generate_research_stream(request: ResearchRequest):
             # Use astream_events() for granular streaming of internal node operations
             # This captures writer() calls and intermediate operations within nodes
             # Regular astream() only yields when nodes RETURN (causing superstep issues)
-            keepalive_interval = 10  # Send keepalive if no event for 10 seconds
+            keepalive_interval = 120  # Send keepalive if no event for 120 seconds (increased for long HTTP calls)
             agent_stream = agent_graph.astream_events(
                 initial_state, 
                 request_config,
