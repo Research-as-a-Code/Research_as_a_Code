@@ -574,6 +574,8 @@ Report:"""
         Returns:
             UDFExecutionResult with the synthesized report and metadata
         """
+        import sys
+        print("🟡 EXECUTOR execute_strategy ENTERED!", flush=True, file=sys.stderr)
         logger.info("=" * 80)
         logger.info("UDF EXECUTOR: Starting strategy execution")
         logger.info(f"  Context: topic='{context.get('topic', 'N/A')[:50]}...', collection='{context.get('collection', 'N/A')}'")
@@ -697,7 +699,10 @@ class UDFIntegration:
         Returns:
             UDFExecutionResult with synthesized findings
         """
+        import sys
+        print("🟢 UDF execute_dynamic_strategy called!", flush=True, file=sys.stderr)
         logger.info("Starting UDF dynamic strategy execution")
+        print("🟢 About to compile strategy...", flush=True, file=sys.stderr)
         
         # Step 1: Compile the strategy
         try:
@@ -725,10 +730,12 @@ class UDFIntegration:
             )
         
         # Step 2: Execute the compiled code
+        print("🟢 Compilation done! About to execute code...", flush=True, file=sys.stderr)
         result = await self.executor.execute_strategy(
             compiled_code=compiled_code,
             context=context or {}
         )
+        print(f"🟢 Execution returned! Success: {result.success}", flush=True, file=sys.stderr)
         
         logger.info(f"UDF execution completed. Success: {result.success}")
         return result
