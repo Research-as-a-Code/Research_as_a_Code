@@ -173,36 +173,45 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     logger.info("=" * 80)
     
     # Get UDF integration from config
+    print("🔵 Attempting to get udf_integration from config...", flush=True, file=sys.stderr)
     udf_integration: UDFIntegration = config["configurable"].get("udf_integration")
+    print(f"🔵 udf_integration: {type(udf_integration)}", flush=True, file=sys.stderr)
     
     if not udf_integration:
         error_msg = "UDF integration not configured"
         logger.error(f"❌ {error_msg}")
+        print(f"❌ {error_msg}", flush=True, file=sys.stderr)
         return {
             "udf_result": {"success": False, "error": error_msg},
             "logs": [f"❌ {error_msg}"]
         }
     
     # Execute UDF
+    print("🔵 Getting strategy from state...", flush=True, file=sys.stderr)
     strategy = state.get("udf_strategy", "")
+    print(f"🔵 strategy length: {len(str(strategy))}", flush=True, file=sys.stderr)
     
     # Convert dict plan to string if needed (LLM sometimes returns structured JSON)
     if isinstance(strategy, dict):
         import json
         strategy = json.dumps(strategy, indent=2)
     
+    print("🔵 Building context...", flush=True, file=sys.stderr)
     context = {
         "topic": state["research_prompt"],
         "report_organization": state["report_organization"],
         "collection": state.get("collection", ""),
         "search_web": state.get("search_web", True)
     }
+    print(f"🔵 Context built: topic={context['topic'][:50]}...", flush=True, file=sys.stderr)
     
     logger.info("📝 Starting UDF compilation...")
+    print("🔵 About to call execute_dynamic_strategy...", flush=True, file=sys.stderr)
     
     try:
         # Add timeout protection for UDF execution (5 minutes max)
         logger.info("⏰ Starting UDF execution with 5-minute timeout...")
+        print("⏰ Calling asyncio.wait_for...", flush=True, file=sys.stderr)
         result: UDFExecutionResult = await asyncio.wait_for(
             udf_integration.execute_dynamic_strategy(
                 natural_language_plan=strategy,
@@ -210,6 +219,7 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
             ),
             timeout=300.0  # 5 minutes
         )
+        print(f"✅ execute_dynamic_strategy returned! Success: {result.success}", flush=True, file=sys.stderr)
         logger.info(f"✅ UDF execution completed. Success: {result.success}")
     except asyncio.TimeoutError:
         error_msg = "UDF execution timed out after 5 minutes"
