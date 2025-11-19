@@ -615,6 +615,8 @@ Report:"""
             print("🟡 About to create wrapped_code string...", flush=True, file=sys.stderr)
             wrapped_code = f"""
 async def _udf_execute():
+    import sys
+    print("🔶 INSIDE _udf_execute()! Generated code is starting...", flush=True, file=sys.stderr)
     {compiled_code.replace(chr(10), chr(10) + '    ')}
 """
             print("🟡 wrapped_code created!", flush=True, file=sys.stderr)
