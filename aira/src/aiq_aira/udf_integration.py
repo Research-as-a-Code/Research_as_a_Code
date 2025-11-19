@@ -611,16 +611,24 @@ Report:"""
             print("🟡 About to log 'Wrapping code'...", flush=True, file=sys.stderr)
             logger.info("📦 Wrapping code in async function...")
             print("🟡 Logged 'Wrapping code'!", flush=True, file=sys.stderr)
+            print(f"🟡 compiled_code length: {len(compiled_code)}", flush=True, file=sys.stderr)
+            print("🟡 About to create wrapped_code string...", flush=True, file=sys.stderr)
             wrapped_code = f"""
 async def _udf_execute():
     {compiled_code.replace(chr(10), chr(10) + '    ')}
 """
+            print("🟡 wrapped_code created!", flush=True, file=sys.stderr)
             
             # Compile and execute
+            print("🟡 About to log 'Compiling'...", flush=True, file=sys.stderr)
             logger.info("🔧 Compiling wrapped code...")
+            print("🟡 About to exec()...", flush=True, file=sys.stderr)
             exec(wrapped_code, namespace)
+            print("🟡 exec() completed!", flush=True, file=sys.stderr)
             logger.info("▶️  Executing async function...")
+            print("🟡 About to await _udf_execute()...", flush=True, file=sys.stderr)
             result = await namespace["_udf_execute"]()
+            print("🟡 _udf_execute() completed!", flush=True, file=sys.stderr)
             logger.info(f"✅ Execution completed. Result type: {type(result)}")
             
             # Validate result format - handle None gracefully
