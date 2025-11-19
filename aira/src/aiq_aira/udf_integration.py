@@ -554,18 +554,25 @@ Report:"""
                 }
                 
                 print("🔷 Calling Instruct LLM NIM...", flush=True, file=sys.stderr)
-                async with session.post(
-                    f"{self.nemotron_nim_url}/v1/chat/completions",
-                    headers=headers,
-                    json=data_payload,
-                    timeout=aiohttp.ClientTimeout(total=120)
-                ) as response:
-                    print(f"🔷 Response status: {response.status}", flush=True, file=sys.stderr)
-                    response.raise_for_status()
-                    result = await response.json()
-                    synthesized = result["choices"][0]["message"]["content"]
-                    print(f"🔷 synthesize_findings() completed. Report length: {len(synthesized)} chars", flush=True, file=sys.stderr)
-                    return synthesized
+                try:
+                    async with session.post(
+                        f"{self.nemotron_nim_url}/v1/chat/completions",
+                        headers=headers,
+                        json=data_payload,
+                        timeout=aiohttp.ClientTimeout(total=60)  # Reduced from 120 to 60
+                    ) as response:
+                        print(f"🔷 Response status: {response.status}", flush=True, file=sys.stderr)
+                        response.raise_for_status()
+                        result = await response.json()
+                        synthesized = result["choices"][0]["message"]["content"]
+                        print(f"🔷 synthesize_findings() completed. Report length: {len(synthesized)} chars", flush=True, file=sys.stderr)
+                        return synthesized
+                except asyncio.TimeoutError:
+                    print(f"❌ Instruct LLM NIM timed out after 60s", flush=True, file=sys.stderr)
+                    return "Error: LLM synthesis timed out after 60 seconds"
+                except Exception as http_error:
+                    print(f"❌ Instruct LLM NIM HTTP error: {http_error}", flush=True, file=sys.stderr)
+                    return f"Error: LLM HTTP request failed: {str(http_error)}"
         except Exception as e:
             print(f"❌ Synthesis failed: {e}", flush=True, file=sys.stderr)
             return f"Error synthesizing findings: {str(e)}"
