@@ -425,15 +425,19 @@ async def generate_research_stream(request: ResearchRequest):
                     event_data_inner = event.get("data", {})
                     
                     # Only process chain_end events (when nodes complete)
-                    if event_type == "on_chain_end" and event_name in ["planner", "simple_rag", "dynamic_strategy", "final_report"]:
-                        logger.info(f"  └─ Node completed: {event_name}")
+                    # Check both event name and metadata for node identification
+                    event_metadata = event.get("metadata", {})
+                    langgraph_node = event_metadata.get("langgraph_node", event_name)
+                    
+                    if event_type == "on_chain_end" and langgraph_node in ["planner", "simple_rag", "dynamic_strategy", "final_report"]:
+                        logger.info(f"  └─ Node completed: {langgraph_node} (event_name={event_name})")
                         
                         # Extract output from the event
                         output = event_data_inner.get("output", {})
                         
                         # Send SSE event
                         sse_event = {
-                            "node": event_name,
+                            "node": langgraph_node,
                             "state": output,
                             "type": "update"
                         }
