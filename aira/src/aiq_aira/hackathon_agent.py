@@ -121,11 +121,9 @@ Respond with JSON:
     
     # Stream response
     response_text = ""
-    writer({"logs": ["🤔 Analyzing research complexity..."]})
     
     async for chunk in chain.astream({"topic": prompt_text, "report_org": report_org}):
         response_text += chunk.content
-        writer({"logs": [chunk.content]})
     
     # Parse response
     import json
@@ -138,7 +136,6 @@ Respond with JSON:
         plan = decision.get("plan", "")
         
         log_msg = f"✅ Strategy: {strategy}\n💡 Rationale: {rationale}"
-        writer({"logs": [log_msg]})
         
         return {
             "plan": json.dumps(decision),
@@ -278,27 +275,21 @@ async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig
     """
     logger.info("SIMPLE RAG PIPELINE: Running standard AI-Q flow")
     
-    writer({"logs": ["📋 Generating research queries..."]})
+    # Create a no-op writer for AI-Q nodes that still expect it
+    def noop_writer(data):
+        pass
     
     # Step 1: Generate queries (reuse AI-Q node)
-    query_result = await generate_query(state, config, writer)
+    query_result = await generate_query(state, config, noop_writer)
     state.update(query_result)
     
-    writer({"logs": [f"✅ Generated {len(state.get('queries', []))} queries"]})
-    
     # Step 2: Web research (reuse AI-Q node)
-    writer({"logs": ["🔍 Conducting research..."]})
-    research_result = await web_research(state, config, writer)
+    research_result = await web_research(state, config, noop_writer)
     state.update(research_result)
     
-    writer({"logs": ["✅ Research complete"]})
-    
     # Step 3: Summarize (reuse AI-Q node)
-    writer({"logs": ["📝 Synthesizing report..."]})
-    summary_result = await summarize_sources(state, config, writer)
+    summary_result = await summarize_sources(state, config, noop_writer)
     state.update(summary_result)
-    
-    writer({"logs": ["✅ Report synthesized"]})
     
     return {
         "running_summary": state.get("running_summary", ""),
@@ -315,14 +306,14 @@ async def final_report_node(state: HackathonAgentState, config: RunnableConfig, 
     """
     logger.info("FINAL REPORT NODE: Finalizing report")
     
-    writer({"logs": ["📄 Finalizing report with citations..."]})
+    # Create a no-op writer for AI-Q nodes that still expect it
+    def noop_writer(data):
+        pass
     
     # Reuse AI-Q's finalization logic
-    finalize_result = await finalize_summary(state, config, writer)
+    finalize_result = await finalize_summary(state, config, noop_writer)
     
     final_report = finalize_result.get("final_report", state.get("running_summary", ""))
-    
-    writer({"logs": ["✅ Report finalized and ready!"]})
     
     return {
         "final_report": final_report,
