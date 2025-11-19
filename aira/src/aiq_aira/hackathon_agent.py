@@ -160,6 +160,12 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     a custom research strategy on-the-fly.
     """
     import asyncio
+    import sys
+    
+    # CRITICAL DEBUG: Use print() to ensure output appears
+    print("=" * 80, flush=True, file=sys.stderr)
+    print("🔴 DYNAMIC STRATEGY NODE: Starting UDF execution", flush=True, file=sys.stderr)
+    print("=" * 80, flush=True, file=sys.stderr)
     
     logger.info("=" * 80)
     logger.info("DYNAMIC STRATEGY NODE: Starting UDF execution")
