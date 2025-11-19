@@ -576,10 +576,15 @@ Report:"""
         """
         import sys
         print("🟡 EXECUTOR execute_strategy ENTERED!", flush=True, file=sys.stderr)
+        print("🟡 About to call logger.info line 1...", flush=True, file=sys.stderr)
         logger.info("=" * 80)
+        print("🟡 Called logger.info line 1, about to call line 2...", flush=True, file=sys.stderr)
         logger.info("UDF EXECUTOR: Starting strategy execution")
+        print("🟡 Called logger.info line 2, about to call line 3...", flush=True, file=sys.stderr)
         logger.info(f"  Context: topic='{context.get('topic', 'N/A')[:50]}...', collection='{context.get('collection', 'N/A')}'")
+        print("🟡 Called logger.info line 3, about to call line 4...", flush=True, file=sys.stderr)
         logger.info("=" * 80)
+        print("🟡 All logger.info calls complete!", flush=True, file=sys.stderr)
         
         execution_log = []
         sources = []
