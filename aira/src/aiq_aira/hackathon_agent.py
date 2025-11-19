@@ -298,11 +298,13 @@ async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig
     }
 
 
-async def final_report_node(state: HackathonAgentState, config: RunnableConfig, writer: StreamWriter):
+async def final_report_node(state: HackathonAgentState, config: RunnableConfig):
     """
     Final report node: Formats and finalizes the report with citations.
     
     This is called regardless of which path (UDF or RAG) was taken.
+    
+    NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
     logger.info("FINAL REPORT NODE: Finalizing report")
     
