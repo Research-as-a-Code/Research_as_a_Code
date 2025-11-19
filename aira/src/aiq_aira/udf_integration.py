@@ -376,6 +376,8 @@ class UDFStrategyExecutor:
         
     async def _search_rag_tool(self, query: str, collection: str) -> Dict[str, Any]:
         """Tool: Search RAG using direct Milvus + Embedding NIM (same as main agent)."""
+        import sys
+        print("🔷 _search_rag_tool ENTERED!", flush=True, file=sys.stderr)
         logger.info(f"UDF Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
         
         try:
@@ -617,7 +619,11 @@ Report:"""
 async def _udf_execute():
     import sys
     print("🔶 INSIDE _udf_execute()! Generated code is starting...", flush=True, file=sys.stderr)
-    {compiled_code.replace(chr(10), chr(10) + '    ')}
+    try:
+        {compiled_code.replace(chr(10), chr(10) + '        ')}
+    except Exception as e:
+        print(f"🔶 EXCEPTION in generated code: {{type(e).__name__}}: {{str(e)}}", flush=True, file=sys.stderr)
+        raise
 """
             print("🟡 wrapped_code created!", flush=True, file=sys.stderr)
             
