@@ -435,10 +435,31 @@ async def generate_research_stream(request: ResearchRequest):
                         # Extract output from the event
                         output = event_data_inner.get("output", {})
                         
+                        # Convert LangChain objects to JSON-serializable dicts
+                        def make_serializable(obj):
+                            """Recursively convert objects to JSON-serializable format."""
+                            if hasattr(obj, 'dict'):
+                                # LangChain objects with .dict() method
+                                return obj.dict()
+                            elif hasattr(obj, '__dict__'):
+                                # Generic objects with __dict__
+                                return {k: make_serializable(v) for k, v in obj.__dict__.items() if not k.startswith('_')}
+                            elif isinstance(obj, dict):
+                                return {k: make_serializable(v) for k, v in obj.items()}
+                            elif isinstance(obj, (list, tuple)):
+                                return [make_serializable(item) for item in obj]
+                            elif isinstance(obj, (str, int, float, bool, type(None))):
+                                return obj
+                            else:
+                                # Fallback: convert to string
+                                return str(obj)
+                        
+                        serializable_output = make_serializable(output)
+                        
                         # Send SSE event
                         sse_event = {
                             "node": langgraph_node,
-                            "state": output,
+                            "state": serializable_output,
                             "type": "update"
                         }
                         yield f"data: {json.dumps(sse_event)}\n\n"
