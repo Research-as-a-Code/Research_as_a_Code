@@ -33,6 +33,7 @@ except ImportError:
 # AI-Q and UDR imports
 from aiq_aira.hackathon_agent import create_configured_agent, HackathonAgentState
 from aiq_aira.udr_integration import UDRIntegration
+from aiq_aira.ttd_dr import TTDDRIntegration
 from langchain_openai import ChatOpenAI
 
 # Configure logging - use uvicorn's logger to ensure logs appear
@@ -134,12 +135,24 @@ async def lifespan(app: FastAPI):
         )
         logger.info("✅ UDR integration created")
         
+        # Create TTD-DR integration
+        logger.info("Step 4b/6: Creating TTD-DR integration...")
+        ttd_dr_integration = TTDDRIntegration(
+            llm=reasoning_llm,
+            rag_url=Config.RAG_SERVER_URL,
+            nemotron_nim_url=Config.NEMOTRON_NIM_URL,
+            embedding_nim_url=Config.EMBEDDING_NIM_URL,
+            tavily_api_key=Config.TAVILY_API_KEY
+        )
+        logger.info("✅ TTD-DR integration created")
+        
         # Create configured agent
         logger.info("Step 5/6: Creating configured agent graph...")
         agent_graph, agent_config = create_configured_agent(
             reasoning_llm=reasoning_llm,
             instruct_llm=instruct_llm,
             udr_integration=udr_integration,
+            ttd_dr_integration=ttd_dr_integration,
             rag_url=Config.RAG_SERVER_URL,
             num_reflections=2
         )
@@ -317,6 +330,10 @@ class ResearchRequest(BaseModel):
         default=True,
         description="Whether to include web search"
     )
+    strategy: str = Field(
+        default="udr",
+        description="Research strategy to use: 'udr' (Universal Deep Research) or 'ttd_dr' (Test-Time Diffusion Deep Researcher)"
+    )
 
 
 class ResearchResponse(BaseModel):
@@ -373,6 +390,7 @@ async def generate_research_stream(request: ResearchRequest):
                 "report_organization": request.report_organization,
                 "collection": request.collection,
                 "search_web": request.search_web,
+                "strategy": request.strategy,  # Pass selected strategy
                 "plan": "",
                 "queries": [],
                 "web_research_results": [],
@@ -380,6 +398,12 @@ async def generate_research_stream(request: ResearchRequest):
                 "running_summary": "",
                 "udr_strategy": "",
                 "udr_result": {},
+                "ttd_dr_stage": None,
+                "ttd_dr_iteration": None,
+                "ttd_dr_convergence": None,
+                "ttd_dr_questions": None,
+                "ttd_dr_gaps": None,
+                "ttd_dr_improvements": None,
                 "final_report": "",
                 "logs": []
             }
@@ -393,7 +417,8 @@ async def generate_research_stream(request: ResearchRequest):
                     "topic": request.topic,
                     "collection": request.collection,
                     "report_organization": request.report_organization,
-                    "search_web": request.search_web
+                    "search_web": request.search_web,
+                    "strategy": request.strategy  # Pass strategy to agent config
                 }
             }
             
@@ -530,6 +555,7 @@ async def generate_research(request: ResearchRequest):
         "report_organization": request.report_organization,
         "collection": request.collection,
         "search_web": request.search_web,
+        "strategy": request.strategy,  # Pass selected strategy
         "plan": "",
         "queries": [],
         "web_research_results": [],
@@ -537,6 +563,12 @@ async def generate_research(request: ResearchRequest):
         "running_summary": "",
         "udr_strategy": "",
         "udr_result": {},
+        "ttd_dr_stage": None,
+        "ttd_dr_iteration": None,
+        "ttd_dr_convergence": None,
+        "ttd_dr_questions": None,
+        "ttd_dr_gaps": None,
+        "ttd_dr_improvements": None,
         "final_report": "",
         "logs": []
     }
@@ -559,7 +591,8 @@ async def generate_research(request: ResearchRequest):
                 "topic": request.topic,
                 "collection": request.collection,
                 "report_organization": request.report_organization,
-                "search_web": request.search_web
+                "search_web": request.search_web,
+                "strategy": request.strategy  # Pass strategy to agent config
             }
         }
         

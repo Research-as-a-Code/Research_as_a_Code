@@ -13,16 +13,25 @@
 import { useCopilotAction, useCopilotReadable } from "@copilotkit/react-core";
 import { useState, useEffect } from "react";
 import { useCopilotResearch } from "../contexts/CopilotResearchContext";
+import { StrategyToggle, ResearchStrategy } from "./StrategyToggle";
+import { TTDDRProgressDisplay, TTDDRStage } from "./TTDDRProgressDisplay";
 
 interface AgentState {
   currentNode?: string;
   plan?: string;
-  udf_strategy?: string;
+  udr_strategy?: string;  // UDR compiled strategy
+  ttd_dr_stage?: TTDDRStage;  // TTD-DR current stage
+  ttd_dr_iteration?: number;  // TTD-DR current iteration
+  ttd_dr_convergence?: number[];  // TTD-DR convergence scores
+  ttd_dr_questions?: string[];  // TTD-DR current questions
+  ttd_dr_gaps?: string[];  // TTD-DR identified gaps
+  ttd_dr_improvements?: string[];  // TTD-DR recent improvements
   logs: string[];
   queries: string[];
   running_summary?: string;
   final_report?: string;
   isProcessing: boolean;
+  strategy?: ResearchStrategy;  // Current strategy being used
 }
 
 interface CopilotAgentDisplayProps {
@@ -39,9 +48,11 @@ export function CopilotAgentDisplay({
   const [agentState, setAgentState] = useState<AgentState>({
     logs: [],
     queries: [],
-    isProcessing: false
+    isProcessing: false,
+    strategy: 'udr'  // Default to UDR
   });
   
+  const [selectedStrategy, setSelectedStrategy] = useState<ResearchStrategy>('udr');
   const { currentParams, clearParams } = useCopilotResearch();
 
   // Make agent state available to CopilotKit
@@ -79,8 +90,14 @@ export function CopilotAgentDisplay({
         description: "Whether to search the web",
         required: false,
       },
+      {
+        name: "strategy",
+        type: "string",
+        description: "Research strategy to use: 'udr' or 'ttd_dr'",
+        required: false,
+      },
     ],
-    handler: async ({ topic, report_organization, collection, search_web }) => {
+    handler: async ({ topic, report_organization, collection, search_web, strategy }) => {
       const DEPLOYMENT_VERSION = "v2.1-" + Date.now();  // Unique version for this deployment
       console.log("🚀 CopilotKit action invoked via AG-UI:", { topic, collection, search_web });
       console.log("📦 Deployment version:", DEPLOYMENT_VERSION);
@@ -91,7 +108,14 @@ export function CopilotAgentDisplay({
         return "Research already in progress";
       }
       
-      setAgentState({ logs: [], queries: [], isProcessing: true });
+      const activeStrategy = strategy || selectedStrategy;
+      setAgentState({ 
+        logs: [], 
+        queries: [], 
+        isProcessing: true,
+        strategy: activeStrategy,
+        ttd_dr_stage: activeStrategy === 'ttd_dr' ? 'planning' : undefined
+      });
       onResearchStart();
 
       try {
@@ -123,6 +147,7 @@ export function CopilotAgentDisplay({
             report_organization: report_organization || "Create a comprehensive report",
             collection: collection || "",
             search_web: search_web !== false,
+            strategy: activeStrategy,  // Pass strategy to backend
           }),
         });
 
@@ -350,7 +375,13 @@ export function CopilotAgentDisplay({
                     ...prev,
                     currentNode: data.node,
                     plan: data.state.plan || prev.plan,
-                    udf_strategy: data.state.udf_strategy || prev.udf_strategy,
+                    udr_strategy: data.state.udr_strategy || prev.udr_strategy,
+                    ttd_dr_stage: data.state.ttd_dr_stage || prev.ttd_dr_stage,
+                    ttd_dr_iteration: data.state.ttd_dr_iteration || prev.ttd_dr_iteration,
+                    ttd_dr_convergence: data.state.ttd_dr_convergence || prev.ttd_dr_convergence,
+                    ttd_dr_questions: data.state.ttd_dr_questions || prev.ttd_dr_questions,
+                    ttd_dr_gaps: data.state.ttd_dr_gaps || prev.ttd_dr_gaps,
+                    ttd_dr_improvements: data.state.ttd_dr_improvements || prev.ttd_dr_improvements,
                     logs: data.state.logs || prev.logs,
                     queries: data.state.queries || prev.queries,
                     running_summary: data.state.running_summary || prev.running_summary,
@@ -412,6 +443,29 @@ export function CopilotAgentDisplay({
 
   return (
     <div className="space-y-4 animate-fade-in">
+      {/* Strategy Selection Toggle */}
+      <StrategyToggle 
+        value={selectedStrategy} 
+        onChange={setSelectedStrategy} 
+        disabled={agentState.isProcessing}
+      />
+      
+      {/* TTD-DR Progress Display (only show if TTD-DR is active) */}
+      {agentState.strategy === 'ttd_dr' && (
+        <TTDDRProgressDisplay 
+          state={{
+            stage: agentState.ttd_dr_stage || 'idle',
+            currentIteration: agentState.ttd_dr_iteration || 0,
+            maxIterations: 5,
+            convergenceScores: agentState.ttd_dr_convergence || [],
+            currentQuestions: agentState.ttd_dr_questions || [],
+            gaps: agentState.ttd_dr_gaps || [],
+            improvements: agentState.ttd_dr_improvements || [],
+            draftWordCount: agentState.running_summary?.split(' ').length
+          }}
+        />
+      )}
+      
       {!agentState.isProcessing && agentState.logs.length === 0 ? (
         <div className="text-gray-400 italic">
           Agent is idle. Submit a research request to begin.
@@ -437,11 +491,11 @@ export function CopilotAgentDisplay({
           </div>
 
           {/* Strategy Path Indicator */}
-          {agentState.plan && (
+          {agentState.plan && agentState.strategy !== 'ttd_dr' && (
             <div className="bg-purple-900/50 border border-purple-500 rounded-lg p-4">
               <div className="text-sm text-purple-300 mb-2">Strategy Selected</div>
               <div className="text-white">
-                {agentState.udf_strategy ? (
+                {agentState.udr_strategy ? (
                   <span className="inline-flex items-center gap-2">
                     <span className="text-2xl">🚀</span>
                     <span className="font-semibold">Dynamic UDR Strategy</span>
