@@ -25,7 +25,7 @@ The agent state is designed to be streamed to CopilotKit for real-time UI visual
 
 import logging
 import operator
-from typing import List, Annotated, TypedDict, Literal
+from typing import List, Annotated, TypedDict, Literal, Optional
 from dataclasses import dataclass, field
 
 from langgraph.graph import StateGraph, END
@@ -60,6 +60,7 @@ class HackathonAgentState(TypedDict):
     report_organization: str
     collection: str
     search_web: bool
+    strategy: str  # 'udr' or 'ttd_dr'
     
     # Planning phase
     plan: str
@@ -73,6 +74,14 @@ class HackathonAgentState(TypedDict):
     # UDR dynamic strategy phase
     udr_strategy: str
     udr_result: dict
+    
+    # TTD-DR specific state fields
+    ttd_dr_stage: Optional[str]  # 'planning', 'iterating', 'synthesizing', 'complete'
+    ttd_dr_iteration: Optional[int]
+    ttd_dr_convergence: Optional[List[float]]
+    ttd_dr_questions: Optional[List[str]]
+    ttd_dr_gaps: Optional[List[str]]
+    ttd_dr_improvements: Optional[List[str]]
     
     # Final output
     final_report: str
@@ -90,7 +99,7 @@ async def planner_node(state: HackathonAgentState, config: RunnableConfig):
     Planner node: Analyzes the research prompt and decides the strategy.
     
     Decision logic:
-    - Complex, multi-domain research → Use UDR dynamic strategy
+    - Complex, multi-domain research → Use dynamic strategy (UDR or TTD-DR based on user selection)
     - Straightforward queries → Use standard AI-Q RAG pipeline
     
     NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
@@ -100,6 +109,7 @@ async def planner_node(state: HackathonAgentState, config: RunnableConfig):
     llm = config["configurable"].get("llm")
     prompt_text = state["research_prompt"]
     report_org = state["report_organization"]
+    selected_strategy = state.get("strategy", "udr")  # User-selected: 'udr' or 'ttd_dr'
     
     # Planning prompt template with proper variable escaping
     prompt = ChatPromptTemplate.from_messages([
@@ -148,6 +158,92 @@ Respond with JSON:
             "plan": '{"strategy": "SIMPLE_RAG"}',
             "udr_strategy": "",
             "logs": [f"⚠️ Planning error, defaulting to SIMPLE_RAG"]
+        }
+
+
+async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    TTD-DR Strategy Node: Executes Test-Time Diffusion Deep Researcher.
+    
+    This implements Google's iterative refinement approach through multiple
+    rounds of search and denoising until convergence.
+    """
+    import asyncio
+    import sys
+    from aiq_aira.research_strategy_base import ResearchContext
+    
+    logger.info("TTD-DR STRATEGY NODE: Starting Test-Time Diffusion research")
+    
+    ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
+    if not ttd_dr_integration:
+        logger.error("TTD-DR integration not configured")
+        return {
+            "logs": ["❌ TTD-DR integration not available"],
+            "final_report": "Error: TTD-DR not configured"
+        }
+    
+    # Create research context
+    context = ResearchContext(
+        query=state["research_prompt"],
+        collection=state.get("collection", "default"),
+        search_web=state.get("search_web", True),
+        user_preferences={
+            "report_organization": state["report_organization"]
+        }
+    )
+    
+    # Track state for UI updates
+    async def update_state_callback(stage_info: dict):
+        """Callback to stream TTD-DR stage updates to frontend"""
+        updates = {}
+        
+        if "stage" in stage_info:
+            updates["ttd_dr_stage"] = stage_info["stage"]
+        if "iteration" in stage_info:
+            updates["ttd_dr_iteration"] = stage_info["iteration"]
+        if "convergence" in stage_info:
+            updates["ttd_dr_convergence"] = stage_info["convergence"]
+        if "questions" in stage_info:
+            updates["ttd_dr_questions"] = stage_info["questions"]
+        if "gaps" in stage_info:
+            updates["ttd_dr_gaps"] = stage_info["gaps"]
+        if "improvements" in stage_info:
+            updates["ttd_dr_improvements"] = stage_info["improvements"]
+        if "log" in stage_info:
+            updates["logs"] = [stage_info["log"]]
+        
+        # Stream updates (this will be captured by astream_events)
+        if updates:
+            logger.info(f"TTD-DR state update: {updates}")
+            # State updates are handled by returning them
+    
+    # Execute TTD-DR with streaming updates
+    try:
+        # Set callback on integration
+        ttd_dr_integration.state_callback = update_state_callback
+        
+        # Execute research
+        result = await ttd_dr_integration.execute(context)
+        
+        if result.success:
+            logger.info("✅ TTD-DR research completed successfully")
+            return {
+                "final_report": result.final_report,
+                "logs": ["✅ TTD-DR research completed"],
+                "ttd_dr_stage": "complete"
+            }
+        else:
+            logger.error(f"TTD-DR failed: {result.error}")
+            return {
+                "logs": [f"❌ TTD-DR error: {result.error}"],
+                "final_report": f"Research failed: {result.error}"
+            }
+            
+    except Exception as e:
+        logger.error(f"TTD-DR execution error: {e}")
+        return {
+            "logs": [f"❌ TTD-DR execution error: {str(e)}"],
+            "final_report": f"Error during research: {str(e)}"
         }
 
 
@@ -337,15 +433,18 @@ async def final_report_node(state: HackathonAgentState, config: RunnableConfig):
 # Routing Logic
 # ========================================
 
-def route_after_planner(state: HackathonAgentState) -> Literal["dynamic_strategy", "simple_rag"]:
+def route_after_planner(state: HackathonAgentState) -> Literal["udr_strategy", "ttd_dr_strategy", "simple_rag"]:
     """
     Routing function: Decides which path to take after planning.
+    Now supports routing between UDR and TTD-DR based on user selection.
     """
     import logging
     logger = logging.getLogger("uvicorn")
     
     plan = state.get("plan", "")
+    selected_strategy = state.get("strategy", "udr")  # User-selected: 'udr' or 'ttd_dr'
     logger.info(f"🧭 ROUTING: plan field = {plan[:200] if plan else 'EMPTY'}...")
+    logger.info(f"🧭 ROUTING: selected_strategy = {selected_strategy}")
     
     try:
         import json
@@ -354,8 +453,13 @@ def route_after_planner(state: HackathonAgentState) -> Literal["dynamic_strategy
         logger.info(f"🧭 ROUTING: Parsed strategy = {strategy}")
         
         if strategy == "DYNAMIC_STRATEGY":
-            logger.info("🧭 ROUTING: → dynamic_strategy node")
-            return "dynamic_strategy"
+            # Route to selected dynamic strategy
+            if selected_strategy == "ttd_dr":
+                logger.info("🧭 ROUTING: → ttd_dr_strategy node")
+                return "ttd_dr_strategy"
+            else:
+                logger.info("🧭 ROUTING: → udr_strategy node (dynamic_strategy)")
+                return "udr_strategy"
         else:
             logger.info("🧭 ROUTING: → simple_rag node")
             return "simple_rag"
@@ -385,7 +489,8 @@ def create_hackathon_agent_graph() -> StateGraph:
     
     # Add nodes
     workflow.add_node("planner", planner_node)
-    workflow.add_node("dynamic_strategy", dynamic_strategy_node)
+    workflow.add_node("udr_strategy", dynamic_strategy_node)  # Renamed for clarity
+    workflow.add_node("ttd_dr_strategy", ttd_dr_strategy_node)  # New TTD-DR node
     workflow.add_node("simple_rag", simple_rag_pipeline)
     workflow.add_node("final_report", final_report_node)
     
@@ -397,13 +502,15 @@ def create_hackathon_agent_graph() -> StateGraph:
         "planner",
         route_after_planner,
         {
-            "dynamic_strategy": "dynamic_strategy",
+            "udr_strategy": "udr_strategy",
+            "ttd_dr_strategy": "ttd_dr_strategy",
             "simple_rag": "simple_rag"
         }
     )
     
-    # Both paths converge to final report
-    workflow.add_edge("dynamic_strategy", "final_report")
+    # All paths converge to final report
+    workflow.add_edge("udr_strategy", "final_report")
+    workflow.add_edge("ttd_dr_strategy", "final_report")
     workflow.add_edge("simple_rag", "final_report")
     
     # Final report goes to END
@@ -426,6 +533,7 @@ def create_configured_agent(
     reasoning_llm: BaseChatModel,
     instruct_llm: BaseChatModel,
     udr_integration: UDRIntegration,
+    ttd_dr_integration: 'TTDDRIntegration',
     rag_url: str,
     num_reflections: int = 2
 ) -> tuple:
@@ -436,6 +544,7 @@ def create_configured_agent(
         reasoning_llm: LLM for planning/reasoning (Nemotron)
         instruct_llm: LLM for writing (Llama 3.3)
         udr_integration: UDR integration instance
+        ttd_dr_integration: TTD-DR integration instance
         rag_url: RAG service URL
         num_reflections: Number of reflection loops
         
@@ -449,6 +558,7 @@ def create_configured_agent(
             "llm": reasoning_llm,
             "instruct_llm": instruct_llm,
             "udr_integration": udr_integration,
+            "ttd_dr_integration": ttd_dr_integration,
             "rag_url": rag_url,
             "num_reflections": num_reflections,
             "number_of_queries": 3,
