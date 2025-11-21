@@ -41,7 +41,7 @@ When you submit a research request, the **"🤖 Agentic Flow"** panel will displ
 
 ### 2. Strategy Path
 ```
-🚀 Dynamic UDF Strategy
+🚀 Dynamic UDR Strategy
   OR
 📚 Simple RAG Pipeline
 ```
@@ -134,8 +134,8 @@ interface AgentState {
   sources: string[];
   final_report: string;
   logs: string[];
-  udf_strategy?: string;
-  udf_result?: {
+  udr_strategy?: string;
+  udr_result?: {
     success: boolean;
     sources?: string[];
   };
@@ -207,7 +207,7 @@ Current Phase
 Node: web_research
 
 Strategy Selected
-🚀 Dynamic UDF Strategy
+🚀 Dynamic UDR Strategy
 Plan: The research will explore...
 
 Execution Log (12 entries)

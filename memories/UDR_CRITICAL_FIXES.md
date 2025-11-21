@@ -1,25 +1,25 @@
-# UDF (Universal Deep Research) Critical Fixes - Nov 19, 2025
+# UDR (Universal Deep Research) Critical Fixes - Nov 19, 2025
 
 ## Summary
-After extensive debugging, we identified and fixed 4 critical issues preventing the UDF dynamic strategy feature from working. The primary symptom was that research reports never reached the frontend, despite the backend completing successfully.
+After extensive debugging, we identified and fixed 4 critical issues preventing the UDR dynamic strategy feature from working. The primary symptom was that research reports never reached the frontend, despite the backend completing successfully.
 
 ## Critical Issues & Fixes
 
-### 1. Logger Deadlock in UDF Tool Functions ⚠️ CRITICAL
+### 1. Logger Deadlock in UDR Tool Functions ⚠️ CRITICAL
 **Symptom:**
-- UDF execution would start (🔶 marker appeared)
+- UDR execution would start (🔶 marker appeared)
 - `_search_rag_tool` would be entered (🔷 marker appeared)
 - Execution would hang before the first `logger.info()` call
 - No subsequent tool execution logs would appear
 
 **Root Cause:**
-- `logger.info()` calls inside UDF tool functions (`_search_rag_tool`, `_search_web_tool`, `_synthesize_findings_tool`) caused a deadlock when called from within generated async code executed by LangGraph
+- `logger.info()` calls inside UDR tool functions (`_search_rag_tool`, `_search_web_tool`, `_synthesize_findings_tool`) caused a deadlock when called from within generated async code executed by LangGraph
 - The logging system was likely trying to acquire a lock that was already held by the parent execution context
 
 **Fix:**
 ```python
-# BEFORE (in aira/src/aiq_aira/udf_integration.py)
-logger.info(f"UDF Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
+# BEFORE (in aira/src/aiq_aira/udr_integration.py)
+logger.info(f"UDR Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
 
 # AFTER
 import sys
@@ -29,7 +29,7 @@ print(f"🔷 About to call logger.info with query length: {len(query)}", flush=T
 ```
 
 **Files Modified:**
-- `aira/src/aiq_aira/udf_integration.py` (lines 377-384, 475-512, 514-578)
+- `aira/src/aiq_aira/udr_integration.py` (lines 377-384, 475-512, 514-578)
 
 **Lesson:** When executing dynamically generated async code with `exec()` + `await`, avoid using Python's standard `logging` module inside functions called from that code. Use direct `print()` to stderr instead.
 
@@ -169,7 +169,7 @@ except Exception as http_error:
 ```
 
 **Files Modified:**
-- `aira/src/aiq_aira/udf_integration.py` (lines 556-575)
+- `aira/src/aiq_aira/udr_integration.py` (lines 556-575)
 
 ---
 
@@ -179,8 +179,8 @@ except Exception as http_error:
 Used emoji markers at different execution levels:
 - 🔴 = `dynamic_strategy_node` level
 - 🔵 = Node internal operations
-- 🟢 = UDF integration level
-- 🟡 = UDF executor level
+- 🟢 = UDR integration level
+- 🟡 = UDR executor level
 - 🔶 = Inside generated code
 - 🔷 = Inside tool functions
 
@@ -207,7 +207,7 @@ Created `test_langgraph_async.py` to reproduce the async nesting pattern in isol
 
 ## Architecture Notes
 
-### UDF Execution Flow
+### UDR Execution Flow
 1. **Planner Node**: Generates natural language plan → routes to `dynamic_strategy`
 2. **Dynamic Strategy Node**: 
    - Calls `UDFIntegration.execute_dynamic_strategy()`
@@ -228,7 +228,7 @@ Created `test_langgraph_async.py` to reproduce the async nesting pattern in isol
 - RAG search: ~2-3 seconds (Milvus + Embedding NIM)
 - Web search: ~2-3 seconds (Tavily API)
 - Synthesis: **10-60 seconds** (Instruct LLM NIM) ⚠️ LONGEST STEP
-- **Total UDF execution: ~20-80 seconds**
+- **Total UDR execution: ~20-80 seconds**
 
 **Therefore:**
 - `asyncio.wait_for` timeout in node: 300 seconds (5 minutes)
@@ -240,7 +240,7 @@ Created `test_langgraph_async.py` to reproduce the async nesting pattern in isol
 ## Files Modified Summary
 
 ### Critical Fixes:
-1. `aira/src/aiq_aira/udf_integration.py` - Logger → print, timeout & error handling
+1. `aira/src/aiq_aira/udr_integration.py` - Logger → print, timeout & error handling
 2. `backend/main.py` - Event filtering, JSON serialization, keepalive interval
 
 ### Debug Additions:
@@ -252,14 +252,14 @@ Created `test_langgraph_async.py` to reproduce the async nesting pattern in isol
 ## Testing Recommendations
 
 ### Test Different Query Types:
-1. **Simple queries** (should use simple RAG, not UDF)
-2. **Multi-step research** (triggers UDF dynamic strategy)
+1. **Simple queries** (should use simple RAG, not UDR)
+2. **Multi-step research** (triggers UDR dynamic strategy)
 3. **Web + RAG combined** (tests both data sources)
 4. **Long synthesis** (tests timeout handling)
 
 ### Monitor These Metrics:
 - Time from "🔷 Calling Instruct LLM NIM..." to "🔷 Response status"
-- Total UDF execution time (should be < 2 minutes for most queries)
+- Total UDR execution time (should be < 2 minutes for most queries)
 - Stream completion timing (should happen AFTER node returns)
 
 ### Red Flags to Watch For:
@@ -291,5 +291,5 @@ Created `test_langgraph_async.py` to reproduce the async nesting pattern in isol
 ---
 
 *Document created: November 19, 2025*
-*Last tested: UDF working successfully with 120s keepalive interval*
+*Last tested: UDR working successfully with 120s keepalive interval*
 

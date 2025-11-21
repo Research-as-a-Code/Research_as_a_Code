@@ -116,7 +116,7 @@ Response:
 ```json
 {
     "status": "healthy",
-    "service": "AI-Q Research Assistant with UDF",
+    "service": "AI-Q Research Assistant with UDR",
     "copilotkit_enabled": false
 }
 ```

@@ -24,7 +24,7 @@ The application had a "Network No Content" error appearing at the bottom of the 
 - Maintains the same visual design but powered by CopilotKit's AG-UI protocol
 - Displays real-time updates:
   - Current phase indicator
-  - Strategy selection (UDF vs RAG)
+  - Strategy selection (UDR vs RAG)
   - Execution logs
   - Generated queries
   - Running summary
@@ -190,7 +190,7 @@ Layout
 
 ### Agent State Visualization
 - ✅ Real-time phase updates
-- ✅ Strategy indicator (UDF vs RAG)
+- ✅ Strategy indicator (UDR vs RAG)
 - ✅ Execution logs display
 - ✅ Generated queries list
 - ✅ Running summary preview

@@ -1,8 +1,8 @@
-# UDF (Universal Deep Research) Integration - Debugging Session
+# UDR (Universal Deep Research) Integration - Debugging Session
 
 **Date**: November 16, 2025  
 **Status**: 🟡 In Progress - Code generation working, execution has bugs  
-**Session Goal**: Debug and fix the dynamic strategy (UDF) feature for complex research queries
+**Session Goal**: Debug and fix the dynamic strategy (UDR) feature for complex research queries
 
 ---
 
@@ -10,9 +10,9 @@
 
 The AI-Q agent has two research modes:
 1. **Simple RAG**: Standard search-and-synthesize for straightforward queries
-2. **Dynamic Strategy (UDF)**: Compiles natural language research plans into executable Python code for complex multi-step research
+2. **Dynamic Strategy (UDR)**: Compiles natural language research plans into executable Python code for complex multi-step research
 
-The UDF feature is based on NVIDIA's Universal Deep Research prototype and allows the agent to dynamically generate and execute custom research workflows.
+The UDR feature is based on NVIDIA's Universal Deep Research prototype and allows the agent to dynamically generate and execute custom research workflows.
 
 ---
 
@@ -47,12 +47,12 @@ The UDF feature is based on NVIDIA's Universal Deep Research prototype and allow
 ### Agent Flow
 - ✅ **Planner node** correctly identifies complex queries
 - ✅ **Strategy selection** works: returns `"strategy": "DYNAMIC_STRATEGY"`
-- ✅ **UDF compiler** invoked successfully
+- ✅ **UDR compiler** invoked successfully
 - ✅ **LLM generates Python code** for the research strategy
 - ✅ **Code extraction** from markdown blocks works
 
 ### Recent Improvements (This Session)
-1. **Enhanced compiler prompt** (`aira/src/aiq_aira/udf_integration.py`):
+1. **Enhanced compiler prompt** (`aira/src/aiq_aira/udr_integration.py`):
    - Added detailed example for tariff research
    - Made return statement requirement more explicit
    - Improved tool documentation
@@ -71,7 +71,7 @@ The UDF feature is based on NVIDIA's Universal Deep Research prototype and allow
 
 ### Error Message
 ```
-❌ UDF execution failed: object NoneType can't be used in 'await' expression
+❌ UDR execution failed: object NoneType can't be used in 'await' expression
 ```
 
 ### Root Cause Analysis
@@ -119,7 +119,7 @@ The first is the problem.
 
 ## 📁 Key Files Modified
 
-### 1. `aira/src/aiq_aira/udf_integration.py`
+### 1. `aira/src/aiq_aira/udr_integration.py`
 
 **Changes Made**:
 - Improved `STRATEGY_COMPILER_PROMPT` (lines 61-125)
@@ -147,7 +147,7 @@ EXAMPLE - Tariff Research:
 ```
 
 ### 2. `infrastructure/kubernetes/deploy-agent.sh`
-- Used to rebuild and deploy backend with UDF changes
+- Used to rebuild and deploy backend with UDR changes
 - Successfully built image: `sha256:bc3e0d57dc8b512e8a61cc23c8fdb252ec5f300d3d9b060249539c68340caba3`
 
 ### 3. Cluster Management Scripts
@@ -163,12 +163,12 @@ EXAMPLE - Tariff Research:
 ### Test 1: Before improvements
 ```
 Result: ❌ "Strategy must return a dict, got <class 'NoneType'>"
-Issue: UDF code didn't include return statement
+Issue: UDR code didn't include return statement
 ```
 
 ### Test 2: After prompt improvements
 ```
-Result: ❌ "UDF execution completed but no report was generated"
+Result: ❌ "UDR execution completed but no report was generated"
 Issue: Hit safety net, code returned None
 ```
 
@@ -253,7 +253,7 @@ Frontend: http://af2f4f77d44fb4b41bc00856345951e2-974749261.us-west-2.elb.amazon
 
 ## 💡 Key Insights
 
-1. **UDF infrastructure is solid** - Compiler, executor, integration all working
+1. **UDR infrastructure is solid** - Compiler, executor, integration all working
 2. **Prompt engineering is critical** - Small changes in prompt = big changes in generated code
 3. **LLMs over-generalize** - "be async" → "await everything"
 4. **Need better validation** - Catch common errors before execution
@@ -263,15 +263,15 @@ Frontend: http://af2f4f77d44fb4b41bc00856345951e2-974749261.us-west-2.elb.amazon
 
 ## 📚 References
 
-### NVIDIA UDF Prototype
+### NVIDIA UDR Prototype
 - Original paper: https://arxiv.org/abs/2509.00244
 - GitHub: https://github.com/NVlabs/UniversalDeepResearch
 - Key concept: "Strategy-as-Code" - compile natural language plans to executable code
 
 ### Files to Reference
 - `Designing NVIDIA AI Research Agent.md` - Original architecture design
-- `aira/src/aiq_aira/hackathon_agent.py` - Agent graph with UDF node
-- `aira/src/aiq_aira/udf_integration.py` - UDF compiler and executor
+- `aira/src/aiq_aira/hackathon_agent.py` - Agent graph with UDR node
+- `aira/src/aiq_aira/udr_integration.py` - UDR compiler and executor
 - `backend/main.py` - FastAPI integration
 
 ---
@@ -295,7 +295,7 @@ curl -X POST "http://<BACKEND_URL>/research/stream" \
   -d '{"topic": "...", "report_organization": "...", "collection_name": "us_tariffs"}'
 
 # Check logs
-kubectl logs -n aiq-agent -l component=backend --tail=500 | grep -A 30 "COMPILED UDF"
+kubectl logs -n aiq-agent -l component=backend --tail=500 | grep -A 30 "COMPILED UDR"
 
 # Watch logs live
 kubectl logs -n aiq-agent -l component=backend -f

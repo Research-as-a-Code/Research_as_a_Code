@@ -38,7 +38,7 @@ variable "tags" {
   default = {
     Terraform   = "true"
     Environment = "hackathon"
-    Project     = "AI-Q-UDF"
+    Project     = "AI-Q-UDR"
   }
 }
 

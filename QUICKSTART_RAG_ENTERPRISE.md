@@ -139,7 +139,7 @@ Embedding NIM (8000)          |
 ## Next Steps
 
 - Add more document collections (regulations, trade agreements)
-- Integrate RAG into UDF dynamic strategies
+- Integrate RAG into UDR dynamic strategies
 - Scale query server for production traffic
 - Set up monitoring and alerts
 

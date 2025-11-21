@@ -217,7 +217,7 @@ When you submit a research query, the **Agentic Flow** panel will update live:
 
 ### 2. **Strategy Path** (appears when decided)
 ```
-🚀 Dynamic UDF Strategy
+🚀 Dynamic UDR Strategy
   or
 📚 Simple RAG Pipeline
 ```
@@ -318,7 +318,7 @@ Generated Queries (3)
 ✅ **Real-time agentic flow visualization** - Live updates during execution  
 ✅ **Phase transitions** - Shows current phase dynamically  
 ✅ **Execution logs** - Streams agent logs as they happen  
-✅ **Strategy path** - Displays UDF vs Simple RAG decision  
+✅ **Strategy path** - Displays UDR vs Simple RAG decision  
 ✅ **Generated artifacts** - Shows queries, results in real-time  
 
 **Result**: Fully compliant with NVIDIA hackathon requirements for agentic UI! 🏆
@@ -351,7 +351,7 @@ Generated Queries (3)
 ✅ **Phase tracking** - Live phase indicator  
 ✅ **Log streaming** - Logs append in real-time  
 ✅ **Query display** - Shows queries as generated  
-✅ **Strategy path** - UDF vs RAG decision visible  
+✅ **Strategy path** - UDR vs RAG decision visible  
 
 **The Agentic Flow panel now provides a true real-time view into the agent's execution!** 🌟
 

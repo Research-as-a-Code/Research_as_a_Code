@@ -1,7 +1,7 @@
 # LangChain Template Escaping Fix
 
 **Date**: November 18, 2025  
-**Issue**: UDF compilation failing with "missing variables {\'variable\', \'"key"\'}"  
+**Issue**: UDR compilation failing with "missing variables {\'variable\', \'"key"\'}"  
 **Status**: ✅ **RESOLVED** - Fixed prompt escaping, deployed, tested
 
 ---
@@ -22,7 +22,7 @@ RAG Collection Name: us_tariffs
 
 ### Error Message
 ```
-❌ UDF execution failed: Compilation error: 'Input to ChatPromptTemplate is 
+❌ UDR execution failed: Compilation error: 'Input to ChatPromptTemplate is 
 missing variables {\'variable\', \'"key"\'}. Expected: [\'"key"\', \'strategy\', 
 \'variable\'] Received: [\'strategy\']
 
@@ -37,7 +37,7 @@ https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT'
 ## 🔍 Root Cause Analysis
 
 ### The Problem
-In `aira/src/aiq_aira/udf_integration.py`, the UDF compiler prompt contained example Python syntax:
+In `aira/src/aiq_aira/udr_integration.py`, the UDR compiler prompt contained example Python syntax:
 
 **Lines 104-105 (BEFORE FIX)**:
 ```python
@@ -96,7 +96,7 @@ When writing prompts that contain example code with curly braces:
 ## 🚀 Deployment
 
 ### Steps Taken
-1. **Modified file**: `aira/src/aiq_aira/udf_integration.py` (lines 104-105)
+1. **Modified file**: `aira/src/aiq_aira/udr_integration.py` (lines 104-105)
 2. **Built image**: Rebuilt backend Docker image with fix
 3. **Pushed image**: Pushed to ECR
 4. **Restarted deployment**: `kubectl rollout restart deployment aiq-agent-backend`
@@ -131,12 +131,12 @@ kubectl logs -n aiq-agent <pod-name> --tail=50
 
 ### Before Fix
 ```
-❌ UDF execution failed: Compilation error: 'Input to ChatPromptTemplate 
+❌ UDR execution failed: Compilation error: 'Input to ChatPromptTemplate 
 is missing variables {\'variable\', \'"key"\'}...'
 ```
 
 ### After Fix
-✅ UDF compilation should succeed  
+✅ UDR compilation should succeed  
 ✅ Dynamic strategy should execute  
 ✅ Research report should be generated  
 
@@ -240,10 +240,10 @@ We missed the **ALLOWED syntax guide** (lines 104-105) because it was before the
 ## 📚 Related Files
 
 ### Modified
-- `/aira/src/aiq_aira/udf_integration.py` (lines 104-105)
+- `/aira/src/aiq_aira/udr_integration.py` (lines 104-105)
 
 ### Related Documentation
-- `/memories/UDF_VALIDATION_FIX_COMPLETE.md` - Previous UDF fixes
+- `/memories/UDF_VALIDATION_FIX_COMPLETE.md` - Previous UDR fixes
 - `/memories/DEPLOYMENT_COMPLETE_UDF_VALIDATION.md` - Deployment status
 - `/memories/UDF_ERROR_ANALYZE_COST_BENEFIT.md` - Function hallucination fix
 
@@ -252,7 +252,7 @@ We missed the **ALLOWED syntax guide** (lines 104-105) because it was before the
 ## 🎯 Summary
 
 **Problem**: LangChain prompt contained unescaped curly braces in syntax examples  
-**Impact**: UDF compilation failed with "missing variables" error  
+**Impact**: UDR compilation failed with "missing variables" error  
 **Root Cause**: `{variable}` and `{"key"}` in lines 104-105 not escaped  
 **Solution**: Escaped with `{{{{variable}}}}` and `{{{{"key": value}}}}`  
 **Status**: ✅ **FIXED, DEPLOYED, READY TO TEST**
@@ -270,14 +270,14 @@ We missed the **ALLOWED syntax guide** (lines 104-105) because it was before the
 
 ### Ready For
 - ✅ User can retry their dynamic strategy query
-- ✅ UDF compilation should succeed
+- ✅ UDR compilation should succeed
 - ✅ Dynamic research should execute
 
 ### Next Steps
 1. User submits the same query again
 2. Monitor backend logs for successful compilation
 3. Verify research report is generated
-4. If successful, UDF is fully operational!
+4. If successful, UDR is fully operational!
 
 ---
 

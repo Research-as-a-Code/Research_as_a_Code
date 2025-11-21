@@ -262,7 +262,7 @@ Before deploying:
 
 The application now properly shows:
 - ✅ Current phase with emoji indicators
-- ✅ Strategy selection (UDF vs RAG)
+- ✅ Strategy selection (UDR vs RAG)
 - ✅ Execution logs in real-time
 - ✅ Generated queries
 - ✅ Running summary

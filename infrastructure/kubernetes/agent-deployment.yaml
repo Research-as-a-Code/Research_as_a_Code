@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
 # SPDX-License-Identifier: Apache-2.0
 
-# AI-Q + UDF Agent Deployment
+# AI-Q + UDR Agent Deployment
 # This manifest deploys the custom FastAPI agent to EKS
 
 apiVersion: v1

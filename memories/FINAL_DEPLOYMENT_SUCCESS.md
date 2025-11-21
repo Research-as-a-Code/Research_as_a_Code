@@ -194,7 +194,7 @@ Example queries that work:
 ✅ **NVIDIA NIMs on AWS:** Llama 3.3 70B Instruct + Arctic Embed-L running on EKS  
 ✅ **GPU Infrastructure:** g5.12xlarge with 4x A10G GPUs provisioned via Karpenter  
 ✅ **NVIDIA RAG Blueprint:** Enterprise Milvus + RAG servers deployed  
-✅ **Agentic AI:** LangGraph-based agent with UDF integration  
+✅ **Agentic AI:** LangGraph-based agent with UDR integration  
 ✅ **Real-time UI:** CopilotKit frontend with agent state streaming  
 ✅ **RAG Collection:** US Customs Tariff data fully ingested and searchable  
 ✅ **Production-Ready:** HA deployment with LoadBalancers and persistent storage
@@ -211,8 +211,8 @@ Example queries that work:
 - `infrastructure/kubernetes/agent-deployment.yaml` - AI-Q agent deployments
 
 ### Application Code
-- `aira/src/aiq_aira/hackathon_agent.py` - LangGraph agent with UDF
-- `aira/src/aiq_aira/udf_integration.py` - Dynamic strategy engine
+- `aira/src/aiq_aira/hackathon_agent.py` - LangGraph agent with UDR
+- `aira/src/aiq_aira/udr_integration.py` - Dynamic strategy engine
 - `backend/main.py` - FastAPI + CopilotKit integration
 - `frontend/app/layout.tsx` - Next.js with CopilotKit provider
 - `scripts/ingest_tariffs_to_rag.py` - Tariff PDF ingestion script
@@ -237,7 +237,7 @@ Example queries that work:
 - [ ] Add more RAG collections (e.g., FDA regulations, USPTO patents)
 - [ ] Implement citation rendering in the UI to show source documents
 - [ ] Add query history and saved searches
-- [ ] Integrate UDF dynamic strategy generation (currently placeholder)
+- [ ] Integrate UDR dynamic strategy generation (currently placeholder)
 
 ### Long-term (Scale & Optimize)
 - [ ] Deploy Milvus cluster mode for multi-replica HA
@@ -274,7 +274,7 @@ The EBS CSI driver is not installed by default in EKS 1.28+. Always install it e
 - **NVIDIA AI Blueprints:** AI-Q Research Assistant and RAG Blueprint provided excellent starting points
 - **AWS Data on EKS:** Terraform patterns for EKS + Karpenter
 - **CopilotKit:** Real-time agent state streaming made the UI development straightforward
-- **Universal Deep Research (UDF):** Inspiration for the dynamic strategy engine concept
+- **Universal Deep Research (UDR):** Inspiration for the dynamic strategy engine concept
 
 ---
 

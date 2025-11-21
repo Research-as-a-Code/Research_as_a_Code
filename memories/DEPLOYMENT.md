@@ -1,6 +1,6 @@
 # Deployment Guide
 
-## AI-Q + UDF Research Assistant - AWS & NVIDIA Hackathon
+## AI-Q + UDR Research Assistant - AWS & NVIDIA Hackathon
 
 This guide provides step-by-step instructions for deploying the complete system.
 
@@ -256,7 +256,7 @@ This takes approximately **10 minutes**.
 
 1. Creates ECR repositories for your images
 2. Builds Docker images for:
-   - Backend (FastAPI + AI-Q + UDF)
+   - Backend (FastAPI + AI-Q + UDR)
    - Frontend (Next.js + CopilotKit)
 3. Pushes images to ECR
 4. Deploys to Kubernetes
@@ -319,7 +319,7 @@ kubectl get svc -n aiq-agent   # 2 services
 
 The left panel should show:
 - 🤔 Planning phase
-- Strategy selection (Simple RAG or UDF)
+- Strategy selection (Simple RAG or UDR)
 - Execution logs
 - ✅ Completion status
 
@@ -476,7 +476,7 @@ kubectl exec -n aiq-agent deployment/aiq-agent-frontend -- \
   curl http://aiq-agent-service:80/health
 ```
 
-### Issue: "UDF execution failed"
+### Issue: "UDR execution failed"
 
 **Cause**: Nemotron NIM not reachable or slow
 

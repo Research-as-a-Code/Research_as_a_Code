@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 /**
- * Terraform Configuration for AI-Q + UDF on AWS EKS
+ * Terraform Configuration for AI-Q + UDR on AWS EKS
  * 
  * Based on awslabs/data-on-eks blueprint
  * Deploys: EKS cluster + Karpenter + NVIDIA GPU Operator + NIMs

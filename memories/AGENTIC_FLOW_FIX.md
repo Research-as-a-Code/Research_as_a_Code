@@ -89,7 +89,7 @@ export function AgentFlowDisplay({ logs: propLogs, executionPath: propExecutionP
     render: ({ state }) => {
       // ✅ Fallback to props if CopilotKit state is not available
       const logs = state?.logs && state.logs.length > 0 ? state.logs : (propLogs || []);
-      const udfStrategy = state?.udf_strategy || (propExecutionPath === "UDF" ? "Dynamic UDF" : "");
+      const udfStrategy = state?.udr_strategy || (propExecutionPath === "UDR" ? "Dynamic UDR" : "");
       
       // Display logs, strategy, queries, etc.
       // ...
@@ -115,7 +115,7 @@ After submitting a research query, the Agentic Flow panel displays:
 ```
 
 ### 2. **Strategy Selected**
-- 🚀 **Dynamic UDF Strategy** (for complex queries)
+- 🚀 **Dynamic UDR Strategy** (for complex queries)
 - 📚 **Simple RAG Pipeline** (for simple queries)
 
 ### 3. **Execution Log**
@@ -207,7 +207,7 @@ The backend is already configured for CopilotKit streaming at `/copilotkit`, but
 ## 🎯 Result
 
 ✅ **Agentic Flow now displays execution details after research completes**
-✅ **Shows strategy path (UDF vs Simple RAG)**
+✅ **Shows strategy path (UDR vs Simple RAG)**
 ✅ **Displays all execution logs from the agent**
 ✅ **Shows generated queries and other metadata**
 

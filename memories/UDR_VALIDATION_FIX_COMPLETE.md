@@ -1,4 +1,4 @@
-# UDF Validation Fix - Implementation Complete
+# UDR Validation Fix - Implementation Complete
 
 **Date**: November 17, 2025  
 **Status**: ✅ Code changes complete, deployment in progress  
@@ -10,7 +10,7 @@
 
 ### 1. Enhanced Compiler Prompt ✅
 
-**File**: `aira/src/aiq_aira/udf_integration.py`  
+**File**: `aira/src/aiq_aira/udr_integration.py`  
 **Lines**: 78-108
 
 **Added**:
@@ -42,7 +42,7 @@ CRITICAL REQUIREMENTS:
 
 ### 2. Code Validator Function ✅
 
-**File**: `aira/src/aiq_aira/udf_integration.py`  
+**File**: `aira/src/aiq_aira/udr_integration.py`  
 **Lines**: 204-262
 
 **Function**: `validate_generated_code(code: str) -> tuple[bool, str]`
@@ -69,7 +69,7 @@ data = {"key": "value"}  # Allowed operation
 
 ### 3. Validation Integration ✅
 
-**File**: `aira/src/aiq_aira/udf_integration.py`  
+**File**: `aira/src/aiq_aira/udr_integration.py`  
 **Lines**: 608-618
 
 **Added validation step** between compilation and execution:
@@ -149,18 +149,18 @@ kubectl get pods -n aiq-agent -l component=backend
 
 **Before Fix**:
 ```
-❌ UDF execution failed: name 'analyze_cost_benefit_report' is not defined
+❌ UDR execution failed: name 'analyze_cost_benefit_report' is not defined
 ```
 
 **After Fix** (Expected):
 ```
 Either:
-1. ✅ Code validation passed, UDF executes successfully
+1. ✅ Code validation passed, UDR executes successfully
 2. ❌ Code validation failed: Forbidden function call 'analyze_cost_benefit_report()'
    → User gets clear error message with guidance
 ```
 
-### Test Case 2: Valid UDF Query
+### Test Case 2: Valid UDR Query
 
 **Query**:
 ```json
@@ -199,10 +199,10 @@ kubectl get pods -n aiq-agent -l component=backend
 ```bash
 BACKEND_POD=$(kubectl get pods -n aiq-agent -l component=backend --field-selector=status.phase=Running -o jsonpath='{.items[0].metadata.name}')
 kubectl logs -n aiq-agent $BACKEND_POD | grep -E "validate_generated_code|Code validation"
-# Should show validation messages on next UDF execution
+# Should show validation messages on next UDR execution
 ```
 
-### 3. Test UDF Query
+### 3. Test UDR Query
 ```bash
 curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/research/stream" \
   -H "Content-Type: application/json" \
@@ -255,7 +255,7 @@ kubectl logs -f -n aiq-agent $BACKEND_POD | grep -A 3 "validate_generated_code"
 
 ## Files Modified
 
-1. `/aira/src/aiq_aira/udf_integration.py`
+1. `/aira/src/aiq_aira/udr_integration.py`
    - Lines 78-108: Enhanced compiler prompt
    - Lines 204-262: New validator function
    - Lines 608-618: Validation integration
@@ -267,8 +267,8 @@ kubectl logs -f -n aiq-agent $BACKEND_POD | grep -A 3 "validate_generated_code"
 ## Related Documentation
 
 - `/memories/UDF_ERROR_ANALYZE_COST_BENEFIT.md` - Original error analysis
-- `/memories/UDF_DEBUGGING_SESSION.md` - Previous UDF fixes
-- `/memories/UDF_BREAKTHROUGH.md` - Initial UDF success
+- `/memories/UDF_DEBUGGING_SESSION.md` - Previous UDR fixes
+- `/memories/UDF_BREAKTHROUGH.md` - Initial UDR success
 - `/memories/DEPLOYMENT_STATUS_FINAL.md` - Current deployment status
 
 ---

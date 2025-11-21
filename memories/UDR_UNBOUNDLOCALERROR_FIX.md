@@ -1,7 +1,7 @@
-# UDF UnboundLocalError Fix - Variable Initialization
+# UDR UnboundLocalError Fix - Variable Initialization
 
 **Date**: November 18, 2025  
-**Issue**: UDF execution failing with "cannot access local variable 'report' where it is not associated with a value"  
+**Issue**: UDR execution failing with "cannot access local variable 'report' where it is not associated with a value"  
 **Status**: ✅ **RESOLVED** - Updated prompt to require variable initialization
 
 ---
@@ -22,7 +22,7 @@ RAG Collection Name: us_tariffs
 
 ### Error Message (After Template Escaping Fix)
 ```
-❌ UDF execution failed: cannot access local variable 'report' where it is 
+❌ UDR execution failed: cannot access local variable 'report' where it is 
 not associated with a value
 ```
 
@@ -164,7 +164,7 @@ NOW GENERATE THE CODE:
 ## 🚀 Changes Made
 
 ### File Modified
-`/aira/src/aiq_aira/udf_integration.py`
+`/aira/src/aiq_aira/udr_integration.py`
 
 ### Lines Changed
 
@@ -295,7 +295,7 @@ Each fix reveals the next layer of issues. This is normal and expected!
 ## 🏆 Current Status
 
 ### Deployment
-- ✅ Code fixed in `udf_integration.py`
+- ✅ Code fixed in `udr_integration.py`
 - ✅ Backend image rebuilt and pushed
 - ✅ Deployment restarted
 - ✅ New pod running: `aiq-agent-backend-84c4959dfc-wgf4p`
@@ -303,14 +303,14 @@ Each fix reveals the next layer of issues. This is normal and expected!
 
 ### Ready For
 - ✅ User can retry their dynamic strategy query
-- ✅ UDF should compile without template errors (fix #2)
-- ✅ UDF should execute without UnboundLocalError (fix #3)
+- ✅ UDR should compile without template errors (fix #2)
+- ✅ UDR should execute without UnboundLocalError (fix #3)
 - ✅ Report should be generated successfully
 
 ### Next Steps
 1. User submits the same query again (third time!)
 2. Monitor for successful execution
-3. If successful: UDF is fully operational!
+3. If successful: UDR is fully operational!
 4. If new error: Continue iterative debugging
 
 ---

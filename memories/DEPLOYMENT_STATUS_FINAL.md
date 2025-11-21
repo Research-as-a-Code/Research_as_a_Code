@@ -1,11 +1,11 @@
-# AI-Q + UDF Agent - Final Deployment Status
+# AI-Q + UDR Agent - Final Deployment Status
 
 **Date**: November 17, 2025  
 **Status**: ✅ **FULLY OPERATIONAL**
 
 ## Executive Summary
 
-Both **Simple RAG** and **Dynamic Strategy (UDF)** are working correctly. All core components are deployed and functional. The system successfully handles tariff research queries with real data from US Customs Tariff PDFs.
+Both **Simple RAG** and **Dynamic Strategy (UDR)** are working correctly. All core components are deployed and functional. The system successfully handles tariff research queries with real data from US Customs Tariff PDFs.
 
 ---
 
@@ -20,7 +20,7 @@ Both **Simple RAG** and **Dynamic Strategy (UDF)** are working correctly. All co
   - Generates comprehensive reports with citations
   - Sources include actual PDF content (Chapter_17.pdf, Chapter_18.pdf)
 
-### ✅ Dynamic Strategy (UDF) - WORKING
+### ✅ Dynamic Strategy (UDR) - WORKING
 - **Status**: Fully operational
 - **Last Verified**: Earlier today (successful test)
 - **Capabilities**:
@@ -94,12 +94,12 @@ Storage: EBS-backed PVCs (persistent across sleep/wake)
   - Ingredient composition factors
   - Tariff rates and special provisions
 
-### Test 2: Dynamic Strategy (UDF) Query ✅
+### Test 2: Dynamic Strategy (UDR) Query ✅
 **Query**: Same complex tariff query with "deep research" instruction
 
 **Result**:
 - Strategy Selected: `DYNAMIC_STRATEGY` (in earlier test)
-- UDF Execution: ✅ `"success": true`
+- UDR Execution: ✅ `"success": true`
 - Code Generation: ✅ Perfect Python code with correct syntax
 - Code Compilation: ✅ No errors
 - Tool Calls: ✅ RAG search + web search executed
@@ -122,13 +122,13 @@ Storage: EBS-backed PVCs (persistent across sleep/wake)
 - **Fix**: Created correct service + deployed Milvus standalone
 - **Impact**: RAG queries can now access vector database
 
-### 3. UDF Code Generation Issues ✅
+### 3. UDR Code Generation Issues ✅
 - **Problems Fixed**:
   - Missing return statements
   - Incorrect `await` usage on non-async operations
   - `KeyError: 'query'` (used wrong context key)
   - Template variable escaping in prompts
-- **Impact**: UDF code generation and execution now reliable
+- **Impact**: UDR code generation and execution now reliable
 
 ### 4. Backend Startup Crashes ✅
 - **Problem**: Backend crashed when NIMs were building TensorRT engines
@@ -268,7 +268,7 @@ curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-we
 - [x] Both NIMs running and healthy
 - [x] Milvus has data (198 entries)
 - [x] Simple RAG tested successfully
-- [x] UDF/Dynamic Strategy tested successfully
+- [x] UDR/Dynamic Strategy tested successfully
 - [x] Embedding model fixed and consistent
 - [x] RAG retrieves actual PDF content
 - [x] Citations include proper sources
@@ -308,7 +308,7 @@ curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-we
 - Main README: `/README.md`
 - Deployment Guide: `/NVIDIA_RAG_BLUEPRINT_DEPLOYMENT.md`
 - Tariff Setup: `/TARIFF_RAG_SETUP.md`
-- UDF Design: `/Designing NVIDIA AI Research Agent.md`
+- UDR Design: `/Designing NVIDIA AI Research Agent.md`
 - Session Memories: `/memories/` (comprehensive debug logs)
 
 ---

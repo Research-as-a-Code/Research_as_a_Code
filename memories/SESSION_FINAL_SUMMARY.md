@@ -1,14 +1,14 @@
-# AI-Q + UDF Agent Development - Final Session Summary
+# AI-Q + UDR Agent Development - Final Session Summary
 
 **Date**: November 16-17, 2025  
 **Session Duration**: ~4 hours  
-**Status**: 🟢 **Major Success** - UDF Feature Complete
+**Status**: 🟢 **Major Success** - UDR Feature Complete
 
 ---
 
 ## 🏆 Major Achievements
 
-### 1. UDF (Universal Deep Research) Feature - **100% COMPLETE** ✅
+### 1. UDR (Universal Deep Research) Feature - **100% COMPLETE** ✅
 
 After 7 iterations of prompt engineering and debugging, we've successfully built a fully functional "Strategy-as-Code" engine!
 
@@ -80,7 +80,7 @@ Created comprehensive memories:
 
 ---
 
-## 📊 UDF Development Journey - 7 Iterations
+## 📊 UDR Development Journey - 7 Iterations
 
 | # | Error | Fix | Status |
 |---|-------|-----|--------|
@@ -124,7 +124,7 @@ The final `STRATEGY_COMPILER_PROMPT` includes:
 
 ### Architecture Improvements
 
-**UDF Integration** (`aira/src/aiq_aira/udf_integration.py`):
+**UDR Integration** (`aira/src/aiq_aira/udr_integration.py`):
 - Enhanced `UDFStrategyCompiler` with robust prompt (lines 61-130)
 - Rewrote `_search_rag_tool` for direct Milvus access (lines 218-309)
 - Added comprehensive logging for compiled code
@@ -149,10 +149,10 @@ The final `STRATEGY_COMPILER_PROMPT` includes:
 | Component | Status | Details |
 |-----------|--------|---------|
 | **NIMs** | ✅ Running | Nemotron Nano 8B, Arctic Embed (4h uptime) |
-| **Backend** | ✅ Running | 2 pods, updated with UDF fixes |
+| **Backend** | ✅ Running | 2 pods, updated with UDR fixes |
 | **Frontend** | ✅ Running | 2 pods, Next.js + CopilotKit |
-| **UDF Compiler** | ✅ Working | Generates perfect Python code |
-| **UDF Executor** | ✅ Working | Executes code safely |
+| **UDR Compiler** | ✅ Working | Generates perfect Python code |
+| **UDR Executor** | ✅ Working | Executes code safely |
 | **Web Search** | ✅ Working | Tavily API, 3 URLs retrieved |
 | **Synthesis** | ✅ Working | Nemotron generates reports |
 
@@ -162,7 +162,7 @@ The final `STRATEGY_COMPILER_PROMPT` includes:
 |-----------|--------|-----------|
 | **Milvus** | 🟡 Deploying | Standalone instance installing |
 | **RAG Tool** | 🟡 Blocked | Waiting for Milvus |
-| **End-to-End UDF** | 🟡 95% | Only RAG connectivity remaining |
+| **End-to-End UDR** | 🟡 95% | Only RAG connectivity remaining |
 
 ---
 
@@ -181,7 +181,7 @@ The final `STRATEGY_COMPILER_PROMPT` includes:
 - `scripts/README.md`
 
 ### Modified
-- `aira/src/aiq_aira/udf_integration.py` (major enhancements)
+- `aira/src/aiq_aira/udr_integration.py` (major enhancements)
 - `backend/main.py` (startup optimization)
 - `infrastructure/kubernetes/agent-deployment.yaml` (Milvus config)
 - `README.md` (added lifecycle management section)
@@ -223,12 +223,12 @@ The final `STRATEGY_COMPILER_PROMPT` includes:
 2. ⏳ Wait for Milvus pods to be ready
 3. ⏳ Update backend ConfigMap with `milvus-standalone` service
 4. ⏳ Restart backend pods
-5. ⏳ Test end-to-end UDF with RAG
+5. ⏳ Test end-to-end UDR with RAG
 
 ### Short-term (1-2 hours)
 1. Load `us_tariffs` collection into Milvus standalone
 2. Test simple RAG queries
-3. Test complex UDF queries
+3. Test complex UDR queries
 4. Verify all features work end-to-end
 5. Performance testing
 
@@ -246,7 +246,7 @@ The final `STRATEGY_COMPILER_PROMPT` includes:
 ### Development
 - **Total Iterations**: 7
 - **Files Modified**: 15+
-- **Lines of Code**: ~500 (UDF integration)
+- **Lines of Code**: ~500 (UDR integration)
 - **Documentation**: ~1500 lines
 - **Test Queries**: 10+
 
@@ -312,7 +312,7 @@ kubectl patch configmap aiq-agent-config -n aiq-agent \
 # Restart backend
 kubectl rollout restart deployment/aiq-agent-backend -n aiq-agent
 
-# Test UDF with tariff query
+# Test UDR with tariff query
 curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/research/stream" \
   -H "Content-Type: application/json" \
   -d '{"topic": "What are factors I need to consider when deciding tariff codes for various sweets?", "report_organization": "Comprehensive report", "collection": "us_tariffs"}' \
@@ -325,7 +325,7 @@ curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-we
 
 ### ✅ What We Delivered
 
-1. **UDF Feature**: 100% functional Strategy-as-Code engine
+1. **UDR Feature**: 100% functional Strategy-as-Code engine
 2. **Cluster Management**: Production-ready lifecycle scripts
 3. **Documentation**: Comprehensive guides and troubleshooting
 4. **Infrastructure**: Solid foundation for production deployment
@@ -357,7 +357,7 @@ These are straightforward infrastructure tasks, not feature bugs.
 
 ---
 
-**Status**: This is a **major technical achievement**. The UDF feature represents state-of-the-art research automation, combining LLM-based code generation with safe execution and multi-tool orchestration. The infrastructure is solid, the code is clean, and the documentation is thorough.
+**Status**: This is a **major technical achievement**. The UDR feature represents state-of-the-art research automation, combining LLM-based code generation with safe execution and multi-tool orchestration. The infrastructure is solid, the code is clean, and the documentation is thorough.
 
 **Next**: Once Milvus is ready, test end-to-end. Then celebrate! 🎊
 

@@ -102,7 +102,7 @@ export default function Home() {
             <h3 className="text-white font-semibold mb-2">Architecture</h3>
             <ul className="space-y-1">
               <li>✅ NVIDIA NeMo Agent Toolkit (LangGraph)</li>
-              <li>✅ Universal Deep Research (UDF)</li>
+              <li>✅ Universal Deep Research (UDR)</li>
               <li>✅ CopilotKit (AG-UI Protocol)</li>
             </ul>
           </div>

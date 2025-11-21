@@ -1,21 +1,21 @@
-# UDF Error: Function Not Defined
+# UDR Error: Function Not Defined
 
 ## Error Summary
 
 **Date**: November 17, 2025  
-**Error Type**: UDF Execution Failure  
+**Error Type**: UDR Execution Failure  
 **Status**: ❌ Function hallucination by LLM
 
 ## Error Message
 
 ```
-❌ UDF execution failed: name 'analyze_cost_benefit_report' is not defined
+❌ UDR execution failed: name 'analyze_cost_benefit_report' is not defined
 ```
 
 **Full Error Context from Logs**:
 ```json
 {
-  "udf_result": {
+  "udr_result": {
     "success": false,
     "error": "name 'analyze_cost_benefit_report' is not defined"
   }
@@ -30,7 +30,7 @@
 
 **Strategy Selected**: `DYNAMIC_STRATEGY`
 
-**UDF Plan Generated**:
+**UDR Plan Generated**:
 ```json
 {
   "step1": {"title": "Research Overview", "description": "Understand the research request, the topic, and the required report organization."},
@@ -47,7 +47,7 @@
 The LLM code generator **hallucinated a function** called `analyze_cost_benefit_report()` that doesn't exist in the available tool namespace.
 
 ### Available Tools (Actual)
-The UDF executor provides only these 3 tools:
+The UDR executor provides only these 3 tools:
 1. `search_rag(query: str, collection: str)` - Search RAG/Milvus
 2. `search_web(query: str)` - Web search
 3. `synthesize_findings(data: List[Dict])` - Synthesize results
@@ -61,10 +61,10 @@ This is a **code generation hallucination** where the LLM invented a function na
 ## Why This Happened
 
 ### 1. Misleading Plan
-The planner suggested a step called "Cost-Benefit Analysis", which implied there should be a tool for it. The UDF compiler then tried to match this conceptual step to a non-existent function.
+The planner suggested a step called "Cost-Benefit Analysis", which implied there should be a tool for it. The UDR compiler then tried to match this conceptual step to a non-existent function.
 
 ### 2. LLM Instruction Following
-The UDF compiler LLM saw:
+The UDR compiler LLM saw:
 - Plan mentions: "Perform a cost-benefit analysis"
 - Plan step5: "Cost-Benefit Analysis"
 - LLM assumed: There must be a function for this
@@ -78,11 +78,11 @@ The compiler prompt doesn't strongly emphasize:
 ## Impact
 
 - ✅ **System Resilience**: The agent **recovered gracefully**
-  - UDF failed with clear error message
+  - UDR failed with clear error message
   - System fell back to generating final report anyway
-  - User got a report (though generic, not using UDF results)
+  - User got a report (though generic, not using UDR results)
 
-- ❌ **UDF Feature**: Dynamic strategy didn't execute properly
+- ❌ **UDR Feature**: Dynamic strategy didn't execute properly
   - No actual RAG searches performed
   - No web searches performed
   - No data synthesis
@@ -92,7 +92,7 @@ The compiler prompt doesn't strongly emphasize:
 
 ### Fix 1: Strengthen Compiler Prompt (High Priority)
 
-**Location**: `aira/src/aiq_aira/udf_integration.py` - `STRATEGY_COMPILER_PROMPT`
+**Location**: `aira/src/aiq_aira/udr_integration.py` - `STRATEGY_COMPILER_PROMPT`
 
 **Add Explicit Constraints**:
 ```python
@@ -132,7 +132,7 @@ CRITICAL REQUIREMENTS:
 ```python
 def validate_generated_code(code: str) -> tuple[bool, str]:
     """
-    Validate generated UDF code before execution.
+    Validate generated UDR code before execution.
     
     Returns: (is_valid, error_message)
     """
@@ -168,7 +168,7 @@ if not is_valid:
 
 ### Fix 3: Improve Error Messages (Low Priority)
 
-When UDF fails, include:
+When UDR fails, include:
 1. What function was attempted
 2. List of available functions
 3. Suggestion to user: "Your query may be too complex for dynamic strategy. Try simpler wording or use simple RAG."
@@ -198,7 +198,7 @@ If forcing dynamic strategy, mention:
 
 ## Testing Recommendations
 
-### Test Case 1: Valid UDF Query
+### Test Case 1: Valid UDR Query
 ```json
 {
   "topic": "What are tariff codes for chocolate products?",
@@ -206,7 +206,7 @@ If forcing dynamic strategy, mention:
   "collection": "us_tariffs"
 }
 ```
-**Expected**: UDF successfully calls search_rag(), search_web(), synthesize_findings()
+**Expected**: UDR successfully calls search_rag(), search_web(), synthesize_findings()
 
 ### Test Case 2: Intentionally Trigger Error (Before Fix)
 ```json
@@ -226,7 +226,7 @@ If forcing dynamic strategy, mention:
   "collection": "us_tariffs"
 }
 ```
-**Expected**: Multi-step UDF execution with multiple tool calls
+**Expected**: Multi-step UDR execution with multiple tool calls
 
 ## Priority
 
@@ -239,7 +239,7 @@ If forcing dynamic strategy, mention:
 - Only affects complex dynamic strategy queries
 
 **Why Important**:
-- UDF is a key differentiating feature
+- UDR is a key differentiating feature
 - User explicitly requested "dynamic strategy"
 - Reduces trust in the system if it fails
 
@@ -247,20 +247,20 @@ If forcing dynamic strategy, mention:
 
 1. **Immediate** (5 min): Update compiler prompt with explicit constraints
 2. **Short-term** (15 min): Add code validator function
-3. **Medium-term** (30 min): Add comprehensive test suite for UDF code generation
+3. **Medium-term** (30 min): Add comprehensive test suite for UDR code generation
 4. **Long-term** (1 hr): Consider adding few-shot examples to compiler prompt
 
 ## Files to Modify
 
-- `/home/csaba/repos/AIML/Research_as_a_Code/aira/src/aiq_aira/udf_integration.py`
+- `/home/csaba/repos/AIML/Research_as_a_Code/aira/src/aiq_aira/udr_integration.py`
   - Update `STRATEGY_COMPILER_PROMPT`
   - Add `validate_generated_code()` function
   - Update `execute_dynamic_strategy()` to use validator
 
 ## Related Issues
 
-- See: `/memories/UDF_DEBUGGING_SESSION.md` - Previous UDF fixes
-- See: `/memories/UDF_BREAKTHROUGH.md` - Initial UDF success
+- See: `/memories/UDF_DEBUGGING_SESSION.md` - Previous UDR fixes
+- See: `/memories/UDF_BREAKTHROUGH.md` - Initial UDR success
 - See: `/memories/DEPLOYMENT_STATUS_FINAL.md` - Current system status
 
 ---
@@ -268,5 +268,5 @@ If forcing dynamic strategy, mention:
 **Status**: Documented ✅  
 **Fix Required**: Yes  
 **Estimated Time**: 20-30 minutes  
-**Impact**: Medium (UDF feature reliability)
+**Impact**: Medium (UDR feature reliability)
 

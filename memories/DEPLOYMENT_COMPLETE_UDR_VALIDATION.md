@@ -1,4 +1,4 @@
-# 🎉 Deployment Complete - UDF Validation Active
+# 🎉 Deployment Complete - UDR Validation Active
 
 **Date**: November 17, 2025  
 **Status**: ✅ **FULLY OPERATIONAL**  
@@ -16,7 +16,7 @@ aiq-agent-backend-69fc647dd6-kg872   1/1     Running   0          7m
 ```
 
 ### Verification
-- ✅ **UDF Integration Loaded**: `✅ UDF integration created`
+- ✅ **UDR Integration Loaded**: `✅ UDR integration created`
 - ✅ **Agent Graph Created**: `✅ Agent graph created`
 - ✅ **Application Started**: `Application startup complete`
 - ✅ **Health Checks Passing**: Multiple successful `/health` requests
@@ -53,10 +53,10 @@ Status: No room to schedule!
 
 ---
 
-## 🛡️ UDF Validation Features Active
+## 🛡️ UDR Validation Features Active
 
 ### Fix #1: Enhanced Compiler Prompt ✅
-**Location**: `aira/src/aiq_aira/udf_integration.py` (lines 78-108)
+**Location**: `aira/src/aiq_aira/udr_integration.py` (lines 78-108)
 
 **Constraints Added**:
 - ❌ Forbidden: Inventing functions (analyze_*, calculate_*, process_*)
@@ -64,7 +64,7 @@ Status: No room to schedule!
 - ✅ Allowed: Only 3 tools (search_rag, search_web, synthesize_findings)
 
 ### Fix #2: Code Validator ✅
-**Location**: `aira/src/aiq_aira/udf_integration.py` (lines 204-262)
+**Location**: `aira/src/aiq_aira/udr_integration.py` (lines 204-262)
 
 **Validates**:
 - Function calls (only allowed tools)
@@ -73,7 +73,7 @@ Status: No room to schedule!
 - No forbidden patterns
 
 ### Fix #3: Validation Integration ✅
-**Location**: `aira/src/aiq_aira/udf_integration.py` (lines 608-618)
+**Location**: `aira/src/aiq_aira/udr_integration.py` (lines 608-618)
 
 **Flow**:
 1. Compile strategy → Python code
@@ -195,7 +195,7 @@ curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-we
 
 ## 💾 Files Modified
 
-1. **`aira/src/aiq_aira/udf_integration.py`**
+1. **`aira/src/aiq_aira/udr_integration.py`**
    - Enhanced compiler prompt
    - Added code validator function
    - Integrated validation in execution flow
@@ -280,7 +280,7 @@ bash infrastructure/scripts/monitor-cluster-readiness.sh
 
 - `/memories/UDF_ERROR_ANALYZE_COST_BENEFIT.md` - Original error analysis
 - `/memories/UDF_VALIDATION_FIX_COMPLETE.md` - Implementation details
-- `/memories/UDF_DEBUGGING_SESSION.md` - Previous UDF fixes
+- `/memories/UDF_DEBUGGING_SESSION.md` - Previous UDR fixes
 - `/memories/MILVUS_CONNECTIVITY_ISSUE.md` - Milvus setup
 - `/memories/DEPLOYMENT_STATUS_FINAL.md` - Overall deployment status
 

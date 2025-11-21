@@ -14,11 +14,11 @@
 # limitations under the License.
 
 """
-Enhanced AI-Q Agent with UDF Integration for Hackathon
+Enhanced AI-Q Agent with UDR Integration for Hackathon
 
 This module implements the two-level agentic system described in the design plan:
 - Level 1: AI-Q agent (orchestrator) built on LangGraph
-- Level 2: UDF dynamic strategy executor (called as a tool by AI-Q)
+- Level 2: UDR dynamic strategy executor (called as a tool by AI-Q)
 
 The agent state is designed to be streamed to CopilotKit for real-time UI visualization.
 """
@@ -35,7 +35,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.language_models import BaseChatModel
 
 from aiq_aira.schema import GeneratedQuery
-from aiq_aira.udf_integration import UDFIntegration, UDFExecutionResult
+from aiq_aira.udr_integration import UDRIntegration, UDRExecutionResult
 from aiq_aira.nodes import generate_query, web_research, summarize_sources, reflect_on_summary, finalize_summary
 
 logger = logging.getLogger(__name__)
@@ -47,7 +47,7 @@ logger = logging.getLogger(__name__)
 
 class HackathonAgentState(TypedDict):
     """
-    State object for the enhanced AI-Q + UDF agent.
+    State object for the enhanced AI-Q + UDR agent.
     
     This state is streamed to CopilotKit's useCoAgentStateRender hook
     for real-time visualization in the frontend.
@@ -70,9 +70,9 @@ class HackathonAgentState(TypedDict):
     citations: str
     running_summary: str
     
-    # UDF dynamic strategy phase
-    udf_strategy: str
-    udf_result: dict
+    # UDR dynamic strategy phase
+    udr_strategy: str
+    udr_result: dict
     
     # Final output
     final_report: str
@@ -90,7 +90,7 @@ async def planner_node(state: HackathonAgentState, config: RunnableConfig):
     Planner node: Analyzes the research prompt and decides the strategy.
     
     Decision logic:
-    - Complex, multi-domain research → Use UDF dynamic strategy
+    - Complex, multi-domain research → Use UDR dynamic strategy
     - Straightforward queries → Use standard AI-Q RAG pipeline
     
     NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
@@ -139,21 +139,21 @@ Respond with JSON:
         
         return {
             "plan": json.dumps(decision),
-            "udf_strategy": plan if strategy == "DYNAMIC_STRATEGY" else "",
+            "udr_strategy": plan if strategy == "DYNAMIC_STRATEGY" else "",
             "logs": [log_msg]
         }
     except Exception as e:
         logger.error(f"Planning failed: {e}")
         return {
             "plan": '{"strategy": "SIMPLE_RAG"}',
-            "udf_strategy": "",
+            "udr_strategy": "",
             "logs": [f"⚠️ Planning error, defaulting to SIMPLE_RAG"]
         }
 
 
 async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConfig):
     """
-    UDF Dynamic Strategy Node: Executes the UDF strategy-as-code engine.
+    UDR Dynamic Strategy Node: Executes the UDR strategy-as-code engine.
     
     This is the core innovation - the agent dynamically generates and executes
     a custom research strategy on-the-fly.
@@ -165,30 +165,30 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     
     # CRITICAL DEBUG: Use print() to ensure output appears
     print("=" * 80, flush=True, file=sys.stderr)
-    print("🔴 DYNAMIC STRATEGY NODE: Starting UDF execution", flush=True, file=sys.stderr)
+    print("🔴 DYNAMIC STRATEGY NODE: Starting UDR execution", flush=True, file=sys.stderr)
     print("=" * 80, flush=True, file=sys.stderr)
     
     logger.info("=" * 80)
-    logger.info("DYNAMIC STRATEGY NODE: Starting UDF execution")
+    logger.info("DYNAMIC STRATEGY NODE: Starting UDR execution")
     logger.info("=" * 80)
     
-    # Get UDF integration from config
-    print("🔵 Attempting to get udf_integration from config...", flush=True, file=sys.stderr)
-    udf_integration: UDFIntegration = config["configurable"].get("udf_integration")
-    print(f"🔵 udf_integration: {type(udf_integration)}", flush=True, file=sys.stderr)
+    # Get UDR integration from config
+    print("🔵 Attempting to get udr_integration from config...", flush=True, file=sys.stderr)
+    udr_integration: UDRIntegration = config["configurable"].get("udr_integration")
+    print(f"🔵 udr_integration: {type(udr_integration)}", flush=True, file=sys.stderr)
     
-    if not udf_integration:
-        error_msg = "UDF integration not configured"
+    if not udr_integration:
+        error_msg = "UDR integration not configured"
         logger.error(f"❌ {error_msg}")
         print(f"❌ {error_msg}", flush=True, file=sys.stderr)
         return {
-            "udf_result": {"success": False, "error": error_msg},
+            "udr_result": {"success": False, "error": error_msg},
             "logs": [f"❌ {error_msg}"]
         }
     
-    # Execute UDF
+    # Execute UDR
     print("🔵 Getting strategy from state...", flush=True, file=sys.stderr)
-    strategy = state.get("udf_strategy", "")
+    strategy = state.get("udr_strategy", "")
     print(f"🔵 strategy length: {len(str(strategy))}", flush=True, file=sys.stderr)
     
     # Convert dict plan to string if needed (LLM sometimes returns structured JSON)
@@ -205,41 +205,41 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     }
     print(f"🔵 Context built: topic={context['topic'][:50]}...", flush=True, file=sys.stderr)
     
-    logger.info("📝 Starting UDF compilation...")
+    logger.info("📝 Starting UDR compilation...")
     print("🔵 About to call execute_dynamic_strategy...", flush=True, file=sys.stderr)
     
     try:
-        # Add timeout protection for UDF execution (5 minutes max)
-        logger.info("⏰ Starting UDF execution with 5-minute timeout...")
+        # Add timeout protection for UDR execution (5 minutes max)
+        logger.info("⏰ Starting UDR execution with 5-minute timeout...")
         print("⏰ Calling asyncio.wait_for...", flush=True, file=sys.stderr)
-        result: UDFExecutionResult = await asyncio.wait_for(
-            udf_integration.execute_dynamic_strategy(
+        result: UDRExecutionResult = await asyncio.wait_for(
+            udr_integration.execute_dynamic_strategy(
                 natural_language_plan=strategy,
                 context=context
             ),
             timeout=300.0  # 5 minutes
         )
         print(f"✅ execute_dynamic_strategy returned! Success: {result.success}", flush=True, file=sys.stderr)
-        logger.info(f"✅ UDF execution completed. Success: {result.success}")
+        logger.info(f"✅ UDR execution completed. Success: {result.success}")
     except asyncio.TimeoutError:
-        error_msg = "UDF execution timed out after 5 minutes"
+        error_msg = "UDR execution timed out after 5 minutes"
         logger.error(f"❌ {error_msg}")
         return {
-            "udf_result": {"success": False, "error": error_msg},
+            "udr_result": {"success": False, "error": error_msg},
             "running_summary": f"Error: {error_msg}",
             "logs": [f"❌ {error_msg}"]
         }
     except Exception as e:
-        error_msg = f"UDF execution exception: {str(e)}"
+        error_msg = f"UDR execution exception: {str(e)}"
         logger.error(f"❌ {error_msg}", exc_info=True)
         return {
-            "udf_result": {"success": False, "error": str(e)},
+            "udr_result": {"success": False, "error": str(e)},
             "running_summary": f"Error: {str(e)}",
             "logs": [f"❌ {error_msg}"]
         }
     
     if result.success:
-        logger.info(f"✅ UDF SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
+        logger.info(f"✅ UDR SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
         
         # Format citations
         citations_formatted = "\n".join([
@@ -248,25 +248,25 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         ])
         
         return_value = {
-            "udf_result": {
+            "udr_result": {
                 "success": True,
                 "report": result.synthesized_report,
                 "sources": result.sources
             },
             "running_summary": result.synthesized_report,
             "citations": citations_formatted,
-            "logs": ["✅ UDF strategy execution complete"]
+            "logs": ["✅ UDR strategy execution complete"]
         }
         logger.info("=" * 80)
         logger.info("DYNAMIC STRATEGY NODE: Returning success result")
         logger.info("=" * 80)
         return return_value
     else:
-        error_msg = f"UDF execution failed: {result.error}"
+        error_msg = f"UDR execution failed: {result.error}"
         logger.error(f"❌ {error_msg}")
         return_value = {
-            "udf_result": {"success": False, "error": result.error},
-            "running_summary": f"UDF Error: {result.error}",
+            "udr_result": {"success": False, "error": result.error},
+            "running_summary": f"UDR Error: {result.error}",
             "logs": [f"❌ {error_msg}"]
         }
         logger.info("=" * 80)
@@ -312,7 +312,7 @@ async def final_report_node(state: HackathonAgentState, config: RunnableConfig):
     """
     Final report node: Formats and finalizes the report with citations.
     
-    This is called regardless of which path (UDF or RAG) was taken.
+    This is called regardless of which path (UDR or RAG) was taken.
     
     NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
@@ -370,7 +370,7 @@ def route_after_planner(state: HackathonAgentState) -> Literal["dynamic_strategy
 
 def create_hackathon_agent_graph() -> StateGraph:
     """
-    Creates the enhanced AI-Q + UDF LangGraph for the hackathon.
+    Creates the enhanced AI-Q + UDR LangGraph for the hackathon.
     
     Graph structure:
     START → Planner → [Dynamic Strategy OR Simple RAG] → Final Report → END
@@ -425,7 +425,7 @@ def create_hackathon_agent_graph() -> StateGraph:
 def create_configured_agent(
     reasoning_llm: BaseChatModel,
     instruct_llm: BaseChatModel,
-    udf_integration: UDFIntegration,
+    udr_integration: UDRIntegration,
     rag_url: str,
     num_reflections: int = 2
 ) -> tuple:
@@ -435,7 +435,7 @@ def create_configured_agent(
     Args:
         reasoning_llm: LLM for planning/reasoning (Nemotron)
         instruct_llm: LLM for writing (Llama 3.3)
-        udf_integration: UDF integration instance
+        udr_integration: UDR integration instance
         rag_url: RAG service URL
         num_reflections: Number of reflection loops
         
@@ -448,7 +448,7 @@ def create_configured_agent(
         "configurable": {
             "llm": reasoning_llm,
             "instruct_llm": instruct_llm,
-            "udf_integration": udf_integration,
+            "udr_integration": udr_integration,
             "rag_url": rag_url,
             "num_reflections": num_reflections,
             "number_of_queries": 3,

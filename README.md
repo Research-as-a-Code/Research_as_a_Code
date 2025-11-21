@@ -1,4 +1,4 @@
-# AI-Q Research Assistant with Universal Deep Research (UDF)
+# AI-Q Research Assistant with Universal Deep Research (UDR)
 
 ## AWS & NVIDIA Agentic AI Unleashed Hackathon 2025
 
@@ -6,7 +6,7 @@
 [![NVIDIA AI](https://img.shields.io/badge/NVIDIA-AI-76B900)](https://www.nvidia.com/en-us/ai/)
 [![AWS EKS](https://img.shields.io/badge/AWS-EKS-FF9900)](https://aws.amazon.com/eks/)
 
-**A two-level agentic system combining NVIDIA AI-Q Research Assistant with Universal Deep Research (UDF) for complex, multi-domain research tasks.**
+**A two-level agentic system combining NVIDIA AI-Q Research Assistant with Universal Deep Research (UDR) for complex, multi-domain research tasks.**
 
 ---
 
@@ -15,14 +15,14 @@
 This project implements a novel architecture that synthesizes two distinct NVIDIA AI blueprints:
 
 1. **NVIDIA AI-Q Research Assistant** (https://github.com/NVIDIA-AI-Blueprints/aiq-research-assistant) - Production-ready research agent with RAG capabilities
-2. **NVIDIA Universal Deep Research (UDF)** - Strategy-as-code engine for dynamic research workflows
+2. **NVIDIA Universal Deep Research (UDR)** - Strategy-as-code engine for dynamic research workflows
 
 ### Core Innovation
 
 The system features a **two-level agentic architecture**:
 
 - **Level 1**: AI-Q orchestrator (built on LangGraph) that decides research strategy
-- **Level 2**: UDF engine that *dynamically generates and executes* custom research code when complexity warrants
+- **Level 2**: UDR engine that *dynamically generates and executes* custom research code when complexity warrants
 
 This allows the agent to move beyond predefined RAG pipelines and adapt its strategy on-the-fly for complex queries like "Generate a report on 'NIMs on EKS' and include a cost-benefit analysis."
 
@@ -40,7 +40,7 @@ This allows the agent to move beyond predefined RAG pipelines and adapt its stra
 | **Instruct LLM** | Llama-3.3-70B NIM | Report writing |
 | **Embedding Model** | NeMo Retriever NIM | Vector search |
 | **RAG Pipeline** | NVIDIA RAG Blueprint | Multi-modal document retrieval |
-| **Dynamic Strategy** | UDF Integration | Strategy-as-code execution |
+| **Dynamic Strategy** | UDR Integration | Strategy-as-code execution |
 | **Infrastructure** | AWS EKS + Karpenter | GPU auto-scaling |
 
 ### Agent Flow Visualization
@@ -52,7 +52,7 @@ User Prompt
     ↓
 Decision: Complex or Simple?
     ├─→ Simple → [Standard RAG Pipeline]
-    └─→ Complex → [UDF Strategy Execution]
+    └─→ Complex → [UDR Strategy Execution]
         ├─→ Compile Strategy (Natural Language → Python)
         ├─→ Execute (Calls NIMs, RAG, Web Search)
         └─→ Synthesize Results
@@ -91,7 +91,7 @@ cd infrastructure/terraform
 cd ../kubernetes
 ./deploy-nims.sh  # ~30 minutes
 
-# 3. Deploy AI-Q + UDF Agent
+# 3. Deploy AI-Q + UDR Agent
 ./deploy-agent.sh  # ~10 minutes
 
 # 4. Access the application
@@ -166,7 +166,7 @@ cd ../../scripts
 
 ### Custom Services
 
-7. **AI-Q + UDF Agent Backend**
+7. **AI-Q + UDR Agent Backend**
    - FastAPI service with CopilotKit integration
    - Namespace: `aiq-agent`
    - Replicas: 2 (for HA)
@@ -287,15 +287,15 @@ npm run dev
 # Open http://localhost:3000
 ```
 
-### Testing UDF Integration
+### Testing UDR Integration
 
 ```python
-from aiq_aira.udf_integration import UDFIntegration
+from aiq_aira.udr_integration import UDFIntegration
 from langchain_openai import ChatOpenAI
 
-# Initialize UDF
+# Initialize UDR
 llm = ChatOpenAI(base_url="http://nemotron-nim:8000/v1")
-udf = UDFIntegration(
+udr = UDFIntegration(
     compiler_llm=llm,
     rag_url="http://rag-server:8081/v1",
     nemotron_nim_url="http://nemotron-nim:8000",
@@ -309,7 +309,7 @@ strategy = """
 3. Synthesize findings into cost-benefit analysis
 """
 
-result = await udf.execute_dynamic_strategy(strategy, context={})
+result = await udr.execute_dynamic_strategy(strategy, context={})
 print(result.synthesized_report)
 ```
 
@@ -321,8 +321,8 @@ print(result.synthesized_report)
 Research_as_a_Code/
 ├── aira/                          # Copied from NVIDIA AI-Q repo
 │   └── src/aiq_aira/              # Core AI-Q agent code
-│       ├── hackathon_agent.py     # ⭐ Enhanced agent with UDF
-│       └── udf_integration.py     # ⭐ UDF strategy-as-code engine
+│       ├── hackathon_agent.py     # ⭐ Enhanced agent with UDR
+│       └── udr_integration.py     # ⭐ UDR strategy-as-code engine
 ├── backend/                       # FastAPI backend
 │   ├── main.py                    # ⭐ CopilotKit integration
 │   ├── requirements.txt
@@ -390,9 +390,9 @@ const { state } = useCoAgentStateRender<AgentState>({
 });
 ```
 
-### 2. UDF Strategy-as-Code
+### 2. UDR Strategy-as-Code
 
-The UDF module converts natural language plans into executable Python:
+The UDR module converts natural language plans into executable Python:
 
 ```
 Natural Language:
@@ -443,13 +443,13 @@ Karpenter:
 - Standard AI-Q pipeline executes
 - Report generated from RAG + web sources
 
-### Test 2: Complex UDF Query
+### Test 2: Complex UDR Query
 
 **Prompt**: "Generate a report on 'NIMs on EKS' and include a cost-benefit analysis comparing on-premise vs hosted deployment"
 
 **Expected Flow**:
-- Planner selects "Dynamic UDF Strategy"
-- UDF compiles multi-step research plan
+- Planner selects "Dynamic UDR Strategy"
+- UDR compiles multi-step research plan
 - Plan executes (RAG + web + synthesis)
 - Comprehensive report with analysis
 
@@ -460,7 +460,7 @@ Karpenter:
 3. Should see logs streaming in real-time:
    - "🤔 Analyzing research complexity..."
    - "✅ Strategy: DYNAMIC_STRATEGY"
-   - "🚀 Executing dynamic UDF strategy..."
+   - "🚀 Executing dynamic UDR strategy..."
    - etc.
 
 ---
@@ -474,7 +474,7 @@ Karpenter:
 | ✅ Agentic Framework | LangGraph (NVIDIA NeMo Agent Toolkit) | ✅ |
 | ✅ Visualize Agent Flow | CopilotKit useCoAgentStateRender | ✅ |
 | ✅ Infrastructure as Code | Terraform + Helm + K8s manifests | ✅ |
-| ✅ Innovation | Two-level agent with UDF strategy-as-code | ✅ |
+| ✅ Innovation | Two-level agent with UDR strategy-as-code | ✅ |
 
 ---
 
@@ -482,7 +482,7 @@ Karpenter:
 
 - **[Design Plan](cursor/design_plan.md)**: Comprehensive architectural design (735 lines)
 - **[AI-Q Blueprint](https://github.com/NVIDIA-AI-Blueprints/aiq-research-assistant)**: Original AI-Q documentation
-- **[UDF Paper](https://arxiv.org/abs/2509.00244)**: Universal Deep Research research paper
+- **[UDR Paper](https://arxiv.org/abs/2509.00244)**: Universal Deep Research research paper
 - **[Data on EKS](https://github.com/awslabs/data-on-eks)**: AWS EKS blueprints
 - **[CopilotKit Docs](https://docs.copilotkit.ai)**: CopilotKit documentation
 
@@ -516,7 +516,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 Components used:
 - NVIDIA AI-Q: Apache 2.0
-- NVIDIA UDF: Apache 2.0
+- NVIDIA UDR: Apache 2.0
 - AWS Blueprints: Apache 2.0
 - CopilotKit: MIT
 
@@ -570,7 +570,7 @@ kubectl exec -n aiq-agent deployment/aiq-agent-backend -- \
 
 3. **Complex Query** (2 min)
    - Enter: "Generate a report on NIMs on EKS with cost-benefit analysis"
-   - Show: Agent flow selecting "Dynamic UDF Strategy"
+   - Show: Agent flow selecting "Dynamic UDR Strategy"
    - Show: Real-time logs (compilation, execution)
    - Show: Comprehensive multi-section report
 

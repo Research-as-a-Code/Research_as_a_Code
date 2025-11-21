@@ -22,7 +22,7 @@
 2. **Main Agent RAG Tool** (`aira/src/aiq_aira/tools.py`)
    - ✅ Uses: `snowflake/arctic-embed-l`
 
-3. **UDF RAG Tool** (`aira/src/aiq_aira/udf_integration.py`)
+3. **UDR RAG Tool** (`aira/src/aiq_aira/udr_integration.py`)
    - ✅ Uses: `snowflake/arctic-embed-l`
 
 4. **Milvus Collection** (`us_tariffs`)
@@ -98,7 +98,7 @@ kubectl exec -n nim $EMBED_POD -- curl -s -X POST http://localhost:8000/v1/embed
 - NIM: `snowflake/arctic-embed-l` (1024-dim)
 - Ingestion: Fixed to use correct model name
 - Agent RAG: Using correct model
-- UDF RAG: Using correct model
+- UDR RAG: Using correct model
 - Milvus: 1024-dim vectors
 
 The original plan's "text-embedding-nim" IS the Arctic Embed L NIM we're using. There's no mismatch - just a bug in the ingestion script that has been fixed.
@@ -106,7 +106,7 @@ The original plan's "text-embedding-nim" IS the Arctic Embed L NIM we're using. 
 ## Files Fixed
 
 1. ✅ `scripts/ingest_tariffs.py` - Updated model name
-2. ✅ `aira/src/aiq_aira/udf_integration.py` - Already correct
+2. ✅ `aira/src/aiq_aira/udr_integration.py` - Already correct
 3. ✅ `aira/src/aiq_aira/tools.py` - Already correct
 
 ---

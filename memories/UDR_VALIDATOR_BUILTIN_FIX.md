@@ -1,4 +1,4 @@
-# UDF Validator Built-in Functions Fix
+# UDR Validator Built-in Functions Fix
 
 **Date**: November 18, 2025  
 **Issue**: Validator blocking Python built-in functions like `str()`  
@@ -22,7 +22,7 @@ RAG Collection Name: us_tariffs
 
 ### Error Message (After Previous Fixes)
 ```
-❌ UDF execution failed: Validation error: Forbidden function call: 'str()'. 
+❌ UDR execution failed: Validation error: Forbidden function call: 'str()'. 
 Only allowed: {'synthesize_findings', 'search_web', 'search_rag'}
 ```
 
@@ -51,7 +51,7 @@ except Exception as e:
 The validator saw `str(e)` and rejected it!
 
 ### The Validator Code (Before Fix)
-**Lines 280-281** in `udf_integration.py`:
+**Lines 280-281** in `udr_integration.py`:
 ```python
 if func_name:
     # Check if it's an allowed function or method
@@ -70,7 +70,7 @@ This checked:
 
 ### Update 1: Added `allowed_builtins`
 
-**Line 251** in `udf_integration.py`:
+**Line 251** in `udr_integration.py`:
 ```python
 # Python built-ins that are safe and commonly needed
 allowed_builtins = {
@@ -88,7 +88,7 @@ These are **safe** Python built-ins that:
 
 ### Update 2: Updated Validation Check
 
-**Line 282** in `udf_integration.py`:
+**Line 282** in `udr_integration.py`:
 ```python
 if func_name not in allowed_functions and func_name not in allowed_methods and func_name not in allowed_builtins:
     return False, f"Forbidden function call: '{func_name}()'. Only allowed: {allowed_functions}"
@@ -98,7 +98,7 @@ Now checks three lists instead of two!
 
 ### Update 3: Updated Prompt
 
-**Lines 119-127** in `udf_integration.py`:
+**Lines 119-127** in `udr_integration.py`:
 ```python
 ✅ ALLOWED - YOU CAN USE:
 - Variables: log = [], sources = [], data = []
@@ -118,7 +118,7 @@ Made it explicit that Python built-ins are allowed!
 ## 🚀 Changes Made
 
 ### File Modified
-`/aira/src/aiq_aira/udf_integration.py`
+`/aira/src/aiq_aira/udr_integration.py`
 
 ### Lines Changed
 
@@ -185,7 +185,7 @@ RAG Collection Name: us_tariffs
 
 ---
 
-## 📝 Session History - All UDF Fixes
+## 📝 Session History - All UDR Fixes
 
 ### Fix #1: Hallucinated Functions ✅
 - **Issue**: LLM invented `analyze_cost_benefit_report()` function
@@ -297,7 +297,7 @@ We chose whitelist for security, but need to expand it as needed.
 ## 🔄 Current Status
 
 ### Deployment
-- ✅ Code fixed in `udf_integration.py`
+- ✅ Code fixed in `udr_integration.py`
 - ✅ Backend image rebuilt and pushed
 - ✅ Deployment restarted
 - ✅ New pod running: `aiq-agent-backend-745775d5cb-t2pg6`
@@ -312,7 +312,7 @@ We chose whitelist for security, but need to expand it as needed.
 ### Next Steps
 1. User submits the same query again (fourth attempt!)
 2. Monitor for successful execution
-3. If successful: 🎉 **UDF IS FULLY OPERATIONAL!**
+3. If successful: 🎉 **UDR IS FULLY OPERATIONAL!**
 4. If new error: Continue iterative debugging
 
 ---

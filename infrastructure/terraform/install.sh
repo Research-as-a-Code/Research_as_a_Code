@@ -3,13 +3,13 @@
 # SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
 # SPDX-License-Identifier: Apache-2.0
 
-# Installation script for AI-Q + UDF on AWS EKS
+# Installation script for AI-Q + UDR on AWS EKS
 # Based on awslabs/data-on-eks pattern
 
 set -e
 
 echo "=================================================="
-echo "AI-Q + UDF Hackathon - EKS Deployment Script"
+echo "AI-Q + UDR Hackathon - EKS Deployment Script"
 echo "=================================================="
 
 # Check prerequisites

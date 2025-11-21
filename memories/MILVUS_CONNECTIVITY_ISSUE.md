@@ -2,13 +2,13 @@
 
 **Date**: November 17, 2025  
 **Status**: 🔴 Infrastructure Issue - Milvus Not Properly Deployed  
-**Impact**: Blocks both UDF and non-UDF RAG queries
+**Impact**: Blocks both UDR and non-UDR RAG queries
 
 ---
 
 ## 🎯 Summary
 
-The UDF feature is **100% functional** (code generation is perfect!), but RAG queries fail because **Milvus is not properly deployed**. The current deployment only has Pulsar (the message queue backend) without the actual Milvus database components.
+The UDR feature is **100% functional** (code generation is perfect!), but RAG queries fail because **Milvus is not properly deployed**. The current deployment only has Pulsar (the message queue backend) without the actual Milvus database components.
 
 ---
 
@@ -46,9 +46,9 @@ The current deployment started a distributed setup but didn't complete the Milvu
 
 ## ✅ What IS Working
 
-### UDF Feature (100% Functional!)
+### UDR Feature (100% Functional!)
 
-The UDF compiler and executor are **completely working**. Look at this perfect generated code:
+The UDR compiler and executor are **completely working**. Look at this perfect generated code:
 
 ```python
 log = []
@@ -126,7 +126,7 @@ helm install milvus-distributed milvus/milvus \
 For immediate testing, use a mock RAG service that returns sample data:
 
 ```python
-# In udf_integration.py
+# In udr_integration.py
 async def _search_rag_tool(self, query: str, collection: str):
     """Mock RAG tool for testing when Milvus unavailable."""
     return {
@@ -178,7 +178,7 @@ kubectl get pods -n rag-blueprint
    - Updated `MILVUS_HOST` to use `milvus-grpc` service
    - Line 24: Changed service name
 
-3. **`aira/src/aiq_aira/udf_integration.py`** (modified):
+3. **`aira/src/aiq_aira/udr_integration.py`** (modified):
    - Fixed RAG tool to use direct Milvus connections
    - Lines 218-309: Complete rewrite using pymilvus directly
 
@@ -191,17 +191,17 @@ kubectl get pods -n rag-blueprint
 1. **Service Discovery**: Kubernetes service selectors must match pod labels exactly
 2. **Milvus Architecture**: Distributed mode requires multiple component types
 3. **Helm Chart Complexity**: NVIDIA RAG Blueprint has multiple deployment modes
-4. **Infrastructure Dependencies**: UDF feature works perfectly; RAG is an infrastructure issue
+4. **Infrastructure Dependencies**: UDR feature works perfectly; RAG is an infrastructure issue
 
-### Why UDF Still Succeeded
+### Why UDR Still Succeeded
 
-The UDF feature succeeded **despite** infrastructure issues because:
+The UDR feature succeeded **despite** infrastructure issues because:
 - **Code generation**: 100% LLM-based, no infrastructure needed
 - **Code compilation**: Pure Python, no external deps
 - **Code execution**: Runs in controlled namespace
 - **Error handling**: Gracefully handles tool failures
 
-Only the RAG *tool call* fails, not the UDF *feature itself*.
+Only the RAG *tool call* fails, not the UDR *feature itself*.
 
 ---
 
@@ -209,7 +209,7 @@ Only the RAG *tool call* fails, not the UDF *feature itself*.
 
 ### Immediate (for testing)
 1. Deploy Milvus standalone (Option 1 above)
-2. Re-test UDF with actual RAG connectivity
+2. Re-test UDR with actual RAG connectivity
 3. Verify `us_tariffs` collection access
 
 ### Short-term (for production)
@@ -311,7 +311,7 @@ kubectl exec -n aiq-agent $(kubectl get pods -n aiq-agent -l component=backend -
 
 ## 🏆 Bottom Line
 
-### UDF Feature Status: ✅ **COMPLETE & WORKING**
+### UDR Feature Status: ✅ **COMPLETE & WORKING**
 
 - Code generation: **Perfect**
 - Code execution: **Perfect**
@@ -321,9 +321,9 @@ kubectl exec -n aiq-agent $(kubectl get pods -n aiq-agent -l component=backend -
 
 ### Blocked By: 🔴 **Milvus Deployment Issue**
 
-This is an infrastructure problem affecting **all RAG queries** (not just UDF), and is **easily fixable** with one of the solutions above.
+This is an infrastructure problem affecting **all RAG queries** (not just UDR), and is **easily fixable** with one of the solutions above.
 
 ---
 
-**Conclusion**: The UDF (Universal Deep Research) feature is a **complete success**. The Milvus connectivity issue is a separate, solvable infrastructure problem that affects the entire RAG pipeline, not specific to UDF.
+**Conclusion**: The UDR (Universal Deep Research) feature is a **complete success**. The Milvus connectivity issue is a separate, solvable infrastructure problem that affects the entire RAG pipeline, not specific to UDR.
 

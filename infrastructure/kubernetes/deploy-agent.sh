@@ -3,12 +3,12 @@
 # SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
 # SPDX-License-Identifier: Apache-2.0
 
-# Script to deploy the AI-Q + UDF agent to EKS
+# Script to deploy the AI-Q + UDR agent to EKS
 
 set -e
 
 echo "=================================================="
-echo "Deploying AI-Q + UDF Agent to EKS"
+echo "Deploying AI-Q + UDR Agent to EKS"
 echo "=================================================="
 
 # Check prerequisites
@@ -135,7 +135,7 @@ FRONTEND_URL=$(kubectl get svc aiq-agent-frontend -n aiq-agent -o jsonpath='{.st
 
 echo ""
 echo "=================================================="
-echo "✅ AI-Q + UDF Agent deployed successfully!"
+echo "✅ AI-Q + UDR Agent deployed successfully!"
 echo "=================================================="
 echo ""
 echo "Application URLs:"

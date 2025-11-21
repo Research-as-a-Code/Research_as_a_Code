@@ -1,6 +1,6 @@
 # Implementation Summary
 
-## AI-Q + UDF Research Assistant - Hackathon Implementation
+## AI-Q + UDR Research Assistant - Hackathon Implementation
 
 **Date**: November 4, 2025  
 **Status**: ✅ **COMPLETE** - All 8 tasks finished  
@@ -13,10 +13,10 @@
 
 Based on the comprehensive [design plan](cursor/design_plan.md) (735 lines), the following components were fully implemented:
 
-### ✅ Part I: Agentic Core (UDF + AI-Q Integration)
+### ✅ Part I: Agentic Core (UDR + AI-Q Integration)
 
 **Files Created:**
-- `aira/src/aiq_aira/udf_integration.py` (450+ lines)
+- `aira/src/aiq_aira/udr_integration.py` (450+ lines)
   - `UDFStrategyCompiler`: Converts natural language plans to executable Python
   - `UDFStrategyExecutor`: Runs generated code with access to NIMs and RAG
   - `UDFIntegration`: High-level interface for AI-Q agent
@@ -24,7 +24,7 @@ Based on the comprehensive [design plan](cursor/design_plan.md) (735 lines), the
 - `aira/src/aiq_aira/hackathon_agent.py` (380+ lines)
   - `HackathonAgentState`: TypedDict for CopilotKit state streaming
   - `planner_node`: Analyzes complexity and selects strategy
-  - `dynamic_strategy_node`: Invokes UDF engine
+  - `dynamic_strategy_node`: Invokes UDR engine
   - `simple_rag_pipeline`: Standard AI-Q flow
   - `create_hackathon_agent_graph()`: LangGraph construction
 
@@ -135,7 +135,7 @@ Based on the comprehensive [design plan](cursor/design_plan.md) (735 lines), the
 | **Agentic Framework** | LangGraph from NVIDIA NeMo Agent Toolkit | `hackathon_agent.py` |
 | **Visualize Agent Flow** | CopilotKit `useCoAgentStateRender` hook | `AgentFlowDisplay.tsx` |
 | **Infrastructure as Code** | Terraform + Helm + K8s manifests | `infrastructure/*` |
-| **Innovation** | Two-level agent with UDF strategy-as-code | `udf_integration.py` |
+| **Innovation** | Two-level agent with UDR strategy-as-code | `udr_integration.py` |
 
 ---
 
@@ -145,7 +145,7 @@ Based on the comprehensive [design plan](cursor/design_plan.md) (735 lines), the
 
 1. **Two-Level Agentic System**
    - **Level 1**: AI-Q orchestrator (decides strategy)
-   - **Level 2**: UDF executor (generates and runs code)
+   - **Level 2**: UDR executor (generates and runs code)
    - This allows dynamic adaptation to query complexity
 
 2. **EKS Over SageMaker**
@@ -195,7 +195,7 @@ NIMs (Nemotron, Llama, Embedding)
 Research_as_a_Code/
 ├── aira/src/aiq_aira/
 │   ├── hackathon_agent.py     ⭐ NEW: Enhanced LangGraph agent
-│   ├── udf_integration.py     ⭐ NEW: UDF strategy-as-code engine
+│   ├── udr_integration.py     ⭐ NEW: UDR strategy-as-code engine
 │   └── [original AI-Q files]
 │
 ├── backend/
@@ -240,13 +240,13 @@ Research_as_a_Code/
 ## 🧪 Testing Checklist
 
 ### Unit Tests (Not implemented - out of scope)
-- UDF strategy compilation
+- UDR strategy compilation
 - Agent state transitions
 - Tool invocations
 
 ### Integration Tests (Manual)
 - [x] Simple RAG query works
-- [x] Complex UDF query works
+- [x] Complex UDR query works
 - [x] Real-time UI updates stream correctly
 - [x] NIMs respond to requests
 - [x] Karpenter provisions GPU nodes
@@ -257,7 +257,7 @@ Research_as_a_Code/
 ## 💡 Key Innovations
 
 1. **Strategy-as-Code Engine**
-   - First implementation of UDF as a LangGraph tool
+   - First implementation of UDR as a LangGraph tool
    - Converts natural language → Python → execution
    - Enables truly dynamic research workflows
 
@@ -283,7 +283,7 @@ Research_as_a_Code/
 
 ### Understanding the Code
 
-1. **UDF Integration**: Start with `udf_integration.py`
+1. **UDR Integration**: Start with `udr_integration.py`
    - Study `UDFStrategyCompiler.compile_strategy()`
    - See how natural language becomes Python
 
@@ -298,7 +298,7 @@ Research_as_a_Code/
 ### Related Projects
 
 - [NVIDIA AI-Q](https://github.com/NVIDIA-AI-Blueprints/aiq-research-assistant)
-- [NVIDIA UDF Paper](https://arxiv.org/abs/2509.00244)
+- [NVIDIA UDR Paper](https://arxiv.org/abs/2509.00244)
 - [AWS Data on EKS](https://github.com/awslabs/data-on-eks)
 - [CopilotKit](https://www.copilotkit.ai/)
 
@@ -318,7 +318,7 @@ Research_as_a_Code/
    - App Runner for agent
    - Serverless architecture
 
-3. **Enhanced UDF Capabilities**
+3. **Enhanced UDR Capabilities**
    - More tool types (databases, APIs)
    - Persistent strategy cache
    - Strategy optimization
@@ -340,7 +340,7 @@ All hackathon success criteria achieved:
 - ✅ Agentic framework (LangGraph)
 - ✅ Real-time flow visualization
 - ✅ Infrastructure as Code (Terraform)
-- ✅ Novel innovation (UDF integration)
+- ✅ Novel innovation (UDR integration)
 - ✅ Production-ready architecture
 - ✅ Comprehensive documentation
 - ✅ One-command deployment
@@ -362,7 +362,7 @@ For questions about this implementation:
 This project builds upon:
 
 - **NVIDIA AI-Q Blueprint** - Foundation agent architecture
-- **NVIDIA UDF** - Strategy-as-code inspiration
+- **NVIDIA UDR** - Strategy-as-code inspiration
 - **AWS Data on EKS** - Infrastructure blueprints
 - **CopilotKit** - UI framework
 

@@ -25,7 +25,7 @@
 - ✅ **FastAPI Backend**
   - Model: Nemotron-Nano-8B
   - LangGraph Agent: Enabled
-  - UDF Integration: Active
+  - UDR Integration: Active
   - Status: **RUNNING** ✅
   - Pods: 3 replicas
 
@@ -63,7 +63,7 @@
 | GPU Acceleration | ✅ | NVIDIA A10G (24GB) |
 | US Customs Tariff Use Case | ✅ | 97 PDFs ingested |
 | RAG with Milvus | ✅ | Milvus + NeMo Retriever |
-| Agentic AI | ✅ | LangGraph with UDF |
+| Agentic AI | ✅ | LangGraph with UDR |
 
 ### 📊 Infrastructure
 

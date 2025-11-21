@@ -88,7 +88,7 @@ kubectl logs -n aiq-agent aiq-agent-backend-<NEW-POD-ID> --tail=50
 
 You should see:
 ```
-INFO: ✅ AI-Q + UDF Agent initialized successfully
+INFO: ✅ AI-Q + UDR Agent initialized successfully
 INFO: ✅ CopilotKit endpoint registered at /copilotkit
 ```
 
@@ -106,7 +106,7 @@ Should return:
 ```json
 {
   "status": "healthy",
-  "service": "AI-Q Research Assistant with UDF",
+  "service": "AI-Q Research Assistant with UDR",
   "copilotkit_enabled": true
 }
 ```

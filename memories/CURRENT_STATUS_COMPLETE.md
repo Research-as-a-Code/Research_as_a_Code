@@ -22,7 +22,7 @@ Your application now displays **real-time updates** of the agentic workflow in t
 
 ### Features
 - **Live Phase Tracking**: See current agent phase (Planning, Research, Synthesis, etc.)
-- **Strategy Display**: Shows if using Simple RAG or Dynamic UDF
+- **Strategy Display**: Shows if using Simple RAG or Dynamic UDR
 - **Execution Logs**: Real-time streaming of agent actions
 - **Query Generation**: Displays generated queries as they're created
 - **Progress Indicators**: Animated pulse for active processing
@@ -170,7 +170,7 @@ curl -X POST "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-we
 - ✅ **Web Search with Citations** - Working with Tavily
 - ✅ **Real-Time AG-UI Visualization** - NEW! Streaming workflow updates
 - ✅ **Multi-Query Generation** - Agent generates 3+ queries per request
-- ✅ **UDF Framework** - Simple RAG and Dynamic UDF strategies
+- ✅ **UDR Framework** - Simple RAG and Dynamic UDR strategies
 - ✅ **Nemotron-Nano-8B on GPU** - Running on g5.2xlarge
 - ✅ **Modern UI** - Clean, responsive, no crashes
 - ✅ **Stable Performance** - All services healthy
@@ -217,7 +217,7 @@ All previously reported issues have been resolved:
 - [x] Citation extraction and formatting
 - [x] Report synthesis with LLM
 - [x] Reflection loop for quality improvement
-- [x] UDF (Universal Deep Research) framework
+- [x] UDR (Universal Deep Research) framework
 
 ### Visualization (NEW!)
 - [x] Real-time phase tracking

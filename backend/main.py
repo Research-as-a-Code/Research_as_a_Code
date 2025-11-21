@@ -5,7 +5,7 @@
 FastAPI Backend with CopilotKit Integration
 
 This is the main backend service that:
-1. Serves the AI-Q + UDF agent via REST API
+1. Serves the AI-Q + UDR agent via REST API
 2. Integrates CopilotKit SDK for real-time state streaming to the frontend
 3. Provides endpoints for research generation with agentic flow visualization
 """
@@ -30,9 +30,9 @@ except ImportError:
     COPILOTKIT_AVAILABLE = False
     logging.warning("CopilotKit SDK not installed. Install with: pip install copilotkit")
 
-# AI-Q and UDF imports
+# AI-Q and UDR imports
 from aiq_aira.hackathon_agent import create_configured_agent, HackathonAgentState
-from aiq_aira.udf_integration import UDFIntegration
+from aiq_aira.udr_integration import UDRIntegration
 from langchain_openai import ChatOpenAI
 
 # Configure logging - use uvicorn's logger to ensure logs appear
@@ -89,7 +89,7 @@ async def lifespan(app: FastAPI):
     logger.info("=" * 80)
     
     try:
-        logger.info("Step 1/6: Initializing AI-Q + UDF Agent...")
+        logger.info("Step 1/6: Initializing AI-Q + UDR Agent...")
         
         # Create LLM instances
         logger.info("Step 2/6: Creating reasoning LLM...")
@@ -123,23 +123,23 @@ async def lifespan(app: FastAPI):
         )
         logger.info(f"✅ Instruct LLM created: {Config.INSTRUCT_MODEL}")
         
-        # Create UDF integration
-        logger.info("Step 4/6: Creating UDF integration...")
-        udf_integration = UDFIntegration(
+        # Create UDR integration
+        logger.info("Step 4/6: Creating UDR integration...")
+        udr_integration = UDRIntegration(
             compiler_llm=reasoning_llm,
             rag_url=Config.RAG_SERVER_URL,
             nemotron_nim_url=Config.NEMOTRON_NIM_URL,
             embedding_nim_url=Config.EMBEDDING_NIM_URL,
             tavily_api_key=Config.TAVILY_API_KEY
         )
-        logger.info("✅ UDF integration created")
+        logger.info("✅ UDR integration created")
         
         # Create configured agent
         logger.info("Step 5/6: Creating configured agent graph...")
         agent_graph, agent_config = create_configured_agent(
             reasoning_llm=reasoning_llm,
             instruct_llm=instruct_llm,
-            udf_integration=udf_integration,
+            udr_integration=udr_integration,
             rag_url=Config.RAG_SERVER_URL,
             num_reflections=2
         )
@@ -147,7 +147,7 @@ async def lifespan(app: FastAPI):
         logger.info(f"✅ Agent config created: {type(agent_config)}")
         
         logger.info("=" * 80)
-        logger.info("✅ AI-Q + UDF Agent initialized successfully")
+        logger.info("✅ AI-Q + UDR Agent initialized successfully")
         logger.info("=" * 80)
         
         # Initialize CopilotKit after agent is created
@@ -282,7 +282,7 @@ async def lifespan(app: FastAPI):
 # ========================================
 
 app = FastAPI(
-    title="AI-Q Research Assistant with UDF",
+    title="AI-Q Research Assistant with UDR",
     description="Enhanced NVIDIA AI-Q agent with Universal Deep Research for the AWS & NVIDIA Hackathon",
     version="1.0.0",
     lifespan=lifespan
@@ -324,7 +324,7 @@ class ResearchResponse(BaseModel):
     final_report: str
     citations: str
     logs: list[str]
-    execution_path: str  # "UDF" or "Simple RAG"
+    execution_path: str  # "UDR" or "Simple RAG"
 
 
 # ========================================
@@ -336,7 +336,7 @@ async def health_check():
     """Health check endpoint."""
     return {
         "status": "healthy",
-        "service": "AI-Q Research Assistant with UDF",
+        "service": "AI-Q Research Assistant with UDR",
         "copilotkit_enabled": COPILOTKIT_AVAILABLE
     }
 
@@ -378,8 +378,8 @@ async def generate_research_stream(request: ResearchRequest):
                 "web_research_results": [],
                 "citations": "",
                 "running_summary": "",
-                "udf_strategy": "",
-                "udf_result": {},
+                "udr_strategy": "",
+                "udr_result": {},
                 "final_report": "",
                 "logs": []
             }
@@ -513,7 +513,7 @@ async def generate_research_stream(request: ResearchRequest):
 @app.post("/research", response_model=ResearchResponse)
 async def generate_research(request: ResearchRequest):
     """
-    Generate research report using AI-Q + UDF agent.
+    Generate research report using AI-Q + UDR agent.
     
     This endpoint runs the agent synchronously and returns the complete result.
     For real-time streaming, use the /copilotkit endpoint.
@@ -535,8 +535,8 @@ async def generate_research(request: ResearchRequest):
         "web_research_results": [],
         "citations": "",
         "running_summary": "",
-        "udf_strategy": "",
-        "udf_result": {},
+        "udr_strategy": "",
+        "udr_result": {},
         "final_report": "",
         "logs": []
     }
@@ -572,7 +572,7 @@ async def generate_research(request: ResearchRequest):
         print(f"🔍 DEBUG: Agent completed, execution_path will be determined", flush=True)
         
         # Determine which path was taken
-        execution_path = "UDF" if final_state.get("udf_result", {}).get("success") else "Simple RAG"
+        execution_path = "UDR" if final_state.get("udr_result", {}).get("success") else "Simple RAG"
         
         return ResearchResponse(
             final_report=final_state.get("final_report", ""),
@@ -609,7 +609,7 @@ if __name__ == "__main__":
     
     logger.info(f"""
 ╔══════════════════════════════════════════════════════════╗
-║  AI-Q Research Assistant with UDF                        ║
+║  AI-Q Research Assistant with UDR                        ║
 ║  AWS & NVIDIA Hackathon Edition                          ║
 ╠══════════════════════════════════════════════════════════╣
 ║  🚀 Starting server on port {port}                       ║

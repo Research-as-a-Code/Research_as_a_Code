@@ -444,7 +444,7 @@ export function CopilotAgentDisplay({
                 {agentState.udf_strategy ? (
                   <span className="inline-flex items-center gap-2">
                     <span className="text-2xl">🚀</span>
-                    <span className="font-semibold">Dynamic UDF Strategy</span>
+                    <span className="font-semibold">Dynamic UDR Strategy</span>
                   </span>
                 ) : (
                   <span className="inline-flex items-center gap-2">
@@ -532,7 +532,7 @@ function getPhaseLabel(node?: string): string {
   
   const labelMap: Record<string, string> = {
     planner: "Planning Strategy",
-    udf_execution: "UDF Execution",
+    udf_execution: "UDR Execution",
     generate_query: "Query Generation",
     web_research: "Research",
     summarize_sources: "Synthesis",

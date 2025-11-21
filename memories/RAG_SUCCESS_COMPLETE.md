@@ -184,7 +184,7 @@ You now have a fully functional AI research assistant with:
 - Multi-domain query generation
 - RAG document retrieval with citations
 - Web search fallback
-- UDF (Universal Deep Research) framework
+- UDR (Universal Deep Research) framework
 - NVIDIA Nemotron-Nano-8B on GPU
 
 **Ready for your hackathon presentation!** 🏆

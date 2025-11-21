@@ -1,6 +1,6 @@
 # 🚀 Quick Start Guide
 
-## AI-Q + UDF Research Assistant - Get Running in 30 Minutes
+## AI-Q + UDR Research Assistant - Get Running in 30 Minutes
 
 This guide gets you up and running as quickly as possible. For detailed documentation, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
@@ -81,7 +81,7 @@ kubectl get svc aiq-agent-frontend -n aiq-agent
 Enter: `"Generate a report on NIMs on EKS with cost-benefit analysis"`
 
 Watch as the agent:
-- Recognizes complexity → Selects UDF strategy
+- Recognizes complexity → Selects UDR strategy
 - Compiles multi-step research plan
 - Executes dynamic code
 - Synthesizes comprehensive report
@@ -155,7 +155,7 @@ terraform destroy
 ## Key Features to Demo
 
 1. **Simple RAG**: Ask "What is Kubernetes?"
-2. **UDF Strategy**: Ask "Compare EKS vs GKE with cost analysis"
+2. **UDR Strategy**: Ask "Compare EKS vs GKE with cost analysis"
 3. **Real-Time Flow**: Watch the left panel stream agent decisions
 4. **Report Quality**: Download and review the generated markdown
 

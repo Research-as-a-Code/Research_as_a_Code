@@ -36,7 +36,7 @@ export function AgentFlowDisplay() {
     if (node === "planner") {
       phase = "🤔 Planning Strategy";
     } else if (node === "udf_execution") {
-      phase = "🚀 UDF Execution";
+      phase = "🚀 UDR Execution";
     } else if (node === "generate_query") {
       phase = "📋 Query Generation";
     } else if (node === "web_research") {
@@ -78,7 +78,7 @@ export function AgentFlowDisplay() {
             {state.udf_strategy ? (
               <span className="inline-flex items-center gap-2">
                 <span className="text-2xl">🚀</span>
-                <span className="font-semibold">Dynamic UDF Strategy</span>
+                <span className="font-semibold">Dynamic UDR Strategy</span>
               </span>
             ) : (
               <span className="inline-flex items-center gap-2">
@@ -137,11 +137,11 @@ export function AgentFlowDisplay() {
         </div>
       )}
 
-      {/* UDF Execution Result */}
+      {/* UDR Execution Result */}
       {state.udf_result && state.udf_result.success && (
         <div className="bg-yellow-900/30 border border-yellow-500 rounded-lg p-4">
           <div className="text-sm text-yellow-300 mb-2 font-semibold">
-            UDF Execution Result
+            UDR Execution Result
           </div>
           <div className="text-gray-300 text-sm">
             ✅ Strategy executed successfully

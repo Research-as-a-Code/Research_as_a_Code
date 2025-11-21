@@ -1,11 +1,11 @@
-# UDF Debugging Session Summary
+# UDR Debugging Session Summary
 
 **Date**: November 16, 2025  
 **Duration**: ~2 hours  
 **Status**: 🟡 Close to working - iterative improvements showing progress
 
 ## 🎯 Goal
-Debug and fix the UDF (Universal Deep Research) feature that allows the agent to dynamically compile natural language research strategies into executable Python code.
+Debug and fix the UDR (Universal Deep Research) feature that allows the agent to dynamically compile natural language research strategies into executable Python code.
 
 ## 📊 Progress Timeline
 
@@ -15,7 +15,7 @@ Debug and fix the UDF (Universal Deep Research) feature that allows the agent to
 - **Result**: Code compiled but returned None
 
 ### Iteration 2: Safety Net Triggered
-- **Error**: `"UDF execution completed but no report was generated"`  
+- **Error**: `"UDR execution completed but no report was generated"`  
 - **Fix**: Added safety net to handle None gracefully
 - **Result**: Hit fallback, need better code generation
 
@@ -25,7 +25,7 @@ Debug and fix the UDF (Universal Deep Research) feature that allows the agent to
 - **Result**: ✅ Fixed! No more await errors
 
 ### Iteration 4: KeyError (Current)
-- **Error**: `"❌ UDF execution failed: 'query'"`
+- **Error**: `"❌ UDR execution failed: 'query'"`
 - **Analysis**: LLM generating code that references undefined variable
 - **Next Fix**: Need to ensure all variables are properly defined
 
@@ -33,13 +33,13 @@ Debug and fix the UDF (Universal Deep Research) feature that allows the agent to
 
 1. ✅ **Infrastructure**: All services healthy (Backend, NIMs, Milvus, Frontend)
 2. ✅ **Agent flow**: Correctly chooses DYNAMIC_STRATEGY for complex queries
-3. ✅ **UDF compiler**: Successfully invoked and generating code
+3. ✅ **UDR compiler**: Successfully invoked and generating code
 4. ✅ **Code execution**: Python code is being executed (not crashing on syntax)
 5. ✅ **Error handling**: Errors are caught and reported cleanly
 
 ## 🔧 Improvements Made
 
-### Code Changes (`aira/src/aiq_aira/udf_integration.py`)
+### Code Changes (`aira/src/aiq_aira/udr_integration.py`)
 
 1. **Enhanced compiler prompt** (lines 61-125):
    - Added explicit DO/DON'T list for await
@@ -89,8 +89,8 @@ Debug and fix the UDF (Universal Deep Research) feature that allows the agent to
 ### Medium-term (2-4 hours)
 1. Add pre-execution code validation
 2. Implement code auto-fixing for common patterns
-3. Create test suite for UDF compilation
-4. Document UDF prompting best practices
+3. Create test suite for UDR compilation
+4. Document UDR prompting best practices
 
 ## 📝 Test Query
 
@@ -105,8 +105,8 @@ Debug and fix the UDF (Universal Deep Research) feature that allows the agent to
 ## 🔗 Key Files
 
 - `memories/UDF_DEBUGGING_SESSION.md` - Full session documentation
-- `aira/src/aiq_aira/udf_integration.py` - UDF compiler/executor
-- `aira/src/aiq_aira/hackathon_agent.py` - Agent graph with UDF node
+- `aira/src/aiq_aira/udr_integration.py` - UDR compiler/executor
+- `aira/src/aiq_aira/hackathon_agent.py` - Agent graph with UDR node
 - `backend/main.py` - FastAPI integration
 - `Designing NVIDIA AI Research Agent.md` - Original architecture
 
@@ -134,11 +134,11 @@ Milvus:   Healthy with us_tariffs collection
 ## ✨ Achievement Unlocked
 
 ✅ **Cluster Lifecycle Management**: Created battle-tested sleep/wake/monitor scripts  
-✅ **UDF Integration Progress**: Fixed 3 of 4 major issues  
+✅ **UDR Integration Progress**: Fixed 3 of 4 major issues  
 ✅ **Documentation**: Comprehensive session notes for future debugging  
 ✅ **Infrastructure Stability**: 17-minute validated sleep/wake cycle  
 
 ---
 
 **Status**: Ready to continue with variable initialization fix and simpler test cases.
-**Confidence**: 🟢 High - UDF feature is 75% functional, close to breakthrough
+**Confidence**: 🟢 High - UDR feature is 75% functional, close to breakthrough

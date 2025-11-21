@@ -1,19 +1,19 @@
-# 🎉 UDF BREAKTHROUGH - IT WORKS!
+# 🎉 UDR BREAKTHROUGH - IT WORKS!
 
 **Date**: November 17, 2025  
-**Status**: ✅ UDF Core Functionality WORKING!
+**Status**: ✅ UDR Core Functionality WORKING!
 
 ---
 
 ## 🏆 Major Achievement
 
-**THE UDF (Universal Deep Research) FEATURE IS NOW WORKING!**
+**THE UDR (Universal Deep Research) FEATURE IS NOW WORKING!**
 
 After 6 iterations of prompt engineering and debugging, we've successfully:
 1. ✅ Fixed code generation (LLM generates valid Python)
 2. ✅ Fixed compilation (no template errors)
 3. ✅ Fixed execution (no await/variable errors)
-4. ✅ Achieved first successful UDF execution!
+4. ✅ Achieved first successful UDR execution!
 
 ---
 
@@ -23,7 +23,7 @@ After 6 iterations of prompt engineering and debugging, we've successfully:
 {
   "node": "dynamic_strategy",
   "state": {
-    "udf_result": {
+    "udr_result": {
       "success": true,  // ← 🎉 SUCCESS!
       "report": "...",
       "sources": [
@@ -49,7 +49,7 @@ After 6 iterations of prompt engineering and debugging, we've successfully:
 - 🟡 **RAG tool**: 404 error on embedding service (endpoint issue)
 - 🟡 **Synthesis tool**: 404 error on instruct service (endpoint issue)
 
-**These are simple endpoint configuration issues, not UDF problems!**
+**These are simple endpoint configuration issues, not UDR problems!**
 
 ---
 
@@ -63,7 +63,7 @@ After 6 iterations of prompt engineering and debugging, we've successfully:
 
 ### Iteration 2: Safety Net Triggered
 ```
-❌ "UDF execution completed but no report was generated"
+❌ "UDR execution completed but no report was generated"
 ```
 **Fix**: Enhanced prompt with better example
 
@@ -75,7 +75,7 @@ After 6 iterations of prompt engineering and debugging, we've successfully:
 
 ### Iteration 4: Variable Scoping
 ```
-❌ "❌ UDF execution failed: 'query'"
+❌ "❌ UDR execution failed: 'query'"
 ```
 **Fix**: Documented exact context dict keys
 
@@ -87,7 +87,7 @@ After 6 iterations of prompt engineering and debugging, we've successfully:
 
 ### Iteration 6: SUCCESS! 🎉
 ```
-✅ "udf_result": {"success": true, ...}
+✅ "udr_result": {"success": true, ...}
 ```
 **Result**: Code compiled, executed, and produced results!
 
@@ -133,16 +133,16 @@ tariff_results = await search_rag(  # YES await - search_rag() IS async
 
 ## 📁 Files Modified
 
-### Primary UDF File
-**`aira/src/aiq_aira/udf_integration.py`**
+### Primary UDR File
+**`aira/src/aiq_aira/udr_integration.py`**
 - Enhanced `STRATEGY_COMPILER_PROMPT` (lines 61-130)
 - Added explicit context dict documentation
 - Added comprehensive tariff research example
 - Added logging for compiled code visibility
 
 ### Integration Points
-- **`backend/main.py`**: UDF initialized with correct service URLs
-- **`aira/src/aiq_aira/hackathon_agent.py`**: Dynamic strategy node calls UDF
+- **`backend/main.py`**: UDR initialized with correct service URLs
+- **`aira/src/aiq_aira/hackathon_agent.py`**: Dynamic strategy node calls UDR
 
 ---
 
@@ -163,14 +163,14 @@ Test edge cases:
 Polish and production-readiness:
 1. Add code validation before execution
 2. Implement auto-fixing for common patterns
-3. Create test suite for UDF compilation
-4. Document best practices for UDF prompts
+3. Create test suite for UDR compilation
+4. Document best practices for UDR prompts
 
 ---
 
 ## 🧪 Test Commands
 
-### Test UDF Feature
+### Test UDR Feature
 ```bash
 curl -X POST "http://<BACKEND_URL>/research/stream" \
   -H "Content-Type: application/json" \
@@ -184,10 +184,10 @@ curl -X POST "http://<BACKEND_URL>/research/stream" \
 ### Check Compiled Code
 ```bash
 kubectl logs -n aiq-agent -l component=backend --tail=1000 | \
-  grep -A 60 "📝 COMPILED UDF STRATEGY CODE"
+  grep -A 60 "📝 COMPILED UDR STRATEGY CODE"
 ```
 
-### Monitor UDF Execution
+### Monitor UDR Execution
 ```bash
 kubectl logs -n aiq-agent -l component=backend -f | \
   grep -i "udf\|dynamic.strategy"
@@ -213,8 +213,8 @@ kubectl logs -n aiq-agent -l component=backend -f | \
 - ✅ **Code compilation**: 100%
 - ✅ **Code execution**: 100%
 - ✅ **Web search**: 100% (3/3 URLs retrieved)
-- 🟡 **RAG search**: 0% (endpoint issue, not UDF issue)
-- 🟡 **Synthesis**: 0% (endpoint issue, not UDF issue)
+- 🟡 **RAG search**: 0% (endpoint issue, not UDR issue)
+- 🟡 **Synthesis**: 0% (endpoint issue, not UDR issue)
 
 ---
 
@@ -264,9 +264,9 @@ Based on NVIDIA's Universal Deep Research (UDR) prototype:
 ## 🏆 Current Status
 
 ### ✅ Working
-- ✅ UDF compiler: Generates Python from natural language
-- ✅ UDF executor: Runs compiled code safely
-- ✅ Strategy selection: Agent chooses UDF for complex queries
+- ✅ UDR compiler: Generates Python from natural language
+- ✅ UDR executor: Runs compiled code safely
+- ✅ Strategy selection: Agent chooses UDR for complex queries
 - ✅ Web search tool: Successfully retrieves URLs
 - ✅ Error handling: Graceful failure modes
 - ✅ Streaming: Real-time status updates
@@ -276,7 +276,7 @@ Based on NVIDIA's Universal Deep Research (UDR) prototype:
 - 🟡 Synthesis tool endpoints
 
 ### 📝 Backlog
-- Test suite for UDF compilation
+- Test suite for UDR compilation
 - Code validation pre-execution
 - Auto-fixing common patterns
 - Documentation for custom tools
@@ -287,7 +287,7 @@ Based on NVIDIA's Universal Deep Research (UDR) prototype:
 
 ### Log Output - Success Message
 ```
-data: {"node": "dynamic_strategy", "state": {"udf_result": {"success": true, ...
+data: {"node": "dynamic_strategy", "state": {"udr_result": {"success": true, ...
 ```
 
 ### Web Search Results
@@ -306,11 +306,11 @@ data: {"node": "dynamic_strategy", "state": {"udf_result": {"success": true, ...
 
 ---
 
-**Status**: 🎉 **UDF Core Functionality VALIDATED**  
+**Status**: 🎉 **UDR Core Functionality VALIDATED**  
 **Next**: Fix tool endpoints and test end-to-end  
 **Confidence**: 🟢 **Very High** - Hard problems solved, only configuration left
 
 ---
 
-*This represents a significant milestone in the AI-Q + UDF agent development. The ability to dynamically compile and execute research strategies opens up new possibilities for adaptive, intelligent research automation.*
+*This represents a significant milestone in the AI-Q + UDR agent development. The ability to dynamically compile and execute research strategies opens up new possibilities for adaptive, intelligent research automation.*
 

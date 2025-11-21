@@ -311,6 +311,6 @@ kubectl delete service milvus-pulsarv3-proxy -n rag-blueprint 2>/dev/null
 - ✅ New Milvus Standalone: Running with us_tariffs data
 - ❌ Old Milvus Pulsarv3: Scaled to 0, will stay down
 - ✅ Sleep/Wake Scripts: Updated and tested
-- ✅ Backend: Running with new UDF validation
+- ✅ Backend: Running with new UDR validation
 - ✅ Resource Usage: Optimized and predictable
 

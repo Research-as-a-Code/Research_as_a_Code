@@ -14,7 +14,7 @@
 # limitations under the License.
 
 """
-UDF (Universal Deep Research) Integration Module
+UDR (Universal Deep Research) Integration Module
 
 This module implements the "strategy-as-code" engine from NVIDIA's Universal Deep Research
 prototype, adapted as a dynamic tool for the AI-Q Research Assistant.
@@ -37,8 +37,8 @@ logger = logging.getLogger(__name__)
 
 
 @dataclass
-class UDFExecutionResult:
-    """Result of executing a UDF strategy."""
+class UDRExecutionResult:
+    """Result of executing a UDR strategy."""
     success: bool
     synthesized_report: str
     sources: List[Dict[str, str]]
@@ -46,11 +46,11 @@ class UDFExecutionResult:
     error: Optional[str] = None
 
 
-class UDFStrategyCompiler:
+class UDRStrategyCompiler:
     """
     Compiles natural language research strategies into executable Python code.
     
-    Based on NVIDIA UDF's strategy-as-code paradigm where:
+    Based on NVIDIA UDR's strategy-as-code paradigm where:
     1. The AI agent writes a multi-step research plan in natural language
     2. The compiler converts it to Python code with actual tool calls
     3. The code executes in a controlled environment
@@ -233,7 +233,7 @@ CODE:
 
     def __init__(self, llm: BaseChatModel):
         """
-        Initialize the UDF compiler.
+        Initialize the UDR compiler.
         
         Args:
             llm: The language model to use for strategy compilation
@@ -250,7 +250,7 @@ CODE:
         Returns:
             Executable Python code as a string
         """
-        logger.info("Compiling UDF strategy from natural language plan")
+        logger.info("Compiling UDR strategy from natural language plan")
         
         prompt = ChatPromptTemplate.from_messages([
             ("system", "You are an expert Python code generator."),
@@ -272,7 +272,7 @@ CODE:
         
         # Log the compiled code (always, not just at DEBUG)
         logger.info("=" * 60)
-        logger.info("📝 COMPILED UDF STRATEGY CODE:")
+        logger.info("📝 COMPILED UDR STRATEGY CODE:")
         logger.info("=" * 60)
         for i, line in enumerate(code.split('\n'), 1):
             logger.info(f"{i:3d} | {line}")
@@ -282,7 +282,7 @@ CODE:
     
     def validate_generated_code(self, code: str) -> tuple[bool, str]:
         """
-        Validate generated UDF code before execution.
+        Validate generated UDR code before execution.
         
         Checks for:
         - Only allowed function calls (search_rag, search_web, synthesize_findings)
@@ -343,11 +343,11 @@ CODE:
         return True, ""
 
 
-class UDFStrategyExecutor:
+class UDRStrategyExecutor:
     """
     Executes compiled Python code in a controlled environment with access to research tools.
     
-    This provides the "sandbox" where UDF-generated code runs, with access to:
+    This provides the "sandbox" where UDR-generated code runs, with access to:
     - RAG search via internal NIM services
     - Web search via Tavily
     - LLM-based synthesis
@@ -361,7 +361,7 @@ class UDFStrategyExecutor:
         tavily_api_key: Optional[str] = None
     ):
         """
-        Initialize the UDF executor with access to necessary services.
+        Initialize the UDR executor with access to necessary services.
         
         Args:
             rag_url: URL of the RAG service
@@ -380,7 +380,7 @@ class UDFStrategyExecutor:
         print("🔷 _search_rag_tool ENTERED!", flush=True, file=sys.stderr)
         print(f"🔷 About to call logger.info with query length: {len(query)}", flush=True, file=sys.stderr)
         # Skip logger.info - it might be causing a deadlock!
-        # logger.info(f"UDF Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
+        # logger.info(f"UDR Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
         print(f"🔷 Skipped logger.info, continuing...", flush=True, file=sys.stderr)
         
         try:
@@ -577,7 +577,7 @@ Report:"""
             print(f"❌ Synthesis failed: {e}", flush=True, file=sys.stderr)
             return f"Error synthesizing findings: {str(e)}"
     
-    async def execute_strategy(self, compiled_code: str, context: Dict[str, Any]) -> UDFExecutionResult:
+    async def execute_strategy(self, compiled_code: str, context: Dict[str, Any]) -> UDRExecutionResult:
         """
         Execute the compiled strategy code in a controlled environment.
         
@@ -586,14 +586,14 @@ Report:"""
             context: Context variables (e.g., collection name, topic)
             
         Returns:
-            UDFExecutionResult with the synthesized report and metadata
+            UDRExecutionResult with the synthesized report and metadata
         """
         import sys
         print("🟡 EXECUTOR execute_strategy ENTERED!", flush=True, file=sys.stderr)
         print("🟡 About to call logger.info line 1...", flush=True, file=sys.stderr)
         logger.info("=" * 80)
         print("🟡 Called logger.info line 1, about to call line 2...", flush=True, file=sys.stderr)
-        logger.info("UDF EXECUTOR: Starting strategy execution")
+        logger.info("UDR EXECUTOR: Starting strategy execution")
         print("🟡 Called logger.info line 2, about to call line 3...", flush=True, file=sys.stderr)
         logger.info(f"  Context: topic='{context.get('topic', 'N/A')[:50]}...', collection='{context.get('collection', 'N/A')}'")
         print("🟡 Called logger.info line 3, about to call line 4...", flush=True, file=sys.stderr)
@@ -653,9 +653,9 @@ async def _udf_execute():
             
             # Validate result format - handle None gracefully
             if result is None:
-                logger.warning("UDF code returned None - using fallback with execution log")
+                logger.warning("UDR code returned None - using fallback with execution log")
                 result = {
-                    "report": "UDF execution completed but no report was generated. Check execution log for details.",
+                    "report": "UDR execution completed but no report was generated. Check execution log for details.",
                     "sources": sources,  # Use captured sources
                     "log": execution_log  # Use captured log
                 }
@@ -664,9 +664,9 @@ async def _udf_execute():
             
             logger.info(f"📊 Report length: {len(result.get('report', ''))}, Sources: {len(result.get('sources', []))}")
             logger.info("=" * 80)
-            logger.info("UDF EXECUTOR: Returning success")
+            logger.info("UDR EXECUTOR: Returning success")
             logger.info("=" * 80)
-            return UDFExecutionResult(
+            return UDRExecutionResult(
                 success=True,
                 synthesized_report=result.get("report", ""),
                 sources=result.get("sources", []),
@@ -674,11 +674,11 @@ async def _udf_execute():
             )
             
         except Exception as e:
-            logger.error(f"❌ UDF execution failed: {e}", exc_info=True)
+            logger.error(f"❌ UDR execution failed: {e}", exc_info=True)
             logger.info("=" * 80)
-            logger.info("UDF EXECUTOR: Returning error")
+            logger.info("UDR EXECUTOR: Returning error")
             logger.info("=" * 80)
-            return UDFExecutionResult(
+            return UDRExecutionResult(
                 success=False,
                 synthesized_report="",
                 sources=[],
@@ -687,9 +687,9 @@ async def _udf_execute():
             )
 
 
-class UDFIntegration:
+class UDRIntegration:
     """
-    High-level UDF integration for AI-Q agent.
+    High-level UDR integration for AI-Q agent.
     
     This is the main interface that the AI-Q LangGraph agent uses to invoke
     dynamic research strategies.
@@ -704,7 +704,7 @@ class UDFIntegration:
         tavily_api_key: Optional[str] = None
     ):
         """
-        Initialize UDF integration.
+        Initialize UDR integration.
         
         Args:
             compiler_llm: LLM for compiling strategies
@@ -725,7 +725,7 @@ class UDFIntegration:
         self,
         natural_language_plan: str,
         context: Optional[Dict[str, Any]] = None
-    ) -> UDFExecutionResult:
+    ) -> UDRExecutionResult:
         """
         Execute a natural language research strategy dynamically.
         
@@ -736,11 +736,11 @@ class UDFIntegration:
             context: Optional context (collection name, topic, etc.)
             
         Returns:
-            UDFExecutionResult with synthesized findings
+            UDRExecutionResult with synthesized findings
         """
         import sys
-        print("🟢 UDF execute_dynamic_strategy called!", flush=True, file=sys.stderr)
-        logger.info("Starting UDF dynamic strategy execution")
+        print("🟢 UDR execute_dynamic_strategy called!", flush=True, file=sys.stderr)
+        logger.info("Starting UDR dynamic strategy execution")
         print("🟢 About to compile strategy...", flush=True, file=sys.stderr)
         
         # Step 1: Compile the strategy
@@ -748,7 +748,7 @@ class UDFIntegration:
             compiled_code = await self.compiler.compile_strategy(natural_language_plan)
         except Exception as e:
             logger.error(f"Strategy compilation failed: {e}")
-            return UDFExecutionResult(
+            return UDRExecutionResult(
                 success=False,
                 synthesized_report="",
                 sources=[],
@@ -760,7 +760,7 @@ class UDFIntegration:
         is_valid, validation_error = self.compiler.validate_generated_code(compiled_code)
         if not is_valid:
             logger.error(f"❌ Generated code validation failed: {validation_error}")
-            return UDFExecutionResult(
+            return UDRExecutionResult(
                 success=False,
                 synthesized_report=f"Code generation error: {validation_error}\n\nThe LLM tried to use functions that don't exist. Only these tools are available:\n- search_rag(query, collection)\n- search_web(query)\n- synthesize_findings(data)\n\nTip: Try simplifying your query or let the system choose the strategy automatically.",
                 sources=[],
@@ -776,7 +776,7 @@ class UDFIntegration:
         )
         print(f"🟢 Execution returned! Success: {result.success}", flush=True, file=sys.stderr)
         
-        logger.info(f"UDF execution completed. Success: {result.success}")
+        logger.info(f"UDR execution completed. Success: {result.success}")
         return result
 
 
@@ -787,13 +787,13 @@ async def execute_dynamic_strategy_tool(
     context: Optional[Dict[str, Any]] = None
 ) -> Dict[str, Any]:
     """
-    LangGraph tool wrapper for UDF dynamic strategy execution.
+    LangGraph tool wrapper for UDR dynamic strategy execution.
     
     This function is registered as a tool in the AI-Q LangGraph agent.
     
     Args:
         natural_language_plan: Natural language research strategy
-        udf_integration: UDF integration instance
+        udr_integration: UDR integration instance
         context: Optional execution context
         
     Returns:

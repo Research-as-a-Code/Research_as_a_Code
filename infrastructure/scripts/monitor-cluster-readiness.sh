@@ -300,7 +300,7 @@ echo "🧪 Ready to test!"
 echo ""
 echo "Suggested test queries:"
 echo "  Simple RAG:  \"What are the tariff rates for smartphones from China?\""
-echo "  Dynamic UDF: \"Compare import costs for smartphones vs laptops from China\""
+echo "  Dynamic UDR: \"Compare import costs for smartphones vs laptops from China\""
 echo ""
 
 exit 0

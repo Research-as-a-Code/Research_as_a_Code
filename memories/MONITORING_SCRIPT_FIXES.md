@@ -248,7 +248,7 @@ kubectl get pod -n rag-blueprint milvus-standalone-standalone-97d9db684-p6vkh
 - ❌ Old `milvus-pulsarv3` components: Scaled to 0
 
 **Backend & Frontend**:
-- ✅ Backend: Running with new UDF validation
+- ✅ Backend: Running with new UDR validation
 - ✅ Frontend: Running
 
 **Resource Usage**:
@@ -266,7 +266,7 @@ kubectl get svc aiq-agent-frontend -n aiq-agent
 
 # Open in browser and test:
 # 1. Simple RAG: "What are the tariff rates for smartphones from China?"
-# 2. Dynamic UDF: "Compare import costs for smartphones vs laptops from China"
+# 2. Dynamic UDR: "Compare import costs for smartphones vs laptops from China"
 ```
 
 ### Monitor Cluster After Sleep/Wake
@@ -288,7 +288,7 @@ bash infrastructure/scripts/monitor-cluster-readiness.sh
 ## 📚 Related Documentation
 
 - `/memories/MILVUS_CLEANUP_OLD_DEPLOYMENT.md` - Cleanup of duplicate Milvus deployments
-- `/memories/DEPLOYMENT_COMPLETE_UDF_VALIDATION.md` - Backend deployment and UDF fixes
+- `/memories/DEPLOYMENT_COMPLETE_UDF_VALIDATION.md` - Backend deployment and UDR fixes
 - `/memories/MILVUS_CONNECTIVITY_ISSUE.md` - Original Milvus setup
 - `infrastructure/scripts/monitor-cluster-readiness.sh` - Fixed monitoring script
 
