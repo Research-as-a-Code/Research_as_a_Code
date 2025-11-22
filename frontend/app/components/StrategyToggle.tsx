@@ -48,7 +48,7 @@ export function StrategyToggle({
           className={`
             relative p-4 rounded-lg border-2 transition-all duration-200
             ${value === 'udr' 
-              ? 'border-blue-500 bg-blue-500/10 shadow-lg shadow-blue-500/20' 
+              ? 'border-green-500 bg-green-500/10 shadow-lg shadow-green-500/20' 
               : 'border-gray-700 hover:border-gray-600 bg-gray-800/50'}
             ${disabled ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}
           `}
@@ -56,18 +56,18 @@ export function StrategyToggle({
           {value === 'udr' && (
             <div className="absolute -top-2 -right-2">
               <span className="flex h-4 w-4">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-4 w-4 bg-blue-500"></span>
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-4 w-4 bg-green-500"></span>
               </span>
             </div>
           )}
           
           <div className="flex flex-col items-center text-center">
             <div className={`mb-3 p-3 rounded-lg ${
-              value === 'udr' ? 'bg-blue-500/20' : 'bg-gray-700/50'
+              value === 'udr' ? 'bg-green-500/20' : 'bg-gray-700/50'
             }`}>
               <Code2 className={`w-8 h-8 ${
-                value === 'udr' ? 'text-blue-400' : 'text-gray-400'
+                value === 'udr' ? 'text-green-400' : 'text-gray-400'
               }`} />
             </div>
             
@@ -111,7 +111,7 @@ export function StrategyToggle({
           className={`
             relative p-4 rounded-lg border-2 transition-all duration-200
             ${value === 'ttd_dr' 
-              ? 'border-green-500 bg-green-500/10 shadow-lg shadow-green-500/20' 
+              ? 'border-blue-500 bg-blue-500/10 shadow-lg shadow-blue-500/20' 
               : 'border-gray-700 hover:border-gray-600 bg-gray-800/50'}
             ${disabled ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}
           `}
@@ -119,18 +119,18 @@ export function StrategyToggle({
           {value === 'ttd_dr' && (
             <div className="absolute -top-2 -right-2">
               <span className="flex h-4 w-4">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-4 w-4 bg-green-500"></span>
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-4 w-4 bg-blue-500"></span>
               </span>
             </div>
           )}
           
           <div className="flex flex-col items-center text-center">
             <div className={`mb-3 p-3 rounded-lg ${
-              value === 'ttd_dr' ? 'bg-green-500/20' : 'bg-gray-700/50'
+              value === 'ttd_dr' ? 'bg-blue-500/20' : 'bg-gray-700/50'
             }`}>
               <Sparkles className={`w-8 h-8 ${
-                value === 'ttd_dr' ? 'text-green-400' : 'text-gray-400'
+                value === 'ttd_dr' ? 'text-blue-400' : 'text-gray-400'
               }`} />
             </div>
             
@@ -173,13 +173,13 @@ export function StrategyToggle({
         <p className="text-xs text-gray-400">
           {value === 'udr' ? (
             <>
-              <strong className="text-blue-400">UDR Mode:</strong> The agent will compile your 
+              <strong className="text-green-400">UDR Mode:</strong> The agent will compile your 
               research request into executable Python code that orchestrates search tools. 
               Fast and deterministic, ideal for well-defined queries.
             </>
           ) : (
             <>
-              <strong className="text-green-400">TTD-DR Mode:</strong> The agent will create an 
+              <strong className="text-blue-400">TTD-DR Mode:</strong> The agent will create an 
               initial draft and iteratively refine it through multiple rounds of search and 
               denoising. Produces higher quality results for complex topics.
             </>
