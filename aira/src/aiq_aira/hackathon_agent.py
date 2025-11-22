@@ -227,8 +227,45 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
         
         if result.success:
             logger.info("✅ TTD-DR research completed successfully")
+            
+            # Format citations from TTD-DR sources
+            citations_formatted = []
+            for idx, src in enumerate(result.sources, 1):
+                src_type = src.get('source', src.get('type', 'unknown'))
+                
+                if src_type == 'rag':
+                    # RAG source - check for nested citations from actual documents
+                    inner_citations = src.get('citations', [])
+                    if inner_citations:
+                        # Use actual document sources from RAG results
+                        for inner_src in inner_citations:
+                            doc_name = inner_src.get('source', f'RAG Document {idx}')
+                            citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+                    else:
+                        # Fallback if no inner citations
+                        citations_formatted.append(f"- [RAG Document {idx}] RAG Collection: {state.get('collection', 'default')}")
+                elif src_type == 'web':
+                    # Web source - use title and URL
+                    title = src.get('title', '').strip()
+                    url = src.get('url', 'N/A')
+                    # If no title, extract domain from URL as fallback
+                    if not title and url != 'N/A':
+                        try:
+                            from urllib.parse import urlparse
+                            domain = urlparse(url).netloc
+                            title = domain or f'Web Source {idx}'
+                        except:
+                            title = f'Web Source {idx}'
+                    elif not title:
+                        title = f'Web Source {idx}'
+                    citations_formatted.append(f"- [{title}] {url}")
+                else:
+                    # Unknown source type
+                    citations_formatted.append(f"- [Source {idx}] {src.get('url', src.get('title', 'N/A'))}")
+            
             return {
                 "final_report": result.final_report,
+                "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
                 "logs": ["✅ TTD-DR research completed"],
                 "ttd_dr_stage": "complete"
             }
@@ -338,10 +375,41 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         logger.info(f"✅ UDR SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
         
         # Format citations
-        citations_formatted = "\n".join([
-            f"- [{src.get('source', 'unknown')}] {src.get('url', src.get('title', 'N/A'))}"
-            for src in result.sources
-        ])
+        citations_formatted = []
+        for idx, src in enumerate(result.sources, 1):
+            src_type = src.get('source', src.get('type', 'unknown'))
+            
+            if src_type == 'rag':
+                # RAG source - check for nested citations from actual documents
+                inner_citations = src.get('citations', [])
+                if inner_citations:
+                    # Use actual document sources from RAG results
+                    for inner_src in inner_citations:
+                        doc_name = inner_src.get('source', f'RAG Document {idx}')
+                        citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+                else:
+                    # Fallback if no inner citations
+                    citations_formatted.append(f"- [RAG Document {idx}] RAG Collection: {state.get('collection', 'default')}")
+            elif src_type == 'web':
+                # Web source - use title and URL
+                title = src.get('title', '').strip()
+                url = src.get('url', 'N/A')
+                # If no title, extract domain from URL as fallback
+                if not title and url != 'N/A':
+                    try:
+                        from urllib.parse import urlparse
+                        domain = urlparse(url).netloc
+                        title = domain or f'Web Source {idx}'
+                    except:
+                        title = f'Web Source {idx}'
+                elif not title:
+                    title = f'Web Source {idx}'
+                citations_formatted.append(f"- [{title}] {url}")
+            else:
+                # Unknown source type
+                citations_formatted.append(f"- [Source {idx}] {src.get('url', src.get('title', 'N/A'))}")
+        
+        citations_formatted = "\n".join(citations_formatted) if citations_formatted else "No sources available"
         
         return_value = {
             "udr_result": {
