@@ -75,7 +75,7 @@ export function AgentFlowDisplay() {
         <div className="bg-purple-900/50 border border-purple-500 rounded-lg p-4">
           <div className="text-sm text-purple-300 mb-2">Strategy Selected</div>
           <div className="text-white">
-            {state.udf_strategy ? (
+            {state.udr_strategy ? (
               <span className="inline-flex items-center gap-2">
                 <span className="text-2xl">🚀</span>
                 <span className="font-semibold">Dynamic UDR Strategy</span>
@@ -138,16 +138,16 @@ export function AgentFlowDisplay() {
       )}
 
       {/* UDR Execution Result */}
-      {state.udf_result && state.udf_result.success && (
+      {state.udr_result && state.udr_result.success && (
         <div className="bg-yellow-900/30 border border-yellow-500 rounded-lg p-4">
           <div className="text-sm text-yellow-300 mb-2 font-semibold">
             UDR Execution Result
           </div>
           <div className="text-gray-300 text-sm">
             ✅ Strategy executed successfully
-            {state.udf_result.sources && (
+            {state.udr_result.sources && (
               <div className="mt-2">
-                📚 Retrieved {state.udf_result.sources.length} sources
+                📚 Retrieved {state.udr_result.sources.length} sources
               </div>
             )}
           </div>

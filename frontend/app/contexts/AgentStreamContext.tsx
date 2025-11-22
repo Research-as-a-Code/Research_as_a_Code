@@ -20,8 +20,8 @@ interface AgentState {
   final_report: string;
   citations: string;
   sources: string[];
-  udf_strategy?: string;
-  udf_result?: any;
+  udr_strategy?: string;
+  udr_result?: any;
   isProcessing: boolean;
   error?: string;
 }
@@ -125,8 +125,8 @@ export function AgentStreamProvider({ children }: { children: React.ReactNode })
                   final_report: data.state.final_report || prev.final_report,
                   citations: data.state.citations || prev.citations,
                   sources: data.state.sources || prev.sources,
-                  udf_strategy: data.state.udf_strategy || prev.udf_strategy,
-                  udf_result: data.state.udf_result || prev.udf_result,
+                  udr_strategy: data.state.udr_strategy || prev.udr_strategy,
+                  udr_result: data.state.udr_result || prev.udr_result,
                 }));
               } else if (data.type === "complete") {
                 setState((prev) => ({ ...prev, isProcessing: false }));

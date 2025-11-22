@@ -108,7 +108,7 @@ export function CopilotAgentDisplay({
         return "Research already in progress";
       }
       
-      const activeStrategy = strategy || selectedStrategy;
+      const activeStrategy: ResearchStrategy = (strategy as ResearchStrategy) || selectedStrategy;
       setAgentState({ 
         logs: [], 
         queries: [], 
@@ -206,7 +206,7 @@ export function CopilotAgentDisplay({
                     ...prev,
                     currentNode: data.node,
                     plan: data.state.plan || prev.plan,
-                    udf_strategy: data.state.udf_strategy || prev.udf_strategy,
+                    udr_strategy: data.state.udr_strategy || prev.udr_strategy,
                     logs: data.state.logs || prev.logs,
                     queries: data.state.queries || prev.queries,
                     running_summary: data.state.running_summary || prev.running_summary,
