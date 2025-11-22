@@ -140,8 +140,7 @@ async def lifespan(app: FastAPI):
         ttd_dr_integration = TTDDRIntegration(
             llm=reasoning_llm,
             rag_url=Config.RAG_SERVER_URL,
-            nemotron_nim_url=Config.NEMOTRON_NIM_URL,
-            embedding_nim_url=Config.EMBEDDING_NIM_URL,
+            synthesis_llm=instruct_llm,
             tavily_api_key=Config.TAVILY_API_KEY
         )
         logger.info("✅ TTD-DR integration created")
