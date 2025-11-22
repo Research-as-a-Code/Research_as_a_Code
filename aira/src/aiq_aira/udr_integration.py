@@ -713,8 +713,8 @@ class UDRIntegration:
             embedding_nim_url: Embedding NIM URL
             tavily_api_key: Optional Tavily API key
         """
-        self.compiler = UDFStrategyCompiler(compiler_llm)
-        self.executor = UDFStrategyExecutor(
+        self.compiler = UDRStrategyCompiler(compiler_llm)
+        self.executor = UDRStrategyExecutor(
             rag_url=rag_url,
             nemotron_nim_url=nemotron_nim_url,
             embedding_nim_url=embedding_nim_url,
@@ -783,7 +783,7 @@ class UDRIntegration:
 # Tool wrapper for LangGraph integration
 async def execute_dynamic_strategy_tool(
     natural_language_plan: str,
-    udf_integration: UDFIntegration,
+    udr_integration: UDRIntegration,
     context: Optional[Dict[str, Any]] = None
 ) -> Dict[str, Any]:
     """
@@ -799,7 +799,7 @@ async def execute_dynamic_strategy_tool(
     Returns:
         Dictionary with execution results
     """
-    result = await udf_integration.execute_dynamic_strategy(
+    result = await udr_integration.execute_dynamic_strategy(
         natural_language_plan=natural_language_plan,
         context=context
     )
