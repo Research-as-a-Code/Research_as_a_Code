@@ -453,10 +453,19 @@ async def generate_research_stream(request: ResearchRequest):
                     event_metadata = event.get("metadata", {})
                     langgraph_node = event_metadata.get("langgraph_node", event_name)
                     
-                    if event_type == "on_chain_end" and langgraph_node in ["planner", "simple_rag", "dynamic_strategy", "final_report"]:
+                    if event_type == "on_chain_end" and langgraph_node in ["planner", "simple_rag", "dynamic_strategy", "ttd_dr_strategy", "final_report"]:
                         logger.info(f"  └─ Node completed: {langgraph_node} (event_name={event_name})")
                         
-                        # Extract output from the event
+                        # Get the FULL accumulated state from the graph after this node
+                        # This includes logs accumulated via operator.add
+                        try:
+                            full_state = agent_graph.get_state(request_config)
+                            accumulated_state = full_state.values if hasattr(full_state, 'values') else {}
+                        except Exception as e:
+                            logger.warning(f"Could not get accumulated state: {e}, using output only")
+                            accumulated_state = {}
+                        
+                        # Extract output from the event (node's return value)
                         output = event_data_inner.get("output", {})
                         
                         # Convert LangChain objects to JSON-serializable dicts
@@ -478,7 +487,13 @@ async def generate_research_stream(request: ResearchRequest):
                                 # Fallback: convert to string
                                 return str(obj)
                         
+                        # Merge node output with accumulated state (prioritize accumulated logs)
                         serializable_output = make_serializable(output)
+                        if accumulated_state:
+                            # Include accumulated logs from the full state
+                            accumulated_logs = accumulated_state.get('logs', [])
+                            if accumulated_logs:
+                                serializable_output['logs'] = make_serializable(accumulated_logs)
                         
                         # Send SSE event
                         sse_event = {

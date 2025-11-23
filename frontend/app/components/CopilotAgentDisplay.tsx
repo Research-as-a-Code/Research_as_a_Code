@@ -207,8 +207,8 @@ export function CopilotAgentDisplay({
                     currentNode: data.node,
                     plan: data.state.plan || prev.plan,
                     udr_strategy: data.state.udr_strategy || prev.udr_strategy,
-                    // Accumulate logs instead of replacing
-                    logs: data.state.logs ? [...prev.logs, ...data.state.logs] : prev.logs,
+                    // Backend now sends accumulated logs, just use them directly
+                    logs: data.state.logs || prev.logs,
                     queries: data.state.queries || prev.queries,
                     running_summary: data.state.running_summary || prev.running_summary,
                     // TTD-DR specific state updates
