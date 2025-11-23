@@ -230,19 +230,26 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
             
             # Format citations from TTD-DR sources
             citations_formatted = []
+            logger.info(f"🔍 [TTD-DR] Formatting {len(result.sources)} sources for citations")
+            
             for idx, src in enumerate(result.sources, 1):
                 src_type = src.get('source', src.get('type', 'unknown'))
+                logger.info(f"  [TTD-DR] Source {idx}: type={src_type}, keys={list(src.keys())}")
                 
                 if src_type == 'rag':
                     # RAG source - check for nested citations from actual documents
                     inner_citations = src.get('citations', [])
+                    logger.info(f"    [TTD-DR] RAG source has {len(inner_citations)} inner citations")
+                    
                     if inner_citations:
                         # Use actual document sources from RAG results
-                        for inner_src in inner_citations:
+                        for inner_idx, inner_src in enumerate(inner_citations):
                             doc_name = inner_src.get('source', f'RAG Document {idx}')
+                            logger.info(f"      [TTD-DR] Inner citation {inner_idx}: {doc_name}")
                             citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
                     else:
                         # Fallback if no inner citations
+                        logger.info(f"    [TTD-DR] No inner citations, using fallback")
                         citations_formatted.append(f"- [RAG Document {idx}] RAG Collection: {state.get('collection', 'default')}")
                 elif src_type == 'web':
                     # Web source - use title and URL
@@ -375,20 +382,33 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         logger.info(f"✅ UDR SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
         
         # Format citations
+        import sys
         citations_formatted = []
+        print(f"🔍 [UDR] Formatting {len(result.sources)} sources for citations", flush=True, file=sys.stderr)
+        logger.info(f"🔍 Formatting {len(result.sources)} sources for citations")
+        
         for idx, src in enumerate(result.sources, 1):
             src_type = src.get('source', src.get('type', 'unknown'))
+            print(f"  [UDR] Source {idx}: type={src_type}, keys={list(src.keys())}", flush=True, file=sys.stderr)
+            logger.info(f"  Source {idx}: type={src_type}, keys={list(src.keys())}")
             
             if src_type == 'rag':
                 # RAG source - check for nested citations from actual documents
                 inner_citations = src.get('citations', [])
+                print(f"    [UDR] RAG source has {len(inner_citations)} inner citations", flush=True, file=sys.stderr)
+                logger.info(f"    RAG source has {len(inner_citations)} inner citations")
+                
                 if inner_citations:
                     # Use actual document sources from RAG results
-                    for inner_src in inner_citations:
+                    for inner_idx, inner_src in enumerate(inner_citations):
                         doc_name = inner_src.get('source', f'RAG Document {idx}')
+                        print(f"      [UDR] Inner citation {inner_idx}: {doc_name}", flush=True, file=sys.stderr)
+                        logger.info(f"      Inner citation {inner_idx}: {doc_name}")
                         citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
                 else:
                     # Fallback if no inner citations
+                    print(f"    [UDR] No inner citations, using fallback", flush=True, file=sys.stderr)
+                    logger.info(f"    No inner citations, using fallback")
                     citations_formatted.append(f"- [RAG Document {idx}] RAG Collection: {state.get('collection', 'default')}")
             elif src_type == 'web':
                 # Web source - use title and URL
