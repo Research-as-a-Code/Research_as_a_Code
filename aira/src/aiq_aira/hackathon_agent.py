@@ -295,10 +295,14 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
             for ws in web_sources:
                 citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
             
+            # Collect all logs: progress updates + completion
+            all_ttd_logs = progress_logs.copy() if progress_logs else []
+            all_ttd_logs.append("✅ TTD-DR research completed")
+            
             return {
                 "final_report": result.final_report,
                 "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
-                "logs": ["✅ TTD-DR research completed"],
+                "logs": all_ttd_logs,
                 "ttd_dr_stage": "complete"
             }
         else:
@@ -479,6 +483,16 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         
         citations_formatted = "\n".join(citations_formatted) if citations_formatted else "No sources available"
         
+        # Collect all logs: UDR provides complete orchestration + tool call logs
+        all_logs = []
+        if result.execution_log:
+            # UDR integration returns complete log including:
+            # - Compilation, validation, execution steps
+            # - Tool calls (search_rag, search_web, synthesize_findings)
+            all_logs.extend(result.execution_log)
+        # Add completion message
+        all_logs.append("✅ UDR strategy execution complete")
+        
         return_value = {
             "udr_result": {
                 "success": True,
@@ -487,7 +501,7 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
             },
             "running_summary": result.synthesized_report,
             "citations": citations_formatted,
-            "logs": ["✅ UDR strategy execution complete"]
+            "logs": all_logs
         }
         logger.info("=" * 80)
         logger.info("DYNAMIC STRATEGY NODE: Returning success result")

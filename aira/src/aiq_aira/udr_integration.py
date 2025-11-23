@@ -164,7 +164,6 @@ sources = []
 report = ""  # ← MUST initialize! Prevents "variable not defined" errors
 
 # STEP 2: Search RAG - returns a SINGLE DICT
-log.append("Searching tariff database")  # NO await
 # Use context values directly - NO f-strings needed!
 topic = context["topic"]
 collection_name = context["collection"]
@@ -182,7 +181,6 @@ try:
     
     # STEP 3: Search web - returns a LIST of dicts
     if {{{{context["search_web"]}}}}:
-        log.append("Searching web")  # NO await
         # search_web returns List[Dict] - multiple results
         web_results = await search_web(topic)  # YES await - web_results is a LIST!
         
@@ -200,7 +198,6 @@ try:
         web_results = []
     
     # STEP 4: Synthesize - pass list of all results
-    log.append("Synthesizing findings")  # NO await
     # Combine single dict + list of dicts into one list
     all_data = [rag_result] + web_results  # NO await
     report = await synthesize_findings(all_data)  # YES await
@@ -481,6 +478,10 @@ class UDRStrategyExecutor:
         """Tool: Search web using Tavily."""
         import sys
         print(f"🔷 _search_web_tool called with query length: {len(query)}", flush=True, file=sys.stderr)
+        # Add to execution log for UI visibility
+        if hasattr(self, '_current_execution_log') and self._current_execution_log is not None:
+            self._current_execution_log.append(f"🌐 Tool call: search_web()")
+            print(f"🔷 Added to execution_log, now has {len(self._current_execution_log)} entries", flush=True, file=sys.stderr)
         
         if not self.tavily_api_key:
             print("⚠️  Tavily API key not set, returning empty results", flush=True, file=sys.stderr)
@@ -520,6 +521,10 @@ class UDRStrategyExecutor:
         """Tool: Synthesize research findings using Nemotron NIM."""
         import sys
         print(f"🔷 _synthesize_findings_tool called with {len(data)} items", flush=True, file=sys.stderr)
+        # Add to execution log for UI visibility
+        if hasattr(self, '_current_execution_log') and self._current_execution_log is not None:
+            self._current_execution_log.append(f"📝 Tool call: synthesize_findings({len(data)} sources)")
+            print(f"🔷 Added to execution_log, now has {len(self._current_execution_log)} entries", flush=True, file=sys.stderr)
         
         # Prepare synthesis prompt
         print("🔷 Preparing findings text...", flush=True, file=sys.stderr)
@@ -609,6 +614,9 @@ Report:"""
         execution_log = []
         sources = []
         
+        # Make execution_log accessible to tools for progress tracking
+        self._current_execution_log = execution_log
+        
         print("🟡 About to create namespace dict...", flush=True, file=sys.stderr)
         # Create the execution namespace with available tools
         namespace = {
@@ -668,6 +676,10 @@ async def _udf_execute():
                 raise ValueError(f"Strategy must return a dict, got {type(result)}")
             
             logger.info(f"📊 Report length: {len(result.get('report', ''))}, Sources: {len(result.get('sources', []))}")
+            # Use the execution_log from namespace (contains tool calls), not from result
+            final_log = execution_log if execution_log else result.get("log", [])
+            print(f"🟡 Final execution_log has {len(final_log)} entries", flush=True, file=sys.stderr)
+            logger.info(f"📋 Execution log entries: {len(final_log)}")
             logger.info("=" * 80)
             logger.info("UDR EXECUTOR: Returning success")
             logger.info("=" * 80)
@@ -675,7 +687,7 @@ async def _udf_execute():
                 success=True,
                 synthesized_report=result.get("report", ""),
                 sources=result.get("sources", []),
-                execution_log=result.get("log", [])
+                execution_log=final_log
             )
             
         except Exception as e:
@@ -748,38 +760,56 @@ class UDRIntegration:
         logger.info("Starting UDR dynamic strategy execution")
         print("🟢 About to compile strategy...", flush=True, file=sys.stderr)
         
+        # Track high-level steps
+        orchestration_log = []
+        
         # Step 1: Compile the strategy
+        orchestration_log.append("🔧 Compiling natural language plan to Python code...")
         try:
             compiled_code = await self.compiler.compile_strategy(natural_language_plan)
+            orchestration_log.append("✅ Code compilation successful")
         except Exception as e:
             logger.error(f"Strategy compilation failed: {e}")
+            orchestration_log.append(f"❌ Compilation failed: {str(e)}")
             return UDRExecutionResult(
                 success=False,
                 synthesized_report="",
                 sources=[],
-                execution_log=[],
+                execution_log=orchestration_log,
                 error=f"Compilation error: {str(e)}"
             )
         
         # Step 1.5: Validate the generated code
+        orchestration_log.append("🔍 Validating generated code...")
         is_valid, validation_error = self.compiler.validate_generated_code(compiled_code)
         if not is_valid:
             logger.error(f"❌ Generated code validation failed: {validation_error}")
+            orchestration_log.append(f"❌ Validation failed: {validation_error}")
             return UDRExecutionResult(
                 success=False,
                 synthesized_report=f"Code generation error: {validation_error}\n\nThe LLM tried to use functions that don't exist. Only these tools are available:\n- search_rag(query, collection)\n- search_web(query)\n- synthesize_findings(data)\n\nTip: Try simplifying your query or let the system choose the strategy automatically.",
                 sources=[],
-                execution_log=["Code validation failed", validation_error],
+                execution_log=orchestration_log,
                 error=f"Validation error: {validation_error}"
             )
+        orchestration_log.append("✅ Code validation passed")
         
         # Step 2: Execute the compiled code
+        orchestration_log.append("⚙️ Executing compiled strategy code...")
         print("🟢 Compilation done! About to execute code...", flush=True, file=sys.stderr)
         result = await self.executor.execute_strategy(
             compiled_code=compiled_code,
             context=context or {}
         )
-        print(f"🟢 Execution returned! Success: {result.success}", flush=True, file=sys.stderr)
+        
+        # Merge orchestration logs with execution logs (tool calls)
+        if result.success:
+            all_logs = orchestration_log + (result.execution_log if result.execution_log else [])
+            result.execution_log = all_logs
+            print(f"🟢 Merged logs: {len(all_logs)} total entries", flush=True, file=sys.stderr)
+        else:
+            result.execution_log = orchestration_log
+        print(f"🟢 Execution returned! Success: {result.success}, Logs: {len(result.execution_log)}", flush=True, file=sys.stderr)
         
         logger.info(f"UDR execution completed. Success: {result.success}")
         return result

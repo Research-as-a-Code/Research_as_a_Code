@@ -236,6 +236,9 @@ class IterativeSearchEngine:
         Returns:
             List of search results
         """
+        # Log tool call for UI visibility
+        self.logger.info(f"🔍 [TTD-DR] Tool Call: search_rag(collection='{collection}')")
+        
         try:
             # Call RAG API
             response = await self.client.post(
@@ -268,6 +271,9 @@ class IterativeSearchEngine:
         Returns:
             List of web search results
         """
+        # Log tool call for UI visibility
+        self.logger.info(f"🌐 [TTD-DR] Tool Call: search_web()")
+        
         if not self.tavily_api_key:
             return []
         
@@ -313,6 +319,8 @@ class IterativeSearchEngine:
         Returns:
             Synthesized answer text
         """
+        # Log synthesis for UI visibility
+        self.logger.info(f"📝 [TTD-DR] Tool Call: synthesize_answer({len(search_results)} results)")
         # Format search results
         formatted_results = []
         for i, result in enumerate(search_results[:5], 1):
