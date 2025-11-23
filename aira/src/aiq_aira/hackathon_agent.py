@@ -228,9 +228,14 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
         if result.success:
             logger.info("✅ TTD-DR research completed successfully")
             
-            # Format citations from TTD-DR sources
-            citations_formatted = []
+            # Format citations from TTD-DR sources with deduplication
+            from collections import defaultdict
+            
             logger.info(f"🔍 [TTD-DR] Formatting {len(result.sources)} sources for citations")
+            
+            # Track RAG documents and their counts
+            rag_doc_counts = defaultdict(int)
+            web_sources = []  # Web sources remain unique by URL
             
             for idx, src in enumerate(result.sources, 1):
                 src_type = src.get('source', src.get('type', 'unknown'))
@@ -242,17 +247,17 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
                     logger.info(f"    [TTD-DR] RAG source has {len(inner_citations)} inner citations")
                     
                     if inner_citations:
-                        # Use actual document sources from RAG results
-                        for inner_idx, inner_src in enumerate(inner_citations):
+                        # Collect and count document names
+                        for inner_src in inner_citations:
                             doc_name = inner_src.get('source', f'RAG Document {idx}')
-                            logger.info(f"      [TTD-DR] Inner citation {inner_idx}: {doc_name}")
-                            citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+                            logger.info(f"      [TTD-DR] Inner citation: {doc_name}")
+                            rag_doc_counts[doc_name] += 1
                     else:
                         # Fallback if no inner citations
                         logger.info(f"    [TTD-DR] No inner citations, using fallback")
-                        citations_formatted.append(f"- [RAG Document {idx}] RAG Collection: {state.get('collection', 'default')}")
+                        rag_doc_counts[f'RAG Document {idx}'] += 1
                 elif src_type == 'web':
-                    # Web source - use title and URL
+                    # Web source - deduplicate by URL
                     title = src.get('title', '').strip()
                     url = src.get('url', 'N/A')
                     # If no title, extract domain from URL as fallback
@@ -265,10 +270,30 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
                             title = f'Web Source {idx}'
                     elif not title:
                         title = f'Web Source {idx}'
-                    citations_formatted.append(f"- [{title}] {url}")
+                    
+                    # Check if this URL was already added
+                    if not any(ws['url'] == url for ws in web_sources):
+                        web_sources.append({'title': title, 'url': url})
                 else:
                     # Unknown source type
-                    citations_formatted.append(f"- [Source {idx}] {src.get('url', src.get('title', 'N/A'))}")
+                    web_sources.append({
+                        'title': src.get('title', f'Source {idx}'),
+                        'url': src.get('url', 'N/A')
+                    })
+            
+            # Format deduplicated citations
+            citations_formatted = []
+            
+            # Add RAG documents (with optional count if >1)
+            for doc_name, count in sorted(rag_doc_counts.items()):
+                if count > 1:
+                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+                else:
+                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+            
+            # Add web sources
+            for ws in web_sources:
+                citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
             
             return {
                 "final_report": result.final_report,
@@ -381,11 +406,16 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
     if result.success:
         logger.info(f"✅ UDR SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
         
-        # Format citations
+        # Format citations with deduplication
         import sys
-        citations_formatted = []
+        from collections import defaultdict
+        
         print(f"🔍 [UDR] Formatting {len(result.sources)} sources for citations", flush=True, file=sys.stderr)
         logger.info(f"🔍 Formatting {len(result.sources)} sources for citations")
+        
+        # Track RAG documents and their counts
+        rag_doc_counts = defaultdict(int)
+        web_sources = []  # Web sources remain unique by URL
         
         for idx, src in enumerate(result.sources, 1):
             src_type = src.get('source', src.get('type', 'unknown'))
@@ -399,19 +429,17 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
                 logger.info(f"    RAG source has {len(inner_citations)} inner citations")
                 
                 if inner_citations:
-                    # Use actual document sources from RAG results
-                    for inner_idx, inner_src in enumerate(inner_citations):
+                    # Collect and count document names
+                    for inner_src in inner_citations:
                         doc_name = inner_src.get('source', f'RAG Document {idx}')
-                        print(f"      [UDR] Inner citation {inner_idx}: {doc_name}", flush=True, file=sys.stderr)
-                        logger.info(f"      Inner citation {inner_idx}: {doc_name}")
-                        citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+                        print(f"      [UDR] Inner citation: {doc_name}", flush=True, file=sys.stderr)
+                        rag_doc_counts[doc_name] += 1
                 else:
                     # Fallback if no inner citations
                     print(f"    [UDR] No inner citations, using fallback", flush=True, file=sys.stderr)
-                    logger.info(f"    No inner citations, using fallback")
-                    citations_formatted.append(f"- [RAG Document {idx}] RAG Collection: {state.get('collection', 'default')}")
+                    rag_doc_counts[f'RAG Document {idx}'] += 1
             elif src_type == 'web':
-                # Web source - use title and URL
+                # Web source - deduplicate by URL
                 title = src.get('title', '').strip()
                 url = src.get('url', 'N/A')
                 # If no title, extract domain from URL as fallback
@@ -424,10 +452,30 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
                         title = f'Web Source {idx}'
                 elif not title:
                     title = f'Web Source {idx}'
-                citations_formatted.append(f"- [{title}] {url}")
+                
+                # Check if this URL was already added
+                if not any(ws['url'] == url for ws in web_sources):
+                    web_sources.append({'title': title, 'url': url})
             else:
                 # Unknown source type
-                citations_formatted.append(f"- [Source {idx}] {src.get('url', src.get('title', 'N/A'))}")
+                web_sources.append({
+                    'title': src.get('title', f'Source {idx}'),
+                    'url': src.get('url', 'N/A')
+                })
+        
+        # Format deduplicated citations
+        citations_formatted = []
+        
+        # Add RAG documents (with optional count if >1)
+        for doc_name, count in sorted(rag_doc_counts.items()):
+            if count > 1:
+                citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+            else:
+                citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+        
+        # Add web sources
+        for ws in web_sources:
+            citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
         
         citations_formatted = "\n".join(citations_formatted) if citations_formatted else "No sources available"
         
