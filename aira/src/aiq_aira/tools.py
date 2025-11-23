@@ -88,18 +88,39 @@ async def search_rag(
             content_parts = []
             citations_parts = []
             
+            # Group chunks by source PDF for clearer presentation
+            chunks_by_pdf = {}
             for i, hit in enumerate(results[0]):
                 try:
                     text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
                     source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
+                    # Debug: Log which PDF each chunk came from
+                    logger.info(f"  📄 RAG chunk [{i+1}] from: {source}")
                 except Exception:
                     text = str(hit.entity.get('text', ''))
                     source = str(hit.entity.get('source', f"Doc {i+1}"))
-                content_parts.append(f"[{i+1}] {text}")
+                
+                # Group by source PDF
+                if source not in chunks_by_pdf:
+                    chunks_by_pdf[source] = []
+                chunks_by_pdf[source].append((i+1, text))
                 citations_parts.append(source)
             
-            content = "\n\n".join(content_parts)
-            citations_str = "\n".join(citations_parts)
+            # Format with PDF attribution
+            content_parts = []
+            chunk_mapping = []  # Track which chunks come from which PDF
+            
+            for pdf_name, chunks in chunks_by_pdf.items():
+                content_parts.append(f"\nFrom {pdf_name}:")
+                chunk_numbers = []
+                for chunk_num, text in chunks:
+                    content_parts.append(f"[{chunk_num}] {text}")
+                    chunk_numbers.append(str(chunk_num))
+                chunk_mapping.append(f"{pdf_name} (chunks {', '.join(chunk_numbers)})")
+
+            
+            content = "\n".join(content_parts)
+            citations_str = "\n".join(chunk_mapping)  # Use the detailed mapping
             
             citations = f"""
 ---
