@@ -531,26 +531,48 @@ async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig
     """
     logger.info("SIMPLE RAG PIPELINE: Running standard AI-Q flow")
     
+    # Track progress for execution logs
+    progress_logs = []
+    
     # Create a no-op writer for AI-Q nodes that still expect it
     def noop_writer(data):
         pass
     
     # Step 1: Generate queries (reuse AI-Q node)
+    progress_logs.append("🎯 Analyzing topic and generating research queries...")
     query_result = await generate_query(state, config, noop_writer)
     state.update(query_result)
     
+    # Log the number of queries generated
+    num_queries = len(query_result.get('queries', []))
+    progress_logs.append(f"📝 Generated {num_queries} targeted research questions")
+    
     # Step 2: Web research (reuse AI-Q node)
+    collection = state.get('collection', '')
+    search_web = state.get('search_web', True)
+    
+    if collection:
+        progress_logs.append(f"🔍 Searching RAG collection: {collection}")
+    if search_web:
+        progress_logs.append(f"🌐 Searching web sources for each query")
+        
     research_result = await web_research(state, config, noop_writer)
     state.update(research_result)
     
+    # Log search completion
+    progress_logs.append(f"✅ Completed searches for {num_queries} queries")
+    
     # Step 3: Summarize (reuse AI-Q node)
+    progress_logs.append("📄 Synthesizing comprehensive report from sources...")
     summary_result = await summarize_sources(state, config, noop_writer)
     state.update(summary_result)
+    
+    progress_logs.append("✅ Simple RAG pipeline complete")
     
     return {
         "running_summary": state.get("running_summary", ""),
         "citations": state.get("citations", ""),
-        "logs": ["✅ Simple RAG pipeline complete"]
+        "logs": progress_logs
     }
 
 
