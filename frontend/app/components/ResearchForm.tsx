@@ -23,7 +23,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
   const [reportOrg, setReportOrg] = useState(
     "Create a comprehensive report with introduction, detailed analysis, and conclusion."
   );
-  const [collection, setCollection] = useState("");
+  const [collection, setCollection] = useState("us_tariffs");  // Default to us_tariffs
   const [searchWeb, setSearchWeb] = useState(true);
   const [isSubmitting, setIsSubmitting] = useState(false);
   
@@ -52,13 +52,27 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     setTimeout(() => setIsSubmitting(false), 1000);
   };
 
-  // Example topics - US Customs Tariff queries
+  // Example topics - US Customs Tariff Code queries
   const exampleTopics = [
-    "What is the tariff for replacement batteries for a Raritan remote management card?",
-    "What's the tariff of Reese's Pieces?",
-    "Tariff of a replacement Roomba vacuum motherboard, used",
-    "What are typical import duties for electronics from China?",
+    "What is the tariff code for replacement batteries for a Raritan remote management card?",
+    "What's the tariff code for a bag of Reese's Pieces?",
+    "What is the tariff code of a replacement Roomba vacuum motherboard, used?",
+    "What factors I need to consider (such as weight, important ingredients) when I need to decide tariff codes for various sweets? Mention tariff codes or code ranges.",
+    "What are typical import duty tariff codes for electronics from China?",
     "What tariff codes apply to semiconductors?"
+  ];
+  
+  // Report organization presets
+  const reportOrgOptions = [
+    "Simplified report",
+    "Create a comprehensive report with introduction, detailed analysis, and conclusion.",
+    "Create a comprehensive report with introduction, detailed analysis, and conclusion. Perform a deep research and must use dynamic strategy. Try to utilize the us_tariff collection as well."
+  ];
+  
+  // Collection name options
+  const collectionOptions = [
+    "us_tariffs",
+    ""  // Empty for web-only
   ];
 
   return (
@@ -106,8 +120,25 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
           value={reportOrg}
           onChange={(e) => setReportOrg(e.target.value)}
           className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
-          rows={2}
+          rows={3}
         />
+        
+        {/* Report Organization Presets */}
+        <div className="mt-2 text-xs text-gray-400">
+          <span className="font-semibold">Presets:</span>
+          <div className="mt-1 space-y-1">
+            {reportOrgOptions.map((option, idx) => (
+              <button
+                key={idx}
+                type="button"
+                onClick={() => setReportOrg(option)}
+                className="block text-blue-400 hover:text-blue-300 hover:underline text-left"
+              >
+                • {option}
+              </button>
+            ))}
+          </div>
+        </div>
       </div>
 
       {/* Collection Name */}
@@ -123,9 +154,26 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
           placeholder="us_tariffs"
           className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
         />
-        <p className="mt-2 text-xs text-gray-400">
-          Leave empty for web search only. Use <span className="font-mono bg-gray-700 px-1 rounded">us_tariffs</span> for tariff documents.
-        </p>
+        
+        {/* Collection Options */}
+        <div className="mt-2 text-xs text-gray-400">
+          <span className="font-semibold">Options:</span>
+          <div className="mt-1 flex gap-3">
+            {collectionOptions.map((option, idx) => (
+              <button
+                key={idx}
+                type="button"
+                onClick={() => setCollection(option)}
+                className="text-blue-400 hover:text-blue-300 hover:underline"
+              >
+                • {option || "(Web only)"}
+              </button>
+            ))}
+          </div>
+          <p className="mt-1 text-gray-500">
+            <span className="font-mono bg-gray-700 px-1 rounded">us_tariffs</span> contains US Customs tariff PDFs
+          </p>
+        </div>
       </div>
 
       {/* Search Web Checkbox */}
