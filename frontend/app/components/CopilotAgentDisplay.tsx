@@ -207,6 +207,8 @@ export function CopilotAgentDisplay({
                     currentNode: data.node,
                     plan: data.state.plan || prev.plan,
                     udr_strategy: data.state.udr_strategy || prev.udr_strategy,
+                    // Preserve the strategy selection throughout execution
+                    strategy: prev.strategy,  // Keep the initially selected strategy
                     // Backend now sends accumulated logs, just use them directly
                     logs: data.state.logs || prev.logs,
                     queries: data.state.queries || prev.queries,
@@ -498,12 +500,17 @@ export function CopilotAgentDisplay({
             )}
           </div>
 
-          {/* Strategy Path Indicator */}
-          {agentState.plan && agentState.strategy !== 'ttd_dr' && (
+          {/* Strategy Path Indicator - Shows which execution path was taken */}
+          {agentState.plan && (
             <div className="bg-purple-900/50 border border-purple-500 rounded-lg p-4">
               <div className="text-sm text-purple-300 mb-2">Strategy Selected</div>
               <div className="text-white">
-                {agentState.udr_strategy ? (
+                {agentState.strategy === 'ttd_dr' ? (
+                  <span className="inline-flex items-center gap-2">
+                    <span className="text-2xl">🔬</span>
+                    <span className="font-semibold">Dynamic TTD-DR Strategy</span>
+                  </span>
+                ) : agentState.udr_strategy || agentState.strategy === 'udr' ? (
                   <span className="inline-flex items-center gap-2">
                     <span className="text-2xl">🚀</span>
                     <span className="font-semibold">Dynamic UDR Strategy</span>
