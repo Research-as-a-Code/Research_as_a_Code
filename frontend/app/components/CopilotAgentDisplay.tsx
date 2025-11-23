@@ -207,9 +207,17 @@ export function CopilotAgentDisplay({
                     currentNode: data.node,
                     plan: data.state.plan || prev.plan,
                     udr_strategy: data.state.udr_strategy || prev.udr_strategy,
-                    logs: data.state.logs || prev.logs,
+                    // Accumulate logs instead of replacing
+                    logs: data.state.logs ? [...prev.logs, ...data.state.logs] : prev.logs,
                     queries: data.state.queries || prev.queries,
                     running_summary: data.state.running_summary || prev.running_summary,
+                    // TTD-DR specific state updates
+                    ttd_dr_stage: data.state.ttd_dr_stage || prev.ttd_dr_stage,
+                    ttd_dr_iteration: data.state.ttd_dr_iteration ?? prev.ttd_dr_iteration,
+                    ttd_dr_convergence: data.state.ttd_dr_convergence || prev.ttd_dr_convergence,
+                    ttd_dr_questions: data.state.ttd_dr_questions || prev.ttd_dr_questions,
+                    ttd_dr_gaps: data.state.ttd_dr_gaps || prev.ttd_dr_gaps,
+                    ttd_dr_improvements: data.state.ttd_dr_improvements || prev.ttd_dr_improvements,
                   }));
                   
                   if (data.state.final_report) {
@@ -517,14 +525,21 @@ export function CopilotAgentDisplay({
 
           {/* Execution Logs */}
           {agentState.logs.length > 0 && (
-            <div className="bg-gray-900/50 border border-gray-600 rounded-lg p-4">
-              <div className="text-sm text-gray-300 mb-2 font-semibold">Execution Logs</div>
-              <div className="space-y-1 max-h-60 overflow-y-auto">
+            <div className="bg-blue-900/50 border border-blue-500 rounded-lg p-4">
+              <div className="text-sm text-blue-300 mb-3 font-semibold flex items-center justify-between">
+                <span>Execution Logs</span>
+                <span className="text-xs text-blue-400 bg-blue-500/20 px-2 py-1 rounded">
+                  {agentState.logs.length} {agentState.logs.length === 1 ? 'entry' : 'entries'}
+                </span>
+              </div>
+              <div className="space-y-2 max-h-80 overflow-y-auto pr-2">
                 {agentState.logs.map((log, idx) => (
                   <div
                     key={idx}
-                    className="text-xs text-gray-400 font-mono py-1 px-2 bg-gray-800/50 rounded"
+                    className="text-sm text-blue-100 font-mono py-2 px-3 bg-blue-950/50 rounded border border-blue-800/30 animate-fade-in"
+                    style={{ animationDelay: `${Math.min(idx * 0.05, 0.5)}s` }}
                   >
+                    <span className="text-blue-400 mr-2">→</span>
                     {log}
                   </div>
                 ))}
