@@ -170,10 +170,15 @@ topic = context["topic"]
 collection_name = context["collection"]
 
 try:
-    # search_rag returns Dict - single result
+    # search_rag returns Dict - single result with nested citations
     rag_result = await search_rag(topic, collection_name)  # YES await
     # ✅ rag_result is a dict, can use .get()
-    sources.append({{"type": "rag", "content": rag_result.get("content", "")}})  # NO await
+    # IMPORTANT: Include citations array to preserve document names!
+    sources.append({{
+        "type": "rag",
+        "content": rag_result.get("content", ""),
+        "citations": rag_result.get("citations", [])  # ← Preserve document names!
+    }})  # NO await
     
     # STEP 3: Search web - returns a LIST of dicts
     if {{{{context["search_web"]}}}}:
