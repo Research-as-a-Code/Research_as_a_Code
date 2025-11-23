@@ -521,58 +521,86 @@ async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConf
         return return_value
 
 
-async def simple_rag_pipeline(state: HackathonAgentState, config: RunnableConfig):
+async def generate_queries_node(state: HackathonAgentState, config: RunnableConfig):
     """
-    Simple RAG pipeline: Uses the standard AI-Q query → research → summarize flow.
-    
-    This reuses the existing AI-Q nodes.
-    
-    NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
+    Step 1 of Simple RAG: Generate research queries
+    Progressive update: Logs appear immediately when this step completes
     """
-    logger.info("SIMPLE RAG PIPELINE: Running standard AI-Q flow")
+    logger.info("SIMPLE RAG: Step 1 - Generate Queries")
     
-    # Track progress for execution logs
-    progress_logs = []
-    
-    # Create a no-op writer for AI-Q nodes that still expect it
     def noop_writer(data):
         pass
     
-    # Step 1: Generate queries (reuse AI-Q node)
-    progress_logs.append("🎯 Analyzing topic and generating research queries...")
+    # Execute query generation
     query_result = await generate_query(state, config, noop_writer)
-    state.update(query_result)
     
-    # Log the number of queries generated
+    # Create progressive logs for this step
     num_queries = len(query_result.get('queries', []))
-    progress_logs.append(f"📝 Generated {num_queries} targeted research questions")
-    
-    # Step 2: Web research (reuse AI-Q node)
-    collection = state.get('collection', '')
-    search_web = state.get('search_web', True)
-    
-    if collection:
-        progress_logs.append(f"🔍 Searching RAG collection: {collection}")
-    if search_web:
-        progress_logs.append(f"🌐 Searching web sources for each query")
-        
-    research_result = await web_research(state, config, noop_writer)
-    state.update(research_result)
-    
-    # Log search completion
-    progress_logs.append(f"✅ Completed searches for {num_queries} queries")
-    
-    # Step 3: Summarize (reuse AI-Q node)
-    progress_logs.append("📄 Synthesizing comprehensive report from sources...")
-    summary_result = await summarize_sources(state, config, noop_writer)
-    state.update(summary_result)
-    
-    progress_logs.append("✅ Simple RAG pipeline complete")
+    step_logs = [
+        "🎯 Analyzing topic and generating research queries...",
+        f"📝 Generated {num_queries} targeted research questions"
+    ]
     
     return {
-        "running_summary": state.get("running_summary", ""),
-        "citations": state.get("citations", ""),
-        "logs": progress_logs
+        **query_result,
+        "logs": step_logs
+    }
+
+
+async def search_sources_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    Step 2 of Simple RAG: Search RAG and web sources
+    Progressive update: Logs appear when searches complete
+    """
+    logger.info("SIMPLE RAG: Step 2 - Search Sources")
+    
+    def noop_writer(data):
+        pass
+    
+    # Create progressive logs for this step
+    collection = state.get('collection', '')
+    search_web = state.get('search_web', True)
+    num_queries = len(state.get('queries', []))
+    
+    step_logs = []
+    if collection:
+        step_logs.append(f"🔍 Searching RAG collection: {collection}")
+    if search_web:
+        step_logs.append(f"🌐 Searching web sources for each query")
+    
+    # Execute search
+    research_result = await web_research(state, config, noop_writer)
+    
+    step_logs.append(f"✅ Completed searches for {num_queries} queries")
+    
+    return {
+        **research_result,
+        "logs": step_logs
+    }
+
+
+async def synthesize_report_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    Step 3 of Simple RAG: Synthesize final report
+    Progressive update: Logs appear when synthesis completes
+    """
+    logger.info("SIMPLE RAG: Step 3 - Synthesize Report")
+    
+    def noop_writer(data):
+        pass
+    
+    # Create progressive logs for this step
+    step_logs = [
+        "📄 Synthesizing comprehensive report from sources...",
+        "✅ Simple RAG pipeline complete"
+    ]
+    
+    # Execute synthesis
+    summary_result = await summarize_sources(state, config, noop_writer)
+    
+    return {
+        **summary_result,
+        "logs": step_logs
     }
 
 
@@ -663,7 +691,12 @@ def create_hackathon_agent_graph() -> StateGraph:
     workflow.add_node("planner", planner_node)
     workflow.add_node("udr_strategy", dynamic_strategy_node)  # Renamed for clarity
     workflow.add_node("ttd_dr_strategy", ttd_dr_strategy_node)  # New TTD-DR node
-    workflow.add_node("simple_rag", simple_rag_pipeline)
+    
+    # Simple RAG broken into 3 progressive nodes for better UX
+    workflow.add_node("generate_queries", generate_queries_node)
+    workflow.add_node("search_sources", search_sources_node)
+    workflow.add_node("synthesize_report", synthesize_report_node)
+    
     workflow.add_node("final_report", final_report_node)
     
     # Set entry point
@@ -676,14 +709,18 @@ def create_hackathon_agent_graph() -> StateGraph:
         {
             "udr_strategy": "udr_strategy",
             "ttd_dr_strategy": "ttd_dr_strategy",
-            "simple_rag": "simple_rag"
+            "simple_rag": "generate_queries"  # ← Route to first step
         }
     )
     
-    # All paths converge to final report
+    # Simple RAG path: 3 sequential nodes for progressive updates
+    workflow.add_edge("generate_queries", "search_sources")
+    workflow.add_edge("search_sources", "synthesize_report")
+    workflow.add_edge("synthesize_report", "final_report")
+    
+    # Dynamic strategy paths converge to final report
     workflow.add_edge("udr_strategy", "final_report")
     workflow.add_edge("ttd_dr_strategy", "final_report")
-    workflow.add_edge("simple_rag", "final_report")
     
     # Final report goes to END
     workflow.add_edge("final_report", END)

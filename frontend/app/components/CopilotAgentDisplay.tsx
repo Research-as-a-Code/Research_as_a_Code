@@ -27,7 +27,7 @@ interface AgentState {
   ttd_dr_gaps?: string[];  // TTD-DR identified gaps
   ttd_dr_improvements?: string[];  // TTD-DR recent improvements
   logs: string[];
-  queries: string[];
+  queries: (string | { query: string; report_section?: string; rationale?: string })[];  // Can be string or object
   running_summary?: string;
   final_report?: string;
   isProcessing: boolean;
@@ -564,7 +564,7 @@ export function CopilotAgentDisplay({
                 {agentState.queries.map((query, idx) => (
                   <li key={idx} className="text-sm text-green-200 flex items-start gap-2">
                     <span className="text-green-400">•</span>
-                    <span>{query}</span>
+                    <span>{typeof query === 'string' ? query : query.query}</span>
                   </li>
                 ))}
               </ul>

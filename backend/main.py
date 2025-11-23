@@ -453,7 +453,14 @@ async def generate_research_stream(request: ResearchRequest):
                     event_metadata = event.get("metadata", {})
                     langgraph_node = event_metadata.get("langgraph_node", event_name)
                     
-                    if event_type == "on_chain_end" and langgraph_node in ["planner", "simple_rag", "dynamic_strategy", "ttd_dr_strategy", "final_report"]:
+                    # Watch for all node completions including progressive SIMPLE_RAG nodes
+                    watched_nodes = [
+                        "planner", 
+                        "generate_queries", "search_sources", "synthesize_report",  # Progressive SIMPLE_RAG
+                        "dynamic_strategy", "ttd_dr_strategy",  # Dynamic strategies
+                        "final_report"
+                    ]
+                    if event_type == "on_chain_end" and langgraph_node in watched_nodes:
                         logger.info(f"  └─ Node completed: {langgraph_node} (event_name={event_name})")
                         
                         # Get the FULL accumulated state from the graph after this node
