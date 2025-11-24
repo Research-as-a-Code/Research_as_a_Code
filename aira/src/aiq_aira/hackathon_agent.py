@@ -205,55 +205,23 @@ async def ttd_dr_init_node(state: HackathonAgentState, config: RunnableConfig):
 async def ttd_dr_research_node(state: HackathonAgentState, config: RunnableConfig):
     """
     TTD-DR Step 2: Execute iterative research with diffusion
-    Progressive update: Shows iteration progress
+    Progressive update: Shows research phase completion
     """
     logger.info("TTD-DR: Step 2 - Research Iterations")
     
     ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
     context = state.get("ttd_dr_context")
     
-    # Collect logs during research
-    research_logs = []
-    
-    # Track iterations via callback
-    progress_logs_collector = []
-    
-    async def callback(stage_info):
-        """Collect progress logs during iterations"""
-        if "iteration" in stage_info:
-            iteration = stage_info["iteration"]
-            progress_logs_collector.append(f"🔄 Starting Iteration {iteration}")
-        
-        if "questions" in stage_info:
-            num_questions = len(stage_info["questions"])
-            progress_logs_collector.append(f"❓ Generated {num_questions} research questions")
-        
-        if "convergence" in stage_info:
-            scores = stage_info["convergence"]
-            if scores:
-                latest_score = scores[-1]
-                progress_logs_collector.append(f"📊 Convergence: {latest_score:.1%}")
-        
-        if "gaps" in stage_info:
-            num_gaps = len(stage_info["gaps"])
-            if num_gaps:
-                progress_logs_collector.append(f"⚠️ Identified {num_gaps} knowledge gaps")
-        
-        if "improvements" in stage_info:
-            num_improvements = len(stage_info["improvements"])
-            if num_improvements:
-                progress_logs_collector.append(f"✨ Applied {num_improvements} improvements")
-    
-    # Set callback
-    ttd_dr_integration.state_callback = callback
+    # Phase-level logs (callback system removed - not functional)
+    step_logs = [
+        "🔍 Executing iterative TTD-DR research...",
+        "🔬 Running diffusion process with convergence tracking"
+    ]
     
     # Execute TTD-DR
     try:
         result = await ttd_dr_integration.execute(context)
         
-        # Build final logs for this phase
-        step_logs = ["🔍 Executing iterative research..."]
-        step_logs.extend(progress_logs_collector)
         step_logs.append("✅ Research iterations complete")
         
         return {
@@ -263,8 +231,9 @@ async def ttd_dr_research_node(state: HackathonAgentState, config: RunnableConfi
         
     except Exception as e:
         logger.error(f"TTD-DR research error: {e}")
+        step_logs.append(f"❌ TTD-DR research error: {str(e)}")
         return {
-            "logs": [f"❌ TTD-DR research error: {str(e)}"],
+            "logs": step_logs,
             "ttd_dr_result": None
         }
 
