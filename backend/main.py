@@ -453,11 +453,16 @@ async def generate_research_stream(request: ResearchRequest):
                     event_metadata = event.get("metadata", {})
                     langgraph_node = event_metadata.get("langgraph_node", event_name)
                     
-                    # Watch for all node completions including progressive SIMPLE_RAG nodes
+                    # Watch for all node completions including progressive nodes
                     watched_nodes = [
-                        "planner", 
-                        "generate_queries", "search_sources", "synthesize_report",  # Progressive SIMPLE_RAG
-                        "dynamic_strategy", "ttd_dr_strategy",  # Dynamic strategies
+                        "planner",
+                        # Progressive SIMPLE_RAG nodes
+                        "generate_queries", "search_sources", "synthesize_report",
+                        # Progressive UDR nodes
+                        "udr_prepare", "udr_compile_validate", "udr_execute",
+                        # Progressive TTD-DR nodes
+                        "ttd_dr_init", "ttd_dr_research", "ttd_dr_finalize",
+                        # Final
                         "final_report"
                     ]
                     if event_type == "on_chain_end" and langgraph_node in watched_nodes:

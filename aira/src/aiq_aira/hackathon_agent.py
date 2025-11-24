@@ -161,7 +161,186 @@ Respond with JSON:
         }
 
 
-async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfig):
+# ========================================
+# Progressive TTD-DR Nodes (Init → Research → Finalize)
+# ========================================
+
+async def ttd_dr_init_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    TTD-DR Step 1: Initialize and create research plan
+    Progressive update: Shows initialization
+    """
+    logger.info("TTD-DR: Step 1 - Initialize")
+    
+    ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
+    if not ttd_dr_integration:
+        return {
+            "logs": ["❌ TTD-DR integration not available"],
+            "final_report": "Error: TTD-DR not configured"
+        }
+    
+    # Create context
+    from aiq_aira.research_strategy_base import ResearchContext
+    context = ResearchContext(
+        query=state["research_prompt"],
+        collection=state.get("collection", "default"),
+        search_web=state.get("search_web", True),
+        user_preferences={
+            "report_organization": state["report_organization"]
+        }
+    )
+    
+    step_logs = [
+        "🔬 Initializing TTD-DR diffusion process...",
+        "📋 Analyzing topic and creating research plan..."
+    ]
+    
+    return {
+        "ttd_dr_context": context,
+        "ttd_dr_integration_ready": True,
+        "logs": step_logs
+    }
+
+
+async def ttd_dr_research_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    TTD-DR Step 2: Execute iterative research with diffusion
+    Progressive update: Shows iteration progress
+    """
+    logger.info("TTD-DR: Step 2 - Research Iterations")
+    
+    ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
+    context = state.get("ttd_dr_context")
+    
+    # Collect logs during research
+    research_logs = []
+    
+    # Track iterations via callback
+    progress_logs_collector = []
+    
+    async def callback(stage_info):
+        """Collect progress logs during iterations"""
+        if "iteration" in stage_info:
+            iteration = stage_info["iteration"]
+            progress_logs_collector.append(f"🔄 Starting Iteration {iteration}")
+        
+        if "questions" in stage_info:
+            num_questions = len(stage_info["questions"])
+            progress_logs_collector.append(f"❓ Generated {num_questions} research questions")
+        
+        if "convergence" in stage_info:
+            scores = stage_info["convergence"]
+            if scores:
+                latest_score = scores[-1]
+                progress_logs_collector.append(f"📊 Convergence: {latest_score:.1%}")
+        
+        if "gaps" in stage_info:
+            num_gaps = len(stage_info["gaps"])
+            if num_gaps:
+                progress_logs_collector.append(f"⚠️ Identified {num_gaps} knowledge gaps")
+        
+        if "improvements" in stage_info:
+            num_improvements = len(stage_info["improvements"])
+            if num_improvements:
+                progress_logs_collector.append(f"✨ Applied {num_improvements} improvements")
+    
+    # Set callback
+    ttd_dr_integration.state_callback = callback
+    
+    # Execute TTD-DR
+    try:
+        result = await ttd_dr_integration.execute(context)
+        
+        # Build final logs for this phase
+        step_logs = ["🔍 Executing iterative research..."]
+        step_logs.extend(progress_logs_collector)
+        step_logs.append("✅ Research iterations complete")
+        
+        return {
+            "ttd_dr_result": result,
+            "logs": step_logs
+        }
+        
+    except Exception as e:
+        logger.error(f"TTD-DR research error: {e}")
+        return {
+            "logs": [f"❌ TTD-DR research error: {str(e)}"],
+            "ttd_dr_result": None
+        }
+
+
+async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    TTD-DR Step 3: Format citations and finalize
+    Progressive update: Shows finalization
+    """
+    logger.info("TTD-DR: Step 3 - Finalize")
+    
+    result = state.get("ttd_dr_result")
+    
+    if not result or not result.success:
+        error = result.error if result else "Unknown error"
+        return {
+            "logs": [f"❌ TTD-DR failed: {error}"],
+            "final_report": f"Research failed: {error}"
+        }
+    
+    step_logs = ["📝 Formatting citations and finalizing report..."]
+    
+    # Format citations (same logic as before)
+    from collections import defaultdict
+    rag_doc_counts = defaultdict(int)
+    web_sources = []
+    
+    for idx, src in enumerate(result.sources, 1):
+        src_type = src.get('source', src.get('type', 'unknown'))
+        
+        if src_type == 'rag':
+            inner_citations = src.get('citations', [])
+            if inner_citations:
+                for inner_src in inner_citations:
+                    doc_name = inner_src.get('source', f'RAG Document {idx}')
+                    rag_doc_counts[doc_name] += 1
+            else:
+                rag_doc_counts[f'RAG Document {idx}'] += 1
+        elif src_type == 'web':
+            title = src.get('title', '').strip()
+            url = src.get('url', 'N/A')
+            if not title and url != 'N/A':
+                try:
+                    from urllib.parse import urlparse
+                    domain = urlparse(url).netloc
+                    title = domain or f'Web Source {idx}'
+                except:
+                    title = f'Web Source {idx}'
+            elif not title:
+                title = f'Web Source {idx}'
+            
+            if not any(ws['url'] == url for ws in web_sources):
+                web_sources.append({'title': title, 'url': url})
+    
+    citations_formatted = []
+    for doc_name, count in sorted(rag_doc_counts.items()):
+        if count > 1:
+            citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+        else:
+            citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+    
+    for ws in web_sources:
+        citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
+    
+    step_logs.append("✅ TTD-DR research completed")
+    
+    return {
+        "final_report": result.final_report,
+        "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
+        "logs": step_logs,
+        "ttd_dr_stage": "complete"
+    }
+
+
+# Keep old combined node for reference
+async def ttd_dr_strategy_node_OLD(state: HackathonAgentState, config: RunnableConfig):
     """
     TTD-DR Strategy Node: Executes Test-Time Diffusion Deep Researcher.
     
@@ -320,7 +499,202 @@ async def ttd_dr_strategy_node(state: HackathonAgentState, config: RunnableConfi
         }
 
 
-async def dynamic_strategy_node(state: HackathonAgentState, config: RunnableConfig):
+# ========================================
+# Progressive UDR Nodes (Compile → Validate → Execute)
+# ========================================
+
+async def udr_prepare_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    UDR Step 1: Prepare context and extract strategy
+    Progressive update: Shows preparation phase
+    """
+    import sys
+    logger.info("UDR: Step 1 - Prepare")
+    
+    # Get UDR integration
+    udr_integration = config["configurable"].get("udr_integration")
+    if not udr_integration:
+        error_msg = "UDR integration not configured"
+        logger.error(f"❌ {error_msg}")
+        return {
+            "udr_result": {"success": False, "error": error_msg},
+            "logs": [f"❌ {error_msg}"]
+        }
+    
+    # Extract strategy from plan
+    strategy = state.get("udr_strategy", "")
+    if isinstance(strategy, dict):
+        import json
+        strategy = json.dumps(strategy, indent=2)
+    
+    # Build context
+    context = {
+        "topic": state["research_prompt"],
+        "report_organization": state["report_organization"],
+        "collection": state.get("collection", ""),
+        "search_web": state.get("search_web", True)
+    }
+    
+    step_logs = [
+        "🎯 Preparing UDR execution context...",
+        f"📋 Strategy plan extracted ({len(str(strategy))} chars)"
+    ]
+    
+    return {
+        "udr_context": context,
+        "udr_strategy_text": strategy,
+        "logs": step_logs
+    }
+
+
+async def udr_compile_validate_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    UDR Step 2: Compile and validate strategy code
+    Progressive update: Shows compilation and validation
+    """
+    logger.info("UDR: Step 2 - Compile & Validate")
+    
+    udr_integration = config["configurable"].get("udr_integration")
+    strategy = state.get("udr_strategy_text", "")
+    
+    step_logs = ["🔧 Compiling natural language plan to executable Python code..."]
+    
+    try:
+        # Compile
+        compiled_code = await udr_integration.compiler.compile_strategy(strategy)
+        step_logs.append("✅ Code compilation successful")
+        
+        # Validate
+        step_logs.append("🔍 Validating generated code for safety...")
+        is_valid, validation_error = udr_integration.compiler.validate_generated_code(compiled_code)
+        
+        if not is_valid:
+            step_logs.append(f"❌ Validation failed: {validation_error}")
+            return {
+                "udr_result": {"success": False, "error": validation_error},
+                "logs": step_logs
+            }
+        
+        step_logs.append("✅ Code validation passed - safe to execute")
+        
+        return {
+            "udr_compiled_code": compiled_code,
+            "logs": step_logs
+        }
+        
+    except Exception as e:
+        step_logs.append(f"❌ Compilation failed: {str(e)}")
+        return {
+            "udr_result": {"success": False, "error": str(e)},
+            "logs": step_logs
+        }
+
+
+async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    UDR Step 3: Execute compiled strategy and collect results
+    Progressive update: Shows execution phase with tool calls
+    """
+    import asyncio
+    logger.info("UDR: Step 3 - Execute")
+    
+    udr_integration = config["configurable"].get("udr_integration")
+    compiled_code = state.get("udr_compiled_code", "")
+    context = state.get("udr_context", {})
+    
+    step_logs = ["⚙️ Executing compiled strategy code..."]
+    
+    try:
+        result = await asyncio.wait_for(
+            udr_integration.executor.execute_strategy(
+                compiled_code=compiled_code,
+                context=context
+            ),
+            timeout=300.0
+        )
+        
+        if result.success:
+            # Add tool call logs
+            if result.execution_log:
+                step_logs.extend(result.execution_log)
+            
+            step_logs.append("✅ UDR strategy execution complete")
+            
+            # Format citations (same logic as before)
+            from collections import defaultdict
+            rag_doc_counts = defaultdict(int)
+            web_sources = []
+            
+            for idx, src in enumerate(result.sources, 1):
+                src_type = src.get('source', src.get('type', 'unknown'))
+                
+                if src_type == 'rag':
+                    inner_citations = src.get('citations', [])
+                    if inner_citations:
+                        for inner_src in inner_citations:
+                            doc_name = inner_src.get('source', f'RAG Document {idx}')
+                            rag_doc_counts[doc_name] += 1
+                    else:
+                        rag_doc_counts[f'RAG Document {idx}'] += 1
+                elif src_type == 'web':
+                    title = src.get('title', '').strip()
+                    url = src.get('url', 'N/A')
+                    if not title and url != 'N/A':
+                        try:
+                            from urllib.parse import urlparse
+                            domain = urlparse(url).netloc
+                            title = domain or f'Web Source {idx}'
+                        except:
+                            title = f'Web Source {idx}'
+                    elif not title:
+                        title = f'Web Source {idx}'
+                    
+                    if not any(ws['url'] == url for ws in web_sources):
+                        web_sources.append({'title': title, 'url': url})
+            
+            citations_formatted = []
+            for doc_name, count in sorted(rag_doc_counts.items()):
+                if count > 1:
+                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+                else:
+                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+            
+            for ws in web_sources:
+                citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
+            
+            return {
+                "udr_result": {
+                    "success": True,
+                    "report": result.synthesized_report,
+                    "sources": result.sources
+                },
+                "running_summary": result.synthesized_report,
+                "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
+                "logs": step_logs
+            }
+        else:
+            step_logs.append(f"❌ Execution failed: {result.error}")
+            return {
+                "udr_result": {"success": False, "error": result.error},
+                "logs": step_logs
+            }
+            
+    except asyncio.TimeoutError:
+        step_logs.append("❌ Execution timed out after 5 minutes")
+        return {
+            "udr_result": {"success": False, "error": "Timeout"},
+            "logs": step_logs
+        }
+    except Exception as e:
+        step_logs.append(f"❌ Execution error: {str(e)}")
+        return {
+            "udr_result": {"success": False, "error": str(e)},
+            "logs": step_logs
+        }
+
+
+# Keep old function for reference but rename to avoid conflicts
+async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: RunnableConfig):
     """
     UDR Dynamic Strategy Node: Executes the UDR strategy-as-code engine.
     
@@ -689,10 +1063,18 @@ def create_hackathon_agent_graph() -> StateGraph:
     
     # Add nodes
     workflow.add_node("planner", planner_node)
-    workflow.add_node("udr_strategy", dynamic_strategy_node)  # Renamed for clarity
-    workflow.add_node("ttd_dr_strategy", ttd_dr_strategy_node)  # New TTD-DR node
     
-    # Simple RAG broken into 3 progressive nodes for better UX
+    # UDR broken into 3 progressive nodes: prepare → compile/validate → execute
+    workflow.add_node("udr_prepare", udr_prepare_node)
+    workflow.add_node("udr_compile_validate", udr_compile_validate_node)
+    workflow.add_node("udr_execute", udr_execute_node)
+    
+    # TTD-DR broken into 3 progressive nodes: init → research → finalize
+    workflow.add_node("ttd_dr_init", ttd_dr_init_node)
+    workflow.add_node("ttd_dr_research", ttd_dr_research_node)
+    workflow.add_node("ttd_dr_finalize", ttd_dr_finalize_node)
+    
+    # Simple RAG broken into 3 progressive nodes: queries → search → synthesize
     workflow.add_node("generate_queries", generate_queries_node)
     workflow.add_node("search_sources", search_sources_node)
     workflow.add_node("synthesize_report", synthesize_report_node)
@@ -707,20 +1089,26 @@ def create_hackathon_agent_graph() -> StateGraph:
         "planner",
         route_after_planner,
         {
-            "udr_strategy": "udr_strategy",
-            "ttd_dr_strategy": "ttd_dr_strategy",
-            "simple_rag": "generate_queries"  # ← Route to first step
+            "udr_strategy": "udr_prepare",  # ← Route to first UDR step
+            "ttd_dr_strategy": "ttd_dr_init",  # ← Route to first TTD-DR step
+            "simple_rag": "generate_queries"  # ← Route to first SIMPLE_RAG step
         }
     )
+    
+    # UDR path: 3 sequential nodes for progressive updates
+    workflow.add_edge("udr_prepare", "udr_compile_validate")
+    workflow.add_edge("udr_compile_validate", "udr_execute")
+    workflow.add_edge("udr_execute", "final_report")
+    
+    # TTD-DR path: 3 sequential nodes for progressive updates
+    workflow.add_edge("ttd_dr_init", "ttd_dr_research")
+    workflow.add_edge("ttd_dr_research", "ttd_dr_finalize")
+    workflow.add_edge("ttd_dr_finalize", "final_report")
     
     # Simple RAG path: 3 sequential nodes for progressive updates
     workflow.add_edge("generate_queries", "search_sources")
     workflow.add_edge("search_sources", "synthesize_report")
     workflow.add_edge("synthesize_report", "final_report")
-    
-    # Dynamic strategy paths converge to final report
-    workflow.add_edge("udr_strategy", "final_report")
-    workflow.add_edge("ttd_dr_strategy", "final_report")
     
     # Final report goes to END
     workflow.add_edge("final_report", END)
