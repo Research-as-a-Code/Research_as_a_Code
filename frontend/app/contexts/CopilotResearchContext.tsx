@@ -12,27 +12,36 @@
 
 import { createContext, useContext, useState, ReactNode } from "react";
 
+type ResearchStrategy = 'udr' | 'ttd_dr';
+
 interface ResearchParams {
   topic: string;
   report_organization: string;
   collection: string;
   search_web: boolean;
+  strategy?: string;  // Add strategy parameter
 }
 
 interface CopilotResearchContextType {
   triggerResearch: (params: ResearchParams) => void;
   currentParams: ResearchParams | null;
   clearParams: () => void;
+  selectedStrategy: ResearchStrategy;
+  setSelectedStrategy: (strategy: ResearchStrategy) => void;
 }
 
 const CopilotResearchContext = createContext<CopilotResearchContextType | null>(null);
 
 export function CopilotResearchProvider({ children }: { children: ReactNode }) {
   const [currentParams, setCurrentParams] = useState<ResearchParams | null>(null);
+  const [selectedStrategy, setSelectedStrategy] = useState<ResearchStrategy>('udr');
 
   const triggerResearch = (params: ResearchParams) => {
     console.log("🎯 Triggering CopilotKit research action:", params);
-    setCurrentParams(params);
+    console.log("📊 Selected strategy:", selectedStrategy);
+    // Ensure strategy is included
+    const paramsWithStrategy = { ...params, strategy: params.strategy || selectedStrategy };
+    setCurrentParams(paramsWithStrategy);
   };
 
   const clearParams = () => {
@@ -40,7 +49,13 @@ export function CopilotResearchProvider({ children }: { children: ReactNode }) {
   };
 
   return (
-    <CopilotResearchContext.Provider value={{ triggerResearch, currentParams, clearParams }}>
+    <CopilotResearchContext.Provider value={{ 
+      triggerResearch, 
+      currentParams, 
+      clearParams,
+      selectedStrategy,
+      setSelectedStrategy 
+    }}>
       {children}
     </CopilotResearchContext.Provider>
   );

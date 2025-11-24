@@ -52,13 +52,18 @@ export function CopilotAgentDisplay({
     strategy: 'udr'  // Default to UDR
   });
   
-  const [selectedStrategy, setSelectedStrategy] = useState<ResearchStrategy>('udr');
-  const { currentParams, clearParams } = useCopilotResearch();
+  const { currentParams, clearParams, selectedStrategy, setSelectedStrategy } = useCopilotResearch();
 
   // Make agent state available to CopilotKit
   useCopilotReadable({
     description: "Current AI-Q agent execution state",
     value: agentState
+  });
+  
+  // Expose selected strategy to parent components
+  useCopilotReadable({
+    description: "Currently selected research strategy",
+    value: selectedStrategy
   });
 
   // Register CopilotKit action for research generation (for AG-UI protocol)
@@ -287,6 +292,7 @@ export function CopilotAgentDisplay({
       if (!currentParams) return;
 
       console.log("🔥 Form submitted with params:", currentParams);
+      console.log("📊 Using strategy from context:", selectedStrategy);
       
       // Prevent duplicate execution - check if already processing
       if (agentState.isProcessing) {
@@ -295,7 +301,17 @@ export function CopilotAgentDisplay({
         return;
       }
       
-      setAgentState({ logs: [], queries: [], isProcessing: true });
+      // Use strategy from context
+      const activeStrategy = (currentParams.strategy as ResearchStrategy) || selectedStrategy;
+      console.log("🎯 Active strategy for this request:", activeStrategy);
+      
+      setAgentState({ 
+        logs: [], 
+        queries: [], 
+        isProcessing: true,
+        strategy: activeStrategy,
+        ttd_dr_stage: activeStrategy === 'ttd_dr' ? 'planning' : undefined
+      });
       onResearchStart();
 
       try {
@@ -330,6 +346,7 @@ export function CopilotAgentDisplay({
             report_organization: currentParams.report_organization || "Create a comprehensive report",
             collection: currentParams.collection || "",
             search_web: currentParams.search_web !== false,
+            strategy: activeStrategy,  // Send selected strategy to backend
           }),
           signal: controller.signal,
         });
