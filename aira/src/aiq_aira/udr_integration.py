@@ -298,6 +298,15 @@ CODE:
             (is_valid, error_message): Tuple of validation result and error message if invalid
         """
         import ast
+        import sys
+        
+        # DEBUG: Print the generated code to see what LLM created
+        print("=" * 80, flush=True, file=sys.stderr)
+        print("🔍 VALIDATING GENERATED UDR CODE:", flush=True, file=sys.stderr)
+        print("=" * 80, flush=True, file=sys.stderr)
+        for i, line in enumerate(code.split('\n'), 1):
+            print(f"{i:3d} | {line}", flush=True, file=sys.stderr)
+        print("=" * 80, flush=True, file=sys.stderr)
         
         allowed_functions = {'search_rag', 'search_web', 'synthesize_findings'}
         allowed_methods = {'append', 'extend', 'get', 'strip', 'split', 'join', 'format', 'lower', 'upper', 'items', 'keys', 'values'}
@@ -320,9 +329,11 @@ CODE:
         except SyntaxError as e:
             return False, f"Syntax error in generated code: {e}"
         
-        # Additional validation: Compile to catch indentation/execution issues
+        # Additional validation: Compile in async context (since we wrap in async function)
         try:
-            compile(code, '<string>', 'exec')
+            # Wrap in async function like we do at execution time
+            wrapped = f"async def _test():\n{chr(10).join('    ' + line for line in code.split(chr(10)))}"
+            compile(wrapped, '<string>', 'exec')
         except SyntaxError as e:
             return False, f"Code compilation error (indentation/structure): {str(e)}"
         

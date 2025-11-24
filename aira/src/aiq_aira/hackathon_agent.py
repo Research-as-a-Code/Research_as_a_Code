@@ -74,6 +74,10 @@ class HackathonAgentState(TypedDict):
     # UDR dynamic strategy phase
     udr_strategy: str
     udr_result: dict
+    # Progressive UDR state fields
+    udr_strategy_text: Optional[str]  # Extracted strategy for compilation
+    udr_context: Optional[dict]  # Context for execution
+    udr_compiled_code: Optional[str]  # Compiled Python code
     
     # TTD-DR specific state fields
     ttd_dr_stage: Optional[str]  # 'planning', 'iterating', 'synthesizing', 'complete'
@@ -82,6 +86,10 @@ class HackathonAgentState(TypedDict):
     ttd_dr_questions: Optional[List[str]]
     ttd_dr_gaps: Optional[List[str]]
     ttd_dr_improvements: Optional[List[str]]
+    # Progressive TTD-DR state fields
+    ttd_dr_context: Optional[object]  # Context for research
+    ttd_dr_integration_ready: Optional[bool]  # Integration status
+    ttd_dr_result: Optional[object]  # Research results
     
     # Final output
     final_report: str
