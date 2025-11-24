@@ -1,0 +1,322 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: tariffs-docling-ingest-script
+  namespace: rag-blueprint
+data:
+  ingest_with_docling.py: |
+    #!/usr/bin/env python3
+    """
+    Enhanced Document Ingestion using Docling (IBM Research)
+    Provides superior PDF extraction with better segmentation
+    """
+    import os
+    import sys
+    import time
+    from pathlib import Path
+    from typing import List, Tuple
+    import httpx
+    from pymilvus import connections, Collection, CollectionSchema, FieldSchema, DataType, utility
+    import logging
+
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logger = logging.getLogger(__name__)
+
+    # Configuration
+    MILVUS_HOST = os.getenv("MILVUS_HOST", "milvus-standalone")
+    MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
+    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+    EMBEDDING_DIM = 1024
+    CHUNK_SIZE = 1000
+    CHUNK_OVERLAP = 200
+    BATCH_SIZE = 10
+
+    def extract_with_docling(file_path: str) -> str:
+        """Extract text using Docling for superior PDF segmentation"""
+        try:
+            from docling.document_converter import DocumentConverter
+            logger.info(f"    🔍 Extracting with Docling...")
+            converter = DocumentConverter()
+            result = converter.convert(file_path)
+            text = result.document.export_to_markdown()
+            logger.info(f"    ✅ Extracted {len(text)} characters")
+            return text
+        except Exception as e:
+            logger.error(f"    ❌ Docling extraction error: {e}")
+            return ""
+
+    def fallback_txt_extraction(file_path: str) -> str:
+        """Simple text file extraction"""
+        try:
+            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                return f.read()
+        except Exception as e:
+            logger.error(f"    ❌ Error reading text file: {e}")
+            return ""
+
+    def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> List[str]:
+        """Split text into overlapping chunks"""
+        chunks = []
+        start = 0
+        text_len = len(text)
+        while start < text_len:
+            end = start + chunk_size
+            chunk = text[start:end].strip()
+            if len(chunk) > 50:
+                chunks.append(chunk)
+            start += (chunk_size - overlap)
+        return chunks
+
+    def get_embeddings_batch(texts: List[str], nim_url: str) -> List[List[float]]:
+        """Get embeddings from NIM for a batch of texts"""
+        try:
+            response = httpx.post(
+                f"{nim_url}/v1/embeddings",
+                json={
+                    "input": texts,
+                    "model": "snowflake/arctic-embed-l",
+                    "input_type": "passage"
+                },
+                timeout=60.0
+            )
+            if response.status_code == 200:
+                result = response.json()
+                return [item["embedding"] for item in result["data"]]
+            else:
+                logger.error(f"    ❌ Embedding API error: {response.status_code}")
+                return []
+        except Exception as e:
+            logger.error(f"    ❌ Embedding error: {e}")
+            return []
+
+    def create_collection(collection_name: str, drop_existing: bool = False):
+        """Create or get Milvus collection"""
+        if utility.has_collection(collection_name):
+            if drop_existing:
+                logger.warning(f"  ⚠️  Dropping existing collection '{collection_name}'...")
+                utility.drop_collection(collection_name)
+            else:
+                logger.info(f"  📦 Using existing collection '{collection_name}'")
+                return Collection(collection_name)
+        
+        fields = [
+            FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
+            FieldSchema(name="embedding", dtype=DataType.FLOAT_VECTOR, dim=EMBEDDING_DIM),
+            FieldSchema(name="text", dtype=DataType.VARCHAR, max_length=65535),
+            FieldSchema(name="source", dtype=DataType.VARCHAR, max_length=1024),
+        ]
+        schema = CollectionSchema(fields=fields, description=f"{collection_name} collection")
+        collection = Collection(name=collection_name, schema=schema)
+        
+        index_params = {
+            "metric_type": "L2",
+            "index_type": "HNSW",
+            "params": {"M": 16, "efConstruction": 200}
+        }
+        collection.create_index(field_name="embedding", index_params=index_params)
+        logger.info(f"  ✅ Collection '{collection_name}' created with HNSW index")
+        return collection
+
+    def ingest_directory(
+        collection_name: str,
+        data_dir: Path,
+        file_pattern: str = "*.pdf",
+        drop_existing: bool = False
+    ) -> Tuple[int, int]:
+        """Main ingestion pipeline using Docling"""
+        print("🚀 Enhanced Document Ingestion with Docling")
+        print("=" * 80)
+        print(f"Collection: {collection_name}")
+        print(f"Data directory: {data_dir}")
+        print(f"File pattern: {file_pattern}")
+        print(f"Chunk size: {CHUNK_SIZE} chars, Overlap: {CHUNK_OVERLAP}")
+        print(f"Batch size: {BATCH_SIZE} chunks per embedding call")
+        print()
+        
+        logger.info(f"🔌 Connecting to Milvus at {MILVUS_HOST}:{MILVUS_PORT}")
+        connections.connect(alias="default", host=MILVUS_HOST, port=MILVUS_PORT)
+        logger.info("  ✅ Connected!")
+        
+        collection = create_collection(collection_name, drop_existing)
+        print()
+        
+        files = sorted(data_dir.glob(file_pattern))
+        total_files = len(files)
+        logger.info(f"📚 Found {total_files} files to process")
+        
+        if total_files == 0:
+            logger.error(f"❌ No files matching '{file_pattern}' found in {data_dir}")
+            return 0, 0
+        
+        print()
+        
+        all_embeddings = []
+        all_texts = []
+        all_sources = []
+        success_count = 0
+        failed_count = 0
+        
+        for idx, file_path in enumerate(files, 1):
+            filename = file_path.name
+            logger.info(f"📄 [{idx}/{total_files}] Processing: {filename}")
+            
+            if file_path.suffix.lower() in ['.pdf', '.docx', '.doc']:
+                text = extract_with_docling(str(file_path))
+            elif file_path.suffix.lower() == '.txt':
+                text = fallback_txt_extraction(str(file_path))
+            else:
+                logger.warning(f"    ⚠️  Unsupported file type: {file_path.suffix}")
+                failed_count += 1
+                continue
+            
+            if not text or len(text) < 100:
+                logger.warning(f"    ⚠️  Insufficient text extracted, skipping")
+                failed_count += 1
+                continue
+            
+            chunks = chunk_text(text)
+            logger.info(f"    📝 Split into {len(chunks)} chunks")
+            
+            if not chunks:
+                failed_count += 1
+                continue
+            
+            for i in range(0, len(chunks), BATCH_SIZE):
+                batch = chunks[i:i + BATCH_SIZE]
+                embeddings = get_embeddings_batch(batch, EMBEDDING_NIM_URL)
+                
+                if len(embeddings) == len(batch):
+                    all_embeddings.extend(embeddings)
+                    all_texts.extend(batch)
+                    all_sources.extend([filename] * len(batch))
+                    logger.info(f"    ✅ Embedded chunks {i+1}-{i+len(batch)}")
+                else:
+                    logger.warning(f"    ⚠️  Embedding failed for batch {i}")
+                
+                time.sleep(0.1)
+            
+            success_count += 1
+            
+            if idx % 50 == 0 and all_embeddings:
+                logger.info(f"\n💾 Bulk inserting {len(all_embeddings)} chunks into Milvus...")
+                collection.insert([all_embeddings, all_texts, all_sources])
+                collection.flush()
+                logger.info(f"  ✅ Inserted! Collection now has {collection.num_entities} total chunks\n")
+                all_embeddings = []
+                all_texts = []
+                all_sources = []
+        
+        if all_embeddings:
+            logger.info(f"\n💾 Inserting final {len(all_embeddings)} chunks...")
+            collection.insert([all_embeddings, all_texts, all_sources])
+            collection.flush()
+        
+        logger.info("\n📊 Loading collection for search...")
+        collection.load()
+        
+        total_entities = collection.num_entities
+        print()
+        print("=" * 80)
+        print(f"✅ INGESTION COMPLETE!")
+        print("=" * 80)
+        print(f"Collection: {collection_name}")
+        print(f"Total chunks: {total_entities}")
+        print(f"Files processed: {success_count}/{total_files}")
+        print(f"Failed: {failed_count}")
+        print(f"Average chunks per file: {total_entities/success_count:.1f}")
+        print()
+        
+        return success_count, failed_count
+
+    if __name__ == "__main__":
+        # Get args from environment
+        collection = os.getenv("COLLECTION_NAME", "us_tariffs")
+        data_dir = os.getenv("DATA_DIR", "/data")
+        pattern = os.getenv("FILE_PATTERN", "*.pdf")
+        drop = os.getenv("DROP_EXISTING", "true").lower() == "true"
+        
+        start_time = time.time()
+        success, failed = ingest_directory(
+            collection_name=collection,
+            data_dir=Path(data_dir),
+            file_pattern=pattern,
+            drop_existing=drop
+        )
+        elapsed = time.time() - start_time
+        
+        print(f"⏱️  Total time: {elapsed:.1f}s ({elapsed/60:.1f} minutes)")
+        print()
+        
+        if failed > 0:
+            logger.warning(f"⚠️  {failed} files failed to process")
+            sys.exit(1)
+        else:
+            logger.info(f"✅ All {success} files processed successfully!")
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: tariffs-docling-ingestion
+  namespace: rag-blueprint
+spec:
+  ttlSecondsAfterFinished: 86400  # Clean up after 24 hours
+  template:
+    metadata:
+      labels:
+        job: tariffs-docling-ingestion
+    spec:
+      restartPolicy: OnFailure
+      containers:
+      - name: ingest
+        image: python:3.11-slim
+        command:
+        - /bin/bash
+        - -c
+        - |
+          set -e
+          echo "📦 Installing dependencies..."
+          pip install --no-cache-dir pymilvus httpx docling
+          
+          echo "✅ Dependencies installed!"
+          echo "🚀 Starting Docling-powered ingestion..."
+          
+          python /scripts/ingest_with_docling.py
+        env:
+        - name: COLLECTION_NAME
+          value: "us_tariffs"
+        - name: DATA_DIR
+          value: "/data"
+        - name: FILE_PATTERN
+          value: "*.pdf"
+        - name: DROP_EXISTING
+          value: "true"
+        - name: MILVUS_HOST
+          value: "milvus-standalone"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        volumeMounts:
+        - name: script
+          mountPath: /scripts
+        - name: data
+          mountPath: /data
+          readOnly: true
+        resources:
+          requests:
+            memory: "4Gi"
+            cpu: "2"
+          limits:
+            memory: "8Gi"
+            cpu: "4"
+      volumes:
+      - name: script
+        configMap:
+          name: tariffs-docling-ingest-script
+          defaultMode: 0755
+      - name: data
+        hostPath:
+          path: /home/csaba/repos/AIML/Research_as_a_Code/data/tariffs
+          type: Directory
+

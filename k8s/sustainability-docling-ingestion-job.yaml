@@ -1,0 +1,66 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: sustainability-docling-ingestion
+  namespace: rag-blueprint
+spec:
+  ttlSecondsAfterFinished: 86400
+  template:
+    metadata:
+      labels:
+        job: sustainability-docling-ingestion
+    spec:
+      restartPolicy: OnFailure
+      containers:
+      - name: ingest
+        image: python:3.11-slim
+        command:
+        - /bin/bash
+        - -c
+        - |
+          set -e
+          echo "📦 Installing dependencies..."
+          pip install --no-cache-dir pymilvus httpx docling
+          
+          echo "✅ Dependencies installed!"
+          echo "🚀 Starting Docling-powered ingestion for Sustainability..."
+          
+          python /scripts/ingest_with_docling.py
+        env:
+        - name: COLLECTION_NAME
+          value: "sustainability"
+        - name: DATA_DIR
+          value: "/data"
+        - name: FILE_PATTERN
+          value: "*.*"  # Both PDF and DOCX
+        - name: DROP_EXISTING
+          value: "true"
+        - name: MILVUS_HOST
+          value: "milvus-standalone"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        volumeMounts:
+        - name: script
+          mountPath: /scripts
+        - name: data
+          mountPath: /data
+          readOnly: true
+        resources:
+          requests:
+            memory: "4Gi"
+            cpu: "2"
+          limits:
+            memory: "8Gi"
+            cpu: "4"
+      volumes:
+      - name: script
+        configMap:
+          name: tariffs-docling-ingest-script  # Reuse same script
+          defaultMode: 0755
+      - name: data
+        hostPath:
+          path: /home/csaba/repos/AIML/Research_as_a_Code/data/sustainability
+          type: Directory
+
