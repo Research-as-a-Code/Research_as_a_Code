@@ -320,6 +320,12 @@ CODE:
         except SyntaxError as e:
             return False, f"Syntax error in generated code: {e}"
         
+        # Additional validation: Compile to catch indentation/execution issues
+        try:
+            compile(code, '<string>', 'exec')
+        except SyntaxError as e:
+            return False, f"Code compilation error (indentation/structure): {str(e)}"
+        
         # Check all function calls
         for node in ast.walk(tree):
             if isinstance(node, ast.Call):
