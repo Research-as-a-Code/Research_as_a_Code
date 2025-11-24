@@ -1,0 +1,1835 @@
+
+[111th Congress Public Law 23]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 1703]]
+
+              WEAPON SYSTEMS ACQUISITION REFORM ACT OF 2009
+
+[[Page 123 STAT. 1704]]
+
+Public Law 111-23
+111th Congress
+
+                                 An Act
+
+
+ 
+To improve the organization and procedures of the Department of Defense 
+       for the acquisition of major weapon systems, and for other 
+              purposes. <<NOTE: May 22, 2009 -  [S. 454]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Weapon Systems 
+Acquisition Reform Act of 2009.>> 
+SECTION 1. <<NOTE: 10 USC 101 note.>> SHORT TITLE; TABLE OF 
+                              CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Weapon Systems 
+Acquisition Reform Act of 2009''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+                    TITLE I--ACQUISITION ORGANIZATION
+
+Sec. 101. Cost assessment and program evaluation.
+Sec. 102. Directors of Developmental Test and Evaluation and Systems 
+           Engineering.
+Sec. 103. Performance assessments and root cause analyses for major 
+           defense acquisition programs.
+Sec. 104. Assessment of technological maturity of critical technologies 
+           of major defense acquisition programs by the Director of 
+           Defense Research and Engineering.
+Sec. 105. Role of the commanders of the combatant commands in 
+           identifying joint military requirements.
+
+                      TITLE II--ACQUISITION POLICY
+
+Sec. 201. Consideration of trade-offs among cost, schedule, and 
+           performance objectives in Department of Defense acquisition 
+           programs.
+Sec. 202. Acquisition strategies to ensure competition throughout the 
+           lifecycle of major defense acquisition programs.
+Sec. 203. Prototyping requirements for major defense acquisition 
+           programs.
+Sec. 204. Actions to identify and address systemic problems in major 
+           defense acquisition programs prior to Milestone B approval.
+Sec. 205. Additional requirements for certain major defense acquisition 
+           programs.
+Sec. 206. Critical cost growth in major defense acquisition programs.
+Sec. 207. Organizational conflicts of interest in major defense 
+           acquisition programs.
+
+              TITLE III--ADDITIONAL ACQUISITION PROVISIONS
+
+Sec. 301. Awards for Department of Defense personnel for excellence in 
+           the acquisition of products and services.
+Sec. 302. Earned value management.
+Sec. 303. Expansion of national security objectives of the national 
+           technology and industrial base.
+Sec. 304. Comptroller General of the United States reports on costs and 
+           financial information regarding major defense acquisition 
+           programs.
+
+SEC. 2. <<NOTE: 10 USC 2430 note.>> DEFINITIONS.
+
+    In this Act:
+            (1) The term ``congressional defense committees'' has the 
+        meaning given that term in section 101(a)(16) of title 10, 
+        United States Code.
+
+[[Page 123 STAT. 1705]]
+
+            (2) The term ``major defense acquisition program'' has the 
+        meaning given that term in section 2430 of title 10, United 
+        States Code.
+            (3) The term ``major weapon system'' has the meaning given 
+        that term in section 2379(d) of title 10, United States Code.
+
+                    TITLE I--ACQUISITION ORGANIZATION
+
+SEC. 101. COST ASSESSMENT AND PROGRAM EVALUATION.
+
+    (a) Director of Cost Assessment and Program Evaluation.--
+            (1) In general.--Chapter 4 of title 10, United States Code, 
+        is amended by inserting after section 139b the following new 
+        section:
+``Sec. 139c. Director of Cost Assessment and Program Evaluation
+
+    ``(a) Appointment.--There <<NOTE: President.>> is a Director of Cost 
+Assessment and Program Evaluation in the Department of Defense, 
+appointed by the President, by and with the advice and consent of the 
+Senate.
+
+    ``(b) Independent Advice to Secretary of Defense.--(1) The Director 
+of Cost Assessment and Program Evaluation is the principal advisor to 
+the Secretary of Defense and other senior officials of the Department of 
+Defense, and shall provide independent analysis and advice to such 
+officials, on the following matters:
+            ``(A) Matters assigned to the Director pursuant to this 
+        section and section 2334 of this title.
+            ``(B) Matters assigned to the Director by the Secretary 
+        pursuant to section 113 of this title.
+
+    ``(2) The Director may communicate views on matters within the 
+responsibility of the Director directly to the Secretary of Defense and 
+the Deputy Secretary of Defense without obtaining the approval or 
+concurrence of any other official within the Department of Defense.
+    ``(c) Deputy Directors.--There are two Deputy Directors within the 
+Office of the Director of Cost Assessment and Program Evaluation, as 
+follows:
+            ``(1) The Deputy Director for Cost Assessment.
+            ``(2) The Deputy Director for Program Evaluation.
+
+    ``(d) Responsibilities.--The Director of Cost Assessment and Program 
+Evaluation shall serve as the principal official within the senior 
+management of the Department of Defense for the following:
+            ``(1) Cost estimation and cost analysis for acquisition 
+        programs of the Department of Defense, and carrying out the 
+        duties assigned pursuant to section 2334 of this title.
+            ``(2) Analysis and advice on matters relating to the 
+        planning and programming phases of the Planning, Programming, 
+        Budgeting and Execution system, and the preparation of materials 
+        and guidance for such system, as directed by the Secretary of 
+        Defense, working in coordination with the Under Secretary of 
+        Defense (Comptroller).
+            ``(3) Analysis and advice for resource discussions relating 
+        to requirements under consideration in the Joint Requirements 
+        Oversight Council pursuant to section 181 of this title.
+
+[[Page 123 STAT. 1706]]
+
+            ``(4) Formulation of study guidance for analyses of 
+        alternatives for major defense acquisition programs and 
+        performance of such analyses, as directed by the Secretary of 
+        Defense
+            ``(5) Review, analysis, and evaluation of programs for 
+        executing approved strategies and policies, ensuring that 
+        information on programs is presented accurately and completely, 
+        and assessing the effect of spending by the Department of 
+        Defense on the United States economy.
+            ``(6) Assessments of special access and compartmented 
+        intelligence programs, in coordination with the Under Secretary 
+        of Defense for Acquisition, Technology, and Logistics and the 
+        Under Secretary of Defense for Intelligence and in accordance 
+        with applicable policies.
+            ``(7) Assessments of alternative plans, programs, and 
+        policies with respect to the acquisition programs of the 
+        Department of Defense.
+            ``(8) Leading the development of improved analytical skills 
+        and competencies within the cost assessment and program 
+        evaluation workforce of the Department of Defense and improved 
+        tools, data, and methods to promote performance, economy, and 
+        efficiency in analyzing national security planning and the 
+        allocation of defense resources.''.
+            (2) Clerical amendment.--The table of sections at the 
+        beginning of chapter 4 of such title is amended by inserting 
+        after the item relating to section 139b the following new item:
+
+``139c. Director of Cost Assessment and Program Evaluation.''.
+
+            (3) Executive schedule level iv.--Section 5315 of title 5, 
+        United States Code, is amended by inserting after the item 
+        relating to the Director of Operational Test and Evaluation, 
+        Department of Defense the following new item:
+            ``Director of Cost Assessment and Program Evaluation, 
+        Department of Defense.''.
+
+    (b) Independent Cost Estimation and Cost Analysis.--
+            (1) In general.--Chapter 137 of title 10, United States 
+        Code, is amended by adding at the end the following new section:
+``Sec. 2334. Independent cost estimation and cost analysis
+
+    ``(a) In General.--The Director of Cost Assessment and Program 
+Evaluation shall ensure that the cost estimation and cost analysis 
+processes of the Department of Defense provide accurate information and 
+realistic estimates of cost for the acquisition programs of the 
+Department of Defense. In carrying out that responsibility, the Director 
+shall--
+            ``(1) <<NOTE: Policies.>> prescribe, by authority of the 
+        Secretary of Defense, policies and procedures for the conduct of 
+        cost estimation and cost analysis for the acquisition programs 
+        of the Department of Defense;
+            ``(2) <<NOTE: Consultation.>> provide guidance to and 
+        consult with the Secretary of Defense, the Under Secretary of 
+        Defense for Acquisition, Technology, and Logistics, the Under 
+        Secretary of Defense (Comptroller), the Secretaries of the 
+        military departments, and the heads of the Defense Agencies with 
+        respect to cost estimation in the Department of Defense in 
+        general and with respect to specific cost estimates and cost 
+        analyses to be conducted in connection with a major defense 
+        acquisition program
+
+[[Page 123 STAT. 1707]]
+
+        under chapter 144 of this title or a major automated information 
+        system program under chapter 144A of this title;
+            ``(3) issue guidance relating to the proper selection of 
+        confidence levels in cost estimates generally, and specifically, 
+        for the proper selection of confidence levels in cost estimates 
+        for major defense acquisition programs and major automated 
+        information system programs;
+            ``(4) issue guidance relating to full consideration of life-
+        cycle management and sustainability costs in major defense 
+        acquisition programs and major automated information system 
+        programs;
+            ``(5) review all cost estimates and cost analyses conducted 
+        in connection with major defense acquisition programs and major 
+        automated information system programs;
+            ``(6) conduct independent cost estimates and cost analyses 
+        for major defense acquisition programs and major automated 
+        information system programs for which the Under Secretary of 
+        Defense for Acquisition, Technology, and Logistics is the 
+        Milestone Decision Authority--
+                    ``(A) in advance of--
+                          ``(i) any certification under section 2366a or 
+                      2366b of this title;
+                          ``(ii) any decision to enter into low-rate 
+                      initial production or full-rate production;
+                          ``(iii) any certification under section 2433a 
+                      of this title; and
+                          ``(iv) any report under section 2445c(f) of 
+                      this title; and
+                    ``(B) at any other time considered appropriate by 
+                the Director or upon the request of the Under Secretary 
+                of Defense for Acquisition, Technology, and Logistics; 
+                and
+            ``(7) <<NOTE: Assessments.>> periodically assess and update 
+        the cost indexes used by the Department to ensure that such 
+        indexes have a sound basis and meet the Department's needs for 
+        realistic cost estimation.
+
+    ``(b) Review of Cost Estimates, Cost Analyses, and Records of the 
+Military Departments and Defense Agencies.--The Secretary of Defense 
+shall ensure that the Director of Cost Assessment and Program 
+Evaluation--
+            ``(1) promptly receives the results of all cost estimates 
+        and cost analyses conducted by the military departments and 
+        Defense Agencies, and all studies conducted by the military 
+        departments and Defense Agencies in connection with such cost 
+        estimates and cost analyses, for major defense acquisition 
+        programs and major automated information system programs of the 
+        military departments and Defense Agencies; and
+            ``(2) has timely access to any records and data in the 
+        Department of Defense (including the records and data of each 
+        military department and Defense Agency and including classified 
+        and proprietary information) that the Director considers 
+        necessary to review in order to carry out any duties under this 
+        section.
+
+    ``(c) Participation, Concurrence, and Approval in Cost Estimation.--
+The Director of Cost Assessment and Program Evaluation may--
+            ``(1) participate in the discussion of any discrepancies 
+        between an independent cost estimate and the cost estimate
+
+[[Page 123 STAT. 1708]]
+
+        of a military department or Defense Agency for a major defense 
+        acquisition program or major automated information system 
+        program of the Department of Defense;
+            ``(2) comment on deficiencies in the methodology or 
+        execution of any cost estimate or cost analysis developed by a 
+        military department or Defense Agency for a major defense 
+        acquisition program or major automated information system 
+        program;
+            ``(3) concur in the choice of a cost estimate within the 
+        baseline description or any other cost estimate (including the 
+        confidence level for any such cost estimate) for use at any 
+        event specified in subsection (a)(6); and
+            ``(4) participate in the consideration of any decision to 
+        request authorization of a multiyear procurement contract for a 
+        major defense acquisition program.
+
+    ``(d) Disclosure of Confidence Levels for Baseline Estimates of 
+Major Defense Acquisition Programs.--The Director of Cost Assessment and 
+Program Evaluation, and the Secretary of the military department 
+concerned or the head of the Defense Agency concerned (as applicable), 
+shall each--
+            ``(1) disclose in accordance with paragraph (2) the 
+        confidence level used in establishing a cost estimate for a 
+        major defense acquisition program or major automated information 
+        system program, the rationale for selecting such confidence 
+        level, and, if such confidence level is less than 80 percent, 
+        the justification for selecting a confidence level of less than 
+        80 percent; and
+            ``(2) include the disclosure required by paragraph (1)--
+                    ``(A) in any decision documentation approving a cost 
+                estimate within the baseline description or any other 
+                cost estimate for use at any event specified in 
+                subsection (a)(6); and
+                    ``(B) in the next Selected Acquisition Report 
+                pursuant to section 2432 of this title in the case of a 
+                major defense acquisition program, or the next quarterly 
+                report pursuant to section 2445c of this title in the 
+                case of a major automated information system program.
+
+    ``(e) Annual Report on Cost Assessment Activities.--(1) The Director 
+of Cost Assessment and Program Evaluation shall prepare an annual report 
+summarizing the cost estimation and cost analysis activities of the 
+Department of Defense during the previous year and assessing the 
+progress of the Department in improving the accuracy of its cost 
+estimates and analyses. Each report shall include, for the year covered 
+by such report, an assessment of--
+            ``(A) the extent to which each of the military departments 
+        and Defense Agencies have complied with policies, procedures, 
+        and guidance issued by the Director with regard to the 
+        preparation of cost estimates for major defense acquisition 
+        programs and major automated information systems;
+            ``(B) the overall quality of cost estimates prepared by each 
+        of the military departments and Defense Agencies for major 
+        defense acquisition programs and major automated information 
+        system programs; and
+            ``(C) any consistent differences in methodology or approach 
+        among the cost estimates prepared by the military departments, 
+        the Defense Agencies, and the Director.
+
+[[Page 123 STAT. 1709]]
+
+    ``(2) Each report under this subsection shall be submitted 
+concurrently to the Secretary of Defense, the Under Secretary of Defense 
+for Acquisition, Technology, and Logistics, the Under Secretary of 
+Defense (Comptroller), and the congressional defense committees not 
+later than 10 days after the transmittal to Congress of the budget of 
+the President for the next fiscal year (as submitted pursuant to section 
+1105 of title 31).
+    ``(3)(A) Each report submitted to the congressional defense 
+committees under this subsection shall be submitted in unclassified 
+form, but may include a classified annex.
+    ``(B) The Director shall ensure that a report submitted under this 
+subsection does not include any information, such as proprietary or 
+source selection sensitive information, that could undermine the 
+integrity of the acquisition process.
+    ``(C) <<NOTE: Internet posting. Public information.>> The 
+unclassified version of each report submitted to the congressional 
+defense committees under this subsection shall be posted on an Internet 
+website of the Department of Defense that is available to the public.
+
+    ``(4) The Secretary of Defense may comment on any report of the 
+Director to the congressional defense committees under this subsection.
+    ``(f) Staff.--The Secretary of Defense shall ensure that the 
+Director of Cost Assessment and Program Evaluation has sufficient 
+professional staff of military and civilian personnel to enable the 
+Director to carry out the duties and responsibilities of the Director 
+under this section.''.
+            (2) Clerical amendment.--The table of sections at the 
+        beginning of chapter 137 of such title is amended by adding at 
+        the end the following new item:
+
+``2334. Independent cost estimation and cost analysis.''.
+
+    (c) Transfer <<NOTE: 10 USC 139c note.>> of Personnel and 
+Functions.--
+            (1) Transfer of functions.--The functions of the Office of 
+        Program Analysis and Evaluation of the Department of Defense, 
+        including the functions of the Cost Analysis Improvement Group, 
+        are hereby transferred to the Office of the Director of Cost 
+        Assessment and Program Evaluation.
+            (2) Transfer of personnel to deputy director for independent 
+        cost assessment.--The personnel of the Cost Analysis Improvement 
+        Group are hereby transferred to the Deputy Director for Cost 
+        Assessment in the Office of the Director of Cost Assessment and 
+        Program Evaluation.
+            (3) Transfer of personnel to deputy director for program 
+        analysis and evaluation.--The personnel (other than the 
+        personnel transferred under paragraph (2)) of the Office of 
+        Program Analysis and Evaluation are hereby transferred to the 
+        Deputy Director for Program Evaluation in the Office of the 
+        Director of Cost Assessment and Program Evaluation.
+
+    (d) Conforming Amendments.--
+            (1) Section 181(d) of title 10, United States Code, is 
+        amended by striking ``Director of the Office of Program Analysis 
+        and Evaluation'' and inserting ``Director of Cost Assessment and 
+        Program Evaluation''.
+            (2) Section 2306b(i)(1)(B) of such title is amended by 
+        striking ``Cost Analysis Improvement Group of the Department of 
+        Defense'' and inserting ``Director of Cost Assessment and 
+        Program Analysis''.
+
+[[Page 123 STAT. 1710]]
+
+            (3) Section 2366a(a)(4) of such title is amended by 
+        inserting ``, with the concurrence of the Director of Cost 
+        Assessment and Program Evaluation,'' after ``has been 
+        submitted''.
+            (4) Section 2366b(a)(1)(C) of such title is amended by 
+        inserting ``, with the concurrence of the Director of Cost 
+        Assessment and Program Evaluation,'' after ``have been developed 
+        to execute''.
+            (5) Subparagraph (A) of section 2434(b)(1) of such title is 
+        amended to read as follows:
+
+    ``(A) be prepared or approved by the Director of Cost Assessment and 
+Program Evaluation; and''.
+            (6) Section 2445c(f)(3) of such title is amended by striking 
+        ``are reasonable'' and inserting ``have been determined, with 
+        the concurrence of the Director of Cost Assessment and Program 
+        Evaluation, to be reasonable''.
+
+    (e) Report on Monitoring of Operating and Support Costs for Major 
+Defense Acquisition Programs.--
+            (1) Report <<NOTE: Review.>> to secretary of defense.--Not 
+        later than one year after the date of the enactment of this Act, 
+        the Director of Cost Assessment and Program Evaluation under 
+        section 139c of title 10 United States Code (as added by 
+        subsection (a)), shall review existing systems and methods of 
+        the Department of Defense for tracking and assessing operating 
+        and support costs on major defense acquisition programs and 
+        submit to the Secretary of Defense a report on the finding and 
+        recommendations of the Director as a result of the review, 
+        including an assessment by the Director of the feasibility and 
+        advisability of establishing baselines for operating and support 
+        costs under section 2435 of title 10, United States Code.
+            (2) Transmittal to congress.--Not later than 30 days after 
+        receiving the report required by paragraph (1), the Secretary 
+        shall transmit the report to the congressional defense 
+        committees, together with any comments on the report the 
+        Secretary considers appropriate.
+SEC. 102. DIRECTORS OF DEVELOPMENTAL TEST AND EVALUATION AND 
+                        SYSTEMS ENGINEERING.
+
+    (a) In General.--
+            (1) Establishment of positions.--Chapter 4 of title 10, 
+        United States Code, as amended by section 101(a) of this Act, is 
+        further amended by inserting after section 139c the following 
+        new section:
+``Sec. 139d. Director of Developmental Test and Evaluation; 
+                  Director of Systems Engineering: joint guidance
+
+    ``(a) Director of Developmental Test and Evaluation.--
+            ``(1) Appointment.--There is a Director of Developmental 
+        Test and Evaluation, who shall be appointed by the Secretary of 
+        Defense from among individuals with an expertise in test and 
+        evaluation.
+            ``(2) Principal advisor for developmental test and 
+        evaluation.--The Director shall be the principal advisor to the 
+        Secretary of Defense and the Under Secretary of Defense for 
+        Acquisition, Technology, and Logistics on developmental test and 
+        evaluation in the Department of Defense.
+            ``(3) Supervision.--The Director shall be subject to the 
+        supervision of the Under Secretary of Defense for Acquisition,
+
+[[Page 123 STAT. 1711]]
+
+        Technology, and Logistics and shall report to the Under 
+        Secretary.
+            ``(4) Coordination with director of systems engineering.--
+        The Director of Developmental Test and Evaluation shall closely 
+        coordinate with the Director of Systems Engineering to ensure 
+        that the developmental test and evaluation activities of the 
+        Department of Defense are fully integrated into and consistent 
+        with the systems engineering and development planning processes 
+        of the Department.
+            ``(5) Duties.--The Director shall--
+                    ``(A) <<NOTE: Policies.>> develop policies and 
+                guidance for--
+                          ``(i) the conduct of developmental test and 
+                      evaluation in the Department of Defense (including 
+                      integration and developmental testing of 
+                      software);
+                          ``(ii) in coordination with the Director of 
+                      Operational Test and Evaluation, the integration 
+                      of developmental test and evaluation with 
+                      operational test and evaluation;
+                          ``(iii) the conduct of developmental test and 
+                      evaluation conducted jointly by more than one 
+                      military department or Defense Agency;
+                    ``(B) review and approve the developmental test and 
+                evaluation plan within the test and evaluation master 
+                plan for each major defense acquisition program of the 
+                Department of Defense;
+                    ``(C) monitor and review the developmental test and 
+                evaluation activities of the major defense acquisition 
+                programs;
+                    ``(D) provide advocacy, oversight, and guidance to 
+                elements of the acquisition workforce responsible for 
+                developmental test and evaluation;
+                    ``(E) periodically review the organizations and 
+                capabilities of the military departments with respect to 
+                developmental test and evaluation and identify needed 
+                changes or improvements to such organizations and 
+                capabilities, and provide input regarding needed changes 
+                or improvements for the test and evaluation strategic 
+                plan developed in accordance with section 196(d) of this 
+                title; and
+                    ``(F) perform such other activities relating to the 
+                developmental test and evaluation activities of the 
+                Department of Defense as the Under Secretary of Defense 
+                for Acquisition, Technology, and Logistics may 
+                prescribe.
+            ``(6) Access to records.--The Secretary of Defense shall 
+        ensure that the Director has access to all records and data of 
+        the Department of Defense (including the records and data of 
+        each military department and including classified and propriety 
+        information, as appropriate) that the Director considers 
+        necessary in order to carry out the Director's duties under this 
+        subsection.
+            ``(7) Concurrent service as director of department of 
+        defense test resources management center.--The individual 
+        serving as the Director of Developmental Test and Evaluation may 
+        also serve concurrently as the Director of the Department of 
+        Defense Test Resource Management Center under section 196 of 
+        this title.
+
+    ``(b) Director of Systems Engineering.--
+
+[[Page 123 STAT. 1712]]
+
+            ``(1) Appointment.--There is a Director of Systems 
+        Engineering, who shall be appointed by the Secretary of Defense 
+        from among individuals with an expertise in systems engineering 
+        and development planning.
+            ``(2) Principal advisor for systems engineering and 
+        development planning.--The Director shall be the principal 
+        advisor to the Secretary of Defense and the Under Secretary of 
+        Defense for Acquisition, Technology, and Logistics on systems 
+        engineering and development planning in the Department of 
+        Defense.
+            ``(3) Supervision.--The Director shall be subject to the 
+        supervision of the Under Secretary of Defense for Acquisition, 
+        Technology, and Logistics and shall report to the Under 
+        Secretary.
+            ``(4) Coordination with director of developmental test and 
+        evaluation.--The Director of Systems Engineering shall closely 
+        coordinate with the Director of Developmental Test and 
+        Evaluation to ensure that the developmental test and evaluation 
+        activities of the Department of Defense are fully integrated 
+        into and consistent with the systems engineering and development 
+        planning processes of the Department.
+            ``(5) Duties.--The Director shall--
+                    ``(A) <<NOTE: Policies.>> develop policies and 
+                guidance for--
+                          ``(i) the use of systems engineering 
+                      principles and best practices, generally;
+                          ``(ii) the use of systems engineering 
+                      approaches to enhance reliability, availability, 
+                      and maintainability on major defense acquisition 
+                      programs;
+                          ``(iii) the development of systems engineering 
+                      master plans for major defense acquisition 
+                      programs including systems engineering 
+                      considerations in support of lifecycle management 
+                      and sustainability; and
+                          ``(iv) the inclusion of provisions relating to 
+                      systems engineering and reliability growth in 
+                      requests for proposals;
+                    ``(B) review and approve the systems engineering 
+                master plan for each major defense acquisition program;
+                    ``(C) monitor and review the systems engineering and 
+                development planning activities of the major defense 
+                acquisition programs;
+                    ``(D) provide advocacy, oversight, and guidance to 
+                elements of the acquisition workforce responsible for 
+                systems engineering, development planning, and lifecycle 
+                management and sustainability functions;
+                    ``(E) provide input on the inclusion of systems 
+                engineering requirements in the process for 
+                consideration of joint military requirements by the 
+                Joint Requirements Oversight Council pursuant to section 
+                181 of this title, including specific input relating to 
+                each capabilities development document;
+                    ``(F) periodically review the organizations and 
+                capabilities of the military departments with respect to 
+                systems engineering, development planning, and lifecycle 
+                management and sustainability, and identify needed 
+                changes or improvements to such organizations and 
+                capabilities; and
+
+[[Page 123 STAT. 1713]]
+
+                    ``(G) perform such other activities relating to the 
+                systems engineering and development planning activities 
+                of the Department of Defense as the Under Secretary of 
+                Defense for Acquisition, Technology, and Logistics may 
+                prescribe.
+            ``(6) Access to records.--The Director shall have access to 
+        any records or data of the Department of Defense (including the 
+        records and data of each military department and including 
+        classified and proprietary information as appropriate) that the 
+        Director considers necessary to review in order to carry out the 
+        Director's duties under this subsection.
+
+    ``(c) Joint Annual Report.--Not <<NOTE: Effective date.>> later than 
+March 31 each year, beginning in 2010, the Director of Developmental 
+Test and Evaluation and the Director of Systems Engineering shall 
+jointly submit to the congressional defense committees a report on the 
+activities undertaken pursuant to subsections (a) and (b) during the 
+preceding year. Each report shall include a section on activities 
+relating to the major defense acquisition programs which shall set 
+forth, at a minimum, the following:
+            ``(1) A discussion of the extent to which the major defense 
+        acquisition programs are fulfilling the objectives of their 
+        systems engineering master plans and developmental test and 
+        evaluation plans.
+            ``(2) A discussion of the waivers of and deviations from 
+        requirements in test and evaluation master plans, systems 
+        engineering master plans, and other testing requirements that 
+        occurred during the preceding year with respect to such 
+        programs, any concerns raised by such waivers or deviations, and 
+        the actions that have been taken or are planned to be taken to 
+        address such concerns.
+            ``(3) An assessment of the organization and capabilities of 
+        the Department of Defense for systems engineering, development 
+        planning, and developmental test and evaluation with respect to 
+        such programs.
+            ``(4) Any comments on such report that the Secretary of 
+        Defense considers appropriate.
+
+    ``(d) Joint Guidance.--The Director of Developmental Test and 
+Evaluation and the Director of Systems Engineering shall jointly, in 
+coordination with the official designated by the Secretary of Defense 
+under section 103 of the Weapon Systems Acquisition Reform Act of 2009, 
+issue guidance on the following:
+            ``(1) The development and tracking of detailed measurable 
+        performance criteria as part of the systems engineering master 
+        plans and the developmental test and evaluation plans within the 
+        test and evaluation master plans of major defense acquisition 
+        programs.
+            ``(2) The use of developmental test and evaluation to 
+        measure the achievement of specific performance objectives 
+        within a systems engineering master plan.
+            ``(3) A system for storing and tracking information relating 
+        to the achievement of the performance criteria and objectives 
+        specified pursuant to this subsection.
+
+    ``(e) Major Defense Acquisition Program Defined.--In this section, 
+the term `major defense acquisition program' has the meaning given that 
+term in section 2430 of this title.''.
+            (2) Clerical amendment.--The table of sections at the 
+        beginning of chapter 4 of such title, as amended by section
+
+[[Page 123 STAT. 1714]]
+
+        101(a) of this Act, is further amended by inserting after the 
+        item relating to section 139c the following new item:
+
+``139d. Director of Developmental Test and Evaluation; Director of 
+           Systems Engineering: joint guidance.''.
+
+    (b) Developmental <<NOTE: 10 USC 2430 note.>> Test and Evaluation 
+and Systems Engineering in the Military Departments and Defense 
+Agencies.--
+            (1) Plans.--The service acquisition executive of each 
+        military department and each Defense Agency with responsibility 
+        for a major defense acquisition program shall develop and 
+        implement plans to ensure the military department or Defense 
+        Agency concerned has provided appropriate resources for each of 
+        the following:
+                    (A) Developmental testing organizations with 
+                adequate numbers of trained personnel in order to--
+                          (i) ensure that developmental testing 
+                      requirements are appropriately addressed in the 
+                      translation of operational requirements into 
+                      contract specifications, in the source selection 
+                      process, and in the preparation of requests for 
+                      proposals on all major defense acquisition 
+                      programs;
+                          (ii) participate in the planning of 
+                      developmental test and evaluation activities, 
+                      including the preparation and approval of a 
+                      developmental test and evaluation plan within the 
+                      test and evaluation master plan for each major 
+                      defense acquisition program; and
+                          (iii) participate in and oversee the conduct 
+                      of developmental testing, the analysis of data, 
+                      and the preparation of evaluations and reports 
+                      based on such testing.
+                    (B) Development planning and systems engineering 
+                organizations with adequate numbers of trained personnel 
+                in order to--
+                          (i) support key requirements, acquisition, and 
+                      budget decisions made for each major defense 
+                      acquisition program prior to Milestone A approval 
+                      and Milestone B approval through a rigorous 
+                      systems analysis and systems engineering process;
+                          (ii) include a robust program for improving 
+                      reliability, availability, maintainability, and 
+                      sustainability as an integral part of design and 
+                      development within the systems engineering master 
+                      plan for each major defense acquisition program; 
+                      and
+                          (iii) identify systems engineering 
+                      requirements, including reliability, availability, 
+                      maintainability, and lifecycle management and 
+                      sustainability requirements, during the Joint 
+                      Capabilities Integration Development System 
+                      process, and incorporate such systems engineering 
+                      requirements into contract requirements for each 
+                      major defense acquisition program.
+            (2) Reports by service acquisition executives.--Not later 
+        than 180 days after the date of the enactment of this Act, the 
+        service acquisition executive of each military department and 
+        each Defense Agency with responsibility for a major defense 
+        acquisition program shall submit to the Director of
+
+[[Page 123 STAT. 1715]]
+
+        Developmental Test and Evaluation and the Director of Systems 
+        Engineering a report on the extent to which--
+                    (A) such military department or Defense Agency has 
+                implemented, or is implementing, the plan required by 
+                paragraph (1); and
+                    (B) additional authorities or resources are needed 
+                to attract, develop, retain, and reward developmental 
+                test and evaluation personnel and systems engineers with 
+                appropriate levels of hands-on experience and technical 
+                expertise to meet the needs of such military department 
+                or Defense Agency.
+            (3) Assessment of reports by directors of developmental test 
+        and evaluation and systems engineering.--The first annual report 
+        submitted to Congress by the Director of Developmental Test and 
+        Evaluation and the Director of Systems Engineering under section 
+        139d(c) of title 10, United States Code (as added by subsection 
+        (a)), shall include an assessment by the Directors of the 
+        reports submitted by the service acquisition executives to the 
+        Directors under paragraph (2).
+SEC. 103. <<NOTE: 10 USC 2430 note.>> PERFORMANCE ASSESSMENTS AND 
+                        ROOT CAUSE ANALYSES FOR MAJOR DEFENSE 
+                        ACQUISITION PROGRAMS.
+
+    (a) Designation of Senior Official Responsibility for Performance 
+Assessments and Root Cause Analyses.--
+            (1) In general.--The Secretary of Defense shall designate a 
+        senior official in the Office of the Secretary of Defense as the 
+        principal official of the Department of Defense responsible for 
+        conducting and overseeing performance assessments and root cause 
+        analyses for major defense acquisition programs.
+            (2) No program execution responsibility.--The Secretary 
+        shall ensure that the senior official designated under paragraph 
+        (1) is not responsible for program execution.
+            (3) Staff and resources.--The Secretary shall assign to the 
+        senior official designated under paragraph (1) appropriate staff 
+        and resources necessary to carry out official's function under 
+        this section.
+
+    (b) Responsibilities.--The senior official designated under 
+subsection (a) shall be responsible for the following:
+            (1) Carrying out performance assessments of major defense 
+        acquisition programs in accordance with the requirements of 
+        subsection (c) periodically or when requested by the Secretary 
+        of Defense, the Under Secretary of Defense for Acquisition, 
+        Technology and Logistics, the Secretary of a military 
+        department, or the head of a Defense Agency.
+            (2) Conducting root cause analyses for major defense 
+        acquisition programs in accordance with the requirements of 
+        subsection (d) when required by section 2433a(a)(1) of title 10, 
+        United States Code (as added by section 206(a) of this Act), or 
+        when requested by the Secretary of Defense, the Under Secretary 
+        of Defense for Acquisition, Technology and Logistics, the 
+        Secretary of a military department, or the head of a Defense 
+        Agency.
+            (3) Issuing policies, procedures, and guidance governing the 
+        conduct of performance assessments and root cause analyses by 
+        the military departments and the Defense Agencies.
+
+[[Page 123 STAT. 1716]]
+
+            (4) Evaluating the utility of performance metrics used to 
+        measure the cost, schedule, and performance of major defense 
+        acquisition programs, and making such recommendations to the 
+        Secretary of Defense as the official considers appropriate to 
+        improve such metrics.
+            (5) Advising acquisition officials on performance issues 
+        regarding a major defense acquisition program that may arise--
+                    (A) prior to certification under section 2433a of 
+                title 10, United States Code (as so added);
+                    (B) prior to entry into full-rate production; or
+                    (C) in the course of consideration of any decision 
+                to request authorization of a multiyear procurement 
+                contract for the program.
+
+    (c) Performance Assessments.--For purposes of this section, a 
+performance assessment with respect to a major defense acquisition 
+program is an evaluation of the following:
+            (1) The cost, schedule, and performance of the program, 
+        relative to current metrics, including performance requirements 
+        and baseline descriptions.
+            (2) The extent to which the level of program cost, schedule, 
+        and performance predicted relative to such metrics is likely to 
+        result in the timely delivery of a level of capability to the 
+        warfighter that is consistent with the level of resources to be 
+        expended and provides superior value to alternative approaches 
+        that may be available to meet the same military requirement.
+
+    (d) Root Cause Analyses.--For purposes of this section and section 
+2433a of title 10, United States Code (as so added), a root cause 
+analysis with respect to a major defense acquisition program is an 
+assessment of the underlying cause or causes of shortcomings in cost, 
+schedule, or performance of the program, including the role, if any, 
+of--
+            (1) unrealistic performance expectations;
+            (2) unrealistic baseline estimates for cost or schedule;
+            (3) immature technologies or excessive manufacturing or 
+        integration risk;
+            (4) unanticipated design, engineering, manufacturing, or 
+        technology integration issues arising during program 
+        performance;
+            (5) changes in procurement quantities;
+            (6) inadequate program funding or funding instability;
+            (7) poor performance by government or contractor personnel 
+        responsible for program management; or
+            (8) any other matters.
+
+    (e) Support of Applicable Capabilities and Expertise.--The Secretary 
+of Defense shall ensure that the senior official designated under 
+subsection (a) has the support of other Department of Defense officials 
+with relevant capabilities and expertise needed to carry out the 
+requirements of this section.
+    (f) Annual Report.--Not <<NOTE: Effective date.>> later than March 1 
+each year, beginning in 2010, the official responsible for conducting 
+and overseeing performance assessments and root cause analyses for major 
+defense acquisition programs shall submit to the congressional defense 
+committees a report on the activities undertaken under this section 
+during the preceding year.
+
+[[Page 123 STAT. 1717]]
+
+SEC. 104. ASSESSMENT OF TECHNOLOGICAL MATURITY OF CRITICAL 
+                        TECHNOLOGIES OF MAJOR DEFENSE ACQUISITION 
+                        PROGRAMS BY THE DIRECTOR OF DEFENSE 
+                        RESEARCH AND ENGINEERING.
+
+    (a) Assessment by Director of Defense Research and Engineering.--
+            (1) In general.--Section 139a of title 10, United States 
+        Code, is amended by adding at the end the following new 
+        subsection:
+
+    ``(c)(1) <<NOTE: Review. Reports.>> The Director of Defense Research 
+and Engineering, in consultation with the Director of Developmental Test 
+and Evaluation, shall periodically review and assess the technological 
+maturity and integration risk of critical technologies of the major 
+defense acquisition programs of the Department of Defense and report on 
+the findings of such reviews and assessments to the Under Secretary of 
+Defense for Acquisition, Technology, and Logistics.
+
+    ``(2) <<NOTE: Deadline. Reports.>> The Director shall submit to the 
+Secretary of Defense and to the congressional defense committees by 
+March 1 of each year a report on the technological maturity and 
+integration risk of critical technologies of the major defense 
+acquisition programs of the Department of Defense.''.
+            (2) First <<NOTE: 10 USC 139a note.>> annual report.--The 
+        first annual report under subsection (c)(2) of section 139a of 
+        title 10, United States Code (as added by paragraph (1)), shall 
+        be submitted to the congressional defense committees not later 
+        than March 1, 2010, and shall address the results of reviews and 
+        assessments conducted by the Director of Defense Research and 
+        Engineering pursuant to subsection (c)(1) of such section (as so 
+        added) during the preceding calendar year.
+
+    (b) Report on Resources for Implementation.--Not later than 120 days 
+after the date of the enactment of this Act, the Director of Defense 
+Research and Engineering shall submit to the congressional defense 
+committees a report describing any additional resources that may be 
+required by the Director, and by other research and engineering elements 
+of the Department of Defense, to carry out the following:
+            (1) The requirements under the amendment made by subsection 
+        (a)(1).
+            (2) The technological maturity assessments required by 
+        section 2366b(a) of title 10, United States Code.
+            (3) The requirements of Department of Defense Instruction 
+        5000, as revised.
+
+    (c) Technological <<NOTE: Deadline. 10 USC 139a note.>> Maturity 
+Standards.--Not later than 180 days after the date of the enactment of 
+this Act, the Director of Defense Research and Engineering, in 
+consultation with the Director of Developmental Test and Evaluation, 
+shall develop knowledge-based standards against which to measure the 
+technological maturity and integration risk of critical technologies at 
+key stages in the acquisition process for purposes of conducting the 
+reviews and assessments of major defense acquisition programs required 
+by subsection (c) of section 139a of title 10, United States Code (as so 
+added).
+SEC. 105. ROLE OF THE COMMANDERS OF THE COMBATANT COMMANDS IN 
+                        IDENTIFYING JOINT MILITARY REQUIREMENTS.
+
+    (a) In General.--Section 181(d) of title 10, United States Code, as 
+amended by section 101(d) of this Act, is further amended--
+
+[[Page 123 STAT. 1718]]
+
+            (1) by inserting ``(1)'' before ``The Under Secretary''; and
+            (2) by adding at the end the following new paragraph:
+
+    ``(2) The Council shall seek and consider input from the commanders 
+of the combatant commands in carrying out its mission under paragraphs 
+(1) and (2) of subsection (b) and in conducting periodic reviews in 
+accordance with the requirements of subsection (e).''.
+    (b) Input <<NOTE: 10 USC 181 note.>> From Commanders of Combatant 
+Commands.--The Joint Requirements Oversight Council in the Department of 
+Defense shall seek and consider input from the commanders of combatant 
+commands, in accordance with section 181(d) of title 10, United States 
+Code (as amended by subsection (a)). Such input may include, but is not 
+limited to, an assessment of the following:
+            (1) Any current or projected missions or threats in the 
+        theater of operations of the commander of a combatant command 
+        that would inform the assessment of a new joint military 
+        requirement.
+            (2) The necessity and sufficiency of a proposed joint 
+        military requirement in terms of current and projected missions 
+        or threats.
+            (3) The relative priority of a proposed joint military 
+        requirement in comparison with other joint military requirements 
+        within the theater of operations of the commander of a combatant 
+        command.
+            (4) The ability of partner nations in the theater of 
+        operations of the commander of a combatant command to assist in 
+        meeting the joint military requirement or the benefit, if any, 
+        of a partner nation assisting in development or use of 
+        technologies developed to meet the joint military requirement.
+
+    (c) Comptroller General of the United States Review of 
+Implementation.--
+            (1) Requirement.--Not <<NOTE: Deadline. Reports.>> later 
+        than two years after the date of the enactment of this Act, the 
+        Comptroller General of the United States shall submit to the 
+        Committees on Armed Services of the Senate and the House of 
+        Representatives a report on the implementation of the 
+        requirements of--
+                    (A) subsection (d)(2) of section 181 of title 10, 
+                United States Code (as amended by subsection (a)), for 
+                the Joint Requirements Oversight Council to solicit and 
+                consider input from the commanders of the combatant 
+                commands;
+                    (B) the amendments to subsection (b) of section 181 
+                of title 10, United States Code, made by section 942 of 
+                the National Defense Authorization Act for Fiscal Year 
+                2008 (Public Law 110-181; 122 Stat. 287) and by section 
+                201(b) of this Act; and
+                    (C) the requirements of section 201(c) of this Act.
+            (2) Matters covered.--The report shall include, at a 
+        minimum, an assessment of--
+                    (A) the extent to which the Council has effectively 
+                sought, and the commanders of the combatant commands 
+                have provided, meaningful input on proposed joint 
+                military requirements;
+                    (B) the quality and effectiveness of efforts to 
+                estimate the level of resources needed to fulfill joint 
+                military requirements; and
+
+[[Page 123 STAT. 1719]]
+
+                    (C) the extent to which the Council has considered 
+                trade-offs among cost, schedule, and performance 
+                objectives.
+
+                      TITLE II--ACQUISITION POLICY
+
+SEC. 201. CONSIDERATION OF TRADE-OFFS AMONG COST, SCHEDULE, AND 
+                        PERFORMANCE OBJECTIVES IN DEPARTMENT OF 
+                        DEFENSE ACQUISITION PROGRAMS.
+
+    (a) Consideration <<NOTE: 10 USC 2302 note.>> of Trade-Offs.--
+            (1) In general.--The Secretary of Defense shall ensure that 
+        mechanisms are developed and implemented to require 
+        consideration of trade-offs among cost, schedule, and 
+        performance objectives as part of the process for developing 
+        requirements for Department of Defense acquisition programs.
+            (2) Elements.--The mechanisms required under this subsection 
+        shall ensure, at a minimum, that--
+                    (A) Department of Defense officials responsible for 
+                acquisition, budget, and cost estimating functions are 
+                provided an appropriate opportunity to develop estimates 
+                and raise cost and schedule matters before performance 
+                objectives are established for capabilities for which 
+                the Chairman of the Joint Requirements Oversight Council 
+                is the validation authority; and
+                    (B) the process for developing requirements is 
+                structured to enable incremental, evolutionary, or 
+                spiral acquisition approaches, including the deferral of 
+                technologies that are not yet mature and capabilities 
+                that are likely to significantly increase costs or delay 
+                production until later increments or spirals.
+
+    (b) Duties of Joint Requirements Oversight Council.--Section 181(b) 
+of title 10, United States Code, is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``and'' at the end of subparagraph 
+                (A);
+                    (B) by inserting ``and'' at the end of subparagraph 
+                (B) after the semicolon; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(C) in ensuring the consideration of trade-offs 
+                among cost, schedule, and performance objectives for 
+                joint military requirements in consultation with the 
+                advisors specified in subsection (d);''.
+            (2) in paragraph (3)--
+                    (A) by inserting ``, in consultation with the Under 
+                Secretary of Defense (Comptroller), the Under Secretary 
+                of Defense for Acquisition, Technology, and Logistics, 
+                and the Director of Cost Assessment and Performance 
+                Evaluation,'' after ``assist the Chairman''; and
+                    (B) by striking ``and'' after the semicolon at the 
+                end;
+            (3) in paragraph (4), by striking the period at the end and 
+        inserting ``; and''; and
+            (4) by adding at the end the following new paragraph:
+            ``(5) assist the Chairman, in consultation with the 
+        commanders of the combatant commands and the Under Secretary of 
+        Defense for Acquisition, Technology, and Logistics, in 
+        establishing an objective for the overall period of time within 
+        which
+
+[[Page 123 STAT. 1720]]
+
+        an initial operational capability should be delivered to meet 
+        each joint military requirement.''.
+
+    (c) Review <<NOTE: 10 USC 181 note.>> of Joint Military 
+Requirements.--The Secretary of Defense shall ensure that each new joint 
+military requirement recommended by the Joint Requirements Oversight 
+Council is reviewed to ensure that the Joint Requirements Oversight 
+Council has, in making such recommendation--
+            (1) taken appropriate action to seek and consider input from 
+        the commanders of the combatant commands, in accordance with the 
+        requirements of section 181(d) of title 10, United States Code 
+        (as amended by section 105(a) of this Act);
+            (2) engaged in consideration of trade-offs among cost, 
+        schedule, and performance objectives in accordance with the 
+        requirements of section 181(b)(1)(C) of title 10, United States 
+        Code (as added by subsection (b)); and
+            (3) engaged in consideration of issues of joint portfolio 
+        management, including alternative material and non-material 
+        solutions, as provided in Department of Defense instructions for 
+        the development of joint military requirements.
+
+    (d) Study <<NOTE: 10 USC 181 note.>> Guidance for Analyses of 
+Alternatives.--The Director of Cost Assessment and Program Evaluation 
+shall take the lead in the development of study guidance for an analysis 
+of alternatives for each joint military requirement for which the 
+Chairman of the Joint Requirements Oversight Council is the validation 
+authority. In developing the guidance, the Director shall solicit the 
+advice of appropriate officials within the Department of Defense and 
+ensure that the guidance requires, at a minimum--
+            (1) full consideration of possible trade-offs among cost, 
+        schedule, and performance objectives for each alternative 
+        considered; and
+            (2) an assessment of whether or not the joint military 
+        requirement can be met in a manner that is consistent with the 
+        cost and schedule objectives recommended by the Joint 
+        Requirements Oversight Council.
+
+    (e) Analysis of Alternatives in Certification for Milestone A.--
+Section 2366a(a) of title 10, United States Code, as amended by section 
+101(d)(3) of this Act, is further amended--
+            (1) by striking ``and'' at the end of paragraph (3);
+            (2) by redesignating paragraph (4) as paragraph (5); and
+            (3) by inserting after paragraph (3) the following new 
+        paragraph (4):
+            ``(4) that an analysis of alternatives has been performed 
+        consistent with study guidance developed by the Director of Cost 
+        Assessment and Program Evaluation; and''.
+
+    (f) Duties of Milestone Decision Authority.--Section 2366b(a)(1)(B) 
+of such title is amended by inserting ``appropriate trade-offs among 
+cost, schedule, and performance objectives have been made to ensure 
+that'' before ``the program is affordable''.
+SEC. 202. <<NOTE: 10 USC 2430 note.>> ACQUISITION STRATEGIES TO 
+                        ENSURE COMPETITION THROUGHOUT THE 
+                        LIFECYCLE OF MAJOR DEFENSE ACQUISITION 
+                        PROGRAMS.
+
+    (a) Acquisition Strategies To Ensure Competition.--The Secretary of 
+Defense shall ensure that the acquisition strategy for each major 
+defense acquisition program includes--
+            (1) measures to ensure competition, or the option of 
+        competition, at both the prime contract level and the 
+        subcontract
+
+[[Page 123 STAT. 1721]]
+
+        level (at such tier or tiers as are appropriate) of such program 
+        throughout the life-cycle of such program as a means to improve 
+        contractor performance; and
+            (2) adequate documentation of the rationale for the 
+        selection of the subcontract tier or tiers under paragraph (1).
+
+    (b) Measures To Ensure Competition.--The measures to ensure 
+competition, or the option of competition, for purposes of subsection 
+(a)(1) may include measures to achieve the following, in appropriate 
+cases if such measures are cost-effective:
+            (1) Competitive prototyping.
+            (2) Dual-sourcing.
+            (3) Unbundling of contracts.
+            (4) Funding of next-generation prototype systems or 
+        subsystems.
+            (5) Use of modular, open architectures to enable competition 
+        for upgrades.
+            (6) Use of build-to-print approaches to enable production 
+        through multiple sources.
+            (7) Acquisition of complete technical data packages.
+            (8) Periodic competitions for subsystem upgrades.
+            (9) Licensing of additional suppliers.
+            (10) Periodic system or program reviews to address long-term 
+        competitive effects of program decisions.
+
+    (c) Additional Measures To Ensure Competition at Subcontract 
+Level.--The Secretary shall take actions to ensure fair and objective 
+``make-buy'' decisions by prime contractors on major defense acquisition 
+programs by--
+            (1) requiring prime contractors to give full and fair 
+        consideration to qualified sources other than the prime 
+        contractor for the development or construction of major 
+        subsystems and components of major weapon systems;
+            (2) providing for government surveillance of the process by 
+        which prime contractors consider such sources and determine 
+        whether to conduct such development or construction in-house or 
+        through a subcontract; and
+            (3) providing for the assessment of the extent to which a 
+        contractor has given full and fair consideration to qualified 
+        sources other than the contractor in sourcing decisions as a 
+        part of past performance evaluations.
+
+    (d) Consideration of Competition Throughout Operation and 
+Sustainment of Major Weapon Systems.--Whenever a decision regarding 
+source of repair results in a plan to award a contract for performance 
+of maintenance and sustainment of a major weapon system, the Secretary 
+shall take actions to ensure that, to the maximum extent practicable and 
+consistent with statutory requirements, contracts for such maintenance 
+and sustainment are awarded on a competitive basis and give full 
+consideration to all sources (including sources that partner or 
+subcontract with public or private sector repair activities).
+    (e) Applicability.--
+            (1) Strategy and measures to ensure competition.--The 
+        requirements of subsections (a) and (b) shall apply to any 
+        acquisition plan for a major defense acquisition program that is 
+        developed or revised on or after the date that is 60 days after 
+        the date of the enactment of this Act.
+
+[[Page 123 STAT. 1722]]
+
+            (2) Additional <<NOTE: Deadline.>> actions.--The actions 
+        required by subsections (c) and (d) shall be taken within 180 
+        days after the date of the enactment of this Act.
+SEC. 203. <<NOTE: Deadlines. 10 USC 2430 note.>> PROTOTYPING 
+                        REQUIREMENTS FOR MAJOR DEFENSE ACQUISITION 
+                        PROGRAMS.
+
+    (a) Competitive Prototyping.--Not later than 90 days after the date 
+of the enactment of this Act, the Secretary of Defense shall modify the 
+guidance of the Department of Defense relating to the operation of the 
+acquisition system with respect to competitive prototyping for major 
+defense acquisition programs to ensure the following:
+            (1) That the acquisition strategy for each major defense 
+        acquisition program provides for competitive prototypes before 
+        Milestone B approval (or Key Decision Point B approval in the 
+        case of a space program) unless the Milestone Decision Authority 
+        for such program waives the requirement pursuant to paragraph 
+        (2).
+            (2) <<NOTE: Waiver authority.>> That the Milestone Decision 
+        Authority may waive the requirement in paragraph (1) only--
+                    (A) on the basis that the cost of producing 
+                competitive prototypes exceeds the expected life-cycle 
+                benefits (in constant dollars) of producing such 
+                prototypes, including the benefits of improved 
+                performance and increased technological and design 
+                maturity that may be achieved through competitive 
+                prototyping; or
+                    (B) on the basis that, but for such waiver, the 
+                Department would be unable to meet critical national 
+                security objectives.
+            (3) That whenever a Milestone Decision Authority authorizes 
+        a waiver pursuant to paragraph (2), the Milestone Decision 
+        Authority--
+                    (A) shall require that the program produce a 
+                prototype before Milestone B approval (or Key Decision 
+                Point B approval in the case of a space program) if the 
+                expected life-cycle benefits (in constant dollars) of 
+                producing such prototype exceed its cost and its 
+                production is consistent with achieving critical 
+                national security objectives; and
+                    (B) <<NOTE: Notification.>> shall notify the 
+                congressional defense committees in writing not later 
+                than 30 days after the waiver is authorized and include 
+                in such notification the rationale for the waiver and 
+                the plan, if any, for producing a prototype.
+            (4) That prototypes may be required under paragraph (1) or 
+        (3) for the system to be acquired or, if prototyping of the 
+        system is not feasible, for critical subsystems of the system.
+
+    (b) Comptroller General Review of Certain Waivers.--
+            (1) Notice to comptroller general.--Whenever a Milestone 
+        Decision Authority authorizes a waiver of the requirement for 
+        prototypes pursuant to paragraph (2) of subsection (a) on the 
+        basis of excessive cost, the Milestone Decision Authority shall 
+        submit the notification of the waiver, together with the 
+        rationale, to the Comptroller General of the United States at 
+        the same time it is submitted to the congressional defense 
+        committees.
+            (2) Comptroller general review.--Not later than 60 days 
+        after receipt of a notification of a waiver under paragraph (1), 
+        the Comptroller General shall--
+
+[[Page 123 STAT. 1723]]
+
+                    (A) review the rationale for the waiver; and
+                    (B) submit to the congressional defense committees a 
+                written assessment of the rationale for the waiver.
+SEC. 204. ACTIONS TO IDENTIFY AND ADDRESS SYSTEMIC PROBLEMS IN 
+                        MAJOR DEFENSE ACQUISITION PROGRAMS PRIOR 
+                        TO MILESTONE B APPROVAL.
+
+    (a) Modification to Certification Requirement.--Subsection (a) of 
+section 2366a of title 10, United States Code, is amended by striking 
+``may not receive Milestone A approval, or Key Decision Point A approval 
+in the case of a space program,'' and inserting ``may not receive 
+Milestone A approval, or Key Decision Point A approval in the case of a 
+space program, or otherwise be initiated prior to Milestone B approval, 
+or Key Decision Point B approval in the case of a space program,''.
+    (b) Modification to Notification Requirement.--Subsection (b) of 
+such section is amended--
+            (1) by inserting ``(1)'' before ``With respect to'';
+            (2) in paragraph (1), as so designated, by striking ``by at 
+        least 25 percent,'' and inserting ``by at least 25 percent, or 
+        the program manager determines that the period of time required 
+        for the delivery of an initial operational capability is likely 
+        to exceed the schedule objective established pursuant to section 
+        181(b)(5) of this title by more than 25 percent,''; and
+            (3) by adding at the end the following new paragraph:
+
+    ``(2) Not <<NOTE: Deadline. Reports.>> later than 30 days after a 
+program manager submits a notification to the Milestone Decision 
+Authority pursuant to paragraph (1) with respect to a major defense 
+acquisition program, the Milestone Decision Authority shall submit to 
+the congressional defense committees a report that--
+            ``(A) identifies the root causes of the cost or schedule 
+        growth in accordance with applicable policies, procedures, and 
+        guidance;
+            ``(B) identifies appropriate acquisition performance 
+        measures for the remainder of the development of the program; 
+        and
+            ``(C) includes one of the following:
+                    ``(i) <<NOTE: Certification.>> A written 
+                certification (with a supporting explanation) stating 
+                that--
+                          ``(I) the program is essential to national 
+                      security;
+                          ``(II) there are no alternatives to the 
+                      program that will provide acceptable military 
+                      capability at less cost;
+                          ``(III) new estimates of the development cost 
+                      or schedule, as appropriate, are reasonable; and
+                          ``(IV) the management structure for the 
+                      program is adequate to manage and control program 
+                      development cost and schedule.
+                    ``(ii) <<NOTE: Plan.>> A plan for terminating the 
+                development of the program or withdrawal of Milestone A 
+                approval, or Key Decision Point A approval in the case 
+                of a space program, if the Milestone Decision Authority 
+                determines that such action is in the interest of 
+                national defense.''.
+
+    (c) Application <<NOTE: 10 USC 2366a note.>> to Ongoing Programs.--
+            (1) In <<NOTE: Certification. Deadline.>> general.--Each 
+        major defense acquisition program described in paragraph (2) 
+        shall be certified in accordance with the requirements of 
+        section 2366a of title 10, United States
+
+[[Page 123 STAT. 1724]]
+
+        Code (as amended by this section), within one year after the 
+        date of the enactment of this Act.
+            (2) Covered programs.--The requirement in paragraph (1) 
+        shall apply to any major defense acquisition program that--
+                    (A) was initiated before the date of the enactment 
+                of this Act; and
+                    (B) as of the date of certification under paragraph 
+                (1) has not otherwise been certified pursuant to either 
+                section 2366a (as so amended) or 2366b of title 10, 
+                United States Code.
+SEC. 205. ADDITIONAL REQUIREMENTS FOR CERTAIN MAJOR DEFENSE 
+                        ACQUISITION PROGRAMS.
+
+    (a) Additional Requirements Relating to Milestone B Approval.--
+Section 2366b of title 10, United States Code, is amended--
+            (1) in subsection (d)--
+                    (A) by inserting ``(1)'' before ``The milestone 
+                decision authority may''; and
+                    (B) by striking the second sentence and inserting 
+                the following:
+
+    ``(2) <<NOTE: Determination. Waiver authority. Deadline.>> Whenever 
+the milestone decision authority makes such a determination and 
+authorizes such a waiver--
+            ``(A) the waiver, the determination, and the reasons for the 
+        determination shall be submitted in writing to the congressional 
+        defense committees within 30 days after the waiver is 
+        authorized; and
+            ``(B) the milestone decision authority shall review the 
+        program not less often than annually to determine the extent to 
+        which such program currently satisfies the certification 
+        components specified in paragraphs (1) and (2) of subsection (a) 
+        until such time as the milestone decision authority determines 
+        that the program satisfies all such certification components.'';
+            (2) by redesignating subsections (e) and (f) as subsections 
+        (f) and (g), respectively, and inserting after subsection (d) 
+        the following new subsection (e):
+
+    ``(e) Designation of Certification Status in Budget Documentation.--
+Any budget request, budget justification material, budget display, 
+reprogramming request, Selected Acquisition Report, or other budget 
+documentation or performance report submitted by the Secretary of 
+Defense to the President regarding a major defense acquisition program 
+receiving a waiver pursuant to subsection (d) shall prominently and 
+clearly indicate that such program has not fully satisfied the 
+certification requirements of this section until such time as the 
+milestone decision authority makes the determination that such program 
+has satisfied all such certification components.''; and
+            (3) in subsection (a)--
+                    (A) in paragraph (1), by striking ``and'' at the 
+                end;
+                    (B) by redesignating paragraph (2) as paragraph (3);
+                    (C) by inserting after paragraph (1) the following 
+                new paragraph (2):
+
+[[Page 123 STAT. 1725]]
+
+            ``(2) has received a preliminary design review and conducted 
+        a formal post-preliminary design review assessment, and 
+        certifies on the basis of such assessment that the program 
+        demonstrates a high likelihood of accomplishing its intended 
+        mission; and''; and
+                    (D) in paragraph (3), as redesignated by 
+                subparagraph (B) of this paragraph--
+                          (i) in subparagraph (D), by striking the 
+                      semicolon and inserting ``, as determined by the 
+                      Milestone Decision Authority on the basis of an 
+                      independent review and assessment by the Director 
+                      of Defense Research and Engineering; and'';
+                          (ii) by striking subparagraph (E); and
+                          (iii) by redesignating subparagraph (F) as 
+                      subparagraph (E).
+
+    (b) Certification <<NOTE: 10 USC 2366b note.>> and Review of 
+Programs Entering Development Prior to Enactment of Section 2366b of 
+Title 10.--
+            (1) Determination.--Not <<NOTE: Deadline.>> later than 270 
+        days after the date of the enactment of this Act, for each major 
+        defense acquisition program that received Milestone B approval 
+        before January 6, 2006, and has not received Milestone C 
+        approval, and for each space program that received Key Decision 
+        Point B approval before January 6, 2006, and has not received 
+        Key Decision Point C approval, the Milestone Decision Authority 
+        shall determine whether or not such program satisfies all of the 
+        certification components specified in paragraphs (1) and (2) of 
+        subsection (a) of section 2366b of title 10, United States Code 
+        (as amended by subsection (a) of this section).
+            (2) Annual review.--The Milestone Decision Authority shall 
+        review any program determined pursuant to paragraph (1) not to 
+        satisfy any of the certification components of subsection (a) of 
+        section 2366b of title 10, United States Code (as so amended), 
+        not less often than annually thereafter to determine the extent 
+        to which such program currently satisfies such certification 
+        components until such time as the Milestone Decision Authority 
+        determines that such program satisfies all such certification 
+        components.
+            (3) Designation of certification status in budget 
+        documentation.--Any budget request, budget justification 
+        material, budget display, reprogramming request, Selected 
+        Acquisition Report, or other budget documentation or performance 
+        report submitted by the Secretary of Defense to the President 
+        regarding a major defense acquisition program which the 
+        Milestone Decision Authority determines under paragraph (1) does 
+        not satisfy all of the certification components of subsection 
+        (a) of section 2366b of title 10, United States Code, (as so 
+        amended) shall prominently and clearly indicate that such 
+        program has not fully satisfied such certification components 
+        until such time as the Milestone Decision Authority makes the 
+        determination that such program has satisfied all such 
+        certification components.
+
+    (c) Reviews <<NOTE: 10 USC 2433a note.>> of Programs Restructured 
+After Experiencing Critical Cost Growth.--
+The <<NOTE: Assessment.>> official designated to perform oversight of 
+performance assessment pursuant to section 103 of this Act, shall assess 
+the performance of each major defense acquisition
+
+[[Page 123 STAT. 1726]]
+
+program that has exceeded critical cost growth thresholds established 
+pursuant to section 2433(e) of title 10, United States Code, but has not 
+been terminated in accordance with section 2433a of such title (as added 
+by section 206(a) of this Act) not less often than semi-annually until 
+one year after the date on which such program receives a new milestone 
+approval, in accordance with section 2433a(c)(3) of such title (as so 
+added). The results of reviews performed under this subsection shall be 
+reported to the Under Secretary of Defense for Acquisition, Technology, 
+and Logistics and summarized in the next annual report of such 
+designated official.
+SEC. 206. CRITICAL COST GROWTH IN MAJOR DEFENSE ACQUISITION 
+                        PROGRAMS.
+
+    (a) Actions Following Critical Cost Growth.--
+            (1) In general.--Chapter 144 of title 10, United States 
+        Code, is amended by inserting after section 2433 the following 
+        new section:
+``Sec. 2433a. Critical cost growth in major defense acquisition 
+                    programs
+
+    ``(a) Reassessment <<NOTE: Consultations.>> of Program.--If the 
+program acquisition unit cost or procurement unit cost of a major 
+defense acquisition program or designated subprogram (as determined by 
+the Secretary under section 2433(d) of this title) increases by a 
+percentage equal to or greater than the critical cost growth threshold 
+for the program or subprogram, the Secretary of Defense, after 
+consultation with the Joint Requirements Oversight Council regarding 
+program requirements, shall--
+            ``(1) <<NOTE: Determination.>> determine the root cause or 
+        causes of the critical cost growth in accordance with applicable 
+        statutory requirements and Department of Defense policies, 
+        procedures, and guidance; and
+            ``(2) in consultation with the Director of Cost Assessment 
+        and Program Evaluation, carry out an assessment of--
+                    ``(A) the projected cost of completing the program 
+                if current requirements are not modified;
+                    ``(B) the projected cost of completing the program 
+                based on reasonable modification of such requirements;
+                    ``(C) the rough order of magnitude of the costs of 
+                any reasonable alternative system or capability; and
+                    ``(D) the need to reduce funding for other programs 
+                due to the growth in cost of the program.
+
+    ``(b) Presumption <<NOTE: Deadline. Certification.>> of 
+Termination.--(1) After conducting the reassessment required by 
+subsection (a) with respect to a major defense acquisition program, the 
+Secretary shall terminate the program unless the Secretary submits to 
+Congress, before the end of the 60-day period beginning on the day the 
+Selected Acquisition Report containing the information described in 
+section 2433(g) of this title is required to be submitted under section 
+2432(f) of this title, a written certification in accordance with 
+paragraph (2).
+
+    ``(2) A certification described by this paragraph with respect to a 
+major defense acquisition program is a written certification that--
+            ``(A) the continuation of the program is essential to the 
+        national security;
+
+[[Page 123 STAT. 1727]]
+
+            ``(B) there are no alternatives to the program which will 
+        provide acceptable capability to meet the joint military 
+        requirement (as defined in section 181(g)((1) of this title) at 
+        less cost;
+            ``(C) the new estimates of the program acquisition unit cost 
+        or procurement unit cost have been determined by the Director of 
+        Cost Assessment and Program Evaluation to be reasonable;
+            ``(D) the program is a higher priority than programs whose 
+        funding must be reduced to accommodate the growth in cost of the 
+        program; and
+            ``(E) the management structure for the program is adequate 
+        to manage and control program acquisition unit cost or 
+        procurement unit cost.
+
+    ``(3) <<NOTE: Reports.>> A written certification under paragraph (2) 
+shall be accompanied by a report presenting the root cause analysis and 
+assessment carried out pursuant to subsection (a) and the basis for each 
+determination made in accordance with subparagraphs (A) through (E) of 
+paragraph (2), together with supporting documentation.
+
+    ``(c) Actions if Program Not Terminated.--(1) If the Secretary 
+elects not to terminate a major defense acquisition program pursuant to 
+subsection (b), the Secretary shall--
+            ``(A) restructure the program in a manner that addresses the 
+        root cause or causes of the critical cost growth, as identified 
+        pursuant to subsection (a), and ensures that the program has an 
+        appropriate management structure as set forth in the 
+        certification submitted pursuant to subsection (b)(2)(E);
+            ``(B) rescind the most recent Milestone approval, or Key 
+        Decision Point approval in the case of a space program, for the 
+        program and withdraw any associated certification under section 
+        2366a or 2366b of this title;
+            ``(C) require a new Milestone approval, or Key Decision 
+        Point approval in the case of a space program, for the program 
+        before taking any contract action to enter a new contract, 
+        exercise an option under an existing contract, or otherwise 
+        extend the scope of an existing contract under the program, 
+        except to the extent determined necessary by the Milestone 
+        Decision Authority, on a non-delegable basis, to ensure that the 
+        program can be restructured as intended by the Secretary without 
+        unnecessarily wasting resources;
+            ``(D) include in the report specified in paragraph (2) a 
+        description of all funding changes made as a result of the 
+        growth in cost of the program, including reductions made in 
+        funding for other programs to accommodate such cost growth; and
+            ``(E) conduct regular reviews of the program in accordance 
+        with the requirements of section 205 of the Weapon Systems 
+        Acquisition Reform Act of 2009.
+
+    ``(2) <<NOTE: Reports.>> For purposes of paragraph (1)(D), the 
+report specified in this paragraph is the first Selected Acquisition 
+Report for the program submitted pursuant to section 2432 of this title 
+after the President submits a budget pursuant to section 1105 of title 
+31, in the calendar year following the year in which the program was 
+restructured.
+
+[[Page 123 STAT. 1728]]
+
+    ``(d) Actions <<NOTE: Reports.>> if Program Terminated.--If a major 
+defense acquisition program is terminated pursuant to subsection (b), 
+the Secretary shall submit to Congress a written report setting forth--
+            ``(1) an explanation of the reasons for terminating the 
+        program;
+            ``(2) the alternatives considered to address any problems in 
+        the program; and
+            ``(3) the course the Department plans to pursue to meet any 
+        continuing joint military requirements otherwise intended to be 
+        met by the program.''.
+            (2) Clerical amendment.--The table of sections at the 
+        beginning of chapter 144 of such title is amended by inserting 
+        after the item relating to section 2433 the following new item:
+
+``2433a. Critical cost growth in major defense acquisition programs.''.
+
+            (3) Conforming amendment.--Paragraph (2) of section 2433(e) 
+        of such title 10 is amended to read as follows:
+
+    ``(2) If the program acquisition unit cost or procurement unit cost 
+of a major defense acquisition program or designated major subprogram 
+(as determined by the Secretary under subsection (d)) increases by a 
+percentage equal to or greater than the critical cost growth threshold 
+for the program or subprogram, the Secretary of Defense shall take 
+actions consistent with the requirements of section 2433a of this 
+title.''.
+    (b) Treatment as MDAP.--Section 2430 of such title is amended--
+            (1) in subsection (a)(2), by inserting ``, including all 
+        planned increments or spirals,'' after ``an eventual total 
+        expenditure for procurement''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(c) For purposes of subsection (a)(2), the Secretary shall 
+consider, as applicable, the following:
+            ``(1) The estimated level of resources required to fulfill 
+        the relevant joint military requirement, as determined by the 
+        Joint Requirements Oversight Council pursuant to section 181 of 
+        this title.
+            ``(2) The cost estimate referred to in section 2366a(a)(4) 
+        of this title.
+            ``(3) The cost estimate referred to in section 
+        2366b(a)(1)(C) of this title.
+            ``(4) The cost estimate within a baseline description as 
+        required by section 2435 of this title.''.
+SEC. 207. ORGANIZATIONAL CONFLICTS OF INTEREST IN MAJOR DEFENSE 
+                        ACQUISITION PROGRAMS.
+
+    (a) Revised <<NOTE: Deadline. 10 USC 2430 note.>> Regulations 
+Required.--Not later than 270 days after the date of the enactment of 
+this Act, the Secretary of Defense shall revise the Defense Supplement 
+to the Federal Acquisition Regulation to provide uniform guidance and 
+tighten existing requirements for organizational conflicts of interest 
+by contractors in major defense acquisition programs.
+
+    (b) Elements.--The revised regulations required by subsection (a) 
+shall, at a minimum--
+            (1) address organizational conflicts of interest that could 
+        arise as a result of--
+                    (A) lead system integrator contracts on major 
+                defense acquisition programs and contracts that follow 
+                lead system
+
+[[Page 123 STAT. 1729]]
+
+                integrator contracts on such programs, particularly 
+                contracts for production;
+                    (B) the ownership of business units performing 
+                systems engineering and technical assistance functions, 
+                professional services, or management support services in 
+                relation to major defense acquisition programs by 
+                contractors who simultaneously own business units 
+                competing to perform as either the prime contractor or 
+                the supplier of a major subsystem or component for such 
+                programs;
+                    (C) the award of major subsystem contracts by a 
+                prime contractor for a major defense acquisition program 
+                to business units or other affiliates of the same parent 
+                corporate entity, and particularly the award of 
+                subcontracts for software integration or the development 
+                of a proprietary software system architecture; or
+                    (D) the performance by, or assistance of, 
+                contractors in technical evaluations on major defense 
+                acquisition programs;
+            (2) ensure that the Department of Defense receives advice on 
+        systems architecture and systems engineering matters with 
+        respect to major defense acquisition programs from federally 
+        funded research and development centers or other sources 
+        independent of the prime contractor;
+            (3) require that a contract for the performance of systems 
+        engineering and technical assistance functions for a major 
+        defense acquisition program contains a provision prohibiting the 
+        contractor or any affiliate of the contractor from participating 
+        as a prime contractor or a major subcontractor in the 
+        development or construction of a weapon system under the 
+        program; and
+            (4) establish such limited exceptions to the requirement in 
+        paragraphs (2) and (3) as may be necessary to ensure that the 
+        Department of Defense has continued access to advice on systems 
+        architecture and systems engineering matters from highly-
+        qualified contractors with domain experience and expertise, 
+        while ensuring that such advice comes from sources that are 
+        objective and unbiased.
+
+    (c) Consultation in Revision of Regulations.--
+            (1) Recommendations of panel on contracting integrity.--Not 
+        later <<NOTE: Deadline.>> than 90 days after the date of the 
+        enactment of this Act, the Panel on Contracting Integrity 
+        established pursuant to section 813 of the John Warner National 
+        Defense Authorization Act for Fiscal Year 2007 (Public Law 109-
+        364; 120 Stat. 2320) shall present recommendations to the 
+        Secretary of Defense on measures to eliminate or mitigate 
+        organizational conflicts of interest in major defense 
+        acquisition programs.
+            (2) Consideration of recommendations.--In developing the 
+        revised regulations required by subsection (a), the Secretary 
+        shall consider the following:
+                    (A) The recommendations presented by the Panel on 
+                Contracting Integrity pursuant to paragraph (1).
+                    (B) Any findings and recommendations of the 
+                Administrator for Federal Procurement Policy and the 
+                Director of the Office of Government Ethics pursuant to 
+                section 841(b) of the Duncan Hunter National Defense 
+                Authorization Act for Fiscal Year 2009 (Public Law 110-
+                417; 122 Stat. 4539).
+
+[[Page 123 STAT. 1730]]
+
+    (d) Extension <<NOTE: 10 USC 2304 note.>> of Panel on Contracting 
+Integrity.--Subsection (e) of section 813 of the John Warner National 
+Defense Authorization Act for Fiscal Year 2007 is amended to read as 
+follows:
+
+    ``(e) Termination.--
+            ``(1) In <<NOTE: Notification.>> general.--Subject to 
+        paragraph (2), the panel shall continue to serve until the date 
+        that is 18 months after the date on which the Secretary of 
+        Defense notifies the congressional defense committees of an 
+        intention to terminate the panel based on a determination that 
+        the activities of the panel no longer justify its continuation 
+        and that concerns about contracting integrity have been 
+        mitigated.
+            ``(2) Minimum continuing service.--The panel shall continue 
+        to serve at least until December 31, 2011.''.
+
+              TITLE III--ADDITIONAL ACQUISITION PROVISIONS
+
+SEC. 301. <<NOTE: 10 USC 2302 note.>> AWARDS FOR DEPARTMENT OF 
+                        DEFENSE PERSONNEL FOR EXCELLENCE IN THE 
+                        ACQUISITION OF PRODUCTS AND SERVICES.
+
+    (a) In <<NOTE: Deadline.>> General.--Not later than 180 days after 
+the date of the enactment of this Act, the Secretary of Defense shall 
+commence carrying out a program to recognize excellent performance by 
+individuals and teams of members of the Armed Forces and civilian 
+personnel of the Department of Defense in the acquisition of products 
+and services for the Department of Defense.
+
+    (b) Elements.--The <<NOTE: Procedures.>> program required by 
+subsection (a) shall include the following:
+            (1) Procedures for the nomination by the personnel of the 
+        military departments and the Defense Agencies of individuals and 
+        teams of members of the Armed Forces and civilian personnel of 
+        the Department of Defense for eligibility for recognition under 
+        the program.
+            (2) Procedures for the evaluation of nominations for 
+        recognition under the program by one or more panels of 
+        individuals from the Government, academia, and the private 
+        sector who have such expertise, and are appointed in such 
+        manner, as the Secretary shall establish for purposes of the 
+        program.
+
+    (c) Award of Cash Bonuses.--As part of the program required by 
+subsection (a), the Secretary may award to any individual recognized 
+pursuant to the program a cash bonus authorized by any other provision 
+of law to the extent that the performance of such individual so 
+recognized warrants the award of such bonus under such provision of law.
+SEC. 302. EARNED VALUE MANAGEMENT.
+
+    (a) Modification of Elements in Report on Implementation.--
+Subsection (a) of section 887 of the Duncan Hunter National Defense 
+Authorization Act for Fiscal Year 2009 (Public Law 110-417; 122 Stat. 
+4562) is amended by striking paragraph (7) and inserting the following 
+new paragraphs:
+            ``(7) A discussion of the methodology used to establish 
+        appropriate baselines for earned value management at the award 
+        of a contract or commencement of a program, whichever is 
+        earlier.
+
+[[Page 123 STAT. 1731]]
+
+            ``(8) A discussion of the manner in which the Department 
+        ensures that personnel responsible for administering and 
+        overseeing earned value management systems have the training and 
+        qualifications needed to perform that responsibility.
+            ``(9) A discussion of mechanisms to ensure that contractors 
+        establish and use approved earned value management systems, 
+        including mechanisms such as the consideration of the quality of 
+        contractor earned value management performance in past 
+        performance evaluations.
+            ``(10) Recommendations for improving earned value management 
+        and its implementation within the Department, including--
+                    ``(A) a discussion of the merits of possible 
+                alternatives; and
+                    ``(B) a plan for implementing any improvements the 
+                Secretary determines to be appropriate.''.
+
+    (b) Modification of Report Date.--Subsection (b) of such section is 
+amended by striking ``270 days after the date of the enactment of this 
+Act'' and inserting ``October 14, 2009''.
+SEC. 303. EXPANSION OF NATIONAL SECURITY OBJECTIVES OF THE 
+                        NATIONAL TECHNOLOGY AND INDUSTRIAL BASE.
+
+    (a) In General.--Section 2501(a) of title 10, United States Code, is 
+amended by adding at the end the following new paragraph:
+            ``(6) Maintaining critical design skills to ensure that the 
+        armed forces are provided with systems capable of ensuring 
+        technological superiority over potential adversaries.''.
+
+    (b) Assessment of Effect of Termination of Major Defense Acquisition 
+Programs on Technology and Industrial Capabilities.--Section 2505(b) of 
+such title is amended--
+            (1) in paragraph (2), by striking ``and'' at the end;
+            (2) in paragraph (3), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(4) consider the effects of the termination of major 
+        defense acquisition programs (as the term is defined in section 
+        2430 of this title) in the previous fiscal year on the sectors 
+        and capabilities in the assessment.''.
+SEC. 304. COMPTROLLER GENERAL OF THE UNITED STATES REPORTS ON 
+                        COSTS AND FINANCIAL INFORMATION REGARDING 
+                        MAJOR DEFENSE ACQUISITION PROGRAMS.
+
+    (a) Review of Operating and Support Costs of Major Weapon Systems.--
+            (1) In general.--Not later than one year after the date of 
+        the enactment of this Act, the Comptroller General of the United 
+        States shall submit to the congressional defense committees a 
+        report on growth in operating and support costs for major weapon 
+        systems.
+            (2) Elements.--In preparing the report required by paragraph 
+        (1), the Comptroller General shall, at a minimum--
+                    (A) identify the original estimates for operating 
+                and support costs for major weapon systems selected by 
+                the Comptroller General for purposes of the report;
+                    (B) assess the actual operating and support costs 
+                for such major weapon systems;
+                    (C) analyze the rate of growth for operating and 
+                support costs for such major weapon systems;
+
+[[Page 123 STAT. 1732]]
+
+                    (D) for such major weapon systems that have 
+                experienced the highest rate of growth in operating and 
+                support costs, assess the factors contributing to such 
+                growth;
+                    (E) assess measures taken by the Department of 
+                Defense to reduce operating and support costs for major 
+                weapon systems; and
+                    (F) make such recommendations as the Comptroller 
+                General considers appropriate.
+
+    (b) Review of Financial Information Relating to Major Defense 
+Acquisition Programs.--
+            (1) Review.--The Comptroller General of the United States 
+        shall perform a review of weaknesses in operations affecting the 
+        reliability of financial information on the systems and assets 
+        to be acquired under major defense acquisition programs.
+            (2) Elements.--The review required under paragraph (1) 
+        shall--
+                    (A) identify any weaknesses in operations under 
+                major defense acquisition programs that hinder the 
+                capacity to assemble reliable financial information on 
+                the systems and assets to be acquired under such 
+                programs in accordance with applicable accounting 
+                standards;
+                    (B) identify any mechanisms developed by the 
+                Department of Defense to address weaknesses in 
+                operations under major defense acquisition programs 
+                identified pursuant to subparagraph (A); and
+                    (C) assess the implementation of the mechanisms set 
+                forth pursuant to subparagraph (B), including--
+                          (i) the actions taken, or planned to be taken, 
+                      to implement such mechanisms;
+                          (ii) the schedule for carrying out such 
+                      mechanisms; and
+                          (iii) the metrics, if any, instituted to 
+                      assess progress in carrying out such mechanisms.
+            (3) Consultation.--In performing the review required by 
+        paragraph (1), the Comptroller General shall seek and consider 
+        input from each of the following:
+                    (A) The Chief Management Officer of the Department 
+                of Defense.
+                    (B) The Chief Management Officer of the Department 
+                of the Army.
+                    (C) The Chief Management Officer of the Department 
+                of the Navy.
+                    (D) The Chief Management Officer of the Department 
+                of the Air Force.
+            (4) Report.--Not later than one year after the date of 
+        enactment of this Act, the Comptroller General shall submit
+
+[[Page 123 STAT. 1733]]
+
+        to the congressional defense committees a report on the results 
+        of the review required by paragraph (1).
+
+    Approved May 22, 2009.
+
+LEGISLATIVE HISTORY--S. 454 (H.R. 2101):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: Nos. 111-101 accompanying H.R. 2101 (Comm. on Armed 
+Services) and 111-124 (Comm. of Conference).
+CONGRESSIONAL RECORD, Vol. 155 (2009):
+            May 6, 7, considered and passed Senate.
+            May 13, considered and passed House, amended, in lieu of 
+                H.R. 2101 pursuant to H. Res. 432.
+            May 20, Senate agreed to conference report.
+            May 21, House agreed to conference report.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2009):
+            May 22, Presidential remarks.
+
+                                  
+

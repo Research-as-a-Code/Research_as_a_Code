@@ -1,0 +1,3502 @@
+
+[106th Congress Public Law 117]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ117.106]
+
+
+[[Page 113 STAT. 1545]]
+
+Public Law 106-117
+106th Congress
+
+                                 An Act
+
+
+ 
+    To amend title 38, United States Code, to establish a program of 
+   extended care services for veterans, to make other improvements in 
+ health care programs of the Department of Veterans Affairs, to enhance 
+compensation, memorial <<NOTE: Nov. 30, 1999 -  [H.R. 2116]>>  affairs, 
+ and housing programs of the Department of Veterans Affairs, to improve 
+ retirement authorities applicable to judges of the United States Court 
+         of Appeals for Veterans Claims, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Veterans Millennium Health 
+Care and Benefits Act.>>  assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) <<NOTE: 38 USC 101 note.>>  Short Title.--This Act may be cited 
+as the ``Veterans Millennium Health Care and Benefits Act''.
+
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. References to title 38, United States Code.
+Sec. 3. Secretary and Department defined.
+
+                         TITLE I--ACCESS TO CARE
+
+                       Subtitle A--Long-Term Care
+
+Sec. 101. Requirement to provide extended care services.
+Sec. 102. Pilot programs relating to long-term care.
+Sec. 103. Pilot program relating to assisted living.
+
+                Subtitle B--Other Access to Care Matters
+
+Sec. 111. Reimbursement for emergency treatment in non-Department of 
+           Veterans Affairs facilities.
+Sec. 112. Eligibility for care of combat-injured veterans.
+Sec. 113. Access to care for TRICARE-eligible military retirees.
+Sec. 114. Treatment and services for drug or alcohol dependency.
+Sec. 115. Counseling and treatment for veterans who have experienced 
+           sexual 
+           trauma.
+Sec. 116. Specialized mental health services.
+
+                TITLE II--MEDICAL PROGRAM ADMINISTRATION
+
+Sec. 201. Medical care collections.
+Sec. 202. Health Services Improvement Fund.
+Sec. 203. Allocation to health care facilities of amounts made available 
+           from 
+           Medical Care Collections Fund.
+Sec. 204. Authority to accept funds for education and training.
+Sec. 205. Extension of certain authorities.
+Sec. 206. Reestablishment of Committee on Post-Traumatic Stress 
+           Disorder.
+Sec. 207. State home grant program.
+Sec. 208. Expansion of enhanced-use lease authority.
+Sec. 209. Ineligibility for employment by Veterans Health Administration 
+           of health care professionals who have lost license to 
+           practice in one jurisdiction while still licensed in another 
+           jurisdiction.
+Sec. 210. Report on coordination of procurement of pharmaceuticals and 
+           medical supplies by the Department of Veterans Affairs and 
+           the Department of Defense.
+
+[[Page 113 STAT. 1546]]
+
+Sec. 211. Reimbursement of medical expenses of veterans located in 
+           Alaska.
+
+               TITLE III--MISCELLANEOUS MEDICAL PROVISIONS
+
+Sec. 301. Review of proposed changes to operation of medical facilities.
+Sec. 302. Patient services at Department facilities.
+Sec. 303. Chiropractic treatment.
+Sec. 304. Designation of hospital bed replacement building at Ioannis A. 
+           Lougaris Department of Veterans Affairs Medical Center, Reno, 
+           Nevada.
+
+              TITLE IV--CONSTRUCTION AND FACILITIES MATTERS
+
+Sec. 401. Authorization of major medical facility projects.
+Sec. 402. Authorization of major medical facility leases.
+Sec. 403. Authorization of appropriations.
+
+                TITLE V--BENEFITS AND EMPLOYMENT MATTERS
+
+                    Subtitle A--Compensation and DIC
+
+Sec. 501. Dependency and indemnity compensation for surviving spouses of 
+           former prisoners of war.
+Sec. 502. Reinstatement of certain benefits for remarried surviving 
+           spouses of 
+           veterans upon termination of their remarriage.
+Sec. 503. Presumption that bronchiolo-alveolar carcinoma is service-
+           connected.
+
+                         Subtitle B--Employment
+
+Sec. 511. Clarification of veterans' civil service employment 
+           opportunities.
+
+                   TITLE VI--MEMORIAL AFFAIRS MATTERS
+
+            Subtitle A--American Battle Monuments Commission
+
+Sec. 601. Codification and expansion of authority for World War II 
+           memorial.
+Sec. 602. General authority to solicit and receive contributions.
+Sec. 603. Intellectual property and related items.
+Sec. 604. Technical amendments.
+
+                     Subtitle B--National Cemeteries
+
+Sec. 611. Establishment of additional national cemeteries.
+Sec. 612. Use of flat grave markers at Santa Fe National Cemetery, New 
+           Mexico.
+Sec. 613. Independent study on improvements to veterans' cemeteries.
+
+                       Subtitle C--Burial Benefits
+
+Sec. 621. Independent study on improvements to veterans' burial 
+           benefits.
+
+                TITLE VII--EDUCATION AND HOUSING MATTERS
+
+                      Subtitle A--Education Matters
+
+Sec. 701. Availability of Montgomery GI Bill benefits for preparatory 
+           courses for 
+           college and graduate school entrance exams.
+Sec. 702. Determination of eligibility period for members of the Armed 
+           Forces 
+           commissioned following completion of officer training school.
+Sec. 703. Report on veterans' education and vocational training benefits 
+           provided by the States.
+Sec. 704. Technical amendments.
+
+                       Subtitle B--Housing Matters
+
+Sec. 711. Extension of authority for housing loans for members of the 
+           Selected 
+           Reserve.
+Sec. 712. Technical amendment relating to transitional housing loan 
+           guarantee 
+           program.
+
+    TITLE VIII--DEPARTMENT OF VETERANS AFFAIRS ADMINISTRATIVE MATTERS
+
+Sec. 801. Enhanced quality assurance program within the Veterans 
+           Benefits 
+           Administration.
+Sec. 802. Extension of authority to maintain a regional office in the 
+           Republic of the Philippines.
+Sec. 803. Extension of Advisory Committee on Minority Veterans.
+Sec. 804. Technical amendment to automobile assistance program.
+
+                  TITLE IX--HOMELESS VETERANS PROGRAMS
+
+Sec. 901. Homeless veterans' reintegration programs.
+
+[[Page 113 STAT. 1547]]
+
+Sec. 902. Extension of program of housing assistance for homeless 
+           veterans.
+Sec. 903. Homeless veterans programs.
+Sec. 904. Plan for evaluation of performance of programs to assist 
+           homeless 
+           veterans.
+
+       TITLE X--UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS
+
+Sec. 1001. Short title.
+Sec. 1002. Definition.
+
+     Subtitle A--Transitional Provisions To Stagger Terms of Judges
+
+Sec. 1011. Early retirement authority for current judges.
+Sec. 1012. Modified terms for next two judges appointed to the Court.
+
+          Subtitle B--Other Matters Relating to Retired Judges
+
+Sec. 1021. Recall of retired judges.
+Sec. 1022. Judges' retired pay.
+Sec. 1023. Survivor annuities.
+Sec. 1024. Limitation on activities of retired judges.
+
+  Subtitle C--Rotation of Service of Judges as Chief Judge of the Court
+
+Sec. 1031. Repeal of separate appointment of chief judge.
+Sec. 1032. Designation and term of chief judge of Court.
+Sec. 1033. Salary.
+Sec. 1034. Precedence of judges.
+Sec. 1035. Conforming amendments.
+Sec. 1036. Applicability of amendments.
+
+            TITLE XI--VOLUNTARY SEPARATION INCENTIVE PROGRAM
+
+Sec. 1101. Short title.
+Sec. 1102. Plan for payment of voluntary separation incentive payments.
+Sec. 1103. Voluntary separation incentive payments.
+Sec. 1104. Effect of subsequent employment with the Government.
+Sec. 1105. Additional agency contributions to Civil Service Retirement 
+           and 
+           Disability Fund.
+Sec. 1106. Continued health insurance coverage.
+Sec. 1107. Prohibition of reduction of full-time equivalent employment 
+           level.
+Sec. 1108. Regulations.
+Sec. 1109. Limitation; savings clause.
+Sec. 1110. Eligible employees.
+
+SEC. 2. REFERENCES TO TITLE 38, UNITED STATES CODE.
+
+    Except as otherwise expressly provided, whenever in this Act an 
+amendment or repeal is expressed in terms of an amendment to, or repeal 
+of, a section or other provision, the reference shall be considered to 
+be made to a section or other provision of title 38, United States Code.
+
+SEC. 3. <<NOTE: 38 USC 101 note.>>  SECRETARY AND DEPARTMENT DEFINED.
+
+    For purposes of this Act--
+            (1) the term ``Secretary'' means the Secretary of Veterans 
+        Affairs; and
+            (2) the term ``Department'' means the Department of 
+        Veterans Affairs.
+
+                         TITLE I--ACCESS TO CARE
+
+                       Subtitle A--Long-Term Care
+
+SEC. 101. REQUIREMENT TO PROVIDE EXTENDED CARE SERVICES.
+
+    (a) Required Nursing Home Care.--(1) Chapter 17 is amended by 
+inserting after section 1710 the following new section:
+
+``Sec. 1710A. Required nursing home care
+
+    ``(a) The Secretary shall provide nursing home care which the 
+Secretary determines is needed (1) to any veteran in need of such
+
+[[Page 113 STAT. 1548]]
+
+care for a service-connected disability, and (2) to any veteran who is 
+in need of such care and who has a service-connected disability rated at 
+70 percent or more.
+    ``(b)(1) The Secretary shall ensure that a veteran described in 
+subsection (a) who continues to need nursing home care is not, after 
+placement in a Department nursing home, transferred from the facility 
+without the consent of the veteran, or, in the event the veteran cannot 
+provide informed consent, the representative of the veteran.
+    ``(2) Nothing in subsection (a) may be construed as authorizing or 
+requiring that a veteran who is receiving nursing home care in a 
+Department nursing home on the date of the enactment of this section be 
+displaced, transferred, or discharged from the facility.
+    ``(c) <<NOTE: Termination date.>>  The provisions of subsection (a) 
+shall terminate on December 31, 2003.''.
+
+    (2) The table of sections at the beginning of such chapter is 
+amended by inserting after the item relating to section 1710 the 
+following new item:
+
+``1710A. Required nursing home care.''.
+
+    (b) Required Noninstitutional Extended Care Services.--Section 1701 
+is amended by adding at the end the following new paragraph:
+    ``(10)(A) During the period beginning on the date of the enactment 
+of the Veterans Millennium Health Care and Benefits Act and ending on 
+December 31, 2003, the term `medical services' includes noninstitutional 
+extended care services.
+    ``(B) For the purposes of subparagraph (A), the term 
+`noninstitutional extended care services' means such alternatives to 
+institutional extended care which the Secretary may furnish (i) 
+directly, (ii) by contract, or (iii) (through provision of case 
+management) by another provider or payor.''.
+    (c) Program of Extended Care Services.--(1) Chapter 17 is amended by 
+inserting after section 1710A, as added by subsection (a), the following 
+new section:
+
+``Sec. 1710B. Extended care services
+
+    ``(a) The Secretary (subject to section 1710(a)(4) of this title and 
+subsection (c) of this section) shall operate and maintain a program to 
+provide extended care services to eligible veterans in accordance with 
+this section. Such services shall include the following:
+            ``(1) Geriatric evaluation.
+            ``(2) Nursing home care (A) in facilities operated by the 
+        Secretary, and (B) in community-based facilities through 
+        contracts under section 1720 of this title.
+            ``(3) Domiciliary services under section 1710(b) of this 
+        title.
+            ``(4) Adult day health care under section 1720(f ) of this 
+        title.
+            ``(5) Such other noninstitutional alternatives to nursing 
+        home care as the Secretary may furnish as medical services under 
+        section 1701(10) of this title.
+            ``(6) Respite care under section 1720B of this title.
+
+    ``(b) The Secretary shall ensure that the staffing and level of 
+extended care services provided by the Secretary nationally in 
+facilities of the Department during any fiscal year is not less than
+
+[[Page 113 STAT. 1549]]
+
+the staffing and level of such services provided nationally in 
+facilities of the Department during fiscal year 1998.
+    ``(c)(1) Except as provided in paragraph (2), the Secretary may not 
+furnish extended care services for a non-service-connected disability 
+other than in the case of a veteran who has a compensable service-
+connected disability unless the veteran agrees to pay to the United 
+States a copayment (determined in accordance with subsection (d)) for 
+any period of such services in a year after the first 21 days of such 
+services provided that veteran in that year.
+    ``(2) Paragraph (1) shall not apply--
+            ``(A) to a veteran whose annual income (determined under 
+        section 1503 of this title) is less than the amount in effect 
+        under section 1521(b) of this title; or
+            ``(B) with respect to an episode of extended care services 
+        that a veteran is being furnished by the Department on the date 
+        of the enactment of the Veterans Millennium Health Care and 
+        Benefits Act.
+
+    ``(d)(1) A veteran who is furnished extended care services under 
+this chapter and who is required under subsection (c) to pay an amount 
+to the United States in order to be furnished such services shall be 
+liable to the United States for that amount.
+    ``(2) In implementing subsection (c), the Secretary shall develop a 
+methodology for establishing the amount of the copayment for which a 
+veteran described in subsection (c) is liable. That methodology shall 
+provide for--
+            ``(A) establishing a maximum monthly copayment (based on all 
+        income and assets of the veteran and the spouse of such 
+        veteran);
+            ``(B) protecting the spouse of a veteran from financial 
+        hardship by not counting all of the income and assets of the 
+        veteran and spouse (in the case of a spouse who resides in the 
+        community) as available for determining the copayment 
+        obligation; and
+            ``(C) allowing the veteran to retain a monthly personal 
+        allowance.
+
+    ``(e)(1) There is established in the Treasury of the United States a 
+revolving fund known as the Department of Veterans Affairs Extended Care 
+Fund (hereafter in this section referred to as the `fund'). Amounts in 
+the fund shall be available, without fiscal year limitation and without 
+further appropriation, exclusively for the purpose of providing extended 
+care services under subsection (a).
+    ``(2) All amounts received by the Department under this section 
+shall be deposited in or credited to the fund.''.
+    (2) The table of sections at the beginning of such chapter is 
+amended by inserting after the item relating to section 1710A, as added 
+by subsection (a)(2), the following new item:
+
+``1710B. Extended care services.''.
+
+    (d) Adult Day Health Care.--Section 1720(f )(1)(A) is amended to 
+read as follows:
+    ``(f )(1)(A) The Secretary may furnish adult day health care 
+services to a veteran enrolled under section 1705(a) of this title who 
+would otherwise require nursing home care.''.
+    (e) Respite Care Program.--Section 1720B is amended--
+            (1) in subsection (a), by striking ``eligible'' and 
+        inserting ``enrolled'';
+
+[[Page 113 STAT. 1550]]
+
+            (2) in subsection (b)--
+                    (A) by striking ``the term `respite care' means 
+                hospital or nursing home care'' and inserting ``the term 
+                `respite care services' means care and services'';
+                    (B) by striking ``is'' at the beginning of each of 
+                paragraphs (1), (2), and (3) and inserting ``are''; and
+                    (C) by striking ``in a Department facility'' in 
+                paragraph (2); and
+            (3) by adding at the end the following new subsection:
+
+    ``(c) In furnishing respite care services, the Secretary may enter 
+into contract arrangements.''.
+    (f ) Conforming Amendments.--Section 1710(a) is amended--
+            (1) in paragraph (1), by striking ``, and may furnish 
+        nursing home care,'';
+            (2) in paragraph (2)(A), by inserting ``or, with respect to 
+        nursing home care during any period during which the provisions 
+        of section 1710A(a) of this title are in effect, a compensable 
+        service-connected disability rated less than 70 percent'' after 
+        ``50 percent'';
+            (3) in paragraph (4), by inserting ``, and the requirement 
+        in section 1710B of this title that the Secretary provide a 
+        program of extended care services,'' after ``medical services''; 
+        and
+            (4) by adding at the end the following new paragraph:
+
+    ``(5) During any period during which the provisions of section 
+1710A(a) of this title are not in effect, the Secretary may furnish 
+nursing home care which the Secretary determines is needed to any 
+veteran described in paragraph (1), with the priority for such care on 
+the same basis as if provided under that paragraph.''.
+    (g) State Homes.--Section 1741(a)(2) is amended by striking ``adult 
+day health care in a State home'' and inserting ``extended care services 
+described in any of paragraphs (4) through (6) of section 1710B(a) of 
+this title under a program administered by a State home''.
+    (h) <<NOTE: 38 USC 1710B note.>>  Effective Date.--(1) Except as 
+provided in paragraph (2), the amendments made by this section shall 
+take effect on the date of the enactment of this Act.
+
+    (2) Subsection (c) of section 1710B of title 38, United States Code 
+(as added by subsection (b)), shall take effect on the effective date of 
+regulations prescribed by the Secretary of Veterans Affairs under 
+subsections (c) and (d) of such section. <<NOTE: Federal Register, 
+publication.>>  The Secretary shall publish the effective date of such 
+regulations in the Federal Register.
+
+    (3) The provisions of section 1710(f ) of title 38, United States 
+Code, shall not apply to any day of nursing home care on or after the 
+effective date of regulations under paragraph (2).
+    (i) <<NOTE: Deadline. 38 USC 1710A note.>>  Report.--Not later than 
+January 1, 2003, the Secretary shall submit to the Committees on 
+Veterans' Affairs of the Senate and House of Representatives a report on 
+the operation of this section (including the amendments made by this 
+section). The Secretary shall include in the report--
+            (1) the Secretary's assessment of the experience of the 
+        Department under the provisions of this section;
+            (2) the costs incurred by the Department under the 
+        provisions of this section and a comparison of those costs with 
+        the Secretary's estimate of the costs that would have been
+
+[[Page 113 STAT. 1551]]
+
+        incurred by the Secretary for extended care services if this 
+        section had not been enacted; and
+            (3) the Secretary's recommendations, with respect to the 
+        provisions of section 1710A(a) of title 38, United States Code, 
+        as added by subsection (a), and with respect to the provisions 
+        of section 1701(10) of such title, as added by subsection (b), 
+        as to--
+                    (A) whether those provisions should be extended or 
+                made permanent; and
+                    (B) what modifications, if any, should be made to 
+                those provisions.
+
+SEC. 102. <<NOTE: 38 USC 1710B note.>>  PILOT PROGRAMS RELATING TO LONG-
+            TERM CARE.
+
+    (a) Pilot Programs.--The Secretary shall carry out three pilot 
+programs for the purpose of determining the effectiveness of different 
+models of all-inclusive care-delivery in reducing the use of hospital 
+and nursing home care by frail, elderly veterans.
+    (b) Locations of Pilot Programs.--In selecting locations in which 
+the pilot programs will be carried out, the Secretary may not select 
+more than one location in any given health care region of the Veterans 
+Health Administration.
+    (c) Scope of Services Under Pilot Programs.--Each of the pilot 
+programs under this section shall be designed to provide participating 
+veterans with integrated, comprehensive services which include the 
+following:
+            (1) Adult-day health care services on an eight-hour per day, 
+        five-day per week basis.
+            (2) Medical services (including primary care, preventive 
+        services, and nursing home care, as needed).
+            (3) Coordination of needed services.
+            (4) Transportation services.
+            (5) Home care services.
+            (6) Respite care.
+
+    (d) Program Requirements.--In carrying out the pilot programs under 
+this section, the Secretary shall--
+            (1) employ the use of interdisciplinary care-management 
+        teams to provide the required array of services;
+            (2) determine the appropriate number of patients to be 
+        enrolled in each program and the criteria for enrollment; and
+            (3) ensure that funding for each program is based on the 
+        complex care category under the resource allocation system 
+        (known as the Veterans Equitable Resource Allocation system) 
+        established pursuant to section 429 of Public Law 104-204 (110 
+        Stat. 2929).
+
+    (e) Design of Pilot Programs.--To the maximum extent feasible, the 
+Secretary shall use the following three models in designing the three 
+pilot programs under this section:
+            (1) Under one of the pilot programs, the Secretary shall 
+        provide services directly through facilities and personnel of 
+        the Department.
+            (2) Under one of the pilot programs, the Secretary shall 
+        provide services through a combination of--
+                    (A) services provided under contract with 
+                appropriate public and private entities; and
+                    (B) services provided through facilities and 
+                personnel of the Department.
+
+[[Page 113 STAT. 1552]]
+
+            (3) Under one of the pilot programs, the Secretary shall 
+        arrange for the provision of services through a combination of--
+                    (A) services provided through cooperative 
+                arrangements with appropriate public and private 
+                entities; and
+                    (B) services provided through facilities and 
+                personnel of the Department.
+
+    (f ) In-Kind Assistance.--In providing for the furnishing of 
+services under a contract in carrying out the pilot program described in 
+subsection (e)(2), the Secretary may, subject to reimbursement, provide 
+in-kind assistance (through the services of Department employees and the 
+sharing of other Department resources) to a facility furnishing care to 
+veterans. Such reimbursement may be made by reduction in the charges to 
+the Secretary under such contract.
+    (g) Limitation.--In providing for the furnishing of services in 
+carrying out a pilot program described in subsection (e)(2) or (e)(3), 
+the Secretary shall make payment for services only to the extent that 
+payment for such services is not otherwise covered (notwithstanding any 
+provision of title XVIII or XIX of the Social Security Act) by another 
+government or nongovernment entity or program.
+    (h) Duration of Programs.--The authority of the Secretary to provide 
+services under a pilot program under this section shall cease on the 
+date that is three years after the date of the commencement of that 
+pilot program.
+    (i) <<NOTE: Deadline.>>  Report.--(1) Not later than nine months 
+after the completion of all of the pilot programs under this section, 
+the Secretary shall submit to the Committees on Veterans' Affairs of the 
+Senate and the House of Representatives a report on those programs.
+
+    (2) The report shall include the following:
+            (A) A description of the implementation and operation of 
+        each such program.
+            (B) An analysis comparing use of institutional care and use 
+        of other services among enrollees in each of the pilot programs 
+        with the experience of comparable patients who are not enrolled 
+        in one of the pilot programs.
+            (C) An assessment of the satisfaction of participating 
+        veterans with each of those programs.
+            (D) An assessment of the health status of participating 
+        veterans in each of those programs and of the ability of those 
+        veterans to function independently.
+            (E) An analysis of the costs and benefits under each of 
+        those programs.
+
+SEC. <<NOTE: 38 USC 1710B note.>>  103. PILOT PROGRAM RELATING TO 
+            ASSISTED LIVING.
+
+    (a) Program Authority.--The Secretary may carry out a pilot program 
+for the purpose of determining the feasibility and practicability of 
+enabling eligible veterans to secure needed assisted living services as 
+an alternative to nursing home care.
+    (b) Location of Pilot Program.--The pilot program shall be carried 
+out in a designated health care region of the Department selected by the 
+Secretary for purposes of this section.
+    (c) Scope of Program.--In carrying out the pilot program, the 
+Secretary may enter into contracts with appropriate facilities for the 
+provision for a period of up to six months of assisted
+
+[[Page 113 STAT. 1553]]
+
+living services on behalf of eligible veterans in the region where the 
+program is carried out.
+    (d) Eligible Veterans.--A veteran is an eligible veteran for 
+purposes of this section if the veteran--
+            (1) is eligible for placement assistance by the Secretary 
+        under section 1730(a) of title 38, United States Code;
+            (2) is unable to manage routine activities of daily living 
+        without supervision and assistance; and
+            (3) could reasonably be expected to receive ongoing services 
+        after the end of the contract period under another government 
+        program or through other means.
+
+    (e) <<NOTE: Deadline.>>  Report.--(1) Not later than 90 days before 
+the end of the pilot program under this section, the Secretary shall 
+submit to the Committees on Veterans' Affairs of the Senate and the 
+House of Representatives a report on the program.
+
+    (2) The report under paragraph (1) shall include the following:
+            (A) A description of the implementation and operation of the 
+        program.
+            (B) An analysis comparing use of institutional care among 
+        participants in the program with the experience of comparable 
+        patients who are not enrolled in the program.
+            (C) A comparison of assisted living services provided by the 
+        Department through the pilot program with domiciliary care 
+        provided by the Department.
+            (D) The Secretary's recommendations, if any, regarding an 
+        extension of the program.
+
+    (f ) Duration.--The authority of the Secretary to provide services 
+under the pilot program shall cease on the date that is three years 
+after the date of the commencement of the pilot program.
+    (g) Definition.--For purposes of this section, the term ``assisted 
+living services'' means services in a facility that provides room and 
+board and personal care for and supervision of residents as necessary 
+for the health, safety, and welfare of residents.
+    (h) Standards.--The Secretary may not enter into a contract with a 
+facility under this section unless the facility meets the standards 
+established in regulations prescribed under section 1730 of title 38, 
+United States Code.
+
+                Subtitle B--Other Access to Care Matters
+
+SEC. 111. REIMBURSEMENT FOR EMERGENCY TREATMENT IN NON-DEPARTMENT OF 
+            VETERANS AFFAIRS FACILITIES.
+
+    (a) Authority To Provide Reimbursement.--Chapter 17 is amended by 
+inserting after section 1724 the following new section:
+
+``Sec. 1725. Reimbursement for emergency treatment
+
+    ``(a) General Authority.--(1) Subject to subsections (c) and (d), 
+the Secretary may reimburse a veteran described in subsection (b) for 
+the reasonable value of emergency treatment furnished the veteran in a 
+non-Department facility.
+    ``(2) In any case in which reimbursement is authorized under 
+subsection (a)(1), the Secretary, in the Secretary's discretion, may, in 
+lieu of reimbursing the veteran, make payment of the reasonable value of 
+the furnished emergency treatment directly--
+            ``(A) to a hospital or other health care provider that 
+        furnished the treatment; or
+
+[[Page 113 STAT. 1554]]
+
+            ``(B) to the person or organization that paid for such 
+        treatment on behalf of the veteran.
+
+    ``(b) Eligibility.--(1) A veteran referred to in subsection (a)(1) 
+is an individual who is an active Department health-care participant who 
+is personally liable for emergency treatment furnished the veteran in a 
+non-Department facility.
+    ``(2) A veteran is an active Department health-care participant if--
+            ``(A) the veteran is enrolled in the health care system 
+        established under section 1705(a) of this title; and
+            ``(B) the veteran received care under this chapter within 
+        the 24-month period preceding the furnishing of such emergency 
+        treatment.
+
+    ``(3) A veteran is personally liable for emergency treatment 
+furnished the veteran in a non-Department facility if the veteran--
+            ``(A) is financially liable to the provider of emergency 
+        treatment for that treatment;
+            ``(B) has no entitlement to care or services under a health-
+        plan contract (determined, in the case of a health-plan contract 
+        as defined in subsection (f )(2)(B) or (f )(2)(C), without 
+        regard to any requirement or limitation relating to eligibility 
+        for care or services from any department or agency of the United 
+        States);
+            ``(C) has no other contractual or legal recourse against a 
+        third party that would, in whole or in part, extinguish such 
+        liability to the provider; and
+            ``(D) is not eligible for reimbursement for medical care or 
+        services under section 1728 of this title.
+
+    ``(c) <<NOTE: Regulations.>>  Limitations on Reimbursement.--(1) The 
+Secretary, in accordance with regulations prescribed by the Secretary, 
+shall--
+            ``(A) establish the maximum amount payable under subsection 
+        (a);
+            ``(B) delineate the circumstances under which such payments 
+        may be made, to include such requirements on requesting 
+        reimbursement as the Secretary shall establish; and
+            ``(C) provide that in no event may a payment under that 
+        subsection include any amount for which the veteran is not 
+        personally liable.
+
+    ``(2) Subject to paragraph (1), the Secretary may provide 
+reimbursement under this section only after the veteran or the provider 
+of emergency treatment has exhausted without success all claims and 
+remedies reasonably available to the veteran or provider against a third 
+party for payment of such treatment.
+    ``(3) Payment by the Secretary under this section on behalf of a 
+veteran to a provider of emergency treatment shall, unless rejected and 
+refunded by the provider within 30 days of receipt, extinguish any 
+liability on the part of the veteran for that treatment. Neither the 
+absence of a contract or agreement between the Secretary and the 
+provider nor any provision of a contract, agreement, or assignment to 
+the contrary shall operate to modify, limit, or negate the requirement 
+in the preceding sentence.
+    ``(d) <<NOTE: Regulations.>>  Independent Right of Recovery.--(1) In 
+accordance with regulations prescribed by the Secretary, the United 
+States shall have the independent right to recover any amount paid under 
+this section when, and to the extent that, a third party subsequently 
+makes a payment for the same emergency treatment.
+
+[[Page 113 STAT. 1555]]
+
+    ``(2) Any amount paid by the United States to the veteran (or the 
+veteran's personal representative, successor, dependents, or survivors) 
+or to any other person or organization paying for such treatment shall 
+constitute a lien in favor of the United States against any recovery the 
+payee subsequently receives from a third party for the same treatment.
+    ``(3) Any amount paid by the United States to the provider that 
+furnished the veteran's emergency treatment shall constitute a lien 
+against any subsequent amount the provider receives from a third party 
+for the same emergency treatment for which the United States made 
+payment.
+    ``(4) The veteran (or the veteran's personal representative, 
+successor, dependents, or survivors) shall ensure that the Secretary is 
+promptly notified of any payment received from any third party for 
+emergency treatment furnished to the veteran. The veteran (or the 
+veteran's personal representative, successor, dependents, or survivors) 
+shall immediately forward all documents relating to such payment, 
+cooperate with the Secretary in the investigation of such payment, and 
+assist the Secretary in enforcing the United States right to recover any 
+payment made under subsection (c)(3).
+    ``(e) <<NOTE: Regulations.>>  Waiver.--The Secretary, in the 
+Secretary's discretion, may waive recovery of a payment made to a 
+veteran under this section that is otherwise required by subsection 
+(d)(1) when the Secretary determines that such waiver would be in the 
+best interest of the United States, as defined by regulations prescribed 
+by the Secretary.
+
+    ``(f ) Definitions.--For purposes of this section:
+            ``(1) The term `emergency treatment' means medical care or 
+        services furnished, in the judgment of the Secretary--
+                    ``(A) when Department or other Federal facilities 
+                are not feasibly available and an attempt to use them 
+                beforehand would not be reasonable;
+                    ``(B) when such care or services are rendered in a 
+                medical emergency of such nature that a prudent 
+                layperson reasonably expects that delay in seeking 
+                immediate medical attention would be hazardous to life 
+                or health; and
+                    ``(C) until such time as the veteran can be 
+                transferred safely to a Department facility or other 
+                Federal facility.
+            ``(2) The term `health-plan contract' includes any of the 
+        following:
+                    ``(A) An insurance policy or contract, medical or 
+                hospital service agreement, membership or subscription 
+                contract, or similar arrangement under which health 
+                services for individuals are provided or the expenses of 
+                such services are paid.
+                    ``(B) An insurance program described in section 1811 
+                of the Social Security Act (42 U.S.C. 1395c) or 
+                established by section 1831 of that Act (42 U.S.C. 
+                1395j).
+                    ``(C) A State plan for medical assistance approved 
+                under title XIX of such Act (42 U.S.C. 1396 et seq.).
+                    ``(D) A workers' compensation law or plan described 
+                in section 1729(a)(2)(A) of this title.
+                    ``(E) A law of a State or political subdivision 
+                described in section 1729(a)(2)(B) of this title.
+            ``(3) The term `third party' means any of the following:
+                    ``(A) A Federal entity.
+                    ``(B) A State or political subdivision of a State.
+                    ``(C) An employer or an employer's insurance 
+                carrier.
+
+[[Page 113 STAT. 1556]]
+
+                    ``(D) An automobile accident reparations insurance 
+                carrier.
+                    ``(E) A person or entity obligated to provide, or to 
+                pay the expenses of, health services under a health-plan 
+                contract.''.
+
+    (b) Conforming Amendments.--(1) Section 1729A(b) is amended--
+            (A) by redesignating paragraphs (5) and (6) as paragraphs 
+        (6) and (7), respectively; and
+            (B) by inserting after paragraph (4) the following new 
+        paragraph:
+            ``(5) Section 1725 of this title.''.
+
+    (2) The table of sections at the beginning of such chapter is 
+amended by inserting after the item relating to section 1724 the 
+following new item:
+
+``1725. Reimbursement for emergency treatment.''.
+
+    (c) <<NOTE: 38 USC 1725 note.>>  Effective Date.--The amendments 
+made by this section shall take effect 180 days after the date of the 
+enactment of this Act.
+
+    (d) <<NOTE: 38 USC 1725 note.>>  Implementation Reports.--The 
+Secretary shall include with the budget justification materials 
+submitted to Congress in support of the Department of Veterans Affairs 
+budget for fiscal year 2002 and for fiscal year 2003 a report on the 
+implementation of section 1725 of title 38, United States Code, as added 
+by subsection (a). Each such report shall include information on the 
+experience of the Department under that section and the costs incurred, 
+and expected to be incurred, under that section.
+
+SEC. 112. ELIGIBILITY FOR CARE OF COMBAT-INJURED VETERANS.
+
+    Chapter 17 is amended--
+            (1) in section 1710(a)(2)(D), by inserting ``or who was 
+        awarded the Purple Heart'' after ``former prisoner of war''; and
+            (2) in section 1705(a)(3), by inserting ``or who were 
+        awarded the Purple Heart'' after ``former prisoners of war''.
+
+SEC. 113. <<NOTE: 38 USC 8111 note.>>  ACCESS TO CARE FOR TRICARE-
+            ELIGIBLE MILITARY RETIREES.
+
+    (a) Interagency Agreement.--(1) The Secretary of Defense shall enter 
+into an agreement (characterized as a memorandum of understanding or 
+otherwise) with the Secretary of Veterans Affairs with respect to the 
+provision of medical care by the Secretary of Veterans Affairs to 
+eligible military retirees in accordance with the provisions of 
+subsection (c). That agreement shall include provisions for 
+reimbursement of the Secretary of Veterans Affairs by the Secretary of 
+Defense for medical care provided by the Secretary of Veterans Affairs 
+to an eligible military retiree and may include such other provisions 
+with respect to the terms and conditions of such care as may be agreed 
+upon by the two Secretaries.
+    (2) Reimbursement under the agreement under paragraph (1) shall be 
+in accordance with rates agreed upon by the Secretary of Defense and the 
+Secretary of Veterans Affairs. Such reimbursement may be made by the 
+Secretary of Defense or by the appropriate TRICARE Managed Care Support 
+contractor, as determined in accordance with that agreement.
+    (3) In entering into the agreement under paragraph (1), particularly 
+with respect to determination of the rates of reimbursement
+
+[[Page 113 STAT. 1557]]
+
+under paragraph (2), the Secretary of Defense shall consult with TRICARE 
+Managed Care Support contractors.
+    (4) The Secretary of Veterans Affairs may not enter into an 
+agreement under paragraph (1) for the provision of care in accordance 
+with the provisions of subsection (c) with respect to any geographic 
+service area, or a part of any such area, of the Veterans Health 
+Administration unless--
+            (A) in the judgment of that Secretary, the Department of 
+        Veterans Affairs will recover the costs of providing such care 
+        to eligible military retirees; and
+            (B) <<NOTE: Certification.>>  that Secretary has certified 
+        and documented, with respect to any geographic service area in 
+        which the Secretary proposes to provide care in accordance with 
+        the provisions of subsection (c), that such geographic service 
+        area, or designated part of any such area, has adequate capacity 
+        (consistent with the requirements in section 1705(b)(1) of title 
+        38, United States Code, that care to enrollees shall be timely 
+        and acceptable in quality) to provide such care.
+
+    (5) <<NOTE: Deadlines.>>  The agreement under paragraph (1) shall be 
+entered into by the Secretaries not later than nine months after the 
+date of the enactment of this Act. <<NOTE: Reports.>>  If the 
+Secretaries are unable to reach agreement, they shall jointly report, by 
+that date or within 30 days thereafter, to the Committees on Armed 
+Services and the Committees on Veterans' Affairs of the Senate and House 
+of Representatives on the reasons for their inability to reach an 
+agreement and their mutually agreed plan for removing any impediments to 
+final agreement.
+
+    (b) Depositing of Reimbursements.--Amounts received by the Secretary 
+of Veterans Affairs under the agreement under subsection (a) shall be 
+deposited in the Department of Veterans Affairs Health Services 
+Improvement Fund established under section 1729B of title 38, United 
+States Code, as added by section 202.
+    (c) Copayment Requirement.--The provisions of subsections (f )(1) 
+and (g)(1) of section 1710 of title 38, United States Code, shall not 
+apply in the case of an eligible military retiree who is covered by the 
+agreement under subsection (a).
+    (d) <<NOTE: Contracts.>>  Phased Implementation.--(1) The Secretary 
+of Defense shall include in each TRICARE contract entered into after the 
+date of the enactment of this Act provisions to implement the agreement 
+under subsection (a).
+
+    (2) <<NOTE: Applicability.>>  The provisions of the agreement under 
+subsection (a)(2) and the provisions of subsection (c) shall apply to 
+the furnishing of medical care by the Secretary of Veterans Affairs in 
+any area of the United States only if that area is covered by a TRICARE 
+contract that was entered into after the date of the enactment of this 
+Act.
+
+    (e) Eligible Military Retirees.--For purposes of this section, an 
+eligible military retiree is a member of the Army, Navy, Air Force, or 
+Marine Corps who--
+            (1) has retired from active military, naval, or air service;
+            (2) is eligible for care under the TRICARE program 
+        established by the Secretary of Defense;
+            (3) has enrolled for care under section 1705 of title 38, 
+        United States Code; and
+            (4) is not described in paragraph (1) or (2) of section 
+        1710(a) of such title.
+
+[[Page 113 STAT. 1558]]
+
+SEC. 114. TREATMENT AND SERVICES FOR DRUG OR ALCOHOL DEPENDENCY.
+
+    (a) Authority To Provide Treatment and Services for Members on 
+Active Duty.--Section 1720A(c) is amended in the first sentence of 
+paragraph (1)--
+            (1) by striking ``may not be transferred'' and inserting 
+        ``may be transferred''; and
+            (2) by striking ``unless such transfer is during the last 
+        thirty days of such member's enlistment or tour of duty''.
+
+    (b) Conforming Amendment.--The first sentence of paragraph (2) of 
+that section is amended by striking ``during the last thirty days of 
+such person's enlistment period or tour of duty''.
+
+SEC. 115. COUNSELING AND TREATMENT FOR VETERANS WHO HAVE EXPERIENCED 
+            SEXUAL TRAUMA.
+
+    (a) Extension of Period of Program.--Subsection (a) of section 1720D 
+is amended--
+            (1) in paragraph (1), by striking ``December 31, 2001'' and 
+        inserting ``December 31, 2004''; and
+            (2) in paragraph (3), by striking ``December 31, 2001'' and 
+        inserting ``December 31, 2004''.
+
+    (b) Mandatory Nature of Program.--(1) Subsection (a)(1) of such 
+section is further amended by striking ``may provide counseling to a 
+veteran who the Secretary determines requires such counseling'' and 
+inserting ``shall operate a program under which the Secretary provides 
+counseling and appropriate care and services to veterans who the 
+Secretary determines require such counseling and care and services''.
+    (2) Subsection (a) of such section is further amended--
+            (A) by striking paragraph (2); and
+            (B) by redesignating paragraph (3) (as amended by subsection 
+        (a)(2)) as paragraph (2).
+
+    (c) Outreach Efforts.--Subsection (c) of such section is amended--
+            (1) by inserting ``and treatment'' in the first sentence and 
+        in paragraph (2) after ``counseling'';
+            (2) by striking ``and'' at the end of paragraph (1);
+            (3) by redesignating paragraph (2) as paragraph (3); and
+            (4) by inserting after paragraph (1) the following new 
+        paragraph (2):
+            ``(2) shall ensure that information about the counseling and 
+        treatment available to veterans under this section--
+                    ``(A) is revised and updated as appropriate;
+                    ``(B) is made available and visibly posted at 
+                appropriate facilities of the Department; and
+                    ``(C) is made available through appropriate public 
+                information services; and''.
+
+    (d) <<NOTE: Deadline.>>  Report on Implementation of Outreach 
+Activities.--Not later than six months after the date of the enactment 
+of this Act, the Secretary of Veterans Affairs shall submit to the 
+Committees on Veterans' Affairs of the Senate and House of 
+Representatives a report on the Secretary's implementation of paragraph 
+(2) of section 1720D(c) of title 38, United States Code, as added by 
+subsection (c). Such report shall include examples of the documents and 
+other means of communication developed for compliance with that 
+paragraph.
+
+[[Page 113 STAT. 1559]]
+
+    (e) Study <<NOTE: 38 USC 1720D note.>> of Expanding Eligibility for 
+Counseling and Treatment.--(1) The Secretary of Veterans Affairs, in 
+consultation with the Secretary of Defense, shall conduct a study to 
+determine--
+            (A) the extent to which former members of the reserve 
+        components of the Armed Forces experienced physical assault of a 
+        sexual nature or battery of a sexual nature while serving on 
+        active duty for training;
+            (B) the extent to which such former members have sought 
+        counseling from the Department of Veterans Affairs relating to 
+        those incidents; and
+            (C) the additional resources that, in the judgment of the 
+        Secretary, would be required to meet the projected need of those 
+        former members for such counseling.
+
+    (2) <<NOTE: Deadline. Reports.>>  Not later than 16 months after the 
+date of the enactment of this Act, the Secretary of Veterans Affairs 
+shall submit to the Committees on Veterans' Affairs of the Senate and 
+House of Representatives a report on the results of the study conducted 
+under paragraph (1).
+
+    (f ) <<NOTE: Deadlines. Reports. 38 USC 1720D note.>>  Oversight of 
+Outreach Activities.--Not later than 14 months after the date of the 
+enactment of this Act, the Secretary of Veterans Affairs and the 
+Secretary of Defense shall submit to the appropriate congressional 
+committees a joint report describing in detail the collaborative efforts 
+of the Department of Veterans Affairs and the Department of Defense to 
+ensure that members of the Armed Forces, upon separation from active 
+military, naval, or air service, are provided appropriate and current 
+information about programs of the Department of Veterans Affairs to 
+provide counseling and treatment for sexual trauma that may have been 
+experienced by those members while in the active military, naval, or air 
+service, including information about eligibility requirements for, and 
+procedures for applying for, such counseling and treatment. The report 
+shall include proposed recommendations from both the Secretary of 
+Veterans Affairs and the Secretary of Defense for the improvement of 
+their collaborative efforts to provide such information.
+
+    (g) <<NOTE: Deadline.>>  Report on Implementation of Sexual Trauma 
+Treatment Program.--Not later than 14 months after the date of the 
+enactment of this Act, the Secretary shall submit to the Committees on 
+Veterans' Affairs of the Senate and House of Representatives a report on 
+the use made of the authority provided under section 1720D of title 38, 
+United States Code, as amended by this section. The report shall include 
+the following with respect to activities under that section since the 
+enactment of this Act:
+            (1) The number of veterans who have received counseling 
+        under that section.
+            (2) The number of veterans who have been referred to non-
+        Department mental health facilities and providers in connection 
+        with sexual trauma counseling and treatment.
+
+SEC. <<NOTE: 38 USC 1712A note.>>  116. SPECIALIZED MENTAL HEALTH 
+            SERVICES.
+
+    (a) Improvement to Specialized Mental Health Services.--The 
+Secretary, in furtherance of the responsibilities of the Secretary under 
+section 1706(b) of title 38, United States Code, shall carry out a 
+program to expand and improve the provision of specialized mental health 
+services to veterans. The Secretary shall establish the program in 
+consultation with the Committee on Care of Severely
+
+[[Page 113 STAT. 1560]]
+
+Chronically Mentally Ill Veterans established pursuant to section 7321 
+of title 38, United States Code.
+    (b) Covered Programs.--For purposes of this section, the term 
+``specialized mental health services'' includes programs relating to--
+            (1) the treatment of post-traumatic stress disorder; and
+            (2) substance use disorders.
+
+    (c) Funding.--(1) In carrying out the program described in 
+subsection (a), the Secretary shall identify, from funds available to 
+the Department for medical care, an amount of not less than $15,000,000 
+to be available to carry out the program and to be allocated to 
+facilities of the Department pursuant to subsection (d).
+    (2) In identifying available amounts pursuant to paragraph (1), the 
+Secretary shall ensure that, after the allocation of those funds under 
+subsection (d), the total expenditure for programs relating to (A) the 
+treatment of post-traumatic stress disorder, and (B) substance use 
+disorders is not less than $15,000,000 in excess of the baseline amount.
+    (3) For purposes of paragraph (2), the baseline amount is the amount 
+of the total expenditures on such programs for the most recent fiscal 
+year for which final expenditure amounts are known, adjusted to reflect 
+any subsequent increase in applicable costs to deliver such services in 
+the Veterans Health Administration, as determined by the Committee on 
+Care of Severely Chronically Mentally Ill Veterans.
+    (d) Allocation of Funds to Department Facilities.--The Secretary 
+shall allocate funds identified pursuant to subsection (c)(1) to 
+individual medical facilities of the Department as the Secretary 
+determines appropriate based upon proposals submitted by those 
+facilities for the use of those funds for improvements to specialized 
+mental health services.
+    (e) <<NOTE: Deadline.>>  Report.--Not later than 12 months after the 
+date of the enactment of this Act, the Secretary shall submit to the 
+Committees on Veterans' Affairs of the Senate and House of 
+Representatives a report describing the implementation of this section. 
+The Secretary shall include in the report information on the allocation 
+of funds to facilities of the Department under the program and a 
+description of the improvements made with those funds to specialized 
+mental health services for veterans.
+
+                TITLE II--MEDICAL PROGRAM ADMINISTRATION
+
+SEC. 201. MEDICAL CARE COLLECTIONS.
+
+    (a) Limited Authority To Set Copayments.--Section 1722A is amended--
+            (1) by redesignating subsections (b) and (c) as subsections 
+        (c) and (d), respectively;
+            (2) by inserting after subsection (a) the following new 
+        subsection (b):
+
+    ``(b) <<NOTE: Regulations.>>  The Secretary, pursuant to regulations 
+which the Secretary shall prescribe, may--
+            ``(1) increase the copayment amount in effect under 
+        subsection (a); and
+
+[[Page 113 STAT. 1561]]
+
+            ``(2) establish a maximum monthly and a maximum annual 
+        pharmaceutical copayment amount under subsection (a) for 
+        veterans who have multiple outpatient prescriptions.''; and
+            (3) in subsection (c), as redesignated by paragraph (1)--
+                    (A) by striking ``this section'' and inserting 
+                ``subsection (a)''; and
+                    (B) by adding at the end the following new sentence: 
+                ``Amounts collected through use of the authority under 
+                subsection (b) shall be deposited in the Department of 
+                Veterans Affairs Health Services Improvement Fund.''.
+
+    (b) Outpatient Treatment.--Section 1710(g) is amended--
+            (1) in paragraph (1), by striking ``the amount determined 
+        under paragraph (2) of this subsection'' and inserting ``in the 
+        case of each outpatient visit the applicable amount or amounts 
+        established by the Secretary by regulation''; and
+            (2) in paragraph (2), by striking all after ``for an 
+        amount'' and inserting ``which the Secretary shall establish by 
+        regulation.''.
+
+SEC. 202. HEALTH SERVICES IMPROVEMENT FUND.
+
+    (a) Establishment of Fund.--Chapter 17 is amended by inserting after 
+section 1729A the following new section:
+
+``Sec. 1729B. Health Services Improvement Fund
+
+    ``(a) There is established in the Treasury of the United States a 
+fund to be known as the Department of Veterans Affairs Health Services 
+Improvement Fund.
+    ``(b) Amounts received or collected after the date of the enactment 
+of this section under any of the following provisions of law shall be 
+deposited in the fund:
+            ``(1) Section 1713A of this title.
+            ``(2) Section 1722A(b) of this title.
+            ``(3) Section 8165(a) of this title.
+            ``(4) Section 113 of the Veterans Millennium Health Care and 
+        Benefits Act.
+
+    ``(c) Amounts in the fund are hereby available, without fiscal year 
+limitation, to the Secretary for the purposes stated in subparagraphs 
+(A) and (B) of section 1729A(c)(1) of this title.
+    ``(d) The Secretary shall allocate amounts in the fund in the same 
+manner as applies under subsection (d) of section 1729A of this title 
+with respect to amounts made available from the fund under that 
+section.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by inserting after the item relating to section 
+1729A the following new item:
+
+``1729B. Health Services Improvement Fund.''.
+
+SEC. 203. ALLOCATION TO HEALTH CARE FACILITIES OF AMOUNTS MADE AVAILABLE 
+            FROM MEDICAL CARE COLLECTIONS FUND.
+
+    Section 1729A(d) is amended--
+            (1) by striking ``(1)'';
+            (2) by striking ``each designated health care region'' and 
+        inserting ``each Department health care facility'';
+            (3) by striking ``each region'' and inserting ``each 
+        facility'';
+            (4) by striking ``such region'' both places it appears and 
+        inserting ``such facility''; and
+
+[[Page 113 STAT. 1562]]
+
+            (5) by striking paragraph (2).
+
+SEC. 204. AUTHORITY TO ACCEPT FUNDS FOR EDUCATION AND TRAINING.
+
+    (a) Establishment of Nonprofit Corporations at Medical Centers.--
+Section 7361(a) is amended--
+            (1) by inserting ``and education'' after ``research''; and
+            (2) by adding at the end the following: ``Such a corporation 
+        may be established to facilitate either research or education or 
+        both research and education.''.
+
+    (b) Purpose of Corporations.--Section 7362 is amended--
+            (1) in the first sentence--
+                    (A) by inserting ``(a)'' before ``Any corporation''; 
+                and
+                    (B) by inserting ``and education and training as 
+                described in sections 7302, 7471, 8154, and 1701(6)(B) 
+                of this title'' after ``of this title'';
+            (2) in the second sentence--
+                    (A) by inserting ``or education'' after 
+                ``research''; and
+                    (B) by striking ``that purpose'' and inserting 
+                ``these purposes''; and
+            (3) by adding at the end the following new subsection:
+
+    ``(b) For purposes of this section, the term `education and 
+training' means the following:
+            ``(1) In the case of employees of the Veterans Health 
+        Administration, such term means work-related instruction or 
+        other learning experiences to--
+                    ``(A) improve performance of current duties;
+                    ``(B) assist employees in maintaining or gaining 
+                specialized proficiencies; and
+                    ``(C) expand understanding of advances and changes 
+                in patient care, technology, and health care 
+                administration.
+        Such term includes (in the case of such employees) education and 
+        training conducted as part of a residency or other program 
+        designed to prepare an individual for an occupation or 
+        profession.
+            ``(2) In the case of veterans under the care of the Veterans 
+        Health Administration, such term means instruction or other 
+        learning experiences related to improving and maintaining the 
+        health of veterans to patients and to the families and guardians 
+        of patients.''.
+
+    (c) Board of Directors.--Section 7363(a) is amended--
+            (1) in subsection (a)(1), by striking all after ``medical 
+        center, and'' and inserting ``as appropriate, the assistant 
+        chief of staff for research for the medical center and the 
+        assistant chief of staff for education for the medical center, 
+        or, in the case of a facility at which such positions do not 
+        exist, those officials who are responsible for carrying out the 
+        responsibilities of the medical center director, chief of staff, 
+        and, as appropriate, the assistant chief of staff for research 
+        and the assistant chief of staff for education; and'';
+            (2) in subsection (a)(2), by inserting ``or education, as 
+        appropriate'' after ``research''; and
+            (3) in subsection (c), by inserting ``or education'' after 
+        ``research''.
+
+    (d) Approval of Expenditures.--Section 7364 is amended by adding at 
+the end the following new subsection:
+
+[[Page 113 STAT. 1563]]
+
+    ``(c)(1) A corporation established under this subchapter may not 
+spend funds for an education activity unless the activity is approved in 
+accordance with procedures prescribed by the Under Secretary for Health.
+    ``(2) <<NOTE: Regulations.>>  The Under Secretary for Health shall 
+prescribe policies and procedures to guide the expenditure of funds by 
+corporations under paragraph (1) consistent with the purpose of such 
+corporations as flexible funding mechanisms.''.
+
+    (e) Accountability and Oversight.--Section 7366(d) is amended--
+            (1) in paragraph (2)(B), by inserting ``for research and the 
+        amount received from governmental entities for education'' after 
+        ``entities'';
+            (2) in paragraph (2)(C), by inserting ``for research and the 
+        amount received from all other sources for education'' after 
+        ``sources'';
+            (3) in paragraph (2)(D), by striking ``the'' and inserting 
+        ``a'';
+            (4) in paragraph (3)(A), by striking ``and'' and inserting 
+        ``, the amount expended for salary for education staff, and the 
+        amount expended'';
+            (5) in paragraph (3)(B), by inserting ``and the amount 
+        expended for direct support of education'' after ``research''; 
+        and
+            (6) by adding at the end the following new paragraph:
+            ``(4) The amount expended by each corporation during the 
+        year for travel conducted in conjunction with research and the 
+        amount expended for travel in conjunction with education.''.
+
+SEC. 205. EXTENSION OF CERTAIN AUTHORITIES.
+
+    (a) Readjustment Counseling.--Section 1712A(a)(1)(B)(ii) is amended 
+by striking ``January 1, 2000'' and inserting ``January 1, 2004''.
+    (b) Newsletter on Medical Care for Persian Gulf Veterans.--Section 
+105(b)(2) of the Persian Gulf War Veterans' Benefits Act (title I of 
+Public Law 103-446; 108 Stat. 4659; 38 U.S.C. 1117 note) is amended by 
+striking ``December 31, 1999'' and inserting ``December 31, 2003''.
+    (c) <<NOTE: 38 USC 1117 note.>>  Evaluation of Health of Spouses and 
+Children of Persian Gulf Veterans.--Section 107(b) of that Act is 
+amended by striking ``December 31, 1999'' and inserting ``December 31, 
+2003''.
+
+SEC. 206. REESTABLISHMENT OF COMMITTEE ON POST-TRAUMATIC STRESS 
+            DISORDER.
+
+    Section 110 of the Veterans' Health Care Act of 1984 (38 U.S.C. 
+1712A note) is amended--
+            (1) by striking ``Chief Medical Director'' each place it 
+        appears and inserting ``Under Secretary for Health'';
+            (2) by striking ``Veterans' Administration'' each place it 
+        appears (other than in subsection (a)(1)) and inserting 
+        ``Department'';
+            (3) by striking ``Veterans' Administration'' in subsection 
+        (a)(1) and inserting ``Department of Veterans Affairs'';
+            (4) by striking ``Department of Medicine and Surgery'' each 
+        place it appears and inserting ``Veterans Health 
+        Administration'';
+            (5) by striking ``section 612A'' in subsection (a)(2) and 
+        inserting ``section 1712A'';
+
+[[Page 113 STAT. 1564]]
+
+            (6) by striking ``Department'' in the second sentence of 
+        subsection (b)(1) and inserting ``Veterans Health 
+        Administration'';
+            (7) by striking ``Department of Veterans' Benefits'' in 
+        subsection (b)(4)(E) and inserting ``Veterans Benefits 
+        Administration'';
+            (8) in subsection (e)(1), by striking ``Not later than March 
+        1, 1985, the Administrator'' and inserting ``Not later than 
+        March 1, 2000, the Secretary''; and
+            (9) in subsection (e)(2)--
+                    (A) by striking ``Not later than February 1, 1986'' 
+                and inserting ``Not later than February 1, 2001'';
+                    (B) by striking ``Administrator'' and inserting 
+                ``Secretary''; and
+                    (C) by striking ``before the submission of such 
+                report'' and inserting ``since the enactment of the 
+                Veterans Millennium Health Care and Benefits Act''.
+
+SEC. 207. STATE HOME GRANT PROGRAM.
+
+    (a) General Regulations.--Section 8134 is amended--
+            (1) by redesignating subsection (b) as subsection (c);
+            (2) by striking the matter in subsection (a) preceding 
+        paragraph (2) and inserting the following:
+
+    ``(a)(1) The Secretary shall prescribe regulations for the purposes 
+of this subchapter.
+    ``(2) In those regulations, the Secretary shall prescribe for each 
+State the number of nursing home and domiciliary beds for which 
+assistance under this subchapter may be furnished. Such regulations 
+shall be based on projected demand for such care 10 years after the date 
+of the enactment of the Veterans Millennium Health Care and Benefits Act 
+by veterans who at such time are 65 years of age or older and who reside 
+in that State. In determining such projected demand, the Secretary shall 
+take into account travel distances for veterans and their families.
+    ``(3)(A) In those regulations, the Secretary shall establish 
+criteria under which the Secretary shall determine, with respect to an 
+application for assistance under this subchapter for a project described 
+in subparagraph (B) which is from a State that has a need for additional 
+beds as determined under subsections (a)(2) and (d)(1), whether the need 
+for such beds is most aptly characterized as great, significant, or 
+limited. Such criteria shall take into account the availability of beds 
+already operated by the Secretary and other providers which 
+appropriately serve the needs which the State proposes to meet with its 
+application.
+    ``(B) <<NOTE: Applicability.>>  This paragraph applies to a project 
+for the construction or acquisition of a new State home facility, a 
+project to increase the number of beds available at a State home 
+facility, and a project to replace beds at a State home facility.
+
+    ``(4) The Secretary shall review and, as necessary, revise 
+regulations prescribed under paragraphs (2) and (3) not less often than 
+every four years.
+    ``(b) The Secretary shall prescribe the following by regulation:'';
+            (3) by redesignating paragraphs (2) and (3) of subsection 
+        (b), as designated by paragraph (2), as paragraphs (1) and (2);
+
+[[Page 113 STAT. 1565]]
+
+            (4) in subsection (c), as redesignated by paragraph (1), by 
+        striking ``subsection (a)(3)'' and inserting ``subsection 
+        (b)(2)''; and
+            (5) by adding at the end the following new subsection:
+
+    ``(d)(1) In prescribing regulations to carry out this subchapter, 
+the Secretary shall provide that in the case of a State that seeks 
+assistance under this subchapter for a project described in subsection 
+(a)(3)(B), the determination of the unmet need for beds for State homes 
+in that State shall be reduced by the number of beds in all previous 
+applications submitted by that State under this subchapter, including 
+beds which have not been recognized by the Secretary under section 1741 
+of this title.
+    ``(2)(A) Financial assistance under this subchapter for a renovation 
+project may only be provided for a project for which the total cost of 
+construction is in excess of $400,000 (as adjusted from time-to-time in 
+such regulations to reflect changes in costs of construction).
+    ``(B) For purposes of this paragraph, a renovation project is a 
+project to remodel or alter existing buildings for which financial 
+assistance under this subchapter may be provided and does not include 
+maintenance and repair work which is the responsibility of the State.''.
+    (b) Applications With Respect to Projects.--Section 8135 is 
+amended--
+            (1) in subsection (a)--
+                    (A) by striking ``set forth--'' in the matter 
+                preceding paragraph (1) and inserting ``set forth the 
+                following:'';
+                    (B) by capitalizing the first letter of the first 
+                word in each of paragraphs (1) through (9);
+                    (C) by striking the comma at the end of each of 
+                paragraphs (1) through (7) and inserting a period; and
+                    (D) by striking ``, and'' at the end of paragraph 
+                (8) and inserting a period;
+            (2) by redesignating subsections (b), (c), (d), and (e) as 
+        subsections (c), (d), (e), and (f ), respectively;
+            (3) by inserting after subsection (a) the following new 
+        subsection (b):
+
+    ``(b)(1) Any State seeking to receive assistance under this 
+subchapter for a project that would involve construction or acquisition 
+of either nursing home or domiciliary facilities shall include with its 
+application under subsection (a) the following:
+            ``(A) Documentation (i) that the site for the project is in 
+        reasonable proximity to a sufficient concentration and 
+        population of veterans who are 65 years of age and older, and 
+        (ii) that there is a reasonable basis to conclude that the 
+        facilities when complete will be fully occupied.
+            ``(B) A financial plan for the first three years of 
+        operation of such facilities.
+            ``(C) A five-year capital plan for the State home program 
+        for that State.
+
+    ``(2) Failure to provide adequate documentation under paragraph 
+(1)(A) or to provide an adequate financial plan under paragraph (1)(B) 
+shall be a basis for disapproving the application.''; and
+            (4) in subsection (c), as redesignated by paragraph (2)--
+                    (A) in paragraph (1), by striking ``for a grant 
+                under subsection (a) of this section'' in the matter 
+                preceding
+
+[[Page 113 STAT. 1566]]
+
+                subparagraph (A) and inserting ``under subsection (a) 
+                for financial assistance under this subchapter'';
+                    (B) in paragraph (2)--
+                          (i) by striking ``the construction or 
+                      acquisition of'' in subparagraph (A); and
+                          (ii) by striking subparagraphs (B), (C), and 
+                      (D) and inserting the following:
+            ``(B) An application from a State for a project at an 
+        existing facility to remedy a condition or conditions that have 
+        been cited by an accrediting institution, by the Secretary, or 
+        by a local licensing or approving body of the State as being 
+        threatening to the lives or safety of the patients in the 
+        facility.
+            ``(C) An application from a State that has not previously 
+        applied for award of a grant under this subchapter for 
+        construction or acquisition of a State nursing home.
+            ``(D) An application for construction or acquisition of a 
+        nursing home or domiciliary from a State that the Secretary 
+        determines, in accordance with regulations under this 
+        subchapter, has a great need for the beds to be established at 
+        such home or facility.
+            ``(E) An application from a State for renovations to a State 
+        home facility other than renovations described in subparagraph 
+        (B).
+            ``(F) An application for construction or acquisition of a 
+        nursing home or domiciliary from a State that the Secretary 
+        determines, in accordance with regulations under this 
+        subchapter, has a significant need for the beds to be 
+        established at such home or facility.
+            ``(G) An application that meets other criteria as the 
+        Secretary determines appropriate and has established in 
+        regulations.
+            ``(H) An application for construction or acquisition of a 
+        nursing home or domiciliary from a State that the Secretary 
+        determines, in accordance with regulations under this 
+        subchapter, has a limited need for the beds to be established at 
+        such home or facility.''; and
+                    (C) in paragraph (3), by striking subparagraph (A) 
+                and inserting the following:
+            ``(A) may not accord any priority to a project for the 
+        construction or acquisition of a hospital; and''.
+
+    (c) <<NOTE: 38 USC 8135 note.>>  Transition.--(1) The provisions of 
+sections 8134 and 8135 of title 38, United States Code, as in effect on 
+November 10, 1999, shall continue in effect after that date with respect 
+to applications described in section 8135(b)(2)(A) of such title, as in 
+effect on that date, that are identified in paragraph (2) (and to 
+projects and grants pursuant to those applications). The Secretary shall 
+accord priority among those applications in the order listed in 
+paragraph (2).
+
+    (2) Applications covered by paragraph (1) are the following:
+            (A) Any application for a fiscal year 1999 priority one 
+        project.
+            (B) Any application for a fiscal year 2000 priority one 
+        project that was submitted by a State that (i) did not receive 
+        grant funds from amounts appropriated for fiscal year 1999 under 
+        the State home grant program, and (ii) does not have any fiscal 
+        year 1999 priority one projects.
+
+    (3) For purposes of this subsection--
+
+[[Page 113 STAT. 1567]]
+
+            (A) the term ``fiscal year 1999 priority one project'' means 
+        a project on the list of approved projects established by the 
+        Secretary on October 29, 1998, under section 8135(b)(4) of title 
+        38, United States Code, as in effect on that date that (pursuant 
+        to section 8135(b)(2)(A) of that title) is in the grouping of 
+        projects on that list designated as Priority Group 1;
+            (B) the term ``fiscal year 2000 priority one project'' means 
+        a project on the list of approved projects established by the 
+        Secretary on November 3, 1999, under section 8135(b)(4) of title 
+        38, United States Code, as in effect on that date that (pursuant 
+        to section 8135(b)(2)(A) of that title) is in the grouping of 
+        projects on that list designated as Priority Group 1; and
+            (C) the term ``State home grant program'' means the grant 
+        program under subchapter III of chapter 81 of title 38, United 
+        States Code.
+
+    (d) <<NOTE: 38 USC 8134 note.>>  Effective Date for Initial 
+Regulations.--The Secretary shall prescribe the initial regulations 
+under subsection (a) of section 8134 of title 38, United States Code, as 
+added by subsection (a), not later than April 30, 2000.
+
+SEC. 208. EXPANSION OF ENHANCED-USE LEASE AUTHORITY.
+
+    (a) Authority.--Section 8162(a)(2) is amended--
+            (1) by striking ``only if the Secretary'' and inserting 
+        ``only if--
+            ``(A) the Secretary'';
+            (2) by redesignating subparagraphs (A), (B), and (C) as 
+        clauses (i), (ii), and (iii), respectively, and realigning those 
+        clauses so as to be four ems from the left margin;
+            (3) by striking the period at the end of clause (iii), as so 
+        redesignated, and inserting ``; or''; and
+            (4) by adding at the end the following:
+            ``(B) the Secretary determines that the implementation of a 
+        business plan proposed by the Under Secretary for Health for 
+        applying the consideration under such a lease to the provision 
+        of medical care and services would result in a demonstrable 
+        improvement of services to eligible veterans in the geographic 
+        service-delivery area within which the property is located.''.
+
+    (b) Term of Enhanced-Use Lease.--Section 8162(b) is amended--
+            (1) in paragraph (2), by striking ``may not exceed--'' and 
+        all that follows and inserting ``may not exceed 75 years.''; and
+            (2) by striking paragraph (4) and inserting the following:
+
+    ``(4) The terms of an enhanced-use lease may provide for the 
+Secretary to--
+            ``(A) obtain facilities, space, or services on the leased 
+        property; and
+            ``(B) use minor construction funds for capital contribution 
+        payments.''.
+
+    (c) Designation of Property Proposed To Be Leased.--(1) Subsection 
+(b) of section 8163 is amended--
+            (A) by striking ``include--'' and inserting ``include the 
+        following:'';
+            (B) by capitalizing the first letter of the first word of 
+        each of paragraphs (1), (2), (3), (4), and (5);
+            (C) by striking the semicolon at the end of paragraphs (1), 
+        (2), and (3) and inserting a period; and
+
+[[Page 113 STAT. 1568]]
+
+            (D) by striking subparagraphs (A), (B), and (C) of paragraph 
+        (4) and inserting the following:
+                    ``(A) would--
+                          ``(i) contribute in a cost-effective manner to 
+                      the mission of the Department;
+                          ``(ii) not be inconsistent with the mission of 
+                      the Department;
+                          ``(iii) not adversely affect the mission of 
+                      the Department; and
+                          ``(iv) affect services to veterans; or
+                    ``(B) would result in a demonstrable improvement of 
+                services to eligible veterans in the geographic service-
+                delivery area within which the property is located.''.
+
+    (2) Subparagraph (E) of subsection (c)(1) of that section is amended 
+by striking clauses (i), (ii), and (iii) and inserting the following:
+                    ``(i) would--
+                          ``(I) contribute in a cost-effective manner to 
+                      the mission of the Department;
+                          ``(II) not be inconsistent with the mission of 
+                      the Department;
+                          ``(III) not adversely affect the mission of 
+                      the Department; and
+                          ``(IV) affect services to veterans; or
+                    ``(ii) would result in a demonstrable improvement of 
+                services to eligible veterans in the geographic service-
+                delivery area within which the property is located.''.
+
+    (d) Use of Proceeds.--Section 8165(a) is amended by striking 
+paragraph (1) and inserting the following:
+    ``(a)(1) Funds received by the Department under an enhanced-use 
+lease and remaining after any deduction from those funds under 
+subsection (b) shall be deposited in the Department of Veterans Affairs 
+Health Services Improvement Fund established under section 1729B of this 
+title.''.
+    (e) Extension of Authority.--Section 8169 is amended by striking 
+``December 31, 2001'' and inserting ``December 31, 2011''.
+    (f ) <<NOTE: 38 USC 8161 note.>>  Training and Outreach Regarding 
+Authority.--The Secretary shall take appropriate actions to provide 
+training and outreach to personnel at Department medical centers 
+regarding the enhanced-use lease authority under subchapter V of chapter 
+81 of title 38, United States Code. The training and outreach shall 
+address methods of approaching potential lessees in the medical or 
+commercial sectors regarding the possibility of entering into leases 
+under that authority and other appropriate matters.
+
+    (g) <<NOTE: 38 USC 8161 note.>>  Independent Analysis of 
+Opportunities for Use of Authority.--(1) The Secretary shall take 
+appropriate actions to secure from an appropriate entity (or entities) 
+independent of the Department an analysis (or analyses) of opportunities 
+for the use of the enhanced-use lease authority under subchapter V of 
+chapter 81 of title 38, United States Code.
+
+    (2) An analysis under paragraph (1) shall include--
+            (A) a survey of facilities of the Department for purposes of 
+        identifying Department property that presents an opportunity for 
+        lease under the enhanced-use lease authority;
+            (B) an assessment of the feasibility of entering into 
+        enhanced-use leases under that authority in the case of any
+
+[[Page 113 STAT. 1569]]
+
+        property identified under subparagraph (A) as presenting an 
+        opportunity for such lease; and
+            (C) an assessment of the resources required at the 
+        Department facilities concerned, and at the Department Central 
+        Office, in order to facilitate the entering into of enhanced-
+        used leases in the case of property so identified.
+
+    (3) If as a result of a survey under paragraph (2)(A) an entity 
+carrying out an analysis under this subsection determines that a 
+particular Department property presents no opportunities for lease under 
+the enhanced-use lease authority, the analysis shall include the 
+entity's explanation of that determination.
+    (4) If as a result of such a survey an entity carrying out an 
+analysis under this subsection determines that certain Department 
+property presents an opportunity for lease under the enhanced-use lease 
+authority, the analysis shall include a single integrated business plan, 
+developed by the entity, that addresses the strategy and resources 
+necessary to implement the plan for all property determined to present 
+an opportunity for such lease.
+
+SEC. 209. INELIGIBILITY FOR EMPLOYMENT BY VETERANS HEALTH ADMINISTRATION 
+            OF HEALTH CARE PROFESSIONALS WHO HAVE LOST LICENSE TO 
+            PRACTICE IN ONE JURISDICTION WHILE STILL LICENSED IN ANOTHER 
+            JURISDICTION.
+
+    Section 7402 is amended by adding at the end the following new 
+subsection:
+    ``(f ) A person may not be employed in a position under subsection 
+(b) (other than under paragraph (4) of that subsection) if--
+            ``(1) the person is or has been licensed, registered, or 
+        certified (as applicable to such position) in more than one 
+        State; and
+            ``(2) either--
+                    ``(A) any of those States has terminated such 
+                license, registration, or certification for cause; or
+                    ``(B) the person has voluntarily relinquished such 
+                license, registration, or certification in any of those 
+                States after being notified in writing by that State of 
+                potential termination for cause.''.
+
+SEC. 210. REPORT ON COORDINATION OF PROCUREMENT OF PHARMACEUTICALS AND 
+            MEDICAL SUPPLIES BY THE DEPARTMENT OF VETERANS AFFAIRS AND 
+            THE DEPARTMENT OF DEFENSE.
+
+    (a) <<NOTE: Deadline.>>  Requirement.--Not later than July 31, 2000, 
+the Secretary of Veterans Affairs and the Secretary of Defense shall 
+jointly submit to the Committees on Veterans' Affairs and Armed Services 
+of the Senate and the Committees on Veterans' Affairs and Armed Services 
+of the House of Representatives a report on the cooperation between the 
+Department of Veterans Affairs and the Department of Defense in the 
+procurement of pharmaceuticals and medical supplies.
+
+    (b) Report Elements.--The report under subsection (a) shall include 
+the following:
+            (1) A description of the current cooperation between the 
+        Department of Veterans Affairs and the Department of Defense in 
+        the procurement of pharmaceuticals and medical supplies.
+
+[[Page 113 STAT. 1570]]
+
+            (2) An assessment of the means by which cooperation between 
+        the departments in such procurement could be enhanced or 
+        improved.
+            (3) A description of any existing memoranda of agreement 
+        between the Department of Veterans Affairs and the Department of 
+        Defense that provide for the cooperation referred to in 
+        subsection (a).
+            (4) A description of the effects, if any, such agreements 
+        will have on current staffing levels at the Defense Supply 
+        Center in Philadelphia, Pennsylvania, and the Department of 
+        Veterans Affairs National Acquisition Center in Hines, Illinois.
+            (5) A description of the effects, if any, of such 
+        cooperation on military readiness.
+            (6) A comprehensive assessment of cost savings realized and 
+        projected over the five fiscal year period beginning in fiscal 
+        year 1999 for the Department of Veterans Affairs and the 
+        Department of Defense as a result of such cooperation, and the 
+        overall savings to the Treasury of the United States as a result 
+        of such cooperation.
+            (7) A list of the types of medical supplies and 
+        pharmaceuticals for which cooperative agreements would not be 
+        appropriate and the reason or reasons therefor.
+            (8) An assessment of the extent to which cooperative 
+        agreements could be expanded to include medical equipment, major 
+        systems, and durable goods used in the delivery of health care 
+        by the Department of Veterans Affairs and the Department of 
+        Defense.
+            (9) A description of the effects such agreements might have 
+        on distribution of items purchased cooperatively by the 
+        Department of Veterans Affairs and the Department of Defense, 
+        particularly outside the continental United States.
+            (10) An assessment of the potential to establish common 
+        pharmaceutical formularies between the Department of Veterans 
+        Affairs and the Department of Defense.
+            (11) An explanation of the current Uniform Product Number 
+        (UPN) requirements of each Department and of any planned 
+        standardization of such requirements between the Departments for 
+        medical equipment and durable goods manufacturers.
+
+SEC. 211. REIMBURSEMENT OF MEDICAL EXPENSES OF VETERANS LOCATED IN 
+            ALASKA.
+
+    (a) Preservation of Current Reimbursement Rates.--Notwithstanding 
+any other provision of law, the Secretary shall, for purposes of 
+reimbursing veterans in Alaska for medical expenses under section 1728 
+of title 38, United States Code, during the one-year period beginning on 
+the date of the enactment of this Act, use the fee-for-service payment 
+schedule in effect for such purposes on July 31, 1999, rather than the 
+Participating Physician Fee Schedule under the Medicare program.
+    (b) <<NOTE: Deadline.>>  Report.--(1) Not later than 180 days after 
+the date of the enactment of this Act, the Secretary of Veterans Affairs 
+and the Secretary of Health and Human Services shall jointly submit to 
+the Committees on Veterans' Affairs of the Senate and the House of 
+Representatives a report and recommendation on the use of the 
+Participating Physician Fee Schedule under the Medicare program as a 
+means of calculating reimbursement rates for medical
+
+[[Page 113 STAT. 1571]]
+
+expenses of veterans located in Alaska under section 1728 of title 38, 
+United States Code.
+
+    (2) The report shall--
+            (A) assess the differences between health care costs in 
+        Alaska and health care costs in the continental United States;
+            (B) describe any differences between the costs of providing 
+        health care in Alaska and the reimbursement rates for the 
+        provision of health care under the Participating Physician Fee 
+        Schedule; and
+            (C) assess the effects on health care for veterans in Alaska 
+        of implementing the Participating Physician Fee Schedule as a 
+        means of calculating reimbursement rates for medical expenses of 
+        veterans located in Alaska under section 1728 of title 38, 
+        United States Code.
+
+               TITLE III--MISCELLANEOUS MEDICAL PROVISIONS
+
+SEC. 301. REVIEW OF PROPOSED CHANGES TO OPERATION OF MEDICAL FACILITIES.
+
+    Section 8110 is amended by adding at the end the following new 
+subsections:
+    ``(d) <<NOTE: Reports.>>  The Secretary may not in any fiscal year 
+close more than 50 percent of the beds within a bed section (of 20 or 
+more beds) of a Department medical center unless the Secretary first 
+submits to the Committees on Veterans' Affairs of the Senate and the 
+House of Representatives a report providing a justification for the 
+closure. No action to carry out such closure may be taken after the 
+submission of such report until the end of the 21-day period beginning 
+on the date of the submission of the report.
+
+    ``(e) <<NOTE: Deadline. Reports.>>  The Secretary shall submit to 
+the Committees on Veterans' Affairs of the Senate and the House of 
+Representatives, not later than January 20 of each year, a report 
+documenting by network for the preceding fiscal year the following:
+            ``(1) The number of medical service and surgical service 
+        beds, respectively, that were closed during that fiscal year 
+        and, for each such closure, a description of the changes in 
+        delivery of services that allowed such closure to occur.
+            ``(2) The number of nursing home beds that were the subject 
+        of a mission change during that fiscal year and the nature of 
+        each such mission change.
+
+    ``(f ) For purposes of this section:
+            ``(1) The term `closure', with respect to beds in a medical 
+        center, means ceasing to provide staffing for, and to operate, 
+        those beds. Such term includes converting the provision of such 
+        bed care from care in a Department facility to care under 
+        contract arrangements.
+            ``(2) The term `bed section', with respect to a medical 
+        center, means psychiatric beds (including beds for treatment of 
+        substance abuse and post-traumatic stress disorder), 
+        intermediate, neurology, and rehabilitation medicine beds, 
+        extended care (other than nursing home) beds, and domiciliary 
+        beds.
+            ``(3) The term `justification', with respect to closure of 
+        beds, means a written report that includes the following:
+                    ``(A) An explanation of the reasons for the 
+                determination that the closure is appropriate and 
+                advisable.
+
+[[Page 113 STAT. 1572]]
+
+                    ``(B) A description of the changes in the functions 
+                to be carried out and the means by which such care and 
+                services would continue to be provided to eligible 
+                veterans.
+                    ``(C) A description of the anticipated effects of 
+                the closure on veterans and on their access to care.''.
+
+SEC. 302. PATIENT SERVICES AT DEPARTMENT FACILITIES.
+
+    Section 7803 is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``(a)'' before ``The canteens''; and
+                    (B) by striking ``in this subsection;'' and all that 
+                follows through ``the premises'' and inserting ``in this 
+                section''; and
+            (2) by striking subsection (b).
+
+SEC. 303. <<NOTE: 38 USC 1710 note.>>  CHIROPRACTIC TREATMENT.
+
+    (a) <<NOTE: Deadline.>>  Establishment of Program.--Not later than 
+120 days after the date of the enactment of this Act, the Under 
+Secretary for Health of the Department of Veterans Affairs, after 
+consultation with chiropractors, shall establish a policy for the 
+Veterans Health Administration regarding the role of chiropractic 
+treatment in the care of veterans under chapter 17 of title 38, United 
+States Code.
+
+    (b) Definitions.--For purposes of this section:
+            (1) The term ``chiropractic treatment'' means the manual 
+        manipulation of the spine performed by a chiropractor for the 
+        treatment of such musculo-skeletal conditions as the Secretary 
+        considers appropriate.
+            (2) The term ``chiropractor'' means an individual who--
+                    (A) is licensed to practice chiropractic in the 
+                State in which the individual performs chiropractic 
+                services; and
+                    (B) holds the degree of doctor of chiropractic from 
+                a chiropractic college accredited by the Council on 
+                Chiropractic Education.
+
+SEC. 304. DESIGNATION OF HOSPITAL BED REPLACEMENT BUILDING AT IOANNIS A. 
+            LOUGARIS DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER, 
+            RENO, NEVADA.
+
+    The hospital bed replacement building under construction at the 
+Ioannis A. Lougaris Department of Veterans Affairs Medical Center in 
+Reno, Nevada, is hereby designated as the ``Jack Streeter Building''. 
+Any reference to that building in any law, regulation, map, document, 
+record, or other paper of the United States shall be considered to be a 
+reference to the Jack Streeter Building.
+
+              TITLE IV--CONSTRUCTION AND FACILITIES MATTERS
+
+SEC. 401. AUTHORIZATION OF MAJOR MEDICAL FACILITY PROJECTS.
+
+    The Secretary of Veterans Affairs may carry out the following major 
+medical facility projects, with each project to be carried out in the 
+amount specified for that project:
+            (1) Construction of a long-term care facility at the 
+        Department of Veterans Affairs Medical Center, Lebanon, 
+        Pennsylvania, in an amount not to exceed $14,500,000.
+            (2) Renovations and environmental improvements at the 
+        Department of Veterans Affairs Medical Center, Fargo, North 
+        Dakota, in an amount not to exceed $12,000,000.
+
+[[Page 113 STAT. 1573]]
+
+            (3) Construction of a surgical suite and post-anesthesia 
+        care unit at the Department of Veterans Affairs Medical Center, 
+        Kansas City, Missouri, in an amount not to exceed $13,000,000.
+            (4) Renovations and environmental improvements at the 
+        Department of Veterans Affairs Medical Center, Atlanta, Georgia, 
+        in an amount not to exceed $12,400,000.
+            (5) Demolition of buildings at the Dwight D. Eisenhower 
+        Department of Veterans Affairs Medical Center, Leavenworth, 
+        Kansas, in an amount not to exceed $5,600,000.
+            (6) Renovation to provide a domiciliary at Orlando, Florida, 
+        in a total amount not to exceed $2,400,000, to be derived only 
+        from funds appropriated for Construction, Major Projects, for a 
+        fiscal year before fiscal year 2000 that remain available for 
+        obligation.
+
+SEC. 402. AUTHORIZATION OF MAJOR MEDICAL FACILITY LEASES.
+
+    The Secretary of Veterans Affairs may enter into leases for medical 
+facilities as follows:
+            (1) Lease of an outpatient clinic, Lubbock, Texas, in an 
+        amount not to exceed $1,112,000.
+            (2) Lease of a research building, San Diego, California, in 
+        an amount not to exceed $1,066,500.
+
+SEC. 403. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General.--There are authorized to be appropriated to the 
+Secretary of Veterans Affairs for fiscal year 2000 and for fiscal year 
+2001--
+            (1) for the Construction, Major Projects, account 
+        $57,500,000 for the projects authorized in paragraphs (1) 
+        through (5) of section 401; and
+            (2) for the Medical Care account, $2,178,500 for the leases 
+        authorized in section 402.
+
+    (b) Limitation.--The projects authorized in paragraphs (1) through 
+(5) of section 401 may only be carried out using--
+            (1) funds appropriated for fiscal year 2000 or fiscal year 
+        2001 pursuant to the authorization of appropriations in 
+        subsection (a);
+            (2) funds appropriated for Construction, Major Projects, for 
+        a fiscal year before fiscal year 2000 that remain available for 
+        obligation; and
+            (3) funds appropriated for Construction, Major Projects, for 
+        fiscal year 2000 for a category of activity not specific to a 
+        project.
+
+                TITLE V--BENEFITS AND EMPLOYMENT MATTERS
+
+                    Subtitle A--Compensation and DIC
+
+SEC. 501. <<NOTE: John William Rolen Act.>>  DEPENDENCY AND INDEMNITY 
+            COMPENSATION FOR SURVIVING SPOUSES OF FORMER PRISONERS OF 
+            WAR.
+
+    (a) <<NOTE: 38 USC 101 note.>>  Short Title.--This section may be 
+cited as the ``John William Rolen Act''.
+
+    (b) Eligibility.--Section 1318(b) is amended--
+            (1) by striking ``that either--'' in the matter preceding 
+        paragraph (1) and inserting ``rated totally disabling if--'';
+
+[[Page 113 STAT. 1574]]
+
+            (2) in paragraph (1)--
+                    (A) by inserting ``the disability'' after ``(1)''; 
+                and
+                    (B) by striking ``or'' after ``death;'';
+            (3) in paragraph (2)--
+                    (A) by striking ``if so rated for a lesser period, 
+                was so rated continuously'' and inserting ``the 
+                disability was continuously rated totally disabling''; 
+                and
+                    (B) by striking the period at the end and inserting 
+                ``; or''; and
+            (4) by adding at the end the following new paragraph:
+            ``(3) the veteran was a former prisoner of war who died 
+        after September 30, 1999, and the disability was continuously 
+        rated totally disabling for a period of not later than one year 
+        immediately preceding death.''.
+
+SEC. 502. REINSTATEMENT OF CERTAIN BENEFITS FOR REMARRIED SURVIVING 
+            SPOUSES OF VETERANS UPON TERMINATION OF THEIR REMARRIAGE.
+
+    (a) Restoration of Prior Eligibility.--Section 103(d) is amended--
+            (1) by inserting ``(1)'' after ``(d)''; and
+            (2) by adding at the end the following:
+
+    ``(2) The remarriage of the surviving spouse of a veteran shall not 
+bar the furnishing of benefits specified in paragraph (5) to such person 
+as the surviving spouse of the veteran if the remarriage has been 
+terminated by death or divorce unless the Secretary determines that the 
+divorce was secured through fraud or collusion.
+    ``(3) If the surviving spouse of a veteran ceases living with 
+another person and holding himself or herself out openly to the public 
+as that person's spouse, the bar to granting that person benefits as the 
+surviving spouse of the veteran shall not apply in the case of the 
+benefits specified in paragraph (5).
+    ``(4) The first month of eligibility for benefits for a surviving 
+spouse by reason of this subsection shall be the month after--
+            ``(A) the month of the termination of such remarriage, in 
+        the case of a surviving spouse described in paragraph (2); or
+            ``(B) the month of the cessation described in paragraph (3), 
+        in the case of a surviving spouse described in that paragraph.
+
+    ``(5) Paragraphs (2) and (3) apply with respect to benefits under 
+the following provisions of this title:
+            ``(A) Section 1311, relating to dependency and indemnity 
+        compensation.
+            ``(B) Section 1713, relating to medical care for survivors 
+        and dependents of certain veterans.
+            ``(C) Chapter 35, relating to educational assistance.
+            ``(D) Chapter 37, relating to housing loans.''.
+
+    (b) Conforming Amendment.--Section 1311 is amended by striking 
+subsection (e).
+    (c) <<NOTE: 38 USC 103 note.>>  Effective Date.--The amendments made 
+by subsections (a) and (b) shall take effect on the first day of the 
+first month beginning after the month in which this Act is enacted.
+
+    (d) <<NOTE: 38 USC 103 note.>>  Limitation.--No payment may be made 
+to a person by reason of paragraphs (2) and (3) of section 103(d) of 
+title 38, United States Code, as added by subsection (a), for any period 
+before the effective date specified in subsection (c).
+
+[[Page 113 STAT. 1575]]
+
+SEC. 503. PRESUMPTION THAT BRONCHIOLO-ALVEOLAR CARCINOMA IS SERVICE-
+            CONNECTED.
+
+    Section 1112(c)(2) is amended by adding at the end the following new 
+subparagraph:
+            ``(P) Bronchiolo-alveolar carcinoma.''.
+
+                         Subtitle B--Employment
+
+SEC. 511. CLARIFICATION OF VETERANS' CIVIL SERVICE EMPLOYMENT 
+            OPPORTUNITIES.
+
+    (a) Coordination of Amendments.--If the Federal Reserve Board 
+Retirement Portability Act is enacted before this Act, the amendments 
+made by subsection (b) shall be made and the amendments made by 
+subsection (c) shall not be made. Otherwise, the amendments made by 
+subsection (c) shall be made and the amendments made by subsection (b) 
+and the amendments made by section 204 of the Federal Reserve Board 
+Retirement Portability Act shall not be made.
+    (b) Clarification of Civil Service Employment Opportunities.--
+Subject to subsection (a), section 3304(f ) of title 5, United States 
+Code, as amended by section 204 of the Federal Reserve Board Retirement 
+Portability Act, is amended--
+            (1) in paragraph (2), as added by such section, by striking 
+        ``shall acquire competitive status and''; and
+            (2) by adding at the end the following new paragraph:
+
+    ``(5) <<NOTE: Regulations.>>  The Office of Personnel Management 
+shall prescribe regulations necessary for the administration of this 
+subsection. The regulations shall ensure that an individual who has 
+completed an initial tour of active duty is not excluded from the 
+application of this subsection because of having been released from such 
+tour of duty shortly before completing 3 years of active service, having 
+been honorably released from such duty.''.
+
+    (c) Clarification of Civil Service Employment Opportunities.--
+Subject to subsection (a), section 3304(f ) of title 5, United States 
+Code, is amended--
+            (1) by striking paragraph (4);
+            (2) by redesignating paragraphs (2) and (3) as paragraphs 
+        (3) and (4), respectively;
+            (3) by inserting after paragraph (1) the following new 
+        paragraph (2):
+
+    ``(2) If selected, a preference eligible or veteran described in 
+paragraph (1) shall receive a career or career-conditional appointment, 
+as appropriate.''; and
+            (4) by adding at the end the following new paragraph:
+
+    ``(5) <<NOTE: Regulations.>>  The Office of Personnel Management 
+shall prescribe regulations necessary for the administration of this 
+subsection. The regulations shall ensure that an individual who has 
+completed an initial tour of active duty is not excluded from the 
+application of this subsection because of having been released from such 
+tour of duty shortly before completing 3 years of active service, having 
+been honorably released from such duty.''.
+
+    (d) <<NOTE: Applicability.>>  Effective Date.--(1) If pursuant to 
+subsection (a) the amendments specified in subsection (b) are made, 
+those amendments shall apply as if included in section 204 of the 
+Federal Reserve Board Retirement Portability Act.
+
+[[Page 113 STAT. 1576]]
+
+    (2) <<NOTE: 5 USC 3304 note.>>  If pursuant to subsection (a) the 
+amendments specified in subsection (c) are made, those amendments shall 
+take effect as of October 31, 1998, as if included in subsection (f ) of 
+section 3304 of title 5, United States Code, as enacted by section 2 of 
+the Veterans Employment Opportunities Act of 1998 (Public Law 105-339; 
+112 Stat. 3182).
+
+                   TITLE VI--MEMORIAL AFFAIRS MATTERS
+
+            Subtitle A--American Battle Monuments Commission
+
+SEC. 601. CODIFICATION AND EXPANSION OF AUTHORITY FOR WORLD WAR II 
+            MEMORIAL.
+
+    (a) Codification of Existing Authority; Expansion of Authority.--(1) 
+Chapter 21 of title 36, United States Code, is amended by adding at the 
+end the following new section:
+
+``Sec. 2113. World War II memorial in the District of Columbia
+
+    ``(a) Solicitation and Acceptance of Contributions.--(1) Consistent 
+with its authority under section 2103(e) of this title, the American 
+Battle Monuments Commission shall solicit and accept contributions for 
+the World War II memorial.
+    ``(2) In this section, the term `World War II memorial' means the 
+memorial authorized by Public Law 103-32 (40 U.S.C. 1003 note) to be 
+established by the Commission on Federal land in the District of 
+Columbia or its environs to honor members of the Armed Forces who served 
+in World War II and to commemorate the participation of the United 
+States in that war.
+    ``(b) Creation of Memorial Fund.--(1) There is hereby created in the 
+Treasury a fund for the World War II memorial, which shall consist of 
+the following:
+            ``(A) Amounts deposited, and interest and proceeds credited, 
+        under paragraph (2).
+            ``(B) Obligations obtained under paragraph (3).
+            ``(C) The amount of surcharges paid to the Commission for 
+        the World War II memorial under the World War II 50th 
+        Anniversary Commemorative Coins Act (31 U.S.C. 5112 note).
+            ``(D) Amounts borrowed using the authority provided under 
+        subsection (d).
+            ``(E) Any funds received by the Commission under section 
+        2114 of this title in exchange for use of, or the right to use, 
+        any mark, copyright or patent.
+
+    ``(2) The Chairman of the Commission shall deposit in the fund the 
+amounts accepted as contributions under subsection (a). The Secretary of 
+the Treasury shall credit to the fund the interest on, and the proceeds 
+from sale or redemption of, obligations held in the fund.
+    ``(3) The Secretary of the Treasury shall invest any portion of the 
+fund that, as determined by the Chairman, is not required to meet 
+current expenses. Each investment shall be made in an interest-bearing 
+obligation of the United States or an obligation guaranteed as to 
+principal and interest by the United States that,
+
+[[Page 113 STAT. 1577]]
+
+as determined by the Chairman, has a maturity suitable for the fund.
+    ``(c) Use of Fund.--The fund shall be available to the Commission--
+            ``(1) for the expenses of establishing the World War II 
+        memorial, including the maintenance and preservation amount 
+        provided for in section 8(b) of the Commemorative Works Act (40 
+        U.S.C. 1008(b));
+            ``(2) for such other expenses, other than routine 
+        maintenance, with respect to the World War II memorial as the 
+        Commission considers warranted; and
+            ``(3) to secure, obtain, register, enforce, protect, and 
+        license any mark, copyright, or patent that is owned by, 
+        assigned to, or licensed to the Commission under section 2114 of 
+        this title to aid or facilitate the construction of the World 
+        War II memorial.
+
+    ``(d) Special Borrowing Authority.--(1) To assure that 
+groundbreaking, construction, and dedication of the World War II 
+memorial are carried out on a timely basis, the Commission may borrow 
+money from the Treasury of the United States in such amounts as the 
+Commission considers necessary, but not to exceed a total of 
+$65,000,000. Borrowed amounts shall bear interest at a rate determined 
+by the Secretary of the Treasury, taking into consideration the average 
+market yield on outstanding marketable obligations of the United States 
+of comparable maturities during the month preceding the month in which 
+the obligations of the Commission are issued. The interest payments on 
+such obligations may be deferred with the approval of the Secretary, but 
+any interest payment so deferred shall also bear interest.
+    ``(2) The borrowing of money by the Commission under paragraph (1) 
+shall be subject to such maturities, terms, and conditions as may be 
+agreed upon by the Commission and the Secretary, except that the 
+maturities may not exceed 20 years and such borrowings may be redeemable 
+at the option of the Commission before maturity.
+    ``(3) The obligations of the Commission shall be issued in amounts 
+and at prices approved by the Secretary. The authority of the Commission 
+to issue obligations under this subsection shall remain available 
+without fiscal year limitation. The Secretary of the Treasury shall 
+purchase any obligations of the Commission to be issued under this 
+subsection, and for such purpose the Secretary of the Treasury may use 
+as a public debt transaction of the United States the proceeds from the 
+sale of any securities issued under chapter 31 of title 31. The purposes 
+for which securities may be issued under such chapter are extended to 
+include any purchase of the Commission's obligations under this 
+subsection.
+    ``(4) Repayment of the interest and principal on any funds borrowed 
+by the Commission under paragraph (1) shall be made from amounts in the 
+fund. The Commission may not use for such purpose any funds appropriated 
+for any other activities of the Commission.
+    ``(e) Treatment of Borrowing Authority.--In determining whether the 
+Commission has sufficient funds to complete construction of the World 
+War II memorial, as required by section 8 of the Commemorative Works Act 
+(40 U.S.C. 1008), the Secretary of the Interior shall consider the funds 
+that the Commission may borrow from the Treasury under subsection (d) as 
+funds available
+
+[[Page 113 STAT. 1578]]
+
+to complete construction of the memorial, whether or not the Commission 
+has actually exercised the authority to borrow such funds.
+    ``(f ) Voluntary Services.--(1) Notwithstanding section 1342 of 
+title 31, the Commission may accept from any person voluntary services 
+to be provided in furtherance of the fund-raising activities of the 
+Commission relating to the World War II memorial.
+    ``(2) A person providing voluntary services under this subsection 
+shall be considered to be a Federal employee for purposes of chapter 81 
+of title 5, relating to compensation for work-related injuries, and 
+chapter 171 of title 28, relating to tort claims. A volunteer who is not 
+otherwise employed by the United States shall not be considered to be a 
+Federal employee for any other purpose by reason of the provision of 
+such voluntary service, except that any volunteer given responsibility 
+for the handling of funds or the carrying out of a Federal function is 
+subject to the conflict of interest laws contained in chapter 11 of 
+title 18 and the administrative standards of conduct contained in part 
+2635 of title 5 of the Code of Federal Regulations.
+    ``(3) The Commission may provide for reimbursement of incidental 
+expenses that are incurred by a person providing voluntary services 
+under this subsection. The Commission shall determine those expenses 
+that are eligible for reimbursement under this paragraph.
+    ``(4) Nothing in this subsection shall be construed to require any 
+Federal employee to work without compensation or to allow the use of 
+volunteer services to displace or replace any Federal employee.
+    ``(g) Treatment of Certain Contracts.--A contract entered into by 
+the Commission for the design or construction of the World War II 
+memorial is not a funding agreement as that term is defined in section 
+201 of title 35.
+    ``(h) <<NOTE: Expiration date.>>  Extension of Authority To 
+Establish Memorial.--Notwithstanding section 10 of the Commemorative 
+Works Act (40 U.S.C. 1010), the authority for the construction of the 
+World War II memorial provided by Public Law 103-32 (40 U.S.C. 1003 
+note) expires on December 31, 2005.''.
+
+    (2) The table of sections at the beginning of such chapter is 
+amended by adding at the end the following new item:
+
+``2113. World War II memorial in the District of Columbia.''.
+
+    (b) Conforming Amendments.--Public Law 103-32 (40 U.S.C. 1003 note) 
+is amended by striking sections 3, 4, and 5.
+    (c) <<NOTE: 36 USC 2113 note.>>  Effect of Repeal of Current 
+Memorial Fund.--Upon the enactment of this Act, the Secretary of the 
+Treasury shall transfer amounts in the fund created by section 4(a) of 
+Public Law 103-32 (40 U.S.C. 1003 note) to the fund created by section 
+2113(b) of title 36, United States Code, as added by subsection (a).
+
+SEC. 602. GENERAL AUTHORITY TO SOLICIT AND RECEIVE CONTRIBUTIONS.
+
+    Subsection (e) of section 2103 of title 36, United States Code, is 
+amended to read as follows:
+    ``(e) Solicitation and Receipt of Contributions.--(1) The Commission 
+may solicit and receive funds and in-kind donations and gifts from any 
+State, municipal, or private source to carry
+
+[[Page 113 STAT. 1579]]
+
+out the purposes of this chapter. The Commission shall deposit such 
+funds in a separate account in the Treasury. Funds from that account 
+shall be disbursed upon vouchers approved by the Chairman of the 
+Commission.
+    ``(2) <<NOTE: Guidelines.>>  The Commission shall establish written 
+guidelines setting forth the criteria to be used in determining whether 
+the acceptance of funds and in-kind donations and gifts under paragraph 
+(1) would--
+            ``(A) reflect unfavorably on the ability of the Commission, 
+        or any member or employee of the Commission, to carry out the 
+        responsibilities or official duties of the Commission in a fair 
+        and objective manner; or
+            ``(B) compromise the integrity or the appearance of the 
+        integrity of the programs of the Commission or any official 
+        involved in those programs.''.
+
+SEC. 603. INTELLECTUAL PROPERTY AND RELATED ITEMS.
+
+    (a) In General.--Chapter 21 of title 36, United States Code, as 
+amended by section 601(a)(1), is further amended by adding at the end 
+the following new section:
+
+``Sec. 2114. Intellectual property and related items
+
+    ``(a) Authority To Use and Register Intellectual Property.--The 
+American Battle Monuments Commission may--
+            ``(1) adopt, use, register, and license trademarks, service 
+        marks, and other marks;
+            ``(2) obtain, use, register, and license the use of 
+        copyrights consistent with section 105 of title 17;
+            ``(3) obtain, use, and license patents; and
+            ``(4) accept gifts of marks, copyrights, patents, and 
+        licenses for use by the Commission.
+
+    ``(b) Authority To Grant Licenses.--The Commission may grant 
+exclusive and nonexclusive licenses in connection with any mark, 
+copyright, patent, or license for the use of such mark, copyright or 
+patent, except to the extent the grant of such license by the Commission 
+would be contrary to any contract or license by which the use of the 
+mark, copyright, or patent was obtained.
+    ``(c) Enforcement Authority.--The Commission may enforce any mark, 
+copyright, or patent by an action in the district courts under any law 
+providing for the protection of such marks, copyrights, or patents.
+    ``(d) Legal Representation.--The Attorney General shall furnish the 
+Commission with such legal representation as the Commission may require 
+under subsection (c). The Secretary of Defense shall provide 
+representation for the Commission in administrative proceedings before 
+the Patent and Trademark Office and Copyright Office.
+    ``(e) Irrevocability of Transfers of Copyrights to Commission.--
+Section 203 of title 17 shall not apply to any copyright transferred in 
+any manner to the Commission.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter, as amended by section 601(a)(2), is further amended by 
+adding at the end the following new item:
+
+``2114. Intellectual property and related items.''.
+
+
+[[Page 113 STAT. 1580]]
+
+
+
+SEC. 604. TECHNICAL AMENDMENTS.
+
+    Chapter 21 of title 36, United States Code, is amended as follows:
+            (1) Section 2101(b) is amended--
+                    (A) by striking ``title 37, United States Code,'' in 
+                paragraph (2) and inserting ``title 37''; and
+                    (B) by striking ``title 5, United States Code,'' in 
+                paragraph (3) and inserting ``title 5''.
+            (2) Section 2102(a)(1) is amended, by striking ``title 5, 
+        United States Code'' and inserting ``title 5''.
+            (3) Section 2103 is amended--
+                    (A) by striking ``title 31, United States Code'' in 
+                subsection (h)(2)(A)(i) and inserting ``title 31'';
+                    (B) by striking ``title 44, United States Code'' in 
+                subsection (i) and inserting ``title 44''; and
+                    (C) by striking ``chairman'' each place it appears 
+                and inserting ``Chairman''.
+
+                     Subtitle B--National Cemeteries
+
+SEC. 611. <<NOTE: 38 USC 2400 note.>>  ESTABLISHMENT OF ADDITIONAL 
+            NATIONAL CEMETERIES.
+
+    (a) Establishment.--The Secretary shall establish, in accordance 
+with chapter 24 of title 38, United States Code, a national cemetery in 
+each of the six areas in the United States that the Secretary determines 
+to be most in need of such a cemetery to serve the needs of veterans and 
+their families.
+    (b) Obligation of Funds in Fiscal Year 2000.--The Secretary shall 
+obligate, from the advance planning fund in the Construction, Major 
+Projects account appropriated to the Department for fiscal year 2000, 
+such amounts for costs that the Secretary estimates are required for the 
+planning and commencement of the establishment of national cemeteries 
+under this section.
+    (c) <<NOTE: Deadlines.>>  Reports.--(1) Not later than 120 days 
+after the date of the enactment of this Act, the Secretary shall submit 
+to Congress a report on the establishment of the national cemeteries 
+under subsection (a). The report shall set forth the following:
+            (A) The six areas of the United States determined by the 
+        Secretary to be most in need of the establishment of a new 
+        national cemetery.
+            (B) A schedule for such establishment.
+            (C) An estimate of the costs associated with such 
+        establishment.
+            (D) The amount obligated from the advance planning fund 
+        under subsection (b).
+
+    (2) Not later than one year after the date on which the report 
+described in paragraph (1) is submitted, and annually thereafter until 
+the establishment of the national cemeteries under subsection (a) is 
+complete, the Secretary shall submit to Congress a report that updates 
+the information included in the report described in paragraph (1).
+
+SEC. 612. <<NOTE: 38 USC 2404 note.>>  USE OF FLAT GRAVE MARKERS AT 
+            SANTA FE NATIONAL CEMETERY, NEW MEXICO.
+
+    Notwithstanding section 2404(c)(2) of title 38, United States Code, 
+the Secretary may provide for flat grave markers at the Santa Fe 
+National Cemetery, New Mexico.
+
+[[Page 113 STAT. 1581]]
+
+SEC. 613. <<NOTE: 38 USC 2404 note.>>  INDEPENDENT STUDY ON IMPROVEMENTS 
+            TO VETERANS' CEMETERIES.
+
+    (a) Study.--Not <<NOTE: Deadline. Contracts.>>  later than 180 days 
+after the date of the enactment of this Act, the Secretary shall enter 
+into a contract with one or more qualified organizations to conduct a 
+study of national cemeteries described in subsection (b). For purposes 
+of this section, an entity of Federal, State, or local government is not 
+a qualified organization.
+
+    (b) Matters Studied.--(1) The study conducted pursuant to the 
+contract entered into under subsection (a) shall include an assessment 
+of each of the following:
+            (A) The one-time repairs required at each national cemetery 
+        under the jurisdiction of the National Cemetery Administration 
+        of the Department of Veterans Affairs to ensure a dignified and 
+        respectful setting appropriate to such cemetery, taking into 
+        account the variety of age, climate, and burial options at 
+        individual national cemeteries.
+            (B) The feasibility of making standards of appearance of 
+        active national cemeteries, and the feasibility of making 
+        standards of appearance of closed national cemeteries, 
+        commensurate with standards of appearance of the finest 
+        cemeteries in the world.
+            (C) The number of additional national cemeteries that will 
+        be required for the interment and memorialization in such 
+        cemeteries of individuals qualified under chapter 24 of title 
+        38, United States Code, who die after 2005.
+            (D) The advantages and disadvantages of the use by the 
+        National Cemetery Administration of flat grave markers and 
+        upright grave markers.
+            (E) The current condition of flat grave marker sections at 
+        each of the national cemeteries.
+
+    (2) In presenting the assessment of additional national cemeteries 
+required under paragraph (1)(C), the report shall identify by five-year 
+period, beginning with 2005 and ending with 2020, the following:
+            (A) The number of additional national cemeteries required 
+        during each such five-year period.
+            (B) With respect to each such five-year period, the areas in 
+        the United States with the greatest concentration of veterans 
+        whose needs are not served by national cemeteries or State 
+        veterans' cemeteries.
+
+    (c) <<NOTE: Deadlines.>>  Report.--(1) Not later than one year after 
+the date on which a qualified organization enters into a contract under 
+subsection (a), the organization shall submit to the Secretary a report 
+setting forth the results of the study conducted and conclusions of the 
+organization with respect to such results.
+
+    (2) Not later than 120 days after the date on which a report is 
+submitted under paragraph (1), the Secretary shall transmit to the 
+Committees on Veterans' Affairs of the House of Representatives and the 
+Senate a copy of the report, together with any comments on the report 
+that the Secretary considers appropriate.
+
+[[Page 113 STAT. 1582]]
+
+                       Subtitle C--Burial Benefits
+
+SEC. 621. INDEPENDENT STUDY ON IMPROVEMENTS TO VETERANS' BURIAL 
+            BENEFITS.
+
+    (a) <<NOTE: Deadline. Contracts.>>  Study.--Not later than 60 days 
+after the date of the enactment of this Act, the Secretary shall enter 
+into a contract with one or more qualified organizations to conduct a 
+study of burial benefits under chapter 23 of title 38, United States 
+Code. For purposes of this section, an entity of Federal, State, or 
+local government is not a qualified organization.
+
+    (b) Matters Studied.--The study conducted pursuant to the contract 
+entered into under subsection (a) shall include consideration of the 
+following:
+            (1) An assessment of the adequacy and effectiveness of the 
+        burial benefits administered by the Secretary under chapter 23 
+        of title 38, United States Code, in meeting the burial needs of 
+        veterans and their families.
+            (2) Options to better serve the burial needs of veterans and 
+        their families, including modifications to burial benefit 
+        amounts and eligibility, together with the estimated cost for 
+        each such modification.
+            (3) Expansion of the authority of the Secretary to provide 
+        burial benefits for burials in private-sector cemeteries and to 
+        make grants to private-sector cemeteries.
+
+    (c) <<NOTE: Deadlines.>>  Report.--(1) Not later than 120 days after 
+the date on which a qualified organization enters into a contract under 
+subsection (a), the organization shall submit to the Secretary a report 
+setting forth the results of the study conducted and conclusions of the 
+organization with respect to those results.
+
+    (2) Not later than 60 days after the date on which a report is 
+submitted under paragraph (1), the Secretary shall transmit to the 
+Committees on Veterans' Affairs of the Senate and House of 
+Representatives a copy of the report, together with any comments on the 
+report that the Secretary considers appropriate.
+
+                TITLE VII--EDUCATION AND HOUSING MATTERS
+
+                      Subtitle A--Education Matters
+
+SEC. 701. AVAILABILITY OF MONTGOMERY GI BILL BENEFITS FOR PREPARATORY 
+            COURSES FOR COLLEGE AND GRADUATE SCHOOL ENTRANCE EXAMS.
+
+    Section 3002(3) is amended--
+            (1) by striking ``, and'' at the end of subparagraph (A) and 
+        inserting a semicolon;
+            (2) by redesignating subparagraph (B) as subparagraph (C); 
+        and
+            (3) by inserting after subparagraph (A) the following new 
+        subparagraph (B):
+            ``(B) includes--
+                    ``(i) a preparatory course for a test that is 
+                required or used for admission to an institution of 
+                higher education; and
+
+[[Page 113 STAT. 1583]]
+
+                    ``(ii) a preparatory course for a test that is 
+                required or used for admission to a graduate school; 
+                and''.
+
+SEC. 702. DETERMINATION OF ELIGIBILITY PERIOD FOR MEMBERS OF THE ARMED 
+            FORCES COMMISSIONED FOLLOWING COMPLETION OF OFFICER TRAINING 
+            SCHOOL.
+
+    (a) Measurement of Period Counted for GI Bill Eligibility.--Section 
+3011(f ) is amended--
+            (1) in paragraph (1), by striking ``paragraph (2)'' and 
+        inserting ``paragraph (2) or (3)''; and
+            (2) by adding at the end the following new paragraph:
+
+    ``(3) <<NOTE: Applicability.>>  This subsection applies to a member 
+who after a period of continuous active duty as an enlisted member or 
+warrant officer, and following successful completion of officer training 
+school, is discharged in order to accept, without a break in service, a 
+commission as an officer in the Armed Forces for a period of active 
+duty.''.
+
+    (b) Conforming Amendments for Time Limitation for Use of Eligibility 
+and Entitlement.--Section 3031 is amended--
+            (1) by redesignating subsection (g) as subsection (h);
+            (2) in subsection (a)--
+                    (A) by striking ``through (e)'' and inserting 
+                ``through (g)''; and
+                    (B) by striking ``subsection (g)'' and inserting 
+                ``subsection (h)''; and
+            (3) by inserting after subsection (f ) the following new 
+        subsection:
+
+    ``(g) In the case of an individual described in section 3011(f )(3) 
+of this title, the period during which that individual may use the 
+individual's entitlement to educational assistance allowance expires on 
+the last day of the 10-year period beginning on the date of the 
+enactment of the Veterans Millennium Health Care and Benefits Act if 
+that date is later than the date that would otherwise be applicable to 
+that individual under this section.''.
+    (c) <<NOTE: Applicability. 38 USC 3011 note.>>  Effective Date.--The 
+amendments made by subsection (a) shall take effect on the date of the 
+enactment of this Act and apply with respect to an individual first 
+appointed as a commissioned officer on or after July 1, 1985.
+
+SEC. 703. REPORT ON VETERANS' EDUCATION AND VOCATIONAL TRAINING BENEFITS 
+            PROVIDED BY THE STATES.
+
+    (a) <<NOTE: Deadlines.>>  Report.--(1) Not later than six months 
+after the date of the enactment of this Act, the Secretary shall submit 
+to the Committees on Veterans' Affairs of the Senate and the House of 
+Representatives a report on veterans education and vocational training 
+benefits provided by the States.
+
+    (2) Benefits to be considered to be veterans education and 
+vocational training benefits for the purpose of this section include any 
+education or vocational training benefit provided by a State (including 
+any political subdivision of a State) for which persons are eligible by 
+reason of service in the Armed Forces, including, in the case of persons 
+who died in the Armed Forces or as a result of a disease or disability 
+incurred in the Armed Forces, benefits provided by reason of the service 
+of those persons to their survivors or dependents.
+    (3) For purposes of this section, the term ``veteran'' includes a 
+person serving on active duty or in one of the reserve components and a 
+person who died while in the active military, naval, or air service.
+
+[[Page 113 STAT. 1584]]
+
+    (b) Matters To Be Included.--The report under this section shall 
+include the following:
+            (1) A description, by State, of the veterans education and 
+        vocational training benefits provided, including--
+                    (A) identification of benefits that are provided 
+                specifically for disabled veterans or for which disabled 
+                veterans receive benefits in a different amount; and
+                    (B) identification of benefits for which survivors 
+                of persons who died in the Armed Forces (or as a result 
+                of a disease or disability incurred in the Armed Forces) 
+                or who were disabled in the Armed Forces are eligible.
+            (2) For each State that provides a veterans education 
+        benefit consisting of full or partial tuition assistance for 
+        post-secondary education, a description of that benefit, 
+        including whether the benefit is limited to tuition for 
+        attendance at an institution of higher education in that State 
+        or to tuition for attendance at a public institution of higher 
+        education in that State.
+            (3) A description of actions and programs of the Department 
+        of Veterans Affairs, the Department of Defense, the Department 
+        of Education, and the Department of Labor to encourage the 
+        States to provide benefits designed to assist veterans in 
+        securing post-secondary education and vocational training.
+
+    (c) Consultation.--The report under this section shall be prepared 
+in consultation with the Secretary of Education, the Secretary of 
+Defense, and the Secretary of Labor.
+    (d) State Defined.--For purposes of this section, the term ``State'' 
+has the meaning given that term in section 101(20) of title 38, United 
+States Code.
+
+SEC. 704. TECHNICAL AMENDMENTS.
+
+    Sections 3011(i) and 3012(g)(1) are amended by striking 
+``Federal''.
+
+                       Subtitle B--Housing Matters
+
+SEC. 711. EXTENSION OF AUTHORITY FOR HOUSING LOANS FOR MEMBERS OF THE 
+            SELECTED RESERVE.
+
+    Section 3702(a)(2)(E) is amended by striking ``September 30, 2003,'' 
+and inserting ``September 30, 2007,''.
+
+SEC. 712. TECHNICAL AMENDMENT RELATING TO TRANSITIONAL HOUSING LOAN 
+            GUARANTEE PROGRAM.
+
+    Section 3775 is amended--
+            (1) by inserting ``(a)'' before ``During each''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(b) After the first three years of operation of such a multifamily 
+transitional housing project, the Secretary may provide for periodic 
+audits of the project.''.
+
+[[Page 113 STAT. 1585]]
+
+    TITLE VIII--DEPARTMENT OF VETERANS AFFAIRS ADMINISTRATIVE MATTERS
+
+SEC. 801. ENHANCED QUALITY ASSURANCE PROGRAM WITHIN THE VETERANS 
+            BENEFITS ADMINISTRATION.
+
+    (a) In General.--(1) Chapter 77 is amended by adding at the end the 
+following new subchapter:
+
+                   ``SUBCHAPTER III--QUALITY ASSURANCE
+
+``Sec. 7731. Establishment
+
+    ``(a) The Secretary shall carry out a quality assurance program in 
+the Veterans Benefits Administration. The program may be carried out 
+through a single quality assurance division in the Administration or 
+through separate quality assurance entities for each of the principal 
+organizational elements (known as `services') of the Administration.
+    ``(b) The Secretary shall ensure that any quality assurance entity 
+established and operated under subsection (a) is established and 
+operated so as to meet generally applicable governmental standards for 
+independence and internal controls for the performance of quality 
+reviews of Government performance and results.
+
+``Sec. 7732. Functions
+
+    ``The Under Secretary for Benefits, acting through the quality 
+assurance entities established under section 7731(a), shall on an 
+ongoing basis perform and oversee quality reviews of the functions of 
+each of the principal organizational elements of the Veterans Benefits 
+Administration.
+
+``Sec. 7733. Personnel
+
+    ``The Secretary shall ensure that the number of full-time employees 
+of the Veterans Benefits Administration assigned to quality assurance 
+functions under this subchapter is adequate to perform the quality 
+assurance functions for which they have responsibility.
+
+``Sec. 7734. Annual report to Congress
+
+    ``The Secretary shall include in the annual report to the Congress 
+required by section 529 of this title a report on the quality assurance 
+activities carried out under this subchapter. Each such report shall 
+include--
+            ``(1) an appraisal of the quality of services provided by 
+        the Veterans Benefits Administration, including--
+                    ``(A) the number of decisions reviewed;
+                    ``(B) a summary of the findings on the decisions 
+                reviewed;
+                    ``(C) the number of full-time equivalent employees 
+                assigned to quality assurance in each division or 
+                entity;
+                    ``(D) specific documentation of compliance with the 
+                standards for independence and internal control required 
+                by section 7731(b) of this title; and
+                    ``(E) actions taken to improve the quality of 
+                services provided and the results obtained;
+
+[[Page 113 STAT. 1586]]
+
+            ``(2) information with respect to the accuracy of decisions, 
+        including trends in that information; and
+            ``(3) such other information as the Secretary considers 
+        appropriate.''.
+
+    (2) The table of sections at the beginning of such chapter is 
+amended by adding at the end the following new items:
+
+                   ``SUBCHAPTER III--QUALITY ASSURANCE
+
+``7731. Establishment.
+``7732. Functions.
+``7733. Personnel.
+``7734. Annual report to Congress.''.
+
+    (b) <<NOTE: 38 USC 7731 note.>>  Effective Date.--Subchapter III of 
+chapter 77 of title 38, United States Code, as added by subsection (a), 
+shall take effect at the end of the 60-day period beginning on the date 
+of the enactment of this Act.
+
+SEC. 802. EXTENSION OF AUTHORITY TO MAINTAIN A REGIONAL OFFICE IN THE 
+            REPUBLIC OF THE PHILIPPINES.
+
+    Section 315(b) is amended by striking ``December 31, 1999'' and 
+inserting ``December 31, 2003''.
+
+SEC. 803. EXTENSION OF ADVISORY COMMITTEE ON MINORITY VETERANS.
+
+    Section 544(e) is amended by striking ``December 31, 1999'' and 
+inserting ``December 31, 2003''.
+
+SEC. 804. TECHNICAL AMENDMENT TO AUTOMOBILE ASSISTANCE PROGRAM.
+
+    Section 3903(e)(2) is amended by striking ``(not owned by the 
+Government)''.
+
+                  TITLE IX--HOMELESS VETERANS PROGRAMS
+
+SEC. 901. HOMELESS VETERANS' REINTEGRATION PROGRAMS.
+
+    (a) In General.--Chapter 41 is amended by adding at the end the 
+following new section:
+
+``Sec. 4111. Homeless veterans' reintegration programs
+
+    ``(a) In General.--The Secretary, acting through the Assistant 
+Secretary of Labor for Veterans' Employment and Training, shall conduct, 
+directly or through grant or contract, such programs as the Secretary 
+determines appropriate to expedite the reintegration of homeless 
+veterans into the labor force.
+    ``(b) Authority To Monitor Expenditure of Funds.--The Secretary may 
+collect such information as the Secretary considers appropriate to 
+monitor and evaluate the distribution and expenditure of funds 
+appropriated to carry out this section, and such information shall be 
+furnished to the Secretary in such form as the Secretary determines 
+appropriate.
+    ``(c) Definition.--For purposes of this section, the term `homeless 
+veteran' has the meaning given that term by section 3771(2) of this 
+title.
+    ``(d) Authorization of Appropriations.--(1) There are authorized to 
+be appropriated to carry out this section amounts as follows:
+            ``(A) $10,000,000 for fiscal year 2000.
+
+[[Page 113 STAT. 1587]]
+
+            ``(B) $15,000,000 for fiscal year 2001.
+            ``(C) $20,000,000 for fiscal year 2002.
+            ``(D) $20,000,000 for fiscal year 2003.
+
+    ``(2) Funds obligated for any fiscal year to carry out this section 
+may be expended in that fiscal year and the succeeding fiscal year.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by adding at the end the following new item:
+
+``4111. Homeless veterans' reintegration programs.''.
+
+SEC. 902. EXTENSION OF PROGRAM OF HOUSING ASSISTANCE FOR HOMELESS 
+            VETERANS.
+
+    Section 3735(c) is amended by striking ``December 31, 1999'' and 
+inserting ``December 31, 2003''.
+
+SEC. 903. HOMELESS VETERANS PROGRAMS.
+
+    The Homeless Veterans Comprehensive Service Programs Act of 1992 (38 
+U.S.C. 7721 note) is amended as follows:
+            (1) Section 3(a)(1) is amended by inserting ``, and 
+        expanding existing programs for furnishing,'' after ``new 
+        programs to furnish''.
+            (2) Section 3(a)(2) is amended by striking ``September 30, 
+        1999'' and inserting ``September 30, 2003''.
+            (3) Section 3(b)(2) is amended by striking ``and no more 
+        than 20 programs which incorporate the procurement of vans as 
+        described in paragraph (1)''.
+            (4) Section 12 is amended in the first sentence by inserting 
+        ``and $50,000,000 for each of fiscal years 2000 and 2001'' after 
+        ``for fiscal years 1993 through 1997''.
+
+SEC. 904. PLAN FOR EVALUATION OF PERFORMANCE OF PROGRAMS TO ASSIST 
+            HOMELESS VETERANS.
+
+    (a) <<NOTE: Deadline.>>  Report.--Not later than 90 days after the 
+date of the enactment of this Act, the Secretary shall submit to the 
+Committees on Veterans' Affairs of the Senate and the House of 
+Representatives a report containing a detailed plan for the evaluation 
+by the Department of Veterans Affairs of the effectiveness of programs 
+to assist homeless veterans. The plan shall be prepared in consultation 
+with the Secretary of Housing and Urban Development and the Secretary of 
+Labor.
+
+    (b) Inclusion of Outcome Measures.--The plan shall include outcome 
+measures to show whether veterans for whom housing or employment is 
+secured through one or more of those programs continue to be housed or 
+employed, as the case may be, after six months.
+
+    TITLE <<NOTE: Court of Appeals for Veterans Claims Amendments of 
+1999.>> X--UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS
+
+SEC. 1001. <<NOTE: 38 USC 101 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Court of Appeals for Veterans 
+Claims Amendments of 1999''.
+
+[[Page 113 STAT. 1588]]
+
+SEC. 1002. <<NOTE: 38 USC 7296 note.>>  DEFINITION.
+
+    In this title, the term ``Court'' means the United States Court of 
+Appeals for Veterans Claims.
+
+     Subtitle A--Transitional Provisions To Stagger Terms of Judges
+
+SEC. 1011. <<NOTE: 38 USC 7296 note.>>  EARLY RETIREMENT AUTHORITY FOR 
+            CURRENT JUDGES.
+
+    (a) Retirement Authorized.--One eligible judge may retire in 
+accordance with this section in 2000 or 2001, and one additional 
+eligible judge may retire in accordance with this section in 2001.
+    (b) Eligible Judges.--For purposes of this section, an eligible 
+judge is a judge of the Court (other than the chief judge) who--
+            (1) has at least 10 years of service creditable under 
+        section 7296 of title 38, United States Code;
+            (2) has made an election to receive retired pay under 
+        section 7296 of such title;
+            (3) has at least 20 years of service described in section 
+        7297(l) of such title; and
+            (4) is at least 55 years of age.
+
+    (c) Multiple Eligible Judges.--If for any year specified in 
+subsection (a) more than one eligible judge provides notice in 
+accordance with subsection (d), the judge who has the greatest seniority 
+as a judge of the Court shall be the judge who is eligible to retire in 
+accordance with this section in that year.
+    (d) <<NOTE: President.>>  Notice.--An eligible judge who desires to 
+retire in accordance with this section with respect to any year covered 
+by subsection (a) shall provide to the President and the chief judge of 
+the Court written notice to that effect and stating that the judge 
+agrees to the temporary service requirements of subsection ( 
+j). <<NOTE: Deadline.>>  Such notice shall be provided not later than 
+April 1 of that year and shall specify the retirement date in accordance 
+with subsection (e). Notice provided under this subsection shall be 
+irrevocable.
+
+    (e) Date of Retirement.--A judge who is eligible to retire in 
+accordance with this section shall be retired during the calendar year 
+as to which notice is provided pursuant to subsection (d), but not 
+earlier than 30 days after the date on which that notice is provided 
+pursuant to subsection (d).
+    (f ) Applicable Provisions.--Except as provided in subsections (g) 
+and ( j), a judge retired in accordance with this section shall be 
+considered for all purposes to be retired under section 7296(b)(1) of 
+title 38, United States Code.
+    (g) Applicability of Recall Status Authority.--The provisions of 
+section 7257 of this title shall apply to a judge retired in accordance 
+with this section as if the judge is a judge specified in subsection 
+(a)(2)(A) of that section.
+    (h) Rate of Retired Pay.--The rate of retired pay for a judge 
+retiring in accordance with this section is--
+            (1) the rate applicable to that judge under section 
+        7296(c)(1) of title 38, United States Code, multiplied by
+            (2) the fraction (not in excess of 1) in which--
+                    (A) the numerator is the number of years of service 
+                of the judge as a judge of the Court creditable under 
+                section 7296 of such title; and
+                    (B) the denominator is 15.
+
+[[Page 113 STAT. 1589]]
+
+    (i) <<NOTE: Applicability.>>  Adjustments in Retired Pay for Judges 
+Available for Recall.--Subject to section 7296(f )(3)(B) of title 38, 
+United States Code, an adjustment provided by law in annuities payable 
+under civil service retirement laws shall apply to retired pay under 
+this section in the case of a judge who is a recall-eligible retired 
+judge under section 7257 of such title or who was a recall-eligible 
+retired judge under that section and was removed from recall status 
+under subsection (b)(4) of that section by reason of disability.
+
+    ( j) Duty of Actuary.--Section 7298(e)(2) is amended--
+            (1) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (2) by inserting after subparagraph (B) the following new 
+        subparagraph:
+
+    ``(C) For purposes of subparagraph (B), the term `present value' 
+includes a value determined by an actuary with respect to a payment that 
+may be made under subsection (b) from the retirement fund within the 
+contemplation of law.''.
+    (k) Transitional Service of Judge Retired Under This Section.--(1) A 
+judge who retires under this section shall continue to serve on the 
+Court during the period beginning on the effective date of the judge's 
+retirement under subsection (e) and ending on the earlier of--
+            (A) the date on which a person is appointed to the position 
+        on the Court vacated by the judge's retirement; and
+            (B) the date on which the judge's original appointment to 
+        the court would have expired.
+
+    (2) <<NOTE: Applicability.>>  Subsections (f ) and (g) of section 
+7253 of title 38, United States Code, shall apply with respect to the 
+service of a judge on the Court under this section.
+
+    (3) Notwithstanding any other provision of law, a person whose 
+service as a judge of the Court continues under this section shall be 
+paid for the period of service under this subsection at the rate that is 
+the difference between the current rate of pay for a judge of the Court 
+and the rate of the judge's retired pay under subsection (g).
+    (4) Amounts paid under paragraph (3)--
+            (A) shall not be treated as--
+                    (i) compensation for employment with the United 
+                States for purposes of section 7296(e) of title 38, 
+                United States Code, or any provision of title 5, United 
+                States Code, relating to the receipt or forfeiture of 
+                retired pay or retirement annuities by a person 
+                accepting compensation for employment with the United 
+                States; or
+                    (ii) pay for purposes of deductions or contributions 
+                for or on behalf of the person to retired pay under 
+                subchapter V of chapter 72 of title 38, United States 
+                Code, or under chapter 83 or 84 of title 5, United 
+                States Code, as applicable; but
+            (B) may, at the election of the person, be treated as pay 
+        for purposes of deductions or contributions for or on behalf of 
+        the person to a retirement or other annuity, or both, under 
+        subchapter V of chapter 72 of title 38, United States Code, or 
+        under chapter 83 or 84 of title 5, United States Code, as 
+        applicable.
+
+    (5) Amounts paid under paragraph (3) shall be derived from amounts 
+available for payment of salaries and benefits of judges of the Court.
+
+[[Page 113 STAT. 1590]]
+
+    (6) The service as a judge of the Court under this subsection of a 
+person who makes an election provided for under paragraph (4)(B) shall 
+constitute creditable service toward the judge's years of judicial 
+service for purposes of section 7297 of title 38, United States Code, 
+with such service creditable at a rate equal to the rate at which such 
+service would be creditable for such purposes if served by a judge of 
+the Court under chapter 72 of that title. For purposes of subsection 
+(k)(3) of that section, the average annual pay for such service shall be 
+the sum of the judge's retired pay and the amount paid under paragraph 
+(3) of this subsection.
+    (7) In the case of such a person who makes an election provided for 
+under paragraph (4)(B), upon the termination of the service of that 
+person as a judge of the Court under this subsection, the retired pay of 
+that person under subsection (g) shall be recomputed to reflect the 
+additional period of service served under this subsection.
+    (l) Treatment of Political Party Membership.--For purposes of 
+determining compliance with the last sentence of section 7253(b) of 
+title 38, United States Code, the political party membership of a judge 
+serving on the Court under subsection ( j) shall not be taken into 
+account.
+
+SEC. 1012. <<NOTE: 38 USC 7296 note.>>  MODIFIED TERMS FOR NEXT TWO 
+            JUDGES APPOINTED TO THE COURT.
+
+    (a) Modified Terms.--The term of office of the first two judges 
+appointed to the Court after the date of the enactment of this Act shall 
+be 13 years (rather than the period specified in section 7253(c) of 
+title 38, United States Code).
+    (b) Eligibility for Retirement.--(1) For purposes of determining the 
+eligibility to retire under section 7296 of title 38, United States 
+Code, of the two judges of the Court whose term of office is determined 
+under subsection (a)--
+            (A) <<NOTE: Applicability.>>  the age and service 
+        requirements in the table in paragraph (2) shall apply to those 
+        judges rather than the otherwise applicable age and service 
+        requirements specified in the table in subsection (b)(1) of that 
+        section; and
+            (B) the minimum years of service applicable to those judges 
+        for eligibility to retire under the first sentence of subsection 
+        (b)(2) of that section shall be 13 years instead of 15 years.
+
+    (2) The age and service requirements in this paragraph are as 
+follows:
+
+The judge has attained ageAnd the years of service as a judge are at 
+                              least
+        65....................................................13        
+        66....................................................13        
+        67....................................................13        
+        68....................................................12        
+        69....................................................11        
+        70...................................................10.        
+
+          Subtitle B--Other Matters Relating to Retired Judges
+
+SEC. 1021. RECALL OF RETIRED JUDGES.
+
+    (a) Authority To Recall Retired Judges.--Chapter 72 is amended by 
+inserting after section 7256 the following new section:
+
+[[Page 113 STAT. 1591]]
+
+``Sec. 7257. Recall of retired judges
+
+    ``(a)(1) A retired judge of the Court may be recalled for further 
+service on the Court in accordance with this section. To be eligible to 
+be recalled for such service, a retired judge must at the time of the 
+judge's retirement provide to the chief judge of the Court (or, in the 
+case of the chief judge, to the clerk of the Court) notice in writing 
+that the retired judge is available for further service on the Court in 
+accordance with this section and is willing to be recalled under this 
+section. Such a notice provided by a retired judge is irrevocable.
+    ``(2) For the purposes of this section--
+            ``(A) a retired judge is a judge of the Court of Appeals for 
+        Veterans Claims who retires from the Court under section 7296 of 
+        this title or under chapter 83 or 84 of title 5; and
+            ``(B) a recall-eligible retired judge is a retired judge who 
+        has provided a notice under paragraph (1).
+
+    ``(b)(1) The chief judge may recall for further service on the Court 
+a recall-eligible retired judge in accordance with this section. 
+Such <<NOTE: Certification.>>  a recall shall be made upon written 
+certification by the chief judge that substantial service is expected to 
+be performed by the retired judge for such period, not to exceed 90 days 
+(or the equivalent), as determined by the chief judge to be necessary to 
+meet the needs of the Court.
+
+    ``(2) A recall-eligible retired judge may not be recalled for more 
+than 90 days (or the equivalent) during any calendar year without the 
+judge's consent or for more than a total of 180 days (or the equivalent) 
+during any calendar year.
+    ``(3) If a recall-eligible retired judge is recalled by the chief 
+judge in accordance with this section and (other than in the case of a 
+judge who has previously during that calendar year served at least 90 
+days (or the equivalent) of recalled service on the court) declines 
+(other than by reason of disability) to perform the service to which 
+recalled, the chief judge shall remove that retired judge from the 
+status of a recall-eligible judge.
+    ``(4) A recall-eligible retired judge who becomes permanently 
+disabled and as a result of that disability is unable to perform further 
+service on the Court shall be removed from the status of a recall-
+eligible judge. Determination of such a disability shall be made 
+pursuant to section 7253(g) or 7296(g) of this title.
+    ``(c) A retired judge who is recalled under this section may 
+exercise all of the judicial powers and duties of the office of a judge 
+in active service.
+    ``(d)(1) The pay of a recall-eligible retired judge who retired 
+under section 7296 of this title is specified in subsection (c) of that 
+section.
+    ``(2) A judge who is recalled under this section who retired under 
+chapter 83 or 84 of title 5 shall be paid, during the period for which 
+the judge serves in recall status, pay at the rate of pay in effect 
+under section 7253(e) of this title for a judge performing active 
+service, less the amount of the judge's annuity under the applicable 
+provisions of chapter 83 or 84 of title 5.
+    ``(e)(1) Except as provided in subsection (d), a judge who is 
+recalled under this section who retired under chapter 83 or 84 of title 
+5 shall be considered to be a reemployed annuitant under that chapter.
+
+[[Page 113 STAT. 1592]]
+
+    ``(2) Nothing in this section affects the right of a judge who 
+retired under chapter 83 or 84 of title 5 to serve as a reemployed 
+annuitant in accordance with the provisions of title 5.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by inserting after the item relating to section 
+7256 the following new item:
+
+``7257. Recall of retired judges.''.
+
+SEC. 1022. JUDGES' RETIRED PAY.
+
+    (a) In General.--Subsection (c)(1) of section 7296 is amended by 
+striking ``at the rate of pay in effect at the time of retirement.'' and 
+inserting the following: ``as follows:
+            ``(A) In the case of a judge who is a recall-eligible 
+        retired judge under section 7257 of this title or who was a 
+        recall-eligible retired judge under that section and was removed 
+        from recall status under subsection (b)(4) of that section by 
+        reason of disability, the retired pay of the judge shall be the 
+        pay of a judge of the court.
+            ``(B) In the case of a judge who at the time of retirement 
+        did not provide notice under section 7257 of this title of 
+        availability for service in a recalled status, the retired pay 
+        of the judge shall be the rate of pay applicable to that judge 
+        at the time of retirement.
+            ``(C) In the case of a judge who was a recall-eligible 
+        retired judge under section 7257 of this title and was removed 
+        from recall status under subsection (b)(3) of that section, the 
+        retired pay of the judge shall be the pay of the judge at the 
+        time of the removal from recall status.''.
+
+    (b) Cost-of-Living Adjustments.--Subsection (f ) of such section is 
+amended by adding at the end the following new paragraph:
+    ``(3)(A) A cost-of-living adjustment provided by law in annuities 
+payable under civil service retirement laws shall apply to retired pay 
+under this section only in the case of retired pay computed under 
+paragraph (2) of subsection (c).
+    ``(B) If such a cost-of-living adjustment would (but for this 
+subparagraph) result in the retired pay of a retired judge being in 
+excess of the annual rate of pay in effect for judges of the Court as 
+provided in section 7253(e) of this title, such adjustment may be made 
+only in such amount as results in the retired pay of the retired judge 
+being equal to that annual rate of pay (as in effect on the effective 
+date of such adjustment).''.
+
+SEC. 1023. SURVIVOR ANNUITIES.
+
+    (a) Surviving Spouse.--Subsection (a)(5) of section 7297 is amended 
+by striking ``two years'' and inserting ``one year''.
+    (b) Election To Participate.--Subsection (b) of such section is 
+amended in the first sentence by inserting before the period ``or within 
+six months after the date on which the judge marries if the judge has 
+retired under section 7296 of this title''.
+    (c) Reduction in Contributions.--Subsection (c) of such section is 
+amended by striking ``3.5 percent of the judge's pay'' and inserting 
+``that percentage of the judge's pay that is the same as provided for 
+the deduction from the salary or retirement salary of a judge of the 
+United States Court of Federal Claims for the purpose of a survivor 
+annuity under section 376(b)(1)(B) of title 28''.
+
+[[Page 113 STAT. 1593]]
+
+    (d) Interest Payments.--Subsection (d) of such section is amended--
+            (1) by inserting ``(1)'' after ``(d)''; and
+            (2) by adding at the end the following new paragraph:
+
+    ``(2) The interest required under the first sentence of paragraph 
+(1) shall not be required for any period--
+            ``(A) during which a judge was separated from any service 
+        described in section 376(d)(2) of title 28; and
+            ``(B) during which the judge was not receiving retired pay 
+        based on service as a judge or receiving any retirement salary 
+        as described in section 376(d)(1) of title 28.''.
+
+    (e) Service Eligibility.--(1) Subsection (f ) of such section is 
+amended--
+            (A) in paragraph (1), in the matter preceding subparagraph 
+        (A)--
+                    (i) by striking ``at least 5 years'' and inserting 
+                ``at least 18 months''; and
+                    (ii) by striking ``last 5 years'' and inserting 
+                ``last 18 months''; and
+            (B) by adding at the end the following new paragraph:
+
+    ``(5) If a judge dies as a result of an assassination and leaves a 
+survivor or survivors who are otherwise entitled to receive annuity 
+payments under this section, the 18-month requirement in the matter in 
+paragraph (1) preceding subparagraph (A) shall not apply.''.
+    (2) Subsection (a) of such section is further amended--
+            (A) in paragraph (2), by inserting ``who is in active 
+        service or who has retired under section 7296 of this title'' 
+        after ``Court'';
+            (B) in paragraph (3), by striking ``7296(c)'' and inserting 
+        ``7296''; and
+            (C) by adding at the end the following new paragraph:
+            ``(8) The term `assassination' as applied to a judge shall 
+        have the meaning provided that term in section 376(a)(7) of 
+        title 28 as applied to a judicial official.''.
+
+    (f ) Age Requirement of Surviving Spouse.--Subsection (f ) of such 
+section is further amended by striking ``or following the surviving 
+spouse's attainment of the age of 50 years, whichever is the later'' in 
+paragraph (1)(A).
+
+SEC. 1024. LIMITATION ON ACTIVITIES OF RETIRED JUDGES.
+
+    (a) In General.--Chapter 72 is amended by adding at the end the 
+following new section:
+
+``Sec. 7299. Limitation on activities of retired judges
+
+    ``(a) A retired judge of the Court who is recall-eligible under 
+section 7257 of this title and who in the practice of law represents (or 
+supervises or directs the representation of ) a client in making any 
+claim relating to veterans' benefits against the United States or any 
+agency thereof shall, pursuant to such section, be considered to have 
+declined recall service and be removed from the status of a recall-
+eligible judge. The pay of such a judge, pursuant to section 7296 of 
+this title, shall be the pay of the judge at the time of the removal 
+from recall status.
+    ``(b) <<NOTE: Applicability.>>  A recall-eligible judge shall be 
+considered to be an officer or employee of the United States, but only 
+during periods when the judge is serving in recall status. Any 
+prohibition, limitation, or restriction that would otherwise apply to 
+the activities of a
+
+[[Page 113 STAT. 1594]]
+
+recall-eligible judge shall apply only during periods when the judge is 
+serving in recall status.''.
+
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by adding at the end the following new item:
+
+``7299. Limitation on activities of retired judges.''.
+
+  Subtitle C--Rotation of Service of Judges as Chief Judge of the Court
+
+SEC. 1031. REPEAL OF SEPARATE APPOINTMENT OF CHIEF JUDGE.
+
+    Subsection (a) of section 7253 is amended to read as follows:
+    ``(a) Composition.--The Court of Appeals for Veterans Claims is 
+composed of at least three and not more than seven judges, one of whom 
+shall serve as chief judge in accordance with subsection (d).''.
+
+SEC. 1032. DESIGNATION AND TERM OF CHIEF JUDGE OF COURT.
+
+    (a) Rotation.--Subsection (d) of section 7253 is amended to read as 
+follows:
+    ``(d) Chief Judge.--(1) The chief judge of the Court shall be the 
+judge of the Court in regular active service who is senior in commission 
+among the judges of the Court who--
+            ``(A) have served for one or more years as judges of the 
+        Court; and
+            ``(B) have not previously served as chief judge.
+
+    ``(2) In any case in which there is no judge of the Court in regular 
+active service who has served as a judge of the Court for at least one 
+year, the judge of the court in regular active service who is senior in 
+commission and has not served previously as chief judge shall act as the 
+chief judge.
+    ``(3) Except as provided in paragraph (4), a judge of the Court 
+shall serve as the chief judge under paragraph (1) for a term of five 
+years or until the judge becomes age 70, whichever occurs first. If no 
+other judge is eligible under paragraph (1) to serve as chief judge upon 
+the expiration of that term, that judge shall continue to serve as chief 
+judge until another judge becomes eligible under that paragraph to serve 
+as chief judge.
+    ``(4)(A) The term of a chief judge shall be terminated before the 
+end of the term prescribed by paragraph (3) if--
+            ``(i) the chief judge leaves regular active service as a 
+        judge of the court; or
+            ``(ii) the chief judge notifies the other judges of the 
+        court in writing that such judge desires to be relieved of the 
+        duties of chief judge.
+
+    ``(B) <<NOTE: Effective date.>>  The effective date of a termination 
+of the term under subparagraph (A) shall be the date on which the chief 
+judge leaves regular active service or the date of the notification 
+under subparagraph (A)(ii), as the case may be.
+
+    ``(5) If a chief judge is temporarily unable to perform the duties 
+of chief judge, those duties shall be performed by the judge of the 
+court in active service who is present, able and qualified to act, and 
+is next in precedence.
+
+[[Page 113 STAT. 1595]]
+
+    ``(6) Judges who have the same seniority in commission shall be 
+eligible for service as chief judge in accordance with their relative 
+precedence.''.
+    (b) <<NOTE: 38 USC 7296 note.>>  Ineligibility of Judges on 
+Temporary Service.--A person serving as a judge of the Court under 
+section 1011 may not serve as chief judge of the Court.
+
+SEC. 1033. SALARY.
+
+    Subsection (e) of section 7253 is amended to read as follows:
+    ``(e) Salary.--Each judge of the Court shall receive a salary at the 
+same rate as is received by judges of the United States district 
+courts.''.
+
+SEC. 1034. PRECEDENCE OF JUDGES.
+
+    Subsection (d) of section 7254 is amended to read as follows:
+    ``(d) Precedence of Judges.--The chief judge of the Court shall have 
+precedence and preside at any session that the chief judge attends. The 
+other judges shall have precedence and preside according to the 
+seniority of their original commissions. Judges whose commissions bear 
+the same date shall have precedence according to seniority in age.''.
+
+SEC. 1035. CONFORMING AMENDMENTS.
+
+    Chapter 72 is amended as follows:
+            (1) Section 7281(g) is amended to read as follows:
+
+    ``(g) The chief judge of the Court may exercise the authority of the 
+Court under this section whenever there are not at least two other 
+judges of the Court.''.
+            (2) Sections 7296(a)(2) and 7297(a)(2) are amended by 
+        striking ``the chief judge or an associate judge'' and inserting 
+        ``a judge''.
+
+SEC. 1036. <<NOTE: 38 USC 7253 note.>>  APPLICABILITY OF AMENDMENTS.
+
+    (a) Effective Date.--The amendments made by this subtitle shall take 
+effect on the date of the enactment of this Act.
+    (b) Savings Provision for Incumbent Chief Judge.--The amendments 
+made by this subtitle shall not apply while the individual who is chief 
+judge of the Court on the date of the enactment of this Act continues to 
+serve as chief judge. If that individual, upon termination of service as 
+chief judge, provides notice under section 7257 of title 38, United 
+States Code, of availability for service in a recalled status, the rate 
+of pay applicable to that individual under section 7296(c)(1)(A) of such 
+title while serving in a recalled status shall be at the rate of pay 
+applicable to that individual at the time of retirement, if greater than 
+the rate otherwise applicable under that section.
+
+ TITLE XI--VOLUNTARY <<NOTE: Department of Veterans Affairs Employment 
+    Reduction Assistance Act of 1999. 5 USC 5597 note.>>  SEPARATION 
+INCENTIVE PROGRAM
+
+SEC. 1101. SHORT TITLE.
+
+    This title may be cited as the ``Department of Veterans Affairs 
+Employment Reduction Assistance Act of 1999''.
+
+[[Page 113 STAT. 1596]]
+
+SEC. 1102. <<NOTE: 5 USC 5597 note.>>  PLAN FOR PAYMENT OF VOLUNTARY 
+            SEPARATION INCENTIVE PAYMENTS.
+
+    (a) In General.--The Secretary of Veterans Affairs shall, before 
+obligating any funds for the payment of voluntary separation incentive 
+payments under this title, submit to the Director of the Office of 
+Management and Budget an operational plan outlining the proposed use of 
+such incentive payments and a proposed organizational chart for the 
+elements of the Department of Veterans Affairs covered by the plan once 
+the payment of such incentive payments has been completed.
+    (b) Contents.--The plan under subsection (a) shall--
+            (1) take into account the limitations on elements, and 
+        personnel within elements, of the Department specified in 
+        subsection (c);
+            (2) specify the positions to be reduced or eliminated and 
+        functions to be restructured or reorganized, identified by 
+        element of the Department, geographic location, occupational 
+        category, and grade level;
+            (3) specify the manner in which the plan will improve 
+        operating efficiency, or meet actual or anticipated levels of 
+        budget or staffing resources, of each element covered by the 
+        plan and of the Department generally; and
+            (4) include a description of how each element of the 
+        Department covered by the plan will operate without the 
+        functions or positions affected by the implementation of the 
+        plan.
+
+    (c) Limitation on Elements and Personnel.--The plan under subsection 
+(a) shall be limited to the elements of the Department, and the number 
+of positions within such elements, as follows:
+            (1) The Veterans Health Administration, 4,400 positions.
+            (2) The Veterans Benefits Administration, 240 positions.
+            (3) Department of Veterans Affairs Staff Offices, 45 
+        positions.
+            (4) The National Cemetery Administration, 15 positions.
+
+    (d) Approval.--(1) The Director of the Office of Management and 
+Budget shall approve or disapprove the plan submitted under subsection 
+(a).
+    (2) In approving the plan, the Director may make such modifications 
+to the plan as the Director considers appropriate with respect to the 
+following:
+            (A) The number and amounts of voluntary incentive payments 
+        that may be paid under the plan.
+            (B) Any other matter that the Director considers 
+        appropriate.
+
+    (3) In the event of the disapproval of a plan by the Director under 
+paragraph (1), the Secretary may modify and resubmit the plan to the 
+Director. <<NOTE: Applicability.>>  The provisions of this section shall 
+apply to any plan submitted to the Director under this paragraph as if 
+such plan were the initial plan submitted to the Director under 
+subsection (a).
+
+SEC. 1103. <<NOTE: 5 USC 5597 note.>>  VOLUNTARY SEPARATION INCENTIVE 
+            PAYMENTS.
+
+    (a) Authority To Pay Voluntary Separation Incentive Payments.--(1) 
+The Secretary may pay a voluntary separation incentive payment to an 
+eligible employee only--
+            (A) to the extent necessary to reduce or restructure the 
+        positions and functions identified by the plan approved under 
+        section 1102; and
+
+[[Page 113 STAT. 1597]]
+
+            (B) if the Under Secretary concerned, or the head of the 
+        staff office concerned, approves the payment of the voluntary 
+        separation incentive payment to that employee.
+
+    (2) In order to receive a voluntary separation incentive payment 
+under this title, an employee must separate from service with the 
+Department voluntarily (whether by retirement or resignation) under the 
+provisions of this title.
+    (b) Amount and Treatment of Payments.--A voluntary separation 
+incentive payment--
+            (1) shall be paid in a lump sum after the employee's 
+        separation under this title;
+            (2) shall be in an amount equal to the lesser of--
+                    (A) an amount equal to the amount the employee would 
+                be entitled to receive under section 5595(c) of title 5, 
+                United States Code, if the employee were entitled to 
+                payment under that section (without adjustment for any 
+                previous payment made under that section); or
+                    (B) an amount determined by the Secretary, not to 
+                exceed $25,000;
+            (3) shall not be a basis for payment, and shall not be 
+        included in the computation, of any other type of Government 
+        benefit; and
+            (4) shall not be taken into account in determining the 
+        amount of severance pay to which an employee may be entitled 
+        under section 5595 of title 5, United States Code, based on any 
+        other separation.
+
+    (c) Source of Funds.--Voluntary separation incentive payments under 
+this title shall be paid from the appropriations or funds available for 
+payment of the basic pay of the employees of the Department.
+
+SEC. 1104. <<NOTE: 5 USC 5597 note.>>  EFFECT OF SUBSEQUENT EMPLOYMENT 
+            WITH THE GOVERNMENT.
+
+    (a) Repayment Upon Reemployment.--Except as provided in subsection 
+(b), an individual who is paid a voluntary separation incentive payment 
+under this title and who subsequently accepts employment with the 
+Government within five years after the date of the separation on which 
+the payment is based shall be required to repay to the Secretary, before 
+the individual's first day of such employment, the entire amount of the 
+voluntary separation incentive payment paid to the individual under this 
+title.
+    (b) Waiver Authority for Certain Individuals.--(1) If the employment 
+of an individual under subsection (a) is with an Executive agency (as 
+defined by section 105 of title 5, United States Code), the United 
+States Postal Service, or the Postal Rate Commission, the Director of 
+the Office of Personnel Management may, at the request of the head of 
+such agency, waive repayment by the individual under that subsection if 
+the individual possesses unique abilities and is the only qualified 
+applicant available for the position.
+    (2) If the employment of an individual under subsection (a) is with 
+an entity in the legislative branch, the head of the entity or the 
+appointing official may waive repayment by the individual under that 
+subsection if the individual involved possesses unique abilities and is 
+the only qualified applicant available for the position.
+    (3) If the employment of an individual under subsection (a) is with 
+the judicial branch, the Director of the Administrative
+
+[[Page 113 STAT. 1598]]
+
+Office of the United States Courts may waive repayment by the individual 
+under that subsection if the individual involved possesses unique 
+abilities and is the only qualified applicant available for the 
+position.
+    (c) Employment Defined.--for purposes of this section, the term 
+``employment'' includes--
+            (1) for purposes of subsections (a) and (b), employment of 
+        any length or under any type of appointment, but does not 
+        include employment that is without compensation; and
+            (2) for purposes of subsection (a), employment with any 
+        agency of the Government through a personal services contract.
+
+SEC. 1105. <<NOTE: 5 USC 5597 note.>>  ADDITIONAL AGENCY CONTRIBUTIONS 
+            TO CIVIL SERVICE RETIREMENT AND DISABILITY FUND.
+
+    (a) Requirement.--In addition to any other payments which it is 
+required to make under subchapter III of chapter 83 or chapter 84 of 
+title 5, United States Code, the Secretary shall remit to the Office of 
+Personnel Management for deposit in the Treasury of the United States to 
+the credit of the Civil Service Retirement and Disability Fund an amount 
+equal to 26 percent of the final basic pay of each employee of the 
+Department who is covered under subchapter III of chapter 83 or chapter 
+84 of title 5, United States Code, to whom a voluntary separation 
+incentive is paid under this title.
+    (b) Final Basic Pay Defined.--For purposes of this section, the term 
+``final basic pay'', with respect to an employee, means the total amount 
+of basic pay that would be payable for a year of service by the 
+employee, computed using the employee's final rate of basic pay, and, if 
+last serving on other than a full-time basis, with appropriate 
+adjustment therefor.
+
+SEC. 1106. CONTINUED HEALTH INSURANCE COVERAGE.
+
+    Section 8905a(d) of title 5, United States Code, is amended--
+            (1) in paragraph (1)(A), by striking ``paragraph (4)'' and 
+        inserting ``paragraphs (4) and (5)'';
+            (2) in paragraph (2), by striking ``(1) or (4)'' and 
+        inserting ``(1), (4), or (5)''; and
+            (3) by adding at the end the following new paragraph:
+
+    ``(5)(A) If the basis for continued coverage under this section is 
+an involuntary separation from a position in or under the Department of 
+Veterans Affairs due to a reduction in force or a title 38 staffing 
+readjustment--
+            ``(i) the individual shall be liable for not more than the 
+        employee contributions referred to in paragraph (1)(A)(i); and
+            ``(ii) the agency which last employed the individual shall 
+        pay the remaining portion of the amount required under paragraph 
+        (1)(A).
+
+    ``(B) <<NOTE: Applicability.>>  This paragraph shall only apply with 
+respect to individuals whose continued coverage is based on a separation 
+occurring on or after the date of the enactment of this paragraph.''.
+
+SEC. 1107. <<NOTE: 5 USC 5597 note.>>  PROHIBITION OF REDUCTION OF FULL-
+            TIME EQUIVALENT EMPLOYMENT LEVEL.
+
+    (a) Prohibition.--The total full-time equivalent employment in the 
+Department may not be reduced by reason of the separation of an employee 
+(or any combination of employees) receiving a voluntary separation 
+incentive payment under this title.
+
+[[Page 113 STAT. 1599]]
+
+    (b) <<NOTE: President.>>  Enforcement.--The President, through the 
+Office of Management and Budget, shall monitor the Department and take 
+any action necessary to ensure that the requirements of this section are 
+met.
+
+SEC. 1108. <<NOTE: 5 USC 5597 note.>>  REGULATIONS.
+
+    The Director of the Office of Personnel Management may prescribe any 
+regulations necessary to administer this title.
+
+SEC. 1109. <<NOTE: 5 USC 5597 note.>>  LIMITATION; SAVINGS CLAUSE.
+
+    (a) Limitation.--No voluntary separation incentive payment may be 
+paid under this title based on the separation of an employee after 
+December 31, 2000.
+    (b) Relationship to Other Authority.--This title supplements and 
+does not supersede any other authority of the Secretary to pay voluntary 
+separation incentive payments to employees of the Department.
+
+SEC. 1110. <<NOTE: 5 USC 5597 note.>>  ELIGIBLE EMPLOYEES.
+
+    For purposes of this title:
+            (1) In general.--Except as provided in paragraph (2), the 
+        term ``eligible employee'' means an employee (as defined by 
+        section 2105 of title 5, United States Code) of the Department 
+        of Veterans Affairs, who is serving under an appointment without 
+        time limitation and has been employed by the Department as of 
+        the date of separation under this title for a continuous period 
+        of at least three years.
+            (2) Exceptions.--Such term does not include the following:
+                    (A) A reemployed annuitant under subchapter III of 
+                chapter 83 or chapter 84 of title 5, United States Code, 
+                or another retirement system for employees of the 
+                Government.
+                    (B) An employee having a disability on the basis of 
+                which such employee is eligible for disability 
+                retirement under subchapter III of chapter 83 or chapter 
+                84 of title 5, United States Code, or another retirement 
+                system for employees of the Government.
+                    (C) An employee who is in receipt of a specific 
+                notice of involuntary separation for misconduct or 
+                unacceptable performance.
+                    (D) An employee who previously has received any 
+                voluntary separation incentive payment by the Government 
+                under this title or any other authority.
+                    (E) An employee covered by statutory reemployment 
+                rights who is on transfer to another organization.
+                    (F) An employee who, during the 24-month period 
+                preceding the date of separation, has received a 
+                recruitment or relocation bonus under section 5753 of 
+                title 5, United States Code, or a recruitment bonus 
+                under section 7458 of title 38, United States Code.
+                    (G) An employee who, during the 12-month period 
+                preceding the date of separation, received a retention 
+                allowance under section 5754 of title 5, United States 
+                Code, or a retention bonus under section 458 of title 
+                38, United States Code.
+
+[[Page 113 STAT. 1600]]
+
+                    (H) An employee who, during the 24-month period 
+                preceding the date of separation, was relocated at the 
+                expense of the Federal Government.
+
+    Approved November 30, 1999.
+
+LEGISLATIVE HISTORY--H.R. 2116:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: Nos. 106-237 (Comm. on Veterans' Affairs) and 106-470 
+(Comm. of Conference).
+CONGRESSIONAL RECORD, Vol. 145 (1999):
+            Sept. 21, considered and passed House.
+            Nov. 5, considered and passed Senate, amended.
+            Nov. 16, House agreed to conference report.
+            Nov. 19, Senate agreed to conference report.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 35 (1999):
+            Nov. 30, Presidential statement.
+
+                                  
+

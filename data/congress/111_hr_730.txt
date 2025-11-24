@@ -1,0 +1,350 @@
+
+[111th Congress Public Law 140]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 124 STAT. 31]]
+
+Public Law 111-140
+111th Congress
+
+                                 An Act
+
+
+ 
+To strengthen efforts in the Department of Homeland Security to develop 
+ nuclear forensics capabilities to permit attribution of the source of 
+nuclear material, and for other purposes. <<NOTE: Feb. 16, 2010 -  [H.R. 
+                                 730]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Nuclear 
+Forensics and Attribution Act.>> 
+SECTION 1. <<NOTE: 6 USC 101 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Nuclear Forensics and Attribution 
+Act''.
+SEC. 2. <<NOTE: 6 USC 592 note.>> FINDINGS.
+
+    Congress finds the following:
+            (1) The threat of a nuclear terrorist attack on American 
+        interests, both domestic and abroad, is one of the most serious 
+        threats to the national security of the United States. In the 
+        wake of an attack, attribution of responsibility would be of 
+        utmost importance. Because of the destructive power of a nuclear 
+        weapon, there could be little forensic evidence except the 
+        radioactive material in the weapon itself.
+            (2) Through advanced nuclear forensics, using both existing 
+        techniques and those under development, it may be possible to 
+        identify the source and pathway of a weapon or material after it 
+        is interdicted or detonated. Though identifying intercepted 
+        smuggled material is now possible in some cases, pre-detonation 
+        forensics is a relatively undeveloped field. The post-detonation 
+        nuclear forensics field is also immature, and the challenges are 
+        compounded by the pressures and time constraints of performing 
+        forensics after a nuclear or radiological attack.
+            (3) A robust and well-known capability to identify the 
+        source of nuclear or radiological material intended for or used 
+        in an act of terror could also deter prospective proliferators. 
+        Furthermore, the threat of effective attribution could compel 
+        improved security at material storage facilities, preventing the 
+        unwitting transfer of nuclear or radiological materials.
+            (4)(A) In order to identify special nuclear material and 
+        other radioactive materials confidently, it is necessary to have 
+        a robust capability to acquire samples in a timely manner, 
+        analyze and characterize samples, and compare samples against 
+        known signatures of nuclear and radiological material.
+            (B) Many of the radioisotopes produced in the detonation of 
+        a nuclear device have short half-lives, so the timely 
+        acquisition of samples is of the utmost importance. Over the 
+        past several decades, the ability of the United States to gather
+
+[[Page 124 STAT. 32]]
+
+        atmospheric samples--often the preferred method of sample 
+        acquisition--has diminished. This ability must be restored and 
+        modern techniques that could complement or replace existing 
+        techniques should be pursued.
+            (C) The discipline of pre-detonation forensics is a 
+        relatively undeveloped field. The radiation associated with a 
+        nuclear or radiological device may affect traditional forensics 
+        techniques in unknown ways. In a post-detonation scenario, 
+        radiochemistry may provide the most useful tools for analysis 
+        and characterization of samples. The number of radiochemistry 
+        programs and radiochemists in United States National 
+        Laboratories and universities has dramatically declined over the 
+        past several decades. The narrowing pipeline of qualified people 
+        into this critical field is a serious impediment to maintaining 
+        a robust and credible nuclear forensics program.
+            (5) Once samples have been acquired and characterized, it is 
+        necessary to compare the results against samples of known 
+        material from reactors, weapons, and enrichment facilities, and 
+        from medical, academic, commercial, and other facilities 
+        containing such materials, throughout the world. Some of these 
+        samples are available to the International Atomic Energy Agency 
+        through safeguards agreements, and some countries maintain 
+        internal sample databases. Access to samples in many countries 
+        is limited by national security concerns.
+            (6) In order to create a sufficient deterrent, it is 
+        necessary to have the capability to positively identify the 
+        source of nuclear or radiological material, and potential 
+        traffickers in nuclear or radiological material must be aware of 
+        that capability. International cooperation may be essential to 
+        catalogue all existing sources of nuclear or radiological 
+        material.
+SEC. 3. SENSE OF CONGRESS ON INTERNATIONAL AGREEMENTS FOR 
+                    FORENSICS COOPERATION.
+
+    It is the sense of the Congress that the President should--
+            (1) pursue bilateral and multilateral international 
+        agreements to establish, or seek to establish under the auspices 
+        of existing bilateral or multilateral agreements, an 
+        international framework for determining the source of any 
+        confiscated nuclear or radiological material or weapon, as well 
+        as the source of any detonated weapon and the nuclear or 
+        radiological material used in such a weapon;
+            (2) develop protocols for the data exchange and 
+        dissemination of sensitive information relating to nuclear or 
+        radiological materials and samples of controlled nuclear or 
+        radiological materials, to the extent required by the agreements 
+        entered into under paragraph (1); and
+            (3) develop expedited protocols for the data exchange and 
+        dissemination of sensitive information needed to publicly 
+        identify the source of a nuclear detonation.
+SEC. 4. RESPONSIBILITIES OF DOMESTIC NUCLEAR DETECTION OFFICE.
+
+    (a) Additional Responsibilities.--Section 1902 of the Homeland 
+Security Act of 2002 (as redesignated by Public Law 110-53; 6 U.S.C. 
+592) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (9), by striking ``and'' after the 
+                semicolon;
+
+[[Page 124 STAT. 33]]
+
+                    (B) by redesignating paragraph (10) as paragraph 
+                (14); and
+                    (C) by inserting after paragraph (9) the following:
+            ``(10) lead the development and implementation of the 
+        national strategic five-year plan for improving the nuclear 
+        forensic and attribution capabilities of the United States 
+        required under section 1036 of the National Defense 
+        Authorization Act for Fiscal Year 2010;
+            ``(11) <<NOTE: Establishment.>> establish, within the 
+        Domestic Nuclear Detection Office, the National Technical 
+        Nuclear Forensics Center to provide centralized stewardship, 
+        planning, assessment, gap analysis, exercises, improvement, and 
+        integration for all Federal nuclear forensics and attribution 
+        activities--
+                    ``(A) to ensure an enduring national technical 
+                nuclear forensics capability to strengthen the 
+                collective response of the United States to nuclear 
+                terrorism or other nuclear attacks; and
+                    ``(B) to coordinate and implement the national 
+                strategic five-year plan referred to in paragraph (10);
+            ``(12) <<NOTE: Scholarships and fellowships.>> establish a 
+        National Nuclear Forensics Expertise Development Program, 
+        which--
+                    ``(A) is devoted to developing and maintaining a 
+                vibrant and enduring academic pathway from undergraduate 
+                to post-doctorate study in nuclear and geochemical 
+                science specialties directly relevant to technical 
+                nuclear forensics, including radiochemistry, 
+                geochemistry, nuclear physics, nuclear engineering, 
+                materials science, and analytical chemistry;
+                    ``(B) shall--
+                          ``(i) make available for undergraduate study 
+                      student scholarships, with a duration of up to 4 
+                      years per student, which shall include, if 
+                      possible, at least 1 summer internship at a 
+                      national laboratory or appropriate Federal agency 
+                      in the field of technical nuclear forensics during 
+                      the course of the student's undergraduate career;
+                          ``(ii) make available for doctoral study 
+                      student fellowships, with a duration of up to 5 
+                      years per student, which shall--
+                                    ``(I) include, if possible, at least 
+                                2 summer internships at a national 
+                                laboratory or appropriate Federal agency 
+                                in the field of technical nuclear 
+                                forensics during the course of the 
+                                student's graduate career; and
+                                    ``(II) require each recipient to 
+                                commit to serve for 2 years in a post-
+                                doctoral position in a technical nuclear 
+                                forensics-related specialty at a 
+                                national laboratory or appropriate 
+                                Federal agency after graduation;
+                          ``(iii) make available to faculty awards, with 
+                      a duration of 3 to 5 years each, to ensure faculty 
+                      and their graduate students have a sustained 
+                      funding stream; and
+                          ``(iv) place a particular emphasis on 
+                      reinvigorating technical nuclear forensics 
+                      programs while encouraging the participation of 
+                      undergraduate students, graduate students, and 
+                      university faculty from historically Black
+
+[[Page 124 STAT. 34]]
+
+                      colleges and universities, Hispanic-serving 
+                      institutions, Tribal Colleges and Universities, 
+                      Asian American and Native American Pacific 
+                      Islander-serving institutions, Alaska Native-
+                      serving institutions, and Hawaiian Native-serving 
+                      institutions; and
+                    ``(C) shall--
+                          ``(i) provide for the selection of individuals 
+                      to receive scholarships or fellowships under this 
+                      section through a competitive process primarily on 
+                      the basis of academic merit and the nuclear 
+                      forensics and attribution needs of the United 
+                      States Government;
+                          ``(ii) provide for the setting aside of up to 
+                      10 percent of the scholarships or fellowships 
+                      awarded under this section for individuals who are 
+                      Federal employees to enhance the education of such 
+                      employees in areas of critical nuclear forensics 
+                      and attribution needs of the United States 
+                      Government, for doctoral education under the 
+                      scholarship on a full-time or part-time basis;
+                          ``(iii) provide that the Secretary may enter 
+                      into a contractual agreement with an institution 
+                      of higher education under which the amounts 
+                      provided for a scholarship under this section for 
+                      tuition, fees, and other authorized expenses are 
+                      paid directly to the institution with respect to 
+                      which such scholarship is awarded;
+                          ``(iv) require scholarship recipients to 
+                      maintain satisfactory academic progress; and
+                          ``(v) require that--
+                                    ``(I) a scholarship recipient who 
+                                fails to maintain a high level of 
+                                academic standing, as defined by the 
+                                Secretary, who is dismissed for 
+                                disciplinary reasons from the 
+                                educational institution such recipient 
+                                is attending, or who voluntarily 
+                                terminates academic training before 
+                                graduation from the educational program 
+                                for which the scholarship was awarded 
+                                shall be liable to the United States for 
+                                repayment within 1 year after the date 
+                                of such default of all scholarship funds 
+                                paid to such recipient and to the 
+                                institution of higher education on the 
+                                behalf of such recipient, provided that 
+                                the repayment period may be extended by 
+                                the Secretary if the Secretary 
+                                determines it necessary, as established 
+                                by regulation; and
+                                    ``(II) a scholarship recipient who, 
+                                for any reason except death or 
+                                disability, fails to begin or complete 
+                                the post-doctoral service requirements 
+                                in a technical nuclear forensics-related 
+                                specialty at a national laboratory or 
+                                appropriate Federal agency after 
+                                completion of academic training shall be 
+                                liable to the United States for an 
+                                amount equal to--
+                                            ``(aa) the total amount of 
+                                        the scholarship received by such 
+                                        recipient under this section; 
+                                        and
+                                            ``(bb) the interest on such 
+                                        amounts which would be payable 
+                                        if at the time the scholarship 
+                                        was received such scholarship 
+                                        was a loan
+
+[[Page 124 STAT. 35]]
+
+                                        bearing interest at the maximum 
+                                        legally prevailing rate;
+            ``(13) <<NOTE: Deadline. Reports.>> provide an annual report 
+        to Congress on the activities carried out under paragraphs (10), 
+        (11), and (12); and''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(b) Definitions.--In this section:
+            ``(1) Alaska native-serving institution.--The term `Alaska 
+        Native-serving institution' has the meaning given the term in 
+        section 317 of the Higher Education Act of 1965 (20 U.S.C. 
+        1059d).
+            ``(2) Asian american and native american pacific islander-
+        serving institution.--The term `Asian American and Native 
+        American Pacific Islander-serving institution' has the meaning 
+        given the term in section 320 of the Higher Education Act of 
+        1965 (20 U.S.C. 1059g).
+            ``(3) Hawaiian native-serving institution.--The term 
+        `Hawaiian native-serving institution' has the meaning given the 
+        term in section 317 of the Higher Education Act of 1965 (20 
+        U.S.C. 1059d).
+            ``(4) Hispanic-serving institution.--The term `Hispanic-
+        serving institution' has the meaning given that term in section 
+        502 of the Higher Education Act of 1965 (20 U.S.C. 1101a).
+            ``(5) Historically black college or university.--The term 
+        `historically Black college or university' has the meaning given 
+        the term `part B institution' in section 322(2) of the Higher 
+        Education Act of 1965 (20 U.S.C. 1061(2)).
+            ``(6) Tribal college or university.--The term `Tribal 
+        College or University' has the meaning given that term in 
+        section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 
+        1059c(b)).''.
+
+    (b) Joint Interagency Annual Reporting Requirement to Congress and 
+the President.--
+            (1) In general.--Section 1907(a)(1) of the Homeland Security 
+        Act of 2002 (6 U.S.C. 596a(a)(1)) is amended--
+                    (A) in subparagraph (A)(ii), by striking ``; and'' 
+                and inserting a semicolon;
+                    (B) in subparagraph (B)(iii), by striking the period 
+                at the end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(C) the Director of the Domestic Nuclear Detection 
+                Office and each of the relevant departments that are 
+                partners in the National Technical Forensics Center--
+                          ``(i) include, as part of the assessments, 
+                      evaluations, and reviews required under this 
+                      paragraph, each office's or department's 
+                      activities and investments in support of nuclear 
+                      forensics and attribution activities and specific 
+                      goals and objectives accomplished during the 
+                      previous year pursuant to the national strategic 
+                      five-year plan for improving the nuclear forensic 
+                      and attribution capabilities of the United States 
+                      required under section 1036 of the National 
+                      Defense Authorization Act for Fiscal Year 2010;
+                          ``(ii) attaches, as an appendix to the Joint 
+                      Interagency Annual Review, the most current 
+                      version of such strategy and plan; and
+
+[[Page 124 STAT. 36]]
+
+                          ``(iii) includes a description of new or 
+                      amended bilateral and multilateral agreements and 
+                      efforts in support of nuclear forensics and 
+                      attribution activities accomplished during the 
+                      previous year.''.
+
+    Approved February 16, 2010.
+
+LEGISLATIVE HISTORY--H.R. 730:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD:
+                                                        Vol. 155 (2009):
+                                    Mar. 24, considered and passed 
+                                        House.
+                                    Dec. 23, considered and passed 
+                                        Senate, amended.
+                                                        Vol. 156 (2010):
+                                    Jan. 20, 21, House considered and 
+                                        concurred in Senate
+                                     amendment.
+
+                                  
+

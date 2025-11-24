@@ -1,0 +1,335 @@
+
+[114th Congress Public Law 115]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 129 STAT. 3131]]
+
+Public Law 114-115
+114th Congress
+
+                                 An Act
+
+
+ 
+  To amend titles XVIII and XIX of the Social Security Act to improve 
+  payments for complex rehabilitation technology and certain radiation 
+    therapy services, to ensure flexibility in applying the hardship 
+exception for meaningful use for the 2015 EHR reporting period for 2017 
+     payment adjustments, and for other purposes. <<NOTE: Dec. 28, 
+                          2015 -  [S. 2425]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Patient Access 
+and Medicare Protection Act.>> 
+SECTION 1. <<NOTE: 42 USC 1305 note.>>  SHORT TITLE.
+
+    This Act may be cited as the ``Patient Access and Medicare 
+Protection Act''.
+SEC. 2. NON-APPLICATION OF MEDICARE FEE SCHEDULE ADJUSTMENTS FOR 
+                    WHEELCHAIR ACCESSORIES AND SEAT AND BACK 
+                    CUSHIONS WHEN FURNISHED IN CONNECTION WITH 
+                    COMPLEX REHABILITATIVE POWER WHEELCHAIRS.
+
+    (a) Non-application.--
+            (1) In general.--Notwithstanding any other provision of law, 
+        the Secretary of Health and Human Services shall not, prior to 
+        January 1, 2017, use information on the payment determined under 
+        the competitive acquisition programs under section 1847 of the 
+        Social Security Act (42 U.S.C. 1395w-3) to adjust the payment 
+        amount that would otherwise be recognized under section 
+        1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for 
+        wheelchair accessories (including seating systems) and seat and 
+        back cushions when furnished in connection with Group 3 complex 
+        rehabilitative power wheelchairs.
+            (2) Implementation.--Notwithstanding any other provision of 
+        law, the Secretary may implement this subsection by program 
+        instruction or otherwise.
+
+    (b) GAO Study and Report.--
+            (1) Study.--
+                    (A) In general.--The Comptroller General of the 
+                United States shall conduct a study on wheelchair 
+                accessories (including seating systems) and seat and 
+                back cushions furnished in connection with Group 3 
+                complex rehabilitative power wheelchairs. Such study 
+                shall include an analysis of the following with respect 
+                to such wheelchair accessories and seat and back 
+                cushions in each of the groups described in clauses (i) 
+                through (iii) of subparagraph (B):
+                          (i) The item descriptions and associated HCPCS 
+                      codes for such wheelchair accessories and seat and 
+                      back cushions.
+
+[[Page 129 STAT. 3132]]
+
+                          (ii) A breakdown of utilization and 
+                      expenditures for such wheelchair accessories and 
+                      seat and back cushions under title XVIII of the 
+                      Social Security Act.
+                          (iii) A comparison of the payment amount under 
+                      the competitive acquisition program under section 
+                      1847 of such Act (42 U.S.C. 1395w-3) with the 
+                      payment amount that would otherwise be recognized 
+                      under section 1834 of such Act (42 U.S.C. 1395m), 
+                      including beneficiary cost sharing, for such 
+                      wheelchair accessories and seat and back cushions.
+                          (iv) The aggregate distribution of such 
+                      wheelchair accessories and seat and back cushions 
+                      furnished under such title XVIII within each of 
+                      the groups described in subparagraph (B).
+                          (v) Other areas determined appropriate by the 
+                      Comptroller General.
+                    (B) Groups described.--The following groups are 
+                described in this subparagraph:
+                          (i) Wheelchair accessories and seat and back 
+                      cushions furnished predominantly with Group 3 
+                      complex rehabilitative power wheelchairs.
+                          (ii) Wheelchair accessories and seat and back 
+                      cushions furnished predominantly with power 
+                      wheelchairs that are not described in clause (i).
+                          (iii) Other wheelchair accessories and seat 
+                      and back cushions furnished with either power 
+                      wheelchairs described in clause (i) or (ii).
+            (2) <<NOTE: Recommenda- tions.>>  Report.--Not later than 
+        June 1, 2016, the Comptroller General of the United States shall 
+        submit to Congress a report containing the results of the study 
+        conducted under paragraph (1), together with recommendations for 
+        such legislation and administrative as the Comptroller General 
+        determines to be appropriate.
+SEC. 3. TRANSITIONAL PAYMENT RULES FOR CERTAIN RADIATION THERAPY 
+                    SERVICES UNDER THE MEDICARE PHYSICIAN FEE 
+                    SCHEDULE.
+
+    (a) In General.--Section 1848 of the Social Security Act (42 U.S.C. 
+1395w-4) is amended--
+            (1) in subsection (b), by adding at the end the following 
+        new paragraph:
+            ``(11) Special rule for certain radiation therapy 
+        services.--The code definitions, the work relative value units 
+        under subsection (c)(2)(C)(i), and the direct inputs for the 
+        practice expense relative value units under subsection 
+        (c)(2)(C)(ii) for radiation treatment delivery and related 
+        imaging services (identified in 2016 by HCPCS G-codes G6001 
+        through G6015) for the fee schedule established under this 
+        subsection for services furnished in 2017 and 2018 shall be the 
+        same as such definitions, units, and inputs for such services 
+        for the fee schedule established for services furnished in 
+        2016.''; and
+            (2) in subsection (c)(2)(K), by adding at the end the 
+        following new clause:
+                          ``(iv) Treatment of certain radiation therapy 
+                      services.--Radiation treatment delivery and 
+                      related imaging services identified under 
+                      subsection (b)(11)
+
+[[Page 129 STAT. 3133]]
+
+                      shall not be considered as potentially misvalued 
+                      services for purposes of this subparagraph and 
+                      subparagraph (O) for 2017 and 2018.''.
+
+    (b) Report to Congress on Alternative Payment Model.--Not later than 
+18 months after the date of the enactment of this Act, the Secretary of 
+Health and Human Services shall submit to Congress a report on the 
+development of an episodic alternative payment model for payment under 
+the Medicare program under title XVIII of the Social Security Act for 
+radiation therapy services furnished in nonfacility settings.
+SEC. 4. ENSURING FLEXIBILITY IN APPLYING HARDSHIP EXCEPTION FOR 
+                    MEANINGFUL USE FOR 2015 EHR REPORTING PERIOD 
+                    FOR 2017 PAYMENT ADJUSTMENTS.
+
+    (a) <<NOTE: Deadline.>>  Eligible Professionals.--Section 
+1848(a)(7)(B) of the Social Security Act (42 U.S.C. 1395w-4(a)(7)(B)) is 
+amended, in the first sentence, by inserting ``(and, with respect to the 
+payment adjustment under subparagraph (A) for 2017, for categories of 
+eligible professionals, as established by the Secretary and posted on 
+the Internet website of the Centers for Medicare & Medicaid Services 
+prior to December 15, 2015, an application for which must be submitted 
+to the Secretary by not later than March 15, 2016)'' after ``case-by-
+case basis''.
+
+    (b) Eligible Hospitals.--Section 1886(b)(3)(B)(ix) of the Social 
+Security Act (42 U.S.C. 1395ww(b)(3)(B)(ix)) is amended--
+            (1) in the first sentence of subclause (I), by striking 
+        ``(n)(6)(A)'' and inserting ``(n)(6)''; and
+            (2) <<NOTE: Deadline.>>  in subclause (II), in the first 
+        sentence, by inserting ``(and, with respect to the application 
+        of subclause (I) for fiscal year 2017, for categories of 
+        subsection (d) hospitals, as established by the Secretary and 
+        posted on the Internet website of the Centers for Medicare & 
+        Medicaid Services prior to December 15, 2015, an application for 
+        which must be submitted to the Secretary by not later than April 
+        1, 2016)'' after ``case-by-case basis''.
+
+    (c) <<NOTE: 42 USC 1395w-4 note.>>  Implementation.--Notwithstanding 
+any other provision of law, the Secretary of Health and Human Services 
+shall implement the provisions of, and the amendments made by, 
+subsections (a) and (b) by program instruction, such as through 
+information on the Internet website of the Centers for Medicare & 
+Medicaid Services.
+SEC. 5. MEDICARE IMPROVEMENT FUND.
+
+    Section 1898(b)(1) of the Social Security Act (42 U.S.C. 
+1395iii(b)(1)) is amended by striking ``$5,000,000'' and inserting 
+``$0''.
+SEC. 6. STRENGTHENING MEDICAID PROGRAM INTEGRITY THROUGH 
+                    FLEXIBILITY.
+
+    Section 1936 of the Social Security Act (42 U.S.C. 1396u-6) is 
+amended--
+            (1) in subsection (a), by inserting ``, or otherwise,'' 
+        after ``entities''; and
+            (2) in subsection (e)--
+                    (A) in paragraph (1), in the matter preceding 
+                subparagraph (A), by inserting ``(including the costs of 
+                equipment, salaries and benefits, and travel and 
+                training)'' after ``Program under this section''; and
+
+[[Page 129 STAT. 3134]]
+
+                    (B) in paragraph (3), by striking ``by 100'' and 
+                inserting ``by 100, or such number as determined 
+                necessary by the Secretary to carry out the Program,''.
+SEC. 7. ESTABLISHING MEDICARE ADMINISTRATIVE CONTRACTOR ERROR 
+                    REDUCTION INCENTIVES.
+
+    (a) In General.--Section 1874A(b)(1)(D) of the Social Security Act 
+(42 U.S.C. 1395kk-1(b)(1)(D)) is amended--
+            (1) by striking ``quality.--The Secretary'' and inserting 
+        ``quality.--
+                          ``(i) In general.--Subject to clauses (ii) and 
+                      (iii), the Secretary''; and
+            (2) by inserting after clause (i), as added by paragraph 
+        (1), the following new clauses:
+                          ``(ii) Improper payment rate reduction 
+                      incentives.--The Secretary shall provide 
+                      incentives for medicare administrative contractors 
+                      to reduce the improper payment error rates in 
+                      their jurisdictions.
+                          ``(iii) Incentives.--The incentives provided 
+                      for under clause (ii)--
+                                    ``(I) may include a sliding scale of 
+                                award fee payments and additional 
+                                incentives to medicare administrative 
+                                contractors that either reduce the 
+                                improper payment rates in their 
+                                jurisdictions to certain thresholds, as 
+                                determined by the Secretary, or 
+                                accomplish tasks, as determined by the 
+                                Secretary, that further improve payment 
+                                accuracy; and
+                                    ``(II) may include substantial 
+                                reductions in award fee payments under 
+                                cost-plus-award-fee contracts, for 
+                                medicare administrative contractors that 
+                                reach an upper end improper payment rate 
+                                threshold or other threshold as 
+                                determined by the Secretary, or fail to 
+                                accomplish tasks, as determined by the 
+                                Secretary, that further improve payment 
+                                accuracy.''.
+
+    (b) <<NOTE: Applicability. 42 USC 1395kk-1 note.>>  Effective 
+Date.--
+            (1) In general.--The amendments made by subsection (a) shall 
+        apply to contracts entered into or renewed on or after the date 
+        that is 3 years after the date of enactment of this Act.
+            (2) Application to existing contracts.--In the case of 
+        contracts in existence on or after the date of the enactment of 
+        this Act and that are not subject to the effective date under 
+        paragraph (1), the Secretary of Health and Human Services shall, 
+        when appropriate and practicable, seek to apply the incentives 
+        provided for in the amendments made by subsection (a) through 
+        contract modifications.
+SEC. 8. STRENGTHENING PENALTIES FOR THE ILLEGAL DISTRIBUTION OF A 
+                    MEDICARE, MEDICAID, OR CHIP BENEFICIARY 
+                    IDENTIFICATION OR BILLING PRIVILEGES.
+
+    Section 1128B(b) of the Social Security Act (42 U.S.C. 1320a-7b(b)) 
+is amended by adding at the end the following:
+            ``(4) Whoever without lawful authority knowingly and 
+        willfully purchases, sells or distributes, or arranges for the 
+        purchase, sale, or distribution of a beneficiary identification 
+        number or unique health identifier for a health care provider
+
+[[Page 129 STAT. 3135]]
+
+        under title XVIII, title XIX, or title XXI shall be imprisoned 
+        for not more than 10 years or fined not more than $500,000 
+        ($1,000,000 in the case of a corporation), or both.''.
+SEC. 9. <<NOTE: 42 USC 1395ddd note.>>  IMPROVING THE SHARING OF 
+                    DATA BETWEEN THE FEDERAL GOVERNMENT AND STATE 
+                    MEDICAID PROGRAMS.
+
+    (a) <<NOTE: Plan.>>  In General.--The Secretary of Health and Human 
+Services (in this section referred to as the ``Secretary'') shall 
+establish a plan to encourage and facilitate the participation of States 
+in the Medicare-Medicaid Data Match Program (commonly referred to as the 
+``Medi-Medi Program'') under section 1893(g) of the Social Security Act 
+(42 U.S.C. 1395ddd(g)).
+
+    (b) Program Revisions To Improve Medi-Medi Data Match Program 
+Participation by States.--Section 1893(g)(1)(A) of the Social Security 
+Act (42 U.S.C. 1395ddd(g)(1)(A)) is amended--
+            (1) in the matter preceding clause (i), by inserting ``or 
+        otherwise'' after ``eligible entities'';
+            (2) in clause (i)--
+                    (A) by inserting ``to review claims data'' after 
+                ``algorithms''; and
+                    (B) by striking ``service, time, or patient'' and 
+                inserting ``provider, service, time, or patient'';
+            (3) in clause (ii)--
+                    (A) by inserting ``to investigate and recover 
+                amounts with respect to suspect claims'' after 
+                ``appropriate actions''; and
+                    (B) by striking ``; and'' and inserting a semicolon;
+            (4) in clause (iii), by striking the period and inserting`` 
+        ; and''; and
+            (5) by adding at the end the following new clause:
+                          ``(iv) furthering the Secretary's design, 
+                      development, installation, or enhancement of an 
+                      automated data system architecture--
+                                    ``(I) to collect, integrate, and 
+                                assess data for purposes of program 
+                                integrity, program oversight, and 
+                                administration, including the Medi-Medi 
+                                Program; and
+                                    ``(II) that improves the 
+                                coordination of requests for data from 
+                                States.''.
+
+    (c) <<NOTE: 42 USC 1305ddd note.>>  Providing States With Data on 
+Improper Payments Made for Items or Services Provided to Dual Eligible 
+Individuals.--
+            (1) <<NOTE: Plan.>>  In general.--The Secretary shall 
+        develop and implement a plan that allows each State agency 
+        responsible for administering a State plan for medical 
+        assistance under title XIX of the Social Security Act access to 
+        relevant data on improper or fraudulent payments made under the 
+        Medicare program under title XVIII of the Social Security Act 
+        (42 U.S.C. 1395 et seq.) for health care items or services 
+        provided to dual eligible individuals.
+            (2) Dual eligible individual defined.--In this section, the 
+        term ``dual eligible individual'' means an individual who is 
+        entitled to, or enrolled for, benefits under part A of title 
+        XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), or 
+        enrolled for benefits under part B of title XVIII of such
+
+[[Page 129 STAT. 3136]]
+
+        Act (42 U.S.C. 1395j et seq.), and is eligible for medical 
+        assistance under a State plan under title XIX of such Act (42 
+        U.S.C. 1396 et seq.) or under a waiver of such plan.
+
+    Approved December 28, 2015.
+
+LEGISLATIVE HISTORY--S. 2425:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 161 (2015):
+            Dec. 18, considered and passed Senate and House.
+
+                                  
+

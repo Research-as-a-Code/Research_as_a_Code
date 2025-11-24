@@ -1,0 +1,357 @@
+
+[110th Congress Public Law 142]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ142.110]
+
+[[Page 121 STAT. 1803]]
+
+Public Law 110-142
+110th Congress
+
+                                 An Act
+
+
+ 
+  To amend the Internal Revenue Code of 1986 to exclude discharges of 
+ indebtedness on principal residences from gross income, and for other 
+            purposes. <<NOTE: Dec. 20, 2007 -  [H.R. 3648]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Mortgage Forgiveness Debt 
+Relief Act of 2007.>> assembled,
+
+SECTION 1. <<NOTE: 26 USC 1 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Mortgage Forgiveness Debt Relief Act 
+of 2007''.
+
+SEC. 2. DISCHARGES OF INDEBTEDNESS ON PRINCIPAL RESIDENCE EXCLUDED FROM 
+            GROSS INCOME.
+
+    (a) In General.--Paragraph (1) of section 108(a) of the Internal 
+Revenue Code of 1986 is <<NOTE: 26 USC 108.>> amended by striking ``or'' 
+at the end of subparagraph (C), by striking the period at the end of 
+subparagraph (D) and inserting ``, or'', and by inserting after 
+subparagraph (D) the following new subparagraph:
+                    ``(E) the indebtedness discharged is qualified 
+                principal residence indebtedness which is discharged 
+                before January 1, 2010.''.
+
+    (b) Special Rules Relating to Qualified Principal Residence 
+Indebtedness.--Section 108 of such Code is amended by adding at the end 
+the following new subsection:
+    ``(h) Special Rules Relating to Qualified Principal Residence 
+Indebtedness.--
+            ``(1) Basis reduction.--The amount excluded from gross 
+        income by reason of subsection (a)(1)(E) shall be applied to 
+        reduce (but not below zero) the basis of the principal residence 
+        of the taxpayer.
+            ``(2) Qualified principal residence indebtedness.--For 
+        purposes of this section, the term `qualified principal 
+        residence indebtedness' means acquisition indebtedness (within 
+        the meaning of section 163(h)(3)(B), applied by substituting 
+        `$2,000,000 ($1,000,000' for `$1,000,000 ($500,000' in clause 
+        (ii) thereof) with respect to the principal residence of the 
+        taxpayer.
+            ``(3) Exception for certain discharges not related to 
+        taxpayer's financial condition.--Subsection (a)(1)(E) shall not 
+        apply to the discharge of a loan if the discharge is on account 
+        of services performed for the lender or any other factor not 
+        directly related to a decline in the value of the residence or 
+        to the financial condition of the taxpayer.
+            ``(4) Ordering rule.--If any loan is discharged, in whole or 
+        in part, and only a portion of such loan is qualified principal 
+        residence indebtedness, subsection (a)(1)(E) shall apply only to 
+        so much of the amount discharged as exceeds the amount
+
+[[Page 121 STAT. 1804]]
+
+        of the loan (as determined immediately before such discharge) 
+        which is not qualified principal residence indebtedness.
+            ``(5) Principal residence.--For purposes of this subsection, 
+        the term `principal residence' has the same meaning as when used 
+        in section 121.''.
+
+    (c) Coordination.--
+            (1) Subparagraph (A) of section 108(a)(2) <<NOTE: 26 USC 
+        108.>> of such Code is amended by striking ``and (D)'' and 
+        inserting ``(D), and (E)''.
+            (2) Paragraph (2) of section 108(a) of such Code is amended 
+        by adding at the end the following new subparagraph:
+                    ``(C) Principal residence exclusion takes precedence 
+                over insolvency exclusion unless elected otherwise.--
+                Paragraph (1)(B) shall not apply to a discharge to which 
+                paragraph (1)(E) applies unless the taxpayer elects to 
+                apply paragraph (1)(B) in lieu of paragraph (1)(E).''.
+
+    (d) Effective Date.--The <<NOTE: 26 USC 108 note.>> amendments made 
+by this section shall apply to discharges of indebtedness on or after 
+January 1, 2007.
+
+SEC. 3. EXTENSION OF TREATMENT OF MORTGAGE INSURANCE PREMIUMS AS 
+            INTEREST.
+
+    (a) In General.--Subclause (I) of section 163(h)(3)(E)(iv) of the 
+Internal Revenue Code of 1986 (relating to termination) is amended by 
+striking ``December 31, 2007'' and inserting ``December 31, 2010''.
+    (b) Effective Date.--The <<NOTE: 26 USC 163 note.>> amendment made 
+by this section shall apply to amounts paid or accrued after December 
+31, 2007.
+
+SEC. 4. ALTERNATIVE TESTS FOR QUALIFYING AS COOPERATIVE HOUSING 
+            CORPORATION.
+
+    (a) In General.--Subparagraph (D) of section 216(b)(1) of the 
+Internal Revenue Code of 1986 (defining cooperative housing corporation) 
+is amended to read as follows:
+                    ``(D) meeting 1 or more of the following 
+                requirements for the taxable year in which the taxes and 
+                interest described in subsection (a) are paid or 
+                incurred:
+                          ``(i) 80 percent or more of the corporation's 
+                      gross income for such taxable year is derived from 
+                      tenant-stockholders.
+                          ``(ii) At all times during such taxable year, 
+                      80 percent or more of the total square footage of 
+                      the corporation's property is used or available 
+                      for use by the tenant-stockholders for residential 
+                      purposes or purposes ancillary to such residential 
+                      use.
+                          ``(iii) 90 percent or more of the expenditures 
+                      of the corporation paid or incurred during such 
+                      taxable year are paid or incurred for the 
+                      acquisition, construction, management, 
+                      maintenance, or care of the corporation's property 
+                      for the benefit of the tenant-stockholders.''.
+
+    (b) Effective Date.--The <<NOTE: 26 USC 216 note.>> amendment made 
+by this section shall apply to taxable years ending after the date of 
+the enactment of this Act.
+
+[[Page 121 STAT. 1805]]
+
+SEC. 5. EXCLUSION FROM INCOME FOR BENEFITS PROVIDED TO VOLUNTEER 
+            FIREFIGHTERS AND EMERGENCY MEDICAL RESPONDERS.
+
+    (a) In General.--Part III of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to items specifically excluded 
+from gross income) is amended by inserting after section 139A the 
+following new section:
+
+``SEC. 139B. <<NOTE: 26 USC 139B.>> BENEFITS PROVIDED TO VOLUNTEER 
+            FIREFIGHTERS AND EMERGENCY MEDICAL RESPONDERS.
+
+    ``(a) In General.--In the case of any member of a qualified 
+volunteer emergency response organization, gross income shall not 
+include--
+            ``(1) any qualified State and local tax benefit, and
+            ``(2) any qualified payment.
+
+    ``(b) Denial of Double Benefits.--In the case of any member of a 
+qualified volunteer emergency response organization--
+            ``(1) the deduction under 164 shall be determined with 
+        regard to any qualified State and local tax benefit, and
+            ``(2) expenses paid or incurred by the taxpayer in 
+        connection with the performance of services as such a member 
+        shall be taken into account under section 170 only to the extent 
+        such expenses exceed the amount of any qualified payment 
+        excluded from gross income under subsection (a).
+
+    ``(c) Definitions.--For purposes of this section--
+            ``(1) Qualified state and local tax benefit.--The term 
+        `qualified state and local tax benefit' means any reduction or 
+        rebate of a tax described in paragraph (1), (2), or (3) of 
+        section 164(a) provided by a State or political division thereof 
+        on account of services performed as a member of a qualified 
+        volunteer emergency response organization.
+            ``(2) Qualified payment.--
+                    ``(A) In general.--The term `qualified payment' 
+                means any payment (whether reimbursement or otherwise) 
+                provided by a State or political division thereof on 
+                account of the performance of services as a member of a 
+                qualified volunteer emergency response organization.
+                    ``(B) Applicable dollar limitation.--The amount 
+                determined under subparagraph (A) for any taxable year 
+                shall not exceed $30 multiplied by the number of months 
+                during such year that the taxpayer performs such 
+                services.
+            ``(3) Qualified volunteer emergency response organization.--
+        The term `qualified volunteer emergency response organization' 
+        means any volunteer organization--
+                    ``(A) which is organized and operated to provide 
+                firefighting or emergency medical services for persons 
+                in the State or political subdivision, as the case may 
+                be, and
+                    ``(B) which is required (by written agreement) by 
+                the State or political subdivision to furnish 
+                firefighting or emergency medical services in such State 
+                or political subdivision.
+
+    ``(d) Termination.--This section shall not apply with respect to 
+taxable years beginning after December 31, 2010.''.
+
+[[Page 121 STAT. 1806]]
+
+    (b) Clerical Amendment.--The table of sections for such part is 
+amended by inserting after the item relating to section 139A the 
+following new item:
+
+``Sec. 139B. Benefits provided to volunteer firefighters and emergency 
+           medical responders.''.
+
+    (c) Effective Date.--The <<NOTE: 26 USC 139B note.>> amendments made 
+by this section shall apply to taxable years beginning after December 
+31, 2007.
+
+SEC. 6. CLARIFICATION OF STUDENT HOUSING ELIGIBLE FOR LOW-INCOME HOUSING 
+            CREDIT.
+
+    (a) In General.--Subclause (I) of section 42(i)(3)(D)(ii) of the 
+Internal Revenue Code of <<NOTE: 26 USC 42.>> 1986 (relating to certain 
+students not to disqualify unit) is amended to read as follows:
+                                    ``(I) single parents and their 
+                                children and such parents are not 
+                                dependents (as defined in section 152, 
+                                determined without regard to subsections 
+                                (b)(1), (b)(2), and (d)(1)(B) thereof) 
+                                of another individual and such children 
+                                are not dependents (as so defined) of 
+                                another individual other than a parent 
+                                of such children, or.''.
+
+    (b) Effective Date.--The <<NOTE: 26 USC 42 note.>> amendment made by 
+this section shall apply to--
+            (1) housing credit amounts allocated before, on, or after 
+        the date of the enactment of this Act, and
+            (2) buildings placed in service before, on, or after such 
+        date to the extent paragraph (1) of section 42(h) of the 
+        Internal Revenue Code of 1986 does not apply to any building by 
+        reason of paragraph (4) thereof.
+
+SEC. 7. APPLICATION OF JOINT RETURN LIMITATION FOR CAPITAL GAINS 
+            EXCLUSION TO CERTAIN POST-MARRIAGE SALES OF PRINCIPAL 
+            RESIDENCES BY SURVIVING SPOUSES.
+
+    (a) Sale Within 2 Years of Spouse's Death.--Section 121(b) of the 
+Internal Revenue Code of 1986 (relating to limitations) is amended by 
+adding at the end the following new paragraph:
+            ``(4) Special rule for certain sales by surviving spouses.--
+        In the case of a sale or exchange of property by an unmarried 
+        individual whose spouse is deceased on the date of such sale, 
+        paragraph (1) shall be applied by substituting `$500,000' for 
+        `$250,000' if such sale occurs not later than 2 years after the 
+        date of death of such spouse and the requirements of paragraph 
+        (2)(A) were met immediately before such date of death.''.
+
+    (b) Effective Date.--The <<NOTE: 26 USC 121 note.>> amendment made 
+by this section shall apply to sales or exchanges after December 31, 
+2007.
+
+SEC. 8. MODIFICATION OF PENALTY FOR FAILURE TO FILE PARTNERSHIP RETURNS; 
+            LIMITATION ON DISCLOSURE.
+
+    (a) Extension of Time Limitation.--Section 6698(a) of the Internal 
+Revenue Code of 1986 (relating to failure to file partnership returns) 
+is amended by striking ``5 months'' and inserting ``12 months''.
+    (b) Increase in Penalty Amount.--Paragraph (1) of section 6698(b) of 
+such Code is amended by striking ``$50'' and inserting ``$85''.
+
+[[Page 121 STAT. 1807]]
+
+    (c) Limitation on Disclosure of Taxpayer Returns to Partners, S 
+Corporation Shareholders, Trust Beneficiaries, and Estate 
+Beneficiaries.--
+            (1) In general.--Section 6103(e) of such <<NOTE: 26 USC 
+        6103.>> Code (relating to disclosure to persons having material 
+        interest) is amended by adding at the end the following new 
+        paragraph:
+            ``(10) Limitation on certain disclosures under this 
+        subsection.--In the case of an inspection or disclosure under 
+        this subsection relating to the return of a partnership, S 
+        corporation, trust, or an estate, the information inspected or 
+        disclosed shall not include any supporting schedule, attachment, 
+        or list which includes the taxpayer identity information of a 
+        person other than the entity making the return or the person 
+        conducting the inspection or to whom the disclosure is made.''.
+            (2) Effective date.--The amendment made by this subsection 
+        shall take effect on the date of the enactment of this Act.
+
+    (d) Effective Date.--The <<NOTE: 26 USC 6103 note.>> amendments made 
+by subsections (a) and (b) shall apply to returns required to be filed 
+after the date of the enactment of this Act.
+
+SEC. 9. PENALTY FOR FAILURE TO FILE S CORPORATION RETURNS.
+
+    (a) In General.--Part I of subchapter B of chapter 68 of the 
+Internal Revenue Code of 1986 (relating to assessable penalties) is 
+amended by adding at the end the following new section:
+
+``SEC. 6699. <<NOTE: Penalties. 26 USC 6699.>> FAILURE TO FILE S 
+            CORPORATION RETURN.
+
+    ``(a) General Rule.--In addition to the penalty imposed by section 
+7203 (relating to willful failure to file return, supply information, or 
+pay tax), if any S corporation required to file a return under section 
+6037 for any taxable year--
+            ``(1) fails to file such return at the time prescribed 
+        therefor (determined with regard to any extension of time for 
+        filing), or
+            ``(2) files a return which fails to show the information 
+        required under section 6037,
+
+such S corporation shall be liable for a penalty determined under 
+subsection (b) for each month (or fraction thereof) during which such 
+failure continues (but not to exceed 12 months), unless it is shown that 
+such failure is due to reasonable cause.
+    ``(b) Amount Per Month.--For purposes of subsection (a), the amount 
+determined under this subsection for any month is the product of--
+            ``(1) $85, multiplied by
+            ``(2) the number of persons who were shareholders in the S 
+        corporation during any part of the taxable year.
+
+    ``(c) Assessment of Penalty.--The penalty imposed by subsection (a) 
+shall be assessed against the S corporation.
+    ``(d) Deficiency Procedures Not To Apply.--Subchapter B of chapter 
+63 (relating to deficiency procedures for income, estate, gift, and 
+certain excise taxes) shall not apply in respect of the assessment or 
+collection of any penalty imposed by subsection (a).''.
+    (b) Clerical Amendment.--The table of sections for part I of 
+subchapter B of chapter 68 of such Code is amended by adding at the end 
+the following new item:
+
+``Sec. 6699. Failure to file S corporation return.''.
+
+
+[[Page 121 STAT. 1808]]
+
+
+
+    (c) Effective Date.--The <<NOTE: 26 USC 6699 note.>> amendments made 
+by this section shall apply to returns required to be filed after the 
+date of the enactment of this Act.
+
+SEC. 10. <<NOTE: 26 USC 6655 note.>> MODIFICATION OF REQUIRED 
+            INSTALLMENT OF CORPORATE ESTIMATED TAXES WITH RESPECT TO 
+            CERTAIN DATES.
+
+    The percentage under subparagraph (B) of section 401(1) of the Tax 
+Increase Prevention and Reconciliation Act of 2005 in effect on the date 
+of the enactment of this Act is increased by 1.50 percentage points.
+
+    Approved December 20, 2007.
+
+LEGISLATIVE HISTORY--H.R. 3648:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 110-356 (Comm. on Ways and Means).
+CONGRESSIONAL RECORD, Vol. 153 (2007):
+            Oct. 4, considered and passed House.
+            Dec. 14, considered and passed Senate, amended.
+            Dec. 18, House concurred in Senate amendment.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 43 (2007):
+            Dec. 20, Presidential remarks.
+
+                                  
+

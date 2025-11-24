@@ -1,0 +1,823 @@
+
+[106th Congress Public Law 519]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ519.106]
+
+
+[[Page 114 STAT. 2423]]
+
+Public Law 106-519
+106th Congress
+
+                                 An Act
+
+
+ 
+  To amend the Internal Revenue Code of 1986 to repeal the provisions 
+      relating to foreign sales corporations (FSCs) and to exclude 
+      extraterritorial income from gross income. <<NOTE: Nov. 15, 
+                         2000 -  [H.R. 4986]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: FSC Repeal and 
+Extraterritorial Income Exclusion Act of 2000.>> 
+
+SECTION 1. SHORT TITLE.
+
+    (a) <<NOTE: 26 USC 1 note.>>  Short Title.--This Act may be cited as 
+the ``FSC Repeal and Extraterritorial Income Exclusion Act of 2000''.
+
+    (b) Amendment of 1986 Code.--Except as otherwise expressly provided, 
+whenever in this Act an amendment or repeal is expressed in terms of an 
+amendment to, or repeal of, a section or other provision, the reference 
+shall be considered to be made to a section or other provision of the 
+Internal Revenue Code of 1986.
+
+SEC. 2. REPEAL OF FOREIGN SALES CORPORATION RULES.
+
+    Subpart C of part III of subchapter N of chapter 1 <<NOTE: 26 USC 
+921-927.>>  (relating to taxation of foreign sales corporations) is 
+hereby repealed.
+
+SEC. 3. TREATMENT OF EXTRATERRITORIAL INCOME.
+
+    (a) In General.--Part III of subchapter B of chapter 1 (relating to 
+items specifically excluded from gross income) is amended by inserting 
+before section 115 the following new section:
+
+``SEC. 114. EXTRATERRITORIAL INCOME.
+
+    ``(a) Exclusion.--Gross income does not include extraterritorial 
+income.
+    ``(b) Exception.--Subsection (a) shall not apply to extraterritorial 
+income which is not qualifying foreign trade income as determined under 
+subpart E of part III of subchapter N.
+    ``(c) Disallowance of Deductions.--
+            ``(1) In general.--Any deduction of a taxpayer allocated 
+        under paragraph (2) to extraterritorial income of the taxpayer 
+        excluded from gross income under subsection (a) shall not be 
+        allowed.
+            ``(2) Allocation.--Any deduction of the taxpayer properly 
+        apportioned and allocated to the extraterritorial income derived 
+        by the taxpayer from any transaction shall be allocated on a 
+        proportionate basis between--
+                    ``(A) the extraterritorial income derived from such 
+                transaction which is excluded from gross income under 
+                subsection (a), and
+                    ``(B) the extraterritorial income derived from such 
+                transaction which is not so excluded.
+
+[[Page 114 STAT. 2424]]
+
+    ``(d) Denial of Credits for Certain Foreign Taxes.--Notwithstanding 
+any other provision of this chapter, no credit shall be allowed under 
+this chapter for any income, war profits, and excess profits taxes paid 
+or accrued to any foreign country or possession of the United States 
+with respect to extraterritorial income which is excluded from gross 
+income under subsection (a).
+    ``(e) Extraterritorial Income.--For purposes of this section, the 
+term `extraterritorial income' means the gross income of the taxpayer 
+attributable to foreign trading gross receipts (as defined in section 
+942) of the taxpayer.''.
+    (b) Qualifying Foreign Trade Income.--Part III of subchapter N of 
+chapter 1 is amended by inserting after subpart D the following new 
+subpart:
+
+              ``Subpart E--Qualifying Foreign Trade Income
+
+                ``Sec. 941. Qualifying foreign trade income.
+                ``Sec. 942. Foreign trading gross receipts.
+                ``Sec. 943. Other definitions and special rules.
+
+``SEC. 941. QUALIFYING FOREIGN TRADE INCOME.
+
+    ``(a) Qualifying Foreign Trade Income.--For purposes of this subpart 
+and section 114--
+            ``(1) In general.--The term `qualifying foreign trade 
+        income' means, with respect to any transaction, the amount of 
+        gross income which, if excluded, will result in a reduction of 
+        the taxable income of the taxpayer from such transaction equal 
+        to the greatest of--
+                    ``(A) 30 percent of the foreign sale and leasing 
+                income derived by the taxpayer from such transaction,
+                    ``(B) 1.2 percent of the foreign trading gross 
+                receipts derived by the taxpayer from the transaction, 
+                or
+                    ``(C) 15 percent of the foreign trade income derived 
+                by the taxpayer from the transaction.
+        In no event shall the amount determined under subparagraph (B) 
+        exceed 200 percent of the amount determined under subparagraph 
+        (C).
+            ``(2) Alternative computation.--A taxpayer may compute its 
+        qualifying foreign trade income under a subparagraph of 
+        paragraph (1) other than the subparagraph which results in the 
+        greatest amount of such income.
+            ``(3) Limitation on use of foreign trading gross receipts 
+        method.--If any person computes its qualifying foreign trade 
+        income from any transaction with respect to any property under 
+        paragraph (1)(B), the qualifying foreign trade income of such 
+        person (or any related person) with respect to any other 
+        transaction involving such property shall be zero.
+            ``(4) Rules for marginal costing.--The Secretary shall 
+        prescribe regulations setting forth rules for the allocation of 
+        expenditures in computing foreign trade income under paragraph 
+        (1)(C) in those cases where a taxpayer is seeking to establish 
+        or maintain a market for qualifying foreign trade property.
+            ``(5) <<NOTE: Regulations.>>  Participation in international 
+        boycotts, etc.--Under regulations prescribed by the Secretary, 
+        the qualifying foreign trade income of a taxpayer for any 
+        taxable year shall be reduced (but not below zero) by the sum 
+        of--
+
+[[Page 114 STAT. 2425]]
+
+                    ``(A) an amount equal to such income multiplied by 
+                the international boycott factor determined under 
+                section 999, and
+                    ``(B) any illegal bribe, kickback, or other payment 
+                (within the meaning of section 162(c)) paid by or on 
+                behalf of the taxpayer directly or indirectly to an 
+                official, employee, or agent in fact of a government.
+
+    ``(b) Foreign Trade Income.--For purposes of this subpart--
+            ``(1) In general.--The term `foreign trade income' means the 
+        taxable income of the taxpayer attributable to foreign trading 
+        gross receipts of the taxpayer.
+            ``(2) Special rule for cooperatives.--In any case in which 
+        an organization to which part I of subchapter T applies which is 
+        engaged in the marketing of agricultural or horticultural 
+        products sells qualifying foreign trade property, in computing 
+        the taxable income of such cooperative, there shall not be taken 
+        into account any deduction allowable under subsection (b) or (c) 
+        of section 1382 (relating to patronage dividends, per-unit 
+        retain allocations, and nonpatronage distributions).
+
+    ``(c) Foreign Sale and Leasing Income.--For purposes of this 
+section--
+            ``(1) In general.--The term `foreign sale and leasing 
+        income' means, with respect to any transaction--
+                    ``(A) foreign trade income properly allocable to 
+                activities which--
+                          ``(i) are described in paragraph (2)(A)(i) or 
+                      (3) of section 942(b), and
+                          ``(ii) are performed by the taxpayer (or any 
+                      person acting under a contract with such taxpayer) 
+                      outside the United States, or
+                    ``(B) foreign trade income derived by the taxpayer 
+                in connection with the lease or rental of qualifying 
+                foreign trade property for use by the lessee outside the 
+                United States.
+            ``(2) Special rules for leased property.--
+                    ``(A) Sales income.--The term `foreign sale and 
+                leasing income' includes any foreign trade income 
+                derived by the taxpayer from the sale of property 
+                described in paragraph (1)(B).
+                    ``(B) Limitation in certain cases.--Except as 
+                provided in regulations, in the case of property which--
+                          ``(i) was manufactured, produced, grown, or 
+                      extracted by the taxpayer, or
+                          ``(ii) was acquired by the taxpayer from a 
+                      related person for a price which was not 
+                      determined in accordance with the rules of section 
+                      482,
+                the amount of foreign trade income which may be treated 
+                as foreign sale and leasing income under paragraph 
+                (1)(B) or subparagraph (A) of this paragraph with 
+                respect to any transaction involving such property shall 
+                not exceed the amount which would have been determined 
+                if the taxpayer had acquired such property for the price 
+                determined in accordance with the rules of section 482.
+            ``(3) Special rules.--
+                    ``(A) Excluded property.--Foreign sale and leasing 
+                income shall not include any income properly allocable
+
+[[Page 114 STAT. 2426]]
+
+                to excluded property described in subparagraph (B) of 
+                section 943(a)(3) (relating to intangibles).
+                    ``(B) Only direct expenses taken into account.--For 
+                purposes of this subsection, any expense other than a 
+                directly allocable expense shall not be taken into 
+                account in computing foreign trade income.
+
+``SEC. 942. FOREIGN TRADING GROSS RECEIPTS.
+
+    ``(a) Foreign Trading Gross Receipts.--
+            ``(1) In general.--Except as otherwise provided in this 
+        section, for purposes of this subpart, the term `foreign trading 
+        gross receipts' means the gross receipts of the taxpayer which 
+        are--
+                    ``(A) from the sale, exchange, or other disposition 
+                of qualifying foreign trade property,
+                    ``(B) from the lease or rental of qualifying foreign 
+                trade property for use by the lessee outside the United 
+                States,
+                    ``(C) for services which are related and subsidiary 
+                to--
+                          ``(i) any sale, exchange, or other disposition 
+                      of qualifying foreign trade property by such 
+                      taxpayer, or
+                          ``(ii) any lease or rental of qualifying 
+                      foreign trade property described in subparagraph 
+                      (B) by such taxpayer,
+                    ``(D) for engineering or architectural services for 
+                construction projects located (or proposed for location) 
+                outside the United States, or
+                    ``(E) for the performance of managerial services for 
+                a person other than a related person in furtherance of 
+                the production of foreign trading gross receipts 
+                described in subparagraph (A), (B), or (C).
+        Subparagraph (E) shall not apply to a taxpayer for any taxable 
+        year unless at least 50 percent of its foreign trading gross 
+        receipts (determined without regard to this sentence) for such 
+        taxable year is derived from activities described in 
+        subparagraph (A), (B), or (C).
+            ``(2) Certain receipts excluded on basis of use; subsidized 
+        receipts excluded.--The term `foreign trading gross receipts' 
+        shall not include receipts of a taxpayer from a transaction if--
+                    ``(A) the qualifying foreign trade property or 
+                services--
+                          ``(i) are for ultimate use in the United 
+                      States, or
+                          ``(ii) are for use by the United States or any 
+                      instrumentality thereof and such use of qualifying 
+                      foreign trade property or services is required by 
+                      law or regulation, or
+                    ``(B) such transaction is accomplished by a subsidy 
+                granted by the government (or any instrumentality 
+                thereof ) of the country or possession in which the 
+                property is manufactured, produced, grown, or extracted.
+            ``(3) Election to exclude certain receipts.--The term 
+        `foreign trading gross receipts' shall not include gross 
+        receipts of a taxpayer from a transaction if the taxpayer elects 
+        not to have such receipts taken into account for purposes of 
+        this subpart.
+
+    ``(b) Foreign Economic Process Requirements.--
+
+[[Page 114 STAT. 2427]]
+
+            ``(1) In general.--Except as provided in subsection (c), a 
+        taxpayer shall be treated as having foreign trading gross 
+        receipts from any transaction only if economic processes with 
+        respect to such transaction take place outside the United States 
+        as required by paragraph (2).
+            ``(2) Requirement.--
+                    ``(A) In general.--The requirements of this 
+                paragraph are met with respect to the gross receipts of 
+                a taxpayer derived from any transaction if--
+                          ``(i) such taxpayer (or any person acting 
+                      under a contract with such taxpayer) has 
+                      participated outside the United States in the 
+                      solicitation (other than advertising), the 
+                      negotiation, or the making of the contract 
+                      relating to such transaction, and
+                          ``(ii) the foreign direct costs incurred by 
+                      the taxpayer attributable to the transaction equal 
+                      or exceed 50 percent of the total direct costs 
+                      attributable to the transaction.
+                    ``(B) Alternative 85-percent test.--A taxpayer shall 
+                be treated as satisfying the requirements of 
+                subparagraph (A)(ii) with respect to any transaction if, 
+                with respect to each of at least two subparagraphs of 
+                paragraph (3), the foreign direct costs incurred by such 
+                taxpayer attributable to activities described in such 
+                subparagraph equal or exceed 85 percent of the total 
+                direct costs attributable to activities described in 
+                such subparagraph.
+                    ``(C) Definitions.--For purposes of this paragraph--
+                          ``(i) Total direct costs.--The term `total 
+                      direct costs' means, with respect to any 
+                      transaction, the total direct costs incurred by 
+                      the taxpayer attributable to activities described 
+                      in paragraph (3) performed at any location by the 
+                      taxpayer or any person acting under a contract 
+                      with such taxpayer.
+                          ``(ii) Foreign direct costs.--The term 
+                      `foreign direct costs' means, with respect to any 
+                      transaction, the portion of the total direct costs 
+                      which are attributable to activities performed 
+                      outside the United States.
+            ``(3) Activities relating to qualifying foreign trade 
+        property.--The activities described in this paragraph are any of 
+        the following with respect to qualifying foreign trade 
+        property--
+                    ``(A) advertising and sales promotion,
+                    ``(B) the processing of customer orders and the 
+                arranging for delivery,
+                    ``(C) transportation outside the United States in 
+                connection with delivery to the customer,
+                    ``(D) the determination and transmittal of a final 
+                invoice or statement of account or the receipt of 
+                payment, and
+                    ``(E) the assumption of credit risk.
+            ``(4) Economic processes performed by related persons.--A 
+        taxpayer shall be treated as meeting the requirements of this 
+        subsection with respect to any sales transaction involving any 
+        property if any related person has met such requirements in such 
+        transaction or any other sales transaction involving such 
+        property.
+
+[[Page 114 STAT. 2428]]
+
+    ``(c) Exception From Foreign Economic Process Requirement.--
+            ``(1) In general.--The requirements of subsection (b) shall 
+        be treated as met for any taxable year if the foreign trading 
+        gross receipts of the taxpayer for such year do not exceed 
+        $5,000,000.
+            ``(2) <<NOTE: Regulations.>>  Receipts of related persons 
+        aggregated.--All related persons shall be treated as one person 
+        for purposes of paragraph (1), and the limitation under 
+        paragraph (1) shall be allocated among such persons in a manner 
+        provided in regulations prescribed by the Secretary.
+            ``(3) <<NOTE: Applicability.>>  Special rule for pass-thru 
+        entities.--In the case of a partnership, S corporation, or other 
+        pass-thru entity, the limitation under paragraph (1) shall apply 
+        with respect to the partnership, S corporation, or entity and 
+        with respect to each partner, shareholder, or other owner.
+
+``SEC. 943. OTHER DEFINITIONS AND SPECIAL RULES.
+
+    ``(a) Qualifying Foreign Trade Property.--For purposes of this 
+subpart--
+            ``(1) In general.--The term `qualifying foreign trade 
+        property' means property--
+                    ``(A) manufactured, produced, grown, or extracted 
+                within or outside the United States,
+                    ``(B) held primarily for sale, lease, or rental, in 
+                the ordinary course of trade or business for direct use, 
+                consumption, or disposition outside the United States, 
+                and
+                    ``(C) not more than 50 percent of the fair market 
+                value of which is attributable to--
+                          ``(i) articles manufactured, produced, grown, 
+                      or extracted outside the United States, and
+                          ``(ii) direct costs for labor (determined 
+                      under the principles of section 263A) performed 
+                      outside the United States.
+        For purposes of subparagraph (C), the fair market value of any 
+        article imported into the United States shall be its appraised 
+        value, as determined by the Secretary under section 402 of the 
+        Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its 
+        importation, and the direct costs for labor under clause (ii) do 
+        not include costs that would be treated under the principles of 
+        section 263A as direct labor costs attributable to articles 
+        described in clause (i).
+            ``(2) U.S. taxation to ensure consistent treatment.--
+        Property which (without regard to this paragraph) is qualifying 
+        foreign trade property and which is manufactured, produced, 
+        grown, or extracted outside the United States shall be treated 
+        as qualifying foreign trade property only if it is manufactured, 
+        produced, grown, or extracted by--
+                    ``(A) a domestic corporation,
+                    ``(B) an individual who is a citizen or resident of 
+                the United States,
+                    ``(C) a foreign corporation with respect to which an 
+                election under subsection (e) (relating to foreign 
+                corporations electing to be subject to United States 
+                taxation) is in effect, or
+
+[[Page 114 STAT. 2429]]
+
+                    ``(D) a partnership or other pass-thru entity all of 
+                the partners or owners of which are described in 
+                subparagraph (A), (B), or (C).
+        Except as otherwise provided by the Secretary, tiered 
+        partnerships or pass-thru entities shall be treated as described 
+        in subparagraph (D) if each of the partnerships or entities is 
+        directly or indirectly wholly owned by persons described in 
+        subparagraph (A), (B), or (C).
+            ``(3) Excluded property.--The term `qualifying foreign trade 
+        property' shall not include--
+                    ``(A) property leased or rented by the taxpayer for 
+                use by any related person,
+                    ``(B) patents, inventions, models, designs, 
+                formulas, or processes whether or not patented, 
+                copyrights (other than films, tapes, records, or similar 
+                reproductions, and other than computer software (whether 
+                or not patented), for commercial or home use), goodwill, 
+                trademarks, trade brands, franchises, or other like 
+                property,
+                    ``(C) oil or gas (or any primary product thereof ),
+                    ``(D) products the transfer of which is prohibited 
+                or curtailed to effectuate the policy set forth in 
+                paragraph (2)(C) of section 3 of Public Law 96-72, or
+                    ``(E) any unprocessed timber which is a softwood.
+        For purposes of subparagraph (E), the term `unprocessed timber' 
+        means any log, cant, or similar form of timber.
+            ``(4) Property in short supply.--If the President determines 
+        that the supply of any property described in paragraph (1) is 
+        insufficient to meet the requirements of the domestic economy, 
+        the President may by Executive order designate the property as 
+        in short supply. Any property so designated shall not be treated 
+        as qualifying foreign trade property during the period beginning 
+        with the date specified in the Executive order and ending with 
+        the date specified in an Executive order setting forth the 
+        President's determination that the property is no longer in 
+        short supply.
+
+    ``(b) Other Definitions and Rules.--For purposes of this subpart--
+            ``(1) Transaction.--
+                    ``(A) In general.--The term `transaction' means--
+                          ``(i) any sale, exchange, or other 
+                      disposition,
+                          ``(ii) any lease or rental, and
+                          ``(iii) any furnishing of services.
+                    ``(B) Grouping of transactions.--To the extent 
+                provided in regulations, any provision of this subpart 
+                which, but for this subparagraph, would be applied on a 
+                transaction-by-transaction basis may be applied by the 
+                taxpayer on the basis of groups of transactions based on 
+                product lines or recognized industry or trade usage. 
+                Such regulations may permit different groupings for 
+                different purposes.
+            ``(2) United states defined.--The term `United States' 
+        includes the Commonwealth of Puerto Rico. The preceding sentence 
+        shall not apply for purposes of determining whether a 
+        corporation is a domestic corporation.
+            ``(3) Related person.--A person shall be related to another 
+        person if such persons are treated as a single employer under 
+        subsection (a) or (b) of section 52 or subsection (m) or (o) of 
+        section 414, except that determinations under subsections
+
+[[Page 114 STAT. 2430]]
+
+        (a) and (b) of section 52 shall be made without regard to 
+        section 1563(b).
+            ``(4) Gross and taxable income.--Section 114 shall not be 
+        taken into account in determining the amount of gross income or 
+        foreign trade income from any transaction.
+
+    ``(c) Source Rule.--Under regulations, in the case of qualifying 
+foreign trade property manufactured, produced, grown, or extracted 
+within the United States, the amount of income of a taxpayer from any 
+sales transaction with respect to such property which is treated as from 
+sources without the United States shall not exceed--
+            ``(1) in the case of a taxpayer computing its qualifying 
+        foreign trade income under section 941(a)(1)(B), the amount of 
+        the taxpayer's foreign trade income which would (but for this 
+        subsection) be treated as from sources without the United States 
+        if the foreign trade income were reduced by an amount equal to 4 
+        percent of the foreign trading gross receipts with respect to 
+        the transaction, and
+            ``(2) in the case of a taxpayer computing its qualifying 
+        foreign trade income under section 941(a)(1)(C), 50 percent of 
+        the amount of the taxpayer's foreign trade income which would 
+        (but for this subsection) be treated as from sources without the 
+        United States.
+
+    ``(d) Treatment of Withholding Taxes.--
+            ``(1) In general.--For purposes of section 114(d), any 
+        withholding tax shall not be treated as paid or accrued with 
+        respect to extraterritorial income which is excluded from gross 
+        income under section 114(a). For purposes of this paragraph, the 
+        term `withholding tax' means any tax which is imposed on a basis 
+        other than residence and for which credit is allowable under 
+        section 901 or 903.
+            ``(2) Exception.--Paragraph (1) shall not apply to any 
+        taxpayer with respect to extraterritorial income from any 
+        transaction if the taxpayer computes its qualifying foreign 
+        trade income with respect to the transaction under section 
+        941(a)(1)(A).
+
+    ``(e) Election To Be Treated as Domestic Corporation.--
+            ``(1) In general.--An applicable foreign corporation may 
+        elect to be treated as a domestic corporation for all purposes 
+        of this title if such corporation waives all benefits to such 
+        corporation granted by the United States under any treaty. No 
+        election under section 1362(a) may be made with respect to such 
+        corporation.
+            ``(2) Applicable foreign corporation.--For purposes of 
+        paragraph (1), the term `applicable foreign corporation' means 
+        any foreign corporation if--
+                    ``(A) such corporation manufactures, produces, 
+                grows, or extracts property in the ordinary course of 
+                such corporation's trade or business, or
+                    ``(B) substantially all of the gross receipts of 
+                such corporation are foreign trading gross receipts.
+            ``(3) Period of election.--
+                    ``(A) <<NOTE: Applicability.>>  In general.--Except 
+                as otherwise provided in this paragraph, an election 
+                under paragraph (1) shall apply to the taxable year for 
+                which made and all subsequent
+
+[[Page 114 STAT. 2431]]
+
+                taxable years unless revoked by the taxpayer. Any 
+                revocation of such election shall apply to taxable years 
+                beginning after such revocation.
+                    ``(B) Termination.--If a corporation which made an 
+                election under paragraph (1) for any taxable year fails 
+                to meet the requirements of subparagraph (A) or (B) of 
+                paragraph (2) for any subsequent taxable year, such 
+                election shall not apply to any taxable year beginning 
+                after such subsequent taxable year.
+                    ``(C) Effect of revocation or termination.--If a 
+                corporation which made an election under paragraph (1) 
+                revokes such election or such election is terminated 
+                under subparagraph (B), such corporation (and any 
+                successor corporation) may not make such election for 
+                any of the 5 taxable years beginning with the first 
+                taxable year for which such election is not in effect as 
+                a result of such revocation or termination.
+            ``(4) Special rules.--
+                    ``(A) Requirements.--This subsection shall not apply 
+                to an applicable foreign corporation if such corporation 
+                fails to meet the requirements (if any) which the 
+                Secretary may prescribe to ensure that the taxes imposed 
+                by this chapter on such corporation are paid.
+                    ``(B) Effect of election, revocation, and 
+                termination.--
+                          ``(i) Election.--For purposes of section 367, 
+                      a foreign corporation making an election under 
+                      this subsection shall be treated as transferring 
+                      (as of the first day of the first taxable year to 
+                      which the election applies) all of its assets to a 
+                      domestic corporation in connection with an 
+                      exchange to which section 354 applies.
+                          ``(ii) Revocation and termination.--For 
+                      purposes of section 367, if--
+                                    ``(I) an election is made by a 
+                                corporation under paragraph (1) for any 
+                                taxable year, and
+                                    ``(II) such election ceases to apply 
+                                for any subsequent taxable year,
+                such corporation shall be treated as a domestic 
+                corporation transferring (as of the 1st day of the first 
+                such subsequent taxable year to which such election 
+                ceases to apply) all of its property to a foreign 
+                corporation in connection with an exchange to which 
+                section 354 applies.
+                    ``(C) Eligibility for election.--The Secretary may 
+                by regulation designate one or more classes of 
+                corporations which may not make the election under this 
+                subsection.
+
+    ``(f ) Rules Relating to Allocations of Qualifying Foreign Trade 
+Income From Shared Partnerships.--
+            ``(1) In general.--If--
+                    ``(A) a partnership maintains a separate account for 
+                transactions (to which this subpart applies) with each 
+                partner,
+                    ``(B) distributions to each partner with respect to 
+                such transactions are based on the amounts in the 
+                separate account maintained with respect to such 
+                partner, and
+                    ``(C) such partnership meets such other requirements 
+                as the Secretary may by regulations prescribe,
+
+[[Page 114 STAT. 2432]]
+
+        then such partnership shall allocate to each partner items of 
+        income, gain, loss, and deduction (including qualifying foreign 
+        trade income) from any transaction to which this subpart applies 
+        on the basis of such separate account.
+            ``(2) Special rules.--For purposes of this subpart, in the 
+        case of a partnership to which paragraph (1) applies--
+                    ``(A) any partner's interest in the partnership 
+                shall not be taken into account in determining whether 
+                such partner is a related person with respect to any 
+                other partner, and
+                    ``(B) the election under section 942(a)(3) shall be 
+                made separately by each partner with respect to any 
+                transaction for which the partnership maintains separate 
+                accounts for each partner.
+
+    ``(g) Exclusion for Patrons of Agricultural and Horticultural 
+Cooperatives.--Any amount described in paragraph (1) or (3) of section 
+1385(a)--
+            ``(1) which is received by a person from an organization to 
+        which part I of subchapter T applies which is engaged in the 
+        marketing of agricultural or horticultural products, and
+            ``(2) which is allocable to qualifying foreign trade income 
+        and designated as such by the organization in a written notice 
+        mailed to its patrons during the payment period described in 
+        section 1382(d),
+
+shall be treated as qualifying foreign trade income of such person for 
+purposes of section 114. The taxable income of the organization shall 
+not be reduced under section 1382 by reason of any amount to which the 
+preceding sentence applies.
+    ``(h) Special Rule for DISCs.--Section 114 shall not apply to any 
+taxpayer for any taxable year if, at any time during the taxable year, 
+the taxpayer is a member of any controlled group of corporations (as 
+defined in section 927(d)(4), as in effect before the date of the 
+enactment of this subsection) of which a DISC is a member.''.
+
+SEC. 4. TECHNICAL AND CONFORMING AMENDMENTS.
+
+            (1) The second sentence of section 56(g)(4)(B)(i) <<NOTE: 26 
+        USC 56.>>  is amended by inserting before the period ``or under 
+        section 114''.
+            (2) Section 275(a) <<NOTE: 26 USC 275.>>  is amended--
+                    (A) by striking ``or'' at the end of paragraph 
+                (4)(A), by striking the period at the end of paragraph 
+                (4)(B) and inserting ``, or'', and by adding at the end 
+                of paragraph (4) the following new subparagraph:
+                    ``(C) such taxes are paid or accrued with respect to 
+                qualifying foreign trade income (as defined in section 
+                941).''; and
+                    (B) by adding at the end the following the following 
+                new sentence: ``A rule similar to the rule of section 
+                943(d) shall apply for purposes of paragraph (4)(C).''.
+            (3) Paragraph (3) of section 864(e) <<NOTE: 26 USC 864.>>  
+        is amended--
+                    (A) by striking ``For purposes of'' and inserting:
+                    ``(A) In general.--For purposes of''; and
+                    (B) by adding at the end the following new 
+                subparagraph:
+                    ``(B) Assets producing exempt extraterritorial 
+                income.--For purposes of allocating and apportioning any 
+                interest expense, there shall not be taken into account
+
+[[Page 114 STAT. 2433]]
+
+                any qualifying foreign trade property (as defined in 
+                section 943(a)) which is held by the taxpayer for lease 
+                or rental in the ordinary course of trade or business 
+                for use by the lessee outside the United States (as 
+                defined in section 943(b)(2)).''.
+            (4) Section 903 <<NOTE: 26 USC 903.>>  is amended by 
+        striking ``164(a)'' and inserting ``114, 164(a),''.
+            (5) Section 999(c)(1) <<NOTE: 26 USC 999.>>  is amended by 
+        inserting ``941(a)(5),'' after ``908(a),''.
+            (6) The table of sections for part III of subchapter B of 
+        chapter 1 is amended by inserting before the item relating to 
+        section 115 the following new item:
+                ``Sec. 114. Extraterritorial income.''.
+
+            (7) The table of subparts for part III of subchapter N of 
+        chapter 1 is amended by striking the item relating to subpart E 
+        and inserting the following new item:
+                ``Subpart E. Qualifying foreign trade income.''.
+
+            (8) The table of subparts for part III of subchapter N of 
+        chapter 1 is amended by striking the item relating to subpart C.
+
+SEC. 5. EFFECTIVE DATE. <<NOTE: 26 USC 941 note.>> 
+
+    (a) <<NOTE: Applicability.>>  In General.--The amendments made by 
+this Act shall apply to transactions after September 30, 2000.
+
+    (b) No New FSCs; Termination of Inactive FSCs.--
+            (1) No new fscs.--No corporation may elect after September 
+        30, 2000, to be a FSC (as defined in section 922 of the Internal 
+        Revenue Code of 1986, as in effect before the amendments made by 
+        this Act).
+            (2) Termination of inactive fscs.--If a FSC has no foreign 
+        trade income (as defined in section 923(b) of such Code, as so 
+        in effect) for any period of 5 consecutive taxable years 
+        beginning after December 31, 2001, such FSC shall cease to be 
+        treated as a FSC for purposes of such Code for any taxable year 
+        beginning after such period.
+
+    (c) Transition Period for Existing Foreign Sales Corporations.--
+            (1) In general.--In the case of a FSC (as so defined) in 
+        existence on September 30, 2000, and at all times thereafter, 
+        the amendments made by this Act shall not apply to any 
+        transaction in the ordinary course of trade or business 
+        involving a FSC which occurs--
+                    (A) before January 1, 2002; or
+                    (B) after December 31, 2001, pursuant to a binding 
+                contract--
+                          (i) which is between the FSC (or any related 
+                      person) and any person which is not a related 
+                      person; and
+                          (ii) which is in effect on September 30, 2000, 
+                      and at all times thereafter.
+        For purposes of this paragraph, a binding contract shall include 
+        a purchase option, renewal option, or replacement option which 
+        is included in such contract and which is enforceable against 
+        the seller or lessor.
+            (2) Election to have amendments apply earlier.--A taxpayer 
+        may elect to have the amendments made by this Act apply to any 
+        transaction by a FSC or any related person
+
+[[Page 114 STAT. 2434]]
+
+        to which such amendments would apply but for the application of 
+        paragraph (1). Such election shall be effective for the taxable 
+        year for which made and all subsequent taxable years, and, once 
+        made, may be revoked only with the consent of the Secretary of 
+        the Treasury.
+            (3) Exception for old earnings and profits of certain 
+        corporations.--
+                    (A) In general.--In the case of a foreign 
+                corporation to which this paragraph applies--
+                          (i) earnings and profits of such corporation 
+                      accumulated in taxable years ending before October 
+                      1, 2000, shall not be included in the gross income 
+                      of the persons holding stock in such corporation 
+                      by reason of section 943(e)(4)(B)(i); and
+                          (ii) rules similar to the rules of clauses 
+                      (ii), (iii), and (iv) of section 953(d)(4)(B) 
+                      shall apply with respect to such earnings and 
+                      profits.
+                The preceding sentence shall not apply to earnings and 
+                profits acquired in a transaction after September 30, 
+                2000, to which section 381 applies unless the 
+                distributor or transferor corporation was immediately 
+                before the transaction a foreign corporation to which 
+                this paragraph applies.
+                    (B) <<NOTE: Applicability.>>  Existing fscs.--This 
+                paragraph shall apply to any controlled foreign 
+                corporation (as defined in section 957) if--
+                          (i) such corporation is a FSC (as so defined) 
+                      in existence on September 30, 2000;
+                          (ii) such corporation is eligible to make the 
+                      election under section 943(e) by reason of being 
+                      described in paragraph (2)(B) of such section; and
+                          (iii) such corporation makes such election not 
+                      later than for its first taxable year beginning 
+                      after December 31, 2001.
+                    (C) <<NOTE: Applicability.>>  Other corporations.--
+                This paragraph shall apply to any controlled foreign 
+                corporation (as defined in section 957), and such 
+                corporation shall (notwithstanding any provision of 
+                section 943(e)) be treated as an applicable foreign 
+                corporation for purposes of section 943(e), if--
+                          (i) such corporation is in existence on 
+                      September 30, 2000;
+                          (ii) as of such date, such corporation is 
+                      wholly owned (directly or indirectly) by a 
+                      domestic corporation (determined without regard to 
+                      any election under section 943(e));
+                          (iii) for each of the 3 taxable years 
+                      preceding the first taxable year to which the 
+                      election under section 943(e) by such controlled 
+                      foreign corporation applies--
+                                    (I) all of the gross income of such 
+                                corporation is subpart F income (as 
+                                defined in section 952), including by 
+                                reason of section 954(b)(3)(B); and
+                                    (II) in the ordinary course of such 
+                                corporation's trade or business, such 
+                                corporation regularly sold (or paid 
+                                commissions) to a FSC which on September 
+                                30, 2000, was a related person to such 
+                                corporation;
+                          (iv) such corporation has never made an 
+                      election under section 922(a)(2) (as in effect 
+                      before the date
+
+[[Page 114 STAT. 2435]]
+
+                      of the enactment of this paragraph) to be treated 
+                      as a FSC; and
+                          (v) such corporation makes the election under 
+                      section 943(e) not later than for its first 
+                      taxable year beginning after December 31, 2001.
+                The preceding sentence shall cease to apply as of the 
+                date that the domestic corporation referred to in clause 
+                (ii) ceases to wholly own (directly or indirectly) such 
+                controlled foreign corporation.
+            (4) Related person.--For purposes of this subsection, the 
+        term ``related person'' has the meaning given to such term by 
+        section 943(b)(3).
+            (5) Section references.--Except as otherwise expressly 
+        provided, any reference in this subsection to a section or other 
+        provision shall be considered to be a reference to a section or 
+        other provision of the Internal Revenue Code of 1986, as amended 
+        by this Act.
+
+    (d) Special Rules Relating to Leasing Transactions.--
+            (1) Sales income.--If foreign trade income in connection 
+        with the lease or rental of property described in section 
+        927(a)(1)(B) of such Code (as in effect before the amendments 
+        made by this Act) is treated as exempt foreign trade income for 
+        purposes of section 921(a) of such Code (as so in effect), such 
+        property shall be treated as property described in section 
+        941(c)(1)(B) of such Code (as added by this Act) for purposes of 
+        applying section 941(c)(2) of such Code (as so added) to any 
+        subsequent transaction involving such property to which the 
+        amendments made by this Act apply.
+            (2) Limitation on use of gross receipts method.--If any 
+        person computed its foreign trade income from any transaction 
+        with respect to any property on the basis of a transfer price 
+        determined under the method described in section 925(a)(1) of 
+        such Code (as in effect before the amendments made by this Act), 
+        then the qualifying foreign trade income (as defined in section 
+        941(a) of such Code, as in effect after such amendment) of such 
+        person (or any related person) with respect to any other 
+        transaction involving such property (and to which the amendments 
+        made by this Act apply) shall be zero.
+
+    Approved November 15, 2000.
+
+LEGISLATIVE HISTORY--H.R. 4986:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 106-845 (Comm. on Ways and Means).
+SENATE REPORTS: No. 106-416 (Comm. on Finance).
+CONGRESSIONAL RECORD, Vol. 146 (2000):
+            Sept. 12, 13, considered and passed House.
+            Nov. 1, considered and passed Senate, amended.
+            Nov. 14, House concurred in Senate amendment.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 36 (2000):
+            Nov. 15, Presidential statement.
+
+                                  
+

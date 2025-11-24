@@ -1,0 +1,1063 @@
+
+[114th Congress Public Law 324]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 1947]]
+
+                  JUSTICE FOR ALL REAUTHORIZATION ACT 
+                                 OF 2016
+
+[[Page 130 STAT. 1948]]
+
+Public Law 114-324
+114th Congress
+
+                                 An Act
+
+
+ 
+ To protect crime victims' rights, to eliminate the substantial backlog 
+  of DNA and other forensic evidence samples to improve and expand the 
+  forensic science testing capacity of Federal, State, and local crime 
+   laboratories, to increase research and development of new testing 
+technologies, to develop new training programs regarding the collection 
+and use of forensic evidence, to provide post-conviction testing of DNA 
+evidence to exonerate the innocent, to support accreditation efforts of 
+ forensic science laboratories and medical examiner offices, to address 
+ training and equipment needs, to improve the performance of counsel in 
+     State capital cases, and for other purposes. <<NOTE: Dec. 16, 
+                          2016 -  [S. 2577]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Justice for All 
+Reauthorization Act of 2016.>> 
+SECTION 1. <<NOTE: 42 USC 13701 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Justice for All Reauthorization Act 
+of 2016''.
+SEC. 2. CRIME VICTIMS' RIGHTS.
+
+    (a) Restitution During Supervised Release.--Section 3583(d) of title 
+18, United States Code, is amended in the first sentence by inserting 
+``, that the defendant make restitution in accordance with sections 3663 
+and 3663A, or any other statute authorizing a sentence of restitution,'' 
+after ``supervision''.
+    (b) <<NOTE: Termination dates.>>  Collection of Restitution From 
+Defendant's Estate.--Section 3613(b) of title 18, United States Code, is 
+amended by adding at the end the following: ``The liability to pay 
+restitution shall terminate on the date that is the later of 20 years 
+from the entry of judgment or 20 years after the release from 
+imprisonment of the person ordered to pay restitution. In the event of 
+the death of the person ordered to pay restitution, the individual's 
+estate will be held responsible for any unpaid balance of the 
+restitution amount, and the lien provided in subsection (c) of this 
+section shall continue until the estate receives a written release of 
+that liability.''.
+
+    (c) Victim Interpreters.--Rule 28 of the Federal Rules of Criminal 
+Procedure is amended in the first sentence by inserting before the 
+period at the end the following: ``, including an interpreter for the 
+victim''.
+    (d) GAO Study.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 180 
+        days after the date of enactment of this Act, the Comptroller 
+        General of the United States shall--
+                    (A) <<NOTE: Determination.>>  conduct a study to 
+                determine whether enhancing the restitution provisions 
+                under sections 3663 and 3663A of title 18, United States 
+                Code, to provide courts broader authority to award 
+                restitution for Federal offenses would
+
+[[Page 130 STAT. 1949]]
+
+                be beneficial to crime victims and what other factors 
+                Congress should consider in weighing such changes; and
+                    (B) <<NOTE: Reports.>>  submit to Congress a report 
+                on the study conducted under subparagraph (A).
+            (2) Contents.--In conducting the study under paragraph (1), 
+        the Comptroller General shall focus on the benefits to crime 
+        victims that would result if the restitution provisions under 
+        sections 3663 and 3663A of title 18, United States Code, were 
+        expanded--
+                    (A) to apply to victims who have suffered harm, 
+                injury, or loss that would not have occurred but for the 
+                defendant's related conduct;
+                    (B) in the case of an offense resulting in bodily 
+                injury resulting in the victim's death, to allow the 
+                court to use its discretion to award an appropriate sum 
+                to reflect the income lost by the victim's surviving 
+                family members or estate as a result of the victim's 
+                death;
+                    (C) to require that the defendant pay to the victim 
+                an amount determined by the court to restore the victim 
+                to the position he or she would have been in had the 
+                defendant not committed the offense; and
+                    (D) to require that the defendant compensate the 
+                victim for any injury, harm, or loss, including 
+                emotional distress, that occurred as a result of the 
+                offense.
+SEC. 3. REDUCING THE RAPE KIT BACKLOG.
+
+    (a) <<NOTE: Grants.>>  In General.--Of the amounts made available to 
+the Attorney General for a DNA Analysis and capacity enhancement program 
+and for other local, State, and Federal forensic activities under the 
+heading ``state and local law enforcement'' under the heading ``Office 
+of Justice Programs'' under the heading ``DEPARTMENT OF JUSTICE'' in 
+fiscal years 2018, 2019, 2020, and 2021--
+            (1) not less than 75 percent of such amounts shall be 
+        provided for grants for activities described under paragraphs 
+        (1), (2), and (3) of section 2(a) of the DNA Analysis Backlog 
+        Elimination Act of 2000 (42 U.S.C. 14135(a)); and
+            (2) not less than 5 percent of such amounts shall be 
+        provided for grants for law enforcement agencies to conduct 
+        audits of their backlogged rape kits under section 2(a)(7) of 
+        the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 
+        14135(a)(7)) to create and operate associated tracking systems 
+        and to prioritize testing in those cases in which the statute of 
+        limitation will soon expire.
+
+    (b) Reporting.--
+            (1) Report by grant recipients.--With respect to amounts 
+        made available to the Attorney General for a DNA Analysis and 
+        capacity enhancement program and for other local, State, and 
+        Federal forensic activities under the heading ``state and local 
+        law enforcement'' under the heading ``Office of Justice 
+        Programs'' under the heading ``DEPARTMENT OF JUSTICE'', the 
+        Attorney General shall require recipients of the amounts to 
+        report on the effectiveness of the activities carried out using 
+        the amounts, including any information the Attorney General 
+        needs in order to submit the report required under paragraph 
+        (2).
+
+[[Page 130 STAT. 1950]]
+
+            (2) Report to congress.--Not later than 1 month after the 
+        last day of each even-numbered fiscal year, the Attorney General 
+        shall submit to the Committee on the Judiciary of the Senate and 
+        the Committee on the Judiciary of the House of Representatives a 
+        report that includes, for each recipient of amounts described in 
+        paragraph (1)--
+                    (A) the amounts distributed to the recipient;
+                    (B) <<NOTE: Evaluation.>>  a summary of the purposes 
+                for which the amounts were used and an evaluation of the 
+                progress of the recipient in achieving those purposes;
+                    (C) a statistical summary of the crime scene samples 
+                and arrestee or offender samples submitted to 
+                laboratories, the average time between the submission of 
+                a sample to a laboratory and the testing of the sample, 
+                and the percentage of the amounts that were paid to 
+                private laboratories; and
+                    (D) <<NOTE: Evaluation.>>  an evaluation of the 
+                effectiveness of the grant amounts in increasing 
+                capacity and reducing backlogs.
+SEC. 4. SEXUAL ASSAULT NURSE EXAMINERS.
+
+    Section 304 of the DNA Sexual Assault Justice Act of 2004 (42 U.S.C. 
+14136a) is amended--
+            (1) by redesignating subsection (c) as subsection (d); and
+            (2) by inserting after subsection (b) the following:
+
+    ``(c) Preference.--
+            ``(1) <<NOTE: Certification.>>  In general.--In reviewing 
+        applications submitted in accordance with a program authorized, 
+        in whole or in part, by this section, the Attorney General shall 
+        give preference to any eligible entity that certifies that the 
+        entity will use the grant funds to--
+                    ``(A) improve forensic nurse examiner programs in a 
+                rural area or for an underserved population, as those 
+                terms are defined in section 4002 of the Violence 
+                Against Women Act of 1994 (42 U.S.C. 13925);
+                    ``(B) engage in activities that will assist in the 
+                employment of full-time forensic nurse examiners to 
+                conduct activities under subsection (a); or
+                    ``(C) sustain or establish a training program for 
+                forensic nurse examiners.
+            ``(2) <<NOTE: Deadline. Effective date. Coordination.>>  
+        Directive to the attorney general.--Not later than the beginning 
+        of fiscal year 2018, the Attorney General shall coordinate with 
+        the Secretary of Health and Human Services to inform Federally 
+        Qualified Health Centers, Community Health Centers, hospitals, 
+        colleges and universities, and other appropriate health-related 
+        entities about the role of forensic nurses and existing 
+        resources available within the Department of Justice and the 
+        Department of Health and Human Services to train or employ 
+        forensic nurses to address the needs of communities dealing with 
+        sexual assault, domestic violence, and elder 
+        abuse. <<NOTE: Collaboration.>> The Attorney General shall 
+        collaborate on this effort with nongovernmental organizations 
+        representing forensic nurses.''.
+SEC. 5. PROTECTING THE VIOLENCE AGAINST WOMEN ACT.
+
+    Section 8(e)(1)(A) of the Prison Rape Elimination Act of 2003 (42 
+U.S.C. 15607(e)(1)(A)) is amended--
+            (1) in clause (i), by striking ``and'' at the end;
+
+[[Page 130 STAT. 1951]]
+
+            (2) in clause (ii), by striking the period and inserting ``; 
+        and''; and
+            (3) by inserting at the end the following:
+                          ``(iii) the program is not administered by the 
+                      Office on Violence Against Women of the Department 
+                      of Justice.''.
+SEC. 6. CLARIFICATION OF VIOLENCE AGAINST WOMEN ACT HOUSING 
+                    PROTECTIONS.
+
+    Section 41411(b)(3)(B)(ii) of the Violence Against Women Act of 1994 
+(42 U.S.C. 14043e-11(b)(3)(B)(ii)) is amended--
+            (1) in the first sentence, by inserting ``or resident'' 
+        after ``any remaining tenant''; and
+            (2) in the second sentence, by inserting ``or resident'' 
+        after ``tenant'' each place it appears.
+SEC. 7. STRENGTHENING THE PRISON RAPE ELIMINATION ACT.
+
+    The Prison Rape Elimination Act of 2003 (42 U.S.C. 15601 et seq.) is 
+amended--
+            (1) in section 6(d)(2) (42 U.S.C. 15605(d)(2)), by striking 
+        subparagraph (A) and inserting the following:
+                    ``(A)(i) <<NOTE: Certification.>>  include the 
+                certification of the chief executive that the State 
+                receiving such grant has adopted all national prison 
+                rape standards that, as of the date on which the 
+                application was submitted, have been promulgated under 
+                this Act; or
+                    ``(ii) demonstrate to the Attorney General, in such 
+                manner as the Attorney General shall require, that the 
+                State receiving such grant is actively working to adopt 
+                and achieve full compliance with the national prison 
+                rape standards described in clause (i);''; and
+            (2) in section 8(e) (42 U.S.C. 15607(e))--
+                    (A) by striking paragraph (2) and inserting the 
+                following:
+            ``(2) Adoption of national standards.--
+                    ``(A) <<NOTE: Grants.>>  In general.--For each 
+                fiscal year, any amount that a State would otherwise 
+                receive for prison purposes for that fiscal year under a 
+                grant program covered by this subsection shall be 
+                reduced by 5 percent, unless the chief executive officer 
+                of the State submits to the Attorney General proof of 
+                compliance with this Act through--
+                          ``(i) <<NOTE: Certification.>>  a 
+                      certification that the State has adopted, and is 
+                      in full compliance with, the national standards 
+                      described in subsection (a); or
+                          ``(ii) an assurance that the State intends to 
+                      adopt and achieve full compliance with those 
+                      national standards so as to ensure that a 
+                      certification under clause (i) may be submitted in 
+                      future years, which includes--
+                                    ``(I) a commitment that not less 
+                                than 5 percent of such amount shall be 
+                                used for this purpose; or
+                                    ``(II) a request that the Attorney 
+                                General hold 5 percent of such amount in 
+                                abeyance pursuant to the requirements of 
+                                subparagraph (E).
+                    ``(B) Rules for certification.--
+                          ``(i) <<NOTE: Lists. Audits.>>  In general.--A 
+                      chief executive officer of a State who submits a 
+                      certification under this paragraph shall also 
+                      provide the Attorney General with--
+
+[[Page 130 STAT. 1952]]
+
+                                    ``(I) a list of the prisons under 
+                                the operational control of the executive 
+                                branch of the State;
+                                    ``(II) a list of the prisons listed 
+                                under subclause (I) that were audited 
+                                during the most recently concluded audit 
+                                year;
+                                    ``(III) all final audit reports for 
+                                prisons listed under subclause (I) that 
+                                were completed during the most recently 
+                                concluded audit year; and
+                                    ``(IV) <<NOTE: Time period.>>  a 
+                                proposed schedule for completing an 
+                                audit of all the prisons listed under 
+                                subclause (I) during the following 3 
+                                audit years.
+                          ``(ii) <<NOTE: Effective 
+                      date. Certification.>>  Audit appeal exception.--
+                      Beginning on the date that is 3 years after the 
+                      date of enactment of the Justice for All 
+                      Reauthorization Act of 2016, a chief executive 
+                      officer of a State may submit a certification that 
+                      the State is in full compliance pursuant to 
+                      subparagraph (A)(i) even if a prison under the 
+                      operational control of the executive branch of the 
+                      State has an audit appeal pending.
+                    ``(C) Rules for assurances.--
+                          ``(i) <<NOTE: Lists. Audits.>>  In general.--A 
+                      chief executive officer of a State who submits an 
+                      assurance under subparagraph (A)(ii) shall also 
+                      provide the Attorney General with--
+                                    ``(I) a list of the prisons under 
+                                the operational control of the executive 
+                                branch of the State;
+                                    ``(II) a list of the prisons listed 
+                                under subclause (I) that were audited 
+                                during the most recently concluded audit 
+                                year;
+                                    ``(III) an explanation of any 
+                                barriers the State faces to completing 
+                                required audits;
+                                    ``(IV) all final audit reports for 
+                                prisons listed under subclause (I) that 
+                                were completed during the most recently 
+                                concluded audit year;
+                                    ``(V) <<NOTE: Time period.>>  a 
+                                proposed schedule for completing an 
+                                audit of all prisons under the 
+                                operational control of the executive 
+                                branch of the State during the following 
+                                3 audit years; and
+                                    ``(VI) an explanation of the State's 
+                                current degree of implementation of the 
+                                national standards.
+                          ``(ii) <<NOTE: Expenditure plan.>>  Additional 
+                      requirement.--A chief executive officer of a State 
+                      who submits an assurance under subparagraph 
+                      (A)(ii)(I) shall, before receiving the applicable 
+                      funds described in subparagraph (A)(ii)(I), also 
+                      provide the Attorney General with a proposed plan 
+                      for the expenditure of the funds during the 
+                      applicable grant period.
+                          ``(iii) Accounting of funds.--A chief 
+                      executive officer of a State who submits an 
+                      assurance under subparagraph (A)(ii)(I) shall, in 
+                      a manner consistent with the applicable grant 
+                      reporting requirements, submit to the Attorney 
+                      General a detailed accounting of how the funds 
+                      described in subparagraph (A) were used.
+                    ``(D) Sunset of assurance option.--
+                          ``(i) In general.--On the date that is 3 years 
+                      after the date of enactment of the Justice for All
+
+[[Page 130 STAT. 1953]]
+
+                      Reauthorization Act of 2016, subclause (II) of 
+                      subparagraph (A)(ii) shall cease to have effect.
+                          ``(ii) Additional sunset.--On the date that is 
+                      6 years after the date of enactment of the Justice 
+                      for All Reauthorization Act of 2016, clause (ii) 
+                      of subparagraph (A) shall cease to have effect.
+                          ``(iii) <<NOTE: Time periods.>>  Emergency 
+                      assurances.--
+                                    
+                                ``(I) <<NOTE: Certification. Audits. Effe
+                                ctive date.>>  Request.--Notwithstanding 
+                                clause (ii), during the 2-year period 
+                                beginning 6 years after the date of 
+                                enactment of the Justice for All 
+                                Reauthorization Act of 2016, a chief 
+                                executive officer of a State who 
+                                certifies that the State has audited not 
+                                less than 90 percent of prisons under 
+                                the operational control of the executive 
+                                branch of the State may request that the 
+                                Attorney General allow the chief 
+                                executive officer to submit an emergency 
+                                assurance in accordance with 
+                                subparagraph (A)(ii) as in effect on the 
+                                day before the date on which that 
+                                subparagraph ceased to have effect under 
+                                clause (ii) of this subparagraph.
+                                    ``(II) <<NOTE: Deadline.>>  Grant of 
+                                request.--The Attorney General shall 
+                                grant a request submitted under 
+                                subclause (I) within 60 days upon a 
+                                showing of good cause.
+                    ``(E) <<NOTE: Certification. Time period. Effective 
+                dates. Grants. Audits.>>  Disposition of funds held in 
+                abeyance.--
+                          ``(i) In general.--If the chief executive 
+                      officer of a State who has submitted an assurance 
+                      under subparagraph (A)(ii)(II) subsequently 
+                      submits a certification under subparagraph (A)(i) 
+                      during the 3-year period beginning on the date of 
+                      enactment of the Justice for All Reauthorization 
+                      Act of 2016, the Attorney General will release all 
+                      funds held in abeyance under subparagraph 
+                      (A)(ii)(II) to be used by the State in accordance 
+                      with the conditions of the grant program for which 
+                      the funds were provided.
+                          ``(ii) Release of funds.--If the chief 
+                      executive officer of a State who has submitted an 
+                      assurance under subparagraph (A)(ii)(II) is unable 
+                      to submit a certification during the 3-year period 
+                      beginning on the date of enactment of the Justice 
+                      for All Reauthorization Act of 2016, but does 
+                      assure the Attorney General that \2/3\ of prisons 
+                      under the operational control of the executive 
+                      branch of the State have been audited at least 
+                      once, the Attorney General shall release all of 
+                      the funds of the State held in abeyance to be used 
+                      in adopting and achieving full compliance with the 
+                      national standards, if the State agrees to comply 
+                      with the applicable requirements in clauses (ii) 
+                      and (iii) of subparagraph (C).
+                          ``(iii) Redistribution of funds.--If the chief 
+                      executive officer of a State who has submitted an 
+                      assurance under subparagraph (A)(ii)(II) is unable 
+                      to submit a certification during the 3-year period 
+                      beginning on the date of enactment of the Justice 
+                      for All Reauthorization Act of 2016 and does not 
+                      assure the Attorney General that \2/3\ of prisons 
+                      under the operational control of the executive 
+                      branch of the State have been audited
+
+[[Page 130 STAT. 1954]]
+
+                      at least once, the Attorney General shall 
+                      redistribute the funds of the State held in 
+                      abeyance to other States to be used in accordance 
+                      with the conditions of the grant program for which 
+                      the funds were provided.
+                    ``(F) <<NOTE: Deadline. Web posting. State and local 
+                governments.>>  Publication of audit results.--Not later 
+                than 1 year after the date of enactment of the Justice 
+                for All Reauthorization Act of 2016, the Attorney 
+                General shall request from each State, and make 
+                available on an appropriate Internet website, all final 
+                audit reports completed to date for prisons under the 
+                operational control of the executive branch of each 
+                State. The Attorney General shall update such website 
+                annually with reports received from States under 
+                subparagraphs (B)(i) and (C)(i).
+                    ``(G) Report on implementation of national 
+                standards.--Not later than 2 years after the date of 
+                enactment of the Justice for All Reauthorization Act of 
+                2016, the Attorney General shall issue a report to the 
+                Committee on the Judiciary of the Senate and the 
+                Committee on the Judiciary of the House of 
+                Representatives on the status of implementation of the 
+                national standards and the steps the Department, in 
+                conjunction with the States and other key stakeholders, 
+                is taking to address any unresolved implementation 
+                issues.''; and
+                    (B) by adding at the end the following:
+            ``(8) <<NOTE: Certification. Determination.>>  Background 
+        checks for auditors.--An individual seeking certification by the 
+        Department of Justice to serve as an auditor of prison 
+        compliance with the national standards described in subsection 
+        (a) shall, upon request, submit fingerprints in the manner 
+        determined by the Attorney General for criminal history record 
+        checks of the applicable State and Federal Bureau of 
+        Investigation repositories.''.
+SEC. 8. ADDITIONAL REAUTHORIZATIONS.
+
+    (a) DNA Research and Development.--Section 305(c) of the Justice for 
+All Act of 2004 (42 U.S.C. 14136b(c)) is amended by striking 
+``$15,000,000 for each of fiscal years 2005 through 2009'' and inserting 
+``$5,000,000 for each of fiscal years 2017 through 2021''.
+    (b) FBI DNA Programs.--Section 307(a) of the Justice for All Act of 
+2004 (Public Law 108-405; 118 Stat. 2275) is amended by striking 
+``$42,100,000 for each of fiscal years 2005 through 2009'' and inserting 
+``$7,400,000 for fiscal year 2017 and $10,000,000 for each of fiscal 
+years 2018 through 2021''.
+    (c) DNA Identification of Missing Persons.--Section 308(c) of the 
+Justice for All Act of 2004 (42 U.S.C. 14136d(c)) is amended by striking 
+``fiscal years 2005 through 2009'' and inserting ``fiscal years 2017 
+through 2021''.
+SEC. 9. PAUL COVERDELL FORENSIC SCIENCES IMPROVEMENT GRANTS.
+
+    (a) Grants.--Part BB of title I of the Omnibus Crime Control and 
+Safe Streets Act of 1968 (42 U.S.C. 3797j) is amended--
+            (1) <<NOTE: Time period.>>  in section 2802(2) (42 U.S.C. 
+        3797k(2)), by inserting after ``bodies'' the following: ``and, 
+        except with regard to any medical examiner's office, or 
+        coroner's office in the State, is accredited by an accrediting 
+        body that is a signatory to an internationally recognized 
+        arrangement and that offers accreditation to forensic science 
+        conformity assessment bodies using
+
+[[Page 130 STAT. 1955]]
+
+        an accreditation standard that is recognized by that 
+        internationally recognized arrangement, or attests, in a manner 
+        that is legally binding and enforceable, to use a portion of the 
+        grant amount to prepare and apply for such accreditation not 
+        more than 2 years after the date on which a grant is awarded 
+        under section 2801'';
+            (2) in section 2803(a) (42 U.S.C. 3797l(a))--
+                    (A) in paragraph (1)--
+                          (i) by striking ``Seventy-five percent'' and 
+                      inserting ``Eighty-five percent''; and
+                          (ii) by striking ``75 percent'' and inserting 
+                      ``85 percent'';
+                    (B) in paragraph (2), by striking ``Twenty-five 
+                percent'' and inserting ``Fifteen percent''; and
+                    (C) in paragraph (3), by striking ``0.6 percent'' 
+                and inserting ``1 percent'';
+            (3) in section 2804(a) (42 U.S.C. 3797m(a))--
+                    (A) in paragraph (2)--
+                          (i) by inserting ``impression evidence,'' 
+                      after ``latent prints,''; and
+                          (ii) by inserting ``digital evidence, fire 
+                      evidence,'' after ``toxicology,'';
+                    (B) in paragraph (3), by inserting ``and medicolegal 
+                death investigators'' after ``laboratory personnel''; 
+                and
+                    (C) by inserting at the end the following:
+            ``(4) To address emerging forensic science issues (such as 
+        statistics, contextual bias, and uncertainty of measurement) and 
+        emerging forensic science technology (such as high throughput 
+        automation, statistical software, and new types of 
+        instrumentation).
+            ``(5) To educate and train forensic pathologists.
+            ``(6) To fund medicolegal death investigation systems to 
+        facilitate accreditation of medical examiner and coroner offices 
+        and certification of medicolegal death investigators.''; and
+            (4) in section 2806(a) (42 U.S.C. 3797o(a))--
+                    (A) in paragraph (3), by striking ``and'' at the 
+                end;
+                    (B) by redesignating paragraph (4) as paragraph (5); 
+                and
+                    (C) by inserting after paragraph (3) the following:
+            ``(4) the progress of any unaccredited forensic science 
+        service provider receiving grant funds toward obtaining 
+        accreditation; and''.
+
+    (b) Authorization of Appropriations.--Section 1001(a)(24) of title I 
+of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 
+3793(a)(24)) is amended--
+            (1) in subparagraph (H), by striking ``and'' at the end;
+            (2) in subparagraph (I), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(J) $13,500,000 for fiscal year 2017;
+                    ``(K) $18,500,000 for fiscal year 2018;
+                    ``(L) $19,000,000 for fiscal year 2019;
+                    ``(M) $21,000,000 for fiscal year 2020; and
+                    ``(N) $23,000,000 for fiscal year 2021.''.
+
+[[Page 130 STAT. 1956]]
+
+SEC. 10. IMPROVING THE QUALITY OF REPRESENTATION IN STATE CAPITAL 
+                      CASES.
+
+    Section 426 of the Justice for All Act of 2004 (42 U.S.C. 14163e) is 
+amended--
+            (1) in subsection (a), by striking ``$75,000,000 for each of 
+        fiscal years 2005 through 2009'' and inserting:
+            ``(1) $2,500,000 for fiscal year 2017;
+            ``(2) $7,500,000 for fiscal year 2018;
+            ``(3) $12,500,000 for fiscal year 2019;
+            ``(4) $17,500,000 for fiscal year 2020; and
+            ``(5) $22,500,000 for fiscal year 2021.''; and
+            (2) in subsection (b), by inserting before the period at the 
+        end the following: ``, or upon a showing of good cause, and at 
+        the discretion of the Attorney General, the State may determine 
+        a fair allocation of funds across the uses described in sections 
+        421 and 422''.
+SEC. 11. POST-CONVICTION DNA TESTING.
+
+    (a) In General.--Section 3600 of title 18, United States Code, is 
+amended--
+            (1) by striking ``under a sentence of'' in each place it 
+        appears and inserting ``sentenced to'';
+            (2) in subsection (a)--
+                    (A) in paragraph (1)(B)(i), by striking ``death''; 
+                and
+                    (B) in paragraph (3)(A), by striking ``and the 
+                applicant did not--'' and all that follows through 
+                ``knowingly fail to request'' and inserting ``and the 
+                applicant did not knowingly fail to request'';
+            (3) in subsection (b)(1)--
+                    (A) in subparagraph (A), by striking ``and'' at the 
+                end;
+                    (B) in subparagraph (B), by striking the period at 
+                the end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+                    ``(C) order the Government to--
+                          ``(i) <<NOTE: Inventory.>>  prepare an 
+                      inventory of the evidence related to the case; and
+                          ``(ii) <<NOTE: Records.>>  issue a copy of the 
+                      inventory to the court, the applicant, and the 
+                      Government.'';
+            (4) in subsection (e)--
+                    (A) by amending paragraph (1) to read as follows:
+            ``(1) <<NOTE: Courts.>>  Results.--
+                    ``(A) In general.--The results of any DNA testing 
+                ordered under this section shall be simultaneously 
+                disclosed to the court, the applicant, and the 
+                Government.
+                    ``(B) Results exclude applicant.--
+                          ``(i) In general.--If a DNA profile is 
+                      obtained through testing that excludes the 
+                      applicant as the source and the DNA complies with 
+                      the Federal Bureau of Investigation's requirements 
+                      for the uploading of crime scene profiles to the 
+                      National DNA Index System (referred to in this 
+                      subsection as `NDIS'), the court shall order that 
+                      the law enforcement entity with direct or conveyed 
+                      statutory jurisdiction that has access to the NDIS 
+                      submit the DNA profile obtained from probative 
+                      biological material from crime scene evidence
+
+[[Page 130 STAT. 1957]]
+
+                       to determine whether the DNA profile matches a 
+                      profile of a known individual or a profile from an 
+                      unsolved crime.
+                          ``(ii) NDIS search.--The results of a search 
+                      under clause (i) shall be simultaneously disclosed 
+                      to the court, the applicant, and the 
+                      Government.''; and
+                    (B) in paragraph (2), by striking ``the National DNA 
+                Index System (referred to in this subsection as 
+                `NDIS')'' and inserting ``NDIS''; and
+            (5) in subsection (g)(2)(B), by striking ``death''.
+
+    (b) Preservation of Biological Evidence.--Section 3600A of title 18, 
+United States Code, is amended--
+            (1) in subsection (a), by striking ``under a sentence of'' 
+        and inserting ``sentenced to''; and
+            (2) in subsection (c)--
+                    (A) by striking paragraphs (1) and (2); and
+                    (B) by redesignating paragraphs (3), (4), and (5) as 
+                paragraphs (1), (2), and (3), respectively.
+SEC. 12. KIRK BLOODSWORTH POST-CONVICTION DNA TESTING PROGRAM.
+
+    (a) In General.--Section 413 of the Justice for All Act of 2004 (42 
+U.S.C. 14136 note) is amended--
+            (1) in the matter preceding paragraph (1), by striking 
+        ``fiscal years 2005 through 2009'' and inserting ``fiscal years 
+        2017 through 2021''; and
+            (2) by striking paragraph (2) and inserting the following:
+            ``(2) <<NOTE: Certification.>>  for eligible entities that 
+        are a State or unit of local government, provide a certification 
+        by the chief legal officer of the State in which the eligible 
+        entity operates or the chief legal officer of the jurisdiction 
+        in which the funds will be used for the purposes of the grants, 
+        that the State or jurisdiction--
+                    ``(A) provides DNA testing of specified evidence 
+                under a State statute or a State or local rule or 
+                regulation to persons sentenced to imprisonment or death 
+                for a State felony offense, in a manner intended to 
+                ensure a reasonable process for resolving claims of 
+                actual innocence that ensures post-conviction DNA 
+                testing in at least those cases that would be covered by 
+                section 3600(a) of title 18, United States Code, had 
+                they been Federal cases and, if the results of the 
+                testing exclude the applicant as the source of the DNA, 
+                permits the applicant to apply for post-conviction 
+                relief, notwithstanding any provision of law that would 
+                otherwise bar the application as untimely; and
+                    ``(B) preserves biological evidence, as defined in 
+                section 3600A of title 18, United States Code, under a 
+                State statute or a State or local rule, regulation, or 
+                practice in a manner intended to ensure that reasonable 
+                measures are taken by the State or jurisdiction to 
+                preserve biological evidence secured in relation to the 
+                investigation or prosecution of, at a minimum, murder, 
+                nonnegligent manslaughter and sexual offenses.''.
+
+    (b) Authorization of Appropriations.--Section 412(b) of the Justice 
+for All Act of 2004 (42 U.S.C. 14136e(b)) is amended by striking 
+``$5,000,000 for each of fiscal years 2005 through 2009''
+
+[[Page 130 STAT. 1958]]
+
+and inserting ``$10,000,000 for each of fiscal years 2017 through 
+2021''.
+SEC. 13. ESTABLISHMENT OF BEST PRACTICES FOR EVIDENCE RETENTION.
+
+    (a) In General.--Subtitle A of title IV of the Justice for All Act 
+of 2004 (Public Law 108-405; 118 Stat. 2278) is amended by adding at the 
+end the following:
+``SEC. 414. <<NOTE: 42 USC 14136f.>>  ESTABLISHMENT OF BEST 
+                        PRACTICES FOR EVIDENCE RETENTION.
+
+    ``(a) <<NOTE: Consultation.>>  In General.--The Director of the 
+National Institute of Justice, in consultation with Federal, State, and 
+local law enforcement agencies and government laboratories, shall--
+            ``(1) establish best practices for evidence retention to 
+        focus on the preservation of forensic evidence; and
+            ``(2) assist State, local, and tribal governments in 
+        adopting and implementing the best practices established under 
+        paragraph (1).
+
+    ``(b) Deadline.--Not later than 1 year after the date of enactment 
+of this section, the Director of the National Institute of Justice shall 
+publish the best practices established under subsection (a)(1).
+    ``(c) Limitation.--Nothing in this section shall be construed to 
+require or obligate compliance with the best practices established under 
+subsection (a)(1).''.
+    (b) Technical and Conforming Amendment.--The table of contents in 
+section 1(b) of the Justice for All Act of 2004 (Public Law 108-405; 118 
+Stat. 2260) is amended by inserting after the item relating to section 
+413 the following:
+
+``Sec. 414. Establishment of best practices for evidence retention.''.
+
+SEC. 14. <<NOTE: Effective Administration of Criminal Justice Act 
+                      of 2016. 42 USC 3711 note.>>  EFFECTIVE 
+                      ADMINISTRATION OF CRIMINAL JUSTICE.
+
+    (a) Short Title.--This section may be cited as the ``Effective 
+Administration of Criminal Justice Act of 2016''.
+    (b) Strategic Planning.--Section 502 of title I of the Omnibus Crime 
+Control and Safe Streets Act of 1968 (42 U.S.C. 3752) is amended--
+            (1) by inserting ``(a) In General.--'' before ``To request a 
+        grant''; and
+            (2) by adding at the end the following:
+            ``(6) <<NOTE: Grants.>>  A comprehensive Statewide plan 
+        detailing how grants received under this section will be used to 
+        improve the administration of the criminal justice system, which 
+        shall--
+                    ``(A) <<NOTE: Consultation.>>  be designed in 
+                consultation with local governments, and representatives 
+                of all segments of the criminal justice system, 
+                including judges, prosecutors, law enforcement 
+                personnel, corrections personnel, and providers of 
+                indigent defense services, victim services, juvenile 
+                justice delinquency prevention programs, community 
+                corrections, and reentry services;
+                    ``(B) include a description of how the State will 
+                allocate funding within and among each of the uses 
+                described in subparagraphs (A) through (G) of section 
+                501(a)(1);
+                    ``(C) describe the process used by the State for 
+                gathering evidence-based data and developing and using 
+                evidence-based and evidence-gathering approaches in 
+                support of funding decisions;
+
+[[Page 130 STAT. 1959]]
+
+                    ``(D) describe the barriers at the State and local 
+                level for accessing data and implementing evidence-based 
+                approaches to preventing and reducing crime and 
+                recidivism; and
+                    ``(E) <<NOTE: Time periods. Reports.>>  be updated 
+                every 5 years, with annual progress reports that--
+                          ``(i) address changing circumstances in the 
+                      State, if any;
+                          ``(ii) describe how the State plans to adjust 
+                      funding within and among each of the uses 
+                      described in subparagraphs (A) through (G) of 
+                      section 501(a)(1);
+                          ``(iii) <<NOTE: Assessment.>>  provide an 
+                      ongoing assessment of need;
+                          ``(iv) discuss the accomplishment of goals 
+                      identified in any plan previously prepared under 
+                      this paragraph; and
+                          ``(v) reflect how the plan influenced funding 
+                      decisions in the previous year.
+
+    ``(b) <<NOTE: Deadlines.>>  Technical Assistance.--
+            ``(1) Strategic planning.--Not later than 90 days after the 
+        date of enactment of this subsection, the Attorney General shall 
+        begin to provide technical assistance to States and local 
+        governments requesting support to develop and implement the 
+        strategic plan required under subsection (a)(6). The Attorney 
+        General may enter into agreements with 1 or more non-
+        governmental organizations to provide technical assistance and 
+        training under this paragraph.
+            ``(2) Protection of constitutional rights.--Not later than 
+        90 days after the date of enactment of this subsection, the 
+        Attorney General shall begin to provide technical assistance to 
+        States and local governments, including any agent thereof with 
+        responsibility for administration of justice, requesting support 
+        to meet the obligations established by the Sixth Amendment to 
+        the Constitution of the United States, which shall include--
+                    ``(A) <<NOTE: Public information.>>  public 
+                dissemination of practices, structures, or models for 
+                the administration of justice consistent with the 
+                requirements of the Sixth Amendment; and
+                    ``(B) assistance with adopting and implementing a 
+                system for the administration of justice consistent with 
+                the requirements of the Sixth Amendment.
+            ``(3) Authorization of appropriations.--For each of fiscal 
+        years 2017 through 2021, of the amounts appropriated to carry 
+        out this subpart, not less than $5,000,000 and not more than 
+        $10,000,000 shall be used to carry out this subsection.''.
+
+    (c) <<NOTE: Effective date. 42 USC 3752 note.>>  Applicability.--The 
+requirement to submit a strategic plan under section 501(a)(6) of title 
+I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by 
+subsection (b), shall apply to any application submitted under such 
+section 501 for a grant for any fiscal year beginning after the date 
+that is 1 year after the date of enactment of this Act.
+SEC. 15. <<NOTE: Grants. 42 USC 3793c.>>  OVERSIGHT AND 
+                      ACCOUNTABILITY.
+
+    All grants awarded by the Department of Justice that are authorized 
+under this Act shall be subject to the following:
+            (1) <<NOTE: Effective date. Determination.>>  Audit 
+        requirement.--Beginning in fiscal year 2016, and each fiscal 
+        year thereafter, the Inspector General of the Department of 
+        Justice shall conduct audits of recipients of
+
+[[Page 130 STAT. 1960]]
+
+         grants under this Act to prevent waste, fraud, and abuse of 
+        funds by grantees. The Inspector General shall determine the 
+        appropriate number of grantees to be audited each year.
+            (2) <<NOTE: Time periods.>>  Mandatory exclusion.--A 
+        recipient of grant funds under this Act that is found to have an 
+        unresolved audit finding shall not be eligible to receive grant 
+        funds under this Act during the 2 fiscal years beginning after 
+        the 12-month period described in paragraph (5).
+            (3) <<NOTE: Time periods.>>  Priority.--In awarding grants 
+        under this Act, the Attorney General shall give priority to 
+        eligible entities that, during the 3 fiscal years before 
+        submitting an application for a grant under this Act, did not 
+        have an unresolved audit finding showing a violation in the 
+        terms or conditions of a Department of Justice grant program.
+            (4) <<NOTE: Time periods.>>  Reimbursement.--If an entity is 
+        awarded grant funds under this Act during the 2-fiscal-year 
+        period in which the entity is barred from receiving grants under 
+        paragraph (2), the Attorney General shall--
+                    (A) deposit an amount equal to the grant funds that 
+                were improperly awarded to the grantee into the General 
+                Fund of the Treasury; and
+                    (B) seek to recoup the costs of the repayment to the 
+                fund from the grant recipient that was erroneously 
+                awarded grant funds.
+            (5) <<NOTE: Time period. Effective date.>>  Defined term.--
+        In this section, the term ``unresolved audit finding'' means an 
+        audit report finding in the final audit report of the Inspector 
+        General of the Department of Justice that the grantee has 
+        utilized grant funds for an unauthorized expenditure or 
+        otherwise unallowable cost that is not closed or resolved within 
+        a 12-month period beginning on the date when the final audit 
+        report is issued.
+            (6) Nonprofit organization requirements.--
+                    (A) Definition.--For purposes of this section and 
+                the grant programs described in this Act, the term 
+                ``nonprofit organization'' means an organization that is 
+                described in section 501(c)(3) of the Internal Revenue 
+                Code of 1986 and is exempt from taxation under section 
+                501(a) of such Code.
+                    (B) Prohibition.--The Attorney General shall not 
+                award a grant under any grant program described in this 
+                Act to a nonprofit organization that holds money in 
+                offshore accounts for the purpose of avoiding paying the 
+                tax described in section 511(a) of the Internal Revenue 
+                Code of 1986.
+                    (C) Disclosure.--Each nonprofit organization that is 
+                awarded a grant under a grant program described in this 
+                Act and uses the procedures prescribed in regulations to 
+                create a rebuttable presumption of reasonableness for 
+                the compensation of its officers, directors, trustees 
+                and key employees, shall disclose to the Attorney 
+                General, in the application for the grant, the process 
+                for determining such compensation, including the 
+                independent persons involved in reviewing and approving 
+                such compensation, the comparability data used, and 
+                contemporaneous substantiation of the deliberation and 
+                decision. <<NOTE: Public information.>> Upon request, 
+                the Attorney General shall make the information 
+                disclosed under this subsection available for public 
+                inspection.
+
+[[Page 130 STAT. 1961]]
+
+            (7) Administrative expenses.--Unless otherwise explicitly 
+        provided in authorizing legislation, not more than 7.5 percent 
+        of the amounts authorized to be appropriated under this Act may 
+        be used by the Attorney General for salaries and administrative 
+        expenses of the Department of Justice.
+            (8) Conference expenditures.--
+                    (A) Limitation.--No amounts authorized to be 
+                appropriated to the Department of Justice under this Act 
+                may be used by the Attorney General or by any individual 
+                or organization awarded discretionary funds through a 
+                cooperative agreement under this Act, to host or support 
+                any expenditure for conferences that uses more than 
+                $20,000 in Department funds, unless the Deputy Attorney 
+                General or the appropriate Assistant Attorney General, 
+                Director, or principal deputy as the Deputy Attorney 
+                General may designate, provides prior written 
+                authorization that the funds may be expended to host a 
+                conference.
+                    (B) <<NOTE: Estimate.>>  Written approval.--Written 
+                approval under subparagraph (A) shall include a written 
+                estimate of all costs associated with the conference, 
+                including the cost of all food and beverages, audio/
+                visual equipment, honoraria for speakers, and any 
+                entertainment.
+                    (C) Report.--The Deputy Attorney General shall 
+                submit an annual report to the Committee on the 
+                Judiciary of the Senate and the Committee on the 
+                Judiciary of the House of Representatives on all 
+                conference expenditures approved by operation of this 
+                paragraph.
+            (9) Prohibition on lobbying activity.--
+                    (A) In general.--Amounts authorized to be 
+                appropriated under this Act may not be utilized by any 
+                grant recipient to--
+                          (i) lobby any representative of the Department 
+                      of Justice regarding the award of grant funding; 
+                      or
+                          (ii) lobby any representative of a Federal, 
+                      State, local, or tribal government regarding the 
+                      award of grant funding.
+                    (B) Penalty.--If the Attorney General determines 
+                that any recipient of a grant under this Act has 
+                violated subparagraph (A), the Attorney General shall--
+                          (i) require the grant recipient to repay the 
+                      grant in full; and
+                          (ii) <<NOTE: Time period.>>  prohibit the 
+                      grant recipient from receiving another grant under 
+                      this Act for not less than 5 years.
+            (10) Preventing duplicative grants.--
+                    (A) <<NOTE: Determination.>>  In general.--Before 
+                the Attorney General awards a grant to an applicant 
+                under this Act, the Attorney General shall compare 
+                potential grant awards with other grants awarded under 
+                this Act to determine whether duplicate grants are 
+                awarded for the same purpose.
+                    (B) Report.--If the Attorney General awards 
+                duplicate grants to the same applicant for the same 
+                purpose, the Attorney General shall submit to the 
+                Committee on the Judiciary of the Senate and the 
+                Committee on the Judiciary of the House of 
+                Representatives a report that includes--
+                          (i) a list of all duplicate grants awarded, 
+                      including the total dollar amount of any duplicate 
+                      grants awarded; and
+
+[[Page 130 STAT. 1962]]
+
+                          (ii) the reason the Attorney General awarded 
+                      the duplicate grants.
+SEC. 16. NEEDS ASSESSMENT OF FORENSIC LABORATORIES.
+
+    (a) Study and Report.--Not later than October 1, 2018, the Attorney 
+General shall conduct a study and submit a report to the Committee on 
+the Judiciary of the Senate and the Committee on the Judiciary of the 
+House of Representatives on the status and needs of the forensic science 
+community.
+    (b) Requirements.--The report required under subsection (a) shall--
+            (1) examine the status of current workload, backlog, 
+        personnel, equipment, and equipment needs of public crime 
+        laboratories and medical examiner and coroner offices;
+            (2) include an overview of academic forensic science 
+        resources and needs, from a broad forensic science perspective, 
+        including nontraditional crime laboratory disciplines such as 
+        forensic anthropology, forensic entomology, and others as 
+        determined appropriate by the Attorney General;
+            (3) consider--
+                    (A) the National Institute of Justice study, 
+                Forensic Sciences: Review of Status and Needs, published 
+                in 1999;
+                    (B) the Bureau of Justice Statistics census reports 
+                on Publicly Funded Forensic Crime Laboratories, 
+                published in 2002, 2005, 2009, and 2014;
+                    (C) the National Academy of Sciences report, 
+                Strengthening Forensic Science: A Path Forward, 
+                published in 2009; and
+                    (D) the Bureau of Justice Statistics survey of 
+                forensic providers recommended by the National 
+                Commission of Forensic Science and approved by the 
+                Attorney General on September 8, 2014;
+            (4) provide Congress with a comprehensive view of the 
+        infrastructure, equipment, and personnel needs of the broad 
+        forensic science community; and
+            (5) <<NOTE: Public information.>>  be made available to the 
+        public.
+SEC. 17. CRIME VICTIM ASSISTANCE.
+
+    (a) Amendment.--Section 1404(c)(1)(A) of the Victims of Crime Act of 
+1984 (42 U.S.C. 10603(c)(1)(A)) is amended by inserting ``victim 
+services,'' before ``demonstration projects''.
+    (b) Sense of Congress.--It is the sense of Congress that the 
+proposed rule entitled ``VOCA Victim Assistance Program'' published by 
+the Office of Victims of Crime of the Department of Justice in the 
+Federal Register on August 27, 2013 (78 Fed. Reg. 52877), is consistent 
+with section 1404 of the Victims of Crime Act of 1984 (42 U.S.C. 10603).
+SEC. 18. IMPROVING THE RESTITUTION PROCESS.
+
+    Section 3612 of title 18, United States Code, is amended by adding 
+at the end the following:
+    ``(j) Evaluation of Offices of the United States Attorney and 
+Department Components.--
+            ``(1) In general.--The Attorney General shall, as part of 
+        the regular evaluation process, evaluate each office of the 
+        United States attorney and each component of the Department of 
+        Justice on the performance of the office or the component, as 
+        the case may be, in seeking and recovering restitution for
+
+[[Page 130 STAT. 1963]]
+
+         victims under each provision of this title and the Controlled 
+        Substances Act (21 U.S.C. 801 et seq.) that authorizes 
+        restitution.
+            ``(2) Requirement.--Following an evaluation under paragraph 
+        (1), each office of the United States attorney and each 
+        component of the Department of Justice shall work to improve the 
+        practices of the office or component, as the case may be, with 
+        respect to seeking and recovering restitution for victims under 
+        each provision of this title and the Controlled Substances Act 
+        (21 U.S.C. 801 et seq.) that authorizes restitution.
+
+    ``(k) GAO Reports.--
+            ``(1) <<NOTE: Time period.>>  Report.--Not later than 1 year 
+        after the date of enactment of this subsection, the Comptroller 
+        General of the United States shall prepare and submit to the 
+        Committee on the Judiciary of the House of Representatives and 
+        the Committee on the Judiciary of the Senate a report on 
+        restitution sought by the Attorney General under each provision 
+        of this title and the Controlled Substances Act (21 U.S.C. 801 
+        et seq.) that authorizes restitution during the 3-year period 
+        preceding the report.
+            ``(2) <<NOTE: Estimates.>>  Contents.--The report required 
+        under paragraph (1) shall include statistically valid estimates 
+        of--
+                    ``(A) the number of cases in which a defendant was 
+                convicted and the Attorney General could seek 
+                restitution under this title or the Controlled 
+                Substances Act (21 U.S.C. 801 et seq.);
+                    ``(B) the number of cases in which the Attorney 
+                General sought restitution;
+                    ``(C) of the cases in which the Attorney General 
+                sought restitution, the number of times restitution was 
+                ordered by the district courts of the United States;
+                    ``(D) the amount of restitution ordered by the 
+                district courts of the United States;
+                    ``(E) the amount of restitution collected pursuant 
+                to the restitution orders described in subparagraph (D);
+                    ``(F) the percentage of restitution orders for which 
+                the full amount of restitution has not been collected; 
+                and
+                    ``(G) any other measurement the Comptroller General 
+                determines would assist in evaluating how to improve the 
+                restitution process in Federal criminal cases.
+            ``(3) Recommendations.--The report required under paragraph 
+        (1) shall include recommendations on the best practices for--
+                    ``(A) requesting restitution in cases in which 
+                restitution may be sought under each provision of this 
+                title and the Controlled Substances Act (21 U.S.C. 801 
+                et seq.) that authorizes restitution;
+                    ``(B) obtaining restitution orders from the district 
+                courts of the United States; and
+                    ``(C) collecting restitution ordered by the district 
+                courts of the United States.
+            ``(4) Report.--Not later than 3 years after the date on 
+        which the report required under paragraph (1) is submitted, the 
+        Comptroller General of the United States shall prepare and 
+        submit to the Committee on the Judiciary of the House of 
+        Representatives and the Committee on the Judiciary of the
+
+[[Page 130 STAT. 1964]]
+
+        Senate a report on the implementation by the Attorney General of 
+        the best practices recommended under paragraph (3).''.
+
+    Approved December 16, 2016.
+
+LEGISLATIVE HISTORY--S. 2577:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 162 (2016):
+            June 16, considered and passed Senate.
+            Nov. 29, considered and passed House, amended.
+            Dec. 1, Senate concurred in House amendment.
+
+                                  
+

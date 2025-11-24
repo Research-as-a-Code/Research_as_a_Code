@@ -1,0 +1,2027 @@
+
+[111th Congress Public Law 24]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 1733]]
+
+  CREDIT CARD ACCOUNTABILITY RESPONSIBILITY AND DISCLOSURE ACT OF 2009
+
+[[Page 123 STAT. 1734]]
+
+Public Law 111-24
+111th Congress
+
+                                 An Act
+
+
+ 
+  To amend the Truth in Lending Act to establish fair and transparent 
+practices relating to the extension of credit under an open end consumer 
+   credit plan, and for other purposes. <<NOTE: May 22, 2009 -  [H.R. 
+                                 627]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Credit Card 
+Accountability Responsibility and Disclosure Act of 2009.>> 
+SECTION 1. <<NOTE: 15 USC 1601 note.>> SHORT TITLE; TABLE OF 
+                              CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Credit Card 
+Accountability Responsibility and Disclosure Act of 2009'' or the 
+``Credit CARD Act of 2009''.
+    (b) Table of Contents.--
+            The table of contents for this Act is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Regulatory authority.
+Sec. 3. Effective date.
+
+                      TITLE I--CONSUMER PROTECTION
+
+Sec. 101. Protection of credit cardholders.
+Sec. 102. Limits on fees and interest charges.
+Sec. 103. Use of terms clarified.
+Sec. 104. Application of card payments.
+Sec. 105. Standards applicable to initial issuance of subprime or ``fee 
+           harvester'' cards.
+Sec. 106. Rules regarding periodic statements.
+Sec. 107. Enhanced penalties.
+Sec. 108. Clerical amendments.
+Sec. 109. Consideration of Ability to repay.
+
+                 TITLE II--ENHANCED CONSUMER DISCLOSURES
+
+Sec. 201. Payoff timing disclosures.
+Sec. 202. Requirements relating to late payment deadlines and penalties.
+Sec. 203. Renewal disclosures.
+Sec. 204. Internet posting of credit card agreements.
+Sec. 205. Prevention of deceptive marketing of credit reports.
+
+                TITLE III--PROTECTION OF YOUNG CONSUMERS
+
+Sec. 301. Extensions of credit to underage consumers.
+Sec. 302. Protection of young consumers from prescreened credit offers.
+Sec. 303. Issuance of credit cards to certain college students.
+Sec. 304. Privacy Protections for college students.
+Sec. 305. College Credit Card Agreements.
+
+                          TITLE IV--GIFT CARDS
+
+Sec. 401. General-use prepaid cards, gift certificates, and store gift 
+           cards.
+Sec. 402. Relation to State laws.
+Sec. 403. Effective date.
+
+                    TITLE V--MISCELLANEOUS PROVISIONS
+
+Sec. 501. Study and report on interchange fees.
+Sec. 502. Board review of consumer credit plans and regulations.
+
+[[Page 123 STAT. 1735]]
+
+Sec. 503. Stored value.
+Sec. 504 Procedure for timely settlement of estates of decedent 
+           obligors.
+Sec. 505. Report to Congress on reductions of consumer credit card 
+           limits based on certain information as to experience or 
+           transactions of the consumer.
+Sec. 506. Board review of small business credit plans and 
+           recommendations.
+Sec. 507. Small business information security task force.
+Sec. 508. Study and report on emergency pin technology.
+Sec. 509. Study and report on the marketing of products with credit 
+           offers.
+Sec. 510. Financial and economic literacy.
+Sec. 511. Federal trade commission rulemaking on mortgage lending.
+Sec. 512. Protecting Americans from violent crime.
+Sec. 513. GAO study and report on fluency in the English language and 
+           financial literacy.
+
+SEC. 2. <<NOTE: 15 USC 1602 note.>> REGULATORY AUTHORITY.
+
+    The Board of Governors of the Federal Reserve System (in this Act 
+referred to as the ``Board'') may issue such rules and publish such 
+model forms as it considers necessary to carry out this Act and the 
+amendments made by this Act.
+SEC. 3. <<NOTE: 15 USC 1602 note.>> EFFECTIVE DATE.
+
+    This Act and the amendments made by this Act shall become effective 
+9 months after the date of enactment of this Act, except as otherwise 
+specifically provided in this Act.
+
+                      TITLE I--CONSUMER PROTECTION
+
+SEC. 101. PROTECTION OF CREDIT CARDHOLDERS.
+
+    (a) Advance Notice of Rate Increase and Other Changes Required.--
+            (1) Amendment to tila.--Section 127 of the Truth in Lending 
+        Act (15 U.S.C. 1637) is amended by adding at the end the 
+        following:
+
+    ``(i) Advance Notice of Rate Increase and Other Changes Required.--
+            ``(1) Advance notice of increase in interest rate 
+        required.--In <<NOTE: Deadline.>> the case of any credit card 
+        account under an open end consumer credit plan, a creditor shall 
+        provide a written notice of an increase in an annual percentage 
+        rate (except in the case of an increase described in paragraph 
+        (1), (2), or (3) of section 171(b)) not later than 45 days prior 
+        to the effective date of the increase.
+            ``(2) Advance notice of other significant changes 
+        required.--In <<NOTE: Deadline.>> the case of any credit card 
+        account under an open end consumer credit plan, a creditor shall 
+        provide a written notice of any significant change, as 
+        determined by rule of the Board, in the terms (including an 
+        increase in any fee or finance charge, other than as provided in 
+        paragraph (1)) of the cardholder agreement between the creditor 
+        and the obligor, not later than 45 days prior to the effective 
+        date of the change.
+            ``(3) Notice of right to cancel.--Each notice required by 
+        paragraph (1) or (2) shall be made in a clear and conspicuous 
+        manner, and shall contain a brief statement of the right of the 
+        obligor to cancel the account pursuant to rules established by 
+        the Board before the effective date of the subject rate increase 
+        or other change.
+            ``(4) Rule of construction.--Closure or cancellation of an 
+        account by the obligor shall not constitute a default under
+
+[[Page 123 STAT. 1736]]
+
+        an existing cardholder agreement, and shall not trigger an 
+        obligation to immediately repay the obligation in full or 
+        through a method that is less beneficial to the obligor than one 
+        of the methods described in section 171(c)(2), or the imposition 
+        of any other penalty or fee.''.
+            (2) Effective <<NOTE: 15 USC 1637 note.>> date.--
+        Notwithstanding section 3, section 127(i) of the Truth in 
+        Lending Act, as added by this subsection, shall become effective 
+        90 days after the date of enactment of this Act.
+
+    (b) Retroactive Increase and Universal Default Prohibited.--Chapter 
+4 of the Truth in Lending Act (15 U.S.C. 1666 et seq.) is amended--
+            (1) by redesignating section 171 <<NOTE: 15 USC 1666j.>> as 
+        section 173; and
+            (2) by inserting after section 170 the following:
+``SEC. 171. <<NOTE: 15 USC 1666i-1.>> LIMITS ON INTEREST RATE, 
+                        FEE, AND FINANCE CHARGE INCREASES 
+                        APPLICABLE TO OUTSTANDING BALANCES.
+
+    ``(a) In General.--In the case of any credit card account under an 
+open end consumer credit plan, no creditor may increase any annual 
+percentage rate, fee, or finance charge applicable to any outstanding 
+balance, except as permitted under subsection (b).
+    ``(b) Exceptions.--The prohibition under subsection (a) shall not 
+apply to--
+            ``(1) an increase in an annual percentage rate upon the 
+        expiration of a specified period of time, provided that--
+                    ``(A) prior to commencement of that period, the 
+                creditor disclosed to the consumer, in a clear and 
+                conspicuous manner, the length of the period and the 
+                annual percentage rate that would apply after expiration 
+                of the period;
+                    ``(B) the increased annual percentage rate does not 
+                exceed the rate disclosed pursuant to subparagraph (A); 
+                and
+                    ``(C) the increased annual percentage rate is not 
+                applied to transactions that occurred prior to 
+                commencement of the period;
+            ``(2) an increase in a variable annual percentage rate in 
+        accordance with a credit card agreement that provides for 
+        changes in the rate according to operation of an index that is 
+        not under the control of the creditor and is available to the 
+        general public;
+            ``(3) an increase due to the completion of a workout or 
+        temporary hardship arrangement by the obligor or the failure of 
+        the obligor to comply with the terms of a workout or temporary 
+        hardship arrangement, provided that--
+                    ``(A) the annual percentage rate, fee, or finance 
+                charge applicable to a category of transactions 
+                following any such increase does not exceed the rate, 
+                fee, or finance charge that applied to that category of 
+                transactions prior to commencement of the arrangement; 
+                and
+                    ``(B) the creditor has provided the obligor, prior 
+                to the commencement of such arrangement, with clear and 
+                conspicuous disclosure of the terms of the arrangement 
+                (including any increases due to such completion or 
+                failure); or
+            ``(4) <<NOTE: Deadlines.>> an increase due solely to the 
+        fact that a minimum payment by the obligor has not been received 
+        by the creditor
+
+[[Page 123 STAT. 1737]]
+
+        within 60 days after the due date for such payment, provided 
+        that the creditor shall--
+                    ``(A) include, together with the notice of such 
+                increase required under section 127(i), a clear and 
+                conspicuous written statement of the reason for the 
+                increase and that the increase will terminate not later 
+                than 6 months after the date on which it is imposed, if 
+                the creditor receives the required minimum payments on 
+                time from the obligor during that period; and
+                    ``(B) terminate such increase not later than 6 
+                months after the date on which it is imposed, if the 
+                creditor receives the required minimum payments on time 
+                during that period.
+
+    ``(c) Repayment of Outstanding Balance.--
+            ``(1) In general.--The creditor shall not change the terms 
+        governing the repayment of any outstanding balance, except that 
+        the creditor may provide the obligor with one of the methods 
+        described in paragraph (2) of repaying any outstanding balance, 
+        or a method that is no less beneficial to the obligor than one 
+        of those methods.
+            ``(2) Methods.--The methods described in this paragraph 
+        are--
+                    ``(A) an amortization period of not less than 5 
+                years, beginning on the effective date of the increase 
+                set forth in the notice required under section 127(i); 
+                or
+                    ``(B) a required minimum periodic payment that 
+                includes a percentage of the outstanding balance that is 
+                equal to not more than twice the percentage required 
+                before the effective date of the increase set forth in 
+                the notice required under section 127(i).
+
+    ``(d) Outstanding Balance Defined.--For purposes of this section, 
+the term `outstanding balance' means the amount owed on a credit card 
+account under an open end consumer credit plan as of the end of the 14th 
+day after the date on which the creditor provides notice of an increase 
+in the annual percentage rate, fee, or finance charge in accordance with 
+section 127(i).''.
+    (c) Interest Rate Reduction on Open End Consumer Credit Plans.--
+Chapter 3 of the Truth in Lending Act (15 U.S.C. 1661 et seq.) is 
+amended by adding at the end the following:
+``SEC. 148. <<NOTE: 15 USC 1665c.>> INTEREST RATE REDUCTION ON 
+                        OPEN END CONSUMER CREDIT PLANS.
+
+    ``(a) In General.--If a creditor increases the annual percentage 
+rate applicable to a credit card account under an open end consumer 
+credit plan, based on factors including the credit risk of the obligor, 
+market conditions, or other factors, the creditor shall consider changes 
+in such factors in subsequently determining whether to reduce the annual 
+percentage rate for such obligor.
+    ``(b) Requirements.--With respect to any credit card account under 
+an open end consumer credit plan, the creditor shall--
+            ``(1) maintain reasonable methodologies for assessing the 
+        factors described in subsection (a);
+            ``(2) <<NOTE: Deadlines. Review.>> not less frequently than 
+        once every 6 months, review accounts as to which the annual 
+        percentage rate has been increased since January 1, 2009, to 
+        assess whether such factors have changed (including whether any 
+        risk has declined);
+
+[[Page 123 STAT. 1738]]
+
+            ``(3) reduce the annual percentage rate previously increased 
+        when a reduction is indicated by the review; and
+            ``(4) in the event of an increase in the annual percentage 
+        rate, provide in the written notice required under section 
+        127(i) a statement of the reasons for the increase.
+
+    ``(c) Rule of Construction.--This section shall not be construed to 
+require a reduction in any specific amount.
+    ``(d) Rulemaking.--The <<NOTE: Deadline. Effective date.>> Board 
+shall issue final rules not later than 9 months after the date of 
+enactment of this section to implement the requirements of and evaluate 
+compliance with this section, and subsections (a), (b), and (c) shall 
+become effective 15 months after that date of enactment.''.
+
+    (d) Introductory and Promotional Rates.--Chapter 4 of the Truth in 
+Lending Act (15 U.S.C. 1666 et seq.) is amended by inserting after 
+section 171, as amended by this Act, the following:
+``SEC. 172. <<NOTE: Time periods. 15 USC 1666i-2.>> ADDITIONAL 
+                        LIMITS ON INTEREST RATE INCREASES.
+
+    ``(a) Limitation on Increases Within First Year.--Except in the case 
+of an increase described in paragraph (1), (2), (3), or (4) of section 
+171(b), no increase in any annual percentage rate, fee, or finance 
+charge on any credit card account under an open end consumer credit plan 
+shall be effective before the end of the 1-year period beginning on the 
+date on which the account is opened.
+    ``(b) Promotional Rate Minimum Term.--No increase in any annual 
+percentage rate applicable to a credit card account under an open end 
+consumer credit plan that is a promotional rate (as that term is defined 
+by the Board) shall be effective before the end of the 6-month period 
+beginning on the date on which the promotional rate takes effect, 
+subject to such reasonable exceptions as the Board may establish, by 
+rule.''.
+    (e) Clerical Amendment.--The table of sections for chapter 4 of the 
+Truth in Lending Act is amended by striking the item relating to section 
+171 and inserting the following:
+
+``171. Limits on interest rate, fee, and finance charge increases 
+           applicable to outstanding balances.
+``172. Additional limits on interest rate increases.
+``173. Applicability of State laws.''.
+
+SEC. 102. LIMITS ON FEES AND INTEREST CHARGES.
+
+    (a) In General.--Section 127 of the Truth in Lending Act (15 U.S.C. 
+1637) is amended by adding at the end the following:
+    ``(j) Prohibition on Penalties for On-Time Payments.--
+            ``(1) Prohibition on double-cycle billing and penalties for 
+        on-time payments.--Except as provided in paragraph (2), a 
+        creditor may not impose any finance charge on a credit card 
+        account under an open end consumer credit plan as a result of 
+        the loss of any time period provided by the creditor within 
+        which the obligor may repay any portion of the credit extended 
+        without incurring a finance charge, with respect to--
+                    ``(A) any balances for days in billing cycles that 
+                precede the most recent billing cycle; or
+                    ``(B) any balances or portions thereof in the 
+                current billing cycle that were repaid within such time 
+                period.
+            ``(2) Exceptions.--Paragraph (1) does not apply to--
+                    ``(A) any adjustment to a finance charge as a result 
+                of the resolution of a dispute; or
+
+[[Page 123 STAT. 1739]]
+
+                    ``(B) any adjustment to a finance charge as a result 
+                of the return of a payment for insufficient funds.
+
+    ``(k) Opt-in Required for Over-the-Limit Transactions if Fees Are 
+Imposed.--
+            ``(1) In general.--In the case of any credit card account 
+        under an open end consumer credit plan under which an over-the-
+        limit fee may be imposed by the creditor for any extension of 
+        credit in excess of the amount of credit authorized to be 
+        extended under such account, no such fee shall be charged, 
+        unless the consumer has expressly elected to permit the 
+        creditor, with respect to such account, to complete transactions 
+        involving the extension of credit under such account in excess 
+        of the amount of credit authorized.
+            ``(2) Disclosure <<NOTE: Notice.>> by creditor.--No election 
+        by a consumer under paragraph (1) shall take effect unless the 
+        consumer, before making such election, received a notice from 
+        the creditor of any over-the-limit fee in the form and manner, 
+        and at the time, determined by the Board. If the consumer makes 
+        the election referred to in paragraph (1), the creditor shall 
+        provide notice to the consumer of the right to revoke the 
+        election, in the form prescribed by the Board, in any periodic 
+        statement that includes notice of the imposition of an over-the-
+        limit fee during the period covered by the statement.
+            ``(3) Form <<NOTE: Regulations.>> of election.--A consumer 
+        may make or revoke the election referred to in paragraph (1) 
+        orally, electronically, or in writing, pursuant to regulations 
+        prescribed by the Board. The Board shall prescribe regulations 
+        to ensure that the same options are available for both making 
+        and revoking such election.
+            ``(4) Time of election.--A consumer may make the election 
+        referred to in paragraph (1) at any time, and such election 
+        shall be effective until the election is revoked in the manner 
+        prescribed under paragraph (3).
+            ``(5) Regulations.--The Board shall prescribe regulations--
+                    ``(A) governing disclosures under this subsection; 
+                and
+                    ``(B) that prevent unfair or deceptive acts or 
+                practices in connection with the manipulation of credit 
+                limits designed to increase over-the-limit fees or other 
+                penalty fees.
+            ``(6) Rule of construction.--Nothing in this subsection 
+        shall be construed to prohibit a creditor from completing an 
+        over-the-limit transaction, provided that a consumer who has not 
+        made a valid election under paragraph (1) is not charged an 
+        over-the-limit fee for such transaction.
+            ``(7) Restriction on fees charged for an over-the-limit 
+        transaction.--With respect to a credit card account under an 
+        open end consumer credit plan, an over-the-limit fee may be 
+        imposed only once during a billing cycle if the credit limit on 
+        the account is exceeded, and an over-the-limit fee, with respect 
+        to such excess credit, may be imposed only once in each of the 2 
+        subsequent billing cycles, unless the consumer has obtained an 
+        additional extension of credit in excess of such credit limit 
+        during any such subsequent cycle or the consumer reduces the 
+        outstanding balance below the credit limit as of the end of such 
+        billing cycle.
+
+[[Page 123 STAT. 1740]]
+
+    ``(l) Limit on Fees Related to Method of Payment.--With respect to a 
+credit card account under an open end consumer credit plan, the creditor 
+may not impose a separate fee to allow the obligor to repay an extension 
+of credit or finance charge, whether such repayment is made by mail, 
+electronic transfer, telephone authorization, or other means, unless 
+such payment involves an expedited service by a service representative 
+of the creditor.''.
+    (b) Reasonable Penalty Fees.--
+            (1) In general.--Chapter 3 of the Truth in Lending Act (15 
+        U.S.C. 1661 et seq.), as amended by this Act, is amended by 
+        adding at the end the following:
+``SEC. 149. <<NOTE: 15 USC 1665d.>> REASONABLE PENALTY FEES ON 
+                        OPEN END CONSUMER CREDIT PLANS.
+
+    ``(a) In General.--The amount of any penalty fee or charge that a 
+card issuer may impose with respect to a credit card account under an 
+open end consumer credit plan in connection with any omission with 
+respect to, or violation of, the cardholder agreement, including any 
+late payment fee, over-the-limit fee, or any other penalty fee or 
+charge, shall be reasonable and proportional to such omission or 
+violation.
+    ``(b) Rulemaking Required.--The <<NOTE: Deadline.>> Board, in 
+consultation with the Comptroller of the Currency, the Board of 
+Directors of the Federal Deposit Insurance Corporation, the Director of 
+the Office of Thrift Supervision, and the National Credit Union 
+Administration Board, shall issue final rules not later than 9 months 
+after the date of enactment of this section, to establish standards for 
+assessing whether the amount of any penalty fee or charge described 
+under subsection (a) is reasonable and proportional to the omission or 
+violation to which the fee or charge relates. 
+Subsection <<NOTE: Effective date.>> (a) shall become effective 15 
+months after the date of enactment of this section.
+
+    ``(c) Considerations.--In issuing rules required by this section, 
+the Board shall consider--
+            ``(1) the cost incurred by the creditor from such omission 
+        or violation;
+            ``(2) the deterrence of such omission or violation by the 
+        cardholder;
+            ``(3) the conduct of the cardholder; and
+            ``(4) such other factors as the Board may deem necessary or 
+        appropriate.
+
+    ``(d) Differentiation Permitted.--In issuing rules required by this 
+subsection, the Board may establish different standards for different 
+types of fees and charges, as appropriate.
+    ``(e) Safe Harbor Rule Authorized.--The Board, in consultation with 
+the Comptroller of the Currency, the Board of Directors of the Federal 
+Deposit Insurance Corporation, the Director of the Office of Thrift 
+Supervision, and the National Credit Union Administration Board, may 
+issue rules to provide an amount for any penalty fee or charge described 
+under subsection (a) that is presumed to be reasonable and proportional 
+to the omission or violation to which the fee or charge relates.''.
+            (2) Clerical amendments.--Chapter 3 of the Truth in Lending 
+        Act (15 U.S.C. 1661 et seq.) is amended--
+                    (A) in the chapter heading, by inserting ``AND 
+                LIMITS ON CREDIT CARD FEES'' after ``ADVERTISING''; and
+
+[[Page 123 STAT. 1741]]
+
+                    (B) in the table of sections for the chapter, by 
+                adding at the end the following:
+
+``148. Interest rate reduction on open end consumer credit plans.
+``149. Reasonable penalty fees on open end consumer credit plans.''.
+
+SEC. 103. USE OF TERMS CLARIFIED.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following:
+    ``(m) Use of Term `Fixed Rate'.--With respect to the terms of any 
+credit card account under an open end consumer credit plan, the term 
+`fixed', when appearing in conjunction with a reference to the annual 
+percentage rate or interest rate applicable with respect to such 
+account, may only be used to refer to an annual percentage rate or 
+interest rate that will not change or vary for any reason over the 
+period specified clearly and conspicuously in the terms of the 
+account.''.
+SEC. 104. APPLICATION OF CARD PAYMENTS.
+
+    Section 164 of the Truth in Lending Act (15 U.S.C. 1666c) is 
+amended--
+            (1) by striking the section heading and all that follows 
+        through ``Payments'' and inserting the following:
+``Sec. 164. Prompt and fair crediting of payments
+
+    ``(a) In General.--Payments'';
+            (2) by inserting ``, by 5:00 p.m. on the date on which such 
+        payment is due,'' after ``in readily identifiable form'';
+            (3) by striking ``manner, location, and time'' and inserting 
+        ``manner, and location''; and
+            (4) by adding at the end the following:
+
+    ``(b) Application of Payments.--
+            ``(1) In general.--Upon receipt of a payment from a 
+        cardholder, the card issuer shall apply amounts in excess of the 
+        minimum payment amount first to the card balance bearing the 
+        highest rate of interest, and then to each successive balance 
+        bearing the next highest rate of interest, until the payment is 
+        exhausted.
+            ``(2) Clarification relating to certain deferred interest 
+        arrangements.--A creditor shall allocate the entire amount paid 
+        by the consumer in excess of the minimum payment amount to a 
+        balance on which interest is deferred during the last 2 billing 
+        cycles immediately preceding the expiration of the period during 
+        which interest is deferred.
+
+    ``(c) Changes by Card Issuer.--If a card issuer makes a material 
+change in the mailing address, office, or procedures for handling 
+cardholder payments, and such change causes a material delay in the 
+crediting of a cardholder payment made during the 60-day period 
+following the date on which such change took effect, the card issuer may 
+not impose any late fee or finance charge for a late payment on the 
+credit card account to which such payment was credited.''.
+SEC. 105. STANDARDS APPLICABLE TO INITIAL ISSUANCE OF SUBPRIME OR 
+                        ``FEE HARVESTER'' CARDS.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637), as amended 
+by this Act, is amended by adding at the end the following new 
+subsection:
+
+[[Page 123 STAT. 1742]]
+
+    ``(n) Standards Applicable to Initial Issuance of Subprime or `Fee 
+Harvester' Cards.--
+            ``(1) In general.--If the terms of a credit card account 
+        under an open end consumer credit plan require the payment of 
+        any fees (other than any late fee, over-the-limit fee, or fee 
+        for a payment returned for insufficient funds) by the consumer 
+        in the first year during which the account is opened in an 
+        aggregate amount in excess of 25 percent of the total amount of 
+        credit authorized under the account when the account is opened, 
+        no payment of any fees (other than any late fee, over-the-limit 
+        fee, or fee for a payment returned for insufficient funds) may 
+        be made from the credit made available under the terms of the 
+        account.
+            ``(2) Rule of construction.--No provision of this subsection 
+        may be construed as authorizing any imposition or payment of 
+        advance fees otherwise prohibited by any provision of law.''.
+SEC. 106. RULES REGARDING PERIODIC STATEMENTS.
+
+    (a) In General.--Section 127 of the Truth in Lending Act (15 U.S.C. 
+1637) is amended by adding at the end the following:
+    ``(o) Due Dates for Credit Card Accounts.--
+            ``(1) In general.--The payment due date for a credit card 
+        account under an open end consumer credit plan shall be the same 
+        day each month.
+            ``(2) Weekend or holiday due dates.--If the payment due date 
+        for a credit card account under an open end consumer credit plan 
+        is a day on which the creditor does not receive or accept 
+        payments by mail (including weekends and holidays), the creditor 
+        may not treat a payment received on the next business day as 
+        late for any purpose.''.
+
+    (b) Length of Billing Period.--
+            (1) In general.--Section 163 of the Truth in Lending Act (15 
+        U.S.C. 1666b) is amended to read as follows:
+``SEC. 163. <<NOTE: Deadlines.>> TIMING OF PAYMENTS.
+
+    ``(a) Time To Make Payments.--A creditor may not treat a payment on 
+an open end consumer credit plan as late for any purpose, unless the 
+creditor has adopted reasonable procedures designed to ensure that each 
+periodic statement including the information required by section 127(b) 
+is mailed or delivered to the consumer not later than 21 days before the 
+payment due date.
+    ``(b) Grace Period.--If an open end consumer credit plan provides a 
+time period within which an obligor may repay any portion of the credit 
+extended without incurring an additional finance charge, such additional 
+finance charge may not be imposed with respect to such portion of the 
+credit extended for the billing cycle of which such period is a part, 
+unless a statement which includes the amount upon which the finance 
+charge for the period is based was mailed or delivered to the consumer 
+not later than 21 days before the date specified in the statement by 
+which payment must be made in order to avoid imposition of that finance 
+charge.''.
+            (2) Effective <<NOTE: 15 USC 1666b note.>> date.--
+        Notwithstanding section 3, section 163 of the Truth in Lending 
+        Act, as amended by this subsection, shall become effective 90 
+        days after the date of enactment of this Act.
+
+    (c) Clerical Amendments.--The table of sections for chapter 4 of the 
+Truth in Lending Act is amended--
+
+[[Page 123 STAT. 1743]]
+
+            (1) by striking the item relating to section 163 and 
+        inserting the following:
+
+``163. Timing of payments.''; and
+
+            (2) by striking the item relating to section 171 and 
+        inserting the following:
+
+``171. Universal defaults prohibited.
+``172. Unilateral changes in credit card agreement prohibited.
+``173. Applicability of State laws.''.
+
+SEC. 107. ENHANCED PENALTIES.
+
+    Section 130(a)(2)(A) of the Truth in Lending Act (15 U.S.C. 
+1640(a)(2)(A)) is amended by striking ``or (iii) in the'' and inserting 
+the following: ``(iii) in the case of an individual action relating to 
+an open end consumer credit plan that is not secured by real property or 
+a dwelling, twice the amount of any finance charge in connection with 
+the transaction, with a minimum of $500 and a maximum of $5,000, or such 
+higher amount as may be appropriate in the case of an established 
+pattern or practice of such failures; or (iv) in the''.
+SEC. 108. CLERICAL AMENDMENTS.
+
+    Section 103(i) of the Truth in Lending Act (15 U.S.C. 1602(i)) is 
+amended--
+            (1) by striking ``term'' and all that follows through 
+        ``means'' and inserting the following: ``terms `open end credit 
+        plan' and `open end consumer credit plan' mean''; and
+            (2) in the second sentence, by inserting ``or open end 
+        consumer credit plan'' after ``credit plan'' each place that 
+        term appears.
+SEC. 109. CONSIDERATION OF ABILITY TO REPAY.
+
+    (a) In General.--Chapter 3 of the Truth in Lending Act (15 U.S.C. 
+1666 et seq.), as amended by this title, is amended by adding at the end 
+the following:
+``SEC. 150. <<NOTE: 15 USC 1665e.>> CONSIDERATION OF ABILITY TO 
+                        REPAY.
+
+    ``A card issuer may not open any credit card account for any 
+consumer under an open end consumer credit plan, or increase any credit 
+limit applicable to such account, unless the card issuer considers the 
+ability of the consumer to make the required payments under the terms of 
+such account.''.
+    (b) Clerical Amendment.--Chapter 3 of the Truth in Lending Act (15 
+U.S.C. 1661 et seq.) is amended in the table of sections for the 
+chapter, by adding at the end the following:
+
+``150. Consideration of ability to repay.''.
+
+                 TITLE II--ENHANCED CONSUMER DISCLOSURES
+
+SEC. 201. PAYOFF TIMING DISCLOSURES.
+
+    (a) In General.--Section 127(b)(11) of the Truth in Lending Act (15 
+U.S.C. 1637(b)(11)) is amended to read as follows:
+            ``(11)(A) A written statement in the following form: 
+        `Minimum Payment Warning: Making only the minimum payment will 
+        increase the amount of interest you pay and the time
+
+[[Page 123 STAT. 1744]]
+
+        it takes to repay your balance.', or such similar statement as 
+        is established by the Board pursuant to consumer testing.
+            ``(B) Repayment information that would apply to the 
+        outstanding balance of the consumer under the credit plan, 
+        including--
+                    ``(i) the number of months (rounded to the nearest 
+                month) that it would take to pay the entire amount of 
+                that balance, if the consumer pays only the required 
+                minimum monthly payments and if no further advances are 
+                made;
+                    ``(ii) the total cost to the consumer, including 
+                interest and principal payments, of paying that balance 
+                in full, if the consumer pays only the required minimum 
+                monthly payments and if no further advances are made;
+                    ``(iii) the monthly payment amount that would be 
+                required for the consumer to eliminate the outstanding 
+                balance in 36 months, if no further advances are made, 
+                and the total cost to the consumer, including interest 
+                and principal payments, of paying that balance in full 
+                if the consumer pays the balance over 36 months; and
+                    ``(iv) a toll-free telephone number at which the 
+                consumer may receive information about accessing credit 
+                counseling and debt management services.
+            ``(C)(i) Subject to clause (ii), in making the disclosures 
+        under subparagraph (B), the creditor shall apply the interest 
+        rate or rates in effect on the date on which the disclosure is 
+        made until the date on which the balance would be paid in full.
+            ``(ii) If the interest rate in effect on the date on which 
+        the disclosure is made is a temporary rate that will change 
+        under a contractual provision applying an index or formula for 
+        subsequent interest rate adjustment, the creditor shall apply 
+        the interest rate in effect on the date on which the disclosure 
+        is made for as long as that interest rate will apply under that 
+        contractual provision, and then apply an interest rate based on 
+        the index or formula in effect on the applicable billing date.
+            ``(D) All of the information described in subparagraph (B) 
+        shall--
+                    ``(i) <<NOTE: Regulations.>> be disclosed in the 
+                form and manner which the Board shall prescribe, by 
+                regulation, and in a manner that avoids duplication; and
+                    ``(ii) be placed in a conspicuous and prominent 
+                location on the billing statement.
+            ``(E) In the regulations prescribed under subparagraph (D), 
+        the Board shall require that the disclosure of such information 
+        shall be in the form of a table that--
+                    ``(i) contains clear and concise headings for each 
+                item of such information; and
+                    ``(ii) provides a clear and concise form stating 
+                each item of information required to be disclosed under 
+                each such heading.
+            ``(F) In prescribing the form of the table under 
+        subparagraph (E), the Board shall require that--
+                    ``(i) all of the information in the table, and not 
+                just a reference to the table, be placed on the billing 
+                statement, as required by this paragraph; and
+
+[[Page 123 STAT. 1745]]
+
+                    ``(ii) the items required to be included in the 
+                table shall be listed in the order in which such items 
+                are set forth in subparagraph (B).
+            ``(G) In prescribing the form of the table under 
+        subparagraph (D), the Board shall employ terminology which is 
+        different than the terminology which is employed in subparagraph 
+        (B), if such terminology is more easily understood and conveys 
+        substantially the same meaning.''.
+
+    (b) Civil Liability.--Section 130(a) of the Truth in Lending Act (15 
+U.S.C. 1640(a)) is amended, in the undesignated paragraph following 
+paragraph (4), by striking the second sentence and inserting the 
+following: ``In connection with the disclosures referred to in 
+subsections (a) and (b) of section 127, a creditor shall have a 
+liability determined under paragraph (2) only for failing to comply with 
+the requirements of section 125, 127(a), or any of paragraphs (4) 
+through (13) of section 127(b), or for failing to comply with disclosure 
+requirements under State law for any term or item that the Board has 
+determined to be substantially the same in meaning under section 
+111(a)(2) as any of the terms or items referred to in section 127(a), or 
+any of paragraphs (4) through (13) of section 127(b).''.
+    (c) Guidelines <<NOTE: 15 USC 1637 note.>> Required.--
+            (1) In general.--Not <<NOTE: Deadline. Communications and 
+        tele-communications.>> later than 6 months after the date of 
+        enactment of this Act, the Board shall issue guidelines, by 
+        rule, in consultation with the Secretary of the Treasury, for 
+        the establishment and maintenance by creditors of a toll-free 
+        telephone number for purposes of providing information about 
+        accessing credit counseling and debt management services, as 
+        required under section 127(b)(11)(B)(iv) of the Truth in Lending 
+        Act, as added by this section.
+            (2) Approved agencies.--Guidelines issued under this 
+        subsection shall ensure that referrals provided by the toll-free 
+        number referred to in paragraph (1) include only those nonprofit 
+        budget and credit counseling agencies approved by a United 
+        States bankruptcy trustee pursuant to section 111(a) of title 
+        11, United States Code.
+SEC. 202. REQUIREMENTS RELATING TO LATE PAYMENT DEADLINES AND 
+                        PENALTIES.
+
+    Section 127(b)(12) of the Truth in Lending Act (15 U.S.C. 
+1637(b)(12)) is amended to read as follows:
+            ``(12) Requirements relating to late payment deadlines and 
+        penalties.--
+                    ``(A) Late payment deadline required to be 
+                disclosed.--In the case of a credit card account under 
+                an open end consumer credit plan under which a late fee 
+                or charge may be imposed due to the failure of the 
+                obligor to make payment on or before the due date for 
+                such payment, the periodic statement required under 
+                subsection (b) with respect to the account shall 
+                include, in a conspicuous location on the billing 
+                statement, the date on which the payment is due or, if 
+                different, the date on which a late payment fee will be 
+                charged, together with the amount of the fee or charge 
+                to be imposed if payment is made after that date.
+                    ``(B) Disclosure of increase in interest rates for 
+                late payments.--If <<NOTE: Notice.>> 1 or more late 
+                payments under an
+
+[[Page 123 STAT. 1746]]
+
+                open end consumer credit plan may result in an increase 
+                in the annual percentage rate applicable to the account, 
+                the statement required under subsection (b) with respect 
+                to the account shall include conspicuous notice of such 
+                fact, together with the applicable penalty annual 
+                percentage rate, in close proximity to the disclosure 
+                required under subparagraph (A) of the date on which 
+                payment is due under the terms of the account.
+                    ``(C) Payments at local branches.--If the creditor, 
+                in the case of a credit card account referred to in 
+                subparagraph (A), is a financial institution which 
+                maintains branches or offices at which payments on any 
+                such account are accepted from the obligor in person, 
+                the date on which the obligor makes a payment on the 
+                account at such branch or office shall be considered to 
+                be the date on which the payment is made for purposes of 
+                determining whether a late fee or charge may be imposed 
+                due to the failure of the obligor to make payment on or 
+                before the due date for such payment.''.
+SEC. 203. RENEWAL DISCLOSURES.
+
+    Section 127(d) of the Truth in Lending Act (15 U.S.C. 1637(d)) is 
+amended--
+            (1) by striking paragraph (2);
+            (2) by redesignating paragraph (3) as paragraph (2); and
+            (3) in paragraph (1), by striking ``Except as provided in 
+        paragraph (2), a card issuer'' and inserting the following: ``A 
+        card issuer that has changed or amended any term of the account 
+        since the last renewal that has not been previously disclosed 
+        or''.
+SEC. 204. INTERNET POSTING OF CREDIT CARD AGREEMENTS.
+
+    (a) In General.--Section 122 of the Truth and Lending Act (15 U.S.C. 
+1632) is amended by adding at the end the following new subsection:
+    ``(d) Additional Electronic Disclosures.--
+            ``(1) Posting agreements.--Each creditor shall establish and 
+        maintain an Internet site on which the creditor shall post the 
+        written agreement between the creditor and the consumer for each 
+        credit card account under an open-end consumer credit plan.
+            ``(2) Creditor to provide contracts to the board.--Each 
+        creditor shall provide to the Board, in electronic format, the 
+        consumer credit card agreements that it publishes on its 
+        Internet site.
+            ``(3) Record repository.--The <<NOTE: Public 
+        information.>> Board shall establish and maintain on its 
+        publicly available Internet site a central repository of the 
+        consumer credit card agreements received from creditors pursuant 
+        to this subsection, and such agreements shall be easily 
+        accessible and retrievable by the public.
+            ``(4) Exception.--This subsection shall not apply to 
+        individually negotiated changes to contractual terms, such as 
+        individually modified workouts or renegotiations of amounts owed 
+        by a consumer under an open end consumer credit plan.
+            ``(5) Regulations.--The Board, in consultation with the 
+        other Federal banking agencies (as that term is defined in
+
+[[Page 123 STAT. 1747]]
+
+        section 603) and the Federal Trade Commission, may promulgate 
+        regulations to implement this subsection, including specifying 
+        the format for posting the agreements on the Internet sites of 
+        creditors and establishing exceptions to paragraphs (1) and (2), 
+        in any case in which the administrative burden outweighs the 
+        benefit of increased transparency, such as where a credit card 
+        plan has a de minimis number of consumer account holders.''.
+SEC. 205. PREVENTION OF DECEPTIVE MARKETING OF CREDIT REPORTS.
+
+    (a) Preventing Deceptive Marketing.--Section 612 of the Fair Credit 
+Reporting Act (15 U.S.C. 1681j) is amended by adding at the end the 
+following:
+    ``(g) Prevention of Deceptive Marketing of Credit Reports.--
+            ``(1) In general.--Subject to rulemaking pursuant to section 
+        205(b) of the Credit CARD Act of 2009, any advertisement for a 
+        free credit report in any medium shall prominently disclose in 
+        such advertisement that free credit reports are available under 
+        Federal law at: `AnnualCreditReport.com' (or such other source 
+        as may be authorized under Federal law).
+            ``(2) Television and radio advertisement.--In the case of an 
+        advertisement broadcast by television, the disclosures required 
+        under paragraph (1) shall be included in the audio and visual 
+        part of such advertisement. In the case of an advertisement 
+        broadcast by televison or radio, the disclosure required under 
+        paragraph (1) shall consist only of the following: `This is not 
+        the free credit report provided for by Federal law'.''.
+
+    (b) <<NOTE: 15 USC 1681j note.>> Rulemaking.--
+            (1) In general.--Not <<NOTE: Deadline.>> later than 9 months 
+        after the date of enactment of this Act, the Federal Trade 
+        Commission shall issue a final rule to carry out this section.
+            (2) Content.--The rule required by this subsection--
+                    (A) shall include specific wording to be used in 
+                advertisements in accordance with this section; and
+                    (B) for advertisements on the Internet, shall 
+                include whether the disclosure required under section 
+                612(g)(1) of the Fair Credit Reporting Act (as added by 
+                this section) shall appear on the advertisement or the 
+                website on which the free credit report is made 
+                available.
+            (3) Interim disclosures.--If an advertisement subject to 
+        section 612(g) of the Fair Credit Reporting Act, as added by 
+        this section, is made public after the 9-month deadline 
+        specified in paragraph (1), but before the rule required by 
+        paragraph (1) is finalized, such advertisement shall include the 
+        disclosure: ``Free credit reports are available under Federal 
+        law at: `AnnualCreditReport.com'.''.
+
+                TITLE III--PROTECTION OF YOUNG CONSUMERS
+
+SEC. 301. EXTENSIONS OF CREDIT TO UNDERAGE CONSUMERS.
+
+    Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is 
+amended by adding at the end the following:
+
+[[Page 123 STAT. 1748]]
+
+            ``(8) Applications from underage consumers.--
+                    ``(A) Prohibition on issuance.--No credit card may 
+                be issued to, or open end consumer credit plan 
+                established by or on behalf of, a consumer who has not 
+                attained the age of 21, unless the consumer has 
+                submitted a written application to the card issuer that 
+                meets the requirements of subparagraph (B).
+                    ``(B) Application requirements.--An application to 
+                open a credit card account by a consumer who has not 
+                attained the age of 21 as of the date of submission of 
+                the application shall require--
+                          ``(i) the signature of a cosigner, including 
+                      the parent, legal guardian, spouse, or any other 
+                      individual who has attained the age of 21 having a 
+                      means to repay debts incurred by the consumer in 
+                      connection with the account, indicating joint 
+                      liability for debts incurred by the consumer in 
+                      connection with the account before the consumer 
+                      has attained the age of 21; or
+                          ``(ii) submission by the consumer of financial 
+                      information, including through an application, 
+                      indicating an independent means of repaying any 
+                      obligation arising from the proposed extension of 
+                      credit in connection with the account.
+                    ``(C) Safe harbor.--The <<NOTE: Regulations.>> Board 
+                shall promulgate regulations providing standards that, 
+                if met, would satisfy the requirements of subparagraph 
+                (B)(ii).''.
+SEC. 302. PROTECTION OF YOUNG CONSUMERS FROM PRESCREENED CREDIT 
+                        OFFERS.
+
+    Section 604(c)(1)(B) of the Fair Credit Reporting Act (15 U.S.C. 
+1681b(c)(1)(B)) is amended--
+            (1) in clause (ii), by striking ``and'' at the end; and
+            (2) in clause (iii), by striking the period at the end and 
+        inserting the following: ``; and
+                    ``(iv) the consumer report does not contain a date 
+                of birth that shows that the consumer has not attained 
+                the age of 21, or, if the date of birth on the consumer 
+                report shows that the consumer has not attained the age 
+                of 21, such consumer consents to the consumer reporting 
+                agency to such furnishing.''.
+SEC. 303. ISSUANCE OF CREDIT CARDS TO CERTAIN COLLEGE STUDENTS.
+
+    Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended 
+by adding at the end the following new subsection:
+    ``(p) Parental Approval Required To Increase Credit Lines for 
+Accounts for Which Parent Is Jointly Liable.--No increase may be made in 
+the amount of credit authorized to be extended under a credit card 
+account for which a parent, legal guardian, or spouse of the consumer, 
+or any other individual has assumed joint liability for debts incurred 
+by the consumer in connection with the account before the consumer 
+attains the age of 21, unless that parent, guardian, or spouse approves 
+in writing, and assumes joint liability for, such increase.''.
+
+[[Page 123 STAT. 1749]]
+
+SEC. 304. PRIVACY PROTECTIONS FOR COLLEGE STUDENTS.
+
+    Section 140 of the Truth in Lending Act (15 U.S.C. 1650) is amended 
+by adding at the end the following:
+    ``(f) Credit Card Protections for College Students.--
+            ``(1) Disclosure required.--An institution of higher 
+        education shall publicly disclose any contract or other 
+        agreement made with a card issuer or creditor for the purpose of 
+        marketing a credit card.
+            ``(2) Inducements prohibited.--No card issuer or creditor 
+        may offer to a student at an institution of higher education any 
+        tangible item to induce such student to apply for or participate 
+        in an open end consumer credit plan offered by such card issuer 
+        or creditor, if such offer is made--
+                    ``(A) on the campus of an institution of higher 
+                education;
+                    ``(B) near the campus of an institution of higher 
+                education, as determined by rule of the Board; or
+                    ``(C) at an event sponsored by or related to an 
+                institution of higher education.
+            ``(3) Sense of the congress.--It is the sense of the 
+        Congress that each institution of higher education should 
+        consider adopting the following policies relating to credit 
+        cards:
+                    ``(A) That any card issuer that markets a credit 
+                card on the campus of such institution notify the 
+                institution of the location at which such marketing will 
+                take place.
+                    ``(B) That the number of locations on the campus of 
+                such institution at which the marketing of credit cards 
+                takes place be limited.
+                    ``(C) That credit card and debt education and 
+                counseling sessions be offered as a regular part of any 
+                orientation program for new students of such 
+                institution.''.
+SEC. 305. COLLEGE CREDIT CARD AGREEMENTS.
+
+    (a) In General.--Section 127 of the Truth in Lending Act (15 U.S.C. 
+1637), as otherwise amended by this Act, is amended by adding at the end 
+the following:
+    ``(r) College Card Agreements.--
+            ``(1) Definitions.--For purposes of this subsection, the 
+        following definitions shall apply:
+                    ``(A) College affinity card.--The term `college 
+                affinity card' means a credit card issued by a credit 
+                card issuer under an open end consumer credit plan in 
+                conjunction with an agreement between the issuer and an 
+                institution of higher education, or an alumni 
+                organization or foundation affiliated with or related to 
+                such institution, under which such cards are issued to 
+                college students who have an affinity with such 
+                institution, organization and--
+                          ``(i) the creditor has agreed to donate a 
+                      portion of the proceeds of the credit card to the 
+                      institution, organization, or foundation 
+                      (including a lump sum or 1-time payment of money 
+                      for access);
+                          ``(ii) the creditor has agreed to offer 
+                      discounted terms to the consumer; or
+                          ``(iii) the credit card bears the name, 
+                      emblem, mascot, or logo of such institution, 
+                      organization, or foundation, or other words, 
+                      pictures, or symbols readily
+
+[[Page 123 STAT. 1750]]
+
+                      identified with such institution, organization, or 
+                      foundation.
+                    ``(B) College student credit card account.--The term 
+                `college student credit card account' means a credit 
+                card account under an open end consumer credit plan 
+                established or maintained for or on behalf of any 
+                college student.
+                    ``(C) College student.--The term `college student' 
+                means an individual who is a full-time or a part-time 
+                student attending an institution of higher education.
+                    ``(D) Institution of higher education.--The term 
+                `institution of higher education' has the same meaning 
+                as in section 101 and 102 of the Higher Education Act of 
+                1965 (20 U.S.C. 1001 and 1002).
+            ``(2) Reports by creditors.--
+                    ``(A) In general.--Each creditor shall submit an 
+                annual report to the Board containing the terms and 
+                conditions of all business, marketing, and promotional 
+                agreements and college affinity card agreements with an 
+                institution of higher education, or an alumni 
+                organization or foundation affiliated with or related to 
+                such institution, with respect to any college student 
+                credit card issued to a college student at such 
+                institution.
+                    ``(B) Details of report.--The information required 
+                to be reported under subparagraph (A) includes--
+                          ``(i) any memorandum of understanding between 
+                      or among a creditor, an institution of higher 
+                      education, an alumni association, or foundation 
+                      that directly or indirectly relates to any aspect 
+                      of any agreement referred to in such subparagraph 
+                      or controls or directs any obligations or 
+                      distribution of benefits between or among any such 
+                      entities;
+                          ``(ii) the amount of any payments from the 
+                      creditor to the institution, organization, or 
+                      foundation during the period covered by the 
+                      report, and the precise terms of any agreement 
+                      under which such amounts are determined; and
+                          ``(iii) the number of credit card accounts 
+                      covered by any such agreement that were opened 
+                      during the period covered by the report, and the 
+                      total number of credit card accounts covered by 
+                      the agreement that were outstanding at the end of 
+                      such period.
+                    ``(C) Aggregation by institution.--The information 
+                required to be reported under subparagraph (A) shall be 
+                aggregated with respect to each institution of higher 
+                education or alumni organization or foundation 
+                affiliated with or related to such institution.
+                    ``(D) Initial <<NOTE: Time period.>> report.--The 
+                initial report required under subparagraph (A) shall be 
+                submitted to the Board before the end of the 9-month 
+                period beginning on the date of enactment of this 
+                subsection.
+            ``(3) Reports by board.--The <<NOTE: Public 
+        information.>> Board shall submit to the Congress, and make 
+        available to the public, an annual report that lists the 
+        information concerning credit card agreements submitted to the 
+        Board under paragraph (2) by each institution of higher 
+        education, alumni organization, or foundation.''.
+
+    (b) Study and <<NOTE: 15 USC 1637 note.>> Report by the Comptroller 
+General.--
+
+[[Page 123 STAT. 1751]]
+
+            (1) Study.--The Comptroller General of the United States 
+        shall, from time to time, review the reports submitted by 
+        creditors under section 127(r) of the Truth in Lending Act, as 
+        added by this section, and the marketing practices of creditors 
+        to determine the impact that college affinity card agreements 
+        and college student card agreements have on credit card debt.
+            (2) Report.--Upon completion of any study under paragraph 
+        (1), the Comptroller General shall periodically submit a report 
+        to the Congress on the findings and conclusions of the study, 
+        together with such recommendations for administrative or 
+        legislative action as the Comptroller General determines to be 
+        appropriate.
+
+                          TITLE IV--GIFT CARDS
+
+SEC. 401. GENERAL-USE PREPAID CARDS, GIFT CERTIFICATES, AND STORE 
+                        GIFT CARDS.
+
+    The Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.) is 
+amended--
+            (1) by redesignating sections 915 <<NOTE: 15 USC 1693 note, 
+        1693m-1693r.>> through 921 as sections 916 through 922, 
+        respectively; and
+            (2) by inserting after section 914 the following:
+``SEC. 915. <<NOTE: 15 USC 1693l-1.>> GENERAL-USE PREPAID CARDS, 
+                        GIFT CERTIFICATES, AND STORE GIFT CARDS.
+
+    ``(a) Definitions.--In this section, the following definitions shall 
+apply:
+            ``(1) Dormancy fee; inactivity charge or fee.--The terms 
+        `dormancy fee' and `inactivity charge or fee' mean a fee, 
+        charge, or penalty for non-use or inactivity of a gift 
+        certificate, store gift card, or general-use prepaid card.
+            ``(2) General use prepaid card, gift certificate, and store 
+        gift card.--
+                    ``(A) General-use prepaid card.--The term `general-
+                use prepaid card' means a card or other payment code or 
+                device issued by any person that is--
+                          ``(i) redeemable at multiple, unaffiliated 
+                      merchants or service providers, or automated 
+                      teller machines;
+                          ``(ii) issued in a requested amount, whether 
+                      or not that amount may, at the option of the 
+                      issuer, be increased in value or reloaded if 
+                      requested by the holder;
+                          ``(iii) purchased or loaded on a prepaid 
+                      basis; and
+                          ``(iv) honored, upon presentation, by 
+                      merchants for goods or services, or at automated 
+                      teller machines.
+                    ``(B) Gift certificate.--The term `gift certificate' 
+                means an electronic promise that is--
+                          ``(i) redeemable at a single merchant or an 
+                      affiliated group of merchants that share the same 
+                      name, mark, or logo;
+                          ``(ii) issued in a specified amount that may 
+                      not be increased or reloaded;
+                          ``(iii) purchased on a prepaid basis in 
+                      exchange for payment; and
+
+[[Page 123 STAT. 1752]]
+
+                          ``(iv) honored upon presentation by such 
+                      single merchant or affiliated group of merchants 
+                      for goods or services.
+                    ``(C) Store gift card.--The term `store gift card' 
+                means an electronic promise, plastic card, or other 
+                payment code or device that is--
+                          ``(i) redeemable at a single merchant or an 
+                      affiliated group of merchants that share the same 
+                      name, mark, or logo;
+                          ``(ii) issued in a specified amount, whether 
+                      or not that amount may be increased in value or 
+                      reloaded at the request of the holder;
+                          ``(iii) purchased on a prepaid basis in 
+                      exchange for payment; and
+                          ``(iv) honored upon presentation by such 
+                      single merchant or affiliated group of merchants 
+                      for goods or services.
+                    ``(D) Exclusions.--The terms `general-use prepaid 
+                card', `gift certificate', and `store gift card' do not 
+                include an electronic promise, plastic card, or payment 
+                code or device that is--
+                          ``(i) used solely for telephone services;
+                          ``(ii) reloadable and not marketed or labeled 
+                      as a gift card or gift certificate;
+                          ``(iii) a loyalty, award, or promotional gift 
+                      card, as defined by the Board;
+                          ``(iv) not marketed to the general public;
+                          ``(v) issued in paper form only (including for 
+                      tickets and events); or
+                          ``(vi) redeemable solely for admission to 
+                      events or venues at a particular location or group 
+                      of affiliated locations, which may also include 
+                      services or goods obtainable--
+                                    ``(I) at the event or venue after 
+                                admission; or
+                                    ``(II) in conjunction with admission 
+                                to such events or venues, at specific 
+                                locations affiliated with and in 
+                                geographic proximity to the event or 
+                                venue.
+            ``(3) Service fee.--
+                    ``(A) In general.--The term `service fee' means a 
+                periodic fee, charge, or penalty for holding or use of a 
+                gift certificate, store gift card, or general-use 
+                prepaid card.
+                    ``(B) Exclusion.--With respect to a general-use 
+                prepaid card, the term `service fee' does not include a 
+                one-time initial issuance fee.
+
+    ``(b) Prohibition on Imposition of Fees or Charges.--
+            ``(1) In general.--Except as provided under paragraphs (2) 
+        through (4), it shall be unlawful for any person to impose a 
+        dormancy fee, an inactivity charge or fee, or a service fee with 
+        respect to a gift certificate, store gift card, or general-use 
+        prepaid card.
+            ``(2) Exceptions.--A dormancy fee, inactivity charge or fee, 
+        or service fee may be charged with respect to a gift 
+        certificate, store gift card, or general-use prepaid card, if--
+
+[[Page 123 STAT. 1753]]
+
+                    ``(A) there has been no activity with respect to the 
+                certificate or card in the 12-month period ending on the 
+                date on which the charge or fee is imposed;
+                    ``(B) the disclosure requirements of paragraph (3) 
+                have been met;
+                    ``(C) not more than one fee may be charged in any 
+                given month; and
+                    ``(D) any additional requirements that the Board may 
+                establish through rulemaking under subsection (d) have 
+                been met.
+            ``(3) Disclosure requirements.--The disclosure requirements 
+        of this paragraph are met if--
+                    ``(A) the gift certificate, store gift card, or 
+                general-use prepaid card clearly and conspicuously 
+                states--
+                          ``(i) that a dormancy fee, inactivity charge 
+                      or fee, or service fee may be charged;
+                          ``(ii) the amount of such fee or charge;
+                          ``(iii) how often such fee or charge may be 
+                      assessed; and
+                          ``(iv) that such fee or charge may be assessed 
+                      for inactivity; and
+                    ``(B) the issuer or vendor of such certificate or 
+                card informs the purchaser of such charge or fee before 
+                such certificate or card is purchased, regardless of 
+                whether the certificate or card is purchased in person, 
+                over the Internet, or by telephone.
+            ``(4) Exclusion.--The prohibition under paragraph (1) shall 
+        not apply to any gift certificate--
+                    ``(A) that is distributed pursuant to an award, 
+                loyalty, or promotional program, as defined by the 
+                Board; and
+                    ``(B) with respect to which, there is no money or 
+                other value exchanged.
+
+    ``(c) Prohibition on Sale of Gift Cards With Expiration Dates.--
+            ``(1) In general.--Except as provided under paragraph (2), 
+        it shall be unlawful for any person to sell or issue a gift 
+        certificate, store gift card, or general-use prepaid card that 
+        is subject to an expiration date.
+            ``(2) Exceptions.--A gift certificate, store gift card, or 
+        general-use prepaid card may contain an expiration date if--
+                    ``(A) the expiration date is not earlier than 5 
+                years after the date on which the gift certificate was 
+                issued, or the date on which card funds were last loaded 
+                to a store gift card or general-use prepaid card; and
+                    ``(B) the terms of expiration are clearly and 
+                conspicuously stated.
+
+    ``(d) Additional Rulemaking.--
+            ``(1) In general.--The Board shall--
+                    ``(A) <<NOTE: Regulations.>> prescribe regulations 
+                to carry out this section, in addition to any other 
+                rules or regulations required by this title, including 
+                such additional requirements as appropriate relating to 
+                the amount of dormancy fees, inactivity charges or fees, 
+                or service fees that may be assessed and the amount of 
+                remaining value of a gift certificate, store gift card, 
+                or general-use prepaid card below which such charges or 
+                fees may be assessed; and
+
+[[Page 123 STAT. 1754]]
+
+                    ``(B) shall determine the extent to which the 
+                individual definitions and provisions of the Electronic 
+                Fund Transfer Act or Regulation E should apply to 
+                general-use prepaid cards, gift certificates, and store 
+                gift cards.
+            ``(2) Consultation.--In prescribing regulations under this 
+        subsection, the Board shall consult with the Federal Trade 
+        Commission.
+            ``(3) Timing; effective date.--
+        The <<NOTE: Deadline.>> regulations required by this subsection 
+        shall be issued in final form not later than 9 months after the 
+        date of enactment of the Credit CARD Act of 2009.''.
+SEC. 402. RELATION TO STATE LAWS.
+
+    Section 920 of the Electronic Fund Transfer Act <<NOTE: 15 USC 
+1693q.>>  (as redesignated by this title) is amended by inserting 
+``dormancy fees, inactivity charges or fees, service fees, or expiration 
+dates of gift certificates, store gift cards, or general-use prepaid 
+cards,'' after ``electronic fund transfers,''.
+SEC. 403. <<NOTE: 15 USC 1693l-1 note.>> EFFECTIVE DATE.
+
+    This title and the amendments made by this title shall become 
+effective 15 months after the date of enactment of this Act.
+
+                    TITLE V--MISCELLANEOUS PROVISIONS
+
+SEC. 501. STUDY AND REPORT ON INTERCHANGE FEES.
+
+    (a) Study Required.--The Comptroller General of the United States 
+(in this section referred to as the ``Comptroller'') shall conduct a 
+study on use of credit by consumers, interchange fees, and their effects 
+on consumers and merchants.
+    (b) Subjects for Review.--In conducting the study required by this 
+section, the Comptroller shall review--
+            (1) the extent to which interchange fees are required to be 
+        disclosed to consumers and merchants, whether merchants are 
+        restricted from disclosing interchange or merchant discount 
+        fees, and how such fees are overseen by the Federal banking 
+        agencies or other regulators;
+            (2) the ways in which the interchange system affects the 
+        ability of merchants of varying size to negotiate pricing with 
+        card associations and banks;
+            (3) the costs and factors incorporated into interchange 
+        fees, such as advertising, bonus miles, and rewards, how such 
+        costs and factors vary among cards;
+            (4) the consequences of the undisclosed nature of 
+        interchange fees on merchants and consumers with regard to 
+        prices charged for goods and services;
+            (5) how merchant discount fees compare to the credit losses 
+        and other costs that merchants incur to operate their own credit 
+        networks or store cards;
+            (6) the extent to which the rules of payment card networks 
+        and their policies regarding interchange fees are accessible to 
+        merchants;
+            (7) other jurisdictions where the central bank has regulated 
+        interchange fees and the impact on retail prices to consumers in 
+        such jurisdictions;
+            (8) whether and to what extent merchants are permitted to 
+        discount for cash; and
+
+[[Page 123 STAT. 1755]]
+
+            (9) the extent to which interchange fees allow smaller 
+        financial institutions and credit unions to offer payment cards 
+        and compete against larger financial institutions.
+
+    (c) Report Required.--Not later than 180 days after the date of 
+enactment of this Act, the Comptroller shall submit a report to the 
+Committee on Banking, Housing, and Urban Affairs of the Senate and the 
+Committee on Financial Services of the House of Representatives 
+containing a detailed summary of the findings and conclusions of the 
+study required by this section, together with such recommendations for 
+legislative or administrative actions as may be appropriate.
+SEC. 502. <<NOTE: 15 USC 1616.>> BOARD REVIEW OF CONSUMER CREDIT 
+                        PLANS AND REGULATIONS.
+
+    (a) Required Review.--Not <<NOTE: Deadlines.>> later than 2 years 
+after the effective date of this Act and every 2 years thereafter, 
+except as provided in subsection (c)(2), the Board shall conduct a 
+review, within the limits of its existing resources available for 
+reporting purposes, of the consumer credit card market, including--
+            (1) the terms of credit card agreements and the practices of 
+        credit card issuers;
+            (2) the effectiveness of disclosure of terms, fees, and 
+        other expenses of credit card plans;
+            (3) the adequacy of protections against unfair or deceptive 
+        acts or practices relating to credit card plans; and
+            (4) whether or not, and to what extent, the implementation 
+        of this Act and the amendments made by this Act has affected--
+                    (A) cost and availability of credit, particularly 
+                with respect to non-prime borrowers;
+                    (B) the safety and soundness of credit card issuers;
+                    (C) the use of risk-based pricing; or
+                    (D) credit card product innovation.
+
+    (b) Solicitation of Public Comment.--In connection with conducting 
+the review required by subsection (a), the Board shall solicit comment 
+from consumers, credit card issuers, and other interested parties, such 
+as through hearings or written comments.
+    (c) Regulations.--
+            (1) Notice.--Following <<NOTE: Federal Register, 
+        publication.>> the review required by subsection (a), the Board 
+        shall publish a notice in the Federal Register that--
+                    (A) summarizes the review, the comments received 
+                from the public solicitation, and other evidence 
+                gathered by the Board, such as through consumer testing 
+                or other research; and
+                    (B) either--
+                          (i) proposes new or revised regulations or 
+                      interpretations to update or revise disclosures 
+                      and protections for consumer credit cards, as 
+                      appropriate; or
+                          (ii) states the reason for the determination 
+                      of the Board that new or revised regulations are 
+                      not necessary.
+            (2) Revision of review period following material revision of 
+        regulations.--In the event that the Board materially revises 
+        regulations on consumer credit card plans, a review need not be 
+        conducted until 2 years after the effective date of the revised 
+        regulations, which thereafter shall be treated
+
+[[Page 123 STAT. 1756]]
+
+        as the new date for the biennial review required by subsection 
+        (a).
+
+    (d) Board Report to the Congress.--The Board shall report to 
+Congress not less frequently than every 2 years, except as provided in 
+subsection (c)(2), on the status of its most recent review, its efforts 
+to address any issues identified from the review, and any 
+recommendations for legislation.
+    (e) Additional Reporting.--The Federal banking agencies (as that 
+term is defined in section 3 of the Federal Deposit Insurance Act) and 
+the Federal Trade Commission shall provide annually to the Board, and 
+the Board shall include in its annual report to Congress under section 
+10 of the Federal Reserve Act, information about the supervisory and 
+enforcement activities of the agencies with respect to compliance by 
+credit card issuers with applicable Federal consumer protection statutes 
+and regulations, including--
+            (1) this Act, the amendments made by this Act, and 
+        regulations prescribed under this Act and such amendments; and
+            (2) section 5 of the Federal Trade Commission Act, and 
+        regulations prescribed under the Federal Trade Commission Act, 
+        including part 227 of title 12 of the Code of Federal 
+        Regulations, as prescribed by the Board (referred to as 
+        ``Regulation AA'').
+SEC. 503. <<NOTE: 31 USC 5311 note.>> STORED VALUE.
+
+    (a) In General.--Not <<NOTE: Deadline. Regulations.>> later than 270 
+days after the date of enactment of this Act, the Secretary of the 
+Treasury, in consultation with the Secretary of Homeland Security, shall 
+issue regulations in final form implementing the Bank Secrecy Act, 
+regarding the sale, issuance, redemption, or international transport of 
+stored value, including stored value cards.
+
+    (b) Consideration of International Transport.--Regulations under 
+this section regarding international transport of stored value may 
+include reporting requirements pursuant to section 5316 of title 31, 
+United States Code.
+    (c) Emerging Methods for Transmittal and Storage in Electronic 
+Form.--Regulations under this section shall take into consideration 
+current and future needs and methodologies for transmitting and storing 
+value in electronic form.
+SEC. 504. PROCEDURE FOR TIMELY SETTLEMENT OF ESTATES OF DECEDENT 
+                        OBLIGORS.
+
+    (a) In General.--Chapter 2 of the Truth in Lending <<NOTE: 15 USC 
+1631 et seq.>> Act ( U.S.C. 1631 et seq.) is amended by adding at the 
+end the following new section:
+``Sec. 140A <<NOTE: 15 USC 1651.>> Procedure for timely settlement 
+                  of estates of decedent obligors
+
+    ``The <<NOTE: Regulations.>> Board, in consultation with the Federal 
+Trade Commission and each other agency referred to in section 108(a), 
+shall prescribe regulations to require any creditor, with respect to any 
+credit card account under an open end consumer credit plan, to establish 
+procedures to ensure that any administrator of an estate of any deceased 
+obligor with respect to such account can resolve outstanding credit 
+balances in a timely manner.''.
+
+[[Page 123 STAT. 1757]]
+
+    (b) Clerical Amendment.--The table of sections for chapter 2 of the 
+Truth in Lending Act is amended by inserting after the item relating to 
+section 140 the following new item:
+
+``140A. Procedure for timely settlement of estates of decedent 
+           obligors'.''.
+
+SEC. 505. REPORT TO CONGRESS ON REDUCTIONS OF CONSUMER CREDIT CARD 
+                        LIMITS BASED ON CERTAIN INFORMATION AS TO 
+                        EXPERIENCE OR TRANSACTIONS OF THE 
+                        CONSUMER.
+
+    (a) Report on Creditor Practices Required.--Before the end of the 1-
+year period beginning on the date of enactment of this Act, the Board, 
+in consultation with the Comptroller of the Currency, the Director of 
+the Office of Thrift Supervision, the Federal Deposit Insurance 
+Corporation, the National Credit Union Administration Board, and the 
+Federal Trade Commission, shall submit a report to the Committee on 
+Financial Services of the House of Representatives and the Committee on 
+Banking, Housing, and Urban Affairs of the Senate on the extent to 
+which, during the 3-year period ending on such date of enactment, 
+creditors have reduced credit limits or raised interest rates applicable 
+to credit card accounts under open end consumer credit plans based on--
+            (1) the geographic location where a credit transaction with 
+        the consumer took place, or the identity of the merchant 
+        involved in the transaction;
+            (2) the credit transactions of the consumer, including the 
+        type of credit transaction, the type of items purchased in such 
+        transaction, the price of items purchased in such transaction, 
+        any change in the type or price of items purchased in such 
+        transactions, and other data pertaining to the use of such 
+        credit card account by the consumer; and
+            (3) the identity of the mortgage creditor which extended or 
+        holds the mortgage loan secured by the primary residence of the 
+        consumer.
+
+    (b) Other Information.--The report required under subsection (a) 
+shall also include--
+            (1) the number of creditors that have engaged in the 
+        practices described in subsection (a);
+            (2) the extent to which the practices described in 
+        subsection (a) have an adverse impact on minority or low-income 
+        consumers;
+            (3) any other relevant information regarding such practices; 
+        and
+            (4) recommendations to the Congress on any regulatory or 
+        statutory changes that may be needed to restrict or prevent such 
+        practices.
+SEC. 506. BOARD REVIEW OF SMALL BUSINESS CREDIT PLANS AND 
+                        RECOMMENDATIONS.
+
+    (a) Required Review.--Not <<NOTE: Deadline.>> later than 9 months 
+after the date of enactment of this Act, the Board shall conduct a 
+review of the use of credit cards by businesses with not more than 50 
+employees (in this section referred to as ``small businesses'') and the 
+credit card market for small businesses, including--
+            (1) the terms of credit card agreements for small businesses 
+        and the practices of credit card issuers relating to small 
+        businesses;
+
+[[Page 123 STAT. 1758]]
+
+            (2) the adequacy of disclosures of terms, fees, and other 
+        expenses of credit card plans for small businesses;
+            (3) the adequacy of protections against unfair or deceptive 
+        acts or practices relating to credit card plans for small 
+        businesses;
+            (4) the cost and availability of credit for small 
+        businesses, particularly with respect to non-prime borrowers;
+            (5) the use of risk-based pricing for small businesses;
+            (6) credit card product innovation relating to small 
+        businesses; and
+            (7) the extent to which small business owners use personal 
+        credit cards to fund their business operations.
+
+    (b) Recommendations.--Following <<NOTE: Deadline.>> the review 
+required by subsection (a), the Board shall, not later than 12 months 
+after the date of enactment of this Act--
+            (1) <<NOTE: Reports.>> provide a report to Congress that 
+        summarizes the review and other evidence gathered by the Board, 
+        such as through consumer testing or other research, and
+            (2) make recommendations for administrative or legislative 
+        initiatives to provide protections for credit card plans for 
+        small businesses, as appropriate.
+SEC. 507. SMALL BUSINESS INFORMATION SECURITY TASK FORCE.
+
+    (a) Definitions.--In this section--
+            (1) the terms ``Administration'' and ``Administrator'' mean 
+        the Small Business Administration and the Administrator thereof, 
+        respectively;
+            (2) the term ``small business concern'' has the same meaning 
+        as in section 3 of the Small Business Act (15 U.S.C. 632); and
+            (3) the term ``task force'' means the task force established 
+        under subsection (b).
+
+    (b) Establishment.--The Administrator shall, in conjunction with the 
+Secretary of Homeland Security, establish a task force, to be known as 
+the ``Small Business Information Security Task Force'', to address the 
+information technology security needs of small business concerns and to 
+help small business concerns prevent the loss of credit card data.
+    (c) Duties.--The <<NOTE: Recommen-dations.>> task force shall--
+            (1) identify--
+                    (A) the information technology security needs of 
+                small business concerns; and
+                    (B) the programs and services provided by the 
+                Federal Government, State Governments, and nongovernment 
+                organizations that serve those needs;
+            (2) assess the extent to which the programs and services 
+        identified under paragraph (1)(B) serve the needs identified 
+        under paragraph (1)(A);
+            (3) make recommendations to the Administrator on how to more 
+        effectively serve the needs identified under paragraph (1)(A) 
+        through--
+                    (A) programs and services identified under paragraph 
+                (1)(B); and
+                    (B) new programs and services promoted by the task 
+                force;
+            (4) make recommendations on how the Administrator may 
+        promote--
+
+[[Page 123 STAT. 1759]]
+
+                    (A) new programs and services that the task force 
+                recommends under paragraph (3)(B); and
+                    (B) programs and services identified under paragraph 
+                (1)(B);
+            (5) make recommendations on how the Administrator may inform 
+        and educate with respect to--
+                    (A) the needs identified under paragraph (1)(A);
+                    (B) new programs and services that the task force 
+                recommends under paragraph (3)(B); and
+                    (C) programs and services identified under paragraph 
+                (1)(B);
+            (6) make recommendations on how the Administrator may more 
+        effectively work with public and private interests to address 
+        the information technology security needs of small business 
+        concerns; and
+            (7) make recommendations on the creation of a permanent 
+        advisory board that would make recommendations to the 
+        Administrator on how to address the information technology 
+        security needs of small business concerns.
+
+    (d) Internet Website Recommendations.--The task force shall make 
+recommendations to the Administrator relating to the establishment of an 
+Internet website to be used by the Administration to receive and 
+dispense information and resources with respect to the needs identified 
+under subsection (c)(1)(A) and the programs and services identified 
+under subsection (c)(1)(B). As part of the recommendations, the task 
+force shall identify the Internet sites of appropriate programs, 
+services, and organizations, both public and private, to which the 
+Internet website should link.
+    (e) Education Programs.--The <<NOTE: Recommen-dations.>> task force 
+shall make recommendations to the Administrator relating to developing 
+additional education materials and programs with respect to the needs 
+identified under subsection (c)(1)(A).
+
+    (f) Existing Materials.--The task force shall organize and 
+distribute existing materials that inform and educate with respect to 
+the needs identified under subsection (c)(1)(A) and the programs and 
+services identified under subsection (c)(1)(B).
+    (g) Coordination With Public and Private Sector.--In carrying out 
+its responsibilities under this section, the task force shall coordinate 
+with, and may accept materials and assistance as it determines 
+appropriate from, public and private entities, including--
+            (1) any subordinate officer of the Administrator;
+            (2) any organization authorized by the Small Business Act to 
+        provide assistance and advice to small business concerns;
+            (3) other Federal agencies, their officers, or employees; 
+        and
+            (4) any other organization, entity, or person not described 
+        in paragraph (1), (2), or (3).
+
+    (h) Appointment of Members.--
+            (1) Chairperson and vice-chairperson.--The task force shall 
+        have--
+                    (A) a Chairperson, appointed by the Administrator; 
+                and
+                    (B) a Vice-Chairperson, appointed by the 
+                Administrator, in consultation with appropriate 
+                nongovernmental organizations, entities, or persons.
+            (2) Members.--
+
+[[Page 123 STAT. 1760]]
+
+                    (A) Chairperson and vice-chairperson.--The 
+                Chairperson and the Vice-Chairperson shall serve as 
+                members of the task force.
+                    (B) Additional members.--
+                          (i) In general.--The task force shall have 
+                      additional members, each of whom shall be 
+                      appointed by the Chairperson, with the approval of 
+                      the Administrator.
+                          (ii) Number of members.--The number of 
+                      additional members shall be determined by the 
+                      Chairperson, in consultation with the 
+                      Administrator, except that--
+                                    (I) the additional members shall 
+                                include, for each of the groups 
+                                specified in paragraph (3), at least 1 
+                                member appointed from within that group; 
+                                and
+                                    (II) the number of additional 
+                                members shall not exceed 13.
+            (3) Groups represented.--The groups specified in this 
+        paragraph are--
+                    (A) subject matter experts;
+                    (B) users of information technologies within small 
+                business concerns;
+                    (C) vendors of information technologies to small 
+                business concerns;
+                    (D) academics with expertise in the use of 
+                information technologies to support business;
+                    (E) small business trade associations;
+                    (F) Federal, State, or local agencies, including the 
+                Department of Homeland Security, engaged in securing 
+                cyberspace; and
+                    (G) information technology training providers with 
+                expertise in the use of information technologies to 
+                support business.
+            (4) Political affiliation.--The appointments under this 
+        subsection shall be made without regard to political 
+        affiliation.
+
+    (i) Meetings.--
+            (1) Frequency.--The task force shall meet at least 2 times 
+        per year, and more frequently if necessary to perform its 
+        duties.
+            (2) Quorum.--A majority of the members of the task force 
+        shall constitute a quorum.
+            (3) Location.--The Administrator shall designate, and make 
+        available to the task force, a location at a facility under the 
+        control of the Administrator for use by the task force for its 
+        meetings.
+            (4)  <<NOTE: Deadlines.>> Minutes.--
+                    (A) In general.--Not <<NOTE: Federal Register, 
+                publication. Recommen-dations.>> later than 30 days 
+                after the date of each meeting, the task force shall 
+                publish the minutes of the meeting in the Federal 
+                Register and shall submit to the Administrator any 
+                findings or recommendations approved at the meeting.
+                    (B) Submission to congress.--Not later than 60 days 
+                after the date that the Administrator receives minutes 
+                under subparagraph (A), the Administrator shall submit 
+                to the Committee on Small Business and Entrepreneurship 
+                of the Senate and the Committee on Small Business of
+
+[[Page 123 STAT. 1761]]
+
+                the House of Representatives such minutes, together with 
+                any comments the Administrator considers appropriate.
+            (5) <<NOTE: Deadlines. Reports.>>  Findings.--
+                    (A) In general.--Not later than the date on which 
+                the task force terminates under subsection (m), the task 
+                force shall submit to the Administrator a final report 
+                on any findings and recommendations of the task force 
+                approved at a meeting of the task force.
+                    (B) Submission to congress.--Not later than 90 days 
+                after the date on which the Administrator receives the 
+                report under subparagraph (A), the Administrator shall 
+                submit to the Committee on Small Business and 
+                Entrepreneurship of the Senate and the Committee on 
+                Small Business of the House of Representatives the full 
+                text of the report submitted under subparagraph (A), 
+                together with any comments the Administrator considers 
+                appropriate.
+
+    (j) Personnel Matters.--
+            (1) Compensation of members.--Each member of the task force 
+        shall serve without pay for their service on the task force.
+            (2) Travel expenses.--Each member of the task force shall 
+        receive travel expenses, including per diem in lieu of 
+        subsistence, in accordance with applicable provisions under 
+        subchapter I of chapter 57 of title 5, United States Code.
+            (3) Detail of sba employees.--The Administrator may detail, 
+        without reimbursement, any of the personnel of the 
+        Administration to the task force to assist it in carrying out 
+        the duties of the task force. Such a detail shall be without 
+        interruption or loss of civil status or privilege.
+            (4) SBA support of the task force.--Upon the request of the 
+        task force, the Administrator shall provide to the task force 
+        the administrative support services that the Administrator and 
+        the Chairperson jointly determine to be necessary for the task 
+        force to carry out its duties.
+
+    (k) Not Subject to Federal Advisory Committee Act.--The Federal 
+Advisory Committee Act (5 U.S.C. App.) shall not apply to the task 
+force.
+    (l) Startup Deadlines.--The initial appointment of the members of 
+the task force shall be completed not later than 90 days after the date 
+of enactment of this Act, and the first meeting of the task force shall 
+be not later than 180 days after the date of enactment of this Act.
+    (m) Termination.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        task force shall terminate at the end of fiscal year 2013.
+            (2) Exception.--If, as of the termination date under 
+        paragraph (1), the task force has not complied with subsection 
+        (i)(4) with respect to 1 or more meetings, then the task force 
+        shall continue after the termination date for the sole purpose 
+        of achieving compliance with subsection (i)(4) with respect to 
+        those meetings.
+
+    (n) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section $300,000 for each of fiscal years 
+2010 through 2013.
+
+[[Page 123 STAT. 1762]]
+
+SEC. 508. STUDY AND REPORT ON EMERGENCY PIN TECHNOLOGY.
+
+    (a) In General.--The Federal Trade Commission, in consultation with 
+the Attorney General of the United States and the United States Secret 
+Service, shall conduct a study on the cost-effectiveness of making 
+available at automated teller machines technology that enables a 
+consumer that is under duress to electronically alert a local law 
+enforcement agency that an incident is taking place at such automated 
+teller machine, including--
+            (1) an emergency personal identification number that would 
+        summon a local law enforcement officer to an automated teller 
+        machine when entered into such automated teller machine; and
+            (2) a mechanism on the exterior of an automated teller 
+        machine that, when pressed, would summon a local law enforcement 
+        to such automated teller machine.
+
+    (b) Contents of Study.--The study required under subsection (a) 
+shall include--
+            (1) an analysis of any technology described in subsection 
+        (a) that is currently available or under development;
+            (2) an estimate of the number and severity of any crimes 
+        that could be prevented by the availability of such technology;
+            (3) the estimated costs of implementing such technology; and
+            (4) a comparison of the costs and benefits of not fewer than 
+        3 types of such technology.
+
+    (c) Report.--Not later than 9 months after the date of enactment of 
+this Act, the Federal Trade Commission shall submit to Congress a report 
+on the findings of the study required under this section that includes 
+such recommendations for legislative action as the Commission determines 
+appropriate.
+SEC. 509. STUDY AND REPORT ON THE MARKETING OF PRODUCTS WITH 
+                        CREDIT OFFERS.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study on the terms, conditions, marketing, and value to 
+consumers of products marketed in conjunction with credit card offers, 
+including--
+            (1) debt suspension agreements;
+            (2) debt cancellation agreements; and
+            (3) credit insurance products.
+
+    (b) Areas of Concern.--The study conducted under this section shall 
+evaluate--
+            (1) the suitability of the offer of products described in 
+        subsection (a) for target customers;
+            (2) the predatory nature of such offers; and
+            (3) specifically for debt cancellation or suspension 
+        agreements and credit insurance products, loss rates compared to 
+        more traditional insurance products.
+
+    (c) Report to Congress.--The Comptroller shall submit a report to 
+Congress on the results of the study required by this section not later 
+than December 31, 2010.
+SEC. 510. FINANCIAL AND ECONOMIC LITERACY.
+
+    (a) Report on Federal Financial and Economic Literacy Education 
+Programs.--
+            (1) In general.--Not later than 9 months after the date of 
+        enactment of this Act, the Secretary of Education and the
+
+[[Page 123 STAT. 1763]]
+
+        Director of the Office of Financial Education of the Department 
+        of the Treasury shall coordinate with the President's Advisory 
+        Council on Financial Literacy--
+                    (A) to evaluate and compile a comprehensive summary 
+                of all existing Federal financial and economic literacy 
+                education programs, as of the time of the report; and
+                    (B) to prepare and submit a report to Congress on 
+                the findings of the evaluations.
+            (2) Contents.--The report required by this subsection shall 
+        address, at a minimum--
+                    (A) the 2008 recommendations of the President's 
+                Advisory Council on Financial Literacy;
+                    (B) existing Federal financial and economic literacy 
+                education programs for grades kindergarten through grade 
+                12, and annual funding to support these programs;
+                    (C) existing Federal postsecondary financial and 
+                economic literacy education programs and annual funding 
+                to support these programs;
+                    (D) the current financial and economic literacy 
+                education needs of adults, and in particular, low- and 
+                moderate-income adults;
+                    (E) ways to incorporate and disseminate best 
+                practices and high quality curricula in financial and 
+                economic literacy education; and
+                    (F) specific recommendations on sources of revenue 
+                to support financial and economic literacy education 
+                activities with a specific analysis of the potential use 
+                of credit card transaction fees.
+
+    (b) Strategic Plan.--
+            (1) In general.--The Secretary of Education and the Director 
+        of the Office of Financial Education of the Department of the 
+        Treasury shall coordinate with the President's Advisory Council 
+        on Financial Literacy to develop a strategic plan to improve and 
+        expand financial and economic literacy education.
+            (2) Contents.--The plan developed under this subsection 
+        shall--
+                    (A) incorporate findings from the report and 
+                evaluations of existing Federal financial and economic 
+                literacy education programs under subsection (a); and
+                    (B) include proposals to improve, expand, and 
+                support financial and economic literacy education based 
+                on the findings of the report and evaluations.
+            (3) Presentation to congress.--The <<NOTE: Deadline.>> plan 
+        developed under this subsection shall be presented to Congress 
+        not later than 6 months after the date on which the report under 
+        subsection (a) is submitted to Congress.
+
+    (c) Effective Date.--Notwithstanding section 3, this section shall 
+become effective on the date of enactment of this Act.
+SEC. 511. FEDERAL TRADE COMMISSION RULEMAKING ON MORTGAGE LENDING.
+
+    (a) In <<NOTE: Ante, p. 678.>> General.--Section 626 of division D 
+of the Omnibus Appropriations Act, 2009 (Public Law 111-8) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``Within'' and inserting ``(1) 
+                Within'';
+                    (B) in paragraph (1), as designated by subparagraph 
+                (A), by inserting after the first sentence the 
+                following:
+
+[[Page 123 STAT. 1764]]
+
+                ``Such rulemaking shall relate to unfair or deceptive 
+                acts or practices regarding mortgage loans, which may 
+                include unfair or deceptive acts or practices involving 
+                loan modification and foreclosure rescue services.''; 
+                and
+                    (C) by adding at the end the following:
+            ``(2) Paragraph (1) shall not be construed to authorize the 
+        Federal Trade Commission to promulgate a rule with respect to an 
+        entity that is not subject to enforcement of the Federal Trade 
+        Commission Act (15 U.S.C. 41 et seq.) by the Commission.
+            ``(3) <<NOTE: Consultation.>> Before issuing a final rule 
+        pursuant to the proceeding initiated under paragraph (1), the 
+        Federal Trade Commission shall consult with the Federal Reserve 
+        Board concerning any portion of the proposed rule applicable to 
+        acts or practices to which the provisions of the Truth in 
+        Lending Act (15 U.S.C. 1601 et seq.) may apply.
+            ``(4) The Federal Trade Commission shall enforce the rules 
+        issued under paragraph (1) in the same manner, by the same 
+        means, and with the same jurisdiction, powers, and duties as 
+        though all applicable terms and provisions of the Federal Trade 
+        Commission Act (15 U.S.C. 41 et seq.) were incorporated into and 
+        made part of this section.''; and
+            (2) in subsection (b)--
+                    (A) by striking so much as precedes paragraph (2) 
+                and inserting the following:
+
+    ``(b)(1) Except as provided in paragraph (6), in any case in which 
+the attorney general of a State has reason to believe that an interest 
+of the residents of that State has been or is threatened or adversely 
+affected by the engagement of any person subject to a rule prescribed 
+under subsection (a) in a practice that violates such rule, the State, 
+as parens patriae, may bring a civil action on behalf of the residents 
+of the State in an appropriate district court of the United States or 
+other court of competent jurisdiction--
+            ``(A) to enjoin that practice;
+            ``(B) to enforce compliance with the rule;
+            ``(C) to obtain damages, restitution, or other compensation 
+        on behalf of residents of the State; or
+            ``(D) to obtain penalties and relief provided by the Federal 
+        Trade Commission Act and such other relief as the court 
+        considers appropriate.''; and
+                    (B) in paragraphs (2), (3), and (6), by striking 
+                ``Commission'' each place it appears and inserting 
+                ``primary Federal regulator''.
+
+    (b) Effective <<NOTE: 15 USC 1638 note.>> Date.--The amendments made 
+by subsection (a) shall take effect on March 12, 2009.
+SEC. 512. <<NOTE: 16 USC 1a-7b.>> PROTECTING AMERICANS FROM 
+                        VIOLENT CRIME.
+
+    (a) Congressional Findings.--Congress finds the following:
+            (1) The Second Amendment to the Constitution provides that 
+        ``the right of the people to keep and bear Arms, shall not be 
+        infringed''.
+            (2) Section 2.4(a)(1) of title 36, Code of Federal 
+        Regulations, provides that ``except as otherwise provided in 
+        this section and parts 7 (special regulations) and 13 (Alaska 
+        regulations), the following are prohibited: (i) Possessing a 
+        weapon, trap or net (ii) Carrying a weapon, trap or net (iii) 
+        Using a weapon, trap or net''.
+
+[[Page 123 STAT. 1765]]
+
+            (3) Section 27.42 of title 50, Code of Federal Regulations, 
+        provides that, except in special circumstances, citizens of the 
+        United States may not ``possess, use, or transport firearms on 
+        national wildlife refuges'' of the United States Fish and 
+        Wildlife Service.
+            (4) The regulations described in paragraphs (2) and (3) 
+        prevent individuals complying with Federal and State laws from 
+        exercising the second amendment rights of the individuals while 
+        at units of--
+                    (A) the National Park System; and
+                    (B) the National Wildlife Refuge System.
+            (5) The existence of different laws relating to the 
+        transportation and possession of firearms at different units of 
+        the National Park System and the National Wildlife Refuge System 
+        entrapped law-abiding gun owners while at units of the National 
+        Park System and the National Wildlife Refuge System.
+            (6) Although the Bush administration issued new regulations 
+        relating to the Second Amendment rights of law-abiding citizens 
+        in units of the National Park System and National Wildlife 
+        Refuge System that went into effect on January 9, 2009--
+                    (A) on March 19, 2009, the United States District 
+                Court for the District of Columbia granted a preliminary 
+                injunction with respect to the implementation and 
+                enforcement of the new regulations; and
+                    (B) the new regulations--
+                          (i) are under review by the administration; 
+                      and
+                          (ii) may be altered.
+            (7) Congress needs to weigh in on the new regulations to 
+        ensure that unelected bureaucrats and judges cannot again 
+        override the Second Amendment rights of law-abiding citizens on 
+        83,600,000 acres of National Park System land and 90,790,000 
+        acres of land under the jurisdiction of the United States Fish 
+        and Wildlife Service.
+            (8) The Federal laws should make it clear that the second 
+        amendment rights of an individual at a unit of the National Park 
+        System or the National Wildlife Refuge System should not be 
+        infringed.
+
+    (b) Protecting the Right of Individuals To Bear arms in Units of the 
+National Park System and the National Wildlife Refuge System.--The 
+Secretary of the Interior shall not promulgate or enforce any regulation 
+that prohibits an individual from possessing a firearm including an 
+assembled or functional firearm in any unit of the National Park System 
+or the National Wildlife Refuge System if--
+            (1) the individual is not otherwise prohibited by law from 
+        possessing the firearm; and
+            (2) the possession of the firearm is in compliance with the 
+        law of the State in which the unit of the National Park System 
+        or the National Wildlife Refuge System is located.
+SEC. 513. GAO STUDY AND REPORT ON FLUENCY IN THE ENGLISH LANGUAGE 
+                        AND FINANCIAL LITERACY.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study examining--
+            (1) the relationship between fluency in the English language 
+        and financial literacy; and
+
+[[Page 123 STAT. 1766]]
+
+            (2) the extent, if any, to which individuals whose native 
+        language is a language other than English are impeded in their 
+        conduct of their financial affairs.
+
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Comptroller General of the United States shall submit a 
+report to the Committee on Banking, Housing, and Urban Affairs of the 
+Senate and the Committee on Financial Services of the House of 
+Representatives that contains a detailed summary of the findings and 
+conclusions of the study required under subsection (a).
+
+    Approved May 22, 2009.
+
+LEGISLATIVE HISTORY--H.R. 627 (S. 414):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 111-88 (Comm. on Financial Services).
+SENATE REPORTS: No. 111-16 accompanying S. 414 (Comm. on Banking, 
+Housing, and Urban Affairs).
+CONGRESSIONAL RECORD, Vol. 155 (2009):
+            Apr. 29, 30, considered and passed House.
+            May 11-14, 19, considered and passed Senate, amended.
+            May 20, House concurred in Senate amendment.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2009):
+            May 22, Presidential remarks.
+
+                                  
+

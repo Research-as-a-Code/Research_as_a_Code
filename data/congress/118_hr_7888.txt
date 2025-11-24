@@ -1,0 +1,2137 @@
+
+[118th Congress Public Law 49]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 861]]
+
+             REFORMING INTELLIGENCE AND SECURING AMERICA ACT
+
+[[Page 138 STAT. 862]]
+
+Public Law 118-49
+118th Congress
+
+                                 An Act
+
+
+ 
+         To reform the Foreign Intelligence Surveillance Act of 
+              1978. <<NOTE: Apr. 20, 2024 -  [H.R. 7888]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Reforming 
+Intelligence and Securing America Act.>> 
+SECTION 1. SHORT TITLE. <<NOTE: 50 USC 1801 note.>> 
+
+    This Act may be cited as the ``Reforming Intelligence and Securing 
+America Act''.
+SEC. 2. QUERY PROCEDURE REFORM.
+
+    (a) Strictly Limiting Federal Bureau of Investigation Personnel 
+Authorizing United States Person Queries.--Subsection (f) of section 
+702 <<NOTE: 50 USC 1881a.>>  is amended--
+            (1) by redesignating paragraph (3) as paragraph (5); and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) Restrictions imposed on federal bureau of 
+        investigation.--
+                    ``(A) Limits on authorizations of united states 
+                person queries.--
+                          ``(i) <<NOTE: Advance approval.>>  In 
+                      general.--Federal Bureau of Investigation 
+                      personnel must obtain prior approval from a 
+                      Federal Bureau of Investigation supervisor (or 
+                      employee of equivalent or greater rank) or 
+                      attorney who is authorized to access unminimized 
+                      contents or noncontents obtained through 
+                      acquisitions authorized under subsection (a) for 
+                      any query of such unminimized contents or 
+                      noncontents made using a United States person 
+                      query term.
+                          ``(ii) Exception.--A United States person 
+                      query to be conducted by the Federal Bureau of 
+                      Investigation of unminimized contents or 
+                      noncontents obtained through acquisitions 
+                      authorized under subsection (a) using a United 
+                      States person query term may be conducted without 
+                      obtaining prior approval as specified in clause 
+                      (i) only if the person conducting the United 
+                      States person query has a reasonable belief that 
+                      conducting the query could assist in mitigating or 
+                      eliminating a threat to life or serious bodily 
+                      harm.''.
+
+    (b) Prohibition on Involvement of Political Appointees in Process To 
+Approve Federal Bureau of Investigation Queries.--Subparagraph (D) of 
+section 702(f)(3), as added by subsection (d) of this section, is 
+amended by inserting after clause (v) the following:
+
+[[Page 138 STAT. 863]]
+
+                                    ``(vi) Prohibition on political 
+                                appointees within the process to approve 
+                                federal bureau of investigation 
+                                queries.--The procedures shall prohibit 
+                                any political personnel, such as those 
+                                classified by the Office of Personnel 
+                                Management as Presidential Appointment 
+                                with Senate Confirmation, Presidential 
+                                Appointment (without Senate 
+                                Confirmation), Noncareer Senior 
+                                Executive Service Appointment, or 
+                                Schedule C Excepted Appointment, from 
+                                inclusion in the Federal Bureau of 
+                                Investigation's prior approval process 
+                                under clause (ii).''.
+
+    (c) <<NOTE: 50 USC 1881a note.>>  Mandatory Audits of United States 
+Person Queries Conducted by Federal Bureau of Investigation.--
+            (1) <<NOTE: Deadline.>>  Audits required.--For each query 
+        identified by the Federal Bureau of Investigation as a United 
+        States person query against information acquired pursuant to 
+        subsection (a) of section 702 of the Foreign Intelligence 
+        Surveillance Act of 1978 (50 U.S.C. 1881a) conducted by the 
+        Federal Bureau of Investigation, not later than 180 days after 
+        the conduct of such query, the Department of Justice shall 
+        conduct an audit of such query.
+            (2) Applicability.--The requirement under paragraph (1) 
+        shall apply with respect to queries conducted on or after the 
+        date of the enactment of this Act.
+            (3) Sunset.--This section shall terminate on the earlier of 
+        the following:
+                    (A) The date that is 2 years after the date of the 
+                enactment of this Act.
+                    (B) <<NOTE: Certification.>> The date on which the 
+                Attorney General submits to the appropriate 
+                congressional committees a certification that the 
+                Federal Bureau of Investigation has implemented a 
+                process for the internal audit of all queries referred 
+                to in paragraph (1).
+            (4) Appropriate congressional committees defined.--In this 
+        section, the term ``appropriate congressional committees'' 
+        means--
+                    (A) the congressional intelligence committees, as 
+                such term is defined in subsection (b) of section 701 of 
+                the Foreign Intelligence Surveillance Act of 1978 (50 
+                U.S.C. 1881); and
+                    (B) the Committees on the Judiciary of the House of 
+                Representatives and of the Senate.
+
+    (d) Restrictions Relating to Conduct of Certain Queries by Federal 
+Bureau of Investigation.--Paragraph (3) of section 702(f), as added by 
+subsection (a)(2) of this <<NOTE: 50 USC 1881a.>> section, is amended by 
+adding after subparagraph (C), as added by subsection (f) of this 
+section, the following:
+                    ``(D) Querying procedures applicable to federal 
+                bureau of investigation.-- <<NOTE: Requirements.>> For 
+                any procedures adopted under paragraph (1) applicable to 
+                the Federal Bureau of Investigation, the Attorney 
+                General, in consultation with the Director of National 
+                Intelligence, shall include the following requirements:
+                          ``(i) Training.--A requirement that, prior to 
+                      conducting any query, personnel of the Federal 
+                      Bureau
+
+[[Page 138 STAT. 864]]
+
+                      of Investigation successfully complete training on 
+                      the querying procedures on an annual basis.
+                          ``(ii) Additional prior approvals for 
+                      sensitive queries.--A requirement that, absent 
+                      exigent circumstances, prior to conducting certain 
+                      queries, personnel of the Federal Bureau of 
+                      Investigation receive approval, at minimum, as 
+                      follows:
+                                    ``(I) Approval from the Deputy 
+                                Director of the Federal Bureau of 
+                                Investigation if the query uses a query 
+                                term reasonably believed to identify a 
+                                United States elected official, an 
+                                appointee of the President or a State 
+                                governor, a United States political 
+                                candidate, a United States political 
+                                organization or a United States person 
+                                prominent in such organization, or a 
+                                United States media organization or a 
+                                United States person who is a member of 
+                                such organization.
+                                    ``(II) Approval from an attorney of 
+                                the Federal Bureau of Investigation if 
+                                the query uses a query term reasonably 
+                                believed to identify a United States 
+                                religious organization or a United 
+                                States person who is prominent in such 
+                                organization.
+                                    ``(III) Approval from an attorney of 
+                                the Federal Bureau of Investigation if 
+                                such conduct involves batch job 
+                                technology (or successor tool).
+                          ``(iii) <<NOTE: Statement.>>  Prior written 
+                      justification.--A requirement that, prior to 
+                      conducting a query using a United States person 
+                      query term, personnel of the Federal Bureau of 
+                      Investigation provide a written statement of the 
+                      specific factual basis to support the reasonable 
+                      belief that such query meets the standards 
+                      required by the procedures adopted under paragraph 
+                      (1). <<NOTE: Records.>> For each United States 
+                      person query, the Federal Bureau of Investigation 
+                      shall keep a record of the query term, the date of 
+                      the conduct of the query, the identifier of the 
+                      personnel conducting the query, and such written 
+                      statement.
+                          ``(iv) Storage of certain contents and 
+                      noncontents.--Any system of the Federal Bureau of 
+                      Investigation that stores unminimized contents or 
+                      noncontents obtained through acquisitions 
+                      authorized under subsection (a) together with 
+                      contents or noncontents obtained through other 
+                      lawful means shall be configured in a manner 
+                      that--
+                                    ``(I) requires personnel of the 
+                                Federal Bureau of Investigation to 
+                                affirmatively elect to include such 
+                                unminimized contents or noncontents 
+                                obtained through acquisitions authorized 
+                                under subsection (a) when running a 
+                                query; or
+                                    ``(II) includes other controls 
+                                reasonably expected to prevent 
+                                inadvertent queries of such unminimized 
+                                contents or noncontents.
+                          ``(v) Waiver authority for foreign 
+                      intelligence surveillance court.--If the Foreign 
+                      Intelligence Surveillance Court finds that the 
+                      procedures adopted under paragraph (1) include 
+                      measures that are reasonably expected to result in 
+                      similar compliance outcomes
+
+[[Page 138 STAT. 865]]
+
+                      as the measures specified in clauses (i) through 
+                      (iv) of this subparagraph, the Foreign 
+                      Intelligence Surveillance Court may waive one or 
+                      more of the requirements specified in such 
+                      clauses.''.
+
+    (e) Notification for Certain Queries Conducted by Federal Bureau of 
+Investigation.--Paragraph (3) of section 702(f), as added by subsection 
+(a) of this section, <<NOTE: 50 USC 1881a.>> is amended by adding at the 
+end the following:
+                    ``(B) Notification requirement for certain fbi 
+                queries.--
+                          ``(i) Requirement.--The Director of the 
+                      Federal Bureau of Investigation shall promptly 
+                      notify appropriate congressional leadership of any 
+                      query conducted by the Federal Bureau of 
+                      Investigation using a query term that is 
+                      reasonably believed to be the name or other 
+                      personally identifying information of a member of 
+                      Congress, and shall also notify the member who is 
+                      the subject of such query.
+                          ``(ii) Appropriate congressional leadership 
+                      defined.--In this subparagraph, the term 
+                      `appropriate congressional leadership' means the 
+                      following:
+                                    ``(I) The chairs and ranking 
+                                minority members of the congressional 
+                                intelligence committees.
+                                    ``(II) The Speaker and minority 
+                                leader of the House of Representatives.
+                                    ``(III) The majority and minority 
+                                leaders of the Senate.
+                          ``(iii) National security considerations.--In 
+                      submitting a notification under clause (i), the 
+                      Director shall give due regard to the protection 
+                      of classified information, sources and methods, 
+                      and national security.
+                          ``(iv) <<NOTE: Determinations.>>  Waiver.--
+                                    ``(I) In general.--The Director may 
+                                waive a notification required under 
+                                clause (i) if the Director determines 
+                                such notification would impede an 
+                                ongoing national security or law 
+                                enforcement investigation.
+                                    ``(II) Termination.--A waiver under 
+                                subclause (I) shall terminate on the 
+                                date the Director determines the 
+                                relevant notification would not impede 
+                                the relevant national security or law 
+                                enforcement investigation or on the date 
+                                that such investigation ends, whichever 
+                                is earlier.''.
+
+    (f) Requirement for Congressional Consent Prior to Certain Federal 
+Bureau of Investigation Queries for Purpose of Defensive Briefings.--
+Paragraph (3) of section 702(f), as added by subsection (a) of this 
+section, is amended by adding after subparagraph (B), as added by 
+subsection (e) of this section, the following:
+                    ``(C) Consent required for fbi to conduct certain 
+                queries for purpose of defensive briefing.--
+                          ``(i) Consent required.--The Federal Bureau of 
+                      Investigation may not, for the exclusive purpose 
+                      of supplementing the contents of a briefing on the 
+                      defense against a counterintelligence threat to a 
+                      member of Congress, conduct a query using a query 
+                      term that
+
+[[Page 138 STAT. 866]]
+
+                      is the name or restricted personal information (as 
+                      such term is defined in section 119 of title 18, 
+                      United States Code) of that member unless--
+                                    ``(I) the member provides consent to 
+                                the use of the query term; or
+                                    ``(II) <<NOTE: Determination.>>  the 
+                                Deputy Director of the Federal Bureau of 
+                                Investigation determines that exigent 
+                                circumstances exist sufficient to 
+                                justify the conduct of such query.
+                          ``(ii) <<NOTE: Deadlines.>>  Notification.--
+                                    ``(I) Notification of consent 
+                                sought.--Not later than three business 
+                                days after submitting a request for 
+                                consent from a member of Congress under 
+                                clause (i), the Director of the Federal 
+                                Bureau of Investigation shall notify the 
+                                appropriate congressional leadership, 
+                                regardless of whether the member 
+                                provided such consent.
+                                    ``(II) Notification of exception 
+                                used.--Not later than three business 
+                                days after the conduct of a query under 
+                                clause (i) without consent on the basis 
+                                of the existence of exigent 
+                                circumstances determined under subclause 
+                                (II) of such clause, the Director of the 
+                                Federal Bureau of Investigation shall 
+                                notify the appropriate congressional 
+                                leadership.
+                          ``(iii) Rule of construction.--Nothing in this 
+                      subparagraph may be construed as--
+                                    ``(I) applying to matters outside of 
+                                the scope of the briefing on the defense 
+                                against a counterintelligence threat to 
+                                be provided or supplemented under clause 
+                                (i); or
+                                    ``(II) limiting the lawful 
+                                investigative activities of the Federal 
+                                Bureau of Investigation other than 
+                                supplementing the contents of a briefing 
+                                on the defense against a 
+                                counterintelligence threat to a member 
+                                of Congress.
+                          ``(iv) Appropriate congressional leadership 
+                      defined.--In this subparagraph, the term 
+                      `appropriate congressional leadership' means the 
+                      following:
+                                    ``(I) The chairs and ranking 
+                                minority members of the congressional 
+                                intelligence committees.
+                                    ``(II) The Speaker and minority 
+                                leader of the House of Representatives.
+                                    ``(III) The majority and minority 
+                                leaders of the Senate.''.
+SEC. 3. LIMITATION ON USE OF INFORMATION OBTAINED UNDER SECTION 
+                    702.
+
+    (a) Revoking Federal Bureau of Investigation Authority To Conduct 
+Queries Unrelated to National Security.--Subsection (f)(2) of section 
+702 <<NOTE: 50 USC 1881a.>>  is amended to read as follows:
+            ``(2) Prohibition on conduct of queries that are solely 
+        designed to find and extract evidence of a crime.--
+                    ``(A) Limits on authorizations of united states 
+                person queries.--The querying procedures adopted 
+                pursuant to paragraph (1) for the Federal Bureau of 
+                Investigation
+
+[[Page 138 STAT. 867]]
+
+                shall prohibit queries of information acquired under 
+                subsection (a) that are solely designed to find and 
+                extract evidence of criminal activity.
+                    ``(B) Exceptions.--The restriction under 
+                subparagraph (A) shall not apply with respect to a query 
+                if--
+                          ``(i) there is a reasonable belief that such 
+                      query may retrieve information that could assist 
+                      in mitigating or eliminating a threat to life or 
+                      serious bodily harm; or
+                          ``(ii) such query is necessary to identify 
+                      information that must be produced or preserved in 
+                      connection with a litigation matter or to fulfill 
+                      discovery obligations in criminal matters under 
+                      the laws of the United States or any State 
+                      thereof.''.
+
+    (b) Restriction on Certain Information Available to Federal Bureau 
+of Investigation.--Section 702 <<NOTE: 50 USC 1881a.>>  is amended by 
+adding at the end the following new subsection:
+
+    ``(n) Restriction on Certain Information Available to Federal Bureau 
+of Investigation.--
+            ``(1) Restriction.--The Federal Bureau of Investigation may 
+        not ingest unminimized information acquired under this section 
+        into its analytic repositories unless the targeted person is 
+        relevant to an existing, open, predicated full national security 
+        investigation by the Federal Bureau of Investigation.
+            ``(2) <<NOTE: Notification. Deadline.>>  Exception for 
+        exigent circumstances.--Paragraph (1) does not apply if the 
+        Director of the Federal Bureau of Investigation decides it is 
+        necessary due to exigent circumstances and provides notification 
+        within three business days to the congressional intelligence 
+        committees, the Speaker and minority leader of the House of 
+        Representatives, and the majority and minority leaders of the 
+        Senate.
+            ``(3) Exception for assistance to other agencies.--Paragraph 
+        (1) does not apply where the Federal Bureau of Investigation has 
+        agreed to provide technical, analytical, or linguistic 
+        assistance at the request of another Federal agency.''.
+SEC. 4. <<NOTE: 50 USC 1881a note.>>  TARGETING DECISIONS UNDER 
+                    SECTION 702.
+
+    (a) Sense of Congress on the Targeted Collection of United States 
+Person Information.--It is the sense of Congress that, as proscribed in 
+section 702(b)(2), section 702 of the Foreign Intelligence Surveillance 
+Act of 1978 has always prohibited, and continues to prohibit, the 
+intelligence community from targeting a United States person for 
+collection of foreign intelligence information. If the intelligence 
+community intends to target a United States person for collection of 
+foreign intelligence information under the Foreign Intelligence 
+Surveillance Act of 1978, the Government must first obtain an 
+individualized court order based upon a finding of probable cause that 
+the United States person is a foreign power, an agent of a foreign 
+power, or an officer or employee of a foreign power, in order to conduct 
+surveillance targeting that United States person.
+    (b) Annual Audit of Targeting Decisions Under Section 702.--
+            (1) Mandatory review.--Not less frequently than annually, 
+        the Department of Justice National Security Division shall 
+        review each person targeted under section 702 of the Foreign 
+        Intelligence Surveillance Act of 1978 in the preceding
+
+[[Page 138 STAT. 868]]
+
+        year to ensure that the purpose of each targeting decision is 
+        not to target a known United States person. The results of this 
+        review shall be submitted to the Department of Justice Office of 
+        the Inspector General, the congressional intelligence 
+        committees, and the Committees on the Judiciary of the House of 
+        Representatives and of the Senate, subject to a declassification 
+        review.
+            (2) <<NOTE: Reports.>>  Inspector general audit.--Not less 
+        frequently than annually, the Department of Justice Office of 
+        the Inspector General shall audit a sampling of the targeting 
+        decisions reviewed by the National Security Division under 
+        paragraph (1) and submit a report to the congressional 
+        intelligence committees and the Committees on the Judiciary of 
+        the House of Representatives and of the Senate.
+            (3) <<NOTE: Deadline.>>  Certification.--Within 180 days of 
+        enactment of this Act, and annually thereafter, each agency 
+        authorized to target non-United States persons under section 702 
+        shall certify to Congress that the purpose of each targeting 
+        decision made in the prior year was not to target a known United 
+        States person.
+            (4) Application.--The requirements under this subsection 
+        apply for any year to the extent that section 702 of the Foreign 
+        Intelligence Surveillance Act of 1978 was in effect during any 
+        portion of the previous year.
+SEC. 5. FOREIGN INTELLIGENCE SURVEILLANCE COURT REFORM.
+
+    (a) Requirement for Same Judge To Hear Extension Applications.--
+Subsection (d) of section 105 <<NOTE: 50 USC 1805.>>  is amended by 
+adding at the end the following new paragraph:
+            ``(5) An extension of an order issued under this title for 
+        surveillance targeted against a United States person, to the 
+        extent practicable and absent exigent circumstances, shall be 
+        granted or denied by the same judge who issued the original 
+        order unless the term of such judge has expired or such judge is 
+        otherwise no longer serving on the court.''.
+
+    (b) Use of Amici Curiae in Foreign Intelligence Surveillance Court 
+Proceedings.--Subsection (i) of section 103 <<NOTE: 50 USC 1803.>>  is 
+amended--
+            (1) in paragraph (2)--
+                    (A) by redesignating subparagraphs (A) and (B) as 
+                clause (i) and (ii), respectively;
+                    (B) by striking ``A court established'' and 
+                inserting the following subparagraph:
+                    ``(A) In general.--A court established'';
+                    (C) in subparagraph (A), as inserted by subparagraph 
+                (B) of this section--
+                          (i) in clause (i), as so redesignated--
+                                    (I) by striking ``appoint an 
+                                individual who has'' and inserting 
+                                ``appoint one or more individuals who 
+                                have''; and
+                                    (II) by striking ``; and'' and 
+                                inserting a semicolon;
+                          (ii) in clause (ii), as so redesignated--
+                                    (I) by striking ``appoint an 
+                                individual or organization'' and 
+                                inserting ``appoint one or more 
+                                individuals or organizations''; and
+
+[[Page 138 STAT. 869]]
+
+                                    (II) by striking the period at the 
+                                end and inserting ``; and''; and
+                          (iii) by adding at the end the following new 
+                      clause:
+                          ``(iii) <<NOTE: Appointments.>>  shall appoint 
+                      one or more individuals who have been designated 
+                      under paragraph (1) to serve as amicus curiae to 
+                      assist such court in the consideration of any 
+                      certification or procedures submitted for review 
+                      pursuant to section 702, including any amendments 
+                      to such certifications or procedures, if the court 
+                      established under subsection (a) has not appointed 
+                      an individual under clause (i) or (ii), unless the 
+                      court issues a finding that such appointment is 
+                      not appropriate or is likely to result in undue 
+                      delay.''; and
+                    (D) by adding at the end the following new 
+                subparagraphs:
+                    ``(B) Expertise.--In appointing one or more 
+                individuals under subparagraph (A)(iii), the court 
+                shall, to the maximum extent practicable, appoint an 
+                individual who possesses expertise in both privacy and 
+                civil liberties and intelligence collection.
+                    ``(C) <<NOTE: Deadlines.>>  Timing.--In the event 
+                that the court appoints one or more individuals or 
+                organizations pursuant to this paragraph to assist such 
+                court in a proceeding under section 702, notwithstanding 
+                subsection (j)(1)(B) of such section, the court shall 
+                issue an order pursuant to subsection (j)(3) of such 
+                section as expeditiously as possible consistent with 
+                subsection (k)(1) of such section, but in no event later 
+                than 60 days after the date on which such certification, 
+                procedures, or amendments are submitted for the court's 
+                review, or later than 60 days after the court has issued 
+                an order appointing one or more individuals pursuant to 
+                this paragraph, whichever is earlier, unless a judge of 
+                that court issues an order finding that extraordinary 
+                circumstances necessitate additional time for review and 
+                that such extension of time is consistent with the 
+                national security.''; and
+            (2) in paragraph (4)--
+                    (A) by striking ``paragraph (2)(A)'' and inserting 
+                ``paragraph (2)'';
+                    (B) by striking ``provide to the court, as 
+                appropriate'';
+                    (C) by redesignating subparagraphs (A) through (C) 
+                as clauses (i) through (iii), respectively;
+                    (D) by inserting before clause (i) the following new 
+                subparagraphs:
+                    ``(A) be limited to addressing the specific issues 
+                identified by the court; and
+                    ``(B) provide to the court, as appropriate--''; and
+                    (E) in subparagraph (B)(i), as redesignated, by 
+                inserting ``of United States persons'' after ``civil 
+                liberties''.
+
+    (c) Designation of Counsel To Scrutinize Applications for United 
+States Persons.--Section 103 <<NOTE: 50 USC 1803.>>  is amended by 
+adding at the end the following new subsection:
+
+    ``(l) Designation of Counsel for Certain Applications.--
+To <<NOTE: Review. Analysis.>>  assist the court in the consideration of 
+any application for an order pursuant to section 104 that targets a 
+United States person, the presiding judge designated under subsection 
+(a) shall designate one or more attorneys to review such applications, 
+and
+
+[[Page 138 STAT. 870]]
+
+provide a written analysis to the judge considering the application, 
+of--
+            ``(1) the sufficiency of the evidence used to make the 
+        probable cause determination under section 105(a)(2);
+            ``(2) any material weaknesses, flaws, or other concerns in 
+        the application; and
+            ``(3) <<NOTE: Recommenda- tions.>>  a recommendation as to 
+        the following, which the judge shall consider during a 
+        proceeding on the application in which such attorney is present, 
+        as appropriate--
+                    ``(A) that the application should be approved, 
+                denied, or modified;
+                    ``(B) that the Government should supply additional 
+                information in connection with such application; or
+                    ``(C) that any requirements or conditions should be 
+                imposed on the Government for the approval of such 
+                application.''.
+
+    (d) <<NOTE: 50 USC 1803 note.>>  Member Access to the Foreign 
+Intelligence Surveillance Court and Foreign Intelligence Surveillance 
+Court of Review.--The chair and ranking minority member of each of the 
+congressional intelligence committees, the chairs and ranking members of 
+the Committees on the Judiciary of the House of Representatives and of 
+the Senate, the Majority and Minority Leaders of the Senate, the Speaker 
+of the House of Representatives, and the Minority Leader of the House of 
+Representatives shall be entitled to attend any proceeding of the 
+Foreign Intelligence Surveillance Court or any proceeding of the Foreign 
+Intelligence Surveillance Court of 
+Review. <<NOTE: Designation. Procedures.>> Each person entitled to 
+attend a proceeding pursuant to this paragraph may designate not more 
+than 2 staff members of such committee or office to attend on their 
+behalf, pursuant to such procedures as the Attorney General, in 
+consultation with the Director of National Intelligence may establish.
+SEC. 6. <<NOTE: Effective dates.>>  APPLICATION FOR AN ORDER UNDER 
+                    THE FOREIGN INTELLIGENCE SURVEILLANCE ACT.
+
+    (a) Requirement for Sworn Statements for Factual Assertions.--
+            (1) Title i.--Subsection (a)(3) of section 104 <<NOTE: 50 
+        USC 1804.>>  is amended by striking ``a statement of'' and 
+        inserting ``a sworn statement of''.
+            (2) Title iii.--Subsection (a)(3) of section 303 <<NOTE: 50 
+        USC 1823.>>  is amended by striking ``a statement of'' and 
+        inserting ``a sworn statement of''.
+            (3) Section 703.--Subsection (b)(1)(C) of section 
+        703 <<NOTE: 50 USC 1881b.>>  is amended by striking ``a 
+        statement of'' and inserting ``a sworn statement of''.
+            (4) Section 704.--Subsection (b)(3) of section <<NOTE: 50 
+        USC 1881c.>>  704 is amended by striking ``a statement of'' and 
+        inserting ``a sworn statement of''.
+            (5) <<NOTE: 50 USC 1804 note.>>  Applicability.--The 
+        amendments made by this subsection shall apply with respect to 
+        applications made on or after the date that is 120 days after 
+        the date of enactment of this Act.
+
+    (b) Prohibition on Use of Politically Derived Information in 
+Applications for Certain Orders by the Foreign Intelligence Surveillance 
+Court.--
+            (1) Title i.--Subsection (a)(6) of section 104 <<NOTE: 50 
+        USC 1804.>>  is amended--
+
+[[Page 138 STAT. 871]]
+
+                    (A) in subparagraph (D), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (E)(ii), by striking the 
+                semicolon and inserting ``; and''; and
+                    (C) by adding after subparagraph (E) the following 
+                new subparagraph:
+                    ``(F) that none of the information included in the 
+                statement described in paragraph (3) was solely produced 
+                by, derived from information produced by, or obtained 
+                using the funds of, a political organization (as such 
+                term is defined in section 527 of the Internal Revenue 
+                Code of 1986), unless--
+                          ``(i) the political organization is clearly 
+                      identified in the body of the statement described 
+                      in paragraph (3);
+                          ``(ii) the information has been corroborated; 
+                      and
+                          ``(iii) the investigative techniques used to 
+                      corroborate the information are clearly identified 
+                      in the body of the statement described in 
+                      paragraph (3); and''.
+            (2) Title iii.--Subsection (a)(6) of section <<NOTE: 50 USC 
+        1823.>> 303 is amended--
+                    (A) in subparagraph (D), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (E), by striking the semicolon 
+                and inserting ``; and''; and
+                    (C) by inserting after subparagraph (E) the 
+                following new subparagraph:
+                    ``(F) that none of the information included in the 
+                statement described in paragraph (3) was solely produced 
+                by, derived from information produced by, or obtained 
+                using the funds of, a political organization (as such 
+                term is defined in section 527 of the Internal Revenue 
+                Code of 1986), unless--
+                          ``(i) the political organization is clearly 
+                      identified in the body of the statement described 
+                      in paragraph (3);
+                          ``(ii) the information has been corroborated; 
+                      and
+                          ``(iii) the investigative techniques used to 
+                      corroborate the information are clearly identified 
+                      in the body of the statement described in 
+                      paragraph (3); and''.
+            (3) <<NOTE: 50 USC 1804 note.>>  Applicability.--The 
+        amendments made by this subsection shall apply with respect to 
+        applications made on or after the date that is 120 days after 
+        the date of enactment of this Act.
+
+    (c) Prohibition on Use of Press Reports in Applications for Certain 
+Orders by the Foreign Intelligence Surveillance Court.--
+            (1) Title i.--Subsection (a)(6) of section <<NOTE: 50 USC 
+        1804.>> 104, as amended by this Act, is further amended by 
+        adding at the end the following new subparagraph:
+                    ``(G) that none of the information included in the 
+                statement described in paragraph (3) is attributable to 
+                or derived from the content of a media source unless the 
+                statement includes a clear identification of each author 
+                of that content, and where applicable, the publisher of 
+                that content, information to corroborate that which was 
+                derived from the media source, and an explanation of the
+
+[[Page 138 STAT. 872]]
+
+                investigative techniques used to corroborate the 
+                information;''.
+            (2) Title iii.--Subsection (a)(6) of section <<NOTE: 50 USC 
+        1823.>> 303, as amended by this Act, is further amended by 
+        adding at the end the following new subparagraph:
+                    ``(G) that none of the information included in the 
+                statement described in paragraph (3) is attributable to 
+                or derived from the content of a media source unless the 
+                statement includes a clear identification of each author 
+                of that content, where applicable, the publisher of that 
+                content, information to corroborate that which was 
+                derived from the media source, and an explanation of the 
+                investigative techniques used to corroborate the 
+                information;''.
+            (3) <<NOTE: 50 USC 1804 note.>>  Applicability.--The 
+        amendments made by this subsection shall apply with respect to 
+        applications made on or after the date that is 120 days after 
+        the date of enactment of this Act.
+
+    (d) Description of Techniques Carried Out Before Application.--
+            (1) Title i.--Subsection (a) of section <<NOTE: 50 USC 
+        1804.>> 104, as amended by this Act, is further amended--
+                    (A) in paragraph (8), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in paragraph (9), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(10) with respect to a target who is a United States 
+        person, a statement summarizing the investigative techniques 
+        carried out before making the application;''.
+            (2) <<NOTE: 50 USC 1804 note.>>  Applicability.--The 
+        amendments made by this subsection shall apply with respect to 
+        applications made on or after the date that is 120 days after 
+        the date of enactment of this Act.
+
+    (e) Requirement for Certain Justification Prior to Extension of 
+Orders.--
+            (1) Applications for extension of orders under title i.--
+        Subsection (a) of section 104, as amended by this Act, is 
+        further amended by adding at the end the following new 
+        paragraph:
+            ``(11) in the case of an application for an extension of an 
+        order under this title for a surveillance targeted against a 
+        United States person, a summary statement of the foreign 
+        intelligence information obtained pursuant to the original order 
+        (and any preceding extension thereof) as of the date of the 
+        application for the extension, or a reasonable explanation of 
+        the failure to obtain such information; and''.
+            (2) Applications for extension of orders under title iii.--
+        Subsection (a) of section 303, as amended by this Act, is 
+        further amended--
+                    (A) in paragraph (7), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in paragraph (8), by striking the period at the 
+                end and inserting a semicolon; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(9) in the case of an application for an extension of an 
+        order under this title in which the target of the physical 
+        search is a United States person, a summary statement of the 
+        foreign
+
+[[Page 138 STAT. 873]]
+
+        intelligence information obtained pursuant to the original order 
+        (and any preceding extension thereof) as of the date of the 
+        application for the extension, or a reasonable explanation of 
+        the failure to obtain such information; and''.
+            (3) <<NOTE: 50 USC 1804 note.>>  Applicability.--The 
+        amendments made by this subsection shall apply with respect to 
+        applications made on or after the date that is 120 days after 
+        the date of enactment of this Act.
+
+    (f) Requirement for Justification of Underlying Criminal Offense in 
+Certain Applications.--
+            (1) Title i.--Subsection (a)(3)(A) of section <<NOTE: 50 USC 
+        1804.>>  104 is amended by inserting before the semicolon at the 
+        end the following: ``, and, in the case of a target that is a 
+        United States person alleged to be acting as an agent of a 
+        foreign power (as described in section 101(b)(2)(B)), that a 
+        violation of the criminal statutes of the United States as 
+        referred to in section 101(b)(2)(B) has occurred or is about to 
+        occur''.
+            (2) Title iii.--Subsection (a)(3)(A) of <<NOTE: 50 USC 
+        1823.>> section 303 is amended by inserting before the semicolon 
+        at the end the following: ``, and, in the case of a target that 
+        is a United States person alleged to be acting as an agent of a 
+        foreign power (as described in section 101(b)(2)(B)), that a 
+        violation of the criminal statutes of the United States as 
+        referred to in section 101(b)(2)(B) has occurred or is about to 
+        occur''.
+            (3) <<NOTE: 50 USC 1804 note.>>  Applicability.--The 
+        amendments made by this subsection shall apply with respect to 
+        applications made on or after the date that is 120 days after 
+        the date of enactment of this Act.
+
+    (g) Modification to Duration of Approved Period Under Certain Orders 
+for Non-United States Persons.--
+            (1) Title i.--Subsection (d) of section <<NOTE: 50 USC 
+        1805.>>  105 is amended--
+                    (A) in paragraph (1)--
+                          (i) in subparagraph (A), by striking ``against 
+                      a foreign power, as defined in section 101(a), 
+                      (1), (2), or (3),'' and inserting ``against a 
+                      foreign power''; and
+                          (ii) in subparagraph (B), by striking ``120 
+                      days'' and inserting ``one year''; and
+                    (B) by striking paragraph (2); and
+                    (C) by redesignating paragraphs (3) and (4) as 
+                paragraphs (2) and (3), respectively.
+            (2) Title iii.--Subsection (d) of <<NOTE: 50 USC 
+        1824.>> section 304 is amended--
+                    (A) in paragraph (1)--
+                          (i) in subparagraph (A), by striking ``against 
+                      a foreign power, as defined in paragraph (1), (2), 
+                      or (3) of section 101(a),'' and inserting 
+                      ``against a foreign power''; and
+                          (ii) in subparagraph (B), by striking ``120 
+                      days'' and inserting ``one year''; and
+                    (B) by striking paragraph (2); and
+                    (C) by redesignating paragraph (3) as paragraph (2).
+SEC. 7. <<NOTE: Deadline.>>  PUBLIC DISCLOSURE AND 
+                    DECLASSIFICATION OF CERTAIN DOCUMENTS.
+
+    Subsection (a) of section 602 <<NOTE: 50 USC 1872.>>  is amended by 
+inserting after ``shall conduct a declassification review'' the 
+following: ``, to be concluded as soon as practicable, but not later 
+than 180 days after the commencement of such review,''.
+
+[[Page 138 STAT. 874]]
+
+SEC. 8. TRANSCRIPTIONS OF PROCEEDINGS.
+
+    (a) Requirement for Transcripts of Proceedings.--Subsection (c) of 
+section 103 <<NOTE: 50 USC 1803.>>  is amended--
+            (1) by inserting ``, and hearings shall be transcribed'' 
+        before the first period;
+            (2) by inserting ``, transcriptions of hearings,'' after 
+        ``applications made''; and
+            (3) <<NOTE: Records. Testimony. Affidavits.>>  by adding at 
+        the end the following new sentence: ``Transcriptions and any 
+        related records, including testimony and affidavits, shall be 
+        stored in a file associated with the relevant application or 
+        order.''.
+
+    (b) Requirement for Notification to Congress of Certain 
+Transcripts.--Subsection (c) of section 601 <<NOTE: 50 USC 1871.>>  is 
+amended--
+            (1) in paragraph (1), by striking ``; and'' and inserting a 
+        semicolon;
+            (2) in paragraph (2), by striking the period and inserting a 
+        semicolon; and
+            (3) by adding at the end the following new paragraphs:
+            ``(3) <<NOTE: Deadlines.>>  for any hearing, oral argument, 
+        or other proceeding before the Foreign Intelligence Surveillance 
+        Court or Foreign Intelligence Surveillance Court of Review for 
+        which a court reporter produces a transcript, not later than 45 
+        days after the government receives the final transcript or the 
+        date on which the matter of the hearing, oral argument, or other 
+        proceeding is resolved, whichever is later, a notice of the 
+        existence of such transcript. Not later than three business days 
+        after a committee referred to in subsection (a) requests to 
+        review an existing transcript, the Attorney General shall 
+        facilitate such request; and
+            ``(4) <<NOTE: Records.>>  a copy of each declassified 
+        document that has undergone review under section 602.''.
+SEC. 9. AUDIT OF FISA COMPLIANCE BY INSPECTOR GENERAL.
+
+    (a) Inspector General Report on Federal Bureau of Investigation 
+Querying Practices.--
+            (1) Report.--Not later than 545 days after the date of 
+        enactment of this Act, the Inspector General of the Department 
+        of Justice shall submit to the appropriate congressional 
+        committees a report on the querying practices of the Federal 
+        Bureau of Investigation under section 702.
+            (2) Matters included.--The report under paragraph (1) shall 
+        include, at a minimum, the following:
+                    (A) <<NOTE: Evaluation.>>  An evaluation of 
+                compliance by personnel of the Federal Bureau of 
+                Investigation with the querying procedures adopted under 
+                section 702(f), with a particular focus on compliance by 
+                such personnel with the procedures governing queries 
+                using United States person query terms.
+                    (B) <<NOTE: Analyses.>>  An analysis of each 
+                specific reform that, in the view of the Inspector 
+                General, is responsible for any identified improvement 
+                in the Federal Bureau of Investigation's record of 
+                compliance with the querying procedures, including an 
+                identification of whether such reform was--
+                          (i) required by this Act or another Act of 
+                      Congress;
+                          (ii) required by the Foreign Intelligence 
+                      Surveillance Court or the Attorney General; or
+                          (iii) voluntarily adopted by the Director of 
+                      the Federal Bureau of Investigation.
+
+[[Page 138 STAT. 875]]
+
+                    (C) <<NOTE: Assessment.>>  An assessment of the 
+                status of the implementation by the Federal Bureau of 
+                Investigation of all reforms related to querying that 
+                are required by this Act.
+                    (D) <<NOTE: Evaluation.>>  An evaluation of the 
+                effectiveness of the Office of Internal Auditing of the 
+                Federal Bureau of Investigation with respect to 
+                monitoring and improving query compliance by personnel 
+                of the Federal Bureau of Investigation.
+                    (E) <<NOTE: Recommenda- tions.>>  Recommendations to 
+                further improve compliance with querying procedures by 
+                personnel of the Federal Bureau of Investigation, 
+                particularly with respect to compliance with the 
+                procedures governing queries using United States person 
+                query terms.
+                    (F) Any other relevant matter the Inspector General 
+                determines appropriate.
+            (3) Form.--The report under paragraph (1) shall be submitted 
+        in unclassified form and may include a classified annex.
+            (4) Definitions.--In this subsection:
+                    (A) In general.--Except as provided in this 
+                subsection, terms used in this subsection have the 
+                meanings given such terms in the Foreign Intelligence 
+                Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).
+                    (B) Appropriate congressional committees.--The term 
+                ``appropriate congressional committees'' means--
+                          (i) the congressional intelligence committees, 
+                      as such term is defined in subsection (b) of 
+                      section 701 of the Foreign Intelligence 
+                      Surveillance Act of 1978 (50 U.S.C. 1881); and
+                          (ii) the Committees on the Judiciary of the 
+                      House of Representatives and the Senate.
+SEC. 10. ACCURACY AND COMPLETENESS OF APPLICATIONS.
+
+    (a) Requirement for Certifications Regarding Accuracy of 
+Applications.--
+            (1) Title i.--Subsection (a) of section 104, <<NOTE: 50 USC 
+        1804.>>  as amended by this Act, is further amended by adding at 
+        the end the following new paragraph:
+            ``(12) a certification by the applicant or declarant that, 
+        to the best knowledge of the applicant or declarant, the 
+        Attorney General or a designated attorney for the Government has 
+        been apprised of all information that might reasonably--
+                    ``(A) call into question the accuracy of the 
+                application or the reasonableness of any assessment in 
+                the application conducted by the department or agency on 
+                whose behalf the application is made; or
+                    ``(B) otherwise raise doubts with respect to the 
+                findings required under section 105(a).''.
+            (2) Title iii.--Subsection (a) of section 303 <<NOTE: 50 USC 
+        1823.>>  is amended by adding at the end the following:
+            ``(10) a certification by the applicant that, to the best 
+        knowledge of the applicant, the Attorney General or a designated 
+        attorney for the Government has been apprised of all information 
+        that might reasonably--
+                    ``(A) call into question the accuracy of the 
+                application or the reasonableness of any assessment in 
+                the application conducted by the department or agency on 
+                whose behalf the application is made; or
+
+[[Page 138 STAT. 876]]
+
+                    ``(B) otherwise raise doubts with respect to the 
+                findings required under section 304(a).''.
+            (3) Title iv.--Subsection (c) of section 402 <<NOTE: 50 USC 
+        1842.>>  is amended--
+                    (A) in paragraph (2), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in paragraph (3), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(4) a certification by the Federal Officer seeking to use 
+        the pen register or trap and trace device covered by the 
+        application that, to the best knowledge of the Federal Officer, 
+        the Attorney General or a designated attorney for the Government 
+        has been apprised of all information that might reasonably--
+                    ``(A) call into question the accuracy of the 
+                application or the reasonableness of any assessment in 
+                the application conducted by the department or agency on 
+                whose behalf the application is made; or
+                    ``(B) otherwise raise doubts with respect to the 
+                findings required under subsection (d).''.
+            (4) Title v.--Subsection (b)(2) of section 502 <<NOTE: 50 
+        USC 1862.>>  is amended--
+                    (A) in subparagraph (A), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (B), by striking the period at 
+                the end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(E) <<NOTE: Statement.>>  a statement by the 
+                applicant that, to the best knowledge of the applicant, 
+                the application fairly reflects all information that 
+                might reasonably--
+                          ``(i) call into question the accuracy of the 
+                      application or the reasonableness of any 
+                      assessment in the application conducted by the 
+                      department or agency on whose behalf the 
+                      application is made; or
+                          ``(ii) otherwise raise doubts with respect to 
+                      the findings required under subsection (c).''.
+            (5) Title vii.--
+                    (A) Section 703.--Subsection (b)(1) of section 
+                703 <<NOTE: 50 USC 1881b.>>  is amended--
+                          (i) in subparagraph (I), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (ii) in subparagraph (J), by striking the 
+                      period at the end and inserting ``; and''; and
+                          (iii) by adding at the end the following new 
+                      subparagraph:
+                    ``(K) a certification by the applicant that, to the 
+                best knowledge of the applicant, the Attorney General or 
+                a designated attorney for the Government has been 
+                apprised of all information that might reasonably--
+                          ``(i) call into question the accuracy of the 
+                      application or the reasonableness of any 
+                      assessment in the application conducted by the 
+                      department or agency on whose behalf the 
+                      application is made; or
+                          ``(ii) otherwise raise doubts with respect to 
+                      the findings required under subsection (c).''.
+                    (B) Section 704.--Subsection (b) of section 
+                704 <<NOTE: 50 USC 1881c.>>  is amended--
+
+[[Page 138 STAT. 877]]
+
+                          (i) in paragraph (6), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (ii) in paragraph (7), by striking the period 
+                      at the end and inserting ``; and''; and
+                          (iii) by adding at the end the following new 
+                      paragraph:
+            ``(8) a certification by the applicant that, to the best 
+        knowledge of the applicant, the Attorney General or a designated 
+        attorney for the Government has been apprised of all information 
+        that might reasonably--
+                    ``(A) call into question the accuracy of the 
+                application or the reasonableness of any assessment in 
+                the application conducted by the department or agency on 
+                whose behalf the application is made; or
+                    ``(B) otherwise raise doubts with respect to the 
+                findings required under subsection (c).''.
+            (6) <<NOTE: Effective date. 50 USC 1804 note.>>  
+        Applicability.--The amendments made by this subsection shall 
+        apply with respect to applications made on or after the date 
+        that is 120 days after the date of enactment of this Act.
+            (7) <<NOTE: Deadline. 50 USC 1804 note.>>  Accuracy 
+        procedures.--Not later than 180 days after the date of the 
+        enactment of this Act, the Attorney General, in consultation 
+        with the Director of the Federal Bureau of Investigation, shall 
+        issue procedures governing the review of case files, as 
+        appropriate, to ensure that applications to the Foreign 
+        Intelligence Surveillance Court under title I or III of the 
+        Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et 
+        seq.) that target United States persons are accurate and 
+        complete.
+
+    (b) Disclosure of Exculpatory Information.--
+            (1) Title i.--Subsection (a) of section 104, as amended by 
+        this Act, <<NOTE: 50 USC 1804.>>  is further amended by adding 
+        at the end the following new paragraph:
+            ``(13) non-cumulative information known to the applicant or 
+        declarant that is potentially exculpatory regarding the 
+        requested legal findings or any assessment in the 
+        application.''.
+            (2) Title iii.--Subsection (a) of section 303, as amended by 
+        this Act, <<NOTE: 50 USC 1823.>>  is further amended by adding 
+        at the end the following:
+            ``(11) non-cumulative information known to the applicant or 
+        declarant that is potentially exculpatory regarding the 
+        requested legal findings or any assessment in the 
+        application.''.
+            (3) Title iv.--Subsection (c) of section 402, as amended by 
+        this Act, <<NOTE: 50 USC 1842.>>  is further amended--
+                    (A) in paragraph (3), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in paragraph (4), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(5) non-cumulative information known to the Federal 
+        officer seeking to use the pen register or trap and trace device 
+        covered by the application, that is potentially exculpatory 
+        regarding the requested legal findings or any assessment in the 
+        application.''.
+            (4) Title v.--Subsection (b)(2) of section 502, as amended 
+        by this Act, <<NOTE: 50 USC 1862.>>  is further amended--
+
+[[Page 138 STAT. 878]]
+
+                    (A) in subparagraph (B), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (E)(ii), by striking the period 
+                at the end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(F) non-cumulative information known to the 
+                applicant that is potentially exculpatory regarding the 
+                requested legal findings or any assessment in the 
+                application.''.
+            (5) Title vii.--
+                    (A) Section 703.--Subsection (b)(1) of section 
+                703, <<NOTE: 50 USC 1881b.>>  as amended by this Act, is 
+                further amended--
+                          (i) in subparagraph (J), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (ii) in subparagraph (K), by striking the 
+                      period at the end and inserting ``; and''; and
+                          (iii) by adding at the end the following new 
+                      subparagraph:
+                    ``(L) non-cumulative information known to the 
+                applicant or declarant that is potentially exculpatory 
+                regarding the requested legal findings or any assessment 
+                in the application.''.
+                    (B) Section 704.--Subsection (b) of section 
+                704, <<NOTE: 50 USC 1881c.>>  as amended by this Act, is 
+                further amended--
+                          (i) in paragraph (7), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (ii) in paragraph (8), by striking the period 
+                      at the end and inserting ``; and''; and
+                          (iii) by adding at the end the following new 
+                      paragraph:
+            ``(9) non-cumulative information known to the applicant or 
+        declarant that is potentially exculpatory regarding the 
+        requested legal findings or any assessment in the 
+        application.''.
+            (6) <<NOTE: Effective date. 50 USC 1804 note.>>  
+        Applicability.--The amendments made by this subsection shall 
+        apply with respect to applications made on or after the date 
+        that is 120 days after the date of enactment of this Act.
+SEC. 11. ANNUAL REPORT OF THE FEDERAL BUREAU OF INVESTIGATION AND 
+                      QUARTERLY REPORT TO CONGRESS.
+
+    (a) Revocation of Statutory Reporting Exemption and Additional 
+Reporting Requirement for Federal Bureau of Investigation.--
+            (1) In general.--Section 603, as amended by this 
+        Act, <<NOTE: 50 USC 1873.>>  is further amended--
+                    (A) in subsection (b)(2)(B) by inserting ``(or 
+                combined unminimized contents and noncontents 
+                information)'' after ``unminimized contents'';
+                    (B) in subsection (d), by amending paragraph (2) to 
+                read as follows:
+            ``(2) Nonapplicability to electronic mail address and 
+        telephone numbers.--Paragraph (3)(B) of subsection (b) shall not 
+        apply to orders resulting in the acquisition of information by 
+        the Federal Bureau of Investigation that does not include 
+        electronic mail addresses or telephone numbers.''; and
+                    (C) by inserting the following new subsection:
+
+[[Page 138 STAT. 879]]
+
+    ``(f) Mandatory Reporting on Section 702 by Director of Federal 
+Bureau of Investigation.--
+            ``(1) Annual report.--The Director of the Federal Bureau of 
+        Investigation shall annually submit to the Permanent Select 
+        Committee on Intelligence and the Committee on the Judiciary of 
+        the House of Representatives and the Select Committee on 
+        Intelligence and the Committee on the Judiciary of the Senate a 
+        report that includes--
+                    ``(A) the number of United States person queries by 
+                the Federal Bureau of Investigation of unminimized 
+                contents or noncontents acquired pursuant to section 
+                702(a);
+                    ``(B) the number of approved queries using the 
+                Federal Bureau of Investigation's batch job technology, 
+                or successor tool;
+                    ``(C) the number of queries using the Federal Bureau 
+                of Investigation's batch job technology, or successor 
+                tool, conducted by the Federal Bureau of Investigation 
+                against information acquired pursuant to section 702(a) 
+                for which pre-approval was not obtained due to emergency 
+                circumstances;
+                    ``(D) the number of United States person queries 
+                conducted by the Federal Bureau of Investigation of 
+                unminimized contents or noncontents acquired pursuant to 
+                section 702(a) solely to retrieve evidence of a crime;
+                    ``(E) <<NOTE: Estimate.>>  a good faith estimate of 
+                the number of United States person query terms used by 
+                the Federal Bureau of Investigation to conduct queries 
+                of unminimized contents or noncontents acquired pursuant 
+                to section 702(a) primarily to protect the United States 
+                person who is the subject of the query; and
+                    ``(F) <<NOTE: Estimate.>>  a good faith estimate of 
+                the number of United States person query terms used by 
+                the Federal Bureau of Investigation to conduct queries 
+                of unminimized contents or noncontents acquired pursuant 
+                to section 702(a) where the United States person who is 
+                the subject of the query is a target or subject of an 
+                investigation by the Federal Bureau of Investigation.
+            ``(2) <<NOTE: Time period.>>  Public availability.--Subject 
+        to declassification review by the Attorney General and the 
+        Director of National Intelligence, each annual report submitted 
+        pursuant to paragraph (1) shall be available to the public 
+        during the first April following the calendar year covered by 
+        the report.
+            ``(3) <<NOTE: Effective date.>>  Quarterly report.--
+        Beginning on the date that is not later than 1 year after the 
+        effective date of this paragraph, the Director of the Federal 
+        Bureau of Investigation shall submit a quarterly report to the 
+        congressional intelligence committees and to the Committees on 
+        the Judiciary of the House of Representatives and of the Senate 
+        that includes the number of U.S. person queries conducted during 
+        that quarter.''.
+            (2) <<NOTE: 50 USC 1873 note.>>  Effective date.--The 
+        amendments made by this subsection shall take effect on January 
+        1, 2025.
+SEC. 12. ADVERSE PERSONNEL ACTIONS FOR FEDERAL BUREAU OF 
+                      INVESTIGATION.
+
+    (a) Annual Reporting on Disciplinary Actions by Federal Bureau of 
+Investigation.--Section 603 <<NOTE: 50 USC 1873.>>  is amended--
+            (1) by redesignating subsection (e) as subsection (g); and
+
+[[Page 138 STAT. 880]]
+
+            (2) by inserting the following new subsection:
+
+    ``(e) Mandatory Reporting by Director of Federal Bureau of 
+Investigation. <<NOTE: Time period.>> --The Director of the Federal 
+Bureau of Investigation shall annually submit to the Permanent Select 
+Committee on Intelligence and the Committee on Judiciary of the House of 
+Representatives and the Select Committee on Intelligence and the 
+Committee on the Judiciary of the Senate, a report describing the 
+accountability actions taken by the Federal Bureau of Investigation in 
+the preceding 12-month period for noncompliant querying of information 
+acquired under section 702 and any such actions taken pursuant to 
+section 103(m), to include the number of ongoing personnel 
+investigations, the outcome of any completed personnel investigations 
+and any related adverse personnel actions taken.''.
+
+    (b) <<NOTE: 50 USC 1801 note.>>  Accountability Measures for 
+Executive Leadership of Federal Bureau of Investigation.--
+            (1) Measures required.--The Director of the Federal Bureau 
+        of Investigation shall ensure that, as soon as practicable 
+        following the date of enactment of this Act, there are in effect 
+        measures for holding the executive leadership of each covered 
+        component appropriately accountable for ensuring compliance with 
+        covered procedures by the personnel of the Federal Bureau of 
+        Investigation assigned to that covered 
+        component. <<NOTE: Evaluation.>>  Such measures shall include a 
+        requirement for an annual evaluation of the executive leadership 
+        of each such covered component with respect to ensuring such 
+        compliance during the preceding year.
+            (2) Briefings required.--
+                    (A) <<NOTE: Deadline.>>  Briefings.--Not later than 
+                December 31 of each calendar year, the Federal Bureau of 
+                Investigation shall provide to the appropriate 
+                congressional committees a briefing on the 
+                implementation of paragraph (1).
+                    (B) Matters.--Each briefing under subparagraph (A) 
+                shall include, with respect to the period covered by the 
+                briefing, the following:
+                          (i) A description of specific measures under 
+                      paragraph (1) that the Federal Bureau of 
+                      Investigation has implemented.
+                          (ii) <<NOTE: Proposals. Timeline.>>  A 
+                      description of specific measures under such 
+                      subsection that the Federal Bureau of 
+                      Investigation has proposed to be implemented or 
+                      modified, and the timeline for such proposed 
+                      implementation or modification.
+                          (iii) <<NOTE: Summary. Compliance.>>  A 
+                      summary of compliance with covered procedures by 
+                      the personnel of the Federal Bureau of 
+                      Investigation, disaggregated by covered component, 
+                      and a description of any adverse personnel actions 
+                      taken against, or other actions taken to ensure 
+                      the appropriate accountability of, the executive 
+                      leadership of covered components that 
+                      underperformed with respect to ensuring such 
+                      compliance.
+            (3) Definitions.--In this subsection:
+                    (A) Appropriate congressional committees.--The term 
+                ``appropriate congressional committees'' means--
+                          (i) the congressional intelligence committees, 
+                      as such term is defined in subsection (b) of 
+                      section 701 of the Foreign Intelligence 
+                      Surveillance Act of 1978
+
+[[Page 138 STAT. 881]]
+
+                      (50 U.S.C. 1881) on the date of enactment of this 
+                      Act; and
+                          (ii) the Committees on the Judiciary of the 
+                      House of Representatives and the Senate.
+                    (B) Covered component.--The term ``covered 
+                component'' means a field office, Headquarters division, 
+                or other element of the Federal Bureau of Investigation 
+                with personnel who, for any period during which section 
+                702 is in effect, have access to the unminimized 
+                contents of communications obtained through acquisitions 
+                authorized under section 702(a).
+                    (C) Covered procedure.--The term ``covered 
+                procedure''--
+                          (i) means any procedure governing the use of 
+                      authorities under the Foreign Intelligence 
+                      Surveillance Act of 1978 (50 U.S.C. 1801 et seq.); 
+                      and
+                          (ii) includes querying procedures and 
+                      minimization procedures adopted pursuant to such 
+                      Act.
+                    (D) Executive leadership.--The term ``executive 
+                leadership'' includes--
+                          (i) with respect to a field office of the 
+                      Federal Bureau of Investigation, an Assistant 
+                      Director in Charge or Special Agent in Charge of 
+                      the field office; and
+                          (ii) with respect to a division of the Federal 
+                      Bureau of Investigation Headquarters, an Assistant 
+                      Director of the division.
+SEC. 13. CRIMINAL PENALTIES FOR VIOLATIONS OF FISA.
+
+    (a) Penalties for Unauthorized Disclosure of Application for 
+Electronic Surveillance.--
+            (1) In general.--Subsection (a) of section 109 <<NOTE: 50 
+        USC 1809.>>  is amended--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``intentionally'';
+                    (B) in paragraph (1)--
+                          (i) by inserting ``intentionally'' before 
+                      ``engages in''; and
+                          (ii) by striking ``; or'' and inserting a 
+                      semicolon;
+                    (C) in paragraph (2)--
+                          (i) by striking ``disclose'' and inserting 
+                      ``intentionally discloses''; and
+                          (ii) by striking the period at the end and 
+                      inserting ``; or''; and
+                    (D) by adding at the end the following new 
+                paragraph:
+            ``(3) knowingly and willfully communicates, furnishes, 
+        transmits, or otherwise makes available to an unauthorized 
+        person, or publishes, or uses in any manner prejudicial to the 
+        safety or interest of the United States or for the benefit of 
+        any foreign government to the detriment of the United States an 
+        application, in whole or in part, for an order for electronic 
+        surveillance under this Act.''.
+            (2) Conforming amendment.--Subsection (b) of such section is 
+        amended by striking ``under subsection (a)'' and inserting 
+        ``under paragraph (1) or (2) of subsection (a)''.
+
+    (b) Increased Criminal Penalties for Offense Under FISA.--Subsection 
+(c) of section 109 is amended to read as follows:
+
+[[Page 138 STAT. 882]]
+
+    ``(c) <<NOTE: Time period.>>  Penalty.--A person guilty of an 
+offense in this section shall be fined under title 18, imprisoned for 
+not more than 10 years, or both.''.
+
+    (c) Criminal Penalties for Unauthorized Disclosure of Certain 
+Incidentally Collected United States Person Information.--Title VII is 
+amended by inserting the following new section:
+``SEC. 709. <<NOTE: 50 USC 1881h.>>  PENALTIES FOR UNAUTHORIZED 
+                        DISCLOSURE.
+
+    ``(a) Offense.--A person is guilty of an offense under this section 
+if that person knowingly and willfully communicates, furnishes, 
+transmits, or otherwise makes available to an unauthorized person, or 
+publishes, or uses in any manner prejudicial to the safety or interest 
+of the United States or for the benefit of any foreign government to the 
+detriment of the United States any classified information that contains 
+the contents of any communication acquired under this title to which a 
+known United States person is a party.
+    ``(b) <<NOTE: Time period.>>  Penalty.--A person guilty of an 
+offense in this section shall be fined under title 18, imprisoned for 
+not more than 8 years, or both.
+
+    ``(c) Jurisdiction.--There is Federal jurisdiction over an offense 
+under this section if the person committing the offense was an officer 
+or employee of the United States at the time the offense was 
+committed.''.
+    (d) Sentencing Enhancement for False Declarations Before Foreign 
+Intelligence Surveillance Court. <<NOTE: Time period.>> --Subsection (a) 
+of section 1623 of title 18, United States Code, is amended by inserting 
+before ``, or both'' the following: ``or, if such proceedings are before 
+or ancillary to the Foreign Intelligence Surveillance Court or the 
+Foreign Intelligence Surveillance Court of Review established by section 
+103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 
+1803), imprisoned not more than ten years''.
+SEC. 14. CONTEMPT POWER OF FISC AND FISC-R.
+
+    (a) Contempts Constituting Crimes.--Section 402 of title 18, United 
+States Code, is amended by inserting after ``any district court of the 
+United States'' the following: ``, including the Foreign Intelligence 
+Surveillance Court or the Foreign Intelligence Surveillance Court of 
+Review established by section 103 of the Foreign Intelligence 
+Surveillance Act of 1978 (50 U.S.C. 1803),''.
+    (b) Annual Reporting on Contempt.--Subsection (a)(1) of section 
+603 <<NOTE: 50 USC 1873.>>  is amended--
+            (1) in subparagraph (E), by striking ``; and'' and inserting 
+        a semicolon;
+            (2) in subparagraph (F), by striking the period and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(G) the number of times the Foreign Intelligence 
+                Surveillance Court and the Foreign Intelligence 
+                Surveillance Court of Review exercised authority under 
+                chapter 21 of title 18, United States Code and a 
+                description of each use of such authority.''.
+SEC. 15. INCREASED PENALTIES FOR CIVIL ACTIONS.
+
+    (a) Increased Penalties.--Subsection (a) of section 110 <<NOTE: 50 
+USC 1810.>>  is amended to read as follows:
+
+[[Page 138 STAT. 883]]
+
+    ``(a) actual damages, but not less than liquidated damages equal to 
+the greater of--
+            ``(1) if the aggrieved person is a United States person, 
+        $10,000 or $1,000 per day for each day of violation; or
+            ``(2) for any other aggrieved person, $1,000 or $100 per day 
+        for each day of violation;''.
+
+    (b) Reporting Requirement.--Title I of the Foreign Intelligence 
+Surveillance Act of 1978 is amended by inserting after section 110 the 
+following:
+``SEC. 110A. <<NOTE: 50 USC 1810a.>>  REPORTING REQUIREMENTS FOR 
+                          CIVIL ACTIONS.
+
+    ``(a) Report to Congress.--If a court finds that a person has 
+violated this Act in a civil action under section 110, the head of the 
+agency that employs that person shall report to Congress on the 
+administrative action taken against that person pursuant to section 
+103(m) or any other provision of law.
+    ``(b) Report to Foreign Intelligence Surveillance Court.--If a court 
+finds that a person has violated this Act in a civil action under 
+section 110, the head of the agency that employs that person shall 
+report the name of such person to the Foreign Intelligence Surveillance 
+Court. <<NOTE: List.>>  The Foreign Intelligence Surveillance Court 
+shall maintain a list of each person about whom it received a report 
+under this subsection.''.
+SEC. 16. ACCOUNTABILITY STANDARDS FOR INCIDENTS RELATING TO 
+                      QUERIES CONDUCTED BY THE FEDERAL BUREAU OF 
+                      INVESTIGATION.
+
+    (a) Requirement for Adoption of Certain Minimum Accountability 
+Standards.--
+            (1) Minimum accountability standards.--Subsection (f) of 
+        section 702, as amended by this Act, <<NOTE: 50 USC 1881a.>>  is 
+        further amended by inserting after paragraph (3) the following 
+        new paragraph:
+            ``(4) Minimum accountability standards.--The Director of the 
+        Federal Bureau of Investigation shall issue minimum 
+        accountability standards that set forth escalating consequences 
+        for noncompliant querying of United States person terms within 
+        the contents of communications that were acquired under this 
+        section. Such standards shall include, at minimum, the 
+        following:
+                    ``(A) Zero tolerance for willful misconduct.
+                    ``(B) Escalating consequences for unintentional 
+                noncompliance, including the threshold for mandatory 
+                revocation of access to query information acquired under 
+                this section.
+                    ``(C) Consequences for supervisors who oversee users 
+                that engage in noncompliant queries.''.
+            (2) <<NOTE: 50 USC 1881a note.>>  Deadlines.--Not later than 
+        90 days after the date of the enactment of this Act, the 
+        Director of the Federal Bureau of Investigation shall issue the 
+        minimum accountability standards required under subsection 
+        (f)(4) of section 702 of the Foreign Intelligence Surveillance 
+        Act of 1978 (50 U.S.C. 1881a).
+            (3) Reports.--
+                    (A) Submission of standards.--Not later than 90 days 
+                after the date of the enactment of this Act, the 
+                Director of the Federal Bureau of Investigation shall 
+                submit to the appropriate congressional committees the 
+                minimum accountability standards issued under paragraph 
+                (1).
+
+[[Page 138 STAT. 884]]
+
+                    (B) <<NOTE: Time period.>>  Annual report on 
+                implementation.--Not later than December 1, 2024, and 
+                annually thereafter for 3 years, the Director of the 
+                Federal Bureau of Investigation shall submit to the 
+                appropriate congressional committees a report detailing 
+                each adverse personnel action taken pursuant to the 
+                minimum accountability standards and a description of 
+                the conduct that led to each such action.
+            (4) Definition of appropriate congressional committees.--In 
+        this section, the term ``appropriate congressional committees'' 
+        means--
+                    (A) the congressional intelligence committees, as 
+                such term is defined in subsection (b) of section 701 of 
+                the Foreign Intelligence Surveillance Act of 1978 (50 
+                U.S.C. 1881); and
+                    (B) the Committees on the Judiciary of the House of 
+                Representatives and of the Senate.
+SEC. 17. REMOVAL OR SUSPENSION OF FEDERAL OFFICERS FOR MISCONDUCT 
+                      BEFORE FOREIGN INTELLIGENCE SURVEILLANCE 
+                      COURT.
+
+    (a) Removal or Suspension of Federal Officers for Misconduct Before 
+Foreign Intelligence Surveillance Court.--Section 103, as amended by 
+this Act, <<NOTE: 50 USC 1803.>>  is further amended by adding at the 
+end the following new subsection:
+
+    ``(m) Removal or Suspension of Federal Officers for Misconduct 
+Before Courts.--An officer or employee of the United States Government 
+who engages in intentional misconduct with respect to proceedings before 
+the Foreign Intelligence Surveillance Court or the Foreign Intelligence 
+Surveillance Court of Review shall be subject to appropriate adverse 
+actions, including, at minimum, suspension without pay or removal, up to 
+and including termination.''.
+SEC. 18. REPORTS AND OTHER MATTERS.
+
+    (a) <<NOTE: 50 USC 1881a note.>>  Notification to Congress of 
+Certain Unauthorized Disclosures.--If the Director of National 
+Intelligence becomes aware of an actual or potential significant 
+unauthorized disclosure or compromise of information acquired under 
+section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 
+U.S.C. 1881a), as soon as practicable, but not later than 7 days after 
+the date on which the Director becomes so aware, the Director shall 
+notify the congressional intelligence committees of such actual or 
+potential disclosure or compromise.
+
+    (b) Report on Technology Needed for Near-real Time Monitoring of 
+Federal Bureau of Investigation Compliance.--
+            (1) Study required.--The Director of National Intelligence, 
+        in coordination with the National Security Agency and in 
+        consultation with the Federal Bureau of Investigation, shall 
+        conduct a study on technological enhancements that would enable 
+        the Federal Bureau of Investigation to conduct near-real time 
+        monitoring of compliance in any system of the Federal Bureau of 
+        Investigation that stores information acquired under section 
+        702. <<NOTE: Assessment. Time period.>>  Such study shall 
+        consider the potential cost and assess the feasibility of 
+        implementation within a period of one year of each technological 
+        enhancement under consideration.
+            (2) Submission.--Not later than one year after the date of 
+        enactment of this Act, the Director of National Intelligence
+
+[[Page 138 STAT. 885]]
+
+        shall submit the results of the study to the appropriate 
+        congressional committees.
+            (3) Definitions.--In this section the term ``appropriate 
+        congressional committees'' means--
+                    (A) the congressional intelligence committees, as 
+                such term is defined in subsection (b) of section 701 of 
+                the Foreign Intelligence Surveillance Act of 1978 (50 
+                U.S.C. 1881); and
+                    (B) the Committees on the Judiciary of the House of 
+                Representatives and the Senate.
+
+    (c) FISA Reform Commission.--
+            (1) Establishment.--
+                    (A) In general.--There is established a commission 
+                to consider ongoing reforms to the Foreign Intelligence 
+                Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).
+                    (B) Designation.--The commission established under 
+                subparagraph (A) shall be known as the ``FISA Reform 
+                Commission'' (in this section the ``Commission'').
+            (2) Membership.--
+                    (A) Composition.--
+                          (i) In general.--Subject to clause (ii), the 
+                      Commission shall be composed of the following 
+                      members:
+                                    (I) The Principal Deputy Director of 
+                                National Intelligence.
+                                    (II) The Deputy Attorney General.
+                                    (III) The Deputy Secretary of 
+                                Defense.
+                                    (IV) The Deputy Secretary of State.
+                                    (V) The Chair of the Privacy and 
+                                Civil Liberties Oversight Board.
+                                    (VI) <<NOTE: Appointments.>>  Three 
+                                members appointed by the majority leader 
+                                of the Senate, in consultation with the 
+                                Chairman of the Select Committee on 
+                                Intelligence of the Senate and the 
+                                Chairman of the Committee on the 
+                                Judiciary of the Senate, 1 of whom shall 
+                                be a member of the Senate and 2 of whom 
+                                shall not be.
+                                    (VII) <<NOTE: Appointments.>>  Three 
+                                members appointed by the minority leader 
+                                of the Senate, in consultation with the 
+                                Vice Chairman of the Select Committee on 
+                                Intelligence of the Senate and the 
+                                Ranking Member of the Committee on the 
+                                Judiciary of the Senate, 1 of whom shall 
+                                be a member of the Senate and 2 of whom 
+                                shall not be.
+                                    (VIII) <<NOTE: Appointments.>>  
+                                Three members appointed by the Speaker 
+                                of the House of Representatives, in 
+                                consultation with the Chairman of the 
+                                Permanent Select Committee on 
+                                Intelligence of the House of 
+                                Representatives and the Chairman of the 
+                                Committee on the Judiciary of the House 
+                                of Representatives, 1 of whom shall be a 
+                                member of the House of Representatives 
+                                and 2 of whom shall not be.
+                                    (IX) <<NOTE: Appointments.>>  Three 
+                                members appointed by the minority leader 
+                                of the House of Representatives, in 
+                                consultation with the Ranking Member of 
+                                the Permanent Select Committee on 
+                                Intelligence of the House of 
+                                Representatives and the Ranking Member 
+                                of the
+
+[[Page 138 STAT. 886]]
+
+                                Committee on the Judiciary of the House 
+                                of Representatives, 1 of whom shall be a 
+                                member of the House of Representatives 
+                                and 2 of whom shall not be.
+                          (ii) Nonmembers of congress.--
+                                    (I) Qualifications.--The members of 
+                                the Commission who are not members of 
+                                Congress and who are appointed under 
+                                subclauses (VI) through (IX) of clause 
+                                (i) shall be individuals who are 
+                                nationally recognized for expertise, 
+                                knowledge, or experience in--
+                                            (aa) use of intelligence 
+                                        information by the intelligence 
+                                        community (as defined in section 
+                                        3 of the National Security Act 
+                                        of 1947 (50 U.S.C. 3003)), 
+                                        national policymakers, and 
+                                        military leaders;
+                                            (bb) the implementation, 
+                                        funding, or oversight of the 
+                                        national security laws of the 
+                                        United States;
+                                            (cc) privacy, civil 
+                                        liberties, and transparency; or
+                                            (dd) laws and policies 
+                                        governing methods of electronic 
+                                        surveillance.
+                                    (II) Conflicts of interest.--An 
+                                official who appoints members of the 
+                                Commission may not appoint an individual 
+                                as a member of the Commission if such 
+                                individual possesses any personal or 
+                                financial interest in the discharge of 
+                                any of the duties of the Commission.
+                                    (III) Security clearances.--All 
+                                members of the Commission described in 
+                                subclause (I) shall possess an 
+                                appropriate security clearance in 
+                                accordance with applicable provisions of 
+                                law concerning the handling of 
+                                classified information.
+                    (B) Co-chairs.--
+                          (i) In general.--The Commission shall have 2 
+                      co-chairs, selected from among the members of the 
+                      Commission.
+                          (ii) Agreement.--The individuals who serve as 
+                      the co-chairs of the Commission shall be agreed 
+                      upon by the members of the Commission.
+            (3) <<NOTE: Deadlines.>>  Appointment; initial meeting.--
+                    (A) Appointment.--Members of the Commission shall be 
+                appointed not later than 90 days after the date of the 
+                enactment of this Act.
+                    (B) Initial meeting.--The Commission shall hold its 
+                initial meeting on or before the date that is 180 days 
+                after the date of the enactment of this Act.
+            (4) Meetings; quorum; vacancies.--
+                    (A) In general.--After its initial meeting, the 
+                Commission shall meet upon the call of the co-chairs of 
+                the Commission.
+                    (B) Quorum.--Nine members of the Commission shall 
+                constitute a quorum for purposes of conducting business, 
+                except that 2 members of the Commission shall constitute 
+                a quorum for purposes of receiving testimony.
+
+[[Page 138 STAT. 887]]
+
+                    (C) Vacancies.--Any vacancy in the Commission shall 
+                not affect its powers, but shall be filled in the same 
+                manner in which the original appointment was made.
+                    (D) <<NOTE: Time period.>>  Quorum with vacancies.--
+                If vacancies in the Commission occur on any day after 90 
+                days after the date of the enactment of this Act, a 
+                quorum shall consist of a majority of the members of the 
+                Commission as of such day.
+            (5) Duties.--The duties of the Commission are as follows:
+                    (A) To review the effectiveness of the current 
+                implementation of the Foreign Intelligence Surveillance 
+                Act of 1978 (50 U.S.C. 1801 et seq.).
+                    (B) To develop recommendations for legislative 
+                action to reform the Foreign Intelligence Surveillance 
+                Act of 1978 (50 U.S.C. 1801 et seq.) that provide for 
+                the effective conduct of United States intelligence 
+                activities and the protection of privacy and civil 
+                liberties.
+            (6) Powers of commission.--
+                    (A) In general.--
+                          (i) <<NOTE: Testimony. Evidence.>>  
+                      Hearings.--The Commission or, on the authorization 
+                      of the Commission, any subcommittee or member 
+                      thereof, may, for the purpose of carrying out this 
+                      section--
+                                    (I) hold such hearings and sit and 
+                                act at such times and places, take such 
+                                testimony, receive such evidence, and 
+                                administer such oaths; and
+                                    
+                                (II) <<NOTE: Requirements. Subpoenas. Rec
+                                ords.>>  require, by subpoena or 
+                                otherwise, the attendance and testimony 
+                                of such witnesses and the production of 
+                                such books, records, correspondence, 
+                                memoranda, papers, and documents, as the 
+                                Commission or such designated 
+                                subcommittee or designated member 
+                                considers necessary.
+                          (ii) Issuance and enforcement of subpoenas.--
+                                    (I) Issuance.--A subpoena issued 
+                                under clause (i)(II) shall--
+                                            (aa) bear the signature of 
+                                        the co-chairs of the Commission; 
+                                        and
+                                            (bb) be served by a person 
+                                        or class of persons designated 
+                                        by the co-chairs for that 
+                                        purpose.
+                                    
+                                (II) <<NOTE: Applicability. Compliance.>> 
+                                 Enforcement.--The provisions of 
+                                sections 102 through 104 of the Revised 
+                                Statutes of the United States (2 U.S.C. 
+                                192-194) shall apply in the case of any 
+                                failure of a witness to comply with any 
+                                subpoena or to testify when summoned 
+                                under authority of this paragraph.
+                    (B) Information from federal agencies.--
+                          (i) In general.--The Commission may secure 
+                      directly from any executive department, agency, 
+                      bureau, board, commission, office, independent 
+                      establishment, or instrumentality of the Federal 
+                      Government information, suggestions, estimates, 
+                      and statistics for the purposes of this section.
+                          (ii) Furnishing information.--Each such 
+                      department, agency, bureau, board, commission, 
+                      office, establishment, or instrumentality 
+                      described in clause (i) shall, to the extent 
+                      authorized by law, furnish such
+
+[[Page 138 STAT. 888]]
+
+                      information, suggestions, estimates, and 
+                      statistics directly to the Commission, upon 
+                      request of the co-chairs of the Commission.
+                          (iii) Protection of classified information.--
+                      The Commission shall handle and protect all 
+                      classified information provided to it under this 
+                      section in accordance with applicable provisions 
+                      of law.
+                    (C) Assistance from federal agencies.--
+                          (i) Director of national intelligence.--The 
+                      Director of National Intelligence shall provide to 
+                      the Commission, on a nonreimbursable basis, such 
+                      administrative services, funds, staff, facilities, 
+                      and other support services as are necessary for 
+                      the performance of the duties of the Commission 
+                      under this section.
+                          (ii) Attorney general.--The Attorney General 
+                      may provide the Commission, on a nonreimbursable 
+                      basis, with such administrative services, staff, 
+                      and other support services as the Commission may 
+                      request.
+                          (iii) Other departments and agencies.--In 
+                      addition to the assistance set forth in clauses 
+                      (i) and (ii), other departments and agencies of 
+                      the United States may provide the Commission such 
+                      services, funds, facilities, staff, and other 
+                      support as such departments and agencies consider 
+                      advisable and as may be authorized by law.
+                          
+                      (iv) <<NOTE: Determination. Briefings. Analysis.>> 
+                       Cooperation.--The Commission shall receive the 
+                      full and timely cooperation of any official, 
+                      department, or agency of the Federal Government 
+                      whose assistance is necessary, as jointly 
+                      determined by the co-chairs selected under 
+                      paragraph (2)(B), for the fulfillment of the 
+                      duties of the Commission, including the provision 
+                      of full and current briefings and analyses.
+                    (D) Postal services.--The Commission may use the 
+                United States postal services in the same manner and 
+                under the same conditions as the departments and 
+                agencies of the Federal Governments.
+                    (E) Gifts.--No member or staff of the Commission may 
+                receive a gift or benefit by reason of the service of 
+                such member or staff to the Commission.
+            (7) Staff of commission.--
+                    (A) Appointment and compensation of staff.--The co-
+                chairs of the Commission, in accordance with rules 
+                agreed upon by the Commission, shall appoint and fix the 
+                compensation of a staff director and such other 
+                personnel as may be necessary to enable the Commission 
+                to carry out its duties, without regard to the 
+                provisions of title 5, United States Code, governing 
+                appointments in the competitive service, and without 
+                regard to the provisions of chapter 51 and subchapter 
+                III of chapter 53 of such title relating to 
+                classification and General Schedule pay rates, except 
+                that no rate of pay fixed under this subsection may 
+                exceed the equivalent of that payable to a person 
+                occupying a position at level V of the Executive 
+                Schedule under section 5316 of such title.
+                    (B) Detail of government employees.--Any Federal 
+                Government employee may be detailed to the Commission 
+                without reimbursement from the Commission, and such
+
+[[Page 138 STAT. 889]]
+
+                detailee shall retain the rights, status, and privileges 
+                of his or her regular employment without interruption.
+                    (C) Security clearances.--All staff of the 
+                Commission and all experts and consultants employed by 
+                the Commission shall possess a security clearance in 
+                accordance with applicable provisions of law concerning 
+                the handling of classified information.
+            (8) Compensation and travel expenses.--
+                    (A) Compensation of members.--
+                          (i) In general.--Except as provided in 
+                      subparagraph (B), each member of the Commission 
+                      may be compensated at not to exceed the daily 
+                      equivalent of the annual rate of basic pay in 
+                      effect for a position at level IV of the Executive 
+                      Schedule under section 5315 of title 5, United 
+                      States Code, for each day during which that member 
+                      is engaged in the actual performance of the duties 
+                      of the Commission under this title.
+                          (ii) Exception.--Members of the Commission who 
+                      are officers or employees of the United States or 
+                      Members of Congress shall receive no additional 
+                      pay by reason of their service on the Commission.
+                    (B) Travel expenses.--While away from their homes or 
+                regular places of business in the performance of 
+                services for the Commission, a member of the Commission 
+                may be allowed travel expenses, including per diem in 
+                lieu of subsistence, in the same manner as persons 
+                employed intermittently in the Government service are 
+                allowed expenses under section 5703 of title 5, United 
+                States Code.
+            (9) Treatment of information relating to national 
+        security.--
+                    (A) In general.--The Director of National 
+                Intelligence shall assume responsibility for the 
+                handling and disposition of any information related to 
+                the national security of the United States that is 
+                received, considered, or used by the Commission under 
+                this title.
+                    (B) Information provided by congressional 
+                intelligence committees. <<NOTE: Approval.>> --Any 
+                information related to the national security of the 
+                United States that is provided to the Commission by a 
+                congressional intelligence committee may not be further 
+                provided or released without the approval of the 
+                chairman of such committee.
+                    (C) <<NOTE: President.>>  Access after termination 
+                of commission.--Notwithstanding any other provision of 
+                law, after the termination of the Commission under 
+                paragraph (10)(B), only the members and designated staff 
+                of the congressional intelligence committees, the 
+                Director of National Intelligence (and the designees of 
+                the Director), and such other officials of the executive 
+                branch of the Federal Government as the President may 
+                designate shall have access to information related to 
+                the national security of the United States that is 
+                received, considered, or used by the Commission.
+            (10) Final report; termination.--
+                    (A) Final report.--
+                          (i) Definitions.--In this subparagraph:
+
+[[Page 138 STAT. 890]]
+
+                                    (I) Appropriate committees of 
+                                congress.--The term ``appropriate 
+                                committees of Congress'' means--
+                                            (aa) the congressional 
+                                        intelligence committees;
+                                            (bb) the Committee on the 
+                                        Judiciary of the Senate; and
+                                            (cc) the Committee on the 
+                                        Judiciary of the House of 
+                                        Representatives.
+                                    (II) Congressional leadership.--The 
+                                term ``congressional leadership'' 
+                                means--
+                                            (aa) the majority leader of 
+                                        the Senate;
+                                            (bb) the minority leader of 
+                                        the Senate;
+                                            (cc) the Speaker of the 
+                                        House of Representatives; and
+                                            (dd) the minority leader of 
+                                        the House of Representatives.
+                          (ii) Final report required.--Not later than 5 
+                      years from the date of enactment of this Act, the 
+                      Commission shall submit to the appropriate 
+                      committees of Congress, congressional leadership, 
+                      the Director of National Intelligence, and the 
+                      Attorney General a final report on the findings of 
+                      the Commission.
+                          (iii) Form of final report.--The final report 
+                      submitted pursuant to clause (ii) shall be in 
+                      unclassified form but may include a classified 
+                      annex.
+                          (iv) Assessments of final report.--Not later 
+                      than 1 year after receipt of the final report 
+                      under clause (ii), the Director of National 
+                      Intelligence and the Attorney General shall each 
+                      submit to the appropriate committees of Congress 
+                      and congressional leadership an assessment of such 
+                      report.
+                    (B) Termination.--
+                          (i) In general.--The Commission, and all the 
+                      authorities of this section, shall terminate on 
+                      the date that is 2 years after the date on which 
+                      the final report is submitted under subparagraph 
+                      (A)(ii).
+                          (ii) <<NOTE: Testimony.>>  Wind-down period.--
+                      The Commission may use the 2-year period referred 
+                      to in clause (i) for the purposes of concluding 
+                      its activities, including providing testimony to 
+                      Congress concerning the final report referred to 
+                      in that paragraph and disseminating the report.
+            (11) Inapplicability of certain administrative provisions.--
+                    (A) Federal advisory committee act.--The provisions 
+                of the Federal Advisory Committee Act (5 U.S.C. App.) 
+                shall not apply to the activities of the Commission 
+                under this section.
+                    (B) Freedom of information act.--The provisions of 
+                section 552 of title 5, United States Code (commonly 
+                referred to as the ``Freedom of Information Act''), 
+                shall not apply to the activities, records, and 
+                proceedings of the Commission under this section.
+            (12) Funding.--
+                    (A) Authorization of appropriations.--There is 
+                authorized to be appropriated funds to the extent and
+
+[[Page 138 STAT. 891]]
+
+                in such amounts as specifically provided in advance in 
+                appropriations acts for the purposes detailed in this 
+                subsection.
+                    (B) Availability in general.--Subject to 
+                subparagraph (A), the Director of National Intelligence 
+                shall make available to the Commission such amounts as 
+                the Commission may require for purposes of the 
+                activities of the Commission under this section.
+                    (C) Duration of availability.--Amounts made 
+                available to the Commission under subparagraph (B) shall 
+                remain available until expended or upon termination 
+                under paragraph (10)(B), whichever occurs first.
+            (13) Congressional intelligence committees defined.--In this 
+        subsection, the term ``congressional intelligence committees'' 
+        means--
+                    (A) the Select Committee on Intelligence of the 
+                Senate; and
+                    (B) the Permanent Select Committee on Intelligence 
+                of the House of Representatives.
+
+    (d) Severability; Applicability Date.--
+            (1) <<NOTE: 50 USC 1801 note.>>  Severability.--If any 
+        provision of this Act, any amendment made by this Act, or the 
+        application thereof to any person or circumstances is held 
+        invalid, the validity of the remainder of the Act, of any such 
+        amendments, and of the application of such provisions to other 
+        persons and circumstances shall not be affected thereby.
+            (2) <<NOTE: 50 USC 1881a note.>>  Applicability date.--
+        Subsection (f) of section 702 of the Foreign Intelligence 
+        Surveillance Act of 1978 (50 U.S.C. 1881a), as amended by this 
+        Act, shall apply with respect to certifications submitted under 
+        subsection (h) of such section to the Foreign Intelligence 
+        Surveillance Court after January 1, 2024.
+SEC. 19. EXTENSION OF CERTAIN AUTHORITIES.
+
+    (a) FISA Amendments Act of 2008.--Section 403(b) of the FISA 
+Amendments Act of 2008 (Public Law 110-261; 122 Stat. 2474) is amended--
+            (1) <<NOTE: 50 USC 1881 and note, 1881a-1881h.>>  in 
+        paragraph (1)--
+                    (A) by striking ``April 19, 2024'' and inserting 
+                ``two years after the date of enactment of the Reforming 
+                Intelligence and Securing America Act''; and
+                    (B) by inserting ``and the Reforming Intelligence 
+                and Securing America Act'' after ``the FISA Amendments 
+                Reauthorization Act of 2017''; and
+            (2) <<NOTE: 18 USC 2511 note.>>  in paragraph (2) in the 
+        matter preceding subparagraph (A), by striking ``April 19, 
+        2024'' and inserting ``two years after the date of enactment of 
+        the Reforming Intelligence and Securing America Act''.
+
+    (b) Conforming Amendments.--Section 404(b) of the FISA Amendments 
+Act of 2008 (Public Law 110-261; 122 Stat. <<NOTE: 50 USC 1801 note.>>  
+2476), is amended--
+            (1) in paragraph (1)--
+                    (A) in the heading, by striking ``April 19, 2024'' 
+                and inserting ``Two Years After the Date of Enactment of 
+                the Reforming Intelligence and Securing America Act''; 
+                and
+
+[[Page 138 STAT. 892]]
+
+                    (B) by inserting ``and the Reforming Intelligence 
+                and Securing America Act'' after ``the FISA Amendments 
+                Reauthorization Act of 2017'';
+            (2) in paragraph (2), by inserting ``and the Reforming 
+        Intelligence and Securing America Act'' after ``the FISA 
+        Amendments Reauthorization Act of 2017''; and
+            (3) in paragraph (4), by inserting ``and the Reforming 
+        Intelligence and Securing America Act'' after ``the FISA 
+        Amendments Reauthorization Act of 2017'' in each place it 
+        appears.
+SEC. 20. AMENDMENTS TO THE FOREIGN INTELLIGENCE SURVEILLANCE ACT 
+                      OF 1978.
+
+    (a) References to Foreign Intelligence Surveillance Act of 1978.--
+Except as otherwise expressly provided, whenever in this Act an 
+amendment or repeal is expressed in terms of an amendment to, or a 
+repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of the Foreign 
+Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).
+    (b) Effect of Certain Amendments on Conforming Changes to Tables of 
+Contents.--When an amendment made by this Act adds a section or larger 
+organizational unit to the Foreign Intelligence Surveillance Act of 1978 
+(50 U.S.C. 1801 et seq.), repeals or transfers a section or larger 
+organizational unit in such Act, or amends the designation or heading of 
+a section or larger organizational unit in such Act, that amendment also 
+shall have the effect of amending the table of contents in such Act to 
+alter the table to conform to the changes made by the amendment.
+SEC. 21. <<NOTE: Time period. Deadline. 50 USC 1881a note.>>  
+                      REQUIREMENT FOR RECERTIFICATION.
+
+    Notwithstanding any orders or authorizations issued or made under 
+section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 
+U.S.C. 1881a) during the period beginning on January 1, 2024 and ending 
+on April 30, 2024, no later than 90 days after the date of enactment of 
+this Act, the Attorney General and the Director of National Intelligence 
+shall be required to seek new orders consistent with the provisions of 
+the Foreign Intelligence Surveillance Act of 1978, as amended by this 
+Act, and thereafter to issue new authorizations consistent with such new 
+orders.
+SEC. 22. REPEAL OF AUTHORITY FOR THE RESUMPTION OF ABOUTS 
+                      COLLECTION.
+
+    (a) In General.--Section 702(b)(5) of the Foreign Intelligence 
+Surveillance Act of 1978 (50 U.S.C. 1881a(b)(5)) is amended by striking 
+``, except as provided under section 103(b) of the FISA Amendments 
+Reauthorization Act of 2017''.
+    (b) Conforming Amendments.--
+            (1) Foreign intelligence surveillance act of 1978.--Section 
+        702(m) of the Foreign Intelligence Surveillance Act of 1978 (50 
+        U.S.C. 1881a(m)) is amended--
+                    (A) in the subsection heading, by striking 
+                ``Reviews, and Reporting'' and inserting ``and 
+                Reviews''; and
+                    (B) by striking paragraph (4).
+            (2) FISA amendments reauthorization act of 2017.--Section 
+        103 of the FISA Amendments Reauthorization Act of 2017 (Public 
+        Law 115-118; 50 U.S.C. 1881a note) is amended--
+                    (A) <<NOTE: Repeal.>>  by striking subsection (b); 
+                and
+                    (B) <<NOTE: 50 USC 1881a.>>  by striking ``(a) In 
+                General.--''.
+
+[[Page 138 STAT. 893]]
+
+SEC. 23. INCLUSION OF COUNTERNARCOTICS IN DEFINITION OF FOREIGN 
+                      INTELLIGENCE.
+
+    Section 101(e)(1) <<NOTE: 50 USC 1801.>>  is amended--
+            (1) in subparagraph (B), by striking ``; or'' and inserting 
+        a semicolon; and
+            (2) by adding at the end the following new subparagraph:
+                    ``(D) international production, distribution, or 
+                financing of illicit synthetic drugs, opioids, cocaine, 
+                or other drugs driving overdose deaths, or precursors of 
+                any aforementioned; or''.
+SEC. 24. VETTING OF NON-UNITED STATES PERSONS.
+
+    Subsection (f) of section 702, as amended by this Act, <<NOTE: 50 
+USC 1881a.>>  is further amended by adding at the end the following new 
+paragraph:
+            ``(6) Vetting of non-united states persons.--For any 
+        procedures for one or more agencies adopted under paragraph 
+        (1)(A), the Attorney General, in consultation with the Director 
+        of National Intelligence, shall ensure that the procedures 
+        enable the vetting of all non-United States persons who are 
+        being processed for travel to the United States using terms that 
+        do not qualify as United States person query terms under this 
+        Act.''.
+SEC. 25. DEFINITION OF ELECTRONIC COMMUNICATION SERVICE PROVIDER.
+
+    (a) Section 701(b)(4) <<NOTE: 50 USC 1881.>>  is amended--
+            (1) by redesignating subparagraph (E) as subparagraph (F);
+            (2) in subparagraph (D), by striking ``; or'' and inserting 
+        a semicolon;
+            (3) by inserting after subparagraph (D) the following new 
+        subparagraph:
+                    ``(E) any other service provider who has access to 
+                equipment that is being or may be used to transmit or 
+                store wire or electronic communications, but not 
+                including any entity that serves primarily as--
+                          ``(i) a public accommodation facility, as that 
+                      term is defined in section 501(4);
+                          ``(ii) a dwelling, as that term is defined in 
+                      section 802 of the Fair Housing Act (42 U.S.C. 
+                      3602);
+                          ``(iii) a community facility, as that term is 
+                      defined in section 315 of the Defense Housing and 
+                      Community Facilities and Services Act of 1951 (42 
+                      U.S.C. 1592n); or
+                          ``(iv) a food service establishment, as that 
+                      term is defined in section 281 of the Agricultural 
+                      Marketing Act of 1946 (7 U.S.C. 1638); or'';
+            (4) in subparagraph (F), as redesignated--
+                    (A) by inserting ``custodian,'' after ``employee,'';
+                    (B) by striking ``or'' before ``(D)''; and
+                    (C) by inserting ``, or (E)'' after ``(D)''.
+
+    (b) Paragraph (6) of section 801 of the Foreign Intelligence 
+Surveillance Act of 1978 <<NOTE: 50 USC 1885.>>  is amended--
+            (1) by redesignating subparagraphs (E) and (F) as 
+        subparagraphs (F) and (G), respectively;
+            (2) in subparagraph (F), as redesignated, by striking ``; 
+        or'' and inserting a semicolon;
+
+[[Page 138 STAT. 894]]
+
+            (3) by inserting after subparagraph (D) the following new 
+        subparagraph:
+                    ``(E) any other service provider who has access to 
+                equipment that is being or may be used to transmit or 
+                store wire or electronic communications, but not 
+                including any entity that serves primarily as--
+                          ``(i) a public accommodation facility, as that 
+                      term is defined in section 501(4);
+                          ``(ii) a dwelling, as that term is defined in 
+                      section 802 of the Fair Housing Act (42 U.S.C. 
+                      3602);
+                          ``(iii) a community facility, as that term is 
+                      defined in section 315 of the Defense Housing and 
+                      Community Facilities and Services Act of 1951 (42 
+                      U.S.C. 1592n); or
+                          ``(iv) a food service establishment, as that 
+                      term is defined in section 281 of the Agricultural 
+                      Marketing Act of 1946 (7 U.S.C. 1638);''; and
+            (4) in subparagraph (G), as redesignated--
+                    (A) by inserting ``custodian,'' after ``employee,'';
+                    (B) by striking ``or'' before ``(E)''; and
+                    (C) by inserting ``, or (F)'' after ``(E)''.
+
+    Approved April 20, 2024.
+
+LEGISLATIVE HISTORY--H.R. 7888:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 170 (2024):
+            Apr. 12, considered and passed House.
+            Apr. 19, considered and passed Senate.
+
+                                  
+

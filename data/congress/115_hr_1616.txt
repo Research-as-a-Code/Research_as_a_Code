@@ -1,0 +1,251 @@
+
+[115th Congress Public Law 76]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 1245]]
+
+     STRENGTHENING STATE AND LOCAL CYBER CRIME FIGHTING ACT OF 2017
+
+[[Page 131 STAT. 1246]]
+
+Public Law 115-76
+115th Congress
+
+                                 An Act
+
+
+ 
+  To amend the Homeland Security Act of 2002 to authorize the National 
+ Computer Forensics Institute, and for other purposes. <<NOTE: Nov. 2, 
+                         2017 -  [H.R. 1616]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Strengthening 
+State and Local Cyber Crime Fighting Act of 2017. 34 USC 10101 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Strengthening State and Local Cyber 
+Crime Fighting Act of 2017''.
+SEC. 2. AUTHORIZATION OF THE NATIONAL COMPUTER FORENSICS INSTITUTE 
+                    OF THE DEPARTMENT OF HOMELAND SECURITY.
+
+    (a) In General.--Subtitle C of title VIII of the Homeland Security 
+Act of 2002 (6 U.S.C. 381 et seq.) is amended by adding at the end the 
+following new section:
+``SEC. 822. <<NOTE: Establishment. 6 USC 383.>> NATIONAL COMPUTER 
+                        FORENSICS INSTITUTE.
+
+    ``(a) In General.--There is authorized for fiscal years 2017 through 
+2022 within the United States Secret Service a National Computer 
+Forensics Institute (in this section referred to as the `Institute'). 
+The Institute shall disseminate information related to the investigation 
+and prevention of cyber and electronic crime and related threats, and 
+educate, train, and equip State, local, tribal, and territorial law 
+enforcement officers, prosecutors, and judges.
+    ``(b) Functions.--The functions of the Institute shall include the 
+following:
+            ``(1) Educating State, local, tribal, and territorial law 
+        enforcement officers, prosecutors, and judges on current--
+                    ``(A) cyber and electronic crimes and related 
+                threats;
+                    ``(B) methods for investigating cyber and electronic 
+                crime and related threats and conducting computer and 
+                mobile device forensic examinations; and
+                    ``(C) prosecutorial and judicial challenges related 
+                to cyber and electronic crime and related threats, and 
+                computer and mobile device forensic examinations.
+            ``(2) Training State, local, tribal, and territorial law 
+        enforcement officers to--
+                    ``(A) conduct cyber and electronic crime and related 
+                threat investigations;
+                    ``(B) conduct computer and mobile device forensic 
+                examinations; and
+                    ``(C) respond to network intrusion incidents.
+            ``(3) Training State, local, tribal, and territorial law 
+        enforcement officers, prosecutors, and judges on methods to 
+        obtain, process, store, and admit digital evidence in court.
+
+[[Page 131 STAT. 1247]]
+
+    ``(c) <<NOTE: Information sharing.>> Principles.--In carrying out 
+the functions specified in subsection (b), the Institute shall ensure, 
+to the extent practicable, that timely, actionable, and relevant 
+expertise and information related to cyber and electronic crime and 
+related threats is shared with State, local, tribal, and territorial law 
+enforcement officers and prosecutors.
+
+    ``(d) Equipment.--The Institute may provide State, local, tribal, 
+and territorial law enforcement officers with computer equipment, 
+hardware, software, manuals, and tools necessary to conduct cyber and 
+electronic crime and related threat investigations and computer and 
+mobile device forensic examinations.
+    ``(e) Electronic Crime Task Forces.--The Institute shall facilitate 
+the expansion of the network of Electronic Crime Task Forces of the 
+United States Secret Service through the addition of State, local, 
+tribal, and territorial law enforcement officers educated and trained at 
+the Institute.
+    ``(f) Savings Provision.--All authorized activities and functions 
+carried out by the Institute at any location as of the day before the 
+date of the enactment of this section are authorized to continue to be 
+carried out at any such location on and after such date.''.
+    (b) Funding.--For each of fiscal years 2018 through 2022, amounts 
+appropriated for United States Secret Service, Operations and Support, 
+may be used to carry out this Act and the amendments made by this Act.
+    (c) Clerical Amendment.--The table of contents in section 1(b) of 
+the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by 
+inserting after the item relating to section 821 the following new item:
+
+``Sec. 822. National Computer Forensics Institute.''.
+
+SEC. 3. PREVENTION, INVESTIGATION, AND PROSECUTION OF ECONOMIC, 
+                    HIGH TECHNOLOGY, INTERNET, AND OTHER WHITE 
+                    COLLAR CRIME.
+
+    (a) In General.--Title I of the Omnibus Crime Control and Safe 
+Streets Act of 1968 (34 U.S.C. 10101 et seq.) is amended by adding at 
+the end the following:
+
+``PART MM-- <<NOTE: National White Collar Crime Control Act of 2017. 34 
+ USC 10101 note.>> PREVENTION, INVESTIGATION, AND PROSECUTION OF WHITE 
+COLLAR CRIME
+``SEC. 3030. SHORT TITLE.
+
+    ``This part may be cited as the `National White Collar Crime Control 
+Act of 2017'.
+``SEC. <<NOTE: 34 USC 10721 note.>> 3031. ESTABLISHMENT OF GRANT 
+                          PROGRAM.
+
+    ``(a) <<NOTE: Contracts.>> Authorization.--The Director of the 
+Bureau of Justice Assistance is authorized to enter into a cooperative 
+agreement with or make a grant to an eligible entity for the purpose of 
+improving the identification, investigation, and prosecution of white 
+collar crime (including each category of such crimes set forth in 
+paragraphs (1) through (3) of subsection (b)) by providing 
+comprehensive, direct, and practical training and technical assistance 
+to law enforcement officers, investigators, auditors and prosecutors in 
+States and units of local government.
+
+    ``(b) White Collar Crime Defined.--For purposes of this part, the 
+term `white collar crime' includes--
+
+[[Page 131 STAT. 1248]]
+
+            ``(1) high-tech crime, including cyber and electronic crime 
+        and related threats;
+            ``(2) economic crime, including financial fraud and mortgage 
+        fraud; and
+            ``(3) Internet-based crime against children and child 
+        pornography.
+``SEC. 3032. <<NOTE: 34 USC 10722 note.>> PURPOSES.
+
+    ``The purposes of this part include the following:
+            ``(1) To ensure that training is available for State, local, 
+        tribal and territorial law enforcement agencies and officers 
+        nationwide to support local efforts to identify, prevent, 
+        investigate, and prosecute cyber and financial crimes, including 
+        those crimes facilitated via computer networks and other 
+        electronic means, and crimes involving financial and economic 
+        impacts such as intellectual property crimes.
+            ``(2) To deliver training to State, local, tribal, and 
+        territorial law enforcement officers, and other criminal justice 
+        professionals concerning the use of proven methodologies to 
+        prevent, detect, and respond to such crimes, recognize emerging 
+        issues, manage electronic and financial crime evidence and to 
+        improve local criminal justice agency responses to such threats.
+            ``(3) To provide operational and technical assistance and 
+        training concerning tools, products, resources, guidelines, and 
+        procedures to aid and enhance criminal intelligence analysis, 
+        conduct cyber crime and financial crime investigations, and 
+        related justice information sharing at the local and State 
+        levels.
+            ``(4) To provide appropriate training on protections for 
+        privacy, civil rights, and civil liberties in the conduct of 
+        criminal intelligence analysis and cyber and electronic crime 
+        and financial crime investigations, including in the development 
+        of policies, guidelines, and procedures by State, local, tribal, 
+        and territorial law enforcement agencies to protect and enhance 
+        privacy, civil rights, and civil liberties protections and 
+        identify weaknesses and gaps in the protection of privacy, civil 
+        rights, and civil liberties.
+``SEC. 3033. <<NOTE: 34 USC 10723 note.>> AUTHORIZED PROGRAMS.
+
+    ``A grant or cooperative agreement awarded under this part may be 
+made only for the following programs, with respect to the prevention, 
+investigation, and prosecution of certain criminal activities:
+            ``(1) Programs to provide a nationwide support system for 
+        State and local criminal justice agencies.
+            ``(2) Programs to assist State and local criminal justice 
+        agencies to develop, establish, and maintain intelligence-
+        focused policing strategies and related information sharing.
+            ``(3) Programs to provide training and investigative support 
+        services to State and local criminal justice agencies to provide 
+        such agencies with skills and resources needed to investigate 
+        and prosecute such criminal activities and related criminal 
+        activities.
+            ``(4) Programs to provide research support, to establish 
+        partnerships, and to provide other resources to aid State and 
+        local criminal justice agencies to prevent, investigate, and 
+        prosecute such criminal activities and related problems.
+
+[[Page 131 STAT. 1249]]
+
+            ``(5) Programs to provide information and research to the 
+        general public to facilitate the prevention of such criminal 
+        activities.
+            ``(6) Programs to establish or support national training and 
+        research centers regionally to provide training and research 
+        services for State and local criminal justice agencies.
+            ``(7) Programs to provide training and oversight to State 
+        and local criminal justice agencies to develop and comply with 
+        applicable privacy, civil rights, and civil liberties related 
+        policies, procedures, rules, laws, and guidelines.
+            ``(8) Any other programs specified by the Attorney General 
+        as furthering the purposes of this part.
+``SEC. 3034. <<NOTE: 34 USC 10724 note.>> APPLICATION.
+
+    ``To be eligible for an award of a grant or cooperative agreement 
+under this part, an entity shall submit to the Director of the Bureau of 
+Justice Assistance an application in such form and manner, and 
+containing such information, as required by the Director of the Bureau 
+of Justice Assistance.
+``SEC. 3035. <<NOTE: 34 USC 10725 note.>> ELIGIBILITY.
+
+    ``States, units of local government, not-for-profit entities, and 
+institutions of higher-education with demonstrated capacity and 
+experience in delivering training, technical assistance and other 
+resources including direct, practical laboratory training to law 
+enforcement officers, investigators, auditors and prosecutors in States 
+and units of local government and over the Internet shall be eligible to 
+receive an award under this part.
+``SEC. 3036. <<NOTE: 34 USC 10726 note.>> RULES AND REGULATIONS.
+
+    ``The Director of the Bureau of Justice Assistance shall promulgate 
+such rules and regulations as are necessary to carry out this part, 
+including rules and regulations for submitting and reviewing 
+applications under section 3035.''.
+    (b) Authorization of Appropriations.--There are authorized to be 
+appropriated $13,000,000 for each of fiscal years 2018 through 2022 to 
+carry out--
+            (1) part MM of title I of the Omnibus Crime Control and Safe 
+        Streets Act of 1968, as added by subsection (a); and
+
+[[Page 131 STAT. 1250]]
+
+            (2) section 401(b) of the Prioritizing Resources and 
+        Organization for Intellectual Property Act of 2008 (34 U.S.C. 
+        30103(b)).
+
+    Approved November 2, 2017.
+
+LEGISLATIVE HISTORY--H.R. 1616:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 163 (2017):
+            May 16, considered and passed House.
+            Oct. 2, considered and passed Senate, amended.
+            Oct. 12, House concurred in Senate amendment.
+
+                                  
+

@@ -1,0 +1,669 @@
+
+[109th Congress Public Law 2]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ002.109]
+
+[[Page 3]]
+
+                   CLASS ACTION FAIRNESS ACT OF 2005
+
+[[Page 118 STAT. 4]]
+
+Public Law 109-2
+109th Congress
+
+
+                                 An Act
+
+
+ 
+ To amend the procedures that apply to consideration of interstate class 
+actions to assure fairer outcomes for class members and defendants, and 
+         for other purposes. <<NOTE: Feb. 18, 2005 -  [S. 5]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Class Action 
+Fairness Act of 2005.>> 
+
+SECTION 1. SHORT TITLE; REFERENCE; TABLE OF CONTENTS.
+
+    (a) <<NOTE: 28 USC 1 note.>> Short Title.--This Act may be cited as 
+the ``Class Action Fairness Act of 2005''.
+
+    (b) Reference.--Whenever in this Act reference is made to an 
+amendment to, or repeal of, a section or other provision, the reference 
+shall be considered to be made to a section or other provision of title 
+28, United States Code.
+    (c) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+ Sec. 1. Short title; reference; table of contents.
+ Sec. 2. Findings and purposes.
+ Sec. 3. Consumer class action bill of rights and improved procedures 
+           for interstate class actions.
+ Sec. 4. Federal district court jurisdiction for interstate class 
+           actions.
+ Sec. 5. Removal of interstate class actions to Federal district court.
+ Sec. 6. Report on class action settlements.
+ Sec. 7. Enactment of Judicial Conference recommendations.
+ Sec. 8. Rulemaking authority of Supreme Court and Judicial Conference.
+ Sec. 9. Effective date.
+
+SEC. 2. <<NOTE: 28 USC 1711 note.>> FINDINGS AND PURPOSES.
+
+    (a) Findings.--Congress finds the following:
+            (1) Class action lawsuits are an important and valuable part 
+        of the legal system when they permit the fair and efficient 
+        resolution of legitimate claims of numerous parties by allowing 
+        the claims to be aggregated into a single action against a 
+        defendant that has allegedly caused harm.
+            (2) Over the past decade, there have been abuses of the 
+        class action device that have--
+                    (A) harmed class members with legitimate claims and 
+                defendants that have acted responsibly;
+                    (B) adversely affected interstate commerce; and
+                    (C) undermined public respect for our judicial 
+                system.
+            (3) Class members often receive little or no benefit from 
+        class actions, and are sometimes harmed, such as where--
+                    (A) counsel are awarded large fees, while leaving 
+                class members with coupons or other awards of little or 
+                no value;
+                    (B) unjustified awards are made to certain 
+                plaintiffs at the expense of other class members; and
+
+[[Page 118 STAT. 5]]
+
+                    (C) confusing notices are published that prevent 
+                class members from being able to fully understand and 
+                effectively exercise their rights.
+            (4) Abuses in class actions undermine the national judicial 
+        system, the free flow of interstate commerce, and the concept of 
+        diversity jurisdiction as intended by the framers of the United 
+        States Constitution, in that State and local courts are--
+                    (A) keeping cases of national importance out of 
+                Federal court;
+                    (B) sometimes acting in ways that demonstrate bias 
+                against out-of-State defendants; and
+                    (C) making judgments that impose their view of the 
+                law on other States and bind the rights of the residents 
+                of those States.
+
+    (b) Purposes.--The purposes of this Act are to--
+            (1) assure fair and prompt recoveries for class members with 
+        legitimate claims;
+            (2) restore the intent of the framers of the United States 
+        Constitution by providing for Federal court consideration of 
+        interstate cases of national importance under diversity 
+        jurisdiction; and
+            (3) benefit society by encouraging innovation and lowering 
+        consumer prices.
+SEC. 3. CONSUMER CLASS ACTION BILL OF RIGHTS AND IMPROVED 
+                    PROCEDURES FOR INTERSTATE CLASS ACTIONS.
+
+    (a) In General.--Part V is amended by inserting after chapter 113 
+the following:
+
+                      ``CHAPTER 114--CLASS ACTIONS
+
+``Sec.
+``1711. Definitions.
+``1712. Coupon settlements.
+``1713. Protection against loss by class members.
+``1714. Protection against discrimination based on geographic location.
+``1715. Notifications to appropriate Federal and State officials.
+
+``Sec. 1711. Definitions
+
+    ``In this chapter:
+            ``(1) Class.--The term `class' means all of the class 
+        members in a class action.
+            ``(2) Class action.--The term `class action' means any civil 
+        action filed in a district court of the United States under rule 
+        23 of the Federal Rules of Civil Procedure or any civil action 
+        that is removed to a district court of the United States that 
+        was originally filed under a State statute or rule of judicial 
+        procedure authorizing an action to be brought by 1 or more 
+        representatives as a class action.
+            ``(3) Class counsel.--The term `class counsel' means the 
+        persons who serve as the attorneys for the class members in a 
+        proposed or certified class action.
+            ``(4) Class members.--The term `class members' means the 
+        persons (named or unnamed) who fall within the definition of the 
+        proposed or certified class in a class action.
+            ``(5) Plaintiff class action.--The term `plaintiff class 
+        action' means a class action in which class members are 
+        plaintiffs.
+
+[[Page 118 STAT. 6]]
+
+            ``(6) Proposed settlement.--The term `proposed settlement' 
+        means an agreement regarding a class action that is subject to 
+        court approval and that, if approved, would be binding on some 
+        or all class members.
+
+``Sec. 1712. Coupon settlements
+
+    ``(a) Contingent Fees in Coupon Settlements.--If a proposed 
+settlement in a class action provides for a recovery of coupons to a 
+class member, the portion of any attorney's fee award to class counsel 
+that is attributable to the award of the coupons shall be based on the 
+value to class members of the coupons that are redeemed.
+    ``(b) Other Attorney's Fee Awards in Coupon Settlements.--
+            ``(1) In general.--If a proposed settlement in a class 
+        action provides for a recovery of coupons to class members, and 
+        a portion of the recovery of the coupons is not used to 
+        determine the attorney's fee to be paid to class counsel, any 
+        attorney's fee award shall be based upon the amount of time 
+        class counsel reasonably expended working on the action.
+            ``(2) Court approval.--Any attorney's fee under this 
+        subsection shall be subject to approval by the court and shall 
+        include an appropriate attorney's fee, if any, for obtaining 
+        equitable relief, including an injunction, if applicable. 
+        Nothing in this subsection shall be construed to prohibit 
+        application of a lodestar with a multiplier method of 
+        determining attorney's fees.
+
+    ``(c) Attorney's Fee Awards Calculated on a Mixed Basis in Coupon 
+Settlements.--If a proposed settlement in a class action provides for an 
+award of coupons to class members and also provides for equitable 
+relief, including injunctive relief--
+            ``(1) that portion of the attorney's fee to be paid to class 
+        counsel that is based upon a portion of the recovery of the 
+        coupons shall be calculated in accordance with subsection (a); 
+        and
+            ``(2) that portion of the attorney's fee to be paid to class 
+        counsel that is not based upon a portion of the recovery of the 
+        coupons shall be calculated in accordance with subsection (b).
+
+    ``(d) Settlement Valuation Expertise.--In a class action involving 
+the awarding of coupons, the court may, in its discretion upon the 
+motion of a party, receive expert testimony from a witness qualified to 
+provide information on the actual value to the class members of the 
+coupons that are redeemed.
+    ``(e) Judicial Scrutiny of Coupon Settlements.--In a proposed 
+settlement under which class members would be awarded coupons, the court 
+may approve the proposed settlement only after a hearing to determine 
+whether, and making a written finding that, the settlement is fair, 
+reasonable, and adequate for class members. The court, in its 
+discretion, may also require that a proposed settlement agreement 
+provide for the distribution of a portion of the value of unclaimed 
+coupons to 1 or more charitable or governmental organizations, as agreed 
+to by the parties. The distribution and redemption of any proceeds under 
+this subsection shall not be used to calculate attorneys' fees under 
+this section.
+
+[[Page 118 STAT. 7]]
+
+``Sec. 1713. Protection against loss by class members
+
+    ``The court may approve a proposed settlement under which any class 
+member is obligated to pay sums to class counsel that would result in a 
+net loss to the class member only if the court makes a written finding 
+that nonmonetary benefits to the class member substantially outweigh the 
+monetary loss.
+
+``Sec. 1714. Protection against discrimination based on geographic 
+                        location
+
+    ``The court may not approve a proposed settlement that provides for 
+the payment of greater sums to some class members than to others solely 
+on the basis that the class members to whom the greater sums are to be 
+paid are located in closer geographic proximity to the court.
+
+``Sec. 1715. Notifications to appropriate Federal and State officials
+
+    ``(a) Definitions.--
+            ``(1) Appropriate federal official.--In this section, the 
+        term `appropriate Federal official' means--
+                    ``(A) the Attorney General of the United States; or
+                    ``(B) in any case in which the defendant is a 
+                Federal depository institution, a State depository 
+                institution, a depository institution holding company, a 
+                foreign bank, or a nondepository institution subsidiary 
+                of the foregoing (as such terms are defined in section 3 
+                of the Federal Deposit Insurance Act (12 U.S.C. 1813)), 
+                the person who has the primary Federal regulatory or 
+                supervisory responsibility with respect to the 
+                defendant, if some or all of the matters alleged in the 
+                class action are subject to regulation or supervision by 
+                that person.
+            ``(2) Appropriate state official.--In this section, the term 
+        `appropriate State official' means the person in the State who 
+        has the primary regulatory or supervisory responsibility with 
+        respect to the defendant, or who licenses or otherwise 
+        authorizes the defendant to conduct business in the State, if 
+        some or all of the matters alleged in the class action are 
+        subject to regulation by that person. If there is no primary 
+        regulator, supervisor, or licensing authority, or the matters 
+        alleged in the class action are not subject to regulation or 
+        supervision by that person, then the appropriate State official 
+        shall be the State attorney general.
+
+    ``(b) <<NOTE: Deadline.>> In General.--Not later than 10 days after 
+a proposed settlement of a class action is filed in court, each 
+defendant that is participating in the proposed settlement shall serve 
+upon the appropriate State official of each State in which a class 
+member resides and the appropriate Federal official, a notice of the 
+proposed settlement consisting of--
+            ``(1) a copy of the complaint and any materials filed with 
+        the complaint and any amended complaints (except such materials 
+        shall not be required to be served if such materials are made 
+        electronically available through the Internet and such service 
+        includes notice of how to electronically access such material);
+            ``(2) notice of any scheduled judicial hearing in the class 
+        action;
+
+[[Page 118 STAT. 8]]
+
+            ``(3) any proposed or final notification to class members 
+        of--
+                    ``(A)(i) the members' rights to request exclusion 
+                from the class action; or
+                    ``(ii) if no right to request exclusion exists, a 
+                statement that no such right exists; and
+                    ``(B) a proposed settlement of a class action;
+            ``(4) any proposed or final class action settlement;
+            ``(5) any settlement or other agreement contemporaneously 
+        made between class counsel and counsel for the defendants;
+            ``(6) any final judgment or notice of dismissal;
+            ``(7)(A) if feasible, the names of class members who reside 
+        in each State and the estimated proportionate share of the 
+        claims of such members to the entire settlement to that State's 
+        appropriate State official; or
+            ``(B) if the provision of information under subparagraph (A) 
+        is not feasible, a reasonable estimate of the number of class 
+        members residing in each State and the estimated proportionate 
+        share of the claims of such members to the entire settlement; 
+        and
+            ``(8) any written judicial opinion relating to the materials 
+        described under subparagraphs (3) through (6).
+
+    ``(c) Depository Institutions Notification.--
+            ``(1) Federal and other depository institutions.--In any 
+        case in which the defendant is a Federal depository institution, 
+        a depository institution holding company, a foreign bank, or a 
+        non-depository institution subsidiary of the foregoing, the 
+        notice requirements of this section are satisfied by serving the 
+        notice required under subsection (b) upon the person who has the 
+        primary Federal regulatory or supervisory responsibility with 
+        respect to the defendant, if some or all of the matters alleged 
+        in the class action are subject to regulation or supervision by 
+        that person.
+            ``(2) State depository institutions.--In any case in which 
+        the defendant is a State depository institution (as that term is 
+        defined in section 3 of the Federal Deposit Insurance Act (12 
+        U.S.C. 1813)), the notice requirements of this section are 
+        satisfied by serving the notice required under subsection (b) 
+        upon the State bank supervisor (as that term is defined in 
+        section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) 
+        of the State in which the defendant is incorporated or 
+        chartered, if some or all of the matters alleged in the class 
+        action are subject to regulation or supervision by that person, 
+        and upon the appropriate Federal official.
+
+    ``(d) Final Approval.--An order giving final approval of a proposed 
+settlement may not be issued earlier than 90 days after the later of the 
+dates on which the appropriate Federal official and the appropriate 
+State official are served with the notice required under subsection (b).
+    ``(e) Noncompliance if Notice Not Provided.--
+            ``(1) In general.--A class member may refuse to comply with 
+        and may choose not to be bound by a settlement agreement or 
+        consent decree in a class action if the class member 
+        demonstrates that the notice required under subsection (b) has 
+        not been provided.
+            ``(2) Limitation.--A class member may not refuse to comply 
+        with or to be bound by a settlement agreement or consent
+
+[[Page 118 STAT. 9]]
+
+        decree under paragraph (1) if the notice required under 
+        subsection (b) was directed to the appropriate Federal official 
+        and to either the State attorney general or the person that has 
+        primary regulatory, supervisory, or licensing authority over the 
+        defendant.
+            ``(3) Application of rights.--The rights created by this 
+        subsection shall apply only to class members or any person 
+        acting on a class member's behalf, and shall not be construed to 
+        limit any other rights affecting a class member's participation 
+        in the settlement.
+
+    ``(f) Rule of Construction.--Nothing in this section shall be 
+construed to expand the authority of, or impose any obligations, duties, 
+or responsibilities upon, Federal or State officials.''.
+    (b) Technical and Conforming Amendment.--The table of chapters for 
+part V is amended by inserting after the item relating to chapter 113 
+the following:
+
+``114. Class Actions.............................................1711''.
+SEC. 4. FEDERAL DISTRICT COURT JURISDICTION FOR INTERSTATE CLASS 
+                    ACTIONS.
+
+    (a) Application of Federal Diversity Jurisdiction.--Section 1332 is 
+amended--
+            (1) by redesignating subsection (d) as subsection (e); and
+            (2) by inserting after subsection (c) the following:
+
+    ``(d)(1) In this subsection--
+            ``(A) the term `class' means all of the class members in a 
+        class action;
+            ``(B) the term `class action' means any civil action filed 
+        under rule 23 of the Federal Rules of Civil Procedure or similar 
+        State statute or rule of judicial procedure authorizing an 
+        action to be brought by 1 or more representative persons as a 
+        class action;
+            ``(C) the term `class certification order' means an order 
+        issued by a court approving the treatment of some or all aspects 
+        of a civil action as a class action; and
+            ``(D) the term `class members' means the persons (named or 
+        unnamed) who fall within the definition of the proposed or 
+        certified class in a class action.
+
+    ``(2) The district courts shall have original jurisdiction of any 
+civil action in which the matter in controversy exceeds the sum or value 
+of $5,000,000, exclusive of interest and costs, and is a class action in 
+which--
+            ``(A) any member of a class of plaintiffs is a citizen of a 
+        State different from any defendant;
+            ``(B) any member of a class of plaintiffs is a foreign state 
+        or a citizen or subject of a foreign state and any defendant is 
+        a citizen of a State; or
+            ``(C) any member of a class of plaintiffs is a citizen of a 
+        State and any defendant is a foreign state or a citizen or 
+        subject of a foreign state.
+
+    ``(3) A district court may, in the interests of justice and looking 
+at the totality of the circumstances, decline to exercise jurisdiction 
+under paragraph (2) over a class action in which greater than one-third 
+but less than two-thirds of the members of all proposed plaintiff 
+classes in the aggregate and the primary defendants are citizens of the 
+State in which the action was originally filed based on consideration 
+of--
+
+[[Page 118 STAT. 10]]
+
+            ``(A) whether the claims asserted involve matters of 
+        national or interstate interest;
+            ``(B) whether the claims asserted will be governed by laws 
+        of the State in which the action was originally filed or by the 
+        laws of other States;
+            ``(C) whether the class action has been pleaded in a manner 
+        that seeks to avoid Federal jurisdiction;
+            ``(D) whether the action was brought in a forum with a 
+        distinct nexus with the class members, the alleged harm, or the 
+        defendants;
+            ``(E) whether the number of citizens of the State in which 
+        the action was originally filed in all proposed plaintiff 
+        classes in the aggregate is substantially larger than the number 
+        of citizens from any other State, and the citizenship of the 
+        other members of the proposed class is dispersed among a 
+        substantial number of States; and
+            ``(F) whether, during the 3-year period preceding the filing 
+        of that class action, 1 or more other class actions asserting 
+        the same or similar claims on behalf of the same or other 
+        persons have been filed.
+
+    ``(4) A district court shall decline to exercise jurisdiction under 
+paragraph (2)--
+            ``(A)(i) over a class action in which--
+                    ``(I) greater than two-thirds of the members of all 
+                proposed plaintiff classes in the aggregate are citizens 
+                of the State in which the action was originally filed;
+                    ``(II) at least 1 defendant is a defendant--
+                          ``(aa) from whom significant relief is sought 
+                      by members of the plaintiff class;
+                          ``(bb) whose alleged conduct forms a 
+                      significant basis for the claims asserted by the 
+                      proposed plaintiff class; and
+                          ``(cc) who is a citizen of the State in which 
+                      the action was originally filed; and
+                    ``(III) principal injuries resulting from the 
+                alleged conduct or any related conduct of each defendant 
+                were incurred in the State in which the action was 
+                originally filed; and
+            ``(ii) during the 3-year period preceding the filing of that 
+        class action, no other class action has been filed asserting the 
+        same or similar factual allegations against any of the 
+        defendants on behalf of the same or other persons; or
+            ``(B) two-thirds or more of the members of all proposed 
+        plaintiff classes in the aggregate, and the primary defendants, 
+        are citizens of the State in which the action was originally 
+        filed.
+
+    ``(5) Paragraphs (2) through (4) shall not apply to any class action 
+in which--
+            ``(A) the primary defendants are States, State officials, or 
+        other governmental entities against whom the district court may 
+        be foreclosed from ordering relief; or
+            ``(B) the number of members of all proposed plaintiff 
+        classes in the aggregate is less than 100.
+
+    ``(6) In any class action, the claims of the individual class 
+members shall be aggregated to determine whether the matter in 
+controversy exceeds the sum or value of $5,000,000, exclusive of 
+interest and costs.
+
+[[Page 118 STAT. 11]]
+
+    ``(7) Citizenship of the members of the proposed plaintiff classes 
+shall be determined for purposes of paragraphs (2) through (6) as of the 
+date of filing of the complaint or amended complaint, or, if the case 
+stated by the initial pleading is not subject to Federal jurisdiction, 
+as of the date of service by plaintiffs of an amended pleading, motion, 
+or other paper, indicating the existence of Federal jurisdiction.
+    ``(8) This subsection shall apply to any class action before or 
+after the entry of a class certification order by the court with respect 
+to that action.
+    ``(9) Paragraph (2) shall not apply to any class action that solely 
+involves a claim--
+            ``(A) concerning a covered security as defined under 
+        16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3)) and 
+        section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 
+        U.S.C. 78bb(f)(5)(E));
+            ``(B) that relates to the internal affairs or governance of 
+        a corporation or other form of business enterprise and that 
+        arises under or by virtue of the laws of the State in which such 
+        corporation or business enterprise is incorporated or organized; 
+        or
+            ``(C) that relates to the rights, duties (including 
+        fiduciary duties), and obligations relating to or created by or 
+        pursuant to any security (as defined under section 2(a)(1) of 
+        the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the 
+        regulations issued thereunder).
+
+    ``(10) For purposes of this subsection and section 1453, an 
+unincorporated association shall be deemed to be a citizen of the State 
+where it has its principal place of business and the State under whose 
+laws it is organized.
+    ``(11)(A) For purposes of this subsection and section 1453, a mass 
+action shall be deemed to be a class action removable under paragraphs 
+(2) through (10) if it otherwise meets the provisions of those 
+paragraphs.
+    ``(B)(i) As used in subparagraph (A), the term `mass action' means 
+any civil action (except a civil action within the scope of section 
+1711(2)) in which monetary relief claims of 100 or more persons are 
+proposed to be tried jointly on the ground that the plaintiffs' claims 
+involve common questions of law or fact, except that jurisdiction shall 
+exist only over those plaintiffs whose claims in a mass action satisfy 
+the jurisdictional amount requirements under subsection (a).
+    ``(ii) As used in subparagraph (A), the term `mass action' shall not 
+include any civil action in which--
+            ``(I) all of the claims in the action arise from an event or 
+        occurrence in the State in which the action was filed, and that 
+        allegedly resulted in injuries in that State or in States 
+        contiguous to that State;
+            ``(II) the claims are joined upon motion of a defendant;
+            ``(III) all of the claims in the action are asserted on 
+        behalf of the general public (and not on behalf of individual 
+        claimants or members of a purported class) pursuant to a State 
+        statute specifically authorizing such action; or
+            ``(IV) the claims have been consolidated or coordinated 
+        solely for pretrial proceedings.
+
+    ``(C)(i) Any action(s) removed to Federal court pursuant to this 
+subsection shall not thereafter be transferred to any other court
+
+[[Page 118 STAT. 12]]
+
+pursuant to section 1407, or the rules promulgated thereunder, unless a 
+majority of the plaintiffs in the action request transfer pursuant to 
+section 1407.
+    ``(ii) This subparagraph will not apply--
+            ``(I) to cases certified pursuant to rule 23 of the Federal 
+        Rules of Civil Procedure; or
+            ``(II) if plaintiffs propose that the action proceed as a 
+        class action pursuant to rule 23 of the Federal Rules of Civil 
+        Procedure.
+
+    ``(D) The limitations periods on any claims asserted in a mass 
+action that is removed to Federal court pursuant to this subsection 
+shall be deemed tolled during the period that the action is pending in 
+Federal court.''.
+    (b) Conforming Amendments.--
+            (1) Section 1335(a)(1) is amended by inserting ``subsection 
+        (a) or (d) of'' before ``section 1332''.
+            (2) Section 1603(b)(3) is amended by striking ``(d)'' and 
+        inserting ``(e)''.
+ SEC. 5. REMOVAL OF INTERSTATE CLASS ACTIONS TO FEDERAL DISTRICT 
+                    COURT.
+
+    (a) In General.--Chapter 89 is amended by adding after section 1452 
+the following:
+
+``Sec. 1453. Removal of class actions
+
+    ``(a) Definitions.--In this section, the terms `class', `class 
+action', `class certification order', and `class member' shall have the 
+meanings given such terms under section 1332(d)(1).
+    ``(b) In General.--A class action may be removed to a district court 
+of the United States in accordance with section 1446 (except that the 1-
+year limitation under section 1446(b) shall not apply), without regard 
+to whether any defendant is a citizen of the State in which the action 
+is brought, except that such action may be removed by any defendant 
+without the consent of all defendants.
+    ``(c) Review of Remand Orders.--
+            ``(1) <<NOTE: Applicability.>> In general.--Section 1447 
+        shall apply to any removal of a case under this section, except 
+        that notwithstanding section 1447(d), a court of appeals may 
+        accept an appeal from an order of a district court granting or 
+        denying a motion to remand a class action to the State court 
+        from which it was removed if application is made to the court of 
+        appeals not less than 7 days after entry of the order.
+            ``(2) Time period for judgment.--If the court of appeals 
+        accepts an appeal under paragraph (1), the court shall complete 
+        all action on such appeal, including rendering judgment, not 
+        later than 60 days after the date on which such appeal was 
+        filed, unless an extension is granted under paragraph (3).
+            ``(3) Extension of time period.--The court of appeals may 
+        grant an extension of the 60-day period described in paragraph 
+        (2) if--
+                    ``(A) all parties to the proceeding agree to such 
+                extension, for any period of time; or
+                    ``(B) such extension is for good cause shown and in 
+                the interests of justice, for a period not to exceed 10 
+                days.
+            ``(4) Denial of appeal.--If a final judgment on the appeal 
+        under paragraph (1) is not issued before the end of the period
+
+[[Page 118 STAT. 13]]
+
+        described in paragraph (2), including any extension under 
+        paragraph (3), the appeal shall be denied.
+
+    ``(d) Exception.--This section shall not apply to any class action 
+that solely involves--
+            ``(1) a claim concerning a covered security as defined under 
+        section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 
+        78p(f)(3)) and section 28(f)(5)(E) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
+            ``(2) a claim that relates to the internal affairs or 
+        governance of a corporation or other form of business enterprise 
+        and arises under or by virtue of the laws of the State in which 
+        such corporation or business enterprise is incorporated or 
+        organized; or
+            ``(3) a claim that relates to the rights, duties (including 
+        fiduciary duties), and obligations relating to or created by or 
+        pursuant to any security (as defined under section 2(a)(1) of 
+        the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the 
+        regulations issued thereunder).''.
+
+    (b) Technical and Conforming Amendments.--The table of sections for 
+chapter 89 is amended by adding after the item relating to section 1452 
+the following:
+
+``1453. Removal of class actions.''.
+
+SEC. 6. REPORT ON CLASS ACTION SETTLEMENTS.
+
+    (a) In General.--Not later than 12 months after the date of 
+enactment of this Act, the Judicial Conference of the United States, 
+with the assistance of the Director of the Federal Judicial Center and 
+the Director of the Administrative Office of the United States Courts, 
+shall prepare and transmit to the Committees on the Judiciary of the 
+Senate and the House of Representatives a report on class action 
+settlements.
+    (b) Content.--The report under subsection (a) shall contain--
+            (1) recommendations on the best practices that courts can 
+        use to ensure that proposed class action settlements are fair to 
+        the class members that the settlements are supposed to benefit;
+            (2) recommendations on the best practices that courts can 
+        use to ensure that--
+                    (A) the fees and expenses awarded to counsel in 
+                connection with a class action settlement appropriately 
+                reflect the extent to which counsel succeeded in 
+                obtaining full redress for the injuries alleged and the 
+                time, expense, and risk that counsel devoted to the 
+                litigation; and
+                    (B) the class members on whose behalf the settlement 
+                is proposed are the primary beneficiaries of the 
+                settlement; and
+            (3) the actions that the Judicial Conference of the United 
+        States has taken and intends to take toward having the Federal 
+        judiciary implement any or all of the recommendations contained 
+        in the report.
+
+    (c) Authority of Federal Courts.--Nothing in this section shall be 
+construed to alter the authority of the Federal courts to supervise 
+attorneys' fees.
+
+SEC. 7. <<NOTE: 28 USC 2074 note.>> ENACTMENT OF JUDICIAL CONFERENCE 
+            RECOMMENDATIONS.
+
+    Notwithstanding any other provision of law, the amendments to rule 
+23 of the Federal Rules of Civil Procedure, which are
+
+[[Page 118 STAT. 14]]
+
+set forth in the order entered by the Supreme Court of the United States 
+on March 27, 2003, shall take effect on the date of enactment of this 
+Act or on December 1, 2003 (as specified in that order), whichever 
+occurs first.
+SEC. 8. <<NOTE: 28 USC 2071 note.>> RULEMAKING AUTHORITY OF 
+                    SUPREME COURT AND JUDICIAL CONFERENCE.
+
+    Nothing in this Act shall restrict in any way the authority of the 
+Judicial Conference and the Supreme Court to propose and prescribe 
+general rules of practice and procedure under chapter 131 of title 28, 
+United States Code.
+
+SEC. 9. <<NOTE: 28 USC 1332 note.>> EFFECTIVE DATE.
+
+    The amendments made by this Act shall apply to any civil action 
+commenced on or after the date of enactment of this Act.
+
+    Approved February 18, 2005.
+
+LEGISLATIVE HISTORY--S. 5:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 151 (2005):
+            Feb. 7-10, considered and passed Senate.
+            Feb. 17, considered and passed House.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 41 (2005):
+            Feb. 18, Presidential remarks.
+
+                                  
+
+

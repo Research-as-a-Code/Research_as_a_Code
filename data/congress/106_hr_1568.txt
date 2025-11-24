@@ -1,0 +1,1183 @@
+
+[106th Congress Public Law 50]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ050.106]
+
+
+[[Page 113 STAT. 233]]
+
+Public Law 106-50
+106th Congress
+
+                                 An Act
+
+
+ 
+To <<NOTE: Aug. 17, 1999 -  [H.R. 1568]>> provide technical, financial, 
+ and procurement assistance to veteran owned small businesses, and for 
+                             other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Veterans Entre- preneurship 
+and Small Business Development Act of 1999. 15 USC 631 
+note.>> assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Veterans Entrepreneurship and Small 
+Business Development Act of 1999''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+
+                       TITLE I--GENERAL PROVISIONS
+
+Sec. 101. Findings.
+Sec. 102. Purpose.
+Sec. 103. Definitions.
+
+                 TITLE II--VETERANS BUSINESS DEVELOPMENT
+
+Sec. 201. Veterans business development in the Small Business 
+           Administration.
+Sec. 202. National Veterans Business Development Corporation.
+Sec. 203. Advisory Committee on Veterans Business Affairs.
+
+                     TITLE III--TECHNICAL ASSISTANCE
+
+Sec. 301. SCORE program.
+Sec. 302. Entrepreneurial assistance.
+Sec. 303. Business development and management assistance for military 
+           reservists' small businesses.
+
+                     TITLE IV--FINANCIAL ASSISTANCE
+
+Sec. 401. General business loan program.
+Sec. 402. Assistance to active duty military reservists.
+Sec. 403. Microloan program.
+Sec. 404. Defense Economic Transition Loan Program.
+Sec. 405. State development company program.
+
+                     TITLE V--PROCUREMENT ASSISTANCE
+
+Sec. 501. Subcontracting.
+Sec. 502. Participation in Federal procurement.
+
+                  TITLE VI--REPORTS AND DATA COLLECTION
+
+Sec. 601. Reporting requirements.
+Sec. 602. Report on small business and competition.
+Sec. 603. Annual report of the Administrator.
+Sec. 604. Data and information collection.
+
+                   TITLE VII--MISCELLANEOUS PROVISIONS
+
+Sec. 701. Administrator's order.
+Sec. 702. Small Business Administration Office of Advocacy.
+Sec. 703. Study of fixed-asset small business loans.
+
+[[Page 113 STAT. 234]]
+
+                       TITLE I--GENERAL PROVISIONS
+
+SEC. 101. <<NOTE: 15 USC 657b note.>> FINDINGS.
+
+    Congress finds the following:
+            (1) Veterans of the United States Armed Forces have been and 
+        continue to be vital to the small business enterprises of the 
+        United States.
+            (2) In serving the United States, veterans often faced great 
+        risks to preserve the American dream of freedom and prosperity.
+            (3) The United States has done too little to assist 
+        veterans, particularly service-disabled veterans, in playing a 
+        greater role in the economy of the United States by forming and 
+        expanding small business enterprises.
+            (4) Medical advances and new medical technologies have made 
+        it possible for service-disabled veterans to play a much more 
+        active role in the formation and expansion of small business 
+        enterprises in the United States.
+            (5) The United States must provide additional assistance and 
+        support to veterans to better equip them to form and expand 
+        small business enterprises, thereby enabling them to realize the 
+        American dream that they fought to protect.
+
+SEC. <<NOTE: 15 USC 657b note.>> 102. PURPOSE.
+
+    The purpose of this Act is to expand existing and establish new 
+assistance programs for veterans who own or operate small businesses. 
+This Act accomplishes this purpose by--
+            (1) expanding the eligibility for certain small business 
+        assistance programs to include veterans;
+            (2) directing certain departments and agencies of the United 
+        States to take actions that enhance small business assistance to 
+        veterans; and
+            (3) establishing new institutions to provide small business 
+        assistance to veterans or to support the institutions that 
+        provide such assistance.
+
+SEC. 103. DEFINITIONS.
+
+    (a) Small Business Act.--Section 3 of the Small Business Act (15 
+U.S.C. 632) is amended by adding at the end the following:
+    ``(q) Definitions Relating to Veterans.--In this Act, the following 
+definitions apply:
+            ``(1) Service-disabled veteran.--The term `service-disabled 
+        veteran' means a veteran with a disability that is service-
+        connected (as defined in section 101(16) of title 38, United 
+        States Code).
+            ``(2) Small business concern owned and controlled by 
+        service-disabled veterans.--The term `small business concern 
+        owned and controlled by service-disabled veterans' means a small 
+        business concern--
+                    ``(A) not less than 51 percent of which is owned by 
+                one or more service-disabled veterans or, in the case of 
+                any publicly owned business, not less than 51 percent of 
+                the stock of which is owned by one or more service-
+                disabled veterans; and
+                    ``(B) the management and daily business operations 
+                of which are controlled by one or more service-disabled 
+                veterans or, in the case of a veteran with permanent and
+
+[[Page 113 STAT. 235]]
+
+                severe disability, the spouse or permanent caregiver of 
+                such veteran.
+            ``(3) Small business concern owned and controlled by 
+        veterans.--The term `small business concern owned and controlled 
+        by veterans' means a small business concern--
+                    ``(A) not less than 51 percent of which is owned by 
+                one or more veterans or, in the case of any publicly 
+                owned business, not less than 51 percent of the stock of 
+                which is owned by one or more veterans; and
+                    ``(B) the management and daily business operations 
+                of which are controlled by one or more veterans.
+            ``(4) Veteran.--The term `veteran' has the meaning given the 
+        term in section 101(2) of title 38, United States Code.''.
+
+    (b) Applicability <<NOTE: 15 USC 657b note.>> to This Act.--In this 
+Act, the definitions contained in section 3(q) of the Small Business 
+Act, as added by this section, apply.
+
+                 TITLE II--VETERANS BUSINESS DEVELOPMENT
+
+SEC. 201. VETERANS BUSINESS DEVELOPMENT IN THE SMALL BUSINESS 
+            ADMINISTRATION.
+
+    (a) In General.--Section 4(b)(1) of the Small Business Act (15 
+U.S.C. 633(b)(1)) is amended--
+            (1) in the fifth sentence, by striking ``four Associate 
+        Administrators'' and inserting ``five Associate 
+        Administrators''; and
+            (2) by inserting after the fifth sentence the following: 
+        ``One such Associate Administrator shall be the Associate 
+        Administrator for Veterans Business Development, who shall 
+        administer the Office of Veterans Business Development 
+        established under section 32.''.
+
+    (b) Office of Veterans Business Development; Associate 
+Administrator.--The Small Business Act (15 U.S.C. 631 et seq.) is 
+amended--
+            (1) by redesignating section <<NOTE: 15 USC 631 note.>> 32 
+        as section 34; and
+            (2) by inserting after section 31 the following:
+
+``SEC. 32. <<NOTE: 15 USC 657b.>> VETERANS PROGRAMS.
+
+    ``(a) Office <<NOTE: Establishment.>> of Veterans Business 
+Development.--There is established in the Administration an Office of 
+Veterans Business Development, which shall be administered by the 
+Associate Administrator for Veterans Business Development (in this 
+section referred to as the `Associate Administrator') appointed under 
+section 4(b)(1).
+
+    ``(b) Associate Administrator for Veterans Business Development.--
+The Associate Administrator--
+            ``(1) shall be an appointee in the Senior Executive Service;
+            ``(2) shall be responsible for the formulation, execution, 
+        and promotion of policies and programs of the Administration 
+        that provide assistance to small business concerns owned and 
+        controlled by veterans and small business concerns owned and 
+        controlled by service-disabled veterans. The Associate 
+        Administrator shall act as an ombudsman for full consideration 
+        of veterans in all programs of the Administration; and
+
+[[Page 113 STAT. 236]]
+
+            ``(3) shall report to and be responsible directly to the 
+        Administrator.''.
+
+SEC. 202. NATIONAL VETERANS BUSINESS DEVELOPMENT CORPORATION.
+
+    (a) In General.--The Small Business Act (15 U.S.C. 631 et seq.) is 
+amended by inserting after section 32 (as added by this Act) the 
+following:
+
+``SEC. <<NOTE: 15 USC 657c.>> 33. NATIONAL VETERANS BUSINESS DEVELOPMENT 
+            CORPORATION.
+
+    ``(a) Establishment.--There is established a federally chartered 
+corporation to be known as the National Veterans Business Development 
+Corporation (in this section referred to as the `Corporation') which 
+shall be incorporated under the laws of the District of Columbia and 
+which shall have the powers granted in this section.
+    ``(b) Purposes of the Corporation.--The purposes of the 
+Corporation shall be--
+            ``(1) to expand the provision of and improve access to 
+        technical assistance regarding entrepreneurship for the Nation's 
+        veterans; and
+            ``(2) to assist veterans, including service-disabled 
+        veterans, with the formation and expansion of small business 
+        concerns by working with and organizing public and private 
+        resources, including those of the Small Business Administration, 
+        the Department of Veterans Affairs, the Department of Labor, the 
+        Department of Commerce, the Department of Defense, the Service 
+        Corps of Retired Executives (described in section 8(b)(1)(B) of 
+        this Act), the Small Business Development Centers (described in 
+        section 21 of this Act), and the business development staffs of 
+        each department and agency of the United States.
+
+    ``(c) Board of Directors.--
+            ``(1) In general.--The management of the Corporation shall 
+        be vested in a Board of Directors composed of nine voting 
+        members and three nonvoting ex officio members.
+            ``(2) Appointment <<NOTE: President.>> of voting members.--
+        The President shall, after considering recommendations which 
+        shall be proposed by the Chairmen and Ranking Members of the 
+        Committees on Small Business and the Committees on Veterans 
+        Affairs of the House of Representatives and the Senate, appoint 
+        United States citizens to be voting members of the Board, not 
+        more than five of whom shall be members of the same political 
+        party.
+            ``(3) Ex officio members.--The Administrator of the Small 
+        Business Administration, the Secretary of Defense, and the 
+        Secretary of Veterans Affairs shall serve as the nonvoting ex 
+        officio members of the Board of Directors.
+            ``(4) Initial <<NOTE: Deadline.>> appointments.--The initial 
+        members of the Board of Directors shall be appointed not later 
+        than 60 days after the date of enactment of this Act.
+            ``(5) Chairperson.--The members of the Board of Directors 
+        appointed under paragraph (2) shall elect one such member to 
+        serve as chairperson of the Board of Directors for a term of 2 
+        years.
+            ``(6) Terms of appointed members.--
+
+[[Page 113 STAT. 237]]
+
+                    ``(A) In general.--Each member of the Board of 
+                Directors appointed under paragraph (2) shall serve a 
+                term of 6 years, except as provided in subparagraph (B).
+                    ``(B) Terms of initial appointees.--As designated by 
+                the President at the time of appointment, of the members 
+                first appointed--
+                          ``(i) three shall be for a term of 2 years; 
+                      and
+                          ``(ii) three shall be for a term of 4 years.
+                    ``(C) Unexpired terms.--Any member of the Board of 
+                Directors appointed to fill a vacancy occurring before 
+                the expiration of the term for which the member's 
+                predecessor was appointed shall be appointed only for 
+                the remainder of the term. A member may serve after the 
+                expiration of that member's term until a successor has 
+                taken office.
+            ``(7) Vacancies.--Any vacancy on the Board of Directors 
+        shall be filled in the manner in which the original appointment 
+        was made. In the case of a vacancy in the office of the 
+        Administrator of the Small Business Administration or the 
+        Secretary of Veterans Affairs, and pending the appointment of a 
+        successor, an acting appointee for such vacancy may serve as an 
+        ex officio member.
+            ``(8) Ineligibility for other offices.--No voting member of 
+        the Board of Directors may be an officer or employee of the 
+        United States while serving as a member of the Board of 
+        Directors or during the 2-year period preceding such service.
+            ``(9) Impartiality and nondiscrimination.--The Board of 
+        Directors shall administer the affairs of the Corporation fairly 
+        and impartially and without discrimination.
+            ``(10) Obligations and expenses.--The Board of Directors 
+        shall prescribe the manner in which the obligations of the 
+        Corporation may be incurred and in which its expenses shall be 
+        allowed and paid.
+            ``(11) Quorum.--Five voting members of the Board of 
+        Directors shall constitute a quorum, but a lesser number may 
+        hold hearings.
+
+    ``(d) Corporate <<NOTE: Effective date.>> Powers.--On October 1, 
+1999, the Corporation shall become a body corporate and as such shall 
+have the authority to do the following:
+            ``(1) To adopt and use a corporate seal.
+            ``(2) To have succession until dissolved by an Act of 
+        Congress.
+            ``(3) To make contracts or grants.
+            ``(4) To sue and be sued, and to file and defend against 
+        lawsuits in State or Federal court.
+            ``(5) To appoint, through the actions of its Board of 
+        Directors, officers and employees of the Corporation, to define 
+        their duties and responsibilities, fix their compensations, and 
+        to dismiss at will such officers or employees.
+            ``(6) To prescribe, through the actions of its Board of 
+        Directors, bylaws not inconsistent with Federal law and the law 
+        of the State of incorporation, regulating the manner in which 
+        its general business may be conducted and the manner in which 
+        the privileges granted to it by law may be exercised.
+            ``(7) To exercise, through the actions of its Board of 
+        Directors or duly authorized officers, all powers specifically 
+        granted
+
+[[Page 113 STAT. 238]]
+
+        by the provisions of this section, and such incidental powers as 
+        shall be necessary.
+            ``(8) To solicit, receive, and disburse funds from private, 
+        Federal, State and local organizations.
+            ``(9) To accept and employ or dispose of in furtherance of 
+        the purposes of this section any money or property, real, 
+        personal, or mixed, tangible or intangible, received by gift, 
+        devise, bequest, or otherwise.
+            ``(10) To accept voluntary and uncompensated services.
+
+    ``(e) Corporate Funds.--
+            ``(1) Deposit of funds.--The Board of Directors shall 
+        deposit all funds of the Corporation in federally chartered and 
+        insured depository institutions until such funds are disbursed 
+        under paragraph (2).
+            ``(2) Disbursement of funds.--Funds of the Corporation may 
+        be disbursed only for purposes that are--
+                    ``(A) approved by the Board of Directors by a 
+                recorded vote with a quorum present; and
+                    ``(B) in accordance with the purposes of the 
+                Corporation as specified in subsection (b).
+
+    ``(f ) Network <<NOTE: Establishment.>> of Information and 
+Assistance Centers.--In carrying out the purpose described in subsection 
+(b), the Corporation shall establish and maintain a network of 
+information and assistance centers for use by veterans and the public.
+
+    ``(g) Annual <<NOTE: Deadline.>> Report.--On or before October 1 of 
+each year, the Board of Directors shall transmit a report to the 
+President and the Congress describing the activities and accomplishments 
+of the Corporation for the preceding year and the Corporation's findings 
+regarding the efforts of Federal, State and private organizations to 
+assist veterans in the formation and expansion of small business 
+concerns.
+
+    ``(h) Assumption of <<NOTE: Effective date.>> Duties of Advisory 
+Committee.--On October 1, 2004, the Corporation established under this 
+section shall assume the duties, responsibilities, and authority of the 
+Advisory Committee on Veterans Affairs established under section 203 of 
+this Act.
+
+    ``(i) Use of Mails.--The Corporation may use the United States mails 
+in the same manner and under the same conditions as the departments and 
+agencies of the United States.
+    ``( j) Professional <<NOTE: Establishment.>> Certification Advisory 
+Board.--
+            ``(1) In general.--Acting through the Board of Directors, 
+        the Corporation shall establish a Professional Certification 
+        Advisory Board to create uniform guidelines and standards for 
+        the professional certification of members of the Armed Services 
+        to aid in their efficient and orderly transition to civilian 
+        occupations and professions and to remove potential barriers in 
+        the areas of licensure and certification.
+            ``(2) Membership.--The members of the Advisory Board shall 
+        serve without compensation, shall meet in the District of 
+        Columbia no less than quarterly, and shall be appointed by the 
+        Board of Directors as follows:
+                    ``(A) Private sector members.--The Corporation shall 
+                appoint not less than seven members for terms of 2 years 
+                to represent private sector organizations and 
+                associations, including the American Association of 
+                Community Colleges, the Society for Human Resource 
+                Managers, the Coalition
+
+[[Page 113 STAT. 239]]
+
+                for Professional Certification, the Council on Licensure 
+                and Enforcement, and the American Legion.
+                    ``(B) Public sector members.--The Corporation shall 
+                invite public sector members to serve at the discretion 
+                of their departments or agencies and shall--
+                          ``(i) encourage the participation of the Under 
+
+                      Secretary of Defense for Personnel and Readiness;
+                          ``(ii) encourage the participation of two 
+                      officers from each branch of the Armed Forces to 
+                      represent the Training Commands of their branch; 
+                      and
+                          ``(iii) seek the participation and guidance of 
+                      the Assistant Secretary of Labor for Veterans' 
+                      Employment and Training.
+
+    ``(k) Authorization of Appropriations.--
+            ``(1) In general.--Subject to paragraph (2), there are 
+        authorized to be appropriated to the Corporation to carry out 
+        this section--
+                    ``(A) $2,000,000 for fiscal year 2000;
+                    ``(B) $4,000,000 for fiscal year 2001;
+                    ``(C) $4,000,000 for fiscal year 2002; and
+                    ``(D) $2,000,000 for fiscal year 2003.
+            ``(2) Matching requirement.--
+                    ``(A) Fiscal year 2001.--The amount made available 
+                to the Corporation for fiscal year 2001 may not exceed 
+                twice the amount that the Corporation certifies that it 
+                will provide for that fiscal year from sources other 
+                than the Federal Government.
+                    ``(B) Subsequent fiscal years.--The amount made 
+                available to the Corporation for fiscal year 2002 or 
+                2003 may not exceed the amount that the Corporation 
+                certifies that it will provide for that fiscal year from 
+                sources other than the Federal Government.
+            ``(3) Privatization.--The Corporation shall institute and 
+        implement a plan to raise private funds and become a self-
+        sustaining corporation.''.
+
+    (b) GAO <<NOTE: Deadline. 15 USC 657c note.>> Report.--Not later 
+than 180 days after the last day of the second fiscal year beginning 
+after the date on which the initial members of the Board of Directors of 
+the National Veterans Business Development Corporation are appointed 
+under section 33(c) of the Small Business Act (as added by this 
+section), the Comptroller General of the United States shall evaluate 
+the effectiveness of the National Veterans Business Development 
+Corporation in carrying out the purposes under section 33(b) of the 
+Small Business Act (as added by this section), and submit to Congress a 
+report on the results of that evaluation.
+
+SEC. 203. <<NOTE: Establishment. 15 USC 657b note.>> ADVISORY COMMITTEE 
+            ON VETERANS BUSINESS AFFAIRS.
+
+    (a) In General.--There is established an advisory committee to be 
+known as the ``Advisory Committee on Veterans Business Affairs'' (in 
+this section referred to as the ``Committee''), which shall serve as an 
+independent source of advice and policy recommendations to--
+            (1) the Administrator of the Small Business Administration 
+        (in this section referred to as the ``Administrator'');
+            (2) the Associate Administrator for Veterans Business 
+        Development of the Small Business Administration;
+            (3) the Congress;
+
+[[Page 113 STAT. 240]]
+
+            (4) the <<NOTE: President.>> President; and
+            (5) other United States policymakers.
+
+    (b) Membership.--
+            (1) In general.--The Committee shall be composed of 15 
+        members, of whom--
+                    (A) eight shall be veterans who are owners of small 
+                business concerns (within the meaning of the term under 
+                section 3 of the Small Business Act (15 U.S.C. 632)); 
+                and
+                    (B) seven shall be representatives of veterans 
+                organizations.
+            (2) Appointment.--
+                    (A) In general.--The members of the Committee shall 
+                be appointed by the Administrator in accordance with 
+                this section.
+                    (B) Initial appointments.--
+                Not <<NOTE: Deadline.>> later than 90 days after the 
+                date of the enactment of this Act, the Administrator 
+                shall appoint the initial members of the Committee.
+            (3) Political affiliation.--Not more than eight members of 
+        the Committee shall be of the same political party as the 
+        President.
+            (4) Prohibition on federal employment.--
+                    (A) In general.--Except as provided in subparagraph 
+                (B), no member of the Committee may serve as an officer 
+                or employee of the United States.
+                    (B) Exception.--A member of the Committee who 
+                accepts a position as an officer or employee of the 
+                United States after the date of the member's appointment 
+                to the Committee may continue to serve on the Committee 
+                for not more than 30 days after such acceptance.
+            (5) Term of service.--
+                    (A) In general.--Subject to subparagraph (B), the 
+                term of service of each member of the Committee shall be 
+                3 years.
+                    (B) Terms of initial appointees.--As designated by 
+                the Administrator at the time of appointment, of the 
+                members first appointed--
+                          (i) six shall be appointed for a term of 4 
+                      years; and
+                          (ii) five shall be appointed for a term of 5 
+                      years.
+            (6) Vacancies.--The Administrator shall fill any vacancies 
+        on the membership of the Committee not later than 30 days after 
+        the date on which such vacancy occurs.
+            (7) Chairperson.--
+                    (A) In general.--The members of the Committee shall 
+                elect one of the members to be Chairperson of the 
+                Committee.
+                    (B) Vacancies in office of chairperson.--Any vacancy 
+                in the office of the Chairperson of the Committee shall 
+                be filled by the Committee at the first meeting of the 
+                Committee following the date on which the vacancy 
+                occurs.
+
+    (c) Duties.--The duties of the Committee shall be the following:
+            (1) Review, coordinate, and monitor plans and programs 
+        developed in the public and private sectors, that affect the 
+        ability of small business concerns owned and controlled by 
+        veterans to obtain capital and credit and to access markets.
+
+[[Page 113 STAT. 241]]
+
+            (2) Promote the collection of business information and 
+        survey data as they relate to veterans and small business 
+        concerns owned and controlled by veterans.
+            (3) Monitor and promote plans, programs, and operations of 
+        the departments and agencies of the United States that may 
+        contribute to the formation and growth of small business 
+        concerns owned and controlled by veterans.
+            (4) Develop and promote initiatives, policies, programs, and 
+        plans designed to foster small business concerns owned and 
+        controlled by veterans.
+            (5) In cooperation with the National Veterans Business 
+        Development Corporation, develop a comprehensive plan, to be 
+        updated annually, for joint public-private sector efforts to 
+        facilitate growth and development of small business concerns 
+        owned and controlled by veterans.
+
+    (d) Powers.--
+            (1) Hearings.--Subject to subsection (e), the Committee may 
+        hold such hearings, sit and act at such times and places, take 
+        such testimony, and receive such evidence as the Committee 
+        considers advisable to carry out its duties.
+            (2) Information from federal agencies.--Upon request of the 
+        Chairperson of the Committee, the head of any department or 
+        agency of the United States shall furnish such information to 
+        the Committee as the Committee considers to be necessary to 
+        carry out its duties.
+            (3) Use of mails.--The Committee may use the United States 
+        mails in the same manner and under the same conditions as other 
+        departments and agencies of the United States.
+            (4) Gifts.--The Committee may accept, use, and dispose of 
+        gifts or donations of services or property.
+
+    (e) Meetings.--
+            (1) In general.--The Committee shall meet, not less than 
+        three times per year, at the call of the Chairperson or at the 
+        request of the Administrator.
+            (2) Location.--Each meeting of the full Committee shall be 
+        held at the headquarters of the Small Business Administration 
+        located in Washington, District of Columbia. The Administrator 
+        shall provide suitable meeting facilities and such 
+        administrative support as may be necessary for each full meeting 
+        of the Committee.
+            (3) Task groups.--The Committee may, from time-to-time, 
+        establish temporary task groups as may be necessary in order to 
+        carry out its duties.
+
+    (f ) Compensation and Expenses.--
+            (1) No compensation.--Members of the Committee shall serve 
+        without compensation for their service to the Committee.
+            (2) Expenses.--The members of the Committee shall be 
+        reimbursed for travel and subsistence expenses in accordance 
+        with section 5703 of title 5, United States Code.
+
+    (g) Report.--Not <<NOTE: Deadline.>> later than 30 days after the 
+end of each fiscal year beginning after the date of the enactment of 
+this section, the Committee shall transmit to the Congress 
+and <<NOTE: President.>> the President a report describing the 
+activities of the Committee and any recommendations developed by the 
+Committee for the promotion of small business concerns owned and 
+controlled by veterans.
+
+    (h) Termination.--The Committee shall terminate its business on 
+September 30, 2004.
+
+[[Page 113 STAT. 242]]
+
+                     TITLE III--TECHNICAL ASSISTANCE
+
+SEC. 301. <<NOTE: 15 USC 657b note.>> SCORE PROGRAM.
+
+    (a) In General.--The <<NOTE: Memorandums.>> Administrator of the 
+Small Business Administration shall enter into a memorandum of 
+understanding with the Service Core of Retired Executives (described in 
+section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) 
+and in this section referred to as ``SCORE'') to provide for the 
+following:
+            (1) The <<NOTE: Appointment.>> appointment by SCORE in its 
+        national office of an individual to act as National Veterans 
+        Business Coordinator, whose duties shall relate exclusively to 
+        veterans business matters, and who shall be responsible for the 
+        establishment and administration of a program to coordinate 
+        counseling and training regarding entrepreneurship to veterans 
+        through the chapters of SCORE throughout the United States.
+            (2) <<NOTE: Tele- communications. Internet.>> The assistance 
+        of SCORE in the establishing and maintaining a toll-free 
+        telephone number and an Internet website to provide access for 
+        veterans to information about the counseling and training 
+        regarding entrepreneurship available to veterans through SCORE.
+            (3) The collection of statistics concerning services 
+        provided by SCORE to veterans, including service-disabled 
+        veterans, for inclusion in each annual report published by the 
+        Administrator under section 4(b)(2)(B) of the Small Business Act 
+        (15 U.S.C. 633(b)(2)(B)).
+
+    (b) Resources.--The Administrator shall provide to SCORE such 
+resources as the Administrator determines necessary for SCORE to carry 
+out the requirements of the memorandum of understanding specified in 
+paragraph (1).
+
+SEC. 302. <<NOTE: 15 USC 657b note.>> ENTREPRENEURIAL ASSISTANCE.
+
+    Not <<NOTE: Deadline. Memorandums.>> later than 180 days after the 
+date of the enactment of this Act, the Secretary of Veterans Affairs, 
+the Administrator of the Small Business Administration, and the head of 
+the association formed pursuant to section 21(a)(3)(A) of the Small 
+Business Act (15 U.S.C. 648(a)(3)(A)) shall enter into a memorandum of 
+understanding with respect to entrepreneurial assistance to veterans, 
+including service-disabled veterans, through Small Business Development 
+Centers (described in section 21 of the Small Business Act (15 U.S.C. 
+648)) and facilities of the Department of Veterans Affairs. Such 
+assistance shall include the following:
+            (1) Conducting of studies and research, and the distribution 
+        of information generated by such studies and research, on the 
+        formation, management, financing, marketing, and operation of 
+        small business concerns by veterans.
+            (2) Provision of training and counseling to veterans 
+        concerning the formation, management, financing, marketing, and 
+        operation of small business concerns.
+            (3) Provision of management and technical assistance to the 
+        owners and operators of small business concerns regarding 
+        international markets, the promotion of exports, and the 
+        transfer of technology.
+            (4) Provision of assistance and information to veterans 
+        regarding procurement opportunities with Federal, State, and 
+        local agencies, especially such agencies funded in whole or in 
+        part with Federal funds.
+
+[[Page 113 STAT. 243]]
+
+            
+        (5) <<NOTE: Establishment. Records. Internet.>> Establishment of 
+        an information clearinghouse to collect and distribute 
+        information, including by electronic means, on the assistance 
+        programs of Federal, State, and local governments, and of the 
+        private sector, including information on office locations, key 
+        personnel, telephone numbers, mail and electronic addresses, and 
+        contracting and subcontracting opportunities.
+            (6) Provision of Internet or other distance learning 
+        academic instruction for veterans in business subjects, 
+        including accounting, marketing, and business fundamentals.
+            (7) <<NOTE: Records.>> Compilation of a list of small 
+        business concerns owned and controlled by service-disabled 
+        veterans that provide products or services that could be 
+        procured by the United States and delivery of such list to each 
+        department and agency of the United States. Such list shall be 
+        delivered in hard copy and electronic form and shall include the 
+        name and address of each such small business concern and the 
+        products or services that it provides.
+
+SEC. 303. BUSINESS DEVELOPMENT AND MANAGEMENT ASSISTANCE FOR MILITARY 
+            RESERVISTS' SMALL BUSINESSES.
+
+    (a) In General.--Section 8 of the Small Business Act (15 U.S.C. 637) 
+is amended by adding at the end the following:
+    ``(l) Management Assistance for Small Businesses Affected by 
+Military Operations.--The Administration shall utilize, as appropriate, 
+its entrepreneurial development and management assistance programs, 
+including programs involving State or private sector partners, to 
+provide business counseling and training to any small business concern 
+adversely affected by the deployment of units of the Armed Forces of the 
+United States in support of a period of military conflict (as defined in 
+section 7(n)(1)).''.
+    (b) Enhanced <<NOTE: 15 USC 637 note.>> Publicity During Operation 
+Allied Force.--For the duration of Operation Allied Force and for 120 
+days thereafter, the Administration shall enhance its publicity of the 
+availability of assistance provided pursuant to the amendment made by 
+this section, including information regarding the appropriate local 
+office at which affected small businesses may seek such assistance.
+
+    (c) Guidelines.--Not <<NOTE: Deadline.>> later than 30 days after 
+the date of the enactment of this section, the Administrator of the 
+Small Business Administration shall issue such guidelines as the 
+Administrator determines to be necessary to carry out this section and 
+the amendment made by this section.
+
+                     TITLE IV--FINANCIAL ASSISTANCE
+
+SEC. 401. GENERAL BUSINESS LOAN PROGRAM.
+
+    (a) Definition of Handicapped Individual.--Section 3(f ) of the 
+Small Business Act (15 U.S.C. 632(f )) is amended to read as follows:
+    ``(f ) For purposes of section 7 of this Act, the term `handicapped 
+individual' means an individual--
+            ``(1) who has a physical, mental, or emotional impairment, 
+        defect, ailment, disease, or disability of a permanent nature 
+        which in any way limits the selection of any type of employment
+
+[[Page 113 STAT. 244]]
+
+        for which the person would otherwise be qualified or 
+        qualifiable; or
+            ``(2) who is a service-disabled veteran.''.
+
+    (b) Authorization To Make Loans.--Section 7(a)(10) of the Small 
+Business Act (15 U.S.C. 636(a)(10)) is amended--
+            (1) by inserting ``guaranteed'' after ``provide''; and
+            (2) by inserting ``, including service-disabled veterans,'' 
+        after ``handicapped individual''.
+
+SEC. 402. ASSISTANCE TO ACTIVE DUTY MILITARY RESERVISTS.
+
+    (a) Repayment Deferral for Active Duty Reservists.--
+Section 7 of the Small Business Act (15 U.S.C. 636) is amended by adding 
+at the end the following:
+    ``(n) Repayment Deferred for Active Duty Reservists.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Eligible reservist.--The term `eligible 
+                reservist' means a member of a reserve component of the 
+                Armed Forces ordered to active duty during a period of 
+                military conflict.
+                    ``(B) Essential employee.--The term `essential 
+                employee' means an individual who is employed by a small 
+                business concern and whose managerial or technical 
+                expertise is critical to the successful day-to-day 
+                operations of that small business concern.
+                    ``(C) Period of military conflict.--The term `period 
+                of military conflict' means--
+                          ``(i) a period of war declared by the 
+                      Congress;
+                          ``(ii) a period of national emergency declared 
+                      by the Congress or by the President; or
+                          ``(iii) a period of a contingency operation, 
+                      as defined in section 101(a) of title 10, United 
+                      States Code.
+                    ``(D) Qualified borrower.--The term `qualified 
+                borrower' means--
+                          ``(i) an individual who is an eligible 
+                      reservist and who received a direct loan under 
+                      subsection (a) or (b) before being ordered to 
+                      active duty; or
+                          ``(ii) a small business concern that received 
+                      a direct loan under subsection (a) or (b) before 
+                      an eligible reservist, who is an essential 
+                      employee, was ordered to active duty.
+            ``(2) Deferral of direct loans.--
+                    ``(A) In general.--The Administration shall, upon 
+                written request, defer repayment of principal and 
+                interest due on a direct loan made under subsection (a) 
+                or (b), if such loan was incurred by a qualified 
+                borrower.
+                    ``(B) Period of deferral.--The period of deferral 
+                for repayment under this paragraph shall begin on the 
+                date on which the eligible reservist is ordered to 
+                active duty and shall terminate on the date that is 180 
+                days after the date such eligible reservist is 
+                discharged or released from active duty.
+                    ``(C) Interest rate reduction during deferral.--
+                Notwithstanding any other provision of law, during the 
+                period of deferral described in subparagraph (B), the 
+                Administration may, in its discretion, reduce the 
+                interest rate on any loan qualifying for a deferral 
+                under this paragraph.
+
+[[Page 113 STAT. 245]]
+
+            ``(3) Deferral of loan guarantees and other financings.--The 
+        Administration shall--
+                    ``(A) encourage intermediaries participating in the 
+                program under subsection (m) to defer repayment of a 
+                loan made with proceeds made available under that 
+                subsection, if such loan was incurred by a small 
+                business concern that is eligible to apply for 
+                assistance under subsection (b)(3); and
+                    ``(B) not <<NOTE: Deadline. Guidelines.>> later than 
+                30 days after the date of the enactment of this 
+                subsection, establish guidelines to--
+                          ``(i) encourage lenders and other 
+                      intermediaries to defer repayment of, or provide 
+                      other relief relating to, loan guarantees under 
+                      subsection (a) and financings under section 504 of 
+                      the Small Business Investment Act of 1958 that 
+                      were incurred by small business concerns that are 
+                      eligible to apply for assistance under subsection 
+                      (b)(3), and loan guarantees provided under 
+                      subsection (m) if the intermediary provides relief 
+                      to a small business concern under this paragraph; 
+                      and
+                          ``(ii) implement a program to provide for the 
+                      deferral of repayment or other relief to any 
+                      intermediary providing relief to a small business 
+                      borrower under this paragraph.''.
+
+    (b) Disaster Loan Assistance for Military Reservists' Small 
+Businesses.--Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) 
+is amended by inserting after the undesignated paragraph that begins 
+with ``Provided, That no loan'', the following:
+            ``(3)(A) In this paragraph--
+                    ``(i) the term `essential employee' means an 
+                individual who is employed by a small business concern 
+                and whose managerial or technical expertise is critical 
+                to the successful day-to-day operations of that small 
+                business concern;
+                    ``(ii) the term `period of military conflict' has 
+                the meaning given the term in subsection (n)(1); and
+                    ``(iii) the term `substantial economic injury' means 
+                an economic harm to a business concern that results in 
+                the inability of the business concern--
+                          ``(I) to meet its obligations as they mature;
+                          ``(II) to pay its ordinary and necessary 
+                      operating expenses; or
+                          ``(III) to market, produce, or provide a 
+                      product or service ordinarily marketed, produced, 
+                      or provided by the business concern.
+            ``(B) The Administration may make such disaster loans 
+        (either directly or in cooperation with banks or other lending 
+        institutions through agreements to participate on an immediate 
+        or deferred basis) to assist a small business concern that has 
+        suffered or that is likely to suffer substantial economic injury 
+        as the result of an essential employee of such small business 
+        concern being ordered to active military duty during a period of 
+        military conflict.
+            ``(C) <<NOTE: Effective date.>> A small business concern 
+        described in subparagraph (B) shall be eligible to apply for 
+        assistance under this paragraph during the period beginning on 
+        the date on which the essential employee is ordered to active 
+        duty and ending on the date that is 90 days after the date on 
+        which such essential employee is discharged or released from 
+        active duty.
+
+[[Page 113 STAT. 246]]
+
+            ``(D) Any loan or guarantee extended pursuant to this 
+        paragraph shall be made at the same interest rate as economic 
+        injury loans under paragraph (2).
+            ``(E) No loan may be made under this paragraph, either 
+        directly or in cooperation with banks or other lending 
+        institutions through agreements to participate on an immediate 
+        or deferred basis, if the total amount outstanding and committed 
+        to the borrower under this subsection would exceed $1,500,000, 
+        unless such applicant constitutes a major source of employment 
+        in its surrounding area, as determined by the Administration, in 
+        which case the Administration, in its discretion, may waive the 
+        $1,500,000 limitation.
+            ``(F) For purposes of assistance under this paragraph, no 
+        declaration of a disaster area shall be required.''.
+
+    (c) Enhanced <<NOTE: 15 USC 636 note.>> Publicity During Operation 
+Allied Force.--For the duration of Operation Allied Force and for 120 
+days thereafter, the Administration shall enhance its publicity of the 
+availability of assistance provided pursuant to the amendments made by 
+this section, including information regarding the appropriate local 
+office at which affected small businesses may seek such assistance.
+
+    (d) Guidelines.--Not <<NOTE: Deadline. 15 USC 636 note.>> later than 
+30 days after the date of the enactment of this section, the 
+Administrator of the Small Business Administration shall issue such 
+guidelines as the Administrator determines to be necessary to carry out 
+this section and the amendments made by this section.
+
+    (e) Effective <<NOTE: 15 USC 636 note.>> Dates.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall take effect on the date of 
+        the enactment of this section.
+            (2) Disaster <<NOTE: Applicability.>> loans.--The amendments 
+        made by subsection (b) shall apply to economic injury suffered 
+        or likely to be suffered as the result of a period of military 
+        conflict occurring or ending on or after March 24, 1999.
+
+SEC. 403. MICROLOAN PROGRAM.
+
+    Section 7(m)(1)(A)(i) of the Small Business Act (15 U.S.C. 
+636(m)(1)(A)(i)) is amended by inserting ``veteran (within the meaning 
+of such term under section 3(q)),'' after ``low-income,''.
+
+SEC. 404. DEFENSE ECONOMIC TRANSITION LOAN PROGRAM.
+
+    Section 7(a)(21)(A)(ii) of the Small Business Act (15 U.S.C. 
+636(a)(21)(A)(ii)) is amended by inserting ``or a veteran'' after 
+``qualified individual''.
+
+SEC. 405. STATE DEVELOPMENT COMPANY PROGRAM.
+
+    Section 501(d)(3) of the Small Business Investment Act of 1958 (15 
+U.S.C. 695(d)(3)) is amended--
+            (1) by redesignating subparagraphs (E), (F), and (G) as 
+        subparagraphs (F), (G), and (H), respectively; and
+            (2) by inserting after subparagraph (D) the following:
+                    ``(E) expansion of small business concerns owned and 
+                controlled by veterans, as defined in section 3(q) of 
+                the Small Business Act (15 U.S.C. 632(q)), especially 
+                service-disabled veterans, as defined in such section 
+                3(q),''.
+
+[[Page 113 STAT. 247]]
+
+                     TITLE V--PROCUREMENT ASSISTANCE
+
+SEC. 501. SUBCONTRACTING.
+
+    (a) Statement of Policy.--Section 8(d)(1) of the Small Business Act 
+(15 U.S.C. 637(d)(1)) is amended by inserting ``small business concerns 
+owned and controlled by service-disabled veterans,'' after ``small 
+business concerns,'' the first place it appears in the first and second 
+sentences.
+    (b) Contract Clause.--The contract clause specified in section 
+8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)) is amended as 
+follows:
+            (1) Subparagraph (A) of such clause is amended by inserting 
+        ``small business concerns owned and controlled by veterans,'' 
+        after ``small business concerns,'' the first place it appears in 
+        the first and second sentences.
+            (2) Subparagraphs (E) and (F) of such clause are 
+        redesignated as subparagraphs (F) and (G), respectively, and the 
+        following new subparagraph is inserted after subparagraph (D) of 
+        such clause:
+            ``(E) The term `small business concern owned and controlled 
+        by veterans' shall mean a small business concern--
+                    ``(i) which is at least 51 per centum owned by one 
+                or more eligible veterans; or, in the case of any 
+                publicly owned business, at least 51 per centum of the 
+                stock of which is owned by one or more veterans; and
+                    ``(ii) whose management and daily business 
+                operations are controlled by such veterans. The 
+                contractor shall treat as veterans all individuals who 
+                are veterans within the meaning of the term under 
+                section 3(q) of the Small Business Act.''.
+            (3) Subparagraph (F) of such clause, as redesignated by 
+        paragraph (2) of this subsection, is amended by inserting 
+        ``small business concern owned and controlled by veterans,'' 
+        after ``small business concern,'' the first place it appears.
+
+    (c) Conforming Amendments.--Section 8(d) of the Small Business Act 
+(15 U.S.C. 637(d)) is amended by inserting ``small business concerns 
+owned and controlled by veterans,'' after ``small business concerns,'' 
+the first place it appears in each of paragraphs (4)(D), (4)(E), (6)(A), 
+(6)(C), (6)(F), and (10)(B).
+
+SEC. 502. PARTICIPATION IN FEDERAL PROCUREMENT.
+
+    (a) Government-Wide Participation Goals.--Section 15(g)(1) of the 
+Small Business Act (15 U.S.C. 644(g)(1)) is amended--
+            (1) in the first sentence, by inserting ``small business 
+        concerns owned and controlled by service disabled veterans,'' 
+        after ``small business concerns,'' the first place it appears;
+            (2) by inserting after the second sentence, the following: 
+        ``The Government-wide goal for participation by small business 
+        concerns owned and controlled by service-disabled veterans shall 
+        be established at not less than 3 percent of the total value of 
+        all prime contract and subcontract awards for each fiscal 
+        year.''; and
+            (3) in the second to last sentence, by inserting ``small 
+        business concerns owned and controlled by service-disabled 
+        veterans,'' after ``small business concerns,'' the first place 
+        it appears.
+
+[[Page 113 STAT. 248]]
+
+    (b) Agency Participation Goals.--Section 15 of the Small Business 
+Act (15 U.S.C. 644(g)(2)) is amended--
+            (1) in the first sentence, by inserting ``by small business 
+        concerns owned and controlled by service-disabled veterans,'' 
+        after ``small business concerns,''; the first place it appears;
+            (2) in the second sentence, by inserting ``small business 
+        concerns owned and controlled by service-disabled veterans,'' 
+        after ``small business concerns,'' the first place it appears; 
+        and
+            (3) in the fourth sentence, by inserting ``small business 
+        concerns owned and controlled by service-disabled veterans, by'' 
+        after ``including participation by''.
+
+                  TITLE VI--REPORTS AND DATA COLLECTION
+
+SEC. 601. REPORTING REQUIREMENTS.
+
+    (a) Reports to Small Business Administration.--Section 15(h)(1) of 
+the Small Business Act (15 U.S.C. 644(h)(1)) is amended by inserting 
+``small business concerns owned and controlled by veterans (including 
+service-disabled veterans),'' after ``small business concerns,'' the 
+first place it appears.
+    (b) Reports to the President and the Congress.--Section 15(h)(2) of 
+the Small Business Act (15 U.S.C. 644(h)(2)) is amended--
+            (1) by inserting ``and the Congress'' before the period at 
+        the end of first sentence; and
+            (2) in each of subparagraphs (A), (D), and (E), by inserting 
+        ``small business concerns owned and controlled by service-
+        disabled veterans,'' after ``small business concerns,'' the 
+        first place it appears.
+
+SEC. 602. REPORT ON SMALL BUSINESS AND COMPETITION.
+
+    Section 303(e) of the Small Business Economic Policy Act of 1980 (15 
+U.S.C. 631b(e)) is amended--
+            (1) in paragraph (1), by striking ``and'' after the 
+        semicolon;
+            (2) in paragraph (2), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(3) small business concerns owned and controlled by 
+        veterans, as defined in section 3(q) of the Small Business Act 
+        (15 U.S.C. 632(q)), and small business concerns owned and 
+        controlled by service-disabled veterans, as defined in such 
+        section 3(q).''.
+
+SEC. 603. <<NOTE: 15 USC 657b note.>> ANNUAL REPORT OF THE 
+            ADMINISTRATOR.
+
+    The Administrator of the Small Business Administration shall 
+transmit annually to the Committees on Small Business and Veterans 
+Affairs of the House of Representatives and the Senate a report on the 
+needs of small business concerns owned and controlled by veterans and 
+small business concerns owned and controlled by service-disabled 
+veterans, which shall include information on--
+            (1) the availability of Small Business Administration 
+        programs for such small business concerns and the degree of 
+        utilization of such programs by such small business concerns 
+        during the preceding 12-month period, including statistical
+
+[[Page 113 STAT. 249]]
+
+        information on such utilization as compared to the small 
+        business community as a whole;
+            (2) the percentage and dollar value of Federal contracts 
+        awarded to such small business concerns during the preceding 12-
+        month period, based on the data collected pursuant to section 
+        604(d); and
+            (3) proposals to improve the access of such small business 
+        concerns to the assistance made available by the United States.
+
+SEC. 604. <<NOTE: 15 USC 657b note.>> DATA AND INFORMATION COLLECTION.
+
+    (a) Information on Federal Procurement Practices.--The Administrator 
+of the Small Business Administration shall, for each fiscal year--
+            (1) collect information concerning the procurement practices 
+        and procedures of each department and agency of the United 
+        States having procurement authority;
+            (2) <<NOTE: Publication.>> publish and disseminate such 
+        information to procurement officers in all Federal agencies; and
+            (3) make such information available to any small business 
+        concern requesting such information.
+
+    (b) Identification of Small Business Concerns Owned by Eligible 
+Veterans.--Each fiscal year, the Secretary of Veterans Affairs shall, in 
+consultation with the Assistant Secretary of Labor for Veterans' 
+Employment and Training and the Administrator of the Small Business 
+Administration, identify small business concerns owned and controlled by 
+veterans in the United States. The Secretary shall inform each small 
+business concern identified under this paragraph that information on 
+Federal procurement is available from the Administrator.
+    (c) Self-Employment <<NOTE: Memorandums.>> Opportunities.--The 
+Secretary of Labor, the Secretary of Veterans Affairs, and the 
+Administrator of the Small Business Administration shall enter into a 
+memorandum of understanding to provide for coordination of vocational 
+rehabilitation services, technical and managerial assistance, and 
+financial assistance to veterans, including service-disabled veterans, 
+seeking to employ themselves by forming or expanding small business 
+concerns. The memorandum of understanding shall include recommendations 
+for expanding existing programs or establishing new programs to provide 
+such services or assistance to such veterans.
+
+    (d) Data Collection Required.--The Federal Procurement Data System 
+described in section 6(d)(4)(A) of the Office of Federal Procurement 
+Policy Act (41 U.S.C. 405(d)(4)(A)) shall be modified to collect data 
+regarding the percentage and dollar value of prime contracts and 
+subcontracts awarded to small business concerns owned and controlled by 
+veterans and small business concerns owned and controlled by service-
+disabled veterans.
+
+                   TITLE VII--MISCELLANEOUS PROVISIONS
+
+SEC. 701. ADMINISTRATOR'S <<NOTE: 15 USC 633 note.>> ORDER.
+
+    The Administrator of the Small Business Administration shall 
+strengthen and reissue the Administrator's order regarding the third 
+sentence of section 4(b)(1) of the Small Business Act (15
+
+[[Page 113 STAT. 250]]
+
+U.S.C. 633(b)(1)), relating to nondiscrimination and special 
+considerations for veterans, and take all necessary steps to ensure that 
+its provisions are fully and vigorously implemented.
+
+SEC. 702. SMALL BUSINESS ADMINISTRATION OFFICE OF ADVOCACY.
+
+    Section 202 of Public Law 94-305 (15 U.S.C. 634b) is amended--
+            (1) in paragraph (10), by striking ``and'' at the end;
+            (2) in paragraph (11), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(12) evaluate the efforts of each department and agency of 
+        the United States, and of private industry, to assist small 
+        business concerns owned and controlled by veterans, as defined 
+        in section 3(q) of the Small Business Act (15 U.S.C. 632(q)), 
+        and small business concerns owned and controlled by serviced-
+        disabled veterans, as defined in such section 3(q), and to 
+        provide statistical information on the utilization of such 
+        programs by such small business concerns, and to make 
+        appropriate recommendations to the Administrator of the Small 
+        Business Administration and to the Congress in order to promote 
+        the establishment and growth of those small business 
+        concerns.''.
+
+SEC. 703. STUDY OF FIXED-ASSET SMALL BUSINESS LOANS.
+
+    (a)  In General.--The Comptroller General shall conduct a study on 
+whether there would exist any additional risk or cost to the United 
+States if--
+            (1) up to 10 percent of the loans guaranteed under chapter 
+        37 of title 38, United States Code, were made for the 
+        acquisition or construction of fixed assets used in a trade or 
+        business rather than for the construction or purchase of 
+        residential buildings; and
+            (2) such loans for acquisition or construction of fixed 
+        assets were for a term of not more than 10 years and the terms 
+        regarding eligibility, loan limits, interest, fees, and down 
+        payment were the same as for other loans guaranteed under such 
+        chapter.
+
+    (b) Report.--
+            (1) In <<NOTE: Deadline.>> general.--Not later than 180 days 
+        after the enactment of this Act, the Comptroller General shall 
+        transmit the report described in subsection (a) to the 
+        Committees on Veterans' Affairs and the Committees on Small 
+        Business of the House of Representatives and the Senate.
+            (2) Contents of report.--The report required by paragraph 
+        (1) shall specifically address the following:
+                    (A) With respect to the change in the veterans' 
+                housing loan program contemplated under subsection (a):
+                          (i) The increase or decrease in administrative 
+                      costs to the Department of Veterans Affairs.
+                          (ii) The increase or decrease in the degree of 
+                      exposure of the United States as the guarantor of 
+                      the loans.
+                          (iii) The increase or decrease in the Federal 
+                      subsidy rate that would be possible.
+                          (iv) Any increase in the interest rate or fees 
+                      charged to the borrower or lender that would be 
+                      required to maintain present program costs.
+
+[[Page 113 STAT. 251]]
+
+                    (B) Information regarding the delinquency rates, 
+                default rates, length of time required for recovery 
+                after default, for fixed-asset business loans, of a size 
+                and duration comparable to those contemplated under 
+                subsection (a), made available in the private market or 
+                under section 503 of the Small Business Investment Act 
+                of 1958.
+
+    Approved August 17, 1999.
+
+LEGISLATIVE HISTORY--H.R. 1568:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 106-206, Pt. 1 (Comm. on Small Business).
+SENATE REPORTS: No. 106-136 (Comm. on Small Business).
+CONGRESSIONAL RECORD, Vol. 145 (1999):
+            June 29, considered and passed House.
+            Aug. 5, considered and passed Senate, amended. House 
+                concurred in Senate amendment.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 35 (1999):
+            Aug. 17, Presidential statement.
+
+                                  
+

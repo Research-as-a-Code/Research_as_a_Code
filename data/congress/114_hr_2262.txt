@@ -1,0 +1,1169 @@
+
+[114th Congress Public Law 90]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 703]]
+
+            U.S. COMMERCIAL SPACE LAUNCH COMPETITIVENESS ACT
+
+[[Page 129 STAT. 704]]
+
+Public Law 114-90
+114th Congress
+
+                                 An Act
+
+
+ 
+  To facilitate a pro-growth environment for the developing commercial 
+  space industry by encouraging private sector investment and creating 
+    more stable and predictable regulatory conditions, and for other 
+            purposes. <<NOTE: Nov. 25, 2015 -  [H.R. 2262]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: U.S. Commercial 
+Space Launch Competitiveness Act.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS; REFERENCES.
+
+    (a) <<NOTE: 51 USC 10101 note.>>  Short Title.--This Act may be 
+cited as the ``U.S. Commercial Space Launch Competitiveness Act''.
+
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents; references.
+
+TITLE I--SPURRING PRIVATE AEROSPACE COMPETITIVENESS AND ENTREPRENEURSHIP
+
+Sec. 101. Short title.
+Sec. 102. International launch competitiveness.
+Sec. 103. Indemnification for space flight participants.
+Sec. 104. Launch license flexibility.
+Sec. 105. Licensing report.
+Sec. 106. Federal jurisdiction.
+Sec. 107. Cross waivers.
+Sec. 108. Space authority.
+Sec. 109. Orbital traffic management.
+Sec. 110. Space surveillance and situational awareness data.
+Sec. 111. Consensus standards and extension of certain safety regulation 
+           requirements.
+Sec. 112. Government astronauts.
+Sec. 113. Streamline commercial space launch activities.
+Sec. 114. Operation and utilization of the ISS.
+Sec. 115. State commercial launch facilities.
+Sec. 116. Space support vehicles study.
+Sec. 117. Space launch system update.
+
+                   TITLE II--COMMERCIAL REMOTE SENSING
+
+Sec. 201. Annual reports.
+Sec. 202. Statutory update report.
+
+                   TITLE III--OFFICE OF SPACE COMMERCE
+
+Sec. 301. Renaming of office of space commercialization.
+Sec. 302. Functions of the office of space commerce.
+
+          TITLE IV--SPACE RESOURCE EXPLORATION AND UTILIZATION
+
+Sec. 401. Short title.
+Sec. 402. Title 51 amendment.
+Sec. 403. Disclaimer of extraterritorial sovereignty.
+
+    (c) References to Title 51, United States Code.--Except as otherwise 
+expressly provided, wherever in this Act an amendment or repeal is 
+expressed in terms of an amendment to, or
+
+[[Page 129 STAT. 705]]
+
+repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of title 51, 
+United States Code.
+
+TITLE I-- <<NOTE: Spurring Private Aerospace Competitiveness and Entre- 
+ preneurship Act of 2015.>> SPURRING PRIVATE AEROSPACE COMPETITIVENESS 
+AND ENTREPRENEURSHIP
+SEC. 101. <<NOTE: 51 USC 10101 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Spurring Private Aerospace 
+Competitiveness and Entrepreneurship Act of 2015'' or ``SPACE Act of 
+2015''.
+SEC. 102. INTERNATIONAL LAUNCH COMPETITIVENESS.
+
+    (a) Sense of Congress.--It is the sense of Congress that it is in 
+the public interest to update the methodology used to calculate the 
+maximum probable loss from claims under section 50914 of title 51, 
+United States Code, with a validated risk profile approach in order to 
+consistently compute valid and reasonable maximum probable loss values.
+    (b) Implementation.-- 
+<<NOTE: Deadline. Consultation. Evaluation. Plans.>> Not later than 180 
+days after the date of enactment of this Act, the Secretary of 
+Transportation, in consultation with the commercial space sector and 
+insurance providers, shall--
+            (1) evaluate the methodology used to calculate the maximum 
+        probable loss from claims under section 50914 of title 51, 
+        United States Code, and, if necessary, develop a plan to update 
+        that methodology;
+            (2) in evaluating or developing a plan under paragraph (1)--
+                    (A) ensure that the Federal Government is not 
+                exposed to greater costs than intended and that launch 
+                companies are not required to purchase more insurance 
+                coverage than necessary; and
+                    (B) consider the impact of the cost to both the 
+                industry and the Government of implementing an updated 
+                methodology; and
+            (3) submit the evaluation, and any plan, to the Committee on 
+        Commerce, Science, and Transportation of the Senate and the 
+        Committee on Science, Space, and Technology of the House of 
+        Representatives.
+
+    (c) Independent Assessment.-- <<NOTE: Deadline.>> Not later than 270 
+days after the date the evaluation is submitted under subsection (b)(3), 
+the Comptroller General shall submit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on Science, 
+Space, and Technology of the House of Representatives an assessment of--
+            (1) the analysis and conclusions provided by the Secretary 
+        of Transportation in the evaluation, and any plan, under 
+        subsection (b);
+            (2) the implementation schedule proposed by the Secretary in 
+        the plan described in paragraph (1);
+            (3) the suitability of the plan described in paragraph (1) 
+        for implementation; and
+
+[[Page 129 STAT. 706]]
+
+            (4) any further actions needed to implement the plan 
+        described in paragraph (1) or otherwise accomplish the purpose 
+        of this section.
+
+    (d) Launch Liability Extension.--Section 50915(f) <<NOTE: 51 USC 
+50915.>>  is amended by striking ``December 31, 2016'' and inserting 
+``September 30, 2025''.
+SEC. 103. INDEMNIFICATION FOR SPACE FLIGHT PARTICIPANTS.
+
+    (a) In General.--Chapter 509 is amended--
+            (1) <<NOTE: 51 USC 50914.>>  in section 50914(a)--
+                    (A) in paragraph (4), by adding at the end the 
+                following:
+                    ``(E) space flight participants.''; and
+                    (B) by adding at the end the following:
+            ``(5) Subparagraph (E) of paragraph (4) ceases to be 
+        effective September 30, 2025.''; and
+            (2) in section 50915(a)--
+                    (A) in paragraph (1), by striking ``a licensee or 
+                transferee under this chapter, a contractor, 
+                subcontractor, or customer of the licensee or 
+                transferee, or a contractor or subcontractor of a 
+                customer, but not against a space flight participant,'' 
+                and inserting ``a person described in paragraph 
+                (3)(A)''; and
+                    (B) by adding at the end the following:
+            ``(3)(A) A person described in this subparagraph is--
+                    ``(i) a licensee or transferee under this chapter;
+                    ``(ii) a contractor, subcontractor, or customer of 
+                the licensee or transferee;
+                    ``(iii) a contractor or subcontractor of a customer; 
+                or
+                    ``(iv) a space flight participant.
+            ``(B) <<NOTE: Termination date.>>  Clause (iv) of 
+        subparagraph (A) ceases to be effective September 30, 2025.''.
+SEC. 104. LAUNCH LICENSE FLEXIBILITY.
+
+    Section 50906 <<NOTE: 51 USC 50906.>>  is amended--
+            (1) in subsection (d)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``that will be launched or reentered'' and 
+                inserting ``or reusable launch vehicles that will be 
+                launched into a suborbital trajectory or reentered under 
+                that permit'';
+                    (B) by amending paragraph (1) to read as follows:
+            ``(1) research and development to test design concepts, 
+        equipment, or operating techniques;''; and
+                    (C) in paragraph (3)--
+                          (i) by striking ``prior to obtaining a 
+                      license''; and
+                          (ii) by inserting ``or vehicle'' after 
+                      ``design of the rocket'';
+            (2) in subsection (e)--
+                    (A) in paragraph (1), by striking ``suborbital 
+                rocket design'' and inserting ``suborbital rocket or 
+                suborbital rocket design, or for a particular reusable 
+                launch vehicle or reusable launch vehicle design,''; and
+                    (B) in paragraph (2), by inserting ``or launch 
+                vehicle'' after ``the suborbital rocket'';
+            (3) by amending subsection (g) to read as follows:
+
+    ``(g) The Secretary may issue a permit under this section 
+notwithstanding any license issued under this chapter. The issuance of a 
+license under this chapter may not invalidate a permit issued under this 
+section.''; and
+
+[[Page 129 STAT. 707]]
+
+            (4) in subsection (h), by inserting ``or reusable launch 
+        vehicle'' after ``suborbital rocket''.
+SEC. 105. LICENSING REPORT.
+
+    Not later than 120 days after the date of enactment of this Act, the 
+Secretary of Transportation shall submit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on Science, 
+Space, and Technology of the House of Representatives a report on 
+approaches for streamlining the licensing and permitting process of 
+launch vehicles, reentry vehicles, or components of launch or reentry 
+vehicles, to enable non-launch flight operations related to space 
+transportation. The report shall include approaches to improve 
+efficiency, reduce unnecessary costs, resolve inconsistencies, remove 
+duplication, and minimize unwarranted constraints. 
+The <<NOTE: Assessment.>> report shall also include an assessment of 
+existing private and government infrastructure, as appropriate, in 
+future licensing activities.
+SEC. 106. FEDERAL JURISDICTION.
+
+    Section 50914 <<NOTE: 51 USC 50914.>>  is amended by adding at the 
+end the following:
+
+    ``(g) Federal Jurisdiction.--Any claim by a third party or space 
+flight participant for death, bodily injury, or property damage or loss 
+resulting from an activity carried out under the license shall be the 
+exclusive jurisdiction of the Federal courts.''.
+SEC. 107. CROSS WAIVERS.
+
+    Section 50914(b)(1) is amended to read as follows:
+            ``(1)(A) A launch or reentry license issued or transferred 
+        under this chapter shall contain a provision requiring the 
+        licensee or transferee to make a reciprocal waiver of claims 
+        with applicable parties involved in launch services or reentry 
+        services under which each party to the waiver agrees to be 
+        responsible for personal injury to, death of, or property damage 
+        or loss sustained by it or its own employees resulting from an 
+        activity carried out under the applicable license.
+            ``(B) <<NOTE: Definition.>>  In this paragraph, the term 
+        `applicable parties' means--
+                    ``(i) contractors, subcontractors, and customers of 
+                the licensee or transferee;
+                    ``(ii) contractors and subcontractors of the 
+                customers; and
+                    ``(iii) space flight participants.
+            ``(C) <<NOTE: Termination date.>>  Clause (iii) of 
+        subparagraph (B) ceases to be effective September 30, 2025.''.
+SEC. 108. SPACE AUTHORITY.
+
+    (a) In General.-- <<NOTE: Deadline. Consultation.>> Not later than 
+120 days after the date of enactment of this Act, the Director of the 
+Office of Science and Technology Policy, in consultation with the 
+Secretary of State, the Secretary of Transportation, the Administrator 
+of the National Aeronautics and Space Administration, the heads of other 
+relevant Federal agencies, and the commercial space sector, shall--
+            (1) <<NOTE: Assessment.>>  assess current, and proposed 
+        near-term, commercial non-governmental activities conducted in 
+        space;
+            (2) identify appropriate authorization and supervision 
+        authorities for the activities described in paragraph (1);
+
+[[Page 129 STAT. 708]]
+
+            (3) <<NOTE: Recommenda- tions.>>  recommend an authorization 
+        and supervision approach that would prioritize safety, utilize 
+        existing authorities, minimize burdens to the industry, promote 
+        the U.S. commercial space sector, and meet the United States 
+        obligations under international treaties; and
+            (4) <<NOTE: Reports.>>  submit to the Committee on Commerce, 
+        Science, and Transportation of the Senate and the Committee on 
+        Science, Space, and Technology of the House of Representatives a 
+        report on the activities described in paragraphs (1), (2), and 
+        (3).
+
+    (b) Exception.--Nothing in this section shall apply to the 
+activities of the ISS national laboratory as described in section 504 of 
+the National Aeronautics and Space Administration Authorization Act of 
+2010 (42 U.S.C. 18354), including any research or development projects 
+utilizing the ISS national laboratory.
+SEC. 109. ORBITAL TRAFFIC MANAGEMENT.
+
+    (a) Sense of Congress.--It is the sense of the Congress that an 
+improved framework may be necessary for space traffic management of 
+United States Government assets and United States private sector assets 
+in outer space and orbital debris mitigation.
+    (b) Study.-- <<NOTE: Deadline. Consultation.>> Not later than 90 
+days after the date of enactment of this Act, the Administrator of the 
+National Aeronautics and Space Administration, in consultation with the 
+Secretary of Transportation, the Chair of the Federal Communications 
+Commission, the Secretary of Commerce, and the Secretary of Defense, 
+shall enter into an arrangement with an independent systems engineering 
+and technical assistance organization to study alternate frameworks for 
+the management of space traffic and orbital activities.
+
+    (c) <<NOTE: Assessments.>>  Contents.--The study shall include the 
+following:
+            (1) An assessment of current regulations, best practices, 
+        and industry standards that apply to space traffic management 
+        and orbital debris mitigation.
+            (2) An assessment of current statutory authorities granted 
+        to the Federal Communications Commission, the Department of 
+        Transportation, and the Department of Commerce that apply to 
+        space traffic management and orbital debris mitigation and how 
+        those agencies utilize and coordinate those authorities.
+            (3) <<NOTE: Review.>>  A review of all space traffic 
+        management and orbital debris requirements under treaties and 
+        other international agreements to which the United States is a 
+        signatory, and other nonbinding international arrangements in 
+        which the United States participates, and the manner and extent 
+        to which the Federal Government complies with those requirements 
+        and arrangements.
+            (4) An assessment of existing Federal Government assets used 
+        to conduct space traffic management and space situational 
+        awareness.
+            (5) An assessment of the risk to space traffic management 
+        associated with smallsats and any necessary Government 
+        coordination for their launch and utilization to avoid 
+        congestion of the orbital environment and improve space 
+        situational awareness.
+            (6) An assessment of existing private sector information 
+        sharing activities associated with space situational awareness 
+        and space traffic management.
+
+[[Page 129 STAT. 709]]
+
+            (7) <<NOTE: Recommenda- tions.>>  Recommendations related to 
+        the appropriate framework for the protection of the health, 
+        safety, and welfare of the public and economic vitality of the 
+        space industry.
+
+    (d) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Administrator shall submit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on Science, 
+Space, and Technology of the House of Representatives the study required 
+in subsection (b).
+    (e) Department of Defense Authorities.--
+            (1) Sense of congress.--It is the sense of Congress that the 
+        Department of Defense plays a vital and unique role in 
+        protecting national security assets in space.
+            (2) Rule of construction.--Nothing in this section may be 
+        construed to affect the authority of the Secretary of Defense as 
+        it relates to safeguarding the national security.
+SEC. 110. SPACE SURVEILLANCE AND SITUATIONAL AWARENESS DATA.
+
+     <<NOTE: Deadline.>> Not later than 120 days after the date of 
+enactment of this Act, the Secretary of Transportation in concurrence 
+with the Secretary of Defense shall--
+            (1) <<NOTE: Consultation.>>  in consultation with the heads 
+        of other relevant Federal agencies, study the feasibility of 
+        processing and releasing safety-related space situational 
+        awareness data and information to any entity consistent with 
+        national security interests and public safety obligations of the 
+        United States; and
+            (2) <<NOTE: Reports.>>  submit a report on the feasibility 
+        study to the Committee on Commerce, Science, and Transportation 
+        of the Senate and the Committee on Science, Space, and 
+        Technology of the House of Representatives.
+SEC. 111. CONSENSUS STANDARDS AND EXTENSION OF CERTAIN SAFETY 
+                        REGULATION REQUIREMENTS.
+
+    Section 50905(c) <<NOTE: 51 USC 50905.>>  is amended--
+            (1) in paragraph (1), by inserting ``In general.--'' before 
+        ``The Secretary'';
+            (2) in paragraph (2), by inserting ``Regulations.--'' before 
+        ``Regulations'';
+            (3) by striking paragraph (3);
+            (4) by redesignating paragraph (4) as paragraph (10);
+            (5) by inserting after paragraph (2) the following:
+            ``(3) Facilitation of standards.--The Secretary shall 
+        continue to work with the commercial space sector, including the 
+        Commercial Space Transportation Advisory Committee, or its 
+        successor organization, to facilitate the development of 
+        voluntary industry consensus standards based on recommended best 
+        practices to improve the safety of crew, government astronauts, 
+        and space flight participants as the commercial space sector 
+        continues to mature.
+            ``(4) Communication and transparency.--Nothing in this 
+        subsection shall be construed to limit the authority of the 
+        Secretary to discuss potential regulatory approaches, potential 
+        performance standards, or any other topic related to this 
+        subsection with the commercial space industry, including 
+        observations, findings, and recommendations from the Commercial 
+        Space Transportation Advisory Committee, or its successor 
+        organization, prior to the issuance of a notice of proposed 
+        rulemaking. Such discussions shall not be construed to permit
+
+[[Page 129 STAT. 710]]
+
+        the Secretary to promulgate industry regulations except as 
+        otherwise provided in this section.
+            ``(5) Interim voluntary industry consensus standards 
+        reports.--
+                    ``(A) In general.-- 
+                <<NOTE: Deadlines. Consultation.>> Not later than 
+                December 31, 2016, and every 30 months thereafter until 
+                December 31, 2021, the Secretary, in consultation and 
+                coordination with the commercial space sector, including 
+                the Commercial Space Transportation Advisory Committee, 
+                or its successor organization, shall submit to the 
+                Committee on Commerce, Science, and Transportation of 
+                the Senate and the Committee on Science, Space, and 
+                Technology of the House of Representatives a report on 
+                the progress of the commercial space transportation 
+                industry in developing voluntary industry consensus 
+                standards that promote best practices to improve 
+                industry safety.
+                    ``(B) Contents.--The report shall include, at a 
+                minimum--
+                          ``(i) any voluntary industry consensus 
+                      standards that have been accepted by the industry 
+                      at large;
+                          ``(ii) the identification of areas that have 
+                      the potential to become voluntary industry 
+                      consensus standards that are currently under 
+                      consideration by the industry at large;
+                          ``(iii) <<NOTE: Assessment.>>  an assessment 
+                      from the Secretary on the general progress of the 
+                      industry in adopting voluntary industry consensus 
+                      standards;
+                          ``(iv) any lessons learned about voluntary 
+                      industry consensus standards, best practices, and 
+                      commercial space launch operations;
+                          ``(v) any lessons learned associated with the 
+                      development, potential application, and acceptance 
+                      of voluntary industry consensus standards, best 
+                      practices, and commercial space launch operations; 
+                      and
+                          ``(vi) <<NOTE: Recommenda- tions.>>  
+                      recommendations, findings, or observations from 
+                      the Commercial Space Transportation Advisory 
+                      Committee, or its successor organization, on the 
+                      progress of the industry in developing voluntary 
+                      industry consensus standards that promote best 
+                      practices to improve industry safety.
+            ``(6) Report.-- <<NOTE: Consultation.>> Not later than 270 
+        days after the date of enactment of the SPACE Act of 2015, the 
+        Secretary, in consultation and coordination with the commercial 
+        space sector, including the Commercial Space Transportation 
+        Advisory Committee, or its successor organization, shall submit 
+        to the Committee on Commerce, Science, and Transportation of the 
+        Senate and the Committee on Science, Space, and Technology of 
+        the House of Representatives a report specifying key industry 
+        metrics that might indicate readiness of the commercial space 
+        sector and the Department of Transportation to transition to a 
+        safety framework that may include regulations under paragraph 
+        (9) that considers space flight participant, government 
+        astronaut, and crew safety.
+            ``(7) <<NOTE: Consultation.>>  Reports.--Not later than 
+        March 31 of each of 2018 and 2022, the Secretary, in 
+        consultation and coordination with the commercial space sector, 
+        including the Commercial Space
+
+[[Page 129 STAT. 711]]
+
+        Transportation Advisory Committee, or its successor 
+        organization, shall submit to the Committee on Commerce, 
+        Science, and Transportation of the Senate and the Committee on 
+        Science, Space, and Technology of the House of Representatives a 
+        report that identifies the activities, described in this 
+        subsection and subsection (d) most appropriate for a new safety 
+        framework that may include regulatory action, if any, and a 
+        proposed transition plan for such safety framework.
+            ``(8) Independent review.-- 
+        <<NOTE: Deadline. Contracts. Assessment.>> Not later than 
+        December 31, 2022, an independent systems engineering and 
+        technical assistance organization or standards development 
+        organization contracted by the Secretary shall submit to the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives an assessment of the readiness of the 
+        commercial space industry and the Federal Government to 
+        transition to a safety framework that may include regulations. 
+        As <<NOTE: Evaluation.>>  part of the review, the contracted 
+        organization shall evaluate--
+                    ``(A) the progress of the commercial space industry 
+                in adopting voluntary industry consensus standards as 
+                reported by the Secretary in the interim assessments 
+                included in the reports under paragraph (5);
+                    ``(B) the progress of the commercial space industry 
+                toward meeting the key industry metrics identified by 
+                the report under paragraph (6), including the knowledge 
+                and operational experience obtained by the commercial 
+                space industry while providing services for compensation 
+                or hire; and
+                    ``(C) whether the areas identified in the reports 
+                under paragraph (5) are appropriate for regulatory 
+                action, or further development of voluntary industry 
+                consensus standards, considering the progress evaluated 
+                in subparagraphs (A) and (B) of this paragraph.
+            ``(9) Learning period.-- <<NOTE: Effective date.>> Beginning 
+        on October 1, 2023, the Secretary may propose regulations under 
+        this subsection without regard to subparagraphs (C) and (D) of 
+        paragraph (2). The development of any such regulations shall 
+        take into consideration the evolving standards of the commercial 
+        space flight industry as identified in the reports published 
+        under paragraphs (5), (6), and (7).''; and
+            (6) in paragraph (10), as redesignated, by inserting ``Rule 
+        of construction.--'' before ``Nothing''.
+SEC. 112. GOVERNMENT ASTRONAUTS.
+
+    (a) Findings and Purpose.--Section 50901(15) <<NOTE: 51 USC 
+50901.>>  is amended by inserting ``, government astronauts,'' after 
+``crew'' each place it appears.
+
+    (b) <<NOTE: 51 USC 20113 note.>>  Sense of Congress.--The National 
+Aeronautics and Space Administration has a need to fly government 
+astronauts (as defined in section 50902 of title 51, United States Code, 
+as amended) within commercial launch vehicles and reentry vehicles under 
+chapter 509 of that title. This need was identified by the Secretary of 
+Transportation and the Administrator of the National Aeronautics and 
+Space Administration due to the intended use of commercial launch 
+vehicles and reentry vehicles developed under the Commercial Crew 
+Development Program, authorized in section
+
+[[Page 129 STAT. 712]]
+
+402 of the National Aeronautics and Space Administration Authorization 
+Act of 2010 (124 Stat. 2820; Public Law 111-267). It is the sense of 
+Congress that the authority delegated to the Administration by the 
+amendment made by subsection (d) of this section should be used for that 
+purpose.
+
+    (c) Definition of Government Astronaut.--Section 50902 is amended--
+            (1) by redesignating paragraphs (4) through (22) as 
+        paragraphs (7) through (25), respectively; and
+            (2) by inserting after paragraph (3) the following:
+            ``(4) `government astronaut' means an individual who--
+                    ``(A) is designated by the National Aeronautics and 
+                Space Administration under section 20113(n);
+                    ``(B) is carried within a launch vehicle or reentry 
+                vehicle in the course of his or her employment, which 
+                may include performance of activities directly relating 
+                to the launch, reentry, or other operation of the launch 
+                vehicle or reentry vehicle; and
+                    ``(C) is either--
+                          ``(i) an employee of the United States 
+                      Government, including the uniformed services, 
+                      engaged in the performance of a Federal function 
+                      under authority of law or an Executive act; or
+                          ``(ii) an international partner astronaut.
+            ``(5) `international partner astronaut' means an individual 
+        designated under Article 11 of the International Space Station 
+        Intergovernmental Agreement, by a partner to that agreement 
+        other than the United States, as qualified to serve as an 
+        International Space Station crew member.
+            ``(6) `International Space Station Intergovernmental 
+        Agreement' means the Agreement Concerning Cooperation on the 
+        International Space Station, signed at Washington January 29, 
+        1998 (TIAS 12927).''.
+
+    (d) Powers of the National Aeronautics and Space Administration in 
+Performance of Functions.--Section <<NOTE: 51 USC 20113.>>  20113 is 
+amended by adding at the end the following:
+
+    ``(n) Identification of Government Astronauts.-- 
+<<NOTE: Designation.>> For purposes of a license issued or transferred 
+by the Secretary of Transportation under chapter 509 to launch a launch 
+vehicle or to reenter a reentry vehicle carrying a government astronaut 
+(as defined in section 50902), the Administration shall designate a 
+government astronaut in accordance with requirements prescribed by the 
+Administration.''.
+
+    (e) Definition of Launch.--Paragraph (7) of section 50902, as 
+redesignated, <<NOTE: 51 USC 50902.>>  is amended by striking ``and any 
+payload, crew, or space flight participant'' and inserting ``and any 
+payload or human being''.
+
+    (f) Definition of Launch Services.--Paragraph (9) of section 50902, 
+as redesignated, is amended by striking ``payload, crew (including crew 
+training), or space flight participant'' and inserting ``payload, crew 
+(including crew training), government astronaut, or space flight 
+participant''.
+    (g) Definition of Reenter and Reentry.--Paragraph (16) of section 
+50902, as redesignated, is amended by striking ``and its payload, crew, 
+or space flight participants, if any,'' and inserting ``and its payload 
+or human beings, if any,''.
+
+[[Page 129 STAT. 713]]
+
+    (h) Definition of Reentry Services.--Paragraph (17) of section 
+50902, <<NOTE: 51 USC 50902.>>  as redesignated, is amended by striking 
+``payload, crew (including crew training), or space flight participant, 
+if any,'' and inserting ``payload, crew (including crew training), 
+government astronaut, or space flight participant, if any,''.
+
+    (i) Definition of Space Flight Participant.--Paragraph (20) of 
+section 50902, as redesignated, is amended to read as follows:
+            ``(20) `space flight participant' means an individual, who 
+        is not crew or a government astronaut, carried within a launch 
+        vehicle or reentry vehicle.''.
+
+    (j) Definition of Third Party.--Paragraph (24)(E) of section 50902, 
+as redesignated, is amended by inserting ``, government astronauts,'' 
+after ``crew''.
+    (k) Restrictions on Launches, Operations, and Reentries; Single 
+License or Permit.--Section 50904(d) <<NOTE: 51 USC 50904.>>  is amended 
+by striking ``activities involving crew or space flight participants'' 
+and inserting ``activities involving crew, government astronauts, or 
+space flight participants''.
+
+    (l) License Applications and Requirements; Applications.--Section 
+50905 <<NOTE: 51 USC 50905.>>  is amended--
+            (1) in subsection (a)(2), by striking ``crews and space 
+        flight participants'' and inserting ``crew, government 
+        astronauts, and space flight participants'';
+            (2) in subsection (b)(2)(D), by striking ``crew or space 
+        flight participants'' and inserting ``crew, government 
+        astronauts, or space flight participants''; and
+            (3) in subsection (c)--
+                    (A) in paragraph (1), by striking ``crew and space 
+                flight participants'' and inserting ``crew, government 
+                astronauts, and space flight participants''; and
+                    (B) in paragraph (2), by striking ``to crew or space 
+                flight participants'' each place it appears and 
+                inserting ``to crew, government astronauts, or space 
+                flight participants''.
+
+    (m) Monitoring Activities.--Section 50907(a) <<NOTE: 51 USC 
+50907.>>  is amended by striking ``at a site used for crew or space 
+flight participant training'' and inserting ``at a site not owned or 
+operated by the Federal Government or a foreign government used for 
+crew, government astronaut, or space flight participant training''.
+
+    (n) Additional Suspensions.--Section 50908(d)(1) <<NOTE: 51 USC 
+50908.>>  is amended by striking ``to crew or space flight 
+participants'' each place it appears and inserting ``to any human 
+being''.
+
+    (o) Relationship to Other Executive Agencies, Laws, and 
+International Obligations; Nonapplication.--Section <<NOTE: 51 USC 
+50919.>>  50919(g) is amended to read as follows:
+
+    ``(g) Nonapplication.--
+            ``(1) In general.--This chapter does not apply to--
+                    ``(A) a launch, reentry, operation of a launch 
+                vehicle or reentry vehicle, operation of a launch site 
+                or reentry site, or other space activity the Government 
+                carries out for the Government; or
+                    ``(B) planning or policies related to the launch, 
+                reentry, operation, or activity under subparagraph (A).
+            ``(2) Rule of construction.--The following activities are 
+        not space activities the Government carries out for the 
+        Government under paragraph (1):
+
+[[Page 129 STAT. 714]]
+
+                    ``(A) A government astronaut being carried within a 
+                launch vehicle or reentry vehicle under this chapter.
+                    ``(B) A government astronaut performing activities 
+                directly relating to the launch, reentry, or other 
+                operation of the launch vehicle or reentry vehicle under 
+                this chapter.''.
+SEC. 113. <<NOTE: 51 USC 50918 note.>>  STREAMLINE COMMERCIAL 
+                        SPACE LAUNCH ACTIVITIES.
+
+    (a) Sense of Congress.--It is the sense of Congress that eliminating 
+duplicative requirements and approvals for commercial launch and reentry 
+operations will promote and encourage the development of the commercial 
+space sector.
+    (b) Reaffirmation of Policy.--Congress reaffirms that the Secretary 
+of Transportation, in overseeing and coordinating commercial launch and 
+reentry operations, should--
+            (1) promote commercial space launches and reentries by the 
+        private sector;
+            (2) facilitate Government, State, and private sector 
+        involvement in enhancing U.S. launch sites and facilities;
+            (3) protect public health and safety, safety of property, 
+        national security interests, and foreign policy interests of the 
+        United States; and
+            (4) consult with the head of another executive agency, 
+        including the Secretary of Defense or the Administrator of the 
+        National Aeronautics and Space Administration, as necessary to 
+        provide consistent application of licensing requirements under 
+        chapter 509 of title 51, United States Code.
+
+    (c) Requirements.--
+            (1) In general.-- <<NOTE: Consultation.>> The Secretary of 
+        Transportation under section 50918 of title 51, United States 
+        Code, and subject to section 50905(b)(2)(C) of that title, shall 
+        consult with the Secretary of Defense, the Administrator of the 
+        National Aeronautics and Space Administration, and the heads of 
+        other executive agencies, as appropriate--
+                    (A) to identify all requirements that are imposed to 
+                protect the public health and safety, safety of 
+                property, national security interests, and foreign 
+                policy interests of the United States relevant to any 
+                commercial launch of a launch vehicle or commercial 
+                reentry of a reentry vehicle; and
+                    (B) <<NOTE: Evaluation.>>  to evaluate the 
+                requirements identified in subparagraph (A) and, in 
+                coordination with the licensee or transferee and the 
+                heads of the relevant executive agencies--
+                          (i) determine whether the satisfaction of a 
+                      requirement of one agency could result in the 
+                      satisfaction of a requirement of another agency; 
+                      and
+                          (ii) resolve any inconsistencies and remove 
+                      any outmoded or duplicative requirements or 
+                      approvals of the Federal Government relevant to 
+                      any commercial launch of a launch vehicle or 
+                      commercial reentry of a reentry vehicle.
+            (2) Reports.-- <<NOTE: Determination. Consultation.>> Not 
+        later than 180 days after the date of enactment of this Act, and 
+        annually thereafter until the Secretary of Transportation 
+        determines no outmoded or duplicative requirements or approvals 
+        of the Federal Government exist, the Secretary of 
+        Transportation, in consultation with the Secretary of Defense, 
+        the Administrator of the National Aeronautics and Space 
+        Administration, the commercial space sector,
+
+[[Page 129 STAT. 715]]
+
+        and the heads of other executive agencies, as appropriate, shall 
+        submit to the Committee on Commerce, Science, and Transportation 
+        of the Senate, the Committee on Science, Space, and Technology 
+        of the House of Representatives, and the congressional defense 
+        committees a report that includes the following:
+                    (A) A description of the process for the application 
+                for and approval of a permit or license under chapter 
+                509 of title 51, United States Code, for the commercial 
+                launch of a launch vehicle or commercial reentry of a 
+                reentry vehicle, including the identification of--
+                          (i) any unique requirements for operating on a 
+                      United States Government launch site, reentry 
+                      site, or launch property; and
+                          (ii) any inconsistent, outmoded, or 
+                      duplicative requirements or approvals.
+                    (B) A description of current efforts, if any, to 
+                coordinate and work across executive agencies to define 
+                interagency processes and procedures for sharing 
+                information, avoiding duplication of effort, and 
+                resolving common agency requirements.
+                    (C) <<NOTE: Recommenda- tions.>>  Recommendations 
+                for legislation that may further--
+                          (i) streamline requirements in order to 
+                      improve efficiency, reduce unnecessary costs, 
+                      resolve inconsistencies, remove duplication, and 
+                      minimize unwarranted constraints; and
+                          (ii) consolidate or modify requirements across 
+                      affected agencies into a single application set 
+                      that satisfies the requirements identified in 
+                      paragraph (1)(A).
+            (3) Definitions.--For purposes of this subsection--
+                    (A) <<NOTE: Applicability.>>  any applicable 
+                definitions set forth in section 50902 of title 51, 
+                United States Code, shall apply;
+                    (B) the terms ``launch'', ``reenter'', and 
+                ``reentry'' include landing of a launch vehicle or 
+                reentry vehicle; and
+                    (C) the terms ``United States Government launch 
+                site'' and ``United States Government reentry site'' 
+                include any necessary facility, at that location, that 
+                is commercially operated on United States Government 
+                property.
+SEC. 114. OPERATION AND UTILIZATION OF THE ISS.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) maximum utilization of partnerships, scientific 
+        research, commercial applications, and exploration test bed 
+        capabilities of the ISS is essential to ensuring the greatest 
+        return on investments made by the United States and its 
+        international partners in the development, assembly, and 
+        operations of that unique facility; and
+            (2) every effort should be made to ensure that decisions 
+        regarding the service life of the ISS are based on the station's 
+        projected capability to continue providing effective and 
+        productive research and exploration test bed capabilities.
+
+    (b) Continuation of the International Space Station.--
+            (1) In general.--Section 501 of the National Aeronautics and 
+        Space Administration Authorization Act of 2010 (42 U.S.C. 18351) 
+        is amended--
+                    (A) in the heading, by striking ``through 2020''; 
+                and
+
+[[Page 129 STAT. 716]]
+
+                    (B) in subsection (a), by striking ``through at 
+                least 2020'' and inserting ``through at least 2024''.
+            (2) Maintenance of the united states segment and assurance 
+        of continued operations of the international space station.--
+        Section 503 of the National Aeronautics and Space Administration 
+        Authorization Act of 2010 (42 U.S.C. 18353) is amended--
+                    (A) in subsection (a), by striking ``through at 
+                least September 30, 2020'' and inserting ``through at 
+                least September 30, 2024''; and
+                    (B) in subsection (b)(1), by striking ``In carrying 
+                out subsection (a), the Administrator'' and inserting 
+                ``The Administrator''.
+            (3) Research capacity allocation and integration of research 
+        payloads.--Section 504(d) of the National Aeronautics and Space 
+        Administration Authorization Act of 2010 (42 U.S.C. 18354(d)) is 
+        amended by striking ``September 30, 2020'' each place it appears 
+        and inserting ``at least September 30, 2024''.
+            (4) Maintaining use through at least 2024.--Section 70907 is 
+        amended to read as follows:
+``Sec. 70907. Maintaining use through at least 2024
+
+    ``(a) Policy.--The Administrator shall take all necessary steps to 
+ensure that the International Space Station remains a viable and 
+productive facility capable of potential United States utilization 
+through at least September 30, 2024.
+    ``(b) NASA Actions.--In furtherance of the policy under subsection 
+(a), the Administrator shall ensure, to the extent practicable, that the 
+International Space Station, as a designated national laboratory--
+            ``(1) remains viable as an element of overall exploration 
+        and partnership strategies and approaches;
+            ``(2) is considered for use by all NASA mission 
+        directorates, as appropriate, for technically appropriate 
+        scientific data gathering or technology risk reduction 
+        demonstrations; and
+            ``(3) remains an effective, functional vehicle providing 
+        research and test bed capabilities for the United States through 
+        at least September 30, 2024.''.
+            (5) Technical and conforming amendments.--
+                    (A) Table of contents of 2010 act.--The item 
+                relating to section 501 in the table of contents in 
+                section 1(b) of the National Aeronautics and Space 
+                Administration Authorization Act of 2010 (124 Stat. 
+                2806) is amended by striking ``through 2020''.
+                    (B) Table of contents of chapter 709.--The table of 
+                contents for chapter 709 <<NOTE: 51 USC prec. 70901.>>  
+                is amended by amending the item relating to section 
+                70907 to read as follows:
+
+``70907. Maintaining use through at least 2024.''.
+
+SEC. 115. STATE COMMERCIAL LAUNCH FACILITIES.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) State involvement, development, ownership, and operation 
+        of launch facilities can enable growth of the Nation's 
+        commercial suborbital and orbital space endeavors and support 
+        both commercial and Government space programs;
+
+[[Page 129 STAT. 717]]
+
+            (2) State launch facilities and the people and property in 
+        the affected launch areas of those facilities may be subject to 
+        risks resulting from an activity carried out under a license 
+        under chapter 509 of title 51, United States Code; and
+            (3) to ensure the success of the commercial launch industry 
+        and the safety of the people and property in the affected launch 
+        areas of those facilities, States and State launch facilities 
+        should seek to take proper measures to protect themselves, to 
+        the extent of their potential liability for involvement in 
+        launch services or reentry services, and compensate third 
+        parties for possible death, bodily injury, or property damage or 
+        loss resulting from an activity carried out under a license 
+        under chapter 509 of title 51, United States Code, to which the 
+        State or State launch facility is involved in the launch 
+        services or reentry services.
+
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Comptroller General shall submit to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Science, Space, and Technology of the House of Representatives a report 
+on the potential inclusion of all government property, including State 
+and municipal property, in the existing indemnification regime 
+established under section 50914 of title 51, United States Code.
+SEC. 116. SPACE SUPPORT VEHICLES STUDY.
+
+    (a) <<NOTE: Deadline. Reports.>>  In General.--Not later than 1 year 
+after the date of enactment of this Act, the Comptroller General shall 
+submit to the Committee on Commerce, Science, and Transportation of the 
+Senate and the Committee on Science, Space, and Technology of the House 
+of Representatives a report on the use of space support vehicle services 
+in the commercial space industry.
+
+    (b) Contents.--This report shall include--
+            (1) the extent to which launch providers rely on such 
+        services as part of their business models;
+            (2) the statutory, regulatory, and market barriers to the 
+        use of such services; and
+            (3) <<NOTE: Recommenda- tions.>>  recommendations for 
+        legislative or regulatory action that may be needed to ensure 
+        reduced barriers to the use of such services if such use is a 
+        requirement of the industry.
+SEC. 117. SPACE LAUNCH SYSTEM UPDATE.
+
+    (a) In General.--Chapter 701 <<NOTE: 51 USC prec. 70101.>>  is 
+amended--
+            (1) in the heading by striking ``SPACE SHUTTLE'' and 
+        inserting ``SPACE LAUNCH SYSTEM'';
+            (2) <<NOTE: 51 USC 70101.>>  in section 70101--
+                    (A) in the heading, by striking ``space shuttle'' 
+                and inserting ``space launch system''; and
+                    (B) by striking ``space shuttle'' and inserting 
+                ``space launch system'';
+            (3) by amending section 70102 to read as follows:
+``Sec. 70102. Space launch system use policy
+
+    ``(a) In General.--The Space Launch System may be used for the 
+following circumstances:
+            ``(1) Payloads and missions that contribute to extending 
+        human presence beyond low-Earth orbit and substantially benefit 
+        from the unique capabilities of the Space Launch System.
+
+[[Page 129 STAT. 718]]
+
+            ``(2) Other payloads and missions that substantially benefit 
+        from the unique capabilities of the Space Launch System.
+            ``(3) On a space available basis, Federal Government or 
+        educational payloads that are consistent with NASA's mission for 
+        exploration beyond low-Earth orbit.
+            ``(4) Compelling circumstances, as determined by the 
+        Administrator.
+
+    ``(b) Agreements With Foreign Entities.--The Administrator may plan, 
+negotiate, or implement agreements with foreign entities for the launch 
+of payloads for international collaborative efforts relating to science 
+and technology using the Space Launch System.
+    ``(c) Compelling Circumstances.-- 
+<<NOTE: Deadline. Determination. Notification.>> Not later than 30 days 
+after the date the Administrator makes a determination under subsection 
+(a)(4), the Administrator shall transmit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on Science 
+of the House of Representatives written notification of the 
+Administrator's intent to select the Space Launch System for a specific 
+mission under that subsection, including justification for the 
+determination.'';
+            (4) <<NOTE: 51 USC 70103.>>  in section 70103--
+                    (A) in the heading, by striking ``space shuttle'' 
+                and inserting ``space launch system''; and
+                    (B) in subsection (b), by striking ``space shuttle'' 
+                each place it appears and inserting ``space launch 
+                system''; and
+            (5) by adding at the end the following:
+``Sec. 70104. <<NOTE: 51 USC 70104.>>  Definition of Space Launch 
+                    System
+
+    ``In this chapter, the term `Space Launch System' means the Space 
+Launch System authorized under section 302 of the National Aeronautics 
+and Space Administration Authorization Act of 2010 (42 U.S.C. 18322).''.
+    (b) Technical and Conforming Amendments.--
+            (1) Table of chapters.--The table of chapters of title 
+        51 <<NOTE: 51 USC prec. 10101.>>  is amended by amending the 
+        item relating to chapter 701 to read as follows:
+
+``701.  Use of space launch system or alternatives..............70101''.
+
+            (2) Table of contents of chapter 701.--The table of contents 
+        of chapter 701 <<NOTE: 51 USC prec. 70101.>>  is amended--
+                    (A) in the item relating to section 70101, by 
+                striking ``space shuttle'' and inserting ``space launch 
+                system'';
+                    (B) in the item relating to section 70102, by 
+                striking ``Space shuttle'' and inserting ``Space launch 
+                system'';
+                    (C) in the item relating to section 70103, by 
+                striking ``space shuttle'' and inserting ``space launch 
+                system''; and
+                    (D) by adding at the end the following:
+
+``70104. Definition of Space Launch System.''.
+
+            (3) Requirement to procure commercial space transportation 
+        services.--Section 50131(a) of chapter 51 <<NOTE: 51 USC 
+        50131.>>  is amended by inserting ``or in section 70102'' after 
+        ``in this section''.
+
+[[Page 129 STAT. 719]]
+
+                   TITLE II--COMMERCIAL REMOTE SENSING
+
+SEC. 201. ANNUAL REPORTS.
+
+    (a) In General.--Subchapter III of chapter 601 is amended by adding 
+at the end the following:
+``Sec. 60126. <<NOTE: 51 USC 60126.>>  Annual reports
+
+    ``(a) In General.--The Secretary shall submit a report to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Science, Space, and Technology of the House of 
+Representatives not later than 180 days after the date of enactment of 
+the U.S. Commercial Space Launch Competitiveness Act, and annually 
+thereafter, on--
+            ``(1) <<NOTE: Lists.>>  the Secretary's implementation of 
+        section 60121, including--
+                    ``(A) a list of all applications received in the 
+                previous calendar year;
+                    ``(B) a list of all applications that resulted in a 
+                license under section 60121;
+                    ``(C) a list of all applications denied and an 
+                explanation of why each application was denied, 
+                including any information relevant to the interagency 
+                adjudication process of a licensing request;
+                    ``(D) a list of all applications that required 
+                additional information; and
+                    ``(E) a list of all applications whose disposition 
+                exceeded the 120 day deadline established in section 
+                60121(c), the total days overdue for each application 
+                that exceeded such deadline, and an explanation for the 
+                delay;
+            ``(2) <<NOTE: Notifications.>>  all notifications and 
+        information provided to the Secretary under section 60122; and
+            ``(3) a description of all actions taken by the Secretary 
+        under the administrative authority granted by paragraphs (4), 
+        (5), and (6) of section 60123(a).
+
+    ``(b) Classified Annexes.--Each report under subsection (a) may 
+include classified annexes as necessary to protect the disclosure of 
+sensitive or classified information.
+    ``(c) Sunset.--The reporting requirement under this section 
+terminates effective September 30, 2020.''.
+    (b) Table of Contents.--The table of contents of chapter 
+601 <<NOTE: 51 USC prec. 60101.>>  is amended by inserting after the 
+item relating to section 60125 the following:
+
+``60126. Annual reports.''.
+
+SEC. 202. STATUTORY UPDATE REPORT.
+
+    Not <<NOTE: Consultation.>>  later than 1 year after the date of 
+enactment of this Act, the Secretary of Commerce, in consultation with 
+the heads of other appropriate Federal agencies and the National Oceanic 
+and Atmospheric Administration's Advisory Committee on Commercial Remote 
+Sensing, shall submit to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Science, Space, and 
+Technology of the House of Representatives a report on statutory updates 
+necessary to license private remote sensing space systems. In preparing 
+the report, the Secretary shall
+
+[[Page 129 STAT. 720]]
+
+take into account the need to protect national security while 
+maintaining United States private sector leadership in the field, and 
+reflect the current state of the art of remote sensing systems, 
+instruments, or technologies.
+
+                   TITLE III--OFFICE OF SPACE COMMERCE
+
+SEC. 301. RENAMING OF OFFICE OF SPACE COMMERCIALIZATION.
+
+    (a) Chapter Heading.--
+            (1) Amendment.--The heading for chapter 507 <<NOTE: 51 
+        USC prec. 50701.>>  is amended by striking ``COMMERCIALIZATION'' 
+        and inserting ``COMMERCE''.
+            (2) Conforming amendment.--The item relating to chapter 507 
+        in the table of chapters for title 51 <<NOTE: 51 USC prec. 
+        10101.>>  is amended by striking ``Commercialization'' and 
+        inserting ``Commerce''.
+
+    (b) Definition of Office.--Section 50701 <<NOTE: 51 USC 50701.>>  is 
+amended by striking ``Commercialization'' and inserting ``Commerce''.
+
+    (c) Renaming.--Section 50702(a) <<NOTE: 51 USC 50702.>>  is amended 
+by striking ``Commercialization'' and inserting ``Commerce''.
+SEC. 302. FUNCTIONS OF THE OFFICE OF SPACE COMMERCE.
+
+    Section 50702(c) is amended by striking ``Commerce.'' and inserting 
+``Commerce, including--
+            ``(1) to foster the conditions for the economic growth and 
+        technological advancement of the United States space commerce 
+        industry;
+            ``(2) to coordinate space commerce policy issues and actions 
+        within the Department of Commerce;
+            ``(3) to represent the Department of Commerce in the 
+        development of United States policies and in negotiations with 
+        foreign countries to promote United States space commerce;
+            ``(4) to promote the advancement of United States geospatial 
+        technologies related to space commerce, in cooperation with 
+        relevant interagency working groups; and
+            ``(5) to provide support to Federal Government organizations 
+        working on Space-Based Positioning Navigation, and Timing 
+        policy, including the National Coordination Office for Space-
+        Based Position, Navigation, and Timing.''.
+
+  TITLE IV-- <<NOTE: Space Resource Exploration and Utilization Act of 
+2015.>> SPACE RESOURCE EXPLORATION AND UTILIZATION
+SEC. 401. <<NOTE: 51 USC 10101 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Space Resource Exploration and 
+Utilization Act of 2015''.
+SEC. 402. TITLE 51 AMENDMENT.
+
+    (a) In General.--Subtitle V <<NOTE: 51 USC prec. 51301.>>  is 
+amended by adding at the end the following:
+
+[[Page 129 STAT. 721]]
+
+  ``CHAPTER 513--SPACE RESOURCE COMMERCIAL EXPLORATION AND UTILIZATION
+
+``Sec.
+``51301. Definitions.
+``51302. Commercial exploration and commercial recovery.
+``51303. Asteroid resource and space resource rights.
+
+``Sec. 51301. <<NOTE: 51 USC 51301.>>  Definitions
+
+    ``In this chapter:
+            ``(1) Asteroid resource.--The term `asteroid resource' means 
+        a space resource found on or within a single asteroid.
+            ``(2) Space resource.--
+                    ``(A) In general.--The term `space resource' means 
+                an abiotic resource in situ in outer space.
+                    ``(B) Inclusions.--The term `space resource' 
+                includes water and minerals.
+            ``(3) United states citizen.--The term `United States 
+        citizen' has the meaning given the term `citizen of the United 
+        States' in section 50902.
+``Sec. 51302. <<NOTE: President. 51 USC 51302.>>  Commercial 
+                    exploration and commercial recovery
+
+    ``(a) In General.--The President, acting through appropriate Federal 
+agencies, shall--
+            ``(1) facilitate commercial exploration for and commercial 
+        recovery of space resources by United States citizens;
+            ``(2) discourage government barriers to the development in 
+        the United States of economically viable, safe, and stable 
+        industries for commercial exploration for and commercial 
+        recovery of space resources in manners consistent with the 
+        international obligations of the United States; and
+            ``(3) promote the right of United States citizens to engage 
+        in commercial exploration for and commercial recovery of space 
+        resources free from harmful interference, in accordance with the 
+        international obligations of the United States and subject to 
+        authorization and continuing supervision by the Federal 
+        Government.
+
+    ``(b) Report.--Not later than 180 days after the date of enactment 
+of this section, the President shall submit to Congress a report on 
+commercial exploration for and commercial recovery of space resources by 
+United States citizens that specifies--
+            ``(1) the authorities necessary to meet the international 
+        obligations of the United States, including authorization and 
+        continuing supervision by the Federal Government; and
+            ``(2) <<NOTE: Recommenda- tions.>>  recommendations for the 
+        allocation of responsibilities among Federal agencies for the 
+        activities described in paragraph (1).
+``Sec. 51303. Asteroid resource and space resource rights
+
+    ``A United States citizen engaged in commercial recovery of an 
+asteroid resource or a space resource under this chapter shall be 
+entitled to any asteroid resource or space resource obtained, including 
+to possess, own, transport, use, and sell the asteroid resource or space 
+resource obtained in accordance with applicable law, including the 
+international obligations of the United States.''.
+
+[[Page 129 STAT. 722]]
+
+    (b) Table of Chapters.--The table of chapters for <<NOTE: 51 
+USC prec. 10101.>>  title 51 is amended by adding at the end of the 
+items for subtitle V the following:
+
+``513. Space resource commercial exploration and utilization....51301''.
+SEC. 403. DISCLAIMER OF EXTRATERRITORIAL SOVEREIGNTY.
+
+    It is the sense of Congress that by the enactment of this Act, the 
+United States does not thereby assert sovereignty or sovereign or 
+exclusive rights or jurisdiction over, or the ownership of, any 
+celestial body.
+
+    Approved November 25, 2015.
+
+LEGISLATIVE HISTORY--H.R. 2262:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-119 (Comm. on Science, Space, and Technology).
+CONGRESSIONAL RECORD, Vol. 161 (2015):
+            May 21, considered and passed House.
+            Nov. 10, considered and passed Senate, amended.
+            Nov. 16, House concurred in Senate amendment.
+
+                                  
+

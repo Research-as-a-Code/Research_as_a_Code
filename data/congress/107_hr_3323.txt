@@ -1,0 +1,338 @@
+
+[107th Congress Public Law 105]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ105.107]
+
+
+[[Page 115 STAT. 1003]]
+
+Public Law 107-105
+107th Congress
+
+                                 An Act
+
+
+ 
+To ensure that covered entities comply with the standards for electronic 
+health care transactions and code sets adopted under part C of title XI 
+  of the Social Security Act, and for other purposes. <<NOTE: Dec. 27, 
+                         2001 -  [H.R. 3323]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Administrative 
+Simplification Compliance Act.>> assembled,
+
+SECTION 1. <<NOTE: 42 USC 1305 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Administrative Simplification 
+Compliance Act''.
+
+SEC. 2. <<NOTE: 42 USC 1320d-4 note.>> EXTENSION OF DEADLINE FOR COVERED 
+            ENTITIES SUBMITTING COMPLIANCE PLANS.
+
+    (a) In General.--
+            (1) Extension.--Subject to paragraph (2), notwithstanding 
+        section 1175(b)(1)(A) of the Social Security Act (42 U.S.C. 
+        1320d-4(b)(1)(A)) and section 162.900 of title 45, Code of 
+        Federal Regulations, a health care provider, health plan (other 
+        than a small health plan), or a health care clearinghouse shall 
+        not be considered to be in noncompliance with the applicable 
+        requirements of subparts I through R of part 162 of title 45, 
+        Code of Federal Regulations, before October 16, 2003.
+            (2) Condition.--Paragraph (1) shall apply to a person 
+        described in such paragraph only if, before October 16, 2002, 
+        the person submits to the Secretary of Health and Human Services 
+        a plan of how the person will come into compliance with the 
+        requirements described in such paragraph not later than October 
+        16, 2003. Such plan shall be a summary of the following:
+                    (A) An analysis reflecting the extent to which, and 
+                the reasons why, the person is not in compliance.
+                    (B) A budget, schedule, work plan, and 
+                implementation strategy for achieving compliance.
+                    (C) Whether the person plans to use or might use a 
+                contractor or other vendor to assist the person in 
+                achieving compliance.
+                    (D) A timeframe for testing that begins not later 
+                than April 16, 2003.
+            (3) Electronic submission.--Plans described in paragraph (2) 
+        may be submitted electronically.
+            (4) Model form.--Not later than March 31, 2002, the 
+        Secretary of Health and Human Services shall promulgate a model 
+        form that persons may use in drafting a plan described in 
+        paragraph (2). The promulgation of such form shall be made
+
+[[Page 115 STAT. 1004]]
+
+        without regard to chapter 35 of title 44, United States Code 
+        (commonly known as the ``Paperwork Reduction Act'').
+            (5) Analysis of plans; reports on solutions.--
+                    (A) Analysis of plans.--
+                          (i) Furnishing of plans.--Subject to 
+                      subparagraph (D), the Secretary of Health and 
+                      Human Services shall furnish the National 
+                      Committee on Vital and Health Statistics with a 
+                      sample of the plans submitted under paragraph (2) 
+                      for analysis by such Committee.
+                          (ii) Analysis.--The National Committee on 
+                      Vital and Health Statistics shall analyze the 
+                      sample of the plans furnished under clause (i).
+                    (B) Reports on solutions.--The National Committee on 
+                Vital and Health Statistics shall regularly publish, and 
+                widely disseminate to the public, reports containing 
+                effective solutions to compliance problems identified in 
+                the plans analyzed under subparagraph (A). Such reports 
+                shall not relate specifically to any one plan but shall 
+                be written for the purpose of assisting the maximum 
+                number of persons to come into compliance by addressing 
+                the most common or challenging problems encountered by 
+                persons submitting such plans.
+                    (C) Consultation.--In carrying out this paragraph, 
+                the National Committee on Vital and Health Statistics 
+                shall consult with each organization--
+                          (i) described in section 1172(c)(3)(B) of the 
+                      Social Security Act (42 U.S.C. 1320d-1(c)(3)(B)); 
+                      or
+                          (ii) designated by the Secretary of Health and 
+                      Human Services under section 162.910(a) of title 
+                      45, Code of Federal Regulations.
+                    (D) Protection of confidential information.--
+                          (i) In general.--The Secretary of Health and 
+                      Human Services shall ensure that any material 
+                      provided under subparagraph (A) to the National 
+                      Committee on Vital and Health Statistics or any 
+                      organization described in subparagraph (C) is 
+                      redacted so as to prevent the disclosure of any--
+                                    (I) trade secrets;
+                                    (II) commercial or financial 
+                                information that is privileged or 
+                                confidential; and
+                                    (III) other information the 
+                                disclosure of which would constitute a 
+                                clearly unwarranted invasion of personal 
+                                privacy.
+                          (ii) Construction.--Nothing in clause (i) 
+                      shall be construed to affect the application of 
+                      section 552 of title 5, United States Code 
+                      (commonly known as the ``Freedom of Information 
+                      Act''), including the exceptions from disclosure 
+                      provided under subsection (b) of such section.
+            (6) Enforcement through exclusion from participation in 
+        medicare.--
+                    (A) In general.--In the case of a person described 
+                in paragraph (1) who fails to submit a plan in 
+                accordance with paragraph (2), and who is not in 
+                compliance with the applicable requirements of subparts 
+                I through R of part 162 of title 45, Code of Federal 
+                Regulations, on or after October 16, 2002, the person 
+                may be excluded at
+
+[[Page 115 STAT. 1005]]
+
+                the discretion of the Secretary of Health and Human 
+                Services from participation (including under part C or 
+                as a contractor under sections 1816, 1842, and 1893) in 
+                title XVIII of the Social Security Act (42 U.S.C. 1395 
+                et seq.).
+                    (B) Procedure.--The provisions of section 1128A of 
+                the Social Security Act (42 U.S.C. 1320a-7a) (other than 
+                the first and second sentences of subsection (a) and 
+                subsection (b)) shall apply to an exclusion under this 
+                paragraph in the same manner as such provisions apply 
+                with respect to an exclusion or proceeding under section 
+                1128A(a) of such Act.
+                    (C) Construction.--The availability of an exclusion 
+                under this paragraph shall not be construed to affect 
+                the imposition of penalties under section 1176 of the 
+                Social Security Act (42 U.S.C. 1320d-5).
+                    (D) Nonapplicability to complying persons.--The 
+                exclusion under subparagraph (A) shall not apply to a 
+                person who--
+                          (i) submits a plan in accordance with 
+                      paragraph (2); or
+                          (ii) who is in compliance with the applicable 
+                      requirements of subparts I through R of part 162 
+                      of title 45, Code of Federal Regulations, on or 
+                      before October 16, 2002.
+
+    (b) Special Rules.--
+            (1) Rules of construction.--Nothing in this section shall be 
+        construed--
+                    (A) as modifying the October 16, 2003, deadline for 
+                a small health plan to comply with the requirements of 
+                subparts I through R of part 162 of title 45, Code of 
+                Federal Regulations; or
+                    (B) as modifying--
+                          (i) the April 14, 2003, deadline for a health 
+                      care provider, a health plan (other than a small 
+                      health plan), or a health care clearinghouse to 
+                      comply with the requirements of subpart E of part 
+                      164 of title 45, Code of Federal Regulations; or
+                          (ii) the April 14, 2004, deadline for a small 
+                      health plan to comply with the requirements of 
+                      such subpart.
+            (2) Applicability of privacy standards before compliance 
+        deadline for information transaction standards.--
+                    (A) In general.--Notwithstanding any other provision 
+                of law, during the period that begins on April 14, 2003, 
+                and ends on October 16, 2003, a health care provider or, 
+                subject to subparagraph (B), a health care 
+                clearinghouse, that transmits any health information in 
+                electronic form in connection with a transaction 
+                described in subparagraph (C) shall comply with the 
+                requirements of subpart E of part 164 of title 45, Code 
+                of Federal Regulations, without regard to whether the 
+                transmission meets the standards required by part 162 of 
+                such title.
+                    (B) Application to health care clearinghouses.--For 
+                purposes of this paragraph, during the period described 
+                in subparagraph (A), an entity that processes or 
+                facilitates the processing of information in connection 
+                with a transaction described in subparagraph (C) and 
+                that otherwise would be treated as a health care 
+                clearinghouse shall be
+
+[[Page 115 STAT. 1006]]
+
+                treated as a health care clearinghouse without regard to 
+                whether the processing or facilitation produces (or is 
+                required to produce) standard data elements or a 
+                standard transaction as required by part 162 of title 
+                45, Code of Federal Regulations.
+                    (C) Transactions described.--The transactions 
+                described in this subparagraph are the following:
+                          (i) A health care claims or equivalent 
+                      encounter information transaction.
+                          (ii) A health care payment and remittance 
+                      advice transaction.
+                          (iii) A coordination of benefits transaction.
+                          (iv) A health care claim status transaction.
+                          (v) An enrollment and disenrollment in a 
+                      health plan transaction.
+                          (vi) An eligibility for a health plan 
+                      transaction.
+                          (vii) A health plan premium payments 
+                      transaction.
+                          (viii) A referral certification and 
+                      authorization transaction.
+
+    (c) Definitions.--In this section--
+            (1) the terms ``health care provider'', ``health plan'', and 
+        ``health care clearinghouse'' have the meaning given those terms 
+        in section 1171 of the Social Security Act (42 U.S.C. 1320d) and 
+        section 160.103 of title 45, Code of Federal Regulations;
+            (2) the terms ``small health plan'' and ``transaction'' have 
+        the meaning given those terms in section 160.103 of title 45, 
+        Code of Federal Regulations; and
+            (3) the terms ``health care claims or equivalent encounter 
+        information transaction'', ``health care payment and remittance 
+        advice transaction'', ``coordination of benefits transaction'', 
+        ``health care claim status transaction'', ``enrollment and 
+        disenrollment in a health plan transaction'', ``eligibility for 
+        a health plan transaction'', ``health plan premium payments 
+        transaction'', and ``referral certification and authorization 
+        transaction'' have the meanings given those terms in sections 
+        162.1101, 162.1601, 162.1801, 162.1401, 162.1501, 162.1201, 
+        162.1701, and 162.1301 of title 45, Code of Federal Regulations, 
+        respectively.
+
+SEC. 3. REQUIRING ELECTRONIC SUBMISSION OF MEDICARE CLAIMS.
+
+    (a) In General.--Section 1862 of the Social Security Act (42 U.S.C. 
+1395y) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``or'' at the end of paragraph (20);
+                    (B) by striking the period at the end of paragraph 
+                (21) and inserting ``; or''; and
+                    (C) by inserting after paragraph (21) the following 
+                new paragraph:
+            ``(22) subject to subsection (h), for which a claim is 
+        submitted other than in an electronic form specified by the 
+        Secretary.''; and
+            (2) by inserting after subsection (g) the following new 
+        subsection:
+
+    ``(h)(1) The Secretary--
+            ``(A) shall waive the application of subsection (a)(22) in 
+        cases in which--
+
+[[Page 115 STAT. 1007]]
+
+                    ``(i) there is no method available for the 
+                submission of claims in an electronic form; or
+                    ``(ii) the entity submitting the claim is a small 
+                provider of services or supplier; and
+            ``(B) may waive the application of such subsection in such 
+        unusual cases as the Secretary finds appropriate.
+
+    ``(2) For purposes of this subsection, the term `small provider of 
+services or supplier' means--
+            ``(A) a provider of services with fewer than 25 full-time 
+        equivalent employees; or
+            ``(B) a physician, practitioner, facility, or supplier 
+        (other than provider of services) with fewer than 10 full-time 
+        equivalent employees.''.
+
+    (b) Effective <<NOTE: 42 USC 1395y note.>> Date.--The amendments 
+made by subsection (a) shall apply to claims submitted on or after 
+October 16, 2003.
+
+SEC. 4. CLARIFICATION WITH RESPECT TO APPLICABILITY OF ADMINISTRATIVE 
+            SIMPLIFICATION REQUIREMENTS TO MEDICARE+CHOICE 
+            ORGANIZATIONS.
+
+    Section 1171(5)(D) of the Social Security Act (42 U.S.C. 
+1320d(5)(D)) is amended by striking ``Part A or part B'' and inserting 
+``Parts A, B, or C''.
+
+SEC. 5. AUTHORIZATION OF APPROPRIATIONS FOR IMPLEMENTATION OF 
+            REGULATIONS.
+
+    (a) In General.--Subject to subsection (b), and in addition to any 
+other amounts that may be authorized to be appropriated, there are 
+authorized to be appropriated a total of $44,200,000, for--
+            (1) technical assistance, education and outreach, and 
+        enforcement activities related to subparts I through R of part 
+        162 of title 45, Code of Federal Regulations; and
+            (2) adopting the standards required to be adopted under 
+        section 1173 of the Social Security Act (42 U.S.C. 1320d-2).
+
+    (b) Reductions.--
+            (1) Model form 14 days late.--If the Secretary fails to 
+        promulgate the model form described in section 1(a)(4) by the 
+        date that is 14 days after the deadline described in such 
+        section, the amount referred to in subsection (a) shall be 
+        reduced by 25 percent.
+            (2) Model form 30 days late.--If the Secretary fails to 
+        promulgate the model form described in section 1(a)(4) by the 
+        date that is 30 days after the deadline described in such 
+        section, the amount referred to in subsection (a) shall be 
+        reduced by 50 percent.
+            (3) Model form 45 days late.--If the Secretary fails to 
+        promulgate the model form described in section 1(a)(4) by the 
+        date that is 45 days after the deadline described in such 
+        section, the amount referred to in subsection (a) shall be 
+        reduced by 75 percent.
+            (4) Model form 60 days late.--If the Secretary fails to 
+        promulgate the model form described in section 1(a)(4) by the 
+        date that is 60 days after the deadline described in such 
+        section,
+
+[[Page 115 STAT. 1008]]
+
+        the amount referred to in subsection (a) shall be reduced by 100 
+        percent.
+
+    Approved December 27, 2001.
+
+LEGISLATIVE HISTORY--H.R. 3323 (S. 1684):
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 147 (2001):
+            Dec. 4, considered and passed House.
+            Dec. 12, considered and passed Senate.
+
+                                  
+

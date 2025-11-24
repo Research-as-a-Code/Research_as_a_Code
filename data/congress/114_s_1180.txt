@@ -1,0 +1,402 @@
+
+[114th Congress Public Law 143]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 130 STAT. 327]]
+
+Public Law 114-143
+114th Congress
+
+                                 An Act
+
+
+ 
+ To amend the Homeland Security Act of 2002 to direct the Administrator 
+ of the Federal Emergency Management Agency to modernize the integrated 
+  public alert and warning system of the United States, and for other 
+             purposes. <<NOTE: Apr. 11, 2016 -  [S. 1180]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Integrated 
+Public Alert and Warning System Modernization Act of 2015. 6 USC 101 
+note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Integrated Public Alert and Warning 
+System Modernization Act of 2015''.
+SEC. 2. INTEGRATED PUBLIC ALERT AND WARNING SYSTEM MODERNIZATION.
+
+    (a) In General.--Title V of the Homeland Security Act of 2002 (6 
+U.S.C. 311 et seq.) is amended by adding at the end the following:
+``SEC. 526. <<NOTE: Disasters. Terrorism. 6 USC 3210.>>  
+                        INTEGRATED PUBLIC ALERT AND WARNING SYSTEM 
+                        MODERNIZATION.
+
+    ``(a) In General.--To provide timely and effective warnings 
+regarding natural disasters, acts of terrorism, and other man-made 
+disasters or threats to public safety, the Administrator shall--
+            ``(1) modernize the integrated public alert and warning 
+        system of the United States (in this section referred to as the 
+        `public alert and warning system') to help ensure that under all 
+        conditions the President and, except to the extent the public 
+        alert and warning system is in use by the President, Federal 
+        agencies and State, tribal, and local governments can alert and 
+        warn the civilian population in areas endangered by natural 
+        disasters, acts of terrorism, and other man-made disasters or 
+        threats to public safety; and
+            ``(2) implement the public alert and warning system to 
+        disseminate timely and effective warnings regarding natural 
+        disasters, acts of terrorism, and other man-made disasters or 
+        threats to public safety.
+
+    ``(b) Implementation Requirements.--In carrying out subsection (a), 
+the Administrator shall--
+            ``(1) establish or adopt, as appropriate, common alerting 
+        and warning protocols, standards, terminology, and operating 
+        procedures for the public alert and warning system;
+            ``(2) include in the public alert and warning system the 
+        capability to adapt the distribution and content of 
+        communications on the basis of geographic location, risks, and 
+        multiple communication systems and technologies, as appropriate 
+        and to the extent technically feasible;
+
+[[Page 130 STAT. 328]]
+
+            ``(3) include in the public alert and warning system the 
+        capability to alert, warn, and provide equivalent information to 
+        individuals with disabilities, individuals with access and 
+        functional needs, and individuals with limited-English 
+        proficiency, to the extent technically feasible;
+            ``(4) ensure that training, tests, and exercises are 
+        conducted for the public alert and warning system, including 
+        by--
+                    ``(A) incorporating the public alert and warning 
+                system into other training and exercise programs of the 
+                Department, as appropriate;
+                    ``(B) establishing and integrating into the National 
+                Incident Management System a comprehensive and periodic 
+                training program to instruct and educate Federal, State, 
+                tribal, and local government officials in the use of the 
+                Common Alerting Protocol enabled Emergency Alert System; 
+                and
+                    ``(C) <<NOTE: Time period.>>  conducting, not less 
+                than once every 3 years, periodic nationwide tests of 
+                the public alert and warning system;
+            ``(5) to the extent practicable, ensure that the public 
+        alert and warning system is resilient and secure and can 
+        withstand acts of terrorism and other external attacks;
+            ``(6) conduct public education efforts so that State, 
+        tribal, and local governments, private entities, and the people 
+        of the United States reasonably understand the functions of the 
+        public alert and warning system and how to access, use, and 
+        respond to information from the public alert and warning system 
+        through a general market awareness campaign;
+            ``(7) <<NOTE: Consultation. Coordination.>>  consult, 
+        coordinate, and cooperate with the appropriate private sector 
+        entities and Federal, State, tribal, and local governmental 
+        authorities, including the Regional Administrators and emergency 
+        response providers;
+            ``(8) <<NOTE: Consultation. Coordination.>>  consult and 
+        coordinate with the Federal Communications Commission, taking 
+        into account rules and regulations promulgated by the Federal 
+        Communications Commission; and
+            ``(9) coordinate with and consider the recommendations of 
+        the Integrated Public Alert and Warning System Subcommittee 
+        established under section 2(b) of the Integrated Public Alert 
+        and Warning System Modernization Act of 2015.
+
+    ``(c) System Requirements.--The public alert and warning system 
+shall--
+            ``(1) to the extent determined appropriate by the 
+        Administrator, incorporate multiple communications technologies;
+            ``(2) be designed to adapt to, and incorporate, future 
+        technologies for communicating directly with the public;
+            ``(3) to the extent technically feasible, be designed--
+                    ``(A) to provide alerts to the largest portion of 
+                the affected population feasible, including nonresident 
+                visitors and tourists, individuals with disabilities, 
+                individuals with access and functional needs, and 
+                individuals with limited-English proficiency; and
+                    ``(B) to improve the ability of remote areas to 
+                receive alerts;
+            ``(4) promote local and regional public and private 
+        partnerships to enhance community preparedness and response;
+            ``(5) provide redundant alert mechanisms where practicable 
+        so as to reach the greatest number of people; and
+
+[[Page 130 STAT. 329]]
+
+            ``(6) to the extent feasible, include a mechanism to ensure 
+        the protection of individual privacy.
+
+    ``(d) Use of System.--Except to the extent necessary for testing the 
+public alert and warning system, the public alert and warning system 
+shall not be used to transmit a message that does not relate to a 
+natural disaster, act of terrorism, or other man-made disaster or threat 
+to public safety.
+    ``(e) Performance Reports.--
+            ``(1) <<NOTE: Public information. Web posting.>>  In 
+        general.--Not later than 1 year after the date of enactment of 
+        the Integrated Public Alert and Warning System Modernization Act 
+        of 2015, and annually thereafter through 2018, the Administrator 
+        shall make available on the public website of the Agency a 
+        performance report, which shall--
+                    ``(A) establish performance goals for the 
+                implementation of the public alert and warning system by 
+                the Agency;
+                    ``(B) describe the performance of the public alert 
+                and warning system, including--
+                          ``(i) the type of technology used for alerts 
+                      and warnings issued under the system;
+                          ``(ii) the measures taken to alert, warn, and 
+                      provide equivalent information to individuals with 
+                      disabilities, individuals with access and function 
+                      needs, and individuals with limited-English 
+                      proficiency; and
+                          ``(iii) the training, tests, and exercises 
+                      performed and the outcomes obtained by the Agency;
+                    ``(C) identify significant challenges to the 
+                effective operation of the public alert and warning 
+                system and any plans to address these challenges;
+                    ``(D) identify other necessary improvements to the 
+                system; and
+                    ``(E) <<NOTE: Analysis.>>  provide an analysis 
+                comparing the performance of the public alert and 
+                warning system with the performance goals established 
+                under subparagraph (A).
+            ``(2) Congress.--The Administrator shall submit to the 
+        Committee on Homeland Security and Governmental Affairs and the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        and the Committee on Transportation and Infrastructure and the 
+        Committee on Homeland Security of the House of Representatives 
+        each report required under paragraph (1).''.
+
+    (b) Integrated Public Alert and Warning System Subcommittee.--
+            (1) <<NOTE: Deadline.>>  Establishment.--Not later than 90 
+        days after the date of enactment of this Act, the Administrator 
+        of the Federal Emergency Management Agency (in this subsection 
+        referred to as the ``Administrator'') shall establish a 
+        subcommittee to the National Advisory Council established under 
+        section 508 of the Homeland Security Act of 2002 (6 U.S.C. 318) 
+        to be known as the Integrated Public Alert and Warning System 
+        Subcommittee (in this subsection referred to as the 
+        ``Subcommittee'').
+            (2) Membership.--Notwithstanding section 508(c) of the 
+        Homeland Security Act of 2002 (6 U.S.C. 318(c)), the 
+        Subcommittee shall be composed of the following members (or 
+        their designees):
+
+[[Page 130 STAT. 330]]
+
+                    (A) The Deputy Administrator for Protection and 
+                National Preparedness of the Federal Emergency 
+                Management Agency.
+                    (B) The Chairman of the Federal Communications 
+                Commission.
+                    (C) The Administrator of the National Oceanic and 
+                Atmospheric Administration of the Department of 
+                Commerce.
+                    (D) The Assistant Secretary for Communications and 
+                Information of the Department of Commerce.
+                    (E) The Under Secretary for Science and Technology 
+                of the Department of Homeland Security.
+                    (F) The Under Secretary for the National Protection 
+                and Programs Directorate.
+                    (G) The Director of Disability Integration and 
+                Coordination of the Federal Emergency Management Agency.
+                    (H) The Chairperson of the National Council on 
+                Disability.
+                    (I) Qualified individuals appointed by the 
+                Administrator as soon as practicable after the date of 
+                enactment of this Act from among the following:
+                          (i) Representatives of State and local 
+                      governments, representatives of emergency 
+                      management agencies, and representatives of 
+                      emergency response providers.
+                          (ii) Representatives from federally recognized 
+                      Indian tribes and national Indian organizations.
+                          (iii) Individuals who have the requisite 
+                      technical knowledge and expertise to serve on the 
+                      Subcommittee, including representatives of--
+                                    (I) communications service 
+                                providers;
+                                    (II) vendors, developers, and 
+                                manufacturers of systems, facilities, 
+                                equipment, and capabilities for the 
+                                provision of communications services;
+                                    (III) third-party service bureaus;
+                                    (IV) the broadcasting industry, 
+                                including public broadcasting;
+                                    (V) the commercial mobile radio 
+                                service industry;
+                                    (VI) the cable industry;
+                                    (VII) the satellite industry;
+                                    (VIII) national organizations 
+                                representing individuals with 
+                                disabilities, the blind, deaf, and 
+                                hearing-loss communities, individuals 
+                                with access and functional needs, and 
+                                the elderly;
+                                    (IX) consumer or privacy advocates; 
+                                and
+                                    (X) organizations representing 
+                                individuals with limited-English 
+                                proficiency.
+                          (iv) Qualified representatives of such other 
+                      stakeholders and interested and affected parties 
+                      as the Administrator considers appropriate.
+            (3) Chairperson.--The Deputy Administrator for Protection 
+        and National Preparedness of the Federal Emergency Management 
+        Agency shall serve as the Chairperson of the Subcommittee.
+            (4) <<NOTE: Deadlines.>>  Meetings.--
+
+[[Page 130 STAT. 331]]
+
+                    (A) Initial meeting.--The initial meeting of the 
+                Subcommittee shall take place not later than 120 days 
+                after the date of enactment of this Act.
+                    (B) Other meetings.--After the initial meeting, the 
+                Subcommittee shall meet, at least annually, at the call 
+                of the Chairperson.
+            (5) Consultation with nonmembers.--The Subcommittee and the 
+        program offices for the integrated public alert and warning 
+        system for the United States shall consult with individuals and 
+        entities that are not represented on the Subcommittee to 
+        consider new and developing technologies that may be beneficial 
+        to the public alert and warning system, including--
+                    (A) the Defense Advanced Research Projects Agency;
+                    (B) entities engaged in federally funded research; 
+                and
+                    (C) academic institutions engaged in relevant work 
+                and research.
+            (6) Recommendations.--The Subcommittee shall--
+                    (A) develop recommendations for an integrated public 
+                alert and warning system; and
+                    (B) in developing the recommendations under 
+                subparagraph (A), consider--
+                          (i) recommendations for common alerting and 
+                      warning protocols, standards, terminology, and 
+                      operating procedures for the public alert and 
+                      warning system; and
+                          (ii) recommendations to provide for a public 
+                      alert and warning system that--
+                                    (I) has the capability to adapt the 
+                                distribution and content of 
+                                communications on the basis of 
+                                geographic location, risks, or personal 
+                                user preferences, as appropriate;
+                                    (II) has the capability to alert and 
+                                warn individuals with disabilities and 
+                                individuals with limited-English 
+                                proficiency;
+                                    (III) to the extent appropriate, 
+                                incorporates multiple communications 
+                                technologies;
+                                    (IV) is designed to adapt to, and 
+                                incorporate, future technologies for 
+                                communicating directly with the public;
+                                    (V) is designed to provide alerts to 
+                                the largest portion of the affected 
+                                population feasible, including 
+                                nonresident visitors and tourists, and 
+                                improve the ability of remote areas to 
+                                receive alerts;
+                                    (VI) promotes local and regional 
+                                public and private partnerships to 
+                                enhance community preparedness and 
+                                response; and
+                                    (VII) provides redundant alert 
+                                mechanisms, if practicable, to reach the 
+                                greatest number of people regardless of 
+                                whether they have access to, or use, any 
+                                specific medium of communication or any 
+                                particular device.
+            (7) Report.--
+                    (A) <<NOTE: Recommenda- tions.>>  Subcommittee 
+                submission.--Not later than 1 year after the date of 
+                enactment of this Act, the Subcommittee shall submit to 
+                the National Advisory Council a report containing any 
+                recommendations required to be developed
+
+[[Page 130 STAT. 332]]
+
+                under paragraph (6) for approval by the National 
+                Advisory Council.
+                    (B) Submission by national advisory council.--If the 
+                National Advisory Council approves the recommendations 
+                contained in the report submitted under subparagraph 
+                (A), the National Advisory Council shall submit the 
+                report to--
+                          (i) the head of each agency represented on the 
+                      Subcommittee;
+                          (ii) the Committee on Homeland Security and 
+                      Governmental Affairs and the Committee on 
+                      Commerce, Science, and Transportation of the 
+                      Senate; and
+                          (iii) the Committee on Homeland Security and 
+                      the Committee on Transportation and Infrastructure 
+                      of the House of Representatives.
+            (8) <<NOTE: Deadline.>>  Termination.--The Subcommittee 
+        shall terminate not later than 3 years after the date of 
+        enactment of this Act.
+
+    (c) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this Act and the amendments made by this Act 
+such sums as may be necessary for each of fiscal years 2016, 2017, and 
+2018.
+    (d) <<NOTE: 6 USC 3210 note.>>  Limitations on Statutory 
+Construction.--
+            (1) Definition.--In this subsection, the term 
+        ``participating commercial mobile service provider'' has the 
+        meaning given that term under section 10.10(f) of title 47, Code 
+        of Federal Regulations, as in effect on the date of enactment of 
+        this Act.
+            (2) Limitations.--Nothing in this Act, including an 
+        amendment made by this Act, shall be construed--
+                    (A) to affect any authority--
+                          (i) of the Department of Commerce;
+                          (ii) of the Federal Communications Commission; 
+                      or
+                          (iii) provided under the Robert T. Stafford 
+                      Disaster Relief and Emergency Assistance Act (42 
+                      U.S.C. 5121 et seq.);
+                    (B) to provide the Secretary of Homeland Security 
+                with authority to require any action by the Department 
+                of Commerce, the Federal Communications Commission, or 
+                any nongovernmental entity;
+                    (C) to apply to, or to provide the Administrator of 
+                the Federal Emergency Management Agency with authority 
+                over, any participating commercial mobile service 
+                provider;
+                    (D) to alter in any way the wireless emergency 
+                alerts service established under the Warning, Alert, and 
+                Response Network Act (47 U.S.C. 1201 et seq.) or any 
+                related orders issued by the Federal Communications 
+                Commission after October 13, 2006; or
+
+[[Page 130 STAT. 333]]
+
+                    (E) to provide the Federal Emergency Management 
+                Agency with authority to require a State or local 
+                jurisdiction to use the integrated public alert and 
+                warning system of the United States.
+
+    Approved April 11, 2016.
+
+LEGISLATIVE HISTORY--S. 1180:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 114-73 (Comm. on Homeland Security and Governmental 
+Affairs).
+CONGRESSIONAL RECORD:
+                                                        Vol. 161 (2015):
+                                    July 9, considered and passed 
+                                        Senate.
+                                                        Vol. 162 (2016):
+                                    Mar. 21, considered and passed 
+                                        House.
+
+                                  
+

@@ -1,0 +1,691 @@
+
+[115th Congress Public Law 423]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 5453]]
+
+ NATIONAL INTEGRATED DROUGHT INFORMATION SYSTEM REAUTHORIZATION ACT OF 
+                                  2018
+
+[[Page 132 STAT. 5454]]
+
+Public Law 115-423
+115th Congress
+
+                                 An Act
+
+
+ 
+ To reauthorize the National Integrated Drought Information System, and 
+        for other purposes. <<NOTE: Jan. 7, 2019 -  [S. 2200]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: National 
+Integrated Drought Information System Reauthorization Act of 2018. 15 
+USC 8501 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``National Integrated Drought 
+Information System Reauthorization Act of 2018''.
+SEC. 2. NATIONAL INTEGRATED DROUGHT INFORMATION SYSTEM PROGRAM.
+
+    (a) In General.--Section 3 of the National Integrated Drought 
+Information System Act of 2006 (15 U.S.C. 313d) is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1)(A), by striking ``in order to 
+                make usable, reliable, and timely forecasts of drought, 
+                including'' and inserting ``, including precipitation, 
+                soil moisture, and evaporative demand, in order to make 
+                usable, reliable, and timely forecasts of drought and'';
+                    (B) in paragraph (3), by inserting ``watershed,'' 
+                after ``regional,'';
+                    (C) in paragraph (4)--
+                          (i) by inserting ``, through interagency 
+                      agreements'' after ``integrate''; and
+                          (ii) by inserting ``information'' after 
+                      ``warning'';
+                    (D) by amending paragraph (5) to read as follows:
+            ``(5) utilize existing forecasting and assessment programs 
+        and partnerships, including forecast communication coordinators 
+        and cooperative institutes, and improvements in seasonal 
+        precipitation and temperature, subseasonal precipitation and 
+        temperature, and low flow water prediction; and''; and
+                    (E) in paragraph (6), by inserting ``the 
+                prediction,'' after ``relating to'';
+            (2) by redesignating subsections (c) through (e) as 
+        subsections (d) through (f), respectively;
+            (3) by inserting after subsection (b) the following:
+
+    ``(c) Partnerships.--The National Integrated Drought Information 
+System may--
+            ``(1) engage with the private sector to improve drought 
+        monitoring, forecast, and communication if the Under Secretary 
+        determines the partnership is appropriate, cost-effective, and 
+        beneficial to the public and decisionmakers described in 
+        subsection (b)(2)(A);
+
+[[Page 132 STAT. 5455]]
+
+            ``(2) facilitate the development of 1 or more academic 
+        cooperative partnerships to assist with National Integrated 
+        Drought Information System functions; and
+            ``(3) utilize and support, as appropriate, monitoring by 
+        citizen scientists, including by developing best practices to 
+        facilitate maximum data integration.'';
+            (4) in subsection (d), as redesignated, by inserting ``and 
+        sustainment'' after ``development''; and
+            (5) by striking subsection (f), as redesignated, and 
+        inserting the following:
+
+    ``(f) <<NOTE: Deadline. Strategy.>>  Soil Moisture.--Not later than 
+1 year after the date of enactment of the National Integrated Drought 
+Information System Reauthorization Act of 2018, the Under Secretary, 
+acting through the National Integrated Drought Information System, shall 
+develop a strategy for a national coordinated soil moisture monitoring 
+network.''.
+
+    (b) Authorization of Appropriations.--Section 4 of the National 
+Integrated Drought Information System Act of 2006 (15 U.S.C. 313d note) 
+is amended to read as follows:
+``SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated to carry out this Act--
+            ``(1) $13,500,000 for fiscal year 2019;
+            ``(2) $13,750,000 for fiscal year 2020;
+            ``(3) $14,000,000 for fiscal year 2021;
+            ``(4) $14,250,000 for fiscal year 2022; and
+            ``(5) $14,500,000 for fiscal year 2023.''.
+SEC. 3. REAUTHORIZATION OF TITLE II OF THE WEATHER RESEARCH AND 
+                    FORECASTING INNOVATION ACT OF 2017.
+
+    (a) Reauthorization of Title II of the Weather Research and 
+Forecasting Innovation Act of 2017.--Section 1762 of the Food Security 
+Act of 1985 (15 U.S.C. 8521) is amended--
+            (1) by amending subsection (j) to read as follows:
+
+    ``(j) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out the activities under this section--
+            ``(1) $26,500,000 for fiscal year 2019;
+            ``(2) $27,000,000 for fiscal year 2020;
+            ``(3) $27,500,000 for fiscal year 2021;
+            ``(4) $28,000,000 for fiscal year 2022; and
+            ``(5) $28,500,000 for fiscal year 2023.''; and
+            (2) by adding at the end the following:
+
+    ``(k) Derivation of Funds.--Amounts made available to carry out this 
+section shall be derived from amounts appropriated or otherwise made 
+available to the National Weather Service.''.
+    (b) United States Weather Research and Forecasting Improvement.--
+Section 110 of the Weather Research and Forecasting Innovation Act of 
+2017 (15 U.S.C. 8519) is amended to read as follows:
+``SEC. 110. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``(a) In General.--There are authorized to be appropriated to the 
+Office of Oceanic and Atmospheric Research to carry out this title--
+            ``(1) $136,516,000 for fiscal year 2019, of which--
+                    ``(A) $85,758,000 is authorized for weather 
+                laboratories and cooperative institutes;
+
+[[Page 132 STAT. 5456]]
+
+                    ``(B) $30,758,000 is authorized for weather and air 
+                chemistry research programs; and
+                    ``(C) $20,000,000 is authorized for the joint 
+                technology transfer initiative described in section 
+                102(b)(4);
+            ``(2) $148,154,000 for fiscal year 2020, of which--
+                    ``(A) $87,258,000 is authorized for weather 
+                laboratories and cooperative institutes;
+                    ``(B) $40,896,000 is authorized for weather and air 
+                chemistry research programs; and
+                    ``(C) $20,000,000 is authorized for the joint 
+                technology transfer initiative described in section 
+                102(b)(4);
+            ``(3) $150,154,000 for fiscal year 2021, of which--
+                    ``(A) $88,758,000 is authorized for weather 
+                laboratories and cooperative institutes;
+                    ``(B) $41,396,000 is authorized for weather and air 
+                chemistry research programs; and
+                    ``(C) $20,000,000 is authorized for the joint 
+                technology transfer initiative described in section 
+                102(b)(4);
+            ``(4) $152,154,000 for fiscal year 2022, of which--
+                    ``(A) $90,258,000 is authorized for weather 
+                laboratories and cooperative institutes;
+                    ``(B) $41,896,000 is authorized for weather and air 
+                chemistry research programs; and
+                    ``(C) $20,000,000 is authorized for the joint 
+                technology transfer initiative described in section 
+                102(b)(4); and
+            ``(5) $154,154,000 for fiscal year 2023, of which--
+                    ``(A) $91,758,000 is authorized for weather 
+                laboratories and cooperative institutes;
+                    ``(B) $42,396,000 is authorized for weather and air 
+                chemistry research programs; and
+                    ``(C) $20,000,000 is authorized for the joint 
+                technology transfer initiative described in section 
+                102(b)(4).
+
+    ``(b) Limitation.--No additional funds are authorized to carry out 
+this title and the amendments made by this title.''.
+SEC. 4. EARTH PREDICTION INNOVATION CENTER.
+
+    (a) Weather Research and Forecasting Innovation.--Section 102(b) of 
+the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 
+8512(b)) is amended by adding at the end the following:
+            ``(4) Advancing weather modeling skill, reclaiming and 
+        maintaining international leadership in the area of numerical 
+        weather prediction, and improving the transition of research 
+        into operations by--
+                    ``(A) leveraging the weather enterprise to provide 
+                expertise on removing barriers to improving numerical 
+                weather prediction;
+                    ``(B) enabling scientists and engineers to 
+                effectively collaborate in areas important for improving 
+                operational global numerical weather prediction skill, 
+                including model development, data assimilation 
+                techniques, systems architecture integration, and 
+                computational efficiencies;
+                    ``(C) strengthening the National Oceanic and 
+                Atmospheric Administration's ability to undertake 
+                research projects in pursuit of substantial advancements 
+                in weather forecast skill;
+
+[[Page 132 STAT. 5457]]
+
+                    ``(D) utilizing and leverage existing resources 
+                across the National Oceanic and Atmospheric 
+                Administration enterprise; and
+                    ``(E) creating a community global weather research 
+                modeling system that--
+                          ``(i) is accessible by the public;
+                          ``(ii) meets basic end-user requirements for 
+                      running on public computers and networks located 
+                      outside of secure National Oceanic and Atmospheric 
+                      Administration information and technology systems; 
+                      and
+                          ``(iii) utilizes, whenever appropriate and 
+                      cost-effective, innovative strategies and methods, 
+                      including cloud-based computing capabilities, for 
+                      hosting and management of part or all of the 
+                      system described in this subsection.''.
+
+    (b) United States Weather Research Program.--Section 108(a) of the 
+National Oceanic and Atmospheric Administration Authorization Act of 
+1992 (15 U.S.C. 8520(a)) is amended--
+            (1) in paragraph (10), by striking ``; and'' and inserting a 
+        semi-colon;
+            (2) in paragraph (11), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(12) carry out the activities of the Earth Prediction 
+        Innovation Center as described in section 102(b)(2) of the 
+        Weather Research and Forecasting Innovation Act of 2017 (15 
+        U.S.C. 8512(b)(2)).''.
+SEC. 5. COMPUTING RESOURCES PRIORITIZATION.
+
+    (a) In General.--Section 108 of the Weather Research and Forecasting 
+Innovation Act of 2017 (15 U.S.C. 8518) is amended to read as follows:
+``SEC. 108. COMPUTING RESOURCE EFFICIENCY IMPROVEMENT AND ANNUAL 
+                        REPORT.
+
+    ``(a) <<NOTE: Assessments. Contracts.>>  Computing Resources.--
+            ``(1) In general.--In acquiring computing capabilities, 
+        including high performance computing technologies and 
+        supercomputing technologies, that enable the National Oceanic 
+        and Atmospheric Administration to meet its mission requirements, 
+        the Under Secretary shall, when appropriate and cost-effective, 
+        assess and prioritize options for entering into multi-year lease 
+        agreements for computing capabilities over options for 
+        purchasing computing hardware outright.
+            ``(2) Acquisition.--In carrying out the requirements of 
+        paragraph (1), the Under Secretary shall structure multi-year 
+        lease agreements in such a manner that the expiration of the 
+        lease is set for a date on or around--
+                    ``(A) the expected degradation point of the 
+                computing resources; or
+                    ``(B) the point at which significantly increased 
+                computing capabilities are expected to be available for 
+                lease.
+            ``(3) Pilot programs.--
+                    ``(A) In general.--In order to more efficiently and 
+                effectively meet the mission requirements of the 
+                National Oceanic and Atmospheric Administration, the 
+                Under Secretary may create 1 or more pilot programs for 
+                assessing
+
+[[Page 132 STAT. 5458]]
+
+                new or innovative information and technology 
+                capabilities and services.
+                    ``(B) Program requirements.--Any program created 
+                under paragraph (3) shall assess only those capabilities 
+                and services that--
+                          ``(i) meet or exceed the standards and 
+                      requirements of the National Oceanic and 
+                      Atmospheric Administration, including for 
+                      processing speed, cybersecurity, and overall 
+                      reliability; or
+                          ``(ii) meet or exceed, or are expected to meet 
+                      or exceed, the performance of similar, in-house 
+                      information and technology capabilities and 
+                      services that are owned and operated by the 
+                      National Oceanic and Atmospheric Administration 
+                      prior to the establishment of the pilot program.
+                    ``(C) Authorization of appropriations.--There is 
+                authorized to be appropriated, out of funds appropriated 
+                to the National Environmental Satellite, Data, and 
+                Information Service, to carry out this paragraph 
+                $5,000,000 for fiscal year 2019, $10,000,000 for fiscal 
+                year 2020, and $5,000,000 for each of fiscal years 2021 
+                through 2023, to remain available until expended.
+
+    ``(b) <<NOTE: Coordination. Public information.>>  Reports.--Not 
+later than 1 year after the date of enactment of the National Integrated 
+Drought Information System Reauthorization Act of 2018, and triennially 
+thereafter until the date that is 6 years after the date on which the 
+first report is submitted, the Under Secretary, acting through the Chief 
+Information Officer of the National Oceanic and Atmospheric 
+Administration and in coordination with the Assistant Administrator for 
+Oceanic and Atmospheric Research and the Director of the National 
+Weather Service, shall produce and make publicly available a report that 
+explains how the Under Secretary intends--
+            ``(1) to continually support upgrades to pursue the fastest, 
+        most powerful, and cost-effective high performance computing 
+        technologies in support of its weather prediction mission;
+            ``(2) to ensure a balance between the research to operations 
+        requirements to develop the next generation of regional and 
+        global models as well as highly reliable operational models;
+            ``(3) to take advantage of advanced development concepts to, 
+        as appropriate, make next generation weather prediction models 
+        available in beta-test mode to operational forecasters, the 
+        United States weather industry, and partners in academic and 
+        Government research;
+            ``(4) to use existing computing resources to improve 
+        advanced research and operational weather prediction;
+            ``(5) to utilize non-Federal contracts to obtain the 
+        necessary expertise for advanced weather computing, if 
+        appropriate;
+            ``(6) to utilize cloud computing; and
+            ``(7) to create a long-term strategy to transition the 
+        programming language of weather model code to current and 
+        broadly-used coding language.''.
+
+    (b) Table of Contents.--Section 1(b) of the Weather Research and 
+Forecasting Innovation Act of 2017 (Public Law 115-25; 131 Stat. 91) is 
+amended by striking the item relating to section 108 and inserting the 
+following:
+
+``Sec. 108. Computing resource efficiency improvement and annual 
+           report.''.
+
+[[Page 132 STAT. 5459]]
+
+SEC. 6. SATELLITE ARCHITECTURE PLANNING.
+
+    Section 301 of the Weather Research and Forecasting Innovation Act 
+of 2017 (15 U.S.C. 8531) is amended by adding at the end the following:
+    ``(c) Next Generation Satellite Architecture.--
+            ``(1) <<NOTE: Analysis.>>  In general.--The Under Secretary 
+        shall analyze, test, and plan the procurement of future data 
+        sources and satellite architectures, including respective ground 
+        system elements, identified in the National Oceanic and 
+        Atmospheric Administration's Satellite Observing System 
+        Architecture Study that--
+                    ``(A) lower the cost of observations used to meet 
+                the National Oceanic and Atmospheric Administration's 
+                mission requirements;
+                    ``(B) disaggregate current satellite systems, where 
+                appropriate;
+                    ``(C) include new, value-adding technological 
+                advancements; and
+                    ``(D) improve weather forecasting and predictions.
+            ``(2) Quantitative assessments and partnership authority.--
+        In meeting the requirements described in paragraph (1), the 
+        Under Secretary--
+                    ``(A) may partner with the commercial and academic 
+                sectors, non-governmental and not-for-profit 
+                organizations, and other Federal agencies; and
+                    ``(B) <<NOTE: Analyses.>>  shall, consistent with 
+                section 107 of this Act, undertake quantitative 
+                assessments for objective analyses, as the Under 
+                Secretary considers appropriate, to evaluate relative 
+                value and benefits of future data sources and satellite 
+                architectures described in paragraph (1).
+
+    ``(d) <<NOTE: Contracts.>>  Additional Forms of Transaction 
+Authorized.--
+            ``(1) In general.--Subject to paragraph (2), in order to 
+        enhance the effectiveness of data and satellite systems used by 
+        the National Oceanic and Atmospheric Administration to meet its 
+        missions, the Under Secretary may enter into and perform such 
+        transaction agreements on such terms as the Under Secretary 
+        considers appropriate to carry out basic, applied, and advanced 
+        research projects to meet the objectives described in 
+        subparagraphs (A) through (D) subsection (c)(1).
+            ``(2) Method and scope.--
+                    ``(A) In general.--A transaction agreement under 
+                paragraph (1) shall be limited to research and 
+                development activities.
+                    ``(B) Permissible uses.--A transaction agreement 
+                under paragraph (1) may be used--
+                          ``(i) for the construction, use, operation, or 
+                      procurement of new, improved, innovative, or 
+                      value-adding satellites, instrumentation, ground 
+                      stations, and data;
+                          ``(ii) to make determinations on how to best 
+                      use existing or planned data, systems, and assets 
+                      of the National Oceanic and Atmospheric 
+                      Administration; and
+                          ``(iii) only when the objectives of the 
+                      National Oceanic and Atmospheric Administration 
+                      cannot be met using a cooperative research and 
+                      development agreement, grants procurement 
+                      contract, or cooperative agreement.
+
+[[Page 132 STAT. 5460]]
+
+            ``(3) Termination of effectiveness.--The authority provided 
+        in this subsection terminates effective September 30, 2023.
+
+    ``(e) Transparency <<NOTE: Deadline. Public information. Web 
+posting. Estimate.>> .--Not later than 60 days after the date that a 
+transaction agreement is made under subsection (d), the Under Secretary 
+shall make publicly available, in a searchable format, on the website of 
+the National Oceanic and Atmospheric Administration all uses of the 
+authority under subsection (d), including an estimate of committed 
+National Oceanic and Atmospheric Administration resources and the 
+expected benefits to National Oceanic and Atmospheric Administration 
+objectives for the transaction agreement, with appropriate redactions 
+for proprietary, sensitive, or classified information.
+
+    ``(f) Reports.--
+            ``(1) In general.--Not later than 90 days after September 30 
+        of each fiscal year through September 30, 2023, the Under 
+        Secretary shall submit to the Committee on Commerce, Science, 
+        and Transportation of the Senate and the Committee on Science, 
+        Space, and Technology of the House of Representatives a report 
+        on the use of additional transaction authority by the National 
+        Oceanic and Atmospheric Administration during the previous 
+        fiscal year.
+            ``(2) Contents.--Each report shall include--
+                    ``(A) for each transaction agreement in effect 
+                during the fiscal year covered by the report--
+                          ``(i) an indication of whether the transaction 
+                      agreement is a reimbursable, non-reimbursable, or 
+                      funded agreement;
+                          ``(ii) a description of--
+                                    ``(I) the subject and terms;
+                                    ``(II) the parties;
+                                    ``(III) the responsible National 
+                                Oceanic and Atmospheric Administration 
+                                line office;
+                                    ``(IV) the value;
+                                    ``(V) the extent of the cost sharing 
+                                among Federal Government and non-Federal 
+                                sources;
+                                    ``(VI) the duration or schedule; and
+                                    ``(VII) all milestones;
+                          ``(iii) an indication of whether the 
+                      transaction agreement was renewed during the 
+                      previous fiscal year;
+                          ``(iv) the technology areas in which research 
+                      projects were conducted under that agreement;
+                          ``(v) the extent to which the use of that 
+                      agreement--
+                                    ``(I) has contributed to a 
+                                broadening of the technology and 
+                                industrial base available for meeting 
+                                National Oceanic and Atmospheric 
+                                Administration needs; and
+                                    ``(II) has fostered within the 
+                                technology and industrial base new 
+                                relationships and practices that support 
+                                the United States; and
+                          ``(vi) the total value received by the Federal 
+                      Government under that agreement for that fiscal 
+                      year; and
+
+[[Page 132 STAT. 5461]]
+
+                    ``(B) <<NOTE: List.>>  a list of all anticipated 
+                reimbursable, non-reimbursable, and funded transaction 
+                agreements for the upcoming fiscal year.
+
+    ``(g) Rule of Construction.--Nothing in this section may be 
+construed as limiting the authority of the National Oceanic and 
+Atmospheric Administration to use cooperative research and development 
+agreements, grants, procurement contracts, or cooperative agreements.''.
+SEC. 7. INTEGRATION OF OCEAN AND COASTAL DATA FROM THE INTEGRATED 
+                    OCEAN OBSERVING SYSTEM.
+
+    (a) In General.--Section 301(a)(2) of the Weather Research and 
+Forecasting Innovation Act of 2017 (15 U.S.C. 8531(a)(2)) is amended--
+            (1) in subparagraph (A), by striking ``; and'' and inserting 
+        a semicolon;
+            (2) in subparagraph (B), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(C) support increasing use of autonomous, mobile 
+                surface, sub-surface, and submarine vehicle ocean and 
+                fresh water sensor systems and the infrastructure 
+                necessary to share and analyze these data in real-time 
+                and feed them into predictive early warning systems.''.
+
+    (b) Commercial Weather Data; Authorization of Appropriations.--
+Section 302(c)(3) of the Weather Research and Forecasting Innovation Act 
+of 2017 (15 U.S.C. 8532(c)(3)) is amended--
+            (1) by striking ``2017 through 2020'' and inserting ``2019 
+        through 2023''; and
+            (2) by inserting ``the'' before ``National''.
+SEC. 8. <<NOTE: 15 USC 8550.>>  IMPROVEMENTS TO COOPERATIVE 
+                    OBSERVER PROGRAM OF NATIONAL WEATHER SERVICE.
+
+    (a) In General.--The Under Secretary of Commerce for Oceans and 
+Atmosphere, acting through the National Weather Service, shall improve 
+the Cooperative Observer Program by--
+            (1) providing support to--
+                    (A) State-coordinated programs relating to the 
+                Program; and
+                    (B) States and regions where observations provided 
+                through the Program are scarce;
+            (2) working with State weather service headquarters to 
+        increase participation in the Program and to add stations in 
+        States and regions described in paragraph (1)(B);
+            (3) where feasible, ensuring that data streams from stations 
+        that have been contributing data to the Program for more than 50 
+        years are maintained and continually staffed by volunteers;
+            (4) prioritizing the recruitment of new volunteers for the 
+        Program;
+            (5) ensuring that opportunities exist for automated 
+        reporting to lessen the burden on volunteers to collect and 
+        report data by hand; and
+            (6) ensuring that integrated reporting is available for 
+        qualitative observations that cannot be automated, such as 
+        drought conditions, snow observations, and hazardous weather 
+        events, to ensure that volunteers in the Program can report and 
+        upload observations quickly and easily.
+
+[[Page 132 STAT. 5462]]
+
+    (b) Coordination With States and Regions <<NOTE: Time period.>> .--
+Not less frequently than every 180 days, the National Weather Service 
+shall coordinate with State and regional offices with respect to the 
+status of Cooperative Observer Program stations.
+
+    (c) Coordination With Federal Agencies.--The National Weather 
+Service shall coordinate with other Federal agencies, including the 
+Forest Service, the Department of Agriculture, and the United States 
+Geological Survey, to leverage opportunities to grow the Cooperative 
+Observer Program network and to more effectively use existing 
+infrastructure, weather stations, and staff of the Program.
+SEC. 9. <<NOTE: Harmful Algal Bloom and Hypoxia Research and 
+                    Control Amendments Act of 2017.>>  HARMFUL 
+                    ALGAL BLOOM AND HYPOXIA RESEARCH AND CONTROL.
+
+    (a) <<NOTE: 33 USC 4001 note.>>  Short Title.--This section may be 
+cited as the ``Harmful Algal Bloom and Hypoxia Research and Control 
+Amendments Act of 2017''.
+
+    (b) References to the Harmful Algal Bloom and Hypoxia Research and 
+Control Act of 1998.--Except as otherwise expressly provided, wherever 
+in this section an amendment or repeal is expressed in terms of an 
+amendment to, or repeal of, a section or other provision, the reference 
+shall be considered to be made to a section or other provision of the 
+Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (33 
+U.S.C. 4001 et seq.).
+    (c) Inter-Agency Task Force.--Section 603(a) (33 U.S.C. 4001(a)) is 
+amended--
+            (1) in paragraph (12), by striking ``and'' at the end;
+            (2) by redesignating paragraph (13) as paragraph (14); and
+            (3) by inserting after paragraph (12) the following:
+            ``(13) the Army Corps of Engineers; and''.
+
+    (d) Scientific Assessments of Freshwater Harmful Algal Blooms.--
+Section 603 (33 U.S.C. 4001) is amended--
+            (1) by striking subsection (f);
+            (2) by redesignating subsections (g), (h), (i), and (j) as 
+        subsections (f), (g), (h), and (i), respectively; and
+            (3) by amending subsection (g) to read as follows:
+
+    ``(g) Scientific Assessments of Marine and Freshwater Harmful Algal 
+Blooms <<NOTE: Time period.>> .--Not less than once every 5 years the 
+Task Force shall complete and submit to Congress a scientific assessment 
+of harmful algal blooms in United States coastal waters and freshwater 
+systems. Each assessment shall examine both marine and freshwater 
+harmful algal blooms, including those in the Great Lakes and upper 
+reaches of estuaries, those in freshwater lakes and rivers, and those 
+that originate in freshwater lakes or rivers and migrate to coastal 
+waters.''.
+
+    (e) National Harmful Algal Bloom and Hypoxia Program.--
+            (1) Program duties.--Section 603A(e) (33 U.S.C. 4002(e)) is 
+        amended--
+                    (A) in paragraph (1), by inserting ``, including to 
+                local and regional stakeholders through the 
+                establishment and maintenance of a publicly accessible 
+                Internet website that provides information as to Program 
+                activities completed under this section'' after 
+                ``Program'';
+                    (B) in paragraph (3)--
+
+[[Page 132 STAT. 5463]]
+
+                          (i) in subparagraph (B), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (ii) in subparagraph (C), by inserting ``and'' 
+                      after the semicolon at the end; and
+                          (iii) by adding at the end the following:
+                    ``(D) to accelerate the utilization of effective 
+                methods of intervention and mitigation to reduce the 
+                frequency, severity, and impacts of harmful algal bloom 
+                and hypoxia events;'';
+                    (C) in paragraph (4), by striking ``and work 
+                cooperatively with'' and inserting ``, and work 
+                cooperatively to provide technical assistance to,''; and
+                    (D) in paragraph (7)--
+                          (i) by inserting ``and extension'' after 
+                      ``existing education''; and
+                          (ii) by inserting ``intervention,'' after 
+                      ``awareness of the causes, impacts,''.
+            (2) National oceanic and atmospheric administration 
+        activities.--Section 603A(f) (33 U.S.C. 4002(f)) is amended--
+                    (A) in paragraph (3), by inserting ``, which shall 
+                include unmanned systems,'' after ``infrastructure'';
+                    (B) in paragraph (5), by striking ``and'' at the 
+                end;
+                    (C) in paragraph (6)(C), by striking the period at 
+                the end and inserting a semicolon; and
+                    (D) by adding at the end the following:
+            ``(7) use cost effective methods in carrying out this Act; 
+        and
+            ``(8) develop contingency plans for the long-term monitoring 
+        of hypoxia.''.
+
+    (f) Consultation Required.--Section 102 of the Harmful Algal Bloom 
+and Hypoxia Amendments Act of 2004 (33 U.S.C. 4001a) is amended by 
+striking ``the amendments made by this title'' and inserting ``the 
+Harmful Algal Bloom and Hypoxia Research and Control Act of 1998''.
+    (g) <<NOTE: 33 USC 4010.>>  Hypoxia or Harmful Algal Bloom of 
+National Significance.--
+            (1) Relief.--
+                    (A) <<NOTE: Assessment.>>  In general.--Upon a 
+                determination under paragraph (2) that there is an event 
+                of national significance, the appropriate Federal 
+                official is authorized to make sums available to the 
+                affected State or local government for the purposes of 
+                assessing and mitigating the detrimental environmental, 
+                economic, subsistence use, and public health effects of 
+                the event of national significance.
+                    (B) Federal share.--The Federal share of the cost of 
+                any activity carried out under this paragraph for the 
+                purposes described in subparagraph (A) may not exceed 50 
+                percent of the cost of that activity.
+                    (C) Donations.--Notwithstanding any other provision 
+                of law, an appropriate Federal official may accept 
+                donations of funds, services, facilities, materials, or 
+                equipment that the appropriate Federal official 
+                considers necessary for the purposes described in 
+                subparagraph (A). Any funds donated to an appropriate 
+                Federal official under this paragraph may be expended 
+                without further appropriation and without fiscal year 
+                limitation.
+            (2) Determinations.--
+
+[[Page 132 STAT. 5464]]
+
+                    (A) In general.--At the discretion of an appropriate 
+                Federal official, or at the request of the Governor of 
+                an affected State, an appropriate Federal official shall 
+                determine whether a hypoxia or harmful algal bloom event 
+                is an event of national significance.
+                    (B) Considerations.--In making a determination under 
+                subparagraph (A), the appropriate Federal official shall 
+                consider the toxicity of the harmful algal bloom, the 
+                severity of the hypoxia, its potential to spread, the 
+                economic impact, the relative size in relation to the 
+                past 5 occurrences of harmful algal blooms or hypoxia 
+                events that occur on a recurrent or annual basis, and 
+                the geographic scope, including the potential to affect 
+                several municipalities, to affect more than 1 State, or 
+                to cross an international boundary.
+            (3) Definitions.--In this subsection:
+                    (A) Appropriate federal official.--The term 
+                ``appropriate Federal official'' means--
+                          (i) in the case of a marine or coastal hypoxia 
+                      or harmful algal bloom event, the Under Secretary 
+                      of Commerce for Oceans and Atmosphere; and
+                          (ii) in the case of a freshwater hypoxia or 
+                      harmful algal bloom event, the Administrator of 
+                      the Environmental Protection Agency.
+                    (B) Event of national significance.--The term 
+                ``event of national significance'' means a hypoxia or 
+                harmful algal bloom event that has had or will likely 
+                have a significant detrimental environmental, economic, 
+                subsistence use, or public health impact on an affected 
+                State.
+                    (C) Hypoxia or harmful algal bloom event.--The term 
+                ``hypoxia or harmful algal bloom event'' means the 
+                occurrence of hypoxia or a harmful algal bloom as a 
+                result of a natural, anthropogenic, or undetermined 
+                cause.
+
+    (h) Authorization of Appropriations.--Section 609(a) (33 U.S.C. 
+4009(a)) is amended by inserting ``, and $20,500,000 for each of fiscal 
+years 2019 through 2023'' before the period at the end.
+
+    Approved January 7, 2019.
+
+LEGISLATIVE HISTORY--S. 2200:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 115-256 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 164 (2018):
+            Dec. 18, considered and passed Senate.
+            Dec. 20, considered and passed House.
+
+                                  
+

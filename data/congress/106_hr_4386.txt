@@ -1,0 +1,235 @@
+
+[106th Congress Public Law 354]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ354.106]
+
+
+[[Page 114 STAT. 1381]]
+
+Public Law 106-354
+106th Congress
+
+                                 An Act
+
+
+ 
+    To amend title XIX of the Social Security Act to provide medical 
+   assistance for certain women screened and found to have breast or 
+cervical cancer under a federally funded screening program, to amend the 
+ Public Health Service Act and the Federal Food, Drug, and Cosmetic Act 
+with respect to surveillance and information concerning the relationship 
+  between cervical cancer and the human papillomavirus (HPV), and for 
+         other purposes. <<NOTE: Oct. 24, 2000 -  [H.R. 4386]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Breast Cancer 
+Prevention and Treatment Act of 2000.>> 
+
+SECTION 1. SHORT TITLE. <<NOTE: 42 USC 1305 note.>> 
+
+    This Act may be cited as the ``Breast and Cervical Cancer Prevention 
+and Treatment Act of 2000''.
+
+SEC. 2. OPTIONAL MEDICAID COVERAGE OF CERTAIN BREAST OR CERVICAL CANCER 
+            PATIENTS.
+
+    (a) Coverage as Optional Categorically Needy Group.--
+            (1) In general.--Section 1902(a)(10)(A)(ii) of the Social 
+        Security Act (42 U.S.C. 1396a(a)(10)(A)(ii)) is amended--
+                    (A) in subclause (XVI), by striking ``or'' at the 
+                end;
+                    (B) in subclause (XVII), by adding ``or'' at the 
+                end; and
+                    (C) by adding at the end the following:
+                                    ``(XVIII) who are described in 
+                                subsection (aa) (relating to certain 
+                                breast or cervical cancer patients);''.
+            (2) Group described.--Section 1902 of the Social Security 
+        Act (42 U.S.C. 1396a) is amended by adding at the end the 
+        following:
+
+    ``(aa) Individuals described in this subsection are individuals 
+who--
+            ``(1) are not described in subsection (a)(10)(A)(i);
+            ``(2) have not attained age 65;
+            ``(3) have been screened for breast and cervical cancer 
+        under the Centers for Disease Control and Prevention breast and 
+        cervical cancer early detection program established under title 
+        XV of the Public Health Service Act (42 U.S.C. 300k et seq.) in 
+        accordance with the requirements of section 1504 of that Act (42 
+        U.S.C. 300n) and need treatment for breast or cervical cancer; 
+        and
+            ``(4) are not otherwise covered under creditable coverage, 
+        as defined in section 2701(c) of the Public Health Service Act 
+        (42 U.S.C. 300gg(c)).''.
+
+[[Page 114 STAT. 1382]]
+
+            (3) Limitation on Benefits.--Section 1902(a)(10) of the 
+        Social Security Act (42 U.S.C. 1396a(a)(10)) is amended in the 
+        matter following subparagraph (G)--
+                    (A) by striking ``and (XIII)'' and inserting 
+                ``(XIII)''; and
+                    (B) by inserting ``, and (XIV) the medical 
+                assistance made available to an individual described in 
+                subsection (aa) who is eligible for medical assistance 
+                only because of subparagraph (A)(10)(ii)(XVIII) shall be 
+                limited to medical assistance provided during the period 
+                in which such an individual requires treatment for 
+                breast or cervical cancer'' before the semicolon.
+            (4) Conforming amendments.--Section 1905(a) of the Social 
+        Security Act (42 U.S.C. 1396d(a)) is amended in the matter 
+        preceding paragraph (1)--
+                    (A) in clause (xi), by striking ``or'' at the end;
+                    (B) in clause (xii), by adding ``or'' at the end; 
+                and
+                    (C) by inserting after clause (xii) the following:
+            ``(xiii) individuals described in section 1902(aa),''.
+
+    (b) Presumptive Eligibility.--
+            (1) In general.--Title XIX of the Social Security Act (42 
+        U.S.C. 1396 et seq.) is amended by inserting after section 1920A 
+        the following:
+
+``presumptive eligibility for certain breast or cervical cancer patients
+
+    ``Sec. 1920B. <<NOTE: 42 USC 1396r-1b.>>  (a) State Option.--A State 
+plan approved under section 1902 may provide for making medical 
+assistance available to an individual described in section 1902(aa) 
+(relating to certain breast or cervical cancer patients) during a 
+presumptive eligibility period.
+
+    ``(b) Definitions.--For purposes of this section:
+            ``(1) Presumptive eligibility period.--The term `presumptive 
+        eligibility period' means, with respect to an individual 
+        described in subsection (a), the period that--
+                    ``(A) begins with the date on which a qualified 
+                entity determines, on the basis of preliminary 
+                information, that the individual is described in section 
+                1902(aa); and
+                    ``(B) ends with (and includes) the earlier of--
+                          ``(i) the day on which a determination is made 
+                      with respect to the eligibility of such individual 
+                      for services under the State plan; or
+                          ``(ii) in the case of such an individual who 
+                      does not file an application by the last day of 
+                      the month following the month during which the 
+                      entity makes the determination referred to in 
+                      subparagraph (A), such last day.
+            ``(2) Qualified entity.--
+                    ``(A) In general.--Subject to subparagraph (B), the 
+                term `qualified entity' means any entity that--
+                          ``(i) is eligible for payments under a State 
+                      plan approved under this title; and
+                          ``(ii) is determined by the State agency to be 
+                      capable of making determinations of the type 
+                      described in paragraph (1)(A).
+
+[[Page 114 STAT. 1383]]
+
+                    ``(B) Regulations.--The Secretary may issue 
+                regulations further limiting those entities that may 
+                become qualified entities in order to prevent fraud and 
+                abuse and for other reasons.
+                    ``(C) Rule of construction.--Nothing in this 
+                paragraph shall be construed as preventing a State from 
+                limiting the classes of entities that may become 
+                qualified entities, consistent with any limitations 
+                imposed under subparagraph (B).
+
+    ``(c) Administration.--
+            ``(1) In general.--The State agency shall provide qualified 
+        entities with--
+                    ``(A) such forms as are necessary for an application 
+                to be made by an individual described in subsection (a) 
+                for medical assistance under the State plan; and
+                    ``(B) information on how to assist such individuals 
+                in completing and filing such forms.
+            ``(2) Notification requirements.--A qualified entity that 
+        determines under subsection (b)(1)(A) that an individual 
+        described in subsection (a) is presumptively eligible for 
+        medical assistance under a State plan shall--
+                    ``(A) notify the State agency of the determination 
+                within 5 working days after the date on which 
+                determination is made; and
+                    ``(B) inform such individual at the time the 
+                determination is made that an application for medical 
+                assistance under the State plan is required to be made 
+                by not later than the last day of the month following 
+                the month during which the determination is made.
+            ``(3) Application for medical assistance.--In the case of an 
+        individual described in subsection (a) who is determined by a 
+        qualified entity to be presumptively eligible for medical 
+        assistance under a State plan, the individual shall apply for 
+        medical assistance under such plan by not later than the last 
+        day of the month following the month during which the 
+        determination is made.
+
+    ``(d) Payment.--Notwithstanding any other provision of this title, 
+medical assistance that--
+            ``(1) is furnished to an individual described in subsection 
+        (a)--
+                    ``(A) during a presumptive eligibility period;
+                    ``(B) by a entity that is eligible for payments 
+                under the State plan; and
+            ``(2) is included in the care and services covered by the 
+        State plan,
+
+shall be treated as medical assistance provided by such plan for 
+purposes of clause (4) of the first sentence of section 1905(b).''.
+            (2) Conforming amendments.--
+                    (A) Section 1902(a)(47) of the Social Security Act 
+                (42 U.S.C. 1396a(a)(47)) is amended by inserting before 
+                the semicolon at the end the following: ``and provide 
+                for making medical assistance available to individuals 
+                described in subsection (a) of section 1920B during a 
+                presumptive eligibility period in accordance with such 
+                section''.
+                    (B) Section 1903(u)(1)(D)(v) of such Act (42 U.S.C. 
+                1396b(u)(1)(D)(v)) is amended--
+                          (i) by striking ``or for'' and inserting ``, 
+                      for''; and
+
+[[Page 114 STAT. 1384]]
+
+                          (ii) by inserting before the period the 
+                      following: ``, or for medical assistance provided 
+                      to an individual described in subsection (a) of 
+                      section 1920B during a presumptive eligibility 
+                      period under such section''.
+
+    (c) Enhanced Match.--The first sentence of section 1905(b) of the 
+Social Security Act (42 U.S.C. 1396d(b)) is amended--
+            (1) by striking ``and'' before ``(3)''; and
+            (2) by inserting before the period at the end the following: 
+        ``, and (4) the Federal medical assistance percentage shall be 
+        equal to the enhanced FMAP described in section 2105(b) with 
+        respect to medical assistance provided to individuals who are 
+        eligible for such assistance only on the basis of section 
+        1902(a)(10)(A)(ii)(XVIII)''.
+
+    (d) <<NOTE: Applicability. 42 USC 1396a note.>>  Effective Date.--
+The amendments made by this section apply to medical assistance for 
+items and services furnished on or after October 1, 2000, without regard 
+to whether final regulations to carry out such amendments have been 
+promulgated by such date.
+
+    Approved October 24, 2000.
+
+LEGISLATIVE HISTORY--H.R. 4386 (S. 662):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 106-323 accompanying S. 662 (Comm. on Finance).
+CONGRESSIONAL RECORD, Vol. 146 (2000):
+            May 9, considered and passed House.
+            Oct. 4, considered and passed Senate, amended, in lieu of S. 
+                662.
+            Oct. 12, House concurred in Senate amendment.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 36 (2000):
+            Oct. 24, Presidential statement.
+
+                                  
+

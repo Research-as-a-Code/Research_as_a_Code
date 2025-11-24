@@ -1,0 +1,230 @@
+
+[106th Congress Public Law 8]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ008.106]
+
+
+[[Page 113 STAT. 13]]
+
+Public Law 106-8
+106th Congress
+
+                                 An Act
+
+
+ 
+    To provide for a loan guarantee program to address the Year 2000 
+      computer problems of small business concerns, and for other 
+              purposes. <<NOTE: Apr. 2, 1999 -  [S. 314]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Small Business 
+Year 2000 Readiness Act.>> 
+
+SECTION 1. SHORT TITLE. <<NOTE: 15 USC 631 note.>> 
+
+    This Act may be cited as the ``Small Business Year 2000 Readiness 
+Act''.
+
+SEC. 2. FINDINGS. <<NOTE: 15 USC 636 note.>> 
+
+    Congress finds that--
+            (1) the failure of many computer programs to recognize the 
+        Year 2000 may have extreme negative financial consequences in 
+        the Year 2000, and in subsequent years for both large and small 
+        businesses;
+            (2) small businesses are well behind larger businesses in 
+        implementing corrective changes to their automated systems;
+            (3) many small businesses do not have access to capital to 
+        fix mission critical automated systems, which could result in 
+        severe financial distress or failure for small businesses; and
+            (4) the failure of a large number of small businesses due to 
+        the Year 2000 computer problem would have a highly detrimental 
+        effect on the economy in the Year 2000 and in subsequent years.
+
+SEC. 3. YEAR 2000 COMPUTER PROBLEM LOAN GUARANTEE PROGRAM.
+
+    (a) Program Established.--Section 7(a) of the Small Business Act (15 
+U.S.C. 636(a)) is amended by adding at the end the following:
+            ``(27) Year 2000 computer problem program.--
+                    ``(A) Definitions.--In this paragraph--
+                          ``(i) the term `eligible lender' means any 
+                      lender designated by the Administration as 
+                      eligible to participate in the general business 
+                      loan program under this subsection; and
+                          ``(ii) the term `Year 2000 computer problem' 
+                      means, with respect to information technology, and 
+                      embedded systems, any problem that adversely 
+                      effects the processing (including calculating, 
+                      comparing, sequencing, displaying, or storing), 
+                      transmitting, or receiving of date-dependent 
+                      data--
+                                    ``(I) from, into, or between--
+                                            ``(aa) the 20th or 21st 
+                                        centuries; or
+
+[[Page 113 STAT. 14]]
+
+                                            ``(bb) the years 1999 and 
+                                        2000; or
+                                    ``(II) with regard to leap year 
+                                calculations.
+                    ``(B) Establishment of program.--The Administration 
+                shall--
+                          ``(i) establish a loan guarantee program, 
+                      under which the Administration may, during the 
+                      period beginning on the date of enactment of this 
+                      paragraph and ending on December 31, 2000, 
+                      guarantee loans made by eligible lenders to small 
+                      business concerns in accordance with this 
+                      paragraph; and
+                          ``(ii) <<NOTE: Notification.>>  notify each 
+                      eligible lender of the establishment of the 
+                      program under this paragraph, and otherwise take 
+                      such actions as may be necessary to aggressively 
+                      market the program under this paragraph.
+                    ``(C) Use of funds.--A small business concern that 
+                receives a loan guaranteed under this paragraph shall 
+                only use the proceeds of the loan to--
+                          ``(i) address the Year 2000 computer problems 
+                      of that small business concern, including the 
+                      repair and acquisition of information technology 
+                      systems, the purchase and repair of software, the 
+                      purchase of consulting and other third party 
+                      services, and related expenses; and
+                          ``(ii) provide relief for a substantial 
+                      economic injury incurred by the small business 
+                      concern as a direct result of the Year 2000 
+                      computer problems of the small business concern or 
+                      of any other entity (including any service 
+                      provider or supplier of the small business 
+                      concern), if such economic injury has not been 
+                      compensated for by insurance or otherwise.
+                    ``(D) Loan amounts.--
+                          ``(i) In general.--Notwithstanding paragraph 
+                      (3)(A) and subject to clause (ii) of this 
+                      subparagraph, a loan may be made to a borrower 
+                      under this paragraph even if the total amount 
+                      outstanding and committed (by participation or 
+                      otherwise) to the borrower from the business loan 
+                      and investment fund, the business guaranty loan 
+                      financing account, and the business direct loan 
+                      financing account would thereby exceed $750,000.
+                          ``(ii) Exception.--A loan may not be made to a 
+                      borrower under this paragraph if the total amount 
+                      outstanding and committed (by participation or 
+                      otherwise) to the borrower from the business loan 
+                      and investment fund, the business guaranty loan 
+                      financing account, and the business direct loan 
+                      financing account would thereby exceed $1,000,000.
+                    ``(E) Administration participation.--Notwithstanding 
+                paragraph (2)(A), in an agreement to participate in a 
+                loan under this paragraph, participation by the 
+                Administration shall not exceed--
+                          ``(i) 85 percent of the balance of the 
+                      financing outstanding at the time of disbursement 
+                      of the loan, if the balance exceeds $100,000;
+                          ``(ii) 90 percent of the balance of the 
+                      financing outstanding at the time of disbursement 
+                      of the loan, if the balance is less than or equal 
+                      to $100,000; and
+
+[[Page 113 STAT. 15]]
+
+                          ``(iii) notwithstanding clauses (i) and (ii), 
+                      in any case in which the subject loan is processed 
+                      in accordance with the requirements applicable to 
+                      the SBAExpress Pilot Program, 50 percent of the 
+                      balance outstanding at the time of disbursement of 
+                      the loan.
+                    ``(F) Periodic reviews.--The Inspector General of 
+                the Administration shall periodically review a 
+                representative sample of loans guaranteed under this 
+                paragraph to mitigate the risk of fraud and ensure the 
+                safety and soundness of the loan program.
+                    ``(G) Annual report.--The Administration shall 
+                annually submit to the Committees on Small Business of 
+                the House of Representatives and the Senate a report on 
+                the results of the program carried out under this 
+                paragraph during the preceding 12-month period, which 
+                shall include information relating to--
+                          ``(i) the total number of loans guaranteed 
+                      under this paragraph;
+                          ``(ii) with respect to each loan guaranteed 
+                      under this paragraph--
+                                    ``(I) the amount of the loan;
+                                    ``(II) the geographic location of 
+                                the borrower; and
+                                    ``(III) whether the loan was made to 
+                                repair or replace information technology 
+                                and other automated systems or to remedy 
+                                an economic injury; and
+                          ``(iii) the total number of eligible lenders 
+                      participating in the program.''.
+
+    (b) Guidelines.-- <<NOTE: 15 USC 636 note.>> 
+            (1) In general.--Not later than 30 days after the date of 
+        enactment of this Act, the Administrator of the Small Business 
+        Administration shall issue guidelines to carry out the program 
+        under section 7(a)(27) of the Small Business Act, as added by 
+        this section.
+            (2) Requirements.--Except to the extent that it would be 
+        inconsistent with this section or section 7(a)(27) of the Small 
+        Business Act, as added by this section, the guidelines issued 
+        under this subsection shall, with respect to the loan program 
+        established under section 7(a)(27) of the Small Business Act, as 
+        added by this section--
+                    (A) provide maximum flexibility in the establishment 
+                of terms and conditions of loans originated under the 
+                loan program so that such loans may be structured in a 
+                manner that enhances the ability of the applicant to 
+                repay the debt;
+                    (B) if appropriate to facilitate repayment, 
+                establish a moratorium on principal payments under the 
+                loan program for up to 1 year beginning on the date of 
+                the origination of the loan;
+                    (C) provide that any reasonable doubts regarding a 
+                loan applicant's ability to service the debt be resolved 
+                in favor of the loan applicant; and
+                    (D) authorize an eligible lender (as defined in 
+                section 7(a)(27)(A) of the Small Business Act, as added 
+                by this section) to process a loan under the loan 
+                program in accordance with the requirements applicable 
+                to loans originated
+
+[[Page 113 STAT. 16]]
+
+                under another loan program established pursuant to 
+                section 7(a) of the Small Business Act (including the 
+                general business loan program, the Preferred Lender 
+                Program, the Certified Lender Program, the Low 
+                Documentation Loan Program, and the SBAExpress Pilot 
+                Program), if--
+                          (i) the eligible lender is eligible to 
+                      participate in such other loan program; and
+                          (ii) the terms of the loan, including the 
+                      principal amount of the loan, are consistent with 
+                      the requirements applicable to loans originated 
+                      under such other loan program.
+
+    (c) <<NOTE: 15 USC 636 and note.>>  Repeal.--Effective on December 
+31, 2000, this section and the amendments made by this section are 
+repealed.
+
+    Approved April 2, 1999.
+
+LEGISLATIVE HISTORY--S. 314:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 106-5 (Comm. on Small Business).
+CONGRESSIONAL RECORD, Vol. 145 (1999):
+            Mar. 2, considered and passed Senate.
+            Mar. 23, considered and passed House.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 35 (1999):
+            Apr. 2, Presidential statement.
+
+                                  
+

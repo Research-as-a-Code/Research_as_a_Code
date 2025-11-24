@@ -1,0 +1,382 @@
+
+[108th Congress Public Law 18]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ018.108]
+
+[[Page 623]]
+
+    POSTAL CIVIL SERVICE RETIREMENT SYSTEM FUNDING REFORM ACT OF 2003
+
+[[Page 117 STAT. 624]]
+
+Public Law 108-18
+108th Congress
+
+                                 An Act
+
+
+ 
+   To amend chapter 83 of title 5, United States Code, to reform the 
+   funding of benefits under the Civil Service Retirement System for 
+      employees of the United States Postal Service, and for other 
+             purposes. <<NOTE: Apr. 23, 2003 -  [S. 380]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Postal Civil Service 
+Retirement System Funding Reform Act of 2003. 5 USC 101 
+note.>> assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Postal Civil Service Retirement 
+System Funding Reform Act of 2003''.
+
+SEC. 2. CIVIL SERVICE RETIREMENT SYSTEM.
+
+    (a) Definitions.--Section 8331 of title 5, United States Code, is 
+amended--
+            (1) in paragraph (17)--
+                    (A) by striking `` `normal cost' '' and inserting `` 
+                `normal-cost percentage' ''; and
+                    (B) by inserting ``and standards (using dynamic 
+                assumptions)'' after ``practice'';
+            (2) by amending paragraph (18) to read as follows:
+            ``(18) `Fund balance' means the current net assets of the 
+        Fund available for payment of benefits, as determined by the 
+        Office in accordance with appropriate accounting standards, but 
+        does not include any amount attributable to--
+                    ``(A) the Federal Employees' Retirement System; or
+                    ``(B) contributions made under the Federal 
+                Employees' Retirement Contribution Temporary Adjustment 
+                Act of 1983 by or on behalf of any individual who became 
+                subject to the Federal Employees' Retirement System;''; 
+                and
+            (3) by striking ``and'' at the end of paragraph (27), by 
+        striking the period at the end of paragraph (28) and inserting 
+        ``; and'', and by adding at the end the following:
+            ``(29) `dynamic assumptions' means economic assumptions that 
+        are used in determining actuarial costs and liabilities of a 
+        retirement system and in anticipating the effects of long-term 
+        future--
+                    ``(A) investment yields;
+                    ``(B) increases in rates of basic pay; and
+                    ``(C) rates of price inflation.''.
+
+    (b) Deductions and Contributions.--
+            (1) In general.--Section 8334(a)(1) of title 5, United 
+        States Code, is amended--
+                    (A) by striking ``(a)(1)'' and inserting 
+                ``(a)(1)(A)'';
+
+[[Page 117 STAT. 625]]
+
+                    (B) by designating the matter following the first 
+                sentence as subparagraph (B)(i) and aligning the text 
+                accordingly;
+                    (C) in subparagraph (B)(i) (as so designated by 
+                subparagraph (B)), by striking ``An equal'' and 
+                inserting ``Except as provided in clause (ii), an 
+                equal''; and
+                    (D) by adding at the end the following:
+
+    ``(ii) In the case of an employee of the United States Postal 
+Service, the amount to be contributed under this subparagraph shall 
+(instead of the amount described in clause (i)) be equal to the product 
+derived by multiplying the employee's basic pay by the percentage equal 
+to--
+            ``(I) the normal-cost percentage for the applicable employee 
+        category listed in subparagraph (A), minus
+            ``(II) the percentage deduction rate that applies with 
+        respect to such employee under subparagraph (A).''.
+            (2) Conforming amendments.--Section 8334(k) of title 5, 
+        United States Code, is amended--
+                    (A) in paragraph (1)(A), by striking ``the first 
+                sentence of subsection (a)(1) of this section'' and 
+                inserting ``subsection (a)(1)(A)'';
+                    (B) in paragraph (1)(B)--
+                          (i) by striking ``the second sentence of 
+                      subsection (a)(1) of this section'' and inserting 
+                      ``subparagraph (B) of subsection (a)(1)''; and
+                          (ii) by striking ``such sentence'' and 
+                      inserting ``such subparagraph''; and
+                    (C) in paragraph (2)(C)(iii), by striking ``the 
+                first sentence of subsection (a)(1)'' and inserting 
+                ``subsection (a)(1)(A)''.
+
+    (c) Postal Supplemental Liability.--Subsection (h) of section 8348 
+of title 5, United States Code, is amended to read as follows:
+    ``(h)(1)(A) For purposes of this subsection, `Postal supplemental 
+liability' means the estimated excess, as determined by the Office, of--
+            ``(i) the actuarial present value of all future benefits 
+        payable from the Fund under this subchapter attributable to the 
+        service of current or former employees of the United States 
+        Postal Service, over
+            ``(ii) the sum of--
+                    ``(I) the actuarial present value of deductions to 
+                be withheld from the future basic pay of employees of 
+                the United States Postal Service currently subject to 
+                this subchapter pursuant to section 8334;
+                    ``(II) the actuarial present value of the future 
+                contributions to be made pursuant to section 8334 with 
+                respect to employees of the United States Postal Service 
+                currently subject to this subchapter;
+                    ``(III) that portion of the Fund balance, as of the 
+                date the Postal supplemental liability is determined, 
+                attributable to payments to the Fund by the United 
+                States Postal Service and its employees, including 
+                earnings on those payments; and
+                    ``(IV) any other appropriate amount, as determined 
+                by the Office in accordance with generally accepted 
+                actuarial practices and principles.
+
+[[Page 117 STAT. 626]]
+
+    ``(B)(i) In computing the actuarial present value of future 
+benefits, the Office shall include the full value of benefits 
+attributable to military and volunteer service for United States Postal 
+Service employees first employed after June 30, 1971, and a prorated 
+share of the value of benefits attributable to military and volunteer 
+service for United States Postal Service employees first employed before 
+July 1, 1971.
+    ``(ii) Military service so included shall not be included in the 
+computation of any amount under subsection (g)(2).
+    ``(2)(A) <<NOTE: Deadline.>> Not later than June 30, 2004, the 
+Office shall determine the Postal supplemental liability as of September 
+30, 2003. The Office shall establish an amortization schedule, including 
+a series of equal annual installments commencing September 30, 2004, 
+which provides for the liquidation of such liability by September 30, 
+2043.
+
+    ``(B) The Office shall redetermine the Postal supplemental liability 
+as of the close of the fiscal year, for each fiscal year beginning after 
+September 30, 2003, through the fiscal year ending September 30, 2038, 
+and shall establish a new amortization schedule, including a series of 
+equal annual installments commencing on September 30 of the subsequent 
+fiscal year, which provides for the liquidation of such liability by 
+September 30, 2043.
+    ``(C) The Office shall redetermine the Postal supplemental liability 
+as of the close of the fiscal year for each fiscal year beginning after 
+September 30, 2038, and shall establish a new amortization schedule, 
+including a series of equal annual installments commencing on September 
+30 of the subsequent fiscal year, which provides for the liquidation of 
+such liability over 5 years.
+    ``(D) Amortization schedules established under this paragraph shall 
+be set in accordance with generally accepted actuarial practices and 
+principles, with interest computed at the rate used in the most recent 
+dynamic actuarial valuation of the Civil Service Retirement System.
+    ``(E) The United States Postal Service shall pay the amounts so 
+determined to the Office, with payments due not later than the date 
+scheduled by the Office.
+    ``(F) An amortization schedule established under subparagraph (B) or 
+(C) shall supersede any amortization schedule previously established 
+under this paragraph.
+    ``(3) Notwithstanding any other provision of law, in computing the 
+amount of any payment under any other subsection of this section that is 
+based upon the amount of the unfunded liability, such payment shall be 
+computed disregarding that portion of the unfunded liability that the 
+Office determines will be liquidated by payments under this subsection.
+    ``(4) Notwithstanding any other provision of this subsection, any 
+determination or redetermination made by the Office under this 
+subsection shall, upon request of the Postal Service, be subject to 
+reconsideration and review (including adjustment by the Board of 
+Actuaries of the Civil Service Retirement System) to the same extent and 
+in the same manner as provided under section 8423(c).''.
+    (d) Repeals.--
+            (1) In general.--The following provisions of law are 
+        repealed:
+                    (A) Subsection (m) of section 8348 of title 5, 
+                United States Code.
+
+[[Page 117 STAT. 627]]
+
+                    (B) Subsection (c) of section 7101 of the Omnibus 
+                Budget Reconciliation Act of 1990 (5 U.S.C. 8348 note).
+            (2)  <<NOTE: 5 USC 8348 note.>> Rule of construction.--
+        Nothing in this subsection shall be considered to affect any 
+        payments made before the date of the enactment of this Act under 
+        either of the provisions of law repealed by paragraph (1).
+
+    (e)  <<NOTE: Deadlines.>> Military Service Proposals.--
+            (1) Proposals.--The United States Postal Service, the 
+        Department of the Treasury, and the Office of Personnel 
+        Management shall, by September 30, 2003, each prepare and submit 
+        to the President, the Congress, and the General Accounting 
+        Office proposals detailing whether and to what extent the 
+        Department of the Treasury or the Postal Service should be 
+        responsible for the funding of benefits attributable to the 
+        military service of current and former employees of the Postal 
+        Service that, prior to the date of the enactment of this Act, 
+        were provided for under section 8348(g)(2) of title 5, United 
+        States Code.
+            (2) GAO review and report.--Not later than 60 days after the 
+        Postal Service, the Department of the Treasury, and the Office 
+        of Personnel Management have submitted their proposals under 
+        paragraph (1), the General Accounting Office shall prepare and 
+        submit a written evaluation of each such proposal to the 
+        Committee on Government Reform of the House of Representatives 
+        and the Committee on Governmental Affairs of the Senate.
+SEC. 3. DISPOSITION <<NOTE: 39 USC note prec. 2001.>> OF SAVINGS 
+                    ACCRUING TO THE UNITED STATES POSTAL SERVICE.
+
+    (a) In General.--Savings accruing to the United States Postal 
+Service as a result of the enactment of this Act--
+            (1) shall, to the extent that such savings are attributable 
+        to fiscal year 2003 or 2004, be used to reduce the postal debt 
+        (in consultation with the Secretary of the Treasury), and the 
+        Postal Service shall not incur additional debt to offset the use 
+        of the savings to reduce the postal debt in fiscal years 2003 
+        and 2004;
+            (2) shall, to the extent that such savings are attributable 
+        to fiscal year 2005, be used to continue holding postage rates 
+        unchanged and to reduce the postal debt, to such extent and in 
+        such manner as the Postal Service shall specify (in consultation 
+        with the Secretary of the Treasury); and
+            (3) to the extent that such savings are attributable to any 
+        fiscal year after fiscal year 2005, shall be considered to be 
+        operating expenses of the Postal Service and, until otherwise 
+        provided for by law, shall be held in escrow and may not be 
+        obligated or expended.
+
+    (b) Amounts Saved.--
+            (1) In general.--The amounts representing any savings 
+        accruing to the Postal Service in any fiscal year as a result of 
+        the enactment of this Act shall be computed by the Office of 
+        Personnel Management for each such fiscal year in accordance 
+        with paragraph (2).
+            (2)  <<NOTE: Deadline.>> Methodology.--Not later than July 
+        31, 2003, the Office of Personnel Management shall--
+
+[[Page 117 STAT. 628]]
+
+                    (A) formulate a plan specifically enumerating the 
+                actuarial methods and assumptions by which the Office 
+                shall make its computations under paragraph (1); and
+                    (B) submit such plan to the Committee on Government 
+                Reform of the House of Representatives and the Committee 
+                on Governmental Affairs of the Senate.
+            (3) Requirements.--The plan shall be formulated in 
+        consultation with the Postal Service and shall include the 
+        opportunity for the Postal Service to request reconsideration of 
+        computations under this subsection, and for the Board of 
+        Actuaries of the Civil Service Retirement System to review and 
+        make adjustments to such computations, to the same extent and in 
+        the same manner as provided under section 8423(c) of title 5, 
+        United States Code.
+
+    (c) Reporting Requirement.--The Postal Service shall include in each 
+report rendered under section 2402 of title 39, United States Code, the 
+amount applied toward reducing the postal debt, and the size of the 
+postal debt before and after the application of subsection (a), during 
+the period covered by such report.
+    (d) Sense of Congress.--It is the sense of the Congress that--
+            (1) the savings accruing to the Postal Service as a result 
+        of the enactment of this Act will be sufficient to allow the 
+        Postal Service to fulfill its commitment to hold postage rates 
+        unchanged until at least 2006;
+            (2) because the Postal Service still faces substantial 
+        obligations related to postretirement health benefits for its 
+        current and former employees, some portion of the savings 
+        referred to in paragraph (1) should be used to address those 
+        unfunded obligations; and
+            (3) none of the savings referred to in paragraph (1) should 
+        be used in the computation of any bonuses for Postal Service 
+        executives.
+
+    (e)  <<NOTE: Deadlines.>> Postal Service Proposal.--
+            (1) In general.--The United States Postal Service shall, by 
+        September 30, 2003, prepare and submit to the President, the 
+        Congress, and the General Accounting Office its proposal 
+        detailing how any savings accruing to the Postal Service as a 
+        result of the enactment of this Act, which are attributable to 
+        any fiscal year after fiscal year 2005, should be expended.
+            (2) Matters to consider.--In preparing its proposal under 
+        this subsection, the Postal Service shall consider--
+                    (A) whether, and to what extent, those future 
+                savings should be used to address--
+                          (i) debt repayment;
+                          (ii) prefunding of postretirement healthcare 
+                      benefits for current and former postal employees;
+                          (iii) productivity and cost saving capital 
+                      investments;
+                          (iv) delaying or moderating increases in 
+                      postal rates; and
+                          (v) any other matter; and
+                    (B) the work of the President's Commission on the 
+                United States Postal Service under section 5 of 
+                Executive Order 13278 (67 Fed. Reg. 76672).
+            (3) GAO review and report.--Not later than 60 days after the 
+        Postal Service submits its proposal pursuant to paragraph (1), 
+        the General Accounting Office shall prepare and
+
+[[Page 117 STAT. 629]]
+
+        submit a written evaluation of such proposal to the Committee on 
+        Government Reform of the House of Representatives and the 
+        Committee on Governmental Affairs of the Senate.
+            (4) Legislative action.--Not later than 180 days after it 
+        has received both the proposal of the Postal Service and the 
+        evaluation of such proposal by the General Accounting Office 
+        under this subsection, Congress shall revisit the question of 
+        how the savings accruing to the Postal Service as a result of 
+        the enactment of this Act should be used.
+
+    (f) Determination and Disposition of Surplus.--
+            (1) In general.--If, as of the date under paragraph (2), the 
+        Office of Personnel Management determines (after consultation 
+        with the Postmaster General) that the computation under section 
+        8348(h)(1)(A) of title 5, United States Code, yields a negative 
+        amount (hereinafter referred to as a ``surplus'')--
+                    (A) the Office shall inform the Postmaster General 
+                of its determination, including the size of the surplus 
+                so determined; and
+                    (B) <<NOTE: Reports.>> the Postmaster General shall 
+                submit to the Congress a report describing how the 
+                Postal Service proposes that such surplus be used, 
+                including a draft of any legislation that might be 
+                necessary.
+            (2) Determination date.--The date to be used for purposes of 
+        paragraph (1) shall be September 30, 2025, or such earlier date 
+        as, in the judgment of the Office, is the date by which all 
+        postal employees under the Civil Service Retirement System will 
+        have retired.
+
+    (g) Definitions.--For purposes of this section--
+            (1) the savings accruing to the Postal Service as a result 
+        of the enactment of this Act shall, for any fiscal year, be 
+        equal to the amount (if any) by which--
+                    (A) the contributions that the Postal Service would 
+                otherwise have been required to make to the Civil 
+                Service Retirement and Disability Fund for such fiscal 
+                year if this Act had not been enacted, exceed
+                    (B) the contributions made by the Postal Service to 
+                such Fund for such fiscal year; and
+            (2) the term ``postal debt'' means the outstanding 
+        obligations of the Postal Service, as determined under chapter 
+        20 of title 39, United States Code.
+
+[[Page 117 STAT. 630]]
+
+SEC. 4. <<NOTE: Applicability. 5 USC 8334 note.>> EFFECTIVE DATE.
+
+    This Act and the amendments made by this Act shall become effective 
+on the date of the enactment of this Act, except that the amendments 
+made by section 2(b) shall apply with respect to pay periods beginning 
+on or after such date.
+
+    Approved April 23, 2003.
+
+LEGISLATIVE HISTORY--S. 380 (H.R. 735):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 108-49 accompanying H.R. 735 (Comm. on Government 
+Reform).
+CONGRESSIONAL RECORD, Vol. 149 (2003):
+            Apr. 2, considered and passed Senate.
+            Apr. 8, considered and passed House.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 39 (2003):
+            Apr. 23, Presidential statement.
+
+                                  
+

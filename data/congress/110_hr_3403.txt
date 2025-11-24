@@ -1,0 +1,387 @@
+
+[110th Congress Public Law 283]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ283.110]
+
+[[Page 2619]]
+
+        NEW AND EMERGING TECHNOLOGIES 911 IMPROVEMENT ACT OF 2008
+
+[[Page 122 STAT. 2620]]
+
+Public Law 110-283
+110th Congress
+
+                                 An Act
+
+
+ 
+     To promote and enhance public safety by facilitating the rapid 
+deployment of IP-enabled 911 and E-911 services, encourage the Nation's 
+ transition to a national IP-enabled emergency network, and improve 911 
+     and E-911 access to those with disabilities. <<NOTE: July 23, 
+                         2008 -  [H.R. 3403]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: New and Emerging 
+Technologies 911 Improvement Act of 2008. 47 USC 609 note.>> assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``New and Emerging Technologies 911 
+Improvement Act of 2008'' or the ``NET 911 Improvement Act of 2008''.
+
+      TITLE I--911 SERVICES AND IP-ENABLED VOICE SERVICE PROVIDERS
+
+SEC. 101. DUTY TO PROVIDE 911 AND ENHANCED 911 SERVICE.
+
+    The Wireless Communications and Public Safety Act of 1999 is 
+amended--
+            (1) by redesignating section 6 (47 U.S.C. 615b) as section 
+        7;
+            (2) by inserting after section 5 the following new section:
+
+``SEC. 6. <<NOTE: 47 USC 615a-1.>>  DUTY TO PROVIDE 9-1-1 AND ENHANCED 
+            9-1-1 SERVICE.
+
+    ``(a) Duties.--It shall be the duty of each IP-enabled voice service 
+provider to provide 9-1-1 service and enhanced 9-1-1 service to its 
+subscribers in accordance with the requirements of the Federal 
+Communications Commission, as in effect on the date of enactment of the 
+New and Emerging Technologies 911 Improvement Act of 2008 and as such 
+requirements may be modified by the Commission from time to time.
+    ``(b) Parity for IP-Enabled Voice Service Providers.--An IP-enabled 
+voice service provider that seeks capabilities to provide 9-1-1 and 
+enhanced 9-1-1 service from an entity with ownership or control over 
+such capabilities, to comply with its obligations under subsection (a), 
+shall, for the exclusive purpose of complying with such obligations, 
+have a right of access to such capabilities, including interconnection, 
+to provide 9-1-1 and enhanced 9-1-1 service on the same rates, terms, 
+and conditions that are provided to a provider of commercial mobile 
+service (as such term is defined in section 332(d) of the Communications 
+Act of 1934 (47 U.S.C. 332(d))), subject to such regulations as the 
+Commission prescribes under subsection (c).
+    ``(c) Regulations.--The Commission--
+
+[[Page 122 STAT. 2621]]
+
+            ``(1) <<NOTE: Deadline.>>  within 90 days after the date of 
+        enactment of the New and Emerging Technologies 911 Improvement 
+        Act of 2008, shall issue regulations implementing such Act, 
+        including regulations that--
+                    ``(A) ensure that IP-enabled voice service providers 
+                have the ability to exercise their rights under 
+                subsection (b);
+                    ``(B) take into account any technical, network 
+                security, or information privacy requirements that are 
+                specific to IP-enabled voice services; and
+                    ``(C) provide, with respect to any capabilities that 
+                are not required to be made available to a commercial 
+                mobile service provider but that the Commission 
+                determines under subparagraph (B) of this paragraph or 
+                paragraph (2) are necessary for an IP-enabled voice 
+                service provider to comply with its obligations under 
+                subsection (a), that such capabilities shall be 
+                available at the same rates, terms, and conditions as 
+                would apply if such capabilities were made available to 
+                a commercial mobile service provider;
+            ``(2) <<NOTE: Registration.>>  shall require IP-enabled 
+        voice service providers to which the regulations apply to 
+        register with the Commission and to establish a point of contact 
+        for public safety and government officials relative to 9-1-1 and 
+        enhanced 9-1-1 service and access; and
+            ``(3) may modify such regulations from time to time, as 
+        necessitated by changes in the market or technology, to ensure 
+        the ability of an IP-enabled voice service provider to comply 
+        with its obligations under subsection (a) and to exercise its 
+        rights under subsection (b).
+
+    ``(d) Delegation of Enforcement to State Commissions.--The 
+Commission may delegate authority to enforce the regulations issued 
+under subsection (c) to State commissions or other State or local 
+agencies or programs with jurisdiction over emergency communications. 
+Nothing in this section is intended to alter the authority of State 
+commissions or other State or local agencies with jurisdiction over 
+emergency communications, provided that the exercise of such authority 
+is not inconsistent with Federal law or Commission requirements.
+    ``(e) Implementation.--
+            ``(1) Limitation.--Nothing in this section shall be 
+        construed to permit the Commission to issue regulations that 
+        require or impose a specific technology or technological 
+        standard.
+            ``(2) Enforcement.--The Commission shall enforce this 
+        section as if this section was a part of the Communications Act 
+        of 1934. For purposes of this section, any violations of this 
+        section, or any regulations promulgated under this section, 
+        shall be considered to be a violation of the Communications Act 
+        of 1934 or a regulation promulgated under that Act, 
+        respectively.
+
+    ``(f) State Authority Over Fees.--
+            ``(1) Authority.--Nothing in this Act, the Communications 
+        Act of 1934 (47 U.S.C. 151 et seq.), the New and Emerging 
+        Technologies 911 Improvement Act of 2008, or any Commission 
+        regulation or order shall prevent the imposition and collection 
+        of a fee or charge applicable to commercial mobile services or 
+        IP-enabled voice services specifically designated by a State, 
+        political subdivision thereof, Indian tribe, or village or 
+        regional
+
+[[Page 122 STAT. 2622]]
+
+        corporation serving a region established pursuant to the Alaska 
+        Native Claims Settlement Act, as amended (85 Stat. 688) for the 
+        support or implementation of 9-1-1 or enhanced 9-1-1 services, 
+        provided that the fee or charge is obligated or expended only in 
+        support of 9-1-1 and enhanced 9-1-1 services, or enhancements of 
+        such services, as specified in the provision of State or local 
+        law adopting the fee or charge. For each class of subscribers to 
+        IP-enabled voice services, the fee or charge may not exceed the 
+        amount of any such fee or charge applicable to the same class of 
+        subscribers to telecommunications services.
+            ``(2) Fee accountability report.--To ensure efficiency, 
+        transparency, and accountability in the collection and 
+        expenditure of a fee or charge for the support or implementation 
+        of 9-1-1 or enhanced 9-1-1 services, the Commission shall submit 
+        a report within 1 year after the date of enactment of the New 
+        and Emerging Technologies 911 Improvement Act of 2008, and 
+        annually thereafter, to the Committee on Commerce, Science and 
+        Transportation of the Senate and the Committee on Energy and 
+        Commerce of the House of Representatives detailing the status in 
+        each State of the collection and distribution of such fees or 
+        charges, and including findings on the amount of revenues 
+        obligated or expended by each State or political subdivision 
+        thereof for any purpose other than the purpose for which any 
+        such fees or charges are specified.
+
+    ``(g) Availability of PSAP Information.--The Commission may compile 
+a list of public safety answering point contact information, contact 
+information for providers of selective routers, testing procedures, 
+classes and types of services supported by public safety answering 
+points, and other information concerning 9-1-1 and enhanced 9-1-1 
+elements, for the purpose of assisting IP-enabled voice service 
+providers in complying with this section, and may make any portion of 
+such information available to telecommunications carriers, wireless 
+carriers, IP-enabled voice service providers, other emergency service 
+providers, or the vendors to or agents of any such carriers or 
+providers, if such availability would improve public safety.
+    ``(h) <<NOTE: Procedures.>>  Development of standards.--The 
+Commission shall work cooperatively with public safety organizations, 
+industry participants, and the E-911 Implementation Coordination Office 
+to develop best practices that promote consistency, where appropriate, 
+including procedures for--
+            ``(1) defining geographic coverage areas for public safety 
+        answering points;
+            ``(2) defining network diversity requirements for delivery 
+        of IP-enabled 9-1-1 and enhanced 9-1-1 calls;
+            ``(3) call-handling in the event of call overflow or network 
+        outages;
+            ``(4) public safety answering point certification and 
+        testing requirements;
+            ``(5) validation procedures for inputting and updating 
+        location information in relevant databases; and
+            ``(6) the format for delivering address information to 
+        public safety answering points.
+
+[[Page 122 STAT. 2623]]
+
+    ``(i) Rule of Construction.--Nothing in the New and Emerging 
+Technologies 911 Improvement Act of 2008 shall be construed as altering, 
+delaying, or otherwise limiting the ability of the Commission to enforce 
+the Federal actions taken or rules adopted obligating an IP-enabled 
+voice service provider to provide 9-1-1 or enhanced 9-1-1 service as of 
+the date of enactment of the New and Emerging Technologies 911 
+Improvement Act of 2008.''; and
+            (3) in section 7 (as redesignated by paragraph (1) of this 
+        section) by adding at the end the following new paragraph:
+            ``(8) IP-enabled voice service.--The term `IP-enabled voice 
+        service' has the meaning given the term `interconnected VoIP 
+        service' by section 9.3 of the Federal Communications 
+        Commission's regulations (47 CFR 9.3).''.
+
+SEC. 102. MIGRATION TO IP-ENABLED EMERGENCY NETWORK.
+
+    Section 158 of the National Telecommunications and Information 
+Administration Organization Act (47 U.S.C. 942) is amended--
+            (1) in subsection (b)(1), by inserting before the period at 
+        the end the following: ``and for migration to an IP-enabled 
+        emergency network'';
+            (2) by redesignating subsections (d) and (e) as subsections 
+        (e) and (f), respectively; and
+            (3) by inserting after subsection (c) the following new 
+        subsection:
+
+    ``(d) Migration Plan Required.--
+            ``(1) National plan required.--
+        No <<NOTE: Deadline. Reports.>>  more than 270 days after the 
+        date of enactment of the New and Emerging Technologies 911 
+        Improvement Act of 2008, the Office shall develop and report to 
+        Congress on a national plan for migrating to a national IP-
+        enabled emergency network capable of receiving and responding to 
+        all citizen-activated emergency communications and improving 
+        information sharing among all emergency response entities.
+            ``(2) Contents of plan.--The plan required by paragraph (1) 
+        shall--
+                    ``(A) outline the potential benefits of such a 
+                migration;
+                    ``(B) identify barriers that must be overcome and 
+                funding mechanisms to address those barriers;
+                    ``(C) provide specific mechanisms for ensuring the 
+                IP-enabled emergency network is available in every 
+                community and is coordinated on a local, regional, and 
+                statewide basis;
+                    ``(D) identify location technology for nomadic 
+                devices and for office buildings and multi-dwelling 
+                units;
+                    ``(E) include a proposed timetable, an outline of 
+                costs, and potential savings;
+                    ``(F) provide specific legislative language, if 
+                necessary, for achieving the plan;
+                    ``(G) provide recommendations on any legislative 
+                changes, including updating definitions, that are 
+                necessary to facilitate a national IP-enabled emergency 
+                network;
+                    ``(H) assess, collect, and analyze the experiences 
+                of the public safety answering points and related public 
+                safety authorities who are conducting trial deployments 
+                of IP-enabled emergency networks as of the date of 
+                enactment
+
+[[Page 122 STAT. 2624]]
+
+                of the New and Emerging Technologies 911 Improvement Act 
+                of 2008;
+                    ``(I) identify solutions for providing 9-1-1 and 
+                enhanced 9-1-1 access to those with disabilities and 
+                needed steps to implement such solutions, including a 
+                recommended timeline; and
+                    ``(J) analyze efforts to provide automatic location 
+                for enhanced 9-1-1 services and provide recommendations 
+                on regulatory or legislative changes that are necessary 
+                to achieve automatic location for enhanced 9-1-1 
+                services.
+            ``(3) Consultation.--In developing the plan required by 
+        paragraph (1), the Office shall consult with representatives of 
+        the public safety community, groups representing those with 
+        disabilities, technology and telecommunications providers, IP-
+        enabled voice service providers, Telecommunications Relay 
+        Service providers, and other emergency communications providers 
+        and others it deems appropriate.''.
+
+                     TITLE II--PARITY OF PROTECTION
+
+SEC. 201. LIABILITY.
+
+    (a) Amendments.--Section 4 of the Wireless Communications and Public 
+Safety Act of 1999 (47 U.S.C. 615a) is amended--
+            (1) by striking ``parity of protection for provision or use 
+        of wireless service.'' in the section heading and inserting 
+        ``service provider parity of protection.'';
+            (2) in subsection (a)--
+                    (A) by striking ``wireless carrier,'' and inserting 
+                ``wireless carrier, IP-enabled voice service provider, 
+                or other emergency communications provider,'';
+                    (B) by striking ``its officers'' the first place it 
+                appears and inserting ``their officers'';
+                    (C) by striking ``emergency calls or emergency 
+                services'' and inserting ``emergency calls, emergency 
+                services, or other emergency communications services'';
+            (3) in subsection (b)--
+                    (A) by striking ``using wireless 9-1-1 service 
+                shall'' and inserting ``using wireless 9-1-1 service, or 
+                making 9-1-1 communications via IP-enabled voice service 
+                or other emergency communications service, shall''; and
+                    (B) by striking ``that is not wireless'' and 
+                inserting ``that is not via wireless 9-1-1 service, IP-
+                enabled voice service, or other emergency communications 
+                service''; and
+            (4) in subsection (c)--
+                    (A) by striking ``wireless 9-1-1 communications, a 
+                PSAP'' and inserting ``9-1-1 communications via wireless 
+                9-1-1 service, IP-enabled voice service, or other 
+                emergency communications service, a PSAP''; and
+                    (B) by striking ``that are not wireless'' and 
+                inserting ``that are not via wireless 9-1-1 service, IP-
+                enabled voice service, or other emergency communications 
+                service''.
+
+    (b) Definition.--Section 7 of the Wireless Communications and Public 
+Safety Act of 1999 (as redesignated by section 101(1) of this Act) is 
+further amended by adding at the end the following new paragraphs:
+
+[[Page 122 STAT. 2625]]
+
+            ``(8) Other emergency communications service.--The term 
+        `other emergency communications service' means the provision of 
+        emergency information to a public safety answering point via 
+        wire or radio communications, and may include 9-1-1 and enhanced 
+        9-1-1 service.
+            ``(9) Other emergency communications service provider.--The 
+        term `other emergency communications service provider' means--
+                    ``(A) an entity other than a local exchange carrier, 
+                wireless carrier, or an IP-enabled voice service 
+                provider that is required by the Federal Communications 
+                Commission consistent with the Commission's authority 
+                under the Communications Act of 1934 to provide other 
+                emergency communications services; or
+                    ``(B) in the absence of a Commission requirement as 
+                described in subparagraph (A), an entity that 
+                voluntarily elects to provide other emergency 
+                communications services and is specifically authorized 
+                by the appropriate local or State 9-1-1 service 
+                governing authority to provide other emergency 
+                communications services.
+            ``(10) Enhanced 9-1-1 service.--The term `enhanced 9-1-1 
+        service' means the delivery of 9-1-1 calls with automatic number 
+        identification and automatic location identification, or 
+        successor or equivalent information features over the wireline 
+        E911 network (as defined in section 9.3 of the Federal 
+        Communications Commission's regulations (47 C.F.R. 9.3) as of 
+        the date of enactment of the New and Emerging Technologies 911 
+        Improvement Act of 2008) and equivalent or successor networks 
+        and technologies. The term also includes any enhanced 9-1-1 
+        service so designated by the Commission in its Report and Order 
+        in WC Docket Nos. 04-36 and 05-196, or any successor 
+        proceeding.''.
+
+  TITLE III--AUTHORITY TO PROVIDE CUSTOMER INFORMATION FOR 911 PURPOSES
+
+SEC. 301. AUTHORITY TO PROVIDE CUSTOMER INFORMATION.
+
+    Section 222 of the Communications Act of 1934 (47 U.S.C. 222) is 
+amended--
+            (1) by inserting ``or the user of an IP-enabled voice 
+        service (as such term is defined in section 7 of the Wireless 
+        Communications and Public Safety Act of 1999 (47 U.S.C. 615b))'' 
+        after ``section 332(d))'' each place it appears in subsections 
+        (d)(4) and (f)(1);
+            (2) by striking ``Wireless'' in the heading of subsection 
+        (f); and
+
+[[Page 122 STAT. 2626]]
+
+            (3) in subsection (g), by inserting ``or a provider of IP-
+        enabled voice service (as such term is defined in section 7 of 
+        the Wireless Communications and Public Safety Act of 1999 (47 
+        U.S.C. 615b))'' after ``telephone exchange service''.
+
+    Approved July 23, 2008.
+
+LEGISLATIVE HISTORY--H.R. 3403:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 110-442 (Comm. on Energy and Commerce).
+CONGRESSIONAL RECORD:
+                                                        Vol. 153 (2007):
+                                    Nov. 13, considered and passed 
+                                        House.
+                                                        Vol. 154 (2008):
+                                    June 16, considered and passed 
+                                        Senate, amended.
+                                    June 23, House concurred in Senate 
+                                        amendment.
+
+                                  
+

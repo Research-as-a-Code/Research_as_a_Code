@@ -1,0 +1,206 @@
+
+[106th Congress Public Law 171]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ171.106]
+
+
+[[Page 114 STAT. 3]]
+
+Public Law 106-171
+106th Congress
+
+                                 An Act
+
+
+ 
+ To amend the Food Stamp Act of 1977 to provide for a national standard 
+of interoperability and portability applicable to electronic food stamp 
+       benefit transactions. <<NOTE: Feb. 11, 2000 -  [S. 1733]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Electronic 
+Benefit Transfer Interoperability and Portability Act of 2000. 7 USC 
+2011 note.>> 
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Electronic Benefit Transfer 
+Interoperability and Portability Act of 2000''.
+
+SEC. 2. PURPOSES. <<NOTE: 7 USC 2016 note.>> 
+
+    The purposes of this Act are--
+            (1) to protect the integrity of the food stamp program;
+            (2) to ensure cost-effective portability of food stamp 
+        benefits across State borders without imposing additional 
+        administrative expenses for special equipment to address 
+        problems relating to the portability;
+            (3) to enhance the flow of interstate commerce involving 
+        electronic transactions involving food stamp benefits under a 
+        uniform national standard of interoperability and portability; 
+        and
+            (4) to eliminate the inefficiencies resulting from a 
+        patchwork of State-administered systems and regulations 
+        established to carry out the food stamp program.
+SEC. 3. INTEROPERABILITY AND PORTABILITY OF FOOD STAMP 
+                    TRANSACTIONS.
+
+    Section 7 of the Food Stamp Act of 1977 (7 U.S.C. 2016) is amended 
+by adding at the end the following:
+    ``(k) Interoperability and Portability of Electronic Benefit 
+Transfer Transactions.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Electronic benefit transfer card.--The term 
+                `electronic benefit transfer card' means a card that 
+                provides benefits under this Act through an electronic 
+                benefit transfer service (as defined in subsection 
+                (i)(11)(A)).
+                    ``(B) Electronic benefit transfer contract.--The 
+                term `electronic benefit transfer contract' means a 
+                contract that provides for the issuance, use, or 
+                redemption of coupons in the form of electronic benefit 
+                transfer cards.
+
+[[Page 114 STAT. 4]]
+
+                    ``(C) Interoperability.--The term `interoperability' 
+                means a system that enables a coupon issued in the form 
+                of an electronic benefit transfer card to be redeemed in 
+                any State.
+                    ``(D) Interstate transaction.--The term `interstate 
+                transaction' means a transaction that is initiated in 1 
+                State by the use of an electronic benefit transfer card 
+                that is issued in another State.
+                    ``(E) Portability.--The term `portability' means a 
+                system that enables a coupon issued in the form of an 
+                electronic benefit transfer card to be used in any State 
+                by a household to purchase food at a retail food store 
+                or wholesale food concern approved under this Act.
+                    ``(F) Settling.--The term `settling' means movement, 
+                and reporting such movement, of funds from an electronic 
+                benefit transfer card issuer that is located in 1 State 
+                to a retail food store, or wholesale food concern, that 
+                is located in another State, to accomplish an interstate 
+                transaction.
+                    ``(G) Smart card.--The term `smart card' means an 
+                intelligent benefit card described in section 17(f).
+                    ``(H) Switching.--The term `switching' means the 
+                routing of an interstate transaction that consists of 
+                transmitting the details of a transaction electronically 
+                recorded through the use of an electronic benefit 
+                transfer card in 1 State to the issuer of the card that 
+                is in another State.
+            ``(2) Requirement.--Not <<NOTE: Deadline.>> later than 
+        October 1, 2002, the Secretary shall ensure that systems that 
+        provide for the electronic issuance, use, and redemption of 
+        coupons in the form of electronic benefit transfer cards are 
+        interoperable, and food stamp benefits are portable, among all 
+        States.
+            ``(3) Cost.--The cost of achieving the interoperability and 
+        portability required under paragraph (2) shall not be imposed on 
+        any food stamp retail store, or any wholesale food concern, 
+        approved to participate in the food stamp program.
+            ``(4) Standards.--Not <<NOTE: Deadline. Regulations.>> later 
+        than 210 days after the date of enactment of this subsection, 
+        the Secretary shall promulgate regulations that--
+                    ``(A) adopt a uniform national standard of 
+                interoperability and portability required under 
+                paragraph (2) that is based on the standard of 
+                interoperability and portability used by a majority of 
+                State agencies; and
+                    ``(B) require that any electronic benefit transfer 
+                contract that is entered into 30 days or more after the 
+                regulations are promulgated, by or on behalf of a State 
+                agency, provide for the interoperability and portability 
+                required under paragraph (2) in accordance with the 
+                national standard.
+
+[[Page 114 STAT. 5]]
+
+            ``(5) Exemptions.--
+                    ``(A) Contracts.--The requirements of paragraph (2) 
+                shall not apply to the transfer of benefits under an 
+                electronic benefit transfer contract before the 
+                expiration of the term of the contract if the contract--
+                          ``(i) is entered into before the date that is 
+                      30 days after the regulations are promulgated 
+                      under paragraph (4); and
+                          ``(ii) expires after October 1, 2002.
+                    ``(B) Waiver.--At the request of a State agency, the 
+                Secretary may provide 1 waiver to temporarily exempt, 
+                for a period ending on or before the date specified 
+                under clause (iii), the State agency from complying with 
+                the requirements of paragraph (2), if the State agency--
+                          ``(i) establishes to the satisfaction of the 
+                      Secretary that the State agency faces unusual 
+                      technological barriers to achieving by October 1, 
+                      2002, the interoperability and portability 
+                      required under paragraph (2);
+                          ``(ii) demonstrates that the best interest of 
+                      the food stamp program would be served by granting 
+                      the waiver with respect to the electronic benefit 
+                      transfer system used by the State agency to 
+                      administer the food stamp program; and
+                          ``(iii) specifies a date by which the State 
+                      agency will achieve the interoperability and 
+                      portability required under paragraph (2).
+                    ``(C) Smart card systems.--The Secretary shall allow 
+                a State agency that is using smart cards for the 
+                delivery of food stamp program benefits to comply with 
+                the requirements of paragraph (2) at such time after 
+                October 1, 2002, as the Secretary determines that a 
+                practicable technological method is available for 
+                interoperability with electronic benefit transfer cards.
+            ``(6) Funding.--
+                    ``(A) In general.--In accordance with regulations 
+                promulgated by the Secretary, the Secretary shall pay 
+                100 percent of the costs incurred by a State agency 
+                under this Act for switching and settling interstate 
+                transactions--
+                          ``(i) incurred after the date of enactment of 
+                      this subsection and before October 1, 2002, if the 
+                      State agency uses the standard of interoperability 
+                      and portability adopted by a majority of State 
+                      agencies; and
+                          ``(ii) incurred after September 30, 2002, if 
+                      the State agency uses the uniform national 
+                      standard of interoperability and portability 
+                      adopted under paragraph (4)(A).
+                    ``(B) Limitation.--The total amount paid to State 
+                agencies for each fiscal year under subparagraph (A) 
+                shall not exceed $500,000.''.
+
+[[Page 114 STAT. 6]]
+
+SEC. 4. STUDY <<NOTE: Deadline. Reports. 7 USC 2016 note.>> OF 
+                    ALTERNATIVES FOR HANDLING ELECTRONIC BENEFIT 
+                    TRANSACTIONS INVOLVING FOOD STAMP BENEFITS.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Secretary of Agriculture shall study and report to the Committee on 
+Agriculture of the House of Representatives and the Committee on 
+Agriculture, Nutrition, and Forestry of the Senate on alternatives for 
+handling interstate electronic benefit transactions involving food stamp 
+benefits provided under the Food Stamp Act of 1977 (7 U.S.C. 2011 et 
+seq.), including the feasibility and desirability of a single hub for 
+switching (as defined in section 7(k)(1) of that Act (as added by 
+section 3)).
+
+    Approved February 11, 2000.
+
+LEGISLATIVE HISTORY--S. 1733:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD:
+                                                        Vol. 145 (1999):
+                                    Nov. 19, considered and passed 
+                                        Senate.
+                                                        Vol. 146 (2000):
+                                    Jan. 31, considered and passed 
+                                        House.
+
+                                  
+

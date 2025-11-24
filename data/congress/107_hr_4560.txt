@@ -1,0 +1,235 @@
+
+[107th Congress Public Law 195]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ195.107]
+
+
+[[Page 116 STAT. 715]]
+
+Public Law 107-195
+107th Congress
+
+                                 An Act
+
+
+ 
+To eliminate the deadlines for spectrum auctions of spectrum previously 
+  allocated to television broadcasting. <<NOTE: June 19, 2002 -  [H.R. 
+                                4560]>> 
+
+    Be it enacted by the Senate and House of Representatives of 
+the <<NOTE: Auction Reform Act of 2002.>>  United States of America in 
+Congress assembled,
+
+SECTION <<NOTE: 47 USC 609 note.>>  1. SHORT TITLE.
+
+    This Act may be cited as the ``Auction Reform Act of 2002''.
+
+SEC. 2. <<NOTE: 47 USC 309 note.>>  FINDINGS.
+
+    Congress finds the following:
+            (1) Circumstances in the telecommunications market have 
+        changed dramatically since the auctioning of spectrum in the 700 
+        megahertz band was originally mandated by Congress in 1997, 
+        raising serious questions as to whether the original deadlines, 
+        or the subsequent revision of the deadlines, are consistent with 
+        sound telecommunications policy and spectrum management 
+        principles.
+            (2) No comprehensive plan yet exists for allocating 
+        additional spectrum for third-generation wireless and other 
+        advanced communications services. The Federal Communications 
+        Commission should have the flexibility to auction frequencies in 
+        the 700 megahertz band for such purposes.
+            (3) The study being conducted by the National 
+        Telecommunications and Information Administration in 
+        consultation with the Department of Defense to determine whether 
+        the Department of Defense can share or relinquish additional 
+        spectrum for third generation wireless and other advanced 
+        communications services will not be completed until after the 
+        June 19th auction date for the upper 700 megahertz band, and 
+        long after the applications must be filed to participate in the 
+        auction, thereby creating further uncertainty as to whether the 
+        frequencies in the 700 megahertz band will be put to their 
+        highest and best use for the benefit of consumers.
+            (4) The Federal Communications Commission is also in the 
+        process of determining how to resolve the interference problems 
+        that exist in the 800 megahertz band, especially for public 
+        safety. One option being considered for the 800 megahertz band 
+        would involve the 700 megahertz band. The Commission should not 
+        hold the 700 megahertz auction before the 800 megahertz 
+        interference issues are resolved or a tenable plan has been 
+        conceived.
+            (5) The 700 megahertz band is currently occupied by 
+        television broadcasters, and will be so until the transfer to 
+        digital television is completed. This situation creates a 
+        tremendous
+
+[[Page 116 STAT. 716]]
+
+        amount of uncertainty concerning when the spectrum will be 
+        available and reduces the value placed on the spectrum by 
+        potential bidders. The encumbrance of the 700 megahertz band 
+        reduces both the amount of money that the auction would be 
+        likely to produce and the probability that the spectrum would be 
+        purchased by the entities that valued the spectrum the most and 
+        would put the spectrum to its most productive use.
+            (6) The Commission's rules governing voluntary mechanisms 
+        for vacating the 700 megahertz band by broadcast stations--
+                    (A) produced no certainty that the band would be 
+                available for advanced mobile communications services, 
+                public safety operations, or other wireless services any 
+                earlier than the existing statutory framework provides; 
+                and
+                    (B) should advance the transition of digital 
+                television and must not result in the unjust enrichment 
+                of any incumbent licensee.
+
+SEC. 3. ELIMINATION OF STATUTORY DEADLINES FOR SPECTRUM AUCTIONS.
+
+    (a) FCC To Determine Timing of Auctions.--Section 309(j) of the 
+Communications Act of 1934 (47 U.S.C. 309(j)) is amended by adding at 
+the end the following new paragraph:
+            ``(15) Commission to determine timing of auctions.--
+                    ``(A) Commission authority.--Subject to the 
+                provisions of this subsection (including paragraph 
+                (11)), but notwithstanding any other provision of law, 
+                the Commission shall determine the timing of and 
+                deadlines for the conduct of competitive bidding under 
+                this subsection, including the timing of and deadlines 
+                for qualifying for bidding; conducting auctions; 
+                collecting, depositing, and reporting revenues; and 
+                completing licensing processes and assigning licenses.
+                    ``(B) Termination of portions of auctions 31 and 
+                44.--Except as provided in subparagraph (C), the 
+                Commission shall not commence or conduct auctions 31 and 
+                44 on June 19, 2002, as specified in the public notices 
+                of March 19, 2002, and March 20, 2002 (DA 02-659 and DA 
+                02-563).
+                    ``(C) Exception.--
+                          ``(i) Blocks excepted.--Subparagraph (B) shall 
+                      not apply to the auction of--
+                                    ``(I) the C-block of licenses on the 
+                                bands of frequencies located at 710-716 
+                                megahertz, and 740-746 megahertz; or
+                                    ``(II) the D-block of licenses on 
+                                the bands of frequencies located at 716-
+                                722 megahertz.
+                          ``(ii) Eligible bidders.--The entities that 
+                      shall be eligible to bid in the auction of the C-
+                      block and D-block licenses described in clause (i) 
+                      shall be those entities that were qualified 
+                      entities, and that submitted applications to 
+                      participate in auction 44, by May 8, 2002, as part 
+                      of the original auction 44 short form filing 
+                      deadline.
+                          ``(iii) Auction deadlines for excepted 
+                      blocks.--Notwithstanding subparagraph (B), the 
+                      auction of the
+
+[[Page 116 STAT. 717]]
+
+                      C-block and D-block licenses described in clause 
+                      (i) shall be commenced no earlier than August 19, 
+                      2002, and no later than September 19, 2002, and 
+                      the proceeds of such auction shall be deposited in 
+                      accordance with paragraph (8) not later than 
+                      December 31, 2002.
+                          ``(iv) Report.--Within one year after the date 
+                      of enactment of this paragraph, the Commission 
+                      shall submit a report to Congress--
+                                    ``(I) specifying when the Commission 
+                                intends to reschedule auctions 31 and 44 
+                                (other than the blocks excepted by 
+                                clause (i)); and
+                                    ``(II) describing the progress made 
+                                by the Commission in the digital 
+                                television transition and in the 
+                                assignment and allocation of additional 
+                                spectrum for advanced mobile 
+                                communications services that warrants 
+                                the scheduling of such auctions.
+                    ``(D) Return of payments.--Within one month after 
+                the date of enactment of this paragraph, the Commission 
+                shall return to the bidders for licenses in the A-block, 
+                B-block, and E-block of auction 44 the full amount of 
+                all upfront payments made by such bidders for such 
+                licenses.''.
+
+    (b) Conforming Amendments.--
+            (1) Communications act of 1934.--Section 309(j)(14)(C)(ii) 
+        of the Communications Act of 1934 (47 U.S.C. 309(j)(14)(C)(ii)) 
+        is amended by striking the second sentence.
+            (2) Balanced budget act of 1997.--Section 3007 of the 
+        Balanced Budget Act of 1997 (111 Stat. 269) <<NOTE: 47 USC 309 
+        note.>>  is repealed.
+            (3) Consolidated appropriations act.--Paragraphs (2) and (3) 
+        of section 213(a) of H.R. 3425 of the 106th Congress, as enacted 
+        into law by section 1000(a)(5) of An Act making consolidated 
+        appropriations for the fiscal year ending September 30, 2000, 
+        and for other purposes (Public Law 106-113; 113 Stat. 1501A-
+        295), <<NOTE: 47 USC 337 note.>>  are repealed.
+
+SEC. 4. <<NOTE: 47 USC 309 note.>>  COMPLIANCE WITH AUCTION AUTHORITY.
+
+    The Federal Communications Commission shall conduct rescheduled 
+auctions 31 and 44 prior to the expiration of the auction authority 
+under section 309(j)(11) of the Communications Act of 1934 (47 U.S.C. 
+309(j)(11)).
+
+SEC. 5. <<NOTE: 47 USC 309 note.>>  PRESERVATION OF BROADCASTER 
+            OBLIGATIONS.
+
+    Nothing in this Act shall be construed to relieve television 
+broadcast station licensees of the obligation to complete the digital 
+television service conversion as required by section 309(j)(14) of the 
+Communications Act of 1934 (47 U.S.C. 309(j)(14)).
+
+SEC. 6. <<NOTE: 47 USC 337 note.>>  INTERFERENCE PROTECTION.
+
+    (a) Interference Waivers.--In granting a request by a television 
+broadcast station licensee assigned to any of channels 52-69 to utilize 
+any channel of channels 2-51 that is assigned for digital broadcasting 
+in order to continue analog broadcasting during the transition to 
+digital broadcasting, the Federal Communications Commission may not, 
+either at the time of the grant or thereafter, waive or otherwise 
+reduce--
+            (1) the spacing requirements provided for analog 
+        broadcasting licensees within channels 2-51 as required by 
+        section 73.610 of the Commission's rules (and the table 
+        contained therein) (47 CFR 73.610), or
+
+[[Page 116 STAT. 718]]
+
+            (2) the interference standards provided for digital 
+        broadcasting licensees within channels 2-51 as required by 
+        sections 73.622 and 73.623 of such rules (47 CFR 73.622, 
+        73.623),
+
+if such waiver or reduction will result in any degradation in or loss of 
+service, or an increased level of interference, to any television 
+household except as the Commission's rules would otherwise expressly 
+permit, exclusive of any waivers previously granted.
+    (b) Exception for Public Safety Channel Clearing.--The restrictions 
+in subsection (a) shall not apply to a station licensee that is seeking 
+authority (either by waiver or otherwise) to vacate the frequencies that 
+constitute television channel 63, 64, 68, or 69 in order to make such 
+frequencies available for public safety purposes pursuant to the 
+provisions of section 337 of the Communications Act of 1934 (47 U.S.C. 
+337).
+
+    Approved June 19, 2002.
+
+LEGISLATIVE HISTORY--H.R. 4560:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 107-443 (Comm. on Energy and Commerce).
+CONGRESSIONAL RECORD, Vol. 148 (2002):
+            May 7, considered and passed House.
+            June 18, considered and passed Senate, amended. House 
+                concurred in Senate amendment.
+
+                                  
+

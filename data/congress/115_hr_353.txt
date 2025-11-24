@@ -1,0 +1,2354 @@
+
+[115th Congress Public Law 25]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 131 STAT. 91]]
+
+Public Law 115-25
+115th Congress
+
+                                 An Act
+
+
+ 
+To improve the National Oceanic and Atmospheric Administration's weather 
+   research through a focused program of investment on affordable and 
+     attainable advances in observational, computing, and modeling 
+ capabilities to support substantial improvement in weather forecasting 
+   and prediction of high impact weather events, to expand commercial 
+     opportunities for the provision of weather data, and for other 
+            purposes. <<NOTE: Apr. 18, 2017 -  [H.R. 353]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Weather Research 
+and Forecasting Innovation Act of 2017.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) <<NOTE: 15 USC 8501 note.>>  Short Title.--This Act may be cited 
+as the ``Weather Research and Forecasting Innovation Act of 2017''.
+
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+   TITLE I--UNITED STATES WEATHER RESEARCH AND FORECASTING IMPROVEMENT
+
+Sec. 101. Public safety priority.
+Sec. 102. Weather research and forecasting innovation.
+Sec. 103. Tornado warning improvement and extension program.
+Sec. 104. Hurricane forecast improvement program.
+Sec. 105. Weather research and development planning.
+Sec. 106. Observing system planning.
+Sec. 107. Observing system simulation experiments.
+Sec. 108. Annual report on computing resources prioritization.
+Sec. 109. United States Weather Research program.
+Sec. 110. Authorization of appropriations.
+
+        TITLE II--SUBSEASONAL AND SEASONAL FORECASTING INNOVATION
+
+Sec. 201. Improving subseasonal and seasonal forecasts.
+
+            TITLE III--WEATHER SATELLITE AND DATA INNOVATION
+
+Sec. 301. National Oceanic and Atmospheric Administration satellite and 
+           data management.
+Sec. 302. Commercial weather data.
+Sec. 303. Unnecessary duplication.
+
+                 TITLE IV--FEDERAL WEATHER COORDINATION
+
+Sec. 401. Environmental Information Services Working Group.
+Sec. 402. Interagency weather research and forecast innovation 
+           coordination.
+Sec. 403. Office of Oceanic and Atmospheric Research and National 
+           Weather Service exchange program.
+Sec. 404. Visiting fellows at National Weather Service.
+Sec. 405. Warning coordination meteorologists at weather forecast 
+           offices of National Weather Service.
+Sec. 406. Improving National Oceanic and Atmospheric Administration 
+           communication of hazardous weather and water events.
+Sec. 407. National Oceanic and Atmospheric Administration Weather Ready 
+           All Hazards Award Program.
+
+[[Page 131 STAT. 92]]
+
+Sec. 408. Department of Defense weather forecasting activities.
+Sec. 409. National Weather Service; operations and workforce analysis.
+Sec. 410. Report on contract positions at National Weather Service.
+Sec. 411. Weather impacts to communities and infrastructure.
+Sec. 412. Weather enterprise outreach.
+Sec. 413. Hurricane hunter aircraft.
+Sec. 414. Study on gaps in NEXRAD coverage and recommendations to 
+           address such gaps.
+
+      TITLE V--TSUNAMI WARNING, EDUCATION, AND RESEARCH ACT OF 2017
+
+Sec. 501. Short title.
+Sec. 502. References to the Tsunami Warning and Education Act.
+Sec. 503. Expansion of purposes of Tsunami Warning and Education Act.
+Sec. 504. Modification of tsunami forecasting and warning program.
+Sec. 505. Modification of national tsunami hazard mitigation program.
+Sec. 506. Modification of tsunami research program.
+Sec. 507. Global tsunami warning and mitigation network.
+Sec. 508. Tsunami science and technology advisory panel.
+Sec. 509. Reports.
+Sec. 510. Authorization of appropriations.
+Sec. 511. Outreach responsibilities.
+Sec. 512. Repeal of duplicate provisions of law.
+
+SEC. 2. <<NOTE: 15 USC 8501.>>  DEFINITIONS.
+
+    In this Act:
+            (1) Seasonal.--The term ``seasonal'' means the time range 
+        between 3 months and 2 years.
+            (2) State.--The term ``State'' means a State, a territory, 
+        or possession of the United States, including a Commonwealth, or 
+        the District of Columbia.
+            (3) Subseasonal.--The term ``subseasonal'' means the time 
+        range between 2 weeks and 3 months.
+            (4) Under secretary.--The term ``Under Secretary'' means the 
+        Under Secretary of Commerce for Oceans and Atmosphere.
+            (5) Weather industry and weather enterprise.--The terms 
+        ``weather industry'' and ``weather enterprise'' are 
+        interchangeable in this Act, and include individuals and 
+        organizations from public, private, and academic sectors that 
+        contribute to the research, development, and production of 
+        weather forecast products, and primary consumers of these 
+        weather forecast products.
+
+   TITLE I--UNITED STATES WEATHER RESEARCH AND FORECASTING IMPROVEMENT
+
+SEC. 101. <<NOTE: 15 USC 85011.>>  PUBLIC SAFETY PRIORITY.
+
+    In conducting research, the Under Secretary shall prioritize 
+improving weather data, modeling, computing, forecasting, and warnings 
+for the protection of life and property and for the enhancement of the 
+national economy.
+SEC. 102. <<NOTE: 15 USC 85012.>>  WEATHER RESEARCH AND 
+                        FORECASTING INNOVATION.
+
+    (a) Program.--The Assistant Administrator for the Office of Oceanic 
+and Atmospheric Research shall conduct a program to develop improved 
+understanding of and forecast capabilities for atmospheric events and 
+their impacts, placing priority on developing more accurate, timely, and 
+effective warnings and forecasts of high impact weather events that 
+endanger life and property.
+    (b) Program Elements.--The program described in subsection (a) shall 
+focus on the following activities:
+
+[[Page 131 STAT. 93]]
+
+            (1) Improving the fundamental understanding of weather 
+        consistent with section 101, including the boundary layer and 
+        other processes affecting high impact weather events.
+            (2) Improving the understanding of how the public receives, 
+        interprets, and responds to warnings and forecasts of high 
+        impact weather events that endanger life and property.
+            (3) Research and development, and transfer of knowledge, 
+        technologies, and applications to the National Weather Service 
+        and other appropriate agencies and entities, including the 
+        United States weather industry and academic partners, related 
+        to--
+                    (A) advanced radar, radar networking technologies, 
+                and other ground-based technologies, including those 
+                emphasizing rapid, fine-scale sensing of the boundary 
+                layer and lower troposphere, and the use of innovative, 
+                dual-polarization, phased-array technologies;
+                    (B) aerial weather observing systems;
+                    (C) high performance computing and information 
+                technology and wireless communication networks;
+                    (D) advanced numerical weather prediction systems 
+                and forecasting tools and techniques that improve the 
+                forecasting of timing, track, intensity, and severity of 
+                high impact weather, including through--
+                          (i) the development of more effective 
+                      mesoscale models;
+                          (ii) more effective use of existing, and the 
+                      development of new, regional and national cloud-
+                      resolving models;
+                          (iii) enhanced global weather models; and
+                          (iv) integrated assessment models;
+                    (E) quantitative assessment tools for measuring the 
+                impact and value of data and observing systems, 
+                including Observing System Simulation Experiments (as 
+                described in section 107), Observing System Experiments, 
+                and Analyses of Alternatives;
+                    (F) atmospheric chemistry and interactions essential 
+                to accurately characterizing atmospheric composition and 
+                predicting meteorological processes, including cloud 
+                microphysical, precipitation, and atmospheric 
+                electrification processes, to more effectively 
+                understand their role in severe weather; and
+                    (G) additional sources of weather data and 
+                information, including commercial observing systems.
+            (4) A technology transfer initiative, carried out jointly 
+        and in coordination with the Director of the National Weather 
+        Service, and in cooperation with the United States weather 
+        industry and academic partners, to ensure continuous development 
+        and transition of the latest scientific and technological 
+        advances into operations of the National Weather Service and to 
+        establish a process to sunset outdated and expensive operational 
+        methods and tools to enable cost-effective transfer of new 
+        methods and tools into operations.
+
+    (c) Extramural Research.--
+            (1) <<NOTE: Collaboration.>>  In general.--In carrying out 
+        the program under this section, the Assistant Administrator for 
+        Oceanic and Atmospheric Research shall collaborate with and 
+        support the non-Federal weather research community, which 
+        includes
+
+[[Page 131 STAT. 94]]
+
+        institutions of higher education, private entities, and 
+        nongovernmental organizations, by making funds available through 
+        competitive grants, contracts, and cooperative agreements.
+            (2) Sense of congress.--It is the sense of Congress that not 
+        less than 30 percent of the funds for weather research and 
+        development at the Office of Oceanic and Atmospheric Research 
+        should be made available for the purpose described in paragraph 
+        (1).
+
+    (d) Annual Report.--Each year, concurrent with the annual budget 
+request submitted by the President to Congress under section 1105 of 
+title 31, United States Code, for the National Oceanic and Atmospheric 
+Administration, the Under Secretary shall submit to Congress a 
+description of current and planned activities under this section.
+SEC. 103. <<NOTE: 15 USC 8513.>>  TORNADO WARNING IMPROVEMENT AND 
+                        EXTENSION PROGRAM.
+
+    (a) <<NOTE: Collaboration.>>  In General.--The Under Secretary, in 
+collaboration with the United States weather industry and academic 
+partners, shall establish a tornado warning improvement and extension 
+program.
+
+    (b) Goal.--The goal of such program shall be to reduce the loss of 
+life and economic losses from tornadoes through the development and 
+extension of accurate, effective, and timely tornado forecasts, 
+predictions, and warnings, including the prediction of tornadoes beyond 
+1 hour in advance.
+    (c) <<NOTE: Deadline. Coordination.>>  Program Plan.--Not later than 
+180 days after the date of the enactment of this Act, the Assistant 
+Administrator for Oceanic and Atmospheric Research, in coordination with 
+the Director of the National Weather Service, shall develop a program 
+plan that details the specific research, development, and technology 
+transfer activities, as well as corresponding resources and timelines, 
+necessary to achieve the program goal.
+
+    (d) <<NOTE: Coordination.>>  Annual Budget for Plan Submittal.--
+Following completion of the plan, the Under Secretary, acting through 
+the Assistant Administrator for Oceanic and Atmospheric Research and in 
+coordination with the Director of the National Weather Service, shall, 
+not less frequently than once each year, submit to Congress a proposed 
+budget corresponding with the activities identified in the plan.
+SEC. 104. <<NOTE: 15 USC 8514.>>  HURRICANE FORECAST IMPROVEMENT 
+                        PROGRAM.
+
+    (a) <<NOTE: Collaboration.>>  In General.--The Under Secretary, in 
+collaboration with the United States weather industry and such academic 
+entities as the Administrator considers appropriate, shall maintain a 
+project to improve hurricane forecasting.
+
+    (b) Goal.--The goal of the project maintained under subsection (a) 
+shall be to develop and extend accurate hurricane forecasts and warnings 
+in order to reduce loss of life, injury, and damage to the economy, with 
+a focus on--
+            (1) improving the prediction of rapid intensification and 
+        track of hurricanes;
+            (2) improving the forecast and communication of storm surges 
+        from hurricanes; and
+            (3) incorporating risk communication research to create more 
+        effective watch and warning products.
+
+    (c) <<NOTE: Deadline. Consultation.>>  Project Plan.--Not later than 
+1 year after the date of the enactment of this Act, the Under Secretary, 
+acting through the Assistant Administrator for Oceanic and Atmospheric 
+Research
+
+[[Page 131 STAT. 95]]
+
+and in consultation with the Director of the National Weather Service, 
+shall develop a plan for the project maintained under subsection (a) 
+that details the specific research, development, and technology transfer 
+activities, as well as corresponding resources and timelines, necessary 
+to achieve the goal set forth in subsection (b).
+SEC. 105. <<NOTE: Deadlines. Coordination. 15 USC 8515.>>  WEATHER 
+                        RESEARCH AND DEVELOPMENT PLANNING.
+
+    Not later than 1 year after the date of the enactment of this Act, 
+and not less frequently than once each year thereafter, the Under 
+Secretary, acting through the Assistant Administrator for Oceanic and 
+Atmospheric Research and in coordination with the Director of the 
+National Weather Service and the Assistant Administrator for Satellite 
+and Information Services, shall issue a research and development and 
+research to operations plan to restore and maintain United States 
+leadership in numerical weather prediction and forecasting that--
+            (1) describes the forecasting skill and technology goals, 
+        objectives, and progress of the National Oceanic and Atmospheric 
+        Administration in carrying out the program conducted under 
+        section 102;
+            (2) identifies and prioritizes specific research and 
+        development activities, and performance metrics, weighted to 
+        meet the operational weather mission of the National Weather 
+        Service to achieve a weather-ready Nation;
+            (3) describes how the program will collaborate with 
+        stakeholders, including the United States weather industry and 
+        academic partners; and
+            (4) <<NOTE: Consultation.>>  identifies, through 
+        consultation with the National Science Foundation, the United 
+        States weather industry, and academic partners, research 
+        necessary to enhance the integration of social science knowledge 
+        into weather forecast and warning processes, including to 
+        improve the communication of threat information necessary to 
+        enable improved severe weather planning and decisionmaking on 
+        the part of individuals and communities.
+SEC. 106. <<NOTE: 15 USC 8516.>>  OBSERVING SYSTEM PLANNING.
+
+    The Under Secretary shall--
+            (1) <<NOTE: Lists.>>  develop and maintain a prioritized 
+        list of observation data requirements necessary to ensure 
+        weather forecasting capabilities to protect life and property to 
+        the maximum extent practicable;
+            (2) consistent with section 107, utilize Observing System 
+        Simulation Experiments, Observing System Experiments, Analyses 
+        of Alternatives, and other appropriate assessment tools to 
+        ensure continuous systemic evaluations of the observing systems, 
+        data, and information needed to meet the requirements of 
+        paragraph (1), including options to maximize observational 
+        capabilities and their cost-effectiveness;
+            (3) identify current and potential future data gaps in 
+        observing capabilities related to the requirements listed under 
+        paragraph (1); and
+            (4) determine a range of options to address gaps identified 
+        under paragraph (3).
+
+[[Page 131 STAT. 96]]
+
+SEC. 107. <<NOTE: Assessments. Evaluation. 15 USC 8517.>>  
+                        OBSERVING SYSTEM SIMULATION EXPERIMENTS.
+
+    (a) In General.--In support of the requirements of section 106, the 
+Assistant Administrator for Oceanic and Atmospheric Research shall 
+undertake Observing System Simulation Experiments, or such other 
+quantitative assessments as the Assistant Administrator considers 
+appropriate, to quantitatively assess the relative value and benefits of 
+observing capabilities and systems. Technical and scientific Observing 
+System Simulation Experiment evaluations--
+            (1) may include assessments of the impact of observing 
+        capabilities on--
+                    (A) global weather prediction;
+                    (B) hurricane track and intensity forecasting;
+                    (C) tornado warning lead times and accuracy;
+                    (D) prediction of mid-latitude severe local storm 
+                outbreaks; and
+                    (E) prediction of storms that have the potential to 
+                cause extreme precipitation and flooding lasting from 6 
+                hours to 1 week; and
+            (2) shall be conducted in cooperation with other appropriate 
+        entities within the National Oceanic and Atmospheric 
+        Administration, other Federal agencies, the United States 
+        weather industry, and academic partners to ensure the technical 
+        and scientific merit of results from Observing System Simulation 
+        Experiments or other appropriate quantitative assessment 
+        methodologies.
+
+    (b) Requirements.--Observing System Simulation Experiments shall 
+quantitatively--
+            (1) determine the potential impact of proposed space-based, 
+        suborbital, and in situ observing systems on analyses and 
+        forecasts, including potential impacts on extreme weather events 
+        across all parts of the Nation;
+            (2) evaluate and compare observing system design options; 
+        and
+            (3) assess the relative capabilities and costs of various 
+        observing systems and combinations of observing systems in 
+        providing data necessary to protect life and property.
+
+    (c) Implementation.--Observing System Simulation Experiments--
+            (1) shall be conducted prior to the acquisition of major 
+        Government-owned or Government-leased operational observing 
+        systems, including polar-orbiting and geostationary satellite 
+        systems, with a lifecycle cost of more than $500,000,000; and
+            (2) shall be conducted prior to the purchase of any major 
+        new commercially provided data with a lifecycle cost of more 
+        than $500,000,000.
+
+    (d) <<NOTE: Deadlines.>>  Priority Observing System Simulation 
+Experiments.--
+            (1) Global navigation satellite system radio occultation.--
+        Not later than 30 days after the date of the enactment of this 
+        Act, the Assistant Administrator for Oceanic and Atmospheric 
+        Research shall complete an Observing System Simulation 
+        Experiment to assess the value of data from Global Navigation 
+        Satellite System Radio Occultation.
+            (2) Geostationary hyperspectral sounder global 
+        constellation.--Not later than 120 days after the date of the 
+        enactment of this Act, the Assistant Administrator for Oceanic
+
+[[Page 131 STAT. 97]]
+
+        and Atmospheric Research shall complete an Observing System 
+        Simulation Experiment to assess the value of data from a 
+        geostationary hyperspectral sounder global constellation.
+
+    (e) <<NOTE: Public information.>>  Results.--Upon completion of all 
+Observing System Simulation Experiments, the Assistant Administrator 
+shall make available to the public the results an assessment of related 
+private and public sector weather data sourcing options, including their 
+availability, affordability, and cost-effectiveness. Such assessments 
+shall be developed in accordance with section 50503 of title 51, United 
+States Code.
+SEC. 108. <<NOTE: Coordination. Public information. 15 USC 
+                        8518.>>  ANNUAL REPORT ON COMPUTING 
+                        RESOURCES PRIORITIZATION.
+
+    Not later than 1 year after the date of the enactment of this Act 
+and not less frequently than once each year thereafter, the Under 
+Secretary, acting through the Chief Information Officer of the National 
+Oceanic and Atmospheric Administration and in coordination with the 
+Assistant Administrator for Oceanic and Atmospheric Research and the 
+Director of the National Weather Service, shall produce and make 
+publicly available a report that explains how the Under Secretary 
+intends--
+            (1) to continually support upgrades to pursue the fastest, 
+        most powerful, and cost-effective high performance computing 
+        technologies in support of its weather prediction mission;
+            (2) to ensure a balance between the research to operations 
+        requirements to develop the next generation of regional and 
+        global models as well as highly reliable operational models;
+            (3) to take advantage of advanced development concepts to, 
+        as appropriate, make next generation weather prediction models 
+        available in beta-test mode to operational forecasters, the 
+        United States weather industry, and partners in academic and 
+        Government research; and
+            (4) to use existing computing resources to improve advanced 
+        research and operational weather prediction.
+SEC. 109. UNITED STATES WEATHER RESEARCH PROGRAM.
+
+    Section 108 of the Oceanic and Atmospheric Administration 
+Authorization Act of 1992 (Public Law 102-567; 15 U.S.C. 313 note) is 
+amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (3), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in paragraph (4), by striking the period at the 
+                end and inserting a semicolon; and
+                    (C) by inserting after paragraph (4) the following:
+            ``(5) <<NOTE: Reports.>>  submit to the Committee on 
+        Commerce, Science, and Transportation of the Senate and the 
+        Committee on Science, Space, and Technology of the House of 
+        Representatives, not less frequently than once each year, a 
+        report, including--
+                    ``(A) <<NOTE: Lists.>>  a list of ongoing research 
+                projects;
+                    ``(B) project goals and a point of contact for each 
+                project;
+                    ``(C) the five projects related to weather 
+                observations, short-term weather, or subseasonal 
+                forecasts within Office of Oceanic and Atmospheric 
+                Research that are closest to operationalization;
+                    ``(D) for each project referred to in subparagraph 
+                (C)--
+                          ``(i) the potential benefit;
+                          ``(ii) any barrier to operationalization; and
+
+[[Page 131 STAT. 98]]
+
+                          ``(iii) the plan for operationalization, 
+                      including which line office will financially 
+                      support the project and how much the line office 
+                      intends to spend;
+            ``(6) establish teams with staff from the Office of Oceanic 
+        and Atmospheric Research and the National Weather Service to 
+        oversee the operationalization of research products developed by 
+        the Office of Oceanic and Atmospheric Research;
+            ``(7) develop mechanisms for research priorities of the 
+        Office of Oceanic and Atmospheric Research to be informed by the 
+        relevant line offices within the National Oceanic and 
+        Atmospheric Administration, the relevant user community, and the 
+        weather enterprise;
+            ``(8) develop an internal mechanism to track the progress of 
+        each research project within the Office of Oceanic and 
+        Atmospheric Research and mechanisms to terminate a project that 
+        is not adequately progressing;
+            ``(9) develop and implement a system to track whether 
+        extramural research grant goals were accomplished;
+            ``(10) provide facilities for products developed by the 
+        Office of Oceanic and Atmospheric Research to be tested in 
+        operational simulations, such as test beds; and
+            ``(11) encourage academic collaboration with the Office of 
+        Oceanic and Atmospheric Research and the National Weather 
+        Service by facilitating visiting scholars.'';
+            (2) in subsection (b), in the matter preceding paragraph 
+        (1), by striking ``Not later than 90 days after the date of 
+        enactment of this Act, the'' and inserting ``The''; and
+            (3) by adding at the end the following new subsection:
+
+    ``(c) Subseasonal Defined.--In this section, the term `subseasonal' 
+means the time range between 2 weeks and 3 months.''.
+SEC. 110. <<NOTE: 15 USC 8519.>>  AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) Fiscal Years 2017 and 2018.--For each of fiscal years 2017 and 
+2018, there are authorized to be appropriated to Office of Oceanic and 
+Atmospheric Research--
+            (1) $111,516,000 to carry out this title, of which--
+                    (A) $85,758,000 is authorized for weather 
+                laboratories and cooperative institutes; and
+                    (B) $25,758,000 is authorized for weather and air 
+                chemistry research programs; and
+            (2) an additional amount of $20,000,000 for the joint 
+        technology transfer initiative described in section 102(b)(4).
+
+    (b) Limitation.--No additional funds are authorized to carry out 
+this title and the amendments made by this title.
+
+        TITLE II--SUBSEASONAL AND SEASONAL FORECASTING INNOVATION
+
+SEC. 201. IMPROVING SUBSEASONAL AND SEASONAL FORECASTS.
+
+    Section 1762 of the Food Security Act of 1985 (Public Law 99-198; 15 
+U.S.C. 313 note) is amended--
+            (1) in subsection (a), by striking ``(a)'' and inserting 
+        ``(a) Findings.--'';
+            (2) in subsection (b), by striking ``(b)'' and inserting 
+        ``(b) Policy.--''; and
+            (3) by adding at the end the following:
+
+[[Page 131 STAT. 99]]
+
+    ``(c) Functions.--The Under Secretary, acting through the Director 
+of the National Weather Service and the heads of such other programs of 
+the National Oceanic and Atmospheric Administration as the Under 
+Secretary considers appropriate, shall--
+            ``(1) collect and utilize information in order to make 
+        usable, reliable, and timely foundational forecasts of 
+        subseasonal and seasonal temperature and precipitation;
+            ``(2) leverage existing research and models from the weather 
+        enterprise to improve the forecasts under paragraph (1);
+            ``(3) determine and provide information on how the 
+        forecasted conditions under paragraph (1) may impact--
+                    ``(A) the number and severity of droughts, fires, 
+                tornadoes, hurricanes, floods, heat waves, coastal 
+                inundation, winter storms, high impact weather, or other 
+                relevant natural disasters;
+                    ``(B) snowpack; and
+                    ``(C) sea ice conditions; and
+            ``(4) develop an Internet clearinghouse to provide the 
+        forecasts under paragraph (1) and the information under 
+        paragraphs (1) and (3) on both national and regional levels.
+
+    ``(d) <<NOTE: Public information.>>  Communication.--The Director of 
+the National Weather Service shall provide the forecasts under paragraph 
+(1) of subsection (c) and the information on their impacts under 
+paragraph (3) of such subsection to the public, including public and 
+private entities engaged in planning and preparedness, such as National 
+Weather Service Core partners at the Federal, regional, State, tribal, 
+and local levels of government.
+
+    ``(e) Cooperation.--The Under Secretary shall build upon existing 
+forecasting and assessment programs and partnerships, including--
+            ``(1) by designating research and monitoring activities 
+        related to subseasonal and seasonal forecasts as a priority in 
+        one or more solicitations of the Cooperative Institutes of the 
+        Office of Oceanic and Atmospheric Research;
+            ``(2) by contributing to the interagency Earth System 
+        Prediction Capability; and
+            ``(3) <<NOTE: Consultation.>>  by consulting with the 
+        Secretary of Defense and the Secretary of Homeland Security to 
+        determine the highest priority subseasonal and seasonal forecast 
+        needs to enhance national security.
+
+    ``(f) Forecast Communication Coordinators.--
+            ``(1) In general.--The Under Secretary shall foster 
+        effective communication, understanding, and use of the forecasts 
+        by the intended users of the information described in subsection 
+        (d). This may include assistance to States for forecast 
+        communication coordinators to enable local interpretation and 
+        planning based on the information.
+            ``(2) Requirements.--For each State that requests assistance 
+        under this subsection, the Under Secretary may--
+                    ``(A) provide funds to support an individual in that 
+                State--
+                          ``(i) to serve as a liaison among the National 
+                      Oceanic and Atmospheric Administration, other 
+                      Federal departments and agencies, the weather 
+                      enterprise, the State, and relevant interests 
+                      within that State; and
+                          ``(ii) to receive the forecasts and 
+                      information under subsection (c) and disseminate 
+                      the forecasts and
+
+[[Page 131 STAT. 100]]
+
+                      information throughout the State, including to 
+                      county and tribal governments; and
+                    ``(B) require matching funds of at least 50 percent, 
+                from the State, a university, a nongovernmental 
+                organization, a trade association, or the private 
+                sector.
+            ``(3) Limitation.--Assistance to an individual State under 
+        this subsection shall not exceed $100,000 in a fiscal year.
+
+    ``(g) Cooperation From Other Federal Agencies.--Each Federal 
+department and agency shall cooperate as appropriate with the Under 
+Secretary in carrying out this section.
+    ``(h) Reports.--
+            ``(1) In general.--Not later than 18 months after the date 
+        of the enactment of the Weather Research and Forecasting 
+        Innovation Act of 2017, the Under Secretary shall submit to the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        and the Committee on Science, Space, and Technology of the House 
+        of Representatives a report, including--
+                    ``(A) <<NOTE: Analysis.>>  an analysis of the how 
+                information from the National Oceanic and Atmospheric 
+                Administration on subseasonal and seasonal forecasts, as 
+                provided under subsection (c), is utilized in public 
+                planning and preparedness;
+                    ``(B) specific plans and goals for the continued 
+                development of the subseasonal and seasonal forecasts 
+                and related products described in subsection (c); and
+                    ``(C) an identification of research, monitoring, 
+                observing, and forecasting requirements to meet the 
+                goals described in subparagraph (B).
+            ``(2) Consultation.--In developing the report under 
+        paragraph (1), the Under Secretary shall consult with relevant 
+        Federal, regional, State, tribal, and local government agencies, 
+        research institutions, and the private sector.
+
+    ``(i) Definitions.--In this section:
+            ``(1) Foundational forecast.--The term `foundational 
+        forecast' means basic weather observation and forecast data, 
+        largely in raw form, before further processing is applied.
+            ``(2) National weather service core partners.--The term 
+        `National Weather Service core partners' means government and 
+        nongovernment entities which are directly involved in the 
+        preparation or dissemination of, or discussions involving, 
+        hazardous weather or other emergency information put out by the 
+        National Weather Service.
+            ``(3) Seasonal.--The term `seasonal' means the time range 
+        between 3 months and 2 years.
+            ``(4) State.--The term `State' means a State, a territory, 
+        or possession of the United States, including a Commonwealth, or 
+        the District of Columbia.
+            ``(5) Subseasonal.--The term `subseasonal' means the time 
+        range between 2 weeks and 3 months.
+            ``(6) Under secretary.--The term `Under Secretary' means the 
+        Under Secretary of Commerce for Oceans and Atmosphere.
+            ``(7) Weather industry and weather enterprise.--The terms 
+        `weather industry' and `weather enterprise' are interchangeable 
+        in this section and include individuals and organizations from 
+        public, private, and academic sectors that contribute to the 
+        research, development, and production of weather forecast 
+        products, and primary consumers of these weather forecast 
+        products.
+
+[[Page 131 STAT. 101]]
+
+    ``(j) Authorization of Appropriations.--For each of fiscal years 
+2017 and 2018, there are authorized out of funds appropriated to the 
+National Weather Service, $26,500,000 to carry out the activities of 
+this section.''.
+
+            TITLE III--WEATHER SATELLITE AND DATA INNOVATION
+
+SEC. 301. <<NOTE: 15 USC 8531 note.>>  NATIONAL OCEANIC AND 
+                        ATMOSPHERIC ADMINISTRATION SATELLITE AND 
+                        DATA MANAGEMENT.
+
+    (a) Short-Term Management of Environmental Observations.--
+            (1) Microsatellite constellations.--
+                    (A) In general.--The Under Secretary shall complete 
+                and operationalize the Constellation Observing System 
+                for Meteorology, Ionosphere, and Climate-1 and Climate-2 
+                (COSMIC) in effect on the day before the date of the 
+                enactment of this Act--
+                          (i) by deploying constellations of 
+                      microsatellites in both the equatorial and polar 
+                      orbits;
+                          (ii) by integrating the resulting data and 
+                      research into all national operational and 
+                      research weather forecast models; and
+                          (iii) by ensuring that the resulting data of 
+                      National Oceanic and Atmospheric Administration's 
+                      COSMIC-1 and COSMIC-2 programs are free and open 
+                      to all communities.
+                    (B) Annual reports.--Not less frequently than once 
+                each year until the Under Secretary has completed and 
+                operationalized the program described in subparagraph 
+                (A) pursuant to such subparagraph, the Under Secretary 
+                shall submit to Congress a report on the status of the 
+                efforts of the Under Secretary to carry out such 
+                subparagraph.
+            (2) Integration of ocean and coastal data from the 
+        integrated ocean observing system.--In 
+        National <<NOTE: Consultation.>>  Weather Service Regions where 
+        the Director of the National Weather Service determines that 
+        ocean and coastal data would improve forecasts, the Director, in 
+        consultation with the Assistant Administrator for Oceanic and 
+        Atmospheric Research and the Assistant Administrator of the 
+        National Ocean Service, shall--
+                    (A) integrate additional coastal and ocean 
+                observations, and other data and research, from the 
+                Integrated Ocean Observing System (IOOS) into regional 
+                weather forecasts to improve weather forecasts and 
+                forecasting decision support systems; and
+                    (B) support the development of real-time data 
+                sharing products and forecast products in collaboration 
+                with the regional associations of such system, including 
+                contributions from the private sector, academia, and 
+                research institutions to ensure timely and accurate use 
+                of ocean and coastal data in regional forecasts.
+            (3) Existing monitoring and observation-capability.--The 
+        Under Secretary shall identify degradation of existing 
+        monitoring and observation capabilities that could lead to a 
+        reduction in forecast quality.
+
+[[Page 131 STAT. 102]]
+
+            (4) Specifications for new satellite systems or data 
+        determined by operational needs.--In developing specifications 
+        for any satellite systems or data to follow the Joint Polar 
+        Satellite System, Geostationary Operational Environmental 
+        Satellites, and any other satellites, in effect on the day 
+        before the date of enactment of this Act, the Under Secretary 
+        shall ensure the specifications are determined to the extent 
+        practicable by the recommendations of the reports under 
+        subsection (b) of this section.
+
+    (b) Independent Study on Future of National Oceanic and Atmospheric 
+Administration Satellite Systems and Data.--
+            (1) Agreement.--
+                    (A) In general.--The Under Secretary shall seek to 
+                enter into an agreement with the National Academy of 
+                Sciences to perform the services covered by this 
+                subsection.
+                    (B) Timing.--The Under Secretary shall seek to enter 
+                into the agreement described in subparagraph (A) before 
+                September 30, 2018.
+            (2) Study.--
+                    (A) In general.--Under an agreement between the 
+                Under Secretary and the National Academy of Sciences 
+                under this subsection, the National Academy of Sciences 
+                shall conduct a study on matters concerning future 
+                satellite data needs.
+                    (B) Elements.--In conducting the study under 
+                subparagraph (A), the National Academy of Sciences 
+                shall--
+                          (i) <<NOTE: Recommenda- tion.>>  develop 
+                      recommendations on how to make the data portfolio 
+                      of the Administration more robust and cost-
+                      effective;
+                          (ii) <<NOTE: Assessment.>>  assess the costs 
+                      and benefits of moving toward a constellation of 
+                      many small satellites, standardizing satellite bus 
+                      design, relying more on the purchasing of data, or 
+                      acquiring data from other sources or methods;
+                          (iii) identify the environmental observations 
+                      that are essential to the performance of weather 
+                      models, based on an assessment of Federal, 
+                      academic, and private sector weather research, and 
+                      the cost of obtaining the environmental data;
+                          (iv) identify environmental observations that 
+                      improve the quality of operational and research 
+                      weather models in effect on the day before the 
+                      date of enactment of this Act;
+                          (v) identify and prioritize new environmental 
+                      observations that could contribute to existing and 
+                      future weather models; and
+                          (vi) <<NOTE: Recommenda- tions.>>  develop 
+                      recommendations on a portfolio of environmental 
+                      observations that balances essential, quality-
+                      improving, and new data, private and nonprivate 
+                      sources, and space-based and Earth-based sources.
+                    (C) Deadline and report.--In carrying out the study 
+                under subparagraph (A), the National Academy of Sciences 
+                shall complete and transmit to the Under Secretary a 
+                report containing the findings of the National Academy 
+                of Sciences with respect to the study not later than 2
+
+[[Page 131 STAT. 103]]
+
+                years after the date on which the Administrator enters 
+                into an agreement with the National Academy of Sciences 
+                under paragraph (1)(A).
+            (3) Alternate organization.--
+                    (A) In general.--If the Under Secretary is unable 
+                within the period prescribed in subparagraph (B) of 
+                paragraph (1) to enter into an agreement described in 
+                subparagraph (A) of such paragraph with the National 
+                Academy of Sciences on terms acceptable to the Under 
+                Secretary, the Under Secretary shall seek to enter into 
+                such an agreement with another appropriate organization 
+                that--
+                          (i) is not part of the Federal Government;
+                          (ii) operates as a not-for-profit entity; and
+                          (iii) has expertise and objectivity comparable 
+                      to that of the National Academy of Sciences.
+                    (B) Treatment.--If the Under Secretary enters into 
+                an agreement with another organization as described in 
+                subparagraph (A), any reference in this subsection to 
+                the National Academy of Sciences shall be treated as a 
+                reference to the other organization.
+            (4) Authorization of appropriations.--There are authorized 
+        to be appropriated, out of funds appropriated to National 
+        Environmental Satellite, Data, and Information Service, to carry 
+        out this subsection $1,000,000 for the period encompassing 
+        fiscal years 2018 through 2019.
+SEC. 302. <<NOTE: 15 USC 8532.>>  COMMERCIAL WEATHER DATA.
+
+    (a) Data and Hosted Satellite Payloads.--Notwithstanding any other 
+provision of law, the Secretary of Commerce may enter into agreements 
+for--
+            (1) <<NOTE: Contracts.>>  the purchase of weather data 
+        through contracts with commercial providers; and
+            (2) the placement of weather satellite instruments on 
+        cohosted government or private payloads.
+
+    (b) Strategy.--
+            (1) <<NOTE: Deadline. Consultation.>>  In general.--Not 
+        later than 180 days after the date of the enactment of this Act, 
+        the Secretary of Commerce, in consultation with the Under 
+        Secretary, shall submit to the Committee on Commerce, Science, 
+        and Transportation of the Senate and the Committee on Science, 
+        Space, and Technology of the House of Representatives a strategy 
+        to enable the procurement of quality commercial weather data. 
+        The strategy shall assess the range of commercial opportunities, 
+        including public-private partnerships, for obtaining surface-
+        based, aviation-based, and space-based weather 
+        observations. <<NOTE: Plan.>>  The strategy shall include the 
+        expected cost-effectiveness of these opportunities as well as 
+        provide a plan for procuring data, including an expected 
+        implementation timeline, from these nongovernmental sources, as 
+        appropriate.
+            (2) Requirements.--The strategy shall include--
+                    (A) <<NOTE: Analysis.>>  an analysis of financial or 
+                other benefits to, and risks associated with, acquiring 
+                commercial weather data or services, including through 
+                multiyear acquisition approaches;
+                    (B) an identification of methods to address 
+                planning, programming, budgeting, and execution 
+                challenges to such approaches, including--
+
+[[Page 131 STAT. 104]]
+
+                          (i) how standards will be set to ensure that 
+                      data is reliable and effective;
+                          (ii) how data may be acquired through 
+                      commercial experimental or innovative techniques 
+                      and then evaluated for integration into 
+                      operational use;
+                          (iii) how to guarantee public access to all 
+                      forecast-critical data to ensure that the United 
+                      States weather industry and the public continue to 
+                      have access to information critical to their work; 
+                      and
+                          (iv) in accordance with section 50503 of title 
+                      51, United States Code, methods to address 
+                      potential termination liability or cancellation 
+                      costs associated with weather data or service 
+                      contracts; and
+                    (C) an identification of any changes needed in the 
+                requirements development and approval processes of the 
+                Department of Commerce to facilitate effective and 
+                efficient implementation of such strategy.
+            (3) Authority for agreements.--The Assistant Administrator 
+        for National Environmental Satellite, Data, and Information 
+        Service may enter into multiyear agreements necessary to carry 
+        out the strategy developed under this subsection.
+
+    (c) <<NOTE: Deadlines.>>  Pilot Program.--
+            (1) <<NOTE: Publication.>>  Criteria.--Not later than 30 
+        days after the date of the enactment of this Act, the Under 
+        Secretary shall publish data and metadata standards and 
+        specifications for space-based commercial weather data, 
+        including radio occultation data, and, as soon as possible, 
+        geostationary hyperspectral sounder data.
+            (2) Pilot contracts.--
+                    (A) Contracts.--Not later than 90 days after the 
+                date of enactment of this Act, the Under Secretary 
+                shall, through an open competition, enter into at least 
+                one pilot contract with one or more private sector 
+                entities capable of providing data that meet the 
+                standards and specifications set by the Under Secretary 
+                for providing commercial weather data in a manner that 
+                allows the Under Secretary to calibrate and evaluate the 
+                data for its use in National Oceanic and Atmospheric 
+                Administration meteorological models.
+                    (B) <<NOTE: Determination. Criteria.>>  Assessment 
+                of data viability.--Not later than the date that is 3 
+                years after the date on which the Under Secretary enters 
+                into a contract under subparagraph (A), the Under 
+                Secretary shall assess and submit to the Committee on 
+                Commerce, Science, and Transportation of the Senate and 
+                the Committee on Science, Space, and Technology of the 
+                House of Representatives the results of a determination 
+                of the extent to which data provided under the contract 
+                entered into under subparagraph (A) meet the criteria 
+                published under paragraph (1) and the extent to which 
+                the pilot program has demonstrated--
+                          (i) the viability of assimilating the 
+                      commercially provided data into National Oceanic 
+                      and Atmospheric Administration meteorological 
+                      models;
+                          (ii) whether, and by how much, the data add 
+                      value to weather forecasts; and
+                          (iii) the accuracy, quality, timeliness, 
+                      validity, reliability, usability, information 
+                      technology security, and cost-effectiveness of 
+                      obtaining commercial weather data from private 
+                      sector providers.
+
+[[Page 131 STAT. 105]]
+
+            (3) Authorization of appropriations.--For each of fiscal 
+        years 2017 through 2020, there are authorized to be appropriated 
+        for procurement, acquisition, and construction at National 
+        Environmental Satellite, Data, and Information Service, 
+        $6,000,000 to carry out this subsection.
+
+    (d) Obtaining Future Data.--If an assessment under subsection 
+(c)(2)(B) demonstrates the ability of commercial weather data to meet 
+data and metadata standards and specifications published under 
+subsection (c)(1), the Under Secretary shall--
+            (1) where appropriate, cost-effective, and feasible, obtain 
+        commercial weather data from private sector providers;
+            (2) as early as possible in the acquisition process for any 
+        future National Oceanic and Atmospheric Administration 
+        meteorological space system, consider whether there is a 
+        suitable, cost-effective, commercial capability available or 
+        that will be available to meet any or all of the observational 
+        requirements by the planned operational date of the system;
+            (3) <<NOTE: Determination.>>  if a suitable, cost-effective, 
+        commercial capability is or will be available as described in 
+        paragraph (2), determine whether it is in the national interest 
+        to develop a governmental meteorological space system; and
+            (4) <<NOTE: Reports.>>  submit to the Committee on Commerce, 
+        Science, and Transportation of the Senate and the Committee on 
+        Science, Space, and Technology of the House of Representatives a 
+        report detailing any determination made under paragraphs (2) and 
+        (3).
+
+    (e) Data Sharing Practices.--The Under Secretary shall continue to 
+meet the international meteorological agreements into which the Under 
+Secretary has entered, including practices set forth through World 
+Meteorological Organization Resolution 40.
+SEC. 303. <<NOTE: 15 USC 8533.>>  UNNECESSARY DUPLICATION.
+
+    In meeting the requirements under this title, the Under Secretary 
+shall avoid unnecessary duplication between public and private sources 
+of data and the corresponding expenditure of funds and employment of 
+personnel.
+
+                 TITLE IV--FEDERAL WEATHER COORDINATION
+
+SEC. 401. <<NOTE: 15 USC 8541.>>  ENVIRONMENTAL INFORMATION 
+                        SERVICES WORKING GROUP.
+
+    (a) Establishment.--The National Oceanic and Atmospheric 
+Administration Science Advisory Board shall continue to maintain a 
+standing working group named the Environmental Information Services 
+Working Group (in this section referred to as the ``Working Group'')--
+            (1) to provide advice for prioritizing weather research 
+        initiatives at the National Oceanic and Atmospheric 
+        Administration to produce real improvement in weather 
+        forecasting;
+            (2) to provide advice on existing or emerging technologies 
+        or techniques that can be found in private industry or the 
+        research community that could be incorporated into forecasting 
+        at the National Weather Service to improve forecasting skill;
+            (3) to identify opportunities to improve--
+
+[[Page 131 STAT. 106]]
+
+                    (A) communications between weather forecasters, 
+                Federal, State, local, tribal, and other emergency 
+                management personnel, and the public; and
+                    (B) communications and partnerships among the 
+                National Oceanic and Atmospheric Administration and the 
+                private and academic sectors; and
+            (4) to address such other matters as the Science Advisory 
+        Board requests of the Working Group.
+
+    (b) Composition.--
+            (1) In general.--The Working Group shall be composed of 
+        leading experts and innovators from all relevant fields of 
+        science and engineering including atmospheric chemistry, 
+        atmospheric physics, meteorology, hydrology, social science, 
+        risk communications, electrical engineering, and computer 
+        sciences. In carrying out this section, the Working Group may 
+        organize into subpanels.
+            (2) Number.--The Working Group shall be composed of no fewer 
+        than 15 members. Nominees for the Working Group may be forwarded 
+        by the Working Group for approval by the Science Advisory Board. 
+        Members of the Working Group may choose a chair (or co-chairs) 
+        from among their number with approval by the Science Advisory 
+        Board.
+
+    (c) Annual Report.--Not less frequently than once each year, the 
+Working Group shall transmit to the Science Advisory Board for 
+submission to the Under Secretary a report on progress made by National 
+Oceanic and Atmospheric Administration in adopting the Working Group's 
+recommendations. The Science Advisory Board shall transmit this report 
+to the Under Secretary. Within 30 days of receipt of such report, the 
+Under Secretary shall submit to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Science, Space, and 
+Technology of the House of Representatives a copy of such report.
+SEC. 402. <<NOTE: 15 USC 8542.>>  INTERAGENCY WEATHER RESEARCH AND 
+                        FORECAST INNOVATION COORDINATION.
+
+    (a) Establishment.--The Director of the Office of Science and 
+Technology Policy shall establish an Interagency Committee for Advancing 
+Weather Services to improve coordination of relevant weather research 
+and forecast innovation activities across the Federal Government. The 
+Interagency Committee shall--
+            (1) <<NOTE: President. Determination.>>  include 
+        participation by the National Aeronautics and Space 
+        Administration, the Federal Aviation Administration, National 
+        Oceanic and Atmospheric Administration and its constituent 
+        elements, the National Science Foundation, and such other 
+        agencies involved in weather forecasting research as the 
+        President determines are appropriate;
+            (2) identify and prioritize top forecast needs and 
+        coordinate those needs against budget requests and program 
+        initiatives across participating offices and agencies; and
+            (3) share information regarding operational needs and 
+        forecasting improvements across relevant agencies.
+
+    (b) Co-Chair.--The Federal Coordinator for Meteorology shall serve 
+as a co-chair of this panel.
+    (c) Further Coordination.--The Director of the Office of Science and 
+Technology Policy shall take such other steps as are necessary to 
+coordinate the activities of the Federal Government
+
+[[Page 131 STAT. 107]]
+
+with those of the United States weather industry, State governments, 
+emergency managers, and academic researchers.
+SEC. 403. <<NOTE: 15 USC 8543.>>  OFFICE OF OCEANIC AND 
+                        ATMOSPHERIC RESEARCH AND NATIONAL WEATHER 
+                        SERVICE EXCHANGE PROGRAM.
+
+    (a) In General.--The Assistant Administrator for Oceanic and 
+Atmospheric Research and the Director of National Weather Service may 
+establish a program to detail Office of Oceanic and Atmospheric Research 
+personnel to the National Weather Service and National Weather Service 
+personnel to the Office of Oceanic and Atmospheric Research.
+    (b) Goal.--The goal of this program is to enhance forecasting 
+innovation through regular, direct interaction between the Office of 
+Oceanic and Atmospheric Research's world-class scientists and the 
+National Weather Service's operational staff.
+    (c) Elements.--The program shall allow up to 10 Office of Oceanic 
+and Atmospheric Research staff and National Weather Service staff to 
+spend up to 1 year on detail. Candidates shall be jointly selected by 
+the Assistant Administrator for Oceanic and Atmospheric Research and the 
+Director of the National Weather Service.
+    (d) Annual Report.--Not less frequently than once each year, the 
+Under Secretary shall submit to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Science, Space, and 
+Technology of the House of Representatives a report on participation in 
+such program and shall highlight any innovations that come from this 
+interaction.
+SEC. 404. <<NOTE: 15 USC 8544.>>  VISITING FELLOWS AT NATIONAL 
+                        WEATHER SERVICE.
+
+    (a) In General.--The Director of the National Weather Service may 
+establish a program to host postdoctoral fellows and academic 
+researchers at any of the National Centers for Environmental Prediction.
+    (b) Goal.--This program shall be designed to provide direct 
+interaction between forecasters and talented academic and private sector 
+researchers in an effort to bring innovation to forecasting tools and 
+techniques to the National Weather Service.
+    (c) Selection and Appointment.--Such fellows shall be competitively 
+selected and appointed for a term not to exceed 1 year.
+SEC. 405. <<NOTE: 15 USC 8545.>>  WARNING COORDINATION 
+                        METEOROLOGISTS AT WEATHER FORECAST OFFICES 
+                        OF NATIONAL WEATHER SERVICE.
+
+    (a) Designation of Warning Coordination Meteorologists.--
+            (1) In general.--The Director of the National Weather 
+        Service shall designate at least one warning coordination 
+        meteorologist at each weather forecast office of the National 
+        Weather Service.
+            (2) No additional employees authorized.--Nothing in this 
+        section shall be construed to authorize or require a change in 
+        the authorized number of full time equivalent employees in the 
+        National Weather Service or otherwise result in the employment 
+        of any additional employees.
+            (3) Performance by other employees.--Performance of the 
+        responsibilities outlined in this section is not limited to the 
+        warning coordination meteorologist position.
+
+[[Page 131 STAT. 108]]
+
+    (b) Primary Role of Warning Coordination Meteorologists.--The 
+primary role of the warning coordination meteorologist shall be to carry 
+out the responsibilities required by this section.
+    (c) Responsibilities.--
+            (1) In general.--Subject to paragraph (2), consistent with 
+        the analysis described in section 409, and in order to increase 
+        impact-based decision support services, each warning 
+        coordination meteorologist designated under subsection (a) 
+        shall--
+                    (A) be responsible for providing service to the 
+                geographic area of responsibility covered by the weather 
+                forecast office at which the warning coordination 
+                meteorologist is employed to help ensure that users of 
+                products of the National Weather Service can respond 
+                effectively to improve outcomes from weather events;
+                    (B) liaise with users of products and services of 
+                the National Weather Service, such as the public, media 
+                outlets, users in the aviation, marine, and agricultural 
+                communities, and forestry, land, and water management 
+                interests, to evaluate the adequacy and usefulness of 
+                the products and services of the National Weather 
+                Service;
+                    (C) <<NOTE: Collaboration.>>  collaborate with such 
+                weather forecast offices and State, local, and tribal 
+                government agencies as the Director considers 
+                appropriate in developing, proposing, and implementing 
+                plans to develop, modify, or tailor products and 
+                services of the National Weather Service to improve the 
+                usefulness of such products and services;
+                    (D) ensure the maintenance and accuracy of severe 
+                weather call lists, appropriate office severe weather 
+                policy or procedures, and other severe weather or 
+                dissemination methodologies or strategies; and
+                    (E) work closely with State, local, and tribal 
+                emergency management agencies, and other agencies 
+                related to disaster management, to ensure a planned, 
+                coordinated, and effective preparedness and response 
+                effort.
+            (2) Other staff.--The Director may assign a responsibility 
+        set forth in paragraph (1) to such other staff as the Director 
+        considers appropriate to carry out such responsibility.
+
+    (d) Additional Responsibilities.--
+            (1) In general.--Subject to paragraph (2), a warning 
+        coordination meteorologist designated under subsection (a) may--
+                    (A) work with a State agency to develop plans for 
+                promoting more effective use of products and services of 
+                the National Weather Service throughout the State;
+                    (B) identify priority community preparedness 
+                objectives;
+                    (C) develop plans to meet the objectives identified 
+                under paragraph (2); and
+                    (D) conduct severe weather event preparedness 
+                planning and citizen education efforts with and through 
+                various State, local, and tribal government agencies and 
+                other disaster management-related organizations.
+            (2) Other staff.--The Director may assign a responsibility 
+        set forth in paragraph (1) to such other staff as the Director 
+        considers appropriate to carry out such responsibility.
+
+    (e) Placement With State and Local Emergency Managers.--
+
+[[Page 131 STAT. 109]]
+
+            (1) In general.--In carrying out this section, the Director 
+        of the National Weather Service may place a warning coordination 
+        meteorologist designated under subsection (a) with a State or 
+        local emergency manager if the Director considers doing so is 
+        necessary or convenient to carry out this section.
+            (2) <<NOTE: Determination.>>  Treatment.--If the Director 
+        determines that the placement of a warning coordination 
+        meteorologist placed with a State or local emergency manager 
+        under paragraph (1) is near a weather forecast office of the 
+        National Weather Service, such placement shall be treated as 
+        designation of the warning coordination meteorologist at such 
+        weather forecast office for purposes of subsection (a).
+SEC. 406. IMPROVING NATIONAL OCEANIC AND ATMOSPHERIC 
+                        ADMINISTRATION COMMUNICATION OF HAZARDOUS 
+                        WEATHER AND WATER EVENTS.
+
+    (a) Purpose of System.--For purposes of the assessment required by 
+subsection (b)(1)(A), the purpose of National Oceanic and Atmospheric 
+Administration system for issuing watches and warnings regarding 
+hazardous weather and water events shall be risk communication to the 
+general public that informs action to prevent loss of life and property.
+    (b) Assessment of System.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 2 years 
+        after the date of the enactment of this Act, the Under Secretary 
+        shall--
+                    (A) assess the National Oceanic and Atmospheric 
+                Administration system for issuing watches and warnings 
+                regarding hazardous weather and water events; and
+                    (B) <<NOTE: Reports.>>  submit to Congress a report 
+                on the findings of the Under Secretary with respect to 
+                the assessment conducted under subparagraph (A).
+            (2) Elements.--The assessment required by paragraph (1)(A) 
+        shall include the following:
+                    (A) <<NOTE: Evaluation.>>  An evaluation of whether 
+                the National Oceanic and Atmospheric Administration 
+                system for issuing watches and warnings regarding 
+                hazardous weather and water events meets the purpose 
+                described in subsection (a).
+                    (B) <<NOTE: Recommenda- tions.>>  Development of 
+                recommendations for--
+                          (i) legislative and administrative action to 
+                      improve the system described in paragraph (1)(A); 
+                      and
+                          (ii) such research as the Under Secretary 
+                      considers necessary to address the focus areas 
+                      described in paragraph (3).
+            (3) Focus areas.--The assessment required by paragraph 
+        (1)(A) shall focus on the following:
+                    (A) Ways to communicate the risks posed by hazardous 
+                weather or water events to the public that are most 
+                likely to result in action to mitigate the risk.
+                    (B) Ways to communicate the risks posed by hazardous 
+                weather or water events to the public as broadly and 
+                rapidly as practicable.
+                    (C) Ways to preserve the benefits of the existing 
+                watches and warnings system.
+                    (D) Ways to maintain the utility of the watches and 
+                warnings system for Government and commercial users of 
+                the system.
+
+[[Page 131 STAT. 110]]
+
+            (4) Consultation.--In conducting the assessment required by 
+        paragraph (1)(A), the Under Secretary shall--
+                    (A) consult with such line offices within the 
+                National Oceanic and Atmospheric Administration as the 
+                Under Secretary considers relevant, including the 
+                National Ocean Service, the National Weather Service, 
+                and the Office of Oceanic and Atmospheric Research;
+                    (B) consult with individuals in the academic sector, 
+                including individuals in the field of social and 
+                behavioral sciences, and other weather services;
+                    (C) consult with media outlets that will be 
+                distributing the watches and warnings;
+                    (D) consult with non-Federal forecasters that 
+                produce alternate severe weather risk communication 
+                products;
+                    (E) consult with emergency planners and responders, 
+                including State and local emergency management agencies, 
+                and other government users of the watches and warnings 
+                system, including the Federal Emergency Management 
+                Agency, the Office of Personnel Management, the Coast 
+                Guard, and such other Federal agencies as the Under 
+                Secretary determines rely on watches and warnings for 
+                operational decisions; and
+                    (F) make use of the services of the National Academy 
+                of Sciences, as the Under Secretary considers necessary 
+                and practicable, including contracting with the National 
+                Research Council to review the scientific and technical 
+                soundness of the assessment required by paragraph 
+                (1)(A), including the recommendations developed under 
+                paragraph (2)(B).
+            (5) Methodologies.--In conducting the assessment required by 
+        paragraph (1)(A), the Under Secretary shall use such 
+        methodologies as the Under Secretary considers are generally 
+        accepted by the weather enterprise, including social and 
+        behavioral sciences.
+
+    (c) Improvements to System.--
+            (1) <<NOTE: Recommenda- tions.>>  In general.--The Under 
+        Secretary shall, based on the assessment required by subsection 
+        (b)(1)(A), make such recommendations to Congress to improve the 
+        system as the Under Secretary considers necessary--
+                    (A) to improve the system for issuing watches and 
+                warnings regarding hazardous weather and water events; 
+                and
+                    (B) to support efforts to satisfy research needs to 
+                enable future improvements to such system.
+            (2) Requirements regarding recommendations.--In carrying out 
+        paragraph (1)(A), the Under Secretary shall ensure that any 
+        recommendation that the Under Secretary considers a major 
+        change--
+                    (A) is validated by social and behavioral science 
+                using a generalizable sample;
+                    (B) accounts for the needs of various demographics, 
+                vulnerable populations, and geographic regions;
+                    (C) accounts for the differences between types of 
+                weather and water hazards;
+                    (D) responds to the needs of Federal, State, and 
+                local government partners and media partners; and
+
+[[Page 131 STAT. 111]]
+
+                    (E) accounts for necessary changes to Federally 
+                operated watch and warning propagation and dissemination 
+                infrastructure and protocols.
+
+    (d) Watches and Warnings Defined.--
+            (1) In general.--Except as provided in paragraph (2), in 
+        this section, the terms ``watch'' and ``warning'', with respect 
+        to a hazardous weather and water event, mean products issued by 
+        the Administration, intended for consumption by the general 
+        public, to alert the general public to the potential for or 
+        presence of the event and to inform action to prevent loss of 
+        life and property.
+            (2) Exception.--ln this section, the terms ``watch'' and 
+        ``warning'' do not include technical or specialized 
+        meteorological and hydrological forecasts, outlooks, or model 
+        guidance products.
+SEC. 407. <<NOTE: 15 USC 8546.>>  NATIONAL OCEANIC AND ATMOSPHERIC 
+                        ADMINISTRATION WEATHER READY ALL HAZARDS 
+                        AWARD PROGRAM.
+
+    (a) Program.--The Director of the National Weather Service is 
+authorized to establish the National Oceanic and Atmospheric 
+Administration Weather Ready All Hazards Award Program. This award 
+program shall provide annual awards to honor individuals or 
+organizations that use or provide National Oceanic and Atmospheric 
+Administration Weather Radio All Hazards receivers or transmitters to 
+save lives and protect property. Individuals or organizations that 
+utilize other early warning tools or applications also qualify for this 
+award.
+    (b) Goal.--This award program draws attention to the life-saving 
+work of the National Oceanic and Atmospheric Administration Weather 
+Ready All Hazards Program, as well as emerging tools and applications, 
+that provide real-time warning to individuals and communities of severe 
+weather or other hazardous conditions.
+    (c) Program Elements.--
+            (1) Nominations.--Nominations for this award shall be made 
+        annually by the Weather Field Offices to the Director of the 
+        National Weather Service. Broadcast meteorologists, weather 
+        radio manufacturers and weather warning tool and application 
+        developers, emergency managers, and public safety officials may 
+        nominate individuals or organizations to their local Weather 
+        Field Offices, but the final list of award nominees must come 
+        from the Weather Field Offices.
+            (2) Selection of awardees.--Annually, the Director of the 
+        National Weather Service shall choose winners of this award 
+        whose timely actions, based on National Oceanic and Atmospheric 
+        Administration Weather Radio All Hazards receivers or 
+        transmitters or other early warning tools and applications, 
+        saved lives or property, or demonstrated public service in 
+        support of weather or all hazard warnings.
+            (3) Award ceremony.--The Director of the National Weather 
+        Service shall establish a means of making these awards to 
+        provide maximum public awareness of the importance of National 
+        Oceanic and Atmospheric Administration Weather Radio, and such 
+        other warning tools and applications as are represented in the 
+        awards.
+
+[[Page 131 STAT. 112]]
+
+SEC. 408. <<NOTE: Deadline. Reports.>>  DEPARTMENT OF DEFENSE 
+                        WEATHER FORECASTING ACTIVITIES.
+
+    Not later than 60 days after the date of the enactment of this Act, 
+the Under Secretary shall submit to the Committee on Commerce, Science, 
+and Transportation of the Senate and the Committee on Science, Space, 
+and Technology of the House of Representatives a report analyzing the 
+impacts of the proposed Air Force divestiture in the United States 
+Weather Research and Forecasting Model, including--
+            (1) the impact on--
+                    (A) the United States weather forecasting 
+                capabilities;
+                    (B) the accuracy of civilian regional forecasts;
+                    (C) the civilian readiness for traditional weather 
+                and extreme weather events in the United States; and
+                    (D) the research necessary to develop the United 
+                States Weather Research and Forecasting Model; and
+            (2) such other analysis relating to the divestiture as the 
+        Under Secretary considers appropriate.
+SEC. 409. <<NOTE: Contracts. Analysis.>>  NATIONAL WEATHER 
+                        SERVICE; OPERATIONS AND WORKFORCE 
+                        ANALYSIS.
+
+    The Under Secretary shall contract or continue to partner with an 
+external organization to conduct a baseline analysis of National Weather 
+Service operations and workforce.
+SEC. 410. <<NOTE: 15 USC 8547.>>  REPORT ON CONTRACT POSITIONS AT 
+                        NATIONAL WEATHER SERVICE.
+
+    (a) Report Required.--Not later than 180 days after the date of the 
+enactment of this Act, the Under Secretary shall submit to Congress a 
+report on the use of contractors at the National Weather Service for the 
+most recently completed fiscal year.
+    (b) Contents.--The report required by subsection (a) shall include, 
+with respect to the most recently completed fiscal year, the following:
+            (1) The total number of full-time equivalent employees at 
+        the National Weather Service, disaggregated by each equivalent 
+        level of the General Schedule.
+            (2) The total number of full-time equivalent contractors at 
+        the National Weather Service, disaggregated by each equivalent 
+        level of the General Schedule that most closely approximates 
+        their duties.
+            (3) The total number of vacant positions at the National 
+        Weather Service on the day before the date of enactment of this 
+        Act, disaggregated by each equivalent level of the General 
+        Schedule.
+            (4) The five most common positions filled by full-time 
+        equivalent contractors at the National Weather Service and the 
+        equivalent level of the General Schedule that most closely 
+        approximates the duties of such positions.
+            (5) Of the positions identified under paragraph (4), the 
+        percentage of full-time equivalent contractors in those 
+        positions that have held a prior position at the National 
+        Weather Service or another entity in National Oceanic and 
+        Atmospheric Administration.
+            (6) The average full-time equivalent salary for Federal 
+        employees at the National Weather Service for each equivalent 
+        level of the General Schedule.
+
+[[Page 131 STAT. 113]]
+
+            (7) The average salary for full-time equivalent contractors 
+        performing at each equivalent level of the General Schedule at 
+        the National Weather Service.
+            (8) A description of any actions taken by the Under 
+        Secretary to respond to the issues raised by the Inspector 
+        General of the Department of Commerce regarding the hiring of 
+        former National Oceanic and Atmospheric Administration employees 
+        as contractors at the National Weather Service such as the 
+        issues raised in the Investigative Report dated June 2, 2015 
+        (OIG-12-0447).
+
+    (c) <<NOTE: Deadline. Web posting.>>  Annual Publication.--For each 
+fiscal year after the fiscal year covered by the report required by 
+subsection (a), the Under Secretary shall, not later than 180 days after 
+the completion of the fiscal year, publish on a publicly accessible 
+Internet website the information described in paragraphs (1) through (8) 
+of subsection (b) for such fiscal year.
+SEC. 411. WEATHER IMPACTS TO COMMUNITIES AND INFRASTRUCTURE.
+
+    (a) Review.--
+            (1) In general.--The Director of the National Weather 
+        Service shall review existing research, products, and services 
+        that meet the specific needs of the urban environment, given its 
+        unique physical characteristics and forecasting challenges.
+            (2) Elements.--The review required by paragraph (1) shall 
+        include research, products, and services with the potential to 
+        improve modeling and forecasting capabilities, taking into 
+        account factors including varying building heights, impermeable 
+        surfaces, lack of tree canopy, traffic, pollution, and inter-
+        building wind effects.
+
+    (b) Report and Assessment.--Upon completion of the review required 
+by subsection (a), the Under Secretary shall submit to Congress a report 
+on the research, products, and services of the National Weather Service, 
+including an assessment of such research, products, and services that is 
+based on the review, public comment, and recent publications by the 
+National Academy of Sciences.
+SEC. 412. <<NOTE: 15 USC 8548.>>  WEATHER ENTERPRISE OUTREACH.
+
+    (a) In General.--The Under Secretary may establish mechanisms for 
+outreach to the weather enterprise--
+            (1) <<NOTE: Assessment.>>  to assess the weather forecasts 
+        and forecast products provided by the National Oceanic and 
+        Atmospheric Administration; and
+            (2) <<NOTE: Determination.>>  to determine the highest 
+        priority weather forecast needs of the community described in 
+        subsection (b).
+
+    (b) <<NOTE: Contracts.>>  Outreach Community.--In conducting 
+outreach under subsection (a), the Under Secretary shall contact leading 
+experts and innovators from relevant stakeholders, including the 
+representatives from the following:
+            (1) State or local emergency management agencies.
+            (2) State agriculture agencies.
+            (3) Indian tribes (as defined in section 4 of the Indian 
+        Self-Determination and Education Assistance Act (25 U.S.C. 
+        5304)) and Native Hawaiians (as defined in section 6207 of the 
+        Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+        7517)).
+            (4) The private aerospace industry.
+
+[[Page 131 STAT. 114]]
+
+            (5) The private earth observing industry.
+            (6) The operational forecasting community.
+            (7) The academic community.
+            (8) Professional societies that focus on meteorology.
+            (9) Such other stakeholder groups as the Under Secretary 
+        considers appropriate.
+SEC. 413. <<NOTE: 15 USC 8549.>>  HURRICANE HUNTER AIRCRAFT.
+
+    (a) Backup Capability.--The Under Secretary shall acquire backup for 
+the capabilities of the WP-3D Orion and G-IV hurricane aircraft of the 
+National Oceanic and Atmospheric Administration that is sufficient to 
+prevent a single point of failure.
+    (b) Authority to Enter Agreements.--In order to carry out subsection 
+(a), the Under Secretary shall negotiate and enter into 1 or more 
+agreements or contracts, to the extent practicable and necessary, with 
+governmental and non-governmental entities.
+    (c) Future Technology.--The Under Secretary shall continue the 
+development of Airborne Phased Array Radar under the United States 
+Weather Research Program.
+    (d) Authorization of Appropriations.--For each of fiscal years 2017 
+through 2020, support for implementing subsections (a) and (b) is 
+authorized out of funds appropriated to the Office of Marine and 
+Aviation Operations.
+SEC. 414. STUDY ON GAPS IN NEXRAD COVERAGE AND RECOMMENDATIONS TO 
+                        ADDRESS SUCH GAPS.
+
+    (a) Study on Gaps in NEXRAD Coverage.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 180 
+        days after the date of the enactment of this Act, the Secretary 
+        of Commerce shall complete a study on gaps in the coverage of 
+        the Next Generation Weather Radar of the National Weather 
+        Service (``NEXRAD'').
+            (2) Elements.--In conducting the study required under 
+        paragraph (1), the Secretary shall--
+                    (A) identify areas in the United States where 
+                limited or no NEXRAD coverage has resulted in--
+                          (i) instances in which no or insufficient 
+                      warnings were given for hazardous weather events, 
+                      including tornadoes; or
+                          (ii) degraded forecasts for hazardous weather 
+                      events that resulted in fatalities, significant 
+                      injuries, or substantial property damage; and
+                    (B) for the areas identified under subparagraph 
+                (A)--
+                          (i) identify the key weather effects for which 
+                      prediction would improve with improved radar 
+                      detection;
+                          (ii) identify additional sources of 
+                      observations for high impact weather that were 
+                      available and operational for such areas on the 
+                      day before the date of the enactment of this Act, 
+                      including dense networks of x-band radars, 
+                      Terminal Doppler Weather Radar (commonly known as 
+                      ``TDWR''), air surveillance radars of the Federal 
+                      Aviation Administration, and cooperative network 
+                      observers;
+                          (iii) <<NOTE: Assessment.>>  assess the 
+                      feasibility and advisability of efforts to 
+                      integrate and upgrade Federal radar capabilities 
+                      that are not owned or controlled by the National 
+                      Oceanic and Atmospheric Administration, including 
+                      radar capabilities of the Federal Aviation 
+                      Administration and the Department of Defense;
+
+[[Page 131 STAT. 115]]
+
+                          (iv) assess the feasibility and advisability 
+                      of incorporating State-operated and other non-
+                      Federal radars into the operations of the National 
+                      Weather Service;
+                          (v) identify options to improve hazardous 
+                      weather detection and forecasting coverage; and
+                          (vi) provide the estimated cost of, and 
+                      timeline for, each of the options identified under 
+                      clause (v).
+            (3) Report.--Upon the completion of the study required under 
+        paragraph (1), the Secretary shall submit to the Committee on 
+        Commerce, Science, and Transportation of the Senate and the 
+        Committee on Science, Space, and Technology of the House of 
+        Representatives a report that includes the findings of the 
+        Secretary with respect to the study.
+
+    (b) <<NOTE: Deadline.>>  Recommendations to Improve Radar 
+Coverage.--Not later than 90 days after the completion of the study 
+under subsection (a)(1), the Secretary of Commerce shall submit to the 
+congressional committees referred to in subsection (a)(3) 
+recommendations for improving hazardous weather detection and 
+forecasting coverage in the areas identified under subsection (a)(2)(A) 
+by integrating additional observation solutions to the extent 
+practicable and meteorologically justified and necessary to protect 
+public safety.
+
+    (c) Third-party Consultation Regarding Recommendations to Improve 
+Radar Coverage.--The Secretary of Commerce may seek reviews by, or 
+consult with, appropriate third parties regarding the scientific 
+methodology relating to, and the feasibility and advisability of 
+implementing, the recommendations submitted under subsection (b), 
+including the extent to which warning and forecast services of the 
+National Weather Service would be improved by additional observations.
+
+ TITLE <<NOTE: Tsunami Warning, Education, and Research Act of 2017.>>  
+V--TSUNAMI WARNING, EDUCATION, AND RESEARCH ACT OF 2017
+SEC. 501. <<NOTE: 33 USC 3201 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Tsunami Warning, Education, and 
+Research Act of 2017''.
+SEC. 502. REFERENCES TO THE TSUNAMI WARNING AND EDUCATION ACT.
+
+    Except as otherwise expressly provided, whenever in this title an 
+amendment or repeal is expressed in terms of an amendment to, or repeal 
+of, a section or other provision, the reference shall be considered to 
+be made to a section or other provision of the Tsunami Warning and 
+Education Act enacted as title VIII of the Magnuson-Stevens Fishery 
+Conservation and Management Reauthorization Act of 2006 (Public Law 109-
+479; 33 U.S.C. 3201 et seq.).
+SEC. 503. EXPANSION OF PURPOSES OF TSUNAMI WARNING AND EDUCATION 
+                        ACT.
+
+    Section 803 (33 U.S.C. 3202) is amended--
+            (1) in paragraph (1), by inserting ``research,'' after 
+        ``warnings,'';
+            (2) by amending paragraph (2) to read as follows:
+
+[[Page 131 STAT. 116]]
+
+            ``(2) to enhance and modernize the existing United States 
+        Tsunami Warning System to increase the accuracy of forecasts and 
+        warnings, to ensure full coverage of tsunami threats to the 
+        United States with a network of detection assets, and to reduce 
+        false alarms;'';
+            (3) by amending paragraph (3) to read as follows:
+            ``(3) to improve and develop standards and guidelines for 
+        mapping, modeling, and assessment efforts to improve tsunami 
+        detection, forecasting, warnings, notification, mitigation, 
+        resiliency, response, outreach, and recovery;'';
+            (4) by redesignating paragraphs (4), (5), and (6) as 
+        paragraphs (5), (6), and (8), respectively;
+            (5) by inserting after paragraph (3) the following:
+            ``(4) to improve research efforts related to improving 
+        tsunami detection, forecasting, warnings, notification, 
+        mitigation, resiliency, response, outreach, and recovery;'';
+            (6) in paragraph (5), as redesignated--
+                    (A) by striking ``and increase'' and inserting ``, 
+                increase, and develop uniform standards and guidelines 
+                for''; and
+                    (B) by inserting ``, including the warning signs of 
+                locally generated tsunami'' after ``approaching'';
+            (7) in paragraph (6), as redesignated, by striking ``, 
+        including the Indian Ocean; and'' and inserting a semicolon; and
+            (8) by inserting after paragraph (6), as redesignated, the 
+        following:
+            ``(7) to foster resilient communities in the face of tsunami 
+        and other similar coastal hazards; and''.
+SEC. 504. MODIFICATION OF TSUNAMI FORECASTING AND WARNING PROGRAM.
+
+    (a) In General.--Subsection (a) of section 804 (33 U.S.C. 3203(a)) 
+is amended by striking ``Atlantic Ocean, Caribbean Sea, and Gulf of 
+Mexico region'' and inserting ``Atlantic Ocean region, including the 
+Caribbean Sea and the Gulf of Mexico''.
+    (b) Components.--Subsection (b) of section 804 (33 U.S.C. 3203(b)) 
+is amended--
+            (1) in paragraph (1), by striking ``established'' and 
+        inserting ``supported or maintained'';
+            (2) by redesignating paragraphs (7) through (9) as 
+        paragraphs (8) through (10), respectively;
+            (3) by redesignating paragraphs (2) through (6) as 
+        paragraphs (3) through (7), respectively;
+            (4) by inserting after paragraph (1) the following:
+            ``(2) to the degree practicable, maintain not less than 80 
+        percent of the Deep-ocean Assessment and Reporting of Tsunamis 
+        buoy array at operational capacity to optimize data 
+        reliability;''.
+            (5) by amending paragraph (5), as redesignated by paragraph 
+        (3), to read as follows:
+            ``(5) provide tsunami forecasting capability based on models 
+        and measurements, including tsunami inundation models and maps 
+        for use in increasing the preparedness of communities and 
+        safeguarding port and harbor operations, that incorporate 
+        inputs, including--
+                    ``(A) the United States and global ocean and coastal 
+                observing system;
+
+[[Page 131 STAT. 117]]
+
+                    ``(B) the global Earth observing system;
+                    ``(C) the global seismic network;
+                    ``(D) the Advanced National Seismic system;
+                    ``(E) tsunami model validation using historical and 
+                paleotsunami data;
+                    ``(F) digital elevation models and bathymetry; and
+                    ``(G) newly developing tsunami detection 
+                methodologies using satellites and airborne remote 
+                sensing;'';
+            (6) by amending paragraph (7), as redesignated by paragraph 
+        (3), to read as follows:
+            ``(7) include a cooperative effort among the Administration, 
+        the United States Geological Survey, and the National Science 
+        Foundation under which the Director of the United States 
+        Geological Survey and the Director of the National Science 
+        Foundation shall--
+                    ``(A) provide rapid and reliable seismic information 
+                to the Administrator from international and domestic 
+                seismic networks; and
+                    ``(B) support seismic stations installed before the 
+                date of the enactment of the Tsunami Warning, Education, 
+                and Research Act of 2017 to supplement coverage in areas 
+                of sparse instrumentation;'';
+            (7) in paragraph (8), as redesignated by paragraph (2)--
+                    (A) by inserting ``, including graphical warning 
+                products,'' after ``warnings'';
+                    (B) by inserting ``, territories,'' after 
+                ``States''; and
+                    (C) by inserting ``and Wireless Emergency Alerts'' 
+                after ``Hazards Program''; and
+            (8) in paragraph (9), as redesignated by paragraph (2)--
+                    (A) by inserting ``provide and'' before ``allow''; 
+                and
+                    (B) by inserting ``and commercial and Federal 
+                undersea communications cables'' after ``observing 
+                technologies''.
+
+    (c) Tsunami Warning System.--Subsection (c) of section 804 (33 
+U.S.C. 3203(c)) is amended to read as follows:
+    ``(c) Tsunami Warning System.--The program under this section shall 
+operate a tsunami warning system that--
+            ``(1) is capable of forecasting tsunami, including 
+        forecasting tsunami arrival time and inundation estimates, 
+        anywhere in the Pacific and Arctic Ocean regions and providing 
+        adequate warnings;
+            ``(2) is capable of forecasting and providing adequate 
+        warnings, including tsunami arrival time and inundation models 
+        where applicable, in areas of the Atlantic Ocean, including the 
+        Caribbean Sea and Gulf of Mexico, that are determined--
+                    ``(A) to be geologically active, or to have 
+                significant potential for geological activity; and
+                    ``(B) to pose significant risks of tsunami for 
+                States along the coastal areas of the Atlantic Ocean, 
+                Caribbean Sea, or Gulf of Mexico; and
+            ``(3) supports other international tsunami forecasting and 
+        warning efforts.''.
+
+    (d) Tsunami Warning Centers.--Subsection (d) of section 804 (33 
+U.S.C. 3203(d)) is amended to read as follows:
+    ``(d) Tsunami Warning Centers.--
+
+[[Page 131 STAT. 118]]
+
+            ``(1) In general.--The Administrator shall support or 
+        maintain centers to support the tsunami warning system required 
+        by subsection (c). The Centers shall include--
+                    ``(A) the National Tsunami Warning Center, located 
+                in Alaska, which is primarily responsible for Alaska and 
+                the continental United States;
+                    ``(B) the Pacific Tsunami Warning Center, located in 
+                Hawaii, which is primarily responsible for Hawaii, the 
+                Caribbean, and other areas of the Pacific not covered by 
+                the National Center; and
+                    ``(C) any additional forecast and warning centers 
+                determined by the National Weather Service to be 
+                necessary.
+            ``(2) Responsibilities.--The responsibilities of the centers 
+        supported or maintained under paragraph (1) shall include the 
+        following:
+                    ``(A) Continuously monitoring data from 
+                seismological, deep ocean, coastal sea level, and tidal 
+                monitoring stations and other data sources as may be 
+                developed and deployed.
+                    ``(B) <<NOTE: Evaluation.>>  Evaluating earthquakes, 
+                landslides, and volcanic eruptions that have the 
+                potential to generate tsunami.
+                    ``(C) <<NOTE: Evaluation.>>  Evaluating deep ocean 
+                buoy data and tidal monitoring stations for indications 
+                of tsunami resulting from earthquakes and other sources.
+                    ``(D) To the extent practicable, utilizing a range 
+                of models, including ensemble models, to predict 
+                tsunami, including arrival times, flooding estimates, 
+                coastal and harbor currents, and duration.
+                    ``(E) Using data from the Integrated Ocean Observing 
+                System of the Administration in coordination with 
+                regional associations to calculate new inundation 
+                estimates and periodically update existing inundation 
+                estimates.
+                    ``(F) Disseminating forecasts and tsunami warning 
+                bulletins to Federal, State, tribal, and local 
+                government officials and the public.
+                    ``(G) <<NOTE: Coordination.>>  Coordinating with the 
+                tsunami hazard mitigation program conducted under 
+                section 805 to ensure ongoing sharing of information 
+                between forecasters and emergency management officials.
+                    ``(H) <<NOTE: Coordination.>>  In coordination with 
+                the Commandant of the Coast Guard and the Administrator 
+                of the Federal Emergency Management Agency, evaluating 
+                and recommending procedures for ports and harbors at 
+                risk of tsunami inundation, including review of 
+                readiness, response, and communication strategies, and 
+                data sharing policies, to the maximum extent 
+                practicable.
+                    ``(I) Making data gathered under this Act and post-
+                warning analyses conducted by the National Weather 
+                Service or other relevant Administration offices 
+                available to the public.
+                    ``(J) Integrating and modernizing the program 
+                operated under this section with advances in tsunami 
+                science to improve performance without compromising 
+                service.
+            ``(3) Fail-safe warning capability.--The tsunami warning 
+        centers supported or maintained under paragraph (1) shall 
+        maintain a fail-safe warning capability and perform back-up 
+        duties for each other.
+
+[[Page 131 STAT. 119]]
+
+            ``(4) Coordination with national weather service.--The 
+        Administrator shall coordinate with the forecast offices of the 
+        National Weather Service, the centers supported or maintained 
+        under paragraph (1), and such program offices of the 
+        Administration as the Administrator or the coordinating 
+        committee, as established in section 805(d), consider 
+        appropriate to ensure that regional and local forecast offices--
+                    ``(A) have the technical knowledge and capability to 
+                disseminate tsunami warnings for the communities they 
+                serve;
+                    ``(B) leverage connections with local emergency 
+                management officials for optimally disseminating tsunami 
+                warnings and forecasts; and
+                    ``(C) implement mass communication tools in effect 
+                on the day before the date of the enactment of the 
+                Tsunami Warning, Education, and Research Act of 2017 
+                used by the National Weather Service on such date and 
+                newer mass communication technologies as they are 
+                developed as a part of the Weather-Ready Nation program 
+                of the Administration, or otherwise, for the purpose of 
+                timely and effective delivery of tsunami warnings.
+            ``(5) Uniform operating procedures.--The Administrator 
+        shall--
+                    ``(A) develop uniform operational procedures for the 
+                centers supported or maintained under paragraph (1), 
+                including the use of software applications, checklists, 
+                decision support tools, and tsunami warning products 
+                that have been standardized across the program supported 
+                under this section;
+                    ``(B) ensure that processes and products of the 
+                warning system operated under subsection (c)--
+                          ``(i) reflect industry best practices when 
+                      practicable;
+                          ``(ii) conform to the maximum extent 
+                      practicable with internationally recognized 
+                      standards for information technology; and
+                          ``(iii) conform to the maximum extent 
+                      practicable with other warning products and 
+                      practices of the National Weather Service;
+                    ``(C) ensure that future adjustments to operational 
+                protocols, processes, and warning products--
+                          ``(i) are made consistently across the warning 
+                      system operated under subsection (c); and
+                          ``(ii) are applied in a uniform manner across 
+                      such warning system;
+                    ``(D) establish a systematic method for information 
+                technology product development to improve long-term 
+                technology planning efforts; and
+                    ``(E) disseminate guidelines and metrics for 
+                evaluating and improving tsunami forecast models.
+            ``(6) Available resources.--The Administrator, through the 
+        National Weather Service, shall ensure that resources are 
+        available to fulfill the obligations of this Act. This includes 
+        ensuring supercomputing resources are available to run, as 
+        rapidly as possible, such computer models as are needed for 
+        purposes of the tsunami warning system operated under subsection 
+        (c).''.
+
+[[Page 131 STAT. 120]]
+
+    (e) Transfer of Technology; Maintenance and Upgrades.--Subsection 
+(e) of section 804 (33 U.S.C. 3203(e)) is amended to read as follows:
+    ``(e) Transfer of Technology; Maintenance and Upgrades.--In carrying 
+out this section, the Administrator shall--
+            ``(1) <<NOTE: Requirements.>>  develop requirements for the 
+        equipment used to forecast tsunami, including--
+                    ``(A) provisions for multipurpose detection 
+                platforms;
+                    ``(B) reliability and performance metrics; and
+                    ``(C) to the maximum extent practicable, 
+                requirements for the integration of equipment with other 
+                United States and global ocean and coastal observation 
+                systems, the global Earth observing system of systems, 
+                the global seismic networks, and the Advanced National 
+                Seismic System;
+            ``(2) <<NOTE: Plan.>>  develop and execute a plan for the 
+        transfer of technology from ongoing research conducted as part 
+        of the program supported or maintained under section 6 into the 
+        program under this section; and
+            ``(3) ensure that the Administration's operational tsunami 
+        detection equipment is properly maintained.''.
+
+    (f) Federal Cooperation.--Subsection (f) of section 804 (33 U.S.C. 
+3203(f)) is amended to read as follows:
+    ``(f) Federal Cooperation.--When deploying and maintaining tsunami 
+detection technologies under the program under this section, the 
+Administrator shall--
+            ``(1) identify which assets of other Federal agencies are 
+        necessary to support such program; and
+            ``(2) work with each agency identified under paragraph (1)--
+                    ``(A) to acquire the agency's assistance; and
+                    ``(B) to prioritize the necessary assets in support 
+                of the tsunami forecast and warning program.''.
+
+    (g) Unnecessary Provisions.--Section 804 (33 U.S.C. 3203) is further 
+amended--
+            (1) by striking subsection (g);
+            (2) by striking subsections (i) through (k); and
+            (3) by redesignating subsection (h) as subsection (g).
+
+    (h) Congressional Notifications.--Subsection (g) of section 804 (33 
+U.S.C. 3203(g)), as redesignated by subsection (g)(3), is amended--
+            (1) by redesignating paragraphs (1) and (2) as subparagraphs 
+        (A) and (B), respectively, and moving such subparagraphs 2 ems 
+        to the right;
+            (2) in the matter before subparagraph (A), as redesignated 
+        by paragraph (2), by striking ``The Administrator'' and 
+        inserting the following:
+            ``(1) In general.--The Administrator'';
+            (3) in paragraph (1), as redesignated by paragraph (3)--
+                    (A) in subparagraph (A), as redesignated by 
+                paragraph (2), by striking ``and'' at the end;
+                    (B) in subparagraph (B), as redesignated by 
+                paragraph (2), by striking the period at the end and 
+                inserting ``; and''; and
+                    (C) by adding at the end the following:
+                    ``(C) the occurrence of a significant tsunami 
+                warning.''; and
+
+[[Page 131 STAT. 121]]
+
+            (4) by adding at the end the following:
+            ``(2) <<NOTE: Deadline.>>  Contents.--In a case in which 
+        notice is submitted under paragraph (1) within 30 days of a 
+        significant tsunami warning described in subparagraph (C) of 
+        such paragraph, such notice shall include, as appropriate, brief 
+        information and analysis of--
+                    ``(A) the accuracy of the tsunami model used;
+                    ``(B) the specific deep ocean or other monitoring 
+                equipment that detected the incident, as well as the 
+                deep ocean or other monitoring equipment that did not 
+                detect the incident due to malfunction or other reasons;
+                    ``(C) the effectiveness of the warning 
+                communication, including the dissemination of warnings 
+                with State, territory, local, and tribal partners in the 
+                affected area under the jurisdiction of the National 
+                Weather Service; and
+                    ``(D) such other findings as the Administrator 
+                considers appropriate.''.
+SEC. 505. MODIFICATION OF NATIONAL TSUNAMI HAZARD MITIGATION 
+                        PROGRAM.
+
+    (a) In General.--Section 805(a) (33 U.S.C. 3204(a)) is amended to 
+read as follows:
+    ``(a) <<NOTE: Coordination.>>  Program Required.--The Administrator, 
+in coordination with the Administrator of the Federal Emergency 
+Management Agency and the heads of such other agencies as the 
+Administrator considers relevant, shall conduct a community-based 
+tsunami hazard mitigation program to improve tsunami preparedness and 
+resiliency of at-risk areas in the United States and the territories of 
+the United States.''.
+
+    (b) National Tsunami Hazard Mitigation Program.--Section 805 (33 
+U.S.C. 3204) is amended by striking subsections (c) and (d) and 
+inserting the following:
+    ``(c) Program Components.--The Program conducted under subsection 
+(a) shall include the following:
+            ``(1) Technical and financial assistance to coastal States, 
+        territories, tribes, and local governments to develop and 
+        implement activities under this section.
+            ``(2) Integration of tsunami preparedness and mitigation 
+        programs into ongoing State-based hazard warning, resilience 
+        planning, and risk management activities, including predisaster 
+        planning, emergency response, evacuation planning, disaster 
+        recovery, hazard mitigation, and community development and 
+        redevelopment planning programs in affected areas.
+            ``(3) <<NOTE: Coordination.>>  Coordination with other 
+        Federal preparedness and mitigation programs to leverage Federal 
+        investment, avoid duplication, and maximize effort.
+            ``(4) Activities to promote the adoption of tsunami 
+        resilience, preparedness, warning, and mitigation measures by 
+        Federal, State, territorial, tribal, and local governments and 
+        nongovernmental entities, including educational and risk 
+        communication programs to discourage development in high-risk 
+        areas.
+            ``(5) Activities to support the development of regional 
+        tsunami hazard and risk assessments. Such regional risk 
+        assessments may include the following:
+                    ``(A) The sources, sizes, and other relevant 
+                historical data of tsunami in the region, including 
+                paleotsunami data.
+
+[[Page 131 STAT. 122]]
+
+                    ``(B) Inundation models and maps of critical 
+                infrastructure and socioeconomic vulnerability in areas 
+                subject to tsunami inundation.
+                    ``(C) Maps of evacuation areas and evacuation 
+                routes, including, when appropriate, traffic studies 
+                that evaluate the viability of evacuation routes.
+                    ``(D) Evaluations of the size of populations that 
+                will require evacuation, including populations with 
+                special evacuation needs.
+                    ``(E) Evaluations and technical assistance for 
+                vertical evacuation structure planning for communities 
+                where models indicate limited or no ability for timely 
+                evacuation, especially in areas at risk of near shore 
+                generated tsunami.
+                    ``(F) Evaluation of at-risk ports and harbors.
+                    ``(G) Evaluation of the effect of tsunami currents 
+                on the foundations of closely-spaced, coastal high-rise 
+                structures.
+            ``(6) Activities to promote preparedness in at-risk ports 
+        and harbors, including the following:
+                    ``(A) <<NOTE: Evaluation. Recommenda- 
+                tion. Procedures.>>  Evaluation and recommendation of 
+                procedures for ports and harbors in the event of a 
+                distant or near-field tsunami.
+                    ``(B) <<NOTE: Review.>>  A review of readiness, 
+                response, and communication strategies to ensure 
+                coordination and data sharing with the Coast Guard.
+            ``(7) Activities to support the development of community-
+        based outreach and education programs to ensure community 
+        readiness and resilience, including the following:
+                    ``(A) The development, implementation, and 
+                assessment of technical training and public education 
+                programs, including education programs that address 
+                unique characteristics of distant and near-field 
+                tsunami.
+                    ``(B) The development of decision support tools.
+                    ``(C) The incorporation of social science research 
+                into community readiness and resilience efforts.
+                    ``(D) The development of evidence-based education 
+                guidelines.
+            ``(8) Dissemination of guidelines and standards for 
+        community planning, education, and training products, programs, 
+        and tools, including--
+                    ``(A) standards for--
+                          ``(i) mapping products;
+                          ``(ii) inundation models; and
+                          ``(iii) effective emergency exercises; and
+                    ``(B) recommended guidance for at-risk port and 
+                harbor tsunami warning, evacuation, and response 
+                procedures in coordination with the Coast Guard and the 
+                Federal Emergency Management Agency.
+
+    ``(d) Authorized Activities.--In addition to activities conducted 
+under subsection (c), the program conducted under subsection (a) may 
+include the following:
+            ``(1) Multidisciplinary vulnerability assessment research, 
+        education, and training to help integrate risk management and 
+        resilience objectives with community development planning and 
+        policies.
+
+[[Page 131 STAT. 123]]
+
+            ``(2) Risk management training for local officials and 
+        community organizations to enhance understanding and 
+        preparedness.
+            ``(3) <<NOTE: Coordination.>>  In coordination with the 
+        Federal Emergency Management Agency, interagency, Federal, 
+        State, tribal, and territorial intergovernmental tsunami 
+        response exercise planning and implementation in high risk 
+        areas.
+            ``(4) Development of practical applications for existing or 
+        emerging technologies, such as modeling, remote sensing, 
+        geospatial technology, engineering, and observing systems, 
+        including the integration of tsunami sensors into Federal and 
+        commercial submarine telecommunication cables if practicable.
+            ``(5) Risk management, risk assessment, and resilience data 
+        and information services, including--
+                    ``(A) access to data and products derived from 
+                observing and detection systems; and
+                    ``(B) development and maintenance of new integrated 
+                data products to support risk management, risk 
+                assessment, and resilience programs.
+            ``(6) Risk notification systems that coordinate with and 
+        build upon existing systems and actively engage decisionmakers, 
+        State, local, tribal, and territorial governments and agencies, 
+        business communities, nongovernmental organizations, and the 
+        media.
+
+    ``(e) No Preemption With Respect to Designation of At-risk Areas.--
+The establishment of national standards for inundation models under this 
+section shall not prevent States, territories, tribes, and local 
+governments from designating additional areas as being at risk based on 
+knowledge of local conditions.
+    ``(f) No New Regulatory Authority.--Nothing in this Act may be 
+construed as establishing new regulatory authority for any Federal 
+agency.''.
+    (c) Report on Accreditation of TsunamiReady Program.--Not later than 
+180 days after the date of enactment of this Act, the Administrator of 
+the National Oceanic and Atmospheric Administration shall submit to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Science, Space, and Technology of the House of 
+Representatives a report on which authorities and activities would be 
+needed to have the TsunamiReady program of the National Weather Service 
+accredited by the Emergency Management Accreditation Program.
+SEC. 506. MODIFICATION OF TSUNAMI RESEARCH PROGRAM.
+
+    Section 806 (33 U.S.C. 3205) is amended--
+            (1) in the matter before paragraph (1), by striking ``The 
+        Administrator shall'' and all that follows through ``establish 
+        or maintain'' and inserting the following:
+
+    ``(a) <<NOTE: Consultation.>>  In General.--The Administrator shall, 
+in consultation with such other Federal agencies, State, tribal, and 
+territorial governments, and academic institutions as the Administrator 
+considers appropriate, the coordinating committee under section 805(d), 
+and the panel under section 808(a), support or maintain'';
+            (2) in subsection (a), as designated by paragraph (1), by 
+        striking ``and assessment for tsunami tracking and numerical 
+        forecast modeling. Such research program shall--'' and inserting 
+        the following: ``assessment for tsunami tracking and numerical 
+        forecast modeling, and standards development.
+
+[[Page 131 STAT. 124]]
+
+    ``(b) Responsibilities.--The research program supported or 
+maintained under subsection (a) shall--''; and
+            (3) in subsection (b), as designated by paragraph (2)--
+                    (A) by amending paragraph (1) to read as follows:
+            ``(1) consider other appropriate and cost effective 
+        solutions to mitigate the impact of tsunami, including the 
+        improvement of near-field and distant tsunami detection and 
+        forecasting capabilities, which may include use of a new 
+        generation of the Deep-ocean Assessment and Reporting of 
+        Tsunamis array, integration of tsunami sensors into commercial 
+        and Federal telecommunications cables, and other real-time 
+        tsunami monitoring systems and supercomputer capacity of the 
+        Administration to develop a rapid tsunami forecast for all 
+        United States coastlines;'';
+                    (B) in paragraph (3)--
+                          (i) by striking ``include'' and inserting 
+                      ``conduct''; and
+                          (ii) by striking ``and'' at the end;
+                    (C) by redesignating paragraph (4) as paragraph (5);
+                    (D) by inserting after paragraph (3) the following:
+            ``(4) develop the technical basis for validation of tsunami 
+        maps, numerical tsunami models, digital elevation models, and 
+        forecasts; and''; and
+                    (E) in paragraph (5), as redesignated by 
+                subparagraph (C), by striking ``to the scientific 
+                community'' and inserting ``to the public and the 
+                scientific community''.
+SEC. 507. GLOBAL TSUNAMI WARNING AND MITIGATION NETWORK.
+
+    Section 807 (33 U.S.C. 3206) is amended--
+            (1) by amending subsection (a) to read as follows:
+
+    ``(a) Support for Development of an International Tsunami Warning 
+System.--The Administrator <<NOTE: Coordination.>>  shall, in 
+coordination with the Secretary of State and in consultation with such 
+other agencies as the Administrator considers relevant, provide 
+technical assistance, operational support, and training to the 
+Intergovernmental Oceanographic Commission of the United Nations 
+Educational, Scientific, and Cultural Organization, the World 
+Meteorological Organization of the United Nations, and such other 
+international entities as the Administrator considers appropriate, as 
+part of the international efforts to develop a fully functional global 
+tsunami forecast and warning system comprised of regional tsunami 
+warning networks.'';
+            (2) in subsection (b), by striking ``shall'' each place it 
+        appears and inserting ``may''; and
+            (3) in subsection (c)--
+                    (A) in paragraph (1), by striking ``establishing'' 
+                and inserting ``supporting''; and
+                    (B) in paragraph (2)--
+                          (i) by striking ``establish'' and inserting 
+                      ``support''; and
+                          (ii) by striking ``establishing'' and 
+                      inserting ``supporting''.
+SEC. 508. TSUNAMI SCIENCE AND TECHNOLOGY ADVISORY PANEL.
+
+    (a) In General.--The Act is further amended--
+            (1) by redesignating section 808 (33 U.S.C. 3207) as section 
+        809; and
+
+[[Page 131 STAT. 125]]
+
+            (2) by inserting after section 807 (33 U.S.C. 3206) the 
+        following:
+``SEC. 808. <<NOTE: 33 USC 3206a.>>  TSUNAMI SCIENCE AND 
+                        TECHNOLOGY ADVISORY PANEL.
+
+    ``(a) Designation.--The Administrator shall designate an existing 
+working group within the Science Advisory Board of the Administration to 
+serve as the Tsunami Science and Technology Advisory Panel to provide 
+advice to the Administrator on matters regarding tsunami science, 
+technology, and regional preparedness.
+    ``(b) Membership.--
+            ``(1) Composition.--The Panel shall be composed of no fewer 
+        than 7 members selected by the Administrator from among 
+        individuals from academia or State agencies who have academic or 
+        practical expertise in physical sciences, social sciences, 
+        information technology, coastal resilience, emergency 
+        management, or such other disciplines as the Administrator 
+        considers appropriate.
+            ``(2) Federal employment.--No member of the Panel may be a 
+        Federal employee.
+
+    ``(c) Responsibilities.--Not less frequently than once every 4 
+years, the Panel shall--
+            ``(1) <<NOTE: Review.>>  review the activities of the 
+        Administration, and other Federal activities as appropriate, 
+        relating to tsunami research, detection, forecasting, warning, 
+        mitigation, resiliency, and preparation; and
+            ``(2) submit to the Administrator and such others as the 
+        Administrator considers appropriate--
+                    ``(A) the findings of the working group with respect 
+                to the most recent review conducted under paragraph (1); 
+                and
+                    ``(B) <<NOTE: Recommenda- tions.>>  such 
+                recommendations for legislative or administrative action 
+                as the working group considers appropriate to improve 
+                Federal tsunami research, detection, forecasting, 
+                warning, mitigation, resiliency, and preparation.
+
+    ``(d) <<NOTE: Recommenda- tions.>>  Reports to Congress.--Not less 
+frequently than once every 4 years, the Administrator shall submit to 
+the Committee on Commerce, Science, and Transportation of the Senate, 
+and the Committee on Science, Space, and Technology of the House of 
+Representatives a report on the findings and recommendations received by 
+the Administrator under subsection (c)(2).''.
+
+    (b) Table of Contents Amendment.--The table of contents in section 
+1(b) of the Magnuson-Stevens Fishery Conservation and Management 
+Reauthorization Act of 2006 (Public Law 109-479; 120 Stat. 3575) is 
+amended by striking the item relating to section 808 and inserting the 
+following:
+
+``Sec. 808. Tsunami Science and Technology Advisory Panel.
+``Sec. 809. Authorization of appropriations.''.
+
+SEC. 509. REPORTS.
+
+    (a) Report on Implementation of Tsunami Warning and Education Act.--
+            (1) In general.--Not later than 1 year after the date of the 
+        enactment of this Act, the Administrator of the National Oceanic 
+        and Atmospheric Administration shall submit to Congress a report 
+        on the implementation of the Tsunami Warning and Education Act 
+        enacted as title VIII of the Magnuson-
+
+[[Page 131 STAT. 126]]
+
+        Stevens Fishery Conservation and Management Reauthorization Act 
+        of 2006 (Public Law 109-479; 33 U.S.C. 3201 et seq.), as amended 
+        by this Act.
+            (2) Elements.--The report required by paragraph (1) shall 
+        include the following:
+                    (A) A detailed description of the progress made in 
+                implementing sections 804(d)(6), 805(b), and 806(b)(4) 
+                of the Tsunami Warning and Education Act the Magnuson-
+                Stevens Fishery Conservation and Management 
+                Reauthorization Act of 2006 (Public Law 109-479; 33 
+                U.S.C. 3201 et seq.).
+                    (B) A description of the ways that tsunami warnings 
+                and warning products issued by the Tsunami Forecasting 
+                and Warning Program established under section 804 of the 
+                Tsunami Warning and Education Act (33 U.S.C. 3203), as 
+                amended by this Act, may be standardized and streamlined 
+                with warnings and warning products for hurricanes, 
+                coastal storms, and other coastal flooding events.
+
+    (b) Report on National Efforts That Support Rapid Response Following 
+Near-shore Tsunami Events.--
+            (1) <<NOTE: Coordination.>>  In general.--Not later than 1 
+        year after the date of the enactment of this Act, the 
+        Administrator and the Secretary of Homeland Security shall 
+        jointly, in coordination with the Director of the United States 
+        Geological Survey, Administrator of the Federal Emergency 
+        Management Agency, the Chief of the National Guard Bureau, and 
+        the heads of such other Federal agencies as the Administrator 
+        considers appropriate, submit to the appropriate committees of 
+        Congress a report on the national efforts in effect on the day 
+        before the date of the enactment of this Act that support and 
+        facilitate rapid emergency response following a domestic near-
+        shore tsunami event to better understand domestic effects of 
+        earthquake derived tsunami on people, infrastructure, and 
+        communities in the United States.
+            (2) Elements.--The report required by paragraph (1) shall 
+        include the following:
+                    (A) A description of scientific or other 
+                measurements collected on the day before the date of the 
+                enactment of this Act to quickly identify and quantify 
+                lost or degraded infrastructure or terrestrial 
+                formations.
+                    (B) A description of scientific or other 
+                measurements that would be necessary to collect to 
+                quickly identify and quantify lost or degraded 
+                infrastructure or terrestrial formations.
+                    (C) <<NOTE: Evaluation.>>  Identification and 
+                evaluation of Federal, State, local, tribal, 
+                territorial, and military first responder and search and 
+                rescue operation centers, bases, and other facilities as 
+                well as other critical response assets and 
+                infrastructure, including search and rescue aircraft, 
+                located within near-shore and distant tsunami inundation 
+                areas on the day before the date of the enactment of 
+                this Act.
+                    (D) <<NOTE: Evaluation.>>  An evaluation of near-
+                shore tsunami response plans in areas described in 
+                subparagraph (C) in effect on the day before the date of 
+                the enactment of this Act, and how those response plans 
+                would be affected by the loss of search and rescue and 
+                first responder infrastructure described in such 
+                subparagraph.
+
+[[Page 131 STAT. 127]]
+
+                    (E) A description of redevelopment plans and reports 
+                in effect on the day before the date of the enactment of 
+                this Act for communities in areas that are at high-risk 
+                for near-shore tsunami, as well identification of States 
+                or communities that do not have redevelopment plans.
+                    (F) <<NOTE: Recommenda- tions.>>  Recommendations to 
+                enhance near-shore tsunami preparedness and response 
+                plans, including recommended responder exercises, 
+                predisaster planning, and mitigation needs.
+                    (G) <<NOTE: Analysis.>>  Such other data and 
+                analysis information as the Administrator and the 
+                Secretary of Homeland Security consider appropriate.
+            (3) <<NOTE: Definition.>>  Appropriate committees of 
+        congress.--In this subsection, the term ``appropriate committees 
+        of Congress'' means--
+                    (A) the Committee on Commerce, Science, and 
+                Transportation and the Committee on Homeland Security 
+                and Governmental Affairs of the Senate; and
+                    (B) the Committee on Science, Space, and Technology, 
+                the Committee on Homeland Security, and the Committee on 
+                Transportation and Infrastructure of the House of 
+                Representatives.
+SEC. 510. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 809 of the Act, as redesignated by section _08(a)(1) of this 
+Act, is amended--
+            (1) in paragraph (4)(B), by striking ``and'' at the end;
+            (2) in paragraph (5)(B), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(6) $25,800,000 for each of fiscal years 2016 through 
+        2021, of which--
+                    ``(A) not less than 27 percent of the amount 
+                appropriated for each fiscal year shall be for 
+                activities conducted at the State level under the 
+                tsunami hazard mitigation program under section 805; and
+                    ``(B) not less than 8 percent of the amount 
+                appropriated shall be for the tsunami research program 
+                under section 806.''.
+SEC. 511. <<NOTE: Coordination. 33 USC 3208.>>  OUTREACH 
+                        RESPONSIBILITIES.
+
+    The Administrator of the National Oceanic and Atmospheric 
+Administration, in coordination with State and local emergency managers, 
+shall develop and carry out formal outreach activities to improve 
+tsunami education and awareness and foster the development of resilient 
+communities. Outreach activities may include--
+            (1) the development of outreach plans to ensure the close 
+        integration of tsunami warning centers supported or maintained 
+        under section 804(d) of the Tsunami Warning and Education Act 
+        (33 U.S.C. 3203(d)), as amended by this Act, with local Weather 
+        Forecast Offices of the National Weather Service and emergency 
+        managers;
+            (2) working with appropriate local Weather Forecast Offices 
+        to ensure they have the technical knowledge and capability to 
+        disseminate tsunami warnings to the communities they serve; and
+            (3) <<NOTE: Evaluation.>>  evaluating the effectiveness of 
+        warnings and of coordination with local Weather Forecast Offices 
+        after significant tsunami events.
+
+[[Page 131 STAT. 128]]
+
+SEC. 512. REPEAL OF DUPLICATE PROVISIONS OF LAW.
+
+    (a) Repeal.--The Tsunami Warning and Education Act enacted by Public 
+Law 109-424 (120 Stat. 2902) <<NOTE: 33 USC 3201 and note, 3202-3207.>>  
+is repealed.
+
+    (b) <<NOTE: 33 USC 3201 note.>>  Construction.--Nothing in this 
+section may be construed to repeal, or affect in any way, the Tsunami 
+Warning and Education Act enacted as title VIII of the Magnuson-Stevens 
+Fishery Conservation and Management Reauthorization Act of 2006 (Public 
+Law 109-479; 33 U.S.C. 3201 et seq.).
+
+    Approved April 18, 2017.
+
+LEGISLATIVE HISTORY--H.R. 353:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 163 (2017):
+            Jan. 9, considered and passed House.
+            Mar. 29, considered and passed Senate, amended.
+            Apr. 4, House concurred in Senate amendment.
+
+                                  
+

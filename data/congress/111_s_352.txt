@@ -1,0 +1,146 @@
+
+[111th Congress Public Law 4]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ004.111]
+
+[[Page 111]]
+
+                              DTV DELAY ACT
+
+[[Page 123 STAT. 112]]
+
+Public Law 111-4
+111th Congress
+
+                                 An Act
+
+
+ 
+   To postpone the DTV transition date. <<NOTE: Feb. 11, 2009 -  [S. 
+                                 352]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: DTV Delay 
+Act.>> 
+
+SECTION 1. <<NOTE: 47 USC 609 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``DTV Delay Act''.
+
+SEC. 2. POSTPONEMENT OF DTV TRANSITION DATE.
+
+    (a) In General.--Section 3002(b) of the Digital Television 
+Transition and Public Safety Act of 2005 (47 U.S.C. 309 note) is 
+amended--
+            (1) by striking ``February 18, 2009;'' in paragraph (1) and 
+        inserting ``June 13, 2009;''; and
+            (2) by striking ``February 18, 2009,'' in paragraph (2) and 
+        inserting ``that date''.
+
+    (b) Conforming Amendments.--
+            (1) Section 3008(a)(1) of that Act (47 U.S.C. 309 note) is 
+        amended by striking ``February 17, 2009.'' and inserting ``June 
+        12, 2009.''.
+            (2) Section 309(j)(14)(A) of the Communications Act of 1934 
+        (47 U.S.C. 309(j)(14)(A)) is amended by striking ``February 17, 
+        2009.'' and inserting ``June 12, 2009.''.
+            (3) Section 337(e)(1) of the Communications Act of 1934 (47 
+        U.S.C. 337(e)(1)) is amended by striking ``February 17, 2009.'' 
+        and inserting ``June 12, 2009.''.
+
+    (c) License Terms.--
+            (1) Extension.--The Federal Communications Commission shall 
+        extend the terms of the licenses for the recovered spectrum, 
+        including the license period and construction requirements 
+        associated with those licenses, for a 116-day period.
+            (2) Definition.--In this subsection, the term ``recovered 
+        spectrum'' means--
+                    (A) the recovered analog spectrum, as such term is 
+                defined in section 309(j)(15)(C)(vi) of the 
+                Communications Act of 1934; and
+                    (B) the spectrum excluded from the definition of 
+                recovered analog spectrum by subclauses (I) and (II) of 
+                such section.
+
+SEC. 3. MODIFICATION OF DIGITAL-TO-ANALOG CONVERTER BOX PROGRAM.
+
+    (a) Extension of Coupon Program.--Section 3005(c)(1)(A) of the 
+Digital Television Transition and Public Safety Act of 2005
+
+[[Page 123 STAT. 113]]
+
+(47 U.S.C. 309 note) is amended by striking ``March 31, 2009,'' and 
+inserting ``July 31, 2009,''.
+    (b) Treatment of Expired Coupons.--Section 3005(c)(1) of the Digital 
+Television Transition and Public Safety Act of 2005 (47 U.S.C. 309 note) 
+is amended by adding at the end the following:
+                    ``(D) Expired coupons.--The Assistant Secretary may 
+                issue to a household, upon request by the household, one 
+                replacement coupon for each coupon that was issued to 
+                such household and that expired without being 
+                redeemed.''.
+
+    (c) Conforming Amendment.--Section 3005(c)(1)(A) of the Digital 
+Television Transition and Public Safety Act of 2005 (47 U.S.C. 309 note) 
+is amended by striking ``receives, via the United States Postal 
+Service,'' and inserting ``redeems''.
+    (d) <<NOTE: 47 USC 309 note.>> Condition of Modifications.--The 
+amendments made by this section shall not take effect until the 
+enactment of additional budget authority after the date of enactment of 
+this Act to carry out the analog-to-digital converter box program under 
+section 3005 of the Digital Television Transition and Public Safety Act 
+of 2005.
+
+SEC. 4. <<NOTE: 47 USC 309 note.>> IMPLEMENTATION.
+
+    (a) Permissive Early Termination Under Existing Requirements.--
+Nothing in this Act is intended to prevent a licensee of a television 
+broadcast station from terminating the broadcasting of such station's 
+analog television signal (and continuing to broadcast exclusively in the 
+digital television service) prior to the date established by law under 
+section 3002(b) of the Digital Television Transition and Public Safety 
+Act of 2005 for termination of all licenses for full-power television 
+stations in the analog television service (as amended by section 2 of 
+this Act) so long as such prior termination is conducted in accordance 
+with the Federal Communications Commission's requirements in effect on 
+the date of enactment of this Act, including the flexible procedures 
+established in the Matter of Third Periodic Review of the Commission's 
+Rules and Policies Affecting the Conversion to Digital Television (FCC 
+07-228, MB Docket No. 07-91, released December 31, 2007).
+    (b) Public Safety Radio Services.--Nothing in this Act, or the 
+amendments made by this Act, shall prevent a public safety service 
+licensee from commencing operations consistent with the terms of its 
+license on spectrum recovered as a result of the voluntary cessation of 
+broadcasting in the analog or digital television service pursuant to 
+subsection (a). Any such public safety use shall be subject to the 
+relevant Federal Communications Commission rules and regulations in 
+effect on the date of enactment of this Act, including section 90.545 of 
+the Commission's rules (47 C.F.R. Sec.  90.545).
+    (c) Expedited Rulemaking.-- <<NOTE: Deadline.>> Notwithstanding any 
+other provision of law, the Federal Communications Commission and the 
+National Telecommunications and Information Administration shall, not 
+later than 30 days after the date of enactment of this Act, each adopt 
+or revise its rules, regulations, or orders or take such other actions 
+as may be necessary or appropriate to implement the provisions, and 
+carry out the purposes, of this Act and the amendments made by this Act.
+
+[[Page 123 STAT. 114]]
+
+SEC. 5. EXTENSION OF COMMISSION AUCTION AUTHORITY.
+
+    Section 309(j)(11) of the Communications Act of 1934 (47 U.S.C. 
+309(j)(11)) is amended by striking ``2011.'' and inserting ``2012.''.
+
+    Approved February 11, 2009.
+
+LEGISLATIVE HISTORY--S. 352:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 155 (2009):
+            Jan. 29, considered and passed Senate.
+            Feb. 4, considered and passed House.
+
+                                  
+

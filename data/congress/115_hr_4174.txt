@@ -1,0 +1,1802 @@
+
+[115th Congress Public Law 435]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 132 STAT. 5529]]
+
+Public Law 115-435
+115th Congress
+
+                                 An Act
+
+
+ 
+    To amend titles 5 and 44, United States Code, to require Federal 
+ evaluation activities, improve Federal data management, and for other 
+            purposes. <<NOTE: Jan. 14, 2019 -  [H.R. 4174]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Foundations for 
+Evidence-Based Policymaking Act of 2018. 5 USC 101 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Foundations for 
+Evidence-Based Policymaking Act of 2018''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+              TITLE I--FEDERAL EVIDENCE-BUILDING ACTIVITIES
+
+Sec. 101. Federal evidence-building activities.
+
+                   TITLE II--OPEN GOVERNMENT DATA ACT
+
+Sec. 201. Short title.
+Sec. 202. OPEN Government data.
+
+     TITLE III--CONFIDENTIAL INFORMATION PROTECTION AND STATISTICAL 
+                               EFFICIENCY
+
+Sec. 301. Short title.
+Sec. 302. Confidential information protection and statistical 
+           efficiency.
+Sec. 303. Increasing access to data for evidence.
+
+                      TITLE IV--GENERAL PROVISIONS
+
+Sec. 401. Rule of construction.
+Sec. 402. Use of existing resources.
+Sec. 403. Effective date.
+
+              TITLE I--FEDERAL EVIDENCE-BUILDING ACTIVITIES
+
+SEC. 101. FEDERAL EVIDENCE-BUILDING ACTIVITIES.
+
+    (a) In General.--Chapter 3 of part I of title 5, United States Code, 
+is amended--
+            (1) by inserting before section 301 the following:
+
+``SUBCHAPTER I--GENERAL <<NOTE: 5 USC 301 prec.>>  PROVISIONS''; and
+            (2) by adding at the end the following:
+
+[[Page 132 STAT. 5530]]
+
+ ``SUBCHAPTER II--FEDERAL <<NOTE: 5 USC 311 prec.>>  EVIDENCE-BUILDING 
+ACTIVITIES
+``Sec. 311. <<NOTE: 5 USC 311.>>  Definitions
+
+    ``In this subchapter:
+            ``(1) Agency.--The term `agency' means an agency referred to 
+        under section 901(b) of title 31.
+            ``(2) Director.--The term `Director' means the Director of 
+        the Office of Management and Budget.
+            ``(3) Evaluation.--The term `evaluation' means an assessment 
+        using systematic data collection and analysis of one or more 
+        programs, policies, and organizations intended to assess their 
+        effectiveness and efficiency.
+            ``(4) Evidence.--The term `evidence' has the meaning given 
+        that term in section 3561 of title 44.
+            ``(5) State.--The term `State' means each of the several 
+        States, the District of Columbia, each territory or possession 
+        of the United States, and each federally recognized governing 
+        body of any Indian Tribe, band, nation, pueblo, or other 
+        organized group or community which is recognized as eligible for 
+        the special programs and services provided by the United States 
+        to Indians because of their status as Indians.
+            ``(6) Statistical activities; statistical agency or unit; 
+        statistical purpose.--The terms `statistical activities', 
+        `statistical agency or unit', and `statistical purpose' have the 
+        meanings given those terms in section 3561 of title 44.
+``Sec. 312. <<NOTE: 5 USC 312.>>  Agency evidence-building plan
+
+    ``(a) <<NOTE: Lists.>>  Requirement.--The head of each agency shall 
+include in the strategic plan required under section 306 a systematic 
+plan for identifying and addressing policy questions relevant to the 
+programs, policies, and regulations of the agency. Such plan shall 
+contain the following:
+            ``(1) A list of policy-relevant questions for which the 
+        agency intends to develop evidence to support policymaking.
+            ``(2) A list of data the agency intends to collect, use, or 
+        acquire to facilitate the use of evidence in policymaking.
+            ``(3) A list of methods and analytical approaches that may 
+        be used to develop evidence to support policymaking.
+            ``(4) A list of any challenges to developing evidence to 
+        support policymaking, including any statutory or other 
+        restrictions to accessing relevant data.
+            ``(5) A description of the steps the agency will take to 
+        accomplish paragraphs (1) and (2).
+            ``(6) Any other information as required by guidance issued 
+        by the Director.
+
+    ``(b) Evaluation Plan.--The head of each agency shall issue in 
+conjunction with the performance plan required under section 1115(b) of 
+title 31, an evaluation plan describing activities the agency plans to 
+conduct pursuant to subsection (a) of this section during the fiscal 
+year following the year in which the performance plan is submitted. Such 
+plan shall--
+            ``(1) describe key questions for each significant evaluation 
+        study that the agency plans to begin in the next fiscal year;
+            ``(2) describe key information collections or acquisitions 
+        the agency plans to begin in the next fiscal year; and
+
+[[Page 132 STAT. 5531]]
+
+            ``(3) any other information included in guidance issued by 
+        the Director under subsection (a)(6).
+
+    ``(c) Consultation.--In developing the plan required under 
+subsection (a), the head of an agency shall consult with stakeholders, 
+including the public, agencies, State and local governments, and 
+representatives of non-governmental researchers.
+``Sec. 313. <<NOTE: 5 USC 313.>>  Evaluation Officers
+
+    ``(a) <<NOTE: Designation.>>  Establishment.--The head of each 
+agency shall designate a senior employee of the agency as the Evaluation 
+Officer of the agency.
+
+    ``(b) Qualifications.--The Evaluation Officer of an agency shall be 
+appointed or designated without regard to political affiliation and 
+based on demonstrated expertise in evaluation methodology and practices 
+and appropriate expertise to the disciplines of the agency.
+    ``(c) Coordination.--The Evaluation Officer of an agency shall, to 
+the extent practicable, coordinate activities with agency officials 
+necessary to carry out the functions required under subsection (d).
+    ``(d) <<NOTE: Assessments.>>  Functions.--The Evaluation Officer of 
+each agency shall--
+            ``(1) continually assess the coverage, quality, methods, 
+        consistency, effectiveness, independence, and balance of the 
+        portfolio of evaluations, policy research, and ongoing 
+        evaluation activities of the agency;
+            ``(2) assess agency capacity to support the development and 
+        use of evaluation;
+            ``(3) establish and implement an agency evaluation policy; 
+        and
+            ``(4) coordinate, develop, and implement the plans required 
+        under section 312.
+``Sec. 314. <<NOTE: 5 USC 314.>>  Statistical expertise
+
+    ``(a) <<NOTE: Designation.>>  In General.--The head of each agency 
+shall designate the head of any statistical agency or unit within the 
+agency, or in the case of an agency that does not have a statistical 
+agency or unit, any senior agency official with appropriate expertise, 
+as a statistical official to advise on statistical policy, techniques, 
+and procedures. Agency officials engaged in statistical activities may 
+consult with any such statistical official as necessary.
+
+    ``(b) Membership on Interagency Council on Statistical Policy.--Each 
+statistical official designated under subsection (a) shall serve as a 
+member of the Interagency Council on Statistical Policy established 
+under section 3504(e)(8) of title 44.
+``Sec. 315. <<NOTE: 5 USC 315.>>  Advisory Committee on Data for 
+                Evidence Building
+
+    ``(a) Establishment.--The Director, or the head of an agency 
+designated by the Director, shall establish an Advisory Committee on 
+Data for Evidence Building (in this section referred to as the `Advisory 
+Committee') to review, analyze, and make recommendations on how to 
+promote the use of Federal data for evidence building.
+    ``(b) <<NOTE: Appointments.>>  Membership.--The members of the 
+Advisory Committee shall consist of the Chief Statistician of the United 
+States, who shall serve as the Chair of the Advisory Committee, and 
+other members appointed by the Director as follows:
+
+[[Page 132 STAT. 5532]]
+
+            ``(1) One member who is an agency Chief Information Officer.
+            ``(2) One member who is an agency Chief Privacy Officer.
+            ``(3) One member who is an agency Chief Performance Officer.
+            ``(4) Three members who are agency Chief Data Officers.
+            ``(5) Three members who are agency Evaluation Officers.
+            ``(6) Three members who are members of the Interagency 
+        Council for Statistical Policy established under section 
+        3504(e)(8) of title 44.
+            ``(7) At least 10 members who are representatives of State 
+        and local governments and nongovernmental stakeholders with 
+        expertise in government data policy, privacy, technology, 
+        transparency policy, evaluation and research methodologies, and 
+        other relevant subjects, of whom--
+                    ``(A) at least one shall have expertise in 
+                transparency policy;
+                    ``(B) at least one shall have expertise in privacy 
+                policy;
+                    ``(C) at least one shall have expertise in 
+                statistical data use;
+                    ``(D) at least one shall have expertise in 
+                information management;
+                    ``(E) at least one shall have expertise in 
+                information technology; and
+                    ``(F) at least one shall be from the research and 
+                evaluation community.
+
+    ``(c) Term of Service.--
+            ``(1) In general.--Each member of the Advisory Committee 
+        shall serve for a term of 2 years.
+            ``(2) Vacancy.--Any member appointed to fill a vacancy 
+        occurring before the expiration of the term for which the 
+        member's predecessor was appointed shall be appointed only for 
+        the remainder of that term. A vacancy in the Commission shall be 
+        filled in the manner in which the original appointment was made.
+
+    ``(d) Compensation.--Members of the Advisory Committee shall serve 
+without compensation.
+    ``(e) Duties.--The Advisory Committee shall--
+            ``(1) assist the Director in carrying out the duties of the 
+        Director under part D of subchapter III of chapter 35 of title 
+        44;
+            ``(2) <<NOTE: Recommenda- tions.>>  evaluate and provide 
+        recommendations to the Director on how to facilitate data 
+        sharing, enable data linkage, and develop privacy enhancing 
+        techniques; and
+            ``(3) <<NOTE: Review.>>  review the coordination of data 
+        sharing or availability for evidence building across all 
+        agencies.
+
+    ``(f) <<NOTE: Public information.>>  Reports.--The Advisory 
+Committee shall submit to the Director and make publicly available an 
+annual report on the activities and findings of the Advisory Committee.
+
+    ``(g) Termination.--The Advisory Committee shall terminate not later 
+than two years after the date of the first meeting.''.
+    (b) Technical and Conforming Amendments.--The table of sections for 
+chapter 3 of part I of title 5, <<NOTE: 5 USC 301 prec.>>  United States 
+Code, is amended--
+            (1) by inserting before the item relating to section 301 the 
+        following:
+
+[[Page 132 STAT. 5533]]
+
+                ``subchapter i--general provisions''; and
+
+            (2) by adding at the end the following:
+
+          ``subchapter ii--federal evidence-building activities
+
+``311. Definitions.
+``312. Agency evidence-building plan.
+``313. Evaluation Officers.
+``314. Statistical expertise.
+``315. Advisory Committee on Data for Evidence Building.''.
+
+    (c) Agency Strategic Plans.--Section 306(a) of title 5, United 
+States Code, is amended--
+            (1) in paragraph (7), by striking ``; and'' at the end and 
+        inserting a semicolon;
+            (2) in paragraph (8), by--
+                    (A) striking the period at the end; and
+                    (B) inserting after ``to be conducted'' the 
+                following: ``, and citations to relevant provisions of 
+                the plans required under section 312; and''; and
+            (3) by adding at the end the following:
+            ``(9) <<NOTE: Assessment.>>  an assessment of the coverage, 
+        quality, methods, effectiveness, and independence of the 
+        statistics, evaluation, research, and analysis efforts of the 
+        agency, including--
+                    ``(A) <<NOTE: Lists.>>  a list of the activities and 
+                operations of the agency that are currently being 
+                evaluated and analyzed;
+                    ``(B) the extent to which the evaluations, research, 
+                and analysis efforts and related activities of the 
+                agency support the needs of various divisions within the 
+                agency;
+                    ``(C) the extent to which the evaluation research 
+                and analysis efforts and related activities of the 
+                agency address an appropriate balance between needs 
+                related to organizational learning, ongoing program 
+                management, performance management, strategic 
+                management, interagency and private sector coordination, 
+                internal and external oversight, and accountability;
+                    ``(D) the extent to which the agency uses methods 
+                and combinations of methods that are appropriate to 
+                agency divisions and the corresponding research 
+                questions being addressed, including an appropriate 
+                combination of formative and summative evaluation 
+                research and analysis approaches;
+                    ``(E) the extent to which evaluation and research 
+                capacity is present within the agency to include 
+                personnel and agency processes for planning and 
+                implementing evaluation activities, disseminating best 
+                practices and findings, and incorporating employee views 
+                and feedback; and
+                    ``(F) the extent to which the agency has the 
+                capacity to assist agency staff and program offices to 
+                develop the capacity to use evaluation research and 
+                analysis approaches and data in the day-to-day 
+                operations.''.
+
+    (d) <<NOTE: 5 USC 306 note.>>  GAO Report.--Not later than 2 years 
+after the date on which each strategic plan required under section 
+306(a) of title 5, United States Code, is published, the Comptroller 
+General of the United States shall submit to Congress a report that--
+            (1) <<NOTE: Summary.>>  summarizes agency findings and 
+        highlights trends in the assessment conducted pursuant to 
+        subsection (a)(9) of section 306 of title 5, United States Code, 
+        as added by subsection (c); and
+
+[[Page 132 STAT. 5534]]
+
+            (2) <<NOTE: Recommenda- tions.>>  if appropriate, recommends 
+        actions to further improve agency capacity to use evaluation 
+        techniques and data to support evaluation efforts.
+
+    (e) <<NOTE: 5 USC 311 note.>>  Evaluation and Personnel Standards.--
+            (1) <<NOTE: Deadline. Consultation.>>  Requirement.--Not 
+        later than 1 year after the date of enactment of this Act, the 
+        Director of the Office of Management and Budget, in consultation 
+        with any interagency council relating to evaluation, shall--
+                    (A) <<NOTE: Guidance.>>  issue guidance for program 
+                evaluation for agencies consistent with widely accepted 
+                standards for evaluation; and
+                    (B) identify best practices for evaluation that 
+                would improve Federal program evaluation.
+            (2) <<NOTE: Deadline.>>  Guidance.--Not later than 90 days 
+        after the date on which the guidance under paragraph (1) is 
+        issued, the head of each agency shall oversee the implementation 
+        of such guidance.
+            (3) <<NOTE: Deadline. Consultation.>>  OPM guidance.--Not 
+        later than 180 days after the date on which the guidance under 
+        paragraph (1) is issued, the Director of the Office of Personnel 
+        Management, in consultation with the Director of the Office of 
+        Management and Budget, shall--
+                    (A) identify key skills and competencies needed for 
+                program evaluation in an agency;
+                    (B) establish a new occupational series, or update 
+                and improve an existing occupational series, for program 
+                evaluation within an agency; and
+                    (C) establish a new career path for program 
+                evaluation within an agency.
+            (4) Definitions.--In this Act:
+                    (A) Agency.--Except as otherwise provided, the term 
+                ``agency'' has the meaning given the term ``Executive 
+                agency'' under section 105.
+                    (B) Evaluation.--The term ``evaluation'' has the 
+                meaning given that term in section 311 of title 5, 
+                United States Code, as added by subsection (a).
+
+     TITLE II--OPEN <<NOTE: Open, Public, Electronic, and Necessary 
+Government Data Act. 44 USC 101 note.>>  GOVERNMENT DATA ACT
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Open, Public, Electronic, and 
+Necessary Government Data Act'' or the ``OPEN Government Data Act''.
+SEC. 202. OPEN GOVERNMENT DATA.
+
+    (a) Definitions.--Section 3502 of title 44, United States Code, is 
+amended--
+            (1) in paragraph (13), by striking ``; and'' at the end and 
+        inserting a semicolon;
+            (2) in paragraph (14), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by adding at the end the following new paragraphs:
+            ``(15) the term `comprehensive data inventory' means the 
+        inventory created under section 3511(a), but does not include 
+        any underlying data asset listed on the inventory;
+
+[[Page 132 STAT. 5535]]
+
+            ``(16) the term `data' means recorded information, 
+        regardless of form or the media on which the data is recorded;
+            ``(17) the term `data asset' means a collection of data 
+        elements or data sets that may be grouped together;
+            ``(18) the term `machine-readable', when used with respect 
+        to data, means data in a format that can be easily processed by 
+        a computer without human intervention while ensuring no semantic 
+        meaning is lost;
+            ``(19) the term `metadata' means structural or descriptive 
+        information about data such as content, format, source, rights, 
+        accuracy, provenance, frequency, periodicity, granularity, 
+        publisher or responsible party, contact information, method of 
+        collection, and other descriptions;
+            ``(20) the term `open Government data asset' means a public 
+        data asset that is--
+                    ``(A) machine-readable;
+                    ``(B) available (or could be made available) in an 
+                open format;
+                    ``(C) not encumbered by restrictions, other than 
+                intellectual property rights, including under titles 17 
+                and 35, that would impede the use or reuse of such 
+                asset; and
+                    ``(D) based on an underlying open standard that is 
+                maintained by a standards organization;
+            ``(21) the term `open license' means a legal guarantee that 
+        a data asset is made available--
+                    ``(A) at no cost to the public; and
+                    ``(B) with no restrictions on copying, publishing, 
+                distributing, transmitting, citing, or adapting such 
+                asset;
+            ``(22) the term `public data asset' means a data asset, or 
+        part thereof, maintained by the Federal Government that has 
+        been, or may be, released to the public, including any data 
+        asset, or part thereof, subject to disclosure under section 552 
+        of title 5; and
+            ``(23) the term `statistical laws' means subchapter III of 
+        this chapter and other laws pertaining to the protection of 
+        information collected for statistical purposes as designated by 
+        the Director.''.
+
+    (b) Guidance to Make Data Open by Default.--Section 3504(b) of title 
+44, United States Code, is amended--
+            (1) in paragraph (4), by striking ``; and'' and inserting a 
+        semicolon;
+            (2) in paragraph (5), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(6) issue guidance for agencies to implement section 
+        3506(b)(6) in a manner that takes into account--
+                    ``(A) risks and restrictions related to the 
+                disclosure of personally identifiable information, 
+                including the risk that an individual data asset in 
+                isolation does not pose a privacy or confidentiality 
+                risk but when combined with other available information 
+                may pose such a risk;
+                    ``(B) security considerations, including the risk 
+                that information in an individual data asset in 
+                isolation does not pose a security risk but when 
+                combined with other available information may pose such 
+                a risk;
+
+[[Page 132 STAT. 5536]]
+
+                    ``(C) the cost and benefits to the public of 
+                converting a data asset into a machine-readable format 
+                that is accessible and useful to the public;
+                    ``(D) whether the application of the requirements 
+                described in such section to a data asset could result 
+                in legal liability;
+                    ``(E) a determination of whether a data asset--
+                          ``(i) is subject to intellectual property 
+                      rights, including rights under titles 17 and 35;
+                          ``(ii) contains confidential business 
+                      information, that could be withheld under section 
+                      552(b)(4) of title 5; or
+                          ``(iii) is otherwise restricted by contract or 
+                      other binding, written agreement;
+                    ``(F) the requirement that a data asset be 
+                disclosed, if it would otherwise be made available under 
+                section 552 of title 5 (commonly known as the `Freedom 
+                of Information Act'); and
+                    ``(G) any other considerations that the Director 
+                determines to be relevant.''.
+
+    (c) Federal Agency Responsibilities to Make Data Open by Default.--
+            (1) Amendments.--Section 3506 of title 44, United States 
+        Code, is amended--
+                    (A) in subsection (b)--
+                          (i) by amending paragraph (2) to read as 
+                      follows:
+            ``(2) <<NOTE: Strategic plan.>>  in accordance with guidance 
+        by the Director, develop and maintain a strategic information 
+        resources management plan that, to the extent practicable--
+                    ``(A) describes how information resources management 
+                activities help accomplish agency missions;
+                    ``(B) includes an open data plan for data that does 
+                not concern monetary policy that--
+                          ``(i) requires the agency to develop processes 
+                      and procedures that--
+                                    ``(I) require data collection 
+                                mechanisms created on or after the date 
+                                of the enactment of the OPEN Government 
+                                Data Act to be available in an open 
+                                format; and
+                                    ``(II) facilitate collaboration with 
+                                non-Government entities (including 
+                                businesses), researchers, and the public 
+                                for the purpose of understanding how 
+                                data users value and use government 
+                                data;
+                          ``(ii) identifies and implements methods for 
+                      collecting and analyzing digital information on 
+                      data asset usage by users within and outside of 
+                      the agency, including designating a point of 
+                      contact within the agency to assist the public and 
+                      to respond to quality issues, usability issues, 
+                      recommendations for improvements, and complaints 
+                      about adherence to open data requirements within a 
+                      reasonable period of time;
+                          ``(iii) develops and implements a process to 
+                      evaluate and improve the timeliness, completeness, 
+                      consistency, accuracy, usefulness, and 
+                      availability of open Government data assets;
+                          ``(iv) includes requirements for meeting the 
+                      goals of the agency open data plan, including the 
+                      acquisition
+
+[[Page 132 STAT. 5537]]
+
+                      of technology, provision of training for 
+                      employees, and the implementation of procurement 
+                      standards, in accordance with existing law, 
+                      regulation, and policy, that allow for the 
+                      acquisition of innovative solutions from public 
+                      and private sectors;
+                          ``(v) identifies as priority data assets any 
+                      data asset for which disclosure would be in the 
+                      public interest and establishes a plan to evaluate 
+                      each priority data asset for disclosure on the 
+                      Federal Data Catalogue under section 3511 and for 
+                      a determination under 3511(a)(2)(A)(iii)(I)(bb), 
+                      including an accounting of which priority data 
+                      assets have not yet been evaluated; and
+                          ``(vi) requires the agency to comply with 
+                      requirements under section 3511, including any 
+                      standards established by the Director under such 
+                      section, when disclosing a data asset pursuant to 
+                      such section; and
+                    ``(C) <<NOTE: Update. Public information. Web 
+                posting. Deadline.>>  is updated annually and made 
+                publicly available on the website of the agency not 
+                later than 5 days after each such update;'';
+                          (ii) in paragraph (4), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (iii) in paragraph (5), by striking the period 
+                      at the end and inserting ``; and''; and
+                          (iv) by adding at the end the following new 
+                      paragraph:
+            ``(6) in accordance with guidance by the Director--
+                    ``(A) make each data asset of the agency available 
+                in an open format; and
+                    ``(B) make each public data asset of the agency 
+                available--
+                          ``(i) as an open Government data asset; and
+                          ``(ii) under an open license.''; and
+                    (B) in subsection (d)--
+                          (i) in paragraph (3), by striking ``and'' at 
+                      the end;
+                          (ii) in paragraph (4), by striking the period 
+                      at the end and inserting a semicolon; and
+                          (iii) by adding at the end the following new 
+                      paragraphs:
+            ``(5) ensure that any public data asset of the agency is 
+        machine-readable; and
+            ``(6) engage the public in using public data assets of the 
+        agency and encourage collaboration by--
+                    ``(A) <<NOTE: Web posting.>>  publishing on the 
+                website of the agency, on a regular basis (not less than 
+                annually), information on the usage of such assets by 
+                non-Government users;
+                    ``(B) providing the public with the opportunity to 
+                request specific data assets to be prioritized for 
+                disclosure and to provide suggestions for the 
+                development of agency criteria with respect to 
+                prioritizing data assets for disclosure;
+                    ``(C) assisting the public in expanding the use of 
+                public data assets; and
+                    ``(D) hosting challenges, competitions, events, or 
+                other initiatives designed to create additional value 
+                from public data assets of the agency.''.
+
+[[Page 132 STAT. 5538]]
+
+            (2) <<NOTE: Deadline. 44 USC 3506 note.>>  Use of open data 
+        assets.--Not later than 1 year after the date of the enactment 
+        of this Act, the head of each agency (as defined in section 3502 
+        of title 44, United States Code) shall ensure that any activity 
+        by the agency meets the requirements of section 3506 of title 
+        44, United States Code, as amended by this subsection.
+            (3) <<NOTE: 44 USC 3506 note.>>  Effective date.--The 
+        amendments made by this subsection shall take effect on the date 
+        that is 1 year after the date of the enactment of this Act.
+
+    (d) Data Inventory and Federal Data Catalogue.--
+            (1) Amendment.--Section 3511 of title 44, United States 
+        Code, is amended to read as follows:
+``Sec. 3511. Data inventory and Federal data catalogue
+
+    ``(a) Comprehensive Data Inventory.--
+            ``(1) <<NOTE: Consultation.>>  In general.--In consultation 
+        with the Director and in accordance with the guidance 
+        established under paragraph (2), the head of each agency shall, 
+        to the maximum extent practicable, develop and maintain a 
+        comprehensive data inventory that accounts for all data assets 
+        created by, collected by, under the control or direction of, or 
+        maintained by the agency. The head of each agency shall ensure 
+        that such inventory provides a clear and comprehensive 
+        understanding of the data assets in the possession of the 
+        agency.
+            ``(2) Guidance.--The Director shall establish guidance for 
+        agencies to develop and maintain comprehensive data inventories 
+        under paragraph (1). Such guidance shall include the following:
+                    ``(A) A requirement for the head of an agency to 
+                include in the comprehensive data inventory metadata on 
+                each data asset of the agency, including, to the maximum 
+                extent practicable, the following:
+                          ``(i) A description of the data asset, 
+                      including all variable names and definitions.
+                          ``(ii) The name or title of the data asset.
+                          ``(iii) An indication of whether or not the 
+                      agency--
+                                    ``(I) has determined or can 
+                                determine if the data asset is--
+                                            ``(aa) an open Government 
+                                        data asset;
+                                            ``(bb) subject to disclosure 
+                                        or partial disclosure or exempt 
+                                        from disclosure under section 
+                                        552 of title 5;
+                                            ``(cc) a public data asset 
+                                        eligible for disclosure under 
+                                        subsection (b); or
+                                            ``(dd) a data asset not 
+                                        subject to open format or open 
+                                        license requirements due to 
+                                        existing limitations or 
+                                        restrictions on government 
+                                        distribution of the asset; or
+                                    ``(II) as of the date of such 
+                                indication, has not made such 
+                                determination.
+                          ``(iv) Any determination made under section 
+                      3582, if available.
+                          ``(v) A description of the method by which the 
+                      public may access or request access to the data 
+                      asset.
+                          ``(vi) The date on which the data asset was 
+                      most recently updated.
+
+[[Page 132 STAT. 5539]]
+
+                          ``(vii) Each agency responsible for 
+                      maintaining the data asset.
+                          ``(viii) The owner of the data asset.
+                          ``(ix) To the extent practicable, any 
+                      restriction on the use of the data asset.
+                          ``(x) The location of the data asset.
+                          ``(xi) Any other metadata necessary to make 
+                      the comprehensive data inventory useful to the 
+                      agency and the public, or otherwise determined 
+                      useful by the Director.
+                    ``(B) A requirement for the head of an agency to 
+                exclude from the comprehensive data inventory any data 
+                asset contained on a national security system, as 
+                defined in section 11103 of title 40.
+                    
+                ``(C) <<NOTE: Criteria. Determination. Public information
+                .>>  Criteria for the head of an agency to use in 
+                determining which metadata required by subparagraph (A), 
+                if any, in the comprehensive data inventory may not be 
+                made publicly available, which shall include, at a 
+                minimum, a requirement to ensure all information that 
+                could not otherwise be withheld from disclosure under 
+                section 552 of title 5 is made public in the 
+                comprehensive data inventory.
+                    ``(D) <<NOTE: Procedure. Inventory. Update.>>  A 
+                requirement for the head of each agency, in accordance 
+                with a procedure established by the Director, to submit 
+                for inclusion in the Federal data catalogue maintained 
+                under subsection (c) the comprehensive data inventory 
+                developed pursuant to subparagraph (C), including any 
+                real-time updates to such inventory, and data assets 
+                made available in accordance with subparagraph (E) or 
+                any electronic hyperlink providing access to such data 
+                assets.
+                    ``(E) <<NOTE: Criteria. Determination.>>  Criteria 
+                for the head of an agency to use in determining whether 
+                a particular data asset should not be made publicly 
+                available in a manner that takes into account--
+                          ``(i) risks and restrictions related to the 
+                      disclosure of personally identifiable information, 
+                      including the risk that an individual data asset 
+                      in isolation does not pose a privacy or 
+                      confidentiality risk but when combined with other 
+                      available information may pose such a risk;
+                          ``(ii) security considerations, including the 
+                      risk that information in an individual data asset 
+                      in isolation does not pose a security risk but 
+                      when combined with other available information may 
+                      pose such a risk;
+                          ``(iii) the cost and benefits to the public of 
+                      converting the data into a format that could be 
+                      understood and used by the public;
+                          ``(iv) whether the public dissemination of the 
+                      data asset could result in legal liability;
+                          ``(v) whether the data asset--
+                                    ``(I) is subject to intellectual 
+                                property rights, including rights under 
+                                titles 17 and 35;
+                                    ``(II) contains confidential 
+                                business information, that could be 
+                                withheld under section 552(b)(4) of 
+                                title 5; or
+                                    ``(III) is restricted by contract or 
+                                other binding, written agreement;
+
+[[Page 132 STAT. 5540]]
+
+                          ``(vi) whether the holder of a right to such 
+                      data asset has been consulted;
+                          ``(vii) the expectation that all data assets 
+                      that would otherwise be made available under 
+                      section 552 of title 5 be disclosed; and
+                          ``(viii) any other considerations that the 
+                      Director determines to be relevant.
+                    
+                ``(F) <<NOTE: Criteria. Assessment. Determination.>>  
+                Criteria for the head of an agency to use in assessing 
+                the indication of a determination under subparagraph 
+                (A)(iii) and how to prioritize any such subsequent 
+                determinations in the strategic information management 
+                plan under section 3506, in consideration of the 
+                existing resources available to the agency.
+            ``(3) <<NOTE: Deadline. Inventory.>>  Regular updates 
+        required.--With respect to each data asset created or identified 
+        by an agency, the head of the agency shall update the 
+        comprehensive data inventory of the agency not later than 90 
+        days after the date of such creation or identification.
+
+    ``(b) Public Data Assets.--The head of each agency shall submit 
+public data assets, or links to public data assets available online, as 
+open Government data assets for inclusion in the Federal data catalogue 
+maintained under subsection (c), in accordance with the guidance 
+established under subsection (a)(2).
+    ``(c) <<NOTE: Public information.>>  Federal Data Catalogue.--
+            ``(1) In general.--The Administrator of General Services 
+        shall maintain a single public interface online as a point of 
+        entry dedicated to sharing agency data assets with the public, 
+        which shall be known as the `Federal data 
+        catalogue'. <<NOTE: Publication.>>  The Administrator and the 
+        Director shall ensure that agencies can submit public data 
+        assets, or links to public data assets, for publication and 
+        public availability on the interface.
+            ``(2) Repository.--The Director shall collaborate with the 
+        Office of Government Information Services and the Administrator 
+        of General Services to develop and maintain an online repository 
+        of tools, best practices, and schema standards to facilitate the 
+        adoption of open data practices across the Federal Government, 
+        which shall--
+                    ``(A) include any definitions, regulations, 
+                policies, checklists, and case studies related to open 
+                data policy;
+                    ``(B) facilitate collaboration and the adoption of 
+                best practices across the Federal Government relating to 
+                the adoption of open data practices; and
+                    ``(C) be made available on the Federal data 
+                catalogue maintained under paragraph (1).
+            ``(3) Access to other data assets.--The Director shall 
+        ensure the Federal data catalogue maintained under paragraph (1) 
+        provides information on how the public can access a data asset 
+        included in a comprehensive data inventory under subsection (a) 
+        that is not yet available on the Federal data catalogue, 
+        including information regarding the application process 
+        established under section 3583 of title 44.
+
+    ``(d) <<NOTE: Guidance.>>  Delegation.--The Director shall delegate 
+to the Administrator of the Office of Information and Regulatory Affairs 
+and the Administrator of the Office of Electronic Government the 
+authority to jointly issue guidance required under this section.''.
+            (2) Technical and conforming amendments.--
+
+[[Page 132 STAT. 5541]]
+
+                    (A) Table of sections.--The item relating to section 
+                3511 of the table of sections at the beginning of 
+                chapter 35 of title 44, United States Code, <<NOTE: 44 
+                USC 3501 prec.>>  is amended to read as follows:
+
+``3511. Data inventory and Federal data catalogue.''.
+
+                    (B) Cross-reference.--Section 3504(b)(2)(A) of title 
+                44, United States Code, is amended by striking ``the use 
+                of the Government Information Locator Service'' and 
+                inserting ``the use of comprehensive data inventories 
+                and the Federal data catalogue under section 3511''.
+
+    (e) Chief Data Officers.--
+            (1) Amendment.--Section 3520 of title 44, United States 
+        Code, is amended to read as follows:
+``Sec. 3520. Chief Data Officers
+
+    ``(a) <<NOTE: Designation.>>  Establishment.--The head of each 
+agency shall designate a nonpolitical appointee employee in the agency 
+as the Chief Data Officer of the agency.
+
+    ``(b) Qualifications.--The Chief Data Officer of an agency shall be 
+designated on the basis of demonstrated training and experience in data 
+management, governance (including creation, application, and maintenance 
+of data standards), collection, analysis, protection, use, and 
+dissemination, including with respect to any statistical and related 
+techniques to protect and de-identify confidential data.
+    ``(c) Functions.--The Chief Data Officer of an agency shall--
+            ``(1) be responsible for lifecycle data management;
+            ``(2) <<NOTE: Coordination.>>  coordinate with any official 
+        in the agency responsible for using, protecting, disseminating, 
+        and generating data to ensure that the data needs of the agency 
+        are met;
+            ``(3) manage data assets of the agency, including the 
+        standardization of data format, sharing of data assets, and 
+        publication of data assets in accordance with applicable law;
+            ``(4) <<NOTE: Consultation.>>  in carrying out the 
+        requirements under paragraphs (3) and (5), consult with any 
+        statistical official of the agency (as designated under section 
+        314 of title 5);
+            ``(5) carry out the requirements of the agency under 
+        subsections (b) through (d), (f), and (i) of section 3506, 
+        section 3507, and section 3511;
+            ``(6) ensure that, to the extent practicable, agency data 
+        conforms with data management best practices;
+            ``(7) engage agency employees, the public, and contractors 
+        in using public data assets and encourage collaborative 
+        approaches on improving data use;
+            ``(8) support the Performance Improvement Officer of the 
+        agency in identifying and using data to carry out the functions 
+        described in section 1124(a)(2) of title 31;
+            ``(9) support the Evaluation Officer of the agency in 
+        obtaining data to carry out the functions described in section 
+        313(d) of title 5;
+            ``(10) <<NOTE: Review. Coordination.>>  review the impact of 
+        the infrastructure of the agency on data asset accessibility and 
+        coordinate with the Chief Information Officer of the agency to 
+        improve such infrastructure to reduce barriers that inhibit data 
+        asset accessibility;
+            ``(11) ensure that, to the extent practicable, the agency 
+        maximizes the use of data in the agency, including for the
+
+[[Page 132 STAT. 5542]]
+
+        production of evidence (as defined in section 3561), 
+        cybersecurity, and the improvement of agency operations;
+            ``(12) identify points of contact for roles and 
+        responsibilities related to open data use and implementation (as 
+        required by the Director);
+            ``(13) serve as the agency liaison to other agencies and the 
+        Office of Management and Budget on the best way to use existing 
+        agency data for statistical purposes (as defined in section 
+        3561); and
+            ``(14) <<NOTE: Compliance.>>  comply with any regulation and 
+        guidance issued under subchapter III, including the acquisition 
+        and maintenance of any required certification and training.
+
+    ``(d) Delegation of Responsibilities.--
+            ``(1) In general.--To the extent necessary to comply with 
+        statistical laws, the Chief Data Officer of an agency shall 
+        delegate any responsibility under subsection (c) to the head of 
+        a statistical agency or unit (as defined in section 3561) within 
+        the agency.
+            ``(2) Consultation.--To the extent permissible under law, 
+        the individual to whom a responsibility has been delegated under 
+        paragraph (1) shall consult with the Chief Data Officer of the 
+        agency in carrying out such responsibility.
+            ``(3) Deference.--The Chief Data Officer of the agency shall 
+        defer to the individual to whom a responsibility has been 
+        delegated under paragraph (1) regarding the necessary delegation 
+        of such responsibility with respect to any data acquired, 
+        maintained, or disseminated by the agency under applicable 
+        statistical law.
+
+    ``(e) Reports.--The Chief Data Officer of an agency shall submit to 
+the Committee on Homeland Security and Governmental Affairs of the 
+Senate and the Committee on Oversight and Government Reform of the House 
+of Representatives an annual report on the compliance of the agency with 
+the requirements of this subchapter, including information on each 
+requirement that the agency could not carry out and, if applicable, what 
+the agency needs to carry out such requirement.''.
+            (2) Technical and conforming amendment.--The item relating 
+        to section 3520 of the table of sections at the beginning of 
+        chapter 35 of title 44, United States Code, <<NOTE: 44 USC 3501 
+        prec.>>  is amended to read as follows:
+
+``3520. Chief Data Officers.''.
+
+    (f) Chief Data Officer Council.--
+            (1) Amendment.--Subchapter I of chapter 35 of title 44, 
+        United States Code, is amended by inserting before section 3521 
+        the following new section:
+``Sec. 3520A. <<NOTE: 44 USC 3520A.>>  Chief Data Officer Council
+
+    ``(a) Establishment.--There is established in the Office of 
+Management and Budget a Chief Data Officer Council (in this section 
+referred to as the `Council').
+    ``(b) Purpose and Functions.--The Council shall--
+            ``(1) establish Governmentwide best practices for the use, 
+        protection, dissemination, and generation of data;
+            ``(2) promote and encourage data sharing agreements between 
+        agencies;
+
+[[Page 132 STAT. 5543]]
+
+            ``(3) identify ways in which agencies can improve upon the 
+        production of evidence for use in policymaking;
+            ``(4) <<NOTE: Consultation.>>  consult with the public and 
+        engage with private users of Government data and other 
+        stakeholders on how to improve access to data assets of the 
+        Federal Government; and
+            ``(5) identify and evaluate new technology solutions for 
+        improving the collection and use of data.
+
+    ``(c) Membership.--
+            ``(1) In general.--The Chief Data Officer of each agency 
+        shall serve as a member of the Council.
+            ``(2) Chair.--The Director shall select the Chair of the 
+        Council from among the members of the Council.
+            ``(3) Additional members.--The Administrator of the Office 
+        of Electronic Government shall serve as a member of the Council.
+            ``(4) <<NOTE: Appointment.>>  Ex officio member.--The 
+        Director shall appoint a representative for all Chief 
+        Information Officers and Evaluation Officers, and such 
+        representative shall serve as an ex officio member of the 
+        Council.
+
+    ``(d) Reports.--The Council shall submit to the Director, the 
+Committee on Homeland Security and Governmental Affairs of the Senate, 
+and the Committee on Oversight and Government Reform of the House of 
+Representatives a biennial report on the work of the Council.
+    ``(e) Evaluation and Termination.--
+            ``(1) <<NOTE: Deadline.>>  GAO evaluation of council.--Not 
+        later than 4 years after date of the enactment of this section, 
+        the Comptroller General shall submit to Congress a report on 
+        whether the additional duties of the Council improved the use of 
+        evidence and program evaluation in the Federal Government.
+            ``(2) <<NOTE: Time period. Effective date.>>  Termination of 
+        council.--The Council shall terminate and this section shall be 
+        repealed upon the expiration of the 2-year period that begins on 
+        the date the Comptroller General submits the report under 
+        paragraph (1) to Congress.''.
+            (2) Technical and conforming amendment.--The table of 
+        sections at the beginning of chapter 35 of title 44, United 
+        States Code, <<NOTE: 44 USC 3501 prec.>>  is amended by 
+        inserting before the item relating to section 3521 the following 
+        new item:
+
+``3520A. Chief Data Officer Council.''.
+
+    (g) Reports.--
+            (1) GAO report.--Not later than 3 years after the date of 
+        the enactment of this Act, the Comptroller General of the United 
+        States shall submit to the Committee on Homeland Security and 
+        Governmental Affairs of the Senate and the Committee on 
+        Oversight and Government Reform of the House of Representatives 
+        a report that identifies, to the extent practicable--
+                    (A) the value of information made available to the 
+                public as a result of this Act and the amendments made 
+                by this Act;
+                    (B) whether the public availability of any 
+                information that has not yet been made so available 
+                would be valuable to the public; and
+                    (C) the completeness of each comprehensive data 
+                inventory developed under section 3511 of title 44, 
+                United States Code, as amended by subsection (d).
+
+[[Page 132 STAT. 5544]]
+
+            (2) <<NOTE: 44 USC 3502 note.>>  Biennial omb report.--Not 
+        later than 1 year after date of the enactment of this Act, and 
+        biennially thereafter, the Director of the Office of Management 
+        and Budget shall electronically publish a report on agency 
+        performance and compliance with this Act and the amendments made 
+        by this Act.
+
+TITLE III--CONFIDENTIAL <<NOTE: Confidential Information Protection and 
+   Statistical Efficiency Act of 2018.>>  INFORMATION PROTECTION AND 
+STATISTICAL EFFICIENCY
+SEC. 301. <<NOTE: 44 USC 101 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Confidential Information Protection 
+and Statistical Efficiency Act of 2018''.
+SEC. 302. CONFIDENTIAL INFORMATION PROTECTION AND STATISTICAL 
+                        EFFICIENCY.
+
+    (a) <<NOTE: 44 USC 3561 prec.>>  In General.--Chapter 35 of title 
+44, United States Code, is amended by adding at the end the following 
+new subchapter:
+
+``SUBCHAPTER III--CONFIDENTIAL <<NOTE: 44 USC 3561 prec.>>  INFORMATION 
+PROTECTION AND STATISTICAL EFFICIENCY
+
+                            ``PART A--GENERAL
+
+``Sec. 3561. <<NOTE: 44 USC 3561.>>  Definitions
+
+    ``In this subchapter:
+            ``(1) Agency.--The term `agency' means any entity that falls 
+        within the definition of the term `executive agency', as defined 
+        in section 102 of title 31, or `agency', as defined in section 
+        3502.
+            ``(2) Agent.--The term `agent' means an individual--
+                    ``(A)(i) who is an employee of a private 
+                organization or a researcher affiliated with an 
+                institution of higher learning (including a person 
+                granted special sworn status by the Bureau of the Census 
+                under section 23(c) of title 13), and with whom a 
+                contract or other agreement is executed, on a temporary 
+                basis, by an executive agency to perform exclusively 
+                statistical activities under the control and supervision 
+                of an officer or employee of that agency;
+                    ``(ii) who is working under the authority of a 
+                government entity with which a contract or other 
+                agreement is executed by an executive agency to perform 
+                exclusively statistical activities under the control of 
+                an officer or employee of that agency;
+                    ``(iii) who is a self-employed researcher, a 
+                consultant, a contractor, or an employee of a 
+                contractor, and with whom a contract or other agreement 
+                is executed by an executive agency to perform a 
+                statistical activity under the control of an officer or 
+                employee of that agency; or
+                    ``(iv) who is a contractor or an employee of a 
+                contractor, and who is engaged by the agency to design 
+                or maintain the systems for handling or storage of data 
+                received under this subchapter; and
+
+[[Page 132 STAT. 5545]]
+
+                    ``(B) who agrees in writing to comply with all 
+                provisions of law that affect information acquired by 
+                that agency.
+            ``(3) Business data.--The term `business data' means 
+        operating and financial data and information about businesses, 
+        tax-exempt organizations, and government entities.
+            ``(4) Data asset.--The term `data asset' has the meaning 
+        given that term in section 3502.
+            ``(5) Director.--The term `Director' means the Director of 
+        the Office of Management and Budget.
+            ``(6) Evidence.--The term `evidence' means information 
+        produced as a result of statistical activities conducted for a 
+        statistical purpose.
+            ``(7) Identifiable form.--The term `identifiable form' means 
+        any representation of information that permits the identity of 
+        the respondent to whom the information applies to be reasonably 
+        inferred by either direct or indirect means.
+            ``(8) Nonstatistical purpose.--The term `nonstatistical 
+        purpose'--
+                    ``(A) means the use of data in identifiable form for 
+                any purpose that is not a statistical purpose, including 
+                any administrative, regulatory, law enforcement, 
+                adjudicatory, or other purpose that affects the rights, 
+                privileges, or benefits of a particular identifiable 
+                respondent; and
+                    ``(B) includes the disclosure under section 552 of 
+                title 5 of data that are acquired for exclusively 
+                statistical purposes under a pledge of confidentiality.
+            ``(9) Respondent.--The term `respondent' means a person who, 
+        or organization that, is requested or required to supply 
+        information to an agency, is the subject of information 
+        requested or required to be supplied to an agency, or provides 
+        that information to an agency.
+            ``(10) Statistical activities.--The term `statistical 
+        activities'--
+                    ``(A) means the collection, compilation, processing, 
+                or analysis of data for the purpose of describing or 
+                making estimates concerning the whole, or relevant 
+                groups or components within, the economy, society, or 
+                the natural environment; and
+                    ``(B) includes the development of methods or 
+                resources that support those activities, such as 
+                measurement methods, models, statistical 
+                classifications, or sampling frames.
+            ``(11) Statistical agency or unit.--The term `statistical 
+        agency or unit' means an agency or organizational unit of the 
+        executive branch whose activities are predominantly the 
+        collection, compilation, processing, or analysis of information 
+        for statistical purposes, as designated by the Director under 
+        section 3562.
+            ``(12) Statistical purpose.--The term `statistical 
+        purpose'--
+                    ``(A) means the description, estimation, or analysis 
+                of the characteristics of groups, without identifying 
+                the individuals or organizations that comprise such 
+                groups; and
+
+[[Page 132 STAT. 5546]]
+
+                    ``(B) includes the development, implementation, or 
+                maintenance of methods, technical or administrative 
+                procedures, or information resources that support the 
+                purposes described in subparagraph (A).
+``Sec. 3562. <<NOTE: 44 USC 3562.>>  Coordination and oversight of 
+                  policies
+
+    ``(a) In General.--The Director shall coordinate and oversee the 
+confidentiality and disclosure policies established by this subchapter. 
+The Director may promulgate rules or provide other guidance to ensure 
+consistent interpretation of this subchapter by the affected 
+agencies. <<NOTE: Designation.>>  The Director shall develop a process 
+by which the Director designates agencies or organizational units as 
+statistical agencies and units. <<NOTE: Guidance. Criteria.>>  The 
+Director shall promulgate guidance to implement such process, which 
+shall include specific criteria for such designation and methods by 
+which the Director will ensure transparency in the process.
+
+    ``(b) Agency Rules.--Subject to subsection (c), agencies may 
+promulgate rules to implement this subchapter. Rules governing 
+disclosures of information that are authorized by this subchapter shall 
+be promulgated by the agency that originally collected the information.
+    ``(c) Review and Approval of Rules.--The Director shall review any 
+rules proposed by an agency pursuant to this subchapter for consistency 
+with the provisions of this chapter and such rules shall be subject to 
+the approval of the Director.
+    ``(d) Reports.--
+            ``(1) The head of each agency shall provide to the Director 
+        such reports and other information as the Director requests.
+            ``(2) Each Designated Statistical Agency (as defined in 
+        section 3576(e)) shall report annually to the Director, the 
+        Committee on Oversight and Government Reform of the House of 
+        Representatives, and the Committee on Homeland Security and 
+        Governmental Affairs of the Senate on the actions it has taken 
+        to implement section 3576. The report shall include copies of 
+        each written agreement entered into pursuant to section 
+        3576(c)(1) for the applicable year.
+            ``(3) <<NOTE: Summary.>>  The Director shall include a 
+        summary of reports submitted to the Director under this 
+        subsection and actions taken by the Director to advance the 
+        purposes of this subchapter in the annual report to Congress on 
+        statistical programs prepared under section 3504(e)(2).
+``Sec. 3563. <<NOTE: 44 USC 3563.>>  Statistical agencies
+
+    ``(a) Responsibilities.--
+            ``(1) In general.--Each statistical agency or unit shall--
+                    ``(A) produce and disseminate relevant and timely 
+                statistical information;
+                    ``(B) conduct credible and accurate statistical 
+                activities;
+                    ``(C) conduct objective statistical activities; and
+                    ``(D) protect the trust of information providers by 
+                ensuring the confidentiality and exclusive statistical 
+                use of their responses.
+            ``(2) Policies, best practices, and procedures.--Each 
+        statistical agency or unit shall adopt policies, best practices, 
+        and appropriate procedures to implement the responsibilities 
+        described in paragraph (1).
+
+[[Page 132 STAT. 5547]]
+
+    ``(b) Support From Other Agencies.--The head of each agency shall 
+enable, support, and facilitate statistical agencies or units in 
+carrying out the responsibilities described in subsection (a)(1).
+    ``(c) Regulations.--The Director shall prescribe regulations to 
+carry out this section.
+    ``(d) Definitions.--In this section:
+            ``(1) Accurate.--The term `accurate', when used with respect 
+        to statistical activities, means statistics that consistently 
+        match the events and trends being measured.
+            ``(2) Confidentiality.--The term `confidentiality' means a 
+        quality or condition accorded to information as an obligation 
+        not to disclose that information to an unauthorized party.
+            ``(3) Objective.--The term `objective', when used with 
+        respect to statistical activities, means accurate, clear, 
+        complete, and unbiased.
+            ``(4) Relevant.--The term `relevant', when used with respect 
+        to statistical information, means processes, activities, and 
+        other such matters likely to be useful to policymakers and 
+        public and private sector data users.
+``Sec. 3564. <<NOTE: 44 USC 3564.>>  Effect on other laws
+
+    ``(a) Title 44, United States Code.--This subchapter does not 
+diminish the authority under section 3510 of the Director to direct, and 
+of an agency to make, disclosures that are not inconsistent with any 
+applicable law.
+    ``(b) Title 13 and Title 44, United States Code.--This subchapter 
+does not diminish the authority of the Bureau of the Census to provide 
+information in accordance with sections 8, 16, 301, and 401 of title 13 
+and section 2108 of this title.
+    ``(c) Title 13, United States Code.--This subchapter shall not be 
+construed as authorizing the disclosure for nonstatistical purposes of 
+demographic data or information collected by the Bureau of the Census 
+pursuant to section 9 of title 13.
+    ``(d) Various Energy Statutes.--Data or information acquired by the 
+Energy Information Administration under a pledge of confidentiality and 
+designated by the Energy Information Administration to be used for 
+exclusively statistical purposes shall not be disclosed in identifiable 
+form for nonstatistical purposes under--
+            ``(1) section 12, 20, or 59 of the Federal Energy 
+        Administration Act of 1974 (15 U.S.C. 771, 779, 790h);
+            ``(2) section 11 of the Energy Supply and Environmental 
+        Coordination Act of 1974 (15 U.S.C. 796); or
+            ``(3) section 205 or 407 of the Department of Energy 
+        Organization Act (42 U.S.C. 7135, 7177).
+
+    ``(e) Section 201 of Congressional Budget Act of 1974.--This 
+subchapter shall not be construed to limit any authorities of the 
+Congressional Budget Office to work (consistent with laws governing the 
+confidentiality of information the disclosure of which would be a 
+violation of law) with databases of Designated Statistical Agencies (as 
+defined in section 3576(e)), either separately or, for data that may be 
+shared pursuant to section 3576(c) or other authority, jointly in order 
+to improve the general utility of these databases for the statistical 
+purpose of analyzing pension and health care financing issues.
+    ``(f) Preemption of State Law.--Nothing in this subchapter shall 
+preempt applicable State law regarding the confidentiality of data 
+collected by the States.
+
+[[Page 132 STAT. 5548]]
+
+    ``(g) Statutes Regarding False Statements.--Notwithstanding section 
+3572, information collected by an agency for exclusively statistical 
+purposes under a pledge of confidentiality may be provided by the 
+collecting agency to a law enforcement agency for the prosecution of 
+submissions to the collecting agency of false statistical information 
+under statutes that authorize criminal penalties (such as section 221 of 
+title 13) or civil penalties for the provision of false statistical 
+information, unless such disclosure or use would otherwise be prohibited 
+under Federal law.
+    ``(h) Construction.--Nothing in this subchapter shall be construed 
+as restricting or diminishing any confidentiality protections or 
+penalties for unauthorized disclosure that otherwise apply to data or 
+information collected for statistical purposes or nonstatistical 
+purposes, including, but not limited to, section 6103 of the Internal 
+Revenue Code of 1986.
+    ``(i) Authority of Congress.--Nothing in this subchapter shall be 
+construed to affect the authority of the Congress, including its 
+committees, members, or agents, to obtain data or information for a 
+statistical purpose, including for oversight of an agency's statistical 
+activities.
+
+    ``PART B--CONFIDENTIAL <<NOTE: 44 USC 3571 prec.>>  INFORMATION 
+PROTECTION
+``Sec. 3571. <<NOTE: 44 USC 3571.>>  Findings
+
+    ``The Congress finds the following:
+            ``(1) Individuals, businesses, and other organizations have 
+        varying degrees of legal protection when providing information 
+        to the agencies for strictly statistical purposes.
+            ``(2) Pledges of confidentiality by agencies provide 
+        assurances to the public that information about individuals or 
+        organizations or provided by individuals or organizations for 
+        exclusively statistical purposes will be held in confidence and 
+        will not be used against such individuals or organizations in 
+        any agency action.
+            ``(3) Protecting the confidentiality interests of 
+        individuals or organizations who provide information under a 
+        pledge of confidentiality for Federal statistical programs 
+        serves both the interests of the public and the needs of 
+        society.
+            ``(4) Declining trust of the public in the protection of 
+        information provided under a pledge of confidentiality to the 
+        agencies adversely affects both the accuracy and completeness of 
+        statistical analyses.
+            ``(5) Ensuring that information provided under a pledge of 
+        confidentiality for statistical purposes receives protection is 
+        essential in continuing public cooperation in statistical 
+        programs.
+``Sec. 3572. <<NOTE: 44 USC 3572.>>  Confidential information 
+                  protection
+
+    ``(a) Purposes.--The purposes of this section are the following:
+            ``(1) To ensure that information supplied by individuals or 
+        organizations to an agency for statistical purposes under a 
+        pledge of confidentiality is used exclusively for statistical 
+        purposes.
+            ``(2) To ensure that individuals or organizations who supply 
+        information under a pledge of confidentiality to agencies for 
+        statistical purposes will neither have that information 
+        disclosed
+
+[[Page 132 STAT. 5549]]
+
+        in identifiable form to anyone not authorized by this subchapter 
+        nor have that information used for any purpose other than a 
+        statistical purpose.
+            ``(3) To safeguard the confidentiality of individually 
+        identifiable information acquired under a pledge of 
+        confidentiality for statistical purposes by controlling access 
+        to, and uses made of, such information.
+
+    ``(b) Use of Statistical Data or Information.--Data or information 
+acquired by an agency under a pledge of confidentiality and for 
+exclusively statistical purposes shall be used by officers, employees, 
+or agents of the agency exclusively for statistical purposes and 
+protected in accordance with such pledge.
+    ``(c) Disclosure of Statistical Data or Information.--
+            ``(1) Data or information acquired by an agency under a 
+        pledge of confidentiality for exclusively statistical purposes 
+        shall not be disclosed by an agency in identifiable form, for 
+        any use other than an exclusively statistical purpose, except 
+        with the informed consent of the respondent.
+            ``(2) A disclosure pursuant to paragraph (1) is authorized 
+        only when the head of the agency approves such disclosure and 
+        the disclosure is not prohibited by any other law.
+            ``(3) This section does not restrict or diminish any 
+        confidentiality protections in law that otherwise apply to data 
+        or information acquired by an agency under a pledge of 
+        confidentiality for exclusively statistical purposes.
+
+    ``(d) Rule for Use of Data or Information for Nonstatistical 
+Purposes.--A statistical <<NOTE: Notification. Public information.>>  
+agency or unit shall clearly distinguish any data or information it 
+collects for nonstatistical purposes (as authorized by law) and provide 
+notice to the public, before the data or information is collected, that 
+the data or information could be used for nonstatistical purposes.
+
+    ``(e) Designation of Agents.--A statistical agency or unit may 
+designate agents, by contract or by entering into a special agreement 
+containing the provisions required under section 3561(2) for treatment 
+as an agent under that section, who may perform exclusively statistical 
+activities, subject to the limitations and penalties described in this 
+subchapter.
+    ``(f) Fines and Penalties.--Whoever, being an officer, employee, or 
+agent of an agency acquiring information for exclusively statistical 
+purposes, having taken and subscribed the oath of office, or having 
+sworn to observe the limitations imposed by this section, comes into 
+possession of such information by reason of his or her being an officer, 
+employee, or agent and, knowing that the disclosure of the specific 
+information is prohibited under the provisions of this subchapter, 
+willfully discloses the information in any manner to a person or agency 
+not entitled to receive it, shall be guilty of a class E felony and 
+imprisoned for not more than 5 years, or fined not more than $250,000, 
+or both.
+
+``PART C--STATISTICAL <<NOTE: 44 USC 3575 prec.>>  EFFICIENCY
+``Sec. 3575. <<NOTE: 44 USC 3575.>>  Findings
+
+    ``The Congress finds the following:
+            ``(1) Federal statistics are an important source of 
+        information for public and private decision-makers such as 
+        policymakers, consumers, businesses, investors, and workers.
+
+[[Page 132 STAT. 5550]]
+
+            ``(2) Federal statistical agencies should continuously seek 
+        to improve their efficiency. Statutory constraints limit the 
+        ability of these agencies to share data and thus to achieve 
+        higher efficiency for Federal statistical programs.
+            ``(3) The quality of Federal statistics depends on the 
+        willingness of businesses to respond to statistical surveys. 
+        Reducing reporting burdens will increase response rates, and 
+        therefore lead to more accurate characterizations of the 
+        economy.
+            ``(4) Enhanced sharing of business data among the Bureau of 
+        the Census, the Bureau of Economic Analysis, and the Bureau of 
+        Labor Statistics for exclusively statistical purposes will 
+        improve their ability to track more accurately the large and 
+        rapidly changing nature of United States business. In 
+        particular, the statistical agencies will be able to better 
+        ensure that businesses are consistently classified in 
+        appropriate industries, resolve data anomalies, produce 
+        statistical samples that are consistently adjusted for the entry 
+        and exit of new businesses in a timely manner, and correct 
+        faulty reporting errors quickly and efficiently.
+            ``(5) Congress enacted the International Investment and 
+        Trade in Services Survey Act (Public Law 94-472), which allowed 
+        the Bureau of the Census, the Bureau of Economic Analysis, and 
+        the Bureau of Labor Statistics to share data on foreign-owned 
+        companies. The Act not only expanded detailed industry coverage 
+        from 135 industries to over 800 industries with no increase in 
+        the data collected from respondents but also demonstrated how 
+        data sharing can result in the creation of valuable data 
+        products.
+            ``(6) With part B of this subchapter, the sharing of 
+        business data among the Bureau of the Census, the Bureau of 
+        Economic Analysis, and the Bureau of Labor Statistics continues 
+        to ensure the highest level of confidentiality for respondents 
+        to statistical surveys.
+``Sec. 3576. <<NOTE: 44 USC 3576.>>  Designated statistical 
+                  agencies
+
+    ``(a) Purposes.--The purposes of this section are the following:
+            ``(1) To authorize the sharing of business data among the 
+        Bureau of the Census, the Bureau of Economic Analysis, and the 
+        Bureau of Labor Statistics for exclusively statistical purposes.
+            ``(2) To reduce the paperwork burdens imposed on businesses 
+        that provide requested information to the Federal Government.
+            ``(3) To improve the comparability and accuracy of Federal 
+        economic statistics by allowing the Bureau of the Census, the 
+        Bureau of Economic Analysis, and the Bureau of Labor Statistics 
+        to update sample frames, develop consistent classifications of 
+        establishments and companies into industries, improve coverage, 
+        and reconcile significant differences in data produced by the 
+        three agencies.
+            ``(4) To increase understanding of the United States 
+        economy, especially for key industry and regional statistics, to 
+        develop more accurate measures of the impact of technology on 
+        productivity growth, and to enhance the reliability of the 
+        Nation's most important economic indicators, such as the 
+        National Income and Product Accounts.
+
+[[Page 132 STAT. 5551]]
+
+    ``(b) Responsibilities of Designated Statistical Agencies.--The head 
+of each of the Designated Statistical Agencies shall--
+            ``(1) identify opportunities to eliminate duplication and 
+        otherwise reduce reporting burden and cost imposed on the public 
+        in providing information for statistical purposes;
+            ``(2) enter into joint statistical projects to improve the 
+        quality and reduce the cost of statistical programs; and
+            ``(3) protect the confidentiality of individually 
+        identifiable information acquired for statistical purposes by 
+        adhering to safeguard principles, including--
+                    ``(A) emphasizing to their officers, employees, and 
+                agents the importance of protecting the confidentiality 
+                of information in cases where the identity of individual 
+                respondents can reasonably be inferred by either direct 
+                or indirect means;
+                    ``(B) training their officers, employees, and agents 
+                in their legal obligations to protect the 
+                confidentiality of individually identifiable information 
+                and in the procedures that must be followed to provide 
+                access to such information;
+                    ``(C) implementing appropriate measures to assure 
+                the physical and electronic security of confidential 
+                data;
+                    ``(D) establishing a system of records that 
+                identifies individuals accessing confidential data and 
+                the project for which the data were required; and
+                    ``(E) being prepared to document their compliance 
+                with safeguard principles to other agencies authorized 
+                by law to monitor such compliance.
+
+    ``(c) Sharing of Business Data Among Designated Statistical 
+Agencies.--
+            ``(1) In general.--A Designated Statistical Agency may 
+        provide business data in an identifiable form to another 
+        Designated Statistical Agency under the terms of a written 
+        agreement among the agencies sharing the business data that 
+        specifies--
+                    ``(A) the business data to be shared;
+                    ``(B) the statistical purposes for which the 
+                business data are to be used;
+                    ``(C) the officers, employees, and agents authorized 
+                to examine the business data to be shared; and
+                    ``(D) appropriate security procedures to safeguard 
+                the confidentiality of the business data.
+            ``(2) Responsibilities of agencies under other laws.--The 
+        provision of business data by an agency to a Designated 
+        Statistical Agency under this section shall in no way alter the 
+        responsibility of the agency providing the data under other 
+        statutes (including sections 552 and 552b of title 5) with 
+        respect to the provision or withholding of such information by 
+        the agency providing the data.
+            ``(3) Responsibilities of officers, employees, and agents.--
+        Examination of business data in identifiable form shall be 
+        limited to the officers, employees, and agents authorized to 
+        examine the individual reports in accordance with written 
+        agreements pursuant to this section. Officers, employees, and 
+        agents of a Designated Statistical Agency who receive data 
+        pursuant to this section shall be subject to all provisions of 
+        law, including penalties, that relate--
+
+[[Page 132 STAT. 5552]]
+
+                    ``(A) to the unlawful provision of the business data 
+                that would apply to the officers, employees, and agents 
+                of the agency that originally obtained the information; 
+                and
+                    ``(B) to the unlawful disclosure of the business 
+                data that would apply to officers, employees, and agents 
+                of the agency that originally obtained the information.
+            ``(4) <<NOTE: Time period.>>  Notice.--Whenever a written 
+        agreement concerns data that respondents were required by law to 
+        report and the respondents were not informed that the data could 
+        be shared among the Designated Statistical Agencies, for 
+        exclusively statistical purposes, the terms of such agreement 
+        shall be described in a public notice issued by the agency that 
+        intends to provide the data. Such notice shall allow a minimum 
+        of 60 days for public comment.
+
+    ``(d) Limitations on Use of Business Data Provided by Designated 
+Statistical Agencies.--
+            ``(1) General use.--Business data provided by a Designated 
+        Statistical Agency pursuant to this section shall be used 
+        exclusively for statistical purposes.
+            ``(2) Publication.--Publication of business data acquired by 
+        a Designated Statistical Agency shall occur in a manner whereby 
+        the data furnished by any particular respondent are not in 
+        identifiable form.
+
+    ``(e) Designated Statistical Agency Defined.--In this section, the 
+term `Designated Statistical Agency' means each of the following:
+            ``(1) The Census Bureau of the Department of Commerce.
+            ``(2) The Bureau of Economic Analysis of the Department of 
+        Commerce.
+            ``(3) The Bureau of Labor Statistics of the Department of 
+        Labor.''.
+
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 35 of title 44, United States Code, as amended by proceeding 
+provisions of this Act, <<NOTE: 44 USC 3501 prec.>>  is further amended 
+by adding at the end the following:
+
+  ``subchapter iii--confidential information protection and statistical 
+                               efficiency
+
+                            ``Part A--General
+
+``3561. Definitions.
+``3562. Coordination and oversight of policies.
+``3563. Statistical agencies.
+``3564. Effect on other laws.
+
+              ``Part B--Confidential Information Protection
+
+``3571. Findings.
+``3572. Confidential information protection.
+
+                    ``Part C--Statistical Efficiency
+
+``3575. Findings.
+``3576. Designated statistical agencies.''.
+
+    (c) Conforming Amendments.--
+            (1) Repeal of confidential information protection and 
+        statistical efficiency act of 2002.--Title V of the E-Government 
+        Act of 2002 (Public Law 107-347; 44 U.S.C. 3501 note) is 
+        repealed (and the table of contents of such Act shall be 
+        conformed accordingly).
+
+[[Page 132 STAT. 5553]]
+
+            (2) Title 13, united states code.--Section 402 of title 13, 
+        United States Code, is amended by striking ``the Confidential 
+        Information Protection and Statistical Efficiency Act of 2002'' 
+        and inserting ``section 3576(e) of title 44''.
+            (3) Title 49, united states code.--Title 49, United States 
+        Code, is amended--
+                    (A) in section 6302(d)(4), by striking ``the 
+                Confidential Information'' and all that follows through 
+                the period and inserting ``section 3572 of title 44.''; 
+                and
+                    (B) in section 6314(d)(2), by striking ``the 
+                Confidential Information'' and all that follows through 
+                the period and inserting ``section 3572 of title 44.''.
+            (4) Act of january 27, 1938.--The first section of the Act 
+        of January 27, 1938, entitled ``An Act to make confidential 
+        certain information furnished to the Bureau of Foreign and 
+        Domestic Commerce, and for other purposes'' (52 Stat. 8, chapter 
+        11; 15 U.S.C. 176a), is amended by striking ``the Confidential 
+        Information Protection and Statistical Efficiency Act of 2002'' 
+        and inserting ``subchapter III of chapter 35 of title 44, United 
+        States Code''.
+            (5) Fixing america's surface transportation act.--Section 
+        7308(e)(2) of the Fixing America's Surface Transportation Act 
+        (Public Law 114-94; 49 U.S.C. 20155 note) is amended by striking 
+        ``the Confidential Information Protection and Statistical 
+        Efficiency Act of 2002 (44 U.S.C. 3501 note)'' and inserting 
+        ``section 3572 of title 44, United States Code''.
+
+    (d) Transitional and Savings Provisions.--
+            (1) <<NOTE: 44 USC 3561 note.>>  Cutoff date.--This title 
+        replaces certain provisions of law enacted on December 17, 2002. 
+        If a law enacted after that date amends or repeals a provision 
+        replaced by this title, that law is deemed to amend or repeal, 
+        as the case may be, the corresponding provision enacted by this 
+        title. If a law enacted after that date is otherwise 
+        inconsistent with this title, it supersedes this title to the 
+        extent of the inconsistency.
+            (2) Original date of enactment unchanged.--For purposes of 
+        determining whether one provision of law supersedes another 
+        based on enactment later in time, the date of the enactment of a 
+        provision enacted by this title is deemed to be the date of the 
+        enactment of the provision it replaced.
+            (3) References to provisions replaced.--A reference to a 
+        provision of law replaced by this title, including a reference 
+        in a regulation, order, or other law, is deemed to refer to the 
+        corresponding provision enacted by this title.
+            (4) Regulations, orders, and other administrative actions.--
+        A regulation, order, or other administrative action in effect 
+        under a provision of law replaced by this title continues in 
+        effect under the corresponding provision enacted by this title.
+            (5) Actions taken and offenses committed.--An action taken 
+        or an offense committed under a provision of law replaced by 
+        this title is deemed to have been taken or committed under the 
+        corresponding provision enacted by this title.
+SEC. 303. INCREASING ACCESS TO DATA FOR EVIDENCE.
+
+    (a) In General.--Subchapter III of chapter 35 of title 44, United 
+States Code, as added by section 302, is amended by adding at the end 
+the following new part:
+
+[[Page 132 STAT. 5554]]
+
+``PART D--ACCESS <<NOTE: 44 USC 3581 prec.>>  TO DATA FOR EVIDENCE
+``Sec. 3581. <<NOTE: 44 USC 3581.>>  Presumption of accessibility 
+                  for statistical agencies and units
+
+    ``(a) Accessibility of Data Assets.--The head of an agency shall, to 
+the extent practicable, make any data asset maintained by the agency 
+available, upon request, to any statistical agency or unit for purposes 
+of developing evidence.
+    ``(b) Limitations.--Subsection (a) does not apply to any data asset 
+that is subject to a statute that--
+            ``(1) prohibits the sharing or intended use of such asset in 
+        a manner as to leave no discretion on the issue; or
+            ``(2) if enacted after the date of the enactment of this 
+        section, specifically cites to this paragraph.
+
+    ``(c) Regulations.--The Director shall prescribe regulations for 
+agencies to carry out this section. Such regulations shall--
+            ``(1) require the timely provision of data assets under 
+        subsection (a);
+            ``(2) <<NOTE: Lists.>>  provide a list of statutes that 
+        exempt agencies from the requirement under subsection (a) 
+        pursuant to subsection (b)(1);
+            ``(3) establish clear and consistent standards, to the 
+        extent possible, for complying with section 552a of title 5 
+        (commonly known as the `Privacy Act of 1974') and any other 
+        applicable law requiring the protection and confidentiality of 
+        individually identifiable information; and
+            ``(4) require a transparent process for statistical agencies 
+        and units to request data assets from agencies and for agencies 
+        to respond to such requests.
+
+    ``(d) Rule of Construction.--Nothing in this section may be 
+construed as altering existing intellectual property rights or the terms 
+of any contract or other binding, written agreement.
+``Sec. 3582. <<NOTE: 44 USC 3582.>>  Expanding secure access to 
+                  CIPSEA data assets
+
+    ``(a) Statistical Agency Responsibilities.--To the extent 
+practicable, each statistical agency or unit shall expand access to data 
+assets of such agency or unit acquired or accessed under this subchapter 
+to develop evidence while protecting such assets from inappropriate 
+access and use, in accordance with the regulations promulgated under 
+subsection (b).
+    ``(b) Regulations for Accessibility of Nonpublic Data Assets.--The 
+Director shall promulgate regulations, in accordance with applicable 
+law, for statistical agencies and units to carry out the requirement 
+under subsection (a). Such regulations shall include the following:
+            ``(1) <<NOTE: Standards. Assessment. Criteria.>>  Standards 
+        for each statistical agency or unit to assess each data asset 
+        owned or accessed by the statistical agency or unit for purposes 
+        of categorizing the sensitivity level of each such asset and 
+        identifying the corresponding level of accessibility to each 
+        such asset. Such standards shall include--
+                    ``(A) common sensitivity levels and corresponding 
+                levels of accessibility that may be assigned to a data 
+                asset, including a requisite minimum and maximum number 
+                of sensitivity levels for each statistical agency or 
+                unit to use;
+                    ``(B) criteria for determining the sensitivity level 
+                and corresponding level of accessibility of each data 
+                asset; and
+
+[[Page 132 STAT. 5555]]
+
+                    ``(C) criteria for determining whether a less 
+                sensitive and more accessible version of a data asset 
+                can be produced.
+            ``(2) <<NOTE: Standards.>>  Standards for each statistical 
+        agency or unit to improve access to a data asset pursuant to 
+        paragraph (1) or (3) by removing or obscuring information in 
+        such a manner that the identity of the data subject is less 
+        likely to be reasonably inferred by either direct or indirect 
+        means.
+            ``(3) <<NOTE: Risk assessment. Standards. Criteria.>>  A 
+        requirement for each statistical agency or unit to conduct a 
+        comprehensive risk assessment of any data asset acquired or 
+        accessed under this subchapter prior to any public release of 
+        such asset, including standards for such comprehensive risk 
+        assessment and criteria for making a determination of whether to 
+        release the data.
+            ``(4) Requirements for each statistical agency or unit to 
+        make any process or assessment established, produced, or 
+        conducted pursuant to this section transparent and easy to 
+        understand, including the following:
+                    ``(A) A requirement to make information on the 
+                assessment of the sensitivity level of each data asset 
+                conducted pursuant to paragraph (1) available on the 
+                Federal data catalogue established under section 
+                3511(c)(1).
+                    ``(B) A requirement to make any comprehensive risk 
+                assessment, and associated determinations, conducted 
+                under paragraph (3) available on the Federal data 
+                catalogue established under section 3511(c)(1).
+                    ``(C) A requirement to make any standard or policy 
+                established by the statistical agency or unit to carry 
+                out this section and any assessment conducted under this 
+                section easily accessible on the public website of such 
+                agency or unit.
+
+    ``(c) <<NOTE: Public information.>>  Responsibilities of the 
+Director.--The Director shall--
+            ``(1) make public all standards and policies established 
+        under this section; and
+            ``(2) ensure that statistical agencies and units have the 
+        ability to make information public on the Federal data catalogue 
+        established under section 3511(c)(1), in accordance with 
+        requirements established pursuant to subsection (b).
+``Sec. 3583. <<NOTE: 44 USC 3583.>>  Application to access data 
+                  assets for developing evidence
+
+    ``(a) Standard Application Process.--The Director shall establish a 
+process through which agencies, the Congressional Budget Office, State, 
+local, and Tribal governments, researchers, and other individuals, as 
+appropriate, may apply to access the data assets accessed or acquired 
+under this subchapter by a statistical agency or unit for purposes of 
+developing evidence. The process shall include the following:
+            ``(1) Sufficient detail to ensure that each statistical 
+        agency or unit establishes an identical process.
+            ``(2) A common application form.
+            ``(3) <<NOTE: Criteria. Determination.>>  Criteria for 
+        statistical agencies and units to determine whether to grant an 
+        applicant access to a data asset.
+            ``(4) <<NOTE: Timeframes.>>  Timeframes for prompt 
+        determinations by each statistical agency or unit.
+            ``(5) An appeals process for adverse decisions and 
+        noncompliance with the process established under this 
+        subsection.
+
+[[Page 132 STAT. 5556]]
+
+            ``(6) <<NOTE: Standards. Public information.>>  Standards 
+        for transparency, including requirements to make the following 
+        information publicly available:
+                    ``(A) Each application received.
+                    ``(B) The status of each application.
+                    ``(C) The determination made for each application.
+                    ``(D) Any other information, as appropriate, to 
+                ensure full transparency of the process established 
+                under this subsection.
+
+    ``(b) Consultation.--In establishing the process required under 
+subsection (a), the Director shall consult with stakeholders, including 
+the public, agencies, State and local governments, and representatives 
+of non-governmental researchers.
+    ``(c) Implementation.--The head of each statistical agency or unit 
+shall implement the process established under subsection (a).''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 35 of title 44, United States Code, as amended by preceding 
+provisions of this Act, <<NOTE: 44 USC 3501 prec.>>  is further amended 
+by adding at the end the following:
+
+                  ``Part D--Access to Data for Evidence
+
+``3581. Presumption of accessibility for statistical agencies and units.
+``3582. Expanding secure access to CIPSEA data assets.
+``3583. Application to access data assets for developing evidence.''.
+
+    (c) <<NOTE: Regulations. 44 USC 3561 note.>>  Deadline for Guidance 
+and Implementation.--Not later than 1 year after the date of the 
+enactment of this Act, the Director of the Office of Management and 
+Budget shall promulgate or issue any regulation or guidance required by 
+subchapter III of title 44, United States Code, as amended by this 
+section, with a requirement for such regulation or guidance to be 
+implemented not later than 1 year after the date on which such 
+regulation or guidance has been promulgated or issued.
+
+                      TITLE IV--GENERAL PROVISIONS
+
+SEC. 401. <<NOTE: 5 USC 306 note.>>  RULE OF CONSTRUCTION.
+
+    Nothing in this Act, or the amendments made by this Act, may be 
+construed--
+            (1) to require the disclosure of information or records that 
+        are exempt from disclosure under section 552 of title 5, United 
+        States Code (commonly known as the ``Freedom of Information 
+        Act'');
+            (2) to create or expand an exemption from disclosure under 
+        such section;
+            (3) to override, limit, or otherwise affect intellectual 
+        property rights, including rights under titles 17 and 35, United 
+        States Code;
+            (4) to affect the authority of a Federal agency regarding 
+        the use, disclosure, or licensing of--
+                    (A) confidential business information that could be 
+                withheld under section 552(b)(4) of title 5, United 
+                States Code; or
+                    (B) data assets restricted from disclosure under a 
+                contract or other binding, written agreement; or
+            (5) to affect the independence, responsibilities, or work 
+        products of an Inspector General of any agency.
+
+[[Page 132 STAT. 5557]]
+
+SEC. 402. <<NOTE: 5 USC 306 note.>>  USE OF EXISTING RESOURCES.
+
+    To the extent practicable, the head of each agency shall use 
+existing procedures and systems to carry out agency requirements and 
+shall select existing employees for appointments under this Act and the 
+amendments made by this Act.
+SEC. 403. <<NOTE: 5 USC 306 note.>>  EFFECTIVE DATE.
+
+    Except as otherwise provided, this Act, and the amendments made by 
+this Act, shall take effect on the date that is 180 days after the date 
+of the enactment of this Act.
+
+    Approved January 14, 2019.
+
+LEGISLATIVE HISTORY--H.R. 4174:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 115-411 (Comm. on Oversight and Government Reform).
+CONGRESSIONAL RECORD:
+                                                        Vol. 163 (2017):
+                                    Nov. 15, considered and passed 
+                                        House.
+                                                        Vol. 164 (2018):
+                                    Dec. 19, considered and passed 
+                                        Senate, amended.
+                                    Dec. 21, House concurred in Senate 
+                                        amendment.
+
+                                  
+

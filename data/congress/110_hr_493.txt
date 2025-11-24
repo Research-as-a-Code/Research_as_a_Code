@@ -1,0 +1,2589 @@
+
+[110th Congress Public Law 233]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ233.110]
+
+[[Page 122 STAT. 881]]
+
+Public Law 110-233
+110th Congress
+
+                                 An Act
+
+
+ 
+  To prohibit discrimination on the basis of genetic information with 
+     respect to health insurance and <<NOTE: May 21, 2008 -  [H.R. 
+                           493]>> employment.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Genetic Information Non- 
+discrimination Act of 2008. 42 USC 2000ff note.>> assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Genetic Information 
+Nondiscrimination Act of 2008''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+
+         TITLE I--GENETIC NONDISCRIMINATION IN HEALTH INSURANCE
+
+Sec. 101. Amendments to Employee Retirement Income Security Act of 1974.
+Sec. 102. Amendments to the Public Health Service Act.
+Sec. 103. Amendments to the Internal Revenue Code of 1986.
+Sec. 104. Amendments to title XVIII of the Social Security Act relating 
+           to medigap.
+Sec. 105. Privacy and confidentiality.
+Sec. 106. Assuring coordination.
+
+TITLE II--PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC 
+                               INFORMATION
+
+Sec. 201. Definitions.
+Sec. 202. Employer practices.
+Sec. 203. Employment agency practices.
+Sec. 204. Labor organization practices.
+Sec. 205. Training programs.
+Sec. 206. Confidentiality of genetic information.
+Sec. 207. Remedies and enforcement.
+Sec. 208. Disparate impact.
+Sec. 209. Construction.
+Sec. 210. Medical information that is not genetic information.
+Sec. 211. Regulations.
+Sec. 212. Authorization of appropriations.
+Sec. 213. Effective date.
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+Sec. 301. Severability.
+Sec. 302. Child labor protections.
+
+SEC. 2. <<NOTE: 42 USC 2000ff note.>> FINDINGS.
+
+    Congress makes the following findings:
+            (1) Deciphering the sequence of the human genome and other 
+        advances in genetics open major new opportunities for medical 
+        progress. New knowledge about the genetic basis of illness will 
+        allow for earlier detection of illnesses, often before symptoms 
+        have begun. Genetic testing can allow individuals to take steps 
+        to reduce the likelihood that they will contract
+
+[[Page 122 STAT. 882]]
+
+        a particular disorder. New knowledge about genetics may allow 
+        for the development of better therapies that are more effective 
+        against disease or have fewer side effects than current 
+        treatments. These advances give rise to the potential misuse of 
+        genetic information to discriminate in health insurance and 
+        employment.
+            (2) The early science of genetics became the basis of State 
+        laws that provided for the sterilization of persons having 
+        presumed genetic ``defects'' such as mental retardation, mental 
+        disease, epilepsy, blindness, and hearing loss, among other 
+        conditions. The first sterilization law was enacted in the State 
+        of Indiana in 1907. By 1981, a majority of States adopted 
+        sterilization laws to ``correct'' apparent genetic traits or 
+        tendencies. Many of these State laws have since been repealed, 
+        and many have been modified to include essential constitutional 
+        requirements of due process and equal protection. However, the 
+        current explosion in the science of genetics, and the history of 
+        sterilization laws by the States based on early genetic science, 
+        compels Congressional action in this area.
+            (3) Although genes are facially neutral markers, many 
+        genetic conditions and disorders are associated with particular 
+        racial and ethnic groups and gender. Because some genetic traits 
+        are most prevalent in particular groups, members of a particular 
+        group may be stigmatized or discriminated against as a result of 
+        that genetic information. This form of discrimination was 
+        evident in the 1970s, which saw the advent of programs to screen 
+        and identify carriers of sickle cell anemia, a disease which 
+        afflicts African-Americans. Once again, State legislatures began 
+        to enact discriminatory laws in the area, and in the early 1970s 
+        began mandating genetic screening of all African Americans for 
+        sickle cell anemia, leading to discrimination and unnecessary 
+        fear. To alleviate some of this stigma, Congress in 1972 passed 
+        the National Sickle Cell Anemia Control Act, which withholds 
+        Federal funding from States unless sickle cell testing is 
+        voluntary.
+            (4) Congress has been informed of examples of genetic 
+        discrimination in the workplace. These include the use of pre-
+        employment genetic screening at Lawrence Berkeley Laboratory, 
+        which led to a court decision in favor of the employees in that 
+        case Norman-Bloodsaw v. Lawrence Berkeley Laboratory (135 F.3d 
+        1260, 1269 (9th Cir. 1998)). Congress clearly has a compelling 
+        public interest in relieving the fear of discrimination and in 
+        prohibiting its actual practice in employment and health 
+        insurance.
+            (5) Federal law addressing genetic discrimination in health 
+        insurance and employment is incomplete in both the scope and 
+        depth of its protections. Moreover, while many States have 
+        enacted some type of genetic non-discrimination law, these laws 
+        vary widely with respect to their approach, application, and 
+        level of protection. Congress has collected substantial evidence 
+        that the American public and the medical community find the 
+        existing patchwork of State and Federal laws to be confusing and 
+        inadequate to protect them from discrimination. Therefore 
+        Federal legislation establishing a national and uniform basic 
+        standard is necessary to fully protect the public from 
+        discrimination and allay their concerns about the potential
+
+[[Page 122 STAT. 883]]
+
+        for discrimination, thereby allowing individuals to take 
+        advantage of genetic testing, technologies, research, and new 
+        therapies.
+
+         TITLE I--GENETIC NONDISCRIMINATION IN HEALTH INSURANCE
+
+SEC. 101. AMENDMENTS TO EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 
+                        1974.
+
+    (a) No Discrimination in Group Premiums Based on Genetic 
+Information.--Section 702(b) of the Employee Retirement Income Security 
+Act of 1974 (29 U.S.C. 1182(b)) is amended--
+            (1) in paragraph (2)(A), by inserting before the semicolon 
+        the following: ``except as provided in paragraph (3)''; and
+            (2) by adding at the end the following:
+            ``(3) No group-based discrimination on basis of genetic 
+        information.--
+                    ``(A) In general.--For purposes of this section, a 
+                group health plan, and a health insurance issuer 
+                offering group health insurance coverage in connection 
+                with a group health plan, may not adjust premium or 
+                contribution amounts for the group covered under such 
+                plan on the basis of genetic information.
+                    ``(B) Rule of construction.--Nothing in subparagraph 
+                (A) or in paragraphs (1) and (2) of subsection (d) shall 
+                be construed to limit the ability of a health insurance 
+                issuer offering health insurance coverage in connection 
+                with a group health plan to increase the premium for an 
+                employer based on the manifestation of a disease or 
+                disorder of an individual who is enrolled in the plan. 
+                In such case, the manifestation of a disease or disorder 
+                in one individual cannot also be used as genetic 
+                information about other group members and to further 
+                increase the premium for the employer.''.
+
+    (b) Limitations on Genetic Testing; Prohibition on Collection of 
+Genetic Information; Application to All Plans.--Section 702 of the 
+Employee Retirement Income Security Act of 1974 (29 U.S.C. 1182) is 
+amended by adding at the end the following:
+    ``(c) Genetic Testing.--
+            ``(1) Limitation on requesting or requiring genetic 
+        testing.--A group health plan, and a health insurance issuer 
+        offering health insurance coverage in connection with a group 
+        health plan, shall not request or require an individual or a 
+        family member of such individual to undergo a genetic test.
+            ``(2) Rule of construction.--Paragraph (1) shall not be 
+        construed to limit the authority of a health care professional 
+        who is providing health care services to an individual to 
+        request that such individual undergo a genetic test.
+            ``(3) Rule of construction regarding payment.--
+                    ``(A) In general.--Nothing in paragraph (1) shall be 
+                construed to preclude a group health plan, or a health 
+                insurance issuer offering health insurance coverage in 
+                connection with a group health plan, from obtaining and 
+                using the results of a genetic test in making a 
+                determination regarding payment (as such term is defined 
+                for the purposes of applying the regulations promulgated 
+                by the
+
+[[Page 122 STAT. 884]]
+
+                Secretary of Health and Human Services under part C of 
+                title XI of the Social Security Act and section 264 of 
+                the Health Insurance Portability and Accountability Act 
+                of 1996, as may be revised from time to time) consistent 
+                with subsection (a).
+                    ``(B) Limitation.--For purposes of subparagraph (A), 
+                a group health plan, or a health insurance issuer 
+                offering health insurance coverage in connection with a 
+                group health plan, may request only the minimum amount 
+                of information necessary to accomplish the intended 
+                purpose.
+            ``(4) Research exception.--Notwithstanding paragraph (1), a 
+        group health plan, or a health insurance issuer offering health 
+        insurance coverage in connection with a group health plan, may 
+        request, but not require, that a participant or beneficiary 
+        undergo a genetic test if each of the following conditions is 
+        met:
+                    ``(A) The request is made, in writing, pursuant to 
+                research that complies with part 46 of title 45, Code of 
+                Federal Regulations, or equivalent Federal regulations, 
+                and any applicable State or local law or regulations for 
+                the protection of human subjects in research.
+                    ``(B) The plan or issuer clearly indicates to each 
+                participant or beneficiary, or in the case of a minor 
+                child, to the legal guardian of such beneficiary, to 
+                whom the request is made that--
+                          ``(i) compliance with the request is 
+                      voluntary; and
+                          ``(ii) non-compliance will have no effect on 
+                      enrollment status or premium or contribution 
+                      amounts.
+                    ``(C) No genetic information collected or acquired 
+                under this paragraph shall be used for underwriting 
+                purposes.
+                    ``(D) <<NOTE: Notification.>> The plan or issuer 
+                notifies the Secretary in writing that the plan or 
+                issuer is conducting activities pursuant to the 
+                exception provided for under this paragraph, including a 
+                description of the activities conducted.
+                    ``(E) The plan or issuer complies with such other 
+                conditions as the Secretary may by regulation require 
+                for activities conducted under this paragraph.
+
+    ``(d) Prohibition on Collection of Genetic Information.--
+            ``(1) In general.--A group health plan, and a health 
+        insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall not request, require, 
+        or purchase genetic information for underwriting purposes (as 
+        defined in section 733).
+            ``(2) Prohibition on collection of genetic information prior 
+        to enrollment.--A group health plan, and a health insurance 
+        issuer offering health insurance coverage in connection with a 
+        group health plan, shall not request, require, or purchase 
+        genetic information with respect to any individual prior to such 
+        individual's enrollment under the plan or coverage in connection 
+        with such enrollment.
+            ``(3) Incidental collection.--If a group health plan, or a 
+        health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, obtains genetic information 
+        incidental to the requesting, requiring, or purchasing of other 
+        information concerning any individual, such request, 
+        requirement, or purchase shall not be considered a violation
+
+[[Page 122 STAT. 885]]
+
+        of paragraph (2) if such request, requirement, or purchase is 
+        not in violation of paragraph (1).
+
+    ``(e) Application to All Plans.--The provisions of subsections 
+(a)(1)(F), (b)(3), (c), and (d), and subsection (b)(1) and section 701 
+with respect to genetic information, shall apply to group health plans 
+and health insurance issuers without regard to section 732(a).''.
+    (c) Application to Genetic Information of a Fetus or Embryo.--Such 
+section is further amended by adding at the end the following:
+    ``(f) Genetic Information of a Fetus or Embryo.--Any reference in 
+this part to genetic information concerning an individual or family 
+member of an individual shall--
+            ``(1) with respect to such an individual or family member of 
+        an individual who is a pregnant woman, include genetic 
+        information of any fetus carried by such pregnant woman; and
+            ``(2) with respect to an individual or family member 
+        utilizing an assisted reproductive technology, include genetic 
+        information of any embryo legally held by the individual or 
+        family member.''.
+
+    (d) Definitions.--Section 733(d) of the Employee Retirement Income 
+Security Act of 1974 (29 U.S.C. 1191b(d)) is amended by adding at the 
+end the following:
+            ``(5) Family member.--The term `family member' means, with 
+        respect to an individual--
+                    ``(A) a dependent (as such term is used for purposes 
+                of section 701(f)(2)) of such individual, and
+                    ``(B) any other individual who is a first-degree, 
+                second-degree, third-degree, or fourth-degree relative 
+                of such individual or of an individual described in 
+                subparagraph (A).
+            ``(6) Genetic information.--
+                    ``(A) In general.--The term `genetic information' 
+                means, with respect to any individual, information 
+                about--
+                          ``(i) such individual's genetic tests,
+                          ``(ii) the genetic tests of family members of 
+                      such individual, and
+                          ``(iii) the manifestation of a disease or 
+                      disorder in family members of such individual.
+                    ``(B) Inclusion of genetic services and 
+                participation in genetic research.--Such term includes, 
+                with respect to any individual, any request for, or 
+                receipt of, genetic services, or participation in 
+                clinical research which includes genetic services, by 
+                such individual or any family member of such individual.
+                    ``(C) Exclusions.--The term `genetic information' 
+                shall not include information about the sex or age of 
+                any individual.
+            ``(7) Genetic test.--
+                    ``(A) In general.--The term `genetic test' means an 
+                analysis of human DNA, RNA, chromosomes, proteins, or 
+                metabolites, that detects genotypes, mutations, or 
+                chromosomal changes.
+                    ``(B) Exceptions.--The term `genetic test' does not 
+                mean--
+
+[[Page 122 STAT. 886]]
+
+                          ``(i) an analysis of proteins or metabolites 
+                      that does not detect genotypes, mutations, or 
+                      chromosomal changes; or
+                          ``(ii) an analysis of proteins or metabolites 
+                      that is directly related to a manifested disease, 
+                      disorder, or pathological condition that could 
+                      reasonably be detected by a health care 
+                      professional with appropriate training and 
+                      expertise in the field of medicine involved.
+            ``(8) Genetic services.--The term `genetic services' means--
+                    ``(A) a genetic test;
+                    ``(B) genetic counseling (including obtaining, 
+                interpreting, or assessing genetic information); or
+                    ``(C) genetic education.
+            ``(9) Underwriting purposes.--The term `underwriting 
+        purposes' means, with respect to any group health plan, or 
+        health insurance coverage offered in connection with a group 
+        health plan--
+                    ``(A) rules for, or determination of, eligibility 
+                (including enrollment and continued eligibility) for 
+                benefits under the plan or coverage;
+                    ``(B) the computation of premium or contribution 
+                amounts under the plan or coverage;
+                    ``(C) the application of any pre-existing condition 
+                exclusion under the plan or coverage; and
+                    ``(D) other activities related to the creation, 
+                renewal, or replacement of a contract of health 
+                insurance or health benefits.''.
+
+    (e) ERISA Enforcement.--Section 502 of the Employee Retirement 
+Income Security Act of 1974 (29 U.S.C. 1132) is amended--
+            (1) in subsection (a)(6), by striking ``(7), or (8)'' and 
+        inserting ``(7), (8), or (9)'';
+            (2) in subsection (b)(3), by striking ``The Secretary'' and 
+        inserting ``Except as provided in subsections (c)(9) and (a)(6) 
+        (with respect to collecting civil penalties under subsection 
+        (c)(9)), the Secretary''; and
+            (3) in subsection (c), by redesignating paragraph (9) as 
+        paragraph (10), and by inserting after paragraph (8) the 
+        following new paragraph:
+            ``(9) Secretarial enforcement authority relating to use of 
+        genetic information.--
+                    ``(A) General rule.--The Secretary may impose a 
+                penalty against any plan sponsor of a group health plan, 
+                or any health insurance issuer offering health insurance 
+                coverage in connection with the plan, for any failure by 
+                such sponsor or issuer to meet the requirements of 
+                subsection (a)(1)(F), (b)(3), (c), or (d) of section 702 
+                or section 701 or 702(b)(1) with respect to genetic 
+                information, in connection with the plan.
+                    ``(B) Amount.--
+                          ``(i) In general.--The amount of the penalty 
+                      imposed by subparagraph (A) shall be $100 for each 
+                      day in the noncompliance period with respect to 
+                      each participant or beneficiary to whom such 
+                      failure relates.
+                          ``(ii) Noncompliance period.--For purposes of 
+                      this paragraph, the term `noncompliance period' 
+                      means, with respect to any failure, the period--
+
+[[Page 122 STAT. 887]]
+
+                                    ``(I) beginning on the date such 
+                                failure first occurs; and
+                                    ``(II) ending on the date the 
+                                failure is corrected.
+                    ``(C) Minimum penalties where failure discovered.--
+                Notwithstanding clauses (i) and (ii) of subparagraph 
+                (D):
+                          ``(i) In general.--In the case of 1 or more 
+                      failures with respect to a participant or 
+                      beneficiary--
+                                    ``(I) which are not corrected before 
+                                the date on which the plan receives a 
+                                notice from the Secretary of such 
+                                violation; and
+                                    ``(II) which occurred or continued 
+                                during the period involved;
+                      the amount of penalty imposed by subparagraph (A) 
+                      by reason of such failures with respect to such 
+                      participant or beneficiary shall not be less than 
+                      $2,500.
+                          ``(ii) Higher minimum penalty where violations 
+                      are more than de minimis.--To the extent 
+                      violations for which any person is liable under 
+                      this paragraph for any year are more than de 
+                      minimis, clause (i) shall be applied by 
+                      substituting `$15,000' for `$2,500' with respect 
+                      to such person.
+                    ``(D) Limitations.--
+                          ``(i) Penalty not to apply where failure not 
+                      discovered exercising reasonable diligence.--No 
+                      penalty shall be imposed by subparagraph (A) on 
+                      any failure during any period for which it is 
+                      established to the satisfaction of the Secretary 
+                      that the person otherwise liable for such penalty 
+                      did not know, and exercising reasonable diligence 
+                      would not have known, that such failure existed.
+                          ``(ii) Penalty not to apply to failures 
+                      corrected within certain periods.--No penalty 
+                      shall be imposed by subparagraph (A) on any 
+                      failure if--
+                                    ``(I) such failure was due to 
+                                reasonable cause and not to willful 
+                                neglect; and
+                                    ``(II) such failure is corrected 
+                                during the 30-day period beginning on 
+                                the first date the person otherwise 
+                                liable for such penalty knew, or 
+                                exercising reasonable diligence would 
+                                have known, that such failure existed.
+                          ``(iii) Overall limitation for unintentional 
+                      failures.--In the case of failures which are due 
+                      to reasonable cause and not to willful neglect, 
+                      the penalty imposed by subparagraph (A) for 
+                      failures shall not exceed the amount equal to the 
+                      lesser of--
+                                    ``(I) 10 percent of the aggregate 
+                                amount paid or incurred by the plan 
+                                sponsor (or predecessor plan sponsor) 
+                                during the preceding taxable year for 
+                                group health plans; or
+                                    ``(II) $500,000.
+                    ``(E) Waiver by secretary.--In the case of a failure 
+                which is due to reasonable cause and not to willful 
+                neglect, the Secretary may waive part or all of the 
+                penalty imposed by subparagraph (A) to the extent that 
+                the payment of such penalty would be excessive relative 
+                to the failure involved.
+
+[[Page 122 STAT. 888]]
+
+                    ``(F) Definitions.--Terms used in this paragraph 
+                which are defined in section 733 shall have the meanings 
+                provided such terms in such section.''.
+
+    (f) Regulations and <<NOTE: 29 USC 1132 note.>> Effective Date.--
+            (1) Regulations.--The Secretary of Labor shall issue final 
+        regulations not later than 12 months after the date of enactment 
+        of this Act to carry out the amendments made by this section.
+            (2) Effective date.--The amendments made by this section 
+        shall <<NOTE: Applicability.>> apply with respect to group 
+        health plans for plan years beginning after the date that is 1 
+        year after the date of enactment of this Act.
+SEC. 102. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT.
+
+    (a) Amendments Relating to the Group Market.--
+            (1) No discrimination in group premiums based on genetic 
+        information.--Section 2702(b) of the Public Health Service Act 
+        (42 U.S.C. 300gg-1(b)) is amended--
+                    (A) in paragraph (2)(A), by inserting before the 
+                semicolon the following: ``except as provided in 
+                paragraph (3)''; and
+                    (B) by adding at the end the following:
+            ``(3) No group-based discrimination on basis of genetic 
+        information.--
+                    ``(A) In general.--For purposes of this section, a 
+                group health plan, and health insurance issuer offering 
+                group health insurance coverage in connection with a 
+                group health plan, may not adjust premium or 
+                contribution amounts for the group covered under such 
+                plan on the basis of genetic information.
+                    ``(B) Rule of construction.--Nothing in subparagraph 
+                (A) or in paragraphs (1) and (2) of subsection (d) shall 
+                be construed to limit the ability of a health insurance 
+                issuer offering health insurance coverage in connection 
+                with a group health plan to increase the premium for an 
+                employer based on the manifestation of a disease or 
+                disorder of an individual who is enrolled in the plan. 
+                In such case, the manifestation of a disease or disorder 
+                in one individual cannot also be used as genetic 
+                information about other group members and to further 
+                increase the premium for the employer.''.
+            (2) Limitations on genetic testing; prohibition on 
+        collection of genetic information; application to all plans.--
+        Section 2702 of the Public Health Service Act (42 U.S.C. 300gg-
+        1) is amended by adding at the end the following:
+
+    ``(c) Genetic Testing.--
+            ``(1) Limitation on requesting or requiring genetic 
+        testing.--A group health plan, and a health insurance issuer 
+        offering health insurance coverage in connection with a group 
+        health plan, shall not request or require an individual or a 
+        family member of such individual to undergo a genetic test.
+            ``(2) Rule of construction.--Paragraph (1) shall not be 
+        construed to limit the authority of a health care professional 
+        who is providing health care services to an individual to 
+        request that such individual undergo a genetic test.
+            ``(3) Rule of construction regarding payment.--
+
+[[Page 122 STAT. 889]]
+
+                    ``(A) In general.--Nothing in paragraph (1) shall be 
+                construed to preclude a group health plan, or a health 
+                insurance issuer offering health insurance coverage in 
+                connection with a group health plan, from obtaining and 
+                using the results of a genetic test in making a 
+                determination regarding payment (as such term is defined 
+                for the purposes of applying the regulations promulgated 
+                by the Secretary under part C of title XI of the Social 
+                Security Act and section 264 of the Health Insurance 
+                Portability and Accountability Act of 1996, as may be 
+                revised from time to time) consistent with subsection 
+                (a).
+                    ``(B) Limitation.--For purposes of subparagraph (A), 
+                a group health plan, or a health insurance issuer 
+                offering health insurance coverage in connection with a 
+                group health plan, may request only the minimum amount 
+                of information necessary to accomplish the intended 
+                purpose.
+            ``(4) Research exception.--Notwithstanding paragraph (1), a 
+        group health plan, or a health insurance issuer offering health 
+        insurance coverage in connection with a group health plan, may 
+        request, but not require, that a participant or beneficiary 
+        undergo a genetic test if each of the following conditions is 
+        met:
+                    ``(A) The request is made pursuant to research that 
+                complies with part 46 of title 45, Code of Federal 
+                Regulations, or equivalent Federal regulations, and any 
+                applicable State or local law or regulations for the 
+                protection of human subjects in research.
+                    ``(B) The plan or issuer clearly indicates to each 
+                participant or beneficiary, or in the case of a minor 
+                child, to the legal guardian of such beneficiary, to 
+                whom the request is made that--
+                          ``(i) compliance with the request is 
+                      voluntary; and
+                          ``(ii) non-compliance will have no effect on 
+                      enrollment status or premium or contribution 
+                      amounts.
+                    ``(C) No genetic information collected or acquired 
+                under this paragraph shall be used for underwriting 
+                purposes.
+                    ``(D) <<NOTE: Notification.>> The plan or issuer 
+                notifies the Secretary in writing that the plan or 
+                issuer is conducting activities pursuant to the 
+                exception provided for under this paragraph, including a 
+                description of the activities conducted.
+                    ``(E) The plan or issuer complies with such other 
+                conditions as the Secretary may by regulation require 
+                for activities conducted under this paragraph.
+
+    ``(d) Prohibition on Collection of Genetic Information.--
+            ``(1) In general.--A group health plan, and a health 
+        insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall not request, require, 
+        or purchase genetic information for underwriting purposes (as 
+        defined in section 2791).
+            ``(2) Prohibition on collection of genetic information prior 
+        to enrollment.--A group health plan, and a health insurance 
+        issuer offering health insurance coverage in connection with a 
+        group health plan, shall not request, require, or purchase 
+        genetic information with respect to any individual prior to such 
+        individual's enrollment under the plan or coverage in connection 
+        with such enrollment.
+
+[[Page 122 STAT. 890]]
+
+            ``(3) Incidental collection.--If a group health plan, or a 
+        health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, obtains genetic information 
+        incidental to the requesting, requiring, or purchasing of other 
+        information concerning any individual, such request, 
+        requirement, or purchase shall not be considered a violation of 
+        paragraph (2) if such request, requirement, or purchase is not 
+        in violation of paragraph (1).
+
+    ``(e) Application to All Plans.--The provisions of subsections 
+(a)(1)(F), (b)(3), (c) , and (d) and subsection (b)(1) and section 2701 
+with respect to genetic information, shall apply to group health plans 
+and health insurance issuers without regard to section 2721(a).''.
+            (3) Application to genetic information of a fetus or 
+        embryo.--Such section is further amended by adding at the end 
+        the following:
+
+    ``(f) Genetic Information of a Fetus or Embryo.--Any reference in 
+this part to genetic information concerning an individual or family 
+member of an individual shall--
+            ``(1) with respect to such an individual or family member of 
+        an individual who is a pregnant woman, include genetic 
+        information of any fetus carried by such pregnant woman; and
+            ``(2) with respect to an individual or family member 
+        utilizing an assisted reproductive technology, include genetic 
+        information of any embryo legally held by the individual or 
+        family member.''.
+            (4) Definitions.--Section 2791(d) of the Public Health 
+        Service Act (42 U.S.C. 300gg-91(d)) is amended by adding at the 
+        end the following:
+            ``(15) Family member.--The term `family member' means, with 
+        respect to any individual--
+                    ``(A) a dependent (as such term is used for purposes 
+                of section 2701(f)(2)) of such individual; and
+                    ``(B) any other individual who is a first-degree, 
+                second-degree, third-degree, or fourth-degree relative 
+                of such individual or of an individual described in 
+                subparagraph (A).
+            ``(16) Genetic information.--
+                    ``(A) In general.--The term `genetic information' 
+                means, with respect to any individual, information 
+                about--
+                          ``(i) such individual's genetic tests,
+                          ``(ii) the genetic tests of family members of 
+                      such individual, and
+                          ``(iii) the manifestation of a disease or 
+                      disorder in family members of such individual.
+                    ``(B) Inclusion of genetic services and 
+                participation in genetic research.--Such term includes, 
+                with respect to any individual, any request for, or 
+                receipt of, genetic services, or participation in 
+                clinical research which includes genetic services, by 
+                such individual or any family member of such individual.
+                    ``(C) Exclusions.--The term `genetic information' 
+                shall not include information about the sex or age of 
+                any individual.
+            ``(17) Genetic test.--
+                    ``(A) In general.--The term `genetic test' means an 
+                analysis of human DNA, RNA, chromosomes, proteins, or
+
+[[Page 122 STAT. 891]]
+
+                metabolites, that detects genotypes, mutations, or 
+                chromosomal changes.
+                    ``(B) Exceptions.--The term `genetic test' does not 
+                mean--
+                          ``(i) an analysis of proteins or metabolites 
+                      that does not detect genotypes, mutations, or 
+                      chromosomal changes; or
+                          ``(ii) an analysis of proteins or metabolites 
+                      that is directly related to a manifested disease, 
+                      disorder, or pathological condition that could 
+                      reasonably be detected by a health care 
+                      professional with appropriate training and 
+                      expertise in the field of medicine involved.
+            ``(18) Genetic services.--The term `genetic services' 
+        means--
+                    ``(A) a genetic test;
+                    ``(B) genetic counseling (including obtaining, 
+                interpreting, or assessing genetic information); or
+                    ``(C) genetic education.
+            ``(19) Underwriting purposes.--The term `underwriting 
+        purposes' means, with respect to any group health plan, or 
+        health insurance coverage offered in connection with a group 
+        health plan--
+                    ``(A) rules for, or determination of, eligibility 
+                (including enrollment and continued eligibility) for 
+                benefits under the plan or coverage;
+                    ``(B) the computation of premium or contribution 
+                amounts under the plan or coverage;
+                    ``(C) the application of any pre-existing condition 
+                exclusion under the plan or coverage; and
+                    ``(D) other activities related to the creation, 
+                renewal, or replacement of a contract of health 
+                insurance or health benefits.''.
+            (5) Remedies and enforcement.--Section 2722(b) of the Public 
+        Health Service Act (42 U.S.C. 300gg-22(b)) is amended by adding 
+        at the end the following:
+            ``(3) Enforcement authority relating to genetic 
+        discrimination.--
+                    ``(A) General rule.--In the cases described in 
+                paragraph (1), notwithstanding the provisions of 
+                paragraph (2)(C), the succeeding subparagraphs of this 
+                paragraph shall apply with respect to an action under 
+                this subsection by the Secretary with respect to any 
+                failure of a health insurance issuer in connection with 
+                a group health plan, to meet the requirements of 
+                subsection (a)(1)(F), (b)(3), (c), or (d) of section 
+                2702 or section 2701 or 2702(b)(1) with respect to 
+                genetic information in connection with the plan.
+                    ``(B) Amount.--
+                          ``(i) In general.--
+                      The <<NOTE: Penalties.>> amount of the penalty 
+                      imposed under this paragraph shall be $100 for 
+                      each day in the noncompliance period with respect 
+                      to each participant or beneficiary to whom such 
+                      failure relates.
+                          ``(ii) Noncompliance period.--For purposes of 
+                      this paragraph, the term `noncompliance period' 
+                      means, with respect to any failure, the period--
+                                    ``(I) beginning on the date such 
+                                failure first occurs; and
+
+[[Page 122 STAT. 892]]
+
+                                    ``(II) ending on the date the 
+                                failure is corrected.
+                    ``(C) Minimum penalties where failure discovered.--
+                Notwithstanding clauses (i) and (ii) of subparagraph 
+                (D):
+                          ``(i) In general.--In the case of 1 or more 
+                      failures with respect to an individual--
+                                    ``(I) which are not corrected before 
+                                the date on which the plan receives a 
+                                notice from the Secretary of such 
+                                violation; and
+                                    ``(II) which occurred or continued 
+                                during the period involved;
+                      the amount of penalty imposed by subparagraph (A) 
+                      by reason of such failures with respect to such 
+                      individual shall not be less than $2,500.
+                          ``(ii) Higher minimum penalty where violations 
+                      are more than de minimis.--To the extent 
+                      violations for which any person is liable under 
+                      this paragraph for any year are more than de 
+                      minimis, clause (i) shall be applied by 
+                      substituting `$15,000' for `$2,500' with respect 
+                      to such person.
+                    ``(D) Limitations.--
+                          ``(i) Penalty not to apply where failure not 
+                      discovered exercising reasonable diligence.--No 
+                      penalty shall be imposed by subparagraph (A) on 
+                      any failure during any period for which it is 
+                      established to the satisfaction of the Secretary 
+                      that the person otherwise liable for such penalty 
+                      did not know, and exercising reasonable diligence 
+                      would not have known, that such failure existed.
+                          ``(ii) Penalty not to apply to failures 
+                      corrected within certain periods.--No penalty 
+                      shall be imposed by subparagraph (A) on any 
+                      failure if--
+                                    ``(I) such failure was due to 
+                                reasonable cause and not to willful 
+                                neglect; and
+                                    ``(II) such failure is corrected 
+                                during the 30-day period beginning on 
+                                the first date the person otherwise 
+                                liable for such penalty knew, or 
+                                exercising reasonable diligence would 
+                                have known, that such failure existed.
+                          ``(iii) Overall limitation for unintentional 
+                      failures.--In the case of failures which are due 
+                      to reasonable cause and not to willful neglect, 
+                      the penalty imposed by subparagraph (A) for 
+                      failures shall not exceed the amount equal to the 
+                      lesser of--
+                                    ``(I) 10 percent of the aggregate 
+                                amount paid or incurred by the employer 
+                                (or predecessor employer) during the 
+                                preceding taxable year for group health 
+                                plans; or
+                                    ``(II) $500,000.
+                    ``(E) Waiver by secretary.--In the case of a failure 
+                which is due to reasonable cause and not to willful 
+                neglect, the Secretary may waive part or all of the 
+                penalty imposed by subparagraph (A) to the extent that 
+                the payment of such penalty would be excessive relative 
+                to the failure involved.''.
+
+    (b) Amendment Relating to the Individual Market.--
+
+[[Page 122 STAT. 893]]
+
+            (1) In general.--The first subpart 3 of part B of title 
+        XXVII of the Public Health Service Act (42 U.S.C. 300gg-51 et 
+        seq.) (relating to other requirements) is amended--
+                    (A) by redesignating such subpart as subpart 2; and
+                    (B) by adding at the end the following:
+``SEC. 2753. <<NOTE: 42 USC 300gg-53.>> PROHIBITION OF HEALTH 
+                          DISCRIMINATION ON THE BASIS OF GENETIC 
+                          INFORMATION.
+
+    ``(a) Prohibition on Genetic Information as a Condition of 
+Eligibility.--
+            ``(1) In general.--A health insurance issuer offering health 
+        insurance coverage in the individual market may not establish 
+        rules for the eligibility (including continued eligibility) of 
+        any individual to enroll in individual health insurance coverage 
+        based on genetic information.
+            ``(2) Rule of construction.--Nothing in paragraph (1) or in 
+        paragraphs (1) and (2) of subsection (e) shall be construed to 
+        preclude a health insurance issuer from establishing rules for 
+        eligibility for an individual to enroll in individual health 
+        insurance coverage based on the manifestation of a disease or 
+        disorder in that individual, or in a family member of such 
+        individual where such family member is covered under the policy 
+        that covers such individual.
+
+    ``(b) Prohibition on Genetic Information in Setting Premium Rates.--
+            ``(1) In general.--A health insurance issuer offering health 
+        insurance coverage in the individual market shall not adjust 
+        premium or contribution amounts for an individual on the basis 
+        of genetic information concerning the individual or a family 
+        member of the individual.
+            ``(2) Rule of construction.--Nothing in paragraph (1) or in 
+        paragraphs (1) and (2) of subsection (e) shall be construed to 
+        preclude a health insurance issuer from adjusting premium or 
+        contribution amounts for an individual on the basis of a 
+        manifestation of a disease or disorder in that individual, or in 
+        a family member of such individual where such family member is 
+        covered under the policy that covers such individual. In such 
+        case, the manifestation of a disease or disorder in one 
+        individual cannot also be used as genetic information about 
+        other individuals covered under the policy issued to such 
+        individual and to further increase premiums or contribution 
+        amounts.
+
+    ``(c) Prohibition on Genetic Information as Preexisting Condition.--
+            ``(1) In general.--A health insurance issuer offering health 
+        insurance coverage in the individual market may not, on the 
+        basis of genetic information, impose any preexisting condition 
+        exclusion (as defined in section 2701(b)(1)(A)) with respect to 
+        such coverage.
+            ``(2) Rule of construction.--Nothing in paragraph (1) or in 
+        paragraphs (1) and (2) of subsection (e) shall be construed to 
+        preclude a health insurance issuer from imposing any preexisting 
+        condition exclusion for an individual with respect to health 
+        insurance coverage on the basis of a manifestation of a disease 
+        or disorder in that individual.
+
+    ``(d) Genetic Testing.--
+
+[[Page 122 STAT. 894]]
+
+            ``(1) Limitation on requesting or requiring genetic 
+        testing.--A health insurance issuer offering health insurance 
+        coverage in the individual market shall not request or require 
+        an individual or a family member of such individual to undergo a 
+        genetic test.
+            ``(2) Rule of construction.--Paragraph (1) shall not be 
+        construed to limit the authority of a health care professional 
+        who is providing health care services to an individual to 
+        request that such individual undergo a genetic test.
+            ``(3) Rule of construction regarding payment.--
+                    ``(A) In general.--Nothing in paragraph (1) shall be 
+                construed to preclude a health insurance issuer offering 
+                health insurance coverage in the individual market from 
+                obtaining and using the results of a genetic test in 
+                making a determination regarding payment (as such term 
+                is defined for the purposes of applying the regulations 
+                promulgated by the Secretary under part C of title XI of 
+                the Social Security Act and section 264 of the Health 
+                Insurance Portability and Accountability Act of 1996, as 
+                may be revised from time to time) consistent with 
+                subsection (a) and (c).
+                    ``(B) Limitation.--For purposes of subparagraph (A), 
+                a health insurance issuer offering health insurance 
+                coverage in the individual market may request only the 
+                minimum amount of information necessary to accomplish 
+                the intended purpose.
+            ``(4) Research exception.--Notwithstanding paragraph (1), a 
+        health insurance issuer offering health insurance coverage in 
+        the individual market may request, but not require, that an 
+        individual or a family member of such individual undergo a 
+        genetic test if each of the following conditions is met:
+                    ``(A) The request is made pursuant to research that 
+                complies with part 46 of title 45, Code of Federal 
+                Regulations, or equivalent Federal regulations, and any 
+                applicable State or local law or regulations for the 
+                protection of human subjects in research.
+                    ``(B) The issuer clearly indicates to each 
+                individual, or in the case of a minor child, to the 
+                legal guardian of such child, to whom the request is 
+                made that--
+                          ``(i) compliance with the request is 
+                      voluntary; and
+                          ``(ii) non-compliance will have no effect on 
+                      enrollment status or premium or contribution 
+                      amounts.
+                    ``(C) No genetic information collected or acquired 
+                under this paragraph shall be used for underwriting 
+                purposes.
+                    ``(D) <<NOTE: Notification.>> The issuer notifies 
+                the Secretary in writing that the issuer is conducting 
+                activities pursuant to the exception provided for under 
+                this paragraph, including a description of the 
+                activities conducted.
+                    ``(E) The issuer complies with such other conditions 
+                as the Secretary may by regulation require for 
+                activities conducted under this paragraph.
+
+    ``(e) Prohibition on Collection of Genetic Information.--
+            ``(1) In general.--A health insurance issuer offering health 
+        insurance coverage in the individual market shall not request, 
+        require, or purchase genetic information for underwriting 
+        purposes (as defined in section 2791).
+            ``(2) Prohibition on collection of genetic information prior 
+        to enrollment.--A health insurance issuer offering
+
+[[Page 122 STAT. 895]]
+
+        health insurance coverage in the individual market shall not 
+        request, require, or purchase genetic information with respect 
+        to any individual prior to such individual's enrollment under 
+        the plan in connection with such enrollment.
+            ``(3) Incidental collection.--If a health insurance issuer 
+        offering health insurance coverage in the individual market 
+        obtains genetic information incidental to the requesting, 
+        requiring, or purchasing of other information concerning any 
+        individual, such request, requirement, or purchase shall not be 
+        considered a violation of paragraph (2) if such request, 
+        requirement, or purchase is not in violation of paragraph (1).
+
+    ``(f) Genetic Information of a Fetus or Embryo.--Any reference in 
+this part to genetic information concerning an individual or family 
+member of an individual shall--
+            ``(1) with respect to such an individual or family member of 
+        an individual who is a pregnant woman, include genetic 
+        information of any fetus carried by such pregnant woman; and
+            ``(2) with respect to an individual or family member 
+        utilizing an assisted reproductive technology, include genetic 
+        information of any embryo legally held by the individual or 
+        family member.''.
+            (2) Remedies and enforcement.--Section 2761(b) of the Public 
+        Health Service Act (42 U.S.C. 300gg-61(b)) is amended to read as 
+        follows:
+
+    ``(b) Secretarial Enforcement Authority.--The Secretary shall have 
+the same authority in relation to enforcement of the provisions of this 
+part with respect to issuers of health insurance coverage in the 
+individual market in a State as the Secretary has under section 
+2722(b)(2), and section 2722(b)(3) with respect to violations of genetic 
+nondiscrimination provisions, in relation to the enforcement of the 
+provisions of part A with respect to issuers of health insurance 
+coverage in the small group market in the State.''.
+    (c) Elimination of Option of Non-Federal Governmental Plans To Be 
+Excepted From Requirements Concerning Genetic Information.--Section 
+2721(b)(2) of the Public Health Service Act (42 U.S.C. 300gg-21(b)(2)) 
+is amended--
+            (1) in subparagraph (A), by striking ``If the plan sponsor'' 
+        and inserting ``Except as provided in subparagraph (D), if the 
+        plan sponsor''; and
+            (2) by adding at the end the following:
+                    ``(D) Election not applicable to requirements 
+                concerning genetic information.--The election described 
+                in subparagraph (A) shall not be available with respect 
+                to the provisions of subsections (a)(1)(F), (b)(3), (c), 
+                and (d) of section 2702 and the provisions of sections 
+                2701 and 2702(b) to the extent that such provisions 
+                apply to genetic information.''.
+
+    (d) Regulations and <<NOTE: 42 USC 300gg-1 note.>> Effective Date.--
+            (1) Regulations.--Not later than 12 months after the date of 
+        enactment of this Act, the Secretary of Health and Human 
+        Services shall issue final regulations to carry out the 
+        amendments made by this section.
+            (2) Effective date.--The <<NOTE: Applicability.>> amendments 
+        made by this section shall apply--
+
+[[Page 122 STAT. 896]]
+
+                    (A) with respect to group health plans, and health 
+                insurance coverage offered in connection with group 
+                health plans, for plan years beginning after the date 
+                that is 1 year after the date of enactment of this Act; 
+                and
+                    (B) with respect to health insurance coverage 
+                offered, sold, issued, renewed, in effect, or operated 
+                in the individual market after the date that is 1 year 
+                after the date of enactment of this Act.
+SEC. 103. AMENDMENTS TO THE INTERNAL REVENUE CODE OF 1986.
+
+    (a) No Discrimination in Group Premiums Based on Genetic 
+Information.--Subsection (b) of section 9802 of the Internal Revenue 
+Code of <<NOTE: 26 USC 9802.>> 1986 is amended--
+            (1) in paragraph (2)(A), by inserting before the semicolon 
+        the following: ``except as provided in paragraph (3)''; and
+            (2) by adding at the end the following:
+            ``(3) No group-based discrimination on basis of genetic 
+        information.--
+                    ``(A) In general.--For purposes of this section, a 
+                group health plan may not adjust premium or contribution 
+                amounts for the group covered under such plan on the 
+                basis of genetic information.
+                    ``(B) Rule of construction.--Nothing in subparagraph 
+                (A) or in paragraphs (1) and (2) of subsection (d) shall 
+                be construed to limit the ability of a group health plan 
+                to increase the premium for an employer based on the 
+                manifestation of a disease or disorder of an individual 
+                who is enrolled in the plan. In such case, the 
+                manifestation of a disease or disorder in one individual 
+                cannot also be used as genetic information about other 
+                group members and to further increase the premium for 
+                the employer.''.
+
+    (b) Limitations on Genetic Testing; Prohibition on Collection of 
+Genetic Information; Application to All Plans.--Section 9802 of such 
+Code is amended by redesignating subsection (c) as subsection (f) and by 
+inserting after subsection (b) the following new subsections:
+    ``(c) Genetic Testing.--
+            ``(1) Limitation on requesting or requiring genetic 
+        testing.--A group health plan may not request or require an 
+        individual or a family member of such individual to undergo a 
+        genetic test.
+            ``(2) Rule of construction.--Paragraph (1) shall not be 
+        construed to limit the authority of a health care professional 
+        who is providing health care services to an individual to 
+        request that such individual undergo a genetic test.
+            ``(3) Rule of construction regarding payment.--
+                    ``(A) In general.--Nothing in paragraph (1) shall be 
+                construed to preclude a group health plan from obtaining 
+                and using the results of a genetic test in making a 
+                determination regarding payment (as such term is defined 
+                for the purposes of applying the regulations promulgated 
+                by the Secretary of Health and Human Services under part 
+                C of title XI of the Social Security Act and section 264 
+                of the Health Insurance Portability and Accountability 
+                Act of 1996, as may be revised from time to time) 
+                consistent with subsection (a).
+
+[[Page 122 STAT. 897]]
+
+                    ``(B) Limitation.--For purposes of subparagraph (A), 
+                a group health plan may request only the minimum amount 
+                of information necessary to accomplish the intended 
+                purpose.
+            ``(4) Research exception.--Notwithstanding paragraph (1), a 
+        group health plan may request, but not require, that a 
+        participant or beneficiary undergo a genetic test if each of the 
+        following conditions is met:
+                    ``(A) The request is made pursuant to research that 
+                complies with part 46 of title 45, Code of Federal 
+                Regulations, or equivalent Federal regulations, and any 
+                applicable State or local law or regulations for the 
+                protection of human subjects in research.
+                    ``(B) The plan clearly indicates to each participant 
+                or beneficiary, or in the case of a minor child, to the 
+                legal guardian of such beneficiary, to whom the request 
+                is made that--
+                          ``(i) compliance with the request is 
+                      voluntary; and
+                          ``(ii) non-compliance will have no effect on 
+                      enrollment status or premium or contribution 
+                      amounts.
+                    ``(C) No genetic information collected or acquired 
+                under this paragraph shall be used for underwriting 
+                purposes.
+                    ``(D) <<NOTE: Notification.>> The plan notifies the 
+                Secretary in writing that the plan is conducting 
+                activities pursuant to the exception provided for under 
+                this paragraph, including a description of the 
+                activities conducted.
+                    ``(E) The plan complies with such other conditions 
+                as the Secretary may by regulation require for 
+                activities conducted under this paragraph.
+
+    ``(d) Prohibition on Collection of Genetic Information.--
+            ``(1) In general.--A group health plan shall not request, 
+        require, or purchase genetic information for underwriting 
+        purposes (as defined in section 9832).
+            ``(2) Prohibition on collection of genetic information prior 
+        to enrollment.--A group health plan shall not request, require, 
+        or purchase genetic information with respect to any individual 
+        prior to such individual's enrollment under the plan or in 
+        connection with such enrollment.
+            ``(3) Incidental collection.--If a group health plan obtains 
+        genetic information incidental to the requesting, requiring, or 
+        purchasing of other information concerning any individual, such 
+        request, requirement, or purchase shall not be considered a 
+        violation of paragraph (2) if such request, requirement, or 
+        purchase is not in violation of paragraph (1).
+
+    ``(e) Application to All Plans.--The provisions of subsections 
+(a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and section 9801 
+with respect to genetic information, shall apply to group health plans 
+without regard to section 9831(a)(2).''.
+    (c) Application to Genetic Information of a Fetus or Embryo.--Such 
+section is further amended by adding at the end the following:
+    ``(f) Genetic Information of a Fetus or Embryo.--Any reference in 
+this chapter to genetic information concerning an individual or family 
+member of an individual shall--
+            ``(1) with respect to such an individual or family member of 
+        an individual who is a pregnant woman, include genetic
+
+[[Page 122 STAT. 898]]
+
+        information of any fetus carried by such pregnant woman; and
+            ``(2) with respect to an individual or family member 
+        utilizing an assisted reproductive technology, include genetic 
+        information of any embryo legally held by the individual or 
+        family member.''.
+
+    (d) Definitions.--Subsection (d) of section 9832 <<NOTE: 26 USC 
+9832.>> of such Code is amended by adding at the end the following:
+            ``(6) Family member.--The term `family member' means, with 
+        respect to any individual--
+                    ``(A) a dependent (as such term is used for purposes 
+                of section 9801(f)(2)) of such individual, and
+                    ``(B) any other individual who is a first-degree, 
+                second-degree, third-degree, or fourth-degree relative 
+                of such individual or of an individual described in 
+                subparagraph (A).
+            ``(7) Genetic information.--
+                    ``(A) In general.--The term `genetic information' 
+                means, with respect to any individual, information 
+                about--
+                          ``(i) such individual's genetic tests,
+                          ``(ii) the genetic tests of family members of 
+                      such individual, and
+                          ``(iii) the manifestation of a disease or 
+                      disorder in family members of such individual.
+                    ``(B) Inclusion of genetic services and 
+                participation in genetic research.--Such term includes, 
+                with respect to any individual, any request for, or 
+                receipt of, genetic services, or participation in 
+                clinical research which includes genetic services, by 
+                such individual or any family member of such individual.
+                    ``(C) Exclusions.--The term `genetic information' 
+                shall not include information about the sex or age of 
+                any individual.
+            ``(8) Genetic test.--
+                    ``(A) In general.--The term `genetic test' means an 
+                analysis of human DNA, RNA, chromosomes, proteins, or 
+                metabolites, that detects genotypes, mutations, or 
+                chromosomal changes.
+                    ``(B) Exceptions.--The term `genetic test' does not 
+                mean--
+                          ``(i) an analysis of proteins or metabolites 
+                      that does not detect genotypes, mutations, or 
+                      chromosomal changes, or
+                          ``(ii) an analysis of proteins or metabolites 
+                      that is directly related to a manifested disease, 
+                      disorder, or pathological condition that could 
+                      reasonably be detected by a health care 
+                      professional with appropriate training and 
+                      expertise in the field of medicine involved.
+            ``(9) Genetic services.--The term `genetic services' means--
+                    ``(A) a genetic test;
+                    ``(B) genetic counseling (including obtaining, 
+                interpreting, or assessing genetic information); or
+                    ``(C) genetic education.
+            ``(10) Underwriting purposes.--The term `underwriting 
+        purposes' means, with respect to any group health plan, or 
+        health insurance coverage offered in connection with a group 
+        health plan--
+
+[[Page 122 STAT. 899]]
+
+                    ``(A) rules for, or determination of, eligibility 
+                (including enrollment and continued eligibility) for 
+                benefits under the plan or coverage;
+                    ``(B) the computation of premium or contribution 
+                amounts under the plan or coverage;
+                    ``(C) the application of any pre-existing condition 
+                exclusion under the plan or coverage; and
+                    ``(D) other activities related to the creation, 
+                renewal, or replacement of a contract of health 
+                insurance or health benefits.''.
+
+    (e) Enforcement.--
+            (1) In general.--Subchapter C of chapter 100 of the Internal 
+        Revenue Code of 1986 (relating to general provisions) is amended 
+        by adding at the end the following new section:
+``SEC. 9834. ENFORCEMENT.
+
+    ``For the imposition of tax on any failure of a group health plan to 
+meet the requirements of this chapter, see section 4980D.''.
+            (2) Conforming amendment.--The table of sections for 
+        subchapter C of chapter 100 of such Code is amended by adding at 
+        the end the following new item:
+
+``Sec. 9834. Enforcement.''.
+
+    (f) Regulations and <<NOTE: 26 USC 9802 note.>> Effective Date.--
+            (1) Regulations.--The Secretary of the Treasury shall issue 
+        final regulations or other guidance not later than 12 months 
+        after the date of the enactment of this Act to carry out the 
+        amendments made by this section.
+            (2) Effective date.--The <<NOTE: Applicability.>> amendments 
+        made by this section shall apply with respect to group health 
+        plans for plan years beginning after the date that is 1 year 
+        after the date of the enactment of this Act.
+SEC. 104. AMENDMENTS TO TITLE XVIII OF THE SOCIAL SECURITY ACT 
+                        RELATING TO MEDIGAP.
+
+    (a) Nondiscrimination.--Section 1882(s)(2) of the Social Security 
+Act (42 U.S.C. 1395ss(s)(2)) is amended by adding at the end the 
+following:
+                    ``(E) An issuer of a medicare supplemental policy 
+                shall not deny or condition the issuance or 
+                effectiveness of the policy (including the imposition of 
+                any exclusion of benefits under the policy based on a 
+                pre-existing condition) and shall not discriminate in 
+                the pricing of the policy (including the adjustment of 
+                premium rates) of an individual on the basis of the 
+                genetic information with respect to such individual.
+                    ``(F) Rule of construction.--Nothing in subparagraph 
+                (E) or in subparagraphs (A) or (B) of subsection (x)(2) 
+                shall be construed to limit the ability of an issuer of 
+                a medicare supplemental policy from, to the extent 
+                otherwise permitted under this title--
+                          ``(i) denying or conditioning the issuance or 
+                      effectiveness of the policy or increasing the 
+                      premium for an employer based on the manifestation 
+                      of a disease or disorder of an individual who is 
+                      covered under the policy; or
+                          ``(ii) increasing the premium for any policy 
+                      issued to an individual based on the manifestation 
+                      of a disease
+
+[[Page 122 STAT. 900]]
+
+                      or disorder of an individual who is covered under 
+                      the policy (in such case, the manifestation of a 
+                      disease or disorder in one individual cannot also 
+                      be used as genetic information about other group 
+                      members and to further increase the premium for 
+                      the employer).''.
+
+    (b) Limitations on Genetic Testing and Genetic Information.--
+            (1) In general.--Section 1882 of the Social Security Act (42 
+        U.S.C. 1395ss) is amended by adding at the end the following:
+
+    ``(x) Limitations on Genetic Testing and Information.--
+            ``(1) Genetic testing.--
+                    ``(A) Limitation on requesting or requiring genetic 
+                testing.--An issuer of a medicare supplemental policy 
+                shall not request or require an individual or a family 
+                member of such individual to undergo a genetic test.
+                    ``(B) Rule of construction.--Subparagraph (A) shall 
+                not be construed to limit the authority of a health care 
+                professional who is providing health care services to an 
+                individual to request that such individual undergo a 
+                genetic test.
+                    ``(C) Rule of construction regarding payment.--
+                          ``(i) In general.--Nothing in subparagraph (A) 
+                      shall be construed to preclude an issuer of a 
+                      medicare supplemental policy from obtaining and 
+                      using the results of a genetic test in making a 
+                      determination regarding payment (as such term is 
+                      defined for the purposes of applying the 
+                      regulations promulgated by the Secretary under 
+                      part C of title XI and section 264 of the Health 
+                      Insurance Portability and Accountability Act of 
+                      1996, as may be revised from time to time) 
+                      consistent with subsection (s)(2)(E).
+                          ``(ii) Limitation.--For purposes of clause 
+                      (i), an issuer of a medicare supplemental policy 
+                      may request only the minimum amount of information 
+                      necessary to accomplish the intended purpose.
+                    ``(D) Research exception.--Notwithstanding 
+                subparagraph (A), an issuer of a medicare supplemental 
+                policy may request, but not require, that an individual 
+                or a family member of such individual undergo a genetic 
+                test if each of the following conditions is met:
+                          ``(i) The request is made pursuant to research 
+                      that complies with part 46 of title 45, Code of 
+                      Federal Regulations, or equivalent Federal 
+                      regulations, and any applicable State or local law 
+                      or regulations for the protection of human 
+                      subjects in research.
+                          ``(ii) The issuer clearly indicates to each 
+                      individual, or in the case of a minor child, to 
+                      the legal guardian of such child, to whom the 
+                      request is made that--
+                                    ``(I) compliance with the request is 
+                                voluntary; and
+                                    ``(II) non-compliance will have no 
+                                effect on enrollment status or premium 
+                                or contribution amounts.
+
+[[Page 122 STAT. 901]]
+
+                          ``(iii) No genetic information collected or 
+                      acquired under this subparagraph shall be used for 
+                      underwriting, determination of eligibility to 
+                      enroll or maintain enrollment status, premium 
+                      rating, or the creation, renewal, or replacement 
+                      of a plan, contract, or coverage for health 
+                      insurance or health benefits.
+                          ``(iv) The issuer notifies the Secretary in 
+                      writing that the issuer is conducting activities 
+                      pursuant to the exception provided for under this 
+                      subparagraph, including a description of the 
+                      activities conducted.
+                          ``(v) The issuer complies with such other 
+                      conditions as the Secretary may by regulation 
+                      require for activities conducted under this 
+                      subparagraph.
+            ``(2) Prohibition on collection of genetic information.--
+                    ``(A) In general.--An issuer of a medicare 
+                supplemental policy shall not request, require, or 
+                purchase genetic information for underwriting purposes 
+                (as defined in paragraph (3)).
+                    ``(B) Prohibition on collection of genetic 
+                information prior to enrollment.--An issuer of a 
+                medicare supplemental policy shall not request, require, 
+                or purchase genetic information with respect to any 
+                individual prior to such individual's enrollment under 
+                the policy in connection with such enrollment.
+                    ``(C) Incidental collection.--If an issuer of a 
+                medicare supplemental policy obtains genetic information 
+                incidental to the requesting, requiring, or purchasing 
+                of other information concerning any individual, such 
+                request, requirement, or purchase shall not be 
+                considered a violation of subparagraph (B) if such 
+                request, requirement, or purchase is not in violation of 
+                subparagraph (A).
+            ``(3) Definitions.--In this subsection:
+                    ``(A) Family member.--The term `family member' means 
+                with respect to an individual, any other individual who 
+                is a first-degree, second-degree, third-degree, or 
+                fourth-degree relative of such individual.
+                    ``(B) Genetic information.--
+                          ``(i) In general.--The term `genetic 
+                      information' means, with respect to any 
+                      individual, information about--
+                                    ``(I) such individual's genetic 
+                                tests,
+                                    ``(II) the genetic tests of family 
+                                members of such individual, and
+                                    ``(III) subject to clause (iv), the 
+                                manifestation of a disease or disorder 
+                                in family members of such individual.
+                          ``(ii) Inclusion of genetic services and 
+                      participation in genetic research.--Such term 
+                      includes, with respect to any individual, any 
+                      request for, or receipt of, genetic services, or 
+                      participation in clinical research which includes 
+                      genetic services, by such individual or any family 
+                      member of such individual.
+                          ``(iii) Exclusions.--The term `genetic 
+                      information' shall not include information about 
+                      the sex or age of any individual.
+                    ``(C) Genetic test.--
+
+[[Page 122 STAT. 902]]
+
+                          ``(i) In general.--The term `genetic test' 
+                      means an analysis of human DNA, RNA, chromosomes, 
+                      proteins, or metabolites, that detects genotypes, 
+                      mutations, or chromosomal changes.
+                          ``(ii) Exceptions.--The term `genetic test' 
+                      does not mean--
+                                    ``(I) an analysis of proteins or 
+                                metabolites that does not detect 
+                                genotypes, mutations, or chromosomal 
+                                changes; or
+                                    ``(II) an analysis of proteins or 
+                                metabolites that is directly related to 
+                                a manifested disease, disorder, or 
+                                pathological condition that could 
+                                reasonably be detected by a health care 
+                                professional with appropriate training 
+                                and expertise in the field of medicine 
+                                involved.
+                    ``(D) Genetic services.--The term `genetic services' 
+                means--
+                          ``(i) a genetic test;
+                          ``(ii) genetic counseling (including 
+                      obtaining, interpreting, or assessing genetic 
+                      information); or
+                          ``(iii) genetic education.
+                    ``(E) Underwriting purposes.--The term `underwriting 
+                purposes' means, with respect to a medicare supplemental 
+                policy--
+                          ``(i) rules for, or determination of, 
+                      eligibility (including enrollment and continued 
+                      eligibility) for benefits under the policy;
+                          ``(ii) the computation of premium or 
+                      contribution amounts under the policy;
+                          ``(iii) the application of any pre-existing 
+                      condition exclusion under the policy; and
+                          ``(iv) other activities related to the 
+                      creation, renewal, or replacement of a contract of 
+                      health insurance or health benefits.
+                    ``(F) Issuer of a medicare supplemental policy.--The 
+                term `issuer of a medicare supplemental policy' includes 
+                a third-party administrator or other person acting for 
+                or on behalf of such issuer.''.
+            (2) Application to genetic information of a fetus or 
+        embryo.--Section 1882(x) of such Act, as added by paragraph (1), 
+        is further amended by adding at the end the following:
+            ``(4) Genetic information of a fetus or embryo.--Any 
+        reference in this section to genetic information concerning an 
+        individual or family member of an individual shall--
+                    ``(A) with respect to such an individual or family 
+                member of an individual who is a pregnant woman, include 
+                genetic information of any fetus carried by such 
+                pregnant woman; and
+                    ``(B) with respect to an individual or family member 
+                utilizing an assisted reproductive technology, include 
+                genetic information of any embryo legally held by the 
+                individual or family member.''.
+            (3) Conforming amendment.--Section 1882(o) of the Social 
+        Security Act (42 U.S.C. 1395ss(o)) is amended by adding at the 
+        end the following:
+            ``(4) The issuer of the medicare supplemental policy 
+        complies with subsection (s)(2)(E) and subsection (x).''.
+
+[[Page 122 STAT. 903]]
+
+    (c) Effective Date.--The <<NOTE: Applicability. 42 USC 1395ss 
+note.>> amendments made by this section shall apply with respect to an 
+issuer of a medicare supplemental policy for policy years beginning on 
+or after the date that is 1 year after the date of enactment of this 
+Act.
+
+    (d) Transition <<NOTE: 42 USC 1395ss note.>> Provisions.--
+            (1) In general.--If the Secretary of Health and Human 
+        Services identifies a State as requiring a change to its 
+        statutes or regulations to conform its regulatory program to the 
+        changes made by this section, the State regulatory program shall 
+        not be considered to be out of compliance with the requirements 
+        of section 1882 of the Social Security Act due solely to failure 
+        to make such change until the date specified in paragraph (4).
+            (2) NAIC standards.--If, <<NOTE: Deadline.>> not later than 
+        October 31, 2008, the National Association of Insurance 
+        Commissioners (in this subsection referred to as the ``NAIC'') 
+        modifies its NAIC Model Regulation relating to section 1882 of 
+        the Social Security Act (referred to in such section as the 1991 
+        NAIC Model Regulation, as subsequently modified) to conform to 
+        the amendments made by this section, such revised regulation 
+        incorporating the modifications shall be considered to be the 
+        applicable NAIC model regulation (including the revised NAIC 
+        model regulation and the 1991 NAIC Model Regulation) for the 
+        purposes of such section.
+            (3) Secretary standards.--If the <<NOTE: Deadline.>> NAIC 
+        does not make the modifications described in paragraph (2) 
+        within the period specified in such paragraph, the Secretary of 
+        Health and Human Services shall, not later than July 1, 2009, 
+        make the modifications described in such paragraph and such 
+        revised regulation incorporating the modifications shall be 
+        considered to be the appropriate regulation for the purposes of 
+        such section.
+            (4) Date specified.--
+                    (A) In general.--Subject to subparagraph (B), the 
+                date specified in this paragraph for a State is the 
+                earlier of--
+                          (i) the date the State changes its statutes or 
+                      regulations to conform its regulatory program to 
+                      the changes made by this section, or
+                          (ii) July 1, 2009.
+                    (B) Additional legislative action required.--In the 
+                case of a State which the Secretary identifies as--
+                          (i) requiring State legislation (other than 
+                      legislation appropriating funds) to conform its 
+                      regulatory program to the changes made in this 
+                      section, but
+                          (ii) having a legislature which is not 
+                      scheduled to meet in 2009 in a legislative session 
+                      in which such legislation may be considered, the 
+                      date specified in this paragraph is the first day 
+                      of the first calendar quarter beginning after the 
+                      close of the first legislative session of the 
+                      State legislature that begins on or after July 1, 
+                      2009. For purposes of the previous sentence, in 
+                      the case of a State that has a 2-year legislative 
+                      session, each year of such session shall be deemed 
+                      to be a separate regular session of the State 
+                      legislature.
+SEC. 105. PRIVACY AND CONFIDENTIALITY.
+
+    (a) In General.--Part C of title XI of the Social Security Act is 
+amended by adding at the end the following new section:
+
+[[Page 122 STAT. 904]]
+
+        ``application of hipaa regulations to genetic information
+
+
+    ``Sec. 1180. (a) In General.--The <<NOTE: 42 USC 1320d-
+9.>> Secretary shall revise the HIPAA privacy regulation (as defined in 
+subsection (b)) so it is consistent with the following:
+            ``(1) Genetic information shall be treated as health 
+        information described in section 1171(4)(B).
+            ``(2) The use or disclosure by a covered entity that is a 
+        group health plan, health insurance issuer that issues health 
+        insurance coverage, or issuer of a medicare supplemental policy 
+        of protected health information that is genetic information 
+        about an individual for underwriting purposes under the group 
+        health plan, health insurance coverage, or medicare supplemental 
+        policy shall not be a permitted use or disclosure.
+
+    ``(b) Definitions.--For purposes of this section:
+            ``(1) Genetic information; genetic test; family member.--The 
+        terms `genetic information', `genetic test', and `family member' 
+        have the meanings given such terms in section 2791 of the Public 
+        Health Service Act (42 U.S.C. 300gg-91), as amended by the 
+        Genetic Information Nondiscrimination Act of 2007.
+            ``(2) Group health plan; health insurance coverage; medicare 
+        supplemental policy.--The terms `group health plan' and `health 
+        insurance coverage' have the meanings given such terms under 
+        section 2791 of the Public Health Service Act (42 U.S.C. 300gg-
+        91), and the term `medicare supplemental policy' has the meaning 
+        given such term in section 1882(g).
+            ``(3) HIPAA privacy regulation.--The term `HIPAA privacy 
+        regulation' means the regulations promulgated by the Secretary 
+        under this part and section 264 of the Health Insurance 
+        Portability and Accountability Act of 1996 (42 U.S.C. 1320d-2 
+        note).
+            ``(4) Underwriting purposes.--The term `underwriting 
+        purposes' means, with respect to a group health plan, health 
+        insurance coverage, or a medicare supplemental policy--
+                    ``(A) rules for, or determination of, eligibility 
+                (including enrollment and continued eligibility) for, or 
+                determination of, benefits under the plan, coverage, or 
+                policy;
+                    ``(B) the computation of premium or contribution 
+                amounts under the plan, coverage, or policy;
+                    ``(C) the application of any pre-existing condition 
+                exclusion under the plan, coverage, or policy; and
+                    ``(D) other activities related to the creation, 
+                renewal, or replacement of a contract of health 
+                insurance or health benefits.
+
+    ``(c) Procedure.--The <<NOTE: Notice. Federal 
+Register, publication. Deadline. Effective date.>> revisions under 
+subsection (a) shall be made by notice in the Federal Register published 
+not later than 60 days after the date of the enactment of this section 
+and shall be effective upon publication, without opportunity for any 
+prior public comment, but may be revised, consistent with this section, 
+after opportunity for public comment.
+
+    ``(d) Enforcement.--In addition to any other sanctions or remedies 
+that may be available under law, a covered entity that is a group health 
+plan, health insurance issuer, or issuer of a medicare supplemental 
+policy and that violates the HIPAA privacy regulation (as revised under 
+subsection (a) or otherwise) with respect to the use or disclosure of 
+genetic information shall be subject to the
+
+[[Page 122 STAT. 905]]
+
+penalties described in sections 1176 and 1177 in the same manner and to 
+the same extent that such penalties apply to violations of this part.''.
+    (b) Regulations; <<NOTE: 42 USC 1320d-9 note.>> Effective Date.--
+            (1) Regulations.--Not <<NOTE: Deadline.>> later than 12 
+        months after the date of the enactment of this Act, the 
+        Secretary of Health and Human Services shall issue final 
+        regulations to carry out the revision required by section 
+        1180(a) of the Social Security Act, as added by subsection (a). 
+        The Secretary has the sole authority to promulgate such 
+        regulations, but shall promulgate such regulations in 
+        consultation with the Secretaries of Labor and the Treasury.
+            (2) Effective date.--The amendment made by subsection (a) 
+        shall take effect on the date that is 1 year after the date of 
+        the enactment of this Act.
+SEC. 106. <<NOTE: Memorandum. 42 USC 300gg-1 note.>> ASSURING 
+                        COORDINATION.
+
+    Except as provided in section 105(b)(1), the Secretary of Health and 
+Human Services, the Secretary of Labor, and the Secretary of the 
+Treasury shall ensure, through the execution of an interagency 
+memorandum of understanding among such Secretaries, that--
+            (1) regulations, rulings, and interpretations issued by such 
+        Secretaries relating to the same matter over which two or more 
+        such Secretaries have responsibility under this title (and the 
+        amendments made by this title) are administered so as to have 
+        the same effect at all times; and
+            (2) coordination of policies relating to enforcing the same 
+        requirements through such Secretaries in order to have a 
+        coordinated enforcement strategy that avoids duplication of 
+        enforcement efforts and assigns priorities in enforcement.
+
+TITLE II--PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC 
+                               INFORMATION
+
+SEC. 201. <<NOTE: 42 USC 2000ff.>> DEFINITIONS.
+
+    In this title:
+            (1) Commission.--The term ``Commission'' means the Equal 
+        Employment Opportunity Commission as created by section 705 of 
+        the Civil Rights Act of 1964 (42 U.S.C. 2000e-4).
+            (2) Employee; employer; employment agency; labor 
+        organization; member.--
+                    (A) In general.--The term ``employee'' means--
+                          (i) an employee (including an applicant), as 
+                      defined in section 701(f) of the Civil Rights Act 
+                      of 1964 (42 U.S.C. 2000e(f));
+                          (ii) a State employee (including an applicant) 
+                      described in section 304(a) of the Government 
+                      Employee Rights Act of 1991 (42 U.S.C. 2000e-
+                      16c(a));
+                          (iii) a covered employee (including an 
+                      applicant), as defined in section 101 of the 
+                      Congressional Accountability Act of 1995 (2 U.S.C. 
+                      1301);
+
+[[Page 122 STAT. 906]]
+
+                          (iv) a covered employee (including an 
+                      applicant), as defined in section 411(c) of title 
+                      3, United States Code; or
+                          (v) an employee or applicant to which section 
+                      717(a) of the Civil Rights Act of 1964 (42 U.S.C. 
+                      2000e-16(a)) applies.
+                    (B) Employer.--The term ``employer'' means--
+                          (i) an employer (as defined in section 701(b) 
+                      of the Civil Rights Act of 1964 (42 U.S.C. 
+                      2000e(b)));
+                          (ii) an entity employing a State employee 
+                      described in section 304(a) of the Government 
+                      Employee Rights Act of 1991;
+                          (iii) an employing office, as defined in 
+                      section 101 of the Congressional Accountability 
+                      Act of 1995;
+                          (iv) an employing office, as defined in 
+                      section 411(c) of title 3, United States Code; or
+                          (v) an entity to which section 717(a) of the 
+                      Civil Rights Act of 1964 applies.
+                    (C) Employment agency; labor organization.--The 
+                terms ``employment agency'' and ``labor organization'' 
+                have the meanings given the terms in section 701 of the 
+                Civil Rights Act of 1964 (42 U.S.C. 2000e).
+                    (D) Member.--The term ``member'', with respect to a 
+                labor organization, includes an applicant for membership 
+                in a labor organization.
+            (3) Family member.--The term ``family member'' means, with 
+        respect to an individual--
+                    (A) a dependent (as such term is used for purposes 
+                of section 701(f)(2) of the Employee Retirement Income 
+                Security Act of 1974) of such individual, and
+                    (B) any other individual who is a first-degree, 
+                second-degree, third-degree, or fourth-degree relative 
+                of such individual or of an individual described in 
+                subparagraph (A).
+            (4) Genetic information.--
+                    (A) In general.--The term ``genetic information'' 
+                means, with respect to any individual, information 
+                about--
+                          (i) such individual's genetic tests,
+                          (ii) the genetic tests of family members of 
+                      such individual, and
+                          (iii) the manifestation of a disease or 
+                      disorder in family members of such individual.
+                    (B) Inclusion of genetic services and participation 
+                in genetic research.--Such term includes, with respect 
+                to any individual, any request for, or receipt of, 
+                genetic services, or participation in clinical research 
+                which includes genetic services, by such individual or 
+                any family member of such individual.
+                    (C) Exclusions.--The term ``genetic information'' 
+                shall not include information about the sex or age of 
+                any individual.
+            (5) Genetic monitoring.--The term ``genetic monitoring'' 
+        means the periodic examination of employees to evaluate acquired 
+        modifications to their genetic material, such as chromosomal 
+        damage or evidence of increased occurrence of mutations, that 
+        may have developed in the course of employment due to exposure 
+        to toxic substances in the workplace,
+
+[[Page 122 STAT. 907]]
+
+        in order to identify, evaluate, and respond to the effects of or 
+        control adverse environmental exposures in the workplace.
+            (6) Genetic services.--The term ``genetic services'' means--
+                    (A) a genetic test;
+                    (B) genetic counseling (including obtaining, 
+                interpreting, or assessing genetic information); or
+                    (C) genetic education.
+            (7) Genetic test.--
+                    (A) In general.--The term ``genetic test'' means an 
+                analysis of human DNA, RNA, chromosomes, proteins, or 
+                metabolites, that detects genotypes, mutations, or 
+                chromosomal changes.
+                    (B) Exceptions.--The term ``genetic test'' does not 
+                mean an analysis of proteins or metabolites that does 
+                not detect genotypes, mutations, or chromosomal changes.
+SEC. 202. <<NOTE: 42 USC 2000ff-1.>> EMPLOYER PRACTICES.
+
+    (a) Discrimination Based on Genetic Information.--It shall be an 
+unlawful employment practice for an employer--
+            (1) to fail or refuse to hire, or to discharge, any 
+        employee, or otherwise to discriminate against any employee with 
+        respect to the compensation, terms, conditions, or privileges of 
+        employment of the employee, because of genetic information with 
+        respect to the employee; or
+            (2) to limit, segregate, or classify the employees of the 
+        employer in any way that would deprive or tend to deprive any 
+        employee of employment opportunities or otherwise adversely 
+        affect the status of the employee as an employee, because of 
+        genetic information with respect to the employee.
+
+    (b) Acquisition of Genetic Information.--It shall be an unlawful 
+employment practice for an employer to request, require, or purchase 
+genetic information with respect to an employee or a family member of 
+the employee except--
+            (1) where an employer inadvertently requests or requires 
+        family medical history of the employee or family member of the 
+        employee;
+            (2) where--
+                    (A) health or genetic services are offered by the 
+                employer, including such services offered as part of a 
+                wellness program;
+                    (B) the employee provides prior, knowing, voluntary, 
+                and written authorization;
+                    (C) only the employee (or family member if the 
+                family member is receiving genetic services) and the 
+                licensed health care professional or board certified 
+                genetic counselor involved in providing such services 
+                receive individually identifiable information concerning 
+                the results of such services; and
+                    (D) any individually identifiable genetic 
+                information provided under subparagraph (C) in 
+                connection with the services provided under subparagraph 
+                (A) is only available for purposes of such services and 
+                shall not be disclosed to the employer except in 
+                aggregate terms that do not disclose the identity of 
+                specific employees;
+            (3) where an employer requests or requires family medical 
+        history from the employee to comply with the certification
+
+[[Page 122 STAT. 908]]
+
+        provisions of section 103 of the Family and Medical Leave Act of 
+        1993 (29 U.S.C. 2613) or such requirements under State family 
+        and medical leave laws;
+            (4) where an employer purchases documents that are 
+        commercially and publicly available (including newspapers, 
+        magazines, periodicals, and books, but not including medical 
+        databases or court records) that include family medical history;
+            (5) where the information involved is to be used for genetic 
+        monitoring of the biological effects of toxic substances in the 
+        workplace, but only if--
+                    (A) the employer provides written notice of the 
+                genetic monitoring to the employee;
+                    (B)(i) the employee provides prior, knowing, 
+                voluntary, and written authorization; or
+                    (ii) the genetic monitoring is required by Federal 
+                or State law;
+                    (C) the employee is informed of individual 
+                monitoring results;
+                    (D) the monitoring is in compliance with--
+                          (i) any Federal genetic monitoring 
+                      regulations, including any such regulations that 
+                      may be promulgated by the Secretary of Labor 
+                      pursuant to the Occupational Safety and Health Act 
+                      of 1970 (29 U.S.C. 651 et seq.), the Federal Mine 
+                      Safety and Health Act of 1977 (30 U.S.C. 801 et 
+                      seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 
+                      2011 et seq.); or
+                          (ii) State genetic monitoring regulations, in 
+                      the case of a State that is implementing genetic 
+                      monitoring regulations under the authority of the 
+                      Occupational Safety and Health Act of 1970 (29 
+                      U.S.C. 651 et seq.); and
+                    (E) the employer, excluding any licensed health care 
+                professional or board certified genetic counselor that 
+                is involved in the genetic monitoring program, receives 
+                the results of the monitoring only in aggregate terms 
+                that do not disclose the identity of specific employees; 
+                or
+            (6) where the employer conducts DNA analysis for law 
+        enforcement purposes as a forensic laboratory or for purposes of 
+        human remains identification, and requests or requires genetic 
+        information of such employer's employees, but only to the extent 
+        that such genetic information is used for analysis of DNA 
+        identification markers for quality control to detect sample 
+        contamination.
+
+    (c) Preservation of Protections.--In the case of information to 
+which any of paragraphs (1) through (6) of subsection (b) applies, such 
+information may not be used in violation of paragraph (1) or (2) of 
+subsection (a) or treated or disclosed in a manner that violates section 
+206.
+SEC. 203. <<NOTE: 42 USC 2000ff-2.>> EMPLOYMENT AGENCY PRACTICES.
+
+    (a) Discrimination Based on Genetic Information.--It shall be an 
+unlawful employment practice for an employment agency--
+            (1) to fail or refuse to refer for employment, or otherwise 
+        to discriminate against, any individual because of genetic 
+        information with respect to the individual;
+            (2) to limit, segregate, or classify individuals or fail or 
+        refuse to refer for employment any individual in any way
+
+[[Page 122 STAT. 909]]
+
+        that would deprive or tend to deprive any individual of 
+        employment opportunities, or otherwise adversely affect the 
+        status of the individual as an employee, because of genetic 
+        information with respect to the individual; or
+            (3) to cause or attempt to cause an employer to discriminate 
+        against an individual in violation of this title.
+
+    (b) Acquisition of Genetic Information.--It shall be an unlawful 
+employment practice for an employment agency to request, require, or 
+purchase genetic information with respect to an individual or a family 
+member of the individual except--
+            (1) where an employment agency inadvertently requests or 
+        requires family medical history of the individual or family 
+        member of the individual;
+            (2) where--
+                    (A) health or genetic services are offered by the 
+                employment agency, including such services offered as 
+                part of a wellness program;
+                    (B) the individual provides prior, knowing, 
+                voluntary, and written authorization;
+                    (C) only the individual (or family member if the 
+                family member is receiving genetic services) and the 
+                licensed health care professional or board certified 
+                genetic counselor involved in providing such services 
+                receive individually identifiable information concerning 
+                the results of such services; and
+                    (D) any individually identifiable genetic 
+                information provided under subparagraph (C) in 
+                connection with the services provided under subparagraph 
+                (A) is only available for purposes of such services and 
+                shall not be disclosed to the employment agency except 
+                in aggregate terms that do not disclose the identity of 
+                specific individuals;
+            (3) where an employment agency requests or requires family 
+        medical history from the individual to comply with the 
+        certification provisions of section 103 of the Family and 
+        Medical Leave Act of 1993 (29 U.S.C. 2613) or such requirements 
+        under State family and medical leave laws;
+            (4) where an employment agency purchases documents that are 
+        commercially and publicly available (including newspapers, 
+        magazines, periodicals, and books, but not including medical 
+        databases or court records) that include family medical history; 
+        or
+            (5) where the information involved is to be used for genetic 
+        monitoring of the biological effects of toxic substances in the 
+        workplace, but only if--
+                    (A) the employment agency provides written notice of 
+                the genetic monitoring to the individual;
+                    (B)(i) the individual provides prior, knowing, 
+                voluntary, and written authorization; or
+                    (ii) the genetic monitoring is required by Federal 
+                or State law;
+                    (C) the individual is informed of individual 
+                monitoring results;
+                    (D) the monitoring is in compliance with--
+                          (i) any Federal genetic monitoring 
+                      regulations, including any such regulations that 
+                      may be promulgated by the Secretary of Labor 
+                      pursuant to the Occupational Safety and Health Act 
+                      of 1970 (29 U.S.C.
+
+[[Page 122 STAT. 910]]
+
+                      651 et seq.), the Federal Mine Safety and Health 
+                      Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic 
+                      Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
+                          (ii) State genetic monitoring regulations, in 
+                      the case of a State that is implementing genetic 
+                      monitoring regulations under the authority of the 
+                      Occupational Safety and Health Act of 1970 (29 
+                      U.S.C. 651 et seq.); and
+                    (E) the employment agency, excluding any licensed 
+                health care professional or board certified genetic 
+                counselor that is involved in the genetic monitoring 
+                program, receives the results of the monitoring only in 
+                aggregate terms that do not disclose the identity of 
+                specific individuals.
+
+    (c) Preservation of Protections.--In the case of information to 
+which any of paragraphs (1) through (5) of subsection (b) applies, such 
+information may not be used in violation of paragraph (1), (2), or (3) 
+of subsection (a) or treated or disclosed in a manner that violates 
+section 206.
+SEC. 204. <<NOTE: 42 USC 2000ff-3.>> LABOR ORGANIZATION PRACTICES.
+
+    (a) Discrimination Based on Genetic Information.--It shall be an 
+unlawful employment practice for a labor organization--
+            (1) to exclude or to expel from the membership of the 
+        organization, or otherwise to discriminate against, any member 
+        because of genetic information with respect to the member;
+            (2) to limit, segregate, or classify the members of the 
+        organization, or fail or refuse to refer for employment any 
+        member, in any way that would deprive or tend to deprive any 
+        member of employment opportunities, or otherwise adversely 
+        affect the status of the member as an employee, because of 
+        genetic information with respect to the member; or
+            (3) to cause or attempt to cause an employer to discriminate 
+        against a member in violation of this title.
+
+    (b) Acquisition of Genetic Information.--It shall be an unlawful 
+employment practice for a labor organization to request, require, or 
+purchase genetic information with respect to a member or a family member 
+of the member except--
+            (1) where a labor organization inadvertently requests or 
+        requires family medical history of the member or family member 
+        of the member;
+            (2) where--
+                    (A) health or genetic services are offered by the 
+                labor organization, including such services offered as 
+                part of a wellness program;
+                    (B) the member provides prior, knowing, voluntary, 
+                and written authorization;
+                    (C) only the member (or family member if the family 
+                member is receiving genetic services) and the licensed 
+                health care professional or board certified genetic 
+                counselor involved in providing such services receive 
+                individually identifiable information concerning the 
+                results of such services; and
+                    (D) any individually identifiable genetic 
+                information provided under subparagraph (C) in 
+                connection with the services provided under subparagraph 
+                (A) is only available for purposes of such services and 
+                shall not be disclosed
+
+[[Page 122 STAT. 911]]
+
+                to the labor organization except in aggregate terms that 
+                do not disclose the identity of specific members;
+            (3) where a labor organization requests or requires family 
+        medical history from the members to comply with the 
+        certification provisions of section 103 of the Family and 
+        Medical Leave Act of 1993 (29 U.S.C. 2613) or such requirements 
+        under State family and medical leave laws;
+            (4) where a labor organization purchases documents that are 
+        commercially and publicly available (including newspapers, 
+        magazines, periodicals, and books, but not including medical 
+        databases or court records) that include family medical history; 
+        or
+            (5) where the information involved is to be used for genetic 
+        monitoring of the biological effects of toxic substances in the 
+        workplace, but only if--
+                    (A) the labor organization provides written notice 
+                of the genetic monitoring to the member;
+                    (B)(i) the member provides prior, knowing, 
+                voluntary, and written authorization; or
+                    (ii) the genetic monitoring is required by Federal 
+                or State law;
+                    (C) the member is informed of individual monitoring 
+                results;
+                    (D) the monitoring is in compliance with--
+                          (i) any Federal genetic monitoring 
+                      regulations, including any such regulations that 
+                      may be promulgated by the Secretary of Labor 
+                      pursuant to the Occupational Safety and Health Act 
+                      of 1970 (29 U.S.C. 651 et seq.), the Federal Mine 
+                      Safety and Health Act of 1977 (30 U.S.C. 801 et 
+                      seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 
+                      2011 et seq.); or
+                          (ii) State genetic monitoring regulations, in 
+                      the case of a State that is implementing genetic 
+                      monitoring regulations under the authority of the 
+                      Occupational Safety and Health Act of 1970 (29 
+                      U.S.C. 651 et seq.); and
+                    (E) the labor organization, excluding any licensed 
+                health care professional or board certified genetic 
+                counselor that is involved in the genetic monitoring 
+                program, receives the results of the monitoring only in 
+                aggregate terms that do not disclose the identity of 
+                specific members.
+
+    (c) Preservation of Protections.--In the case of information to 
+which any of paragraphs (1) through (5) of subsection (b) applies, such 
+information may not be used in violation of paragraph (1), (2), or (3) 
+of subsection (a) or treated or disclosed in a manner that violates 
+section 206.
+SEC. 205. <<NOTE: 42 USC 2000ff-4.>> TRAINING PROGRAMS.
+
+    (a) Discrimination Based on Genetic Information.--It shall be an 
+unlawful employment practice for any employer, labor organization, or 
+joint labor-management committee controlling apprenticeship or other 
+training or retraining, including on-the-job training programs--
+            (1) to discriminate against any individual because of 
+        genetic information with respect to the individual in admission 
+        to, or employment in, any program established to provide 
+        apprenticeship or other training or retraining;
+
+[[Page 122 STAT. 912]]
+
+            (2) to limit, segregate, or classify the applicants for or 
+        participants in such apprenticeship or other training or 
+        retraining, or fail or refuse to refer for employment any 
+        individual, in any way that would deprive or tend to deprive any 
+        individual of employment opportunities, or otherwise adversely 
+        affect the status of the individual as an employee, because of 
+        genetic information with respect to the individual; or
+            (3) to cause or attempt to cause an employer to discriminate 
+        against an applicant for or a participant in such apprenticeship 
+        or other training or retraining in violation of this title.
+
+    (b) Acquisition of Genetic Information.--It shall be an unlawful 
+employment practice for an employer, labor organization, or joint labor-
+management committee described in subsection (a) to request, require, or 
+purchase genetic information with respect to an individual or a family 
+member of the individual except--
+            (1) where the employer, labor organization, or joint labor-
+        management committee inadvertently requests or requires family 
+        medical history of the individual or family member of the 
+        individual;
+            (2) where--
+                    (A) health or genetic services are offered by the 
+                employer, labor organization, or joint labor-management 
+                committee, including such services offered as part of a 
+                wellness program;
+                    (B) the individual provides prior, knowing, 
+                voluntary, and written authorization;
+                    (C) only the individual (or family member if the 
+                family member is receiving genetic services) and the 
+                licensed health care professional or board certified 
+                genetic counselor involved in providing such services 
+                receive individually identifiable information concerning 
+                the results of such services; and
+                    (D) any individually identifiable genetic 
+                information provided under subparagraph (C) in 
+                connection with the services provided under subparagraph 
+                (A) is only available for purposes of such services and 
+                shall not be disclosed to the employer, labor 
+                organization, or joint labor-management committee except 
+                in aggregate terms that do not disclose the identity of 
+                specific individuals;
+            (3) where the employer, labor organization, or joint labor-
+        management committee requests or requires family medical history 
+        from the individual to comply with the certification provisions 
+        of section 103 of the Family and Medical Leave Act of 1993 (29 
+        U.S.C. 2613) or such requirements under State family and medical 
+        leave laws;
+            (4) where the employer, labor organization, or joint labor-
+        management committee purchases documents that are commercially 
+        and publicly available (including newspapers, magazines, 
+        periodicals, and books, but not including medical databases or 
+        court records) that include family medical history;
+            (5) where the information involved is to be used for genetic 
+        monitoring of the biological effects of toxic substances in the 
+        workplace, but only if--
+                    (A) <<NOTE: Notification.>> the employer, labor 
+                organization, or joint labor-management committee 
+                provides written notice of the genetic monitoring to the 
+                individual;
+
+[[Page 122 STAT. 913]]
+
+                    (B)(i) the individual provides prior, knowing, 
+                voluntary, and written authorization; or
+                    (ii) the genetic monitoring is required by Federal 
+                or State law;
+                    (C) the individual is informed of individual 
+                monitoring results;
+                    (D) the monitoring is in compliance with--
+                          (i) any Federal genetic monitoring 
+                      regulations, including any such regulations that 
+                      may be promulgated by the Secretary of Labor 
+                      pursuant to the Occupational Safety and Health Act 
+                      of 1970 (29 U.S.C. 651 et seq.), the Federal Mine 
+                      Safety and Health Act of 1977 (30 U.S.C. 801 et 
+                      seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 
+                      2011 et seq.); or
+                          (ii) State genetic monitoring regulations, in 
+                      the case of a State that is implementing genetic 
+                      monitoring regulations under the authority of the 
+                      Occupational Safety and Health Act of 1970 (29 
+                      U.S.C. 651 et seq.); and
+                    (E) the employer, labor organization, or joint 
+                labor-management committee, excluding any licensed 
+                health care professional or board certified genetic 
+                counselor that is involved in the genetic monitoring 
+                program, receives the results of the monitoring only in 
+                aggregate terms that do not disclose the identity of 
+                specific individuals; or
+            (6) where the employer conducts DNA analysis for law 
+        enforcement purposes as a forensic laboratory or for purposes of 
+        human remains identification, and requests or requires genetic 
+        information of such employer's apprentices or trainees, but only 
+        to the extent that such genetic information is used for analysis 
+        of DNA identification markers for quality control to detect 
+        sample contamination.
+
+    (c) Preservation of Protections.--In the case of information to 
+which any of paragraphs (1) through (6) of subsection (b) applies, such 
+information may not be used in violation of paragraph (1), (2), or (3) 
+of subsection (a) or treated or disclosed in a manner that violates 
+section 206.
+SEC. 206. <<NOTE: 42 USC 2000ff-5.>> CONFIDENTIALITY OF GENETIC 
+                        INFORMATION.
+
+    (a) Treatment of Information as Part of Confidential Medical 
+Record.--If an employer, employment agency, labor organization, or joint 
+labor-management committee possesses genetic information about an 
+employee or member, such information shall be maintained on separate 
+forms and in separate medical files and be treated as a confidential 
+medical record of the employee or member. An employer, employment 
+agency, labor organization, or joint labor-management committee shall be 
+considered to be in compliance with the maintenance of information 
+requirements of this subsection with respect to genetic information 
+subject to this subsection that is maintained with and treated as a 
+confidential medical record under section 102(d)(3)(B) of the Americans 
+With Disabilities Act (42 U.S.C. 12112(d)(3)(B)).
+    (b) Limitation on Disclosure.--An employer, employment agency, labor 
+organization, or joint labor-management committee shall not disclose 
+genetic information concerning an employee or member except--
+
+[[Page 122 STAT. 914]]
+
+            (1) to the employee or member of a labor organization (or 
+        family member if the family member is receiving the genetic 
+        services) at the written request of the employee or member of 
+        such organization;
+            (2) to an occupational or other health researcher if the 
+        research is conducted in compliance with the regulations and 
+        protections provided for under part 46 of title 45, Code of 
+        Federal Regulations;
+            (3) in response to an order of a court, except that--
+                    (A) the employer, employment agency, labor 
+                organization, or joint labor-management committee may 
+                disclose only the genetic information expressly 
+                authorized by such order; and
+                    (B) if the court order was secured without the 
+                knowledge of the employee or member to whom the 
+                information refers, the employer, employment agency, 
+                labor organization, or joint labor-management committee 
+                shall inform the employee or member of the court order 
+                and any genetic information that was disclosed pursuant 
+                to such order;
+            (4) to government officials who are investigating compliance 
+        with this title if the information is relevant to the 
+        investigation;
+            (5) to the extent that such disclosure is made in connection 
+        with the employee's compliance with the certification provisions 
+        of section 103 of the Family and Medical Leave Act of 1993 (29 
+        U.S.C. 2613) or such requirements under State family and medical 
+        leave laws; or
+            (6) to a Federal, State, or local public health agency only 
+        with regard to information that is described in section 
+        201(4)(A)(iii) and that concerns a contagious disease that 
+        presents an imminent hazard of death or life-threatening 
+        illness, and that the employee whose family member or family 
+        members is or are the subject of a disclosure under this 
+        paragraph is notified of such disclosure.
+
+    (c) Relationship to HIPAA Regulations.--With respect to the 
+regulations promulgated by the Secretary of Health and Human Services 
+under part C of title XI of the Social Security Act (42 U.S.C. 1320d et 
+seq.) and section 264 of the Health Insurance Portability and 
+Accountability Act of 1996 (42 U.S.C. 1320d-2 note), this title does not 
+prohibit a covered entity under such regulations from any use or 
+disclosure of health information that is authorized for the covered 
+entity under such regulations. The previous sentence does not affect the 
+authority of such Secretary to modify such regulations.
+SEC. 207. <<NOTE: 42 USC 2000ff-6.>> REMEDIES AND ENFORCEMENT.
+
+    (a) Employees Covered by Title VII of the Civil Rights Act of 
+1964.--
+            (1) In general.--The powers, procedures, and remedies 
+        provided in sections 705, 706, 707, 709, 710, and 711 of the 
+        Civil Rights Act of 1964 (42 U.S.C. 2000e-4 et seq.) to the 
+        Commission, the Attorney General, or any person, alleging a 
+        violation of title VII of that Act (42 U.S.C. 2000e et seq.) 
+        shall be the powers, procedures, and remedies this title 
+        provides to the Commission, the Attorney General, or any person, 
+        respectively, alleging an unlawful employment practice in 
+        violation of this title against an employee described in section 
+        201(2)(A)(i), except as provided in paragraphs (2) and (3).
+
+[[Page 122 STAT. 915]]
+
+            (2) Costs and fees.--The powers, remedies, and procedures 
+        provided in subsections (b) and (c) of section 722 of the 
+        Revised Statutes of the United States (42 U.S.C. 1988), shall be 
+        powers, remedies, and procedures this title provides to the 
+        Commission, the Attorney General, or any person, alleging such a 
+        practice.
+            (3) Damages.--The powers, remedies, and procedures provided 
+        in section 1977A of the Revised Statutes of the United States 
+        (42 U.S.C. 1981a), including the limitations contained in 
+        subsection (b)(3) of such section 1977A, shall be powers, 
+        remedies, and procedures this title provides to the Commission, 
+        the Attorney General, or any person, alleging such a practice 
+        (not an employment practice specifically excluded from coverage 
+        under section 1977A(a)(1) of the Revised Statutes of the United 
+        States).
+
+    (b) Employees Covered by Government Employee Rights Act of 1991.--
+            (1) In general.--The powers, remedies, and procedures 
+        provided in sections 302 and 304 of the Government Employee 
+        Rights Act of 1991 (42 U.S.C. 2000e-16b, 2000e-16c) to the 
+        Commission, or any person, alleging a violation of section 
+        302(a)(1) of that Act (42 U.S.C. 2000e-16b(a)(1)) shall be the 
+        powers, remedies, and procedures this title provides to the 
+        Commission, or any person, respectively, alleging an unlawful 
+        employment practice in violation of this title against an 
+        employee described in section 201(2)(A)(ii), except as provided 
+        in paragraphs (2) and (3).
+            (2) Costs and fees.--The powers, remedies, and procedures 
+        provided in subsections (b) and (c) of section 722 of the 
+        Revised Statutes of the United States (42 U.S.C. 1988), shall be 
+        powers, remedies, and procedures this title provides to the 
+        Commission, or any person, alleging such a practice.
+            (3) Damages.--The powers, remedies, and procedures provided 
+        in section 1977A of the Revised Statutes of the United States 
+        (42 U.S.C. 1981a), including the limitations contained in 
+        subsection (b)(3) of such section 1977A, shall be powers, 
+        remedies, and procedures this title provides to the Commission, 
+        or any person, alleging such a practice (not an employment 
+        practice specifically excluded from coverage under section 
+        1977A(a)(1) of the Revised Statutes of the United States).
+
+    (c) Employees Covered by Congressional Accountability Act of 1995.--
+            (1) In general.--The powers, remedies, and procedures 
+        provided in the Congressional Accountability Act of 1995 (2 
+        U.S.C. 1301 et seq.) to the Board (as defined in section 101 of 
+        that Act (2 U.S.C. 1301)), or any person, alleging a violation 
+        of section 201(a)(1) of that Act (42 U.S.C. 1311(a)(1)) shall be 
+        the powers, remedies, and procedures this title provides to that 
+        Board, or any person, alleging an unlawful employment practice 
+        in violation of this title against an employee described in 
+        section 201(2)(A)(iii), except as provided in paragraphs (2) and 
+        (3).
+            (2) Costs and fees.--The powers, remedies, and procedures 
+        provided in subsections (b) and (c) of section 722 of the 
+        Revised Statutes of the United States (42 U.S.C. 1988), shall be 
+        powers, remedies, and procedures this title provides to that 
+        Board, or any person, alleging such a practice.
+
+[[Page 122 STAT. 916]]
+
+            (3) Damages.--The powers, remedies, and procedures provided 
+        in section 1977A of the Revised Statutes of the United States 
+        (42 U.S.C. 1981a), including the limitations contained in 
+        subsection (b)(3) of such section 1977A, shall be powers, 
+        remedies, and procedures this title provides to that Board, or 
+        any person, alleging such a practice (not an employment practice 
+        specifically excluded from coverage under section 1977A(a)(1) of 
+        the Revised Statutes of the United States).
+            (4) Other applicable provisions.--With respect to a claim 
+        alleging a practice described in paragraph (1), title III of the 
+        Congressional Accountability Act of 1995 (2 U.S.C. 1381 et seq.) 
+        shall apply in the same manner as such title applies with 
+        respect to a claim alleging a violation of section 201(a)(1) of 
+        such Act (2 U.S.C. 1311(a)(1)).
+
+    (d) Employees Covered by Chapter 5 of Title 3, United States Code.--
+            (1) In general.--The powers, remedies, and procedures 
+        provided in chapter 5 of title 3, United States Code, to the 
+        President, the Commission, the Merit Systems Protection Board, 
+        or any person, alleging a violation of section 411(a)(1) of that 
+        title, shall be the powers, remedies, and procedures this title 
+        provides to the President, the Commission, such Board, or any 
+        person, respectively, alleging an unlawful employment practice 
+        in violation of this title against an employee described in 
+        section 201(2)(A)(iv), except as provided in paragraphs (2) and 
+        (3).
+            (2) Costs and fees.--The powers, remedies, and procedures 
+        provided in subsections (b) and (c) of section 722 of the 
+        Revised Statutes of the United States (42 U.S.C. 1988), shall be 
+        powers, remedies, and procedures this title provides to the 
+        President, the Commission, such Board, or any person, alleging 
+        such a practice.
+            (3) Damages.--The powers, remedies, and procedures provided 
+        in section 1977A of the Revised Statutes of the United States 
+        (42 U.S.C. 1981a), including the limitations contained in 
+        subsection (b)(3) of such section 1977A, shall be powers, 
+        remedies, and procedures this title provides to the President, 
+        the Commission, such Board, or any person, alleging such a 
+        practice (not an employment practice specifically excluded from 
+        coverage under section 1977A(a)(1) of the Revised Statutes of 
+        the United States).
+
+    (e) Employees Covered by Section 717 of the Civil Rights Act of 
+1964.--
+            (1) In general.--The powers, remedies, and procedures 
+        provided in section 717 of the Civil Rights Act of 1964 (42 
+        U.S.C. 2000e-16) to the Commission, the Attorney General, the 
+        Librarian of Congress, or any person, alleging a violation of 
+        that section shall be the powers, remedies, and procedures this 
+        title provides to the Commission, the Attorney General, the 
+        Librarian of Congress, or any person, respectively, alleging an 
+        unlawful employment practice in violation of this title against 
+        an employee or applicant described in section 201(2)(A)(v), 
+        except as provided in paragraphs (2) and (3).
+            (2) Costs and fees.--The powers, remedies, and procedures 
+        provided in subsections (b) and (c) of section 722 of the 
+        Revised Statutes of the United States (42 U.S.C. 1988), shall be 
+        powers, remedies, and procedures this title provides
+
+[[Page 122 STAT. 917]]
+
+        to the Commission, the Attorney General, the Librarian of 
+        Congress, or any person, alleging such a practice.
+            (3) Damages.--The powers, remedies, and procedures provided 
+        in section 1977A of the Revised Statutes of the United States 
+        (42 U.S.C. 1981a), including the limitations contained in 
+        subsection (b)(3) of such section 1977A, shall be powers, 
+        remedies, and procedures this title provides to the Commission, 
+        the Attorney General, the Librarian of Congress, or any person, 
+        alleging such a practice (not an employment practice 
+        specifically excluded from coverage under section 1977A(a)(1) of 
+        the Revised Statutes of the United States).
+
+    (f) Prohibition Against Retaliation.--No person shall discriminate 
+against any individual because such individual has opposed any act or 
+practice made unlawful by this title or because such individual made a 
+charge, testified, assisted, or participated in any manner in an 
+investigation, proceeding, or hearing under this title. The remedies and 
+procedures otherwise provided for under this section shall be available 
+to aggrieved individuals with respect to violations of this subsection.
+    (g) Definition.--In this section, the term ``Commission'' means the 
+Equal Employment Opportunity Commission.
+SEC. 208. <<NOTE: 42 USC 2000ff-7.>> DISPARATE IMPACT.
+
+    (a) General Rule.--Notwithstanding any other provision of this Act, 
+``disparate impact'', as that term is used in section 703(k) of the 
+Civil Rights Act of 1964 (42 U.S.C. 2000e-2(k)), on the basis of genetic 
+information does not establish a cause of action under this Act.
+    (b) Commission.--On <<NOTE: Effective date. Establishment.>> the 
+date that is 6 years after the date of enactment of this Act, there 
+shall be established a commission, to be known as the Genetic 
+Nondiscrimination Study Commission (referred to in this section as the 
+``Commission'') to review the developing science of genetics and to make 
+recommendations to Congress regarding whether to provide a disparate 
+impact cause of action under this Act.
+
+    (c) Membership.--
+            (1) In general.--The Commission shall be composed of 8 
+        members, of which--
+                    (A) 1 member shall be appointed by the Majority 
+                Leader of the Senate;
+                    (B) 1 member shall be appointed by the Minority 
+                Leader of the Senate;
+                    (C) 1 member shall be appointed by the Chairman of 
+                the Committee on Health, Education, Labor, and Pensions 
+                of the Senate;
+                    (D) 1 member shall be appointed by the ranking 
+                minority member of the Committee on Health, Education, 
+                Labor, and Pensions of the Senate;
+                    (E) 1 member shall be appointed by the Speaker of 
+                the House of Representatives;
+                    (F) 1 member shall be appointed by the Minority 
+                Leader of the House of Representatives;
+                    (G) 1 member shall be appointed by the Chairman of 
+                the Committee on Education and Labor of the House of 
+                Representatives; and
+
+[[Page 122 STAT. 918]]
+
+                    (H) 1 member shall be appointed by the ranking 
+                minority member of the Committee on Education and Labor 
+                of the House of Representatives.
+            (2) Compensation and expenses.--The members of the 
+        Commission shall not receive compensation for the performance of 
+        services for the Commission, but shall be allowed travel 
+        expenses, including per diem in lieu of subsistence, at rates 
+        authorized for employees of agencies under subchapter I of 
+        chapter 57 of title 5, United States Code, while away from their 
+        homes or regular places of business in the performance of 
+        services for the Commission.
+
+    (d) Administrative Provisions.--
+            (1) Location.--The Commission shall be located in a facility 
+        maintained by the Equal Employment Opportunity Commission.
+            (2) Detail of government employees.--Any Federal Government 
+        employee may be detailed to the Commission without 
+        reimbursement, and such detail shall be without interruption or 
+        loss of civil service status or privilege.
+            (3) Information from federal agencies.--The Commission may 
+        secure directly from any Federal department or agency such 
+        information as the Commission considers necessary to carry out 
+        the provisions of this section. Upon request of the Commission, 
+        the head of such department or agency shall furnish such 
+        information to the Commission.
+            (4) Hearings.--The Commission may hold such hearings, sit 
+        and act at such times and places, take such testimony, and 
+        receive such evidence as the Commission considers advisable to 
+        carry out the objectives of this section, except that, to the 
+        extent possible, the Commission shall use existing data and 
+        research.
+            (5) Postal services.--The Commission may use the United 
+        States mails in the same manner and under the same conditions as 
+        other departments and agencies of the Federal Government.
+
+    (e) Report.--Not later than 1 year after all of the members are 
+appointed to the Commission under subsection (c)(1), the Commission 
+shall submit to Congress a report that summarizes the findings of the 
+Commission and makes such recommendations for legislation as are 
+consistent with this Act.
+    (f) Authorization of Appropriations.--There are authorized to be 
+appropriated to the Equal Employment Opportunity Commission such sums as 
+may be necessary to carry out this section.
+SEC. 209. <<NOTE: 42 USC 2000ff-8.>> CONSTRUCTION.
+
+    (a) In General.--Nothing in this title shall be construed to--
+            (1) limit the rights or protections of an individual under 
+        any other Federal or State statute that provides equal or 
+        greater protection to an individual than the rights or 
+        protections provided for under this title, including the 
+        protections of an individual under the Americans with 
+        Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) (including 
+        coverage afforded to individuals under section 102 of such Act 
+        (42 U.S.C. 12112)), or under the Rehabilitation Act of 1973 (29 
+        U.S.C. 701 et seq.);
+            (2)(A) limit the rights or protections of an individual to 
+        bring an action under this title against an employer, employment 
+        agency, labor organization, or joint labor-management committee 
+        for a violation of this title; or
+
+[[Page 122 STAT. 919]]
+
+            (B) <<NOTE: Applicability.>> provide for enforcement of, or 
+        penalties for violation of, any requirement or prohibition 
+        applicable to any employer, employment agency, labor 
+        organization, or joint labor-management committee subject to 
+        enforcement for a violation under--
+                    (i) the amendments made by title I of this Act;
+                    (ii)(I) subsection (a) of section 701 of the 
+                Employee Retirement Income Security Act of 1974 as such 
+                section applies with respect to genetic information 
+                pursuant to subsection (b)(1)(B) of such section;
+                    (II) section 702(a)(1)(F) of such Act; or
+                    (III) section 702(b)(1) of such Act as such section 
+                applies with respect to genetic information as a health 
+                status-related factor;
+                    (iii)(I) subsection (a) of section 2701 of the 
+                Public Health Service Act as such section applies with 
+                respect to genetic information pursuant to subsection 
+                (b)(1)(B) of such section;
+                    (II) section 2702(a)(1)(F) of such Act; or
+                    (III) section 2702(b)(1) of such Act as such section 
+                applies with respect to genetic information as a health 
+                status-related factor; or
+                    (iv)(I) subsection (a) of section 9801 of the 
+                Internal Revenue Code of 1986 as such section applies 
+                with respect to genetic information pursuant to 
+                subsection (b)(1)(B) of such section;
+                    (II) section 9802(a)(1)(F) of such Act; or
+                    (III) section 9802(b)(1) of such Act as such section 
+                applies with respect to genetic information as a health 
+                status-related factor;
+            (3) apply to the Armed Forces Repository of Specimen Samples 
+        for the Identification of Remains;
+            (4) limit or expand the protections, rights, or obligations 
+        of employees or employers under applicable workers' compensation 
+        laws;
+            (5) limit the authority of a Federal department or agency to 
+        conduct or sponsor occupational or other health research that is 
+        conducted in compliance with the regulations contained in part 
+        46 of title 45, Code of Federal Regulations (or any 
+        corresponding or similar regulation or rule);
+            (6) limit the statutory or regulatory authority of the 
+        Occupational Safety and Health Administration or the Mine Safety 
+        and Health Administration to promulgate or enforce workplace 
+        safety and health laws and regulations; or
+            (7) require any specific benefit for an employee or member 
+        or a family member of an employee or member under any group 
+        health plan or health insurance issuer offering group health 
+        insurance coverage in connection with a group health plan.
+
+    (b) Genetic Information of a Fetus or Embryo.--Any reference in this 
+title to genetic information concerning an individual or family member 
+of an individual shall--
+            (1) with respect to such an individual or family member of 
+        an individual who is a pregnant woman, include genetic 
+        information of any fetus carried by such pregnant woman; and
+
+[[Page 122 STAT. 920]]
+
+            (2) with respect to an individual or family member utilizing 
+        an assisted reproductive technology, include genetic information 
+        of any embryo legally held by the individual or family member.
+
+    (c) Relation to Authorities Under Title I.--With respect to a group 
+health plan, or a health insurance issuer offering group health 
+insurance coverage in connection with a group health plan, this title 
+does not prohibit any activity of such plan or issuer that is authorized 
+for the plan or issuer under any provision of law referred to in clauses 
+(i) through (iv) of subsection (a)(2)(B).
+SEC. 210. <<NOTE: 42 USC 2000ff-9.>> MEDICAL INFORMATION THAT IS 
+                        NOT GENETIC INFORMATION.
+
+    An employer, employment agency, labor organization, or joint labor-
+management committee shall not be considered to be in violation of this 
+title based on the use, acquisition, or disclosure of medical 
+information that is not genetic information about a manifested disease, 
+disorder, or pathological condition of an employee or member, including 
+a manifested disease, disorder, or pathological condition that has or 
+may have a genetic basis.
+SEC. 211. <<NOTE: Deadline. 42 USC 2000ff-10.>> REGULATIONS.
+
+    Not later than 1 year after the date of enactment of this title, the 
+Commission shall issue final regulations to carry out this title.
+SEC. 212. <<NOTE: 42 USC 2000ff-11.>> AUTHORIZATION OF 
+                        APPROPRIATIONS.
+
+    There are authorized to be appropriated such sums as may be 
+necessary to carry out this title (except for section 208).
+SEC. 213. <<NOTE: 42 USC 2000ff note.>> EFFECTIVE DATE.
+
+    This title takes effect on the date that is 18 months after the date 
+of enactment of this Act.
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+SEC. 301. <<NOTE: 42 USC 2000ff note.>> SEVERABILITY.
+
+    If any provision of this Act, an amendment made by this Act, or the 
+application of such provision or amendment to any person or circumstance 
+is held to be unconstitutional, the remainder of this Act, the 
+amendments made by this Act, and the application of such provisions to 
+any person or circumstance shall not be affected thereby.
+SEC. 302. CHILD LABOR PROTECTIONS.
+
+    (a) In General.--Section 16(e) of the Fair Labor Standards Act of 
+1938 (29 U.S.C. 216(e)) is amended to read as follows:
+    ``(e)(1)(A) Any <<NOTE: Penalties.>> person who violates the 
+provisions of sections 12 or 13(c), relating to child labor, or any 
+regulation issued pursuant to such sections, shall be subject to a civil 
+penalty not to exceed--
+                          ``(i) $11,000 for each employee who was the 
+                      subject of such a violation; or
+                          ``(ii) $50,000 with regard to each such 
+                      violation that causes the death or serious injury 
+                      of any employee under the age of 18 years, which 
+                      penalty may be doubled where the violation is a 
+                      repeated or willful violation.
+
+[[Page 122 STAT. 921]]
+
+    ``(B) For purposes of subparagraph (A), the term `serious injury' 
+means--
+            ``(i) permanent loss or substantial impairment of one of the 
+        senses (sight, hearing, taste, smell, tactile sensation);
+            ``(ii) permanent loss or substantial impairment of the 
+        function of a bodily member, organ, or mental faculty, including 
+        the loss of all or part of an arm, leg, foot, hand or other body 
+        part; or
+            ``(iii) permanent paralysis or substantial impairment that 
+        causes loss of movement or mobility of an arm, leg, foot, hand 
+        or other body part.
+
+    ``(2) Any person who repeatedly or willfully violates section 6 or 
+7, relating to wages, shall be subject to a civil penalty not to exceed 
+$1,100 for each such violation.
+    ``(3) In determining the amount of any penalty under this 
+subsection, the appropriateness of such penalty to the size of the 
+business of the person charged and the gravity of the violation shall be 
+considered. The amount of any penalty under this subsection, when 
+finally determined, may be--
+            ``(A) deducted from any sums owing by the United States to 
+        the person charged;
+            ``(B) recovered in a civil action brought by the Secretary 
+        in any court of competent jurisdiction, in which litigation the 
+        Secretary shall be represented by the Solicitor of Labor; or
+            ``(C) ordered by the court, in an action brought for a 
+        violation of section 15(a)(4) or a repeated or willful violation 
+        of section 15(a)(2), to be paid to the Secretary.
+
+    ``(4) 
+Any <<NOTE: Deadline. Notification. Regulations.>> administrative 
+determination by the Secretary of the amount of any penalty under this 
+subsection shall be final, unless within 15 days after receipt of notice 
+thereof by certified mail the person charged with the violation takes 
+exception to the determination that the violations for which the penalty 
+is imposed occurred, in which event final determination of the penalty 
+shall be made in an administrative proceeding after opportunity for 
+hearing in accordance with section 554 of title 5, United States Code, 
+and regulations to be promulgated by the Secretary.
+
+    ``(5) Except for civil penalties collected for violations of section 
+12, sums collected as penalties pursuant to this section shall be 
+applied toward reimbursement of the costs of determining the violations 
+and assessing and collecting such penalties, in accordance with the 
+provision of section 2 of the Act entitled `An Act to authorize the 
+Department of Labor to make special statistical studies upon payment of 
+the cost thereof and for other purposes' (29 U.S.C. 9a). Civil penalties 
+collected for violations of section 12 shall be deposited in the general 
+fund of the Treasury.''.
+
+[[Page 122 STAT. 922]]
+
+    (b) Effective Date.--The <<NOTE: 29 USC 216 note.>> amendments made 
+by this section shall take effect on the date of the enactment of this 
+Act.
+
+    Approved May 21, 2008.
+
+LEGISLATIVE HISTORY--H.R. 493 (S. 358):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 110-28, Pt. 1 (Comm. on Education and Labor), Pt. 2 
+(Comm. on Ways and Means), and Pts. 3 and 4 (Comm. on Energy and 
+Commerce).
+SENATE REPORTS: No. 110-48 accompanying S. 358 (Comm. on Health, 
+Education, Labor, and Pensions).
+CONGRESSIONAL RECORD:
+                                                        Vol. 153 (2007):
+                                    Apr. 25, considered and passed 
+                                        House.
+                                                        Vol. 154 (2008):
+                                    Apr. 24, considered and passed 
+                                        Senate, amended.
+                                    May 1, House concurred in Senate 
+                                        amendment.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 44 (2008):
+            May 21, Presidential remarks.
+
+                                  
+

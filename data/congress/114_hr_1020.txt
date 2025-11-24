@@ -1,0 +1,133 @@
+
+[114th Congress Public Law 59]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 539]]
+
+                       STEM EDUCATION ACT OF 2015
+
+[[Page 129 STAT. 540]]
+
+Public Law 114-59
+114th Congress
+
+                                 An Act
+
+
+ 
+  To define STEM education to include computer science, and to support 
+        existing STEM education programs at the National Science 
+           Foundation. <<NOTE: Oct. 7, 2015 -  [H.R. 1020]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: STEM Education 
+Act of 2015. 42 USC 1861 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``STEM Education Act of 2015''.
+SEC. 2. <<NOTE: 42 USC 6621 note.>>  DEFINITION OF STEM EDUCATION.
+
+    For purposes of carrying out STEM education activities at the 
+National Science Foundation, the Department of Energy, the National 
+Aeronautics and Space Administration, the National Oceanic and 
+Atmospheric Administration, the National Institute of Standards and 
+Technology, and the Environmental Protection Agency, the term ``STEM 
+education'' means education in the subjects of science, technology, 
+engineering, and mathematics, including computer science.
+SEC. 3. <<NOTE: 42 USC 1862q.>>  INFORMAL STEM EDUCATION.
+
+    (a) Grants.--The Director of the National Science Foundation, 
+through the Directorate for Education and Human Resources, shall 
+continue to award competitive, merit-reviewed grants to support--
+            (1) research and development of innovative out-of-school 
+        STEM learning and emerging STEM learning environments in order 
+        to improve STEM learning outcomes and engagement in STEM; and
+            (2) research that advances the field of informal STEM 
+        education.
+
+    (b) Uses of Funds.--Activities supported by grants under this 
+section may encompass a single STEM discipline, multiple STEM 
+disciplines, or integrative STEM initiatives and shall include--
+            (1) research and development that improves our understanding 
+        of learning and engagement in informal environments, including 
+        the role of informal environments in broadening participation in 
+        STEM; and
+            (2) design and testing of innovative STEM learning models, 
+        programs, and other resources for informal learning environments 
+        to improve STEM learning outcomes and increase engagement for K-
+        12 students, K-12 teachers, and the general public, including 
+        design and testing of the scalability of models, programs, and 
+        other resources.
+SEC. 4. NOYCE SCHOLARSHIP PROGRAM AMENDMENTS.
+
+    (a) Amendments.--Section 10A of the National Science Foundation 
+Authorization Act of 2002 (42 U.S.C. 1862n-1a) is amended--
+
+[[Page 129 STAT. 541]]
+
+            (1) in subsection (a)(2)(B), by inserting ``or bachelor's'' 
+        after ``master's'';
+            (2) in subsection (c)--
+                    (A) by striking ``and'' at the end of paragraph 
+                (2)(B);
+                    (B) in paragraph (3)--
+                          (i) by inserting ``for teachers with master's 
+                      degrees in their field'' after ``Teaching 
+                      Fellowships''; and
+                          (ii) by striking the period at the end of 
+                      subparagraph (B) and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(4) in the case of National Science Foundation Master 
+        Teaching Fellowships for teachers with bachelor's degrees in 
+        their field and working toward a master's degree--
+                    ``(A) offering academic courses leading to a 
+                master's degree and leadership training to prepare 
+                individuals to become master teachers in elementary and 
+                secondary schools; and
+                    ``(B) offering programs both during and after 
+                matriculation in the program for which the fellowship is 
+                received to enable fellows to become highly effective 
+                mathematics and science teachers, including mentoring, 
+                training, induction, and professional development 
+                activities, to fulfill the service requirements of this 
+                section, including the requirements of subsection (e), 
+                and to exchange ideas with others in their fields.'';
+            (3) in subsections (e) and (f), by striking ``subsection 
+        (g)'' each place it appears, and inserting ``subsection (h)'';
+            (4) by redesignating subsections (g) through (i) as 
+        subsections (h) through (j), respectively; and
+            (5) by inserting after subsection (f) the following new 
+        subsection:
+
+    ``(g) Support for Master Teaching Fellows While Enrolled in a 
+Master's Degree Program.--A National Science Foundation Master Teacher 
+Fellow may receive a maximum of 1 year of fellowship support while 
+enrolled in a master's degree program as described in subsection 
+(c)(4)(A), except that if such fellow is enrolled in a part-time 
+program, such amount shall be prorated according to the length of the 
+program.''.
+    (b) Definition.--Section 10(i)(5) of the National Science Foundation 
+Authorization Act of 2002 (42 U.S.C. 1862n-1(i)(5))
+
+[[Page 129 STAT. 542]]
+
+is amended by inserting ``computer science,'' after ``means a 
+science,''.
+
+    Approved October 7, 2015.
+
+LEGISLATIVE HISTORY--H.R. 1020:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 114-115 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 161 (2015):
+            Feb. 24, 25, considered and passed House.
+            Sept. 24, considered and passed Senate, amended.
+            Oct. 1, House concurred in Senate amendment.
+
+                                  
+

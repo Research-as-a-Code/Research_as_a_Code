@@ -1,0 +1,145 @@
+
+[117th Congress Public Law 154]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 136 STAT. 1303]]
+
+Public Law 117-154
+117th Congress
+
+                                 An Act
+
+
+ 
+   To direct the Secretary of Veterans Affairs to submit to Congress 
+periodic reports on the costs, performance metrics, and outcomes of the 
+ Department of Veterans Affairs Electronic Health Record Modernization 
+            program. <<NOTE: June 23, 2022 -  [H.R. 4591]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: VA Electronic 
+Health Record Transparency Act of 2021.>> 
+SECTION 1. <<NOTE: 38 USC 101 note.>>  SHORT TITLE.
+
+    This Act may be cited as the ``VA Electronic Health Record 
+Transparency Act of 2021''.
+SEC. 2. REPORTS ON COSTS, PERFORMANCE METRICS, AND OUTCOMES OF 
+                    DEPARTMENT OF VETERANS AFFAIRS ELECTRONIC 
+                    HEALTH RECORD MODERNIZATION PROGRAM.
+
+    (a) In General.--Section 503 of the Veterans Benefits and Transition 
+Act of 2018 (Public Law 115-407; 38 U.S.C. 5701 note prec.) <<NOTE: 38 
+USC 5701 note prec.>>  is amended--
+            (1) by redesignating subsection (e) as subsection (f);
+            (2) by inserting after subsection (d) the following new 
+        subsection (e):
+
+    ``(e) <<NOTE: Time periods.>>  Quarterly Reports.--
+            ``(1) Reports on costs of ehrm program.--Not later than 90 
+        days after the date of the enactment of the VA Electronic Health 
+        Record Transparency Act of 2021, and every 30 days after the 
+        last day of each fiscal quarter thereafter until the termination 
+        date specified in paragraph (3), the Secretary of Veterans 
+        Affairs shall submit to the Committees on Veterans' Affairs of 
+        the Senate and House of Representatives a report on the costs of 
+        the Electronic Health Record Modernization program of the 
+        Department of Veterans Affairs. Each such report shall include, 
+        for the period covered by the report and for the total period 
+        beginning on the date of the enactment of the VA Electronic 
+        Health Record Transparency Act of 2021 and ending on the date of 
+        the submittal of the report, a description of all actual 
+        expenses of, and driven by, such program, including any such 
+        expenses paid using--
+                    ``(A) any funds appropriated for the Department of 
+                Veterans Affairs, for any source or account, expended by 
+                any organizational element of the Department or by the 
+                Federal Electronic Health Record Modernization Office 
+                for the Electronic Health Record Modernization Program;
+                    ``(B) any funds, from any source or account, 
+                expended by any organizational element of the Department 
+                for physical or technology infrastructure modifications, 
+                enhancements, improvements, or expansions at a facility 
+                of the
+
+[[Page 136 STAT. 1304]]
+
+                Department necessitated by, or related or pertaining to, 
+                the Electronic Health Record Modernization Program; and
+                    ``(C) any funds, from any source or account, 
+                expended by any organizational element of the Department 
+                or by the Federal Electronic Health Record Modernization 
+                Office for consultants, support contractors, or experts 
+                related or pertaining to the Electronic Health Record 
+                Modernization Program.
+            ``(2) Reports on performance metrics and outcomes.--Not 
+        later than 90 days after the date of the enactment of the VA 
+        Electronic Health Record Transparency Act of 2021, and every 30 
+        days after the last day of each fiscal quarter thereafter until 
+        the termination date specified in paragraph (3), the Secretary 
+        of Veterans Affairs shall submit to the Committees on Veterans' 
+        Affairs of the Senate and House of Representatives a report on 
+        the performance metrics and outcomes of the Electronic Health 
+        Record Modernization Program. Each such <<NOTE: Lists.>>  report 
+        shall include, for the period covered by the report--
+                    ``(A) <<NOTE: Assessment.>>  a list of the quality, 
+                performance, safety, or value metrics, key performance 
+                indicators, and other diagnostic or evaluation criteria 
+                in use to assess the Electronic Health Record 
+                Modernization Program and the electronic health record 
+                system, in general and at individual facilities, with 
+                respect to veterans, employees of the Department, and 
+                Departmental operations;
+                    ``(B) an explanation of any change to any of such 
+                metrics, indicators, and criteria compared to the 
+                metrics, indicators, and criteria included in any 
+                previous report submitted under this paragraph;
+                    ``(C) <<NOTE: Data.>>  the data supporting or 
+                demonstrating each such metric, indicator, and criteria 
+                compared to the data supporting or demonstrating such 
+                metric, indicator, or criteria as included in the 
+                previous report submitted under this paragraph; and
+                    ``(D) a list of patient safety reports, incidents, 
+                alerts, or disclosures at each facility of the 
+                Department where the electronic health record system has 
+                been implemented.
+            ``(3) <<NOTE: Certification.>>  Termination date.--The 
+        requirement to submit a report under paragraph (1) shall 
+        terminate on the date that is 90 days after the date on which 
+        the Secretary submits to the Committees on Veterans' Affairs of 
+        the Senate and House of Representatives certification that the 
+        Electronic Health Record Modernization program has been fully 
+        implemented.''; and
+            (3) <<NOTE: Definitions.>>  in subsection (f), as 
+        redesignated by paragraph (1), by adding at the end the 
+        following new paragraphs:
+            ``(3) The term `electronic health record system' means the 
+        electronic health record system implemented pursuant to the 
+        Electronic Health Record Modernization Program.
+            ``(4) The term `Federal Electronic Health Record Management 
+        Office' means the office established under section 1635(b) of 
+        the Wounded Warrior Act (title XVI of Public Law 110-181; 10 
+        U.S.C. 1071 note).
+
+[[Page 136 STAT. 1305]]
+
+            ``(5) The term `facility of the Department' includes a joint 
+        facility of the Department of Veterans Affairs and the 
+        Department of Defense.''.
+
+    Approved June 23, 2022.
+
+LEGISLATIVE HISTORY--H.R. 4591:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD:
+                                                        Vol. 167 (2021):
+                                    Nov. 16, considered and passed 
+                                        House.
+                                                        Vol. 168 (2022):
+                                    May 26, considered and passed 
+                                        Senate.
+
+                                  
+

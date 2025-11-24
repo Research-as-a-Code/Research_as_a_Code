@@ -1,0 +1,2378 @@
+
+[109th Congress Public Law 366]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ366.109]
+
+[[Page 2599]]
+
+                    MILITARY COMMISSIONS ACT OF 2006
+
+[[Page 120 STAT. 2600]]
+
+Public Law 109-366
+109th Congress
+
+                                 An Act
+
+
+ 
+ To authorize trial by military commission for violations of the law of 
+   war, and for other purposes. <<NOTE: Oct. 17, 2006 -  [S. 3930]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Military 
+Commissions Act of 2006.>> 
+
+SECTION 1. <<NOTE: 10 USC 948a note.>> SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Military 
+Commissions Act of 2006''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Construction of Presidential authority to establish military 
+           commissions.
+Sec. 3. Military commissions.
+Sec. 4. Amendments to Uniform Code of Military Justice.
+Sec. 5. Treaty obligations not establishing grounds for certain claims.
+Sec. 6. Implementation of treaty obligations.
+Sec. 7. Habeas corpus matters.
+Sec. 8. Revisions to Detainee Treatment Act of 2005 relating to 
+           protection of certain United States Government personnel.
+Sec. 9. Review of judgments of military commissions.
+Sec. 10. Detention covered by review of decisions of Combatant Status 
+           Review Tribunals of propriety of detention.
+
+SEC. 2. <<NOTE: 10 USC 948a note.>> CONSTRUCTION OF PRESIDENTIAL 
+            AUTHORITY TO ESTABLISH MILITARY COMMISSIONS.
+
+    The authority to establish military commissions under chapter 47A of 
+title 10, United States Code, as added by section 3(a), may not be 
+construed to alter or limit the authority of the President under the 
+Constitution of the United States and laws of the United States to 
+establish military commissions for areas declared to be under martial 
+law or in occupied territories should circumstances so require.
+
+SEC. 3. MILITARY COMMISSIONS.
+
+    (a) Military Commissions.--
+            (1) In general.--Subtitle A of title 10, United States Code, 
+        is amended by inserting after chapter 47 the following new 
+        chapter:
+
+                   ``CHAPTER 47A--MILITARY COMMISSIONS
+
+``Subchapter
+``I. General Provisions...........................................  948a
+``II. Composition of Military Commissions.........................  948h
+``III. Pre-Trial Procedure........................................  948q
+``IV. Trial Procedure.............................................  949a
+``V. Sentences....................................................  949s
+
+[[Page 120 STAT. 2601]]
+
+``VI. Post-Trial Procedure and Review of Military Commissions.....  950a
+``VII. Punitive Matters...........................................  950p
+
+                   ``SUBCHAPTER I--GENERAL PROVISIONS
+
+``Sec.
+``948a. Definitions.
+``948b. Military commissions generally.
+``948c. Persons subject to military commissions.
+``948d. Jurisdiction of military commissions.
+``948e. Annual report to congressional committees.
+
+``Sec. 948a. Definitions
+
+    ``In this chapter:
+            ``(1) Unlawful enemy combatant.--(A) The term `unlawful 
+        enemy combatant' means--
+                    ``(i) a person who has engaged in hostilities or who 
+                has purposefully and materially supported hostilities 
+                against the United States or its co-belligerents who is 
+                not a lawful enemy combatant (including a person who is 
+                part of the Taliban, al Qaeda, or associated forces); or
+                    ``(ii) a person who, before, on, or after the date 
+                of the enactment of the Military Commissions Act of 
+                2006, has been determined to be an unlawful enemy 
+                combatant by a Combatant Status Review Tribunal or 
+                another competent tribunal established under the 
+                authority of the President or the Secretary of Defense.
+            ``(B) Co-belligerent.--In this paragraph, the term `co-
+        belligerent', with respect to the United States, means any State 
+        or armed force joining and directly engaged with the United 
+        States in hostilities or directly supporting hostilities against 
+        a common enemy.
+            ``(2) Lawful enemy combatant.--The term `lawful enemy 
+        combatant' means a person who is--
+                    ``(A) a member of the regular forces of a State 
+                party engaged in hostilities against the United States;
+                    ``(B) a member of a militia, volunteer corps, or 
+                organized resistance movement belonging to a State party 
+                engaged in such hostilities, which are under responsible 
+                command, wear a fixed distinctive sign recognizable at a 
+                distance, carry their arms openly, and abide by the law 
+                of war; or
+                    ``(C) a member of a regular armed force who 
+                professes allegiance to a government engaged in such 
+                hostilities, but not recognized by the United States.
+            ``(3) Alien.--The term `alien' means a person who is not a 
+        citizen of the United States.
+            ``(4) Classified information.--The term `classified 
+        information' means the following:
+                    ``(A) Any information or material that has been 
+                determined by the United States Government pursuant to 
+                statute, Executive order, or regulation to require 
+                protection against unauthorized disclosure for reasons 
+                of national security.
+                    ``(B) Any restricted data, as that term is defined 
+                in section 11 y. of the Atomic Energy Act of 1954 (42 
+                U.S.C. 2014(y)).
+
+[[Page 120 STAT. 2602]]
+
+            ``(5) Geneva conventions.--The term `Geneva Conventions' 
+        means the international conventions signed at Geneva on August 
+        12, 1949.
+
+``Sec. 948b. Military commissions generally
+
+    ``(a) Purpose.--This chapter establishes procedures governing the 
+use of military commissions to try alien unlawful enemy combatants 
+engaged in hostilities against the United States for violations of the 
+law of war and other offenses triable by military commission.
+    ``(b) Authority for Military Commissions Under This Chapter.-- 
+<<NOTE: President.>> The President is authorized to establish military 
+commissions under this chapter for offenses triable by military 
+commission as provided in this chapter.
+
+    ``(c) Construction of Provisions.--The procedures for military 
+commissions set forth in this chapter are based upon the procedures for 
+trial by general courts-martial under chapter 47 of this title (the 
+Uniform Code of Military Justice). Chapter 47 of this title does not, by 
+its terms, apply to trial by military commission except as specifically 
+provided in this chapter. The judicial construction and application of 
+that chapter are not binding on military commissions established under 
+this chapter.
+    ``(d) Inapplicability of Certain Provisions.--(1) The following 
+provisions of this title shall not apply to trial by military commission 
+under this chapter:
+            ``(A) Section 810 (article 10 of the Uniform Code of 
+        Military Justice), relating to speedy trial, including any rule 
+        of courts-martial relating to speedy trial.
+            ``(B) Sections 831(a), (b), and (d) (articles 31(a), (b), 
+        and (d) of the Uniform Code of Military Justice), relating to 
+        compulsory self-incrimination.
+            ``(C) Section 832 (article 32 of the Uniform Code of 
+        Military Justice), relating to pretrial investigation.
+
+    ``(2) <<NOTE: Applicability.>> Other provisions of chapter 47 of 
+this title shall apply to trial by military commission under this 
+chapter only to the extent provided by this chapter.
+
+    ``(e) Treatment of Rulings and Precedents.--The findings, holdings, 
+interpretations, and other precedents of military commissions under this 
+chapter may not be introduced or considered in any hearing, trial, or 
+other proceeding of a court-martial convened under chapter 47 of this 
+title. The findings, holdings, interpretations, and other precedents of 
+military commissions under this chapter may not form the basis of any 
+holding, decision, or other determination of a court-martial convened 
+under that chapter.
+    ``(f) Status of Commissions Under Common Article 3.--A military 
+commission established under this chapter is a regularly constituted 
+court, affording all the necessary `judicial guarantees which are 
+recognized as indispensable by civilized peoples' for purposes of common 
+Article 3 of the Geneva Conventions.
+    ``(g) Geneva Conventions Not Establishing Source of Rights.--No 
+alien unlawful enemy combatant subject to trial by military commission 
+under this chapter may invoke the Geneva Conventions as a source of 
+rights.
+
+``Sec. 948c. Persons subject to military commissions
+
+    ``Any alien unlawful enemy combatant is subject to trial by military 
+commission under this chapter.
+
+[[Page 120 STAT. 2603]]
+
+``Sec. 948d. Jurisdiction of military commissions
+
+    ``(a) Jurisdiction.--A military commission under this chapter shall 
+have jurisdiction to try any offense made punishable by this chapter or 
+the law of war when committed by an alien unlawful enemy combatant 
+before, on, or after September 11, 2001.
+    ``(b) Lawful Enemy Combatants.--Military commissions under this 
+chapter shall not have jurisdiction over lawful enemy combatants. Lawful 
+enemy combatants who violate the law of war are subject to chapter 47 of 
+this title. Courts-martial established under that chapter shall have 
+jurisdiction to try a lawful enemy combatant for any offense made 
+punishable under this chapter.
+    ``(c) Determination of Unlawful Enemy Combatant Status 
+Dispositive.--A finding, whether before, on, or after the date of the 
+enactment of the Military Commissions Act of 2006, by a Combatant Status 
+Review Tribunal or another competent tribunal established under the 
+authority of the President or the Secretary of Defense that a person is 
+an unlawful enemy combatant is dispositive for purposes of jurisdiction 
+for trial by military commission under this chapter.
+    ``(d) Punishments.--A military commission under this chapter may, 
+under such limitations as the Secretary of Defense may prescribe, 
+adjudge any punishment not forbidden by this chapter, including the 
+penalty of death when authorized under this chapter or the law of war.
+
+``Sec. 948e. Annual report to congressional committees
+
+    ``(a) Annual Report Required.--Not later than December 31 each year, 
+the Secretary of Defense shall submit to the Committees on Armed 
+Services of the Senate and the House of Representatives a report on any 
+trials conducted by military commissions under this chapter during such 
+year.
+    ``(b) Form.--Each report under this section shall be submitted in 
+unclassified form, but may include a classified annex.
+
+          ``SUBCHAPTER II--COMPOSITION OF MILITARY COMMISSIONS
+
+``Sec.
+``948h. Who may convene military commissions.
+``948i. Who may serve on military commissions.
+``948j. Military judge of a military commission.
+``948k. Detail of trial counsel and defense counsel.
+``948l. Detail or employment of reporters and interpreters.
+``948m. Number of members; excuse of members; absent and additional 
+           members.
+
+``Sec. 948h. Who may convene military commissions
+
+    ``Military commissions under this chapter may be convened by the 
+Secretary of Defense or by any officer or official of the United States 
+designated by the Secretary for that purpose.
+
+``Sec. 948i. Who may serve on military commissions
+
+    ``(a) In General.--Any commissioned officer of the armed forces on 
+active duty is eligible to serve on a military commission under this 
+chapter.
+    ``(b) Detail of Members.--When convening a military commission under 
+this chapter, the convening authority shall detail as members of the 
+commission such members of the armed forces eligible under subsection 
+(a), as in the opinion of the convening
+
+[[Page 120 STAT. 2604]]
+
+authority, are best qualified for the duty by reason of age, education, 
+training, experience, length of service, and judicial temperament. No 
+member of an armed force is eligible to serve as a member of a military 
+commission when such member is the accuser or a witness for the 
+prosecution or has acted as an investigator or counsel in the same case.
+    ``(c) Excuse of Members.--Before a military commission under this 
+chapter is assembled for the trial of a case, the convening authority 
+may excuse a member from participating in the case.
+
+``Sec. 948j. Military judge of a military commission
+
+    ``(a) Detail of Military Judge.--A military judge shall be detailed 
+to each military commission under this 
+chapter. <<NOTE: Regulations.>> The Secretary of Defense shall prescribe 
+regulations providing for the manner in which military judges are so 
+detailed to military commissions. The military judge shall preside over 
+each military commission to which he has been detailed.
+
+    ``(b) Qualifications.--A military judge shall be a commissioned 
+officer of the armed forces who is a member of the bar of a Federal 
+court, or a member of the bar of the highest court of a State, and who 
+is certified to be qualified for duty under section 826 of this title 
+(article 26 of the Uniform Code of Military Justice) as a military judge 
+in general courts-martial by the Judge Advocate General of the armed 
+force of which such military judge is a member.
+    ``(c) Ineligibility of Certain Individuals.--No person is eligible 
+to act as military judge in a case of a military commission under this 
+chapter if he is the accuser or a witness or has acted as investigator 
+or a counsel in the same case.
+    ``(d) Consultation With Members; Ineligibility To Vote.--A military 
+judge detailed to a military commission under this chapter may not 
+consult with the members of the commission except in the presence of the 
+accused (except as otherwise provided in section 949d of this title), 
+trial counsel, and defense counsel, nor may he vote with the members of 
+the commission.
+    ``(e) Other Duties.--A commissioned officer who is certified to be 
+qualified for duty as a military judge of a military commission under 
+this chapter may perform such other duties as are assigned to him by or 
+with the approval of the Judge Advocate General of the armed force of 
+which such officer is a member or the designee of such Judge Advocate 
+General.
+    ``(f) Prohibition on Evaluation of Fitness by Convening Authority.--
+The convening authority of a military commission under this chapter 
+shall not prepare or review any report concerning the effectiveness, 
+fitness, or efficiency of a military judge detailed to the military 
+commission which relates to his performance of duty as a military judge 
+on the military commission.
+
+``Sec. 948k. Detail of trial counsel and defense counsel
+
+    ``(a) Detail of Counsel Generally.--(1) Trial counsel and military 
+defense counsel shall be detailed for each military commission under 
+this chapter.
+    ``(2) Assistant trial counsel and assistant and associate defense 
+counsel may be detailed for a military commission under this chapter.
+
+[[Page 120 STAT. 2605]]
+
+    ``(3) Military defense counsel for a military commission under this 
+chapter shall be detailed as soon as practicable after the swearing of 
+charges against the accused.
+    ``(4) <<NOTE: Regulations.>> The Secretary of Defense shall 
+prescribe regulations providing for the manner in which trial counsel 
+and military defense counsel are detailed for military commissions under 
+this chapter and for the persons who are authorized to detail such 
+counsel for such commissions.
+
+    ``(b) Trial Counsel.--Subject to subsection (e), trial counsel 
+detailed for a military commission under this chapter must be--
+            ``(1) a judge advocate (as that term is defined in section 
+        801 of this title (article 1 of the Uniform Code of Military 
+        Justice) who--
+                    ``(A) is a graduate of an accredited law school or 
+                is a member of the bar of a Federal court or of the 
+                highest court of a State; and
+                    ``(B) is certified as competent to perform duties as 
+                trial counsel before general courts-martial by the Judge 
+                Advocate General of the armed force of which he is a 
+                member; or
+            ``(2) a civilian who--
+                    ``(A) is a member of the bar of a Federal court or 
+                of the highest court of a State; and
+                    ``(B) is otherwise qualified to practice before the 
+                military commission pursuant to regulations prescribed 
+                by the Secretary of Defense.
+
+    ``(c) Military Defense Counsel.--Subject to subsection (e), military 
+defense counsel detailed for a military commission under this chapter 
+must be a judge advocate (as so defined) who is--
+            ``(1) a graduate of an accredited law school or is a member 
+        of the bar of a Federal court or of the highest court of a 
+        State; and
+            ``(2) certified as competent to perform duties as defense 
+        counsel before general courts-martial by the Judge Advocate 
+        General of the armed force of which he is a member.
+
+    ``(d) Chief Prosecutor; Chief Defense Counsel.--(1) The Chief 
+Prosecutor in a military commission under this chapter shall meet the 
+requirements set forth in subsection (b)(1).
+    ``(2) The Chief Defense Counsel in a military commission under this 
+chapter shall meet the requirements set forth in subsection (c)(1).
+    ``(e) Ineligibility of Certain Individuals.--No person who has acted 
+as an investigator, military judge, or member of a military commission 
+under this chapter in any case may act later as trial counsel or 
+military defense counsel in the same case. No person who has acted for 
+the prosecution before a military commission under this chapter may act 
+later in the same case for the defense, nor may any person who has acted 
+for the defense before a military commission under this chapter act 
+later in the same case for the prosecution.
+
+``Sec. 948l. Detail or employment of reporters and interpreters
+
+    ``(a) Court Reporters.--Under such regulations as the Secretary of 
+Defense may prescribe, the convening authority of a military commission 
+under this chapter shall detail to or employ for the commission 
+qualified court reporters, who shall make a verbatim
+
+[[Page 120 STAT. 2606]]
+
+recording of the proceedings of and testimony taken before the 
+commission.
+    ``(b) Interpreters.--Under such regulations as the Secretary of 
+Defense may prescribe, the convening authority of a military commission 
+under this chapter may detail to or employ for the military commission 
+interpreters who shall interpret for the commission and, as necessary, 
+for trial counsel and defense counsel and for the accused.
+    ``(c) Transcript; Record.--The transcript of a military commission 
+under this chapter shall be under the control of the convening authority 
+of the commission, who shall also be responsible for preparing the 
+record of the proceedings.
+
+``Sec. 948m. Number of members; excuse of members; absent and additional 
+                        members
+
+    ``(a) Number of Members.--(1) A military commission under this 
+chapter shall, except as provided in paragraph (2), have at least five 
+members.
+    ``(2) In a case in which the accused before a military commission 
+under this chapter may be sentenced to a penalty of death, the military 
+commission shall have the number of members prescribed by section 
+949m(c) of this title.
+    ``(b) Excuse of Members.--No member of a military commission under 
+this chapter may be absent or excused after the military commission has 
+been assembled for the trial of a case unless excused--
+            ``(1) as a result of challenge;
+            ``(2) by the military judge for physical disability or other 
+        good cause; or
+            ``(3) by order of the convening authority for good cause.
+
+    ``(c) Absent and Additional Members.--Whenever a military commission 
+under this chapter is reduced below the number of members required by 
+subsection (a), the trial may not proceed unless the convening authority 
+details new members sufficient to provide not less than such number. The 
+trial may proceed with the new members present after the recorded 
+evidence previously introduced before the members has been read to the 
+military commission in the presence of the military judge, the accused 
+(except as provided in section 949d of this title), and counsel for both 
+sides.
+
+                  ``SUBCHAPTER III--PRE-TRIAL PROCEDURE
+
+``Sec.
+``948q. Charges and specifications.
+``948r. Compulsory self-incrimination prohibited; treatment of 
+           statements obtained by torture and other statements.
+``948s. Service of charges.
+
+``Sec. 948q. Charges and specifications
+
+    ``(a) Charges and Specifications.--Charges and specifications 
+against an accused in a military commission under this chapter shall be 
+signed by a person subject to chapter 47 of this title under oath before 
+a commissioned officer of the armed forces authorized to administer 
+oaths and shall state--
+            ``(1) that the signer has personal knowledge of, or reason 
+        to believe, the matters set forth therein; and
+            ``(2) that they are true in fact to the best of the signer's 
+        knowledge and belief.
+
+[[Page 120 STAT. 2607]]
+
+    ``(b) Notice to Accused.--Upon the swearing of the charges and 
+specifications in accordance with subsection (a), the accused shall be 
+informed of the charges against him as soon as practicable.
+
+``Sec. 948r. Compulsory self-incrimination prohibited; treatment of 
+                        statements obtained by torture and other 
+                        statements
+
+    ``(a) In General.--No person shall be required to testify against 
+himself at a proceeding of a military commission under this chapter.
+    ``(b) Exclusion of Statements Obtained by Torture.--A statement 
+obtained by use of torture shall not be admissible in a military 
+commission under this chapter, except against a person accused of 
+torture as evidence that the statement was made.
+    ``(c) Statements Obtained Before Enactment of Detainee Treatment Act 
+of 2005.--A statement obtained before December 30, 2005 (the date of the 
+enactment of the Defense Treatment Act of 2005) in which the degree of 
+coercion is disputed may be admitted only if the military judge finds 
+that--
+            ``(1) the totality of the circumstances renders the 
+        statement reliable and possessing sufficient probative value; 
+        and
+            ``(2) the interests of justice would best be served by 
+        admission of the statement into evidence.
+
+    ``(d) Statements Obtained After Enactment of Detainee Treatment Act 
+of 2005.--A statement obtained on or after December 30, 2005 (the date 
+of the enactment of the Defense Treatment Act of 2005) in which the 
+degree of coercion is disputed may be admitted only if the military 
+judge finds that--
+            ``(1) the totality of the circumstances renders the 
+        statement reliable and possessing sufficient probative value;
+            ``(2) the interests of justice would best be served by 
+        admission of the statement into evidence; and
+            ``(3) the interrogation methods used to obtain the statement 
+        do not amount to cruel, inhuman, or degrading treatment 
+        prohibited by section 1003 of the Detainee Treatment Act of 
+        2005.
+
+``Sec. 948s. Service of charges
+
+    ``The trial counsel assigned to a case before a military commission 
+under this chapter shall cause to be served upon the accused and 
+military defense counsel a copy of the charges upon which trial is to be 
+had. Such charges shall be served in English and, if appropriate, in 
+another language that the accused understands. Such service shall be 
+made sufficiently in advance of trial to prepare a defense.
+
+                    ``SUBCHAPTER IV--TRIAL PROCEDURE
+
+``Sec.
+``949a. Rules.
+``949b. Unlawfully influencing action of military commission.
+``949c. Duties of trial counsel and defense counsel.
+``949d. Sessions.
+``949e. Continuances.
+``949f. Challenges.
+``949g. Oaths.
+``949h. Former jeopardy.
+``949i. Pleas of the accused.
+``949j. Opportunity to obtain witnesses and other evidence.
+``949k. Defense of lack of mental responsibility.
+``949l. Voting and rulings.
+
+[[Page 120 STAT. 2608]]
+
+``949m. Number of votes required.
+``949n. Military commission to announce action.
+``949o. Record of trial.
+
+``Sec. 949a. Rules
+
+    ``(a) Procedures and Rules of Evidence.--Pretrial, trial, and post-
+trial procedures, including elements and modes of proof, for cases 
+triable by military commission under this chapter may be prescribed by 
+the Secretary of Defense, in consultation with the Attorney 
+General. <<NOTE: Applicability.>> Such procedures shall, so far as the 
+Secretary considers practicable or consistent with military or 
+intelligence activities, apply the principles of law and the rules of 
+evidence in trial by general courts-martial. Such procedures and rules 
+of evidence may not be contrary to or inconsistent with this chapter.
+
+    ``(b) Rules for Military Commission.--(1) Notwithstanding any 
+departures from the law and the rules of evidence in trial by general 
+courts-martial authorized by subsection (a), the procedures and rules of 
+evidence in trials by military commission under this chapter shall 
+include the following:
+            ``(A) The accused shall be permitted to present evidence in 
+        his defense, to cross-examine the witnesses who testify against 
+        him, and to examine and respond to evidence admitted against him 
+        on the issue of guilt or innocence and for sentencing, as 
+        provided for by this chapter.
+            ``(B) The accused shall be present at all sessions of the 
+        military commission (other than those for deliberations or 
+        voting), except when excluded under section 949d of this title.
+            ``(C) The accused shall receive the assistance of counsel as 
+        provided for by section 948k.
+            ``(D) The accused shall be permitted to represent himself, 
+        as provided for by paragraph (3).
+
+    ``(2) In establishing procedures and rules of evidence for military 
+commission proceedings, the Secretary of Defense may prescribe the 
+following provisions:
+            ``(A) Evidence shall be admissible if the military judge 
+        determines that the evidence would have probative value to a 
+        reasonable person.
+            ``(B) Evidence shall not be excluded from trial by military 
+        commission on the grounds that the evidence was not seized 
+        pursuant to a search warrant or other authorization.
+            ``(C) A statement of the accused that is otherwise 
+        admissible shall not be excluded from trial by military 
+        commission on grounds of alleged coercion or compulsory self-
+        incrimination so long as the evidence complies with the 
+        provisions of section 948r of this title.
+            ``(D) Evidence shall be admitted as authentic so long as--
+                    ``(i) the military judge of the military commission 
+                determines that there is sufficient basis to find that 
+                the evidence is what it is claimed to be; and
+                    ``(ii) the military judge instructs the members that 
+                they may consider any issue as to authentication or 
+                identification of evidence in determining the weight, if 
+                any, to be given to the evidence.
+            ``(E)(i) Except as provided in clause (ii), hearsay evidence 
+        not otherwise admissible under the rules of evidence applicable 
+        in trial by general courts-martial may be admitted in a trial by 
+        military commission if the proponent of the evidence makes known 
+        to the adverse party, sufficiently in advance to provide
+
+[[Page 120 STAT. 2609]]
+
+        the adverse party with a fair opportunity to meet the evidence, 
+        the intention of the proponent to offer the evidence, and the 
+        particulars of the evidence (including information on the 
+        general circumstances under which the evidence was obtained). 
+        The disclosure of evidence under the preceding sentence is 
+        subject to the requirements and limitations applicable to the 
+        disclosure of classified information in section 949j(c) of this 
+        title.
+            ``(ii) Hearsay evidence not otherwise admissible under the 
+        rules of evidence applicable in trial by general courts-martial 
+        shall not be admitted in a trial by military commission if the 
+        party opposing the admission of the evidence demonstrates that 
+        the evidence is unreliable or lacking in probative value.
+            ``(F) The military judge shall exclude any evidence the 
+        probative value of which is substantially outweighed--
+                    ``(i) by the danger of unfair prejudice, confusion 
+                of the issues, or misleading the commission; or
+                    ``(ii) by considerations of undue delay, waste of 
+                time, or needless presentation of cumulative evidence.
+
+    ``(3)(A) The accused in a military commission under this chapter who 
+exercises the right to self-representation under paragraph (1)(D) shall 
+conform his deportment and the conduct of the defense to the rules of 
+evidence, procedure, and decorum applicable to trials by military 
+commission.
+    ``(B) Failure of the accused to conform to the rules described in 
+subparagraph (A) may result in a partial or total revocation by the 
+military judge of the right of self-representation under paragraph 
+(1)(D). In such case, the detailed defense counsel of the accused or an 
+appropriately authorized civilian counsel shall perform the functions 
+necessary for the defense.
+    ``(c) Delegation of Authority To Prescribe Regulations.--The 
+Secretary of Defense may delegate the authority of the Secretary to 
+prescribe regulations under this chapter.
+    ``(d) Notification to Congressional Committees of Changes to 
+Procedures.--Not <<NOTE: Deadline.>> later than 60 days before the date 
+on which any proposed modification of the procedures in effect for 
+military commissions under this chapter goes into effect, the Secretary 
+of Defense shall submit to the Committee on Armed Services of the Senate 
+and the Committee on Armed Services of the House of Representatives a 
+report describing the modification.
+
+``Sec. 949b. Unlawfully influencing action of military commission
+
+    ``(a) In General.--(1) No authority convening a military commission 
+under this chapter may censure, reprimand, or admonish the military 
+commission, or any member, military judge, or counsel thereof, with 
+respect to the findings or sentence adjudged by the military commission, 
+or with respect to any other exercises of its or his functions in the 
+conduct of the proceedings.
+    ``(2) No person may attempt to coerce or, by any unauthorized means, 
+influence--
+            ``(A) the action of a military commission under this 
+        chapter, or any member thereof, in reaching the findings or 
+        sentence in any case;
+            ``(B) the action of any convening, approving, or reviewing 
+        authority with respect to his judicial acts; or
+            ``(C) the exercise of professional judgment by trial counsel 
+        or defense counsel.
+
+[[Page 120 STAT. 2610]]
+
+    ``(3) Paragraphs (1) and (2) do not apply with respect to--
+            ``(A) general instructional or informational courses in 
+        military justice if such courses are designed solely for the 
+        purpose of instructing members of a command in the substantive 
+        and procedural aspects of military commissions; or
+            ``(B) statements and instructions given in open proceedings 
+        by a military judge or counsel.
+
+    ``(b) Prohibition on Consideration of Actions on Commission in 
+Evaluation of Fitness.--In the preparation of an effectiveness, fitness, 
+or efficiency report or any other report or document used in whole or in 
+part for the purpose of determining whether a commissioned officer of 
+the armed forces is qualified to be advanced in grade, or in determining 
+the assignment or transfer of any such officer or whether any such 
+officer should be retained on active duty, no person may--
+            ``(1) consider or evaluate the performance of duty of any 
+        member of a military commission under this chapter; or
+            ``(2) give a less favorable rating or evaluation to any 
+        commissioned officer because of the zeal with which such 
+        officer, in acting as counsel, represented any accused before a 
+        military commission under this chapter.
+
+``Sec. 949c. Duties of trial counsel and defense counsel
+
+    ``(a) Trial Counsel.--The trial counsel of a military commission 
+under this chapter shall prosecute in the name of the United States.
+    ``(b) Defense Counsel.--(1) The accused shall be represented in his 
+defense before a military commission under this chapter as provided in 
+this subsection.
+    ``(2) The accused shall be represented by military counsel detailed 
+under section 948k of this title.
+    ``(3) The accused may be represented by civilian counsel if retained 
+by the accused, but only if such civilian counsel--
+            ``(A) is a United States citizen;
+            ``(B) is admitted to the practice of law in a State, 
+        district, or possession of the United States or before a Federal 
+        court;
+            ``(C) has not been the subject of any sanction of 
+        disciplinary action by any court, bar, or other competent 
+        governmental authority for relevant misconduct;
+            ``(D) has been determined to be eligible for access to 
+        classified information that is classified at the level Secret or 
+        higher; and
+            ``(E) has signed a written agreement to comply with all 
+        applicable regulations or instructions for counsel, including 
+        any rules of court for conduct during the proceedings.
+
+    ``(4) Civilian defense counsel shall protect any classified 
+information received during the course of representation of the accused 
+in accordance with all applicable law governing the protection of 
+classified information and may not divulge such information to any 
+person not authorized to receive it.
+    ``(5) If the accused is represented by civilian counsel, detailed 
+military counsel shall act as associate counsel.
+    ``(6) The accused is not entitled to be represented by more than one 
+military counsel. However, the person authorized under regulations 
+prescribed under section 948k of this title to detail counsel, in that 
+person's sole discretion, may detail additional military counsel to 
+represent the accused.
+
+[[Page 120 STAT. 2611]]
+
+    ``(7) Defense counsel may cross-examine each witness for the 
+prosecution who testifies before a military commission under this 
+chapter.
+
+``Sec. 949d. Sessions
+
+    ``(a) Sessions Without Presence of Members.--(1) At any time after 
+the service of charges which have been referred for trial by military 
+commission under this chapter, the military judge may call the military 
+commission into session without the presence of the members for the 
+purpose of--
+            ``(A) hearing and determining motions raising defenses or 
+        objections which are capable of determination without trial of 
+        the issues raised by a plea of not guilty;
+            ``(B) hearing and ruling upon any matter which may be ruled 
+        upon by the military judge under this chapter, whether or not 
+        the matter is appropriate for later consideration or decision by 
+        the members;
+            ``(C) if permitted by regulations prescribed by the 
+        Secretary of Defense, receiving the pleas of the accused; and
+            ``(D) performing any other procedural function which may be 
+        performed by the military judge under this chapter or under 
+        rules prescribed pursuant to section 949a of this title and 
+        which does not require the presence of the members.
+
+    ``(2) Except as provided in subsections (c) and (e), any proceedings 
+under paragraph (1) shall--
+            ``(A) be conducted in the presence of the accused, defense 
+        counsel, and trial counsel; and
+            ``(B) be made part of the record.
+
+    ``(b) Proceedings in Presence of Accused.--Except as provided in 
+subsections (c) and (e), all proceedings of a military commission under 
+this chapter, including any consultation of the members with the 
+military judge or counsel, shall--
+            ``(1) be in the presence of the accused, defense counsel, 
+        and trial counsel; and
+            ``(2) be made a part of the record.
+
+    ``(c) Deliberation or Vote of Members.--When the members of a 
+military commission under this chapter deliberate or vote, only the 
+members may be present.
+    ``(d) Closure of Proceedings.--(1) The military judge may close to 
+the public all or part of the proceedings of a military commission under 
+this chapter, but only in accordance with this subsection.
+    ``(2) The military judge may close to the public all or a portion of 
+the proceedings under paragraph (1) only upon making a specific finding 
+that such closure is necessary to--
+            ``(A) protect information the disclosure of which could 
+        reasonably be expected to cause damage to the national security, 
+        including intelligence or law enforcement sources, methods, or 
+        activities; or
+            ``(B) ensure the physical safety of individuals.
+
+    ``(3) A finding under paragraph (2) may be based upon a 
+presentation, including a presentation ex parte or in camera, by either 
+trial counsel or defense counsel.
+    ``(e) Exclusion of Accused From Certain Proceedings.--The military 
+judge may exclude the accused from any portion of a proceeding upon a 
+determination that, after being warned by
+
+[[Page 120 STAT. 2612]]
+
+the military judge, the accused persists in conduct that justifies 
+exclusion from the courtroom--
+            ``(1) to ensure the physical safety of individuals; or
+            ``(2) to prevent disruption of the proceedings by the 
+        accused.
+
+    ``(f) Protection of Classified Information.--
+            ``(1) National security privilege.--(A) Classified 
+        information shall be protected and is privileged from disclosure 
+        if disclosure would be detrimental to the national security. The 
+        rule in the preceding sentence applies to all stages of the 
+        proceedings of military commissions under this chapter.
+            ``(B) The privilege referred to in subparagraph (A) may be 
+        claimed by the head of the executive or military department or 
+        government agency concerned based on a finding by the head of 
+        that department or agency that--
+                    ``(i) the information is properly classified; and
+                    ``(ii) disclosure of the information would be 
+                detrimental to the national security.
+            ``(C) A person who may claim the privilege referred to in 
+        subparagraph (A) may authorize a representative, witness, or 
+        trial counsel to claim the privilege and make the finding 
+        described in subparagraph (B) on behalf of such person. The 
+        authority of the representative, witness, or trial counsel to do 
+        so is presumed in the absence of evidence to the contrary.
+            ``(2) Introduction of classified information.--
+                    ``(A) Alternatives to disclosure.--To protect 
+                classified information from disclosure, the military 
+                judge, upon motion of trial counsel, shall authorize, to 
+                the extent practicable--
+                          ``(i) the deletion of specified items of 
+                      classified information from documents to be 
+                      introduced as evidence before the military 
+                      commission;
+                          ``(ii) the substitution of a portion or 
+                      summary of the information for such classified 
+                      documents; or
+                          ``(iii) the substitution of a statement of 
+                      relevant facts that the classified information 
+                      would tend to prove.
+                    ``(B) Protection of sources, methods, or 
+                activities.--The military judge, upon motion of trial 
+                counsel, shall permit trial counsel to introduce 
+                otherwise admissible evidence before the military 
+                commission, while protecting from disclosure the 
+                sources, methods, or activities by which the United 
+                States acquired the evidence if the military judge finds 
+                that (i) the sources, methods, or activities by which 
+                the United States acquired the evidence are classified, 
+                and (ii) the evidence is reliable. The military judge 
+                may require trial counsel to present to the military 
+                commission and the defense, to the extent practicable 
+                and consistent with national security, an unclassified 
+                summary of the sources, methods, or activities by which 
+                the United States acquired the evidence.
+                    ``(C) Assertion of national security privilege at 
+                trial.--During the examination of any witness, trial 
+                counsel may object to any question, line of inquiry, or 
+                motion to admit evidence that would require the 
+                disclosure of classified information. Following such an 
+                objection, the military judge shall take suitable action 
+                to safeguard such classified information. Such action 
+                may include the review
+
+[[Page 120 STAT. 2613]]
+
+                of trial counsel's claim of privilege by the military 
+                judge in camera and on an ex parte basis, and the delay 
+                of proceedings to permit trial counsel to consult with 
+                the department or agency concerned as to whether the 
+                national security privilege should be asserted.
+            ``(3) Consideration of privilege and related materials.--A 
+        claim of privilege under this subsection, and any materials 
+        submitted in support thereof, shall, upon request of the 
+        Government, be considered by the military judge in camera and 
+        shall not be disclosed to the accused.
+            ``(4) Additional regulations.--The Secretary of Defense may 
+        prescribe additional regulations, consistent with this 
+        subsection, for the use and protection of classified information 
+        during proceedings of military commissions under this chapter. A 
+        report <<NOTE: Reports. Deadline.>> on any regulations so 
+        prescribed, or modified, shall be submitted to the Committees on 
+        Armed Services of the Senate and the House of Representatives 
+        not later than 60 days before the date on which such regulations 
+        or modifications, as the case may be, go into effect.
+
+``Sec. 949e. Continuances
+
+    ``The military judge in a military commission under this chapter 
+may, for reasonable cause, grant a continuance to any party for such 
+time, and as often, as may appear to be just.
+
+``Sec. 949f. Challenges
+
+    ``(a) Challenges Authorized.--The military judge and members of a 
+military commission under this chapter may be challenged by the accused 
+or trial counsel for cause stated to the commission. The military judge 
+shall determine the relevance and validity of challenges for cause. The 
+military judge may not receive a challenge to more than one person at a 
+time. Challenges by trial counsel shall ordinarily be presented and 
+decided before those by the accused are offered.
+    ``(b) Peremptory Challenges.--Each accused and the trial counsel are 
+entitled to one peremptory challenge. The military judge may not be 
+challenged except for cause.
+    ``(c) Challenges Against Additional Members.--Whenever additional 
+members are detailed to a military commission under this chapter, and 
+after any challenges for cause against such additional members are 
+presented and decided, each accused and the trial counsel are entitled 
+to one peremptory challenge against members not previously subject to 
+peremptory challenge.
+
+``Sec. 949g. Oaths
+
+    ``(a) In General.--(1) Before performing their respective duties in 
+a military commission under this chapter, military judges, members, 
+trial counsel, defense counsel, reporters, and interpreters shall take 
+an oath to perform their duties faithfully.
+    ``(2) <<NOTE: Regulations.>> The form of the oath required by 
+paragraph (1), the time and place of the taking thereof, the manner of 
+recording the same, and whether the oath shall be taken for all cases in 
+which duties are to be performed or for a particular case, shall be as 
+prescribed in regulations of the Secretary of Defense. Those regulations 
+may provide that--
+            ``(A) an oath to perform faithfully duties as a military 
+        judge, trial counsel, or defense counsel may be taken at any
+
+[[Page 120 STAT. 2614]]
+
+        time by any judge advocate or other person certified to be 
+        qualified or competent for the duty; and
+            ``(B) if such an oath is taken, such oath need not again be 
+        taken at the time the judge advocate or other person is detailed 
+        to that duty.
+
+    ``(b) Witnesses.--Each witness before a military commission under 
+this chapter shall be examined on oath.
+
+``Sec. 949h. Former jeopardy
+
+    ``(a) In General.--No person may, without his consent, be tried by a 
+military commission under this chapter a second time for the same 
+offense.
+    ``(b) Scope of Trial.--No proceeding in which the accused has been 
+found guilty by military commission under this chapter upon any charge 
+or specification is a trial in the sense of this section until the 
+finding of guilty has become final after review of the case has been 
+fully completed.
+
+``Sec. 949i. Pleas of the accused
+
+    ``(a) Entry of Plea of Not Guilty.--If an accused in a military 
+commission under this chapter after a plea of guilty sets up matter 
+inconsistent with the plea, or if it appears that the accused has 
+entered the plea of guilty through lack of understanding of its meaning 
+and effect, or if the accused fails or refuses to plead, a plea of not 
+guilty shall be entered in the record, and the military commission shall 
+proceed as though the accused had pleaded not guilty.
+    ``(b) Finding of Guilt After Guilty Plea.--With respect to any 
+charge or specification to which a plea of guilty has been made by the 
+accused in a military commission under this chapter and accepted by the 
+military judge, a finding of guilty of the charge or specification may 
+be entered immediately without a vote. The finding shall constitute the 
+finding of the commission unless the plea of guilty is withdrawn prior 
+to announcement of the sentence, in which event the proceedings shall 
+continue as though the accused had pleaded not guilty.
+
+``Sec. 949j. Opportunity to obtain witnesses and other evidence
+
+    ``(a) Right <<NOTE: Regulations.>> of Defense Counsel.--Defense 
+counsel in a military commission under this chapter shall have a 
+reasonable opportunity to obtain witnesses and other evidence as 
+provided in regulations prescribed by the Secretary of Defense.
+
+    ``(b) Process for Compulsion.--Process issued in a military 
+commission under this chapter to compel witnesses to appear and testify 
+and to compel the production of other evidence--
+            ``(1) shall be similar to that which courts of the United 
+        States having criminal jurisdiction may lawfully issue; and
+            ``(2) shall run to any place where the United States shall 
+        have jurisdiction thereof.
+
+    ``(c) Protection of Classified Information.--(1) With respect to the 
+discovery obligations of trial counsel under this section, the military 
+judge, upon motion of trial counsel, shall authorize, to the extent 
+practicable--
+            ``(A) the deletion of specified items of classified 
+        information from documents to be made available to the accused;
+            ``(B) the substitution of a portion or summary of the 
+        information for such classified documents; or
+
+[[Page 120 STAT. 2615]]
+
+            ``(C) the substitution of a statement admitting relevant 
+        facts that the classified information would tend to prove.
+
+    ``(2) The military judge, upon motion of trial counsel, shall 
+authorize trial counsel, in the course of complying with discovery 
+obligations under this section, to protect from disclosure the sources, 
+methods, or activities by which the United States acquired evidence if 
+the military judge finds that the sources, methods, or activities by 
+which the United States acquired such evidence are classified. The 
+military judge may require trial counsel to provide, to the extent 
+practicable, an unclassified summary of the sources, methods, or 
+activities by which the United States acquired such evidence.
+    ``(d) Exculpatory Evidence.--(1) As soon as practicable, trial 
+counsel shall disclose to the defense the existence of any evidence 
+known to trial counsel that reasonably tends to exculpate the accused. 
+Where exculpatory evidence is classified, the accused shall be provided 
+with an adequate substitute in accordance with the procedures under 
+subsection (c).
+    ``(2) In this subsection, the term `evidence known to trial 
+counsel', in the case of exculpatory evidence, means exculpatory 
+evidence that the prosecution would be required to disclose in a trial 
+by general court-martial under chapter 47 of this title.
+
+``Sec. 949k. Defense of lack of mental responsibility
+
+    ``(a) Affirmative Defense.--It is an affirmative defense in a trial 
+by military commission under this chapter that, at the time of the 
+commission of the acts constituting the offense, the accused, as a 
+result of a severe mental disease or defect, was unable to appreciate 
+the nature and quality or the wrongfulness of the acts. Mental disease 
+or defect does not otherwise constitute a defense.
+    ``(b) Burden of Proof.--The accused in a military commission under 
+this chapter has the burden of proving the defense of lack of mental 
+responsibility by clear and convincing evidence.
+    ``(c) Findings Following Assertion of Defense.--Whenever lack of 
+mental responsibility of the accused with respect to an offense is 
+properly at issue in a military commission under this chapter, the 
+military judge shall instruct the members of the commission as to the 
+defense of lack of mental responsibility under this section and shall 
+charge them to find the accused--
+            ``(1) guilty;
+            ``(2) not guilty; or
+            ``(3) subject to subsection (d), not guilty by reason of 
+        lack of mental responsibility.
+
+    ``(d) Majority Vote Required for Finding.--The accused shall be 
+found not guilty by reason of lack of mental responsibility under 
+subsection (c)(3) only if a majority of the members present at the time 
+the vote is taken determines that the defense of lack of mental 
+responsibility has been established.
+
+``Sec. 949l. Voting and rulings
+
+    ``(a) Vote by Secret Written Ballot.--Voting by members of a 
+military commission under this chapter on the findings and on the 
+sentence shall be by secret written ballot.
+    ``(b) Rulings.--(1) The military judge in a military commission 
+under this chapter shall rule upon all questions of law, including the 
+admissibility of evidence and all interlocutory questions arising during 
+the proceedings.
+
+[[Page 120 STAT. 2616]]
+
+    ``(2) Any ruling made by the military judge upon a question of law 
+or an interlocutory question (other than the factual issue of mental 
+responsibility of the accused) is conclusive and constitutes the ruling 
+of the military commission. However, a military judge may change his 
+ruling at any time during the trial.
+    ``(c) Instructions Prior to Vote.--Before a vote is taken of the 
+findings of a military commission under this chapter, the military judge 
+shall, in the presence of the accused and counsel, instruct the members 
+as to the elements of the offense and charge the members--
+            ``(1) that the accused must be presumed to be innocent until 
+        his guilt is established by legal and competent evidence beyond 
+        a reasonable doubt;
+            ``(2) that in the case being considered, if there is a 
+        reasonable doubt as to the guilt of the accused, the doubt must 
+        be resolved in favor of the accused and he must be acquitted;
+            ``(3) that, if there is reasonable doubt as to the degree of 
+        guilt, the finding must be in a lower degree as to which there 
+        is no reasonable doubt; and
+            ``(4) that the burden of proof to establish the guilt of the 
+        accused beyond a reasonable doubt is upon the United States.
+
+``Sec. 949m. Number of votes required
+
+    ``(a) Conviction.--No person may be convicted by a military 
+commission under this chapter of any offense, except as provided in 
+section 949i(b) of this title or by concurrence of two-thirds of the 
+members present at the time the vote is taken.
+    ``(b) Sentences.--(1) No person may be sentenced by a military 
+commission to suffer death, except insofar as--
+            ``(A) the penalty of death is expressly authorized under 
+        this chapter or the law of war for an offense of which the 
+        accused has been found guilty;
+            ``(B) trial counsel expressly sought the penalty of death by 
+        filing an appropriate notice in advance of trial;
+            ``(C) the accused is convicted of the offense by the 
+        concurrence of all the members present at the time the vote is 
+        taken; and
+            ``(D) all the members present at the time the vote is taken 
+        concur in the sentence of death.
+
+    ``(2) No person may be sentenced to life imprisonment, or to 
+confinement for more than 10 years, by a military commission under this 
+chapter except by the concurrence of three-fourths of the members 
+present at the time the vote is taken.
+    ``(3) All other sentences shall be determined by a military 
+commission by the concurrence of two-thirds of the members present at 
+the time the vote is taken.
+    ``(c) Number of Members Required for Penalty of Death.--(1) Except 
+as provided in paragraph (2), in a case in which the penalty of death is 
+sought, the number of members of the military commission under this 
+chapter shall be not less than 12.
+    ``(2) In any case described in paragraph (1) in which 12 members are 
+not reasonably available because of physical conditions or military 
+exigencies, the convening authority shall specify a lesser number of 
+members for the military commission (but not fewer than 9 members), and 
+the military commission may be assembled, and the trial held, with not 
+fewer than the number of members so specified. In such a case, the 
+convening authority shall make
+
+[[Page 120 STAT. 2617]]
+
+a detailed written statement, to be appended to the record, stating why 
+a greater number of members were not reasonably available.
+
+``Sec. 949n. Military commission to announce action
+
+    ``A military commission under this chapter shall announce its 
+findings and sentence to the parties as soon as determined.
+
+``Sec. 949o. Record of trial
+
+    ``(a) Record; Authentication.--Each military commission under this 
+chapter shall keep a separate, verbatim, record of the proceedings in 
+each case brought before it, and the record shall be authenticated by 
+the signature of the military judge. If the record cannot be 
+authenticated by the military judge by reason of his death, disability, 
+or absence, it shall be authenticated by the signature of the trial 
+counsel or by a member of the commission if the trial counsel is unable 
+to authenticate it by reason of his death, disability, or 
+absence. <<NOTE: Regulations.>> Where appropriate, and as provided in 
+regulations prescribed by the Secretary of Defense, the record of a 
+military commission under this chapter may contain a classified annex.
+
+    ``(b) Complete Record Required.--A complete record of the 
+proceedings and testimony shall be prepared in every military commission 
+under this chapter.
+    ``(c) Provision of Copy to Accused.--A copy of the record of the 
+proceedings of the military commission under this chapter shall be given 
+the accused as soon as it is authenticated. If the record contains 
+classified information, or a classified annex, the accused shall be 
+given a redacted version of the record consistent with the requirements 
+of section 949d of this title. <<NOTE: Regulations.>> Defense counsel 
+shall have access to the unredacted record, as provided in regulations 
+prescribed by the Secretary of Defense.
+
+                        ``SUBCHAPTER V--SENTENCES
+
+``Sec.
+``949s. Cruel or unusual punishments prohibited.
+``949t. Maximum limits.
+``949u. Execution of confinement.
+
+``Sec. 949s. Cruel or unusual punishments prohibited
+
+    ``Punishment by flogging, or by branding, marking, or tattooing on 
+the body, or any other cruel or unusual punishment, may not be adjudged 
+by a military commission under this chapter or inflicted under this 
+chapter upon any person subject to this chapter. The use of irons, 
+single or double, except for the purpose of safe custody, is prohibited 
+under this chapter.
+
+``Sec. 949t. Maximum limits
+
+    ``The punishment which a military commission under this chapter may 
+direct for an offense may not exceed such limits as the President or 
+Secretary of Defense may prescribe for that offense.
+
+``Sec. 949u. Execution of confinement
+
+    ``(a) In General.--Under such regulations as the Secretary of 
+Defense may prescribe, a sentence of confinement adjudged by a military 
+commission under this chapter may be carried into execution by 
+confinement--
+            ``(1) in any place of confinement under the control of any 
+        of the armed forces; or
+
+[[Page 120 STAT. 2618]]
+
+            ``(2) in any penal or correctional institution under the 
+        control of the United States or its allies, or which the United 
+        States may be allowed to use.
+
+    ``(b) Treatment During Confinement by Other Than the Armed Forces.--
+Persons confined under subsection (a)(2) in a penal or correctional 
+institution not under the control of an armed force are subject to the 
+same discipline and treatment as persons confined or committed by the 
+courts of the United States or of the State, District of Columbia, or 
+place in which the institution is situated.
+
+``SUBCHAPTER VI--POST-TRIAL PROCEDURE AND REVIEW OF MILITARY COMMISSIONS
+
+``Sec.
+``950a. Error of law; lesser included offense.
+``950b. Review by the convening authority.
+``950c. Appellate referral; waiver or withdrawal of appeal.
+``950d. Appeal by the United States.
+``950e. Rehearings.
+``950f. Review by Court of Military Commission Review.
+``950g. Review by the United States Court of Appeals for the District of 
+           Columbia Circuit and the Supreme Court.
+``950h. Appellate counsel.
+``950i. Execution of sentence; procedures for execution of sentence of 
+           death.
+``950j. Finality or proceedings, findings, and sentences.
+
+``Sec. 950a. Error of law; lesser included offense
+
+    ``(a) Error of Law.--A finding or sentence of a military commission 
+under this chapter may not be held incorrect on the ground of an error 
+of law unless the error materially prejudices the substantial rights of 
+the accused.
+    ``(b) Lesser Included Offense.--Any reviewing authority with the 
+power to approve or affirm a finding of guilty by a military commission 
+under this chapter may approve or affirm, instead, so much of the 
+finding as includes a lesser included offense.
+
+``Sec. 950b. Review by the convening authority
+
+    ``(a) Notice to Convening Authority of Findings and Sentence.--The 
+findings and sentence of a military commission under this chapter shall 
+be reported in writing promptly to the convening authority after the 
+announcement of the sentence.
+    ``(b) Submittal of Matters by Accused to Convening Authority.--(1) 
+The accused may submit to the convening authority matters for 
+consideration by the convening authority with respect to the findings 
+and the sentence of the military commission under this chapter.
+    ``(2)(A) <<NOTE: Deadline.>> Except as provided in subparagraph (B), 
+a submittal under paragraph (1) shall be made in writing within 20 days 
+after the accused has been given an authenticated record of trial under 
+section 949o(c) of this title.
+
+    ``(B) If the accused shows that additional time is required for the 
+accused to make a submittal under paragraph (1), the convening authority 
+may, for good cause, extend the applicable period under subparagraph (A) 
+for not more than an additional 20 days.
+    ``(3) The accused may waive his right to make a submittal to the 
+convening authority under paragraph (1). Such a waiver shall be made in 
+writing and may not be revoked. For the purposes of subsection (c)(2), 
+the time within which the accused may make
+
+[[Page 120 STAT. 2619]]
+
+a submittal under this subsection shall be deemed to have expired upon 
+the submittal of a waiver under this paragraph to the convening 
+authority.
+    ``(c) Action by Convening Authority.--(1) The authority under this 
+subsection to modify the findings and sentence of a military commission 
+under this chapter is a matter of the sole discretion and prerogative of 
+the convening authority.
+    ``(2)(A) The convening authority shall take action on the sentence 
+of a military commission under this chapter.
+    ``(B) <<NOTE: Regulations.>> Subject to regulations prescribed by 
+the Secretary of Defense, action on the sentence under this paragraph 
+may be taken only after consideration of any matters submitted by the 
+accused under subsection (b) or after the time for submitting such 
+matters expires, whichever is earlier.
+
+    ``(C) In taking action under this paragraph, the convening authority 
+may, in his sole discretion, approve, disapprove, commute, or suspend 
+the sentence in whole or in part. The convening authority may not 
+increase a sentence beyond that which is found by the military 
+commission.
+    ``(3) The convening authority is not required to take action on the 
+findings of a military commission under this chapter. If the convening 
+authority takes action on the findings, the convening authority may, in 
+his sole discretion, may--
+            ``(A) dismiss any charge or specification by setting aside a 
+        finding of guilty thereto; or
+            ``(B) change a finding of guilty to a charge to a finding of 
+        guilty to an offense that is a lesser included offense of the 
+        offense stated in the charge.
+
+    ``(4) The convening authority shall serve on the accused or on 
+defense counsel notice of any action taken by the convening authority 
+under this subsection.
+    ``(d) Order of Revision or Rehearing.--(1) Subject to paragraphs (2) 
+and (3), the convening authority of a military commission under this 
+chapter may, in his sole discretion, order a proceeding in revision or a 
+rehearing.
+    ``(2)(A) Except as provided in subparagraph (B), a proceeding in 
+revision may be ordered by the convening authority if--
+            ``(i) there is an apparent error or omission in the record; 
+        or
+            ``(ii) the record shows improper or inconsistent action by 
+        the military commission with respect to the findings or sentence 
+        that can be rectified without material prejudice to the 
+        substantial rights of the accused.
+
+    ``(B) In no case may a proceeding in revision--
+            ``(i) reconsider a finding of not guilty of a specification 
+        or a ruling which amounts to a finding of not guilty;
+            ``(ii) reconsider a finding of not guilty of any charge, 
+        unless there has been a finding of guilty under a specification 
+        laid under that charge, which sufficiently alleges a violation; 
+        or
+            ``(iii) increase the severity of the sentence unless the 
+        sentence prescribed for the offense is mandatory.
+
+    ``(3) A rehearing may be ordered by the convening authority if the 
+convening authority disapproves the findings and sentence and states the 
+reasons for disapproval of the findings. If the convening authority 
+disapproves the finding and sentence and does not order a rehearing, the 
+convening authority shall dismiss the charges. A rehearing as to the 
+findings may not be ordered by
+
+[[Page 120 STAT. 2620]]
+
+the convening authority when there is a lack of sufficient evidence in 
+the record to support the findings. A rehearing as to the sentence may 
+be ordered by the convening authority if the convening authority 
+disapproves the sentence.
+
+``Sec. 950c. Appellate referral; waiver or withdrawal of appeal
+
+    ``(a) Automatic Referral for Appellate Review.--Except as provided 
+under subsection (b), in each case in which the final decision of a 
+military commission (as approved by the convening authority) includes a 
+finding of guilty, the convening authority shall refer the case to the 
+Court of Military Commission Review. Any 
+such <<NOTE: Regulations.>> referral shall be made in accordance with 
+procedures prescribed under regulations of the Secretary.
+
+    ``(b) Waiver of Right of Review.--(1) In each case subject to 
+appellate review under section 950f of this title, except a case in 
+which the sentence as approved under section 950b of this title extends 
+to death, the accused may file with the convening authority a statement 
+expressly waiving the right of the accused to such review.
+    ``(2) A waiver under paragraph (1) shall be signed by both the 
+accused and a defense counsel.
+    ``(3) <<NOTE: Deadline.>> A waiver under paragraph (1) must be 
+filed, if at all, within 10 days after notice on the action is served on 
+the accused or on defense counsel under section 950b(c)(4) of this 
+title. The convening authority, for good cause, may extend the period 
+for such filing by not more than 30 days.
+
+    ``(c) Withdrawal of Appeal.--Except in a case in which the sentence 
+as approved under section 950b of this title extends to death, the 
+accused may withdraw an appeal at any time.
+    ``(d) Effect of Waiver or Withdrawal.--A waiver of the right to 
+appellate review or the withdrawal of an appeal under this section bars 
+review under section 950f of this title.
+
+``Sec. 950d. Appeal by the United States
+
+    ``(a) Interlocutory Appeal.--(1) Except as provided in paragraph 
+(2), in a trial by military commission under this chapter, the United 
+States may take an interlocutory appeal to the Court of Military 
+Commission Review of any order or ruling of the military judge that--
+            ``(A) terminates proceedings of the military commission with 
+        respect to a charge or specification;
+            ``(B) excludes evidence that is substantial proof of a fact 
+        material in the proceeding; or
+            ``(C) relates to a matter under subsection (d), (e), or (f) 
+        of section 949d of this title or section 949j(c) of this title.
+
+    ``(2) The United States may not appeal under paragraph (1) an order 
+or ruling that is, or amounts to, a finding of not guilty by the 
+military commission with respect to a charge or specification.
+    ``(b) Notice of Appeal.--The United States shall take an appeal of 
+an order or ruling under subsection (a) by filing a notice of appeal 
+with the military judge within five days after the date of such order or 
+ruling.
+    ``(c) Appeal.--An appeal under this section shall be forwarded, by 
+means specified in regulations prescribed the Secretary of Defense, 
+directly to the Court of Military Commission Review. In ruling on an 
+appeal under this section, the Court may act only with respect to 
+matters of law.
+
+[[Page 120 STAT. 2621]]
+
+    ``(d) Appeal <<NOTE: Deadline.>> From Adverse Ruling.--The United 
+States may appeal an adverse ruling on an appeal under subsection (c) to 
+the United States Court of Appeals for the District of Columbia Circuit 
+by filing a petition for review in the Court of Appeals within 10 days 
+after the date of such ruling. Review under this subsection shall be at 
+the discretion of the Court of Appeals.
+
+``Sec. 950e. Rehearings
+
+    ``(a) Composition of Military Commission for Rehearing.--Each 
+rehearing under this chapter shall take place before a military 
+commission under this chapter composed of members who were not members 
+of the military commission which first heard the case.
+    ``(b) Scope of Rehearing.--(1) Upon a rehearing--
+            ``(A) the accused may not be tried for any offense of which 
+        he was found not guilty by the first military commission; and
+            ``(B) no sentence in excess of or more than the original 
+        sentence may be imposed unless--
+                    ``(i) the sentence is based upon a finding of guilty 
+                of an offense not considered upon the merits in the 
+                original proceedings; or
+                    ``(ii) the sentence prescribed for the offense is 
+                mandatory.
+
+    ``(2) Upon a rehearing, if the sentence approved after the first 
+military commission was in accordance with a pretrial agreement and the 
+accused at the rehearing changes his plea with respect to the charges or 
+specifications upon which the pretrial agreement was based, or otherwise 
+does not comply with pretrial agreement, the sentence as to those 
+charges or specifications may include any punishment not in excess of 
+that lawfully adjudged at the first military commission.
+
+``Sec. 950f. Review by Court of Military Commission Review
+
+    ``(a) Establishment.--The Secretary of Defense shall establish a 
+Court of Military Commission Review which shall be composed of one or 
+more panels, and each such panel shall be composed of not less than 
+three appellate military judges. For the purpose of reviewing military 
+commission decisions under this chapter, the court may sit in panels or 
+as a whole in accordance with rules prescribed by the Secretary.
+    ``(b) Appellate Military Judges.--The Secretary shall assign 
+appellate military judges to a Court of Military Commission Review. Each 
+appellate military judge shall meet the qualifications for military 
+judges prescribed by section 948j(b) of this title or shall be a 
+civilian with comparable qualifications. No person may be serve as an 
+appellate military judge in any case in which that person acted as a 
+military judge, counsel, or reviewing official.
+    ``(c) Cases <<NOTE: Regulations.>> To Be Reviewed.--The Court of 
+Military Commission Review, in accordance with procedures prescribed 
+under regulations of the Secretary, shall review the record in each case 
+that is referred to the Court by the convening authority under section 
+950c of this title with respect to any matter of law raised by the 
+accused.
+
+    ``(d) Scope of Review.--In a case reviewed by the Court of Military 
+Commission Review under this section, the Court may act only with 
+respect to matters of law.
+
+[[Page 120 STAT. 2622]]
+
+``Sec. 950g. Review by the United States Court of Appeals for the 
+                        District of Columbia Circuit and the Supreme 
+                        Court
+
+    ``(a) Exclusive Appellate Jurisdiction.--(1)(A) Except as provided 
+in subparagraph (B), the United States Court of Appeals for the District 
+of Columbia Circuit shall have exclusive jurisdiction to determine the 
+validity of a final judgment rendered by a military commission (as 
+approved by the convening authority) under this chapter.
+    ``(B) The Court of Appeals may not review the final judgment until 
+all other appeals under this chapter have been waived or exhausted.
+    ``(2) <<NOTE: Deadline. Notice.>> A petition for review must be 
+filed by the accused in the Court of Appeals not later than 20 days 
+after the date on which--
+            ``(A) written notice of the final decision of the Court of 
+        Military Commission Review is served on the accused or on 
+        defense counsel; or
+            ``(B) the accused submits, in the form prescribed by section 
+        950c of this title, a written notice waiving the right of the 
+        accused to review by the Court of Military Commission Review 
+        under section 950f of this title.
+
+    ``(b) Standard for Review.--In a case reviewed by it under this 
+section, the Court of Appeals may act only with respect to matters of 
+law.
+    ``(c) Scope of Review.--The jurisdiction of the Court of Appeals on 
+an appeal under subsection (a) shall be limited to the consideration 
+of--
+            ``(1) whether the final decision was consistent with the 
+        standards and procedures specified in this chapter; and
+            ``(2) to the extent applicable, the Constitution and the 
+        laws of the United States.
+
+    ``(d) Supreme Court.--The Supreme Court may review by writ of 
+certiorari the final judgment of the Court of Appeals pursuant to 
+section 1257 of title 28.
+
+``Sec. 950h. Appellate counsel
+
+    ``(a) Appointment.--The <<NOTE: Regulations.>> Secretary of Defense 
+shall, by regulation, establish procedures for the appointment of 
+appellate counsel for the United States and for the accused in military 
+commissions under this chapter. Appellate counsel shall meet the 
+qualifications for counsel appearing before military commissions under 
+this chapter.
+
+    ``(b) Representation of United States.--Appellate counsel appointed 
+under subsection (a)--
+            ``(1) shall represent the United States in any appeal or 
+        review proceeding under this chapter before the Court of 
+        Military Commission Review; and
+            ``(2) may, when requested to do so by the Attorney General 
+        in a case arising under this chapter, represent the United 
+        States before the United States Court of Appeals for the 
+        District of Columbia Circuit or the Supreme Court.
+
+    ``(c) Representation of Accused.--The accused shall be represented 
+by appellate counsel appointed under subsection (a) before the Court of 
+Military Commission Review, the United States Court of Appeals for the 
+District of Columbia Circuit, and the Supreme Court, and by civilian 
+counsel if retained by the accused. Any
+
+[[Page 120 STAT. 2623]]
+
+such civilian counsel shall meet the qualifications under paragraph (3) 
+of section 949c(b) of this title for civilian counsel appearing before 
+military commissions under this chapter and shall be subject to the 
+requirements of paragraph (4) of that section.
+
+``Sec. 950i. Execution of sentence; procedures for execution of sentence 
+                        of death
+
+    ``(a) In General.--The Secretary of Defense is authorized to carry 
+out a sentence imposed by a military commission under this chapter in 
+accordance with such procedures as the Secretary may prescribe.
+    ``(b) Execution of Sentence of Death Only Upon Approval by the 
+President.--If the sentence of a military commission under this chapter 
+extends to death, that part of the sentence providing for death may not 
+be executed until approved by the President. In such a case, the 
+President may commute, remit, or suspend the sentence, or any part 
+thereof, as he sees fit.
+    ``(c) Execution of Sentence of Death Only Upon Final Judgment of 
+Legality of Proceedings.--(1) If the sentence of a military commission 
+under this chapter extends to death, the sentence may not be executed 
+until there is a final judgment as to the legality of the proceedings 
+(and with respect to death, approval under subsection (b)).
+    ``(2) A judgment as to legality of proceedings is final for purposes 
+of paragraph (1) when--
+            ``(A) the time for the accused to file a petition for review 
+        by the Court of Appeals for the District of Columbia Circuit has 
+        expired and the accused has not filed a timely petition for such 
+        review and the case is not otherwise under review by that Court; 
+        or
+            ``(B) review is completed in accordance with the judgment of 
+        the United States Court of Appeals for the District of Columbia 
+        Circuit and--
+                    ``(i) a petition for a writ of certiorari is not 
+                timely filed;
+                    ``(ii) such a petition is denied by the Supreme 
+                Court; or
+                    ``(iii) review is otherwise completed in accordance 
+                with the judgment of the Supreme Court.
+
+    ``(d) Suspension of Sentence.--The Secretary of the Defense, or the 
+convening authority acting on the case (if other than the Secretary), 
+may suspend the execution of any sentence or part thereof in the case, 
+except a sentence of death.
+
+``Sec. 950j. Finality or proceedings, findings, and sentences
+
+    ``(a) Finality.--The appellate review of records of trial provided 
+by this chapter, and the proceedings, findings, and sentences of 
+military commissions as approved, reviewed, or affirmed as required by 
+this chapter, are final and conclusive. Orders publishing the 
+proceedings of military commissions under this chapter are binding upon 
+all departments, courts, agencies, and officers of the United States, 
+except as otherwise provided by the President.
+    ``(b) Provisions of Chapter Sole Basis for Review of Military 
+Commission Procedures and Actions.--Except as otherwise provided in this 
+chapter and notwithstanding any other provision of law (including 
+section 2241 of title 28 or any other habeas corpus provision), no 
+court, justice, or judge shall have jurisdiction
+
+[[Page 120 STAT. 2624]]
+
+to hear or consider any claim or cause of action whatsoever, including 
+any action pending on or filed after the date of the enactment of the 
+Military Commissions Act of 2006, relating to the prosecution, trial, or 
+judgment of a military commission under this chapter, including 
+challenges to the lawfulness of procedures of military commissions under 
+this chapter.
+
+                   ``SUBCHAPTER VII--PUNITIVE MATTERS
+
+``Sec.
+``950p.  Statement of substantive offenses.
+``950q.  Principals.
+``950r.  Accessory after the fact.
+``950s.  Conviction of lesser included offense.
+``950t.  Attempts.
+``950u.  Solicitation.
+``950v.  Crimes triable by military commissions.
+``950w.  Perjury and obstruction of justice; contempt.
+
+``Sec. 950p. Statement of substantive offenses
+
+    ``(a) Purpose.--The provisions of this subchapter codify offenses 
+that have traditionally been triable by military commissions. This 
+chapter does not establish new crimes that did not exist before its 
+enactment, but rather codifies those crimes for trial by military 
+commission.
+    ``(b) Effect.--Because the provisions of this subchapter (including 
+provisions that incorporate definitions in other provisions of law) are 
+declarative of existing law, they do not preclude trial for crimes that 
+occurred before the date of the enactment of this chapter.
+
+``Sec. 950q. Principals
+
+    ``Any person is punishable as a principal under this chapter who--
+            ``(1) commits an offense punishable by this chapter, or 
+        aids, abets, counsels, commands, or procures its commission;
+            ``(2) causes an act to be done which if directly performed 
+        by him would be punishable by this chapter; or
+            ``(3) is a superior commander who, with regard to acts 
+        punishable under this chapter, knew, had reason to know, or 
+        should have known, that a subordinate was about to commit such 
+        acts or had done so and who failed to take the necessary and 
+        reasonable measures to prevent such acts or to punish the 
+        perpetrators thereof.
+
+``Sec. 950r. Accessory after the fact
+
+    ``Any person subject to this chapter who, knowing that an offense 
+punishable by this chapter has been committed, receives, comforts, or 
+assists the offender in order to hinder or prevent his apprehension, 
+trial, or punishment shall be punished as a military commission under 
+this chapter may direct.
+
+``Sec. 950s. Conviction of lesser included offense
+
+    ``An accused may be found guilty of an offense necessarily included 
+in the offense charged or of an attempt to commit either the offense 
+charged or an attempt to commit either the offense charged or an offense 
+necessarily included therein.
+
+[[Page 120 STAT. 2625]]
+
+``Sec. 950t. Attempts
+
+    ``(a) In General.--Any person subject to this chapter who attempts 
+to commit any offense punishable by this chapter shall be punished as a 
+military commission under this chapter may direct.
+    ``(b) Scope of Offense.--An act, done with specific intent to commit 
+an offense under this chapter, amounting to more than mere preparation 
+and tending, even though failing, to effect its commission, is an 
+attempt to commit that offense.
+    ``(c) Effect of Consummation.--Any person subject to this chapter 
+may be convicted of an attempt to commit an offense although it appears 
+on the trial that the offense was consummated.
+
+``Sec. 950u. Solicitation
+
+    ``Any person subject to this chapter who solicits or advises another 
+or others to commit one or more substantive offenses triable by military 
+commission under this chapter shall, if the offense solicited or advised 
+is attempted or committed, be punished with the punishment provided for 
+the commission of the offense, but, if the offense solicited or advised 
+is not committed or attempted, he shall be punished as a military 
+commission under this chapter may direct.
+
+``Sec. 950v. Crimes triable by military commissions
+
+    ``(a) Definitions and Construction.--In this section:
+            ``(1) Military objective.--The term `military objective' 
+        means--
+                    ``(A) combatants; and
+                    ``(B) those objects during an armed conflict--
+                          ``(i) which, by their nature, location, 
+                      purpose, or use, effectively contribute to the 
+                      opposing force's war-fighting or war-sustaining 
+                      capability; and
+                          ``(ii) the total or partial destruction, 
+                      capture, or neutralization of which would 
+                      constitute a definite military advantage to the 
+                      attacker under the circumstances at the time of 
+                      the attack.
+            ``(2) Protected person.--The term `protected person' means 
+        any person entitled to protection under one or more of the 
+        Geneva Conventions, including--
+                    ``(A) civilians not taking an active part in 
+                hostilities;
+                    ``(B) military personnel placed hors de combat by 
+                sickness, wounds, or detention; and
+                    ``(C) military medical or religious personnel.
+            ``(3) Protected property.--The term `protected property' 
+        means property specifically protected by the law of war (such as 
+        buildings dedicated to religion, education, art, science or 
+        charitable purposes, historic monuments, hospitals, or places 
+        where the sick and wounded are collected), if such property is 
+        not being used for military purposes or is not otherwise a 
+        military objective. Such term includes objects properly 
+        identified by one of the distinctive emblems of the Geneva 
+        Conventions, but does not include civilian property that is a 
+        military objective.
+            ``(4) Construction.--The intent specified for an offense 
+        under paragraph (1), (2), (3), (4), or (12) of subsection (b) 
+        precludes the applicability of such offense with regard to--
+                    ``(A) collateral damage; or
+
+[[Page 120 STAT. 2626]]
+
+                    ``(B) death, damage, or injury incident to a lawful 
+                attack.
+
+    ``(b) Offenses.--The following offenses shall be triable by military 
+commission under this chapter at any time without limitation:
+            ``(1) Murder of protected persons.--Any person subject to 
+        this chapter who intentionally kills one or more protected 
+        persons shall be punished by death or such other punishment as a 
+        military commission under this chapter may direct.
+            ``(2) Attacking civilians.--Any person subject to this 
+        chapter who intentionally engages in an attack upon a civilian 
+        population as such, or individual civilians not taking active 
+        part in hostilities, shall be punished, if death results to one 
+        or more of the victims, by death or such other punishment as a 
+        military commission under this chapter may direct, and, if death 
+        does not result to any of the victims, by such punishment, other 
+        than death, as a military commission under this chapter may 
+        direct.
+            ``(3) Attacking civilian objects.--Any person subject to 
+        this chapter who intentionally engages in an attack upon a 
+        civilian object that is not a military objective shall be 
+        punished as a military commission under this chapter may direct.
+            ``(4) Attacking protected property.--Any person subject to 
+        this chapter who intentionally engages in an attack upon 
+        protected property shall be punished as a military commission 
+        under this chapter may direct.
+            ``(5) Pillaging.--Any person subject to this chapter who 
+        intentionally and in the absence of military necessity 
+        appropriates or seizes property for private or personal use, 
+        without the consent of a person with authority to permit such 
+        appropriation or seizure, shall be punished as a military 
+        commission under this chapter may direct.
+            ``(6) Denying quarter.--Any person subject to this chapter 
+        who, with effective command or control over subordinate groups, 
+        declares, orders, or otherwise indicates to those groups that 
+        there shall be no survivors or surrender accepted, with the 
+        intent to threaten an adversary or to conduct hostilities such 
+        that there would be no survivors or surrender accepted, shall be 
+        punished as a military commission under this chapter may direct.
+            ``(7) Taking hostages.--Any person subject to this chapter 
+        who, having knowingly seized or detained one or more persons, 
+        threatens to kill, injure, or continue to detain such person or 
+        persons with the intent of compelling any nation, person other 
+        than the hostage, or group of persons to act or refrain from 
+        acting as an explicit or implicit condition for the safety or 
+        release of such person or persons, shall be punished, if death 
+        results to one or more of the victims, by death or such other 
+        punishment as a military commission under this chapter may 
+        direct, and, if death does not result to any of the victims, by 
+        such punishment, other than death, as a military commission 
+        under this chapter may direct.
+            ``(8) Employing poison or similar weapons.--Any person 
+        subject to this chapter who intentionally, as a method of 
+        warfare, employs a substance or weapon that releases a substance 
+        that causes death or serious and lasting damage to health in the 
+        ordinary course of events, through its asphyxiating, 
+        bacteriological, or toxic properties, shall be punished, if 
+        death
+
+[[Page 120 STAT. 2627]]
+
+        results to one or more of the victims, by death or such other 
+        punishment as a military commission under this chapter may 
+        direct, and, if death does not result to any of the victims, by 
+        such punishment, other than death, as a military commission 
+        under this chapter may direct.
+            ``(9) Using protected persons as a shield.--Any person 
+        subject to this chapter who positions, or otherwise takes 
+        advantage of, a protected person with the intent to shield a 
+        military objective from attack, or to shield, favor, or impede 
+        military operations, shall be punished, if death results to one 
+        or more of the victims, by death or such other punishment as a 
+        military commission under this chapter may direct, and, if death 
+        does not result to any of the victims, by such punishment, other 
+        than death, as a military commission under this chapter may 
+        direct.
+            ``(10) Using protected property as a shield.--Any person 
+        subject to this chapter who positions, or otherwise takes 
+        advantage of the location of, protected property with the intent 
+        to shield a military objective from attack, or to shield, favor, 
+        or impede military operations, shall be punished as a military 
+        commission under this chapter may direct.
+            ``(11) Torture.--
+                    ``(A) Offense.--Any person subject to this chapter 
+                who commits an act specifically intended to inflict 
+                severe physical or mental pain or suffering (other than 
+                pain or suffering incidental to lawful sanctions) upon 
+                another person within his custody or physical control 
+                for the purpose of obtaining information or a 
+                confession, punishment, intimidation, coercion, or any 
+                reason based on discrimination of any kind, shall be 
+                punished, if death results to one or more of the 
+                victims, by death or such other punishment as a military 
+                commission under this chapter may direct, and, if death 
+                does not result to any of the victims, by such 
+                punishment, other than death, as a military commission 
+                under this chapter may direct.
+                    ``(B) Severe mental pain or suffering defined.--In 
+                this section, the term `severe mental pain or suffering' 
+                has the meaning given that term in section 2340(2) of 
+                title 18.
+            ``(12) Cruel or inhuman treatment.--
+                    ``(A) Offense.--Any person subject to this chapter 
+                who commits an act intended to inflict severe or serious 
+                physical or mental pain or suffering (other than pain or 
+                suffering incidental to lawful sanctions), including 
+                serious physical abuse, upon another within his custody 
+                or control shall be punished, if death results to the 
+                victim, by death or such other punishment as a military 
+                commission under this chapter may direct, and, if death 
+                does not result to the victim, by such punishment, other 
+                than death, as a military commission under this chapter 
+                may direct.
+                    ``(B) Definitions.--In this paragraph:
+                          ``(i) The term `serious physical pain or 
+                      suffering' means bodily injury that involves--
+                                    ``(I) a substantial risk of death;
+                                    ``(II) extreme physical pain;
+
+[[Page 120 STAT. 2628]]
+
+                                    ``(III) a burn or physical 
+                                disfigurement of a serious nature (other 
+                                than cuts, abrasions, or bruises); or
+                                    ``(IV) significant loss or 
+                                impairment of the function of a bodily 
+                                member, organ, or mental faculty.
+                          ``(ii) The term `severe mental pain or 
+                      suffering' has the meaning given that term in 
+                      section 2340(2) of title 18.
+                          ``(iii) The term `serious mental pain or 
+                      suffering' has the meaning given the term `severe 
+                      mental pain or suffering' in section 2340(2) of 
+                      title 18, except that--
+                                    ``(I) the term `serious' shall 
+                                replace the term `severe' where it 
+                                appears; and
+                                    ``(II) as to conduct occurring after 
+                                the date of the enactment of the 
+                                Military Commissions Act of 2006, the 
+                                term `serious and non-transitory mental 
+                                harm (which need not be prolonged)' 
+                                shall replace the term `prolonged mental 
+                                harm' where it appears.
+            ``(13) Intentionally causing serious bodily injury.--
+                    ``(A) Offense.--Any person subject to this chapter 
+                who intentionally causes serious bodily injury to one or 
+                more persons, including lawful combatants, in violation 
+                of the law of war shall be punished, if death results to 
+                one or more of the victims, by death or such other 
+                punishment as a military commission under this chapter 
+                may direct, and, if death does not result to any of the 
+                victims, by such punishment, other than death, as a 
+                military commission under this chapter may direct.
+                    ``(B) Serious bodily injury defined.--In this 
+                paragraph, the term `serious bodily injury' means bodily 
+                injury which involves--
+                          ``(i) a substantial risk of death;
+                          ``(ii) extreme physical pain;
+                          ``(iii) protracted and obvious disfigurement; 
+                      or
+                          ``(iv) protracted loss or impairment of the 
+                      function of a bodily member, organ, or mental 
+                      faculty.
+            ``(14) Mutilating or maiming.--Any person subject to this 
+        chapter who intentionally injures one or more protected persons 
+        by disfiguring the person or persons by any mutilation of the 
+        person or persons, or by permanently disabling any member, limb, 
+        or organ of the body of the person or persons, without any 
+        legitimate medical or dental purpose, shall be punished, if 
+        death results to one or more of the victims, by death or such 
+        other punishment as a military commission under this chapter may 
+        direct, and, if death does not result to any of the victims, by 
+        such punishment, other than death, as a military commission 
+        under this chapter may direct.
+            ``(15) Murder in violation of the law of war.--Any person 
+        subject to this chapter who intentionally kills one or more 
+        persons, including lawful combatants, in violation of the law of 
+        war shall be punished by death or such other punishment as a 
+        military commission under this chapter may direct.
+            ``(16) Destruction of property in violation of the law of 
+        war.--Any person subject to this chapter who intentionally 
+        destroys property belonging to another person in violation of
+
+[[Page 120 STAT. 2629]]
+
+        the law of war shall punished as a military commission under 
+        this chapter may direct.
+            ``(17) Using treachery or perfidy.--Any person subject to 
+        this chapter who, after inviting the confidence or belief of one 
+        or more persons that they were entitled to, or obliged to 
+        accord, protection under the law of war, intentionally makes use 
+        of that confidence or belief in killing, injuring, or capturing 
+        such person or persons shall be punished, if death results to 
+        one or more of the victims, by death or such other punishment as 
+        a military commission under this chapter may direct, and, if 
+        death does not result to any of the victims, by such punishment, 
+        other than death, as a military commission under this chapter 
+        may direct.
+            ``(18) Improperly using a flag of truce.--Any person subject 
+        to this chapter who uses a flag of truce to feign an intention 
+        to negotiate, surrender, or otherwise suspend hostilities when 
+        there is no such intention shall be punished as a military 
+        commission under this chapter may direct.
+            ``(19) Improperly using a distinctive emblem.--Any person 
+        subject to this chapter who intentionally uses a distinctive 
+        emblem recognized by the law of war for combatant purposes in a 
+        manner prohibited by the law of war shall be punished as a 
+        military commission under this chapter may direct.
+            ``(20) Intentionally mistreating a dead body.--Any person 
+        subject to this chapter who intentionally mistreats the body of 
+        a dead person, without justification by legitimate military 
+        necessity, shall be punished as a military commission under this 
+        chapter may direct.
+            ``(21) Rape.--Any person subject to this chapter who 
+        forcibly or with coercion or threat of force wrongfully invades 
+        the body of a person by penetrating, however slightly, the anal 
+        or genital opening of the victim with any part of the body of 
+        the accused, or with any foreign object, shall be punished as a 
+        military commission under this chapter may direct.
+            ``(22) Sexual assault or abuse.--Any person subject to this 
+        chapter who forcibly or with coercion or threat of force engages 
+        in sexual contact with one or more persons, or causes one or 
+        more persons to engage in sexual contact, shall be punished as a 
+        military commission under this chapter may direct.
+            ``(23) Hijacking or hazarding a vessel or aircraft.--Any 
+        person subject to this chapter who intentionally seizes, 
+        exercises unauthorized control over, or endangers the safe 
+        navigation of a vessel or aircraft that is not a legitimate 
+        military objective shall be punished, if death results to one or 
+        more of the victims, by death or such other punishment as a 
+        military commission under this chapter may direct, and, if death 
+        does not result to any of the victims, by such punishment, other 
+        than death, as a military commission under this chapter may 
+        direct.
+            ``(24) Terrorism.--Any person subject to this chapter who 
+        intentionally kills or inflicts great bodily harm on one or more 
+        protected persons, or intentionally engages in an act that 
+        evinces a wanton disregard for human life, in a manner 
+        calculated to influence or affect the conduct of government or 
+        civilian population by intimidation or coercion, or to retaliate 
+        against government conduct, shall be punished, if death results
+
+[[Page 120 STAT. 2630]]
+
+        to one or more of the victims, by death or such other punishment 
+        as a military commission under this chapter may direct, and, if 
+        death does not result to any of the victims, by such punishment, 
+        other than death, as a military commission under this chapter 
+        may direct.
+            ``(25) Providing material support for terrorism.--
+                    ``(A) Offense.--Any person subject to this chapter 
+                who provides material support or resources, knowing or 
+                intending that they are to be used in preparation for, 
+                or in carrying out, an act of terrorism (as set forth in 
+                paragraph (24)), or who intentionally provides material 
+                support or resources to an international terrorist 
+                organization engaged in hostilities against the United 
+                States, knowing that such organization has engaged or 
+                engages in terrorism (as so set forth), shall be 
+                punished as a military commission under this chapter may 
+                direct.
+                    ``(B) Material support or resources defined.--In 
+                this paragraph, the term `material support or resources' 
+                has the meaning given that term in section 2339A(b) of 
+                title 18.
+            ``(26) Wrongfully aiding the enemy.--Any person subject to 
+        this chapter who, in breach of an allegiance or duty to the 
+        United States, knowingly and intentionally aids an enemy of the 
+        United States, or one of the co-belligerents of the enemy, shall 
+        be punished as a military commission under this chapter may 
+        direct.
+            ``(27) Spying.--Any person subject to this chapter who with 
+        intent or reason to believe that it is to be used to the injury 
+        of the United States or to the advantage of a foreign power, 
+        collects or attempts to collect information by clandestine means 
+        or while acting under false pretenses, for the purpose of 
+        conveying such information to an enemy of the United States, or 
+        one of the co-belligerents of the enemy, shall be punished by 
+        death or such other punishment as a military commission under 
+        this chapter may direct.
+            ``(28) Conspiracy.--Any person subject to this chapter who 
+        conspires to commit one or more substantive offenses triable by 
+        military commission under this chapter, and who knowingly does 
+        any overt act to effect the object of the conspiracy, shall be 
+        punished, if death results to one or more of the victims, by 
+        death or such other punishment as a military commission under 
+        this chapter may direct, and, if death does not result to any of 
+        the victims, by such punishment, other than death, as a military 
+        commission under this chapter may direct.
+
+``Sec. 950w. Perjury and obstruction of justice; contempt
+
+    ``(a) Perjury and Obstruction of Justice.--A military commission 
+under this chapter may try offenses and impose such punishment as the 
+military commission may direct for perjury, false testimony, or 
+obstruction of justice related to military commissions under this 
+chapter.
+    ``(b) Contempt.--A military commission under this chapter may punish 
+for contempt any person who uses any menacing word, sign, or gesture in 
+its presence, or who disturbs its proceedings by any riot or 
+disorder.''.
+            (2) Tables of chapters amendments.--The tables of chapters 
+        at the beginning of subtitle A, and at the beginning of
+
+[[Page 120 STAT. 2631]]
+
+        part II of subtitle A, of title 10, United States Code, are each 
+        amended by inserting after the item relating to chapter 47 the 
+        following new item:
+
+``47A. Military Commissions......................................948a''.
+
+    (b) Submittal <<NOTE: Deadline. Reports. 10 USC 948a note.>> of 
+Procedures to Congress.--Not later than 90 days after the date of the 
+enactment of this Act, the Secretary of Defense shall submit to the 
+Committees on Armed Services of the Senate and the House of 
+Representatives a report setting forth the procedures for military 
+commissions prescribed under chapter 47A of title 10, United States Code 
+(as added by subsection (a)).
+
+SEC. 4. AMENDMENTS TO UNIFORM CODE OF MILITARY JUSTICE.
+
+    (a) Conforming Amendments.--Chapter 47 of title 10, United States 
+Code (the Uniform Code of Military Justice), is amended as follows:
+            (1) Applicability to lawful enemy combatants.--Section 
+        802(a) (article 2(a)) is amended by adding at the end the 
+        following new paragraph:
+            ``(13) Lawful enemy combatants (as that term is defined in 
+        section 948a(2) of this title) who violate the law of war.''.
+            (2) Exclusion of applicability to chapter 47a commissions.--
+        Sections 821, 828, 848, 850(a), 904, and 906 (articles 21, 28, 
+        48, 50(a), 104, and 106) are amended by adding at the end the 
+        following new sentence: ``This section does not apply to a 
+        military commission established under chapter 47A of this 
+        title.''.
+            (3) Inapplicability of requirements relating to 
+        regulations.--Section 836 (article 36) is amended--
+                    (A) in subsection (a), by inserting ``, except as 
+                provided in chapter 47A of this title,'' after ``but 
+                which may not''; and
+                    (B) in subsection (b), by inserting before the 
+                period at the end ``, except insofar as applicable to 
+                military commissions established under chapter 47A of 
+                this title''.
+
+    (b) Punitive Article of Conspiracy.--Section 881 of title 10, United 
+States Code (article 81 of the Uniform Code of Military Justice), is 
+amended--
+            (1) by inserting ``(a)'' before ``Any person''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(b) Any person subject to this chapter who conspires with any 
+other person to commit an offense under the law of war, and who 
+knowingly does an overt act to effect the object of the conspiracy, 
+shall be punished, if death results to one or more of the victims, by 
+death or such other punishment as a court-martial or military commission 
+may direct, and, if death does not result to any of the victims, by such 
+punishment, other than death, as a court-martial or military commission 
+may direct.''.
+
+SEC. 5. <<NOTE: 28 USC 2241 note.>> TREATY OBLIGATIONS NOT ESTABLISHING 
+            GROUNDS FOR CERTAIN CLAIMS.
+
+    (a) In General.--No person may invoke the Geneva Conventions or any 
+protocols thereto in any habeas corpus or other civil action or 
+proceeding to which the United States, or a current or former officer, 
+employee, member of the Armed Forces, or other agent of the United 
+States is a party as a source of rights in any court of the United 
+States or its States or territories.
+
+[[Page 120 STAT. 2632]]
+
+    (b) Geneva Conventions Defined.--In this section, the term ``Geneva 
+Conventions'' means--
+            (1) the Convention for the Amelioration of the Condition of 
+        the Wounded and Sick in Armed Forces in the Field, done at 
+        Geneva August 12, 1949 (6 UST 3114);
+            (2) the Convention for the Amelioration of the Condition of 
+        the Wounded, Sick, and Shipwrecked Members of the Armed Forces 
+        at Sea, done at Geneva August 12, 1949 (6 UST 3217);
+            (3) the Convention Relative to the Treatment of Prisoners of 
+        War, done at Geneva August 12, 1949 (6 UST 3316); and
+            (4) the Convention Relative to the Protection of Civilian 
+        Persons in Time of War, done at Geneva August 12, 1949 (6 UST 
+        3516).
+
+SEC. 6. <<NOTE: 18 USC 2441 note.>> IMPLEMENTATION OF TREATY 
+            OBLIGATIONS.
+
+    (a) Implementation of Treaty Obligations.--
+            (1) In general.--The acts enumerated in subsection (d) of 
+        section 2441 of title 18, United States Code, as added by 
+        subsection (b) of this section, and in subsection (c) of this 
+        section, constitute violations of common Article 3 of the Geneva 
+        Conventions prohibited by United States law.
+            (2) Prohibition on grave breaches.--The provisions of 
+        section 2441 of title 18, United States Code, as amended by this 
+        section, fully satisfy the obligation under Article 129 of the 
+        Third Geneva Convention for the United States to provide 
+        effective penal sanctions for grave breaches which are 
+        encompassed in common Article 3 in the context of an armed 
+        conflict not of an international character. No foreign or 
+        international source of law shall supply a basis for a rule of 
+        decision in the courts of the United States in interpreting the 
+        prohibitions enumerated in subsection (d) of such section 2441.
+            (3) Interpretation by the president.--
+                    (A) As provided by the Constitution and by this 
+                section, the President has the authority for the United 
+                States to interpret the meaning and application of the 
+                Geneva Conventions and to promulgate higher standards 
+                and administrative regulations for violations of treaty 
+                obligations which are not grave breaches of the Geneva 
+                Conventions.
+                    (B) <<NOTE: President. Federal Register, 
+                publication.>> The President shall issue interpretations 
+                described by subparagraph (A) by Executive Order 
+                published in the Federal Register.
+                    (C) Any Executive Order published under this 
+                paragraph shall be authoritative (except as to grave 
+                breaches of common Article 3) as a matter of United 
+                States law, in the same manner as other administrative 
+                regulations.
+                    (D) Nothing in this section shall be construed to 
+                affect the constitutional functions and responsibilities 
+                of Congress and the judicial branch of the United 
+                States.
+            (4) Definitions.--In this subsection:
+                    (A) Geneva conventions.--The term ``Geneva 
+                Conventions'' means--
+                          (i) the Convention for the Amelioration of the 
+                      Condition of the Wounded and Sick in Armed Forces 
+                      in the Field, done at Geneva August 12, 1949 (6 
+                      UST 3217);
+
+[[Page 120 STAT. 2633]]
+
+                          (ii) the Convention for the Amelioration of 
+                      the Condition of the Wounded, Sick, and 
+                      Shipwrecked Members of the Armed Forces at Sea, 
+                      done at Geneva August 12, 1949 (6 UST 3217);
+                          (iii) the Convention Relative to the Treatment 
+                      of Prisoners of War, done at Geneva August 12, 
+                      1949 (6 UST 3316); and
+                          (iv) the Convention Relative to the Protection 
+                      of Civilian Persons in Time of War, done at Geneva 
+                      August 12, 1949 (6 UST 3516).
+                    (B) Third geneva convention.--The term ``Third 
+                Geneva Convention'' means the international convention 
+                referred to in subparagraph (A)(iii).
+
+    (b) Revision to War Crimes Offense Under Federal Criminal Code.--
+            (1) In general.--Section 2441 of title 18, United States 
+        Code, is amended--
+                    (A) in subsection (c), by striking paragraph (3) and 
+                inserting the following new paragraph (3):
+            ``(3) which constitutes a grave breach of common Article 3 
+        (as defined in subsection (d)) when committed in the context of 
+        and in association with an armed conflict not of an 
+        international character; or''; and
+                    (B) by adding at the end the following new 
+                subsection:
+
+    ``(d) Common Article 3 Violations.--
+            ``(1) Prohibited conduct.--In subsection (c)(3), the term 
+        `grave breach of common Article 3' means any conduct (such 
+        conduct constituting a grave breach of common Article 3 of the 
+        international conventions done at Geneva August 12, 1949), as 
+        follows:
+                    ``(A) Torture.--The act of a person who commits, or 
+                conspires or attempts to commit, an act specifically 
+                intended to inflict severe physical or mental pain or 
+                suffering (other than pain or suffering incidental to 
+                lawful sanctions) upon another person within his custody 
+                or physical control for the purpose of obtaining 
+                information or a confession, punishment, intimidation, 
+                coercion, or any reason based on discrimination of any 
+                kind.
+                    ``(B) Cruel or inhuman treatment.--The act of a 
+                person who commits, or conspires or attempts to commit, 
+                an act intended to inflict severe or serious physical or 
+                mental pain or suffering (other than pain or suffering 
+                incidental to lawful sanctions), including serious 
+                physical abuse, upon another within his custody or 
+                control.
+                    ``(C) Performing biological experiments.--The act of 
+                a person who subjects, or conspires or attempts to 
+                subject, one or more persons within his custody or 
+                physical control to biological experiments without a 
+                legitimate medical or dental purpose and in so doing 
+                endangers the body or health of such person or persons.
+                    ``(D) Murder.--The act of a person who intentionally 
+                kills, or conspires or attempts to kill, or kills 
+                whether intentionally or unintentionally in the course 
+                of committing any other offense under this subsection, 
+                one or more persons taking no active part in the 
+                hostilities, including those placed out of combat by 
+                sickness, wounds, detention, or any other cause.
+
+[[Page 120 STAT. 2634]]
+
+                    ``(E) Mutilation or maiming.--The act of a person 
+                who intentionally injures, or conspires or attempts to 
+                injure, or injures whether intentionally or 
+                unintentionally in the course of committing any other 
+                offense under this subsection, one or more persons 
+                taking no active part in the hostilities, including 
+                those placed out of combat by sickness, wounds, 
+                detention, or any other cause, by disfiguring the person 
+                or persons by any mutilation thereof or by permanently 
+                disabling any member, limb, or organ of his body, 
+                without any legitimate medical or dental purpose.
+                    ``(F) Intentionally causing serious bodily injury.--
+                The act of a person who intentionally causes, or 
+                conspires or attempts to cause, serious bodily injury to 
+                one or more persons, including lawful combatants, in 
+                violation of the law of war.
+                    ``(G) Rape.--The act of a person who forcibly or 
+                with coercion or threat of force wrongfully invades, or 
+                conspires or attempts to invade, the body of a person by 
+                penetrating, however slightly, the anal or genital 
+                opening of the victim with any part of the body of the 
+                accused, or with any foreign object.
+                    ``(H) Sexual assault or abuse.--The act of a person 
+                who forcibly or with coercion or threat of force 
+                engages, or conspires or attempts to engage, in sexual 
+                contact with one or more persons, or causes, or 
+                conspires or attempts to cause, one or more persons to 
+                engage in sexual contact.
+                    ``(I) Taking hostages.--The act of a person who, 
+                having knowingly seized or detained one or more persons, 
+                threatens to kill, injure, or continue to detain such 
+                person or persons with the intent of compelling any 
+                nation, person other than the hostage, or group of 
+                persons to act or refrain from acting as an explicit or 
+                implicit condition for the safety or release of such 
+                person or persons.
+            ``(2) Definitions.--In the case of an offense under 
+        subsection (a) by reason of subsection (c)(3)--
+                    ``(A) the term `severe mental pain or suffering' 
+                shall be applied for purposes of paragraphs (1)(A) and 
+                (1)(B) in accordance with the meaning given that term in 
+                section 2340(2) of this title;
+                    ``(B) the term `serious bodily injury' shall be 
+                applied for purposes of paragraph (1)(F) in accordance 
+                with the meaning given that term in section 113(b)(2) of 
+                this title;
+                    ``(C) the term `sexual contact' shall be applied for 
+                purposes of paragraph (1)(G) in accordance with the 
+                meaning given that term in section 2246(3) of this 
+                title;
+                    ``(D) the term `serious physical pain or suffering' 
+                shall be applied for purposes of paragraph (1)(B) as 
+                meaning bodily injury that involves--
+                          ``(i) a substantial risk of death;
+                          ``(ii) extreme physical pain;
+                          ``(iii) a burn or physical disfigurement of a 
+                      serious nature (other than cuts, abrasions, or 
+                      bruises); or
+                          ``(iv) significant loss or impairment of the 
+                      function of a bodily member, organ, or mental 
+                      faculty; and
+                    ``(E) the term `serious mental pain or suffering' 
+                shall be applied for purposes of paragraph (1)(B) in 
+                accordance
+
+[[Page 120 STAT. 2635]]
+
+                with the meaning given the term `severe mental pain or 
+                suffering' (as defined in section 2340(2) of this 
+                title), except that--
+                          ``(i) the term `serious' shall replace the 
+                      term `severe' where it appears; and
+                          ``(ii) as to conduct occurring after the date 
+                      of the enactment of the Military Commissions Act 
+                      of 2006, the term `serious and non-transitory 
+                      mental harm (which need not be prolonged)' shall 
+                      replace the term `prolonged mental harm' where it 
+                      appears.
+            ``(3) Inapplicability of certain provisions with respect to 
+        collateral damage or incident of lawful attack.--The intent 
+        specified for the conduct stated in subparagraphs (D), (E), and 
+        (F) or paragraph (1) precludes the applicability of those 
+        subparagraphs to an offense under subsection (a) by reasons of 
+        subsection (c)(3) with respect to--
+                    ``(A) collateral damage; or
+                    ``(B) death, damage, or injury incident to a lawful 
+                attack.
+            ``(4) Inapplicability of taking hostages to prisoner 
+        exchange.--Paragraph (1)(I) does not apply to an offense under 
+        subsection (a) by reason of subsection (c)(3) in the case of a 
+        prisoner exchange during wartime.
+            ``(5) Definition of grave breaches.--The definitions in this 
+        subsection are intended only to define the grave breaches of 
+        common Article 3 and not the full scope of United States 
+        obligations under that Article.''.
+            (2) Retroactive applicability.--The amendments made by this 
+        subsection, except as specified in subsection (d)(2)(E) of 
+        section 2441 of title 18, United States Code, shall take effect 
+        as of November 26, 1997, as if enacted immediately after the 
+        amendments made by section 583 of Public Law 105-118 (as amended 
+        by section 4002(e)(7) of Public Law 107-273).
+
+    (c) Additional <<NOTE: 42 USC 2000dd-0.>> Prohibition on Cruel, 
+Inhuman, or Degrading Treatment or Punishment.--
+            (1) In general.--No individual in the custody or under the 
+        physical control of the United States Government, regardless of 
+        nationality or physical location, shall be subject to cruel, 
+        inhuman, or degrading treatment or punishment.
+            (2) Cruel, inhuman, or degrading treatment or punishment 
+        defined.--In this subsection, the term ``cruel, inhuman, or 
+        degrading treatment or punishment'' means cruel, unusual, and 
+        inhumane treatment or punishment prohibited by the Fifth, 
+        Eighth, and Fourteenth Amendments to the Constitution of the 
+        United States, as defined in the United States Reservations, 
+        Declarations and Understandings to the United Nations Convention 
+        Against Torture and Other Forms of Cruel, Inhuman or Degrading 
+        Treatment or Punishment done at New York, December 10, 1984.
+            (3) Compliance.--
+        The <<NOTE: President. Rules. Procedures.>> President shall take 
+        action to ensure compliance with this subsection, including 
+        through the establishment of administrative rules and 
+        procedures.
+
+SEC. 7. HABEAS CORPUS MATTERS.
+
+    (a) In General.--Section 2241 of title 28, United States Code, is 
+amended by striking both the subsection (e) added by section
+
+[[Page 120 STAT. 2636]]
+
+1005(e)(1) of Public Law 109-148 (119 Stat. 2742) and the subsection (e) 
+added by added by section 1405(e)(1) of Public Law 109-163 (119 Stat. 
+3477) and inserting the following new subsection (e):
+    ``(e)(1) No court, justice, or judge shall have jurisdiction to hear 
+or consider an application for a writ of habeas corpus filed by or on 
+behalf of an alien detained by the United States who has been determined 
+by the United States to have been properly detained as an enemy 
+combatant or is awaiting such determination.
+    ``(2) Except as provided in paragraphs (2) and (3) of section 
+1005(e) of the Detainee Treatment Act of 2005 (10 U.S.C. 801 note), no 
+court, justice, or judge shall have jurisdiction to hear or consider any 
+other action against the United States or its agents relating to any 
+aspect of the detention, transfer, treatment, trial, or conditions of 
+confinement of an alien who is or was detained by the United States and 
+has been determined by the United States to have been properly detained 
+as an enemy combatant or is awaiting such determination.''.
+    (b) Effective <<NOTE: 28 USC 2441 note.>> Date.--The amendment made 
+by subsection (a) shall take effect on the date of the enactment of this 
+Act, and shall apply to all cases, without exception, pending on or 
+after the date of the enactment of this Act which relate to any aspect 
+of the detention, transfer, treatment, trial, or conditions of detention 
+of an alien detained by the United States since September 11, 2001.
+
+SEC. 8. REVISIONS TO DETAINEE TREATMENT ACT OF 2005 RELATING TO 
+            PROTECTION OF CERTAIN UNITED STATES GOVERNMENT PERSONNEL.
+
+    (a) Counsel and Investigations.--Section 1004(b) of the Detainee 
+Treatment Act of 2005 (42 U.S.C. 2000dd-1(b)) is amended--
+            (1) by striking ``may provide'' and inserting ``shall 
+        provide'';
+            (2) by inserting ``or investigation'' after ``criminal 
+        prosecution''; and
+            (3) by inserting ``whether before United States courts or 
+        agencies, foreign courts or agencies, or international courts or 
+        agencies,'' after ``described in that subsection''.
+
+    (b) Protection <<NOTE: Applicability. 42 USC 2000dd-1 note.>> of 
+Personnel.--Section 1004 of the Detainee Treatment Act of 2005 (42 
+U.S.C. 2000dd-1) shall apply with respect to any criminal prosecution 
+that--
+            (1) relates to the detention and interrogation of aliens 
+        described in such section;
+            (2) is grounded in section 2441(c)(3) of title 18, United 
+        States Code; and
+            (3) relates to actions occurring between September 11, 2001, 
+        and December 30, 2005.
+
+SEC. 9. REVIEW OF JUDGMENTS OF MILITARY COMMISSIONS.
+
+    Section 1005(e)(3) of the Detainee Treatment Act of 2005 (title X of 
+Public Law 109-148; 119 Stat. 2740; 10 U.S.C. 801 note) is amended--
+            (1) in subparagraph (A), by striking ``pursuant to Military 
+        Commission Order No. 1. dated August 31, 2005 (or any successor 
+        military order)'' and inserting ``by a military commission under 
+        chapter 47A of title 10, United States Code'';
+            (2) by striking subparagraph (B) and inserting the following 
+        new subparagraph (B):
+
+[[Page 120 STAT. 2637]]
+
+                    ``(B) Grant of review.--Review under this paragraph 
+                shall be as of right.'';
+            (3) in subparagraph (C)--
+                    (A) in clause (i)--
+                          (i) by striking ``pursuant to the military 
+                      order'' and inserting ``by a military 
+                      commission''; and
+                          (ii) by striking ``at Guantanamo Bay, Cuba''; 
+                      and
+                    (B) in clause (ii), by striking ``pursuant to such 
+                military order'' and inserting ``by the military 
+                commission''; and
+            (4) in subparagraph (D)(i), by striking ``specified in the 
+        military order'' and inserting ``specified for a military 
+        commission''.
+
+SEC. 10. DETENTION COVERED BY REVIEW OF DECISIONS OF COMBATANT STATUS 
+            REVIEW TRIBUNALS OF PROPRIETY OF DETENTION.
+
+    Section 1005(e)(2)(B)(i) of the Detainee Treatment Act of 2005 
+(title X of Public Law 109-148; 119 Stat. 2742; 10 U.S.C. 801 note) is 
+amended by striking ``the Department of Defense at Guantanamo Bay, 
+Cuba'' and inserting ``the United States''.
+
+    Approved October 17, 2006.
+
+LEGISLATIVE HISTORY--S. 3930 (H.R. 6054):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 109-664, Pt. 1 (Comm. on Armed Services) and Pt. 2 
+(Comm. on the Judiciary), both accompanying H.R. 6054.
+CONGRESSIONAL RECORD, Vol. 152 (2006):
+            Sept. 27, 28, considered and passed Senate.
+            Sept. 29, considered and passed House.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 42 (2006):
+            Oct. 17, Presidential remarks.
+
+                                  
+

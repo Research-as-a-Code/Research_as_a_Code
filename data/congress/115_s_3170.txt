@@ -1,0 +1,528 @@
+
+[115th Congress Public Law 395]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 132 STAT. 5287]]
+
+Public Law 115-395
+115th Congress
+
+                                 An Act
+
+
+ 
+ To amend title 18, United States Code, to make certain changes to the 
+   reporting requirement of certain service providers regarding child 
+          sexual exploitation visual depictions, and for other 
+             purposes. <<NOTE: Dec. 21, 2018 -  [S. 3170]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: CyberTipline 
+Modernization Act of 2018. 18 USC 1 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``CyberTipline Modernization Act of 
+2018''.
+SEC. 2. ALTERATIONS TO REPORTING REQUIREMENTS FOR ELECTRONIC 
+                    SERVICE PROVIDERS AND REMOTE COMPUTING SERVICE 
+                    PROVIDERS.
+
+    Section 2258A of title 18, United States Code, is amended--
+            (1) in the heading, by striking ``electronic communication 
+        service providers and remote computing service providers'' and 
+        inserting ``providers'';
+            (2) in subsection (a)--
+                    (A) by amending paragraph (1) to read as follows:
+            ``(1) In general.--
+                    ``(A) Duty.--In order to reduce the proliferation of 
+                online child sexual exploitation and to prevent the 
+                online sexual exploitation of children, a provider--
+                          ``(i) shall, as soon as reasonably possible 
+                      after obtaining actual knowledge of any facts or 
+                      circumstances described in paragraph (2)(A), take 
+                      the actions described in subparagraph (B); and
+                          ``(ii) may, after obtaining actual knowledge 
+                      of any facts or circumstances described in 
+                      paragraph (2)(B), take the actions described in 
+                      subparagraph (B).
+                    ``(B) Actions described.--The actions described in 
+                this subparagraph are--
+                          ``(i) providing to the CyberTipline of NCMEC, 
+                      or any successor to the CyberTipline operated by 
+                      NCMEC, the mailing address, telephone number, 
+                      facsimile number, electronic mailing address of, 
+                      and individual point of contact for, such 
+                      provider; and
+                          ``(ii) making a report of such facts or 
+                      circumstances to the CyberTipline, or any 
+                      successor to the CyberTipline operated by 
+                      NCMEC.''; and
+                    (B) by amending paragraph (2) to read as follows:
+            ``(2) Facts or circumstances.--
+                    ``(A) Apparent violations.--The facts or 
+                circumstances described in this subparagraph are any 
+                facts
+
+[[Page 132 STAT. 5288]]
+
+                or circumstances from which there is an apparent 
+                violation of section 2251, 2251A, 2252, 2252A, 2252B, or 
+                2260 that involves child pornography.
+                    ``(B) Imminent violations.--The facts or 
+                circumstances described in this subparagraph are any 
+                facts or circumstances which indicate a violation of any 
+                of the sections described in subparagraph (A) involving 
+                child pornography may be planned or imminent.'';
+            (3) in subsection (b)--
+                    (A) in the matter preceding paragraph (1)--
+                          (i) by striking ``To the extent'' and 
+                      inserting ``In an effort to prevent the future 
+                      sexual victimization of children, and to the 
+                      extent'';
+                          (ii) by striking ``an electronic communication 
+                      service provider or a remote computing service 
+                      provider'' and inserting ``a provider''; and
+                          (iii) by striking ``may include'' and 
+                      inserting ``may, at the sole discretion of the 
+                      provider, include'';
+                    (B) in paragraph (1)--
+                          (i) by inserting ``or plans to violate'' after 
+                      ``who appears to have violated''; and
+                          (ii) by inserting ``payment information 
+                      (excluding personally identifiable information),'' 
+                      after ``uniform resource locator,'';
+                    (C) in paragraph (2)--
+                          (i) by striking ``an electronic communication 
+                      service or a remote computing service'' and 
+                      inserting ``a provider'';
+                          (ii) by striking ``apparent child 
+                      pornography'' each place it appears and inserting 
+                      ``content relating to the report''; and
+                          (iii) by striking ``the electronic 
+                      communication service provider or remote computing 
+                      service provider'' and inserting ``the provider'';
+                    (D) by amending paragraph (3) to read as follows:
+            ``(3) Geographic location information.--Information relating 
+        to the geographic location of the involved individual or 
+        website, which may include the Internet Protocol address or 
+        verified address, or, if not reasonably available, at least one 
+        form of geographic identifying information, including area code 
+        or zip code, provided by the customer or subscriber, or stored 
+        or obtained by the provider.'';
+                    (E) in paragraph (4)--
+                          (i) in the heading by striking ``Images'' and 
+                      inserting ``Visual depictions'';
+                          (ii) by striking ``image'' and inserting 
+                      ``visual depiction''; and
+                          (iii) by inserting ``or other content'' after 
+                      ``apparent child pornography''; and
+                    (F) in paragraph (5)--
+                          (i) by striking ``image'' and inserting 
+                      ``visual depiction'';
+                          (ii) by inserting ``or other content'' after 
+                      ``apparent child pornography''; and
+                          (iii) by striking ``images'' and inserting 
+                      ``visual depictions'';
+            (4) by amending subsection (c) to read as follows:
+
+[[Page 132 STAT. 5289]]
+
+    ``(c) Forwarding of Report to Law Enforcement.--Pursuant to its 
+clearinghouse role as a private, nonprofit organization, and at the 
+conclusion of its review in furtherance of its nonprofit mission, NCMEC 
+shall make available each report made under subsection (a)(1) to one or 
+more of the following law enforcement agencies:
+            ``(1) Any Federal law enforcement agency that is involved in 
+        the investigation of child sexual exploitation, kidnapping, or 
+        enticement crimes.
+            ``(2) Any State or local law enforcement agency that is 
+        involved in the investigation of child sexual exploitation.
+            ``(3) A foreign law enforcement agency designated by the 
+        Attorney General under subsection (d)(3) or a foreign law 
+        enforcement agency that has an established relationship with the 
+        Federal Bureau of Investigation, Immigration and Customs 
+        Enforcement, or INTERPOL, and is involved in the investigation 
+        of child sexual exploitation, kidnapping, or enticement 
+        crimes.'';
+            (5) in subsection (d)--
+                    (A) in paragraph (2), by striking ``shall designate 
+                promptly the'' and inserting ``may designate a'';
+                    (B) in paragraph (3)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by striking ``shall promptly'' and inserting 
+                      ``may''; and
+                          (ii) in subparagraph (A), by striking 
+                      ``designate the'' and inserting ``designate'';
+                    (C) in paragraph (4)--
+                          (i) by striking ``shall'' and inserting 
+                      ``may'';
+                          (ii) by striking ``the National Center for 
+                      Missing and Exploited Children'' and inserting 
+                      ``NCMEC''; and
+                          (iii) by striking ``electronic communication 
+                      service providers, remote computing service 
+                      providers'' and inserting ``providers'';
+                    (D) by striking paragraph (5);
+                    (E) by redesignating paragraph (6) as paragraph (5); 
+                and
+                    (F) by amending paragraph (5), as so redesignated, 
+                to read as follows:
+            ``(5) Notification to providers.--
+                    ``(A) In general.--NCMEC may notify a provider of 
+                the information described in subparagraph (B), if--
+                          ``(i) a provider notifies NCMEC that the 
+                      provider is making a report under this section as 
+                      the result of a request by a foreign law 
+                      enforcement agency; and
+                          ``(ii) NCMEC forwards the report described in 
+                      clause (i) to--
+                                    ``(I) the requesting foreign law 
+                                enforcement agency; or
+                                    ``(II) another agency in the same 
+                                country designated by the Attorney 
+                                General under paragraph (3) or that has 
+                                an established relationship with the 
+                                Federal Bureau of Investigation, U.S. 
+                                Immigration and Customs Enforcement, or 
+                                INTERPOL and is involved in the 
+                                investigation of child sexual 
+                                exploitation, kidnapping, or enticement 
+                                crimes.
+
+[[Page 132 STAT. 5290]]
+
+                    ``(B) Information described.--The information 
+                described in this subparagraph is--
+                          ``(i) the identity of the foreign law 
+                      enforcement agency to which the report was 
+                      forwarded; and
+                          ``(ii) the date on which the report was 
+                      forwarded.
+                    ``(C) Notification of inability to forward report.--
+                If a provider notifies NCMEC that the provider is making 
+                a report under this section as the result of a request 
+                by a foreign law enforcement agency and NCMEC is unable 
+                to forward the report as described in subparagraph 
+                (A)(ii), NCMEC shall notify the provider that NCMEC was 
+                unable to forward the report.'';
+            (6) in subsection (e), by striking ``An electronic 
+        communication service provider or remote computing service 
+        provider'' and inserting ``A provider'';
+            (7) in subsection (f)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``an electronic communication service provider 
+                or a remote computing service provider'' and inserting 
+                ``a provider''; and
+                    (B) in paragraph (3), by striking ``seek'' and 
+                inserting ``search, screen, or scan for'';
+            (8) in subsection (g)--
+                    (A) in paragraph (2)--
+                          (i) in subparagraph (A)(vi), by striking ``an 
+                      electronic communication service provider or 
+                      remote computing service provider'' and inserting 
+                      ``a provider''; and
+                          (ii) by amending subparagraph (B) to read as 
+                      follows:
+                    ``(B) Limitation.--Nothing in subparagraph (A)(vi) 
+                authorizes a law enforcement agency to provide visual 
+                depictions of apparent child pornography to a 
+                provider.'';
+                    (B) in paragraph (3)--
+                          (i) in the paragraph heading, by striking 
+                      ``the national center for missing and exploited 
+                      children'' and inserting ``NCMEC'';
+                          (ii) in the matter preceding subparagraph 
+                      (A)--
+                                    (I) by striking ``The National 
+                                Center for Missing and Exploited 
+                                Children'' and inserting ``NCMEC'';
+                                    (II) by inserting after ``may 
+                                disclose'' the following: ``by mail, 
+                                electronic transmission, or other 
+                                reasonable means,''; and
+                                    (III) by striking ``only'' and 
+                                inserting ``only to'';
+                          (iii) in subparagraph (A)--
+                                    (I) by striking `` to any Federal 
+                                law enforcement agency'' and inserting 
+                                ``any Federal law enforcement agency''; 
+                                and
+                                    (II) by inserting before the 
+                                semicolon at the end the following: ``or 
+                                that is involved in the investigation of 
+                                child sexual exploitation, kidnapping, 
+                                or enticement crimes'';
+                          (iv) in subparagraph (B)--
+                                    (I) by striking ``to any State'' and 
+                                inserting ``any State''; and
+
+[[Page 132 STAT. 5291]]
+
+                                    (II) by striking ``child 
+                                pornography, child exploitation'' and 
+                                inserting ``child sexual exploitation'';
+                          (v) in subparagraph (C)--
+                                    (I) by striking ``to any foreign law 
+                                enforcement agency'' and inserting ``any 
+                                foreign law enforcement agency''; and
+                                    (II) by striking ``; and'' and 
+                                inserting ``or that has an established 
+                                relationship with the Federal Bureau of 
+                                Investigation, Immigration and Customs 
+                                Enforcement, or INTERPOL, and is 
+                                involved in the investigation of child 
+                                sexual exploitation, kidnapping, or 
+                                enticement crimes;'';
+                          (vi) in subparagraph (D)--
+                                    (I) by striking ``to an electronic 
+                                communication service provider or remote 
+                                computing service provider'' and 
+                                inserting ``a provider''; and
+                                    (II) by striking the period at the 
+                                end and inserting ``; and''; and
+                          (vii) by adding after subparagraph (D) the 
+                      following:
+                    ``(E) respond to legal process, as necessary.''; and
+                    (C) by adding at the end the following:
+            ``(4) Permitted disclosure by a provider.--A provider that 
+        submits a report under subsection (a)(1) may disclose by mail, 
+        electronic transmission, or other reasonable means, information, 
+        including visual depictions contained in the report, in a manner 
+        consistent with permitted disclosures under paragraphs (3) 
+        through (8) of section 2702(b) only to a law enforcement agency 
+        described in subparagraph (A), (B), or (C) of paragraph (3), to 
+        NCMEC, or as necessary to respond to legal process.''; and
+            (9) in subsection (h)--
+                    (A) in paragraph (1)--
+                          (i) by striking ``the notification to an 
+                      electronic communication service provider or a 
+                      remote computing service provider by the 
+                      CyberTipline of receipt of a report'' and 
+                      inserting ``a completed submission by a provider 
+                      of a report to the CyberTipline''; and
+                          (ii) by striking ``, as if such request was 
+                      made pursuant to section 2703(f)'' and inserting 
+                      ``the contents provided in the report for 90 days 
+                      after the submission to the CyberTipline'';
+                    (B) by striking paragraph (2);
+                    (C) by redesignating paragraphs (3) through (5) as 
+                paragraphs (2) through (4), respectively;
+                    (D) in paragraph (2), as so redesignated--
+                          (i) in the heading, by striking ``images'' and 
+                      inserting ``content'';
+                          (ii) by striking ``an electronic communication 
+                      service provider or a remote computing service'' 
+                      and inserting ``a provider'';
+                          (iii) by striking ``images'' and inserting 
+                      ``visual depictions''; and
+                          (iv) by striking ``commingled or interspersed 
+                      among the images of apparent child pornography 
+                      within a particular communication or user created 
+                      folder or
+
+[[Page 132 STAT. 5292]]
+
+                      directory'' and inserting ``reasonably accessible 
+                      and may provide context or additional information 
+                      about the reported material or person''; and
+                    (E) in paragraph (3), as so redesignated, by 
+                striking ``An electronic communication service or remote 
+                computing service'' and inserting ``A provider''.
+SEC. 3. LIMITED LIABILITY FOR PROVIDERS OR DOMAIN NAME REGISTRARS.
+
+    Section 2258B of title 18, United States Code, is amended--
+            (1) in the heading--
+                    (A) by striking ``electronic communication service 
+                providers, remote computing service providers,'' and 
+                inserting ``providers''; and
+                    (B) by striking ``registrar'' and inserting 
+                ``registrars'';
+            (2) in subsection (a)--
+                    (A) by striking ``an electronic communication 
+                service provider, a remote computing service provider,'' 
+                and inserting ``a provider''; and
+                    (B) by striking ``such electronic communication 
+                service provider, remote computing service provider,'' 
+                each place it appears and inserting ``such provider'';
+            (3) in subsection (b), by striking ``electronic 
+        communication service provider, remote computing service 
+        provider,'' each place it appears and inserting ``provider''; 
+        and
+            (4) in subsection (c)--
+                    (A) by striking ``image'' each place it appears and 
+                inserting ``visual depiction''; and
+                    (B) in the matter preceding paragraph (1), by 
+                striking ``An electronic communication service provider, 
+                a remote computing service provider,'' and inserting ``A 
+                provider''.
+SEC. 4. USE TO COMBAT CHILD PORNOGRAPHY OF TECHNICAL ELEMENTS 
+                    RELATING TO REPORTS MADE TO CYBERTIPLINE.
+
+    Section 2258C of title 18, United States Code, is amended--
+            (1) in the heading, by striking ``to images reported to'' 
+        and inserting ``to reports made to'';
+            (2) in subsection (a)--
+                    (A) in paragraph (1)--
+                          (i) by striking ``The National Center for 
+                      Missing and Exploited Children'' and inserting 
+                      ``NCMEC'';
+                          (ii) by striking ``apparent child pornography 
+                      image of an identified child'' and inserting 
+                      ``CyberTipline report'';
+                          (iii) by striking ``an electronic 
+                      communication service provider or a remote 
+                      computing service provider'' and inserting ``a 
+                      provider'';
+                          (iv) by striking ``that electronic 
+                      communication service provider or remote computing 
+                      service provider'' and inserting ``that 
+                      provider''; and
+                          (v) by striking ``further transmission of 
+                      images'' and inserting ``online sexual 
+                      exploitation of children'';
+                    (B) in paragraph (2), by striking ``specific image, 
+                Internet location of images, and other technological 
+                elements that can be used to identify and stop the 
+                transmission of child pornography'' and inserting 
+                ``specific visual depiction, including an Internet 
+                location and any other elements provided in a 
+                CyberTipline report that can be used to
+
+[[Page 132 STAT. 5293]]
+
+                identify, prevent, curtail, or stop the transmission of 
+                child pornography and prevent the online sexual 
+                exploitation of children''; and
+                    (C) in paragraph (3), by striking ``actual images'' 
+                and inserting ``actual visual depictions of apparent 
+                child pornography'';
+            (3) in subsection (b)--
+                    (A) in the heading, by striking ``Electronic 
+                Communication Service Providers and Remote Computing 
+                Service Providers'' and inserting ``Providers'';
+                    (B) by striking ``electronic communication service 
+                provider or remote computing service provider'' each 
+                place it appears and inserting ``provider'';
+                    (C) by striking ``apparent child pornography image 
+                of an identified child from the National Center for 
+                Missing and Exploited Children'' and inserting 
+                ``CyberTipline report from NCMEC'';
+                    (D) by striking ``shall not relieve that'' and 
+                inserting ``shall not relieve the''; and
+                    (E) by striking ``its reporting obligations'' and 
+                inserting ``reporting'';
+            (4) in subsection (c)--
+                    (A) by striking ``electronic communication service 
+                providers or remote computing service providers'' and 
+                inserting ``providers'';
+                    (B) by striking ``apparent child pornography image 
+                of an identified child from the National Center for 
+                Missing and Exploited Children'' and inserting 
+                ``CyberTipline report from NCMEC''; and
+                    (C) by striking ``further transmission of the 
+                images'' and inserting ``online sexual exploitation of 
+                children'';
+            (5) in subsection (d)--
+                    (A) by striking ``The National Center for Missing 
+                and Exploited Children shall'' and inserting ``NCMEC 
+                may'';
+                    (B) by inserting after ``local law enforcement'' the 
+                following: ``, and to foreign law enforcement agencies 
+                described in section 2258A(c)(3),'';
+                    (C) by striking ``investigation of child 
+                pornography'' and inserting ``investigation of child 
+                sexual exploitation'';
+                    (D) by striking ``image of an identified child'' and 
+                inserting ``visual depiction''; and
+                    (E) by striking ``reported to the National Center 
+                for Missing and Exploited Children'' and inserting 
+                ``reported to the CyberTipline''; and
+            (6) in subsection (e)--
+                    (A) by inserting before ``Federal'' the following: 
+                ``foreign,'';
+                    (B) by striking ``image of an identified child from 
+                the National Center for Missing and Exploited Children 
+                under section (d)'' and inserting ``visual depiction 
+                from NCMEC under subsection (d)'';
+                    (C) by striking ``child pornography crimes'' and 
+                inserting ``child sexual exploitation crimes,''; and
+                    (D) by inserting before the period at the end the 
+                following: ``and prevent future sexual victimization of 
+                children''.
+
+[[Page 132 STAT. 5294]]
+
+SEC. 5. LIMITED LIABILITY FOR NCMEC.
+
+    Section 2258D of title 18, United States Code, is amended--
+            (1) in the heading, by striking ``the National Center for 
+        Missing and Exploited Children'' and inserting ``NCMEC'';
+            (2) in subsection (a)--
+                    (A) by striking ``Except as provided'' and inserting 
+                ``Pursuant to its clearinghouse role as a private, 
+                nonprofit organization and its mission to help find 
+                missing children, reduce online sexual exploitation of 
+                children and prevent future victimization, and except as 
+                provided'';
+                    (B) by striking ``the National Center for Missing 
+                and Exploited Children'' and inserting ``NCMEC'';
+                    (C) by striking ``(42 U.S.C. 5773)'' and inserting 
+                ``(34 U.S.C. 11293)'';
+                    (D) by striking ``such center'' each place it 
+                appears and inserting ``NCMEC''; and
+                    (E) by striking ``from the effort'' and inserting 
+                ``from the efforts'';
+            (3) in subsection (b)--
+                    (A) by striking ``the National Center for Missing 
+                and Exploited Children'' and inserting ``NCMEC'';
+                    (B) by striking ``such center'' and inserting 
+                ``NCMEC''; and
+                    (C) by striking ``(42 U.S.C. 5773)'' and inserting 
+                ``(34 U.S.C. 11293)''; and
+            (4) in subsection (d)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``The National Center for Missing and Exploited 
+                Children'' and inserting ``NCMEC''; and
+                    (B) by striking ``image'' each place it appears and 
+                inserting ``visual depiction''.
+SEC. 6. DEFINITIONS.
+
+    Section 2258E of title 18, United States Code, is amended--
+            (1) in the matter preceding paragraph (1), by striking 
+        ``2258D'' and inserting ``2258E'';
+            (2) in paragraph (5), by striking ``and'' at the end;
+            (3) by redesignating paragraph (6) as paragraph (8); and
+            (4) by inserting after paragraph (5) the following:
+            ``(6) the term `provider' means an electronic communication 
+        service provider or remote computing service;
+            ``(7) the term `NCMEC' means the National Center for Missing 
+        & Exploited Children; and''.
+SEC. 7. TECHNICAL AND CONFORMING AMENDMENT.
+
+    The table of sections for chapter 110 of title 18, United States 
+Code, <<NOTE: 18 USC 2251 prec.>>  is amended by striking the items 
+relating to sections 2258A, 2258B, 2258C, and 2258D and inserting the 
+following:
+
+``2258A. Reporting requirements of providers.
+``2258B. Limited liability for providers or domain name registrars.
+
+[[Page 132 STAT. 5295]]
+
+``2258C. Use to combat child pornography of technical elements relating 
+           to reports made to the CyberTipline.
+``2258D. Limited liability for NCMEC.''.
+
+    Approved December 21, 2018.
+
+LEGISLATIVE HISTORY--S. 3170:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 164 (2018):
+            Sept. 27, considered and passed Senate.
+            Dec. 12, considered and passed House.
+
+                                  
+

@@ -1,0 +1,2383 @@
+
+[116th Congress Public Law 25]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 133 STAT. 981]]
+
+Public Law 116-25
+116th Congress
+
+                                 An Act
+
+
+ 
+To amend the Internal Revenue Code of 1986 to modernize and improve the 
+   Internal Revenue Service, and for other purposes. <<NOTE: July 1, 
+                         2019 -  [H.R. 3151]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Taxpayer First 
+Act.>> 
+SECTION 1. SHORT TITLE; ETC.
+
+    (a) <<NOTE: 26 USC 1 note.>>  Short Title.--This Act may be cited as 
+the ``Taxpayer First Act''.
+
+    (b) Amendment of 1986 Code.--Except as otherwise expressly provided, 
+whenever in this Act an amendment or repeal is expressed in terms of an 
+amendment to, or repeal of, a section or other provision, the reference 
+shall be considered to be made to a section or other provision of the 
+Internal Revenue Code of 1986.
+    (c) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; etc.
+
+                    TITLE I--PUTTING TAXPAYERS FIRST
+
+                 Subtitle A--Independent Appeals Process
+
+Sec. 1001. Establishment of Internal Revenue Service Independent Office 
+           of Appeals.
+
+                      Subtitle B--Improved Service
+
+Sec. 1101. Comprehensive customer service strategy.
+Sec. 1102. Low-income exception for payments otherwise required in 
+           connection with a submission of an offer-in-compromise.
+
+                    Subtitle C--Sensible Enforcement
+
+Sec. 1201. Internal Revenue Service seizure requirements with respect to 
+           structuring transactions.
+Sec. 1202. Exclusion of interest received in action to recover property 
+           seized by the Internal Revenue Service based on structuring 
+           transaction.
+Sec. 1203. Clarification of equitable relief from joint liability.
+Sec. 1204. Modification of procedures for issuance of third-party 
+           summons.
+Sec. 1205. Private debt collection and special compliance personnel 
+           program.
+Sec. 1206. Reform of notice of contact of third parties.
+Sec. 1207. Modification of authority to issue designated summons.
+Sec. 1208. Limitation on access of non-Internal Revenue Service 
+           employees to returns and return information.
+
+                Subtitle D--Organizational Modernization
+
+Sec. 1301. Office of the National Taxpayer Advocate.
+Sec. 1302. Modernization of Internal Revenue Service organizational 
+           structure.
+
+                      Subtitle E--Other Provisions
+
+Sec. 1401. Return preparation programs for applicable taxpayers.
+Sec. 1402. Provision of information regarding low-income taxpayer 
+           clinics.
+Sec. 1403. Notice from IRS regarding closure of taxpayer assistance 
+           centers.
+
+[[Page 133 STAT. 982]]
+
+Sec. 1404. Rules for seizure and sale of perishable goods restricted to 
+           only perishable goods.
+Sec. 1405. Whistleblower reforms.
+Sec. 1406. Customer service information.
+Sec. 1407. Misdirected tax refund deposits.
+
+                       TITLE II--21ST CENTURY IRS
+
+            Subtitle A--Cybersecurity and Identity Protection
+
+Sec. 2001. Public-private partnership to address identity theft refund 
+           fraud.
+Sec. 2002. Recommendations of Electronic Tax Administration Advisory 
+           Committee regarding identity theft refund fraud.
+Sec. 2003. Information sharing and analysis center.
+Sec. 2004. Compliance by contractors with confidentiality safeguards.
+Sec. 2005. Identity protection personal identification numbers.
+Sec. 2006. Single point of contact for tax-related identity theft 
+           victims.
+Sec. 2007. Notification of suspected identity theft.
+Sec. 2008. Guidelines for stolen identity refund fraud cases.
+Sec. 2009. Increased penalty for improper disclosure or use of 
+           information by preparers of returns.
+
+            Subtitle B--Development of Information Technology
+
+Sec. 2101. Management of Internal Revenue Service information 
+           technology.
+Sec. 2102. Internet platform for Form 1099 filings.
+Sec. 2103. Streamlined critical pay authority for information technology 
+           positions.
+
+  Subtitle C--Modernization of Consent-Based Income Verification System
+
+Sec. 2201. Disclosure of taxpayer information for third-party income 
+           verification.
+Sec. 2202. Limit redisclosures and uses of consent-based disclosures of 
+           tax return information.
+
+             Subtitle D--Expanded Use of Electronic Systems
+
+Sec. 2301. Electronic filing of returns.
+Sec. 2302. Uniform standards for the use of electronic signatures for 
+           disclosure authorizations to, and other authorizations of, 
+           practitioners.
+Sec. 2303. Payment of taxes by debit and credit cards.
+Sec. 2304. Authentication of users of electronic services accounts.
+
+                      Subtitle E--Other Provisions
+
+Sec. 2401. Repeal of provision regarding certain tax compliance 
+           procedures and reports.
+Sec. 2402. Comprehensive training strategy.
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+ Subtitle A--Reform of Laws Governing Internal Revenue Service Employees
+
+Sec. 3001. Prohibition on rehiring any employee of the Internal Revenue 
+           Service who was involuntarily separated from service for 
+           misconduct.
+Sec. 3002. Notification of unauthorized inspection or disclosure of 
+           returns and return information.
+
+         Subtitle B--Provisions Relating to Exempt Organizations
+
+Sec. 3101. Mandatory e-filing by exempt organizations.
+Sec. 3102. Notice required before revocation of tax-exempt status for 
+           failure to file return.
+
+                      Subtitle C--Revenue Provision
+
+Sec. 3201. Increase in penalty for failure to file.
+
+                       TITLE IV--BUDGETARY EFFECTS
+
+Sec. 4001. Determination of budgetary effects.
+
+[[Page 133 STAT. 983]]
+
+                    TITLE I--PUTTING TAXPAYERS FIRST
+
+                 Subtitle A--Independent Appeals Process
+
+SEC. 1001. ESTABLISHMENT OF INTERNAL REVENUE SERVICE INDEPENDENT 
+                          OFFICE OF APPEALS.
+
+    (a) <<NOTE: 26 USC 7803.>>  In General.--Section 7803 is amended by 
+adding at the end the following new subsection:
+
+    ``(e) Independent Office of Appeals.--
+            ``(1) Establishment.--There is established in the Internal 
+        Revenue Service an office to be known as the `Internal Revenue 
+        Service Independent Office of Appeals'.
+            ``(2) Chief of appeals.--
+                    ``(A) In general.--The Internal Revenue Service 
+                Independent Office of Appeals shall be under the 
+                supervision and direction of an official to be known as 
+                the `Chief of Appeals'. The Chief of Appeals shall 
+                report directly to the Commissioner of Internal Revenue 
+                and shall be entitled to compensation at the same rate 
+                as the highest rate of basic pay established for the 
+                Senior Executive Service under section 5382 of title 5, 
+                United States Code.
+                    ``(B) Appointment.--The Chief of Appeals shall be 
+                appointed by the Commissioner of Internal Revenue 
+                without regard to the provisions of title 5, United 
+                States Code, relating to appointments in the competitive 
+                service or the Senior Executive Service.
+                    ``(C) Qualifications.--An individual appointed under 
+                subparagraph (B) shall have experience and expertise 
+                in--
+                          ``(i) administration of, and compliance with, 
+                      Federal tax laws,
+                          ``(ii) a broad range of compliance cases, and
+                          ``(iii) management of large service 
+                      organizations.
+            ``(3) Purposes and duties of office.--It shall be the 
+        function of the Internal Revenue Service Independent Office of 
+        Appeals to resolve Federal tax controversies without litigation 
+        on a basis which--
+                    ``(A) is fair and impartial to both the Government 
+                and the taxpayer,
+                    ``(B) promotes a consistent application and 
+                interpretation of, and voluntary compliance with, the 
+                Federal tax laws, and
+                    ``(C) enhances public confidence in the integrity 
+                and efficiency of the Internal Revenue Service.
+            ``(4) Right of appeal.--The resolution process described in 
+        paragraph (3) shall be generally available to all taxpayers.
+            ``(5) Limitation on designation of cases as not eligible for 
+        referral to independent office of appeals.--
+                    ``(A) <<NOTE: Notice.>>  In general.--If any 
+                taxpayer which is in receipt of a notice of deficiency 
+                authorized under section 6212 requests referral to the 
+                Internal Revenue Service Independent Office of Appeals 
+                and such request is denied, the Commissioner of Internal 
+                Revenue shall provide such taxpayer a written notice 
+                which--
+                          ``(i) provides a detailed description of the 
+                      facts involved, the basis for the decision to deny 
+                      the request,
+
+[[Page 133 STAT. 984]]
+
+                      and a detailed explanation of how the basis of 
+                      such decision applies to such facts, and
+                          ``(ii) describes the procedures prescribed 
+                      under subparagraph (C) for protesting the decision 
+                      to deny the request.
+                    ``(B) Report to congress.--The Commissioner of 
+                Internal Revenue shall submit a written report to 
+                Congress on an annual basis which includes the number of 
+                requests described in subparagraph (A) which were denied 
+                and the reasons (described by category) that such 
+                requests were denied.
+                    ``(C) Procedures for protesting denial of request.--
+                The Commissioner of Internal Revenue shall prescribe 
+                procedures for protesting to the Commissioner of 
+                Internal Revenue a denial of a request described in 
+                subparagraph (A).
+                    ``(D) Not applicable to frivolous positions.--This 
+                paragraph shall not apply to a request for referral to 
+                the Internal Revenue Service Independent Office of 
+                Appeals which is denied on the basis that the issue 
+                involved is a frivolous position (within the meaning of 
+                section 6702(c)).
+            ``(6) Staff.--
+                    ``(A) In general.--All personnel in the Internal 
+                Revenue Service Independent Office of Appeals shall 
+                report to the Chief of Appeals.
+                    ``(B) Access to staff of office of the chief 
+                counsel.--The Chief of Appeals shall have authority to 
+                obtain legal assistance and advice from the staff of the 
+                Office of the Chief Counsel. The Chief Counsel shall 
+                ensure, to the extent practicable, that such assistance 
+                and advice is provided by staff of the Office of the 
+                Chief Counsel who were not involved in the case with 
+                respect to which such assistance and advice is sought 
+                and who are not involved in preparing such case for 
+                litigation.
+            ``(7) Access to case files.--
+                    ``(A) <<NOTE: Deadline.>>  In general.--In any case 
+                in which a conference with the Internal Revenue Service 
+                Independent Office of Appeals has been scheduled upon 
+                request of a specified taxpayer, the Chief of Appeals 
+                shall ensure that such taxpayer is provided access to 
+                the nonprivileged portions of the case file on record 
+                regarding the disputed issues (other than documents 
+                provided by the taxpayer to the Internal Revenue 
+                Service) not later than 10 days before the date of such 
+                conference.
+                    ``(B) <<NOTE: Applicability.>>  Taxpayer election to 
+                expedite conference.--If the taxpayer so elects, 
+                subparagraph (A) shall be applied by substituting `the 
+                date of such conference' for `10 days before the date of 
+                such conference'.
+                    ``(C) Specified taxpayer.--For purposes of this 
+                paragraph--
+                          ``(i) <<NOTE: Definition.>>  In general.--The 
+                      term `specified taxpayer' means--
+                                    ``(I) in the case of any taxpayer 
+                                who is a natural person, a taxpayer 
+                                whose adjusted gross income does not 
+                                exceed $400,000 for the taxable year to 
+                                which the dispute relates, and
+
+[[Page 133 STAT. 985]]
+
+                                    ``(II) in the case of any other 
+                                taxpayer, a taxpayer whose gross 
+                                receipts do not exceed $5 million for 
+                                the taxable year to which the dispute 
+                                relates.
+                          ``(ii) <<NOTE: Applicability.>>  Aggregation 
+                      rule.--Rules similar to the rules of section 
+                      448(c)(2) shall apply for purposes of clause 
+                      (i)(II).''.
+
+    (b) Conforming Amendments.--
+            (1) The following provisions are each amended by striking 
+        ``Internal Revenue Service Office of Appeals'' and inserting 
+        ``Internal Revenue Service Independent Office of Appeals'':
+                    (A) <<NOTE: 26 USC 6015.>>  Section 
+                6015(c)(4)(B)(ii)(I).
+                    (B) Section 6320(b)(1).
+                    (C) Subsections (b)(1) and (d)(3) of section 6330.
+                    (D) Section 6603(d)(3)(B).
+                    (E) Section 6621(c)(2)(A)(i).
+                    (F) Section 7122(e)(2).
+                    (G) Subsections (a), (b)(1), (b)(2), and (c)(1) of 
+                section 7123.
+                    (H) Subsections (c)(7)(B)(i) and (g)(2)(A) of 
+                section 7430.
+                    (I) Section 7522(b)(3).
+                    (J) Section 7612(c)(2)(A).
+            (2) Section 7430(c)(2) is amended by striking ``Internal 
+        Revenue Service Office of Appeals'' each place it appears and 
+        inserting ``Internal Revenue Service Independent Office of 
+        Appeals''.
+            (3) The heading of section 6330(d)(3) is amended by 
+        inserting ``independent'' after ``irs''.
+
+    (c) <<NOTE: 26 USC 7803 note.>>  Other References.--Any reference in 
+any provision of law, or regulation or other guidance, to the Internal 
+Revenue Service Office of Appeals shall be treated as a reference to the 
+Internal Revenue Service Independent Office of Appeals.
+
+    (d) <<NOTE: Applicability.>>  Savings Provisions.--Rules similar to 
+the rules of paragraphs (2) through (6) <<NOTE: 26 USC 7803 note.>>  of 
+section 1001(b) of the Internal Revenue Service Restructuring and Reform 
+Act of 1998 shall apply for purposes of this section (and the amendments 
+made by this section).
+
+    (e) <<NOTE: 26 USC 7803 note.>>  Effective Date.--
+            (1) In general.--Except as otherwise provided in this 
+        subsection, the amendments made by this section shall take 
+        effect on the date of the enactment of this Act.
+            (2) <<NOTE: Applicability. Time period.>>  Access to case 
+        files.--Section 7803(e)(7) of the Internal Revenue Code of 1986, 
+        as added by subsection (a), shall apply to conferences occurring 
+        after the date which is 1 year after the date of the enactment 
+        of this Act.
+
+                      Subtitle B--Improved Service
+
+SEC. 1101. <<NOTE: 26 USC 7804 note. Deadline.>>  COMPREHENSIVE 
+                          CUSTOMER SERVICE STRATEGY.
+
+    (a) In General.--Not later than the date which is 1 year after the 
+date of the enactment of this Act, the Secretary of the Treasury (or the 
+Secretary's delegate) shall submit to Congress a written comprehensive 
+customer service strategy for the Internal Revenue Service. Such 
+strategy shall include--
+            (1) <<NOTE: Plan.>>  a plan to provide assistance to 
+        taxpayers that is secure, designed to meet reasonable taxpayer 
+        expectations, and adopts appropriate best practices of customer 
+        service provided in the
+
+[[Page 133 STAT. 986]]
+
+        private sector, including online services, telephone call back 
+        services, and training of employees providing customer services;
+            (2) <<NOTE: Assessment.>>  a thorough assessment of the 
+        services that the Internal Revenue Service can co-locate with 
+        other Federal services or offer as self-service options;
+            (3) <<NOTE: Proposals. Time periods.>>  proposals to improve 
+        Internal Revenue Service customer service in the short term (the 
+        current and following fiscal year), medium term (approximately 3 
+        to 5 fiscal years), and long term (approximately 10 fiscal 
+        years);
+            (4) <<NOTE: Plan.>>  a plan to update guidance and training 
+        materials for customer service employees of the Internal Revenue 
+        Service, including the Internal Revenue Manual, to reflect such 
+        strategy; and
+            (5) identified metrics and benchmarks for quantitatively 
+        measuring the progress of the Internal Revenue Service in 
+        implementing such strategy.
+
+    (b) <<NOTE: Deadline.>>  Updated Guidance and Training Materials.--
+Not later than 2 years after the date of the enactment of this Act, the 
+Secretary of the Treasury (or the Secretary's delegate) shall make 
+available the updated guidance and training materials described in 
+subsection (a)(4) (including the Internal Revenue Manual). Such updated 
+guidance and training materials (including the Internal Revenue Manual) 
+shall be written in a manner so as to be easily understood by customer 
+service employees of the Internal Revenue Service and shall provide 
+clear instructions.
+SEC. 1102. LOW-INCOME EXCEPTION FOR PAYMENTS OTHERWISE REQUIRED IN 
+                          CONNECTION WITH A SUBMISSION OF AN 
+                          OFFER-IN-COMPROMISE.
+
+    (a) <<NOTE: 26 USC 7122.>>  In General.--Section 7122(c) is amended 
+by adding at the end the following new paragraph:
+            ``(3) Exception for low-income taxpayers.--Paragraph (1), 
+        and any user fee otherwise required in connection with the 
+        submission of an offer-in-compromise, shall not apply to any 
+        offer-in-compromise with respect to a taxpayer who is an 
+        individual with adjusted gross income, as determined for the 
+        most recent taxable year for which such information is 
+        available, which does not exceed 250 percent of the applicable 
+        poverty level (as determined by the Secretary).''.
+
+    (b) <<NOTE: 26 USC 122 note.>>  Effective Date.--The amendment made 
+by this section shall apply to offers-in-compromise submitted after the 
+date of the enactment of this Act.
+
+                    Subtitle C--Sensible Enforcement
+
+SEC. 1201. INTERNAL REVENUE SERVICE SEIZURE REQUIREMENTS WITH 
+                          RESPECT TO STRUCTURING TRANSACTIONS.
+
+    Section 5317(c)(2) of title 31, United States Code, is amended--
+            (1) by striking ``Any property'' and inserting the 
+        following:
+                    ``(A) In general.--Any property''; and
+            (2) by adding at the end the following:
+                    ``(B) Internal revenue service seizure requirements 
+                with respect to structuring transactions.--
+                          ``(i) Property derived from an illegal 
+                      source.--Property may only be seized by the 
+                      Internal Revenue Service pursuant to subparagraph 
+                      (A) by reason of
+
+[[Page 133 STAT. 987]]
+
+                      a claimed violation of section 5324 if the 
+                      property to be seized was derived from an illegal 
+                      source or the funds were structured for the 
+                      purpose of concealing the violation of a criminal 
+                      law or regulation other than section 5324.
+                          ``(ii) <<NOTE: Deadline.>>  Notice.--Not later 
+                      than 30 days after property is seized by the 
+                      Internal Revenue Service pursuant to subparagraph 
+                      (A), the Internal Revenue Service shall--
+                                    ``(I) make a good faith effort to 
+                                find all persons with an ownership 
+                                interest in such property; and
+                                    ``(II) provide each such person so 
+                                found with a notice of the seizure and 
+                                of the person's rights under clause 
+                                (iv).
+                          ``(iii) Extension of notice under certain 
+                      circumstances.--The Internal Revenue Service may 
+                      apply to a court of competent jurisdiction for one 
+                      30-day extension of the notice requirement under 
+                      clause (ii) if the Internal Revenue Service can 
+                      establish probable cause of an imminent threat to 
+                      national security or personal safety necessitating 
+                      such extension.
+                          ``(iv) <<NOTE: Time period.>>  Post-seizure 
+                      hearing.--If a person with an ownership interest 
+                      in property seized pursuant to subparagraph (A) by 
+                      the Internal Revenue Service requests a hearing by 
+                      a court of competent jurisdiction within 30 days 
+                      after the date on which notice is provided under 
+                      subclause (ii), such property shall be returned 
+                      unless the court holds an adversarial hearing and 
+                      finds within 30 days of such request (or such 
+                      longer period as the court may provide, but only 
+                      on request of an interested party) that there is 
+                      probable cause to believe that there is a 
+                      violation of section 5324 involving such property 
+                      and probable cause to believe that the property to 
+                      be seized was derived from an illegal source or 
+                      the funds were structured for the purpose of 
+                      concealing the violation of a criminal law or 
+                      regulation other than section 5324.''.
+SEC. 1202. EXCLUSION OF INTEREST RECEIVED IN ACTION TO RECOVER 
+                          PROPERTY SEIZED BY THE INTERNAL REVENUE 
+                          SERVICE BASED ON STRUCTURING 
+                          TRANSACTION.
+
+    (a) In General.--Part III of subchapter B of chapter 1 is amended by 
+inserting before section 140 the following new section:
+``SEC. 139H. <<NOTE: 26 USC 139H.>>  INTEREST RECEIVED IN ACTION 
+                          TO RECOVER PROPERTY SEIZED BY THE 
+                          INTERNAL REVENUE SERVICE BASED ON 
+                          STRUCTURING TRANSACTION.
+
+    ``Gross income shall not include any interest received from the 
+Federal Government in connection with an action to recover property 
+seized by the Internal Revenue Service pursuant to section 5317(c)(2) of 
+title 31, United States Code, by reason of a claimed violation of 
+section 5324 of such title.''.
+
+[[Page 133 STAT. 988]]
+
+    (b) Clerical Amendment.--The table of sections for part III of 
+subchapter B of chapter 1 <<NOTE: 26 USC 101 prec.>>  is amended by 
+inserting before the item relating to section 140 the following new 
+item:
+
+``Sec. 139H. Interest received in action to recover property seized by 
+           the Internal Revenue Service based on structuring 
+           transaction.''.
+
+    (c) <<NOTE: 26 USC 139H note.>>  Effective Date.--The amendments 
+made by this section shall apply to interest received on or after the 
+date of the enactment of this Act.
+SEC. 1203. CLARIFICATION OF EQUITABLE RELIEF FROM JOINT LIABILITY.
+
+    (a) <<NOTE: 26 USC 6015.>>  In General.--Section 6015 is amended--
+            (1) in subsection (e), by adding at the end the following 
+        new paragraph:
+            ``(7) Standard and scope of review.--Any review of a 
+        determination made under this section shall be reviewed de novo 
+        by the Tax Court and shall be based upon--
+                    ``(A) the administrative record established at the 
+                time of the determination, and
+                    ``(B) any additional newly discovered or previously 
+                unavailable evidence.''; and
+            (2) by amending subsection (f) to read as follows:
+
+    ``(f) Equitable Relief.--
+            ``(1) In general.--Under procedures prescribed by the 
+        Secretary, if--
+                    ``(A) taking into account all the facts and 
+                circumstances, it is inequitable to hold the individual 
+                liable for any unpaid tax or any deficiency (or any 
+                portion of either), and
+                    ``(B) relief is not available to such individual 
+                under subsection (b) or (c),
+        the Secretary may relieve such individual of such liability.
+            ``(2) Limitation.--A request for equitable relief under this 
+        subsection may be made with respect to any portion of any 
+        liability that--
+                    ``(A) has not been paid, provided that such request 
+                is made before the expiration of the applicable period 
+                of limitation under section 6502, or
+                    ``(B) has been paid, provided that such request is 
+                made during the period in which the individual could 
+                submit a timely claim for refund or credit of such 
+                payment.''.
+
+    (b) <<NOTE: 26 USC 6015 note.>>  Effective Date.--The amendments 
+made by this section shall apply to petitions or requests filed or 
+pending on or after the date of the enactment of this Act.
+SEC. 1204. MODIFICATION OF PROCEDURES FOR ISSUANCE OF THIRD-PARTY 
+                          SUMMONS.
+
+    (a) In General.--Section 7609(f) is amended by adding at the end the 
+following flush sentence:
+``The Secretary shall not issue any summons described in the preceding 
+sentence unless the information sought to be obtained is narrowly 
+tailored to information that pertains to the failure (or potential 
+failure) of the person or group or class of persons referred to in 
+paragraph (2) to comply with one or more provisions of the internal 
+revenue law which have been identified for purposes of such 
+paragraph.''.
+
+[[Page 133 STAT. 989]]
+
+    (b) <<NOTE: Applicability. Time period. 26 USC 7609.>>  Effective 
+Date.--The amendments made by this section shall apply to summonses 
+served after the date that is 45 days after the date of the enactment of 
+this Act.
+SEC. 1205. PRIVATE DEBT COLLECTION AND SPECIAL COMPLIANCE 
+                          PERSONNEL PROGRAM.
+
+    (a) Certain Tax Receivables Not Eligible for Collection Under Tax 
+Collection Contracts.--Section 6306(d)(3) <<NOTE: 26 USC 6306.>>  is 
+amended by striking ``or'' at the end of subparagraph (C) and by 
+inserting after subparagraph (D) the following new subparagraphs:
+                    ``(E) a taxpayer substantially all of whose income 
+                consists of disability insurance benefits under section 
+                223 of the Social Security Act or supplemental security 
+                income benefits under title XVI of the Social Security 
+                Act (including supplemental security income benefits of 
+                the type described in section 1616 of such Act or 
+                section 212 of Public Law 93-66), or
+                    ``(F) a taxpayer who is an individual with adjusted 
+                gross income, as determined for the most recent taxable 
+                year for which such information is available, which does 
+                not exceed 200 percent of the applicable poverty level 
+                (as determined by the Secretary),''.
+
+    (b) Determination of Inactive Tax Receivables Eligible for 
+Collection Under Tax Collection Contracts.--Section 6306(c)(2)(A)(ii) is 
+amended by striking ``more than \1/3\ of the period of the applicable 
+statute of limitation has lapsed'' and inserting ``more than 2 years has 
+passed since assessment''.
+    (c) Maximum Length of Installment Agreements Offered Under Tax 
+Collection Contracts.--Section 6306(b)(1)(B) is amended by striking ``5 
+years'' and inserting ``7 years''.
+    (d) Clarification That Special Compliance Personnel Program Account 
+May Be Used for Program Costs.--
+            (1) In general.--Section 6307(b) is amended--
+                    (A) in paragraph (2), by striking all that follows 
+                ``under such program'' and inserting a period, and
+                    (B) in paragraph (3), by striking all that follows 
+                ``out of such account'' and inserting ``for other than 
+                program costs.''.
+            (2) Communications, software, and technology costs treated 
+        as program costs.--Section 6307(d)(2)(B) is amended by striking 
+        ``telecommunications'' and inserting ``communications, software, 
+        technology''.
+            (3) Conforming amendment.--Section 6307(d)(2) is amended by 
+        striking ``and'' at the end of subparagraph (A), by striking the 
+        period at the end of subparagraph (B) and inserting ``, and'', 
+        and by inserting after subparagraph (B) the following new 
+        subparagraph:
+                    ``(C) reimbursement of the Internal Revenue Service 
+                or other government agencies for the cost of 
+                administering the qualified tax collection program under 
+                section 6306.''.
+
+    (e) <<NOTE: Applicability. 26 USC 6306 note.>>  Effective Dates.--
+            (1) In general.--Except as otherwise provided in this 
+        subsection, the amendments made by this section shall apply to 
+        tax receivables identified by the Secretary (or the Secretary's 
+        delegate) after December 31, 2020.
+
+[[Page 133 STAT. 990]]
+
+            (2) Maximum length of installment agreements.--The amendment 
+        made by subsection (c) shall apply to contracts entered into 
+        after the date of the enactment of this Act.
+            (3) Use of special compliance personnel program account.--
+        The amendment made by subsection (d) shall apply to amounts 
+        expended from the special compliance personnel program account 
+        after the date of the enactment of this Act.
+SEC. 1206. REFORM OF NOTICE OF CONTACT OF THIRD PARTIES.
+
+    (a) <<NOTE: 26 USC 7602.>>  In General.--Section 7602(c)(1) is 
+amended to read as follows:
+            ``(1) <<NOTE: Time period.>>  General notice.--An officer or 
+        employee of the Internal Revenue Service may not contact any 
+        person other than the taxpayer with respect to the determination 
+        or collection of the tax liability of such taxpayer unless such 
+        contact occurs during a period (not greater than 1 year) which 
+        is specified in a notice which--
+                    ``(A) informs the taxpayer that contacts with 
+                persons other than the taxpayer are intended to be made 
+                during such period, and
+                    ``(B) <<NOTE: Deadline.>>  except as otherwise 
+                provided by the Secretary, is provided to the taxpayer 
+                not later than 45 days before the beginning of such 
+                period.
+        Nothing in the preceding sentence shall prevent the issuance of 
+        notices to the same taxpayer with respect to the same tax 
+        liability with periods specified therein that, in the aggregate, 
+        exceed 1 year. A notice shall not be issued under this paragraph 
+        unless there is an intent at the time such notice is issued to 
+        contact persons other than the taxpayer during the period 
+        specified in such notice. The preceding sentence shall not 
+        prevent the issuance of a notice if the requirement of such 
+        sentence is met on the basis of the assumption that the 
+        information sought to be obtained by such contact will not be 
+        obtained by other means before such contact.''.
+
+    (b) <<NOTE: Applicability. Time period. 26 USC 7602 note.>>  
+Effective Date.--The amendment made by this section shall apply to 
+notices provided, and contacts of persons made, after the date which is 
+45 days after the date of the enactment of this Act.
+SEC. 1207. MODIFICATION OF AUTHORITY TO ISSUE DESIGNATED SUMMONS.
+
+    (a) In General.--Paragraph (1) of section 6503(j) is amended by 
+striking ``coordinated examination program'' and inserting ``coordinated 
+industry case program''.
+    (b) Requirements for Summons.--Clause (i) of section 6503(j)(2)(A) 
+is amended to read as follows:
+                          ``(i) the issuance of such summons is preceded 
+                      by a review and written approval of such issuance 
+                      by the Commissioner of the relevant operating 
+                      division of the Internal Revenue Service and the 
+                      Chief Counsel which--
+                                    ``(I) states facts clearly 
+                                establishing that the Secretary has made 
+                                reasonable requests for the information 
+                                that is the subject of the summons, and
+                                    ``(II) is attached to such 
+                                summons,''.
+
+[[Page 133 STAT. 991]]
+
+    (c) Establishment That Reasonable Requests for Information Were 
+Made.--Subsection (j) of section 6503 <<NOTE: 26 USC 6503.>>  is amended 
+by adding at the end the following new paragraph:
+            ``(4) Establishment that reasonable requests for information 
+        were made.--In any court proceeding described in paragraph (3), 
+        the Secretary shall establish that reasonable requests were made 
+        for the information that is the subject of the summons.''.
+
+    (d) <<NOTE: Applicability. Time period. 26 USC 6503 note.>>  
+Effective Date.--The amendments made by this section shall apply to 
+summonses issued after the date which is 45 days after the date of the 
+enactment of this Act.
+SEC. 1208. LIMITATION ON ACCESS OF NON-INTERNAL REVENUE SERVICE 
+                          EMPLOYEES TO RETURNS AND RETURN 
+                          INFORMATION.
+
+    (a) In General.--Section 7602 is amended by adding at the end the 
+following new subsection:
+    ``(f) Limitation on Access of Persons Other Than Internal Revenue 
+Service Officers and Employees.--The Secretary shall not, under the 
+authority of section 6103(n), provide any books, papers, records, or 
+other data obtained pursuant to this section to any person authorized 
+under section 6103(n), except when such person requires such information 
+for the sole purpose of providing expert evaluation and assistance to 
+the Internal Revenue Service. No person other than an officer or 
+employee of the Internal Revenue Service or the Office of Chief Counsel 
+may, on behalf of the Secretary, question a witness under oath whose 
+testimony was obtained pursuant to this section.''.
+    (b) <<NOTE: 26 USC 7602 note.>>  Effective Date.--The amendment made 
+by this section--
+            (1) shall take effect on the date of the enactment of this 
+        Act; and
+            (2) <<NOTE: Applicability.>>  shall not fail to apply to a 
+        contract in effect under section 6103(n) of the Internal Revenue 
+        Code of 1986 merely because such contract was in effect before 
+        the date of the enactment of this Act.
+
+                Subtitle D--Organizational Modernization
+
+SEC. 1301. OFFICE OF THE NATIONAL TAXPAYER ADVOCATE.
+
+    (a) Taxpayer Advocate Directives.--
+            (1) In general.--Section 7803(c) is amended by adding at the 
+        end the following new paragraph:
+            ``(5) <<NOTE: Deadlines.>>  Taxpayer advocate directives.--
+        In the case of any Taxpayer Advocate Directive issued by the 
+        National Taxpayer Advocate pursuant to a delegation of authority 
+        from the Commissioner of Internal Revenue--
+                    ``(A) the Commissioner or a Deputy Commissioner 
+                shall modify, rescind, or ensure compliance with such 
+                directive not later than 90 days after the issuance of 
+                such directive, and
+                    ``(B) in the case of any directive which is modified 
+                or rescinded by a Deputy Commissioner, the National 
+                Taxpayer Advocate may (not later than 90 days after such 
+                modification or rescission) appeal to the Commissioner, 
+                and the Commissioner shall (not later than 90 days after 
+                such appeal is made) ensure compliance with such 
+                directive
+
+[[Page 133 STAT. 992]]
+
+                as issued by the National Taxpayer Advocate or provide 
+                the National Taxpayer Advocate with the reasons for any 
+                modification or rescission made or upheld by the 
+                Commissioner pursuant to such appeal.''.
+            (2) Report to certain committees of congress regarding 
+        directives.--Section 7803(c)(2)(B)(ii) <<NOTE: 26 USC 7803.>>  
+        is amended by redesignating subclauses (VIII) through (XI) as 
+        subclauses (IX) through (XII), respectively, and by inserting 
+        after subclause (VII) the following new subclause:
+                                    ``(VIII) identify any Taxpayer 
+                                Advocate Directive which was not honored 
+                                by the Internal Revenue Service in a 
+                                timely manner, as specified under 
+                                paragraph (5);''.
+
+    (b) National Taxpayer Advocate Annual Reports to Congress.--
+            (1) Inclusion of most serious taxpayer problems.--Section 
+        7803(c)(2)(B)(ii)(III) is amended by striking ``at least 20 of 
+        the'' and inserting ``the 10''.
+            (2) Coordination with treasury inspector general for tax 
+        administration.--Section 7803(c)(2) is amended by adding at the 
+        end the following new subparagraph:
+                    ``(E) Coordination with treasury inspector general 
+                for tax administration.--Before beginning any research 
+                or study, the National Taxpayer Advocate shall 
+                coordinate with the Treasury Inspector General for Tax 
+                Administration to ensure that the National Taxpayer 
+                Advocate does not duplicate any action that the Treasury 
+                Inspector General for Tax Administration has already 
+                undertaken or has a plan to undertake.''.
+            (3) Statistical support.--
+                    (A) In general.--Section 6108 is amended by adding 
+                at the end the following new subsection:
+
+    ``(d) Statistical Support for National Taxpayer Advocate.--Upon 
+request of the National Taxpayer Advocate, the Secretary shall, to the 
+extent practicable, provide the National Taxpayer Advocate with 
+statistical support in connection with the preparation by the National 
+Taxpayer Advocate of the annual report described in section 
+7803(c)(2)(B)(ii). Such statistical support shall include statistical 
+studies, compilations, and the review of information provided by the 
+National Taxpayer Advocate for statistical validity and sound 
+statistical methodology.''.
+                    (B) Disclosure of review.--Section 
+                7803(c)(2)(B)(ii), as amended by subsection (a), is 
+                amended by striking ``and'' at the end of subclause 
+                (XI), by redesignating subclause (XII) as subclause 
+                (XIII), and by inserting after subclause (XI) the 
+                following new subclause:
+                                    ``(XII) with respect to any 
+                                statistical information included in such 
+                                report, include a statement of whether 
+                                such statistical information was 
+                                reviewed or provided by the Secretary 
+                                under section 6108(d) and, if so, 
+                                whether the Secretary determined such 
+                                information to be statistically valid 
+                                and based on sound statistical 
+                                methodology; and''.
+                    (C) Conforming amendment.--Section 
+                7803(c)(2)(B)(iii) is amended by adding at the end the 
+                following: ``The preceding sentence shall not apply with
+
+[[Page 133 STAT. 993]]
+
+                respect to statistical information provided to the 
+                Secretary for review, or received from the Secretary, 
+                under section 6108(d).''.
+
+    (c) Salary of National Taxpayer Advocate.--Section 7803(c)(1)(B)(i) 
+is amended <<NOTE: 26 USC 7803.>>  by striking ``, or, if the Secretary 
+of the Treasury so determines, at a rate fixed under section 9503 of 
+such title''.
+
+    (d) <<NOTE: 26 USC 6108 note.>>  Effective Date.--
+            (1) In general.--Except as otherwise provided in this 
+        subsection, the amendments made by this section shall take 
+        effect on the date of the enactment of this Act.
+            (2) <<NOTE: Applicability.>>  Salary of national taxpayer 
+        advocate.--The amendment made by subsection (c) shall apply to 
+        compensation paid to individuals appointed as the National 
+        Taxpayer Advocate after March 31, 2019.
+SEC. <<NOTE: 26 USC 7801 note.>>  1302. MODERNIZATION OF INTERNAL 
+                          REVENUE SERVICE ORGANIZATIONAL 
+                          STRUCTURE.
+
+    (a) <<NOTE: Deadline. Plan.>>  In General.--Not later than September 
+30, 2020, the Secretary of the Treasury (or the Secretary's delegate) 
+shall submit to Congress a comprehensive written plan to redesign the 
+organization of the Internal Revenue Service. Such plan shall--
+            (1) ensure the successful implementation of the priorities 
+        specified by Congress in this Act;
+            (2) prioritize taxpayer services to ensure that all 
+        taxpayers easily and readily receive the assistance that they 
+        need;
+            (3) streamline the structure of the agency including 
+        minimizing the duplication of services and responsibilities 
+        within the agency;
+            (4) best position the Internal Revenue Service to combat 
+        cybersecurity and other threats to the Internal Revenue Service; 
+        and
+            (5) address whether the Criminal Investigation Division of 
+        the Internal Revenue Service should report directly to the 
+        Commissioner of Internal Revenue.
+
+    (b) Repeal of Restriction on Organizational Structure of Internal 
+Revenue Service.--Paragraph (3) <<NOTE: Termination date.>>  of section 
+1001(a) of the Internal Revenue Service Restructuring and Reform Act of 
+1998 shall cease to apply beginning 1 year after the date on which the 
+plan described in subsection (a) is submitted to Congress.
+
+                      Subtitle E--Other Provisions
+
+SEC. 1401. RETURN PREPARATION PROGRAMS FOR APPLICABLE TAXPAYERS.
+
+    (a) In General.--Chapter 77 is amended by inserting after section 
+7526 the following new section:
+``SEC. <<NOTE: 26 USC 7526A.>>  7526A. RETURN PREPARATION PROGRAMS 
+                            FOR APPLICABLE TAXPAYERS.
+
+    ``(a) Establishment of Volunteer Income Tax Assistance Matching 
+Grant Program.--The Secretary shall establish a Community Volunteer 
+Income Tax Assistance Matching Grant Program under which the Secretary 
+may, subject to the availability of appropriated funds, make grants to 
+provide matching funds for the development, expansion, or continuation 
+of qualified return
+
+[[Page 133 STAT. 994]]
+
+preparation programs assisting applicable taxpayers and members of 
+underserved populations.
+    ``(b) Use of Funds.--
+            ``(1) In general.--Qualified return preparation programs may 
+        use grants received under this section for--
+                    ``(A) ordinary and necessary costs associated with 
+                program operation in accordance with cost principles 
+                under the applicable Office of Management and Budget 
+                circular, including--
+                          ``(i) wages or salaries of persons 
+                      coordinating the activities of the program,
+                          ``(ii) developing training materials, 
+                      conducting training, and performing quality 
+                      reviews of the returns prepared under the program,
+                          ``(iii) equipment purchases, and
+                          ``(iv) vehicle-related expenses associated 
+                      with remote or rural tax preparation services,
+                    ``(B) outreach and educational activities described 
+                in subsection (c)(2)(B), and
+                    ``(C) services related to financial education and 
+                capability, asset development, and the establishment of 
+                savings accounts in connection with tax return 
+                preparation.
+            ``(2) Requirement of matching funds.--A qualified return 
+        preparation program must provide matching funds on a dollar-for-
+        dollar basis for all grants provided under this section. 
+        Matching funds may include--
+                    ``(A) the salary (including fringe benefits) of 
+                individuals performing services for the program,
+                    ``(B) the cost of equipment used in the program, and
+                    ``(C) other ordinary and necessary costs associated 
+                with the program.
+        Indirect expenses, including general overhead of any entity 
+        administering the program, shall not be counted as matching 
+        funds.
+
+    ``(c) Application.--
+            ``(1) In general.--Each applicant for a grant under this 
+        section shall submit an application to the Secretary at such 
+        time, in such manner, and containing such information as the 
+        Secretary may reasonably require.
+            ``(2) Priority.--In awarding grants under this section, the 
+        Secretary shall give priority to applications which 
+        demonstrate--
+                    ``(A) assistance to applicable taxpayers, with 
+                emphasis on outreach to, and services for, such 
+                taxpayers,
+                    ``(B) taxpayer outreach and educational activities 
+                relating to eligibility and availability of income 
+                supports available through this title, including the 
+                earned income tax credit, and
+                    ``(C) specific outreach and focus on one or more 
+                underserved populations.
+            ``(3) Amounts taken into account.--In determining matching 
+        grants under this section, the Secretary shall only take into 
+        account amounts provided by the qualified return preparation 
+        program for expenses described in subsection (b).
+
+    ``(d) Program Adherence.--
+            ``(1) <<NOTE: Procedures. Time period.>>  In general.--The 
+        Secretary shall establish procedures for, and shall conduct not 
+        less frequently than once every
+
+[[Page 133 STAT. 995]]
+
+        5 calendar years during which a qualified return preparation 
+        program is operating under a grant under this section, periodic 
+        site visits--
+                    ``(A) to ensure the program is carrying out the 
+                purposes of this section, and
+                    ``(B) <<NOTE: Determination.>>  to determine whether 
+                the program meets such program adherence standards as 
+                the Secretary shall by regulation or other guidance 
+                prescribe.
+            ``(2) Additional requirements for grant recipients not 
+        meeting program adherence standards.--In the case of any 
+        qualified return preparation program which--
+                    ``(A) is awarded a grant under this section, and
+                    ``(B) is subsequently determined--
+                          ``(i) not to meet the program adherence 
+                      standards described in paragraph (1)(B), or
+                          ``(ii) not to be otherwise carrying out the 
+                      purposes of this section,
+        such program shall not be eligible for any additional grants 
+        under this section unless such program provides sufficient 
+        documentation of corrective measures established to address any 
+        such deficiencies determined.
+
+    ``(e) Definitions.--For purposes of this section--
+            ``(1) Qualified return preparation program.--The term 
+        `qualified return preparation program' means any program--
+                    ``(A) which provides assistance to individuals, not 
+                less than 90 percent of whom are applicable taxpayers, 
+                in preparing and filing Federal income tax returns,
+                    ``(B) which is administered by a qualified entity,
+                    ``(C) in which all volunteers who assist in the 
+                preparation of Federal income tax returns meet the 
+                training requirements prescribed by the Secretary, and
+                    ``(D) which uses a quality review process which 
+                reviews 100 percent of all returns.
+            ``(2) Qualified entity.--
+                    ``(A) In general.--The term `qualified entity' means 
+                any entity which--
+                          ``(i) is an eligible organization,
+                          ``(ii) is in compliance with Federal tax 
+                      filing and payment requirements,
+                          ``(iii) is not debarred or suspended from 
+                      Federal contracts, grants, or cooperative 
+                      agreements, and
+                          ``(iv) agrees to provide documentation to 
+                      substantiate any matching funds provided pursuant 
+                      to the grant program under this section.
+                    ``(B) Eligible organization.--The term `eligible 
+                organization' means--
+                          ``(i) an institution of higher education which 
+                      is described in section 102 (other than subsection 
+                      (a)(1)(C) thereof) of the Higher Education Act of 
+                      1965 (20 U.S.C. 1002), as in effect on the date of 
+                      the enactment of this section, and which has not 
+                      been disqualified from participating in a program 
+                      under title IV of such Act,
+                          ``(ii) an organization described in section 
+                      501(c) and exempt from tax under section 501(a),
+                          ``(iii) a local government agency, including--
+                                    ``(I) a county or municipal 
+                                government agency, and
+
+[[Page 133 STAT. 996]]
+
+                                    ``(II) an Indian tribe, as defined 
+                                in section 4(13) of the Native American 
+                                Housing Assistance and Self-
+                                Determination Act of 1996 (25 U.S.C. 
+                                4103(13)), including any tribally 
+                                designated housing entity (as defined in 
+                                section 4(22) of such Act (25 U.S.C. 
+                                4103(22))), tribal subsidiary, 
+                                subdivision, or other wholly owned 
+                                tribal entity,
+                          ``(iv) a local, State, regional, or national 
+                      coalition (with one lead organization which meets 
+                      the eligibility requirements of clause (i), (ii), 
+                      or (iii) acting as the applicant organization), or
+                          ``(v) in the case of applicable taxpayers and 
+                      members of underserved populations with respect to 
+                      which no organizations described in the preceding 
+                      clauses are available--
+                                    ``(I) a State government agency, or
+                                    ``(II) an office providing 
+                                Cooperative Extension services (as 
+                                established at the land-grant colleges 
+                                and universities under the Smith-Lever 
+                                Act of May 8, 1914).
+            ``(3) Applicable taxpayers.--The term `applicable taxpayer' 
+        means a taxpayer whose income for the taxable year does not 
+        exceed an amount equal to the completed phaseout amount under 
+        section 32(b) for a married couple filing a joint return with 
+        three or more qualifying children, as determined in a revenue 
+        procedure or other published guidance.
+            ``(4) Underserved population.--The term `underserved 
+        population' includes populations of persons with disabilities, 
+        persons with limited English proficiency, Native Americans, 
+        individuals living in rural areas, members of the Armed Forces 
+        and their spouses, and the elderly.
+
+    ``(f) Special Rules and Limitations.--
+            ``(1) Duration of grants.--Upon application of a qualified 
+        return preparation program, the Secretary is authorized to award 
+        a multi-year grant not to exceed 3 years.
+            ``(2) Aggregate limitation.--Unless otherwise provided by 
+        specific appropriation, the Secretary shall not allocate more 
+        than $30 million per fiscal year (exclusive of costs of 
+        administering the program) to grants under this section.
+
+    ``(g) Promotion of Programs.--
+            ``(1) In general.--The Secretary shall promote tax 
+        preparation through qualified return preparation programs 
+        through the use of mass communications and other means.
+            ``(2) Provision of information regarding qualified return 
+        preparation programs.--The Secretary may provide taxpayers 
+        information regarding qualified return preparation programs 
+        receiving grants under this section.
+            ``(3) Referrals to low-income taxpayer clinics.--Qualified 
+        return preparation programs receiving a grant under this section 
+        are encouraged, in appropriate cases, to--
+                    ``(A) advise taxpayers of the availability of, and 
+                eligibility requirements for receiving, advice and 
+                assistance from qualified low-income taxpayer clinics 
+                receiving funding under section 7526, and
+                    ``(B) provide information regarding the location of, 
+                and contact information for, such clinics.''.
+
+[[Page 133 STAT. 997]]
+
+    (b) Clerical Amendment.--The table of sections for chapter 77 
+is <<NOTE: 26 USC 7501 prec.>> amended by inserting after the item 
+relating to section 7526 the following new item:
+
+``Sec. 7526A. Return preparation programs for applicable taxpayers.''.
+
+SEC. 1402. PROVISION OF INFORMATION REGARDING LOW-INCOME TAXPAYER 
+                          CLINICS.
+
+    (a) In General.--Section 7526(c) is amended by adding at the end the 
+following new paragraph:
+            ``(6) Provision of information regarding qualified low-
+        income taxpayer clinics.--Notwithstanding any other provision of 
+        law, officers and employees of the Department of the Treasury 
+        may--
+                    ``(A) advise taxpayers of the availability of, and 
+                eligibility requirements for receiving, advice and 
+                assistance from one or more specific qualified low-
+                income taxpayer clinics receiving funding under this 
+                section, and
+                    ``(B) provide information regarding the location of, 
+                and contact information for, such clinics.''.
+
+    (b) <<NOTE: 26 USC 7526 note.>>  Effective Date.--The amendment made 
+by this section shall take effect on the date of the enactment of this 
+Act.
+SEC. 1403. <<NOTE: 26 USC 7801 note.>>  NOTICE FROM IRS REGARDING 
+                          CLOSURE OF TAXPAYER ASSISTANCE CENTERS.
+
+    Not <<NOTE: Deadline.>>  later than 90 days before the date that a 
+proposed closure of a Taxpayer Assistance Center would take effect, the 
+Secretary of the Treasury (or the Secretary's delegate) shall--
+            (1) <<NOTE: Public information.>>  make publicly available 
+        (including by non-electronic means) a notice which--
+                    (A) identifies the Taxpayer Assistance Center 
+                proposed for closure and the date of such proposed 
+                closure; and
+                    (B) identifies the relevant alternative sources of 
+                taxpayer assistance which may be utilized by taxpayers 
+                affected by such proposed closure; and
+            (2) <<NOTE: Reports.>>  submit to Congress a written report 
+        that includes--
+                    (A) the information included in the notice described 
+                in paragraph (1);
+                    (B) the reasons for such proposed closure; and
+                    (C) such other information as the Secretary may 
+                determine appropriate.
+SEC. 1404. RULES FOR SEIZURE AND SALE OF PERISHABLE GOODS 
+                          RESTRICTED TO ONLY PERISHABLE GOODS.
+
+    (a) In General.--Section 6336 is amended by striking ``or become 
+greatly reduced in price or value by keeping, or that such property 
+cannot be kept without great expense''.
+    (b) <<NOTE: 26 USC 6336 note.>>  Effective Date.--The amendment made 
+by this section shall apply to property seized after the date of the 
+enactment of this Act.
+SEC. 1405. WHISTLEBLOWER REFORMS.
+
+    (a) Modifications to Disclosure Rules for Whistleblowers.--
+            (1) In general.--Section 6103(k) is amended by adding at the 
+        end the following new paragraph:
+            ``(13) Disclosure to whistleblowers.--
+                    ``(A) In general.--The Secretary may disclose, to 
+                any individual providing information relating to any 
+                purpose
+
+[[Page 133 STAT. 998]]
+
+                described in paragraph (1) or (2) of section 7623(a), 
+                return information related to the investigation of any 
+                taxpayer with respect to whom the individual has 
+                provided such information, but only to the extent that 
+                such disclosure is necessary in obtaining information, 
+                which is not otherwise reasonably available, with 
+                respect to the correct determination of tax liability 
+                for tax, or the amount to be collected with respect to 
+                the enforcement of any other provision of this title.
+                    ``(B) <<NOTE: Deadlines.>>  Updates on whistleblower 
+                investigations.--The Secretary shall disclose to an 
+                individual providing information relating to any purpose 
+                described in paragraph (1) or (2) of section 7623(a) the 
+                following:
+                          ``(i) Not later than 60 days after a case for 
+                      which the individual has provided information has 
+                      been referred for an audit or examination, a 
+                      notice with respect to such referral.
+                          ``(ii) Not later than 60 days after a taxpayer 
+                      with respect to whom the individual has provided 
+                      information has made a payment of tax with respect 
+                      to tax liability to which such information 
+                      relates, a notice with respect to such payment.
+                          ``(iii) Subject to such requirements and 
+                      conditions as are prescribed by the Secretary, 
+                      upon a written request by such individual--
+                                    ``(I) information on the status and 
+                                stage of any investigation or action 
+                                related to such information, and
+                                    ``(II) in the case of a 
+                                determination of the amount of any award 
+                                under section 7623(b), the reasons for 
+                                such determination.
+                Clause (iii) shall not apply to any information if the 
+                Secretary determines that disclosure of such information 
+                would seriously impair Federal tax administration. 
+                Information described in clauses (i), (ii), and (iii) 
+                may be disclosed to a designee of the individual 
+                providing such information in accordance with guidance 
+                provided by the Secretary.''.
+            (2) Conforming amendments.--
+                    (A) Confidentiality of information.--Section 
+                6103(a)(3) is amended <<NOTE: 26 USC 6103.>>  by 
+                striking ``subsection (k)(10)'' and inserting 
+                ``paragraph (10) or (13) of subsection (k)''.
+                    (B) Penalty for unauthorized disclosure.--Section 
+                7213(a)(2) is amended by striking ``(k)(10)'' and 
+                inserting ``(k)(10) or (13)''.
+                    (C) Coordination with authority to disclose for 
+                investigative purposes.--Section 6103(k)(6) is amended 
+                by adding at the end the following new sentence: ``This 
+                paragraph shall not apply to any disclosure to an 
+                individual providing information relating to any purpose 
+                described in paragraph (1) or (2) of section 7623(a) 
+                which is made under paragraph (13)(A).''.
+
+    (b) Protection Against Retaliation.--Section 7623 is amended by 
+adding at the end the following new subsection:
+    ``(d) Civil Action To Protect Against Retaliation Cases.--
+            ``(1) Anti-retaliation whistleblower protection for 
+        employees.--No employer, or any officer, employee, contractor, 
+        subcontractor, or agent of such employer, may discharge,
+
+[[Page 133 STAT. 999]]
+
+        demote, suspend, threaten, harass, or in any other manner 
+        discriminate against an employee in the terms and conditions of 
+        employment (including through an act in the ordinary course of 
+        such employee's duties) in reprisal for any lawful act done by 
+        the employee--
+                    ``(A) to provide information, cause information to 
+                be provided, or otherwise assist in an investigation 
+                regarding underpayment of tax or any conduct which the 
+                employee reasonably believes constitutes a violation of 
+                the internal revenue laws or any provision of Federal 
+                law relating to tax fraud, when the information or 
+                assistance is provided to the Internal Revenue Service, 
+                the Secretary of the Treasury, the Treasury Inspector 
+                General for Tax Administration, the Comptroller General 
+                of the United States, the Department of Justice, the 
+                United States Congress, a person with supervisory 
+                authority over the employee, or any other person working 
+                for the employer who has the authority to investigate, 
+                discover, or terminate misconduct, or
+                    ``(B) to testify, participate in, or otherwise 
+                assist in any administrative or judicial action taken by 
+                the Internal Revenue Service relating to an alleged 
+                underpayment of tax or any violation of the internal 
+                revenue laws or any provision of Federal law relating to 
+                tax fraud.
+            ``(2) Enforcement action.--
+                    ``(A) In general.--A person who alleges discharge or 
+                other reprisal by any person in violation of paragraph 
+                (1) may seek relief under paragraph (3) by--
+                          ``(i) filing a complaint with the Secretary of 
+                      Labor, or
+                          ``(ii) <<NOTE: Time period.>>  if the 
+                      Secretary of Labor has not issued a final decision 
+                      within 180 days of the filing of the complaint and 
+                      there is no showing that such delay is due to the 
+                      bad faith of the claimant, bringing an action at 
+                      law or equity for de novo review in the 
+                      appropriate district court of the United States, 
+                      which shall have jurisdiction over such an action 
+                      without regard to the amount in controversy.
+                    ``(B) Procedure.--
+                          ``(i) In general.--An action under 
+                      subparagraph (A)(i) shall be governed under the 
+                      rules and procedures set forth in section 42121(b) 
+                      of title 49, United States Code.
+                          ``(ii) Exception.--Notification made under 
+                      section 42121(b)(1) of title 49, United States 
+                      Code, shall be made to the person named in the 
+                      complaint and to the employer.
+                          ``(iii) Burdens of proof.--An action brought 
+                      under subparagraph (A)(ii) shall be governed by 
+                      the legal burdens of proof set forth in section 
+                      42121(b) of title 49, United States Code, except 
+                      that in applying such section--
+                                    ``(I) `behavior described in 
+                                paragraph (1)' shall be substituted for 
+                                `behavior described in paragraphs (1) 
+                                through (4) of subsection (a)' each 
+                                place it appears in paragraph (2)(B) 
+                                thereof, and
+
+[[Page 133 STAT. 1000]]
+
+                                    ``(II) `a violation of paragraph 
+                                (1)' shall be substituted for `a 
+                                violation of subsection (a)' each place 
+                                it appears.
+                          ``(iv) <<NOTE: Deadline.>>  Statute of 
+                      limitations.--A complaint under subparagraph 
+                      (A)(i) shall be filed not later than 180 days 
+                      after the date on which the violation occurs.
+                          ``(v) Jury trial.--A party to an action 
+                      brought under subparagraph (A)(ii) shall be 
+                      entitled to trial by jury.
+            ``(3) Remedies.--
+                    ``(A) In general.--An employee prevailing in any 
+                action under paragraph (2)(A) shall be entitled to all 
+                relief necessary to make the employee whole.
+                    ``(B) Compensatory damages.--Relief for any action 
+                under subparagraph (A) shall include--
+                          ``(i) reinstatement with the same seniority 
+                      status that the employee would have had, but for 
+                      the reprisal,
+                          ``(ii) the sum of 200 percent of the amount of 
+                      back pay and 100 percent of all lost benefits, 
+                      with interest, and
+                          ``(iii) compensation for any special damages 
+                      sustained as a result of the reprisal, including 
+                      litigation costs, expert witness fees, and 
+                      reasonable attorney fees.
+            ``(4) Rights retained by employee.--Nothing in this section 
+        shall be deemed to diminish the rights, privileges, or remedies 
+        of any employee under any Federal or State law, or under any 
+        collective bargaining agreement.
+            ``(5) Nonenforceability of certain provisions waiving rights 
+        and remedies or requiring arbitration of disputes.--
+                    ``(A) Waiver of rights and remedies.--The rights and 
+                remedies provided for in this subsection may not be 
+                waived by any agreement, policy form, or condition of 
+                employment, including by a predispute arbitration 
+                agreement.
+                    ``(B) Predispute arbitration agreements.--No 
+                predispute arbitration agreement shall be valid or 
+                enforceable, if the agreement requires arbitration of a 
+                dispute arising under this subsection.''.
+
+    (c) Effective Date.--
+            (1) <<NOTE: 26 USC 6103 note.>>  In general.--The amendments 
+        made by subsection (a) shall apply to disclosures made after the 
+        date of the enactment of this Act.
+            (2) <<NOTE: 26 USC 7623 note.>>  Civil protection.--The 
+        amendment made by subsection (b) shall take effect on the date 
+        of the enactment of this Act.
+SEC. 1406. <<NOTE: 26 USC 7801 note.>>  CUSTOMER SERVICE 
+                          INFORMATION.
+
+    The Secretary of the Treasury (or the Secretary's delegate) shall 
+provide helpful information to taxpayers placed on hold during a 
+telephone call to any Internal Revenue Service help line, including the 
+following:
+            (1) Information about common tax scams.
+            (2) Information on where and how to report tax scams.
+            (3) Additional advice on how taxpayers can protect 
+        themselves from identity theft and tax scams.
+
+[[Page 133 STAT. 1001]]
+
+SEC. 1407. MISDIRECTED TAX REFUND DEPOSITS.
+
+    Section 6402 <<NOTE: 26 USC 6402.>>  is amended by adding at the end 
+the following new subsection:
+
+    ``(n) <<NOTE: Deadline. Regulations. Procedures.>>  Misdirected 
+Direct Deposit Refund.--Not later than the date which is 6 months after 
+the date of the enactment of the Taxpayer First Act, the Secretary shall 
+prescribe regulations to establish procedures to allow for--
+            ``(1) taxpayers to report instances in which a refund made 
+        by the Secretary by electronic funds transfer was not 
+        transferred to the account of the taxpayer;
+            ``(2) <<NOTE: Coordination.>>  coordination with financial 
+        institutions for the purpose of--
+                    ``(A) identifying the accounts to which transfers 
+                described in paragraph (1) were made; and
+                    ``(B) recovery of the amounts so transferred; and
+            ``(3) the refund to be delivered to the correct account of 
+        the taxpayer.''.
+
+                       TITLE II--21ST CENTURY IRS
+
+            Subtitle A--Cybersecurity and Identity Protection
+
+SEC. 2001. <<NOTE: 26 USC 7529 note.>>  PUBLIC-PRIVATE PARTNERSHIP 
+                          TO ADDRESS IDENTITY THEFT REFUND FRAUD.
+
+    The Secretary of the Treasury (or the Secretary's delegate) shall 
+work collaboratively with the public and private sectors to protect 
+taxpayers from identity theft refund fraud.
+SEC. 2002. RECOMMENDATIONS OF ELECTRONIC TAX ADMINISTRATION 
+                          ADVISORY COMMITTEE REGARDING IDENTITY 
+                          THEFT REFUND FRAUD.
+
+    The Secretary of the Treasury shall ensure that the advisory group 
+convened by the Secretary pursuant to section 2001(b)(2) of the Internal 
+Revenue Service Restructuring and Reform Act of 1998 (commonly known as 
+the Electronic Tax Administration Advisory Committee) studies (including 
+by providing organized public forums) and makes recommendations to the 
+Secretary regarding methods to prevent identity theft and refund fraud.
+SEC. 2003. INFORMATION SHARING AND ANALYSIS CENTER.
+
+    (a) <<NOTE: 26 USC 7529 note.>>  In General.--The Secretary of the 
+Treasury (or the Secretary's delegate) may participate in an information 
+sharing and analysis center to centralize, standardize, and enhance data 
+compilation and analysis to facilitate sharing actionable data and 
+information with respect to identity theft tax refund fraud.
+
+    (b) <<NOTE: 26 USC 7529 note.>>  Development of Performance 
+Metrics.--The Secretary of the Treasury (or the Secretary's delegate) 
+shall develop metrics for measuring the success of such center in 
+detecting and preventing identity theft tax refund fraud.
+
+    (c) Disclosure.--
+            (1) In general.--Section 6103(k), as amended by this Act, is 
+        amended by adding at the end the following new paragraph:
+            ``(14) Disclosure of return information for purposes of 
+        cybersecurity and the prevention of identity theft tax refund 
+        fraud.--
+
+[[Page 133 STAT. 1002]]
+
+                    ``(A) In general.--Under such procedures and subject 
+                to such conditions as the Secretary may prescribe, the 
+                Secretary may disclose specified return information to 
+                specified ISAC participants to the extent that the 
+                Secretary determines such disclosure is in furtherance 
+                of effective Federal tax administration relating to the 
+                detection or prevention of identity theft tax refund 
+                fraud, validation of taxpayer identity, authentication 
+                of taxpayer returns, or detection or prevention of 
+                cybersecurity threats.
+                    ``(B) <<NOTE: Definition.>>  Specified isac 
+                participants.--For purposes of this paragraph--
+                          ``(i) In general.--The term `specified ISAC 
+                      participant' means--
+                                    ``(I) any person designated by the 
+                                Secretary as having primary 
+                                responsibility for a function performed 
+                                with respect to the information sharing 
+                                and analysis center described in section 
+                                2003(a) of the Taxpayer First Act, and
+                                    ``(II) any person subject to the 
+                                requirements of section 7216 and which 
+                                is a participant in such information 
+                                sharing and analysis center.
+                          ``(ii) Information sharing agreement.--Such 
+                      term shall not include any person unless such 
+                      person has entered into a written agreement with 
+                      the Secretary setting forth the terms and 
+                      conditions for the disclosure of information to 
+                      such person under this paragraph, including 
+                      requirements regarding the protection and 
+                      safeguarding of such information by such person.
+                    ``(C) <<NOTE: Definition.>>  Specified return 
+                information.--For purposes of this paragraph, the term 
+                `specified return information' means--
+                          ``(i) in the case of a return which is in 
+                      connection with a case of potential identity theft 
+                      refund fraud--
+                                    ``(I) in the case of such return 
+                                filed electronically, the internet 
+                                protocol address, device identification, 
+                                email domain name, speed of completion, 
+                                method of authentication, refund method, 
+                                and such other return information 
+                                related to the electronic filing 
+                                characteristics of such return as the 
+                                Secretary may identify for purposes of 
+                                this subclause, and
+                                    ``(II) in the case of such return 
+                                prepared by a tax return preparer, 
+                                identifying information with respect to 
+                                such tax return preparer, including the 
+                                preparer taxpayer identification number 
+                                and electronic filer identification 
+                                number of such preparer,
+                          ``(ii) in the case of a return which is in 
+                      connection with a case of a identity theft refund 
+                      fraud which has been confirmed by the Secretary 
+                      (pursuant to such procedures as the Secretary may 
+                      provide), the information referred to in 
+                      subclauses (I) and (II) of clause (i), the name 
+                      and taxpayer identification number of the taxpayer 
+                      as it appears on the return, and any bank account 
+                      and routing information provided for making a 
+                      refund in connection with such return, and
+
+[[Page 133 STAT. 1003]]
+
+                          ``(iii) in the case of any cybersecurity 
+                      threat to the Internal Revenue Service, 
+                      information similar to the information described 
+                      in subclauses (I) and (II) of clause (i) with 
+                      respect to such threat.
+                    ``(D) Restriction on use of disclosed information.--
+                          ``(i) Designated third parties.--Any return 
+                      information received by a person described in 
+                      subparagraph (B)(i)(I) shall be used only for the 
+                      purposes of and to the extent necessary in--
+                                    ``(I) performing the function such 
+                                person is designated to perform under 
+                                such subparagraph,
+                                    ``(II) facilitating disclosures 
+                                authorized under subparagraph (A) to 
+                                persons described in subparagraph 
+                                (B)(i)(II), and
+                                    ``(III) facilitating disclosures 
+                                authorized under subsection (d) to 
+                                participants in such information sharing 
+                                and analysis center.
+                          ``(ii) Return preparers.--Any return 
+                      information received by a person described in 
+                      subparagraph (B)(i)(II) shall be treated for 
+                      purposes of section 7216 as information furnished 
+                      to such person for, or in connection with, the 
+                      preparation of a return of the tax imposed under 
+                      chapter 1.
+                    ``(E) Data protection and safeguards.--Return 
+                information disclosed under this paragraph shall be 
+                subject to such protections and safeguards as the 
+                Secretary may require in regulations or other guidance 
+                or in the written agreement referred to in subparagraph 
+                (B)(ii). Such written agreement shall include a 
+                requirement that any unauthorized access to information 
+                disclosed under this paragraph, and any breach of any 
+                system in which such information is held, be reported to 
+                the Treasury Inspector General for Tax 
+                Administration.''.
+            (2) Application of civil and criminal penalties.--
+                    (A) <<NOTE: 26 USC 6103.>>  Section 6103(a)(3), as 
+                amended by this Act, is amended by striking ``or (13)'' 
+                and inserting ``, (13), or (14)''.
+                    (B) Section 7213(a)(2), as amended by this Act, is 
+                amended by striking ``or (13)'' and inserting ``, (13), 
+                or (14)''.
+SEC. 2004. COMPLIANCE BY CONTRACTORS WITH CONFIDENTIALITY 
+                          SAFEGUARDS.
+
+    (a) In General.--Section 6103(p) is amended by adding at the end the 
+following new paragraph:
+            ``(9) Disclosure to contractors and other agents.--
+        Notwithstanding any other provision of this section, no return 
+        or return information shall be disclosed to any contractor or 
+        other agent of a Federal, State, or local agency unless such 
+        agency, to the satisfaction of the Secretary--
+                    ``(A) has requirements in effect which require each 
+                such contractor or other agent which would have access 
+                to returns or return information to provide safeguards 
+                (within the meaning of paragraph (4)) to protect the 
+                confidentiality of such returns or return information,
+
+[[Page 133 STAT. 1004]]
+
+                    ``(B) <<NOTE: Review. Time period.>>  agrees to 
+                conduct an on-site review every 3 years (or a mid-point 
+                review in the case of contracts or agreements of less 
+                than 3 years in duration) of each contractor or other 
+                agent to determine compliance with such requirements,
+                    ``(C) submits the findings of the most recent review 
+                conducted under subparagraph (B) to the Secretary as 
+                part of the report required by paragraph (4)(E), and
+                    ``(D) <<NOTE: Certification.>>  certifies to the 
+                Secretary for the most recent annual period that such 
+                contractor or other agent is in compliance with all such 
+                requirements.
+        The certification required by subparagraph (D) shall include the 
+        name and address of each contractor or other agent, a 
+        description of the contract or agreement with such contractor or 
+        other agent, and the duration of such contract or agreement. The 
+        requirements of this paragraph shall not apply to disclosures 
+        pursuant to subsection (n) for purposes of Federal tax 
+        administration.''.
+
+    (b) <<NOTE: 26 USC 6103.>>  Conforming Amendment.--Section 
+6103(p)(8)(B) is amended by inserting ``or paragraph (9)'' after 
+``subparagraph (A)''.
+
+    (c) <<NOTE: 26 USC 6103 note.>>  Effective Date.--The amendments 
+made by this section shall apply to disclosures made after December 31, 
+2022.
+SEC. 2005. <<NOTE: 26 USC 6109 note.>>  IDENTITY PROTECTION 
+                          PERSONAL IDENTIFICATION NUMBERS.
+
+    (a) In General.--Subject to subsection (b), the Secretary of the 
+Treasury or the Secretary's delegate (hereafter referred to in this 
+section as the ``Secretary'') shall establish a program to issue, upon 
+the request of any individual, a number which may be used in connection 
+with such individual's social security number (or other identifying 
+information with respect to such individual as determined by the 
+Secretary) to assist the Secretary in verifying such individual's 
+identity.
+    (b) Requirements.--
+            (1) Annual expansion.--For each calendar year beginning 
+        after the date of the enactment of this Act, the Secretary shall 
+        provide numbers through the program described in subsection (a) 
+        to individuals residing in such States as the Secretary deems 
+        appropriate, provided that the total number of States served by 
+        such program during such year is greater than the total number 
+        of States served by such program during the preceding year.
+            (2) <<NOTE: Deadline.>>  Nationwide availability.--Not later 
+        than 5 years after the date of the enactment of this Act, the 
+        Secretary shall ensure that the program described in subsection 
+        (a) is made available to any individual residing in the United 
+        States.
+SEC. 2006. <<NOTE: 26 USC 7529 note.>>  SINGLE POINT OF CONTACT 
+                          FOR TAX-RELATED IDENTITY THEFT VICTIMS.
+
+    (a) <<NOTE: Procedures.>>  In General.--The Secretary of the 
+Treasury (or the Secretary's delegate) shall establish and implement 
+procedures to ensure that any taxpayer whose return has been delayed or 
+otherwise adversely affected due to tax-related identity theft has a 
+single point of contact at the Internal Revenue Service throughout the 
+processing of the taxpayer's case. <<NOTE: Coordination.>>  The single 
+point of contact shall track the taxpayer's case to completion and 
+coordinate with other Internal Revenue Service employees to resolve case 
+issues as quickly as possible.
+
+[[Page 133 STAT. 1005]]
+
+    (b) Single Point of Contact.--
+            (1) In general.--For purposes of subsection (a), the single 
+        point of contact shall consist of a team or subset of specially 
+        trained employees who--
+                    (A) have the ability to work across functions to 
+                resolve the issues involved in the taxpayer's case; and
+                    (B) shall be accountable for handling the case until 
+                its resolution.
+            (2) <<NOTE: Procedures.>>  Team or subset.--The employees 
+        included within the team or subset described in paragraph (1) 
+        may change as required to meet the needs of the Internal Revenue 
+        Service, provided that procedures have been established to--
+                    (A) ensure continuity of records and case history; 
+                and
+                    (B) <<NOTE: Notification.>>  notify the taxpayer 
+                when appropriate.
+SEC. 2007. NOTIFICATION OF SUSPECTED IDENTITY THEFT.
+
+    (a) In General.--Chapter 77 is amended by adding at the end the 
+following new section:
+``SEC. 7529. <<NOTE: 26 USC 7529.>>  NOTIFICATION OF SUSPECTED 
+                          IDENTITY THEFT.
+
+    ``(a) <<NOTE: Determination.>>  In General.--If the Secretary 
+determines that there has been or may have been an unauthorized use of 
+the identity of any individual, the Secretary shall, without 
+jeopardizing an investigation relating to tax administration--
+            ``(1) as soon as practicable--
+                    ``(A) notify the individual of such determination,
+                    ``(B) provide instructions on how to file a report 
+                with law enforcement regarding the unauthorized use,
+                    ``(C) identify any steps to be taken by the 
+                individual to permit law enforcement to access personal 
+                information of the individual during the investigation,
+                    ``(D) provide information regarding actions the 
+                individual may take in order to protect the individual 
+                from harm relating to the unauthorized use, and
+                    ``(E) offer identity protection measures to the 
+                individual, such as the use of an identity protection 
+                personal identification number, and
+            ``(2) at the time the information described in paragraph (1) 
+        is provided (or, if not available at such time, as soon as 
+        practicable thereafter), issue additional notifications to such 
+        individual (or such individual's designee) regarding--
+                    ``(A) whether an investigation has been initiated in 
+                regards to such unauthorized use,
+                    ``(B) whether the investigation substantiated an 
+                unauthorized use of the identity of the individual, and
+                    ``(C) whether--
+                          ``(i) any action has been taken against a 
+                      person relating to such unauthorized use, or
+                          ``(ii) any referral has been made for criminal 
+                      prosecution of such person and, to the extent such 
+                      information is available, whether such person has 
+                      been criminally charged by indictment or 
+                      information.
+
+    ``(b) Employment-Related Identity Theft.--
+            ``(1) In general.--For purposes of this section, the 
+        unauthorized use of the identity of an individual includes the 
+        unauthorized use of the identity of the individual to obtain 
+        employment.
+
+[[Page 133 STAT. 1006]]
+
+            ``(2) Determination of employment-related identity theft.--
+        For purposes <<NOTE: Review.>>  of this section, in making a 
+        determination as to whether there has been or may have been an 
+        unauthorized use of the identity of an individual to obtain 
+        employment, the Secretary shall review any information--
+                    ``(A) obtained from a statement described in section 
+                6051 or an information return relating to compensation 
+                for services rendered other than as an employee, or
+                    ``(B) provided to the Internal Revenue Service by 
+                the Social Security Administration regarding any 
+                statement described in section 6051,
+        which indicates that the social security account number provided 
+        on such statement or information return does not correspond with 
+        the name provided on such statement or information return or the 
+        name on the tax return reporting the income which is included on 
+        such statement or information return.''.
+
+    (b) Additional Measures.--
+            (1) <<NOTE: 26 USC 7529 note.>>  Examination of both paper 
+        and electronic statements and returns.--The Secretary of the 
+        Treasury (or the Secretary's delegate) shall examine the 
+        statements, information returns, and tax returns described in 
+        section 7529(b)(2) of the Internal Revenue Code of 1986 (as 
+        added by subsection (a)) for any evidence of employment-related 
+        identity theft, regardless of whether such statements or returns 
+        are submitted electronically or on paper.
+            (2) Improvement of effective return processing program with 
+        social security administration.--Section 232 of the Social 
+        Security Act (42 U.S.C. 432) is amended by inserting after the 
+        third sentence the following: ``For purposes of carrying out the 
+        return processing program described in the preceding sentence, 
+        the Commissioner of Social Security shall request, not less than 
+        annually, such information described in section 7529(b)(2) of 
+        the Internal Revenue Code of 1986 as may be necessary to ensure 
+        the accuracy of the records maintained by the Commissioner of 
+        Social Security related to the amounts of wages paid to, and the 
+        amounts of self-employment income derived by, individuals.''.
+            (3) <<NOTE: Procedures. 26 USC 7529 note.>>  Underreporting 
+        of income.--The Secretary of the Treasury (or the Secretary's 
+        delegate) shall establish procedures to ensure that income 
+        reported in connection with the unauthorized use of a taxpayer's 
+        identity is not taken into account in determining any penalty 
+        for underreporting of income by the victim of identity theft.
+
+    (c) Clerical Amendment.--The table of sections for chapter 77 
+is <<NOTE: 26 USC 7501 prec.>> amended by adding at the end the 
+following new item:
+
+``Sec. 7529. Notification of suspected identity theft.''.
+
+    (d) <<NOTE: Applicability. Determinations. Time period. 26 USC 
+7529 note. 26 USC 
+7529 note. Deadline. Consultation. Public information.>>  Effective 
+Date.--The amendments made by this section shall apply to determinations 
+made after the date that is 6 months after the date of the enactment of 
+this Act.
+SEC. 2008. GUIDELINES FOR STOLEN IDENTITY REFUND FRAUD CASES.
+
+    (a) In General.--Not later than 1 year after the date of the 
+enactment of this Act, the Secretary of the Treasury (or the Secretary's 
+delegate), in consultation with the National Taxpayer Advocate, shall 
+develop and implement publicly available guidelines for management of 
+cases involving stolen identity refund fraud
+
+[[Page 133 STAT. 1007]]
+
+in a manner that reduces the administrative burden on taxpayers who are 
+victims of such fraud.
+    (b) Standards and Procedures To Be Considered.--The guidelines 
+described in subsection (a) may include--
+            (1) standards for--
+                    (A) the average length of time in which a case 
+                involving stolen identity refund fraud should be 
+                resolved;
+                    (B) the maximum length of time, on average, a 
+                taxpayer who is a victim of stolen identity refund fraud 
+                and is entitled to a tax refund which has been stolen 
+                should have to wait to receive such refund; and
+                    (C) the maximum number of offices and employees 
+                within the Internal Revenue Service with whom a taxpayer 
+                who is a victim of stolen identity refund fraud should 
+                be required to interact in order to resolve a case;
+            (2) standards for opening, assigning, reassigning, or 
+        closing a case involving stolen identity refund fraud; and
+            (3) procedures for implementing and accomplishing the 
+        standards described in paragraphs (1) and (2), and measures for 
+        evaluating such procedures and determining whether such 
+        standards have been successfully implemented.
+SEC. 2009. INCREASED PENALTY FOR IMPROPER DISCLOSURE OR USE OF 
+                          INFORMATION BY PREPARERS OF RETURNS.
+
+    (a) <<NOTE: 26 USC 6713.>>  In General.--Section 6713 is amended--
+            (1) by redesignating subsections (b) and (c) as subsections 
+        (c) and (d), respectively; and
+            (2) by inserting after subsection (a) the following new 
+        subsection:
+
+    ``(b) Enhanced Penalty for Improper Use or Disclosure Relating to 
+Identity Theft.--
+            ``(1) In general.--In the case of a disclosure or use 
+        described in subsection (a) that is made in connection with a 
+        crime relating to the misappropriation of another person's 
+        taxpayer identity (as defined in section 6103(b)(6)), whether or 
+        not such crime involves any tax filing, subsection (a) shall be 
+        applied--
+                    ``(A) by substituting `$1,000' for `$250', and
+                    ``(B) by substituting `$50,000' for `$10,000'.
+            ``(2) Separate application of total penalty limitation.--The 
+        limitation on the total amount of the penalty under subsection 
+        (a) shall be applied separately with respect to disclosures or 
+        uses to which this subsection applies and to which it does not 
+        apply.''.
+
+    (b) Criminal Penalty.--Section 7216(a) is amended by striking 
+``$1,000'' and inserting ``$1,000 ($100,000 in the case of a disclosure 
+or use to which section 6713(b) applies)''.
+    (c) <<NOTE: 26 USC 6713 note.>>  Effective Date.--The amendments 
+made by this section shall apply to disclosures or uses on or after the 
+date of the enactment of this Act.
+
+[[Page 133 STAT. 1008]]
+
+            Subtitle B--Development of Information Technology
+
+SEC. 2101. MANAGEMENT OF INTERNAL REVENUE SERVICE INFORMATION 
+                          TECHNOLOGY.
+
+    (a) Duties and Responsibilities of Internal Revenue Service Chief 
+Information Officer.--Section 7803, as amended by section 
+1001, <<NOTE: 26 USC 7803.>>  is amended by adding at the end the 
+following new subsection:
+
+    ``(f) Internal Revenue Service Chief Information Officer.--
+            ``(1) <<NOTE: Appointment.>>  In general.--There shall be in 
+        the Internal Revenue Service an Internal Revenue Service Chief 
+        Information Officer (hereafter referred to in this subsection as 
+        the `IRS CIO') who shall be appointed by the Commissioner of 
+        Internal Revenue.
+            ``(2) Centralized responsibility for internal revenue 
+        service information technology.--The Commissioner of Internal 
+        Revenue (and the Secretary) shall act through the IRS CIO with 
+        respect to all development, implementation, and maintenance of 
+        information technology for the Internal Revenue Service. Any 
+        reference in this subsection to the IRS CIO which directs the 
+        IRS CIO to take any action, or to assume any responsibility, 
+        shall be treated as a reference to the Commissioner of Internal 
+        Revenue acting through the IRS CIO.
+            ``(3) General duties and responsibilities.--The IRS CIO 
+        shall--
+                    ``(A) be responsible for the development, 
+                implementation, and maintenance of information 
+                technology for the Internal Revenue Service,
+                    ``(B) ensure that the information technology of the 
+                Internal Revenue Service is secure and integrated,
+                    ``(C) maintain operational control of all 
+                information technology for the Internal Revenue Service,
+                    ``(D) be the principal advocate for the information 
+                technology needs of the Internal Revenue Service, and
+                    ``(E) <<NOTE: Consultation.>>  consult with the 
+                Chief Procurement Officer of the Internal Revenue 
+                Service to ensure that the information technology 
+                acquired for the Internal Revenue Service is consistent 
+                with--
+                          ``(i) the goals and requirements specified in 
+                      subparagraphs (A) through (D), and
+                          ``(ii) the strategic plan developed under 
+                      paragraph (4).
+            ``(4) Strategic plan.--
+                    ``(A) In general.--The IRS CIO shall develop and 
+                implement a multiyear strategic plan for the information 
+                technology needs of the Internal Revenue Service. Such 
+                plan shall--
+                          ``(i) include performance measurements of such 
+                      technology and of the implementation of such plan,
+                          ``(ii) include a plan for an integrated 
+                      enterprise architecture of the information 
+                      technology of the Internal Revenue Service,
+                          ``(iii) include and take into account the 
+                      resources needed to accomplish such plan,
+
+[[Page 133 STAT. 1009]]
+
+                          ``(iv) take into account planned major 
+                      acquisitions of information technology by the 
+                      Internal Revenue Service, and
+                          ``(v) align with the needs and strategic plan 
+                      of the Internal Revenue Service.
+                    ``(B) <<NOTE: Time period. Review.>>  Plan 
+                updates.--The IRS CIO shall, not less frequently than 
+                annually, review and update the strategic plan under 
+                subparagraph (A) (including the plan for an integrated 
+                enterprise architecture described in subparagraph 
+                (A)(ii)) to take into account the development of new 
+                information technology and the needs of the Internal 
+                Revenue Service.
+            ``(5) Scope of authority.--
+                    ``(A) <<NOTE: Definition.>>  Information 
+                technology.--For purposes of this subsection, the term 
+                `information technology' has the meaning given such term 
+                by section 11101 of title 40, United States Code.
+                    ``(B) Internal revenue service.--Any reference in 
+                this subsection to the Internal Revenue Service includes 
+                a reference to all components of the Internal Revenue 
+                Service, including--
+                          ``(i) the Office of the Taxpayer Advocate,
+                          ``(ii) the Criminal Investigation Division of 
+                      the Internal Revenue Service, and
+                          ``(iii) except as otherwise provided by the 
+                      Secretary with respect to information technology 
+                      related to matters described in subsection 
+                      (b)(3)(B), the Office of the Chief Counsel.''.
+
+    (b) Independent Verification and Validation of the Customer Account 
+Data Engine 2 and Enterprise Case Management System.--
+            (1) <<NOTE: Contracts.>>  In general.--The Commissioner of 
+        Internal Revenue shall enter into a contract with an independent 
+        reviewer to verify and validate the implementation plans 
+        (including the performance milestones and cost estimates 
+        included in such plans) developed for the Customer Account Data 
+        Engine 2 and the Enterprise Case Management System.
+            (2) Deadline for completion.--Such contract shall require 
+        that such verification and validation be completed not later 
+        than the date which is 1 year after the date of the enactment of 
+        this Act.
+            (3) Application to phases of cade 2.--
+                    (A) In general.--Paragraphs (1) and (2) shall not 
+                apply to phase 1 of the Customer Account Data Engine 2 
+                and shall apply separately to each other phase.
+                    (B) Deadline for completing plans.--Not later than 1 
+                year after the date of the enactment of this Act, the 
+                Commissioner of Internal Revenue shall complete the 
+                development of plans for all phases of the Customer 
+                Account Data Engine 2.
+                    (C) Deadline for completion of verification and 
+                validation of plans.--In the case of any phase after 
+                phase 2 of the Customer Account Data Engine 2, paragraph 
+                (2) shall be applied by substituting ``the date on which 
+                the plan for such phase was completed'' for ``the date 
+                of the enactment of this Act''.
+
+[[Page 133 STAT. 1010]]
+
+    (c) <<NOTE: 26 USC 7803 note.>>  Coordination of IRS CIO and Chief 
+Procurement Officer of the Internal Revenue Service.--
+            (1) In general.--The Chief Procurement Officer of the 
+        Internal Revenue Service shall--
+                    (A) <<NOTE: Notification.>>  identify all 
+                significant IRS information technology acquisitions and 
+                provide written notification to the Internal Revenue 
+                Service Chief Information Officer (hereafter referred to 
+                in this subsection as the ``IRS CIO'') of each such 
+                acquisition in advance of such acquisition, and
+                    (B) <<NOTE: Consultation.>>  regularly consult with 
+                the IRS CIO regarding acquisitions of information 
+                technology for the Internal Revenue Service, including 
+                meeting with the IRS CIO regarding such acquisitions 
+                upon request.
+            (2) Significant irs information technology acquisitions.--
+        For purposes <<NOTE: Definition.>>  of this subsection, the term 
+        ``significant IRS information technology acquisitions'' means--
+                    (A) any acquisition of information technology for 
+                the Internal Revenue Service in excess of $1 million; 
+                and
+                    (B) such other acquisitions of information 
+                technology for the Internal Revenue Service (or 
+                categories of such acquisitions) as the IRS CIO, in 
+                consultation with the Chief Procurement Officer of the 
+                Internal Revenue Service, may identify.
+            (3) Scope.--Terms used in this subsection which are also 
+        used in section 7803(f) of the Internal Revenue Code of 1986 (as 
+        added by subsection (a)) shall have the same meaning as when 
+        used in such section.
+SEC. 2102. <<NOTE: 26 USC 6011 note. Deadline.>>  INTERNET 
+                          PLATFORM FOR FORM 1099 FILINGS.
+
+    (a) In General.--Not later than January 1, 2023, the Secretary of 
+the Treasury or the Secretary's delegate (hereafter referred to in this 
+section as the ``Secretary'') shall make available an internet website 
+or other electronic media, with a user interface and functionality 
+similar to the Business Services Online Suite of Services provided by 
+the Social Security Administration, that provides access to resources 
+and guidance provided by the Internal Revenue Service and allows persons 
+to--
+            (1) prepare and file Forms 1099;
+            (2) prepare Forms 1099 for distribution to recipients other 
+        than the Internal Revenue Service; and
+            (3) maintain a record of completed, filed, and distributed 
+        Forms 1099.
+
+    (b) Electronic Services Treated as Supplemental; Application of 
+Security Standards.--The Secretary shall ensure that the services 
+described in subsection (a)--
+            (1) are a supplement to, and not a replacement for, other 
+        services provided by the Internal Revenue Service to taxpayers; 
+        and
+            (2) <<NOTE: Compliance.>>  comply with applicable security 
+        standards and guidelines.
+SEC. 2103. STREAMLINED CRITICAL PAY AUTHORITY FOR INFORMATION 
+                          TECHNOLOGY POSITIONS.
+
+    (a) In General.--Subchapter A of chapter 80 is amended by adding at 
+the end the following new section:
+
+[[Page 133 STAT. 1011]]
+
+``SEC. 7812. <<NOTE: Applicability. 26 USC 7812.>>  STREAMLINED 
+                          CRITICAL PAY AUTHORITY FOR INFORMATION 
+                          TECHNOLOGY POSITIONS.
+
+    ``In the case of any position which is critical to the functionality 
+of the information technology operations of the Internal Revenue 
+Service--
+            ``(1) section 9503 of title 5, United States Code, shall be 
+        applied--
+                    ``(A) by substituting `during the period beginning 
+                on the date of the enactment of section 7812 of the 
+                Internal Revenue Code of 1986, and ending on September 
+                30, 2025' for `Before September 30, 2013 in subsection 
+                (a)',
+                    ``(B) without regard to subparagraph (B) of 
+                subsection (a)(1), and
+                    ``(C) by substituting `the date of the enactment of 
+                the Taxpayer First Act' for `June 1, 1998' in subsection 
+                (a)(6),
+            ``(2) section 9504 of such title 5 shall be applied by 
+        substituting `During the period beginning on the date of the 
+        enactment of section 7812 of the Internal Revenue Code of 1986, 
+        and ending on September 30, 2025' for `Before September 30, 
+        2013' each place it appears in subsections (a) and (b), and
+            ``(3) section 9505 of such title shall be applied--
+                    ``(A) by substituting `During the period beginning 
+                on the date of the enactment of section 7812 of the 
+                Internal Revenue Code of 1986, and ending on September 
+                30, 2025' for `Before September 30, 2013' in subsection 
+                (a), and
+                    ``(B) by substituting `the information technology 
+                operations' for `significant functions' in subsection 
+                (a).''.
+
+    (b) Clerical Amendment.--The table of sections for subchapter A of 
+chapter 80 is <<NOTE: 26 USC 7801 prec.>> amended by adding at the end 
+the following new item:
+
+``Sec. 7812. Streamlined critical pay authority for information 
+           technology positions.''.
+
+  Subtitle C--Modernization of Consent-Based Income Verification System
+
+SEC. 2201. <<NOTE: 26 USC 6103 note.>>  DISCLOSURE OF TAXPAYER 
+                          INFORMATION FOR THIRD-PARTY INCOME 
+                          VERIFICATION.
+
+    (a) <<NOTE: Deadline.>>  In General.--Not later than 1 year after 
+the close of the 2-year period described in subsection (d)(1), the 
+Secretary of the Treasury or the Secretary's delegate (hereafter 
+referred to in this section as the ``Secretary'') shall implement a 
+program to ensure that any qualified disclosure--
+            (1) is fully automated and accomplished through the 
+        internet; and
+            (2) is accomplished in as close to real-time as is 
+        practicable.
+
+    (b) Qualified Disclosure.--For purposes <<NOTE: Definition.>>  of 
+this section, the term ``qualified disclosure'' means a disclosure under 
+section 6103(c) of the Internal Revenue Code of 1986 of returns or 
+return information by the Secretary to a person seeking to verify the 
+income or creditworthiness of a taxpayer who is a borrower in the 
+process of a loan application.
+
+    (c) <<NOTE: Compliance.>>  Application of Security Standards.--The 
+Secretary shall ensure that the program described in subsection (a) 
+complies with applicable security standards and guidelines.
+
+[[Page 133 STAT. 1012]]
+
+    (d) User Fee.--
+            (1) <<NOTE: Time period.>>  In general.--During the 2-year 
+        period beginning on the first day of the sixth calendar month 
+        beginning after the date of the enactment of this Act, the 
+        Secretary shall assess and collect a fee for qualified 
+        disclosures (in addition to any other fee assessed and collected 
+        for such disclosures) at such rates as the Secretary determines 
+        are sufficient to cover the costs related to implementing the 
+        program described in subsection (a), including the costs of any 
+        necessary infrastructure or technology.
+            (2) Deposit of collections.--Amounts received from fees 
+        assessed and collected under paragraph (1) shall be deposited 
+        in, and credited to, an account solely for the purpose of 
+        carrying out the activities described in subsection (a). Such 
+        amounts shall be available to carry out such activities without 
+        need of further appropriation and without fiscal year 
+        limitation.
+SEC. 2202. LIMIT REDISCLOSURES AND USES OF CONSENT-BASED 
+                          DISCLOSURES OF TAX RETURN INFORMATION.
+
+    (a) <<NOTE: 26 USC 6103.>>  In General.--Section 6103(c) is amended 
+by adding at the end the following: ``Persons designated by the taxpayer 
+under this subsection to receive return information shall not use the 
+information for any purpose other than the express purpose for which 
+consent was granted and shall not disclose return information to any 
+other person without the express permission of, or request by, the 
+taxpayer.''.
+
+    (b) Application of Penalties.--Section 6103(a)(3) is amended by 
+inserting ``subsection (c),'' after ``return information under''.
+    (c) <<NOTE: Applicability. Time period. 26 USC 6103 note.>>  
+Effective Date.--The amendments made by this section shall apply to 
+disclosures made after the date which is 180 days after the date of the 
+enactment of this Act.
+
+             Subtitle D--Expanded Use of Electronic Systems
+
+SEC. 2301. ELECTRONIC FILING OF RETURNS.
+
+    (a) In General.--Section 6011(e)(2)(A) is amended by striking 
+``250'' and inserting ``the applicable number of''.
+    (b) Applicable Number.--Section 6011(e) is amended by striking 
+paragraph (5) and inserting the following new paragraphs:
+            ``(5) Applicable number.--
+                    ``(A) In general.--For purposes of paragraph (2)(A), 
+                the applicable number shall be--
+                          ``(i) except as provided in subparagraph (B), 
+                      in the case of calendar years before 2021, 250,
+                          ``(ii) in the case of calendar year 2021, 100, 
+                      and
+                          ``(iii) in the case of calendar years after 
+                      2021, 10.
+                    ``(B) Special rule for partnerships for 2018, 2019, 
+                2020, and 2021.--In the case of a partnership, for any 
+                calendar year before 2022, the applicable number shall 
+                be--
+                          ``(i) in the case of calendar year 2018, 200,
+                          ``(ii) in the case of calendar year 2019, 150,
+                          ``(iii) in the case of calendar year 2020, 
+                      100, and
+                          ``(iv) in the case of calendar year 2021, 50.
+            ``(6) Partnerships required to file on magnetic media.--
+        Notwithstanding paragraph (2)(A), the Secretary shall
+
+[[Page 133 STAT. 1013]]
+
+        require partnerships having more than 100 partners to file 
+        returns on magnetic media.''.
+
+    (c) Returns Filed by a Tax Return Preparer.--Section 6011(e)(3) is 
+amended <<NOTE: 26 USC 6011.>>  by adding at the end the following new 
+subparagraph:
+                    ``(D) Exception for certain preparers located in 
+                areas without internet access.--The 
+                Secretary <<NOTE: Waiver authority. Determination.>>  
+                may waive the requirement of subparagraph (A) if the 
+                Secretary determines, on the basis of an application by 
+                the tax return preparer, that the preparer cannot meet 
+                such requirement by reason of being located in a 
+                geographic area which does not have access to internet 
+                service (other than dial-up or satellite service).''.
+
+    (d) Conforming Amendment.--Section 6724(c) is amended by striking 
+``250 information returns (more than 100 information returns in the case 
+of a partnership having more than 100 partners)'' and inserting ``the 
+applicable number (determined under section 6011(e)(5) with respect to 
+the calendar year to which such returns relate) of information 
+returns''.
+    (e) <<NOTE: 26 USC 6011 note.>>  Effective Date.--The amendments 
+made by this section shall take effect on the date of the enactment of 
+this Act.
+SEC. 2302. UNIFORM STANDARDS FOR THE USE OF ELECTRONIC SIGNATURES 
+                          FOR DISCLOSURE AUTHORIZATIONS TO, AND 
+                          OTHER AUTHORIZATIONS OF, PRACTITIONERS.
+
+    Section 6061(b)(3) is amended to read as follows:
+            ``(3) Published guidance.--
+                    ``(A) In general.--The Secretary shall publish 
+                guidance as appropriate to define and implement any 
+                waiver of the signature requirements or any method 
+                adopted under paragraph (1).
+                    ``(B) Electronic signatures for disclosure 
+                authorizations to, and other authorizations of, 
+                practitioners.--Not later than 6 
+                months <<NOTE: Deadline. Procedures.>>  after the date 
+                of the enactment of this subparagraph, the Secretary 
+                shall publish guidance to establish uniform standards 
+                and procedures for the acceptance of taxpayers' 
+                signatures appearing in electronic form with respect to 
+                any request for disclosure of a taxpayer's return or 
+                return information under section 6103(c) to a 
+                practitioner or any power of attorney granted by a 
+                taxpayer to a practitioner.
+                    ``(C) <<NOTE: Definition.>>  Practitioner.--For 
+                purposes of subparagraph (B), the term `practitioner' 
+                means any individual in good standing who is regulated 
+                under section 330 of title 31, United States Code.''.
+SEC. 2303. PAYMENT OF TAXES BY DEBIT AND CREDIT CARDS.
+
+    Section 6311(d)(2) is amended by adding at the end the following: 
+``The preceding sentence shall not apply to the extent that the 
+Secretary ensures that any such fee or other consideration is fully 
+recouped by the Secretary in the form of fees paid to the Secretary by 
+persons paying taxes imposed under subtitle A with credit, debit, or 
+charge cards pursuant to such contract. Notwithstanding the preceding 
+sentence, the Secretary shall seek to minimize the amount of any fee or 
+other consideration that the Secretary pays under any such contract.''.
+
+[[Page 133 STAT. 1014]]
+
+SEC. 2304. <<NOTE: 26 USC 6011 note.>>  AUTHENTICATION OF USERS OF 
+                          ELECTRONIC SERVICES ACCOUNTS.
+
+    Beginning 180 days <<NOTE: Effective date. Time period.>>  after the 
+date of the enactment of this Act, the Secretary of the Treasury (or the 
+Secretary's delegate) shall verify the identity of any individual 
+opening an e-Services account with the Internal Revenue Service before 
+such individual is able to use the e-Services tools.
+
+                      Subtitle E--Other Provisions
+
+SEC. 2401. REPEAL OF PROVISION REGARDING CERTAIN TAX COMPLIANCE 
+                          PROCEDURES AND REPORTS.
+
+    Section 2004 of the Internal Revenue Service Restructuring and 
+Reform Act of 1998 (26 U.S.C. 6012 note) is repealed.
+SEC. 2402. COMPREHENSIVE TRAINING STRATEGY.
+
+    Not <<NOTE: Deadline. Reports. Plans.>>  later than 1 year after the 
+date of the enactment of this Act, the Commissioner of Internal Revenue 
+shall submit to Congress a written report providing a comprehensive 
+training strategy for employees of the Internal Revenue Service, 
+including--
+            (1) <<NOTE: Assessment.>>  a plan to streamline current 
+        training processes, including an assessment of the utility of 
+        further consolidating internal training programs, technology, 
+        and funding;
+            (2) a plan to develop annual training regarding taxpayer 
+        rights, including the role of the Office of the Taxpayer 
+        Advocate, for employees that interface with taxpayers and the 
+        direct managers of such employees;
+            (3) a plan to improve technology-based training;
+            (4) <<NOTE: Proposals.>>  proposals to--
+                    (A) focus employee training on early, fair, and 
+                efficient resolution of taxpayer disputes for employees 
+                that interface with taxpayers and the direct managers of 
+                such employees; and
+                    (B) ensure consistency of skill development and 
+                employee evaluation throughout the Internal Revenue 
+                Service; and
+            (5) <<NOTE: Assessment.>>  a thorough assessment of the 
+        funding necessary to implement such strategy.
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+ Subtitle A--Reform of Laws Governing Internal Revenue Service Employees
+
+SEC. 3001. PROHIBITION ON REHIRING ANY EMPLOYEE OF THE INTERNAL 
+                          REVENUE SERVICE WHO WAS INVOLUNTARILY 
+                          SEPARATED FROM SERVICE FOR MISCONDUCT.
+
+    (a) <<NOTE: 26 USC 7804.>>  In General.--Section 7804 is amended by 
+adding at the end the following new subsection:
+
+    ``(d) Prohibition on Rehiring Employees Involuntarily Separated.--
+The Commissioner may not hire any individual previously employed by the 
+Commissioner who was removed for misconduct under this subchapter or 
+chapter 43 or chapter 75 of
+
+[[Page 133 STAT. 1015]]
+
+title 5, United States Code, or whose employment was terminated under 
+section 1203 of the Internal Revenue Service Restructuring and Reform 
+Act of 1998 (26 U.S.C. 7804 note).''.
+    (b) <<NOTE: 26 USC 7804 note.>>  Effective Date.--The amendment made 
+by subsection (a) shall apply with respect to the hiring of employees 
+after the date of the enactment of this Act.
+SEC. 3002. <<NOTE: Determinations.>>  NOTIFICATION OF UNAUTHORIZED 
+                          INSPECTION OR DISCLOSURE OF RETURNS AND 
+                          RETURN INFORMATION.
+
+    (a) <<NOTE: 26 USC 7431.>>  In General.--Subsection (e) of section 
+7431 is amended by adding at the end the following new sentences: ``The 
+Secretary shall also notify such taxpayer if the Internal Revenue 
+Service or a Federal or State agency (upon notice to the Secretary by 
+such Federal or State agency) proposes an administrative determination 
+as to disciplinary or adverse action against an employee arising from 
+the employee's unauthorized inspection or disclosure of the taxpayer's 
+return or return information. The notice described in this subsection 
+shall include the date of the unauthorized inspection or disclosure and 
+the rights of the taxpayer under such administrative determination.''.
+
+    (b) <<NOTE: Applicability. Time period. 26 USC 7431 note.>>  
+Effective Date.--The amendment made by this section shall apply to 
+determinations proposed after the date which is 180 days after the date 
+of the enactment of this Act.
+
+         Subtitle B--Provisions Relating to Exempt Organizations
+
+SEC. 3101. MANDATORY E-FILING BY EXEMPT ORGANIZATIONS.
+
+    (a) In General.--Section 6033 is amended by redesignating subsection 
+(n) as subsection (o) and by inserting after subsection (m) the 
+following new subsection:
+    ``(n) Mandatory Electronic Filing.--Any organization required to 
+file a return under this section shall file such return in electronic 
+form.''.
+    (b) Other Reports and Returns.--
+            (1) Political organizations.--Section 527(j)(7) is amended 
+        by striking ``if the organization has'' and all that follows 
+        through ``such calendar year''.
+            (2) Unrelated business income tax returns.--Section 6011 is 
+        amended by redesignating subsection (h) as subsection (i) and by 
+        inserting after subsection (g) the following new subsection:
+
+    ``(h) Mandatory E-Filing of Unrelated Business Income Tax Return.--
+Any organization required to file an annual return under this section 
+which relates to any tax imposed by section 511 shall file such return 
+in electronic form.''.
+    (c) Inspection of Electronically Filed Annual Returns.--Section 
+6104(b) is amended by adding at the end the following: ``Any annual 
+return required to be filed electronically under section 6033(n) shall 
+be made available by the Secretary to the public as soon as practicable 
+in a machine readable format.''.
+    (d) <<NOTE: 26 USC 527 note.>>  Effective Date.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall apply to taxable years 
+        beginning after the date of the enactment of this Act.
+            (2) Transitional relief.--
+
+[[Page 133 STAT. 1016]]
+
+                    (A) Small organizations.--
+                          (i) <<NOTE: Determination. Time period.>>  In 
+                      general.--In the case of any small organizations, 
+                      or any other organizations for which the Secretary 
+                      of the Treasury or the Secretary's delegate 
+                      (hereafter referred to in this paragraph as the 
+                      ``Secretary'') determines the application of the 
+                      amendments made by this section would cause undue 
+                      burden without a delay, the Secretary may delay 
+                      the application of such amendments, but such delay 
+                      shall not apply to any taxable year beginning on 
+                      or after the date that is 2 years after the 
+                      enactment of this Act.
+                          (ii) <<NOTE: Definition.>>  Small 
+                      organization.--For purposes of clause (i), the 
+                      term ``small organization'' means any 
+                      organization--
+                                    (I) the gross receipts of which for 
+                                the taxable year are less than $200,000; 
+                                and
+                                    (II) the aggregate gross assets of 
+                                which at the end of the taxable year are 
+                                less than $500,000.
+                    (B) <<NOTE: Time period.>>  Organizations filing 
+                form 990-t.--In the case of any organization described 
+                in section 511(a)(2) of the Internal Revenue Code of 
+                1986 which is subject to the tax imposed by section 
+                511(a)(1) of such Code on its unrelated business taxable 
+                income, or any organization required to file a return 
+                under section 6033 of such Code and include information 
+                under subsection (e) thereof, the Secretary may delay 
+                the application of the amendments made by this section, 
+                but such delay shall not apply to any taxable year 
+                beginning on or after the date that is 2 years after the 
+                enactment of this Act.
+SEC. 3102. NOTICE REQUIRED BEFORE REVOCATION OF TAX-EXEMPT STATUS 
+                          FOR FAILURE TO FILE RETURN.
+
+    (a) <<NOTE: 26 USC 6033.>>  In General.--Section 6033(j)(1) is 
+amended by striking ``If an organization'' and inserting the following:
+                    ``(A) <<NOTE: Time period.>>  Notice.--If an 
+                organization described in subsection (a)(1) or (i) fails 
+                to file the annual return or notice required under 
+                either subsection for 2 consecutive years, the Secretary 
+                shall notify the organization--
+                          ``(i) that the Internal Revenue Service has no 
+                      record of such a return or notice from such 
+                      organization for 2 consecutive years, and
+                          ``(ii) about the revocation that will occur 
+                      under subparagraph (B) if the organization fails 
+                      to file such a return or notice by the due date 
+                      for the next such return or notice required to be 
+                      filed.
+                The notification under the preceding sentence shall 
+                include information about how to comply with the filing 
+                requirements under subsections (a)(1) and (i).
+                    ``(B) Revocation.--If an organization''.
+
+    (b) <<NOTE: Applicability. Time period. 26 USC 6033 note.>>  
+Effective Date.--The amendment made by this section shall apply to 
+failures to file returns or notices for 2 consecutive years if the 
+return or notice for the second year is required to be filed after 
+December 31, 2019.
+
+[[Page 133 STAT. 1017]]
+
+                      Subtitle C--Revenue Provision
+
+SEC. 3201. INCREASE IN PENALTY FOR FAILURE TO FILE.
+
+    (a) In General.--The second sentence of subsection (a) of section 
+6651 <<NOTE: 26 USC 6651.>>  is amended by striking ``$205'' and 
+inserting ``$330''.
+
+    (b) Inflation Adjustment.--Section 6651(j)(1) is amended--
+            (1) by striking ``2014'' and inserting ``2020'',
+            (2) by striking ``$205'' and inserting ``$330'', and
+            (3) by striking ``2013'' and inserting ``2019''.
+
+    (c) <<NOTE: 26 USC 6651 note.>>  Effective Date.--The amendments 
+made by this section shall apply to returns required to be filed after 
+December 31, 2019.
+
+                       TITLE IV--BUDGETARY EFFECTS
+
+SEC. 4001. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying with 
+the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that such 
+statement has been submitted prior to the vote on passage.
+
+    Approved July 1, 2019.
+
+LEGISLATIVE HISTORY--H.R. 3151:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 165 (2019):
+            June 10, considered and passed House.
+            June 13, considered and passed Senate.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2019):
+            July 1, Presidential statement.
+
+                                  
+

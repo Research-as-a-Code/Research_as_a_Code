@@ -1,0 +1,1070 @@
+
+[116th Congress Public Law 105]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 3273]]
+
+    PALLONE-THUNE TELEPHONE ROBOCALL ABUSE CRIMINAL ENFORCEMENT AND 
+                             DETERRENCE ACT
+
+[[Page 133 STAT. 3274]]
+
+Public Law 116-105
+116th Congress
+
+                                 An Act
+
+
+ 
+To deter criminal robocall violations and improve enforcement of section 
+        227(b) of the Communications Act of 1934, and for other 
+             purposes. <<NOTE: Dec. 30, 2019 -  [S. 151]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Pallone-Thune 
+Telephone Robocall Abuse Criminal Enforcement and Deterrence Act 47 USC 
+609 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Pallone-Thune Telephone Robocall 
+Abuse Criminal Enforcement and Deterrence Act'' or the ``Pallone-Thune 
+TRACED Act''.
+SEC. 2. <<NOTE: 47 USC 227 note.>>  COMMISSION DEFINED.
+
+    In this Act, the term ``Commission'' means the Federal 
+Communications Commission.
+SEC. 3. FORFEITURE.
+
+    (a) In General.--Section 227 of the Communications Act of 1934 (47 
+U.S.C. 227) is amended--
+            (1) in subsection (b), by adding at the end the following:
+            ``(4) Civil forfeiture.--
+                    ``(A) In general.--Any person that is determined by 
+                the Commission, in accordance with paragraph (3) or (4) 
+                of section 503(b), to have violated this subsection 
+                shall be liable to the United States for a forfeiture 
+                penalty pursuant to section 503(b)(1). Paragraph (5) of 
+                section 503(b) shall not apply in the case of a 
+                violation of this subsection. A forfeiture penalty under 
+                this subparagraph shall be in addition to any other 
+                penalty provided for by this Act. The amount of the 
+                forfeiture <<NOTE: Determination.>>  penalty determined 
+                under this subparagraph shall be determined in 
+                accordance with subparagraphs (A) through (F) of section 
+                503(b)(2).
+                    ``(B) Violation with intent.--Any person that is 
+                determined by the Commission, in accordance with 
+                paragraph (3) or (4) of section 503(b), to have violated 
+                this subsection with the intent to cause such violation 
+                shall be liable to the United States for a forfeiture 
+                penalty pursuant to section 503(b)(1). Paragraph (5) of 
+                section 503(b) shall not apply in the case of a 
+                violation of this subsection. A forfeiture penalty under 
+                this subparagraph shall be in addition to any other 
+                penalty provided for by this Act. The amount of the 
+                forfeiture penalty determined under this subparagraph 
+                shall be equal to an amount determined in accordance 
+                with subparagraphs (A) through (F) of section 503(b)(2) 
+                plus an additional penalty not to exceed $10,000.
+
+[[Page 133 STAT. 3275]]
+
+                    ``(C) Recovery.--Any forfeiture penalty determined 
+                under subparagraph (A) or (B) shall be recoverable under 
+                section 504(a).
+                    ``(D) Procedure.--No forfeiture liability shall be 
+                determined under subparagraph (A) or (B) against any 
+                person unless such person receives the notice required 
+                by section 503(b)(3) or section 503(b)(4).
+                    ``(E) Statute of limitations.--Notwithstanding 
+                paragraph (6) of section 503(b), no forfeiture penalty 
+                shall be determined or imposed against any person--
+                          ``(i) under subparagraph (A) if the violation 
+                      charged occurred more than 1 year prior to the 
+                      date of issuance of the required notice or notice 
+                      of apparent liability; or
+                          ``(ii) under subparagraph (B) if the violation 
+                      charged occurred more than 4 years prior to the 
+                      date of issuance of the required notice or notice 
+                      of apparent liability.
+                    ``(F) Rule of construction.--Notwithstanding any law 
+                to the contrary, the Commission may not determine or 
+                impose a forfeiture penalty on a person under both 
+                subparagraphs (A) and (B) based on the same conduct.'';
+            (2) in subsection (e)(5)(A)--
+                    (A) in clause (ii), by adding at the end the 
+                following: ``Paragraph (5) of section 503(b) shall not 
+                apply in the case of a violation of this subsection.''; 
+                and
+                    (B) in clause (iv)--
+                          (i) in the heading, by striking ``2-year'' and 
+                      inserting ``4-year''; and
+                          (ii) by striking ``2 years'' and inserting ``4 
+                      years''; and
+            (3) by striking subsection (h) and inserting the following:
+
+    ``(h) Annual Report to Congress on Robocalls and Transmission of 
+Misleading or Inaccurate Caller Identification Information.--
+            ``(1) Report required.--Not later than 1 year after the date 
+        of the enactment of this subsection, and annually thereafter, 
+        the Commission, after consultation with the Federal Trade 
+        Commission, shall submit to Congress a report regarding 
+        enforcement by the Commission of subsections (b), (c), (d), and 
+        (e) during the preceding calendar year.
+            ``(2) <<NOTE: Time periods.>>  Matters for inclusion.--Each 
+        report required by paragraph (1) shall include the following:
+                    ``(A) The number of complaints received by the 
+                Commission during each of the preceding 5 calendar 
+                years, for each of the following categories:
+                          ``(i) Complaints alleging that a consumer 
+                      received a call in violation of subsection (b) or 
+                      (c).
+                          ``(ii) Complaints alleging that a consumer 
+                      received a call in violation of the standards 
+                      prescribed under subsection (d).
+                          ``(iii) Complaints alleging that a consumer 
+                      received a call in connection with which 
+                      misleading or inaccurate caller identification 
+                      information was transmitted in violation of 
+                      subsection (e).
+                    ``(B) The number of citations issued by the 
+                Commission pursuant to section 503(b) during the 
+                preceding calendar
+
+[[Page 133 STAT. 3276]]
+
+                year to enforce subsection (d), and details of each such 
+                citation.
+                    ``(C) The number of notices of apparent liability 
+                issued by the Commission pursuant to section 503(b) 
+                during the preceding calendar year to enforce 
+                subsections (b), (c), (d), and (e), and details of each 
+                such notice including any proposed forfeiture amount.
+                    ``(D) The number of final orders imposing forfeiture 
+                penalties issued pursuant to section 503(b) during the 
+                preceding calendar year to enforce such subsections, and 
+                details of each such order including the forfeiture 
+                imposed.
+                    ``(E) The amount of forfeiture penalties or criminal 
+                fines collected, during the preceding calendar year, by 
+                the Commission or the Attorney General for violations of 
+                such subsections, and details of each case in which such 
+                a forfeiture penalty or criminal fine was collected.
+                    ``(F) <<NOTE: Proposal.>>  Proposals for reducing 
+                the number of calls made in violation of such 
+                subsections.
+                    ``(G) <<NOTE: Analysis. Recommenda- tions.>>  An 
+                analysis of the contribution by providers of 
+                interconnected VoIP service and non-interconnected VoIP 
+                service that discount high-volume, unlawful, short-
+                duration calls to the total number of calls made in 
+                violation of such subsections, and recommendations on 
+                how to address such contribution in order to decrease 
+                the total number of calls made in violation of such 
+                subsections.
+            ``(3) No additional reporting required.--The Commission 
+        shall prepare the report required by paragraph (1) without 
+        requiring the provision of additional information from providers 
+        of telecommunications service or voice service (as defined in 
+        section 4(a) of the Pallone-Thune TRACED Act).''.
+
+    (b) <<NOTE: 47 USC 227 note.>>  Applicability.--The amendments made 
+by this section shall not affect any action or proceeding commenced 
+before and pending on the date of the enactment of this Act.
+
+    (c) <<NOTE: 47 USC 227 note.>>  Deadline for Regulations.--The 
+Commission shall prescribe regulations to implement the amendments made 
+by this section not later than 270 days after the date of the enactment 
+of this Act.
+SEC. 4. <<NOTE: 47 USC 227b.>>  CALL AUTHENTICATION.
+
+    (a) Definitions.--In this section:
+            (1) STIR/SHAKEN authentication framework.--The term ``STIR/
+        SHAKEN authentication framework'' means the secure telephone 
+        identity revisited and signature-based handling of asserted 
+        information using tokens standards proposed by the information 
+        and communications technology industry.
+            (2) Voice service.--The term ``voice service''--
+                    (A) means any service that is interconnected with 
+                the public switched telephone network and that furnishes 
+                voice communications to an end user using resources from 
+                the North American Numbering Plan or any successor to 
+                the North American Numbering Plan adopted by the 
+                Commission under section 251(e)(1) of the Communications 
+                Act of 1934 (47 U.S.C. 251(e)(1)); and
+                    (B) includes--
+                          (i) transmissions from a telephone facsimile 
+                      machine, computer, or other device to a telephone 
+                      facsimile machine; and
+
+[[Page 133 STAT. 3277]]
+
+                          (ii) without limitation, any service that 
+                      enables real-time, two-way voice communications, 
+                      including any service that requires internet 
+                      protocol-compatible customer premises equipment 
+                      (commonly known as ``CPE'') and permits out-bound 
+                      calling, whether or not the service is one-way or 
+                      two-way voice over internet protocol.
+
+    (b) Authentication Frameworks.--
+            (1) <<NOTE: Deadline. Requirements.>>  In general.--Subject 
+        to paragraphs (2) and (3), and in accordance with paragraph (6), 
+        not later than 18 months after the date of the enactment of this 
+        Act, the Commission shall--
+                    (A) require a provider of voice service to implement 
+                the STIR/SHAKEN authentication framework in the internet 
+                protocol networks of the provider of voice service; and
+                    (B) require a provider of voice service to take 
+                reasonable measures to implement an effective call 
+                authentication framework in the non-internet protocol 
+                networks of the provider of voice service.
+            (2) <<NOTE: Determination. Deadline.>>  Implementation.--The 
+        Commission shall not take the action described in paragraph (1) 
+        with respect to a provider of voice service if the Commission 
+        determines, not later than 12 months after the date of the 
+        enactment of this Act, that such provider of voice service--
+                    (A) in internet protocol networks--
+                          (i) has adopted the STIR/SHAKEN authentication 
+                      framework for calls on the internet protocol 
+                      networks of the provider of voice service;
+                          (ii) has agreed voluntarily to participate 
+                      with other providers of voice service in the STIR/
+                      SHAKEN authentication framework;
+                          (iii) has begun to implement the STIR/SHAKEN 
+                      authentication framework; and
+                          (iv) <<NOTE: Deadline.>>  will be capable of 
+                      fully implementing the STIR/SHAKEN authentication 
+                      framework not later than 18 months after the date 
+                      of the enactment of this Act; and
+                    (B) in non-internet protocol networks--
+                          (i) has taken reasonable measures to implement 
+                      an effective call authentication framework; and
+                          (ii) will be capable of fully implementing an 
+                      effective call authentication framework not later 
+                      than 18 months after the date of the enactment of 
+                      this Act.
+            (3) Implementation report.--Not later than 12 months after 
+        the date of the enactment of this Act, the Commission shall 
+        submit to the Committee on Energy and Commerce of the House of 
+        Representatives and the Committee on Commerce, Science, and 
+        Transportation of the Senate a report on the determination 
+        required under paragraph (2), which shall include--
+                    (A) <<NOTE: Analysis.>>  an analysis of the extent 
+                to which providers of voice service have implemented the 
+                call authentication frameworks described in 
+                subparagraphs (A) and (B) of paragraph (1), including 
+                whether the availability of necessary equipment and 
+                equipment upgrades has impacted such implementation; and
+
+[[Page 133 STAT. 3278]]
+
+                    (B) <<NOTE: Assessment.>>  an assessment of the 
+                efficacy of the call authentication frameworks described 
+                in subparagraphs (A) and (B) of paragraph (1) in 
+                addressing all aspects of call authentication.
+            (4) <<NOTE: Deadline. Time period. Public information.>>  
+        Review and revision or replacement.--Not later than 3 years 
+        after the date of the enactment of this Act, and every 3 years 
+        thereafter, the Commission, after public notice and an 
+        opportunity for comment, shall--
+                    (A) <<NOTE: Assessment.>>  assess the efficacy of 
+                the technologies used for call authentication frameworks 
+                implemented under this section;
+                    (B) <<NOTE: Determination.>>  based on the 
+                assessment under subparagraph (A), revise or replace the 
+                call authentication frameworks under this section if the 
+                Commission determines it is in the public interest to do 
+                so; and
+                    (C) <<NOTE: Reports.>>  submit to the Committee on 
+                Energy and Commerce of the House of Representatives and 
+                the Committee on Commerce, Science, and Transportation 
+                of the Senate a report on the findings of the assessment 
+                under subparagraph (A) and on any actions to revise or 
+                replace the call authentication frameworks under 
+                subparagraph (B).
+            (5) Extension of implementation deadline.--
+                    (A) Burdens and barriers to implementation.--Not 
+                later than 12 months after the date of the enactment of 
+                this Act, and as appropriate thereafter, the 
+                Commission--
+                          (i) <<NOTE: Assessment.>>  shall assess any 
+                      burdens or barriers to the implementation required 
+                      by paragraph (1), including--
+                                    (I) for providers of voice service 
+                                to the extent the networks of such 
+                                providers use time-division 
+                                multiplexing;
+                                    (II) for small providers of voice 
+                                service and those in rural areas; and
+                                    (III) the inability to purchase or 
+                                upgrade equipment to support the call 
+                                authentication frameworks under this 
+                                section, or lack of availability of such 
+                                equipment; and
+                          (ii) in connection with an assessment under 
+                      clause (i), may, upon a public finding of undue 
+                      hardship, delay required compliance with the 18-
+                      month time period described in paragraph (1), for 
+                      a reasonable period of time, for a provider or 
+                      class of providers of voice service, or type of 
+                      voice calls, as necessary for that provider or 
+                      class of providers or type of calls to participate 
+                      in the implementation in order to address the 
+                      identified burdens and barriers.
+                    (B) Delay of compliance required for certain non-
+                internet protocol networks.--Subject to subparagraphs 
+                (C) through (F), for any provider or class of providers 
+                of voice service, or type of voice calls, only to the 
+                extent that such a provider or class of providers of 
+                voice service, or type of voice calls, materially relies 
+                on a non-internet protocol network for the provision of 
+                such service or calls, the Commission shall grant a 
+                delay of required compliance under subparagraph (A)(ii) 
+                until a call authentication protocol has been developed 
+                for calls delivered over non-internet protocol networks 
+                and is reasonably available.
+
+[[Page 133 STAT. 3279]]
+
+                    (C) Robocall mitigation program.--
+                          (i) Program required.--During the time of a 
+                      delay of compliance granted under subparagraph 
+                      (A)(ii), the Commission shall require, pursuant to 
+                      the authority of the Commission, that any provider 
+                      subject to such delay shall implement an 
+                      appropriate robocall mitigation program to prevent 
+                      unlawful robocalls from originating on the network 
+                      of the provider.
+                          (ii) Additional requirements.--If the 
+                      consortium registered under section 13(d) 
+                      identifies a provider of voice service that is 
+                      subject to a delay of compliance granted under 
+                      subparagraph (A)(ii) as repeatedly originating 
+                      large-scale unlawful robocall campaigns, the 
+                      Commission shall require such provider to take 
+                      action to ensure that such provider does not 
+                      continue to originate such calls.
+                          (iii) Minimization of burden.--The Commission 
+                      shall make reasonable efforts to minimize the 
+                      burden of any robocall mitigation required 
+                      pursuant to clause (ii), which may include 
+                      prescribing certain specific robocall mitigation 
+                      practices for providers of voice service that have 
+                      repeatedly originated large-scale unlawful 
+                      robocall campaigns.
+                    (D) Full participation.--The Commission shall take 
+                reasonable measures to address any issues in an 
+                assessment under subparagraph (A)(i) and enable as 
+                promptly as reasonable full participation of all classes 
+                of providers of voice service and types of voice calls 
+                to receive the highest level of 
+                trust. <<NOTE: Determination.>> Such measures shall 
+                include, without limitation, as appropriate, limiting or 
+                terminating a delay of compliance granted to a provider 
+                under subparagraph (B) if the Commission determines in 
+                such assessment that the provider is not making 
+                reasonable efforts to develop the call authentication 
+                protocol described in such subparagraph.
+                    (E) <<NOTE: Consultation.>>  Alternative 
+                methodologies.--The Commission shall identify, in 
+                consultation with small providers of voice service and 
+                those in rural areas, alternative effective 
+                methodologies to protect customers from unauthenticated 
+                calls during any delay of compliance granted under 
+                subparagraph (A)(ii).
+                    (F) <<NOTE: Time period.>>  Revision of delay of 
+                compliance.--Not less frequently than annually after the 
+                first delay of compliance is granted under subparagraph 
+                (A)(ii), the Commission--
+                          (i) shall consider revising or extending any 
+                      delay of compliance granted under subparagraph 
+                      (A)(ii);
+                          (ii) may revise such delay of compliance; and
+                          (iii) <<NOTE: Public information.>>  shall 
+                      issue a public notice with regard to whether such 
+                      delay of compliance remains necessary, including--
+                                    (I) why such delay of compliance 
+                                remains necessary; and
+                                    (II) when the Commission expects to 
+                                achieve the goal of full participation 
+                                as described in subparagraph (D).
+            (6) No additional cost to consumers or small business 
+        customers.--The Commission shall prohibit providers of voice
+
+[[Page 133 STAT. 3280]]
+
+        service from adding any additional line item charges to consumer 
+        or small business customer subscribers for the effective call 
+        authentication technology required under paragraph (1).
+            (7) <<NOTE: Deadline.>>  Accurate identification.--Not later 
+        than 12 months after the date of the enactment of this Act, the 
+        Commission shall issue best practices that providers of voice 
+        service may use as part of the implementation of effective call 
+        authentication frameworks under paragraph (1) to take steps to 
+        ensure the calling party is accurately identified.
+
+    (c) Safe Harbor and Other Regulations.--
+            (1) <<NOTE: Deadline.>>  In general.--Consistent with the 
+        regulations prescribed under subsection (j) of section 227 of 
+        the Communications Act of 1934 (47 U.S.C. 227), as added by 
+        section 10, the Commission shall, not later than 1 year after 
+        the date of the enactment of this Act, promulgate rules--
+                    (A) establishing when a provider of voice service 
+                may block a voice call based, in whole or in part, on 
+                information provided by the call authentication 
+                frameworks under subsection (b), with no additional line 
+                item charge;
+                    (B) establishing a safe harbor for a provider of 
+                voice service from liability for unintended or 
+                inadvertent blocking of calls or for the unintended or 
+                inadvertent misidentification of the level of trust for 
+                individual calls based, in whole or in part, on 
+                information provided by the call authentication 
+                frameworks under subsection (b);
+                    (C) establishing a process to permit a calling party 
+                adversely affected by the information provided by the 
+                call authentication frameworks under subsection (b) to 
+                verify the authenticity of the calling party's calls; 
+                and
+                    (D) ensuring that calls originating from a provider 
+                of voice service in an area where the provider is 
+                subject to a delay of compliance with the time period 
+                described in subsection (b)(1) are not unreasonably 
+                blocked because the calls are not able to be 
+                authenticated.
+            (2) Considerations.--In establishing the safe harbor under 
+        paragraph (1), consistent with the regulations prescribed under 
+        subsection (j) of section 227 of the Communications Act of 1934 
+        (47 U.S.C. 227), as added by section 10, the Commission shall 
+        consider limiting the liability of a provider of voice service 
+        based on the extent to which the provider of voice service--
+                    (A) blocks or identifies calls based, in whole or in 
+                part, on the information provided by the call 
+                authentication frameworks under subsection (b);
+                    (B) implemented procedures based, in whole or in 
+                part, on the information provided by the call 
+                authentication frameworks under subsection (b); and
+                    (C) used reasonable care, including making all 
+                reasonable efforts to avoid blocking emergency public 
+                safety calls.
+
+    (d) Rule of Construction.--Nothing in this section shall preclude 
+the Commission from initiating a rulemaking pursuant to its existing 
+statutory authority.
+SEC. 5. INTERAGENCY WORKING GROUP.
+
+    (a) <<NOTE: Consultation. Study.>>  In General.--The Attorney 
+General, in consultation with the Chairman of the Commission, shall 
+convene an interagency working group to study Government prosecution of 
+violations of section 227(b) of the Communications Act of 1934 (47 
+U.S.C. 227(b)).
+
+[[Page 133 STAT. 3281]]
+
+    (b) Duties.--In carrying out the study under subsection (a), the 
+interagency working group shall--
+            (1) determine whether, and if so how, any Federal laws, 
+        including regulations, policies, and practices, or budgetary or 
+        jurisdictional constraints inhibit the prosecution of such 
+        violations;
+            (2) identify existing and potential Federal policies and 
+        programs that encourage and improve coordination among Federal 
+        departments and agencies and States, and between States, in the 
+        prevention and prosecution of such violations;
+            (3) identify existing and potential international policies 
+        and programs that encourage and improve coordination between 
+        countries in the prevention and prosecution of such violations; 
+        and
+            (4) consider--
+                    (A) the benefit and potential sources of additional 
+                resources for the Federal prevention and prosecution of 
+                criminal violations of that section;
+                    (B) whether to establish memoranda of understanding 
+                regarding the prevention and prosecution of such 
+                violations between--
+                          (i) the States;
+                          (ii) the States and the Federal Government; 
+                      and
+                          (iii) the Federal Government and a foreign 
+                      government;
+                    (C) whether to establish a process to allow States 
+                to request Federal subpoenas from the Commission;
+                    (D) whether extending civil enforcement authority to 
+                the States would assist in the successful prevention and 
+                prosecution of such violations;
+                    (E) whether increased forfeiture and imprisonment 
+                penalties are appropriate, such as extending 
+                imprisonment for such a violation to a term longer than 
+                2 years;
+                    (F) whether regulation of any entity that enters 
+                into a business arrangement with a common carrier 
+                regulated under title II of the Communications Act of 
+                1934 (47 U.S.C. 201 et seq.) for the specific purpose of 
+                carrying, routing, or transmitting a call that 
+                constitutes such a violation would assist in the 
+                successful prevention and prosecution of such 
+                violations; and
+                    (G) the extent to which, if any, Department of 
+                Justice policies to pursue the prosecution of violations 
+                causing economic harm, physical danger, or erosion of an 
+                inhabitant's peace of mind and sense of security inhibit 
+                the prevention or prosecution of such violations.
+
+    (c) Members.--The interagency working group shall be composed of 
+such representatives of Federal departments and agencies as the Attorney 
+General considers appropriate, such as--
+            (1) the Department of Commerce;
+            (2) the Department of State;
+            (3) the Department of Homeland Security;
+            (4) the Commission;
+            (5) the Federal Trade Commission; and
+            (6) the Bureau of Consumer Financial Protection.
+
+    (d) <<NOTE: Consultation. Determination.>>  Non-Federal 
+Stakeholders.--In carrying out the study under subsection (a), the 
+interagency working group shall consult
+
+[[Page 133 STAT. 3282]]
+
+with such non-Federal stakeholders as the Attorney General determines 
+have the relevant expertise, including the National Association of 
+Attorneys General.
+
+    (e) Report to Congress.--Not later than 270 days after the date of 
+the enactment of this Act, the interagency working group shall submit to 
+the Committee on Energy and Commerce of the House of Representatives and 
+the Committee on Commerce, Science, and Transportation of the Senate a 
+report on the findings of the study under subsection (a), including--
+            (1) <<NOTE: Recommenda- tions.>> any recommendations 
+        regarding the prevention and prosecution of such violations; and
+            (2) a description of what progress, if any, relevant Federal 
+        departments and agencies have made in implementing the 
+        recommendations under paragraph (1).
+SEC. <<NOTE: 47 USC 227b-1.>>  6. ACCESS TO NUMBER RESOURCES.
+
+    (a) In General.--
+            (1) <<NOTE: Deadline. Determination.>>  Examination of fcc 
+        policies.--Not later than 180 days after the date of the 
+        enactment of this Act, the Commission shall commence a 
+        proceeding to determine how Commission policies regarding access 
+        to number resources, including number resources for toll-free 
+        and non-toll-free telephone numbers, could be modified, 
+        including by establishing registration and compliance 
+        obligations, and requirements that providers of voice service 
+        given access to number resources take sufficient steps to know 
+        the identity of the customers of such providers, to help reduce 
+        access to numbers by potential perpetrators of violations of 
+        section 227(b) of the Communications Act of 1934 (47 U.S.C. 
+        227(b)).
+            (2) Regulations.--If the Commission determines under 
+        paragraph (1) that modifying the policies described in that 
+        paragraph could help achieve the goal described in that 
+        paragraph, the Commission shall prescribe regulations to 
+        implement those policy modifications.
+
+    (b) <<NOTE: Penalties.>>  Authority.--Any person who knowingly, 
+through an employee, agent, officer, or otherwise, directly or 
+indirectly, by or through any means or device whatsoever, is a party to 
+obtaining number resources, including number resources for toll-free and 
+non-toll-free telephone numbers, from a common carrier regulated under 
+title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.), in 
+violation of a regulation prescribed under subsection (a), shall, 
+notwithstanding section 503(b)(5) of the Communications Act of 1934 (47 
+U.S.C. 503(b)(5)), be subject to a forfeiture penalty under section 
+503(b) of that Act (47 U.S.C. 503(b)). A forfeiture penalty under this 
+subsection shall be in addition to any other penalty provided for by 
+law.
+SEC. 7. <<NOTE: 47 USC 227 note.>>  PROTECTIONS FROM SPOOFED 
+                    CALLS.
+
+    (a) <<NOTE: Deadline. Regulations.>>  In General.--Not later than 1 
+year after the date of the enactment of this Act, and consistent with 
+the call authentication frameworks under section 4, the Commission shall 
+initiate a rulemaking to help protect a subscriber from receiving 
+unwanted calls or text messages from a caller using an unauthenticated 
+number.
+
+    (b) Considerations.--In promulgating rules under subsection (a), the 
+Commission shall consider--
+            (1) the Government Accountability Office report on combating 
+        the fraudulent provision of misleading or inaccurate caller 
+        identification information required by section 503(c) of
+
+[[Page 133 STAT. 3283]]
+
+        division P of the Consolidated Appropriations Act, 2018 (Public 
+        Law 115-141);
+            (2) the best means of ensuring that a subscriber or provider 
+        has the ability to block calls from a caller using an 
+        unauthenticated North American Numbering Plan number;
+            (3) the impact on the privacy of a subscriber from 
+        unauthenticated calls;
+            (4) the effectiveness in verifying the accuracy of caller 
+        identification information; and
+            (5) the availability and cost of providing protection from 
+        the unwanted calls or text messages described in subsection (a).
+SEC. 8. CONSUMER PROTECTIONS FOR EXEMPTIONS.
+
+    (a) In General.--Section 227(b)(2) of the Communications Act of 1934 
+(47 U.S.C. 227(b)(2)) is amended--
+            (1) in subparagraph (G)(ii), by striking ``; and'' and 
+        inserting a semicolon;
+            (2) in subparagraph (H), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(I) shall ensure that any exemption under 
+                subparagraph (B) or (C) contains requirements for calls 
+                made in reliance on the exemption with respect to--
+                          ``(i) the classes of parties that may make 
+                      such calls;
+                          ``(ii) the classes of parties that may be 
+                      called; and
+                          ``(iii) the number of such calls that a 
+                      calling party may make to a particular called 
+                      party.''.
+
+    (b) <<NOTE: 47 USC 227 note.>> Deadline for Regulations.--In the 
+case of any exemption issued under subparagraph (B) or (C) of section 
+227(b)(2) of the Communications Act of 1934 (47 U.S.C. 227(b)(2)) before 
+the date of the enactment of this Act, the Commission shall, not later 
+than 1 year after such date of enactment, prescribe such regulations, or 
+amend such existing regulations, as necessary to ensure that such 
+exemption contains each requirement described in subparagraph (I) of 
+such section, as added by subsection (a). To the extent such an 
+exemption contains such a requirement before such date of enactment, 
+nothing in this section or the amendments made by this section shall be 
+construed to require the Commission to prescribe or amend regulations 
+relating to such requirement.
+SEC. 9. REPORT ON REASSIGNED NUMBER DATABASE.
+
+    (a) <<NOTE: Public information. Web posting.>>  Report to 
+Congress.--Not later than 1 year after the date of the enactment of this 
+Act, the Commission shall submit to Congress, and make publicly 
+available on the website of the Commission, a report on the status of 
+the efforts of the Commission pursuant to the Second Report and Order in 
+the matter of Advanced Methods to Target and Eliminate Unlawful 
+Robocalls (CG Docket No. 17-59; FCC 18-177; adopted on December 12, 
+2018).
+
+    (b) Contents.--The report required by subsection (a) shall describe 
+the efforts of the Commission, as described in such Second Report and 
+Order, to ensure--
+            (1) the establishment of a database of telephone numbers 
+        that have been disconnected, in order to provide a person making 
+        calls subject to section 227(b) of the Communications Act of 
+        1934 (47 U.S.C. 227(b)) with comprehensive and timely 
+        information to enable such person to avoid making calls without
+
+[[Page 133 STAT. 3284]]
+
+        the prior express consent of the called party because the number 
+        called has been reassigned;
+            (2) that a person who wishes to use any safe harbor provided 
+        pursuant to such Second Report and Order with respect to making 
+        calls must demonstrate that, before making the call, the person 
+        appropriately checked the most recent update of the database and 
+        the database reported that the number had not been disconnected; 
+        and
+            (3) that if the person makes the demonstration described in 
+        paragraph (2), the person will be shielded from liability under 
+        section 227(b) of the Communications Act of 1934 (47 U.S.C. 
+        227(b)) should the database return an inaccurate result.
+SEC. 10. STOP ROBOCALLS.
+
+    (a) Information Sharing Regarding Robocall and Spoofing 
+Violations.--Section 227 of the Communications Act of 1934 (47 U.S.C. 
+227) is amended by adding at the end the following:
+    ``(i) Information Sharing.--
+            ``(1) <<NOTE: Deadline. Regulations.>>  In general.--Not 
+        later than 18 months after the date of the enactment of this 
+        subsection, the Commission shall prescribe regulations to 
+        establish a process that streamlines the ways in which a private 
+        entity may voluntarily share with the Commission information 
+        relating to--
+                    ``(A) a call made or a text message sent in 
+                violation of subsection (b); or
+                    ``(B) a call or text message for which misleading or 
+                inaccurate caller identification information was caused 
+                to be transmitted in violation of subsection (e).
+            ``(2) Text message defined.--In this subsection, the term 
+        `text message' has the meaning given such term in subsection 
+        (e)(8).''.
+
+    (b) Robocall Blocking Service.--Section 227 of the Communications 
+Act of 1934 (47 U.S.C. 227), as amended by subsection (a), is further 
+amended by adding at the end the following:
+    ``(j) Robocall Blocking Service.--
+            ``(1) <<NOTE: Deadline.>>  In general.--Not later than 1 
+        year after the date of the enactment of this subsection, the 
+        Commission shall take a final agency action to ensure the 
+        robocall blocking services provided on an opt-out or opt-in 
+        basis pursuant to the Declaratory Ruling of the Commission in 
+        the matter of Advanced Methods to Target and Eliminate Unlawful 
+        Robocalls (CG Docket No. 17-59; FCC 19-51; adopted on June 6, 
+        2019)--
+                    ``(A) are provided with transparency and effective 
+                redress options for both--
+                          ``(i) consumers; and
+                          ``(ii) callers; and
+                    ``(B) are provided with no additional line item 
+                charge to consumers and no additional charge to callers 
+                for resolving complaints related to erroneously blocked 
+                calls; and
+                    ``(C) make all reasonable efforts to avoid blocking 
+                emergency public safety calls.
+            ``(2) Text message defined.--In this subsection, the term 
+        `text message' has the meaning given such term in subsection 
+        (e)(8).''.
+
+    (c) Study on Information Requirements for Certain VoIP Service 
+Providers.--
+
+[[Page 133 STAT. 3285]]
+
+            (1) In general.--The Commission shall conduct a study 
+        regarding whether to require a provider of covered VoIP service 
+        to--
+                    (A) provide to the Commission contact information 
+                for such provider and keep such information current; and
+                    (B) retain records relating to each call transmitted 
+                over the covered VoIP service of such provider that are 
+                sufficient to trace such call back to the source of such 
+                call.
+            (2) Report to congress.--Not later than 18 months after the 
+        date of the enactment of this Act, the Commission shall submit 
+        to Congress a report on the results of the study conducted under 
+        paragraph (1).
+            (3) Covered voip service defined.--In this subsection, the 
+        term ``covered VoIP service'' means a service that--
+                    (A) is an interconnected VoIP service (as defined in 
+                section 3 of the Communications Act of 1934 (47 U.S.C. 
+                153)); or
+                    (B) would be an interconnected VoIP service (as so 
+                defined) except that the service permits users to 
+                terminate calls to the public switched telephone network 
+                but does not permit users to receive calls that 
+                originate on the public switched telephone network.
+
+    (d) <<NOTE: Applicability. 47 USC 227 note.>>  Transitional Rule 
+Regarding Definition of Text Message.--Paragraph (2) of subsection (i) 
+of section 227 of the Communications Act of 1934 (47 U.S.C. 227), as 
+added by subsection (a) of this section, and paragraph (2) of subsection 
+(j) of such section 227, as added by subsection (b) of this section, 
+shall apply before the effective date of the amendment made to 
+subsection (e)(8) of such section 227 by subparagraph (C) of section 
+503(a)(2) of division P of the Consolidated Appropriations Act, 2018 
+(Public Law 115-141) as if such amendment was already in effect.
+SEC. 11. <<NOTE: 47 USC 227b-2.>> PROVISION OF EVIDENCE OF CERTAIN 
+                      ROBOCALL VIOLATIONS TO ATTORNEY GENERAL.
+
+    (a) In General.--If the Chief of the Enforcement Bureau of the 
+Commission obtains evidence that suggests a willful, knowing, and 
+repeated robocall violation with an intent to defraud, cause harm, or 
+wrongfully obtain anything of value, the Chief of the Enforcement Bureau 
+shall provide such evidence to the Attorney General.
+    (b) <<NOTE: Web posting.>>  Report to Congress.--Not later than 1 
+year after the date of the enactment of this Act, and annually 
+thereafter, the Commission shall publish on its website and submit to 
+the Committee on Energy and Commerce of the House of Representatives and 
+the Committee on Commerce, Science, and Transportation of the Senate a 
+report that--
+            (1) states the number of instances during the preceding year 
+        in which the Chief of the Enforcement Bureau provided the 
+        evidence described in subsection (a) to the Attorney General; 
+        and
+            (2) contains a general summary of the types of robocall 
+        violations to which such evidence relates.
+
+    (c) Rules of Construction.--Nothing in this section shall be 
+construed to affect the ability of the Commission or the Chief of the 
+Enforcement Bureau under other law--
+            (1) to refer a matter to the Attorney General; or
+
+[[Page 133 STAT. 3286]]
+
+            (2) to pursue or continue pursuit of an enforcement action 
+        in a matter with respect to which the Chief of the Enforcement 
+        Bureau provided the evidence described in subsection (a) to the 
+        Attorney General.
+
+    (d) Robocall Violation Defined.--In this section, the term 
+``robocall violation'' means a violation of subsection (b) or (e) of 
+section 227 of the Communications Act of 1934 (47 U.S.C. 227).
+SEC. 12. <<NOTE: 47 USC 227 note.>> PROTECTION FROM ONE-RING 
+                      SCAMS.
+
+    (a) <<NOTE: Deadline.>>  Initiation of Proceeding.--Not later than 
+120 days after the date of the enactment of this Act, the Commission 
+shall initiate a proceeding to protect called parties from one-ring 
+scams.
+
+    (b) Matters To Be Considered.--As part of the proceeding required by 
+subsection (a), the Commission shall consider how the Commission can--
+            (1) work with Federal and State law enforcement agencies to 
+        address one-ring scams;
+            (2) work with the governments of foreign countries to 
+        address one-ring scams;
+            (3) <<NOTE: Consultation.>>  in consultation with the 
+        Federal Trade Commission, better educate consumers about how to 
+        avoid one-ring scams;
+            (4) incentivize voice service providers to stop calls made 
+        to perpetrate one-ring scams from being received by called 
+        parties, including consideration of adding identified one-ring 
+        scam type numbers to the Commission's existing list of 
+        permissible categories for carrier-initiated blocking;
+            (5) work with entities that provide call-blocking services 
+        to address one-ring scams; and
+            (6) establish obligations on international gateway providers 
+        that are the first point of entry for these calls into the 
+        United States, including potential requirements that such 
+        providers verify with the foreign originator the nature or 
+        purpose of calls before initiating service.
+
+    (c) <<NOTE: Web posting.>>  Report to Congress.--Not later than 1 
+year after the date of the enactment of this Act, the Commission shall 
+publish on its website and submit to the Committee on Energy and 
+Commerce of the House of Representatives and the Committee on Commerce, 
+Science, and Transportation of the Senate a report on the status of the 
+proceeding required by subsection (a).
+
+    (d) Definitions.--In this section:
+            (1) One-ring scam.--The term ``one-ring scam'' means a scam 
+        in which a caller makes a call and allows the call to ring the 
+        called party for a short duration, in order to prompt the called 
+        party to return the call, thereby subjecting the called party to 
+        charges.
+            (2) State.--The term ``State'' has the meaning given such 
+        term in section 3 of the Communications Act of 1934 (47 U.S.C. 
+        153).
+            (3) Voice service.--The term ``voice service'' has the 
+        meaning given such term in section 227(e)(8) of the 
+        Communications Act of 1934 (47 U.S.C. 
+        227(e)(8)). <<NOTE: Applicability.>> This paragraph shall apply 
+        before the effective date of the amendment made to such section 
+        by subparagraph (C) of section 503(a)(2) of division P of the 
+        Consolidated Appropriations Act, 2018 (Public Law 115-141) as if 
+        such amendment was already in effect.
+
+[[Page 133 STAT. 3287]]
+
+SEC. 13. ANNUAL ROBOCALL REPORT.
+
+    (a) <<NOTE: Public information. Web posting.>>  In General.--Not 
+later than 1 year after the date of the enactment of this Act, and 
+annually thereafter, the Commission shall make publicly available on the 
+website of the Commission, and submit to the Committee on Energy and 
+Commerce of the House of Representatives and the Committee on Commerce, 
+Science, and Transportation of the Senate, a report on the status of 
+private-led efforts to trace back the origin of suspected unlawful 
+robocalls by the registered consortium and the participation of voice 
+service providers in such efforts.
+
+    (b) Contents of Report.--The report required under subsection (a) 
+shall include, at minimum, the following:
+            (1) A description of private-led efforts to trace back the 
+        origin of suspected unlawful robocalls by the registered 
+        consortium and the actions taken by the registered consortium to 
+        coordinate with the Commission.
+            (2) <<NOTE: Lists.>>  A list of voice service providers 
+        identified by the registered consortium that participated in 
+        private-led efforts to trace back the origin of suspected 
+        unlawful robocalls through the registered consortium.
+            (3) <<NOTE: Lists.>>  A list of each voice service provider 
+        that received a request from the registered consortium to 
+        participate in private-led efforts to trace back the origin of 
+        suspected unlawful robocalls and refused to participate, as 
+        identified by the registered consortium.
+            (4) The reason, if any, each voice service provider 
+        identified by the registered consortium provided for not 
+        participating in private-led efforts to trace back the origin of 
+        suspected unlawful robocalls.
+            (5) A description of how the Commission may use the 
+        information provided to the Commission by voice service 
+        providers or the registered consortium that have participated in 
+        private-led efforts to trace back the origin of suspected 
+        unlawful robocalls in the enforcement efforts by the Commission.
+
+    (c) <<NOTE: Public information.>>  Additional Information.--Not 
+later than 210 days after the date of the enactment of this Act, and 
+annually thereafter, the Commission shall issue a notice to the public 
+seeking additional information from voice service providers and the 
+registered consortium of private-led efforts to trace back the origin of 
+suspected unlawful robocalls necessary for the report by the Commission 
+required under subsection (a).
+
+    (d) Registration of Consortium of Private-Led Efforts To Trace Back 
+the Origin of Suspected Unlawful Robocalls.--
+            (1) In general.--Not later than 90 days after the date of 
+        the enactment of this Act, the Commission shall issue rules to 
+        establish a registration process for the registration of a 
+        single consortium that conducts private-led efforts to trace 
+        back the origin of suspected unlawful 
+        robocalls. <<NOTE: Requirements.>> The consortium shall meet the 
+        following requirements:
+                    (A) Be a neutral third party competent to manage the 
+                private-led effort to trace back the origin of suspected 
+                unlawful robocalls in the judgement of the Commission.
+                    (B) Maintain a set of written best practices about 
+                the management of such efforts and regarding providers 
+                of voice services' participation in private-led efforts 
+                to trace back the origin of suspected unlawful 
+                robocalls.
+
+[[Page 133 STAT. 3288]]
+
+                    (C) Consistent with section 222(d)(2) of the 
+                Communications Act of 1934 (47 U.S.C. 222(d)(2)), any 
+                private-led efforts to trace back the origin of 
+                suspected unlawful robocalls conducted by the third 
+                party focus on ``fraudulent, abusive, or unlawful'' 
+                traffic.
+                    (D) <<NOTE: Notice.>>  File a notice with the 
+                Commission that the consortium intends to conduct 
+                private-led efforts to trace back in advance of such 
+                registration.
+            (2) Annual notice by the commission seeking registrations.--
+        Not <<NOTE: Deadline. Public information.>> later than 120 days 
+        after the date of the enactment of this Act, and annually 
+        thereafter, the Commission shall issue a notice to the public 
+        seeking the registration described in paragraph (1).
+
+    (e) List of Voice Service Providers.--The Commission may publish a 
+list of voice service providers and take appropriate enforcement action 
+based on information obtained from the consortium about voice service 
+providers that refuse to participate in private-led efforts to trace 
+back the origin of suspected unlawful robocalls, and other information 
+the Commission may collect about voice service providers that are found 
+to originate or transmit substantial amounts of unlawful robocalls.
+    (f) Definitions.--In this section:
+            (1) Private-led effort to trace back.--The term ``private-
+        led effort to trace back'' means an effort made by the 
+        registered consortium of voice service providers to establish a 
+        methodology for determining the origin of a suspected unlawful 
+        robocall.
+            (2) Registered consortium.--The term ``registered 
+        consortium'' means the consortium registered under subsection 
+        (d).
+            (3) Suspected unlawful robocall.--The term ``suspected 
+        unlawful robocall'' means a call that the Commission or a voice 
+        service provider reasonably believes was made in violation of 
+        subsection (b) or (e) of section 227 of the Communications Act 
+        of 1934 (47 U.S.C. 227).
+            (4) Voice service.--The term ``voice service''--
+                    (A) means any service that is interconnected with 
+                the public switched telephone network and that furnishes 
+                voice communications to an end user using resources from 
+                the North American Numbering Plan or any successor to 
+                the North American Numbering Plan adopted by the 
+                Commission under section 251(e)(1) of the Communications 
+                Act of 1934 (47 U.S.C. 251(e)(1)); and
+                    (B) includes--
+                          (i) transmissions from a telephone facsimile 
+                      machine, computer, or other device to a telephone 
+                      facsimile machine; and
+                          (ii) without limitation, any service that 
+                      enables real-time, two-way voice communications, 
+                      including any service that requires internet 
+                      protocol-compatible customer premises equipment 
+                      (commonly known as ``CPE'') and permits out-bound 
+                      calling, whether or not the service is one-way or 
+                      two-way voice over internet protocol.
+SEC. 14. <<NOTE: 47 USC 227 note.>>  HOSPITAL ROBOCALL PROTECTION 
+                      GROUP.
+
+    (a) <<NOTE: Deadline.>>  Establishment.--Not later than 180 days 
+after the date of the enactment of this Act, the Commission shall 
+establish an
+
+[[Page 133 STAT. 3289]]
+
+advisory committee to be known as the ``Hospital Robocall Protection 
+Group''.
+
+    (b) Membership.--The Group shall be composed only of the following 
+members:
+            (1) An equal number of representatives from each of the 
+        following:
+                    (A) Voice service providers that serve hospitals.
+                    (B) Companies that focus on mitigating unlawful 
+                robocalls.
+                    (C) Consumer advocacy organizations.
+                    (D) Providers of one-way voice over internet 
+                protocol services described in subsection (e)(3)(B)(ii).
+                    (E) Hospitals.
+                    (F) State government officials focused on combating 
+                unlawful robocalls.
+            (2) One representative of the Commission.
+            (3) One representative of the Federal Trade Commission.
+
+    (c) <<NOTE: Deadline.>>  Issuance of Best Practices.--Not later than 
+180 days after the date on which the Group is established under 
+subsection (a), the Group shall issue best practices regarding the 
+following:
+            (1) How voice service providers can better combat unlawful 
+        robocalls made to hospitals.
+            (2) How hospitals can better protect themselves from such 
+        calls, including by using unlawful robocall mitigation 
+        techniques.
+            (3) How the Federal Government and State governments can 
+        help combat such calls.
+
+    (d) <<NOTE: Deadline. Assessment.>>  Proceeding by FCC.--Not later 
+than 180 days after the date on which the best practices are issued by 
+the Group under subsection (c), the Commission shall conclude a 
+proceeding to assess the extent to which the voluntary adoption of such 
+best practices can be facilitated to protect hospitals and other 
+institutions.
+
+    (e) Definitions.--In this section:
+            (1) Group.--The term ``Group'' means the Hospital Robocall 
+        Protection Group established under subsection (a).
+            (2) State.--The term ``State'' has the meaning given such 
+        term in section 3 of the Communications Act of 1934 (47 U.S.C. 
+        153).
+            (3) Voice service.--The term ``voice service''--
+                    (A) means any service that is interconnected with 
+                the public switched telephone network and that furnishes 
+                voice communications to an end user using resources from 
+                the North American Numbering Plan or any successor to 
+                the North American Numbering Plan adopted by the 
+                Commission under section 251(e)(1) of the Communications 
+                Act of 1934 (47 U.S.C. 251(e)(1)); and
+                    (B) includes--
+                          (i) transmissions from a telephone facsimile 
+                      machine, computer, or other device to a telephone 
+                      facsimile machine; and
+                          (ii) without limitation, any service that 
+                      enables real-time, two-way voice communications, 
+                      including any service that requires internet 
+                      protocol-compatible customer premises equipment 
+                      (commonly known as ``CPE'') and permits out-bound 
+                      calling, whether or not the service is one-way or 
+                      two-way voice over internet protocol.
+
+[[Page 133 STAT. 3290]]
+
+SEC. 15. SEPARABILITY CLAUSE.
+
+    If any provision of this Act, the amendments made by this Act, or 
+the application thereof to any person or circumstance is held invalid, 
+the remainder of this Act, the amendments made by this Act, and the 
+application of such provision to other persons or circumstances shall 
+not be affected thereby.
+
+    Approved December 30, 2019.
+
+LEGISLATIVE HISTORY--S. 151:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 116-41 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 165 (2019):
+            May 23, considered and passed Senate.
+            Dec. 4, considered and passed House, amended.
+            Dec. 19, Senate concurred in House amendment.
+
+                                  
+

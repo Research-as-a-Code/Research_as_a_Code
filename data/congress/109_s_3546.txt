@@ -1,0 +1,488 @@
+
+[109th Congress Public Law 462]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ462.109]
+
+[[Page 120 STAT. 3469]]
+
+Public Law 109-462
+109th Congress
+
+                                 An Act
+
+
+ 
+   To amend the Federal Food, Drug, and Cosmetic Act with respect to 
+      serious adverse event reporting for dietary supplements and 
+    nonprescription drugs, and for other purposes. <<NOTE: Dec. 22, 
+                          2006 -  [S. 3546]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Dietary 
+Supplement and Nonprescription Drug Consumer Protection Act.>> 
+
+SECTION 1. <<NOTE: 21 USC 301 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Dietary Supplement and 
+Nonprescription Drug Consumer Protection Act''.
+
+SEC. 2. SERIOUS ADVERSE EVENT REPORTING FOR NONPRESCRIPTION DRUGS.
+
+    (a) In General.--Chapter VII of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 371 et seq.) is amended by adding at the end the 
+following:
+
+              ``Subchapter H--Serious Adverse Event Reports
+
+``SEC. 760. <<NOTE: 21 USC 379aa.>> SERIOUS ADVERSE EVENT REPORTING FOR 
+            NONPRESCRIPTION DRUGS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Adverse event.--The term `adverse event' means any 
+        health-related event associated with the use of a 
+        nonprescription drug that is adverse, including--
+                    ``(A) an event occurring from an overdose of the 
+                drug, whether accidental or intentional;
+                    ``(B) an event occurring from abuse of the drug;
+                    ``(C) an event occurring from withdrawal from the 
+                drug; and
+                    ``(D) any failure of expected pharmacological action 
+                of the drug.
+            ``(2) Nonprescription drug.--The term `nonprescription drug' 
+        means a drug that is--
+                    ``(A) not subject to section 503(b); and
+                    ``(B) not subject to approval in an application 
+                submitted under section 505.
+            ``(3) Serious adverse event.--The term `serious adverse 
+        event' is an adverse event that--
+                    ``(A) results in--
+                          ``(i) death;
+                          ``(ii) a life-threatening experience;
+                          ``(iii) inpatient hospitalization;
+                          ``(iv) a persistent or significant disability 
+                      or incapacity; or
+
+[[Page 120 STAT. 3470]]
+
+                          ``(v) a congenital anomaly or birth defect; or
+                    ``(B) requires, based on reasonable medical 
+                judgment, a medical or surgical intervention to prevent 
+                an outcome described under subparagraph (A).
+            ``(4) Serious adverse event report.--The term `serious 
+        adverse event report' means a report that is required to be 
+        submitted to the Secretary under subsection (b).
+
+    ``(b) Reporting Requirement.--
+            ``(1) In general.--The manufacturer, packer, or distributor 
+        whose name (pursuant to section 502(b)(1)) appears on the label 
+        of a nonprescription drug marketed in the United States 
+        (referred to in this section as the `responsible person') shall 
+        submit to the Secretary any report received of a serious adverse 
+        event associated with such drug when used in the United States, 
+        accompanied by a copy of the label on or within the retail 
+        package of such drug.
+            ``(2) Retailer.--A retailer whose name appears on the label 
+        described in paragraph (1) as a distributor may, by agreement, 
+        authorize the manufacturer or packer of the nonprescription drug 
+        to submit the required reports for such drugs to the Secretary 
+        so long as the retailer directs to the manufacturer or packer 
+        all adverse events associated with such drug that are reported 
+        to the retailer through the address or telephone number 
+        described in section 502(x).
+
+    ``(c) Submission of Reports.--
+            ``(1) Timing of reports.--The responsible person shall 
+        submit to the Secretary a serious adverse event report no later 
+        than 15 business days after the report is received through the 
+        address or phone number described in section 502(x).
+            ``(2) New medical information.--The responsible person shall 
+        submit to the Secretary any new medical information, related to 
+        a submitted serious adverse event report that is received by the 
+        responsible person within 1 year of the initial report, no later 
+        than 15 business days after the new information is received by 
+        the responsible person.
+            ``(3) Consolidation of reports.--The Secretary shall develop 
+        systems to ensure that duplicate reports of, and new medical 
+        information related to, a serious adverse event shall be 
+        consolidated into a single report.
+            ``(4) Exemption.--The Secretary, after providing notice and 
+        an opportunity for comment from interested parties, may 
+        establish an exemption to the requirements under paragraphs (1) 
+        and (2) if the Secretary determines that such exemption would 
+        have no adverse effect on public health.
+
+    ``(d) Contents of Reports.--Each serious adverse event report under 
+this section shall be submitted to the Secretary using the MedWatch 
+form, which may be modified by the Secretary for nonprescription drugs, 
+and may be accompanied by additional information.
+    ``(e) Maintenance and Inspection of Records.--
+            ``(1) Maintenance.--The responsible person shall maintain 
+        records related to each report of an adverse event received by 
+        the responsible person for a period of 6 years.
+            ``(2) Records inspection.--
+                    ``(A) In general.--The responsible person shall 
+                permit an authorized person to have access to records 
+                required
+
+[[Page 120 STAT. 3471]]
+
+                to be maintained under this section, during an 
+                inspection pursuant to section 704.
+                    ``(B) Authorized person.--For purposes of this 
+                paragraph, the term `authorized person' means an officer 
+                or employee of the Department of Health and Human 
+                Services who has--
+                          ``(i) appropriate credentials, as determined 
+                      by the Secretary; and
+                          ``(ii) been duly designated by the Secretary 
+                      to have access to the records required under this 
+                      section.
+
+    ``(f) Protected Information.--A serious adverse event report 
+submitted to the Secretary under this section, including any new medical 
+information submitted under subsection (c)(2), or an adverse event 
+report voluntarily submitted to the Secretary shall be considered to 
+be--
+            ``(1) a safety report under section 756 and may be 
+        accompanied by a statement, which shall be a part of any report 
+        that is released for public disclosure, that denies that the 
+        report or the records constitute an admission that the product 
+        involved caused or contributed to the adverse event; and
+            ``(2) a record about an individual under section 552a of 
+        title 5, United States Code (commonly referred to as the 
+        `Privacy Act of 1974') and a medical or similar file the 
+        disclosure of which would constitute a violation of section 552 
+        of such title 5 (commonly referred to as the `Freedom of 
+        Information Act'), and shall not be publicly disclosed unless 
+        all personally identifiable information is redacted.
+
+    ``(g) Rule of Construction.--The submission of any adverse event 
+report in compliance with this section shall not be construed as an 
+admission that the nonprescription drug involved caused or contributed 
+to the adverse event.
+    ``(h) Preemption.--
+            ``(1) In general.--No State or local government shall 
+        establish or continue in effect any law, regulation, order, or 
+        other requirement, related to a mandatory system for adverse 
+        event reports for nonprescription drugs, that is different from, 
+        in addition to, or otherwise not identical to, this section.
+            ``(2) Effect of section.--
+                    ``(A) In general.--Nothing in this section shall 
+                affect the authority of the Secretary to provide adverse 
+                event reports and information to any health, food, or 
+                drug officer or employee of any State, territory, or 
+                political subdivision of a State or territory, under a 
+                memorandum of understanding between the Secretary and 
+                such State, territory, or political subdivision.
+                    ``(B) Personally-identifiable information.--
+                Notwithstanding any other provision of law, personally-
+                identifiable information in adverse event reports 
+                provided by the Secretary to any health, food, or drug 
+                officer or employee of any State, territory, or 
+                political subdivision of a State or territory, shall 
+                not--
+                          ``(i) be made publicly available pursuant to 
+                      any State or other law requiring disclosure of 
+                      information or records; or
+                          ``(ii) otherwise be disclosed or distributed 
+                      to any party without the written consent of the 
+                      Secretary
+
+[[Page 120 STAT. 3472]]
+
+                      and the person submitting such information to the 
+                      Secretary.
+                    ``(C) Use of safety reports.--Nothing in this 
+                section shall permit a State, territory, or political 
+                subdivision of a State or territory, to use any safety 
+                report received from the Secretary in a manner 
+                inconsistent with subsection (g) or section 756.
+
+    ``(i) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section such sums as may be necessary.''.
+    (b) Modifications.--The <<NOTE: 21 USC 379aa note.>> Secretary of 
+Health and Human Services may modify requirements under the amendments 
+made by this section in accordance with section 553 of title 5, United 
+States Code, to maintain consistency with international harmonization 
+efforts over time.
+
+    (c) Prohibited Act.--Section 301(e) of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 331(e)) is amended by--
+            (1) striking ``, or 704(a);'' and inserting ``, 704(a), or 
+        760;''; and
+            (2) striking ``, or 564'' and inserting ``, 564, or 760''.
+
+    (d) Misbranding.--Section 502 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 352) is amended by adding at the end the 
+following:
+    ``(x) If it is a nonprescription drug (as defined in section 760) 
+that is marketed in the United States, unless the label of such drug 
+includes a domestic address or domestic phone number through which the 
+responsible person (as described in section 760) may receive a report of 
+a serious adverse event (as defined in section 760) with such drug.''.
+    (e) Effective Dates.--
+            (1) In general.--Except <<NOTE: 21 USC 352 note.>> as 
+        provided in paragraph (2), the amendments made by this section 
+        shall take effect 1 year after the date of enactment of this 
+        Act.
+            (2) Misbranding.--Section 502(x) of the Federal Food, Drug, 
+        and Cosmetic Act (as added by this section) shall apply to any 
+        nonprescription drug (as defined in such section 502(x)) labeled 
+        on or after the date that is 1 year after the date of enactment 
+        of this Act.
+            (3) Guidance.--Not <<NOTE: 21 USC 379aa note.>> later than 
+        270 days after the date of enactment of this Act, the Secretary 
+        of Health and Human Services shall issue guidance on the minimum 
+        data elements that should be included in a serious adverse event 
+        report described under the amendments made by this Act.
+
+SEC. 3. SERIOUS ADVERSE EVENT REPORTING FOR DIETARY SUPPLEMENTS.
+
+    (a) In General.--Chapter VII of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 371 et seq.) is amended by adding at the end the 
+following:
+
+``SEC. 761. <<NOTE: 21 USC 379aa-1.>> SERIOUS ADVERSE EVENT REPORTING 
+            FOR DIETARY SUPPLEMENTS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Adverse event.--The term `adverse event' means any 
+        health-related event associated with the use of a dietary 
+        supplement that is adverse.
+            ``(2) Serious adverse event.--The term `serious adverse 
+        event' is an adverse event that--
+
+[[Page 120 STAT. 3473]]
+
+                    ``(A) results in--
+                          ``(i) death;
+                          ``(ii) a life-threatening experience;
+                          ``(iii) inpatient hospitalization;
+                          ``(iv) a persistent or significant disability 
+                      or incapacity; or
+                          ``(v) a congenital anomaly or birth defect; or
+                    ``(B) requires, based on reasonable medical 
+                judgment, a medical or surgical intervention to prevent 
+                an outcome described under subparagraph (A).
+            ``(3) Serious adverse event report.--The term `serious 
+        adverse event report' means a report that is required to be 
+        submitted to the Secretary under subsection (b).
+
+    ``(b) Reporting Requirement.--
+            ``(1) In general.--The manufacturer, packer, or distributor 
+        of a dietary supplement whose name (pursuant to section 
+        403(e)(1)) appears on the label of a dietary supplement marketed 
+        in the United States (referred to in this section as the 
+        `responsible person') shall submit to the Secretary any report 
+        received of a serious adverse event associated with such dietary 
+        supplement when used in the United States, accompanied by a copy 
+        of the label on or within the retail packaging of such dietary 
+        supplement.
+            ``(2) Retailer.--A retailer whose name appears on the label 
+        described in paragraph (1) as a distributor may, by agreement, 
+        authorize the manufacturer or packer of the dietary supplement 
+        to submit the required reports for such dietary supplements to 
+        the Secretary so long as the retailer directs to the 
+        manufacturer or packer all adverse events associated with such 
+        dietary supplement that are reported to the retailer through the 
+        address or telephone number described in section 403(y).
+
+    ``(c) Submission of Reports.--
+            ``(1) Timing of reports.--The responsible person shall 
+        submit to the Secretary a serious adverse event report no later 
+        than 15 business days after the report is received through the 
+        address or phone number described in section 403(y).
+            ``(2) New medical information.--The responsible person shall 
+        submit to the Secretary any new medical information, related to 
+        a submitted serious adverse event report that is received by the 
+        responsible person within 1 year of the initial report, no later 
+        than 15 business days after the new information is received by 
+        the responsible person.
+            ``(3) Consolidation of reports.--The Secretary shall develop 
+        systems to ensure that duplicate reports of, and new medical 
+        information related to, a serious adverse event shall be 
+        consolidated into a single report.
+            ``(4) Exemption.--The Secretary, after providing notice and 
+        an opportunity for comment from interested parties, may 
+        establish an exemption to the requirements under paragraphs (1) 
+        and (2) if the Secretary determines that such exemption would 
+        have no adverse effect on public health.
+
+    ``(d) Contents of Reports.--Each serious adverse event report under 
+this section shall be submitted to the Secretary using the MedWatch 
+form, which may be modified by the Secretary for dietary supplements, 
+and may be accompanied by additional information.
+    ``(e) Maintenance and Inspection of Records.--
+
+[[Page 120 STAT. 3474]]
+
+            ``(1) Maintenance.--The responsible person shall maintain 
+        records related to each report of an adverse event received by 
+        the responsible person for a period of 6 years.
+            ``(2) Records inspection.--
+                    ``(A) In general.--The responsible person shall 
+                permit an authorized person to have access to records 
+                required to be maintained under this section during an 
+                inspection pursuant to section 704.
+                    ``(B) Authorized person.--For purposes of this 
+                paragraph, the term `authorized person' means an officer 
+                or employee of the Department of Health and Human 
+                Services, who has--
+                          ``(i) appropriate credentials, as determined 
+                      by the Secretary; and
+                          ``(ii) been duly designated by the Secretary 
+                      to have access to the records required under this 
+                      section.
+
+    ``(f) Protected Information.--A serious adverse event report 
+submitted to the Secretary under this section, including any new medical 
+information submitted under subsection (c)(2), or an adverse event 
+report voluntarily submitted to the Secretary shall be considered to 
+be--
+            ``(1) a safety report under section 756 and may be 
+        accompanied by a statement, which shall be a part of any report 
+        that is released for public disclosure, that denies that the 
+        report or the records constitute an admission that the product 
+        involved caused or contributed to the adverse event; and
+            ``(2) a record about an individual under section 552a of 
+        title 5, United States Code (commonly referred to as the 
+        `Privacy Act of 1974') and a medical or similar file the 
+        disclosure of which would constitute a violation of section 552 
+        of such title 5 (commonly referred to as the `Freedom of 
+        Information Act'), and shall not be publicly disclosed unless 
+        all personally identifiable information is redacted.
+
+    ``(g) Rule of Construction.--The submission of any adverse event 
+report in compliance with this section shall not be construed as an 
+admission that the dietary supplement involved caused or contributed to 
+the adverse event.
+    ``(h) Preemption.--
+            ``(1) In general.--No State or local government shall 
+        establish or continue in effect any law, regulation, order, or 
+        other requirement, related to a mandatory system for adverse 
+        event reports for dietary supplements, that is different from, 
+        in addition to, or otherwise not identical to, this section.
+            ``(2) Effect of section.--
+                    ``(A) In general.--Nothing in this section shall 
+                affect the authority of the Secretary to provide adverse 
+                event reports and information to any health, food, or 
+                drug officer or employee of any State, territory, or 
+                political subdivision of a State or territory, under a 
+                memorandum of understanding between the Secretary and 
+                such State, territory, or political subdivision.
+                    ``(B) Personally-identifiable information.--
+                Notwithstanding any other provision of law, personally-
+                identifiable information in adverse event reports 
+                provided by the Secretary to any health, food, or drug 
+                officer or employee of any State, territory, or 
+                political subdivision of a State or territory, shall 
+                not--
+
+[[Page 120 STAT. 3475]]
+
+                          ``(i) be made publicly available pursuant to 
+                      any State or other law requiring disclosure of 
+                      information or records; or
+                          ``(ii) otherwise be disclosed or distributed 
+                      to any party without the written consent of the 
+                      Secretary and the person submitting such 
+                      information to the Secretary.
+                    ``(C) Use of safety reports.--Nothing in this 
+                section shall permit a State, territory, or political 
+                subdivision of a State or territory, to use any safety 
+                report received from the Secretary in a manner 
+                inconsistent with subsection (g) or section 756.
+
+    ``(i) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section such sums as may be necessary.''.
+    (b) Prohibited Act.--Section 301(e) of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 331(e)) is amended by--
+            (1) striking ``, or 760;'' and inserting ``, 760, or 761;''; 
+        and
+            (2) striking ``, or 760'' and inserting ``, 760, or 761''.
+
+    (c) Misbranding.--Section 403 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 343) is amended by adding at the end the 
+following:
+    ``(y) If it is a dietary supplement that is marketed in the United 
+States, unless the label of such dietary supplement includes a domestic 
+address or domestic phone number through which the responsible person 
+(as described in section 761) may receive a report of a serious adverse 
+event with such dietary supplement.''.
+    (d) Effective Date.--
+            (1) In general.--Except <<NOTE: 21 USC 343 note.>> as 
+        provided in paragraph (2), the amendments made by this section 
+        shall take effect 1 year after the date of enactment of this 
+        Act.
+            (2) Misbranding.--Section 403(y) of the Federal Food, Drug, 
+        and Cosmetic Act (as added by this section) shall apply to any 
+        dietary supplement labeled on or after the date that is 1 year 
+        after the date of enactment of this Act.
+            (3) Guidance.--Not <<NOTE: 21 USC 379aa note.>> later than 
+        270 days after the date of enactment of this Act, the Secretary 
+        of Health and Human Services shall issue guidance on the minimum 
+        data elements that should be included in a serious adverse event 
+        report as described under the amendments made by this Act.
+
+SEC. 4. PROHIBITION OF FALSIFICATION OF REPORTS.
+
+    (a) In General.--Section 301 of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 331) is amended by adding at the end the following:
+    ``(ii) The falsification of a report of a serious adverse event 
+submitted to a responsible person (as defined under section 760 or 761) 
+or the falsification of a serious adverse event report (as defined under 
+section 760 or 761) submitted to the Secretary.''.
+    (b) Effective Date.--The <<NOTE: 21 USC 331 note.>> amendment made 
+by this section shall take effect 1 year after the date of enactment of 
+this Act.
+
+SEC. 5. IMPORTATION OF CERTAIN NONPRESCRIPTION DRUGS AND DIETARY 
+            SUPPLEMENTS.
+
+    (a) In General.--Section 801 of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 381) is amended--
+            (1) in subsection (a), by inserting after the third sentence 
+        the following: ``If such article is subject to a requirement 
+        under
+
+[[Page 120 STAT. 3476]]
+
+        section 760 or 761 and if the Secretary has credible evidence or 
+        information indicating that the responsible person (as defined 
+        in such section 760 or 761) has not complied with a requirement 
+        of such section 760 or 761 with respect to any such article, or 
+        has not allowed access to records described in such section 760 
+        or 761, then such article shall be refused admission, except as 
+        provided in subsection (b) of this section.''; and
+            (2) in the second sentence of subsection (b)--
+                    (A) by inserting ``(1)'' before ``an article 
+                included'';
+                    (B) by inserting before ``final determination'' the 
+                following: ``or (2) with respect to an article included 
+                within the provision of the fourth sentence of 
+                subsection (a), the responsible person (as defined in 
+                section 760 or 761) can take action that would assure 
+                that the responsible person is in compliance with 
+                section 760 or 761, as the case may be,''; and
+                    (C) by inserting ``, or, with respect to clause (2), 
+                the responsible person,'' before ``to perform''.
+
+    (b) Effective Date.--The <<NOTE: 21 USC 381 note.>> amendments made 
+by this section shall take effect 1 year after the date of enactment of 
+this Act.
+
+    Approved December 22, 2006.
+
+LEGISLATIVE HISTORY--S. 3546:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 109-324 (Comm. on Health, Education, Labor, and 
+Pensions).
+CONGRESSIONAL RECORD, Vol. 152 (2006):
+            Dec. 6, considered and passed Senate.
+            Dec. 8, considered and passed House.
+
+                                  
+

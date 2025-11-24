@@ -1,0 +1,3172 @@
+
+[109th Congress Public Law 155]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ155.109]
+
+[[Page 119 STAT. 2895]]
+
+Public Law 109-155
+109th Congress
+
+                                 An Act
+
+
+ 
+    To authorize the programs of the National Aeronautics and Space 
+          Administration. <<NOTE: Dec. 30, 2005 -  [S. 1281]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: National 
+Aeronautics and Space Administration Authorization Act of 2005.>> 
+
+SECTION 1. <<NOTE: 42 USC 16601 note.>> SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``National 
+Aeronautics and Space Administration Authorization Act of 2005''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+                 TITLE I--GENERAL PRINCIPLES AND REPORTS
+
+Sec. 101. Responsibilities, policies, and plans.
+Sec. 102. Reports.
+Sec. 103. Baselines and cost controls.
+Sec. 104. Prize authority.
+Sec. 105. Foreign launch vehicles.
+Sec. 106. Safety management.
+Sec. 107. Lessons learned and best practices.
+Sec. 108. Commercialization plan.
+Sec. 109. Study on the feasibility of use of ground source heat pumps.
+Sec. 110. Whistleblower protection.
+
+                TITLE II--AUTHORIZATION OF APPROPRIATIONS
+
+Sec. 201. Structure of budget accounts.
+Sec. 202. Fiscal year 2007.
+Sec. 203. Fiscal year 2008.
+Sec. 204. ISS research.
+Sec. 205. Test facilities.
+Sec. 206. Official representation fund.
+Sec. 207. ISS cost cap.
+
+                           TITLE III--SCIENCE
+
+                     Subtitle A--General Provisions
+
+Sec. 301. Performance assessments.
+Sec. 302. Status on Hubble Space Telescope servicing mission.
+Sec. 303. Independent assessment of Landsat-NPOESS integrated mission.
+Sec. 304. Assessment of science mission extensions.
+Sec. 305. Microgravity research.
+Sec. 306. Coordination with the National Oceanic and Atmospheric 
+           Administration.
+Sec. 307. Review and report on Headquarters Earth-Sun System Applied 
+           Sciences Program.
+
+                       Subtitle B--Remote Sensing
+
+Sec. 311. Definitions.
+Sec. 312. General responsibilities.
+Sec. 313. Pilot projects to encourage public sector applications.
+Sec. 314. Program evaluation.
+
+[[Page 119 STAT. 2896]]
+
+Sec. 315. Data availability.
+Sec. 316. Education.
+
+        Subtitle C--George E. Brown, Jr. Near-Earth Object Survey
+
+Sec. 321. George E. Brown, Jr. Near-Earth Object Survey.
+
+                          TITLE IV--AERONAUTICS
+
+Sec. 401. Definition.
+
+     Subtitle A--Governmental Interest in Aeronautics Research and 
+                               Development
+
+Sec. 411. Governmental interest.
+
+ Subtitle B--High Priority Aeronautics Research and Development Programs
+
+Sec. 421. Fundamental research program.
+Sec. 422. Research and technology programs.
+Sec. 423. Airspace systems research.
+Sec. 424. Aviation safety and security research.
+Sec. 425. Aviation weather research.
+Sec. 426. Assessment of wake turbulence research and development 
+           program.
+Sec. 427. University-based Centers for Research on Aviation Training.
+
+                        Subtitle C--Scholarships
+
+Sec. 431. NASA aeronautics scholarships.
+
+                        Subtitle D--Data Requests
+
+Sec. 441. Aviation data requests.
+
+                       TITLE V--HUMAN SPACE FLIGHT
+
+Sec. 501. Space Shuttle follow-on.
+Sec. 502. Transition.
+Sec. 503. Requirements.
+Sec. 504. Ground-based analog capabilities.
+Sec. 505. ISS completion.
+Sec. 506. ISS research.
+Sec. 507. National laboratory designation.
+
+                      TITLE VI--OTHER PROGRAM AREAS
+
+                  Subtitle A--Space and Flight Support
+
+Sec. 601. Orbital debris.
+Sec. 602. Secondary payload capability.
+
+                          Subtitle B--Education
+
+Sec. 611. Institutions in NASA's minority institutions program.
+Sec. 612. Program to expand distance learning in rural underserved 
+           areas.
+Sec. 613. Charles ``Pete'' Conrad Astronomy Awards.
+Sec. 614. Review of education programs.
+Sec. 615. Equal access to NASA's education programs.
+Sec. 616. Museums.
+Sec. 617. Review of MUST program.
+Sec. 618. Continuation of certain education programs.
+Sec. 619. Implementation of previous recommendations.
+
+                     Subtitle C--Technology Transfer
+
+Sec. 621. Commercial technology transfer program.
+
+                   TITLE VII--MISCELLANEOUS PROVISIONS
+
+        Subtitle A--National Aeronautics and Space Administration
+
+Sec. 701. Retrocession of jurisdiction.
+Sec. 702. Extension of indemnification.
+Sec. 703. NASA scholarships.
+Sec. 704. Independent cost analysis.
+Sec. 705. Recovery and disposition authority.
+Sec. 706. Changes to existing laws on reports.
+Sec. 707. Small business contracting.
+Sec. 708. NASA healthcare program.
+Sec. 709. Offshore performance of contracts for the procurement of goods 
+           and services.
+
+[[Page 119 STAT. 2897]]
+
+Sec. 710. Study on enhanced use leasing.
+
+                 Subtitle B--National Science Foundation
+
+Sec. 721. Data on specific fields of study.
+Sec. 722. National Science Foundation major research equipment and 
+           facilities.
+
+                  TITLE VIII--TASK FORCE AND COMMISSION
+
+  Subtitle A--International Space Station Independent Safety Task Force
+
+Sec. 801. Establishment of task force.
+Sec. 802. Tasks of the task force.
+Sec. 803. Composition of the task force.
+Sec. 804. Reporting requirements.
+Sec. 805. Sunset.
+
+   Subtitle B--Human Space Flight Independent Investigation Commission
+
+Sec. 821. Definitions.
+Sec. 822. Establishment of Commission.
+Sec. 823. Tasks of the Commission.
+Sec. 824. Composition of Commission.
+Sec. 825. Powers of Commission.
+Sec. 826. Public meetings, information, and hearings.
+Sec. 827. Staff of Commission.
+Sec. 828. Compensation and travel expenses.
+Sec. 829. Security clearances for Commission members and staff.
+Sec. 830. Reporting requirements and termination.
+
+SEC. 2. <<NOTE: 42 USC 16601.>> DEFINITIONS.
+
+     In this Act:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the National Aeronautics and Space 
+        Administration.
+            (2) ISS.--The term ``ISS'' means the International Space 
+        Station.
+            (3) NASA.--The term ``NASA'' means the National Aeronautics 
+        and Space Administration.
+
+                 TITLE I--GENERAL PRINCIPLES AND REPORTS
+
+SEC. 101. <<NOTE: 42 USC 16611.>> RESPONSIBILITIES, POLICIES, AND PLANS.
+
+    (a) General Responsibilities.--
+            (1) Programs.--The Administrator shall ensure that NASA 
+        carries out a balanced set of programs that shall include, at a 
+        minimum, programs in--
+                    (A) human space flight, in accordance with 
+                subsection (b);
+                    (B) aeronautics research and development; and
+                    (C) scientific research, which shall include, at a 
+                minimum--
+                          (i) robotic missions to study the Moon and 
+                      other planets and their moons, and to deepen 
+                      understanding of astronomy, astrophysics, and 
+                      other areas of science that can be productively 
+                      studied from space;
+                          (ii) earth science research and research on 
+                      the Sun-Earth connection through the development 
+                      and operation of research satellites and other 
+                      means;
+                          (iii) support of university research in space 
+                      science, earth science, and microgravity science; 
+                      and
+                          (iv) research on microgravity, including 
+                      research that is not directly related to human 
+                      exploration.
+
+[[Page 119 STAT. 2898]]
+
+            (2) Consultation and coordination.--In carrying out the 
+        programs of NASA, the Administrator shall--
+                    (A) consult and coordinate to the extent appropriate 
+                with other relevant Federal agencies, including through 
+                the National Science and Technology Council;
+                    (B) work closely with the private sector, including 
+                by--
+                          (i) encouraging the work of entrepreneurs who 
+                      are seeking to develop new means to launch 
+                      satellites, crew, or cargo;
+                          (ii) <<NOTE: Contracts.>> contracting with the 
+                      private sector for crew and cargo services, 
+                      including to the International Space Station, to 
+                      the extent practicable;
+                          (iii) using commercially available products 
+                      (including software) and services to the extent 
+                      practicable to support all NASA activities; and
+                          (iv) encouraging commercial use and 
+                      development of space to the greatest extent 
+                      practicable; and
+                    (C) involve other nations to the extent appropriate.
+
+    (b) Vision for Space Exploration.--
+            (1) In general.--The Administrator shall establish a program 
+        to develop a sustained human presence on the Moon, including a 
+        robust precursor program, to promote exploration, science, 
+        commerce, and United States preeminence in space, and as a 
+        stepping-stone to future exploration of Mars and other 
+        destinations. The Administrator is further authorized to develop 
+        and conduct appropriate international collaborations in pursuit 
+        of these goals.
+            (2) Milestones.--The Administrator shall manage human space 
+        flight programs to strive to achieve the following milestones 
+        (in conformity with section 503)--
+                    (A) Returning Americans to the Moon no later than 
+                2020.
+                    (B) Launching the Crew Exploration Vehicle as close 
+                to 2010 as possible.
+                    (C) Increasing knowledge of the impacts of long 
+                duration stays in space on the human body using the most 
+                appropriate facilities available, including the ISS.
+                    (D) Enabling humans to land on and return from Mars 
+                and other destinations on a timetable that is 
+                technically and fiscally possible.
+
+    (c) Aeronautics.--
+            (1) <<NOTE: President.>> In general.--The President of the 
+        United States, through an official the President shall 
+        designate, and in consultation with appropriate Federal 
+        agencies, shall develop a national policy to guide the 
+        aeronautics research and development programs of the United 
+        States through 2020. The policy shall include national goals for 
+        aeronautics research and development and shall describe the role 
+        and responsibilities of each Federal agency that will carry out 
+        the policy. The development of the policy shall utilize external 
+        studies that have been conducted on the state of United States 
+        aeronautics and aviation research and development and have 
+        suggested policies to ensure continued competitiveness.
+            (2) Content.--(A) At a minimum, the national aeronautics 
+        research and development policy shall describe for NASA--
+                    (i) the priority areas of research for aeronautics 
+                through fiscal year 2011;
+
+[[Page 119 STAT. 2899]]
+
+                    (ii) the basis on which and the process by which 
+                priorities for ensuing fiscal years will be selected;
+                    (iii) the facilities and personnel needed to carry 
+                out the aeronautics program through fiscal year 2011; 
+                and
+                    (iv) the budget assumptions on which the policy is 
+                based, which for fiscal years 2007 and 2008 shall be the 
+                authorized level for aeronautics provided in title II of 
+                this Act.
+            (B) The policy shall be based on the premises that--
+                    (i) the Federal Government has an established 
+                interest in conducting research and development programs 
+                for improving the usefulness, performance, speed, 
+                safety, and efficiency of aeronautical vehicles, as 
+                described in section 102(d)(2) of the National 
+                Aeronautics and Space Act of 1958 (42 U.S.C. 
+                2451(d)(2)); and
+                    (ii) the Federal Government has an established 
+                interest in conducting research and development programs 
+                that help preserve the role of the United States as a 
+                global leader in aeronautical technologies and in their 
+                application, as described in section 102(d)(5) of the 
+                National Aeronautics and Space Act of 1958 (42 U.S.C. 
+                2451(d)(5)).
+            (3) Considerations.--In developing the national aeronautics 
+        research and development policy, the President shall consider 
+        the following issues, which shall be discussed in the 
+        transmittal under paragraph (5):
+                    (A) The extent to which NASA should focus on long-
+                term, high-risk research or more incremental research, 
+                and the expected impact of that decision on the United 
+                States economy, and the ability to achieve environmental 
+                and other public goals related to aeronautics.
+                    (B) The extent to which NASA should address military 
+                and commercial needs.
+                    (C) How NASA will coordinate its aeronautics program 
+                with other Federal agencies.
+                    (D) The extent to which NASA will conduct research 
+                in-house, fund university research, and collaborate on 
+                industry research, and the expected impact of that mix 
+                of funding on the supply of United States workers for 
+                the aeronautics industry.
+                    (E) The extent to which the priority areas of 
+                research listed pursuant to paragraph (2)(A) should 
+                include the activities authorized by title IV of this 
+                Act, the discussion of which shall include a priority 
+                ranking of all of the activities authorized in title IV 
+                and an explanation for that ranking.
+            (4) Consultation.--In the development of the national 
+        aeronautics research and development policy, the President shall 
+        consult widely with academic and industry experts and with other 
+        Federal agencies. The Administrator may enter into an 
+        arrangement with the National Academy of Sciences to help 
+        develop the policy.
+            (5) <<NOTE: Deadline. President.>> Schedule.--(A) Not later 
+        than 1 year after the date of enactment of this Act, the 
+        President shall transmit the national aeronautics research and 
+        development policy to the Committee on Appropriations of the 
+        House of Representatives, the Committee on Appropriations of the 
+        Senate, the Committee
+
+[[Page 119 STAT. 2900]]
+
+        on Science of the House of Representatives, and the Committee on 
+        Commerce, Science, and Transportation of the Senate.
+            (B) <<NOTE: Deadline.>> Not later than 60 days after the 
+        transmittal of the policy under subparagraph (A), the 
+        Administrator shall transmit to the Committee on Appropriations 
+        of the House of Representatives, the Committee on Appropriations 
+        of the Senate, the Committee on Science of the House of 
+        Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate a report describing how NASA will 
+        carry out the policy.
+            (C) <<NOTE: Reports.>> At the time the President's fiscal 
+        year 2007 budget is transmitted to the Congress, the 
+        Administrator shall transmit to the Committee on Appropriations 
+        of the House of Representatives, the Committee on Appropriations 
+        of the Senate, the Committee on Science of the House of 
+        Representatives, and the Committee on Commerce, Science, and 
+        Transportation of the Senate a report on the proposed NASA 
+        aeronautics budget describing--
+                    (i) the rationale for the budget levels and 
+                activities in the proposed fiscal year 2007 NASA 
+                aeronautics budget;
+                    (ii) the extent to which the program directions 
+                proposed for fiscal year 2007 are likely to be 
+                consistent with the national policy being prepared under 
+                this section; and
+                    (iii) the extent to which the proposed programs for 
+                fiscal year 2007 are consistent with past reports and 
+                current studies of the National Academy of Sciences, and 
+                other relevant reports and studies.
+
+    (d) Science.--
+            (1) In general.--The Administrator shall develop a plan to 
+        guide the science programs of NASA through 2016.
+            (2) Content.--At a minimum, the plan developed under 
+        paragraph (1) shall be designed to ensure that NASA has a rich 
+        and vigorous set of science activities, and shall describe--
+                    (A) the missions NASA will initiate, design, 
+                develop, launch, or operate in space science and earth 
+                science through fiscal year 2016, including launch 
+                dates;
+                    (B) a priority ranking of all of the missions listed 
+                under subparagraph (A), and the rationale for the 
+                ranking; and
+                    (C) the budget assumptions on which the policy is 
+                based, which for fiscal years 2007 and 2008 shall be 
+                consistent with the authorizations provided in title II 
+                of this Act.
+            (3) Considerations.--In developing the science plan under 
+        this subsection, the Administrator shall consider the following 
+        issues, which shall be discussed in the transmittal under 
+        paragraph (6):
+                    (A) What the most important scientific questions in 
+                space science and earth science are.
+                    (B) How to best benefit from the relationship 
+                between NASA's space and earth science activities and 
+                those of other Federal agencies.
+                    (C) Whether the Magnetospheric Multiscale Mission, 
+                SIM-Planet Quest, and missions under the Future 
+                Explorers Programs can be expedited to meet previous 
+                schedules.
+
+[[Page 119 STAT. 2901]]
+
+                    (D) Whether any NASA Earth observing missions that 
+                have been delayed or cancelled can be restored.
+                    (E) How to ensure the long-term vitality of Earth 
+                observation programs at NASA, including their satellite, 
+                science, and data system components.
+                    (F) Whether current and currently planned Earth 
+                observation missions should be supplemented or replaced 
+                with new satellite architectures and instruments that 
+                enable global coverage, and all-weather, day and night 
+                imaging of the Earth's surface features.
+                    (G) How to integrate NASA earth science missions 
+                with the Global Earth Observing System of Systems.
+            (4) Consultation.--In developing the plan under this 
+        subsection, the Administrator shall draw on decadal surveys and 
+        other reports in planetary science, astronomy, solar and space 
+        physics, earth science, and any other relevant fields developed 
+        by the National Academy of Sciences. The Administrator shall 
+        also consult widely with academic and industry experts and with 
+        other Federal agencies.
+            (5) Hubble space telescope.--The plan developed under this 
+        subsection shall address plans for a human mission to repair the 
+        Hubble Space Telescope consistent with section 302 of this Act.
+            (6) <<NOTE: Deadline.>> Schedule.--The Administrator shall 
+        transmit the plan developed under this subsection to the 
+        Committee on Science of the House of Representatives and the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        not later than 1 year after the date of enactment of this Act. 
+        The Administrator shall make available to those committees any 
+        study done by a nongovernmental entity that was used in the 
+        development of the plan.
+
+    (e) Facilities.--
+            (1) In general.--The Administrator shall develop a plan for 
+        managing NASA's facilities through fiscal year 2015. The plan 
+        shall be consistent with the policies and plans developed 
+        pursuant to this section.
+            (2) Content.--At a minimum, the plan developed under 
+        paragraph (1) shall describe--
+                    (A) any new facilities NASA intends to acquire, 
+                whether through construction, purchase, or lease, and 
+                the expected dates for doing so;
+                    (B) any facilities NASA intends to significantly 
+                modify, refurbish, or upgrade, and the expected dates 
+                for doing so;
+                    (C) any facilities NASA intends to close, and the 
+                expected dates for doing so;
+                    (D) any transactions NASA intends to conduct to 
+                sell, lease, or otherwise transfer the ownership of a 
+                facility, and the expected dates for doing so;
+                    (E) how each of the actions described in 
+                subparagraphs (A), (B), (C), and (D) will enhance the 
+                ability of NASA to carry out its programs;
+                    (F) the expected costs or savings expected from each 
+                of the actions described in subparagraphs (A), (B), (C), 
+                and (D);
+                    (G) the priority order of the actions described in 
+                subparagraphs (A), (B), (C), and (D);
+
+[[Page 119 STAT. 2902]]
+
+                    (H) the budget assumptions of the plan, which for 
+                fiscal years 2007 and 2008 shall be consistent with 
+                theauthorizations provided in title II of this Act, 
+                including the funding levels for maintenance and 
+                repairs; and
+                    (I) how facilities were evaluated in developing the 
+                plan.
+            (3) <<NOTE: Deadline.>> Schedule.--The Administrator shall 
+        transmit the plan developed under this subsection to the 
+        Committee on Science of the House of Representatives and the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        not later than the date on which the President submits the 
+        proposed budget for the Federal Government for fiscal year 2008 
+        to the Congress.
+
+    (f) Workforce.--
+            (1) In general.--The Administrator shall develop a human 
+        capital strategy to ensure that NASA has a workforce of the 
+        appropriate size and with the appropriate skills to carry out 
+        the programs of NASA, consistent with the policies and plans 
+        developed pursuant to this section. Under the strategy, NASA 
+        shall utilize current personnel, to the maximum extent feasible, 
+        in implementing the vision for space exploration and NASA's 
+        other programs. The strategy shall cover the period through 
+        fiscal year 2011.
+            (2) Content.--The strategy developed under paragraph (1) 
+        shall describe, at a minimum--
+                    (A) any categories of employees NASA intends to 
+                reduce, the expected size and timing of those 
+                reductions, the methods NASA intends to use to make the 
+                reductions, and the reasons NASA no longer needs those 
+                employees;
+                    (B) any categories of employees NASA intends to 
+                increase, the expected size and timing of those 
+                increases, the methods NASA intends to use to recruit 
+                the additional employees, and the reasons NASA needs 
+                those employees;
+                    (C) the steps NASA will use to retain needed 
+                employees; and
+                    (D) the budget assumptions of the strategy, which 
+                for fiscal years 2007 and 2008 shall be consistent with 
+                the authorizations provided in title II of this Act, and 
+                any expected additional costs or savings from the 
+                strategy by fiscal year.
+            (3) <<NOTE: Deadlines.>> Schedule.--The Administrator shall 
+        transmit the strategy developed under this subsection to the 
+        Committee on Science of the House of Representatives and the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        not later than 60 days after the date on which the President 
+        submits the proposed budget for the Federal Government for 
+        fiscal year 2007 to the Congress. At least 60 days before 
+        transmitting the strategy, NASA shall provide a draft of the 
+        strategy to its Federal employee unions for a 30-day 
+        consultation period after which NASA shall respond in writing to 
+        any written concerns provided by the unions.
+            (4) Limitation.--NASA may not implement any Reduction in 
+        Force or other involuntary separations (except for cause) prior 
+        to March 16, 2007.
+
+    (g) Center Management.--
+            (1) In general.--The Administrator shall conduct a study to 
+        determine whether any of NASA's centers should be operated by or 
+        with the private sector by converting a center to a
+
+[[Page 119 STAT. 2903]]
+
+        Federally Funded Research and Development Center or through any 
+        other mechanism.
+            (2) Content.--The study conducted under paragraph (1) shall, 
+        at a minimum--
+                    (A) make a recommendation for the operation of each 
+                center and provide reasons for that recommendation; and
+                    (B) describe the advantages and disadvantages of 
+                each mode of operation considered in the study.
+            (3) Considerations.--In conducting the study, the 
+        Administrator shall take into consideration the experiences of 
+        other relevant Federal agencies in operating laboratories and 
+        centers, and any reports that have reviewed the mode of 
+        operation of those laboratories and centers, as well as any 
+        reports that have reviewed NASA's centers.
+            (4) <<NOTE: Deadline.>> Schedule.--The Administrator shall 
+        transmit the study conducted under this subsection to the 
+        Committee on Science of the House of Representatives and the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        not later than May 31, 2006.
+
+    (h) Budgets.--
+            (1) Categories.--The proposed budget for NASA submitted by 
+        the President for each fiscal year shall be accompanied by 
+        documents showing--
+                    (A) by program--
+                          (i) the budget for space operations, including 
+                      the ISS and the Space Shuttle;
+                          (ii) the budget for exploration systems;
+                          (iii) the budget for aeronautics;
+                          (iv) the budget for space science;
+                          (v) the budget for earth science;
+                          (vi) the budget for microgravity science;
+                          (vii) the budget for education;
+                          (viii) the budget for safety oversight; and
+                          (ix) the budget for public relations;
+                    (B) the budget for technology transfer programs;
+                    (C) the budget for the Integrated Enterprise 
+                Management Program, by individual element;
+                    (D) the budget for the Independent Technical 
+                Authority, both total and by center;
+                    (E) the total budget for the prize program under 
+                section 104, and the administrative budget for that 
+                program; and
+                    (F) the comparable figures for at least the 2 
+                previous fiscal years for each item in the proposed 
+                budget.
+            (2) Sense of congress regarding evaluation criteria for 
+        budget requests.--It is the sense of the Congress that each 
+        budget of the United States submitted to the Congress after the 
+        date of enactment of this Act should be evaluated for compliance 
+        with the findings and priorities established by this Act and the 
+        amendments made by this Act.
+
+    (i) Additional Budget Information.--NASA shall make available, upon 
+request from the Committee on Science of the House of Representatives or 
+the Committee on Commerce, Science, and Transportation of the Senate--
+            (1) information on corporate and center general and 
+        administrative costs and service pool costs, including--
+
+[[Page 119 STAT. 2904]]
+
+                    (A) the total amount of funds being allocated for 
+                those purposes for any fiscal year for which the 
+                President has submitted an annual budget request to 
+                Congress;
+                    (B) the amount of funds being allocated for those 
+                purposes for each center, for headquarters, and for each 
+                directorate; and
+                    (C) the major activities included in each cost 
+                category; and
+            (2) the figures on the amount of unobligated funds and 
+        unexpended funds, by appropriations account--
+                    (A) that remained at the end of the fiscal year 
+                prior to the fiscal year in which the budget is being 
+                presented that were carried over into the fiscal year in 
+                which the budget is being presented;
+                    (B) that are estimated will remain at the end of the 
+                fiscal year in which the budget is being presented that 
+                are proposed to be carried over into the fiscal year for 
+                which the budget is being presented; and
+                    (C) that are estimated will remain at the end of the 
+                fiscal year for which the budget is being presented.
+
+    (j) NASA Aeronautics Test Facilities and Simulators.--
+            (1) Review.--The Director of the Office of Science and 
+        Technology Policy shall commission an independent review of the 
+        Nation's long-term strategic needs for aeronautics test 
+        facilities and shall submit the review to the Committee on 
+        Science of the House of Representatives and the Committee on 
+        Commerce, Science, and Transportation of the Senate. The review 
+        shall include an evaluation of the facility needs described 
+        pursuant to subsection (c)(2)(A)(iii). The review shall take 
+        into consideration the results of the study conducted pursuant 
+        to the instructions on page 582 of the conference report (H. 
+        Rept. 108-767) to accompany the Ronald W. Reagan National 
+        Defense Authorization Act for Fiscal Year 2005 (P.L. 108-375).
+            (2) Limitation.--The Administrator shall not close or 
+        mothball any aeronautics test facilities identified in the 2003 
+        independent assessment by the RAND Corporation titled ``Wind 
+        Tunnel and Propulsion Test Facilities: An Assessment of NASA's 
+        Capabilities to Serve National Needs'' as being part of the 
+        minimum set of those facilities necessary to retain and manage 
+        to serve national needs, or any aeronautics simulators, that 
+        were in use as of January 1, 2004, with the exception of the 
+        already closed 16-foot transonic tunnel, until--
+                    (A) the review conducted under paragraph (1) has 
+                been transmitted to the Congress; and
+                    (B) <<NOTE: Deadline. Certification.>> 60 days after 
+                the Administrator has transmitted to the Committee on 
+                Appropriations and the Committee on Science of the House 
+                of Representatives and the Committee on Appropriations 
+                and the Committee on Commerce, Science, and 
+                Transportation of the Senate a written certification 
+                that the proposed closure will not have an adverse 
+                impact on NASA's ability to execute the national policy 
+                developed under subsection (c) and to achieve the goals 
+                described in that policy.
+        Subparagraph <<NOTE: Termination date.>> (B) shall cease to be 
+        effective five years after the date the study required by this 
+        section has been transmitted to the Congress.
+
+[[Page 119 STAT. 2905]]
+
+SEC. 102. <<NOTE: 42 USC 16612.>> REPORTS.
+
+    (a) National Awareness Campaign.--
+            (1) In general.--The Administrator shall implement, 
+        beginning not later than May 1, 2006, a national awareness 
+        campaign through various media, including print, radio, 
+        television, and the Internet, to articulate missions, publicize 
+        recent accomplishments, and facilitate efforts to encourage 
+        young Americans to enter the fields of science, mathematics, and 
+        engineering to help maintain United States leadership in those 
+        fields.
+            (2) Reports.--(A) Not later than April 1, 2006, the 
+        Administrator shall transmit a plan to the Committee on Science 
+        of the House of Representatives and the Committee on Commerce, 
+        Science, and Transportation of the Senate describing the 
+        activities that will be undertaken as part of the national 
+        awareness campaign required by paragraph (1) and the expected 
+        cost of those activities. NASA may undertake activities as part 
+        of the national awareness campaign prior to the transmittal of 
+        the plan required by this subparagraph, but the plan shall 
+        include a description of any activities undertaken prior to the 
+        transmittal and the estimated cost of those activities.
+            (B) Not later than three years after the date of enactment 
+        of this Act, the Administrator shall transmit to the Committee 
+        on Science of the House of Representatives and the Committee on 
+        Commerce, Science, and Transportation of the Senate an 
+        assessment of the impact of the national awareness campaign.
+
+    (b) Budget Information.--Not later than April 30, 2006, the 
+Administrator shall transmit to the Committee on Science of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate a report describing--
+            (1) the expected cost of the Crew Exploration Vehicle 
+        through fiscal year 2020, based on the public specifications for 
+        that development contract; and
+            (2) the expected budgets for each fiscal year through 2020 
+        for human spaceflight, aeronautics, space science, and earth 
+        science--
+                    (A) first assuming inflationary growth for the 
+                budget of NASA as a whole and including costs for the 
+                Crew Exploration Vehicle as projected under paragraph 
+                (1); and
+                    (B) then assuming inflationary growth for the budget 
+                of NASA as a whole and including at least two cost 
+                estimates for the Crew Exploration Vehicle that are 
+                higher than those projected under paragraph (1), based 
+                on NASA's past experience with cost increases for 
+                similar programs, along with a description of the 
+                reasons for selecting the cost estimates used for the 
+                calculations under this subparagraph and the confidence 
+                level for each of the cost estimates used in this 
+                section.
+
+    (c) Space Communications Plan.--
+            (1) Plan.--The Administrator shall develop a plan, in 
+        consultation with relevant Federal agencies, for updating NASA's 
+        space communications architecture for both low-Earth orbital 
+        operations and deep space exploration so that it is capable of 
+        meeting NASA's needs over the next 20 years. The plan shall 
+        include life-cycle cost estimates, milestones, estimated 
+        performance capabilities, and 5-year funding profiles. The plan
+
+[[Page 119 STAT. 2906]]
+
+        shall also include an estimate of the amounts of any 
+        reimbursements NASA is likely to receive from other Federal 
+        agencies during the expected life of the upgrades described in 
+        the plan. At a minimum, the plan shall include a description of 
+        the following:
+                    (A) Projected Deep Space Network requirements for 
+                the next 20 years, including those in support of human 
+                space exploration missions.
+                    (B) Upgrades needed to support Deep Space Network 
+                requirements.
+                    (C) Cost estimates for the maintenance of existing 
+                Deep Space Network capabilities.
+                    (D) Cost estimates and schedules for the upgrades 
+                described in subparagraph (B).
+                    (E) Projected Tracking and Data Relay Satellite 
+                System requirements for the next 20 years, including 
+                those in support of other relevant Federal agencies.
+                    (F) Cost and schedule estimates to maintain and 
+                upgrade the Tracking and Data Relay Satellite System to 
+                meet projected requirements.
+            (2) Consultations.--The Administrator shall consult with 
+        other relevant Federal agencies in developing the plan under 
+        this subsection.
+            (3) <<NOTE: Deadline.>> Schedule.--The Administrator shall 
+        transmit the plan under this subsection to the Committee on 
+        Science of the House of Representatives and the Committee on 
+        Commerce, Science, and Transportation of the Senate not later 
+        than February 17, 2007.
+
+    (d) Joint Dark Energy Mission.--The Administrator and the Director 
+of the Department of Energy Office of Science shall jointly transmit to 
+the Committee on Science of the House of Representatives and the 
+Committee on Commerce, Science, and Transportation of the Senate, not 
+later than July 15, 2006, a report on plans for a Joint Dark Energy 
+Mission. The report shall include the amount of funds each agency 
+intends to expend on the Joint Dark Energy Mission for each of the 
+fiscal years 2007 through 2011, and any specific milestones for the 
+development and launch of the Mission.
+    (e) Office of Science and Technology Policy.--
+            (1) Study.--As part of ongoing efforts to coordinate 
+        research and development across the Federal agencies, the 
+        Director of the Office of Science and Technology Policy shall 
+        conduct a study to determine--
+                    (A) if any research and development programs of NASA 
+                are unnecessarily duplicating aspects of programs of 
+                other Federal agencies; and
+                    (B) if any research and development programs of NASA 
+                are neglecting any topics of national interest that are 
+                related to the mission of NASA.
+            (2) Report.--Not later than one year after the date of 
+        enactment of this Act, the Director of the Office of Science and 
+        Technology Policy shall transmit to the Committee on Science of 
+        the House of Representatives and the Committee on Commerce, 
+        Science, and Transportation of the Senate a report that--
+                    (A) describes the results of the study under 
+                paragraph (1);
+
+[[Page 119 STAT. 2907]]
+
+                    (B) lists the research and development programs of 
+                Federal agencies other than NASA that were reviewedas 
+                part of the study, which shall include any program 
+                supporting research and development in an area related 
+                to the programs of NASA, and the most recent budget 
+                figures for those programs of other agencies;
+                    (C) recommends any changes to the research and 
+                development programs of NASA that should be made in 
+                response to the findings of the study required by 
+                paragraph (1); and
+                    (D) describes mechanisms the Office of Science and 
+                Technology Policy will use to ensure adequate 
+                coordination between NASA and Federal agencies that 
+                operate related programs.
+            (3) Contract.--The Director of the Office of Science and 
+        Technology Policy may contract with a nongovernmental entity to 
+        conduct the study required by paragraph (1).
+
+SEC. 103. <<NOTE: 42 USC 16613.>> BASELINES AND COST CONTROLS.
+
+    (a) Conditions for Development.--
+            (1) In general.--NASA shall not enter into a contract for 
+        the development of a major program unless the Administrator 
+        determines that--
+                    (A) the technical, cost, and schedule risks of the 
+                program are clearly identified and the program has 
+                developed a plan to manage those risks;
+                    (B) the technologies required for the program have 
+                been demonstrated in a relevant laboratory or test 
+                environment; and
+                    (C) the program complies with all relevant policies, 
+                regulations, and directives of NASA.
+            (2) Report.--The Administrator shall transmit a report 
+        describing the basis for the determination required under 
+        paragraph (1) to the Committee on Science of the House of 
+        Representatives and the Committee on Commerce, Science, and 
+        Transportation of the Senate at least 30 days before entering 
+        into a contract for development under a major program.
+            (3) Nondelegation.--The Administrator may not delegate the 
+        determination requirement under this subsection, except in cases 
+        in which the Administrator has a conflict of interest.
+
+    (b) Major Program Annual Reports.--
+            (1) Requirement.--Annually, at the same time as the 
+        President's annual budget submission to the Congress, the 
+        Administrator shall transmit to the Committee on Science of the 
+        House of Representatives and the Committee on Commerce, Science, 
+        and Transportation of the Senate a report that includes the 
+        information required by this section for each major program for 
+        which NASA proposes to expend funds in the subsequent fiscal 
+        year. Reports under this paragraph shall be known as Major 
+        Program Annual Reports.
+            (2) Baseline report.--The first Major Program Annual Report 
+        for each major program shall include a Baseline Report that 
+        shall, at a minimum, include--
+                    (A) the purposes of the program and key technical 
+                characteristics necessary to fulfill those purposes;
+                    (B) an estimate of the life-cycle cost for the 
+                program, with a detailed breakout of the development 
+                cost, program
+
+[[Page 119 STAT. 2908]]
+
+                reserves, and an estimate of the annual costs until 
+                development is completed;
+                    (C) the schedule for development, including key 
+                program milestones;
+                    (D) the plan for mitigating technical, cost, and 
+                schedule risks identified in accordance with subsection 
+                (a)(1)(A); and
+                    (E) the name of the person responsible for making 
+                notifications under subsection (c), who shall be an 
+                individual whose primary responsibility is overseeing 
+                the program.
+            (3) Information updates.--For major programs for which a 
+        Baseline Report has been submitted, each subsequent Major 
+        Program Annual Report shall describe any changes to the 
+        information that had been provided in the Baseline Report, and 
+        the reasons for those changes.
+
+    (c) <<NOTE: Deadlines.>> Notification.--
+            (1) Requirement.--The individual identified under subsection 
+        (b)(2)(E) shall immediately notify the Administrator any time 
+        that individual has reasonable cause to believe that, for the 
+        major program for which he or she is responsible--
+                    (A) the development cost of the program is likely to 
+                exceed the estimate provided in the Baseline Report of 
+                the program by 15 percent or more; or
+                    (B) a milestone of the program is likely to be 
+                delayed by 6 months or more from the date provided for 
+                it in the Baseline Report of the program.
+            (2) Reasons.--Not later than 30 days after the notification 
+        required under paragraph (1), the individual identified under 
+        subsection (b)(2)(E) shall transmit to the Administrator a 
+        written notification explaining the reasons for the change in 
+        the cost or milestone of the program for which notification was 
+        provided under paragraph (1).
+            (3) Notification of congress.--Not later than 15 days after 
+        the Administrator receives a written notification under 
+        paragraph (2), the Administrator shall transmit the notification 
+        to the Committee on Science of the House of Representatives and 
+        the Committee on Commerce, Science, and Transportation of the 
+        Senate.
+
+    (d) <<NOTE: Deadlines. Notification.>> Fifteen Percent Threshold.--
+Not later than 30 days after receiving a written notification under 
+subsection (c)(2), the Administrator shall determine whether the 
+development cost of the program is likely to exceed the estimate 
+provided in the Baseline Report of the program by 15 percent or more, or 
+whether a milestone is likely to be delayed by 6 months or more. If the 
+determination is affirmative, the Administrator shall--
+            (1) <<NOTE: Reports.>> transmit to the Committee on Science 
+        of the House of Representatives and the Committee on Commerce, 
+        Science, and Transportation of the Senate, not later than 15 
+        days after making the determination, a report that includes--
+                    (A) a description of the increase in cost or delay 
+                in schedule and a detailed explanation for the increase 
+                or delay;
+                    (B) a description of actions taken or proposed to be 
+                taken in response to the cost increase or delay; and
+
+[[Page 119 STAT. 2909]]
+
+                    (C) a description of any impacts the cost increase 
+                or schedule delay, or the actions described under 
+                subparagraph (B), will have on any other program within 
+                NASA; and
+            (2) if the Administrator intends to continue with the 
+        program, promptly initiate an analysis of the program, which 
+        shall include, at a minimum--
+                    (A) the projected cost and schedule for completing 
+                the program if current requirements of the program are 
+                not modified;
+                    (B) the projected cost and the schedule for 
+                completing the program after instituting the actions 
+                described under paragraph (1)(B); and
+                    (C) a description of, and the projected cost and 
+                schedule for, a broad range of alternatives to the 
+                program.
+
+NASA shall complete an analysis initiated under paragraph (2) not later 
+than 6 months after the Administrator makes a determination under this 
+subsection. The Administrator shall transmit the analysis to the 
+Committee on Science of the House of Representatives and Committee on 
+Commerce, Science, and Transportation of the Senate not later than 30 
+days after its completion.
+    (e) <<NOTE: Effective date.>> Thirty Percent Threshold.--If the 
+Administrator determines under subsection (d) that the development cost 
+of a program will exceed the estimate provided in the Baseline Report of 
+the program by more than 30 percent, then, beginning 18 months after the 
+date the Administrator transmits a report under subsection (d)(1), the 
+Administrator shall not expend any additional funds on the program, 
+other than termination costs, unless the Congress has subsequently 
+authorized continuation of the program by law. An appropriation for the 
+specific program enacted subsequent to a report being transmitted shall 
+be considered an authorization for purposes of this 
+subsection. <<NOTE: Reports. Deadline.>> If the program is continued, 
+the Administrator shall submit a new Baseline Report for the program no 
+later than 90 days after the date of enactment of the Act under which 
+Congress has authorized continuation of the program.
+
+    (f) Definitions.--For the purposes of this section--
+            (1) the term ``development'' means the phase of a program 
+        following the formulation phase and beginning with the approval 
+        to proceed to implementation, as defined in NASA's Procedural 
+        Requirements 7120.5c, dated March 22, 2005;
+            (2) the term ``development cost'' means the total of all 
+        costs, including construction of facilities and civil servant 
+        costs, from the period beginning with the approval to proceed to 
+        implementation through the achievement of operational readiness, 
+        without regard to funding source or management control, for the 
+        life of the program;
+            (3) the term ``life-cycle cost'' means the total of the 
+        direct, indirect, recurring, and nonrecurring costs, including 
+        the construction of facilities and civil servant costs, and 
+        other related expenses incurred or estimated to be incurred in 
+        the design, development, verification, production, operation, 
+        maintenance, support, and retirement of a program over its 
+        planned lifespan, without regard to funding source or management 
+        control; and
+
+[[Page 119 STAT. 2910]]
+
+            (4) the term ``major program'' means an activity approved to 
+        proceed to implementation that has an estimated life-cycle cost 
+        of more than $250,000,000.
+
+SEC. 104. PRIZE AUTHORITY.
+
+    The National Aeronautics and Space Act of 1958 (42 U.S.C. 2451, et 
+seq.) is amended by inserting after section 313 the following new 
+section:
+
+
+                            ``prize authority
+
+
+    `` <<NOTE: 42 USC 2459f-1.>> Sec. 314. (a) In General.--The 
+Administration may carry out a program to competitively award cash 
+prizes to stimulate innovation in basic and applied research, technology 
+development, and prototype demonstration that have the potential for 
+application to the performance of the space and aeronautical activities 
+of the Administration. The Administration may carry out a program to 
+award prizes only in conformity with this section.
+
+    ``(b) Topics.--In selecting topics for prize competitions, the 
+Administrator shall consult widely both within and outside the Federal 
+Government, and may empanel advisory committees.
+    ``(c) Advertising.--The Administrator shall widely advertise prize 
+competitions to encourage participation.
+    ``(d) <<NOTE: Notice. Federal Register, publication.>> Requirements 
+and Registration.--For each prize competition, the Administrator shall 
+publish a notice in the Federal Register announcing the subject of the 
+competition, the rules for being eligible to participate in the 
+competition, the amount of the prize, and the basis on which a winner 
+will be selected.
+
+    ``(e) Eligibility.--To be eligible to win a prize under this 
+section, an individual or entity--
+            ``(1) shall have registered to participate in the 
+        competition pursuant to any rules promulgated by the 
+        Administrator under subsection (d);
+            ``(2) shall have complied with all the requirements under 
+        this section;
+            ``(3) in the case of a private entity, shall be incorporated 
+        in and maintain a primary place of business in the United 
+        States, and in the case of an individual, whether participating 
+        singly or in a group, shall be a citizen or permanent resident 
+        of the United States; and
+            ``(4) shall not be a Federal entity or Federal employee 
+        acting within the scope of their employment.
+
+    ``(f) Liability.--(1) Registered participants must agree to assume 
+any and all risks and waive claims against the Federal Government and 
+its related entities, except in the case of willful misconduct, for any 
+injury, death, damage, or loss of property, revenue, or profits, whether 
+direct, indirect, or consequential, arising from their participation in 
+a competition, whether such injury, death, damage, or loss arises 
+through negligence or otherwise. For the purposes of this paragraph, the 
+term `related entity' means a contractor or subcontractor at any tier, 
+and a supplier, user, customer, cooperating party, grantee, 
+investigator, or detailee.
+    ``(2) Participants must obtain liability insurance or demonstrate 
+financial responsibility, in amounts determined by the Administrator, 
+for claims by--
+            ``(A) a third party for death, bodily injury, or property 
+        damage, or loss resulting from an activity carried out in 
+        connection with participation in a competition, with the Federal
+
+[[Page 119 STAT. 2911]]
+
+        Government named as an additional insured under the registered 
+        participant's insurance policy and registered participants 
+        agreeing to indemnify the Federal Government against third party 
+        claims for damages arising from or related to competition 
+        activities; and
+            ``(B) the Federal Government for damage or loss to 
+        Government property resulting from such an activity.
+
+    ``(g) Judges.--For each competition, the Administration, either 
+directly or through an agreement under subsection (h), shall assemble a 
+panel of qualified judges to select the winner or winners of the prize 
+competition on the basis described pursuant to subsection (d). Judges 
+for each competition shall include individuals from outside the 
+Administration, including from the private sector. A judge may not--
+            ``(1) have personal or financial interests in, or be an 
+        employee, officer, director, or agent of any entity that is a 
+        registered participant in a competition; or
+            ``(2) have a familial or financial relationship with an 
+        individual who is a registered participant.
+
+    ``(h) Administering the Competition.--The Administrator may enter 
+into an agreement with a private, nonprofit entity to administer the 
+prize competition, subject to the provisions of this section.
+    ``(i) Funding.--(1) Prizes under this section may consist of Federal 
+appropriated funds and funds provided by the private sector for such 
+cash prizes. The Administrator may accept funds from other Federal 
+agencies for such cash prizes. The Administrator may not give any 
+special consideration to any private sector entity in return for a 
+donation.
+    ``(2) Notwithstanding any other provision of law, funds appropriated 
+for prize awards under this section shall remain available until 
+expended, and may be transferred, reprogrammed, or expended for other 
+purposes only after the expiration of 10 fiscal years after the fiscal 
+year for which the funds were originally appropriated. No provision in 
+this section permits obligation or payment of funds in violation of the 
+Anti-Deficiency Act (31 U.S.C. 1341).
+    ``(3) No prize may be announced under subsection (d) until all the 
+funds needed to pay out the announced amount of the prize have been 
+appropriated or committed in writing by a private source. The 
+Administrator may increase the amount of a prize after an initial 
+announcement is made under subsection (d) if--
+            ``(A) notice of the increase is provided in the same manner 
+        as the initial notice of the prize; and
+            ``(B) the funds needed to pay out the announced amount of 
+        the increase have been appropriated or committed in writing by a 
+        private source.
+
+    ``(4) <<NOTE: Notification.>> No prize competition under this 
+section may offer a prize in an amount greater than $10,000,000 unless 
+30 days have elapsed after written notice has been transmitted to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate.
+
+    ``(5) No prize competition under this section may result in the 
+award of more than $1,000,000 in cash prizes without the approval of the 
+Administrator.
+
+[[Page 119 STAT. 2912]]
+
+    ``(j) Use of NASA Name and Insignia.--A registered participant in a 
+competition under this section may use the Administration's name, 
+initials, or insignia only after prior review and written approval by 
+the Administration.
+    ``(k) Compliance With Existing Law.--The Federal Government shall 
+not, by virtue of offering or providing a prize under this section, be 
+responsible for compliance by registered participants in a prize 
+competition with Federal law, including licensing, export control, and 
+non-proliferation laws, and related regulations.''.
+
+SEC. 105. <<NOTE: 42 USC 16614.>> FOREIGN LAUNCH VEHICLES.
+
+    (a) Accord With Space Transportation Policy.--NASA shall not launch 
+a payload on a foreign launch vehicle except in accordance with the 
+Space Transportation Policy announced by the President on December 21, 
+2004. This subsection shall not be construed to prevent the President 
+from waiving the Space Transportation Policy.
+    (b) <<NOTE: Deadline.>> Interagency Coordination.--NASA shall not 
+launch a payload on a foreign launch vehicle unless NASA commenced the 
+interagency coordination required by the Space Transportation Policy 
+announced by the President on December 21, 2004, at least 90 days before 
+entering into a development contract for the payload.
+
+    (c) Application.--This section shall not apply to any payload for 
+which development has begun prior to the date of enactment of this Act, 
+including the James Webb Space Telescope.
+
+SEC. 106. SAFETY MANAGEMENT.
+
+    Section 6 of the National Aeronautics and Space Administration 
+Authorization Act, 1968 (42 U.S.C. 2477) is amended--
+            (1) by inserting ``(a) In General.--'' before ``There'';
+            (2) by striking ``to it'' and inserting ``to it, including 
+        evaluating NASA's compliance with the return-to-flight and 
+        continue-to-fly recommendations of the Columbia Accident 
+        Investigation Board,'';
+            (3) by inserting ``and the Congress'' after ``advise the 
+        Administrator'';
+            (4) by striking ``and with respect to the adequacy of 
+        proposed or existing safety standards and shall'' and inserting 
+        ``with respect to the adequacy of proposed or existing safety 
+        standards, and with respect to management and culture related to 
+        safety. The Panel shall also''; and
+            (5) by adding at the end the following:
+
+    ``(b) Annual Report.--The Panel shall submit an annual report to the 
+Administrator and to the Congress. In the first annual report submitted 
+after the date of enactment of the National Aeronautics and Space 
+Administration Authorization Act of 2005, the Panel shall include an 
+evaluation of NASA's management and culture related to safety. Each 
+annual report shall include an evaluation of the Administration's 
+compliance with the recommendations of the Columbia Accident 
+Investigation Board through retirement of the Space Shuttle.''.
+
+SEC. 107. <<NOTE: 42 USC 16615.>> LESSONS LEARNED AND BEST PRACTICES.
+
+    (a) <<NOTE: Deadline.>> In General.--The Administrator shall 
+transmit to the Committee on Science of the House of Representatives and 
+the Committee on Commerce, Science, and Transportation of the Senate an 
+implementation plan describing NASA's approach for obtaining, 
+implementing, and sharing lessons learned and best practices for
+
+[[Page 119 STAT. 2913]]
+
+its major programs and projects not later than 180 days after the date 
+of enactment of this Act. The implementation plan shall be updated and 
+maintained to ensure that it is current and consistent with the 
+burgeoning culture of learning and safety that is emerging at NASA.
+
+    (b) Required Content.--The implementation plan shall contain at a 
+minimum the lessons learned and best practices requirements for NASA, 
+the organizations or positions responsible for enforcement of the 
+requirements, the reporting structure, and the objective performance 
+measures indicating the effectiveness of the activity.
+    (c) Incentives.--The Administrator shall provide incentives to 
+encourage sharing and implementation of lessons learned and best 
+practices by employees, projects, and programs, as well as penalties for 
+programs and projects that are determined not to have demonstrated use 
+of those resources.
+
+SEC. 108. <<NOTE: 42 USC 16616.>> COMMERCIALIZATION PLAN.
+
+    (a) In General.--The Administrator, in consultation with other 
+relevant agencies, shall develop a commercialization plan to support the 
+human missions to the Moon and Mars, to support low-Earth orbit 
+activities and earth science missions and applications, and to transfer 
+science research and technology to society. The plan shall identify 
+opportunities for the private sector to participate in the future 
+missions and activities, including opportunities for partnership between 
+NASA and the private sector in conducting research and the development 
+of technologies and services. The plan shall include provisions for 
+developing and funding sustained university and industry partnerships to 
+conduct commercial research and technology development, to proactively 
+translate results of space research to Earth benefits, to advance United 
+States economic interests, and to support the vision for exploration. 
+The plan shall also emphasize the utilization by NASA of advancements 
+made by the private sector in space launch and orbital hardware, and 
+shall include opportunities for innovative collaborations between NASA 
+and the private sector under existing authorities of NASA for 
+reimbursable and nonreimbursable agreements under the National 
+Aeronautics and Space Act of 1958 (42 U.S.C. 2451 et seq.).
+    (b) Report.--Not later than 180 days after the date of enactment of 
+this Act, the Administrator shall submit a copy of the plan to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate.
+
+SEC. 109. <<NOTE: 42 USC 16617.>> STUDY ON THE FEASIBILITY OF USE OF 
+            GROUND SOURCE HEAT PUMPS.
+
+    (a) In General.--The Administrator shall conduct a feasibility study 
+on the use of ground source heat pumps in future NASA facilities or 
+substantial renovation of existing NASA facilities involving the 
+installation of heating, ventilating, and air conditioning 
+systems. <<NOTE: Deadline.>> Not later than 1 year after the date of 
+enactment of this Act, the Administrator shall transmit the study to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate.
+
+    (b) Contents.--The study shall examine--
+
+[[Page 119 STAT. 2914]]
+
+            (1) the life-cycle costs, including maintenance costs, of 
+        the operation of such heat pumps compared to generally available 
+        heating, cooling, and water heating equipment;
+            (2) barriers to installation, such as availability and 
+        suitability of terrain; and
+            (3) such other issues as the Administrator considers 
+        appropriate.
+
+    (c) Definition.--In this section, the term ``ground source heat 
+pump'' means an electric-powered system that uses the Earth's relatively 
+constant temperature to provide heating, cooling, or hot water.
+
+SEC. 110. <<NOTE: 42 USC 16618.>> WHISTLEBLOWER PROTECTION.
+
+    (a) <<NOTE: Deadlines.>> In General.--Not later than 1 year after 
+the date of enactment of this Act, the Administrator shall transmit to 
+the Committee on Science of the House of Representatives and the 
+Committee on Commerce, Science, and Transportation of the Senate a plan 
+describing steps to be taken by NASA to protect from retaliation NASA 
+employees who raise concerns about substantial and specific dangers to 
+public health and safety or about substantial and specific factors that 
+could threaten the success of a mission. The plan shall be designed to 
+ensure that NASA employees have the full protection required by law. The 
+Administrator shall implement the plan not more than 1 year after its 
+transmittal.
+
+    (b) Goal.--The Administrator shall ensure that the plan describes a 
+system that will protect employees who wish to raise or have raised 
+concerns described in subsection (a).
+    (c) Plan.--At a minimum, the plan shall include, consistent with 
+Federal law--
+            (1) a reporting structure that ensures that the officials 
+        who are the subject of a whistleblower's complaint will not 
+        learn the identity of the whistleblower;
+            (2) a single point to which all complaints can be made 
+        without fear of retribution;
+            (3) procedures to enable the whistleblower to track the 
+        status of the case;
+            (4) activities to educate employees about their rights as 
+        whistleblowers and how they are protected by law;
+            (5) activities to educate employees about their obligations 
+        to report concerns and their accountability before and after 
+        receiving the results of the investigations into their concerns; 
+        and
+            (6) activities to educate all appropriate NASA Human 
+        Resources professionals, and all NASA managers and supervisors, 
+        regarding personnel laws, rules, and regulations.
+
+    (d) Report.--Not later than February 15 of each year beginning with 
+the year after the date of enactment of this Act, the Administrator 
+shall transmit a report to the Committee on Science of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate on the concerns described in subsection (a) 
+that were raised during the previous fiscal year. At a minimum, the 
+report shall provide--
+            (1) the number of concerns that were raised, divided into 
+        the categories of safety and health, mission assurance, and 
+        mismanagement, and the disposition of those concerns, including 
+        whether any employee was disciplined as a result of a concern 
+        having been raised; and
+
+[[Page 119 STAT. 2915]]
+
+            (2) any recommendations for reforms to further prevent 
+        retribution against employees who raise concerns.
+
+                TITLE II--AUTHORIZATION OF APPROPRIATIONS
+
+SEC. 201. STRUCTURE OF BUDGET ACCOUNTS.
+
+    Section 313 of the National Aeronautics and Space Act of 1958 (42 
+U.S.C. 2459f) is amended--
+            (1) by amending subsection (a) to read as follows:
+
+    ``(a)(1) Appropriations for the Administration for fiscal year 2007 
+and thereafter shall be made in three accounts, `Science, Aeronautics, 
+and Education', `Exploration Systems and Space Operations', and an 
+account for amounts appropriated for the necessary expenses of the 
+Office of the Inspector General.
+    ``(2) Within the Exploration Systems and Space Operations account, 
+no more than 10 percent of the funds for a fiscal year for Exploration 
+Systems may be reprogrammed for Space Operations, and no more than 10 
+percent of the funds for a fiscal year for Space Operations may be 
+reprogrammed for Exploration Systems. This paragraph shall not apply to 
+reprogramming for the purposes described in subsection (b)(2).
+    ``(3) Appropriations shall remain available for two fiscal years, 
+unless otherwise specified in law. Each account shall include the 
+planned full costs of Administration activities.''; and
+            (2) in subsection (b)--
+                    (A) by inserting ``(1)'' before ``To ensure''; and
+                    (B) by adding at the end the following new 
+                paragraph:
+
+    ``(2) The Administration may also transfer amounts among accounts 
+for the immediate costs of recovering from damage caused by a major 
+disaster (as defined in section 102 of the Robert T. Stafford Disaster 
+Relief and Emergency Assistance Act (42 U.S.C. 5122)) or by an act of 
+terrorism, or for the immediate costs associated with an emergency 
+rescue of astronauts.''.
+
+SEC. 202. <<NOTE: 42 USC 16631.>> FISCAL YEAR 2007.
+
+     There are authorized to be appropriated to NASA for fiscal year 
+2007, $17,932,000,000, as follows:
+            (1) For Science, Aeronautics, and Education (including 
+        amounts for construction of facilities), $7,136,800,000, of 
+        which $962,000,000 shall be for Aeronautics.
+            (2) For Exploration Systems and Space Operations (including 
+        amounts for construction of facilities), $10,761,700,000, of 
+        which $6,618,600,000 shall be for Space Operations.
+            (3) For the Office of Inspector General, $33,500,000.
+
+SEC. 203. <<NOTE: 42 USC 16632.>> FISCAL YEAR 2008.
+
+     There are authorized to be appropriated to NASA for fiscal year 
+2008, $18,686,300,000 as follows:
+            (1) For Science, Aeronautics, and Education (including 
+        amounts for construction of facilities), $7,747,800,000, of 
+        which $990,000,000 shall be for Aeronautics.
+            (2) For Exploration Systems and Space Operations (including 
+        amounts for construction of facilities),
+
+[[Page 119 STAT. 2916]]
+
+        $10,903,900,000, of which $6,546,600,000 shall be for Space 
+        Operations.
+            (3) For the Office of Inspector General, $34,600,000.
+
+SEC. 204. <<NOTE: 42 USC 16633.>> ISS RESEARCH.
+
+    Beginning with fiscal year 2006, the Administrator shall allocate at 
+least 15 percent of the funds budgeted for ISS research to ground-based, 
+free-flyer, and ISS life and microgravity science research that is not 
+directly related to supporting the human exploration program, consistent 
+with section 305.
+
+SEC. 205. <<NOTE: 42 USC 16634.>> TEST FACILITIES.
+
+    (a) Charges.--The Administrator shall establish a policy of charging 
+users of NASA's test facilities for the costs associated with their 
+tests at a level that is competitive with alternative test 
+facilities. <<NOTE: Deadline. Notice.>> The Administrator shall not 
+implement a policy of seeking full cost recovery for a facility until at 
+least 30 days after transmitting a notice to the Committee on Science of 
+the House of Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate.
+
+    (b) Funding Account.--In planning and budgeting, the Administrator 
+shall establish a funding account that shall be used for all test 
+facilities. The account shall be sufficient to maintain the viability of 
+test facilities during periods of low utilization.
+
+SEC. 206. <<NOTE: 42 USC 16635.>> OFFICIAL REPRESENTATION FUND.
+
+    Amounts appropriated pursuant to this Act may be used, but not to 
+exceed a total of $70,000 in any fiscal year, for official reception and 
+representation expenses.
+
+SEC. 207. <<NOTE: 42 USC 16636.>> ISS COST CAP.
+
+    (a) Report.--The Administrator shall transmit to the Committee on 
+Science of the House of Representatives and the Committee on Commerce, 
+Science, and Transportation of the Senate a report providing the current 
+expected development costs of the ISS and describing any changes to 
+those costs that have occurred because of the grounding of the Space 
+Shuttle after the loss of the Space Shuttle Columbia and because of the 
+implementation of full-cost accounting.
+    (b) Repeal.--Thirty days after the transmittal of the report 
+described in subsection (a), section 202 of the National Aeronautics and 
+Space Administration Act of 2000 (42 U.S.C. 2451 note) is repealed.
+
+                           TITLE III--SCIENCE
+
+                     Subtitle A--General Provisions
+
+SEC. 301. <<NOTE: 42 USC 16651.>> PERFORMANCE ASSESSMENTS.
+
+    (a) In General.--The performance of each division in the Science 
+directorate of NASA shall be reviewed and assessed by the National 
+Academy of Sciences at 5-year intervals.
+    (b) Timing.--Beginning with the first fiscal year following the date 
+of enactment of this Act, the Administrator shall select at least one 
+division for review under this section. The Administrator shall select 
+divisions so that all disciplines will have received their
+
+[[Page 119 STAT. 2917]]
+
+first review within six fiscal years of the date of enactment of this 
+Act.
+    (c) Reports.--Not later than March 1 of each year, beginning with 
+the first fiscal year after the date of enactment of this Act, the 
+Administrator shall transmit a report to the Committee on Science of the 
+House of Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate--
+            (1) setting forth in detail the results of any external 
+        review under subsection (a);
+            (2) setting forth in detail actions taken by NASA in 
+        response to any external review; and
+            (3) including a summary of findings and recommendations from 
+        any other relevant external reviews of NASA's science mission 
+        priorities and programs.
+
+SEC. 302. <<NOTE: 42 USC 16652.>> STATUS ON HUBBLE SPACE TELESCOPE 
+            SERVICING MISSION.
+
+    It is the sense of the Congress that the Hubble Space Telescope is 
+an extraordinary instrument that has provided, and should continue to 
+provide, answers to profound scientific questions. In accordance with 
+the recommendations of the National Academy of Sciences study titled 
+``Assessment of Options for Extending the Life of the Hubble Space 
+Telescope'', all appropriate efforts should be expended to complete the 
+Space Shuttle servicing mission. Upon successful completion of the 
+planned return-to-flight schedule of the Space Shuttle, the 
+Administrator shall determine the schedule for a Space Shuttle servicing 
+mission to the Hubble Space Telescope, unless such a mission would 
+compromise astronaut safety. <<NOTE: Deadline. Reports.>> Not later than 
+60 days after the landing of the second Space Shuttle mission for 
+return-to-flight certification, the Administrator shall transmit to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate a status report 
+on plans for a Hubble Space Telescope servicing mission.
+
+SEC. 303. <<NOTE: 42 USC 16653.>> INDEPENDENT ASSESSMENT OF LANDSAT-
+            NPOESS INTEGRATED MISSION.
+
+    (a) Assessment.--In view of the importance of ensuring continuity of 
+Landsat data and in view of the challenges facing the National Polar-
+Orbiting Operational Environmental Satellite System program, the 
+Administrator shall seek an independent assessment of the costs as well 
+as the technical, cost, and schedule risks associated with incorporating 
+the Landsat instrument on the first National Polar-Orbiting Operational 
+Environmental Satellite System spacecraft compared with undertaking 
+various alternatives, including a dedicated Landsat data ``gap-filler'' 
+mission followed by the incorporation of the Landsat instrument on the 
+second National Polar-Orbiting Operational Environmental Satellite 
+System spacecraft. The assessment shall also include an evaluation of 
+the budgetary requirements of each of the options under consideration.
+    (b) Report.--
+            (1) Deadline.--The Administrator shall transmit the 
+        independent assessment to the Committee on Science of the House 
+        of Representatives and the Committee on Commerce, Science, and 
+        Transportation of the Senate not later than 180 days after the 
+        date of enactment of this Act unless, prior to that date, NASA 
+        cancels plans to fly the Landsat instrument on
+
+[[Page 119 STAT. 2918]]
+
+        the first National Polar-Orbiting Operational Environmental 
+        Satellite System spacecraft.
+            (2) <<NOTE: Deadlines.>> Cancellation.--If NASA cancels such 
+        plans, the Administrator shall--
+                    (A) not later than 7 days after a cancellation 
+                decision, inform the Committee on Science of the House 
+                of Representatives and the Committee on Commerce, 
+                Science, and Transportation of the Senate, in writing, 
+                of the cancellation; and
+                    (B) not later than 90 days after the transmittal of 
+                the cancellation notice, transmit to the Committee on 
+                Science of the House of Representatives and the 
+                Committee on Commerce, Science, and Transportation of 
+                the Senate a plan for undertaking a dedicated gap-filler 
+                mission or alternative means for ensuring the continuity 
+                of Landsat data, which shall include consideration of a 
+                low-cost constellation of small satellites.
+
+SEC. 304. <<NOTE: 42 USC 16654.>> ASSESSMENT OF SCIENCE MISSION 
+            EXTENSIONS.
+
+    (a) Assessment.--The Administrator shall carry out biennial reviews 
+within each of the Science divisions to assess the cost and benefits of 
+extending the date of the termination of data collection for those 
+missions that have exceeded their planned mission lifetime. In 
+addition--
+            (1) <<NOTE: Deadline.>> not later than 60 days after the 
+        date of enactment of this Act, the Administrator shall carry out 
+        such an assessment for at least the following missions: FAST, 
+        TIMED, Cluster, Wind, Geotail, Polar, TRACE, Ulysses, and 
+        Voyager; and
+            (2) for those missions that have an operational component, 
+        the National Oceanic and Atmospheric Administration or any other 
+        affected agency shall be consulted and the potential benefits of 
+        instruments on missions that are beyond their planned mission 
+        lifetime taken into account.
+
+    (b) Report.--Not later than 30 days after completing each assessment 
+required by subsection (a)(1), the Administrator shall transmit a report 
+on the assessment to the Committee on Science of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate.
+
+SEC. 305. <<NOTE: 42 USC 16655.>> MICROGRAVITY RESEARCH.
+
+     The Administrator shall--
+            (1) <<NOTE: Reports.>> transmit the report required by 
+        section 506;
+            (2) ensure the capacity to support ground-based research 
+        leading to space-based basic and applied scientific research in 
+        a variety of disciplines with potential direct national benefits 
+        and applications that can be advanced significantly from the 
+        uniqueness of microgravity and the space environment; and
+            (3) carry out, to the maximum extent practicable, basic, 
+        applied, and commercial ISS research in fields such as molecular 
+        crystal growth, animal research, basic fluid physics, combustion 
+        research, cellular biotechnology, low-temperature physics, and 
+        cellular research at a level that will sustain the existing 
+        United States scientific expertise and research capability in 
+        microgravity research.
+
+[[Page 119 STAT. 2919]]
+
+SEC. 306. <<NOTE: 42 USC 16656.>> COORDINATION WITH THE NATIONAL OCEANIC 
+            AND ATMOSPHERIC ADMINISTRATION.
+
+    (a) <<NOTE: Establishment.>> Joint Working Group.--The Administrator 
+and the Administrator of the National Oceanic and Atmospheric 
+Administration shall appoint a Joint Working Group, which shall review 
+and monitor missions of the two agencies to ensure maximum coordination 
+in the design, operation, and transition of missions where appropriate. 
+The Joint Working Group shall also prepare the plans required by 
+subsection (c).
+
+    (b) Coordination Report.--Not later than February 15 of each year, 
+beginning with the first fiscal year after the date of enactment of this 
+Act, the Administrator and the Administrator of the National Oceanic and 
+Atmospheric Administration shall jointly transmit a report to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate on how the earth 
+science programs of the National Oceanic and Atmospheric Administration 
+and NASA will be coordinated during the fiscal year following the fiscal 
+year in which the report is transmitted.
+    (c) Coordination of Transition Planning and Reporting.--The 
+Administrator, in conjunction with the Administrator of the National 
+Oceanic and Atmospheric Administration and in consultation with other 
+relevant agencies, shall evaluate relevant NASA science missions for 
+their potential operational capabilities and shall prepare transition 
+plans for the existing and future Earth observing systems found to have 
+potential operational capabilities.
+    (d) Limitation.--The Administrator shall not transfer any NASA earth 
+science mission or Earth observing system to the National Oceanic and 
+Atmospheric Administration until the plan required under subsection (c) 
+has been approved by the Administrator and the Administrator of the 
+National Oceanic and Atmospheric Administration and until financial 
+resources have been identified to support the transition or transfer in 
+the President's budget request for the National Oceanic and Atmospheric 
+Administration.
+
+SEC. 307. <<NOTE: 42 USC 16657.>> REVIEW AND REPORT ON HEADQUARTERS 
+            EARTH-SUN SYSTEM APPLIED SCIENCES PROGRAM.
+
+    (a) Review.--The Administrator shall review the policies, processes, 
+and procedures in the planning and management of applications research 
+and development implemented in calendar years 2001 to 2005 within the 
+Headquarters Earth-Sun System Applied Sciences Program and former Earth 
+Science Applications Program. This review shall include--
+            (1) the program planning and analysis process used to 
+        formulate applied science research and development requirements, 
+        priorities, and solicitation schedules, including changes to the 
+        process within the period under review, and the effects of such 
+        planning on the quality and clarity of applied sciences research 
+        announcements;
+            (2) the peer review process including, but not limited to--
+                    (A) membership selection, determination of 
+                qualifications, and use of NASA and non-NASA reviewers;
+                    (B) management of conflicts of interest, including 
+                reviewers funded by the program with a significant 
+                consulting or contractual relationship with NASA, and 
+                individuals who both review proposals and participate in 
+                the
+
+[[Page 119 STAT. 2920]]
+
+                submission of proposals under the same solicitation 
+                announcement; and
+                    (C) compensation of non-NASA proposal reviewers;
+            (3) the process for assigning or allocating applied research 
+        to NASA researchers and to non-NASA researchers; and
+            (4) alternative models for NASA planning and management of 
+        applied science and applications research, including an 
+        evaluation of the relevance for NASA of--
+                    (A) National Institutes of Health intramural and 
+                extramural research program structure, peer review 
+                process, management of conflicts of interests, 
+                compensation of reviewers, and the effects of 
+                compensation on reviewer efficiency and quality;
+                    (B) Department of Agriculture Cooperative State 
+                Research Education and Extension Service program and 
+                structure, peer review process, management of conflicts 
+                of interest, compensation of reviewers, and the effects 
+                of compensation on reviewer efficiency and quality;
+                    (C) National Institutes of Health and Department of 
+                Agriculture best practices in the planning, selection, 
+                and management of applied sciences research and 
+                development; and
+                    (D) any other relevant models.
+
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Administrator shall transmit a report to the Committee on 
+Science of the House of Representatives and the Committee on Commerce, 
+Science, and Transportation of the Senate describing the results of the 
+review conducted under subsection (a). The report shall include a plan 
+to ensure that the peer review process is transparent and selects 
+proposals in a manner that instills public and stakeholder confidence.
+
+                       Subtitle B--Remote Sensing
+
+SEC. 311. <<NOTE: 42 USC 16671.>> DEFINITIONS.
+
+    In this subtitle--
+            (1) the term ``geospatial information'' means knowledge of 
+        the nature and distribution of physical and cultural features on 
+        the landscape based on analysis of data from airborne or 
+        spaceborne platforms or other types and sources of data;
+            (2) the term ``high resolution'' means resolution better 
+        than five meters; and
+            (3) the term ``institution of higher education'' has the 
+        meaning given that term in section 101(a) of the Higher 
+        Education Act of 1965 (20 U.S.C. 1001(a)).
+
+SEC. 312. <<NOTE: 42 USC 16672.>> GENERAL RESPONSIBILITIES.
+
+    The Administrator shall--
+            (1) develop a sustained relationship with the United States 
+        commercial remote sensing industry and, consistent with 
+        applicable policies and law, to the maximum practicable, rely on 
+        their services; and
+            (2) in conjunction with United States industry and 
+        universities, research, develop, and demonstrate prototype earth 
+        science applications to enhance Federal, State, local, and 
+        tribal governments' use of government and commercial remote 
+        sensing
+
+[[Page 119 STAT. 2921]]
+
+        data, technologies, and other sources of geospatial information 
+        for improved decision support to address their needs.
+
+SEC. 313. <<NOTE: 42 USC 16673.>> PILOT PROJECTS TO ENCOURAGE PUBLIC 
+            SECTOR APPLICATIONS.
+
+    (a) <<NOTE: Grants.>> In General.--The Administrator shall establish 
+a program of grants for competitively awarded pilot projects to explore 
+the integrated use of sources of remote sensing and other geospatial 
+information to address State, local, regional, and tribal agency needs.
+
+    (b) Preferred Projects.--In awarding grants under this section, the 
+Administrator shall give preference to projects that--
+            (1) make use of commercial data sets, including high 
+        resolution commercial satellite imagery and derived satellite 
+        data products, existing public data sets where commercial data 
+        sets are not available or applicable, or the fusion of such data 
+        sets;
+            (2) integrate multiple sources of geospatial information, 
+        such as geographic information system data, satellite-provided 
+        positioning data, and remotely sensed data, in innovative ways;
+            (3) include funds or in-kind contributions from non-Federal 
+        sources;
+            (4) involve the participation of commercial entities that 
+        process raw or lightly processed data, often merging that data 
+        with other geospatial information, to create data products that 
+        have significant value added to the original data; and
+            (5) taken together demonstrate as diverse a set of public 
+        sector applications as possible.
+
+    (c) Opportunities.--In carrying out this section, the Administrator 
+shall seek opportunities to assist--
+            (1) in the development of commercial applications 
+        potentially available from the remote sensing industry; and
+            (2) State, local, regional, and tribal agencies in applying 
+        remote sensing and other geospatial information technologies for 
+        growth management.
+
+    (d) Duration.--Assistance for a pilot project under subsection (a) 
+shall be provided for a period not to exceed 3 years.
+    (e) Report.--Each recipient of a grant under subsection (a) shall 
+transmit a report to the Administrator on the results of the pilot 
+project within 180 days of the completion of that project.
+    (f) <<NOTE: Deadline.>> Workshop.--Each recipient of a grant under 
+subsection (a) shall, not later than 180 days after the completion of 
+the pilot project, conduct at least one workshop for potential users to 
+disseminate the lessons learned from the pilot project as widely as 
+feasible.
+
+    (g) Regulations.--The Administrator shall issue regulations 
+establishing application, selection, and implementation procedures for 
+pilot projects, and guidelines for reports and workshops required by 
+this section.
+
+SEC. 314. <<NOTE: 42 USC 16674.>> PROGRAM EVALUATION.
+
+    (a) <<NOTE: Establishment.>> Advisory Committee.--The Administrator 
+shall establish an advisory committee, consisting of individuals with 
+appropriate expertise in State, local, regional, and tribal agencies, 
+the university research community, and the remote sensing and other 
+geospatial information industries, to monitor the program established 
+under section 313. The advisory committee shall consult with the Federal 
+Geographic Data Committee and other appropriate industry representatives 
+and organizations. Notwithstanding section 14 of the
+
+[[Page 119 STAT. 2922]]
+
+Federal Advisory Committee Act, the advisory committee established under 
+this subsection shall remain in effect until the termination of the 
+program under section 313.
+
+    (b) <<NOTE: Deadline.>> Effectiveness Evaluation.--Not later than 
+December 31, 2009, the Administrator shall transmit to the Congress an 
+evaluation of the effectiveness of the program established under section 
+313 in exploring and promoting the integrated use of sources of remote 
+sensing and other geospatial information to address State, local, 
+regional, and tribal agency needs. Such evaluation shall have been 
+conducted by an independent entity.
+
+SEC. 315. <<NOTE: 42 USC 16675.>> DATA AVAILABILITY.
+
+    The Administrator shall ensure that the results of each of the pilot 
+projects completed under section 313 shall be retrievable through an 
+electronic, Internet-accessible database.
+
+SEC. 316. <<NOTE: 42 USC 16676.>> EDUCATION.
+
+    The Administrator shall establish an educational outreach program to 
+increase awareness at institutions of higher education and State, local, 
+regional, and tribal agencies of the potential applications of remote 
+sensing and other geospatial information and awareness of the need for 
+geospatial workforce development.
+
+        Subtitle C--George E. Brown, Jr. Near-Earth Object Survey
+
+SEC. 321. <<NOTE: George E. Brown, Jr. Near-Earth Object Survey Act. 42 
+            USC 16691.>> GEORGE E. BROWN, JR. NEAR-EARTH OBJECT SURVEY.
+
+    (a) Short Title.--This section may be cited as the ``George E. 
+Brown, Jr. Near-Earth Object Survey Act''.
+    (b) Findings.--The Congress makes the following findings:
+            (1) Near-Earth objects pose a serious and credible threat to 
+        humankind, as many scientists believe that a major asteroid or 
+        comet was responsible for the mass extinction of the majority of 
+        the Earth's species, including the dinosaurs, nearly 65,000,000 
+        years ago.
+            (2) Similar objects have struck the Earth or passed through 
+        the Earth's atmosphere several times in the Earth's history and 
+        pose a similar threat in the future.
+            (3) Several such near-Earth objects have only been 
+        discovered within days of the objects' closest approach to 
+        Earth, and recent discoveries of such large objects indicate 
+        that many large near-Earth objects remain undiscovered.
+            (4) The efforts taken to date by NASA for detecting and 
+        characterizing the hazards of near-Earth objects are not 
+        sufficient to fully determine the threat posed by such objects 
+        to cause widespread destruction and loss of life.
+
+    (c) Definitions.--For purposes of this section the term ``near-Earth 
+object'' means an asteroid or comet with a perihelion distance of less 
+than 1.3 Astronomical Units from the Sun.
+    (d) Near-Earth Object Survey.--
+            (1) Survey program.--The Administrator shall plan, develop, 
+        and implement a Near-Earth Object Survey program to detect, 
+        track, catalogue, and characterize the physical characteristics 
+        of near-Earth objects equal to or greater than 140 meters in 
+        diameter in order to assess the threat of such near-Earth 
+        objects to the Earth. <<NOTE: Deadline.>> It shall be the goal 
+        of the
+
+[[Page 119 STAT. 2923]]
+
+        Survey program to achieve 90 percent completion of its near-
+        Earth object catalogue (based on statistically predicted 
+        populations of near-Earth objects) within 15 years after the 
+        date of enactment of this Act.
+            (2) Amendments.--Section 102 of the National Aeronautics and 
+        Space Act of 1958 (42 U.S.C. 2451) is amended--
+                    (A) by redesignating subsection (g) as subsection 
+                (h);
+                    (B) by inserting after subsection (f) the following 
+                new subsection:
+
+    ``(g) The Congress declares that the general welfare and security of 
+the United States require that the unique competence of the National 
+Aeronautics and Space Administration be directed to detecting, tracking, 
+cataloguing, and characterizing near-Earth asteroids and comets in order 
+to provide warning and mitigation of the potential hazard of such near-
+Earth objects to the Earth.''; and
+                    (C) in subsection (h), as so redesignated by 
+                subparagraph (A) of this paragraph, by striking ``and 
+                (f)'' and inserting ``(f), and (g)''.
+            (3) Fifth-year report.--The Administrator shall transmit to 
+        the Congress, not later than February 28 of the fifth year after 
+        the date of enactment of this Act, a report that provides the 
+        following:
+                    (A) A summary of all activities taken pursuant to 
+                paragraph (1) since the date of enactment of this Act.
+                    (B) A summary of expenditures for all activities 
+                pursuant to paragraph (1) since the date of enactment of 
+                this Act.
+            (4) Initial report.--The Administrator shall transmit to 
+        Congress not later than 1 year after the date of enactment of 
+        this Act an initial report that provides the following:
+                    (A) An analysis of possible alternatives that NASA 
+                may employ to carry out the Survey program, including 
+                ground-based and space-based alternatives with technical 
+                descriptions.
+                    (B) A recommended option and proposed budget to 
+                carry out the Survey program pursuant to the recommended 
+                option.
+                    (C) Analysis of possible alternatives that NASA 
+                could employ to divert an object on a likely collision 
+                course with Earth.
+
+                          TITLE IV--AERONAUTICS
+
+SEC. 401. <<NOTE: 42 USC 16701.>> DEFINITION.
+
+    For purposes of this title, the term ``institution of higher 
+education'' has the meaning given that term by section 101 of the Higher 
+Education Act of 1965 (20 U.S.C. 1001).
+
+     Subtitle A--Governmental Interest in Aeronautics Research and 
+                               Development
+
+SEC. 411. <<NOTE: 42 USC 16711.>> GOVERNMENTAL INTEREST.
+
+    Congress reaffirms the national commitment to aeronautics research 
+made in the National Aeronautics and Space Act of 1958.
+
+[[Page 119 STAT. 2924]]
+
+Aeronautics research and development remains a core mission of NASA. 
+NASA is the lead agency for civil aeronautics research. Further, the 
+government of the United States shall promote aeronautics research and 
+development that will expand the capacity, ensure the safety, and 
+increase the efficiency of the Nation's air transportation system, 
+promote the security of the Nation, protect the environment, and retain 
+the leadership of the United States in global aviation.
+
+ Subtitle B--High Priority Aeronautics Research and Development Programs
+
+SEC. 421. <<NOTE: 42 USC 16721.>> FUNDAMENTAL RESEARCH PROGRAM.
+
+    (a) Objective.--In order to ensure that the Nation maintains needed 
+capabilities in fundamental areas of aeronautics research, the 
+Administrator shall establish a program of long-term fundamental 
+research in aeronautical sciences and technologies that is not tied to 
+specific development projects.
+    (b) <<NOTE: Grants.>> Operation.--The Administrator shall conduct 
+the program under this section, in part by awarding grants to 
+institutions of higher education. The Administrator shall encourage the 
+participation of institutions of higher education located in States that 
+participate in the Experimental Program to Stimulate Competitive 
+Research. All grants to institutions of higher education under this 
+section shall be awarded through merit review.
+
+    (c) Assessment.--The Administrator shall enter into an arrangement 
+with the National Research Council for an assessment of the Nation's 
+future requirements for fundamental aeronautics research and whether the 
+Nation will have a skilled research workforce and research facilities 
+commensurate with those requirements. The assessment shall include an 
+identification of any projected gaps, and recommendations for what steps 
+should be taken by the Federal Government to eliminate those gaps.
+    (d) Report.--The Administrator shall transmit the assessment, along 
+with NASA's response to the assessment, to Congress not later than 2 
+years after the date of enactment of this Act.
+
+SEC. 422. <<NOTE: 42 USC 16722.>> RESEARCH AND TECHNOLOGY PROGRAMS.
+
+    (a) Environmental Aircraft Research and Development.--The 
+Administrator may establish an initiative with the objective of 
+developing, and demonstrating in a relevant environment, technologies to 
+enable the following commercial aircraft performance characteristics:
+            (1) Noise.--Noise levels on takeoff and on airport approach 
+        and landing that do not exceed ambient noise levels in the 
+        absence of flight operations in the vicinity of airports from 
+        which such commercial aircraft would normally operate.
+            (2) Energy consumption.--Twenty-five percent reduction in 
+        the energy required for medium- to long-range flights, compared 
+        to aircraft in commercial service as of the date of enactment of 
+        this Act.
+            (3) Emissions.--Nitrogen oxides on take-off and landing that 
+        are significantly reduced, without adversely affecting 
+        hydrocarbons and smoke, relative to aircraft in commercial 
+        service as of the date of enactment of this Act.
+
+[[Page 119 STAT. 2925]]
+
+    (b) Supersonic Transport Research and Development.--The 
+Administrator may establish an initiative with the objective of 
+developing and demonstrating, in a relevant environment, airframe and 
+propulsion technologies to enable efficient, economical overland flight 
+of supersonic civil transport aircraft with no significant impact on the 
+environment.
+    (c) Rotorcraft and Other Runway-Independent Air Vehicles.--The 
+Administrator may establish a rotorcraft and other runway-independent 
+air vehicles initiative with the objective of developing and 
+demonstrating improved safety, noise, and environmental impact in a 
+relevant environment.
+    (d) Hypersonics Research.--The Administrator may establish a 
+hypersonics research program with the objective of exploring the science 
+and technology of hypersonic flight using air-breathing propulsion 
+concepts, through a mix of theoretical work, basic and applied research, 
+and development of flight research demonstration vehicles. The program 
+may also include the transition to the hypersonic range of Mach 3 to 
+Mach 5.
+    (e) Revolutionary Aeronautical Concepts.--The Administrator may 
+establish a research program which covers a unique range of subsonic, 
+fixed wing vehicles and propulsion concepts. This research is intended 
+to push technology barriers beyond current subsonic technology. 
+Propulsion concepts include advanced materials, morphing engines, hybrid 
+engines, and fuel cells.
+    (f) Fuel Cell-Powered Aircraft Research.--
+            (1) Objective.--The Administrator may establish a fuel-cell 
+        powered aircraft research program whose objective shall be to 
+        develop and test concepts to enable a hydrogen fuel cell-powered 
+        aircraft that would have no hydrocarbon or nitrogen oxide 
+        emissions into the environment.
+            (2) Approach.--The Administrator may establish a program of 
+        competitively awarded grants available to teams of researchers 
+        that may include the participation of individuals from 
+        universities, industry, and government for the conduct of this 
+        research.
+
+    (g) Mars Aircraft Research.--
+            (1) Objective.--The Administrator may establish a Mars 
+        Aircraft project whose objective shall be to develop and test 
+        concepts for an uncrewed aircraft that could operate for 
+        sustained periods in the atmosphere of Mars.
+            (2) Approach.--The Administrator may establish a program of 
+        competitively awarded grants available to teams of researchers 
+        that may include the participation of individuals from 
+        universities, industry, and government for the conduct of this 
+        research.
+
+SEC. 423. <<NOTE: 42 USC 16723.>> AIRSPACE SYSTEMS RESEARCH.
+
+    (a) Objective.--The Airspace Systems Research program shall pursue 
+research and development to enable revolutionary improvements to and 
+modernization of the National Airspace System, as well as to enable the 
+introduction of new systems for vehicles that can take advantage of an 
+improved, modern air transportation system.
+    (b) <<NOTE: Deadline.>> Alignment.--Not later than 1 year after the 
+date of enactment of this Act, the Administrator shall align the 
+projects of
+
+[[Page 119 STAT. 2926]]
+
+the Airspace Systems Research program so that they directly support the 
+objectives of the Joint Planning and Development Office's Next 
+Generation Air Transportation System Integrated Plan.
+
+SEC. 424. <<NOTE: 42 USC 16724.>> AVIATION SAFETY AND SECURITY RESEARCH.
+
+    (a) Objective.--The Aviation Safety and Security Research program 
+shall pursue research and development activities that directly address 
+the safety and security needs of the National Airspace System and the 
+aircraft that fly in it. The program shall develop prevention, 
+intervention, and mitigation technologies aimed at causal, contributory, 
+or circumstantial factors of aviation accidents.
+    (b) <<NOTE: Deadline.>> Alignment.--Not later than 1 year after the 
+date of enactment of this Act, the Administrator shall align the 
+projects of the Aviation Safety and Security Research program so that 
+they directly support the objectives of the Joint Planning and 
+Development Office's Next Generation Air Transportation System 
+Integrated Plan.
+
+SEC. 425. <<NOTE: 42 USC 16725.>> AVIATION WEATHER RESEARCH.
+
+    The Administrator may carry out a program of collaborative research 
+with the National Oceanic and Atmospheric Administration on convective 
+weather events, with the goal of significantly improving the reliability 
+of 2-hour to 6-hour aviation weather forecasts.
+
+SEC. 426. <<NOTE: 42 USC 16726.>> ASSESSMENT OF WAKE TURBULENCE RESEARCH 
+            AND DEVELOPMENT PROGRAM.
+
+    (a) Assessment.--The Administrator shall enter into an arrangement 
+with the National Research Council for an assessment of Federal wake 
+turbulence research and development programs. The assessment shall 
+address at least the following questions:
+            (1) Are the Federal research and development goals and 
+        objectives well defined?
+            (2) Are there any deficiencies in the Federal research and 
+        development goals and objectives?
+            (3) What roles should be played by each of the relevant 
+        Federal agencies, such as NASA, the Federal Aviation 
+        Administration, and the National Oceanic and Atmospheric 
+        Administration, in wake turbulence research and development?
+
+    (b) Report.--A report containing the results of the assessment 
+conducted pursuant to subsection (a) shall be provided to Congress not 
+later than 2 years after the date of enactment of this Act.
+
+SEC. 427. <<NOTE: 42 USC 16727.>> UNIVERSITY-BASED CENTERS FOR RESEARCH 
+            ON AVIATION TRAINING.
+
+    (a) In General.--The Administrator may award grants to institutions 
+of higher education (or consortia thereof) to establish one or more 
+Centers for Research on Aviation Training under cooperative agreements 
+with appropriate NASA Centers.
+    (b) Purpose.--The purpose of the Centers shall be to investigate the 
+impact of new technologies and procedures, particularly those related to 
+the aircraft flight deck and to the air traffic management functions, on 
+training requirements for pilots and air traffic controllers.
+    (c) Application.--An institution of higher education (or a 
+consortium of such institutions) seeking funding under this section 
+shall submit an application to the Administrator at such time,
+
+[[Page 119 STAT. 2927]]
+
+in such manner, and containing such information as the Administrator may 
+require, including, at a minimum, a 5-year research plan.
+    (d) Award Duration.--An award made by the Administrator under this 
+section shall be for a period of 5 years and may be renewed on the basis 
+of--
+            (1) satisfactory performance in meeting the goals of the 
+        research plan proposed by the Center in its application under 
+        subsection (c); and
+            (2) other requirements as specified by the Administrator.
+
+                        Subtitle C--Scholarships
+
+SEC. 431. <<NOTE: 42 USC 16741.>> NASA AERONAUTICS SCHOLARSHIPS.
+
+    (a) Establishment.--The Administrator shall establish a program of 
+scholarships for full-time graduate students who are United States 
+citizens and are enrolled in, or have been accepted by and have 
+indicated their intention to enroll in, accredited Masters degree 
+programs in aeronautical engineering or equivalent programs at 
+institutions of higher education. Each such scholarship shall cover the 
+costs of room, board, tuition, and fees, and may be provided for a 
+maximum of 2 years.
+    (b) <<NOTE: Deadline. Publication. Regulations.>> Implementation.--
+Not later than 180 days after the date of enactment of this Act, the 
+Administrator shall publish regulations governing the scholarship 
+program under this section.
+
+    (c) Cooperative Training Opportunities.--Students who have been 
+awarded a scholarship under this section shall have the opportunity for 
+paid employment at one of the NASA Centers engaged in aeronautics 
+research and development during the summer prior to the first year of 
+the student's Masters program, and between the first and second year, if 
+applicable.
+
+                        Subtitle D--Data Requests
+
+SEC. 441. <<NOTE: 42 USC 16751.>> AVIATION DATA REQUESTS.
+
+    The Administrator shall make available upon request satellite 
+imagery and aerial photography of remote terrain that NASA owns at the 
+time of the request to the Administrator of the Federal Aviation 
+Administration, or the Director of the Five Star Medallion Program, to 
+assist and train pilots in navigating challenging topographical features 
+of such terrain.
+
+                       TITLE V--HUMAN SPACE FLIGHT
+
+SEC. 501. <<NOTE: 42 USC 16761.>> SPACE SHUTTLE FOLLOW-ON.
+
+    (a) Policy Statement.--It is the policy of the United States to 
+possess the capability for human access to space on a continuous basis.
+    (b) Progress Report.--Not later than 180 days after the date of 
+enactment of this Act and annually thereafter, the Administrator shall 
+transmit a report to the Committee on Science of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate describing the progress being made toward 
+developing the Crew Exploration Vehicle and the Crew
+
+[[Page 119 STAT. 2928]]
+
+Launch Vehicle and the estimated time before they will demonstrate 
+crewed, orbital spaceflight.
+    (c) Compliance Report.--If, 1 year before the final planned flight 
+of the Space Shuttle orbiter, the United States has not demonstrated a 
+replacement human space flight system, and the United States cannot 
+uphold the policy described in subsection (a), the Administrator shall 
+transmit a report to the Committee on Science of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate describing--
+            (1) strategic risks to the United States associated with the 
+        failure to uphold the policy described in subsection (a);
+            (2) the estimated length of time during which the United 
+        States will not have its own human access to space;
+            (3) what steps will be taken to shorten that length of time; 
+        and
+            (4) what other means will be used to allow human access to 
+        space during that time.
+
+SEC. 502. <<NOTE: 42 USC 16762.>> TRANSITION.
+
+    (a) In General.--The Administrator shall, to the fullest extent 
+possible consistent with a successful development program, use the 
+personnel, capabilities, assets, and infrastructure of the Space Shuttle 
+program in developing the Crew Exploration Vehicle, Crew Launch Vehicle, 
+and a heavy-lift launch vehicle.
+    (b) <<NOTE: Deadline.>> Plan.--Not later than 180 days after the 
+date of enactment of this Act, the Administrator shall transmit to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate a plan describing 
+how NASA will proceed with its human space flight programs, which, at a 
+minimum, shall describe--
+            (1) how NASA will deploy personnel from, and use the 
+        facilities of, the Space Shuttle program to ensure that the 
+        Space Shuttle operates as safely as possible through its final 
+        flight and to ensure that personnel and facilities from the 
+        Space Shuttle program are used in NASA's exploration programs in 
+        accordance with subsection (a);
+            (2) the planned number of flights the Space Shuttle will 
+        make before its retirement;
+            (3) the means, other than the Space Shuttle and the Crew 
+        Exploration Vehicle, including commercial vehicles, that may be 
+        used to ferry crew and cargo to and from the ISS;
+            (4) the intended purpose of lunar missions and the 
+        architecture for those missions; and
+            (5) the extent to which the Crew Exploration Vehicle will 
+        allow for the escape of the crew in an emergency.
+
+    (c) Personnel.--The Administrator shall consult with other 
+appropriate Federal agencies and with NASA contractors and employees to 
+develop a transition plan for any Federal and contractor personnel 
+engaged in the Space Shuttle program who can no longer be retained 
+because of the retirement of the Space Shuttle. The plan shall include 
+actions to assist Federal and contractor personnel in taking advantage 
+of training, retraining, job placement and relocation programs, and any 
+other actions that NASA will take to assist the employees. The plan 
+shall also describe how the Administrator will ensure that NASA and its 
+contractors will have an appropriate complement of employees to allow 
+for the safest possible use of the Space Shuttle through its final 
+flight.
+
+[[Page 119 STAT. 2929]]
+
+The Administrator <<NOTE: Deadline.>> shall transmit the plan to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate not later than 
+March 31, 2006.
+
+SEC. 503. <<NOTE: 42 USC 16763.>> REQUIREMENTS.
+
+    The Administrator shall--
+            (1) construct an architecture and implementation plan for 
+        NASA's human exploration program that is not critically 
+        dependent on the achievement of milestones by fixed dates;
+            (2) implement an exploration technology development program 
+        to enable lunar human and robotic operations consistent with 
+        section 101(b)(2), including surface power to use on the Moon 
+        and other locations;
+            (3) conduct an in-situ resource utilization technology 
+        program to develop the capability to use space resources to 
+        increase independence from Earth, and sustain exploration beyond 
+        low-Earth orbit; and
+            (4) pursue aggressively automated rendezvous and docking 
+        capabilities that can support the ISS and other mission 
+        requirements.
+
+SEC. 504. <<NOTE: 42 USC 16764.>> GROUND-BASED ANALOG CAPABILITIES.
+
+    (a) In General.--The Administrator may establish a ground-based 
+analog capability in remote United States locations in order to assist 
+in the development of lunar operations, life support, and in-situ 
+resource utilization experience and capabilities.
+    (b) Environmental Characteristics.--The Administrator shall select 
+locations for the activities described in subsection (a) that--
+            (1) are regularly accessible;
+            (2) have significant temperature extremes and range; and
+            (3) have access to energy and natural resources (including 
+        geothermal, permafrost, volcanic, or other potential resources).
+
+    (c) Involvement of Local Populations; Private Sector Partners.--In 
+carrying out this section, the Administrator shall involve local 
+populations, academia, and industrial partners as much as possible to 
+ensure that ground-based benefits and applications are encouraged and 
+developed.
+
+SEC. 505. <<NOTE: 42 USC 16765.>> ISS COMPLETION.
+
+    (a) Policy.--It is the policy of the United States to achieve 
+diverse and growing utilization of, and benefits from, the ISS.
+    (b) Elements, Capabilities, and Configuration Criteria.--The 
+Administrator shall ensure that the ISS will--
+            (1) be assembled and operated in a manner that fulfills 
+        international partner agreements, as long as the Administrator 
+        determines that the Shuttle can safely enable the United States 
+        to do so;
+            (2) be used for a diverse range of microgravity research, 
+        including fundamental, applied, and commercial research, 
+        consistent with section 305;
+            (3) have an ability to support a crew size of at least 6 
+        persons, unless the Administrator transmits to the Committee on 
+        Science of the House of Representatives and the Committee on 
+        Commerce, Science, and Transportation of the Senate not later 
+        than 60 days after the date of enactment of this Act, a report 
+        explaining why such a requirement should not be
+
+[[Page 119 STAT. 2930]]
+
+        met, the impact of not meeting the requirement on the ISS 
+        research agenda and operations and international partner 
+        agreements, and what additional funding or other steps would be 
+        required to have an ability to support crew size of at least 6 
+        persons;
+            (4) support Crew Exploration Vehicle docking and automated 
+        docking of cargo vehicles or modules launched by either heavy-
+        lift or commercially-developed launch vehicles;
+            (5) support any diagnostic human research, on-orbit 
+        characterization of molecular crystal growth, cellular research, 
+        and other research that NASA believes is necessary to conduct, 
+        but for which NASA lacks the capacity to return the materials 
+        that need to be analyzed to Earth; and
+            (6) be operated at an appropriate risk level.
+
+    (c) Contingencies.--
+            (1) Policy.--The Administrator shall ensure that the ISS can 
+        have available, if needed, sufficient logistics and on-orbit 
+        capabilities to support any potential period during which the 
+        Space Shuttle or its follow-on crew and cargo systems are 
+        unavailable, and can have available, if needed, sufficient surge 
+        delivery capability or prepositioning of spares and other 
+        supplies needed to accommodate any such hiatus.
+            (2) <<NOTE: Deadline.>> Plan.--Not later than 60 days after 
+        the date of enactment of this Act, and before making any change 
+        in the ISS assembly sequence in effect on the date of enactment 
+        of this Act, the Administrator shall transmit to the Committee 
+        on Science of the House of Representatives and the Committee on 
+        Commerce, Science, and Transportation of the Senate a plan to 
+        carry out the policy described in paragraph (1).
+
+SEC. 506. <<NOTE: 42 USC 16766.>> ISS RESEARCH.
+
+    The Administrator shall--
+            (1) carry out a program of microgravity research consistent 
+        with section 305;
+            (2) consider the need for a life sciences centrifuge and any 
+        associated holding facilities; and
+            (3) <<NOTE: Deadline.>> not later than 90 days after the 
+        date of enactment of this Act, transmit to the Committee on 
+        Science of the House of Representatives and the Committee on 
+        Commerce, Science, and Transportation of the Senate the research 
+        plan for NASA utilization of the ISS and the proposed final 
+        configuration of the ISS, which shall include an identification 
+        of microgravity research that can be performed in ground-based 
+        facilities and then validated in space and an assessment of the 
+        impact of having or not having a life science centrifuge aboard 
+        the ISS.
+
+SEC. 507. <<NOTE: 42 USC 16767.>> NATIONAL LABORATORY DESIGNATION.
+
+    (a) Designation.--To further the policy described in section 501(a), 
+the United States segment of the ISS is hereby designated a national 
+laboratory.
+    (b) Management.--
+            (1) Partnerships.--The Administrator shall seek to increase 
+        the utilization of the ISS by other Federal entities and the 
+        private sector through partnerships, cost-sharing agreements, 
+        and other arrangements that would supplement NASA funding of the 
+        ISS.
+            (2) Contracting.--The Administrator may enter into a 
+        contract with a nongovernmental entity to operate the ISS
+
+[[Page 119 STAT. 2931]]
+
+        national laboratory, subject to all applicable Federal laws and 
+        regulations.
+
+    (c) <<NOTE: Deadline.>> Plan.--Not later than 1 year after the date 
+of enactment of this Act, the Administrator shall transmit to the 
+Committee on Science of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate a plan describing 
+how the national laboratory will be operated. At a minimum, the plan 
+shall describe--
+            (1) any changes in the research plan transmitted under 
+        section 506(3) and any other changes in the operation of the ISS 
+        resulting from the designation;
+            (2) any ground-based NASA operations or buildings that will 
+        be considered part of the national laboratory;
+            (3) the management structure for the laboratory, including 
+        the rationale for contracting or not contracting with a 
+        nongovernmental entity to operate the ISS national laboratory;
+            (4) the workforce that will be considered employees of the 
+        national laboratory;
+            (5) how NASA will seek the participation of other parties 
+        described in subsection (b)(1); and
+            (6) a schedule for implementing any changes in ISS 
+        operations, utilization, or management described in the plan.
+
+    (d) United States Segment Defined.--In this section the term 
+``United States segment of the ISS'' means those elements of the ISS 
+manufactured--
+            (1) by the United States; or
+            (2) for the United States by other nations in exchange for 
+        funds or launch services.
+
+                      TITLE VI--OTHER PROGRAM AREAS
+
+                  Subtitle A--Space and Flight Support
+
+SEC. 601. <<NOTE: 42 USC 16781.>> ORBITAL DEBRIS.
+
+    The Administrator, in conjunction with the heads of other Federal 
+agencies, shall take steps to develop or acquire technologies that will 
+enable NASA to decrease the risks associated with orbital debris.
+
+SEC. 602. <<NOTE: 42 USC 16782.>> SECONDARY PAYLOAD CAPABILITY.
+
+    (a) In General.--In order to provide more routine and affordable 
+access to space for a broad range of scientific payloads, the 
+Administrator is encouraged to provide the capabilities to support 
+secondary payload flight opportunities on United States launch vehicles, 
+or free flyers, for satellites or scientific payloads weighing less than 
+500 kilograms.
+    (b) Feasibility Study.--The Administrator shall initiate a 
+feasibility study for designating a National Free Flyer Launch 
+Coordination Center as a means of coordinating, consolidating, and 
+integrating secondary launch capabilities, launch opportunities, and 
+payloads.
+    (c) Assessment.--The feasibility study required by subsection (b) 
+shall include an assessment of the feasibility of integrating a National 
+Free Flyer Launch Coordination Center within the operations and 
+facilities of an existing nonprofit organization such as the Inland 
+Northwest Space Alliance in Missoula, Montana, or
+
+[[Page 119 STAT. 2932]]
+
+a similar entity, and shall include an assessment of the potential 
+utilization of existing launch and launch support facilities and 
+capabilities, including but not limited to those in the States of 
+Montana and New Mexico and their respective contiguous States, and the 
+State of Alaska, for the integration and launch of secondary payloads, 
+including an assessment of the feasibility of establishing cooperative 
+agreements among such facilities, existing or future commercial launch 
+providers, payload developers, and the designated Coordination Center.
+
+                          Subtitle B--Education
+
+SEC. 611. INSTITUTIONS IN NASA'S MINORITY INSTITUTIONS PROGRAM.
+
+    The matter appearing under the heading ``national aeronautics and 
+space administration, small and disadvantaged business'' in title III of 
+the Departments of Veterans Affairs and Housing and Urban Development, 
+and Independent Agencies Appropriations Act, 1990 (42 U.S.C. 2473b; 103 
+Stat. 863) is amended by striking ``Historically Black Colleges and 
+Universities and'' and inserting ``Historically Black Colleges and 
+Universities that are part B institutions (as defined in section 322(2) 
+of the Higher Education Act of 1965 (20 U.S.C. 1061(2))), Hispanic-
+serving institutions (as defined in section 502(a)(5) of that Act (20 
+U.S.C. 1101a(a)(5))), Tribal Colleges or Universities (as defined in 
+section 316(b)(3) of that Act (20 U.S.C. 1059c(b)(3))), Alaskan Native-
+serving institutions (as defined in section 317(b)(2) of that Act (20 
+U.S.C. 1059d)(b)(2))), Native Hawaiian-serving institutions (as defined 
+in section 317(b)(4) of that Act (20 U.S.C. 1059d(b)(4))), and''.
+
+SEC. 612. <<NOTE: 42 USC 16791.>> PROGRAM TO EXPAND DISTANCE LEARNING IN 
+            RURAL UNDERSERVED AREAS.
+
+    (a) In General.--The Administrator shall develop or expand programs 
+to extend science and space educational outreach to rural communities 
+and schools through video conferencing, interpretive exhibits, teacher 
+education, classroom presentations, and student field trips.
+    (b) Priorities.--In carrying out subsection (a), the Administrator 
+shall give priority to existing programs, including Challenger Learning 
+Centers--
+            (1) that utilize community-based partnerships in the field;
+            (2) that build and maintain video conference and exhibit 
+        capacity;
+            (3) that travel directly to rural communities and serve low-
+        income populations; and
+            (4) with a special emphasis on increasing the number of 
+        women and minorities in the science and engineering professions.
+
+SEC. 613. <<NOTE: Charles ``Pete'' Conrad Astronomy Awards Act. 42 USC 
+            16792.>> CHARLES ``PETE'' CONRAD ASTRONOMY AWARDS.
+
+    (a) Short Title.--This section may be cited as the ``Charles `Pete' 
+Conrad Astronomy Awards Act''.
+    (b) Definitions.--For the purposes of this section--
+            (1) the term ``amateur astronomer'' means an individual 
+        whose employer does not provide any funding, payment, or 
+        compensation to the individual for the observation of asteroids
+
+[[Page 119 STAT. 2933]]
+
+        and other celestial bodies, and does not include any individual 
+        employed as a professional astronomer;
+            (2) the term ``Minor Planet Center'' means the Minor Planet 
+        Center of the Smithsonian Astrophysical Observatory;
+            (3) the term ``near-Earth asteroid'' means an asteroid with 
+        a perihelion distance of less than 1.3 Astronomical Units from 
+        the Sun; and
+            (4) the term ``Program'' means the Charles ``Pete'' Conrad 
+        Astronomy Awards Program established under subsection (c).
+
+    (c) Pete Conrad Astronomy Award Program.--
+            (1) In general.--The Administrator shall establish the 
+        Charles ``Pete'' Conrad Astronomy Awards Program.
+            (2) Awards.--The Administrator shall make awards under the 
+        Program based on the recommendations of the Minor Planet Center.
+            (3) Award categories.--The Administrator shall make one 
+        annual award, unless there are no eligible discoveries or 
+        contributions, for each of the following categories:
+                    (A) The amateur astronomer or group of amateur 
+                astronomers who in the preceding calendar year 
+                discovered the intrinsically brightest near-Earth 
+                asteroid among the near-Earth asteroids that were 
+                discovered during that year by amateur astronomers or 
+                groups of amateur astronomers.
+                    (B) The amateur astronomer or group of amateur 
+                astronomers who made the greatest contribution to the 
+                Minor Planet Center's mission of cataloguing near-Earth 
+                asteroids during the preceding year.
+            (4) Award amount.--An award under the Program shall be in 
+        the amount of $3,000.
+            (5) Guidelines.--(A) No individual who is not a citizen or 
+        permanent resident of the United States at the time of his 
+        discovery or contribution may receive an award under this 
+        section.
+                    (B) The decisions of the Administrator in making 
+                awards under this section are final.
+
+SEC. 614. <<NOTE: 42 USC 16793.>> REVIEW OF EDUCATION PROGRAMS.
+
+    (a) In General.--The Administrator shall enter into an arrangement 
+with the National Research Council of the National Academy of Sciences 
+to conduct a review and evaluation of NASA's precollege science, 
+technology, and mathematics education program. The review and evaluation 
+shall be documented in a report to the Administrator and shall include 
+such recommendations as the National Research Council determines will 
+improve the effectiveness of the program.
+    (b) Review.--The review and evaluation under subsection (a) shall 
+include--
+            (1) an evaluation of the effectiveness of the overall 
+        program in meeting its defined goals and objectives;
+            (2) an assessment of the quality and educational 
+        effectiveness of the major components of the program, including 
+        an evaluation of the adequacy of assessment metrics and data 
+        collection requirements available for determining the 
+        effectiveness of individual projects;
+            (3) an evaluation of the funding priorities in the program, 
+        including a review of the funding level and funding trend for 
+        each major component of the program and an assessment
+
+[[Page 119 STAT. 2934]]
+
+        of whether the resources made available are consistent with 
+        meeting identified goals and priorities; and
+            (4) a determination of the extent and the effectiveness of 
+        coordination and collaboration between NASA and other Federal 
+        agencies that sponsor science, technology, and mathematics 
+        education activities.
+
+    (c) Report to Congress.--Not later than 18 months after the date of 
+enactment of this Act, the Administrator shall transmit to the Committee 
+on Science of the House of Representatives and the Committee on 
+Commerce, Science, and Transportation of the Senate the results of the 
+review and evaluation required under subsection (a).
+
+SEC. 615. <<NOTE: 42 USC 16794.>> EQUAL ACCESS TO NASA'S EDUCATION 
+            PROGRAMS.
+
+    (a) In General.--The Administrator shall strive to ensure equal 
+access for minority and economically disadvantaged students to NASA's 
+education programs.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, and every 2 years thereafter, the Administrator shall submit a 
+report to the Committee on Science of the House of Representatives and 
+the Committee on Commerce, Science, and Transportation of the Senate 
+describing the efforts by the Administrator to ensure equal access for 
+minority and economically disadvantaged students under this section and 
+the results of such efforts. As part of the report, the Administrator 
+shall provide--
+            (1) data on minority participation in NASA's education 
+        programs, at a minimum in the following categories: elementary 
+        and secondary education, undergraduate education, and graduate 
+        education; and
+            (2) the total value of grants NASA made to Historically 
+        Black Colleges and Universities and to Hispanic Serving 
+        Institutions through education programs during the period 
+        covered by the report.
+
+    (c) Program.--The Administrator shall establish the Dr. Mae C. 
+Jemison Grant Program to work with Minority Serving Institutions to 
+bring more women of color into the field of space and aeronautics.
+
+SEC. 616. <<NOTE: 42 USC 16795.>> MUSEUMS.
+
+    The Administrator may provide grants to, and enter into cooperative 
+agreements with, museums and planetariums to enable them to enhance 
+programs related to space exploration, aeronautics, space science, earth 
+science, or microgravity.
+
+SEC. 617. <<NOTE: Deadline. Reports. 42 USC 16796.>> REVIEW OF MUST 
+            PROGRAM.
+
+    Not later than 60 days after the date of enactment of this Act, the 
+Administrator shall transmit a report to Congress on the legal status of 
+the Motivating Undergraduates in Science and Technology program. If the 
+report concludes that the program is in compliance with the laws of the 
+United States, NASA shall implement the program, as planned in the July 
+5, 2005, NASA Research Announcement.
+
+SEC. 618. <<NOTE: 42 USC 16797.>> CONTINUATION OF CERTAIN EDUCATION 
+            PROGRAMS.
+
+    From amounts appropriated to NASA for education programs, the 
+Administrator shall ensure the continuation of the Space Grant Program, 
+the Experimental Program to Stimulate Competitive Research, and, 
+consistent with the results of the review under
+
+[[Page 119 STAT. 2935]]
+
+section 614, the NASA Explorer School program, to motivate and develop 
+the next generation of explorers.
+
+SEC. 619. <<NOTE: 42 USC 16798.>> IMPLEMENTATION OF PREVIOUS 
+            RECOMMENDATIONS.
+
+    (a) GAO Report.--Not more than 180 days after the date of enactment 
+of this Act, the Administrator shall transmit to the Committee on 
+Science of the House of Representatives and the Committee of Commerce, 
+Science, and Transportation of the Senate a report describing action 
+taken by NASA to implement the recommendations contained in the 
+Government Accountability Office's Report No. 04-639.
+    (b) Compliance.--To comply with title IX of the Education Amendments 
+of 1972 (20 U.S.C. 1681 et seq.), the Administrator shall conduct 
+compliance reviews of at least 2 grantees annually.
+
+                     Subtitle C--Technology Transfer
+
+SEC. 621. <<NOTE: 42 USC 16811.>> COMMERCIAL TECHNOLOGY TRANSFER 
+            PROGRAM.
+
+    (a) In General.--The Administrator shall execute a commercial 
+technology transfer program with the goal of facilitating the exchange 
+of services, products, and intellectual property between NASA and the 
+private sector. This program shall place at least as much emphasis on 
+encouraging the transfer of NASA technology to the private sector 
+(``spinning out'') as on encouraging use of private sector technology by 
+NASA. This program shall be maintained in a manner that provides clear 
+benefits for the agency, the domestic economy, and the research 
+community.
+    (b) <<NOTE: Deadline. Notice.>> Program Structure.--In carrying out 
+the program described in subsection (a), the Administrator shall provide 
+program participants with at least 45 days notice of any proposed 
+changes to the structure of NASA's technology transfer and 
+commercialization organizations that is in effect as of the date of 
+enactment of this Act.
+
+                   TITLE VII--MISCELLANEOUS PROVISIONS
+
+        Subtitle A--National Aeronautics and Space Administration
+
+SEC. 701. RETROCESSION OF JURISDICTION.
+
+    The National Aeronautics and Space Act of 1958 (42 U.S.C. 2451 et 
+seq.) is amended by adding at the end of title III the following new 
+section:
+
+
+                     ``retrocession of jurisdiction
+
+
+    ``Sec. 316. <<NOTE: 42 USC 2459k.>> (a) Notwithstanding any other 
+provision of law, the Administrator may relinquish to a State all or 
+part of the legislative jurisdiction of the United States over lands or 
+interests under the control of the Administrator in that State.
+
+    ``(b) For purposes of this section, the term `State' means any of 
+the several States, the District of Columbia, the Commonwealth of Puerto 
+Rico, the United States Virgin Islands, Guam, American
+
+[[Page 119 STAT. 2936]]
+
+Samoa, the Northern Mariana Islands, and any other commonwealth, 
+territory, or possession of the United States.''.
+
+SEC. 702. EXTENSION OF INDEMNIFICATION.
+
+    Section 309 of the National Aeronautics and Space Act of 1958 (42 
+U.S.C. 2458c) is amended in subsection (f)(1) by striking ``December 31, 
+2002'' and all that follows and inserting ``December 31, 2010.''.
+
+SEC. 703. NASA SCHOLARSHIPS.
+
+    (a) Amendments.--Section 9809 of title 5, United States Code, is 
+amended--
+            (1) in subsection (a)(2) by striking ``Act.'' and inserting 
+        ``Act (42 U.S.C. 1885a or 1885b).'';
+            (2) in subsection (c) by striking ``require.'' and inserting 
+        ``require to carry out this section.'';
+            (3) in subsection (f)(1) by striking the last sentence; and
+            (4) in subsection (g)(2) by striking ``Treasurer of the'' 
+        and all that follows through ``by 3'' and inserting ``Treasurer 
+        of the United States''.
+
+    (b) Repeal.--The Vision 100-Century of Aviation Reauthorization Act 
+is amended by striking section 703 (42 U.S.C. 2473e).
+
+SEC. 704. INDEPENDENT COST ANALYSIS.
+
+    Section 301 of the National Aeronautics and Space Administration 
+Authorization Act of 2000 (42 U.S.C. 2459g) is amended--
+            (1) by striking ``Phase B'' in subsection (a) and inserting 
+        ``implementation'';
+            (2) by striking ``$150,000,000'' and inserting 
+        ``$250,000,000'';
+            (3) by striking ``Chief Financial Officer'' each place it 
+        appears in subsection (a) and inserting ``Administrator'';
+            (4) by inserting ``and consider'' in subsection (a) after 
+        ``shall conduct''; and
+            (5) by striking subsection (b) and inserting the following:
+
+    ``(b) Implementation Defined.--In this section, the term 
+`implementation' means all activity in the life cycle of a project after 
+preliminary design, independent assessment of the preliminary design, 
+and approval to proceed into implementation, including critical design, 
+development, certification, launch, operations, disposal of assets, and, 
+for technology programs, development, testing, analysis, and 
+communication of the results.''.
+
+SEC. 705. RECOVERY AND DISPOSITION AUTHORITY.
+
+    Title III of the National Aeronautics and Space Act of 1958, as 
+amended by section 701 of this Act, is further amended by adding at the 
+end the following:
+
+``SEC. 317. <<NOTE: 42 USC 2459l.>> RECOVERY AND DISPOSITION AUTHORITY.
+
+    ``(a) In General.--
+            ``(1) Control of remains.--Subject to paragraphs (2) and 
+        (3), when there is an accident or mishap resulting in the death 
+        of a crewmember of a NASA human space flight vehicle, the 
+        Administrator may take control over the remains of the 
+        crewmember and order autopsies and other scientific or medical 
+        tests.
+
+[[Page 119 STAT. 2937]]
+
+            ``(2) Treatment.--Each crewmember shall provide the 
+        Administrator with his or her preferences regarding the 
+        treatment accorded to his or her remains and the Administrator 
+        shall, to the extent possible, respect those stated preferences.
+            ``(3) Construction.--This section shall not be construed to 
+        permit the Administrator to interfere with any Federal 
+        investigation of a mishap or accident.
+
+    ``(b) Definitions.--In this section:
+            ``(1) Crewmember.--The term `crewmember' means an astronaut 
+        or other person assigned to a NASA human space flight vehicle.
+            ``(2) NASA human space flight vehicle.--The term `NASA human 
+        space flight vehicle' means a space vehicle, as defined in 
+        section 308(f)(1), that
+                    ``(A) is intended to transport 1 or more persons;
+                    ``(B) is designed to operate in outer space; and
+                    ``(C) is either owned by NASA, or owned by a NASA 
+                contractor or cooperating party and operated as part of 
+                a NASA mission or a joint mission with NASA.''.
+
+SEC. 706. CHANGES TO EXISTING LAWS ON REPORTS.
+
+    (a) Section 201 of the National Aeronautics and Space Administration 
+Authorization Act of 2000 (42 U.S.C. 2451 note) is amended--
+            (1) by striking ``and not later than the first day of every 
+        second month thereafter until October 1, 2006'' and inserting 
+        ``and semiannually thereafter until December 31, 2011''; and
+            (2) by adding at the end the following: ``Each such report 
+        shall also identify each Russian entity or person to whom NASA 
+        has, since the date of the enactment of the Iran 
+        Nonproliferation Amendments Act of 2005, made a payment in cash 
+        or in-kind for work to be performed or services to be rendered 
+        under the Agreement Concerning Cooperation on the Civil 
+        International Space Station, with annex, signed at Washington 
+        January 29, 1998, and entered into force March 27, 2001, or any 
+        protocol, agreement, memorandum of understanding, or contract 
+        related thereto. Each report shall include the specific purpose 
+        of each payment made to each entity or person identified in the 
+        report.''.
+
+    (b) Section 304(b) of the Federal Aviation Administration Research, 
+Engineering, and Development Authorization Act of 1992 (49 U.S.C. 47508 
+note) is amended by striking ``2000'' and inserting ``2010''.
+    (c) Section 323 of the National Aeronautics and Space Administration 
+Authorization Act of 2000 is <<NOTE: 114 Stat. 1599.>> amended by 
+striking subsection (a).
+
+SEC. 707. <<NOTE: 42 USC 16821.>> SMALL BUSINESS CONTRACTING.
+
+    (a) Plan.--In consultation with the Small Business Administration, 
+the Administrator shall develop a plan to maximize the number and amount 
+of contracts awarded to small business concerns (within the meaning 
+given that term in section 3 of the Small Business Act (15 U.S.C. 632)) 
+and to meet established contracting goals for such concerns.
+    (b) Priority.--The Administrator shall establish as a priority 
+meeting the contracting goals developed in conjunction with the Small 
+Business Administration to maximize the amount of prime contracts, as 
+measured in dollars, awarded in each fiscal year
+
+[[Page 119 STAT. 2938]]
+
+by NASA to small business concerns (within the meaning given that term 
+in section 3 of the Small Business Act (15 U.S.C. 632)).
+
+SEC. 708. <<NOTE: 42 USC 16822.>> NASA HEALTHCARE PROGRAM.
+
+    The Administrator shall develop a plan to better understand the 
+longitudinal health effects of space flight on humans. In the 
+development of the plan, the Administrator shall consider the need for 
+the establishment of a lifetime healthcare program for NASA astronauts 
+and their families or other methods to obtain needed health data from 
+astronauts and retired astronauts.
+
+SEC. 709. <<NOTE: Deadline. Reports. 42 USC 16823.>> OFFSHORE 
+            PERFORMANCE OF CONTRACTS FOR THE PROCUREMENT OF GOODS AND 
+            SERVICES.
+
+    The Administrator shall submit to Congress, not later than 120 days 
+after the end of each fiscal year beginning with the first fiscal year 
+after the date of enactment of this Act, a report on the contracts and 
+subcontracts performed overseas and the amount of purchases directly or 
+indirectly by NASA from foreign entities in that fiscal year. The report 
+shall separately indicate--
+            (1) the contracts and subcontracts and their dollar values 
+        for which the Administrator determines that essential goods or 
+        services under the contract are available only from a source 
+        outside the United States; and
+            (2) the items and their dollar values for which the Buy 
+        American Act was waived pursuant to obligations of the United 
+        States under international agreements.
+
+SEC. 710. <<NOTE: Deadline. 42 USC 16824.>> STUDY ON ENHANCED USE 
+            LEASING.
+
+    Not later than one year after the date of enactment of this Act, the 
+Comptroller General shall transmit to the Committee on Science of the 
+House of Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate a review of NASA's enhanced use leasing 
+pilot program established by section 315 of the National Aeronautics and 
+Space Administration Act of 1958 (42 U.S.C. 2459j). At a minimum the 
+review shall analyze--
+            (1) the financial impact of the program, taking into account 
+        revenue foregone by the United States, whether such revenue 
+        would have been realized in the absence of the program, and any 
+        revenue that accrued to NASA because of the program;
+            (2) the use and effectiveness of the program; and
+            (3) whether the arrangements made under the program would 
+        have been made in the absence of the program.
+
+                 Subtitle B--National Science Foundation
+
+SEC. 721. <<NOTE: 42 USC 16831.>> DATA ON SPECIFIC FIELDS OF STUDY.
+
+    The National Science Foundation shall continue to collect 
+statistically reliable data on the field of degree of college-educated 
+individuals to fulfill obligations under section 4(j)(1) of the National 
+Science Foundation Act of 1950 (42 U.S.C. 1863(j)(1)) and the Science 
+and Engineering Equal Opportunities Act (42 U.S.C. 1885 et. seq.). 
+If <<NOTE: Notice. Deadline.>> the Director of the Foundation determines 
+that there is a legal impediment to the continued collection of this 
+data, he shall inform the Committee on Science of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate not later than 180 days after the date of 
+enactment of this Act.
+
+[[Page 119 STAT. 2939]]
+
+SEC. 722. <<NOTE: 42 USC 16832.>> NATIONAL SCIENCE FOUNDATION MAJOR 
+            RESEARCH EQUIPMENT AND FACILITIES.
+
+    (a) Astronomical Sciences Senior Review.--
+            (1) Review.--The Director of the National Science Foundation 
+        shall charge the Mathematical and Physical Sciences Advisory 
+        Committee with conducting a review of the astronomical 
+        facilities supported by the Foundation to determine the 
+        appropriate balance between supporting the operation of existing 
+        facilities and supporting the design, development, and eventual 
+        operation of new facilities. The review shall recommend actions 
+        that would enable the Foundation to support priorities 
+        recommended in the National Academy of Sciences reports 
+        ``Astronomy and Astrophysics in the New Millennium'' and 
+        ``Connecting Quarks with the Cosmos''.
+            (2) <<NOTE: Deadline.>> Transmittal.--The Director shall 
+        transmit the review, along with a schedule for implementing any 
+        recommendations the Director accepts and an explanation for 
+        rejecting any recommendations, to the Committee on Science of 
+        the House of Representatives and the Committee of Commerce, 
+        Science, and Transportation of the Senate no later than June 30, 
+        2006.
+
+    (b) Plan for Funding Design and Development for Major Research 
+Equipment and Facilities Construction Projects.--
+            (1) In general.--The Director of the National Science 
+        Foundation shall develop a plan to facilitate more thorough 
+        design and development of facilities that can be considered for 
+        funding through the Major Research Equipment and Facilities 
+        Construction account.
+            (2) Considerations.--In developing the plan, the Director 
+        shall consider--
+                    (A) steps to encourage and ease cross-directorate 
+                collaboration;
+                    (B) ways to ensure that a Directorate that will 
+                eventually support the operation of a facility is fully 
+                committed to that facility from the outset;
+                    (C) providing funding for the design and development 
+                of facilities from new sources within the Foundation; 
+                and
+                    (D) ways to enable and encourage entities proposing 
+                facilities projects to receive design and development 
+                funding from nongovernmental sources.
+            (3) <<NOTE: Deadline.>> Transmittal.--No later than June 30, 
+        2006, the Director of the National Science Foundation shall 
+        transmit to the Committee on Science of the House of 
+        Representatives and the Committee on Commerce, Science, and 
+        Transportation of the Senate the plan, along with a statement 
+        from the Director describing how the plan addresses the 
+        considerations described in paragraph (2).
+
+[[Page 119 STAT. 2940]]
+
+                  TITLE VIII--TASK FORCE AND COMMISSION
+
+  Subtitle A--International Space Station Independent Safety Task Force
+
+SEC. 801. ESTABLISHMENT OF TASK FORCE.
+
+    (a) Establishment.--The Administrator shall establish an independent 
+task force to review the International Space Station program with the 
+objective of discovering and assessing any vulnerabilities of the 
+International Space Station that could lead to its destruction, 
+compromise the health of its crew, or necessitate its premature 
+abandonment.
+    (b) Deadline for Establishment.--The Administrator shall establish 
+the independent task force within 60 days after the date of enactment of 
+this Act.
+
+SEC. 802. TASKS OF THE TASK FORCE.
+
+     The independent task force established under section 801 shall, to 
+the extent possible, undertake the following tasks:
+            (1) Catalogue threats to and vulnerabilities of the ISS, 
+        including design flaws, natural phenomena, computer software or 
+        hardware flaws, sabotage or terrorist attack, number of 
+        crewmembers, inability to adequately deliver replacement parts 
+        and supplies, and management or procedural deficiencies.
+            (2) Make recommendations for corrective actions.
+            (3) Provide any additional findings or recommendations 
+        related to ISS safety.
+            (4) <<NOTE: Reports. Public information.>> Prepare a report 
+        to the Administrator, Congress, and the public.
+
+SEC. 803. COMPOSITION OF THE TASK FORCE.
+
+    (a) External Organizations.--The independent task force shall 
+include at least one representative from each of the following external 
+organizations:
+            (1) The Aerospace Safety Advisory Panel.
+            (2) The Task Force on International Space Station 
+        Operational Readiness of the NASA Advisory Council, or its 
+        successor.
+            (3) The Aeronautics and Space Engineering Board of the 
+        National Research Council.
+
+    (b) Independent Organizations Within NASA.--The independent task 
+force shall also include at least the following individuals from within 
+NASA:
+            (1) NASA's Chief Engineer.
+            (2) The head of the Independent Technical Authority.
+            (3) The head of the Safety and Mission Assurance Office.
+            (4) The head of the NASA Engineering and Safety Center.
+
+SEC. 804. REPORTING REQUIREMENTS.
+
+    (a) Interim Reports.--The independent task force may transmit to the 
+Administrator and Congress, and make concurrently available to the 
+public, interim reports containing such findings, conclusions, and 
+recommendations for corrective actions as have been agreed to by a 
+majority of the task force members.
+
+[[Page 119 STAT. 2941]]
+
+    (b) Final Report.--The task force shall transmit to the 
+Administrator and Congress, and make concurrently available to the 
+public, a final report containing such findings, conclusions, and 
+recommendations for corrective actions as have been agreed to by a 
+majority of task force members. Such report shall include any minority 
+views or opinions not reflected in the majority report.
+    (c) Approval.--The independent task force shall not be required to 
+seek the approval of the contents of any of the reports submitted under 
+subsection (a) or (b) by the Administrator or by any person designated 
+by the Administrator prior to the submission of the reports to the 
+Administrator and Congress and to their being made concurrently 
+available to the public.
+
+SEC. 805. <<NOTE: Reports. Public information. Deadline.>> SUNSET.
+
+     The independent task force established under this subtitle shall 
+transmit its final report to the Administrator and to Congress and make 
+it available to the public not later than 1 year after the independent 
+task force is established and shall cease to exist after the 
+transmittal.
+
+   Subtitle B--Human Space Flight Independent Investigation Commission
+
+SEC. 821. DEFINITIONS.
+
+    For purposes of this subtitle--
+            (1) the term ``Commission'' means a Commission established 
+        under this title; and
+            (2) the term ``incident'' means either an accident or a 
+        deliberate act.
+
+SEC. 822. ESTABLISHMENT OF COMMISSION.
+
+    (a) <<NOTE: President.>> Establishment.--The President shall 
+establish an independent, nonpartisan Commission within the executive 
+branch to investigate any incident that results in the loss of--
+            (1) a Space Shuttle;
+            (2) the International Space Station or its operational 
+        viability;
+            (3) any other United States space vehicle carrying humans 
+        that is owned by the Federal Government or that is being used 
+        pursuant to a contract with the Federal Government; or
+            (4) a crew member or passenger of any space vehicle 
+        described in this subsection.
+
+    (b) Deadline for Establishment.--The President shall establish a 
+Commission within 7 days after an incident specified in subsection (a).
+
+SEC. 823. TASKS OF THE COMMISSION.
+
+    A Commission established pursuant to this subtitle shall, to the 
+extent possible, undertake the following tasks:
+            (1) Investigate the incident.
+            (2) Determine the cause of the incident.
+            (3) Identify all contributing factors to the cause of the 
+        incident.
+            (4) Make recommendations for corrective actions.
+
+[[Page 119 STAT. 2942]]
+
+            (5) Provide any additional findings or recommendations 
+        deemed by the Commission to be important, whether or not they 
+        are related to the specific incident under investigation.
+            (6) <<NOTE: Reports. Public information.>> Prepare a report 
+        to Congress, the President, and the public.
+
+SEC. 824. COMPOSITION OF COMMISSION.
+
+    (a) Number of Commissioners.--A Commission established pursuant to 
+this subtitle shall consist of 15 members.
+    (b) Selection.--The members of a Commission shall be chosen in the 
+following manner:
+            (1) <<NOTE: President.>> The President shall appoint the 
+        members, and shall designate the Chairman and Vice Chairman of 
+        the Commission from among its members.
+            (2) The majority leader of the Senate, the minority leader 
+        of the Senate, the Speaker of the House of Representatives, and 
+        the minority leader of the House of Representatives shall each 
+        provide to the President a list of candidates for membership on 
+        the Commission. The President may select one of the candidates 
+        from each of the 4 lists for membership on the Commission.
+            (3) No officer or employee of the Federal Government or 
+        Member of Congress shall serve as a member of the Commission.
+            (4) No member of the Commission shall have, or have pending, 
+        a contractual relationship with NASA.
+            (5) The President shall not appoint any individual as a 
+        member of a Commission under this section who has a current or 
+        former relationship with the Administrator that the President 
+        determines would constitute a conflict of interest.
+            (6) To the extent practicable, the President shall ensure 
+        that the members of the Commission include some individuals with 
+        experience relative to human carrying spacecraft, as well as 
+        some individuals with investigative experience and some 
+        individuals with legal experience.
+            (7) To the extent practicable, the President shall seek 
+        diversity in the membership of the Commission.
+
+    (c) Deadline for Appointment.--All members of a Commission 
+established under this subtitle shall be appointed no later than 30 days 
+after the incident.
+    (d) Initial Meeting.--A Commission shall meet and begin operations 
+as soon as practicable.
+    (e) Quorum; Vacancies.--After its initial meeting, a Commission 
+shall meet upon the call of the Chairman or a majority of its members. 
+Eight members of a Commission shall constitute a quorum. Any vacancy in 
+a Commission shall not affect its powers, but shall be filled in the 
+same manner in which the original appointment was made.
+
+SEC. 825. POWERS OF COMMISSION.
+
+    (a) Hearings and Evidence.--A Commission or, on the authority of the 
+Commission, any subcommittee or member thereof, may, for the purpose of 
+carrying out this subtitle--
+            (1) hold such hearings and sit and act at such times and 
+        places, take such testimony, receive such evidence, administer 
+        such oaths; and
+
+[[Page 119 STAT. 2943]]
+
+            (2) require, by subpoena or otherwise, the attendance and 
+        testimony of such witnesses and the production of such books, 
+        records, correspondence, memoranda, papers, and documents,
+
+as the Commission or such designated subcommittee or designated member 
+may determine advisable.
+    (b) Contracting.--A Commission may, to such extent and in such 
+amounts as are provided in appropriation Acts, enter into contracts to 
+enable the Commission to discharge its duties under this subtitle.
+    (c) Information From Federal Agencies.--
+            (1) In general.--A Commission may secure directly from any 
+        executive department, bureau, agency, board, commission, office, 
+        independent establishment, or instrumentality of the Government, 
+        information, suggestions, estimates, and statistics for the 
+        purposes of this subtitle. Each department, bureau, agency, 
+        board, commission, office, independent establishment, or 
+        instrumentality shall, to the extent authorized by law, furnish 
+        such information, suggestions, estimates, and statistics 
+        directly to the Commission, upon request made by the Chairman, 
+        the chairman of any subcommittee created by a majority of the 
+        Commission, or any member designated by a majority of the 
+        Commission.
+            (2) Receipt, handling, storage, and dissemination.--
+        Information shall only be received, handled, stored, and 
+        disseminated by members of the Commission and its staff 
+        consistent with all applicable statutes, regulations, and 
+        Executive orders.
+
+    (d) Assistance From Federal Agencies.--
+            (1) General services administration.--The Administrator of 
+        General Services shall provide to a Commission on a reimbursable 
+        basis administrative support and other services for the 
+        performance of the Commission's tasks.
+            (2) Other departments and agencies.--In addition to the 
+        assistance prescribed in paragraph (1), departments and agencies 
+        of the United States may provide to the Commission such 
+        services, funds, facilities, staff, and other support services 
+        as they may determine advisable and as may be authorized by law.
+            (3) NASA engineering and safety center.--The NASA 
+        Engineering and Safety Center shall provide data and technical 
+        support as requested by the Commission.
+
+SEC. 826. PUBLIC MEETINGS, INFORMATION, AND HEARINGS.
+
+    (a) Public Meetings and Release of Public Versions of Reports.--A 
+Commission shall--
+            (1) hold public hearings and meetings to the extent 
+        appropriate; and
+            (2) <<NOTE: Reports.>> release public versions of the 
+        reports required under this subtitle.
+
+    (b) Public Hearings.--Any public hearings of a Commission shall be 
+conducted in a manner consistent with the protection of information 
+provided to or developed for or by the Commission as required by any 
+applicable statute, regulation, or Executive order.
+
+SEC. 827. STAFF OF COMMISSION.
+
+    (a) Appointment and Compensation.--The Chairman, in consultation 
+with Vice Chairman, in accordance with rules agreed
+
+[[Page 119 STAT. 2944]]
+
+upon by a Commission, may appoint and fix the compensation of a staff 
+director and such other personnel as may be necessary to enable the 
+Commission to carry out its functions.
+    (b) Detailees.--Any Federal Government employee, except for an 
+employee of NASA, may be detailed to a Commission without reimbursement 
+from the Commission, and such detailee shall retain the rights, status, 
+and privileges of his or her regular employment without interruption.
+    (c) Consultant Services.--A Commission may procure the services of 
+experts and consultants in accordance with section 3109 of title 5, 
+United States Code, but at rates not to exceed the daily rate paid a 
+person occupying a position at level IV of the Executive Schedule under 
+section 5315 of title 5, United States Code. Any consultant or expert 
+whose services are procured under this subsection shall disclose any 
+contract or association it has with NASA or any NASA contractor.
+
+SEC. 828. COMPENSATION AND TRAVEL EXPENSES.
+
+    (a) Compensation.--Each member of a Commission may be compensated at 
+not to exceed the daily equivalent of the annual rate of basic pay in 
+effect for a position at level IV of the Executive Schedule under 
+section 5315 of title 5, United States Code, for each day during which 
+that member is engaged in the actual performance of the duties of the 
+Commission.
+    (b) Travel Expenses.--While away from their homes or regular places 
+of business in the performance of services for the Commission, members 
+of a Commission shall be allowed travel expenses, including per diem in 
+lieu of subsistence, in the same manner as persons employed 
+intermittently in the Government service are allowed expenses under 
+section 5703(b) of title 5, United States Code.
+
+SEC. 829. SECURITY CLEARANCES FOR COMMISSION MEMBERS AND STAFF.
+
+    The appropriate Federal agencies or departments shall cooperate with 
+a Commission in expeditiously providing to the Commission members and 
+staff appropriate security clearances to the extent possible pursuant to 
+existing procedures and requirements. No person shall be provided with 
+access to classified information under this subtitle without the 
+appropriate security clearances.
+
+SEC. 830. REPORTING REQUIREMENTS AND TERMINATION.
+
+    (a) Interim Reports.--A Commission may submit to the President and 
+Congress interim reports containing such findings, conclusions, and 
+recommendations for corrective actions as have been agreed to by a 
+majority of Commission members.
+    (b) <<NOTE: Public information.>> Final Report.--A Commission shall 
+submit to the President and Congress, and make concurrently available to 
+the public, a final report containing such findings, conclusions, and 
+recommendations for corrective actions as have been agreed to by a 
+majority of Commission members. Such report shall include any minority 
+views or opinions not reflected in the majority report.
+
+    (c) Termination.--
+            (1) In general.--A Commission, and all the authorities of 
+        this subtitle with respect to that Commission, shall terminate 
+        60 days after the date on which the final report is submitted 
+        under subsection (b).
+
+[[Page 119 STAT. 2945]]
+
+            (2) Administrative activities before termination.--A 
+        Commission may use the 60-day period referred to in paragraph 
+        (1) for the purpose of concluding its activities, including 
+        providing testimony to committees of Congress concerning its 
+        reports and disseminating the final report.
+
+    Approved December 30, 2005.
+
+LEGISLATIVE HISTORY--S. 1281 (H.R. 3070):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: Nos. 109-173 accompanying H.R. 3070 (Comm. on Science) 
+and 109-354 (Comm. of Conference).
+SENATE REPORTS: No. 109-108 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 151 (2005):
+            Sept. 28, considered and passed Senate.
+            Nov. 18, considered and passed House, amended, in lieu of 
+                H.R. 3070.
+            Dec. 17, House agreed to conference report.
+            Dec. 21, Senate agreed to conference report.
+
+                                  
+

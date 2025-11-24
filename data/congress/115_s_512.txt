@@ -1,0 +1,955 @@
+
+[115th Congress Public Law 439]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 132 STAT. 5565]]
+
+Public Law 115-439
+115th Congress
+
+                                 An Act
+
+
+ 
+    To modernize the regulation of nuclear energy. <<NOTE: Jan. 14, 
+                           2019 -  [S. 512]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Nuclear Energy 
+Innovation and Modernization Act.>> 
+SECTION 1. <<NOTE: 42 USC 2011 note.>>  SHORT TITLE; TABLE OF 
+                              CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Nuclear Energy 
+Innovation and Modernization Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purpose.
+Sec. 3. Definitions.
+
+            TITLE I--ADVANCED NUCLEAR REACTORS AND USER FEES
+
+Sec. 101. Nuclear Regulatory Commission user fees and annual charges 
+           through fiscal year 2020.
+Sec. 102. Nuclear Regulatory Commission user fees and annual charges for 
+           fiscal year 2021 and each fiscal year thereafter.
+Sec. 103. Advanced nuclear reactor program.
+Sec. 104. Baffle-former bolt guidance.
+Sec. 105. Evacuation report.
+Sec. 106. Encouraging private investment in research and test reactors.
+Sec. 107. Commission report on accident tolerant fuel.
+Sec. 108. Report identifying best practices for establishment and 
+           operation of local community advisory boards.
+Sec. 109. Report on study recommendations.
+
+                            TITLE II--URANIUM
+
+Sec. 201. Uranium recovery report.
+Sec. 202. Pilot program for uranium recovery fees.
+
+SEC. 2. <<NOTE: 42 USC 2215 note.>> PURPOSE.
+
+    The purpose of this Act is to provide--
+            (1) a program to develop the expertise and regulatory 
+        processes necessary to allow innovation and the 
+        commercialization of advanced nuclear reactors;
+            (2) a revised fee recovery structure to ensure the 
+        availability of resources to meet industry needs without 
+        burdening existing licensees unfairly for inaccurate workload 
+        projections or premature existing reactor closures; and
+            (3) more efficient regulation of uranium recovery.
+SEC. 3. <<NOTE: 42 USC 2215 note.>>  DEFINITIONS.
+
+    In this Act:
+            (1) Advanced nuclear reactor.--The term ``advanced nuclear 
+        reactor'' means a nuclear fission or fusion reactor, including a 
+        prototype plant (as defined in sections 50.2 and 52.1 of title 
+        10, Code of Federal Regulations (as in effect on
+
+[[Page 132 STAT. 5566]]
+
+        the date of enactment of this Act)), with significant 
+        improvements compared to commercial nuclear reactors under 
+        construction as of the date of enactment of this Act, including 
+        improvements such as--
+                    (A) additional inherent safety features;
+                    (B) significantly lower levelized cost of 
+                electricity;
+                    (C) lower waste yields;
+                    (D) greater fuel utilization;
+                    (E) enhanced reliability;
+                    (F) increased proliferation resistance;
+                    (G) increased thermal efficiency; or
+                    (H) ability to integrate into electric and 
+                nonelectric applications.
+            (2) Advanced nuclear reactor fuel.--The term ``advanced 
+        nuclear reactor fuel'' means fuel for use in an advanced nuclear 
+        reactor or a research and test reactor, including fuel with a 
+        low uranium enrichment level of not greater than 20 percent.
+            (3) Agreement state.--The term ``Agreement State'' means any 
+        State with which the Commission has entered into an effective 
+        agreement under section 274 b. of the Atomic Energy Act of 1954 
+        (42 U.S.C. 2021(b)).
+            (4) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means the Committee on 
+        Environment and Public Works of the Senate and the Committee on 
+        Energy and Commerce of the House of Representatives.
+            (5) Commission.--The term ``Commission'' means the Nuclear 
+        Regulatory Commission.
+            (6) Conceptual design assessment.--The term ``conceptual 
+        design assessment'' means an early-stage review by the 
+        Commission that--
+                    (A) assesses preliminary design information for 
+                consistency with applicable regulatory requirements of 
+                the Commission;
+                    (B) is performed on a set of topic areas agreed to 
+                in the licensing project plan; and
+                    (C) is performed at a cost and schedule agreed to in 
+                the licensing project plan.
+            (7) Corporate support costs.--The term ``corporate support 
+        costs'' means expenditures for acquisitions, administrative 
+        services, financial management, human resource management, 
+        information management, information technology, policy support, 
+        outreach, and training, as those categories are described and 
+        calculated in Appendix A of the Congressional Budget 
+        Justification for Fiscal Year 2018 of the Commission.
+            (8) Licensing project plan.--The term ``licensing project 
+        plan'' means a plan that describes--
+                    (A) the interactions between an applicant and the 
+                Commission; and
+                    (B) project schedules and deliverables in specific 
+                detail to support long-range resource planning 
+                undertaken by the Commission and an applicant.
+            (9) Regulatory framework.--The term ``regulatory framework'' 
+        means the framework for reviewing requests for certifications, 
+        permits, approvals, and licenses for nuclear reactors.
+
+[[Page 132 STAT. 5567]]
+
+            (10) Requested activity of the commission.--The term 
+        ``requested activity of the Commission'' means--
+                    (A) the processing of applications for--
+                          (i) design certifications or approvals;
+                          (ii) licenses;
+                          (iii) permits;
+                          (iv) license amendments;
+                          (v) license renewals;
+                          (vi) certificates of compliance; and
+                          (vii) power uprates; and
+                    (B) any other activity requested by a licensee or 
+                applicant.
+            (11) Research and test reactor.--
+                    (A) In general.--The term ``research and test 
+                reactor'' means a reactor that--
+                          (i) falls within the licensing and related 
+                      regulatory authority of the Commission under 
+                      section 202 of the Energy Reorganization Act of 
+                      1974 (42 U.S.C. 5842); and
+                          (ii) is useful in the conduct of research and 
+                      development activities as licensed under section 
+                      104 c. of the Atomic Energy Act (42 U.S.C. 
+                      2134(c)).
+                    (B) Exclusion.--The term ``research and test 
+                reactor'' does not include a commercial nuclear reactor.
+            (12) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (13) Standard design approval.--The term ``standard design 
+        approval'' means the approval of a final standard design or a 
+        major portion of a final design standard as described in subpart 
+        E of part 52 of title 10, Code of Federal Regulations (as in 
+        effect on the date of enactment of this Act).
+            (14) Technology-inclusive regulatory framework.--The term 
+        ``technology-inclusive regulatory framework'' means a regulatory 
+        framework developed using methods of evaluation that are 
+        flexible and practicable for application to a variety of reactor 
+        technologies, including, where appropriate, the use of risk-
+        informed and performance-based techniques and other tools and 
+        methods.
+            (15) Topical report.--The term ``topical report'' means a 
+        document submitted to the Commission that addresses a technical 
+        topic related to nuclear reactor safety or design.
+
+            TITLE I--ADVANCED NUCLEAR REACTORS AND USER FEES
+
+SEC. 101. NUCLEAR REGULATORY COMMISSION USER FEES AND ANNUAL 
+                        CHARGES THROUGH FISCAL YEAR 2020.
+
+    (a) In General.--Section 6101(c)(2)(A) of the Omnibus Budget 
+Reconciliation Act of 1990 (42 U.S.C. 2214(c)(2)(A)) is amended--
+            (1) in clause (iii), by striking ``and'' at the end;
+            (2) in clause (iv), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+                          ``(v) amounts appropriated to the Commission 
+                      for the fiscal year for activities related to the 
+                      development of regulatory infrastructure for 
+                      advanced nuclear
+
+[[Page 132 STAT. 5568]]
+
+                      reactor technologies, including activities 
+                      required under section 103 of the Nuclear Energy 
+                      Innovation and Modernization Act.''.
+
+    (b) Repeal <<NOTE: 42 USC 2214 note.>> .--Effective October 1, 2020, 
+section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 
+2214) is repealed.
+SEC. 102. <<NOTE: 42 USC 2215.>>  NUCLEAR REGULATORY COMMISSION 
+                        USER FEES AND ANNUAL CHARGES FOR FISCAL 
+                        YEAR 2021 AND EACH FISCAL YEAR THEREAFTER.
+
+    (a) Annual Budget Justification.--
+            (1) In general.--In the annual budget justification 
+        submitted by the Commission to Congress, the Commission shall 
+        expressly identify anticipated expenditures necessary for 
+        completion of the requested activities of the Commission 
+        anticipated to occur during the applicable fiscal year.
+            (2) Restriction.--Budget authority granted to the Commission 
+        for purposes of the requested activities of the Commission shall 
+        be used, to the maximum extent practicable, solely for 
+        conducting requested activities of the Commission.
+            (3) Limitation on corporate support costs.--With respect to 
+        the annual budget justification submitted to Congress, corporate 
+        support costs, to the maximum extent practicable, shall not 
+        exceed the following percentages of the total budget authority 
+        of the Commission requested in the annual budget justification:
+                    (A) 30 percent for each of fiscal years 2021 and 
+                2022.
+                    (B) 29 percent for each of fiscal years 2023 and 
+                2024.
+                    (C) 28 percent for fiscal year 2025 and each fiscal 
+                year thereafter.
+
+    (b) Fees and Charges.--
+            (1) Annual assessment.--
+                    (A) In general.--Each fiscal year, the Commission 
+                shall assess and collect fees and charges in accordance 
+                with paragraphs (2) and (3) in a manner that ensures 
+                that, to the maximum extent practicable, the amount 
+                assessed and collected is equal to an amount that 
+                approximates--
+                          (i) the total budget authority of the 
+                      Commission for that fiscal year; less
+                          (ii) the budget authority of the Commission 
+                      for the activities described in subparagraph (B).
+                    (B) Excluded activities described.--The activities 
+                referred to in subparagraph (A)(ii) are the following:
+                          (i) Any fee relief activity, as identified by 
+                      the Commission.
+                          (ii) Amounts appropriated for a fiscal year to 
+                      the Commission--
+                                    (I) from the Nuclear Waste Fund 
+                                established under section 302(c) of the 
+                                Nuclear Waste Policy Act of 1982 (42 
+                                U.S.C. 10222(c));
+                                    (II) for implementation of section 
+                                3116 of the Ronald W. Reagan National 
+                                Defense Authorization Act for Fiscal 
+                                Year 2005 (50 U.S.C. 2601 note; Public 
+                                Law 108-375);
+                                    (III) for the homeland security 
+                                activities of the Commission (other than 
+                                for the costs of
+
+[[Page 132 STAT. 5569]]
+
+                                fingerprinting and background checks 
+                                required under section 149 of the Atomic 
+                                Energy Act of 1954 (42 U.S.C. 2169) and 
+                                the costs of conducting security 
+                                inspections);
+                                    (IV) for the Inspector General 
+                                services of the Commission provided to 
+                                the Defense Nuclear Facilities Safety 
+                                Board;
+                                    (V) for research and development at 
+                                universities in areas relevant to the 
+                                mission of the Commission; and
+                                    (VI) for a nuclear science and 
+                                engineering grant program that will 
+                                support multiyear projects that do not 
+                                align with programmatic missions but are 
+                                critical to maintaining the discipline 
+                                of nuclear science and engineering.
+                          (iii) Costs for activities related to the 
+                      development of regulatory infrastructure for 
+                      advanced nuclear reactor technologies, including 
+                      activities required under section 103.
+                    (C) Exception.--The exclusion described in 
+                subparagraph (B)(iii) shall cease to be effective on 
+                January 1, 2031.
+                    (D) Report.--Not later than December 31, 2029, the 
+                Commission shall submit to the Committee on 
+                Appropriations and the Committee on Environment and 
+                Public Works of the Senate and the Committee on 
+                Appropriations and the Committee on Energy and Commerce 
+                of the House of Representatives a report describing the 
+                views of the Commission on the continued appropriateness 
+                and necessity of the funding described in subparagraph 
+                (B)(iii).
+            (2) Fees for service or thing of value.--In accordance with 
+        section 9701 of title 31, United States Code, the Commission 
+        shall assess and collect fees from any person who receives a 
+        service or thing of value from the Commission to cover the costs 
+        to the Commission of providing the service or thing of value.
+            (3) Annual charges.--
+                    (A) In general.--Subject to subparagraph (B) and 
+                except as provided in subparagraph (D), the Commission 
+                may charge to any licensee or certificate holder of the 
+                Commission an annual charge in addition to the fees 
+                assessed and collected under paragraph (2).
+                    (B) Cap on annual charges of certain licensees.--
+                          (i) Operating reactors.--The annual charge 
+                      under subparagraph (A) charged to an operating 
+                      reactor licensee, to the maximum extent 
+                      practicable, shall not exceed the annual fee 
+                      amount per operating reactor licensee established 
+                      in the final rule of the Commission entitled 
+                      ``Revision of Fee Schedules; Fee Recovery for 
+                      Fiscal Year 2015'' (80 Fed. Reg. 37432 (June 30, 
+                      2015)), as may be adjusted annually by the 
+                      Commission to reflect changes in the Consumer 
+                      Price Index published by the Bureau of Labor 
+                      Statistics of the Department of Labor.
+                          (ii) Waiver <<NOTE: Time 
+                      period. Determination.>> .--The Commission may 
+                      waive, for a period of 1 year, the cap on annual 
+                      charges described
+
+[[Page 132 STAT. 5570]]
+
+                      in clause (i) if the Commission submits to the 
+                      Committee on Appropriations and the Committee on 
+                      Environment and Public Works of the Senate and the 
+                      Committee on Appropriations and the Committee on 
+                      Energy and Commerce of the House of 
+                      Representatives a written determination that the 
+                      cap on annual charges may compromise the safety 
+                      and security mission of the Commission.
+                    (C) Amount per licensee.--
+                          (i) In general <<NOTE: Regulations.>> .--The 
+                      Commission shall establish by rule a schedule of 
+                      annual charges fairly and equitably allocating the 
+                      aggregate amount of charges described in 
+                      subparagraph (A) among licensees and certificate 
+                      holders.
+                          (ii) Requirement.--The schedule of annual 
+                      charges under clause (i)--
+                                    (I) to the maximum extent 
+                                practicable, shall be reasonably related 
+                                to the cost of providing regulatory 
+                                services; and
+                                    (II) may be based on the allocation 
+                                of the resources of the Commission among 
+                                licensees or certificate holders or 
+                                classes of licensees or certificate 
+                                holders.
+                    (D) Exemption.--
+                          (i) Definition of research reactor.--In this 
+                      subparagraph, the term ``research reactor'' means 
+                      a nuclear reactor that--
+                                    (I) is licensed by the Commission 
+                                under section 104 c. of the Atomic 
+                                Energy Act of 1954 (42 U.S.C. 2134(c)) 
+                                for operation at a thermal power level 
+                                of not more than 10 megawatts; and
+                                    (II) if licensed under subclause (I) 
+                                for operation at a thermal power level 
+                                of more than 1 megawatt, does not 
+                                contain--
+                                            (aa) a circulating loop 
+                                        through the core in which the 
+                                        licensee conducts fuel 
+                                        experiments;
+                                            (bb) a liquid fuel loading; 
+                                        or
+                                            (cc) an experimental 
+                                        facility in the core in excess 
+                                        of 16 square inches in cross-
+                                        section.
+                          (ii) Exemption.--Subparagraph (A) shall not 
+                      apply to the holder of any license for a federally 
+                      owned research reactor used primarily for 
+                      educational training and academic research 
+                      purposes.
+
+    (c) <<NOTE: Deadlines.>>  Performance and Reporting.--
+            (1) In general.--Not later than 180 days after the date of 
+        enactment of this Act, the Commission shall develop for the 
+        requested activities of the Commission--
+                    (A) performance metrics; and
+                    (B) milestone schedules.
+            (2) Delays in issuance of final safety evaluation.--The 
+        Executive Director for Operations of the Commission shall inform 
+        the Commission of a delay in issuance of the final safety 
+        evaluation for a requested activity of the Commission by the 
+        completion date required by the performance metrics or milestone 
+        schedule under paragraph (1) by not later than 30 days after the 
+        completion date.
+
+[[Page 132 STAT. 5571]]
+
+            (3) Delays in issuance of final safety evaluation exceeding 
+        180 days.--If the final safety evaluation for the requested 
+        activity of the Commission described in paragraph (2) is not 
+        completed by the date that is 180 days after the completion date 
+        required by the performance metrics or milestone schedule under 
+        paragraph (1), the Commission shall submit to the appropriate 
+        congressional committees a timely report describing the delay, 
+        including a detailed explanation accounting for the delay and a 
+        plan for timely completion of the final safety evaluation.
+
+    (d) Accurate Invoicing.--With respect to invoices for fees described 
+in subsection (b)(2), the Commission shall--
+            (1) ensure appropriate review and approval prior to the 
+        issuance of invoices;
+            (2) <<NOTE: Audits.>>  develop and implement processes to 
+        audit invoices to ensure accuracy, transparency, and fairness; 
+        and
+            (3) <<NOTE: Regulations.>>  modify regulations to ensure 
+        fair and appropriate processes to provide licensees and 
+        applicants an opportunity to efficiently dispute or otherwise 
+        seek review and correction of errors in invoices for those fees.
+
+    (e) <<NOTE: Recommenda- tions.>>  Report.--Not later than September 
+30, 2021, the Commission shall submit to the Committee on Appropriations 
+and the Committee on Environment and Public Works of the Senate and the 
+Committee on Appropriations and the Committee on Energy and Commerce of 
+the House of Representatives a report describing the implementation of 
+this section, including any impacts and recommendations for improvement.
+
+    (f) Effective Date.--Except as provided in subsection (c), this 
+section takes effect on October 1, 2020.
+SEC. 103. ADVANCED NUCLEAR REACTOR PROGRAM.
+
+    (a) <<NOTE: Deadlines. Strategies. 42 USC 2133 note.>>  Licensing.--
+            (1) Staged licensing.--For the purpose of predictable, 
+        efficient, and timely reviews, not later than 270 days after the 
+        date of enactment of this Act, the Commission shall develop and 
+        implement, within the existing regulatory framework, strategies 
+        for--
+                    (A) establishing stages in the licensing process for 
+                commercial advanced nuclear reactors; and
+                    (B) <<NOTE: Procedures.>>  developing procedures and 
+                processes for--
+                          (i) using a licensing project plan; and
+                          (ii) optional use of a conceptual design 
+                      assessment.
+            (2) Risk-informed licensing <<NOTE: Guidance.>> .--Not later 
+        than 2 years after the date of enactment of this Act, the 
+        Commission shall develop and implement, where appropriate, 
+        strategies for the increased use of risk-informed, performance-
+        based licensing evaluation techniques and guidance for 
+        commercial advanced nuclear reactors within the existing 
+        regulatory framework, including evaluation techniques and 
+        guidance for the resolution of the following:
+                    (A) Applicable policy issues identified during the 
+                course of review by the Commission of a commercial 
+                advanced nuclear reactor licensing application.
+                    (B) The issues described in SECY-93-092 and SECY-15-
+                077, including--
+                          (i) licensing basis event selection and 
+                      evaluation;
+                          (ii) source terms;
+                          (iii) containment performance; and
+
+[[Page 132 STAT. 5572]]
+
+                          (iv) emergency preparedness.
+            (3) <<NOTE: Guidance.>>  Research and test reactor 
+        licensing.--For the purpose of predictable, efficient, and 
+        timely reviews, not later than 2 years after the date of 
+        enactment of this Act, the Commission shall develop and 
+        implement strategies within the existing regulatory framework 
+        for licensing research and test reactors, including the issuance 
+        of guidance.
+            (4) <<NOTE: Regulations.>>  Technology-inclusive regulatory 
+        framework.--Not later than December 31, 2027, the Commission 
+        shall complete a rulemaking to establish a technology-inclusive, 
+        regulatory framework for optional use by commercial advanced 
+        nuclear reactor applicants for new reactor license applications.
+            (5) Training and expertise.--As soon as practicable after 
+        the date of enactment of this Act, the Commission shall provide 
+        for staff training or the hiring of experts, as necessary--
+                    (A) to support the activities described in 
+                paragraphs (1) through (4); and
+                    (B) to support preparations--
+                          (i) to conduct pre-application interactions; 
+                      and
+                          (ii) to review commercial advanced nuclear 
+                      reactor license applications.
+            (6) Authorization of appropriations.--There is authorized to 
+        be appropriated to the Commission to carry out this subsection 
+        $14,420,000 for each of fiscal years 2020 through 2024.
+
+    (b) Report To Establish Stages in the Commercial Advanced Nuclear 
+Reactor Licensing Process.--
+            (1) Report required.--Not later than 180 days after the date 
+        of enactment of this Act, the Commission shall submit to the 
+        appropriate congressional committees a report for expediting and 
+        establishing stages in the licensing process for commercial 
+        advanced nuclear reactors that will allow implementation of the 
+        licensing process by not later than 2 years after the date of 
+        enactment of this Act (referred to in this subsection as the 
+        ``report'').
+            (2) Coordination and stakeholder input.--In developing the 
+        report, the Commission shall seek input from the Secretary, the 
+        nuclear energy industry, a diverse set of technology developers, 
+        and other public stakeholders.
+            (3) Cost and schedule estimates.--The report shall include 
+        proposed cost estimates, budgets, and timeframes for 
+        implementing strategies to establish stages in the licensing 
+        process for commercial advanced nuclear reactor technologies.
+            (4) Required evaluations.--Consistent with the role of the 
+        Commission in protecting public health and safety and common 
+        defense and security, the report shall evaluate--
+                    (A)(i) the unique aspects of commercial advanced 
+                nuclear reactor licensing, including the use of 
+                alternative coolants, operation at or near atmospheric 
+                pressure, and the use of passive safety strategies;
+                    (ii) strategies for the qualification of advanced 
+                nuclear reactor fuel, including the use of computer 
+                modeling and simulation and experimental validation; and
+                    (iii) for the purposes of predictable, efficient, 
+                and timely reviews, any associated legal, regulatory, 
+                and policy issues the Commission should address with 
+                regard to the licensing of commercial advanced nuclear 
+                reactor technologies;
+
+[[Page 132 STAT. 5573]]
+
+                    (B) options for licensing commercial advanced 
+                nuclear reactors under the regulations of the Commission 
+                contained in title 10, Code of Federal Regulations (as 
+                in effect on the date of enactment of this Act), 
+                including--
+                          (i) the development and use under the 
+                      regulatory framework of the Commission in effect 
+                      on the date of enactment of this Act of a 
+                      licensing project plan that could establish--
+                                    (I) milestones that--
+                                            (aa) correspond to stages of 
+                                        a licensing process for the 
+                                        specific situation of a 
+                                        commercial advanced nuclear 
+                                        reactor project; and
+                                            (bb) use knowledge of the 
+                                        ability of the Commission to 
+                                        review certain design aspects; 
+                                        and
+                                    (II) guidelines defining the roles 
+                                and responsibilities between the 
+                                Commission and the applicant at the 
+                                onset of the interaction--
+                                            (aa) to provide the 
+                                        foundation for effective 
+                                        communication and effective 
+                                        project management; and
+                                            (bb) to ensure efficient 
+                                        progress;
+                          (ii) the use of topical reports, standard 
+                      design approval, and other appropriate mechanisms 
+                      as tools to introduce stages into the commercial 
+                      advanced nuclear reactor licensing process, 
+                      including how the licensing project plan might 
+                      structure the use of those mechanisms;
+                          (iii) collaboration with standards-setting 
+                      organizations to identify specific technical areas 
+                      for which new or updated standards are needed and 
+                      providing assistance if appropriate to ensure the 
+                      new or updated standards are developed and 
+                      finalized in a timely fashion;
+                          (iv) the incorporation of consensus-based 
+                      codes and standards developed under clause (iii) 
+                      into the regulatory framework--
+                                    (I) to provide predictability for 
+                                the regulatory processes of the 
+                                Commission; and
+                                    (II) to ensure timely completion of 
+                                specific licensing actions;
+                          (v) the development of a process for, and the 
+                      use of, conceptual design assessments; and
+                          (vi) identification of any policies and 
+                      guidance for staff that will be needed to 
+                      implement clauses (i) and (ii);
+                    (C) options for improving the efficiency, 
+                timeliness, and cost-effectiveness of licensing reviews 
+                of commercial advanced nuclear reactors, including 
+                opportunities to minimize the delays that may result 
+                from any necessary amendment or supplement to an 
+                application;
+                    (D) options for improving the predictability of the 
+                commercial advanced nuclear reactor licensing process, 
+                including the evaluation of opportunities to improve the 
+                process by which application review milestones are 
+                established and met; and
+
+[[Page 132 STAT. 5574]]
+
+                    (E) the extent to which Commission action or 
+                modification of policy is needed to implement any part 
+                of the report.
+
+    (c) Report To Increase the Use of Risk-Informed and Performance-
+Based Evaluation Techniques and Regulatory Guidance.--
+            (1) Report required.--Not later than 180 days after the date 
+        of enactment of this Act, the Commission shall submit to the 
+        appropriate congressional committees a report for increasing, 
+        where appropriate, the use of risk-informed and performance-
+        based evaluation techniques and regulatory guidance in licensing 
+        commercial advanced nuclear reactors within the existing 
+        regulatory framework (referred to in this subsection as the 
+        ``report'').
+            (2) Coordination and stakeholder input.--In developing the 
+        report, the Commission shall seek input from the Secretary, the 
+        nuclear energy industry, technology developers, and other public 
+        stakeholders.
+            (3) Cost and schedule estimate.--The report shall include 
+        proposed cost estimates, budgets, and timeframes for 
+        implementing a strategy to increase the use of risk-informed and 
+        performance-based evaluation techniques and regulatory guidance 
+        in licensing commercial advanced nuclear reactors.
+            (4) Required evaluations.--Consistent with the role of the 
+        Commission in protecting public health and safety and common 
+        defense and security, the report shall evaluate--
+                    (A) the ability of the Commission to develop and 
+                implement, where appropriate, risk-informed and 
+                performance-based licensing evaluation techniques and 
+                guidance for commercial advanced nuclear reactors within 
+                existing regulatory frameworks not later than 2 years 
+                after the date of enactment of this Act, including 
+                policies and guidance for the resolution of--
+                          (i) issues relating to--
+                                    (I) licensing basis event selection 
+                                and evaluation;
+                                    (II) use of mechanistic source 
+                                terms;
+                                    (III) containment performance;
+                                    (IV) emergency preparedness; and
+                                    (V) the qualification of advanced 
+                                nuclear reactor fuel; and
+                          (ii) other policy issues previously 
+                      identified; and
+                    (B) the extent to which Commission action is needed 
+                to implement any part of the report.
+
+    (d) Report To Prepare the Research and Test Reactor Licensing 
+Process.--
+            (1) Report required.--Not later than 1 year after the date 
+        of enactment of this Act, the Commission shall submit to the 
+        appropriate congressional committees a report for preparing the 
+        licensing process for research and test reactors within the 
+        existing regulatory framework (referred to in this subsection as 
+        the ``report'').
+            (2) Coordination and stakeholder input.--In developing the 
+        report, the Commission shall seek input from the Secretary, the 
+        nuclear energy industry, a diverse set of technology developers, 
+        and other public stakeholders.
+
+[[Page 132 STAT. 5575]]
+
+            (3) Cost and schedule estimates.--The report shall include 
+        proposed cost estimates, budgets, and timeframes for preparing 
+        the licensing process for research and test reactors.
+            (4) Required evaluations.--Consistent with the role of the 
+        Commission in protecting public health and safety and common 
+        defense and security, the report shall evaluate--
+                    (A) the unique aspects of research and test reactor 
+                licensing and any associated legal, regulatory, and 
+                policy issues the Commission should address to prepare 
+                the licensing process for research and test reactors;
+                    (B) the feasibility of developing guidelines for 
+                advanced reactor demonstrations and prototypes to 
+                support the review process for advanced reactors 
+                designs, including designs that use alternative coolants 
+                or alternative fuels, operate at or near atmospheric 
+                pressure, and use passive safety strategies; and
+                    (C) the extent to which Commission action or 
+                modification of policy is needed to implement any part 
+                of the report.
+
+    (e) Report To Complete a Rulemaking To Establish a Technology-
+Inclusive Regulatory Framework for Optional Use by Commercial Advanced 
+Nuclear Reactor Technologies in New Reactor License Applications and To 
+Enhance Commission Expertise Relating to Advanced Nuclear Reactor 
+Technologies.--
+            (1) Report required.--Not later than 30 months after the 
+        date of enactment of this Act, the Commission shall submit to 
+        the appropriate congressional committees a report (referred to 
+        in this subsection as the ``report'') for--
+                    (A) completing a rulemaking to establish a 
+                technology-inclusive regulatory framework for optional 
+                use by applicants in licensing commercial advanced 
+                nuclear reactor technologies in new reactor license 
+                applications; and
+                    (B) ensuring that the Commission has adequate 
+                expertise, modeling, and simulation capabilities, or 
+                access to those capabilities, to support the evaluation 
+                of commercial advanced reactor license applications, 
+                including the qualification of advanced nuclear reactor 
+                fuel.
+            (2) Coordination and stakeholder input.--In developing the 
+        report, the Commission shall seek input from the Secretary, the 
+        nuclear energy industry, a diverse set of technology developers, 
+        and other public stakeholders.
+            (3) Cost and schedule estimate.--The report shall include 
+        proposed cost estimates, budgets, and timeframes for developing 
+        and implementing a technology-inclusive regulatory framework for 
+        licensing commercial advanced nuclear reactor technologies, 
+        including completion of a rulemaking.
+            (4) Required evaluations.--Consistent with the role of the 
+        Commission in protecting public health and safety and common 
+        defense and security, the report shall evaluate--
+                    (A) the ability of the Commission to complete a 
+                rulemaking to establish a technology-inclusive 
+                regulatory framework for licensing commercial advanced 
+                nuclear reactor technologies by December 31, 2027;
+
+[[Page 132 STAT. 5576]]
+
+                    (B) the extent to which additional legislation, or 
+                Commission action or modification of policy, is needed 
+                to implement any part of the new regulatory framework;
+                    (C) the need for additional Commission expertise, 
+                modeling, and simulation capabilities, or access to 
+                those capabilities, to support the evaluation of 
+                licensing applications for commercial advanced nuclear 
+                reactors and research and test reactors, including 
+                applications that use alternative coolants or 
+                alternative fuels, operate at or near atmospheric 
+                pressure, and use passive safety strategies; and
+                    (D) the budgets and timeframes for acquiring or 
+                accessing the necessary expertise to support the 
+                evaluation of license applications for commercial 
+                advanced nuclear reactors and research and test 
+                reactors.
+SEC. 104. BAFFLE-FORMER BOLT GUIDANCE.
+
+    (a) Revisions to Guidance <<NOTE: Deadline. Publication.>> .--Not 
+later than 90 days after the date of enactment of this Act, the 
+Commission shall publish any necessary revisions to the guidance on the 
+baseline examination schedule and subsequent examination frequency for 
+baffle-former bolts in pressurized water reactors with down-flow 
+configurations.
+
+    (b) Report.--Not later than 90 days after the date of enactment of 
+this Act, the Commission shall submit to the appropriate congressional 
+committees--
+            (1) a report explaining any revisions made to the guidance 
+        described in subsection (a); or
+            (2) if no revisions were made, a report explaining why the 
+        guidance, as in effect on the date of submission of the report, 
+        is sufficient.
+SEC. 105. EVACUATION REPORT.
+
+    (a) In General.--Not later than 180 days after the date of enactment 
+of this Act, the Commission shall submit to the appropriate 
+congressional committees a report describing the actions the Commission 
+has taken, or plans to take, to consider lessons learned since September 
+11, 2001, Superstorm Sandy, Fukushima, and other recent natural 
+disasters regarding directed or spontaneous evacuations in densely 
+populated urban and suburban areas.
+    (b) Inclusions.--The report under subsection (a) shall--
+            (1) describe the actions of the Commission--
+                    (A) to consider the results from--
+                          (i) the State-of-the-Art Reactor Consequence 
+                      Analyses project; and
+                          (ii) the current examination by the Commission 
+                      of emergency planning zones for small modular 
+                      reactors and advanced nuclear reactors; and
+                    (B) to monitor international reviews, including 
+                reviews conducted by--
+                          (i) the United Nations Scientific Committee on 
+                      the Effects of Atomic Radiation;
+                          (ii) the World Health Organization; and
+                          (iii) the Fukushima Health Management Survey; 
+                      and
+            (2) with respect to a disaster similar to a disaster 
+        described in subsection (a), include information about--
+                    (A) potential shadow evacuations in response to the 
+                disaster; and
+
+[[Page 132 STAT. 5577]]
+
+                    (B) what levels of self-evacuation should be 
+                expected during the disaster, including outside the 10-
+                mile evacuation zone.
+
+    (c) Consultation Required.--The report under subsection (a) shall be 
+prepared after consultation with--
+            (1) the Federal Radiological Preparedness Coordinating 
+        Committee;
+            (2) State emergency planning officials from States that the 
+        Commission determines to be relevant to the report; and
+            (3) experts in analyzing human behavior and probable 
+        responses to a radiological emission event.
+SEC. 106. <<NOTE: 42 USC 2134 note.>>  ENCOURAGING PRIVATE 
+                        INVESTMENT IN RESEARCH AND TEST REACTORS.
+
+    (a) Purpose.--The purpose of this section is to encourage private 
+investment in research and test reactors.
+    (b) Research and Development Activities.--Section 104 c. of the 
+Atomic Energy Act of 1954 (42 U.S.C. 2134(c)) is amended--
+            (1) in the first sentence, by striking ``and which are not 
+        facilities of the type specified in subsection 104 b.'' and 
+        inserting a period; and
+            (2) <<NOTE: Licensing.>>  by adding at the end the 
+        following: ``The Commission is authorized to issue licenses 
+        under this section for utilization facilities useful in the 
+        conduct of research and development activities of the types 
+        specified in section 31 in which the licensee sells research and 
+        testing services and energy to others, subject to the condition 
+        that the licensee shall recover not more than 75 percent of the 
+        annual costs to the licensee of owning and operating the 
+        facility through sales of nonenergy services, energy, or both, 
+        other than research and development or education and training, 
+        of which not more than 50 percent may be through sales of 
+        energy.''.
+SEC. 107. COMMISSION REPORT ON ACCIDENT TOLERANT FUEL.
+
+    (a) Definition of Accident Tolerant Fuel.--In this section, the term 
+``accident tolerant fuel'' means a new technology that--
+            (1) makes an existing commercial nuclear reactor more 
+        resistant to a nuclear incident (as defined in section 11 of the 
+        Atomic Energy Act of 1954 (42 U.S.C. 2014)); and
+            (2) lowers the cost of electricity over the licensed 
+        lifetime of an existing commercial nuclear reactor.
+
+    (b) Report to Congress.--Not later than 1 year after the date of 
+enactment of this Act, the Commission shall submit to Congress a report 
+describing the status of the licensing process of the Commission for 
+accident tolerant fuel.
+SEC. 108. REPORT IDENTIFYING BEST PRACTICES FOR ESTABLISHMENT AND 
+                        OPERATION OF LOCAL COMMUNITY ADVISORY 
+                        BOARDS.
+
+    (a) Best Practices Report <<NOTE: Public information.>> .--Not later 
+than 18 months after the date of enactment of this Act, the Commission 
+shall submit to Congress, and make publicly available, a report 
+identifying best practices with respect to the establishment and 
+operation of a local community advisory board to foster communication 
+and information exchange between a licensee planning for and involved in 
+decommissioning activities and members of the community that 
+decommissioning activities may affect, including lessons learned
+
+[[Page 132 STAT. 5578]]
+
+from any such board in existence before the date of enactment of this 
+Act.
+
+    (b) Contents.--The report described in subsection (a) shall 
+include--
+            (1) a description of--
+                    (A) the topics that could be brought before a local 
+                community advisory board;
+                    (B) how such a board's input could be used to inform 
+                the decision-making processes of stakeholders for 
+                various decommissioning activities;
+                    (C) what interactions such a board could have with 
+                the Commission and other Federal regulatory bodies to 
+                support the board members' overall understanding of the 
+                decommissioning process and promote dialogue between the 
+                affected stakeholders and the licensee involved in 
+                decommissioning activities; and
+                    (D) how such a board could offer opportunities for 
+                public engagement throughout all phases of the 
+                decommissioning process;
+            (2) a discussion of the composition of a local community 
+        advisory board; and
+            (3) best practices relating to the establishment and 
+        operation of a local community advisory board, including--
+                    (A) the time of establishment of such a board;
+                    (B) the frequency of meetings of such a board;
+                    (C) the selection of board members;
+                    (D) the term of board members;
+                    (E) the responsibility for logistics required to 
+                support such a board's meetings and other routine 
+                activities; and
+                    (F) any other best practices relating to such a 
+                local community advisory board that are identified by 
+                the Commission.
+
+    (c) Consultation.--In developing the report described under 
+subsection (a), the Commission shall consult with any host State, any 
+community within the emergency planning zone of an applicable nuclear 
+power reactor, and any existing local community advisory board.
+    (d) Public Meetings.--
+            (1) In general.--The consultation required under subsection 
+        (c) shall include public meetings.
+            (2) Public participation.--The public meetings under 
+        paragraph (1) shall be conducted under the requirements 
+        applicable to category 3 meetings under the policy statement of 
+        the Commission entitled ``Enhancing Public Participation in NRC 
+        Meetings; Policy Statement'' (67 Fed. Reg. 36920 (May 28, 2002)) 
+        (or a successor policy statement).
+            (3) Number of meetings.--
+                    (A) In general.--The Commission shall conduct not 
+                less than 10 public meetings under paragraph (1) in 
+                locations that ensure geographic diversity across the 
+                United States.
+                    (B) Priority.--In determining locations in which to 
+                conduct a public meeting under subparagraph (A), the 
+                Commission shall give priority to States that--
+                          (i) have a nuclear power reactor currently 
+                      undergoing the decommissioning process; and
+                          (ii) request a public meeting under this 
+                      paragraph.
+
+[[Page 132 STAT. 5579]]
+
+            (4) Written summary.--The report under subsection (a) shall 
+        include a written summary of the public meetings conducted under 
+        paragraph (1).
+SEC. 109. REPORT ON STUDY RECOMMENDATIONS.
+
+    Not later than 90 days after the date of enactment of this Act, the 
+Commission shall submit to Congress a report describing the status of 
+addressing and implementing the recommendations contained in the 
+memorandum of the Executive Director of Operations of the Commission 
+entitled ``Tasking in Response to the Assessment of the Considerations 
+Identified in a `Study of Reprisal and Chilling Effect for Raising 
+Mission-Related Concerns and Differing Views at the Nuclear Regulatory 
+Commission' '' and dated June 19, 2018 (ADAMS Accession No.: 
+ML18165A296).
+
+                            TITLE II--URANIUM
+
+SEC. 201. URANIUM RECOVERY REPORT.
+
+    Not later than 90 days after the date of enactment of this Act, the 
+Commission shall submit to the appropriate congressional committees a 
+report describing--
+            (1) the duration of uranium recovery license issuance and 
+        amendment reviews; and
+            (2) <<NOTE: Recommenda- tions.>>  recommendations to improve 
+        efficiency and transparency of uranium recovery license issuance 
+        and amendment reviews.
+SEC. 202. PILOT PROGRAM FOR URANIUM RECOVERY FEES.
+
+<<NOTE: Deadline.>>     Not later than 1 year after the date of 
+enactment of this Act, the Commission shall--
+            (1) complete a voluntary pilot initiative to determine the 
+        feasibility of the establishment of a flat fee structure for 
+        routine licensing matters relating to uranium recovery; and
+            (2) <<NOTE: Report.>>  provide to the appropriate 
+        congressional committees a report describing the results of the 
+        pilot initiative under paragraph (1).
+
+    Approved January 14, 2019.
+
+LEGISLATIVE HISTORY--S. 512:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 115-86 (Comm. on Environment and Public Works).
+CONGRESSIONAL RECORD, Vol. 164 (2018):
+            Dec. 20, considered and passed Senate.
+            Dec. 21, considered and passed House.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2019):
+            Jan. 14, Presidential statement.
+
+                                  
+

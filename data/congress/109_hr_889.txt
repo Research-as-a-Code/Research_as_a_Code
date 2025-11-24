@@ -1,0 +1,3417 @@
+
+[109th Congress Public Law 241]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ241.109]
+
+[[Page 515]]
+
+           COAST GUARD AND MARITIME TRANSPORTATION ACT OF 2006
+
+[[Page 120 STAT. 516]]
+
+Public Law 109-241
+109th Congress
+
+                                 An Act
+
+
+ 
+To authorize appropriations for the Coast Guard for fiscal year 2006, to 
+  make technical corrections to various laws administered by the Coast 
+  Guard, and for other purposes. <<NOTE: July 11, 2006 -  [H.R. 889]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Coast Guard and Maritime 
+Transportation Act of 2006. 14 USC 1 note.>> assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Coast Guard and Maritime 
+Transportation Act of 2006''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+
+                         TITLE I--AUTHORIZATION
+
+Sec. 101. Authorization of appropriations.
+Sec. 102. Authorized levels of military strength and training.
+Sec. 103. Supplemental authorization of appropriations.
+Sec. 104. Web-based risk management data system.
+
+                          TITLE II--COAST GUARD
+
+Sec. 201. Extension of Coast Guard vessel anchorage and movement 
+           authority.
+Sec. 202. International training and technical assistance.
+Sec. 203. Officer promotion.
+Sec. 204. Coast Guard band director.
+Sec. 205. Authority for one-step turnkey design-build contracting.
+Sec. 206. Reserve recall authority.
+Sec. 207. Reserve officer distribution.
+Sec. 208. Expansion of use of auxiliary equipment to support Coast Guard 
+           missions.
+Sec. 209. Coast Guard history fellowships.
+Sec. 210. Icebreakers.
+Sec. 211. Operation as a service in the Navy.
+Sec. 212. Limitation on moving assets to St. Elizabeth's Hospital.
+Sec. 213. Cooperative agreements.
+Sec. 214. Biodiesel feasibility study.
+Sec. 215. Boating safety director.
+Sec. 216. Hangar at Coast Guard Air Station Barbers Point.
+Sec. 217. Promotion of Coast Guard officers.
+Sec. 218. Redesignation of Coast Guard law specialists as judge 
+           advocates.
+
+                   TITLE III--SHIPPING AND NAVIGATION
+
+Sec. 301. Treatment of ferries as passenger vessels.
+Sec. 302. Great Lakes pilotage annual ratemaking.
+Sec. 303. Certification of vessel nationality in drug smuggling cases.
+Sec. 304. LNG tankers.
+Sec. 305. Use of maritime safety and security teams.
+Sec. 306. Enhanced civil penalties for violations of provisions enacted 
+           by the Coast Guard and Maritime Transportation Act of 2004.
+
+[[Page 120 STAT. 517]]
+
+Sec. 307. Training of cadets at United States Merchant Marine Academy.
+Sec. 308. Reports from mortgagees of vessels.
+Sec. 309. Determination of the Secretary.
+Sec. 310. Setting, relocating, and recovering anchors.
+Sec. 311. International tonnage measurement of vessels engaged in the 
+           Aleutian trade.
+Sec. 312. Riding gangs.
+
+                         TITLE IV--MISCELLANEOUS
+
+Sec. 401. Authorization of junior reserve officers training program 
+           pilot program.
+Sec. 402. Transfer.
+Sec. 403. LORAN-C.
+Sec. 404. Long-range vessel tracking system.
+Sec. 405. Marine vessel and cold water safety education.
+Sec. 406. Reports.
+Sec. 407. Conveyance of decommissioned Coast Guard Cutter MACKINAW.
+Sec. 408. Deepwater reports.
+Sec. 409. Helicopters.
+Sec. 410. Newtown Creek, New York City, New York.
+Sec. 411. Report on technology.
+Sec. 412. Assessment and planning.
+Sec. 413. Homeport.
+Sec. 414. Navigational safety of certain facilities.
+Sec. 415. Port Richmond.
+Sec. 416. Western Alaska community development quota program.
+Sec. 417. Quota share allocation.
+Sec. 418. Maine fish tender vessels.
+Sec. 419. Automatic identification system.
+Sec. 420. Voyage data recorder study and report.
+Sec. 421. Distant water tuna fleet.
+
+                          TITLE V--LIGHTHOUSES
+
+Sec. 501. Transfer.
+Sec. 502. Misty Fiords National Monument and Wilderness.
+Sec. 503. Miscellaneous Light Stations.
+Sec. 504. Inclusion of lighthouse in St. Marks National Wildlife Refuge, 
+           Florida.
+
+  TITLE VI--DELAWARE RIVER PROTECTION AND MISCELLANEOUS OIL PROVISIONS
+
+Sec. 601. Short title.
+Sec. 602. Requirement to notify Coast Guard of release of objects into 
+           the navigable waters of the United States.
+Sec. 603. Limits on liability.
+Sec. 604. Requirement to update Philadelphia Area Contingency Plan.
+Sec. 605. Submerged oil removal.
+Sec. 606. Assessment of oil spill costs.
+Sec. 607. Delaware River and Bay Oil Spill Advisory Committee.
+Sec. 608. Nontank vessels.
+
+                      TITLE VII--HURRICANE RESPONSE
+
+Sec. 701. Homeowners assistance for Coast Guard personnel affected by 
+           Hurricanes Katrina or Rita.
+Sec. 702. Temporary authorization to extend the duration of licenses, 
+           certificates of registry, and merchant mariners' documents.
+Sec. 703. Temporary authorization to extend the duration of vessel 
+           certificates of inspection.
+Sec. 704. Preservation of leave lost due to Hurricane Katrina 
+           operations.
+Sec. 705. Reports on impact to Coast Guard.
+Sec. 706. Reports on impacts on navigable waterways.
+
+              TITLE VIII--OCEAN COMMISSION RECOMMENDATIONS
+
+Sec. 801. Implementation of international agreements.
+Sec. 802. Voluntary measures for reducing pollution from recreational 
+           boats.
+Sec. 803. Integration of vessel monitoring system data.
+Sec. 804. Foreign fishing incursions.
+
+                     TITLE IX--TECHNICAL CORRECTIONS
+
+Sec. 901. Miscellaneous technical corrections.
+Sec. 902. Correction of references to Secretary of Transportation and 
+           Department of Transportation; related matters.
+
+[[Page 120 STAT. 518]]
+
+                         TITLE I--AUTHORIZATION
+
+SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+
+    Funds are authorized to be appropriated for fiscal year 2006 for 
+necessary expenses of the Coast Guard as follows:
+            (1) For the operation and maintenance of the Coast Guard, 
+        $5,633,900,000, of which $24,500,000 is authorized to be derived 
+        from the Oil Spill Liability Trust Fund to carry out the 
+        purposes of section 1012(a)(5) of the Oil Pollution Act of 1990 
+        (33 U.S.C. 2712(a)(5)).
+            (2) For the acquisition, construction, rebuilding, and 
+        improvement of aids to navigation, shore and offshore 
+        facilities, vessels, and aircraft, including equipment related 
+        thereto, $1,903,821,000, of which--
+                    (A) $20,000,000 shall be derived from the Oil Spill 
+                Liability Trust Fund to carry out the purposes of 
+                section 1012(a)(5) of the Oil Pollution Act of 1990, to 
+                remain available until expended;
+                    (B) $1,316,300,000 is authorized for acquisition and 
+                construction of shore and offshore facilities, vessels, 
+                and aircraft, including equipment related thereto, and 
+                other activities that constitute the Integrated 
+                Deepwater Systems; and
+                    (C) $284,369,000 is authorized for sustainment of 
+                legacy vessels and aircraft, including equipment related 
+                thereto, and other activities that constitute the 
+                Integrated Deepwater Systems.
+            (3) To the Commandant of the Coast Guard for research, 
+        development, test, and evaluation of technologies, materials, 
+        and human factors directly relating to improving the performance 
+        of the Coast Guard's mission in search and rescue, aids to 
+        navigation, marine safety, marine environmental protection, 
+        enforcement of laws and treaties, ice operations, oceanographic 
+        research, and defense readiness, $24,000,000, to remain 
+        available until expended, of which $3,500,000 shall be derived 
+        from the Oil Spill Liability Trust Fund to carry out the 
+        purposes of section 1012(a)(5) of the Oil Pollution Act of 1990.
+            (4) For retired pay (including the payment of obligations 
+        otherwise chargeable to lapsed appropriations for this purpose), 
+        payments under the Retired Serviceman's Family Protection and 
+        Survivor Benefit Plans, and payments for medical care of retired 
+        personnel and their dependents under chapter 55 of title 10, 
+        United States Code, $1,014,080,000, to remain available until 
+        expended.
+            (5) For alteration or removal of bridges over navigable 
+        waters of the United States constituting obstructions to 
+        navigation, and for personnel and administrative costs 
+        associated with the Bridge Alteration Program, $38,400,000.
+            (6) For environmental compliance and restoration at Coast 
+        Guard facilities (other than parts and equipment associated with 
+        operation and maintenance), $12,000,000, to remain available 
+        until expended.
+            (7) For the Coast Guard Reserve program, including personnel 
+        and training costs, equipment, and services, $119,000,000.
+
+[[Page 120 STAT. 519]]
+
+SEC. 102. AUTHORIZED LEVELS OF MILITARY STRENGTH AND TRAINING.
+
+    (a) Active-Duty Strength.--The Coast Guard is authorized an end-of-
+year strength for active-duty personnel of 45,500 for the fiscal year 
+ending on September 30, 2006.
+    (b) Military Training Student Loads.--For fiscal year 2006, the 
+Coast Guard is authorized average military training student loads as 
+follows:
+            (1) For recruit and special training, 2,500 student years.
+            (2) For flight training, 125 student years.
+            (3) For professional training in military and civilian 
+        institutions, 350 student years.
+            (4) For officer acquisition, 1,200 student years.
+
+SEC. 103. SUPPLEMENTAL AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) Authorization of Appropriations.--In addition to amounts 
+provided to the Coast Guard from another Federal agency for 
+reimbursement of expenditures for Hurricane Katrina, there are 
+authorized to be appropriated to the Secretary of the department in 
+which the Coast Guard is operating the following amounts for 
+nonreimbursed expenditures:
+            (1) For the operation and maintenance of the Coast Guard in 
+        responding to Hurricane Katrina, including search and rescue 
+        efforts, clearing channels, and emergency response to oil and 
+        chemical spills, and for increased costs of operation and 
+        maintenance of the Coast Guard due to higher than expected fuel 
+        costs, $300,000,000.
+            (2) For the acquisition, construction, renovation, and 
+        improvement of aids to navigation, shore and offshore 
+        facilities, and vessels and aircraft, including equipment 
+        related thereto, related to damage caused by Hurricane Katrina, 
+        $200,000,000.
+
+    (b) Construction With Other Funding.--The amounts authorized to be 
+appropriated by subsection (a) are in addition to any other amounts 
+authorized to be appropriated to the Secretary of the department in 
+which the Coast Guard is operating under any other provision of law.
+    (c) Availability.--The amounts made available under subsection (a) 
+shall remain available until expended.
+
+SEC. 104. WEB-BASED RISK MANAGEMENT DATA SYSTEM.
+
+    There is authorized to be appropriated for each of fiscal years 2006 
+and 2007 to the Secretary of the department in which the Coast Guard is 
+operating $1,000,000 to continue deployment of a World Wide Web-based 
+risk management system to help reduce accidents and fatalities.
+
+                          TITLE II--COAST GUARD
+
+SEC. 201. EXTENSION OF COAST GUARD VESSEL ANCHORAGE AND MOVEMENT 
+            AUTHORITY.
+
+    Section 91 of title 14, United States Code, is amended by adding at 
+the end the following new subsection:
+    ``(d) As used in this section `navigable waters of the United 
+States' includes all waters of the territorial sea of the United States 
+as described in Presidential Proclamation No. 5928 of December 27, 
+1988.''.
+
+[[Page 120 STAT. 520]]
+
+SEC. 202. INTERNATIONAL TRAINING AND TECHNICAL ASSISTANCE.
+
+    (a) In General.--Section 149 of title 14, United States Code, is 
+amended--
+            (1) by amending the section heading to read as follows:
+
+``Sec. 149. Assistance to foreign governments and maritime 
+                        authorities'';
+
+            (2) by inserting before the undesignated text the following:
+
+    ``(a) Detail of Members to Assist Foreign Governments.--''; and
+            (3) by adding at the end the following new subsection:
+
+    ``(b) Technical Assistance to Foreign Maritime Authorities.--The 
+Commandant, in coordination with the Secretary of State, may provide, in 
+conjunction with regular Coast Guard operations, technical assistance 
+(including law enforcement and maritime safety and security training) to 
+foreign navies, coast guards, and other maritime authorities.''.
+    (b) Clerical Amendment.--The item relating to such section in the 
+analysis at the beginning of chapter 7 of such title is amended to read 
+as follows:
+
+``149. Assistance to foreign governments and maritime authorities''.
+
+SEC. 203. OFFICER PROMOTION.
+
+    Section 257 of title 14, United States Code, is amended by adding at 
+the end the following new subsection:
+    ``(f) The Secretary may waive subsection (a) to the extent necessary 
+to allow officers described therein to have at least two opportunities 
+for consideration for promotion to the next higher grade as officers 
+below the promotion zone.''.
+
+SEC. 204. COAST GUARD BAND DIRECTOR.
+
+    (a) Band Director Appointment and Grade.--Section 336 of title 14, 
+United States Code, is amended--
+            (1) in subsection (b)--
+                    (A) by striking the first sentence and inserting the 
+                following: ``The Secretary may designate as the director 
+                any individual determined by the Secretary to possess 
+                the necessary qualifications.''; and
+                    (B) in the second sentence, by striking ``a member 
+                so designated'' and inserting ``an individual so 
+                designated'';
+            (2) in subsection (c)--
+                    (A) by striking ``of a member'' and inserting ``of 
+                an individual''; and
+                    (B) by striking ``of lieutenant (junior grade) or 
+                lieutenant'' and inserting ``determined by the Secretary 
+                to be most appropriate to the qualifications and 
+                experience of the appointed individual'';
+            (3) in subsection (d) by striking ``A member'' and inserting 
+        ``An individual''; and
+            (4) in subsection (e)--
+                    (A) by striking ``When a member's designation is 
+                revoked,'' and inserting ``When an individual's 
+                designation is revoked,''; and
+                    (B) by striking ``option:'' and inserting ``option--
+                ''.
+
+    (b) <<NOTE: 14 USC 336 note.>> Current Director.--The individual 
+serving as Coast Guard band director on the date of enactment of this 
+Act may be immediately promoted to a commissioned grade, not to exceed 
+captain,
+
+[[Page 120 STAT. 521]]
+
+determined by the Secretary of the department in which the Coast Guard 
+is operating to be most appropriate to the qualifications and experience 
+of that individual.
+
+SEC. 205. AUTHORITY FOR ONE-STEP TURNKEY DESIGN-BUILD CONTRACTING.
+
+    (a) In General.--Chapter 17 of title 14, United States Code, is 
+amended by adding at the end the following new section:
+
+``Sec. 677. Turnkey selection procedures
+
+    ``(a) Authority to Use.--The Secretary may use one-step turnkey 
+selection procedures for the purpose of entering into contracts for 
+construction projects.
+    ``(b) Definitions.--In this section, the following definitions 
+apply:
+            ``(1) The term `one-step turnkey selection procedures' means 
+        procedures used for the selection of a contractor on the basis 
+        of price and other evaluation criteria to perform, in accordance 
+        with the provisions of a firm fixed-price contract, both the 
+        design and construction of a facility using performance 
+        specifications supplied by the Secretary.
+            ``(2) The term `construction' includes the construction, 
+        procurement, development, conversion, or extension of any 
+        facility.
+            ``(3) The term `facility' means a building, structure, or 
+        other improvement to real property.''.
+
+    (b) Clerical Amendment.--The analysis at the beginning of such 
+chapter is amended by inserting after the item relating to section 676 
+the following:
+
+``677. Turnkey selection procedures''.
+
+SEC. 206. RESERVE RECALL AUTHORITY.
+
+    Section 712 of title 14, United States Code, is amended--
+            (1) in subsection (a) by striking ``during a'' and inserting 
+        ``during a, or to aid in prevention of an imminent,'';
+            (2) in subsection (a) by striking ``or catastrophe,'' and 
+        inserting ``catastrophe, act of terrorism (as defined in section 
+        2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))), 
+        or transportation security incident as defined in section 70101 
+        of title 46,'';
+            (3) in subsection (a) by striking ``thirty days in any four-
+        month period'' and inserting ``60 days in any 4-month period'';
+            (4) in subsection (a) by striking ``sixty days in any two-
+        year period'' and inserting ``120 days in any 2-year period''; 
+        and
+            (5) by adding at the end the following:
+
+    ``(e) For purposes of calculating the duration of active duty 
+allowed pursuant to subsection (a), each period of active duty shall 
+begin on the first day that a member reports to active duty, including 
+for purposes of training.''.
+
+SEC. 207. RESERVE OFFICER DISTRIBUTION.
+
+    Section 724 of title 14, United States Code, is amended--
+            (1) in subsection (a) by inserting after the first sentence 
+        the following: ``Reserve officers on an active-duty list shall 
+        not be counted as part of the authorized number of officers in 
+        the Reserve.''; and
+
+[[Page 120 STAT. 522]]
+
+            (2) in subsection (b) by striking all that precedes 
+        paragraph (2) and inserting the following:
+
+    ``(b)(1) <<NOTE: Computation.>> The Secretary shall make, at least 
+once each year, a computation to determine the number of Reserve 
+officers in an active status authorized to be serving in each grade. The 
+number in each grade shall be computed by applying the applicable 
+percentage to the total number of such officers serving in an active 
+status on the date the computation is made. The number of Reserve 
+officers in an active status below the grade of rear admiral (lower 
+half) shall be distributed by pay grade so as not to exceed percentages 
+of commissioned officers authorized by section 42(b) of this title. When 
+the actual number of Reserve officers in an active status in a 
+particular pay grade is less than the maximum percentage authorized, the 
+difference may be applied to the number in the next lower grade. A 
+Reserve officer may not be reduced in rank or grade solely because of a 
+reduction in an authorized number as provided for in this subsection, or 
+because an excess results directly from the operation of law.''.
+
+SEC. 208. EXPANSION OF USE OF AUXILIARY EQUIPMENT TO SUPPORT COAST GUARD 
+            MISSIONS.
+
+    (a) Use of Motorized Vehicles.--Section 826 of title 14, United 
+States Code, is amended--
+            (1) by inserting before the undesignated text the following:
+
+    ``(a) Motor Boats, Yachts, Aircraft, and Radio Stations.--''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(b) Motor Vehicles.--The Coast Guard may utilize to carry out its 
+functions and duties as authorized by the Secretary any motor vehicle 
+(as defined in section 154 of title 23, United States Code) placed at 
+its disposition by any member of the Auxiliary, by any corporation, 
+partnership, or association, or by any State or political subdivision 
+thereof, to tow Federal Government property.''.
+    (b) Appropriations for Facilities.--Section 830(a) of such title is 
+amended by striking ``or radio station'' each place it appears and 
+inserting ``radio station, or motorized vehicle utilized under section 
+826(b)''.
+
+SEC. 209. COAST GUARD HISTORY FELLOWSHIPS.
+
+    (a) Fellowships Authorized.--Chapter 9 of title 14, United States 
+Code, is amended by adding at the end the following:
+
+``Sec. 198. Coast Guard history fellowships
+
+    ``(a) Fellowships.--The Commandant of the Coast Guard may prescribe 
+regulations under which the Commandant may award fellowships in Coast 
+Guard history to individuals who are eligible under subsection (b).
+    ``(b) Eligible Individuals.--An individual shall be eligible under 
+this subsection if the individual is a citizen or national of the United 
+States and--
+            ``(1) is a graduate student in United States history;
+            ``(2) has completed all requirements for a doctoral degree 
+        other than preparation of a dissertation; and
+            ``(3) agrees to prepare a dissertation in a subject area of 
+        Coast Guard history determined by the Commandant.
+
+[[Page 120 STAT. 523]]
+
+    ``(c) Limitations.--The Commandant may award up to 2 fellowships 
+annually. The Commandant may not award any fellowship under this section 
+that exceeds $25,000 in any year.
+    ``(d) Regulations.--The regulations prescribed under this section 
+shall include--
+            ``(1) the criteria for award of fellowships;
+            ``(2) the procedures for selecting recipients of 
+        fellowships;
+            ``(3) the basis for determining the amount of a fellowship; 
+        and
+            ``(4) subject to the availability of appropriations, the 
+        total amount that may be awarded as fellowships during an 
+        academic year.''.
+
+    (b) Clerical Amendment.--The analysis at the beginning of such 
+chapter is amended by adding at the end the following:
+
+``198. Coast Guard history fellowships''.
+
+SEC. 210. <<NOTE: 14 USC 93 note.>> ICEBREAKERS.
+
+    (a) Operation and Maintenance Plan.--Not <<NOTE: Deadline.>> later 
+than 90 days after the date of enactment of this Act, the Secretary of 
+the department in which the Coast Guard is operating shall submit to the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate a plan--
+            (1) for operation and maintenance after fiscal year 2006 of 
+        the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and 
+        HEALY, that does not rely on the transfer of funds to the Coast 
+        Guard by any other Federal agency; and
+            (2) for the long-term recapitalization of these assets.
+
+    (b) Necessary Measures.--The Secretary shall take all necessary 
+measures to ensure that the Coast Guard maintains, at a minimum, its 
+current vessel capacity for carrying out ice breaking in the Arctic and 
+Antarctic, Great Lakes, and New England regions, including the necessary 
+funding for operation and maintenance of such vessels, until it has 
+implemented the long-term recapitalization of the Coast Guard polar 
+icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan 
+submitted under subsection (a).
+    (c) Reimbursement.--Nothing in this section shall preclude the 
+Secretary from seeking reimbursement for operation and maintenance costs 
+of such polar icebreakers from other Federal agencies and entities, 
+including foreign countries, that benefit from the use of the 
+icebreakers.
+    (d) Authorization of Appropriations.--There is authorized to be 
+appropriated for fiscal year 2006 to the Secretary of the department in 
+which the Coast Guard is operating $100,000,000 to carry out this 
+section with respect to the polar icebreakers referred to in subsection 
+(a).
+
+SEC. 211. OPERATION AS A SERVICE IN THE NAVY.
+
+    Section 3 of title 14, United States Code, is amended by inserting 
+``if Congress so directs in the declaration'' after ``Upon the 
+declaration of war''.
+
+SEC. 212. LIMITATION ON MOVING ASSETS TO ST. ELIZABETH'S HOSPITAL.
+
+     The Commandant of the Coast Guard may not move any Coast Guard 
+personnel, property, or other assets to the West Campus
+
+[[Page 120 STAT. 524]]
+
+of St. Elizabeth's Hospital until the Administrator of General Services 
+submits to the Committee on Transportation and Infrastructure of the 
+House of Representatives and the Committee on Commerce, Science, and 
+Transportation and the Committee on Environment and Public Works of the 
+Senate a plan--
+            (1) to provide road access to the site from Interstate Route 
+        295;
+            (2) for the design of facilities for at least one Federal 
+        agency other than the Coast Guard that would house no fewer than 
+        2,000 employees at such location;
+            (3) to provide transportation of employees and visitors to 
+        and from sites in the District of Columbia metropolitan area 
+        that are located within close proximity to St. Elizabeth's 
+        Hospital;
+            (4) for the construction, facade, and layout of the proposed 
+        structures, including security considerations, parking 
+        facilities, medical facilities, dining facilities, and physical 
+        exercise facilities on the West Campus;
+            (5) that analyzes the costs of building restrictions, 
+        planning considerations, and permitting requirements of 
+        constructing new facilities on or near historic landmarks and 
+        historic buildings (especially those known to possess medical 
+        waste, lead paint, and asbestos);
+            (6) that analyzes the feasibility of relocating Coast Guard 
+        Headquarters--
+                    (A) to the Department of Transportation Headquarters 
+                located at L'Enfant Plaza;
+                    (B) to the Waterfront Mall Complex in Southwest 
+                District of Columbia; and
+                    (C) to 3 alternative sites requiring either new 
+                construction or leasing of current facilities (other 
+                than those referred to in subparagraphs (A) and (B)) 
+                within the District of Columbia metropolitan area that 
+                accommodate the Coast Guard's minimum square footage 
+                requirements; and
+            (7) that analyzes how a potential move to the West Campus of 
+        St. Elizabeth's Hospital would impact--
+                    (A) the Coast Guard's ability to access and 
+                cooperatively work with the Department of Homeland 
+                Security and the other Federal agencies of the 
+                Department; and
+                    (B) plans under consideration for relocating all or 
+                parts of the headquarters of the Department of Homeland 
+                Security and other offices of the Department.
+
+SEC. 213. COOPERATIVE AGREEMENTS.
+
+    Not <<NOTE: Deadline. Reports.>> later than 180 days after the date 
+of enactment of this Act, the Secretary of the department in which the 
+Coast Guard is operating shall provide a report to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Transportation and Infrastructure of the House of Representatives on 
+opportunities for cost savings and operational efficiencies that can be 
+achieved through and the feasibility of colocating Coast Guard assets 
+and personnel at facilities of other armed forces throughout the United 
+States. The report shall--
+            (1) identify opportunities for cooperative agreements with 
+        respect to siting of assets or operations that may be 
+        established between the Coast Guard and any of the other armed 
+        forces; and
+
+[[Page 120 STAT. 525]]
+
+            (2) analyze anticipated costs and benefits, and operational 
+        impacts associated with each site and such agreements.
+
+SEC. 214. BIODIESEL FEASIBILITY STUDY.
+
+    (a) Study.--The Secretary of the department in which the Coast Guard 
+is operating shall conduct a study that examines the technical 
+feasibility, costs, and potential cost savings of using biodiesel fuel 
+in new and existing Coast Guard vehicles and vessels and that focuses on 
+the use of biodiesel fuel in ports which have a high density of vessel 
+traffic, including ports for which vessel traffic systems have been 
+established.
+    (b) Report.--Not later than one year after the date of enactment of 
+this Act, the Secretary shall submit a report containing the findings, 
+conclusions, and recommendations (if any) from the study to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives.
+
+SEC. 215. BOATING SAFETY DIRECTOR.
+
+    (a) In General.--Subchapter A of chapter 11 of title 14, United 
+States Code, is amended by adding at the end the following:
+
+``Sec. 216. Director of Boating Safety Office
+
+    ``The initial appointment of the Director of the Boating Safety 
+Office shall be in the grade of Captain.''.
+    (b) Clerical Amendment.--The analysis for such chapter is amended by 
+inserting after the item relating to section 215 the following:
+
+``216. Director of Boating Safety Office''.
+
+SEC. 216. <<NOTE: Hawaii. Deadline.>> HANGAR AT COAST GUARD AIR STATION 
+            BARBERS POINT.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Secretary of the department in which the Coast Guard is operating shall 
+submit to the Committee on Commerce, Science, and Transportation of the 
+Senate and the Committee on Transportation and Infrastructure of the 
+House of Representatives a proposal and cost analysis for constructing 
+an enclosed hangar at Air Station Barbers Point, Hawaii. The proposal 
+should ensure that the hangar has the capacity to shelter current 
+aircraft assets and those projected to be located at the station over 
+the next 20 years.
+
+SEC. 217. PROMOTION OF COAST GUARD OFFICERS.
+
+    (a) In General.--Section 211(a) of title 14, United States Code, is 
+amended to read as follows:
+    ``(a)(1) The President may appoint permanent commissioned officers 
+in the Regular Coast Guard in grades appropriate to their qualification, 
+experience, and length of service, as the needs of the Coast Guard may 
+require, from among the following categories:
+            ``(A) Graduates of the Coast Guard Academy.
+            ``(B) Commissioned warrant officers, warrant officers, and 
+        enlisted members of the Regular Coast Guard.
+            ``(C) Members of the Coast Guard Reserve who have served at 
+        least 2 years as such.
+            ``(D) Licensed officers of the United States merchant marine 
+        who have served 2 or more years aboard a vessel of the United 
+        States in the capacity of a licensed officer.
+
+[[Page 120 STAT. 526]]
+
+    ``(2) <<NOTE: President. Congress.>> Original appointments under 
+this section in the grades of lieutenant commander and above shall be 
+made by the President by and with the advice and consent of the Senate.
+
+    ``(3) Original appointments under this section in the grades of 
+ensign through lieutenant shall be made by the President alone.''.
+    (b) Wartime Temporary Service Promotion.--Section 275(f) of such 
+title is amended by striking the second and third sentences and 
+inserting ``Original appointments under this section in the grades of 
+lieutenant commander and above shall be made by the President by and 
+with the advice and consent of the Senate. Original appointments under 
+this section in the grades of ensign through lieutenant shall be made by 
+the President alone.''.
+
+SEC. 218. REDESIGNATION OF COAST GUARD LAW SPECIALISTS AS JUDGE 
+            ADVOCATES.
+
+    (a) Definitions in Title 10.--Section 801 of title 10, United States 
+Code, is amended--
+            (1) by striking paragraph (11); and
+            (2) in paragraph (13) by striking subparagraph (C) and 
+        inserting the following:
+                    ``(C) a commissioned officer of the Coast Guard 
+                designated for special duty (law).''.
+
+    (b) Conforming Amendments.--
+            (1) Title 14.--Section 727 of title 14, United States Code, 
+        is amended by striking ``law specialist'' and inserting ``judge 
+        advocate''.
+            (2) Social security act.--Section 465(a)(2) of the Social 
+        Security Act (42 U.S.C. 665(a)(2)) is amended by striking ``law 
+        specialist'' and inserting ``judge advocate''.
+
+                   TITLE III--SHIPPING AND NAVIGATION
+
+SEC. 301. TREATMENT OF FERRIES AS PASSENGER VESSELS.
+
+    (a) Ferry Defined.--Section 2101 of title 46, United States Code, is 
+amended by inserting after paragraph (10a) the following:
+            ``(10b) `ferry' means a vessel that is used on a regular 
+        schedule--
+                    ``(A) to provide transportation only between places 
+                that are not more than 300 miles apart; and
+                    ``(B) to transport only--
+                          ``(i) passengers; or
+                          ``(ii) vehicles, or railroad cars, that are 
+                      being used, or have been used, in transporting 
+                      passengers or goods.''.
+
+    (b) Passenger Vessels That Are Ferries.--Section 2101(22) of title 
+46, United States Code, is amended--
+            (1) by striking ``or'' at the end of subparagraph (B);
+            (2) by striking the period at the end of subparagraph (C) 
+        and inserting ``; or''; and
+            (3) by adding at the end the following:
+                    ``(D) that is a ferry carrying a passenger.''.
+
+    (c) Small Passenger Vessels That Are Ferries.--Section 2101(35) of 
+title 46, United States Code, is amended--
+            (1) by striking ``or'' at the end of subparagraph (C);
+            (2) by striking the period at the end of subparagraph (D) 
+        and inserting ``; or''; and
+
+[[Page 120 STAT. 527]]
+
+            (3) by adding at the end the following:
+                    ``(E) that is a ferry carrying more than 6 
+                passengers.''.
+
+SEC. 302. GREAT LAKES PILOTAGE ANNUAL RATEMAKING.
+
+    Section 9303 of title 46, United States Code, is amended--
+            (1) in subsection (f) by inserting at the end the following: 
+        ``The <<NOTE: Deadlines.>> Secretary shall establish new 
+        pilotage rates by March 1 of each year. The Secretary shall 
+        establish base pilotage rates by a full ratemaking at least once 
+        every 5 years and shall conduct annual reviews of such base 
+        pilotage rates, and make adjustments to such base rates, in each 
+        intervening year.''; and
+            (2) by adding at the end the following:
+
+    ``(g) The Secretary shall ensure that a sufficient number of 
+individuals are assigned to carrying out subsection (f).''.
+
+SEC. 303. CERTIFICATION OF VESSEL NATIONALITY IN DRUG SMUGGLING CASES.
+
+    Section 3(c)(2) of the Maritime Drug Law Enforcement Act (46 U.S.C. 
+App. 1903(c)(2)) is amended by striking the last two sentences and 
+inserting the following: ``The response of a foreign nation to a claim 
+of registry under subparagraph (A) or (C) may be made by radio, 
+telephone, or similar oral or electronic means, and is conclusively 
+proved by certification of the Secretary of State or the Secretary's 
+designee.''.
+
+SEC. 304. LNG TANKERS.
+
+    (a) <<NOTE: 33 USC 1503 note.>> Program.--The Secretary of 
+Transportation shall develop and implement a program to promote the 
+transportation of liquefied natural gas to the United States on United 
+States flag vessels.
+
+    (b) Amendment to Deepwater Port Act.--Section 4 of the Deepwater 
+Port Act of 1974 (33 U.S.C. 1503) is amended by adding at the end the 
+following:
+    ``(i) To promote the security of the United States, the Secretary 
+shall give top priority to the processing of a license under this Act 
+for liquefied natural gas facilities that will be supplied with 
+liquefied natural gas by United States flag vessels.''.
+    (c) Public Notice of LNG Vessel's Registry and Crew.--
+            (1) Plan submitted with application for deepwater port 
+        license.--Section 5(c)(2) of the Deepwater Port Act of 1974 (33 
+        U.S.C. 1504(c)(2)) is amended--
+                    (A) by redesignating subparagraphs (K) and (L) as 
+                subparagraphs (L) and (M), respectively; and
+                    (B) by inserting after subparagraph (J) the 
+                following:
+                    ``(K) the nation of registry for, and the 
+                nationality or citizenship of officers and crew serving 
+                on board, vessels transporting natural gas that are 
+                reasonably anticipated to be servicing the deepwater 
+                port;''.
+            (2) <<NOTE: 33 USC 1504 note.>> Information to be 
+        provided.--When the Coast Guard is operating as a contributing 
+        agency in the Federal Energy Regulatory Commission's shoreside 
+        licensing process for a liquefied natural gas or liquefied 
+        petroleum gas terminal located on shore or within State seaward 
+        boundaries, the Coast Guard shall provide to the Commission the 
+        information described in section 5(c)(2)(K) of the Deepwater 
+        Port Act of 1974 (33 U.S.C. 1504(c)(2)(K)) with respect to 
+        vessels reasonably anticipated to be servicing that port.
+
+[[Page 120 STAT. 528]]
+
+    (d) Report.--Not <<NOTE: Deadline.>> later than 6 months after the 
+date of enactment of this Act, the Secretary of the department in which 
+the Coast Guard is operating shall submit a report on the implementation 
+of this section to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Transportation and 
+Infrastructure of the House of Representatives.
+
+SEC. 305. USE OF MARITIME SAFETY AND SECURITY TEAMS.
+
+    Section 70106(b)(8) of title 46, United States Code, is amended by 
+striking ``other security missions'' and inserting ``any other missions 
+of the Coast Guard''.
+
+SEC. 306. ENHANCED CIVIL PENALTIES FOR VIOLATIONS OF PROVISIONS ENACTED 
+            BY THE COAST GUARD AND MARITIME TRANSPORTATION ACT OF 2004.
+
+    (a) Continuing Violations.--The section enumerated 70119 of title 
+46, United States Code, as redesignated and transferred by section 
+802(a)(1) of the Coast Guard and Maritime Transportation Security Act of 
+2004 (118 Stat. 1078), relating to civil penalty, is amended--
+            (1) by inserting ``(a) In General.--'' before ``Any'';
+            (2) by striking ``violation.'' and inserting ``day during 
+        which the violation continues.''; and
+            (3) by adding at the end the following:
+
+    ``(b) Continuing Violations.--The maximum amount of a civil penalty 
+for a violation under this section shall not exceed $50,000.''.
+    (b) Application of Civil Penalty Procedures.--Section 2107 of title 
+46, United States Code, is amended by striking ``this subtitle'' each 
+place it appears and inserting ``this subtitle or subtitle VII''.
+
+SEC. 307. TRAINING OF CADETS AT UNITED STATES MERCHANT MARINE ACADEMY.
+
+    Section 1303(f) of the Merchant Marine Act, 1936 (46 App. U.S.C. 
+1295b(f)) is amended--
+            (1) by striking ``and'' at the end of paragraph (2);
+            (2) by striking the period at the end of paragraph (3) and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) on any other vessel considered by the Secretary to be 
+        necessary or appropriate or in the national interest.''.
+
+SEC. 308. REPORTS FROM MORTGAGEES OF VESSELS.
+
+    Section 12120 of title 46, United States Code, is amended by 
+striking ``owners, masters, and charterers'' and inserting ``owners, 
+masters, charterers, and mortgagees''.
+
+SEC. 309. DETERMINATION OF THE SECRETARY.
+
+    Section 70105(c) of title 46, United States Code, is amended--
+            (1) by redesignating paragraphs (3) and (4) as paragraphs 
+        (4) and (5), respectively; and
+            (2) by inserting after paragraph (2) the following:
+            ``(3) Denial of waiver review.--
+                    ``(A) In general.--The Secretary shall establish a 
+                review process before an administrative law judge for 
+                individuals denied a waiver under paragraph (2).
+                    ``(B) Scope of review.--In conducting a review under 
+                the process established pursuant to subparagraph (A), 
+                the
+
+[[Page 120 STAT. 529]]
+
+                administrative law judge shall be governed by the 
+                standards of section 706 of title 
+                5. <<NOTE: Applicability.>> The substantial evidence 
+                standard in section 706(2)(E) of title 5 shall apply 
+                whether or not there has been an agency hearing. The 
+                judge shall review all facts on the record of the 
+                agency.
+                    ``(C) Classified evidence.--
+                The <<NOTE: Regulations. Procedures.>> Secretary, in 
+                consultation with the National Intelligence Director, 
+                shall issue regulations to establish procedures by which 
+                the Secretary, as part of a review conducted under this 
+                paragraph, may provide to the individual adversely 
+                affected by the determination an unclassified summary of 
+                classified evidence upon which the denial of a waiver by 
+                the Secretary was based.
+                    ``(D) Review of classified evidence by 
+                administrative law judge.--
+                          ``(i) Review.--As part of a review conducted 
+                      under this section, if the decision of the 
+                      Secretary was based on classified information (as 
+                      defined in section 1(a) of the Classified 
+                      Information Procedures Act (18 U.S.C. App.)), such 
+                      information may be submitted by the Secretary to 
+                      the reviewing administrative law judge, pursuant 
+                      to appropriate security procedures, and shall be 
+                      reviewed by the administrative law judge ex parte 
+                      and in camera.
+                          ``(ii) Security clearances.--Pursuant to 
+                      existing procedures and requirements, the 
+                      Secretary, in coordination (as necessary) with the 
+                      heads of other affected departments or agencies, 
+                      shall ensure that administrative law judges 
+                      reviewing negative waiver decisions of the 
+                      Secretary under this paragraph possess security 
+                      clearances appropriate for such review.
+                          ``(iii) Unclassified summaries of classified 
+                      evidence.--As part of a review conducted under 
+                      this paragraph and upon the request of the 
+                      individual adversely affected by the decision of 
+                      the Secretary not to grant a waiver, the Secretary 
+                      shall provide to the individual and reviewing 
+                      administrative law judge, consistent with the 
+                      procedures established under clause (i), an 
+                      unclassified summary of any classified information 
+                      upon which the decision of the Secretary was 
+                      based.
+                    ``(E) New evidence.--The Secretary shall establish a 
+                process under which an individual may submit a new 
+                request for a waiver, notwithstanding confirmation by 
+                the administrative law judge of the Secretary's initial 
+                denial of the waiver, if the request is supported by 
+                substantial evidence that was not available to the 
+                Secretary at the time the initial waiver request was 
+                denied.''.
+
+SEC. 310. SETTING, RELOCATING, AND RECOVERING ANCHORS.
+
+    Section 12105 of title 46, United States Code, is amended by adding 
+at the end the following:
+    ``(c)(1) Only a vessel for which a certificate of documentation with 
+a registry endorsement is issued may engage in--
+            ``(A) the setting, relocation, or recovery of the anchors or 
+        other mooring equipment of a mobile offshore drilling unit that 
+        is located over the outer Continental Shelf (as defined
+
+[[Page 120 STAT. 530]]
+
+        in section 2(a) of the Outer Continental Shelf Lands Act (43 
+        U.S.C. 1331(a))); or
+            ``(B) the transportation of merchandise or personnel to or 
+        from a point in the United States from or to a mobile offshore 
+        drilling unit located over the outer Continental Shelf that is 
+        not attached to the seabed.
+
+    ``(2) Nothing in paragraph (1) authorizes the employment in the 
+coastwise trade of a vessel that does not meet the requirements of 
+section 12106 of this title.''.
+
+SEC. 311. INTERNATIONAL TONNAGE MEASUREMENT OF VESSELS ENGAGED IN THE 
+            ALEUTIAN TRADE.
+
+    (a) General Inspection Exemption.--Section 3302(c)(2) of title 46, 
+United States Code, is amended to read as follows:
+    ``(2) Except as provided in paragraphs (3) and (4) of this 
+subsection, the following fish tender vessels are exempt from section 
+3301(1), (6), (7), (11), and (12) of this title:
+            ``(A) A vessel of not more than 500 gross tons as measured 
+        under section 14502 of this title or an alternate tonnage 
+        measured under section 14302 of this title as prescribed by the 
+        Secretary under section 14104 of this title.
+            ``(B) A vessel engaged in the Aleutian trade that is not 
+        more than 2,500 gross tons as measured under section 14302 of 
+        this title.''.
+
+    (b) Other Inspection Exemption and Watch Requirement.--Paragraphs 
+(3)(B) and (4) of section 3302(c) of title 46, United States Code, and 
+section 8104(o) of that title are each amended by striking ``or an 
+alternate tonnage measured under section 14302 of this title as 
+prescribed by the Secretary under section 14104 of this title'' and 
+inserting ``or less than 500 gross tons as measured under section 14502 
+of this title, or is less than 2,500 gross tons as measured under 
+section 14302 of this title''.
+
+SEC. 312. RIDING GANGS.
+
+    (a) In General.--Chapter 81 of title 46, United States Code, is 
+amended by adding at the end the following:
+
+``Sec. 8106. Riding gangs
+
+    ``(a) In General.--The owner or managing operator of a freight 
+vessel of the United States on voyages covered by the International 
+Convention for Safety of Life at Sea, 1974 (32 UST 47m) shall--
+            ``(1) ensure that--
+                    ``(A) subject to subsection (d), each riding gang 
+                member on the vessel--
+                          ``(i) is a United States citizen or an alien 
+                      lawfully admitted to the United States for 
+                      permanent residence; or
+                          ``(ii) possesses a United States nonimmigrant 
+                      visa for individuals desiring to enter the United 
+                      States temporarily for business, employment-
+                      related and personal identifying information, and 
+                      any other documentation required by the Secretary;
+                    ``(B) all required documentation for such member is 
+                kept on the vessel and available for inspection by the 
+                Secretary; and
+                    ``(C) each riding gang member is identified on the 
+                vessel's crew list;
+            ``(2) ensure that--
+
+[[Page 120 STAT. 531]]
+
+                    ``(A) the owner or managing operator attests in a 
+                certificate that the background of each riding gang 
+                member has been examined and found to be free of any 
+                credible information indicating a material risk to the 
+                security of the vessel, the vessel's cargo, the ports 
+                the vessel visits, or other individuals onboard the 
+                vessel;
+                    ``(B) the background check consisted of a search of 
+                all information reasonably available to the owner or 
+                managing operator in the riding gang member's country of 
+                citizenship and any other country in which the riding 
+                gang member works, receives employment referrals, or 
+                resides;
+                    ``(C) the certificate required under subparagraph 
+                (A) is kept on the vessel and available for inspection 
+                by the Secretary; and
+                    ``(D) the information derived from any such 
+                background check is made available to the Secretary upon 
+                request;
+            ``(3) ensure that each riding gang member, while on board 
+        the vessel, is subject to the same random chemical testing and 
+        reporting regimes as crew members;
+            ``(4) ensure that each such riding gang member receives 
+        basic safety familiarization and basic safety training approved 
+        by the Coast Guard as satisfying the requirements for such 
+        training under the International Convention of Training, 
+        Certification, and Watchkeeping for Seafarers, 1978;
+            ``(5) prevent from boarding the vessel, or cause the removal 
+        from the vessel at the first available port, and disqualify from 
+        future service on board any other vessel owned or operated by 
+        that owner or operator, any riding gang member--
+                    ``(A) who has been convicted in any jurisdiction of 
+                an offense described in paragraph (2) or (3) of section 
+                7703;
+                    ``(B) whose license, certificate of registry, or 
+                merchant mariner's document has been suspended or 
+                revoked under section 7704; or
+                    ``(C) who otherwise constitutes a threat to the 
+                safety of the vessel;
+            ``(6) ensure and certify to the Secretary that the sum of--
+                    ``(A) the number of riding gang members on board a 
+                freight vessel, and
+                    ``(B) the number of individuals in addition to crew 
+                permitted under section 3304,
+        does not exceed 12;
+            ``(7) ensure that every riding gang member is employed on 
+        board the vessel under conditions that meet or exceed the 
+        minimum international standards of all applicable international 
+        labor conventions to which the United States is a party, 
+        including all of the merchant seamen protection and relief 
+        provided under United States law; and
+            ``(8) ensure that each riding gang member--
+                    ``(A) is supervised by an individual who holds a 
+                license issued under chapter 71; and
+                    ``(B) only performs work in conjunction with 
+                individuals who hold merchant mariners documents issued 
+                under chapter 73 and who are part of the vessel's crew.
+
+    ``(b) Permitted Work.--Subject to subsection (f), a riding gang 
+member on board a vessel to which subsection (a) applies who is neither 
+a United States citizen nor an alien lawfully admitted
+
+[[Page 120 STAT. 532]]
+
+to the United States for permanent residence may not perform any work on 
+board the vessel other than--
+            ``(1) work in preparation of a vessel entering a shipyard 
+        located outside of the United States;
+            ``(2) completion of the residual repairs after departing a 
+        shipyard located outside of the United States; or
+            ``(3) technical in-voyage repairs, in excess of any repairs 
+        that can be performed by the vessel's crew, in order to advance 
+        the vessel's useful life without having to actually enter a 
+        shipyard.
+
+    ``(c) Workday Limit.--
+            ``(1) In general.--The maximum number of days in any 
+        calendar year that the owner or operator of a vessel to which 
+        subsection (a) applies may employ on board riding gang members 
+        who are neither United States citizens nor aliens lawfully 
+        admitted to the United States for permanent residence for work 
+        on board that vessel is 60 days. If the vessel is at sea on the 
+        60th day, each riding gang member shall be discharged from the 
+        vessel at the next port of call reached by the vessel after the 
+        date on which the 60-workday limit is reached.
+            ``(2) Calculation.--For the purpose of calculating the 60-
+        workday limit under this subsection, each day worked by a riding 
+        gang member who is neither a United States citizen nor an alien 
+        lawfully admitted to the United States for permanent residence 
+        shall be counted against the limitation.
+
+    ``(d) Exceptions for Warranty Work.--
+            ``(1) In general.--Subsections (b), (c), (e), and (f) do not 
+        apply to a riding gang member employed exclusively to perform, 
+        and who performs only, work that is--
+                    ``(A) customarily performed by original equipment 
+                manufacturers' technical representatives;
+                    ``(B) required by a manufacturer's warranty on 
+                specific machinery and equipment; or
+                    ``(C) required by a contractual guarantee or 
+                warranty on actual repairs performed in a shipyard 
+                located outside of the United States.
+            ``(2) Citizenship requirement.--
+        Subsection <<NOTE: Applicability.>> (a)(1)(A) applies only to a 
+        riding gang member described in paragraph (1) who is on the 
+        vessel when it calls at a United States port.
+
+    ``(e) Recordkeeping.--In addition to the requirements of subsection 
+(a), the owner or managing operator of a vessel to which subsection (a) 
+applies shall ensure that all information necessary to ensure compliance 
+with this section, as determined by the Secretary, is entered into the 
+vessel's official logbook required by chapter 113.
+    ``(f) Failure to Employ Qualified Available U.S. Citizens or 
+Residents.--
+            ``(1) In general.--The owner or operator of a vessel to 
+        which subsection (a) applies may not employ a riding gang member 
+        who is neither a United States citizen nor an alien lawfully 
+        admitted to the United States for permanent residence to perform 
+        work described in subsection (b) unless the owner or operator 
+        determines, in accordance with procedures established by the 
+        Secretary to carry out section 8103(b)(3)(C), that there is not 
+        a sufficient number of United States citizens or
+
+[[Page 120 STAT. 533]]
+
+        individuals lawfully admitted to the United States for permanent 
+        residence who are qualified and available for the work for which 
+        the riding gang member is to be employed.
+            ``(2) Civil penalty.--A violation of paragraph (1) is 
+        punishable by a civil penalty of not more than $10,000 for each 
+        day during which the violation continues.
+            ``(3) Continuing violations.--The maximum amount of a civil 
+        penalty for a violation under this subsection shall not exceed--
+                    ``(A) $50,000 if the violation occurs in fiscal year 
+                2006;
+                    ``(B) $75,000 if the violation occurs in fiscal year 
+                2007; and
+                    ``(C) $100,000 if the violation occurs after fiscal 
+                year 2007.
+            ``(4) Determination of amount.--In determining the amount of 
+        the penalty, the Secretary shall take into account the nature, 
+        circumstances, extent, and gravity of the violation committed 
+        and, with respect to the violator, the degree of culpability, 
+        the history of prior offenses, the ability to pay, and such 
+        other matters as justice may require.
+            ``(5) Compromise, modification, and remittal.--The Secretary 
+        may compromise, modify, or remit, with or without conditions, 
+        any civil penalty imposed under this section.''.
+
+    (b) Riding Gang Member Defined.--Section 2101 of such title is 
+amended by inserting after paragraph (26) the following:
+            ``(26a) `riding gang member' means an individual who--
+                    ``(A) has not been issued a merchant mariner 
+                document under chapter 73;
+                    ``(B) does not perform--
+                          ``(i) watchstanding, automated engine room 
+                      duty watch, or personnel safety functions; or
+                          ``(ii) cargo handling functions, including any 
+                      activity relating to the loading or unloading of 
+                      cargo, the operation of cargo-related equipment 
+                      (whether or not integral to the vessel), and the 
+                      handling of mooring lines on the dock when the 
+                      vessel is made fast or let go;
+                    ``(C) does not serve as part of the crew complement 
+                required under section 8101;
+                    ``(D) is not a member of the steward's department; 
+                and
+                    ``(E) is not a citizen or temporary or permanent 
+                resident of a country designated by the United States as 
+                a sponsor of terrorism or any other country that the 
+                Secretary, in consultation with the Secretary of State 
+                and the heads of other appropriate United States 
+                agencies, determines to be a security threat to the 
+                United States.''.
+
+    (c) Conforming Amendments.--
+            (1) Citizenship requirement.--Section 8103 of such title is 
+        amended by adding at the end the following:
+
+    ``(j) Riding Gang Member.--This section does not apply to an 
+individual who is a riding gang member.''.
+            (2) Application of chapter 103.--Section 10301(b) of such 
+        title is amended by striking ``voyage.'' and inserting ``voyage 
+        or to riding gang members.''.
+
+[[Page 120 STAT. 534]]
+
+    (d) Clerical Amendment.--The analysis for chapter 81 of such title 
+is amended by adding at the end the following:
+
+``8106. Riding gangs''.
+
+                         TITLE IV--MISCELLANEOUS
+
+SEC. 401. AUTHORIZATION OF JUNIOR RESERVE OFFICERS TRAINING PROGRAM 
+            PILOT PROGRAM.
+
+    (a) In General.--The Secretary of the department in which the Coast 
+Guard is operating may carry out a pilot program to establish and 
+maintain a junior reserve officers training program in cooperation with 
+the Camden County High School in Camden County, North Carolina.
+    (b) Program Requirements.--The pilot program carried out by the 
+Secretary under this section shall provide to students at Camden County 
+High School--
+            (1) instruction in subject areas relating to operations of 
+        the Coast Guard; and
+            (2) training in skills which are useful and appropriate for 
+        a career in the Coast Guard.
+
+    (c) Provision of Additional Support.--To carry out the pilot program 
+under this section, the Secretary may provide to Camden County High 
+School--
+            (1) assistance in course development, instruction, and other 
+        support activities; and
+            (2) necessary and appropriate course materials, equipment, 
+        and uniforms.
+
+    (d) Employment of Retired Coast Guard Personnel.--
+            (1) In general.--Subject to paragraph (2) of this 
+        subsection, the Secretary may authorize the Camden County High 
+        School to employ, as administrators and instructors for the 
+        pilot program, retired Coast Guard and Coast Guard Reserve 
+        commissioned, warrant, and petty officers not on active duty who 
+        request that employment and who are approved by the Secretary 
+        and Camden County High School.
+            (2) Authorized pay.--
+                    (A) In general.--Retired members employed under 
+                paragraph (1) of this subsection are entitled to receive 
+                their retired or retainer pay and an additional amount 
+                of not more than the difference between--
+                          (i) the amount the individual would be paid as 
+                      pay and allowance if the individual was considered 
+                      to have been ordered to active duty during the 
+                      period of employment; and
+                          (ii) the amount of retired pay the individual 
+                      is entitled to receive during that period.
+                    (B) Payment to school.--The Secretary shall pay to 
+                Camden County High School an amount equal to one half of 
+                the amount described in subparagraph (A), from funds 
+                appropriated for such purpose.
+                    (C) Not duty or duty training.--Notwithstanding any 
+                other law, while employed under this subsection, an 
+                individual is not considered to be on active-duty or 
+                inactive-duty training.
+
+[[Page 120 STAT. 535]]
+
+SEC. 402. TRANSFER.
+
+    Section 602 of the Coast Guard and Maritime Transportation Act of 
+2004 (118 Stat. 1050) is amended--
+            (1) in subsection (b)(2) by striking ``to be conveyed'' and 
+        all that follows through the period and inserting ``to be 
+        conveyed to CAS Foundation, Inc. (a nonprofit corporation under 
+        the laws of the State of Indiana).''; and
+            (2) in subsection (c)(1)(A) by inserting ``or, in the case 
+        of the vessel described in subsection (b)(2) only, for 
+        humanitarian purposes'' before the semicolon at the end.
+
+SEC. 403. LORAN-C.
+
+    There are authorized to be appropriated to the Department of 
+Transportation, in addition to funds authorized for the Coast Guard for 
+operation of the LORAN-C system, for capital expenses related to LORAN-C 
+navigation infrastructure, $25,000,000 for fiscal year 2006 and 
+$25,000,000 for fiscal year 2007. The Secretary of Transportation may 
+transfer from the Federal Aviation Administration and other agencies of 
+the Department funds appropriated as authorized under this section in 
+order to reimburse the Coast Guard for related expenses.
+
+SEC. 404. <<NOTE: 46 USC 70115 note.>> LONG-RANGE VESSEL TRACKING 
+            SYSTEM.
+
+    (a) Pilot Project.--The Secretary of the department in which the 
+Coast Guard is operating, acting through the Commandant of the Coast 
+Guard, shall conduct a 3-year pilot program for long-range tracking of 
+up to 2,000 vessels using satellite systems with a nonprofit maritime 
+organization that has a demonstrated capability of operating a variety 
+of satellite communications systems providing data to vessel tracking 
+software and hardware that provides long-range vessel information to the 
+Coast Guard to aid maritime security and response to maritime 
+emergencies.
+    (b) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Secretary $4,000,000 for each of fiscal years 2006, 
+2007, and 2008 to carry out subsection (a).
+
+SEC. 405. <<NOTE: 14 USC 93 note.>> MARINE VESSEL AND COLD WATER SAFETY 
+            EDUCATION.
+
+    The Coast Guard shall continue cooperative agreements and 
+partnerships with organizations in effect on the date of enactment of 
+this Act that provide marine vessel safety training and cold water 
+immersion education and outreach programs for fishermen and children.
+
+SEC. 406. REPORTS.
+
+    (a) Adequacy of Assets.--
+            (1) Review.--The Commandant of the Coast Guard shall review 
+        the adequacy of assets and facilities described in subsection 
+        (b) to carry out the Coast Guard's missions, including search 
+        and rescue, illegal drug and migrant interdiction, aids to 
+        navigation, ports, waterways and coastal security, marine 
+        environmental protection, and fisheries law enforcement.
+            (2) Report.--Not later than 180 days after the date of 
+        enactment of this Act, the Commandant shall submit to the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        and the Committee on Transportation and Infrastructure of the 
+        House of Representatives a report that includes the findings of 
+        the review and any recommendations to enhance
+
+[[Page 120 STAT. 536]]
+
+        mission capabilities in those areas referred to in paragraph 
+        (1).
+
+    (b) Areas of Review.--The report under subsection (a) shall provide 
+information and recommendations on the following assets:
+            (1) Coast Guard vessels and aircraft stationed in the 
+        Commonwealth of Puerto Rico.
+            (2) Coast Guard vessels and aircraft stationed in the State 
+        of Louisiana along the Lower Mississippi River between the Port 
+        of New Orleans and the Red River.
+            (3) Coast Guard vessels and aircraft stationed in Coast 
+        Guard Sector Delaware Bay.
+            (4) Physical infrastructure at Boat Station Cape May in the 
+        State of New Jersey.
+
+    (c) Adequacy of Active-Duty Strength.--
+            (1) Review.--The Commandant of the Coast Guard shall review 
+        the adequacy of the strength of active-duty personnel authorized 
+        under section 102(a) of this Act to carry out the Coast Guard's 
+        missions, including search and rescue, illegal drug and migrant 
+        interdiction, aids to navigation, ports, waterways, and coastal 
+        security, marine environmental protection, and fisheries law 
+        enforcement.
+            (2) Report.--Not later than 180 days after the date of 
+        enactment of this Act, the Commandant shall submit to the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        and the Committee on Transportation and Infrastructure of the 
+        House of Representatives a report that includes the findings of 
+        the review.
+
+SEC. 407. CONVEYANCE OF DECOMMISSIONED COAST GUARD CUTTER MACKINAW.
+
+    (a) In General.--Upon <<NOTE: Icebreaker Mackinaw Maritime Museum, 
+Inc.>> the scheduled decommissioning of the Coast Guard Cutter MACKINAW, 
+the Commandant of the Coast Guard shall convey without consideration all 
+right, title, and interest of the United States in and to that vessel to 
+the Icebreaker Mackinaw Maritime Museum, Inc., located in the State of 
+Michigan if--
+            (1) the recipient agrees--
+                    (A) to use the vessel for purposes of a museum;
+                    (B) not to use the vessel for commercial 
+                transportation purposes;
+                    (C) to make the vessel available to the United 
+                States Government if needed for use by the Commandant in 
+                time of war or a national emergency; and
+                    (D) to hold the Government harmless for any claims 
+                arising from exposure to hazardous materials, including 
+                asbestos and polychlorinated biphenyls (PCBs), after 
+                conveyance of the vessel, except for claims arising from 
+                the use by the Government under subparagraph (C);
+            (2) the recipient has funds available that will be committed 
+        to operate and maintain the vessel conveyed in good working 
+        condition, in the form of cash, liquid assets, or a written loan 
+        commitment, and in an amount of at least $700,000; and
+            (3) the recipient agrees to any other conditions the 
+        Commandant considers appropriate.
+
+    (b) Maintenance and Delivery of Vessel.--
+
+[[Page 120 STAT. 537]]
+
+            (1) Maintenance.--Before conveyance of the vessel under this 
+        section, the Commandant shall make, to the extent practical and 
+        subject to other Coast Guard mission requirements, every effort 
+        to maintain the integrity of the vessel and its equipment until 
+        the time of delivery.
+            (2) Delivery.--If a conveyance is made under this section, 
+        the Commandant shall deliver the vessel to a suitable mooring in 
+        the local area, in its present condition, no sooner than June 
+        15, 2006, and not later than 30 days after the date on which the 
+        vessel is decommissioned.
+            (3) Treatment of conveyance.--The conveyance of the vessel 
+        under this section shall not be considered a distribution in 
+        commerce for purposes of section 6(e) of Public Law 94-469 (15 
+        U.S.C. 2605(e)).
+
+    (c) Other Excess Equipment.--The Commandant may convey to the 
+recipient any excess equipment or parts from other decommissioned Coast 
+Guard vessels for use to enhance the vessel's operability and function 
+for purposes of a museum.
+
+SEC. 408. <<NOTE: 14 USC 663 note.>> DEEPWATER REPORTS.
+
+    (a) Annual Deepwater Implementation Report.--Not later than 30 days 
+after the date of enactment of this Act and in conjunction with the 
+transmittal by the President of the budget of the United States for each 
+fiscal year thereafter, the Secretary of the department in which the 
+Coast Guard is operating shall submit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on 
+Transportation and Infrastructure of the House of Representatives a 
+report on the implementation of the Integrated Deepwater Systems 
+Program, as revised in 2005 (in this section referred to as the 
+``Deepwater program''), that includes--
+            (1) a justification for how the projected number and 
+        capabilities of each Deepwater program asset meets the revised 
+        mission needs statement delivered as part of the Deepwater 
+        program and the performance goals of the Coast Guard;
+            (2) a projection of the remaining operational lifespan of 
+        each legacy asset;
+            (3) an identification of any changes to the Deepwater 
+        program, including--
+                    (A) any changes to the timeline for the acquisition 
+                of each new asset and the phase out of legacy assets for 
+                the life of the Deepwater program; and
+                    (B) any changes to the costs for that fiscal year or 
+                future fiscal years or the total costs of the Deepwater 
+                program, including the costs of new and legacy assets;
+            (4) a justification for how any change to the Deepwater 
+        program fulfills the mission needs statement for the Deepwater 
+        program and performance goals of the Coast Guard;
+            (5) an identification of how funds in that fiscal year's 
+        budget request will be allocated, including information on the 
+        purchase of specific assets;
+            (6) a detailed explanation of how the costs of the legacy 
+        assets are being accounted for within the Deepwater program;
+            (7) a description of how the Coast Guard is planning for the 
+        integration of Deepwater program assets into the Coast Guard, 
+        including needs related to shore-based infrastructure and human 
+        resources; and
+
+[[Page 120 STAT. 538]]
+
+            (8) a description of the competitive process conducted in 
+        all contracts and subcontracts exceeding $2,500,000 awarded 
+        under the Deepwater program.
+
+    (b) Deepwater Acceleration Report.--Not later than 30 days after the 
+date of enactment of this Act, the Secretary shall submit to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives a report on the acceleration of the current Deepwater 
+program acquisition timeline that reflects completion of the Deepwater 
+program in each of 10 years and 15 years and includes--
+            (1) a detailed explanation of the number and type of each 
+        asset that would be procured for each fiscal year under each 
+        accelerated acquisition timeline;
+            (2) the required funding for such completion under each 
+        accelerated acquisition timeline;
+            (3) anticipated costs associated with legacy asset 
+        sustainment for the Deepwater program under each accelerated 
+        acquisition timeline;
+            (4) anticipated mission deficiencies, if any, associated 
+        with the continued degradation of legacy assets in combination 
+        with the procurement of new assets under each accelerated 
+        acquisition timeline; and
+            (5) an evaluation of the overall feasibility of achieving 
+        each accelerated acquisition timeline, including--
+                    (A) contractor capacity;
+                    (B) national shipbuilding capacity;
+                    (C) asset integration into Coast Guard facilities;
+                    (D) required personnel; and
+                    (E) training infrastructure capacity on technology 
+                associated with new assets.
+
+    (c) Oversight Report.--Not later than 90 days after the date of 
+enactment of this Act, the Commandant of the Coast Guard, in 
+consultation with the Government Accountability Office, shall submit to 
+the Committee on Commerce, Science, and Transportation of the Senate and 
+the Committee on Transportation and Infrastructure of the House of 
+Representatives a report on the status of the Coast Guard's 
+implementation of the Government Accountability Office's recommendations 
+in its report, GAO-04-380, entitled ``Coast Guard Deepwater Program 
+Needs Increased Attention to Management and Contractor Oversight'', 
+including the dates by which the Coast Guard plans to complete 
+implementation of such recommendations if any of such recommendations 
+remain open as of the date the report is transmitted to the Committees.
+    (d) Independent Analysis of Revised Deepwater Plan.--The Secretary 
+may periodically, either through an internal review process or a 
+contract with an outside entity, conduct an analysis of all or part of 
+the Deepwater program and assess whether--
+            (1) the choice of assets and capabilities selected as part 
+        of that program meets the Coast Guard's goals for performance 
+        and minimizing total ownership costs; or
+            (2) additional or different assets should be considered as 
+        part of that program.
+
+SEC. 409. HELICOPTERS.
+
+    (a) Study.--The Secretary of the department in which the Coast Guard 
+is operating shall conduct a study that analyses the
+
+[[Page 120 STAT. 539]]
+
+potential impact on Coast Guard acquisitions of requiring that the Coast 
+Guard acquire only helicopters, or any major component of a helicopter, 
+that are constructed in the United States.
+    (b) Study Elements.--The study shall include--
+            (1) identification of additional costs or added benefits 
+        that would result from the additional restrictions described in 
+        subsection (a) on acquisitions from nondomestic sources, 
+        including major components or subsystems;
+            (2) industrial impact on the United States of such 
+        additional restrictions on acquisitions from nondomestic 
+        sources;
+            (3) the contractual impact of such additional restrictions 
+        on the Integrated Deepwater Systems Program and its platform 
+        elements, including delivery interruptions in the program and 
+        the subsequent mission impact of these delays; and
+            (4) identification of reasonable executive authorities to 
+        waive such additional restrictions that the Secretary considers 
+        essential in order to ensure continued mission performance of 
+        the United States Coast Guard.
+
+    (c) Report.--Not later than one year after the date of enactment of 
+this Act, the Secretary shall submit a report on the results of the 
+study and any recommendations of the Secretary regarding such results to 
+the Committee on Commerce, Science, and Transportation of the Senate and 
+the Committee on Transportation and Infrastructure of the House of 
+Representatives.
+
+SEC. 410. NEWTOWN CREEK, NEW YORK CITY, NEW YORK.
+
+    (a) Study.--Of the amounts provided under section 1012 of the Oil 
+Pollution Act of 1990 (33 U.S.C. 2712), the Administrator of the 
+Environmental Protection Agency shall conduct a study of public health 
+and safety concerns related to the pollution of Newtown Creek, New York 
+City, New York, caused by seepage of oil into Newtown Creek from 
+17,000,000 gallons of underground oil spills in Greenpoint, Brooklyn, 
+New York.
+    (b) Report.--Not later than one year after the date of enactment of 
+this Act, the Administrator shall submit a report containing the results 
+of the study to the Committee on Environment and Public Works and the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives.
+
+SEC. 411. REPORT ON TECHNOLOGY.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Commandant of the Coast Guard shall submit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on 
+Transportation and Infrastructure of the House of Representatives a 
+report that includes an assessment of--
+            (1) the availability and effectiveness of software 
+        information technology systems for port security and the data 
+        evaluated, including data that has the ability to identify 
+        shippers, inbound vessels, and their cargo for potential threats 
+        to national security before it reaches United States ports, 
+        specifically the software already tested or being tested at 
+        Joint Harbor Operations Centers; and
+            (2) the costs associated with implementing such technology 
+        at all Sector Command Centers, Joint Harbor Operations Centers, 
+        and strategic defense and energy dependent ports.
+
+[[Page 120 STAT. 540]]
+
+SEC. 412. ASSESSMENT AND PLANNING.
+
+    There is authorized to be appropriated to the Maritime 
+Administration $400,000 to carry out an assessment of, and planning for, 
+the impact of an Arctic Sea Route on the indigenous people of Alaska.
+
+SEC. 413. HOMEPORT.
+
+    (a) Study.--The Commandant of the Coast Guard shall conduct a study 
+to assess the current homeport arrangement of the Coast Guard polar 
+icebreaker HEALY to determine whether an alternative arrangement would 
+enhance the Coast Guard's capabilities to carry out the recommendation 
+to maintain dedicated, year-round icebreaker capability for the Arctic 
+that was included in the report prepared by the National Academy of 
+Sciences and entitled: ``Polar Icebreaker Roles and U.S. Future Needs: A 
+Preliminary Assessment (ISBN: 0-309-10069-0)''.
+    (b) Report.--Not later than one year after the date of enactment of 
+this Act, the Commandant shall report the findings of the study to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives.
+
+SEC. 414. NAVIGATIONAL SAFETY OF CERTAIN FACILITIES.
+
+    (a) Consideration of Alternatives.--In <<NOTE: Deadline.>> reviewing 
+a lease, easement, or right-of-way for an offshore wind energy facility 
+in Nantucket Sound under section 8(p) of the Outer Continental Shelf 
+Lands Act (43 U.S.C. 1337(p)), not later than 60 days before the date 
+established by the Secretary of the Interior for publication of a draft 
+environmental impact statement, the Commandant of the Coast Guard shall 
+specify the reasonable terms and conditions the Commandant determines to 
+be necessary to provide for navigational safety with respect to the 
+proposed lease, easement, or right-of-way and each alternative to the 
+proposed lease, easement, or right-of-way considered by the Secretary.
+
+    (b) Inclusion of Necessary Terms and Conditions.--In granting a 
+lease, easement, or right-of-way for an offshore wind energy facility in 
+Nantucket Sound under section 8(p) of the Outer Continental Shelf Lands 
+Act (43 U.S.C. 1337(p)), the Secretary shall incorporate in the lease, 
+easement, or right-of-way reasonable terms and conditions the Commandant 
+determines to be necessary to provide for navigational safety.
+
+SEC. 415. <<NOTE: Pennsylvania.>> PORT RICHMOND.
+
+    The Secretary of the department in which the Coast Guard is 
+operating, acting through the Commandant of the Coast Guard, may not 
+approve a security plan under section 70103(c) of title 46, United 
+States Code, for a liquefied natural gas import facility at Port 
+Richmond in Philadelphia, Pennsylvania, until the Secretary conducts a 
+vulnerability assessment under section 70102(b) of such title.
+
+SEC. 416. WESTERN ALASKA COMMUNITY DEVELOPMENT QUOTA PROGRAM.
+
+    (a) Restatement of Existing Program Incorporating Certain Provisions 
+of Regulations.--Section 305(i) of the Magnuson-Stevens Fishery 
+Conservation and Management Act (16 U.S.C. 1855(i)) is amended by 
+striking paragraph (1) and inserting the following:
+
+[[Page 120 STAT. 541]]
+
+            ``(1) Western alaska community development quota program.--
+                    ``(A) In general.--There is established the western 
+                Alaska community development quota program in order--
+                          ``(i) to provide eligible western Alaska 
+                      villages with the opportunity to participate and 
+                      invest in fisheries in the Bering Sea and Aleutian 
+                      Islands Management Area;
+                          ``(ii) to support economic development in 
+                      western Alaska;
+                          ``(iii) to alleviate poverty and provide 
+                      economic and social benefits for residents of 
+                      western Alaska; and
+                          ``(iv) to achieve sustainable and diversified 
+                      local economies in western Alaska.
+                    ``(B) Program allocation.--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), the annual percentage of the total 
+                      allowable catch, guideline harvest level, or other 
+                      annual catch limit allocated to the program in 
+                      each directed fishery of the Bering Sea and 
+                      Aleutian Islands shall be the percentage approved 
+                      by the Secretary, or established by Federal law, 
+                      as of March 1, 2006, for the program. The 
+                      percentage for each fishery shall be either a 
+                      directed fishing allowance or include both 
+                      directed fishing and nontarget needs based on 
+                      existing practice with respect to the program as 
+                      of March 1, 2006, for each fishery.
+                          ``(ii) Exceptions.--Notwithstanding clause 
+                      (i)--
+                                    ``(I) the allocation under the 
+                                program for each directed fishery of the 
+                                Bering Sea and Aleutian Islands (other 
+                                than a fishery for halibut, sablefish, 
+                                pollock, and crab) shall be a directed 
+                                fishing allocation of 10 percent upon 
+                                the establishment of a quota program, 
+                                fishing cooperative, sector allocation, 
+                                or other rationalization program in any 
+                                sector of the fishery; and
+                                    ``(II) the allocation under the 
+                                program in any directed fishery of the 
+                                Bering Sea and Aleutian Islands (other 
+                                than a fishery for halibut, sablefish, 
+                                pollock, and crab) established after the 
+                                date of enactment of this subclause 
+                                shall be a directed fishing allocation 
+                                of 10 percent.
+                          ``(iii) Processing and other rights.--
+                      Allocations to the program include all processing 
+                      rights and any other rights and privileges 
+                      associated with such allocations as of March 1, 
+                      2006.
+                          ``(iv) Regulation of harvest.--The harvest of 
+                      allocations under the program for fisheries with 
+                      individual quotas or fishing cooperatives shall be 
+                      regulated by the Secretary in a manner no more 
+                      restrictive than for other participants in the 
+                      applicable sector, including with respect to the 
+                      harvest of nontarget species.
+                    ``(C) Allocations to entities.--Each entity eligible 
+                to participate in the program shall be authorized under 
+                the program to harvest annually the same percentage of 
+                each species allocated to the program under subparagraph 
+                (B) that it was authorized by the Secretary to harvest
+
+[[Page 120 STAT. 542]]
+
+                of such species annually as of March 1, 2006, except to 
+                the extent that its allocation is adjusted under 
+                subparagraph (H). Such allocation shall include all 
+                processing rights and any other rights and privileges 
+                associated with such allocations as of March 1, 2006.
+                    ``(D) Eligible villages.--The following villages 
+                shall be eligible to participate in the program through 
+                the following entities:
+                          ``(i) The villages of Akutan, Atka, False 
+                      Pass, Nelson Lagoon, Nikolski, and Saint George 
+                      through the Aleutian Pribilof Island Community 
+                      Development Association.
+                          ``(ii) The villages of Aleknagik, Clark's 
+                      Point, Dillingham, Egegik, Ekuk, Ekwok, King 
+                      Salmon/Savonoski, Levelock, Manokotak, Naknek, 
+                      Pilot Point, Port Heiden, Portage Creek, South 
+                      Naknek, Togiak, Twin Hills, and Ugashik through 
+                      the Bristol Bay Economic Development Corporation.
+                          ``(iii) The village of Saint Paul through the 
+                      Central Bering Sea Fishermen's Association.
+                          ``(iv) The villages of Chefornak, Chevak, Eek, 
+                      Goodnews Bay, Hooper Bay, Kipnuk, Kongiganak, 
+                      Kwigillingok, Mekoryuk, Napakiak, Napaskiak, 
+                      Newtok, Nightmute, Oscarville, Platinum, 
+                      Quinhagak, Scammon Bay, Toksook Bay, Tuntutuliak, 
+                      and Tununak through the Coastal Villages Region 
+                      Fund.
+                          ``(v) The villages of Brevig Mission, Diomede, 
+                      Elim, Gambell, Golovin, Koyuk, Nome, Saint 
+                      Michael, Savoonga, Shaktoolik, Stebbins, Teller, 
+                      Unalakleet, Wales, and White Mountain through the 
+                      Norton Sound Economic Development Corporation.
+                          ``(vi) The villages of Alakanuk, Emmonak, 
+                      Grayling, Kotlik, Mountain Village, and Nunam Iqua 
+                      through the Yukon Delta Fisheries Development 
+                      Association.
+                    ``(E) Eligibility requirements for participating 
+                entities.--To be eligible to participate in the program, 
+                an entity referred to in subparagraph (D) shall meet the 
+                following requirements:
+                          ``(i) <<NOTE: Establishment.>> Board of 
+                      directors.--The entity shall be governed by a 
+                      board of directors. At least 75 percent of the 
+                      members of the board shall be resident fishermen 
+                      from the entity's member villages. The board shall 
+                      include at least one director selected by each 
+                      such member village.
+                          ``(ii) Panel representative.--The entity shall 
+                      elect a representative to serve on the panel 
+                      established by subparagraph (G).
+                          ``(iii) Other investments.--The entity may 
+                      make up to 20 percent of its annual investments in 
+                      any combination of the following:
+                                    ``(I) For projects that are not 
+                                fishery-related and that are located in 
+                                its region.
+                                    ``(II) On a pooled or joint 
+                                investment basis with one or more other 
+                                entities participating in the program 
+                                for projects that are not fishery-
+
+[[Page 120 STAT. 543]]
+
+                                related and that are located in one or 
+                                more of their regions.
+                                    ``(III) For matching Federal or 
+                                State grants for projects or programs in 
+                                its member villages without regard to 
+                                any limitation on the Federal or State 
+                                share, or restriction on the source of 
+                                any non-Federal or non-State matching 
+                                funds, of any grant program under any 
+                                other provision of law.
+                          ``(iv) Fishery-related investments.--The 
+                      entity shall make the remainder percent of its 
+                      annual investments in fisheries-related projects 
+                      or for other purposes consistent with the 
+                      practices of the entity prior to March 1, 2006.
+                          ``(v) Annual statement of compliance.--Each 
+                      year the entity, following approval by its board 
+                      of directors and signed by its chief executive 
+                      officer, shall submit a written statement to the 
+                      Secretary and the State of Alaska that summarizes 
+                      the purposes for which it made investments under 
+                      clauses (iii) and (iv) during the preceding year.
+                          ``(vi) Other panel requirements.--The entity 
+                      shall comply with any other requirements 
+                      established by the panel under subparagraph (G).
+                    ``(F) Entity status, limitations, and regulation.--
+                The entity--
+                          ``(i) shall be subject to any excessive share 
+                      ownership, harvesting, or processing limitations 
+                      in the fisheries of the Bering Sea and Aleutian 
+                      Islands Management Area only to the extent of the 
+                      entity's proportional ownership, excluding any 
+                      program allocations, and notwithstanding any other 
+                      provision of law;
+                          ``(ii) shall comply with State of Alaska law 
+                      requiring annual reports to the entity's member 
+                      villages summarizing financial operations for the 
+                      previous calendar year, including general and 
+                      administrative costs and compensation levels of 
+                      the top 5 highest paid personnel;
+                          ``(iii) shall comply with State of Alaska laws 
+                      to prevent fraud that are administered by the 
+                      Alaska Division of Banking and Securities, except 
+                      that the entity and the State shall keep 
+                      confidential from public disclosure any 
+                      information if the disclosure would be harmful to 
+                      the entity or its investments; and
+                          ``(iv) is exempt from compliance with any 
+                      State law requiring approval of financial 
+                      transactions, community development plans, or 
+                      amendments thereto, except as required by 
+                      subparagraph (H).
+                    ``(G) Administrative panel.--
+                          ``(i) Establishment.--There is established a 
+                      community development quota program panel.
+                          ``(ii) Membership.--The panel shall consist of 
+                      6 members. Each entity participating in the 
+                      program shall select one member of the panel.
+                          ``(iii) Functions.--The panel shall--
+                                    ``(I) administer those aspects of 
+                                the program not otherwise addressed in 
+                                this paragraph, either through private 
+                                contractual arrangement or
+
+[[Page 120 STAT. 544]]
+
+                                through recommendations to the North 
+                                Pacific Council, the Secretary, or the 
+                                State of Alaska, as the case may be; and
+                                    ``(II) coordinate and facilitate 
+                                activities of the entities under the 
+                                program.
+                          ``(iv) Unanimity required.--The panel may act 
+                      only by unanimous vote of all 6 members of the 
+                      panel and may not act if there is a vacancy in the 
+                      membership of the panel.
+                    ``(H) Decennial review and adjustment of entity 
+                allocations.--
+                          ``(i) In general.--During calendar year 2012 
+                      and every 10 years thereafter, the State of Alaska 
+                      shall evaluate the performance of each entity 
+                      participating in the program based on the criteria 
+                      described in clause (ii).
+                          ``(ii) Criteria.--The panel shall establish a 
+                      system to be applied under this subparagraph that 
+                      allows each entity participating in the program to 
+                      assign relative values to the following criteria 
+                      to reflect the particular needs of its villages:
+                                    ``(I) Changes during the preceding 
+                                10-year period in population, poverty 
+                                level, and economic development in the 
+                                entity's member villages.
+                                    ``(II) The overall financial 
+                                performance of the entity, including 
+                                fishery and nonfishery investments by 
+                                the entity.
+                                    ``(III) Employment, scholarships, 
+                                and training supported by the entity.
+                                    ``(IV) Achieving of the goals of the 
+                                entity's community development plan.
+                          ``(iii) Adjustment of allocations.--After the 
+                      evaluation required by clause (i), the State of 
+                      Alaska shall make a determination, on the record 
+                      and after an opportunity for a hearing, with 
+                      respect to the performance of each entity 
+                      participating in the program for the criteria 
+                      described in clause (ii). If the State determines 
+                      that the entity has maintained or improved its 
+                      overall performance with respect to the criteria, 
+                      the allocation to such entity under the program 
+                      shall be extended by the State for the next 10-
+                      year period. If the State determines that the 
+                      entity has not maintained or improved its overall 
+                      performance with respect to the criteria--
+                                    ``(I) at least 90 percent of the 
+                                entity's allocation for each species 
+                                under subparagraph (C) shall be extended 
+                                by the State for the next 10-year 
+                                period; and
+                                    ``(II) the State may determine, or 
+                                the Secretary may determine (if State 
+                                law prevents the State from making the 
+                                determination), and implement an 
+                                appropriate reduction of up to 10 
+                                percent of the entity's allocation for 
+                                each species under subparagraph (C) for 
+                                all or part of such 10-year period.
+                          ``(iv) Reallocation of reduced amount.--If the 
+                      State or the Secretary reduces an entity's 
+                      allocation
+
+[[Page 120 STAT. 545]]
+
+                      under clause (iii), the reduction shall be 
+                      reallocated among other entities participating in 
+                      the program whose allocations are not reduced 
+                      during the same period in proportion to each such 
+                      entity's allocation of the applicable species 
+                      under subparagraph (C).
+                    ``(I) Secretarial approval not required.--
+                Notwithstanding any other provision of law or regulation 
+                thereunder, the approval by the Secretary of a community 
+                development plan, or an amendment thereof, under the 
+                program is not required.
+                    ``(J) Community development plan defined.--In this 
+                paragraph, the term `community development plan' means a 
+                plan, prepared by an entity referred to in subparagraph 
+                (D), for the program that describes how the entity 
+                intends--
+                          ``(i) to harvest its share of fishery 
+                      resources allocated to the program, or
+                          ``(ii) to use its share of fishery resources 
+                      allocated to the program, and any revenue derived 
+                      from such use, to assist its member villages with 
+                      projects to advance economic development,
+                but does not include a plan that allocates fishery 
+                resources to the program.''.
+
+    (b) <<NOTE: 16 USC 1855 note.>> No Interruption of Existing 
+Allocations.--The amendment made by subsection (a) shall not be 
+construed or implemented in a way that causes any interruption in the 
+allocations of fishery resources to the western Alaska community 
+development quota program or in the opportunity of an entity 
+participating in that program to harvest its share of such allocations.
+
+    (c) Loan Subsidies.--The last proviso under the heading ``National 
+Oceanic and Atmospheric Administration--operations, research, and 
+facilities'' in the Science, State, Justice, Commerce, and Related 
+Agencies Appropriations Act, 2006 (Public Law 109-108; 119 Stat. 2311-
+2312) is amended--
+            (1) by striking ``for the cost of loans'' and inserting ``to 
+        subsidize gross obligations for the principal amount of direct 
+        loans, not to exceed a total of $200,000,000,''; and
+            (2) by striking ``use'' and inserting ``the purchase of all 
+        or part of ownership interests in fishing or processing vessels, 
+        shoreside fish processing facilities, permits, quota, and 
+        cooperative rights''.
+
+SEC. 417. QUOTA SHARE ALLOCATION.
+
+    (a) In General.-- The Secretary of Commerce shall modify the 
+Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering 
+Sea and Aleutian Islands being implemented under section 313(j) of the 
+Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 
+1862(j)) to require that Blue Dutch, LLC, receives processor quota 
+shares units equal to 0.75 percent of the total number of processor 
+quota share units for each of the following fisheries: the Bristol Bay 
+red king crab fishery and the Bering Sea C. opilio crab fishery.
+    (b) Applicability.--The modification made under subsection (a) shall 
+apply with respect to each fishery referred to in subsection (a) 
+whenever the total allowable catch for that fishery is more than 2 
+percent higher than the most recent total allowable catch in effect for 
+that fishery prior to September 15, 2005.
+
+[[Page 120 STAT. 546]]
+
+    (c) Savings Provision.--Nothing in this section affects the 
+authority of the North Pacific Fishery Management Council to submit, and 
+the Secretary of Commerce to implement, changes to or repeal of 
+conservation and management measures under section 313(j)(3)) of the 
+Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 
+1862(j)(3)).
+    (d) Regulations.--Not <<NOTE: Deadline.>> later than 60 days after 
+the date of enactment of this Act, the Secretary of Commerce shall issue 
+regulations to implement this section.
+
+SEC. 418. MAINE FISH TENDER VESSELS.
+
+    The prohibition under section 27 of the Merchant Marine Act, 1920 
+(46 App. U.S.C. 883) against transportation of fish or shellfish between 
+places in the State of Maine by a vessel constructed in Canada shall not 
+apply to a vessel of less than 5 net tons if--
+            (1) the vessel was engaged in the transportation of fish or 
+        shellfish between places in the State of Maine before January 1, 
+        2005;
+            (2) before January 1, 2005, the owner of the vessel 
+        transported fish or shellfish pursuant to a valid wholesale 
+        seafood license issued under section 6851 of title 12 of the 
+        Maine Revised Statutes;
+            (3) the vessel is owned by a person that meets the 
+        citizenship requirements of section 2 of the Shipping Act, 1916 
+        (46 U.S.C. App. 802); and
+            (4) <<NOTE: Deadline.>> not later than 180 days after the 
+        date of enactment of this Act, the owner of the vessel submits 
+        to the Secretary of the department in which the Coast Guard is 
+        operating an affidavit certifying that the vessel and owner meet 
+        the requirements of this section.
+
+SEC. 419. <<NOTE: Deadlines. Grants.>> AUTOMATIC IDENTIFICATION SYSTEM.
+
+    (a) Prevention of Harmful Interference.--Not later than 60 days 
+after the date of enactment of this Act, the Secretary of the department 
+in which the Coast Guard is operating, acting through the Commandant of 
+the Coast Guard, may transfer $1,000,000 to the National 
+Telecommunications and Information Administration of the Department of 
+Commerce for the purposes of awarding, not later than 120 days after 
+such date of enactment, a competitive grant to design and develop a 
+prototype device that integrates a Class B Automatic Identification 
+System transponder (International Electrotechnical Commission standard 
+62287) with a wireless maritime data device approved by the Federal 
+Communications Commission with channel throughput greater than 19.2 
+kilobits per second to enable such wireless maritime data device to 
+provide wireless maritime data services, concurrent with the operation 
+of the transponder, on frequency channels adjacent to the frequency 
+channels on which the transponder operates, while minimizing or 
+eliminating the harmful interference between the transponder and such 
+wireless maritime data device. The design of the device developed under 
+this subsection shall be available for public use.
+
+    (b) Implementation of AIS.--It is the sense of the Senate, not later 
+than 60 days after the date of enactment of this Act, that the Federal 
+Communications Commission should resolve the disposition of its 
+rulemaking on the Automatic Information System and licensee use of 
+frequency bands 157.1875-157.4375 MHz and 161.7875-162.0375 MHz (RM-
+10821, WT Docket Number 04-344).
+
+[[Page 120 STAT. 547]]
+
+The implementation of this section shall not delay the implementation of 
+an Automatic Identification System as required by section 70114 of title 
+46, United States Code, and international convention.
+
+SEC. 420. VOYAGE DATA RECORDER STUDY AND REPORT.
+
+    (a) Study.--The Secretary of the department in which the Coast Guard 
+is operating shall study--
+            (1) the carriage of a voyage data recorder by a passenger 
+        vessel described in section 2101(22)(D) of title 46, United 
+        States Code, carrying more than 399 passengers; and
+            (2) standards for voyage data recorders, methods for 
+        approval of models of voyage data recorders, and procedures for 
+        annual performance testing of voyage data recorders.
+
+    (b) Consultation.--In conducting the study, the Secretary shall 
+consult, at a minimum, with manufacturers of voyage data recorders and 
+operators of potentially affected passenger vessels.
+    (c) Report.--Not later than one year after the date of enactment of 
+this Act, the Secretary shall submit to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on 
+Transportation and Infrastructure of the House of Representatives a 
+report on the study's findings, including a proposal for legislation if 
+such a proposal is considered appropriate by the Secretary.
+
+SEC. 421. DISTANT WATER TUNA FLEET.
+
+    (a) Manning Requirements.--Notwithstanding section 8103(a) of title 
+46, United States Code, United States purse seine fishing vessels 
+fishing exclusively for highly migratory species in the treaty area 
+under a fishing license issued pursuant to the 1987 Treaty on Fisheries 
+Between the Governments of Certain Pacific Islands States and the 
+Government of the United States of America, or transiting to or from the 
+treaty area exclusively for such purpose, may engage foreign citizens to 
+meet the manning requirement (except for the master) in the 48-month 
+period beginning on the date of enactment of this Act if, after timely 
+notice of a vacancy to meet the manning requirement, no United States 
+citizen personnel are readily available to fill such vacancy.
+    (b) Licensing Restrictions.--
+            (1) In general.--Subsection (a)(1) only applies to a foreign 
+        citizen that holds a valid license or certificate issued--
+                    (A) in accordance with the standards established by 
+                the 1995 amendments to the Convention on Standards of 
+                Training, Certification and Watchkeeping for Seafarers, 
+                1978 (STCW 95); and
+                    (B) by an authority that the Secretary of the 
+                department in which the Coast Guard is operating 
+                recognizes as imposing competency and training standards 
+                equivalent to or exceeding those required for a United 
+                States license issued under chapter 71 of title 46, 
+                United States Code.
+            (2) Treatment of equivalent license.--An equivalent license 
+        or certificate as recognized by the Secretary under paragraph 
+        (1) shall be considered as meeting the requirements of section 
+        8304 of title 46, United States Code, but only while a person 
+        holding the license or certificate is in the service of a vessel 
+        to which this section applies.
+
+    (c) Limitation.--Subsection (a) applies only to vessels operating in 
+and out of American Samoa.
+
+[[Page 120 STAT. 548]]
+
+    (d) Expiration.--This section expires 48 months after the date of 
+enactment of this Act.
+    (e) Reports.--On March 1, 2007, and annually thereafter until the 
+date of expiration of this section, the Coast Guard and the National 
+Marine Fisheries Service shall submit a report to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committees 
+on Transportation and Infrastructure and Resources of the House of 
+Representatives, providing the following information on the United 
+States purse seine fleet referred to in subsection (a):
+            (1) The number and identity of vessels in the fleet using 
+        foreign citizens to meet manning requirements pursuant to this 
+        section and any marine casualties involving such vessel.
+            (2) The number of vessels in the fishery under United States 
+        flag as of January 1 of the year in which the report is 
+        submitted, the percentage ownership or control of such vessels 
+        by non-United States citizens, and the nationality of such 
+        ownership or control.
+            (3) Description of any transfers or sales of United States 
+        flag vessels in the previous calendar year, and the disposition 
+        of such vessel, including whether the vessel was scrapped or 
+        sold, and, if sold, the nationality of the new owner and 
+        location of any fishery to which the vessel will be transferred.
+            (4) Landings of tuna by vessels under flag in the 2 previous 
+        calendar years, including an assessment of landing trends, and a 
+        description of landing percentages and totals--
+                    (A) delivered to American Samoa and any other port 
+                in a State or territory of the United States; and
+                    (B) delivered to ports outside of a State or 
+                territory of the United States, including the identity 
+                of the port.
+            (5) An evaluation of capacity and trends in the purse seine 
+        fleet fishing in the area covered by the South Pacific Regional 
+        Fisheries Treaty, and any transfer of capacity from such fleet 
+        or area to other fisheries, including those governed under the 
+        Western and Central Pacific Fisheries Convention and the Inter-
+        American Tropical Tuna Convention.
+
+                          TITLE V--LIGHTHOUSES
+
+SEC. 501. TRANSFER.
+
+    (a) <<NOTE: Alaska.>> Jurisdictional Transfers.--Administrative 
+jurisdiction over the National Forest System lands in the State of 
+Alaska described in subsection (b) and improvements situated on such 
+lands is transferred without consideration from the Secretary of 
+Agriculture to the Secretary of the department in which the Coast Guard 
+is operating.
+
+    (b) Areas Referred To.--The areas of lands referred to in subsection 
+(a) are the following:
+            (1) Guard island light station.--The area described in the 
+        Guard Island Lighthouse reserve dated January 4, 1901, 
+        comprising approximately 8.0 acres of National Forest uplands.
+            (2) Eldred rock light station.--The area described in the 
+        December 30, 1975, listing of the Eldred Rock Light Station on 
+        the National Register of Historic Places, comprising 
+        approximately 2.4 acres.
+
+[[Page 120 STAT. 549]]
+
+            (3) Mary island light station.--The area described as the 
+        remaining National Forest System uplands in the Mary Island 
+        Lighthouse Reserve dated January 4, 1901, as amended by Public 
+        Land Order 6964, dated April 5, 1993, comprising approximately 
+        1.07 acres.
+            (4) Cape hinchinbrook light station.--The area described in 
+        the survey dated November 1, 1957, prepared for the Coast Guard 
+        for the Cape Hinchinbrook Light Station comprising approximately 
+        57.4 acres.
+
+    (c) Maps.--The Commandant of the Coast Guard, in consultation with 
+the Secretary of Agriculture, shall prepare and maintain maps of the 
+lands transferred by subsection (a), and such maps shall be on file and 
+available for public inspection in the Coast Guard District 17 office in 
+Juneau, Alaska.
+    (d) Effect of Transfer.--The lands transferred to the Secretary of 
+the department in which the Coast Guard is operating by subsection (a)--
+            (1) shall be administered by the Commandant of the Coast 
+        Guard;
+            (2) shall be considered to be transferred from, and no 
+        longer part of, the National Forest System; and
+            (3) shall be considered not suitable for return to the 
+        public domain for disposition under the general public land 
+        laws.
+
+    (e) Transfer of Land.--
+            (1) Requirement.--Subject to paragraph (2), the 
+        Administrator of General Services, upon request by the Secretary 
+        of Agriculture, shall transfer without consideration to the 
+        Secretary of Agriculture any land identified in subsection (b), 
+        together with the improvements thereon, for administration under 
+        the laws pertaining to the National Forest System if--
+                    (A) <<NOTE: Deadline.>> the Secretary of the 
+                Interior cannot identify and select an eligible entity 
+                for such land and improvements in accordance with 
+                section 308(b)(2) of the National Historic Preservation 
+                Act (16 U.S.C. 470w-7(b)(2)) not later than 3 years 
+                after the date the Secretary of the department in which 
+                the Coast Guard is operating determines that the land is 
+                excess property, as that term is defined in section 
+                102(3) of title 40, United States Code; or
+                    (B) the land reverts to the United States pursuant 
+                to section 308(c)(3) of the National Historic 
+                Preservation Act (16 U.S.C. 470w-7(c)(3)).
+            (2) Reservations for aids to navigation.--Any action taken 
+        under this subsection by the Administrator of General Services 
+        shall be subject to any rights that may be reserved by the 
+        Commandant of the Coast Guard for the operation and maintenance 
+        of Federal aids to navigation.
+
+    (f) Notification; Disposal of Lands by the Administrator.--The 
+Administrator of General Services shall promptly notify the Secretary of 
+Agriculture upon the occurrence of any of the events described in 
+subparagraphs (A) and (B) of subsection (e)(1). <<NOTE: Deadline.>> If 
+the Secretary of Agriculture does not request a transfer as provided for 
+in subsection (e) not later than 90 days after the date of receiving 
+such notification from the Administrator, the Administrator may dispose 
+of the property in accordance with section 309 of the National Historic 
+Preservation Act (16 U.S.C. 470w-8) or other applicable surplus real 
+property disposal authority.
+
+[[Page 120 STAT. 550]]
+
+    (g) Priority.--In selecting an eligible entity to which to convey 
+under section 308(b) of the National Historic Preservation Act (16 
+U.S.C. 470w-7(b)) land referred to in subsection (b), the Secretary of 
+the Interior shall give priority to an eligible entity (as defined in 
+section 308(e) of that Act) that is the local government of the 
+community in which the land is located.
+
+SEC. 502. MISTY FIORDS NATIONAL MONUMENT AND WILDERNESS.
+
+    (a) Requirement to Transfer.--Notwithstanding section 308(b) of the 
+National Historic Preservation Act (16 U.S.C. 470w-7(b)), if the 
+Secretary of the department in which the Coast Guard is operating 
+determines that the Tree Point Light Station is no longer needed for the 
+purposes of the Coast Guard, the Secretary shall transfer without 
+consideration to the Secretary of Agriculture all administrative 
+jurisdiction over the Tree Point Light Station.
+    (b) Effectuation of Transfer.--The transfer pursuant to this section 
+shall be effectuated by a letter from the Secretary of the department in 
+which the Coast Guard is operating to the Secretary of Agriculture and, 
+except as provided in subsection (g), without any further requirements 
+for administrative or environmental analyses or examination. The 
+transfer shall not be considered a conveyance to an eligible entity 
+pursuant to section 308(b) of the National Historic Preservation Act (16 
+U.S.C. 470w-7(b)).
+    (c) Reservation for Aids to Navigation.--As part of the transfer 
+pursuant to this section, the Commandant of the Coast Guard may reserve 
+rights to operate and maintain Federal aids to navigation at the site of 
+the light station.
+    (d) Easements and Special Use Authorizations.--Notwithstanding any 
+other provision of law, including the Wilderness Act (16 U.S.C. 1131 et 
+seq.) and section 703 of the Alaska National Interests Lands 
+Conservation Act (16 U.S.C. 1132 note; 94 Stat. 2418), with respect to 
+the light station transferred pursuant to this section, the Secretary of 
+Agriculture--
+            (1) may identify an entity to be granted an easement or 
+        other special use authorization and, in identifying the entity, 
+        may consult with the Secretary of the Interior concerning the 
+        application of policies for eligible entities developed pursuant 
+        to subsection 308(b)(1) of the National Historic Preservation 
+        Act (16 U.S.C. 470w-7(b)(1)); and
+            (2) may grant an easement or other special use authorization 
+        to the entity, for no consideration, to approximately 31 acres 
+        as described in the map entitled ``Tree Point Light Station'', 
+        dated September 24, 2004, on terms and conditions that provide 
+        for--
+                    (A) maintenance and preservation of the structures 
+                and improvements;
+                    (B) the protection of wilderness and national 
+                monument resources;
+                    (C) public safety; and
+                    (D) such other terms and conditions considered 
+                appropriate by the Secretary of Agriculture.
+
+    (e) Actions Following Termination or Revocation.--The Secretary of 
+Agriculture may take such actions as are authorized under section 110(b) 
+of the National Historic Preservation Act (16 U.S.C. 470h-2(b)) with 
+respect to Tree Point Light Station if--
+            (1) <<NOTE: Deadline.>> no entity is identified under 
+        subsection (d) within 3 years after the date on which 
+        administrative jurisdiction is
+
+[[Page 120 STAT. 551]]
+
+        transferred to the Secretary of Agriculture pursuant to this 
+        section; or
+            (2) any easement or other special use authorization granted 
+        under subsection (d) is terminated or revoked.
+
+    (f) Revocation of Withdrawals and Reservations.--Effective on the 
+date of transfer of administrative jurisdiction pursuant to this 
+section, the following public land withdrawals or reservations for light 
+station and lighthouse purposes on lands in Alaska are revoked as to the 
+lands transferred:
+            (1) The unnumbered Executive Order dated January 4, 1901, as 
+        it affects the Tree Point Light Station site only.
+            (2) Executive Order No. 4410 dated April 1, 1926, as it 
+        affects the Tree Point Light Station site only.
+
+    (g) Remediation Responsibilities not Affected.--Nothing in this 
+section shall affect any responsibilities of the Commandant of the Coast 
+Guard for the remediation of hazardous substances and petroleum 
+contamination at the Tree Point Light Station consistent with existing 
+law and regulations. The Commandant and the Secretary shall execute an 
+agreement to provide for the remediation of the land and structures at 
+the Tree Point Light Station.
+
+SEC. 503. MISCELLANEOUS LIGHT STATIONS.
+
+    (a) Cape St. Elias Light Station.--For purposes of section 416(a)(2) 
+of the Coast Guard Authorization Act of 1998 (112 Stat. 3435), the Cape 
+St. Elias Light Station shall comprise approximately 10 acres in fee, 
+along with additional access easements issued without consideration by 
+the Secretary of Agriculture, as generally described in the map entitled 
+``Cape St. Elias Light Station'', dated September 14, 2004. The 
+Secretary of the department in which the Coast Guard is operating shall 
+keep such map on file and available for public inspection.
+    (b) Point Wilson Lighthouse.--Section 325(c)(3) of the Coast Guard 
+Authorization Act of 1993 (107 Stat. 2432) is amended--
+            (1) by striking ``and'' at the end of subparagraph (B);
+            (2) by redesignating subparagraph (C) as subparagraph (D); 
+        and
+            (3) by inserting after subparagraph (B) the following:
+                    ``(C) all housing units and related structures 
+                associated with the lighthouse; and''.
+
+SEC. 504. <<NOTE: 16 USC 668dd note.>> INCLUSION OF LIGHTHOUSE IN ST. 
+            MARKS NATIONAL WILDLIFE REFUGE, FLORIDA.
+
+    (a) Revocation of Executive Order Dated November 12, 1838.--Any 
+reservation of public land described in subsection (b) for lighthouse 
+purposes by the Executive Order dated November 12, 1838, as amended by 
+Public Land Order 5655, dated January 9, 1979, is revoked.
+    (b) Description of Land.--The public land referred to in subsection 
+(a) consists of approximately 8.0 acres within the external boundaries 
+of St. Marks National Wildlife Refuge in Wakulla County, Florida, that 
+is east of the Tallahassee Meridian, Florida, in Township 5 South, Range 
+1 East, Section 1 (fractional) and containing all that remaining portion 
+of the unsurveyed fractional section, more particularly described as 
+follows: A parcel of land, including submerged areas, beginning at a 
+point which marks the center of the light structure, thence due North 
+(magnetic) a distance of 350 feet to the point of beginning a strip of 
+land 500 feet in width, the axial centerline of which runs from the 
+point of
+
+[[Page 120 STAT. 552]]
+
+beginning due South (magnetic) a distance of 700 feet, more or less, to 
+the shoreline of Apalachee Bay, comprising 8.0 acres, more or less, as 
+shown on the plat dated January 2, 1902, by Office of L. H. Engineers, 
+7th and 8th District, Mobile, Alabama.
+    (c) Transfer of Administrative Jurisdiction.--
+            (1) In general.--Subject to subsection (f) and paragraph 
+        (2), administrative jurisdiction over the public land described 
+        in subsection (b), and over all improvements located thereon, is 
+        transferred without reimbursement from the department in which 
+        the Coast Guard is operating to the Secretary of the Interior.
+            (2) Response and restoration.--The transfer under paragraph 
+        (1) may not be made to the Secretary of the Interior until the 
+        Coast Guard has completed any response and restoration action 
+        necessary under subsection (d)(1).
+
+    (d) Responsibility for Environmental Response Actions.--The Coast 
+Guard shall have sole responsibility in the Federal Government to fund 
+and conduct any response or restoration action required under any 
+applicable Federal or State law or implementing regulation to address--
+            (1) a release or threatened release on or originating from 
+        public land described in subsection (b) of any hazardous 
+        substance, pollutant, contaminant, petroleum, or petroleum 
+        product or derivative that is located on such land on the date 
+        of enactment of this Act; or
+            (2) any other release or threatened release on or 
+        originating from public land described in subsection (b) of any 
+        hazardous substance, pollutant, contaminant, petroleum, or 
+        petroleum product or derivative, that results from any Coast 
+        Guard activity occurring after the date of enactment of this 
+        Act.
+
+    (e) Inclusion in Refuge.--
+            (1) Inclusion.--The public land described in subsection (b) 
+        shall be part of St. Marks National Wildlife Refuge.
+            (2) Administration.--Subject to this subsection, the 
+        Secretary of the Interior shall administer the public land 
+        described in subsection (b)--
+                    (A) through the Director of the United States Fish 
+                and Wildlife Service; and
+                    (B) in accordance with the National Wildlife Refuge 
+                System Administration Act of 1966 (16 U.S.C. 668dd et 
+                seq.) and such other laws as apply to Federal real 
+                property under the sole jurisdiction of the United 
+                States Fish and Wildlife Service.
+
+    (f) Maintenance of Navigation Functions.--The transfer by subsection 
+(c), and the administration of the public land described in subsection 
+(b), shall be subject to such conditions and restrictions as the 
+Secretary of the department in which the Coast Guard is operating 
+considers necessary to ensure that--
+            (1) the Federal aids to navigation located at St. Marks 
+        National Wildlife Refuge continue to be operated and maintained 
+        by the Coast Guard for as long as they are needed for 
+        navigational purposes;
+            (2) the Coast Guard may remove, replace, or install any 
+        Federal aid to navigation at the St. Marks National Wildlife 
+        Refuge as may be necessary for navigational purposes;
+            (3) the United States Fish and Wildlife Service will not 
+        interfere or allow interference in any manner with any Federal
+
+[[Page 120 STAT. 553]]
+
+        aid to navigation, and will not hinder activities required for 
+        the operation and maintenance of any Federal aid to navigation, 
+        without express written approval by the Secretary of the 
+        department in which the Coast Guard is operating; and
+            (4) the Coast Guard may enter, at any time, the St. Marks 
+        National Wildlife Refuge, without notice, for purposes of 
+        operating, maintaining, and inspecting any Federal aid to 
+        navigation and ensuring compliance with this subsection, to the 
+        extent that it is not possible to provide advance notice.
+
+  TITLE <<NOTE: Delaware River Protection Act of 2006.>> VI--DELAWARE 
+RIVER PROTECTION AND MISCELLANEOUS OIL PROVISIONS
+
+SEC. 601. <<NOTE: 33 USC 2701 note.>> SHORT TITLE.
+
+    This title may be cited as the ``Delaware River Protection Act of 
+2006''.
+
+SEC. 602. REQUIREMENT TO NOTIFY COAST GUARD OF RELEASE OF OBJECTS INTO 
+            THE NAVIGABLE WATERS OF THE UNITED STATES.
+
+    The Ports and Waterways Safety Act (33 U.S.C. 1221 et seq.) is 
+amended by adding at the end the following:
+
+``SEC. 15. <<NOTE: 33 USC 1232b.>> REQUIREMENT TO NOTIFY COAST GUARD OF 
+            RELEASE OF OBJECTS INTO THE NAVIGABLE WATERS OF THE UNITED 
+            STATES.
+
+    ``(a) Requirement.--As soon as a person has knowledge of any release 
+from a vessel or facility into the navigable waters of the United States 
+of any object that creates an obstruction prohibited under section 10 of 
+the Act of March 3, 1899, popularly known as the Rivers and Harbors 
+Appropriations Act of 1899 (33 U.S.C. 403), such person shall notify the 
+Secretary and the Secretary of the Army of such release.
+    ``(b) Restriction on Use of Notification.--Any notification provided 
+by an individual in accordance with subsection (a) may not be used 
+against such individual in any criminal case, except a prosecution for 
+perjury or for giving a false statement.''.
+
+SEC. 603. LIMITS ON LIABILITY.
+
+    (a) Adjustment of Liability Limits.--
+            (1) Tank vessels.--Section 1004(a)(1) of the Oil Pollution 
+        Act of 1990 (33 U.S.C. 2704(a)(1)) is amended by striking 
+        subparagraphs (A) and (B) and inserting the following:
+                    ``(A) with respect to a single-hull vessel, 
+                including a single-hull vessel fitted with double sides 
+                only or a double bottom only, $3,000 per gross ton;
+                    ``(B) with respect to a vessel other than a vessel 
+                referred to in subparagraph (A), $1,900 per gross ton; 
+                or
+                    ``(C)(i) with respect to a vessel greater than 3,000 
+                gross tons that is--
+                          ``(I) a vessel described in subparagraph (A), 
+                      $22,000,000; or
+                          ``(II) a vessel described in subparagraph (B), 
+                      $16,000,000; or
+
+[[Page 120 STAT. 554]]
+
+                    ``(ii) with respect to a vessel of 3,000 gross tons 
+                or less that is--
+                          ``(I) a vessel described in subparagraph (A), 
+                      $6,000,000; or
+                          ``(II) a vessel described in subparagraph (B), 
+                      $4,000,000;''.
+            (2) Other vessels.--Section 1004(a)(2) of such <<NOTE: 33 
+        USC 2704.>> Act (33 U.S.C. 2794(a)(2)) is amended--
+                    (A) by striking ``$600 per gross ton'' and inserting 
+                ``$950 per gross ton''; and
+                    (B) by striking ``$500,000'' and inserting 
+                ``$800,000,''.
+            (3) <<NOTE: 33 USC 2704 note.>> Limitation on application.--
+        In the case of an incident occurring before the 90th day 
+        following the date of enactment of this Act, section 1004(a)(1) 
+        of the Oil Pollution Act of 1990 (33 U.S.C. 2704(a)(1)) shall 
+        apply as in effect immediately before the effective date of this 
+        subsection.
+
+    (b) Adjustment to Reflect Consumer Price Index.--Section 1004(d)(4) 
+of the Oil Pollution Act of 1990 (33 U.S.C. 2704(d)(4)) is amended to 
+read as follows:
+            ``(4) Adjustment to reflect consumer price index.--
+        The <<NOTE: President. Regulations. Deadline.>> President, by 
+        regulations issued not later than 3 years after the date of 
+        enactment of the Delaware River Protection Act of 2006 and not 
+        less than every 3 years thereafter, shall adjust the limits on 
+        liability specified in subsection (a) to reflect significant 
+        increases in the Consumer Price Index.''.
+
+    (c) <<NOTE: 33 USC 2704 note.>> Report.--
+            (1) Initial report.--Not later than 45 days after the date 
+        of enactment of this Act, the Secretary of the department in 
+        which the Coast Guard is operating shall submit a report on 
+        liability limits described in paragraph (2) to the Committee on 
+        Commerce, Science, and Transportation of the Senate and the 
+        Committee on Transportation and Infrastructure of the House of 
+        Representatives.
+            (2) Contents.--The report shall include, at a minimum, the 
+        following:
+                    (A) An analysis of the extent to which oil 
+                discharges from vessels and nonvessel sources have or 
+                are likely to result in removal costs and damages (as 
+                defined in section 1001 of the Oil Pollution Act of 1990 
+                (33 U.S.C. 2701)) for which no defense to liability 
+                exists under section 1003 of such Act and that exceed 
+                the liability limits established in section 1004 of such 
+                Act, as amended by this section.
+                    (B) An analysis of the impacts that claims against 
+                the Oil Spill Liability Trust Fund for amounts exceeding 
+                such liability limits will have on the Fund.
+                    (C) Based on analyses under this paragraph and 
+                taking into account other factors impacting the Fund, 
+                recommendations on whether the liability limits need to 
+                be adjusted in order to prevent the principal of the 
+                Fund from declining to levels that are likely to be 
+                insufficient to cover expected claims.
+            (3) Annual updates.--The Secretary shall provide an update 
+        of the report to the Committees referred to in paragraph (1) on 
+        an annual basis.
+
+[[Page 120 STAT. 555]]
+
+SEC. 604. <<NOTE: Deadline.>> REQUIREMENT TO UPDATE PHILADELPHIA AREA 
+            CONTINGENCY PLAN.
+
+    Not later than one year after the date of enactment of this Act and 
+not less than annually thereafter, the Philadelphia Area Committee 
+established under section 311(j)(4) of the Federal Water Pollution 
+Control Act (33 U.S.C. 1321(j)(4)) shall review and revise the 
+Philadelphia Area Contingency Plan to include available data and 
+biological information on environmentally sensitive areas of the 
+Delaware River and Delaware Bay that has been collected by Federal and 
+State surveys.
+
+SEC. 605. SUBMERGED OIL REMOVAL.
+
+    (a) Amendments.--Title VII of the Oil Pollution Act of 1990 is 
+amended--
+            (1) in section 7001(c)(4)(B) (33 U.S.C. 2761(c)(4)(B)) by 
+        striking ``RIVERA,'' and inserting ``RIVERA and the T/V ATHOS 
+        I,''; and
+            (2) by adding at the end the following:
+
+``SEC. 7002. <<NOTE: 33 USC 2762.>> SUBMERGED OIL PROGRAM.
+
+    ``(a) Program.--
+            ``(1) Establishment.--The Under Secretary of Commerce for 
+        Oceans and Atmosphere, in conjunction with the Commandant of the 
+        Coast Guard, shall establish a program to detect, monitor, and 
+        evaluate the environmental effects of submerged oil in the 
+        Delaware River and Bay region. The program shall include the 
+        following elements:
+                    ``(A) The development of methods to remove, 
+                disperse, or otherwise diminish the persistence of 
+                submerged oil.
+                    ``(B) The development of improved models and 
+                capacities for predicting the environmental fate, 
+                transport, and effects of submerged oil.
+                    ``(C) The development of techniques to detect and 
+                monitor submerged oil.
+            ``(2) Report.--Not later than 3 years after the date of 
+        enactment of the Delaware River Protection Act of 2006, the 
+        Secretary of Commerce shall submit to the Committee on Commerce, 
+        Science, and Transportation of the Senate and the Committee on 
+        Transportation and Infrastructure of the House of 
+        Representatives a report on the activities carried out under 
+        this subsection and activities proposed to be carried out under 
+        this subsection.
+
+    ``(b) Demonstration Project.--
+            ``(1) Removal of submerged oil.--The Commandant of the Coast 
+        Guard, in conjunction with the Under Secretary of Commerce for 
+        Oceans and Atmosphere, shall conduct a demonstration project for 
+        the purpose of developing and demonstrating technologies and 
+        management practices to remove submerged oil from the Delaware 
+        River and other navigable waters.
+            ``(2) Funding.--There is authorized to be appropriated to 
+        the Commandant of the Coast Guard $2,000,000 for each of fiscal 
+        years 2006 through 2010 to carry out this subsection.''.
+
+    (b) Clerical Amendment.--The table of sections in section 2 of such 
+Act is amended by inserting after the item relating to section 7001 the 
+following:
+
+``Sec. 7002. Submerged oil program''.
+
+[[Page 120 STAT. 556]]
+
+SEC. 606. ASSESSMENT OF OIL SPILL COSTS.
+
+    (a) Assessment.--The Comptroller General shall conduct an assessment 
+of the cost of response activities and claims related to oil spills from 
+vessels that have occurred since January 1, 1990, for which the total 
+costs and claims paid was at least $1,000,000 per spill.
+    (b) Report.--Not later than 18 months after the date of enactment of 
+this Act, the Comptroller General shall submit to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Transportation and Infrastructure of the House of Representatives a 
+report on the assessment conducted under subsection (a). The report 
+shall summarize the following:
+            (1) The costs and claims described in subsection (a) for 
+        each year covered by the report.
+            (2) The source, if known, of each spill described in 
+        subsection (a) for each such year.
+
+SEC. 607. DELAWARE RIVER AND BAY OIL SPILL ADVISORY COMMITTEE.
+
+    (a) Establishment.--There is established the Delaware River and Bay 
+Oil Spill Advisory Committee (in this section referred to as the 
+``Committee'').
+    (b) Membership.--
+            (1) In general.--The Committee shall consist of 27 members 
+        who are appointed by the Commandant of the Coast Guard and who 
+        have particular expertise, knowledge, and experience regarding 
+        the transportation, equipment, and techniques that are used to 
+        ship cargo and to navigate vessels in the Delaware River and 
+        Delaware Bay, as follows:
+                    (A) Three members who are employed by port 
+                authorities that oversee operations on the Delaware 
+                River or have been selected to represent these port 
+                authorities, of whom--
+                          (i) one member shall be an employee or 
+                      representative of the Port of Wilmington;
+                          (ii) one member shall be an employee or 
+                      representative of the South Jersey Port 
+                      Corporation; and
+                          (iii) one member shall be an employee or 
+                      representative of the Philadelphia Regional Port 
+                      Authority.
+                    (B) Two members who represent organizations that 
+                operate tugs or barges that utilize the port facilities 
+                on the Delaware River and Delaware Bay.
+                    (C) Two members who represent shipping companies 
+                that transport cargo by vessel from ports on the 
+                Delaware River and Delaware Bay, of whom at least one 
+                may not be a representative of a shipping company that 
+                transports oil or petroleum products.
+                    (D) Two members who represent operators of oil 
+                refineries adjacent to the Delaware River and Delaware 
+                Bay.
+                    (E) Two members who represent State-licensed pilots 
+                who work on the Delaware River and Delaware Bay.
+                    (F) One member who represents labor organizations 
+                whose members load and unload cargo at ports on the 
+                Delaware River and Delaware Bay.
+                    (G) One member who represents local commercial 
+                fishing interests or an aquaculture organization the 
+                members of which organization depend on fisheries and
+
+[[Page 120 STAT. 557]]
+
+                resources in the waters of Delaware River or Delaware 
+                Bay.
+                    (H) Three members who represent environmental 
+                organizations active with respect to the Delaware River 
+                and Delaware Bay, including a watershed advocacy group 
+                and a wildlife conservation advocacy group.
+                    (I) One member who represents an organization 
+                affiliated with recreational fishing interests in the 
+                vicinity of Delaware River and Delaware Bay.
+                    (J) Two members who are scientists or researchers 
+                associated with an academic institution and who have 
+                professional credentials in fields of research relevant 
+                to oil spill safety, oil spill response, or wildlife and 
+                ecological recovery.
+                    (K) Two members who are municipal or county 
+                officials from Delaware.
+                    (L) Two members who are municipal or county 
+                officials from New Jersey.
+                    (M) Two members who are municipal or county 
+                officials from Pennsylvania.
+                    (N) One member who represents an oil spill response 
+                organization located on the lower Delaware River and 
+                Delaware Bay.
+                    (O) One member who represents the general public.
+            (2) Ex officio members.--The Committee may also consist of 
+        an appropriate number (as determined by the Commandant of the 
+        Coast Guard) of nonvoting members who represent Federal agencies 
+        and agencies of the States of New Jersey, Pennsylvania, and 
+        Delaware with an interest in oil spill prevention in the 
+        Delaware River and Delaware Bay.
+
+    (c) Responsibilities.--
+            (1) In general.--The Committee shall provide advice and 
+        recommendations on measures to improve the prevention of and 
+        response to future oil spills in the Delaware River and Delaware 
+        Bay to the Commandant, the Governors of the States of New 
+        Jersey, Pennsylvania, and Delaware, the Committee on Commerce, 
+        Science, and Transportation of the Senate, and the Committee on 
+        Transportation and Infrastructure of the House of 
+        Representatives.
+            (2) Report.--Not later than 18 months after the date that 
+        the Commandant completes appointment of the members of the 
+        Committee, the Committee shall provide a report to the entities 
+        referred to in paragraph (1) with the recommendations of the 
+        Committee, including a ranking of priorities, for measures to 
+        improve prevention and response to oil spills described in 
+        paragraph (1).
+
+    (d) Meetings.--The Committee--
+            (1) <<NOTE: Deadline.>> shall hold its first meeting not 
+        later than 60 days after the date on which the Commandant 
+        completes the appointment of members of the Committee; and
+            (2) shall meet thereafter at the call of the Chairman.
+
+    (e) Appointment of Members.--The <<NOTE: Federal Register, 
+publication.>> Commandant shall appoint the members of the Committee 
+after soliciting nominations by notice published in the Federal 
+Register.
+
+    (f) Chairman and Vice Chairman.--The Committee shall elect, by 
+majority vote at its first meeting, one of the members of the Committee 
+as the Chairman and one of the members as the Vice
+
+[[Page 120 STAT. 558]]
+
+Chairman. The Vice Chairman shall act as Chairman in the absence of or 
+incapacity of the Chairman or in the event of vacancy in the office of 
+the Chairman.
+    (g) Pay and Expenses.--
+            (1) Prohibition on pay.--Members of the Committee who are 
+        not officers or employees of the United States shall serve 
+        without pay. Members of the Committee who are officers or 
+        employees of the United States shall receive no additional pay 
+        on account of their service on the Committee.
+            (2) Expenses.--While away from their homes or regular places 
+        of business, members of the Committee may be allowed travel 
+        expenses, including per diem, in lieu of subsistence, as 
+        authorized by section 5703 of title 5, United States Code.
+
+    (h) Funding.--There is authorized to be appropriated $1,000,000 for 
+each of fiscal years 2006 through 2007 to carry out this section.
+    (i) Termination.--The Committee shall terminate 18 months after the 
+date on which the Commandant completes the appointment of members of the 
+Committee.
+
+SEC. 608. NONTANK VESSELS.
+
+    Section 311(a)(26) of the Federal Water Pollution Control Act (33 
+U.S.C. 1321(A)(26)) is amended to read as follows:
+            ``(26) `nontank vessel' means a self-propelled vessel that--
+                    ``(A) is at least 400 gross tons as measured under 
+                section 14302 of title 46, United States Code, or, for 
+                vessels not measured under that section, as measured 
+                under section 14502 of that title;
+                    ``(B) is not a tank vessel;
+                    ``(C) carries oil of any kind as fuel for main 
+                propulsion; and
+                    ``(D) operates on the navigable waters of the United 
+                States, as defined in section 2101(17a) of that 
+                title.''.
+
+                      TITLE VII--HURRICANE RESPONSE
+
+SEC. 701. HOMEOWNERS ASSISTANCE FOR COAST GUARD PERSONNEL AFFECTED BY 
+            HURRICANES KATRINA OR RITA.
+
+    (a) In General.--Notwithstanding any other provision of law, the 
+Secretary of the department in which the Coast Guard is operating may 
+reimburse a person who is eligible for reimbursement under this section, 
+for losses of qualified property owned by such person that result from 
+damage caused by Hurricane Katrina or Hurricane Rita.
+    (b) Eligible Persons.--A person is eligible for reimbursement under 
+this section if the person is a civilian employee of the Federal 
+Government or member of the uniformed services who--
+            (1) was assigned to, or employed at or in connection with, a 
+        Coast Guard facility located in the State of Louisiana, 
+        Mississippi, Alabama, or Texas on or before August 28, 2005;
+            (2) incident to such assignment or employment, owned and 
+        occupied property that is qualified property under subsection 
+        (e); and
+            (3) as a result of the effects of Hurricane Katrina or 
+        Hurricane Rita, incurred damage to such qualified property such 
+        that--
+
+[[Page 120 STAT. 559]]
+
+                    (A) the qualified property is unsalable (as 
+                determined by the Secretary); and
+                    (B) the proceeds, if any, of insurance for such 
+                damage are less than an amount equal to the greater of--
+                          (i) the fair market value of the qualified 
+                      property on August 28, 2005 (as determined by the 
+                      Secretary); or
+                          (ii) the outstanding mortgage, if any, on the 
+                      qualified property on that date.
+
+    (c) Reimbursement Amount.--The amount of the reimbursement that an 
+eligible person may be paid under this section with respect to a 
+qualified property shall be determined as follows:
+            (1) In the case of qualified property that is a dwelling 
+        (including a condominium unit but excluding a manufactured 
+        home), the amount shall be--
+                    (A) the amount equal to the greater of--
+                          (i) 85 percent of the fair market value of the 
+                      dwelling on August 28, 2005 (as determined by the 
+                      Secretary); or
+                          (ii) the outstanding mortgage, if any, on the 
+                      dwelling on that date; minus
+                    (B) the proceeds, if any, of insurance referred to 
+                in subsection (b)(3)(B).
+            (2) In the case of qualified property that is a manufactured 
+        home, the amount shall be--
+                    (A) if the owner also owns the real property 
+                underlying such home, the amount determined under 
+                paragraph (1); or
+                    (B) if the owner leases such underlying property--
+                          (i) the amount determined under paragraph (1); 
+                      plus
+                          (ii) the amount of rent payable under the 
+                      lease of such property for the period beginning on 
+                      August 28, 2005, and ending on the date of the 
+                      reimbursement under this section.
+
+    (d) Transfer and Disposal of Property.--
+            (1) In general.--A person receiving reimbursement under this 
+        section shall transfer to the Administrator of General Services 
+        all right, title, and interest of the owner in and to the 
+        qualified property for which the owner receives such 
+        reimbursement. The Administrator shall hold, manage, and dispose 
+        of such right, title, and interest in the same manner that the 
+        Secretary of Defense holds, manages, and disposes of real 
+        property under section 1013 of the Demonstration Cities and 
+        Metropolitan Development Act of 1966 (42 U.S.C. 3374).
+            (2) Treatment of proceeds.--Any amounts received by the 
+        United States as proceeds of management or disposal of property 
+        by the Administrator of General Services under this subsection 
+        shall be deposited in the general fund of the Treasury as 
+        offsetting receipts of the department in which the Coast Guard 
+        is operating and ascribed to Coast Guard activities.
+
+    (e) Qualified Property.--Property is qualified property for the 
+purposes of this section if as of August 28, 2005, the property was a 
+one- or two-family dwelling, manufactured home, or condominium unit in 
+the State of Louisiana, Mississippi, Alabama, or
+
+[[Page 120 STAT. 560]]
+
+Texas that was owned and occupied, as a principal residence, by a person 
+who is eligible for reimbursement under this section.
+    (f) Subject to Appropriations.--The authority to pay reimbursement 
+under this section is subject to the availability of appropriations.
+
+SEC. 702. TEMPORARY AUTHORIZATION TO EXTEND THE DURATION OF LICENSES, 
+            CERTIFICATES OF REGISTRY, AND MERCHANT MARINERS' DOCUMENTS.
+
+    (a) Licenses and Certificates of Registry.--Notwithstanding section 
+7106 and 7107 of title 46, United States Code, the Secretary of the 
+department in which the Coast Guard is operating may temporarily extend 
+the duration of a license or certificate of registry issued for an 
+individual under chapter 71 of that title for up to one year if--
+            (1) the records of the individual are located at the Coast 
+        Guard facility in New Orleans that was damaged by Hurricane 
+        Katrina;
+            (2) the individual is a resident of Alabama, Mississippi, or 
+        Louisiana; or
+            (3) the records of an individual were damaged or lost as a 
+        result of Hurricane Katrina.
+
+    (b) Merchant Mariners' Documents.--Notwithstanding section 7302(g) 
+of title 46, United States Code, the Secretary of the department in 
+which the Coast Guard is operating may temporarily extend the duration 
+of a merchant mariners' document issued for an individual under chapter 
+73 of that title for up to one year, if--
+            (1) the records of the individual are located at the Coast 
+        Guard facility in New Orleans that was damaged by Hurricane 
+        Katrina;
+            (2) the individual is a resident of Alabama, Mississippi, or 
+        Louisiana; or
+            (3) the records of an individual were damaged or lost as a 
+        result of Hurricane Katrina.
+
+    (c) Manner of Extension.--Any extensions granted under this section 
+may be granted to individual seamen or a specifically identified group 
+of seamen.
+    (d) Expiration of Authority.--The authorities provided under this 
+section expire on April 1, 2007.
+
+SEC. 703. TEMPORARY AUTHORIZATION TO EXTEND THE DURATION OF VESSEL 
+            CERTIFICATES OF INSPECTION.
+
+    (a) Authority to Extend.--Notwithstanding section 3307 and 3711(b) 
+of title 46, United States Code, the Secretary of the department in 
+which the Coast Guard is operating may temporarily extend the duration 
+or the validity of a certificate of inspection or a certificate of 
+compliance issued under chapter 33 or 37, respectively, of that title 
+for up to 6 months for a vessel inspected by a Coast Guard Marine Safety 
+Office located in Alabama, Mississippi, or Louisiana.
+    (b) Expiration of Authority.--The authority provided under this 
+section expires on April 1, 2007.
+
+SEC. 704. PRESERVATION OF LEAVE LOST DUE TO HURRICANE KATRINA 
+            OPERATIONS.
+
+    (a) Preservation of Leave.--Notwithstanding section 701(b) of title 
+10, United States Code, any member of the Coast Guard
+
+[[Page 120 STAT. 561]]
+
+who served on active duty for a continuous period of 30 days, who was 
+assigned to duty or otherwise detailed in support of units or operations 
+in the Eighth Coast Guard District area of responsibility for activities 
+to mitigate the consequences of, or assist in the recovery from, 
+Hurricane Katrina during the period beginning on August 28, 2005, and 
+ending on January 1, 2006, and who would have otherwise lost any 
+accumulated leave in excess of 60 days as a consequence of such 
+assignment, is authorized to retain an accumulated total of up to 120 
+days of leave.
+    (b) Excess Leave.--Leave in excess of 60 days accumulated under 
+subsection (a) shall be lost unless used by the member before the 
+commencement of the second fiscal year following the fiscal year in 
+which the assignment commences, or in the case of a Reserve member, the 
+year in which the period of active service is completed.
+
+SEC. 705. REPORTS ON IMPACT TO COAST GUARD.
+
+    (a) Reports Required.--
+            (1) Interim report.--Not later than 90 days after the date 
+        of enactment of this Act, the Secretary of the department in 
+        which the Coast Guard is operating shall submit to the Committee 
+        on Commerce, Science, and Transportation of the Senate and the 
+        Committee on Transportation and Infrastructure of the House of 
+        Representatives an interim report on the impact of Hurricane 
+        Katrina and the response of the Coast Guard to such impact.
+            (2) Final report.--Not later than 180 days after the date of 
+        the submittal of the report under paragraph (1), the Secretary 
+        shall submit to the committees referred to in paragraph (1) a 
+        final report on the impact of Hurricane Katrina and the response 
+        of the Coast Guard to such impact.
+
+    (b) Elements.--Each report required by subsection (a) shall include 
+the following:
+            (1) A discussion and assessment of the impact of Hurricane 
+        Katrina on the facilities, aircraft, vessels, and other assets 
+        of the Coast Guard, including an assessment of such impact on 
+        pending or proposed replacements or upgrades of facilities, 
+        aircraft, vessels, or other assets of the Coast Guard.
+            (2) A discussion and assessment of the impact of Hurricane 
+        Katrina on Coast Guard operations and strategic goals.
+            (3) A statement of the number of emergency drills held by 
+        the Coast Guard during the 5-year period ending on the date of 
+        the report with respect to natural disasters and with respect to 
+        security incidents.
+            (4) A description and assessment of--
+                    (A) the lines of communication and reporting, during 
+                the response to Hurricane Katrina, within the Coast 
+                Guard and between the Coast Guard and other departments 
+                and agencies of the Federal Government and State and 
+                local governments; and
+                    (B) the interoperability of such communications 
+                during the response to Hurricane Katrina.
+            (5) A discussion and assessment of the financial impact on 
+        Coast Guard operations during fiscal years 2005 and 2006 of 
+        unbudgeted increases in prices of fuel.
+
+SEC. 706. REPORTS ON IMPACTS ON NAVIGABLE WATERWAYS.
+
+    (a) Reports Required.--
+
+[[Page 120 STAT. 562]]
+
+            (1) Interim report.--Not later than 90 days after the date 
+        of enactment of this Act, the Secretary of the department in 
+        which the Coast Guard is operating, in consultation with the 
+        Secretary of Commerce, shall submit to the Committee on 
+        Commerce, Science, and Transportation of the Senate and the 
+        Committee on Transportation and Infrastructure of the House of 
+        Representatives a report on the impacts of Hurricane Katrina on 
+        navigable waterways and the response of the Coast Guard to such 
+        impacts.
+            (2) Final report.--Not later than 180 days after the date of 
+        the submittal of the report required by paragraph (1), the 
+        Secretary, in consultation with the Secretary of Commerce, shall 
+        submit to the committees referred to in paragraph (1) a report 
+        on the impacts of Hurricane Katrina on navigable waterways with 
+        respect to missions within the jurisdiction of the Coast Guard 
+        and the response of the Coast Guard to such impacts.
+
+    (b) Elements.--Each report required by subsection (a) shall include 
+the following:
+            (1) A discussion and assessment of the impacts, and 
+        associated costs, of Hurricane Katrina on--
+                    (A) the navigable waterways of the United States;
+                    (B) facilities located in or on such waterways;
+                    (C) aids to navigation to maintain the safety of 
+                such waterways; and
+                    (D) any other equipment located in or on such 
+                waterways related to a mission of the Coast Guard.
+            (2) An estimate of the costs to the Coast Guard of restoring 
+        the resources described in paragraph (1) and an assessment of 
+        the vulnerability of such resources to natural disasters in the 
+        future.
+            (3) A discussion and assessment of the environmental impacts 
+        in areas within the Coast Guard's jurisdiction of Hurricane 
+        Katrina, with a particular emphasis on any releases of oil or 
+        hazardous chemicals into the navigable waterways of the United 
+        States.
+            (4) A discussion and assessment of the response of the Coast 
+        Guard to the impacts described in paragraph (3), including an 
+        assessment of environmental vulnerabilities in natural disasters 
+        in the future and an estimate of the costs of addressing such 
+        vulnerabilities.
+
+    (c) Navigable Waterways of the United States.--In this section, the 
+term ``navigable waterways of the United States'' includes waters of the 
+United States as described in Presidential Proclamation No. 5928 of 
+December 27, 1988.
+
+              TITLE VIII--OCEAN COMMISSION RECOMMENDATIONS
+
+SEC. 801. <<NOTE: 14 USC 92 note.>> IMPLEMENTATION OF INTERNATIONAL 
+            AGREEMENTS.
+
+    In consultation with appropriate Federal agencies, the Secretary of 
+the department in which the Coast Guard is operating shall work with the 
+responsible officials and agencies of other nations to accelerate 
+efforts at the International Maritime Organization to enhance oversight 
+and enforcement of security, environmental, and other agreements adopted 
+within the International
+
+[[Page 120 STAT. 563]]
+
+Maritime Organization by flag States on whom such agreements are 
+binding, including implementation of--
+            (1) a code outlining flag State responsibilities and 
+        obligations;
+            (2) an audit regime for evaluating flag State performance;
+            (3) measures to ensure that responsible organizations, 
+        acting on behalf of flag States, meet established performance 
+        standards; and
+            (4) cooperative arrangements to improve enforcement on a 
+        bilateral, regional, or international basis.
+
+SEC. 802. <<NOTE: 14 USC 92 note.>> VOLUNTARY MEASURES FOR REDUCING 
+            POLLUTION FROM RECREATIONAL BOATS.
+
+    In consultation with appropriate Federal, State, and local 
+government agencies, the Secretary of the department in which the Coast 
+Guard is operating shall undertake outreach programs for educating the 
+owners and operators of boats using two-stroke engines about the 
+pollution associated with such engines and support voluntary programs 
+that reduce such pollution and encourage the early replacement of older 
+two-stroke engines.
+
+SEC. 803. <<NOTE: 16 USC 1861 note.>> INTEGRATION OF VESSEL MONITORING 
+            SYSTEM DATA.
+
+    The Secretary of the department in which the Coast Guard is 
+operating shall integrate vessel monitoring system data into its 
+maritime operations databases for the purpose of improving monitoring 
+and enforcement of Federal fisheries laws and work with the Under 
+Secretary of Commerce for Oceans and Atmosphere to ensure effective use 
+of such data for monitoring and enforcement.
+
+SEC. 804. <<NOTE: 16 USC 1828.>> FOREIGN FISHING INCURSIONS.
+
+    (a) In General.--Not <<NOTE: Deadline. Reports.>> later than 180 
+days after the date of enactment of this Act, the Secretary of the 
+department in which the Coast Guard is operating shall provide to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives a report on steps that the Coast Guard will take to 
+significantly improve the Coast Guard's detection and interdiction of 
+illegal incursions into the United States exclusive economic zone by 
+foreign fishing vessels.
+
+    (b) Specific Issues to Be Addressed.--The report shall--
+            (1) focus on areas in the exclusive economic zone where the 
+        Coast Guard has failed to detect or interdict such incursions in 
+        the 4-fiscal-year period beginning with fiscal year 2000, 
+        including such areas in the Western/Central Pacific and the 
+        Bering Sea; and
+            (2) include an evaluation of the potential use of unmanned 
+        aircraft and offshore platforms for detecting or interdicting 
+        such incursions.
+
+    (c) Biennial Updates.--The Secretary shall provide biannual reports 
+updating the Coast Guard's progress in detecting or interdicting such 
+incursions to the Committee on Commerce, Science, and Transportation of 
+the Senate and the Committee on Transportation and Infrastructure of the 
+House of Representatives.
+
+[[Page 120 STAT. 564]]
+
+                     TITLE IX--TECHNICAL CORRECTIONS
+
+SEC. 901. MISCELLANEOUS TECHNICAL CORRECTIONS.
+
+    (a) Requirements for Cooperative Agreements for Voluntary 
+Services.--Section 93(a)(19) of title 14, United States Code, is amended 
+by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), 
+respectively.
+    (b) Correction of Amendment to Chapter <<NOTE: Effective 
+date.>> Analysis.--Effective August 9, 2004, section 212(b) of the Coast 
+Guard and Maritime Transportation Act of 2004 (118 Stat. 1037) is 
+amended by inserting ``of title 14'' after ``chapter 17''.
+
+    (c) Recommendations to Congress by Commandant of the Coast Guard.--
+Section 93(a) of title 14, United States Code, is amended by 
+redesignating paragraph (y) as paragraph (24).
+    (d) Correction of Reference to Ports and Waterways Safety Act.--
+Effective <<NOTE: Effective date. 33 USC 1223 and note.>> August 9, 
+2004, section 302 of the Coast Guard and Maritime Transportation Act of 
+2004 (118 Stat. 1041) is amended by striking ``of 1972''.
+
+    (e) Technical Correction of Penalty.--Section 4311(b) of title 46, 
+United States Code, is amended by striking ``4307(a)of'' and inserting 
+``4307(a) of''.
+    (f) Determining Adequacy of Potable Water.--Section 3305(a) of title 
+46, United States Code, is amended by moving paragraph (2) two ems to 
+the left, so that the material preceding subparagraph (A) of such 
+paragraph aligns with the left-hand margin of paragraph (1) of such 
+section.
+    (g) Renewal of Advisory Group.--Effective <<NOTE: Effective date. 46 
+USC 4508 and note.>> August 9, 2004, section 418(a) of the Coast Guard 
+and Maritime Transportation Act of 2004 (118 Stat. 1049) is amended by 
+striking ``of September 30, 2005'' and inserting ``on September 30, 
+2005''.
+
+    (h) Technical Corrections Relating to References to National Driver 
+Register.--
+            (1) Amendment instruction.--Effective <<NOTE: Effective 
+        date. 46 USC 7302 and note.>> August 9, 2004, section 609(1) of 
+        the Coast Guard and Maritime Transportation Act of 2004 (118 
+        Stat. 1058) is amended in the matter preceding subparagraph (A) 
+        by striking ``7302'' and inserting ``7302(c)''.
+            (2) Omitted word.--Section 7302(c) of title 46, United 
+        States Code, is amended--
+                    (A) by inserting ``section'' before ``30305(b)(5)''; 
+                and
+                    (B) by inserting ``section'' before 
+                ``30304(a)(3)(A)''.
+            (3) Extraneous u.s.c. reference.--Section 7703(3) of title 
+        46, United States Code, is amended by striking ``(23 U.S.C. 401 
+        note)''.
+
+    (i) Vessel Response Plans for Nontank Vessels.--
+            (1) Correction of vessel references.--Section 311 of the 
+        Federal Water Pollution Control Act (33 U.S.C. 1321) is amended 
+        by striking ``non-tank'' each place it appears and inserting 
+        ``nontank''.
+            (2) Punctuation error.--Effective <<NOTE: Effective date. 33 
+        USC 1321 and note.>> August 9, 2004, section 701(b)(9) of the 
+        Coast Guard and Maritime Transportation Act of 2004 (118 Stat. 
+        1068) is amended by inserting closing quotation marks after 
+        ``each tank vessel''.
+
+    (j) Punctuation Error.--Section 5006(c) of the Oil Pollution Act of 
+1990 (33 U.S.C. 2736(c)) is amended by inserting a comma after ``October 
+1, 2012''.
+    (k) Correction to Subtitle Designation.--
+
+[[Page 120 STAT. 565]]
+
+            (1) Redesignation.--Title 46, United States Code, is amended 
+        by redesignating subtitle VI <<NOTE: 46 USC 70101.>> as subtitle 
+        VII.
+            (2) Clerical amendment.--The table of subtitles at the 
+        beginning of title 46, United States Code, is amended by 
+        striking the item relating to subtitle VI and inserting the 
+        following:
+
+``VII. MISCELLANEOUS............................................70101''.
+
+    (l) Corrections to Chapter 701 of Title 46, United States Code.--
+Chapter 701 of title 46, United States Code, <<NOTE: 46 USC 701013et 
+seq.>> is amended as follows:
+            (1) Sections 70118 and 70119, as added by section 801 of the 
+        Coast Guard and Maritime Transportation Act of 2004 (118 Stat. 
+        1078), relating to firearms, arrests, and seizure of property 
+        and to enforcement by State and local officers, are redesignated 
+        as sections 70117 and 70118, respectively, and moved to appear 
+        immediately after section 70116 of title 46, United States Code.
+            (2) Sections 70117 and 70118, as added by section 802 of 
+        such Act (118 Stat. 1078), relating to in rem liability for 
+        civil penalties and to certain costs and withholding of 
+        clearance, are redesignated as sections 70120 and 70121, 
+        respectively, and moved to appear immediately after section 
+        70119 of title 46, United States Code.
+            (3) In section 70120(a), as redesignated by paragraph (2) of 
+        this section, by striking ``section 70120'' and inserting 
+        ``section 70119''.
+            (4) In section 70121(a), as redesignated by paragraph (2) of 
+        this section, by striking ``section 70120'' and inserting 
+        ``section 70119''.
+            (5) In the analysis at the beginning of the chapter by 
+        striking the items relating to sections 70117 through the second 
+        70119 and inserting the following:
+
+``70117. Firearms, arrests, and seizure of property.
+``70118. Enforcement by State and local officers.
+``70119. Civil penalty.
+``70120. In rem liability for civil penalties and certain costs.
+``70121. Withholding of clearance.''.
+
+    (m) Area Maritime Security Advisory Committees; Margin Alignment.--
+Section 70112(b) of title 46, United States Code, is amended by moving 
+paragraph (5) two ems to the left, so that the left-hand margin of 
+paragraph (5) aligns with the left-hand margin of paragraph (4) of such 
+section.
+    (n) Technical Correction Regarding Tank Vessel Environmental 
+Equivalency Evaluation Index.--Section 4115(e)(3) of the Oil Pollution 
+Act of 1990 (46 U.S.C. 3703a note) is amended by striking ``hull'' the 
+second place it appears.
+    (o) Corrections to Section 6101 of Title 46, United States Code.--
+Section 6101 of title 46, United States Code, is amended--
+            (1) by redesignating subsection (h) as subsection (i); and
+            (2) by redesignating the second subsection (g) as subsection 
+        (h).
+
+    (p) Drug Interdiction Report.--
+            (1) In general.--Section 103 of the Coast Guard 
+        Authorization Act of 1996 (14 U.S.C. 89 note; 110 Stat. 3905) is 
+        amended to read as follows:
+
+[[Page 120 STAT. 566]]
+
+``SEC. 103. ANNUAL REPORT ON DRUG INTERDICTION.
+
+    ``Not later than 30 days after the end of each fiscal year, the 
+Secretary of the department in which the Coast Guard is operating shall 
+submit to the Committee on Commerce, Science, and Transportation of the 
+Senate and the Committee on Transportation and Infrastructure of the 
+House of Representatives a report on all expenditures related to drug 
+interdiction activities of the Coast Guard on an annual basis.''.
+            (2) Clerical amendment.--The table of contents in section 2 
+        of such Act is amended by striking the item relating to section 
+        103 and inserting the following:
+
+``Sec. 103. Annual reports on drug interdiction.''.
+
+    (q) Acts of Terrorism Report.--Section 905 of the Omnibus Diplomatic 
+Security and Antiterrorism Act of 1986 (46 U.S.C. App. 1802; 100 Stat. 
+890) is amended by striking ``Not later than February 28, 1987, and 
+annually thereafter, the Secretary of Transportation shall report'' and 
+inserting ``The Secretary of the department in which the Coast Guard is 
+operating shall report annually''.
+    (r) Corrections to Dingell-Johnson Sport Fish Restoration Act.--
+            (1) Section 4.--Section 4(c) of the Dingell-Johnson Sport 
+        Fish Restoration Act (16 U.S.C. 777c(c)) is amended by striking 
+        ``, for each of fiscal years 2006 through 2009,''.
+            (2) Section 14.--Section 14(a)(1) of the Dingell-Johnson 
+        Sport Fish Restoration Act (16 U.S.C. 777m(a)(1)) is amended by 
+        striking ``For each of the fiscal years 2006 through 2009, not 
+        more than'' and inserting ``Not more than''.
+
+SEC. 902. CORRECTION OF REFERENCES TO SECRETARY OF TRANSPORTATION AND 
+            DEPARTMENT OF TRANSPORTATION; RELATED MATTERS.
+
+    (a) Government Organization.--Title 5, United States Code, is 
+amended--
+            (1) in section 101 by inserting ``The Department of Homeland 
+        Security.'' after and immediately below ``The Department of 
+        Veterans Affairs.'';
+            (2) in section 2902(b) by inserting ``the Secretary of 
+        Homeland Security,'' after ``Secretary of the Interior,''; and
+            (3) in sections 5520a(k)(3), 5595(h)(5), 6308(b), and 
+        9001(10) by striking ``of Transportation'' each place it appears 
+        and inserting ``of Homeland Security''.
+
+    (b) Financial Management.--Title 31, United States Code, is 
+amended--
+            (1) in section 3321(c)(3) by striking ``of Transportation'' 
+        and inserting ``of Homeland Security.'';
+            (2) in section 3325(b) by striking ``of Transportation'' and 
+        inserting ``of Homeland Security'';
+            (3) in section 3527(b)(1) by striking ``of Transportation'' 
+        each place it appears and inserting ``of Homeland Security''; 
+        and
+            (4) in section 3711(f)(2) by striking ``of Transportation'' 
+        and inserting ``of Homeland Security''.
+
+    (c) Public Contracts.--Section 3732 of the Revised Statutes (41 
+U.S.C. 11) is amended by striking ``of Transportation'' each place it 
+appears and inserting ``of Homeland Security''.
+
+[[Page 120 STAT. 567]]
+
+    (d) Public Printing and Documents.--Sections 1308 and 1309 of title 
+44, United States Code, are amended by striking ``Secretary of the 
+Department of Transportation'' each place it appears and inserting 
+``Secretary of the department in which the Coast Guard is operating''.
+    (e) Shipping.--Title 46, United State Code, is amended--
+            (1) in section 2109 by striking ``a Coast Guard or'';
+            (2) in section 6308--
+                    (A) by redesignating subsections (b) and (c) as 
+                subsections (c) and (d), respectively; and
+                    (B) by striking subsection (a) and inserting the 
+                following:
+
+    ``(a) Notwithstanding any other provision of law, no part of a 
+report of a marine casualty investigation conducted under section 6301 
+of this title, including findings of fact, opinions, recommendations, 
+deliberations, or conclusions, shall be admissible as evidence or 
+subject to discovery in any civil or administrative proceedings, other 
+than an administrative proceeding initiated by the United States.
+    ``(b) Any member or employee of the Coast Guard investigating a 
+marine casualty pursuant to section 6301 of this title shall not be 
+subject to deposition or other discovery, or otherwise testify in such 
+proceedings relevant to a marine casualty investigation, without the 
+permission of the Secretary. The Secretary shall not withhold permission 
+for such employee or member to testify, either orally or upon written 
+questions, on solely factual matters at a time and place and in a manner 
+acceptable to the Secretary if the information is not available 
+elsewhere or is not obtainable by other means.'';
+            (3) in subsection (c), as redesignated by this section, by 
+        striking ``subsection (a)'' and inserting ``subsections (a) and 
+        (b)''; and
+            (4) in subsection (d), as redesignated by this section, by 
+        striking ``subsections (a) and (b)'' and inserting ``subsections 
+        (a), (b), and (c)''.
+
+    (f) Mortgage Insurance.--Section 222 of the National Housing Act of 
+1934 (12 U.S.C. 1715m) is amended by striking ``of Transportation'' each 
+place it appears and inserting ``of Homeland Security''.
+    (g) Arctic Research.--Section 107(b)(2) of the Arctic Research and 
+Policy Act of 1984 (15 U.S.C. 4106(b)(2)) is amended--
+            (1) by redesignating subparagraphs (I) through (K) as 
+        subparagraphs (J) through (L), respectively; and
+            (2) by inserting after subparagraph (H) the following:
+                    ``(I) the Department of Homeland Security;''.
+
+    (h) Conservation.--
+            (1) Section 1029.--Section 1029(e)(2)(B) of the Bisti/De-Na-
+        Zin Wilderness Expansion and Fossil Protection Act of 1996 (16 
+        U.S.C. 460kkk(e)(2)(B)) is amended by striking ``Secretary of 
+        Transportation, to represent the United States Coast Guard.'' 
+        and inserting ``Commandant of the Coast Guard''.
+            (2) Section 312.--Section 312(c) of the Antarctic Marine 
+        Living Resources Convention Act of 1984 (16 U.S.C. 2441(c)) is 
+        amended by striking ``of Transportation'' and inserting ``of 
+        Homeland Security''.
+
+    (i) Internal Revenue Code of 1986.--Section 3122 of the Internal 
+Revenue Code of 1986 (26 U.S.C. 3122) is amended by striking ``Secretary 
+of Transportation'' each place it appears and
+
+[[Page 120 STAT. 568]]
+
+inserting ``Secretary of the Department in which the Coast Guard is 
+operating''.
+    (j) Anchorage Grounds.--Section 7 of the Rivers and Harbors 
+Appropriations Act of 1915 (33 U.S.C. 471) is amended by striking ``of 
+Transportation'' in each place it appears and inserting ``of Homeland 
+Security''.
+    (k) Bridges.--Section 4 of the General Bridge Act of 1906 (33 U.S.C. 
+491) <<NOTE: 33 USC 494.>> is amended by striking ``of Transportation'' 
+and inserting ``of Homeland Security''.
+
+    (l) Oil Pollution.--The Oil Pollution Act of 1990 (33 U.S.C. 2701 et 
+seq.) is amended--
+            (1) in section 5001(c)(1)(B) (33 U.S.C. 2731(c)(1)(B)) by 
+        striking ``Commerce, the Interior, and Transportation,'' and 
+        inserting ``Commerce and the Interior and the Commandant of the 
+        Coast Guard,'';
+            (2) in section 5002(m)(4) (33 U.S.C. 2732(m)(4)) by striking 
+        ``of Transportation.'' and inserting ``of the department in 
+        which the Coast Guard is operating.'';
+            (3) in section 7001(a) (33 U.S.C. 2761(a)) by striking 
+        paragraph (3) and all that follows through the end of the 
+        subsection and inserting the following:
+            ``(3) Membership.--The Interagency Committee shall include 
+        representatives from the Coast Guard, the Department of Commerce 
+        (including the National Oceanic and Atmospheric Administration 
+        and the National Institute of Standards and Technology), the 
+        Department of Energy, the Department of the Interior (including 
+        the Minerals Management Service and the United States Fish and 
+        Wildlife Service), the Department of Transportation (including 
+        the Maritime Administration and the Pipeline and Hazardous 
+        Materials Safety Administration), the Department of Defense 
+        (including the Army Corps of Engineers and the Navy), the 
+        Department of Homeland Security (including the United States 
+        Fire Administration in the Federal Emergency Management Agency), 
+        the Environmental Protection Agency, the National Aeronautics 
+        and Space Administration, and such other Federal agencies the 
+        President may designate.
+            ``(4) Chairman.--A representative of the Coast Guard shall 
+        serve as Chairman.''; and
+            (4) in section 7001(c)(6) (33 U.S.C. 2761(c)(6)) by striking 
+        ``other such agencies in the Department of Transportation as the 
+        Secretary of Transportation may designate,'' and inserting 
+        ``such agencies as the President may designate,''.
+
+    (m) Medical Care.--Section 1(g)(4)(B) of Public Law 87-693 (42 
+U.S.C. 2651(g)(4)(B)) is amended by striking ``of Transportation,'' and 
+inserting ``of Homeland Security,''.
+    (n) Social Security Act.--Section 205(p)(3) of the Social Security 
+Act (42 U.S.C. 405(p)(3)) is amended by striking ``of Transportation'' 
+each place it appears and inserting ``of Homeland Security''.
+
+[[Page 120 STAT. 569]]
+
+    (o) <<NOTE: Certification.>> Merchant Marine Act, 1920.--Section 27 
+of the Merchant Marine Act, 1920 (46 U.S.C. App. 883) is amended in the 
+matter following the ninth proviso (pertaining to transportation of a 
+foreign-flag incineration vessel) by striking ``Satisfactory inspection 
+shall be certified in writing by the Secretary of Transportation'' and 
+inserting ``Satisfactory inspection shall be certified, in writing, by 
+the Secretary of Homeland Security.''.
+
+    Approved July 11, 2006.
+
+LEGISLATIVE HISTORY--H.R. 889 (S. 1280):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: Nos. 109-204, Pt. 1 (Comm. on Transportation and 
+Infrastructure) and 109-413 (Comm. of Conference).
+SENATE REPORTS: No. 109-114 accompanying S. 1280 (Comm. on Commerce, 
+Science, and Transportation).
+CONGRESSIONAL RECORD:
+                                                        Vol. 151 (2005):
+                                    Sep. 15, considered and passed 
+                                        House.
+                                    Oct. 27, considered and passed 
+                                        Senate, amended.
+                                                        Vol. 152 (2006):
+                                    June 26, House considered conference 
+                                        report.
+                                    June 27, House and Senate agreed to 
+                                        conference report. Senate 
+                                        vitiated agreement on conference 
+                                        report.
+                                    June 28, Senate agreed to conference 
+                                        report, pursuant to the order of 
+                                        June 22.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 42 (2006):
+            July 11, Presidential statement.
+
+                                  
+

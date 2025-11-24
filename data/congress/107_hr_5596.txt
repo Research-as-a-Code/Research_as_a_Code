@@ -1,0 +1,436 @@
+
+[107th Congress Public Law 276]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ276.107]
+
+[[Page 116 STAT. 1929]]
+
+Public Law 107-276
+107th Congress
+
+                                 An Act
+
+
+ 
+ To amend section 527 of the Internal Revenue Code of 1986 to eliminate 
+     notification and return requirements for State and local party 
+  committees and candidate committees and avoid duplicate reporting by 
+certain State and local political committees of information required to 
+ be reported and made publicly available under State law, and for other 
+            purposes. <<NOTE: Nov. 2, 2002 -  [H.R. 5596]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. EXEMPTION FOR CERTAIN STATE AND LOCAL POLITICAL COMMITTEES 
+            FROM NOTIFICATION REQUIREMENTS.
+
+    (a) Exemption From Notification Requirements.--Paragraph (5) of 
+section 527(i) <<NOTE: 26 USC 527.>> of the Internal Revenue Code of 
+1986 (relating to organizations must notify Secretary that they are 
+section 527 organizations) is amended by striking ``or'' at the end of 
+subparagraph (A), by striking the period at the end of subparagraph (B) 
+and inserting ``, or'', and by adding at the end the following:
+                    ``(C) which is a political committee of a State or 
+                local candidate or which is a State or local committee 
+                of a political party.''.
+
+    (b) Effective Date.--The <<NOTE: 26 USC 527 note.>> amendments made 
+by subsection (a) shall take effect as if included in the amendments 
+made by Public Law 106-230.
+
+SEC. 2. EXEMPTION FOR CERTAIN STATE AND LOCAL POLITICAL COMMITTEES FROM 
+            REPORTING REQUIREMENTS.
+
+    (a) In General.--Section 527(j)(5) of the Internal Revenue Code of 
+1986 (relating to coordination with other requirements) is amended by 
+redesignating subparagraphs (C), (D), and (E) as subparagraphs (D), (E), 
+and (F), respectively, and by inserting after subparagraph (B) the 
+following new subparagraph:
+                    ``(C) to any organization which is a qualified State 
+                or local political organization,''.
+
+    (b) Qualified State or Local Political Organization.--Subsection (e) 
+of section 527 of the Internal Revenue Code of 1986 (relating to other 
+definitions) is amended by adding at the end the following new 
+paragraph:
+            ``(5) Qualified state or local political organization.--
+                    ``(A) In general.--The term `qualified State or 
+                local political organization' means a political 
+                organization--
+                          ``(i) all the exempt functions of which are 
+                      solely for the purposes of influencing or 
+                      attempting to influence the selection, nomination, 
+                      election, or appointment
+
+[[Page 116 STAT. 1930]]
+
+                      of any individual to any State or local public 
+                      office or office in a State or local political 
+                      organization,
+                          ``(ii) which is subject to State law that 
+                      requires the organization to report (and it so 
+                      reports)--
+                                    ``(I) information regarding each 
+                                separate expenditure from and 
+                                contribution to such organization, and
+                                    ``(II) information regarding the 
+                                person who makes such contribution or 
+                                receives such expenditure,
+                      which would otherwise be required to be reported 
+                      under this section, and
+                          ``(iii) with respect to which the reports 
+                      referred to in clause (ii) are (I) made public by 
+                      the agency with which such reports are filed, and 
+                      (II) made publicly available for inspection by the 
+                      organization in the manner described in section 
+                      6104(d).
+                    ``(B) Certain state law differences disregarded.--An 
+                organization shall not be treated as failing to meet the 
+                requirements of subparagraph (A)(ii) solely by reason of 
+                1 or more of the following:
+                          ``(i) The minimum amount of any expenditure or 
+                      contribution required to be reported under State 
+                      law is not more than $300 greater than the minimum 
+                      amount required to be reported under subsection 
+                      (j).
+                          ``(ii) The State law does not require the 
+                      organization to identify 1 or more of the 
+                      following:
+                                    ``(I) The employer of any person who 
+                                makes contributions to the organization.
+                                    ``(II) The occupation of any person 
+                                who makes contributions to the 
+                                organization.
+                                    ``(III) The employer of any person 
+                                who receives expenditures from the 
+                                organization.
+                                    ``(IV) The occupation of any person 
+                                who receives expenditures from the 
+                                organization.
+                                    ``(V) The purpose of any expenditure 
+                                of the organization.
+                                    ``(VI) The date any contribution was 
+                                made to the organization.
+                                    ``(VII) The date of any expenditure 
+                                of the organization.
+                    ``(C) De minimis errors.--An organization shall not 
+                fail to be treated as a qualified State or local 
+                political organization solely because such organization 
+                makes de minimis errors in complying with the State 
+                reporting requirements and the public inspection 
+                requirements described in subparagraph (A) as long as 
+                the organization corrects such errors within a 
+                reasonable period after the organization becomes aware 
+                of such errors.
+                    ``(D) Participation of federal candidate or office 
+                holder.--The term `qualified State or local political 
+                organization' shall not include any organization 
+                otherwise described in subparagraph (A) if a candidate 
+                for nomination or election to Federal elective public 
+                office or an individual who holds such office--
+                          ``(i) controls or materially participates in 
+                      the direction of the organization,
+
+[[Page 116 STAT. 1931]]
+
+                          ``(ii) solicits contributions to the 
+                      organization (unless the Secretary determines that 
+                      such solicitations resulted in de minimis 
+                      contributions and were made without the prior 
+                      knowledge and consent, whether explicit or 
+                      implicit, of the organization or its officers, 
+                      directors, agents, or employees), or
+                          ``(iii) directs, in whole or in part, 
+                      disbursements by the organization.''.
+
+    (c) Effective Date.--The <<NOTE: 26 USC 527 note.>> amendments made 
+by this section shall take effect as if included in the amendments made 
+by Public Law 106-230.
+
+SEC. 3. EXEMPTION FROM ANNUAL RETURN REQUIREMENTS.
+
+    (a) Income Tax Returns Required Only for Political Organization 
+Taxable Income.--Paragraph (6) of section 6012(a) of the Internal 
+Revenue Code of 1986 <<NOTE: 26 USC 6012.>> (relating to persons 
+required to make returns of income) is amended by striking ``or which 
+has'' and all that follows through ``section)''.
+
+    (b) Income Tax Returns Not Subject to Disclosure.--
+            (1) Disclosure by the secretary.--Subsection (b) of section 
+        6104 of such Code <<NOTE: 26 USC 6104.>> (relating to disclosure 
+        by the Secretary of annual information returns) is amended by 
+        striking ``6012(a)(6),''.
+            (2) Public inspection.--Subsection (d) of section 6104 of 
+        such Code (relating to public inspection of certain annual 
+        returns) is amended--
+                    (A) in paragraph (1)(A)(i) by striking ``or section 
+                6012(a)(6) (relating to returns by political 
+                organizations)'', and
+                    (B) in subparagraph (2) by striking ``or section 
+                6012(a)(6)''.
+
+    (c) Information Returns.--Subsection (g) of section 6033 of such 
+Code <<NOTE: 26 USC 6033.>> (relating to returns required by political 
+organizations) is amended to read as follows:
+
+    ``(g) Returns Required by Political Organizations.--
+            ``(1) In general.--This <<NOTE: Applicability.>> section 
+        shall apply to a political organization (as defined by section 
+        527(e)(1)) which has gross receipts of $25,000 or more for the 
+        taxable year. In the case of a political organization which is a 
+        qualified State or local political organization (as defined in 
+        section 527(e)(5)), the preceding sentence shall be applied by 
+        substituting `$100,000' for `$25,000'.
+            ``(2) Annual returns.--Political organizations described in 
+        paragraph (1) shall file an annual return--
+                    ``(A) containing the information required, and 
+                complying with the other requirements, under subsection 
+                (a)(1) for organizations exempt from taxation under 
+                section 501(a), with such modifications as the Secretary 
+                considers appropriate to require only information which 
+                is necessary for the purposes of carrying out section 
+                527, and
+                    ``(B) containing such other information as the 
+                Secretary deems necessary to carry out the provisions of 
+                this subsection.
+            ``(3) Mandatory exceptions from filing.--Paragraph (2) shall 
+        not apply to an organization--
+                    ``(A) which is a State or local committee of a 
+                political party, or political committee of a State or 
+                local candidate,
+
+[[Page 116 STAT. 1932]]
+
+                    ``(B) which is a caucus or association of State or 
+                local officials,
+                    ``(C) which is an authorized committee (as defined 
+                in section 301(6) of the Federal Election Campaign Act 
+                of 1971) of a candidate for Federal office,
+                    ``(D) which is a national committee (as defined in 
+                section 301(14) of the Federal Election Campaign Act of 
+                1971) of a political party,
+                    ``(E) which is a United States House of 
+                Representatives or United States Senate campaign 
+                committee of a political party committee,
+                    ``(F) which is required to report under the Federal 
+                Election Campaign Act of 1971 as a political committee 
+                (as defined in section 301(4) of such Act), or
+                    ``(G) to which section 527 applies for the taxable 
+                year solely by reason of subsection (f)(1) of such 
+                section.
+            ``(4) Discretionary exception.--The Secretary may relieve 
+        any organization required under paragraph (2) to file an 
+        information return from filing such a return if the Secretary 
+        determines that such filing is not necessary to the efficient 
+        administration of the internal revenue laws.''.
+
+    (d) Effective Date.--The <<NOTE: 26 USC 6012 note.>> amendments made 
+by this section shall take effect as if included in the amendments made 
+by Public Law 106-230.
+
+SEC. 4. <<NOTE: Public information. 26 USC 527 note.>> NOTIFICATION OF 
+            INTERACTION OF REPORTING REQUIREMENTS.
+
+    (a) In General.--The Secretary of the Treasury, in consultation with 
+the Federal Election Commission, shall publicize--
+            (1) the effect of the amendments made by this Act, and
+            (2) the interaction of requirements to file a notification 
+        or report under section 527 of the Internal Revenue Code of 1986 
+        and reports under the Federal Election Campaign Act of 1971.
+
+    (b) Information.--Information provided under subsection (a) shall be 
+included in any appropriate form, instruction, notice, or other guidance 
+issued to the public by the Secretary of the Treasury or the Federal 
+Election Commission regarding reporting requirements of political 
+organizations (as defined in section 527 of the Internal Revenue Code of 
+1986) or reporting requirements under the Federal Election Campaign Act 
+of 1971.
+
+SEC. 5. WAIVER OF FILING AMOUNTS.
+
+    (a) Waiver of Filing Amounts.--Section 527 of the Internal Revenue 
+Code of 1986 <<NOTE: 26 USC 527.>> is amended by adding at the end the 
+following:
+
+    ``(k) Authority To Waive.--The Secretary may waive all or any 
+portion of the--
+            ``(1) tax assessed on an organization by reason of the 
+        failure of the organization to comply with the requirements of 
+        subsection (i), or
+            ``(2) amount imposed under subsection (j) for a failure to 
+        comply with the requirements thereof,
+
+on a showing that such failure was due to reasonable cause and not due 
+to willful neglect.''.
+    (b) Effective Date.--The <<NOTE: 26 USC 527 note.>> amendment made 
+by subsection (a) shall apply to any tax assessed or amount imposed 
+after June 30, 2000.
+
+[[Page 116 STAT. 1933]]
+
+SEC. 6. MODIFICATIONS TO SECTION 527 ORGANIZATION DISCLOSURE PROVISIONS.
+
+    (a) Unsegregated Funds Not To Avoid Tax.--Paragraph (4) of section 
+527(i) of the Internal Revenue Code of 1986 <<NOTE: 26 USC 
+527.>> (relating to failure to notify) is amended by adding at the end 
+the following new sentence: ``For purposes of the preceding sentence, 
+the term `exempt function income' means any amount described in a 
+subparagraph of subsection (c)(3), whether or not segregated for use for 
+an exempt function.''.
+
+    (b) Procedures for Assessment and Collection of Amounts.--Paragraph 
+(1) of section 527(j) of the Internal Revenue Code of 1986 (relating to 
+required disclosure of expenditures and contributions) is amended by 
+adding at the end the following new sentence: ``For purposes of subtitle 
+F, the amount imposed by this paragraph shall be assessed and collected 
+in the same manner as penalties imposed by section 6652(c).''.
+    (c) Duplicate Written Filings Not Required.--Subparagraph (A) of 
+section 527(i)(1) of the Internal Revenue Code of 1986 is amended by 
+striking ``, electronically and in writing,'' and inserting 
+``electronically''.
+    (d) Application of Fraud Penalty.--Section 7207 of the Internal 
+Revenue Code of 1986 <<NOTE: 26 USC 7207.>> (relating to fraudulent 
+returns, statements, and other documents) is amended by striking 
+``pursuant to subsection (b) of section 6047 or pursuant to subsection 
+(d) of section 6104'' and inserting ``pursuant to section 6047(b), 
+section 6104(d), or subsection (i) or (j) of section 527''.
+
+    (e) Contents and Filing of Report.--
+            (1) Contents.--Section 527(j)(3) of the Internal Revenue 
+        Code of 1986 (relating to contents of report) is amended--
+                    (A) by inserting ``, date, and purpose'' after ``The 
+                amount'' in subparagraph (A), and
+                    (B) by inserting ``and date'' after ``the amount'' 
+                in subparagraph (B).
+            (2) Electronic filing.--Section 527(j) of such Code is 
+        amended by adding at the end the following new paragraph:
+            ``(7) Electronic filing.--Any report required under 
+        paragraph (2) with respect to any calendar year shall be filed 
+        in electronic form if the organization has, or has reason to 
+        expect to have, contributions exceeding $50,000 or expenditures 
+        exceeding $50,000 in such calendar year.''.
+            (3) Electronic filing and access of required disclosures.--
+        Section 527 of such Code, as amended by section 5(a), is amended 
+        by redesignating subsection (k) as subsection (l) and by 
+        inserting after subsection (j) the following new subsection:
+
+    ``(k) Public Availability of Notices and Reports.--
+            ``(1) In general.--The <<NOTE: Deadline.>> Secretary shall 
+        make any notice described in subsection (i)(1) or report 
+        described in subsection (j)(7) available for public inspection 
+        on the Internet not later than 48 hours after such notice or 
+        report has been filed (in addition to such public availability 
+        as may be made under section 6104(d)(7)).
+            ``(2) Access.--The Secretary shall make the entire database 
+        of notices and reports which are made available to the public 
+        under paragraph (1) searchable by the following items (to the 
+        extent the items are required to be included in the notices and 
+        reports):
+
+[[Page 116 STAT. 1934]]
+
+                    ``(A) Names, States, zip codes, custodians of 
+                records, directors, and general purposes of the 
+                organizations.
+                    ``(B) Entities related to the organizations.
+                    ``(C) Contributors to the organizations.
+                    ``(D) Employers of such contributors.
+                    ``(E) Recipients of expenditures by the 
+                organizations.
+                    ``(F) Ranges of contributions and expenditures.
+                    ``(G) Time periods of the notices and reports.
+        Such database shall be downloadable.''.
+
+    (f) Contents of Notice.--Section 527(i)(3) of the Internal Revenue 
+Code of 1986 <<NOTE: 26 USC 527.>> (relating to contents of notice) is 
+amended by striking ``and'' at the end of subparagraph (D), by 
+redesignating subparagraph (E) as subparagraph (F), and by inserting 
+after subparagraph (D) the following new subparagraph:
+                    ``(E) whether the organization intends to claim an 
+                exemption from the requirements of subsection (j) or 
+                section 6033, and''.
+
+    (g) Timing of Notice in Case of Material Change.--
+            (1) In general.--Subparagraph (B) of section 527(i)(1) of 
+        the Internal Revenue Code of 1986 (relating to general 
+        notification requirement) is amended by inserting ``or, in the 
+        case of any material change in the information required under 
+        paragraph (3), for the period beginning on the date on which the 
+        material change occurs and ending on the date on which such 
+        notice is given'' after ``given''.
+            (2) Time to give notice.--
+        Section <<NOTE: Deadline.>> 527(i)(2) of the Internal Revenue 
+        Code of 1986 (relating to time to give notice) is amended by 
+        inserting ``or, in the case of any material change in the 
+        information required under paragraph (3), not later than 30 days 
+        after such material change'' after ``established''.
+            (3) Effect of failure.--Paragraph (4) of section 527(i) of 
+        the Internal Revenue Code of 1986 (relating to effect of 
+        failure) is amended by inserting before the period at the end 
+        the following: ``or, in the case of a failure relating to a 
+        material change, by taking into account such income and 
+        deductions only during the period beginning on the date on which 
+        the material change occurs and ending on the date on which 
+        notice is given under this subsection''.
+
+    (h) Effective <<NOTE: Applicability.>> Dates.--
+            (1) Subsections (a) and (b).--The <<NOTE: 26 USC 527 
+        note.>> amendments made by subsections (a) and (b) shall apply 
+        to failures occurring on or after the date of the enactment of 
+        this Act.
+            (2) Subsection (c).--The <<NOTE: 26 USC 527 
+        note.>> amendments made by subsection (c) shall take effect as 
+        if included in the amendments made by Public Law 106-230.
+            (3) Subsection (d).--The <<NOTE: 26 USC 7207 
+        note.>> amendment made by subsection (d) shall apply to reports 
+        and notices required to be filed on or after the date of the 
+        enactment of this Act.
+            (4) Subsections (e)(1) and (f).--The <<NOTE: 26 USC 527 
+        note.>> amendments made by subsections (e)(1) and (f) shall 
+        apply to reports and notices required to be filed more than 30 
+        days after the date of the enactment of this Act.
+            (5) Subsections (e)(2) and (e)(3).--The <<NOTE: 26 USC 527 
+        note.>> amendments made by subsections (e)(2) and (e)(3) shall 
+        apply to reports required to be filed on or after June 30, 2003.
+            (6) Subsection (g).--
+
+[[Page 116 STAT. 1935]]
+
+                    (A) In general.--The amendments made by subsection 
+                (g) shall apply to material changes on or after the date 
+                of the enactment of this Act.
+                    (B) Transition rule.--In the case of a material 
+                change occurring during the 30-day period beginning on 
+                the date of the enactment of this Act, a notice under 
+                section 527(i) of the Internal Revenue Code of 1986 (as 
+                amended by this Act) shall not be required to be filed 
+                under such section before the later of--
+                          (i) 30 days after the date of such material 
+                      change, or
+                          (ii) 45 days after the date of the enactment 
+                      of this Act.
+
+SEC. 7. <<NOTE: 26 USC 6104 note.>> EFFECT OF AMENDMENTS ON EXISTING 
+            DISCLOSURES.
+
+    Notices, reports, or returns that were required to be filed with the 
+Secretary of the Treasury before the date of the enactment of the 
+amendments made by this Act and that were disclosed by the Secretary of 
+the Treasury consistent with the law in effect at the time of disclosure 
+shall remain subject on and after such date to the disclosure provisions 
+of section 6104 of the Internal Revenue Code of 1986.
+
+    Approved November 2, 2002.
+
+LEGISLATIVE HISTORY--H.R. 5596:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 148 (2002):
+            Oct. 16, considered and passed House.
+            Oct. 17, considered and passed Senate.
+
+                                  
+

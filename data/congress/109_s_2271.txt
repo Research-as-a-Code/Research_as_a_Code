@@ -1,0 +1,273 @@
+
+[109th Congress Public Law 178]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ178.109]
+
+[[Page 277]]
+
+     USA PATRIOT ACT ADDITIONAL REAUTHORIZING AMENDMENTS ACT OF 2006
+
+[[Page 120 STAT. 278]]
+
+Public Law 109-178
+109th Congress
+
+                                 An Act
+
+
+ 
+   To clarify that individuals who receive FISA orders can challenge 
+   nondisclosure requirements, that individuals who receive national 
+    security letters are not required to disclose the name of their 
+   attorney, that libraries are not wire or electronic communication 
+ service providers unless they provide specific services, and for other 
+             purposes. <<NOTE: Mar. 9, 2006 -  [S. 2271]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: USA PATRIOT Act Additional 
+Reauthorizing Amendments Act of 2006. Terrorism. 18 USC 1 
+note.>> assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``USA PATRIOT Act Additional 
+Reauthorizing Amendments Act of 2006''.
+
+SEC. 2. DEFINITION.
+
+    As used in this Act, the term ``applicable Act'' means the Act 
+entitled ``An Act to extend and modify authorities needed to combat 
+terrorism, and for other purposes.'' (109th Congress, 2d Session).
+
+SEC. 3. JUDICIAL REVIEW OF FISA ORDERS.
+
+    Subsection (f) of section 501 of the Foreign Intelligence 
+Surveillance Act of 1978 (50 U.S.C. 1861), as amended by the applicable 
+Act, is amended to read as follows:
+    ``(f)(1) In this subsection--
+            ``(A) the term `production order' means an order to produce 
+        any tangible thing under this section; and
+            ``(B) the term `nondisclosure order' means an order imposed 
+        under subsection (d).
+
+    ``(2)(A)(i) A person receiving a production order may challenge the 
+legality of that order by filing a petition with the pool established by 
+section 103(e)(1). <<NOTE: Deadline.>> Not less than 1 year after the 
+date of the issuance of the production order, the recipient of a 
+production order may challenge the nondisclosure order imposed in 
+connection with such production order by filing a petition to modify or 
+set aside such nondisclosure order, consistent with the requirements of 
+subparagraph (C), with the pool established by section 103(e)(1).
+
+    ``(ii) The presiding judge shall immediately assign a petition under 
+clause (i) to 1 of the judges serving in the pool established by section 
+103(e)(1). <<NOTE: Deadline.>> Not later than 72 hours after the 
+assignment of such petition, the assigned judge shall conduct an initial 
+review of the petition. If the assigned judge determines that the 
+petition is frivolous, the assigned judge shall immediately deny the 
+petition and affirm the production order or nondisclosure order. If the 
+assigned judge determines the petition is not frivolous, the assigned 
+judge shall promptly consider the petition in accordance with the 
+procedures established under section 103(e)(2).
+
+[[Page 120 STAT. 279]]
+
+    ``(iii) <<NOTE: Records.>> The assigned judge shall promptly provide 
+a written statement for the record of the reasons for any determination 
+under this subsection. Upon the request of the Government, any order 
+setting aside a nondisclosure order shall be stayed pending review 
+pursuant to paragraph (3).
+
+    ``(B) A judge considering a petition to modify or set aside a 
+production order may grant such petition only if the judge finds that 
+such order does not meet the requirements of this section or is 
+otherwise unlawful. If the judge does not modify or set aside the 
+production order, the judge shall immediately affirm such order, and 
+order the recipient to comply therewith.
+    ``(C)(i) A judge considering a petition to modify or set aside a 
+nondisclosure order may grant such petition only if the judge finds that 
+there is no reason to believe that disclosure may endanger the national 
+security of the United States, interfere with a criminal, 
+counterterrorism, or counterintelligence investigation, interfere with 
+diplomatic relations, or endanger the life or physical safety of any 
+person.
+    ``(ii) <<NOTE: Certification.>> If, upon filing of such a petition, 
+the Attorney General, Deputy Attorney General, an Assistant Attorney 
+General, or the Director of the Federal Bureau of Investigation 
+certifies that disclosure may endanger the national security of the 
+United States or interfere with diplomatic relations, such certification 
+shall be treated as conclusive, unless the judge finds that the 
+certification was made in bad faith.
+
+    ``(iii) If the judge denies a petition to modify or set aside a 
+nondisclosure order, the recipient of such order shall be precluded for 
+a period of 1 year from filing another such petition with respect to 
+such nondisclosure order.
+    ``(D) Any production or nondisclosure order not explicitly modified 
+or set aside consistent with this subsection shall remain in full 
+effect.
+    ``(3) A petition for review of a decision under paragraph (2) to 
+affirm, modify, or set aside an order by the Government or any person 
+receiving such order shall be made to the court of review established 
+under section 103(b), which shall have jurisdiction to consider such 
+petitions. <<NOTE: Records.>> The court of review shall provide for the 
+record a written statement of the reasons for its decision and, on 
+petition by the Government or any person receiving such order for writ 
+of certiorari, the record shall be transmitted under seal to the Supreme 
+Court of the United States, which shall have jurisdiction to review such 
+decision.
+
+    ``(4) Judicial proceedings under this subsection shall be concluded 
+as expeditiously as possible. <<NOTE: Records.>> The record of 
+proceedings, including petitions filed, orders granted, and statements 
+of reasons for decision, shall be maintained under security measures 
+established by the Chief Justice of the United States, in consultation 
+with the Attorney General and the Director of National Intelligence.
+
+    ``(5) All petitions under this subsection shall be filed under seal. 
+In any proceedings under this subsection, the court shall, upon request 
+of the Government, review ex parte and in camera any Government 
+submission, or portions thereof, which may include classified 
+information.''.
+
+[[Page 120 STAT. 280]]
+
+SEC. 4. DISCLOSURES.
+
+    (a) FISA.--Subparagraph (C) of section 501(d)(2) of the Foreign 
+Intelligence Surveillance Act of 1978 (50 U.S.C. 1861(d)(2)), as amended 
+by the applicable Act, is amended to read as follows:
+    ``(C) At the request of the Director of the Federal Bureau of 
+Investigation or the designee of the Director, any person making or 
+intending to make a disclosure under subparagraph (A) or (C) of 
+paragraph (1) shall identify to the Director or such designee the person 
+to whom such disclosure will be made or to whom such disclosure was made 
+prior to the request.''.
+    (b) Title 18.--Paragraph (4) of section 2709(c) of title 18, United 
+States Code, as amended by the applicable Act, is amended to read as 
+follows:
+            ``(4) At the request of the Director of the Federal Bureau 
+        of Investigation or the designee of the Director, any person 
+        making or intending to make a disclosure under this section 
+        shall identify to the Director or such designee the person to 
+        whom such disclosure will be made or to whom such disclosure was 
+        made prior to the request, except that nothing in this section 
+        shall require a person to inform the Director or such designee 
+        of the identity of an attorney to whom disclosure was made or 
+        will be made to obtain legal advice or legal assistance with 
+        respect to the request under subsection (a).''.
+
+    (c) Fair Credit Reporting Act.--
+            (1) In general.--Paragraph (4) of section 626(d) of the Fair 
+        Credit Reporting Act (15 U.S.C. 1681u(d)), as amended by the 
+        applicable Act, is amended to read as follows:
+            ``(4) At the request of the Director of the Federal Bureau 
+        of Investigation or the designee of the Director, any person 
+        making or intending to make a disclosure under this section 
+        shall identify to the Director or such designee the person to 
+        whom such disclosure will be made or to whom such disclosure was 
+        made prior to the request, except that nothing in this section 
+        shall require a person to inform the Director or such designee 
+        of the identity of an attorney to whom disclosure was made or 
+        will be made to obtain legal advice or legal assistance with 
+        respect to the request for the identity of financial 
+        institutions or a consumer report respecting any consumer under 
+        this section.''.
+            (2) Other agencies.--Paragraph (4) of section 627(c) of the 
+        Fair Credit Reporting Act (15 U.S.C. 1681v(c)), as amended by 
+        the applicable Act, is amended to read as follows:
+            ``(4) At the request of the authorized government agency, 
+        any person making or intending to make a disclosure under this 
+        section shall identify to the requesting official of the 
+        authorized government agency the person to whom such disclosure 
+        will be made or to whom such disclosure was made prior to the 
+        request, except that nothing in this section shall require a 
+        person to inform the requesting official of the identity of an 
+        attorney to whom disclosure was made or will be made to obtain 
+        legal advice or legal assistance with respect to the request for 
+        information under subsection (a).''.
+
+    (d) Right to Financial Privacy Act.--
+            (1) In general.--Subparagraph (D) of section 1114(a)(3) of 
+        the Right to Financial Privacy Act (12 U.S.C. 3414(a)(3)), as 
+        amended by the applicable Act, is amended to read as follows:
+
+[[Page 120 STAT. 281]]
+
+            ``(D) At the request of the authorized Government authority 
+        or the Secret Service, any person making or intending to make a 
+        disclosure under this section shall identify to the requesting 
+        official of the authorized Government authority or the Secret 
+        Service the person to whom such disclosure will be made or to 
+        whom such disclosure was made prior to the request, except that 
+        nothing in this section shall require a person to inform the 
+        requesting official of the authorized Government authority or 
+        the Secret Service of the identity of an attorney to whom 
+        disclosure was made or will be made to obtain legal advice or 
+        legal assistance with respect to the request for financial 
+        records under this subsection.''.
+            (2) Federal bureau of investigation.--Clause (iv) of section 
+        1114(a)(5)(D) of the Right to Financial Privacy Act (12 U.S.C. 
+        3414(a)(5)(D)), as amended by the applicable Act, is amended to 
+        read as follows:
+                          ``(iv) At the request of the Director of the 
+                      Federal Bureau of Investigation or the designee of 
+                      the Director, any person making or intending to 
+                      make a disclosure under this section shall 
+                      identify to the Director or such designee the 
+                      person to whom such disclosure will be made or to 
+                      whom such disclosure was made prior to the 
+                      request, except that nothing in this section shall 
+                      require a person to inform the Director or such 
+                      designee of the identity of an attorney to whom 
+                      disclosure was made or will be made to obtain 
+                      legal advice or legal assistance with respect to 
+                      the request for financial records under 
+                      subparagraph (A).''.
+
+    (e) National Security Act of 1947.--Paragraph (4) of section 802(b) 
+of the National Security Act of 1947 (50 U.S.C. 436(b)), as amended by 
+the applicable Act, is amended to read as follows:
+            ``(4) At the request of the authorized investigative agency, 
+        any person making or intending to make a disclosure under this 
+        section shall identify to the requesting official of the 
+        authorized investigative agency the person to whom such 
+        disclosure will be made or to whom such disclosure was made 
+        prior to the request, except that nothing in this section shall 
+        require a person to inform the requesting official of the 
+        identity of an attorney to whom disclosure was made or will be 
+        made to obtain legal advice or legal assistance with respect to 
+        the request under subsection (a).''.
+
+SEC. 5. PRIVACY PROTECTIONS FOR LIBRARY PATRONS.
+
+    Section 2709 of title 18, United States Code, as amended by the 
+applicable Act, is amended by adding at the end the following:
+    ``(f) Libraries.--A library (as that term is defined in section 
+213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), 
+the services of which include access to the Internet, books, journals, 
+magazines, newspapers, or other similar forms of communication in print 
+or digitally by patrons for their use, review, examination, or 
+circulation, is not a wire or electronic communication service provider 
+for purposes of this section, unless the library is providing the 
+services defined in section 2510(15) (`electronic communication 
+service') of this title.''.
+
+[[Page 120 STAT. 282]]
+
+    This <<NOTE: Effective date. 12 USC 3414 note.>> Act shall become 
+effective immediately upon enactment.
+
+    Approved March 9, 2006.
+
+LEGISLATIVE HISTORY--S. 2271:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 152 (2006):
+            Feb. 16, 27, 28, Mar. 1, considered and passed Senate.
+            Mar. 7, considered and passed House.
+
+                                  
+

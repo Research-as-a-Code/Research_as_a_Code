@@ -1,0 +1,3525 @@
+
+[115th Congress Public Law 10]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 17]]
+
+ NATIONAL AERONAUTICS AND SPACE ADMINISTRATION TRANSITION AUTHORIZATION 
+                               ACT OF 2017
+
+[[Page 131 STAT. 18]]
+
+Public Law 115-10
+115th Congress
+
+                                 An Act
+
+
+ 
+    To authorize the programs of the National Aeronautics and Space 
+  Administration, and for other purposes. <<NOTE: Mar. 21, 2017 -  [S. 
+                                 442]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: National 
+Aeronautics and Space Administration Transition Authorization Act of 
+2017. 51 USC 10101 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``National 
+Aeronautics and Space Administration Transition Authorization Act of 
+2017''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+                TITLE I--AUTHORIZATION OF APPROPRIATIONS
+
+Sec. 101. Fiscal year 2017.
+
+             TITLE II--SUSTAINING NATIONAL SPACE COMMITMENTS
+
+Sec. 201. Sense of Congress on sustaining national space commitments.
+Sec. 202. Findings.
+
+    TITLE III--MAXIMIZING UTILIZATION OF THE ISS AND LOW-EARTH ORBIT
+
+Sec. 301. Operation of the ISS.
+Sec. 302. Transportation to ISS.
+Sec. 303. ISS transition plan.
+Sec. 304. Space communications.
+Sec. 305. Indemnification; NASA launch services and reentry services.
+
+            TITLE IV--ADVANCING HUMAN DEEP SPACE EXPLORATION
+
+   Subtitle A--Human Space Flight and Exploration Goals and Objectives
+
+Sec. 411. Human space flight and exploration long-term goals.
+Sec. 412. Key objectives.
+Sec. 413. Vision for space exploration.
+Sec. 414. Stepping stone approach to exploration.
+Sec. 415. Update of exploration plan and programs.
+Sec. 416. Repeals.
+Sec. 417. Assured access to space.
+
+         Subtitle B--Assuring Core Capabilities for Exploration
+
+Sec. 421. Space Launch System, Orion, and Exploration Ground Systems.
+
+                       Subtitle C--Journey to Mars
+
+Sec. 431. Findings on human space exploration.
+Sec. 432. Human exploration roadmap.
+Sec. 433. Advanced space suit capability.
+Sec. 434. Asteroid robotic redirect mission.
+Sec. 435. Mars 2033 report.
+
+                    Subtitle D--TREAT Astronauts Act
+
+Sec. 441. Short title.
+
+[[Page 131 STAT. 19]]
+
+Sec. 442. Findings; sense of Congress.
+Sec. 443. Medical monitoring and research relating to human space 
+           flight.
+
+                    TITLE V--ADVANCING SPACE SCIENCE
+
+Sec. 501. Maintaining a balanced space science portfolio.
+Sec. 502. Planetary science.
+Sec. 503. James Webb Space Telescope.
+Sec. 504. Wide-Field Infrared Survey Telescope.
+Sec. 505. Mars 2020 rover.
+Sec. 506. Europa.
+Sec. 507. Congressional declaration of policy and purpose.
+Sec. 508. Extrasolar planet exploration strategy.
+Sec. 509. Astrobiology strategy.
+Sec. 510. Astrobiology public-private partnerships.
+Sec. 511. Near-Earth objects.
+Sec. 512. Near-Earth objects public-private partnerships.
+Sec. 513. Assessment of science mission extensions.
+Sec. 514. Stratospheric observatory for infrared astronomy.
+Sec. 515. Radioisotope power systems.
+Sec. 516. Assessment of Mars architecture.
+Sec. 517. Collaboration.
+
+                          TITLE VI--AERONAUTICS
+
+Sec. 601. Sense of Congress on aeronautics.
+Sec. 602. Transformative aeronautics research.
+Sec. 603. Hypersonic research.
+Sec. 604. Supersonic research.
+Sec. 605. Rotorcraft research.
+
+                       TITLE VII--SPACE TECHNOLOGY
+
+Sec. 701. Space technology infusion.
+Sec. 702. Space technology program.
+
+                    TITLE VIII--MAXIMIZING EFFICIENCY
+
+       Subtitle A--Agency Information Technology and Cybersecurity
+
+Sec. 811. Information technology governance.
+Sec. 812. Information technology strategic plan.
+Sec. 813. Cybersecurity.
+Sec. 814. Security management of foreign national access.
+Sec. 815. Cybersecurity of web applications.
+
+ Subtitle B--Collaboration Among Mission Directorates and Other Matters
+
+Sec. 821. Collaboration among mission directorates.
+Sec. 822. NASA launch capabilities collaboration.
+Sec. 823. Detection and avoidance of counterfeit parts.
+Sec. 824. Education and outreach.
+Sec. 825. Leveraging commercial satellite servicing capabilities across 
+           mission directorates.
+Sec. 826. Flight opportunities.
+Sec. 827. Sense of Congress on small class launch missions.
+Sec. 828. Baseline and cost controls.
+Sec. 829. Commercial technology transfer program.
+Sec. 830. Avoiding organizational conflicts of interest in major 
+           administration acquisition programs.
+Sec. 831. Protection of Apollo landing sites.
+Sec. 832. NASA lease of non-excess property.
+Sec. 833. Termination liability.
+Sec. 834. Independent reviews.
+Sec. 835. NASA Advisory Council.
+Sec. 836. Cost estimation.
+Sec. 837. Facilities and infrastructure.
+Sec. 838. Human space flight accident investigations.
+Sec. 839. Orbital debris.
+Sec. 840. Review of orbital debris removal concepts.
+Sec. 841. Space Act Agreements.
+
+SEC. 2. <<NOTE: 51 USC 10101 note.>>  DEFINITIONS.
+
+    In this Act:
+            (1) Administration.--The term ``Administration'' means the 
+        National Aeronautics and Space Administration.
+
+[[Page 131 STAT. 20]]
+
+            (2) Administrator.--The term ``Administrator'' means the 
+        Administrator of the National Aeronautics and Space 
+        Administration.
+            (3) Appropriate committees of congress.--The term 
+        ``appropriate committees of Congress'' means--
+                    (A) the Committee on Commerce, Science, and 
+                Transportation of the Senate; and
+                    (B) the Committee on Science, Space, and Technology 
+                of the House of Representatives.
+            (4) Cis-lunar space.--The term ``cis-lunar space'' means the 
+        region of space from the Earth out to and including the region 
+        around the surface of the Moon.
+            (5) Deep space.--The term ``deep space'' means the region of 
+        space beyond low-Earth orbit, to include cis-lunar space.
+            (6) Government astronaut.--The term ``government astronaut'' 
+        has the meaning given the term in section 50902 of title 51, 
+        United States Code.
+            (7) ISS.--The term ``ISS'' means the International Space 
+        Station.
+            (8) ISS management entity.--The term ``ISS management 
+        entity'' means the organization with which the Administrator has 
+        a cooperative agreement under section 504(a) of the National 
+        Aeronautics and Space Administration Authorization Act of 2010 
+        (42 U.S.C. 18354(a)).
+            (9) NASA.--The term ``NASA'' means the National Aeronautics 
+        and Space Administration.
+            (10) Orion.--The term ``Orion'' means the multipurpose crew 
+        vehicle described under section 303 of the National Aeronautics 
+        and Space Administration Authorization Act of 2010 (42 U.S.C. 
+        18323).
+            (11) Space launch system.--The term ``Space Launch System'' 
+        has the meaning given the term in section 3 of the National 
+        Aeronautics and Space Administration Authorization Act of 2010 
+        (42 U.S.C. 18302).
+            (12) United states government astronaut.--The term ``United 
+        States government astronaut'' has the meaning given the term 
+        ``government astronaut'' in section 50902 of title 51, United 
+        States Code, except it does not include an individual who is an 
+        international partner astronaut.
+
+                TITLE I--AUTHORIZATION OF APPROPRIATIONS
+
+SEC. 101. FISCAL YEAR 2017.
+
+    There are authorized to be appropriated to NASA for fiscal year 
+2017, $19,508,000,000, as follows:
+            (1) For Exploration, $4,330,000,000.
+            (2) For Space Operations, $5,023,000,000.
+            (3) For Science, $5,500,000,000.
+            (4) For Aeronautics, $640,000,000.
+            (5) For Space Technology, $686,000,000.
+            (6) For Education, $115,000,000.
+            (7) For Safety, Security, and Mission Services, 
+        $2,788,600,000.
+            (8) For Construction and Environmental Compliance and 
+        Restoration, $388,000,000.
+
+[[Page 131 STAT. 21]]
+
+            (9) For Inspector General, $37,400,000.
+
+             TITLE II--SUSTAINING NATIONAL SPACE COMMITMENTS
+
+SEC. 201. SENSE OF CONGRESS ON SUSTAINING NATIONAL SPACE 
+                        COMMITMENTS.
+
+    It is the sense of Congress that--
+            (1) honoring current national space commitments and building 
+        upon investments in space across successive Administrations 
+        demonstrates clear continuity of purpose by the United States, 
+        in collaboration with its international, academic, and industry 
+        partners, to extend humanity's reach into deep space, including 
+        cis-lunar space, the Moon, the surface and moons of Mars, and 
+        beyond;
+            (2) NASA leaders can best leverage investments in the United 
+        States space program by continuing to develop a balanced 
+        portfolio for space exploration and space science, including 
+        continued development of the Space Launch System, Orion, 
+        Commercial Crew Program, space and planetary science missions 
+        such as the James Webb Space Telescope, Wide-Field Infrared 
+        Survey Telescope, and Europa mission, and ongoing operations of 
+        the ISS and Commercial Resupply Services Program;
+            (3) a national, government-led space program that builds on 
+        current science and exploration programs, advances human 
+        knowledge and capabilities, and opens the frontier beyond Earth 
+        for ourselves, commercial enterprise, and science, and with our 
+        international partners, is of critical importance to our 
+        national destiny and to a future guided by United States values 
+        and freedoms;
+            (4) continuity of purpose and effective execution of core 
+        NASA programs are essential for efficient use of resources in 
+        pursuit of timely and tangible accomplishments;
+            (5) NASA could improve its efficiency and effectiveness by 
+        working with industry to streamline existing programs and 
+        requirements, procurement practices, institutional footprint, 
+        and bureaucracy while preserving effective program oversight, 
+        accountability, and safety;
+            (6) it is imperative that the United States maintain and 
+        enhance its leadership in space exploration and space science, 
+        and continue to expand freedom and economic opportunities in 
+        space for all Americans that are consistent with the 
+        Constitution of the United States; and
+            (7) NASA should be a multi-mission space agency, and should 
+        have a balanced and robust set of core missions in space 
+        science, space technology, aeronautics, human space flight and 
+        exploration, and education.
+SEC. 202. FINDINGS.
+
+    Congress makes the following findings:
+            (1) Returns on the Nation's investments in science, 
+        technology, and exploration accrue over decades-long timeframes, 
+        and a disruption of such investments could prevent returns from 
+        being fully realized.
+
+[[Page 131 STAT. 22]]
+
+            (2) Past challenges to the continuity of such investments, 
+        particularly threats regarding the cancellation of authorized 
+        programs with bipartisan and bicameral support, have disrupted 
+        completion of major space systems thereby--
+                    (A) impeding planning and pursuit of national 
+                objectives in space science and human space exploration;
+                    (B) placing such investments in space science and 
+                space exploration at risk; and
+                    (C) degrading the aerospace industrial base.
+            (3) The National Aeronautics and Space Administration 
+        Authorization Act of 2005 (Public Law 109-155; 119 Stat. 2895), 
+        National Aeronautics and Space Administration Authorization Act 
+        of 2008 (Public Law 110-422; 122 Stat. 4779), and National 
+        Aeronautics and Space Administration Authorization Act of 2010 
+        (42 U.S.C. 18301 et seq.) reflect a broad, bipartisan agreement 
+        on the path forward for NASA's core missions in science, space 
+        technology, aeronautics, human space flight and exploration, and 
+        education, that serves as the foundation for the policy updates 
+        by this Act.
+            (4) Sufficient investment and maximum utilization of the ISS 
+        and ISS National Laboratory with our international and industry 
+        partners is--
+                    (A) consistent with the goals and objectives of the 
+                United States space program; and
+                    (B) imperative to continuing United States global 
+                leadership in human space exploration, science, 
+                research, technology development, and education 
+                opportunities that contribute to development of the next 
+                generation of American scientists, engineers, and 
+                leaders, and to creating the opportunity for economic 
+                development of low-Earth orbit.
+            (5) NASA has made measurable progress in the development and 
+        testing of the Space Launch System and Orion exploration systems 
+        with the near-term objectives of the initial integrated test 
+        flight and launch in 2018, a human mission in 2021, and 
+        continued missions with an annual cadence in cis-lunar space and 
+        eventually to the surface of Mars.
+            (6) The Commercial Crew Program has made measurable progress 
+        toward reestablishing the capability to launch United States 
+        government astronauts from United States soil into low-Earth 
+        orbit by the end of 2018.
+            (7) The Aerospace Safety Advisory Panel, in its 2015 Annual 
+        Report, urged continuity of purpose noting concerns over the 
+        potential for cost overruns and schedule slips that could 
+        accompany significant changes to core NASA programs.
+
+    TITLE III--MAXIMIZING UTILIZATION OF THE ISS AND LOW-EARTH ORBIT
+
+SEC. 301. <<NOTE: 51 USC 50111 note.>>  OPERATION OF THE ISS.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) after 15 years of continuous human presence in low-Earth 
+        orbit, the ISS continues to overcome challenges and operate 
+        safely;
+            (2) the ISS is a unique testbed for future space exploration 
+        systems development, including long-duration space travel;
+
+[[Page 131 STAT. 23]]
+
+            (3) the expansion of partnerships, scientific research, and 
+        commercial applications of the ISS is essential to ensuring the 
+        greatest return on investments made by the United States and its 
+        international space partners in the development, assembly, and 
+        operations of that unique facility;
+            (4) utilization of the ISS will sustain United States 
+        leadership and progress in human space exploration by--
+                    (A) facilitating the commercialization and economic 
+                development of low-Earth orbit;
+                    (B) serving as a testbed for technologies and a 
+                platform for scientific research and development; and
+                    (C) serving as an orbital facility enabling research 
+                upon--
+                          (i) the health, well-being, and performance of 
+                      humans in space; and
+                          (ii) the development of in-space systems 
+                      enabling human space exploration beyond low-Earth 
+                      orbit; and
+            (5) the ISS provides a platform for fundamental, 
+        microgravity, discovery-based space life and physical sciences 
+        research that is critical for enabling space exploration, 
+        protecting humans in space, increasing pathways for commercial 
+        space development that depend on advances in basic research, and 
+        contributes to advancing science, technology, engineering, and 
+        mathematics research.
+
+    (b) Objectives.--The primary objectives of the ISS program shall 
+be--
+            (1) to achieve the long term goal and objectives under 
+        section 202 of the National Aeronautics and Space Administration 
+        Authorization Act of 2010 (42 U.S.C. 18312); and
+            (2) to pursue a research program that advances knowledge and 
+        provides other benefits to the Nation.
+
+    (c) Continuation of the ISS.--Section 501 of the National 
+Aeronautics and Space Administration Authorization Act of 2010 (42 
+U.S.C. 18351) is amended to read as follows:
+``SEC. 501. CONTINUATION OF THE INTERNATIONAL SPACE STATION.
+
+    ``(a) Policy of the United States.--It shall be the policy of the 
+United States, in consultation with its international partners in the 
+ISS program, to support full and complete utilization of the ISS through 
+at least 2024.
+    ``(b) NASA Action.--In furtherance of the policy set forth in 
+subsection (a), NASA shall--
+            ``(1) pursue international, commercial, and 
+        intragovernmental means to maximize ISS logistics supply, 
+        maintenance, and operational capabilities, reduce risks to ISS 
+        systems sustainability, and offset and minimize United States 
+        operations costs relating to the ISS;
+            ``(2) utilize, to the extent practicable, the ISS for the 
+        development of capabilities and technologies needed for the 
+        future of human space exploration beyond low-Earth orbit; and
+            ``(3) utilize, if practical and cost effective, the ISS for 
+        Science Mission Directorate missions in low-Earth orbit.''.
+SEC. 302. <<NOTE: 51 USC 50111 note.>>  TRANSPORTATION TO ISS.
+
+    (a) Findings.--Congress finds that reliance on foreign carriers for 
+United States crew transfer is unacceptable, and the Nation's human 
+space flight program must acquire the capability to launch
+
+[[Page 131 STAT. 24]]
+
+United States government astronauts on vehicles using United States 
+rockets from United States soil as soon as is safe, reliable, and 
+affordable to do so.
+    (b) Sense of Congress on Commercial Crew Program and Commercial 
+Resupply Services Program.--It is the sense of Congress that--
+            (1) once developed and certified to meet the 
+        Administration's safety and reliability requirements, United 
+        States commercially provided crew transportation systems can 
+        serve as the primary means of transporting United States 
+        government astronauts and international partner astronauts to 
+        and from the ISS and serving as ISS crew rescue vehicles;
+            (2) previous budgetary assumptions used by the 
+        Administration in its planning for the Commercial Crew Program 
+        assumed significantly higher funding levels than were authorized 
+        and appropriated by Congress;
+            (3) credibility in the Administration's budgetary estimates 
+        for the Commercial Crew Program can be enhanced by an 
+        independently developed cost estimate;
+            (4) such credibility in budgetary estimates is an important 
+        factor in understanding program risk;
+            (5) United States access to low-Earth orbit is paramount to 
+        the continued success of the ISS and ISS National Laboratory;
+            (6) a stable and successful Commercial Resupply Services 
+        Program and Commercial Crew Program are critical to ensuring 
+        timely provisioning of the ISS and to reestablishing the 
+        capability to launch United States government astronauts from 
+        United States soil into orbit, ending reliance upon Russian 
+        transport of United States government astronauts to the ISS 
+        which has not been possible since the retirement of the Space 
+        Shuttle program in 2011;
+            (7) NASA should build upon the success of the Commercial 
+        Orbital Transportation Services Program and Commercial Resupply 
+        Services Program that have allowed private sector companies to 
+        partner with NASA to deliver cargo and scientific experiments to 
+        the ISS since 2012;
+            (8) the 21st Century Launch Complex Program has enabled 
+        significant modernization and infrastructure improvements at 
+        launch sites across the United States to support NASA's 
+        Commercial Resupply Services Program and other civil and 
+        commercial space flight missions; and
+            (9) the 21st Century Launch Complex Program should be 
+        continued in a manner that leverages State and private 
+        investments to achieve the goals of that program.
+
+    (c) Reaffirmation.--Congress reaffirms--
+            (1) its commitment to the use of a commercially developed, 
+        private sector launch and delivery system to the ISS for crew 
+        missions as expressed in the National Aeronautics and Space 
+        Administration Authorization Act of 2005 (Public Law 109-155; 
+        119 Stat. 2895), the National Aeronautics and Space 
+        Administration Authorization Act of 2008 (Public Law 110-422; 
+        122 Stat. 4779), and the National Aeronautics and Space 
+        Administration Authorization Act of 2010 (42 U.S.C. 18301 et 
+        seq.); and
+            (2) the requirement under section 50111(b)(1)(A) of title 
+        51, United States Code, that the Administration shall make
+
+[[Page 131 STAT. 25]]
+
+        use of United States commercially provided ISS crew transfer and 
+        crew rescue services to the maximum extent practicable.
+
+    (d) Use of Non-United States Human Space Flight Transportation 
+Capabilities.--Section 201(a) of the National Aeronautics and Space 
+Administration Authorization Act of 2010 (42 U.S.C. 18311(a)) is amended 
+to read as follows:
+    ``(a) Use of Non-United States Human Space Flight Transportation 
+Services.--
+            ``(1) In general.--The Federal Government may not acquire 
+        human space flight transportation services from a foreign entity 
+        unless--
+                    ``(A) no United States Government-operated human 
+                space flight capability is available;
+                    ``(B) no United States commercial provider is 
+                available; and
+                    ``(C) it is a qualified foreign entity.
+            ``(2) Definitions.--In this subsection:
+                    ``(A) Commercial provider.--The term `commercial 
+                provider' means any person providing human space flight 
+                transportation services, primary control of which is 
+                held by persons other than the Federal Government, a 
+                State or local government, or a foreign government.
+                    ``(B) Qualified foreign entity.--The term `qualified 
+                foreign entity' means a foreign entity that is in 
+                compliance with all applicable safety standards and is 
+                not prohibited from providing space transportation 
+                services under other law.
+                    ``(C) United states commercial provider.--The term 
+                `United States commercial provider' means a commercial 
+                provider, organized under the laws of the United States 
+                or of a State, that is more than 50 percent owned by 
+                United States nationals.
+            ``(3) Arrangements with foreign entities.--Nothing in this 
+        subsection shall prevent the Administrator from negotiating or 
+        entering into human space flight transportation arrangements 
+        with foreign entities to ensure safety of flight and continued 
+        ISS operations.''.
+
+    (e) Commercial Crew Program.--
+            (1) Objective.--The objective of the Commercial Crew Program 
+        shall be to assist in the development and certification of 
+        commercially provided transportation that--
+                    (A) can carry United States government astronauts 
+                safely, reliably, and affordably to and from the ISS;
+                    (B) can serve as a crew rescue vehicle; and
+                    (C) can accomplish subparagraphs (A) and (B) as soon 
+                as practicable.
+            (2) Primary consideration.--The objective described in 
+        paragraph (1) shall be the primary consideration in the 
+        acquisition strategy for the Commercial Crew Program.
+            (3) Safety.--
+                    (A) In general.--The Administrator shall protect the 
+                safety of government astronauts by ensuring that each 
+                commercially provided transportation system under this 
+                subsection meets all applicable human rating 
+                requirements in accordance with section 403(b)(1) of the 
+                National Aeronautics and Space Administration 
+                Authorization Act of 2010 (42 U.S.C. 18342(b)(1)).
+
+[[Page 131 STAT. 26]]
+
+                    (B) Lessons learned.--Consistent with the findings 
+                and recommendations of the Columbia Accident 
+                Investigation Board, the Administration shall ensure 
+                that safety and the minimization of the probability of 
+                loss of crew are the critical priorities of the 
+                Commercial Crew Program.
+            (4) Cost minimization.--The Administrator shall strive 
+        through the competitive selection process to minimize the life 
+        cycle cost to the Administration through the planned period of 
+        commercially provided crew transportation services.
+
+    (f) Commercial Cargo Program.--Section 401 of the National 
+Aeronautics and Space Administration Authorization Act of 2010 (42 
+U.S.C. 18341) is amended by striking ``Commercial Orbital Transportation 
+Services'' and inserting ``Commercial Resupply Services''.
+    (g) <<NOTE: Contracts.>>  Competition.--It is the policy of the 
+United States that, to foster the competitive development, operation, 
+improvement, and commercial availability of space transportation 
+services, and to minimize the life cycle cost to the Administration, the 
+Administrator shall procure services for Federal Government access to 
+and return from the ISS, whenever practicable, via fair and open 
+competition for well-defined, milestone-based, Federal Acquisition 
+Regulation-based contracts under section 201(a) of the National 
+Aeronautics and Space Administration Authorization Act of 2010 (42 
+U.S.C. 18311(a)).
+
+    (h) Transparency.--
+            (1) Sense of congress.--It is the sense of Congress that 
+        cost transparency and schedule transparency aid in effective 
+        program management and risk assessment.
+            (2) In general.--The Administrator shall, to the greatest 
+        extent practicable and in a manner that does not add costs or 
+        schedule delays to the program, ensure all Commercial Crew 
+        Program and Commercial Resupply Services Program providers 
+        provide evidence-based support for their costs and schedules.
+
+    (i) <<NOTE: Deadline. Reports. Contracts.>>  ISS Cargo Resupply 
+Services Lessons Learned.--Not later than 120 days after the date of 
+enactment of this Act, the Administrator shall submit to the appropriate 
+committees of Congress a report that--
+            (1) identifies the lessons learned to date from previous and 
+        existing Commercial Resupply Services contracts;
+            (2) indicates whether changes are needed to the manner in 
+        which the Administration procures and manages similar services 
+        prior to the issuance of future Commercial Resupply Services 
+        procurement opportunities; and
+            (3) identifies any lessons learned from the Commercial 
+        Resupply Services contracts that should be applied to the 
+        procurement and management of commercially provided crew 
+        transfer services to and from the ISS or to other future 
+        procurements.
+SEC. 303. <<NOTE: 51 USC 50111 note.>>  ISS TRANSITION PLAN.
+
+    (a) Findings.--Congress finds that--
+            (1) NASA has been both the primary supplier and consumer of 
+        human space flight capabilities and services of the ISS and in 
+        low-Earth orbit; and
+            (2) according to the National Research Council report 
+        ``Pathways to Exploration: Rationales and Approaches for a U.S. 
+        Program of Human Space Exploration'' extending ISS
+
+[[Page 131 STAT. 27]]
+
+        beyond 2020 to 2024 or 2028 will have significant negative 
+        impacts on the schedule of crewed missions to Mars, without 
+        significant increases in funding.
+
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) an orderly transition for United States human space 
+        flight activities in low-Earth orbit from the current regime, 
+        that relies heavily on NASA sponsorship, to a regime where NASA 
+        is one of many customers of a low-Earth orbit commercial human 
+        space flight enterprise may be necessary; and
+            (2) decisions about the long-term future of the ISS impact 
+        the ability to conduct future deep space exploration activities, 
+        and that such decisions regarding the ISS should be considered 
+        in the context of the human exploration roadmap under section 
+        432 of this Act.
+
+    (c) Reports.--Section 50111 of title 51, United States Code, is 
+amended by adding at the end the following:
+    ``(c) ISS Transition Plan.--
+            ``(1) <<NOTE: Coordination.>>  In general.--The 
+        Administrator, in coordination with the ISS management entity 
+        (as defined in section 2 of the National Aeronautics and Space 
+        Administration Transition Authorization Act of 2017), ISS 
+        partners, the scientific user community, and the commercial 
+        space sector, shall develop a plan to transition in a step-wise 
+        approach from the current regime that relies heavily on NASA 
+        sponsorship to a regime where NASA could be one of many 
+        customers of a low-Earth orbit non-governmental human space 
+        flight enterprise.
+            ``(2) Reports.--Not later than December 1, 2017, and 
+        biennially thereafter until 2023, the Administrator shall submit 
+        to the Committee on Commerce, Science, and Transportation of the 
+        Senate and the Committee on Science, Space, and Technology of 
+        the House of Representatives a report that includes--
+                    ``(A) a description of the progress in achieving the 
+                Administration's deep space human exploration objectives 
+                on ISS and prospects for accomplishing future mission 
+                requirements, space exploration objectives, and other 
+                research objectives on future commercially supplied low-
+                Earth orbit platforms or migration of those objectives 
+                to cis-lunar space;
+                    ``(B) the steps NASA is taking and will take, 
+                including demonstrations that could be conducted on the 
+                ISS, to stimulate and facilitate commercial demand and 
+                supply of products and services in low-Earth orbit;
+                    ``(C) an identification of barriers preventing the 
+                commercialization of low-Earth orbit, including issues 
+                relating to policy, regulations, commercial intellectual 
+                property, data, and confidentiality, that could inhibit 
+                the use of the ISS as a commercial incubator;
+                    ``(D) <<NOTE: Criteria.>>  the criteria for defining 
+                the ISS as a research success;
+                    ``(E) <<NOTE: Criteria.>>  the criteria used to 
+                determine whether the ISS is meeting the objective under 
+                section 301(b)(2) of the National Aeronautics and Space 
+                Administration Transition Authorization Act of 2017;
+                    ``(F) <<NOTE: Assessment.>>  an assessment of 
+                whether the criteria under subparagraphs (D) and (E) are 
+                consistent with the research areas defined in, and 
+                recommendations and schedules under, the current 
+                National Academies of Sciences,
+
+[[Page 131 STAT. 28]]
+
+                Engineering, and Medicine Decadal Survey on Biological 
+                and Physical Sciences in Space;
+                    ``(G) any necessary contributions that ISS extension 
+                would make to enabling execution of the human 
+                exploration roadmap under section 432 of the National 
+                Aeronautics and Space Administration Transition 
+                Authorization Act of 2017;
+                    ``(H) <<NOTE: Cost estimate.>>  the cost estimates 
+                for operating the ISS to achieve the criteria required 
+                under subparagraphs (D) and (E) and the contributions 
+                identified under subparagraph (G);
+                    ``(I) <<NOTE: Cost estimate.>>  the cost estimates 
+                for extending operations of the ISS to 2024, 2028, and 
+                2030;
+                    ``(J) <<NOTE: Evaluation.>>  an evaluation of the 
+                feasible and preferred service life of the ISS beyond 
+                the period described in section 503 of the National 
+                Aeronautics and Space Administration Authorization Act 
+                of 2010 (42 U.S.C. 18353), through at least 2028, as a 
+                unique scientific, commercial, and space exploration-
+                related facility, including--
+                          ``(i) a general discussion of international 
+                      partner capabilities and prospects for extending 
+                      the partnership;
+                          ``(ii) the cost associated with extending the 
+                      service life;
+                          ``(iii) <<NOTE: Assessment.>>  an assessment 
+                      on the technical limiting factors of the service 
+                      life of the ISS, including a list of critical 
+                      components and their expected service life and 
+                      availability; and
+                          ``(iv) such other information as may be 
+                      necessary to fully describe the justification for 
+                      and feasibility of extending the service life of 
+                      the ISS, including the potential scientific or 
+                      technological benefits to the Federal Government, 
+                      public, or to academic or commercial entities;
+                    ``(K) <<NOTE: Cost estimate.>>  an identification of 
+                the necessary actions and an estimate of the costs to 
+                deorbit the ISS once it has reached the end of its 
+                service life;
+                    ``(L) the impact on deep space exploration 
+                capabilities, including a crewed mission to Mars in the 
+                2030s, if the preferred service life of the ISS is 
+                extended beyond 2024 and NASA maintains a flat budget 
+                profile; and
+                    ``(M) <<NOTE: Evaluation. Determination.>>  an 
+                evaluation of the functions, roles, and responsibilities 
+                for management and operation of the ISS and a 
+                determination of--
+                          ``(i) those functions, roles, and 
+                      responsibilities the Federal Government should 
+                      retain during the lifecycle of the ISS;
+                          ``(ii) those functions, roles, and 
+                      responsibilities that could be transferred to the 
+                      commercial space sector;
+                          ``(iii) the metrics that would indicate the 
+                      commercial space sector's readiness and ability to 
+                      assume the functions, roles, and responsibilities 
+                      described in clause (ii); and
+                          ``(iv) any necessary changes to any agreements 
+                      or other documents and the law to enable the 
+                      activities described in subparagraphs (A) and (B).
+            ``(3) Demonstrations.--If additional Government crew, power, 
+        and transportation resources are available after meeting
+
+[[Page 131 STAT. 29]]
+
+        the Administration's requirements for ISS activities defined in 
+        the human exploration roadmap and related research, 
+        demonstrations identified under paragraph (2) may--
+                    ``(A) test the capabilities needed to meet future 
+                mission requirements, space exploration objectives, and 
+                other research objectives described in paragraph (2)(A); 
+                and
+                    ``(B) demonstrate or test capabilities, including 
+                commercial modules or deep space habitats, Environmental 
+                Control and Life Support Systems, orbital satellite 
+                assembly, exploration space suits, a node that enables a 
+                wide variety of activity, including multiple commercial 
+                modules and airlocks, additional docking or berthing 
+                ports for commercial crew and cargo, opportunities for 
+                the commercial space sector to cost share for 
+                transportation and other services on the ISS, other 
+                commercial activities, or services obtained through 
+                alternate acquisition approaches.''.
+SEC. 304. SPACE COMMUNICATIONS.
+
+    (a) <<NOTE: Consultation. Time period.>>  Plan.--The Administrator 
+shall develop a plan, in consultation with relevant Federal agencies, to 
+meet the Administration's projected space communication and navigation 
+needs for low-Earth orbit and deep space operations in the 20-year 
+period following the date of enactment of this Act.
+
+    (b) <<NOTE: Cost estimates.>>  Contents.--The plan shall include--
+            (1) the lifecycle cost estimates and a 5-year funding 
+        profile;
+            (2) the performance capabilities required to meet the 
+        Administration's projected space communication and navigation 
+        needs;
+            (3) the measures the Administration will take to sustain the 
+        existing space communications and navigation architecture;
+            (4) an identification of the projected space communications 
+        and navigation network and infrastructure needs;
+            (5) a description of the necessary upgrades to meet the 
+        needs identified in paragraph (4), including--
+                    (A) an estimate of the cost of the upgrades;
+                    (B) a schedule for implementing the upgrades; and
+                    (C) <<NOTE: Assessment.>>  an assessment of whether 
+                and how any related missions will be impacted if 
+                resources are not secured at the level needed;
+            (6) the cost estimates for the maintenance of existing space 
+        communications network capabilities necessary to meet the needs 
+        identified in paragraph (4);
+            (7) <<NOTE: Criteria.>>  the criteria for prioritizing 
+        resources for the upgrades described in paragraph (5) and the 
+        maintenance described in paragraph (6);
+            (8) an estimate of any reimbursement amounts the 
+        Administration may receive from other Federal agencies;
+            (9) <<NOTE: Time period.>>  an identification of the 
+        projected Tracking and Data Relay Satellite System needs in the 
+        20-year period following the date of enactment of this Act, 
+        including in support of relevant Federal agencies, and cost and 
+        schedule estimates to maintain and upgrade the Tracking and Data 
+        Relay Satellite System to meet the projected needs;
+            (10) the measures the Administration is taking to meet space 
+        communications needs after all Tracking and Data Relay Satellite 
+        System third-generation communications satellites are 
+        operational; and
+
+[[Page 131 STAT. 30]]
+
+            (11) the measures the Administration is taking to mitigate 
+        threats to electromagnetic spectrum use.
+
+    (c) <<NOTE: Deadline.>>  Schedule.--Not later than 1 year after the 
+date of enactment of this Act, the Administrator shall submit the plan 
+to the appropriate committees of Congress.
+SEC. 305. INDEMNIFICATION; NASA LAUNCH SERVICES AND REENTRY 
+                        SERVICES.
+
+    (a) In General.--Subchapter III of chapter 201 of title 51, United 
+States Code, is amended by adding at the end the following:
+``Sec. 20148. <<NOTE: 51 USC 20148.>>  Indemnification; NASA 
+                    launch services and reentry services
+
+    ``(a) <<NOTE: Regulations. Contracts.>>  In General.--Under such 
+regulations in conformity with this section as the Administrator shall 
+prescribe taking into account the availability, cost, and terms of 
+liability insurance, any contract between the Administration and a 
+provider may provide that the United States will indemnify the provider 
+against successful claims (including reasonable expenses of litigation 
+or settlement) by third parties for death, bodily injury, or loss of or 
+damage to property resulting from launch services and reentry services 
+carried out under the contract that the contract defines as unusually 
+hazardous or nuclear in nature, but only to the extent the total amount 
+of successful claims related to the activities under the contract--
+            ``(1) is more than the amount of insurance or demonstration 
+        of financial responsibility described in subsection (c)(3); and
+            ``(2) is not more than the amount specified in section 
+        50915(a)(1)(B).
+
+    ``(b) <<NOTE: Contracts.>>  Terms of Indemnification.--A contract 
+made under subsection (a) that provides indemnification shall provide 
+for--
+            ``(1) <<NOTE: Notice.>>  notice to the United States of any 
+        claim or suit against the provider for death, bodily injury, or 
+        loss of or damage to property; and
+            ``(2) control of or assistance in the defense by the United 
+        States, at its election, of that claim or suit and approval of 
+        any settlement.
+
+    ``(c) Liability Insurance of the Provider.--
+            ``(1) In general.--The provider under subsection (a) shall 
+        obtain liability insurance or demonstrate financial 
+        responsibility in amounts to compensate for the maximum probable 
+        loss from claims by--
+                    ``(A) a third party for death, bodily injury, or 
+                property damage or loss resulting from a launch service 
+                or reentry service carried out under the contract; and
+                    ``(B) the United States Government for damage or 
+                loss to Government property resulting from a launch 
+                service or reentry service carried out under the 
+                contract.
+            ``(2) Maximum probable losses.--
+                    ``(A) <<NOTE: Determination. Deadline.>>  In 
+                general.--The Administrator shall determine the maximum 
+                probable losses under subparagraphs (A) and (B) of 
+                paragraph (1) not later than 90 days after the date that 
+                the provider requests such a determination and submits 
+                all information the Administrator requires.
+                    ``(B) Revisions.--The Administrator may revise a 
+                determination under subparagraph (A) of this paragraph 
+                if the Administrator determines the revision is 
+                warranted based on new information.
+
+[[Page 131 STAT. 31]]
+
+            ``(3) Amount of insurance.--For the total claims related to 
+        one launch or reentry, a provider shall not be required to 
+        obtain insurance or demonstrate financial responsibility of more 
+        than--
+                    ``(A)(i) $500,000,000 under paragraph (1)(A); or
+                          ``(ii) $100,000,000 under paragraph (1)(B); or
+                    ``(B) the maximum liability insurance available on 
+                the world market at reasonable cost.
+            ``(4) Coverage.--An insurance policy or demonstration of 
+        financial responsibility under this subsection shall protect the 
+        following, to the extent of their potential liability for 
+        involvement in launch services or reentry services:
+                    ``(A) The Government.
+                    ``(B) Personnel of the Government.
+                    ``(C) Related entities of the Government.
+                    ``(D) Related entities of the provider.
+                    ``(E) Government astronauts.
+
+    ``(d) No Indemnification Without Cross-waiver.--Notwithstanding 
+subsection (a), the Administrator may not indemnify a provider under 
+this section unless there is a cross-waiver between the Administration 
+and the provider as described in subsection (e).
+    ``(e) Cross-Waivers.--
+            ``(1) In general.--The Administrator, on behalf of the 
+        United States and its departments, agencies, and 
+        instrumentalities, shall reciprocally waive claims with a 
+        provider under which each party to the waiver agrees to be 
+        responsible, and agrees to ensure that its related entities are 
+        responsible, for damage or loss to its property, or for losses 
+        resulting from any injury or death sustained by its employees or 
+        agents, as a result of activities arising out of the performance 
+        of the contract.
+            ``(2) Limitation.--The waiver made by the Government under 
+        paragraph (1) shall apply only to the extent that the claims are 
+        more than the amount of insurance or demonstration of financial 
+        responsibility required under subsection (c)(1)(B).
+
+    ``(f) Willful Misconduct.--Indemnification under subsection (a) may 
+exclude claims resulting from the willful misconduct of the provider or 
+its related entities.
+    ``(g) Certification of Just and Reasonable Amount.--No payment may 
+be made under subsection (a) unless the Administrator or the 
+Administrator's designee certifies that the amount is just and 
+reasonable.
+    ``(h) Payments.--
+            ``(1) In general.--Upon the approval by the Administrator, 
+        payments under subsection (a) may be made from funds 
+        appropriated for such payments.
+            ``(2) Limitation.--The Administrator shall not approve 
+        payments under paragraph (1), except to the extent provided in 
+        an appropriation law or to the extent additional legislative 
+        authority is enacted providing for such payments.
+            ``(3) Additional appropriations.--If the Administrator 
+        requests additional appropriations to make payments under this 
+        subsection, then the request for those appropriations shall be 
+        made in accordance with the procedures established under section 
+        50915.
+
+    ``(i) Rules of Construction.--
+
+[[Page 131 STAT. 32]]
+
+            ``(1) In general.--The authority to indemnify under this 
+        section shall not create any rights in third persons that would 
+        not otherwise exist by law.
+            ``(2) Other authority.--Nothing in this section may be 
+        construed as prohibiting the Administrator from indemnifying a 
+        provider or any other NASA contractor under other law, including 
+        under Public Law 85-804 (50 U.S.C. 1431 et seq.).
+            ``(3) Anti-deficiency act.--Notwithstanding any other 
+        provision of this section--
+                    ``(A) all obligations under this section are subject 
+                to the availability of funds; and
+                    ``(B) nothing in this section may be construed to 
+                require obligation or payment of funds in violation of 
+                sections 1341, 1342, 1349 through 1351, and 1511 through 
+                1519 of title 31, United States Code (commonly referred 
+                to as the `Anti-Deficiency Act').
+
+    ``(j) Relationship to Other Laws.--The Administrator may not provide 
+indemnification under this section for an activity that requires a 
+license or permit under chapter 509.
+    ``(k) Definitions.--In this section:
+            ``(1) Government astronaut.--The term `government astronaut' 
+        has the meaning given the term in section 50902.
+            ``(2) Launch services.--The term `launch services' has the 
+        meaning given the term in section 50902.
+            ``(3) Provider.--The term `provider' means a person that 
+        provides domestic launch services or domestic reentry services 
+        to the Government.
+            ``(4) Reentry services.--The term `reentry services' has the 
+        meaning given the term in section 50902.
+            ``(5) Related entity.--The term `related entity' means a 
+        contractor or subcontractor.
+            ``(6) Third party.--The term `third party' means a person 
+        except--
+                    ``(A) the United States Government;
+                    ``(B) related entities of the Government involved in 
+                launch services or reentry services;
+                    ``(C) a provider;
+                    ``(D) related entities of the provider involved in 
+                launch services or reentry services; or
+                    ``(E) a government astronaut.''.
+
+    (b) Conforming Amendment.--The table of contents for subchapter III 
+of chapter 201 of title 51, <<NOTE: 51 USC 20101 prec.>>  United States 
+Code, is amended by inserting after the item relating to section 20147 
+the following:
+
+``20148. Indemnification; NASA launch services and reentry services.''.
+
+[[Page 131 STAT. 33]]
+
+            TITLE IV--ADVANCING HUMAN DEEP SPACE EXPLORATION
+
+   Subtitle A--Human Space Flight and Exploration Goals and Objectives
+
+SEC. 411. HUMAN SPACE FLIGHT AND EXPLORATION LONG-TERM GOALS.
+
+    Section 202(a) of the National Aeronautics and Space Administration 
+Authorization Act of 2010 (42 U.S.C. 18312(a)) is amended to read as 
+follows:
+    ``(a) Long-term Goals.--The long-term goals of the human space 
+flight and exploration efforts of NASA shall be--
+            ``(1) to expand permanent human presence beyond low-Earth 
+        orbit and to do so, where practical, in a manner involving 
+        international, academic, and industry partners;
+            ``(2) crewed missions and progress toward achieving the goal 
+        in paragraph (1) to enable the potential for subsequent human 
+        exploration and the extension of human presence throughout the 
+        solar system; and
+            ``(3) to enable a capability to extend human presence, 
+        including potential human habitation on another celestial body 
+        and a thriving space economy in the 21st Century.''.
+SEC. 412. KEY OBJECTIVES.
+
+    Section 202(b) of the National Aeronautics and Space Administration 
+Authorization Act of 2010 (42 U.S.C. 18312(b)) is amended--
+            (1) in paragraph (3), by striking ``; and'' and inserting a 
+        semicolon;
+            (2) in paragraph (4), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(5) to achieve human exploration of Mars and beyond 
+        through the prioritization of those technologies and 
+        capabilities best suited for such a mission in accordance with 
+        the stepping stone approach to exploration under section 70504 
+        of title 51, United States Code.''.
+SEC. 413. VISION FOR SPACE EXPLORATION.
+
+    Section 20302 of title 51, United States Code, is amended--
+            (1) in subsection (a), by inserting ``in cis-lunar space 
+        or'' after ``sustained human presence'';
+            (2) by amending subsection (b) to read as follows:
+
+    ``(b) Future Exploration of Mars.--The Administrator shall manage 
+human space flight programs, including the Space Launch System and 
+Orion, to enable humans to explore Mars and other destinations by 
+defining a series of sustainable steps and conducting mission planning, 
+research, and technology development on a timetable that is technically 
+and fiscally possible, consistent with section 70504.''; and
+            (3) by adding at the end the following:
+
+    ``(c) Definitions.--In this section:
+            ``(1) Orion.--The term `Orion' means the multipurpose crew 
+        vehicle described under section 303 of the National Aeronautics
+
+[[Page 131 STAT. 34]]
+
+        and Space Administration Authorization Act of 2010 (42 U.S.C. 
+        18323).
+            ``(2) Space launch system.--The term `Space Launch System' 
+        means has the meaning given the term in section 3 of the 
+        National Aeronautics and Space Administration Authorization Act 
+        of 2010 (42 U.S.C. 18302).''.
+SEC. 414. STEPPING STONE APPROACH TO EXPLORATION.
+
+    Section 70504 of title 51, United States Code, is amended to read as 
+follows:
+``Sec. 70504. Stepping stone approach to exploration
+
+    ``(a) In General.--The Administration--
+            ``(1) may conduct missions to intermediate destinations in 
+        sustainable steps in accordance with section 20302(b) of this 
+        title, and on a timetable determined by the availability of 
+        funding, in order to achieve the objective of human exploration 
+        of Mars specified in section 202(b)(5) of the National 
+        Aeronautics and Space Administration Authorization Act of 2010 
+        (42 U.S.C. 18312(b)(5)); and
+            ``(2) shall incorporate any such missions into the human 
+        exploration roadmap under section 432 of the National 
+        Aeronautics and Space Administration Transition Authorization 
+        Act of 2017.
+
+    ``(b) Cost-effectiveness.--In order to maximize the cost-
+effectiveness of the long-term space exploration and utilization 
+activities of the United States, the Administrator shall take all 
+necessary steps, including engaging international, academic, and 
+industry partners, to ensure that activities in the Administration's 
+human space exploration program balance how those activities might also 
+help meet the requirements of future exploration and utilization 
+activities leading to human habitation on the surface of Mars.
+    ``(c) Completion.--Within budgetary considerations, once an 
+exploration-related project enters its development phase, the 
+Administrator shall seek, to the maximum extent practicable, to complete 
+that project without undue delays.
+    ``(d) International Participation.--In order to achieve the goal of 
+successfully conducting a crewed mission to the surface of Mars, the 
+President may invite the United States partners in the ISS program and 
+other nations, as appropriate, to participate in an international 
+initiative under the leadership of the United States.''.
+SEC. 415. UPDATE OF EXPLORATION PLAN AND PROGRAMS.
+
+    Section 70502(2) of title 51, United States Code, is amended to read 
+as follows:
+            ``(2) implement an exploration research and technology 
+        development program to enable human and robotic operations 
+        consistent with section 20302(b) of this title;''.
+SEC. 416. REPEALS.
+
+    (a)  Space Shuttle Capability Assurance.--Section 203 of the 
+National Aeronautics and Space Administration Authorization Act of 2010 
+(42 U.S.C. 18313) is amended--
+            (1) by striking subsection (b);
+            (2) in subsection (d), by striking ``subsection (c)'' and 
+        inserting ``subsection (b)''; and
+
+[[Page 131 STAT. 35]]
+
+            (3) by redesignating subsections (c) and (d) as subsections 
+        (b) and (c), respectively.
+
+    (b) Shuttle Pricing Policy for Commercial and Foreign Users.--
+Chapter 703 of title 51, United States Code, and the item relating to 
+that chapter in the table of chapters for that title, are repealed.
+    (c) Shuttle Privatization.--Section 50133 of title 51, United States 
+Code, and the item relating to that section in the table of sections for 
+chapter 501 <<NOTE: 51 USC 50101 prec.>>  of that title, are repealed.
+SEC. 417. ASSURED ACCESS TO SPACE.
+
+    Section 70501 of title 51, United States Code, is amended--
+            (1) by amending subsection (a) to read as follows:
+
+    ``(a) Policy Statement.--In order to ensure continuous United States 
+participation and leadership in the exploration and utilization of space 
+and as an essential instrument of national security, it is the policy of 
+the United States to maintain an uninterrupted capability for human 
+space flight and operations--
+            ``(1) in low-Earth orbit; and
+            ``(2) beyond low-Earth orbit once the capabilities described 
+        in section 421(f) of the National Aeronautics and Space 
+        Administration Transition Authorization Act of 2017 become 
+        available.''; and
+            (2) in subsection (b), by striking ``Committee on Science 
+        and Technology of the House of Representatives and the Committee 
+        on Commerce, Science, and Transportation of the Senate 
+        describing the progress being made toward developing the Crew 
+        Exploration Vehicle and the Crew Launch Vehicle'' and inserting 
+        ``Committee on Commerce, Science, and Transportation of the 
+        Senate and the Committee on Science, Space, and Technology of 
+        the House of Representatives describing the progress being made 
+        toward developing the Space Launch System and Orion''.
+
+         Subtitle B--Assuring Core Capabilities for Exploration
+
+SEC. 421. <<NOTE: 51 USC 20301 note.>>  SPACE LAUNCH SYSTEM, 
+                        ORION, AND EXPLORATION GROUND SYSTEMS.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) NASA has made steady progress in developing and testing 
+        the Space Launch System and Orion exploration systems with the 
+        successful Exploration Flight Test of Orion in December of 2014, 
+        the final qualification test firing of the 5-segment Space 
+        Launch System boosters in June 2016, and a full thrust, full 
+        duration test firing of the RS-25 Space Launch System core stage 
+        engine in August 2016.
+            (2) Through the 21st Century Launch Complex program and 
+        Exploration Ground Systems programs, NASA has made significant 
+        progress in transforming exploration ground systems 
+        infrastructure to meet NASA's mission requirements for the Space 
+        Launch System and Orion and to modernize NASA's launch complexes 
+        to the benefit of the civil, defense, and commercial space 
+        sectors.
+
+    (b) Space Launch System.--
+
+[[Page 131 STAT. 36]]
+
+            (1) Sense of congress.--It is the sense of Congress that use 
+        of the Space Launch System and Orion, with contributions from 
+        partnerships with the private sector, academia, and the 
+        international community, is the most practical approach to 
+        reaching the Moon, Mars, and beyond.
+            (2) Reaffirmation.--Congress reaffirms the policy and 
+        minimum capability requirements for the Space Launch System 
+        under section 302 of the National Aeronautics and Space 
+        Administration Authorization Act of 2010 (42 U.S.C. 18322).
+
+    (c) Sense of Congress on Space Launch System, Orion, and Exploration 
+Ground Systems.--It is the sense of Congress that--
+            (1) as the United States works to send humans on a series of 
+        missions to Mars in the 2030s, the United States national space 
+        program should continue to make progress on its commitment by 
+        fully developing the Space Launch System, Orion, and related 
+        Exploration Ground Systems;
+            (2) using the Space Launch System and Orion for a wide range 
+        of contemplated missions will facilitate the national defense, 
+        science, and exploration objectives of the United States;
+            (3) the United States should have continuity of purpose for 
+        the Space Launch System and Orion in deep space exploration 
+        missions, using them beginning with the uncrewed mission, EM-1, 
+        planned for 2018, followed by the crewed mission, EM-2, in cis-
+        lunar space planned for 2021, and for subsequent missions 
+        beginning with EM-3 extending into cis-lunar space and 
+        eventually to Mars;
+            (4) the President's annual budget requests for the Space 
+        Launch System and Orion development, test, and operational 
+        phases should strive to accurately reflect the resource 
+        requirements of each of those phases;
+            (5) the fully integrated Space Launch System, including an 
+        upper stage needed to go beyond low-Earth orbit, will safely 
+        enable human space exploration of the Moon, Mars, and beyond; 
+        and
+            (6) the Administrator should budget for and undertake a 
+        robust ground test and uncrewed and crewed flight test and 
+        demonstration program for the Space Launch System and Orion in 
+        order to promote safety and reduce programmatic risk.
+
+    (d) In General.--The Administrator shall continue the development of 
+the fully integrated Space Launch System, including an upper stage 
+needed to go beyond low-Earth orbit, in order to safely enable human 
+space exploration of the Moon, Mars, and beyond over the course of the 
+next century as required in section 302(c) of the National Aeronautics 
+and Space Administration Authorization Act of 2010 (42 U.S.C. 18322(c)).
+    (e) Report.--
+            (1) In general.--Not later than 60 days after the date of 
+        enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report addressing the 
+        ability of Orion to meet the needs and the minimum capability 
+        requirements described in section 303(b)(3) of the National 
+        Aeronautics and Space Administration Authorization Act of 2010 
+        (42 U.S.C. 18323(b)(3)).
+            (2) Contents.--The report shall detail--
+
+[[Page 131 STAT. 37]]
+
+                    (A) those components and systems of Orion that 
+                ensure it is in compliance with section 303(b)(3) of 
+                that Act (42 U.S.C. 18323(b)(3));
+                    (B) the expected date that Orion, integrated with a 
+                vehicle other than the Space Launch System, could be 
+                available to transport crew and cargo to the ISS;
+                    (C) any impacts to the deep space exploration 
+                missions under subsection (f) of this section due to 
+                enabling Orion to meet the minimum capability 
+                requirements described in section 303(b)(3) of that Act 
+                (42 U.S.C. 18323(b)(3)) and conducting the mission 
+                described in subparagraph (B) of this paragraph; and
+                    (D) the overall cost and schedule impacts associated 
+                with enabling Orion to meet the minimum capability 
+                requirements described in section 303(b)(3) of that Act 
+                (42 U.S.C. 18323(b)(3)) and conducting the mission 
+                described in subparagraph (B) of this paragraph.
+
+    (f) Exploration Missions.--The Administrator shall continue 
+development of--
+            (1) an uncrewed exploration mission to demonstrate the 
+        capability of both the Space Launch System and Orion as an 
+        integrated system by 2018;
+            (2) subject to applicable human rating processes and 
+        requirements, a crewed exploration mission to demonstrate the 
+        Space Launch System, including the Core Stage and Exploration 
+        Upper Stages, by 2021;
+            (3) subsequent missions beginning with EM-3 at operational 
+        flight rate sufficient to maintain safety and operational 
+        readiness using the Space Launch System and Orion to extend into 
+        cis-lunar space and eventually to Mars; and
+            (4) a deep space habitat as a key element in a deep space 
+        exploration architecture along with the Space Launch System and 
+        Orion.
+
+    (g) <<NOTE: Assessment.>>  Other Uses.--The Administrator shall 
+assess the utility of the Space Launch System for use by the science 
+community and for other Federal Government launch needs, including 
+consideration of overall cost and schedule savings from reduced transit 
+times and increased science returns enabled by the unique capabilities 
+of the Space Launch System.
+
+    (h) Utilization Report.--
+            (1) <<NOTE: Consultation.>>  In general.--The Administrator, 
+        in consultation with the Secretary of Defense and the Director 
+        of National Intelligence, shall prepare a report that addresses 
+        the effort and budget required to enable and utilize a cargo 
+        variant of the 130-ton Space Launch System configuration 
+        described in section 302(c) of the National Aeronautics and 
+        Space Administration Authorization Act of 2010 (42 U.S.C. 
+        18322(c)).
+            (2) Contents.--In preparing the report, the Administrator 
+        shall--
+                    (A) consider the technical requirements of the 
+                scientific and national security communities related to 
+                a cargo variant of the Space Launch System; and
+                    (B) <<NOTE: Assessment.>>  directly assess the 
+                utility and estimated cost savings obtained by using a 
+                cargo variant of the Space Launch System for national 
+                security and space science missions.
+
+[[Page 131 STAT. 38]]
+
+            (3) Submission to congress.--Not later than 180 days after 
+        the date of enactment of this Act, the Administrator shall 
+        submit the report to the appropriate committees of Congress.
+
+                       Subtitle C--Journey to Mars
+
+SEC. 431. <<NOTE: 51 USC 20302 note.>>  FINDINGS ON HUMAN SPACE 
+                        EXPLORATION.
+
+    Congress makes the following findings:
+            (1) In accordance with section 204 of the National 
+        Aeronautics and Space Administration Authorization Act of 2010 
+        (124 Stat. 2813), the National Academies of Sciences, 
+        Engineering, and Medicine, through its Committee on Human 
+        Spaceflight, conducted a review of the goals, core capabilities, 
+        and direction of human space flight, and published the findings 
+        and recommendations in a 2014 report entitled, ``Pathways to 
+        Exploration: Rationales and Approaches for a U.S. Program of 
+        Human Space Exploration''.
+            (2) The Committee on Human Spaceflight included leaders from 
+        the aerospace, scientific, security, and policy communities.
+            (3) With input from the public, the Committee on Human 
+        Spaceflight concluded that many practical and aspirational 
+        rationales for human space flight together constitute a 
+        compelling case for continued national investment and pursuit of 
+        human space exploration toward the horizon goal of Mars.
+            (4) According to the Committee on Human Spaceflight, the 
+        rationales include economic benefits, national security, 
+        national prestige, inspiring students and other citizens, 
+        scientific discovery, human survival, and a sense of shared 
+        destiny.
+            (5) The Committee on Human Spaceflight affirmed that Mars is 
+        the appropriate long-term goal for the human space flight 
+        program.
+            (6) The Committee on Human Spaceflight recommended that NASA 
+        define a series of sustainable steps and conduct mission 
+        planning and technology development as needed to achieve the 
+        long-term goal of placing humans on the surface of Mars.
+            (7) Expanding human presence beyond low-Earth orbit and 
+        advancing toward human missions to Mars requires early planning 
+        and timely decisions to be made in the near-term on the 
+        necessary courses of action for commitments to achieve short-
+        term and long-term goals and objectives.
+            (8) In addition to the 2014 report described in paragraph 
+        (1), there are several independently developed reports or 
+        concepts that describe potential Mars architectures or concepts 
+        and identify Mars as the long-term goal for human space 
+        exploration, including NASA's ``The Global Exploration Roadmap'' 
+        of 2013, ``NASA's Journey to Mars-Pioneering Next Steps in Space 
+        Exploration'' of 2015, NASA Jet Propulsion Laboratory's 
+        ``Minimal Architecture for Human Journeys to Mars'' of 2015, and 
+        Explore Mars' ``The Humans to Mars Report 2016''.
+SEC. 432. <<NOTE: 51 USC 20302 note.>>  HUMAN EXPLORATION ROADMAP.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) expanding human presence beyond low-Earth orbit and 
+        advancing toward human missions to Mars in the 2030s
+
+[[Page 131 STAT. 39]]
+
+        requires early strategic planning and timely decisions to be 
+        made in the near-term on the necessary courses of action for 
+        commitments to achieve short-term and long-term goals and 
+        objectives;
+            (2) for strong and sustained United States leadership, a 
+        need exists to advance a human exploration roadmap, addressing 
+        exploration objectives in collaboration with international, 
+        academic, and industry partners;
+            (3) an approach that incrementally advances toward a long-
+        term goal is one in which nearer-term developments and 
+        implementation would influence future development and 
+        implementation; and
+            (4) a human exploration roadmap should begin with low-Earth 
+        orbit, then address in greater detail progress beyond low-Earth 
+        orbit to cis-lunar space, and then address future missions aimed 
+        at human arrival and activities near and then on the surface of 
+        Mars.
+
+    (b) Human Exploration Roadmap.--
+            (1) <<NOTE: Plan.>>  In general.--The Administrator shall 
+        develop a human exploration roadmap, including a critical 
+        decision plan, to expand human presence beyond low-Earth orbit 
+        to the surface of Mars and beyond, considering potential interim 
+        destinations such as cis-lunar space and the moons of Mars.
+            (2) Scope.--The human exploration roadmap shall include--
+                    (A) an integrated set of exploration, science, and 
+                other goals and objectives of a United States human 
+                space exploration program to achieve the long-term goal 
+                of human missions near or on the surface of Mars in the 
+                2030s;
+                    (B) opportunities for international, academic, and 
+                industry partnerships for exploration-related systems, 
+                services, research, and technology if those 
+                opportunities provide cost-savings, accelerate program 
+                schedules, or otherwise benefit the goals and objectives 
+                developed under subparagraph (A);
+                    (C) sets and sequences of precursor missions in cis-
+                lunar space and other missions or activities necessary--
+                          (i) to demonstrate the proficiency of the 
+                      capabilities and technologies identified under 
+                      subparagraph (D); and
+                          (ii) to meet the goals and objectives 
+                      developed under subparagraph (A), including 
+                      anticipated timelines and missions for the Space 
+                      Launch System and Orion;
+                    (D) an identification of the specific capabilities 
+                and technologies, including the Space Launch System, 
+                Orion, a deep space habitat, and other capabilities, 
+                that facilitate the goals and objectives developed under 
+                subparagraph (A);
+                    (E) a description of how cis-lunar elements, 
+                objectives, and activities advance the human exploration 
+                of Mars;
+                    (F) <<NOTE: Assessment.>>  an assessment of 
+                potential human health and other risks, including 
+                radiation exposure;
+                    (G) <<NOTE: Mitigation plans.>>  mitigation plans, 
+                whenever possible, to address the risks identified in 
+                subparagraph (F);
+                    (H) a description of those technologies already 
+                under development across the Federal Government or by 
+                other
+
+[[Page 131 STAT. 40]]
+
+                entities that facilitate the goals and objectives 
+                developed under subparagraph (A);
+                    (I) a specific process for the evolution of the 
+                capabilities of the fully integrated Orion with the 
+                Space Launch System and a description of how these 
+                systems facilitate the goals and objectives developed 
+                under subparagraph (A) and demonstrate the capabilities 
+                and technologies described in subparagraph (D);
+                    (J) a description of the capabilities and 
+                technologies that need to be demonstrated or research 
+                data that could be gained through the utilization of the 
+                ISS and the status of the development of such 
+                capabilities and technologies;
+                    (K) <<NOTE: Assessment.>>  a framework for 
+                international cooperation in the development of all 
+                capabilities and technologies identified under this 
+                section, including an assessment of the risks posed by 
+                relying on international partners for capabilities and 
+                technologies on the critical path of development;
+                    (L) a process for partnering with nongovernmental 
+                entities using Space Act Agreements or other acquisition 
+                instruments for future human space exploration; and
+                    (M) include information on the phasing of planned 
+                intermediate destinations, Mars mission risk areas and 
+                potential risk mitigation approaches, technology 
+                requirements and phasing of required technology 
+                development activities, the management strategy to be 
+                followed, related ISS activities, planned international 
+                collaborative activities, potential commercial 
+                contributions, and other activities relevant to the 
+                achievement of the goal established in this section.
+            (3) Considerations.--In developing the human exploration 
+        roadmap, the Administrator shall consider--
+                    (A) using key exploration capabilities, namely the 
+                Space Launch System and Orion;
+                    (B) using existing commercially available 
+                technologies and capabilities or those technologies and 
+                capabilities being developed by industry for commercial 
+                purposes;
+                    (C) establishing an organizational approach to 
+                ensure collaboration and coordination among NASA's 
+                Mission Directorates under section 821, when 
+                appropriate, including to collect and return to Earth a 
+                sample from the Martian surface;
+                    (D) building upon the initial uncrewed mission, EM-
+                1, and first crewed mission, EM-2, of the Space Launch 
+                System and Orion to establish a sustainable cadence of 
+                missions extending human exploration missions into cis-
+                lunar space, including anticipated timelines and 
+                milestones;
+                    (E) developing the robotic and precursor missions 
+                and activities that will demonstrate, test, and develop 
+                key technologies and capabilities essential for 
+                achieving human missions to Mars, including long-
+                duration human operations beyond low-Earth orbit, space 
+                suits, solar electric propulsion, deep space habitats, 
+                environmental control life support systems, Mars lander 
+                and ascent vehicle, entry, descent, landing, ascent, 
+                Mars surface systems, and in-situ resource utilization;
+
+[[Page 131 STAT. 41]]
+
+                    (F) demonstrating and testing 1 or more habitat 
+                modules in cis-lunar space to prepare for Mars missions;
+                    (G) using public-private, firm fixed-price 
+                partnerships, where practicable;
+                    (H) collaborating with international, academic, and 
+                industry partners, when appropriate;
+                    (I) any risks to human health and sensitive onboard 
+                technologies, including radiation exposure;
+                    (J) any risks identified through research outcomes 
+                under the NASA Human Research Program's Behavioral 
+                Health Element; and
+                    (K) the recommendations and ideas of several 
+                independently developed reports or concepts that 
+                describe potential Mars architectures or concepts and 
+                identify Mars as the long-term goal for human space 
+                exploration, including the reports described under 
+                section 431.
+            (4) Critical decision plan on human space exploration.--As 
+        part of the human exploration roadmap, the Administrator shall 
+        include a critical decision plan--
+                    (A) <<NOTE: Deadline.>>  identifying and defining 
+                key decisions guiding human space exploration priorities 
+                and plans that need to be made before June 30, 2020, 
+                including decisions that may guide human space 
+                exploration capability development, precursor missions, 
+                long-term missions, and activities;
+                    (B) defining decisions needed to maximize 
+                efficiencies and resources for reaching the near, 
+                intermediate, and long-term goals and objectives of 
+                human space exploration; and
+                    (C) identifying and defining timelines and 
+                milestones for a sustainable cadence of missions 
+                beginning with EM-3 for the Space Launch System and 
+                Orion to extend human exploration from cis-lunar space 
+                to the surface of Mars.
+            (5) Reports.--
+                    (A) Initial human exploration roadmap.--The 
+                Administrator shall submit to the appropriate committees 
+                of Congress--
+                          (i) <<NOTE: Plan.>>  an initial human 
+                      exploration roadmap, including a critical decision 
+                      plan, before December 1, 2017; and
+                          (ii) an updated human exploration roadmap 
+                      periodically as the Administrator considers 
+                      necessary but not less than biennially.
+                    (B) <<NOTE: Time periods.>>  Contents.--Each human 
+                exploration roadmap under this paragraph shall include a 
+                description of--
+                          (i) the achievements and goals accomplished in 
+                      the process of developing such capabilities and 
+                      technologies during the 2-year period prior to the 
+                      submission of the human exploration roadmap; and
+                          (ii) the expected goals and achievements in 
+                      the following 2- year period.
+                    (C) Submission with budget.--Each human exploration 
+                roadmap under this section shall be included in the 
+                budget for that fiscal year transmitted to Congress 
+                under section 1105(a) of title 31, United States Code.
+
+[[Page 131 STAT. 42]]
+
+SEC. 433. <<NOTE: Deadline. Plan. Evaluation.>>  ADVANCED SPACE 
+                        SUIT CAPABILITY.
+
+    Not later than 90 days after the date of enactment of this Act, the 
+Administrator shall submit to the appropriate committees of Congress a 
+detailed plan for achieving an advanced space suit capability that 
+aligns with the crew needs for exploration enabled by the Space Launch 
+System and Orion, including an evaluation of the merit of delivering the 
+planned suit system for use on the ISS.
+SEC. 434. ASTEROID ROBOTIC REDIRECT MISSION.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) NASA initially estimated that the Asteroid Robotic 
+        Redirect Mission would launch in December 2020 and cost no more 
+        than $1,250,000,000, excluding launch and operations.
+            (2) On July 15, 2016, NASA conducted its Key Decision Point-
+        B review of the Asteroid Robotic Redirect Mission or approval 
+        for Phase B in mission formulation.
+            (3) During the Key Decision Point-B review, NASA estimated 
+        that costs have grown to $1,400,000,000 excluding launch and 
+        operations for a launch in December 2021 and the agency must 
+        evaluate whether to accept the increase or reduce the Asteroid 
+        Robotic Redirect Mission's scope to stay within the cost cap set 
+        by the Administrator.
+            (4) In April 2015, the NASA Advisory Council--
+                    (A) issued a finding that--
+                          (i) high-performance solar electric propulsion 
+                      will likely be an important part of an 
+                      architecture to send humans to Mars; and
+                          (ii) maneuvering a large test mass is not 
+                      necessary to provide a valid in-space test of a 
+                      new solar electric propulsion stage;
+                    (B) determined that a solar electric propulsion 
+                mission will contribute more directly to the goal of 
+                sending humans to Mars if the mission is focused 
+                entirely on development and validation of the solar 
+                electric propulsion stage; and
+                    (C) determined that other possible motivations for 
+                acquiring and maneuvering a boulder, such as asteroid 
+                science and planetary defense, do not have value 
+                commensurate with their probable cost.
+            (5) The Asteroid Robotic Redirect Mission is competing for 
+        resources with other critical exploration development programs, 
+        including the Space Launch System, Orion, commercial crew, and a 
+        habitation module.
+            (6) In 2014, the NASA Advisory Council recommended that NASA 
+        conduct an independent cost and technical assessment of the 
+        Asteroid Robotic Redirect Mission.
+            (7) In 2015, the NASA Advisory Council recommended that NASA 
+        preserve the following key objectives if the program needed to 
+        be descoped:
+                    (A) Development of high power solar electric 
+                propulsion.
+                    (B) Ability to maneuver in a low gravity environment 
+                in deep space.
+            (8) In January 2015 and July 2015, the NASA Advisory Council 
+        expressed its concern to NASA about the potential for growing 
+        costs for the program and highlighted that choices would need to 
+        be made about the program's content.
+
+[[Page 131 STAT. 43]]
+
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) the technological and scientific goals of the Asteroid 
+        Robotic Redirect Mission have not been demonstrated to Congress 
+        to be commensurate with the cost; and
+            (2) alternative missions may provide a more cost effective 
+        and scientifically beneficial means to demonstrate the 
+        technologies needed for a human mission to Mars that would 
+        otherwise be demonstrated by the Asteroid Robotic Redirect 
+        Mission.
+
+    (c) Evaluation and Report.--Not later than 180 days after the date 
+of enactment of this Act, the Administrator shall--
+            (1) conduct an evaluation of--
+                    (A) alternative approaches to the Asteroid Robotic 
+                Redirect Mission for demonstrating the technologies and 
+                capabilities needed for a human mission to Mars that 
+                would otherwise be demonstrated by the Asteroid Robotic 
+                Redirect Mission;
+                    (B) the scientific and technical benefits of the 
+                alternative approaches under subparagraph (A) to future 
+                human space exploration compared to scientific and 
+                technical benefits of the Asteroid Redirect Robotic 
+                Mission;
+                    (C) the commercial benefits of the alternative 
+                approaches identified in subparagraph (A), including the 
+                impact on the development of domestic solar electric 
+                propulsion technology to bolster United States 
+                competitiveness in the global marketplace; and
+                    (D) a comparison of the estimated costs of the 
+                alternative approaches identified in subparagraph (A); 
+                and
+            (2) <<NOTE: Recommenda- tions.>>  submit to the appropriate 
+        committees of Congress a report on the evaluation under 
+        paragraph (1), including any recommendations.
+SEC. 435. MARS 2033 REPORT.
+
+    (a) <<NOTE: Contracts. Study.>>  In General.--Not later than 120 
+days after the date of enactment of this Act, the Administrator shall 
+contract with an independent, non-governmental systems engineering and 
+technical assistance organization to study a Mars human space flight 
+mission to be launched in 2033.
+
+    (b) Contents.--The study shall include--
+            (1) <<NOTE: Plan.>>  a technical development, test, 
+        fielding, and operations plan using the Space Launch System, 
+        Orion, and other systems to successfully launch such a Mars 
+        human space flight mission by 2033;
+            (2) <<NOTE: Cost estimates.>>  an annual budget profile, 
+        including cost estimates, for the technical development, test, 
+        fielding, and operations plan to carry out a Mars human space 
+        flight mission by 2033; and
+            (3) a comparison of the annual budget profile to the 5-year 
+        budget profile contained in the President's budget request for 
+        fiscal year 2017 under section 1105 of title 31, United States 
+        Code.
+
+    (c) <<NOTE: Recommenda- tions.>>  Report.--Not later than 180 days 
+after the date of enactment of this Act, the Administrator shall submit 
+to the appropriate committees of Congress a report on the study, 
+including findings and recommendations regarding the Mars 2033 human 
+space flight mission described in subsection (a).
+
+    (d) Assessment.--Not later than 60 days after the date the report is 
+submitted under subsection (c), the Administrator shall
+
+[[Page 131 STAT. 44]]
+
+submit to the appropriate committees of Congress an assessment by the 
+NASA Advisory Council of whether the proposal for a Mars human space 
+flight mission to be launched in 2033 is in the strategic interests of 
+the United States in space exploration.
+
+  Subtitle <<NOTE: To Research, Evaluate, Assess, and Treat Astronauts 
+Act. 51 USC 10101 note.>>  D--TREAT Astronauts Act
+SEC. 441. SHORT TITLE.
+
+    This subtitle may be cited as the ``To Research, Evaluate, Assess, 
+and Treat Astronauts Act'' or the ``TREAT Astronauts Act''.
+SEC. 442. FINDINGS; SENSE OF CONGRESS.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) Human space exploration can pose significant challenges 
+        and is full of substantial risk, which has ultimately claimed 
+        the lives of 24 NASA astronauts serving in the line of duty.
+            (2) As United States government astronauts participate in 
+        long-duration and exploration space flight missions they may 
+        experience increased health risks, such as vision impairment, 
+        bone demineralization, and behavioral health and performance 
+        risks, and may be exposed to galactic cosmic radiation. Exposure 
+        to high levels of radiation and microgravity can result in acute 
+        and long-term health consequences that can increase the risk of 
+        cancer and tissue degeneration and have potential effects on the 
+        musculoskeletal system, central nervous system, cardiovascular 
+        system, immune function, and vision.
+            (3) <<NOTE: Scott Kelly. Mark Kelly.>>  To advance the goal 
+        of long-duration and exploration space flight missions, United 
+        States government astronaut Scott Kelly participated in a 1-year 
+        twins study in space while his identical twin brother, former 
+        United States government astronaut Mark Kelly, acted as a human 
+        control specimen on Earth, providing an understanding of the 
+        physical, behavioral, microbiological, and molecular reaction of 
+        the human body to an extended period of time in space.
+            (4) Since the Administration currently provides medical 
+        monitoring, diagnosis, and treatment for United States 
+        government astronauts during their active employment, given the 
+        unknown long-term health consequences of long-duration space 
+        exploration, the Administration has requested statutory 
+        authority from Congress to provide medical monitoring, 
+        diagnosis, and treatment to former United States government 
+        astronauts for psychological and medical conditions associated 
+        with human space flight.
+
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) the United States should continue to seek the unknown 
+        and lead the world in space exploration and scientific discovery 
+        as the Administration prepares for long-duration and exploration 
+        space flight in deep space and an eventual mission to Mars;
+            (2) data relating to the health of astronauts will become 
+        increasingly valuable to improving our understanding of many 
+        diseases humans face on Earth;
+            (3) the Administration should provide the type of 
+        monitoring, diagnosis, and treatment described in subsection (a)
+
+[[Page 131 STAT. 45]]
+
+        only for conditions the Administration considers unique to the 
+        training or exposure to the space flight environment of United 
+        States government astronauts and should not require any former 
+        United States Government astronauts to participate in the 
+        Administration's monitoring;
+            (4) such monitoring, diagnosis, and treatment should not 
+        replace a former United States government astronaut's private 
+        health insurance;
+            (5) expanded data acquired from such monitoring, diagnosis, 
+        and treatment should be used to tailor treatment, inform the 
+        requirements for new space flight medical hardware, and develop 
+        controls in order to prevent disease occurrence in the astronaut 
+        corps; and
+            (6) the 340-day space mission of Scott Kelly aboard the 
+        ISS--
+                    (A) was pivotal for the goal of the United States 
+                for humans to explore deep space and Mars as the mission 
+                generated new insight into how the human body adjusts to 
+                weightlessness, isolation, radiation, and the stress of 
+                long-duration space flight; and
+                    (B) will help support the physical and mental well-
+                being of astronauts during longer space exploration 
+                missions in the future.
+SEC. 443. MEDICAL MONITORING AND RESEARCH RELATING TO HUMAN SPACE 
+                        FLIGHT.
+
+    (a) In General.--Subchapter III of chapter 201 of title 51, United 
+States Code, as amended by section 305 of this Act, is further amended 
+by adding at the end the following:
+``Sec. 20149. <<NOTE: 51 USC 20149.>>  Medical monitoring and 
+                    research relating to human space flight
+
+    ``(a) In General.--Notwithstanding any other provision of law, the 
+Administrator may provide for--
+            ``(1) the medical monitoring and diagnosis of a former 
+        United States government astronaut or a former payload 
+        specialist for conditions that the Administrator considers 
+        potentially associated with human space flight; and
+            ``(2) the treatment of a former United States government 
+        astronaut or a former payload specialist for conditions that the 
+        Administrator considers associated with human space flight, 
+        including scientific and medical tests for psychological and 
+        medical conditions.
+
+    ``(b) Requirements.--
+            ``(1) No cost sharing.--The medical monitoring, diagnosis, 
+        or treatment described in subsection (a) shall be provided 
+        without any deductible, copayment, or other cost sharing 
+        obligation.
+            ``(2) Access to local services.--The medical monitoring, 
+        diagnosis, and treatment described in subsection (a) may be 
+        provided by a local health care provider if it is unadvisable 
+        due to the health of the applicable former United States 
+        government astronaut or former payload specialist for that 
+        former United States government astronaut or former payload 
+        specialist to travel to the Lyndon B. Johnson Space Center, as 
+        determined by the Administrator.
+            ``(3) Secondary payment.--Payment or reimbursement for the 
+        medical monitoring, diagnosis, or treatment described in
+
+[[Page 131 STAT. 46]]
+
+        subsection (a) shall be secondary to any obligation of the 
+        United States Government or any third party under any other 
+        provision of law or contractual agreement to pay for or provide 
+        such medical monitoring, diagnosis, or treatment. Any costs for 
+        items and services that may be provided by the Administrator for 
+        medical monitoring, diagnosis, or treatment under subsection (a) 
+        that are not paid for or provided under such other provision of 
+        law or contractual agreement, due to the application of 
+        deductibles, copayments, coinsurance, other cost sharing, or 
+        otherwise, are reimbursable by the Administrator on behalf of 
+        the former United States government astronaut or former payload 
+        specialist involved to the extent such items or services are 
+        authorized to be provided by the Administrator for such medical 
+        monitoring, diagnosis, or treatment under subsection (a).
+            ``(4) Conditional payment.--The Administrator may provide 
+        for conditional payments for or provide medical monitoring, 
+        diagnosis, or treatment described in subsection (a) that is 
+        obligated to be paid for or provided by the United States or any 
+        third party under any other provision of law or contractual 
+        agreement to pay for or provide such medical monitoring, 
+        diagnosis, or treatment if--
+                    ``(A) payment for (or the provision of) such medical 
+                monitoring, diagnosis, or treatment services has not 
+                been made (or provided) or cannot reasonably be expected 
+                to be made (or provided) promptly by the United States 
+                or such third party, respectively; and
+                    ``(B) such payment (or such provision of services) 
+                by the Administrator is conditioned on reimbursement by 
+                the United States or such third party, respectively, for 
+                such medical monitoring, diagnosis, or treatment.
+
+    ``(c) Exclusions.--The Administrator may not--
+            ``(1) provide for medical monitoring or diagnosis of a 
+        former United States government astronaut or former payload 
+        specialist under subsection (a) for any psychological or medical 
+        condition that is not potentially associated with human space 
+        flight;
+            ``(2) provide for treatment of a former United States 
+        government astronaut or former payload specialist under 
+        subsection (a) for any psychological or medical condition that 
+        is not associated with human space flight; or
+            ``(3) require a former United States government astronaut or 
+        former payload specialist to participate in the medical 
+        monitoring, diagnosis, or treatment authorized under subsection 
+        (a).
+
+    ``(d) Privacy.--Consistent with applicable provisions of Federal law 
+relating to privacy, the Administrator shall protect the privacy of all 
+medical records generated under subsection (a) and accessible to the 
+Administration.
+    ``(e) Regulations.--The Administrator shall promulgate such 
+regulations as are necessary to carry out this section.
+    ``(f) Definition of United States Government Astronaut.--In this 
+section, the term `United States government astronaut' has the meaning 
+given the term `government astronaut' in section 50902, except it does 
+not include an individual who is an international partner astronaut.
+
+[[Page 131 STAT. 47]]
+
+    ``(g) Data Use and Disclosure.--The Administrator may use or 
+disclose data acquired in the course of medical monitoring, diagnosis, 
+or treatment of a former United States government astronaut or a former 
+payload specialist under subsection (a), in accordance with subsection 
+(d). Former United States government astronaut or former payload 
+specialist participation in medical monitoring, diagnosis, or treatment 
+under subsection (a) shall constitute consent for the Administrator to 
+use or disclose such data.''.
+    (b) Table of Contents.--The table of contents for chapter 201 of 
+title 51, United States Code, as amended by section 305 of this 
+Act, <<NOTE: 51 USC 20101 prec.>>  is further amended by inserting after 
+the item relating to section 20148 the following:
+
+``20149. Medical monitoring and research relating to human space 
+           flight.''.
+
+    (c) <<NOTE: 51 USC 20149 note.>>  Annual Reports.--
+            (1) In general.--Each fiscal year, not later than the date 
+        of submission of the President's annual budget request for that 
+        fiscal year under section 1105 of title 31, United States Code, 
+        the Administrator shall publish a report, in accordance with 
+        applicable Federal privacy laws, on the activities of the 
+        Administration under section 20149 of title 51, United States 
+        Code.
+            (2) <<NOTE: Budget estimate.>>  Contents.--Each report under 
+        paragraph (1) shall include a detailed cost accounting of the 
+        Administration's activities under section 20149 of title 51, 
+        United States Code, and a 5-year budget estimate.
+            (3) Submission to congress.--The Administrator shall submit 
+        to the appropriate committees of Congress each report under 
+        paragraph (1) not later than the date of submission of the 
+        President's annual budget request for that fiscal year under 
+        section 1105 of title 31, United States Code.
+
+    (d) Cost Estimate.--
+            (1) Requirement.--Not later than 90 days after the date of 
+        enactment of this Act, the Administrator shall enter into an 
+        arrangement with an independent external organization to 
+        undertake an independent cost estimate of the cost to the 
+        Administration and the Federal Government to implement and 
+        administer the activities of the Administration under section 
+        20149 of title 51, United States Code. The independent external 
+        organization may not be a NASA entity, such as the Office of 
+        Safety and Mission Assurance.
+            (2) Submittal to congress.--Not later than 1 year after the 
+        date of the enactment of this Act, the Administrator shall 
+        submit to the appropriate committees of Congress the independent 
+        cost estimate under paragraph (1).
+
+    (e) Privacy Study.--
+            (1) Study.--The Administrator shall carry out a study on any 
+        potential privacy or legal issues related to the possible 
+        sharing beyond the Federal Government of data acquired under the 
+        activities of the Administration under section 20149 of title 
+        51, United States Code.
+            (2) Report.--Not later than 270 days after the date of 
+        enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report containing the 
+        results of the study carried out under paragraph (1).
+
+    (f) <<NOTE: 51 USC 20149 note.>>  Inspector General Audit.--The 
+Inspector General of NASA shall periodically audit or review, as the 
+Inspector General
+
+[[Page 131 STAT. 48]]
+
+considers necessary to prevent waste, fraud, and abuse, the activities 
+of the Administration under section 20149 of title 51, United States 
+Code.
+
+                    TITLE V--ADVANCING SPACE SCIENCE
+
+SEC. 501. <<NOTE: 51 USC 20301 note.>>  MAINTAINING A BALANCED 
+                        SPACE SCIENCE PORTFOLIO.
+
+    (a) Sense of Congress on Science Portfolio.--Congress reaffirms the 
+sense of Congress that--
+            (1) a balanced and adequately funded set of activities, 
+        consisting of research and analysis grant programs, technology 
+        development, suborbital research activities, and small, medium, 
+        and large space missions, contributes to a robust and productive 
+        science program and serves as a catalyst for innovation and 
+        discovery; and
+            (2) the Administrator should set science priorities by 
+        following the guidance provided by the scientific community 
+        through the National Academies of Sciences, Engineering, and 
+        Medicine's decadal surveys.
+
+    (b) Policy.--It is the policy of the United States to ensure, to the 
+extent practicable, a steady cadence of large, medium, and small science 
+missions.
+SEC. 502. <<NOTE: 51 USC 20301 note.>>  PLANETARY SCIENCE.
+
+    (a) Findings.--Congress finds that--
+            (1) Administration support for planetary science is critical 
+        to enabling greater understanding of the solar system and the 
+        origin of the Earth;
+            (2) the United States leads the world in planetary science 
+        and can augment its success in that area with appropriate 
+        international, academic, and industry partnerships;
+            (3) a mix of small, medium, and large planetary science 
+        missions is required to sustain a steady cadence of planetary 
+        exploration; and
+            (4) robotic planetary exploration is a key component of 
+        preparing for future human exploration.
+
+    (b) Mission Priorities.--
+            (1) In general.--In accordance with the priorities 
+        established in the most recent Planetary Science Decadal Survey, 
+        the Administrator shall ensure, to the greatest extent 
+        practicable, the completion of a balanced set of Discovery, New 
+        Frontiers, and Flagship missions at the cadence recommended by 
+        the most recent Planetary Science Decadal Survey.
+            (2) Mission priority adjustments.--Consistent with the set 
+        of missions described in paragraph (1), and while maintaining 
+        the continuity of scientific data and steady development of 
+        capabilities and technologies, the Administrator may seek, if 
+        necessary, adjustments to mission priorities, schedule, and 
+        scope in light of changing budget projections.
+SEC. 503. JAMES WEBB SPACE TELESCOPE.
+
+    It is the sense of Congress that--
+            (1) the James Webb Space Telescope will--
+                    (A) significantly advance our understanding of star 
+                and planet formation, and improve our knowledge of the 
+                early universe; and
+                    (B) support United States leadership in 
+                astrophysics;
+
+[[Page 131 STAT. 49]]
+
+            (2) consistent with annual Government Accountability Office 
+        reviews of the James Webb Space Telescope program, the 
+        Administrator should continue robust surveillance of the 
+        performance of the James Webb Space Telescope project and 
+        continue to improve the reliability of cost estimates and 
+        contractor performance data and other major space flight 
+        projects in order to enhance NASA's ability to successfully 
+        deliver the James Webb Space Telescope on-time and within 
+        budget;
+            (3) the on-time and on-budget delivery of the James Webb 
+        Space Telescope is a high congressional priority; and
+            (4) the Administrator should ensure that integrated testing 
+        is appropriately timed and sufficiently comprehensive to enable 
+        potential issues to be identified and addressed early enough to 
+        be handled within the James Webb Space Telescope's development 
+        schedule and prior to its launch.
+SEC. 504. WIDE-FIELD INFRARED SURVEY TELESCOPE.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) the Wide-Field Infrared Survey Telescope (referred to in 
+        this section as ``WFIRST'') mission has the potential to enable 
+        scientific discoveries that will transform our understanding of 
+        the universe; and
+            (2) the Administrator, to the extent practicable, should 
+        make progress on the technologies and capabilities needed to 
+        position the Administration to meet the objectives, as outlined 
+        in the 2010 National Academies' Astronomy and Astrophysics 
+        Decadal Survey, in a way that maximizes the scientific 
+        productivity of meeting those objectives for the resources 
+        invested.
+
+    (b) Continuity of Development.--The Administrator shall ensure that 
+the concept definition and pre-formulation activities of the WFIRST 
+mission continue while the James Webb Space Telescope is being 
+completed.
+SEC. 505. MARS 2020 ROVER.
+
+    It is the sense of Congress that--
+            (1) the Mars 2020 mission, to develop a Mars rover and to 
+        enable the return of samples to Earth, should remain a priority 
+        for NASA; and
+            (2) the Mars 2020 mission--
+                    (A) should significantly increase our understanding 
+                of Mars;
+                    (B) should help determine whether life previously 
+                existed on that planet; and
+                    (C) should provide opportunities to gather knowledge 
+                and demonstrate technologies that address the challenges 
+                of future human expeditions to Mars.
+SEC. 506. EUROPA.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) Studies of Europa, Jupiter's moon, indicate that Europa 
+        may provide a habitable environment, as it contains key 
+        ingredients known to support life.
+            (2) In 2012, using the Hubble Space Telescope, NASA 
+        scientists observed water vapor around the south polar region of 
+        Europa, which provides potential evidence of water plumes in 
+        that region.
+            (3) For decades, the Europa mission has consistently ranked 
+        as a high priority mission for the scientific community.
+
+[[Page 131 STAT. 50]]
+
+            (4) The Europa mission was ranked as the top priority 
+        mission in the previous Planetary Science Decadal Survey and 
+        ranked as the second-highest priority in the current Planetary 
+        Science Decadal Survey.
+
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) the Europa mission could provide another avenue in which 
+        to capitalize on our Nation's current investment in the Space 
+        Launch System that would significantly reduce the transit time 
+        for such a deep space mission; and
+            (2) a scientific, robotic exploration mission to Europa, as 
+        prioritized in both Planetary Science Decadal Surveys, should be 
+        supported.
+SEC. 507. CONGRESSIONAL DECLARATION OF POLICY AND PURPOSE.
+
+    Section 20102(d) of title 51, United States Code, is amended by 
+adding at the end the following:
+            ``(10) The search for life's origin, evolution, 
+        distribution, and future in the universe.''.
+SEC. 508. <<NOTE: 51 USC 20301 note.>>  EXTRASOLAR PLANET 
+                        EXPLORATION STRATEGY.
+
+    (a) Strategy.--
+            (1) In general.--The Administrator shall enter into an 
+        arrangement with the National Academies to develop a science 
+        strategy for the study and exploration of extrasolar planets, 
+        including the use of the Transiting Exoplanet Survey Satellite, 
+        the James Webb Space Telescope, a potential Wide-Field Infrared 
+        Survey Telescope mission, or any other telescope, spacecraft, or 
+        instrument, as appropriate.
+            (2) Requirements.--The strategy shall--
+                    (A) outline key scientific questions;
+                    (B) identify the most promising research in the 
+                field;
+                    (C) indicate the extent to which the mission 
+                priorities in existing decadal surveys address the key 
+                extrasolar planet research and exploration goals;
+                    (D) identify opportunities for coordination with 
+                international partners, commercial partners, and not-
+                for-profit partners; and
+                    (E) <<NOTE: Recommenda- tions.>>  make 
+                recommendations regarding the activities under 
+                subparagraphs (A) through (D), as appropriate.
+
+    (b) Use of Strategy.--The Administrator shall use the strategy--
+            (1) to inform roadmaps, strategic plans, and other 
+        activities of the Administration as they relate to extrasolar 
+        planet research and exploration; and
+            (2) to provide a foundation for future activities and 
+        initiatives related to extrasolar planet research and 
+        exploration.
+
+    (c) Report to Congress.--Not later than 18 months after the date of 
+enactment of this Act, the National Academies shall submit to the 
+Administrator and to the appropriate committees of Congress a report 
+containing the strategy developed under subsection (a).
+SEC. 509. <<NOTE: 51 USC 20301 note.>>  ASTROBIOLOGY STRATEGY.
+
+    (a) Strategy.--
+            (1) In general.--The Administrator shall enter into an 
+        arrangement with the National Academies to develop a science 
+        strategy for astrobiology that would outline key scientific 
+        questions, identify the most promising research in the field, 
+        and
+
+[[Page 131 STAT. 51]]
+
+        indicate the extent to which the mission priorities in existing 
+        decadal surveys address the search for life's origin, evolution, 
+        distribution, and future in the Universe.
+            (2) Recommendations.--The strategy shall include 
+        recommendations for coordination with international partners.
+
+    (b) Use of Strategy.--The Administrator shall use the strategy 
+developed under subsection (a) in planning and funding research and 
+other activities and initiatives in the field of astrobiology.
+    (c) Report to Congress.--Not later than 18 months after the date of 
+enactment of this Act, the National Academies shall submit to the 
+Administrator and to the appropriate committees of Congress a report 
+containing the strategy developed under subsection (a).
+SEC. 510. <<NOTE: Deadline. Reports.>>  ASTROBIOLOGY PUBLIC-
+                        PRIVATE PARTNERSHIPS.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Administrator shall submit to the appropriate committees of Congress a 
+report describing how the Administration can expand collaborative 
+partnerships to study life's origin, evolution, distribution, and future 
+in the universe.
+SEC. 511. NEAR-EARTH OBJECTS.
+
+    Section 321 of the National Aeronautics and Space Administration 
+Authorization Act of 2005 <<NOTE: 51 USC 71101 note prec.>>  (51 U.S.C. 
+note prec. 71101) is amended by adding at the end the following:
+
+    ``(e) Program Report.--The Director of the Office of Science and 
+Technology Policy and the Administrator shall submit to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Science, Space, and Technology of the House of Representatives, not 
+later than 1 year after the date of enactment of the National 
+Aeronautics and Space Administration Transition Authorization Act of 
+2017, an initial report that provides--
+            ``(1) <<NOTE: Recommenda- tions.>>  recommendations for 
+        carrying out the Survey program and an associated proposed 
+        budget;
+            ``(2) <<NOTE: Analysis. Strategy.>>  an analysis of possible 
+        options that the Administration could employ to divert an object 
+        on a likely collision course with Earth; and
+            ``(3) a description of the status of efforts to coordinate 
+        and cooperate with other countries to discover hazardous 
+        asteroids and comets, plan a mitigation strategy, and implement 
+        that strategy in the event of the discovery of an object on a 
+        likely collision course with Earth.
+
+    ``(f) <<NOTE: Summaries.>>  Annual Reports.--After the initial 
+report under subsection (e), the Administrator shall annually transmit 
+to the Committee on Commerce, Science, and Transportation of the Senate 
+and the Committee on Science, Space, and Technology of the House of 
+Representatives a report that includes--
+            ``(1) a summary of all activities carried out under 
+        subsection (d) since the date of enactment of the National 
+        Aeronautics and Space Administration Transition Authorization 
+        Act of 2017, including the progress toward achieving 90 percent 
+        completion of the survey described in subsection (d); and
+            ``(2) a summary of expenditures for all activities carried 
+        out under subsection (d) since the date of enactment of the 
+        National Aeronautics and Space Administration Transition 
+        Authorization Act of 2017.
+
+[[Page 131 STAT. 52]]
+
+    ``(g) Assessment.--The Administrator, in collaboration with other 
+relevant Federal agencies, shall carry out a technical and scientific 
+assessment of the capabilities and resources--
+            ``(1) to accelerate the survey described in subsection (d); 
+        and
+            ``(2) to expand the Administration's Near-Earth Object 
+        Program to include the detection, tracking, cataloguing, and 
+        characterization of potentially hazardous near-Earth objects 
+        less than 140 meters in diameter.
+
+    ``(h) <<NOTE: Deadline.>>  Transmittal.--Not later than 270 days 
+after the date of enactment of the National Aeronautics and Space 
+Administration Transition Authorization Act of 2017, the Administrator 
+shall transmit the results of the assessment under subsection (g) to the 
+Committee on Commerce, Science, and Transportation of the Senate and the 
+Committee on Science, Space, and Technology of the House of 
+Representatives.''.
+SEC. 512. NEAR-EARTH OBJECTS PUBLIC-PRIVATE PARTNERSHIPS.
+
+    (a) Sense of Congress.--It is the sense of Congress that the 
+Administration should seek to leverage the capabilities of the private 
+sector and philanthropic organizations to the maximum extent practicable 
+in carrying out the Near-Earth Object Survey Program in order to meet 
+the goal of that program under section 321(d)(1) of the National 
+Aeronautics and Space Administration Authorization Act of 2005 (51 
+U.S.C. note prec. 71101(d)(1)).
+    (b) Report.--Not later than 180 days after the date of enactment of 
+this Act, the Administrator shall submit to the appropriate committees 
+of Congress a report describing how the Administration can expand 
+collaborative partnerships to detect, track, catalogue, and categorize 
+near-Earth objects.
+SEC. 513. ASSESSMENT OF SCIENCE MISSION EXTENSIONS.
+
+    Section 30504 of title 51, United States Code, is amended to read as 
+follows:
+``Sec. 30504. Assessment of science mission extensions
+
+    ``(a) Assessments.--
+            ``(1) <<NOTE: Deadline. Reviews.>>  In general.--The 
+        Administrator shall carry out triennial reviews within each of 
+        the Science divisions to assess the cost and benefits of 
+        extending the date of the termination of data collection for 
+        those missions that exceed their planned missions' lifetime.
+            ``(2) Considerations.--In conducting an assessment under 
+        paragraph (1), the Administrator shall consider whether and how 
+        extending missions impacts the start of future missions.
+
+    ``(b) Consultation and Consideration of Potential Benefits of 
+Instruments on Missions.--When deciding whether to extend a mission that 
+has an operational component, the Administrator shall--
+            ``(1) consult with any affected Federal agency; and
+            ``(2) take into account the potential benefits of 
+        instruments on missions that are beyond their planned mission 
+        lifetime.
+
+    ``(c) Reports.--The Administrator shall submit to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Science, Space, and Technology of the House of Representatives, at the 
+same time as the submission to Congress of the Administration's annual 
+budget request for each fiscal year,
+
+[[Page 131 STAT. 53]]
+
+a report detailing any assessment under subsection (a) that was carried 
+out during the previous year.''.
+SEC. 514. <<NOTE: Termination date.>>  STRATOSPHERIC OBSERVATORY 
+                        FOR INFRARED ASTRONOMY.
+
+    The Administrator may not terminate science operations of the 
+Stratospheric Observatory for Infrared Astronomy before December 31, 
+2017.
+SEC. 515. RADIOISOTOPE POWER SYSTEMS.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) exploration of the outer reaches of the solar system is 
+        enabled by radioisotope power systems;
+            (2) establishing continuity in the production of the 
+        material needed for radioisotope power systems is essential to 
+        maintaining the availability of such systems for future deep 
+        space exploration missions; and
+            (3) Federal agencies supporting the Administration through 
+        the production of such material should do so in a cost effective 
+        manner so as not to impose excessive reimbursement requirements 
+        on the Administration.
+
+    (b) <<NOTE: Consultation.>>  Analysis of Requirements and Risks.--
+The Director of the Office of Science and Technology Policy and the 
+Administrator, in consultation with the heads of other Federal agencies, 
+shall conduct an analysis of--
+            (1) the requirements of the Administration for radioisotope 
+        power system material that is needed to carry out planned, high 
+        priority robotic missions in the solar system and other surface 
+        exploration activities beyond low-Earth orbit; and
+            (2) the risks to missions of the Administration in meeting 
+        those requirements, or any additional requirements, due to a 
+        lack of adequate radioisotope power system material.
+
+    (c) Contents of Analysis.--The analysis conducted under subsection 
+(b) shall--
+            (1) detail the Administration's current projected mission 
+        requirements and associated timeframes for radioisotope power 
+        system material;
+            (2) explain the assumptions used to determine the 
+        Administration's requirements for the material, including--
+                    (A) the planned use of advanced thermal conversion 
+                technology such as advanced thermocouples and Stirling 
+                generators and converters; and
+                    (B) the risks and implications of, and contingencies 
+                for, any delays or unanticipated technical challenges 
+                affecting or related to the Administration's mission 
+                plans for the anticipated use of advanced thermal 
+                conversion technology;
+            (3) <<NOTE: Assessment.>>  assess the risk to the 
+        Administration's programs of any potential delays in achieving 
+        the schedule and milestones for planned domestic production of 
+        radioisotope power system material;
+            (4) outline a process for meeting any additional 
+        Administration requirements for the material;
+            (5) <<NOTE: Cost estimate.>>  estimate the incremental costs 
+        required to increase the amount of material produced each year, 
+        if such an increase is needed to support additional 
+        Administration requirements for the material;
+
+[[Page 131 STAT. 54]]
+
+            (6) detail how the Administration and other Federal agencies 
+        will manage, operate, and fund production facilities and the 
+        design and development of all radioisotope power systems used by 
+        the Administration and other Federal agencies as necessary;
+            (7) <<NOTE: Consultation. Reimbursements.>>  specify the 
+        steps the Administration will take, in consultation with the 
+        Department of Energy, to preserve the infrastructure and 
+        workforce necessary for production of radioisotope power systems 
+        and ensure that its reimbursements to the Department of Energy 
+        associated with such preservation are equitable and justified; 
+        and
+            (8) detail how the Administration has implemented or 
+        rejected the recommendations from the National Research 
+        Council's 2009 report titled ``Radioisotope Power Systems: An 
+        Imperative for Maintaining U.S. Leadership in Space 
+        Exploration.''
+
+    (d) Report to Congress.--Not later than 180 days after the date of 
+enactment of this Act, the Administrator shall submit the results of the 
+analysis to the appropriate committees of Congress.
+SEC. 516. ASSESSMENT OF MARS ARCHITECTURE.
+
+    (a) Assessment.--The Administrator shall enter into an arrangement 
+with the National Academies of Sciences, Engineering, and Medicine to 
+assess--
+            (1) the Administration's Mars exploration architecture and 
+        its responsiveness to the strategies, priorities, and guidelines 
+        put forward by the National Academies' planetary science decadal 
+        surveys and other relevant National Academies Mars-related 
+        reports;
+            (2) the long-term goals of the Administration's Mars 
+        Exploration Program and such program's ability to optimize the 
+        science return, given the current fiscal posture of the program;
+            (3) the Mars exploration architecture's relationship to 
+        Mars-related activities to be undertaken by foreign agencies and 
+        organizations; and
+            (4) the extent to which the Mars exploration architecture 
+        represents a reasonably balanced mission portfolio.
+
+    (b) Report to Congress.--Not later than 18 months after the date of 
+enactment of this Act, the Administrator shall submit the results of the 
+assessment to the appropriate committees of Congress.
+SEC. 517. COLLABORATION.
+
+    The Administration shall continue to develop first-of-a-kind 
+instruments that, once proved, can be transitioned to other agencies for 
+operations. Whenever responsibilities for the development of sensors or 
+for measurements are transferred to the Administration from another 
+agency, the Administration shall seek, to the extent possible, to be 
+reimbursed for the assumption of such responsibilities.
+
+                          TITLE VI--AERONAUTICS
+
+SEC. 601. <<NOTE: Reimbursement. 51 USC 20113 note.>>  SENSE OF 
+                        CONGRESS ON AERONAUTICS.
+
+    It is the sense of Congress that--
+            (1) a robust aeronautics research portfolio will help 
+        maintain the United States status as a leader in aviation, 
+        enhance
+
+[[Page 131 STAT. 55]]
+
+        the competitiveness of the United States in the world economy, 
+        and improve the quality of life of all citizens;
+            (2) aeronautics research is essential to the 
+        Administration's mission, continues to be an important core 
+        element of the Administration's mission, and should be 
+        supported;
+            (3) the Administrator should coordinate and consult with 
+        relevant Federal agencies and the private sector to minimize 
+        duplication of efforts and leverage resources; and
+            (4) carrying aeronautics research to a level of maturity 
+        that allows the Administration's research results to be 
+        transferred to the users, whether private or public sector, is 
+        critical to their eventual adoption.
+SEC. 602. TRANSFORMATIVE AERONAUTICS RESEARCH.
+
+    It is the sense of Congress that the Administrator should look 
+strategically into the future and ensure that the Administration's 
+Center personnel are at the leading edge of aeronautics research by 
+encouraging investigations into the early-stage advancement of new 
+processes, novel concepts, and innovative technologies that have the 
+potential to meet national aeronautics needs.
+SEC. 603. HYPERSONIC RESEARCH.
+
+    (a) <<NOTE: Deadline. Consultation.>>  Roadmap for Hypersonic 
+Research.--Not later than 1 year after the date of enactment of this 
+Act, the Administrator, in consultation with the heads of other relevant 
+Federal agencies, shall develop and submit to the appropriate committees 
+of Congress a research and development roadmap for hypersonic aircraft 
+research.
+
+    (b) Objective.--The objective of the roadmap is to explore 
+hypersonic science and technology using air-breathing propulsion 
+concepts, through a mix of theoretical work, basic and applied research, 
+and development of flight research demonstration vehicles.
+    (c) <<NOTE: Recommenda- tions.>>  Contents.--The roadmap shall 
+recommend appropriate Federal agency contributions, coordination 
+efforts, and technology milestones.
+SEC. 604. SUPERSONIC RESEARCH.
+
+    (a) Findings.--Congress finds that--
+            (1) the ability to fly commercial aircraft over land at 
+        supersonic speeds without adverse impacts on the environment or 
+        on local communities could open new global markets and enable 
+        new transportation capabilities; and
+            (2) continuing the Administration's research program is 
+        necessary to assess the impact in a relevant environment of 
+        commercial supersonic flight operations and provide the basis 
+        for establishing appropriate sonic boom standards for such 
+        flight operations.
+
+    (b) Roadmap for Supersonic Research.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 1 year 
+        after the date of enactment of this Act, the Administrator shall 
+        develop and submit to the appropriate committees of Congress a 
+        roadmap that allows for flexible funding profiles for supersonic 
+        aeronautics research and development.
+            (2) Objective.--The objective of the roadmap is to develop 
+        and demonstrate, in a relevant environment, airframe and 
+        propulsion technologies to minimize the environmental impact, 
+        including noise, of supersonic overland flight in an efficient 
+        and economical manner.
+
+[[Page 131 STAT. 56]]
+
+            (3) <<NOTE: Plans.>>  Contents.--The roadmap shall include--
+                    (A) the baseline research as embodied by the 
+                Administration's existing research on supersonic flight;
+                    (B) <<NOTE: Lists.>>  a list of specific 
+                technological, environmental, and other challenges that 
+                must be overcome to minimize the environmental impact, 
+                including noise, of supersonic overland flight;
+                    (C) a research plan to address the challenges under 
+                subparagraph (B), including a project timeline for 
+                accomplishing relevant research goals;
+                    (D) a plan for coordination with stakeholders, 
+                including relevant government agencies and industry; and
+                    (E) a plan for how the Administration will ensure 
+                that sonic boom research is coordinated as appropriate 
+                with relevant Federal agencies.
+SEC. 605. ROTORCRAFT RESEARCH.
+
+    (a) <<NOTE: Deadline. Consultation.>>  Roadmap for Rotorcraft 
+Research.--Not later than 1 year after the date of enactment of this 
+Act, the Administrator, in consultation with the heads of other relevant 
+Federal agencies, shall prepare and submit to the appropriate committees 
+of Congress a roadmap for research relating to rotorcraft and other 
+runway-independent air vehicles.
+
+    (b) Objective.--The objective of the roadmap is to develop and 
+demonstrate improved safety, noise, and environmental impact in a 
+relevant environment.
+    (c) <<NOTE: Timeline. Guidelines.>>  Contents.--The roadmap shall 
+include specific goals for the research, a timeline for implementation, 
+metrics for success, and guidelines for collaboration and coordination 
+with industry and other Federal agencies.
+
+                       TITLE VII--SPACE TECHNOLOGY
+
+SEC. 701. <<NOTE: 51 USC 20301 note.>>  SPACE TECHNOLOGY INFUSION.
+
+    (a) Sense of Congress on Space Technology.--It is the sense of 
+Congress that space technology is critical--
+            (1) to developing technologies and capabilities that will 
+        make the Administration's core missions more affordable and more 
+        reliable;
+            (2) to enabling a new class of Administration missions 
+        beyond low-Earth orbit; and
+            (3) to improving technological capabilities and promote 
+        innovation for the Administration and the Nation.
+
+    (b) Sense of Congress on Propulsion Technology.--It is the sense of 
+Congress that advancing propulsion technology would improve the 
+efficiency of trips to Mars and could shorten travel time to Mars, 
+reduce astronaut health risks, and reduce radiation exposure, 
+consumables, and mass of materials required for the journey.
+    (c) Policy.--It is the policy of the United States that the 
+Administrator shall develop technologies to support the Administration's 
+core missions, as described in section 2(3) of the National Aeronautics 
+and Space Administration Authorization Act of 2010 (42 U.S.C. 18301(3)), 
+and support sustained investments in early stage innovation, fundamental 
+research, and technologies to expand the boundaries of the national 
+aerospace enterprise.
+
+[[Page 131 STAT. 57]]
+
+    (d) Propulsion Technologies.--A goal of propulsion technologies 
+developed under subsection (c) shall be to significantly reduce human 
+travel time to Mars.
+SEC. 702. <<NOTE: 51 USC 20301 note.>>  SPACE TECHNOLOGY PROGRAM.
+
+    (a) Space Technology Program Authorized.--The Administrator shall 
+conduct a space technology program (referred to in this section as the 
+``Program'') to research and develop advanced space technologies that 
+could deliver innovative solutions across the Administration's space 
+exploration and science missions.
+    (b) Considerations.--In conducting the Program, the Administrator 
+shall consider--
+            (1) the recommendations of the National Academies' review of 
+        the Administration's Space Technology roadmaps and priorities; 
+        and
+            (2) the applicable enabling aspects of the stepping stone 
+        approach to exploration under section 70504 of title 51, United 
+        States Code.
+
+    (c) Requirements.--In conducting the Program, the Administrator 
+shall--
+            (1) to the extent practicable, use a competitive process to 
+        select research and development projects;
+            (2) to the extent practicable and appropriate, use small 
+        satellites and the Administration's suborbital and ground-based 
+        platforms to demonstrate space technology concepts and 
+        developments; and
+            (3) as appropriate, partner with other Federal agencies, 
+        universities, private industry, and foreign countries.
+
+    (d) Small Business Programs.--The Administrator shall organize and 
+manage the Administration's Small Business Innovation Research Program 
+and Small Business Technology Transfer Program within the Program.
+    (e) Nonduplication Certification.--The Administrator shall submit a 
+budget for each fiscal year, as transmitted to Congress under section 
+1105(a) of title 31, United States Code, that avoids duplication of 
+projects, programs, or missions conducted by Program with other 
+projects, programs, or missions conducted by another office or 
+directorate of the Administration.
+    (f) Collaboration, Coordination, and Alignment.--
+            (1) In general.--The Administrator shall--
+                    (A) ensure that the Administration's projects, 
+                programs, and activities in support of technology 
+                research and development of advanced space technologies 
+                are fully coordinated and aligned;
+                    (B) ensure that the results the projects, programs, 
+                and activities under subparagraph (A) are shared and 
+                leveraged within the Administration; and
+                    (C) ensure that the organizational responsibility 
+                for research and development activities in support of 
+                human space exploration not initiated as of the date of 
+                enactment of this Act is established on the basis of a 
+                sound rationale.
+            (2) Sense of congress.--It is the sense of Congress that 
+        projects, programs, and missions being conducted by the Human 
+        Exploration and Operations Mission Directorate in support of 
+        research and development of advanced space technologies and 
+        systems focusing on human space exploration should continue in 
+        that Directorate.
+
+[[Page 131 STAT. 58]]
+
+    (g) Report.--Not later than 180 days after the date of enactment of 
+this Act, the Administrator shall provide to the appropriate committees 
+of Congress a report--
+            (1) comparing the Administration's space technology 
+        investments with the high-priority technology areas identified 
+        by the National Academies in the National Research Council's 
+        report on the Administration's Space Technology Roadmaps; and
+            (2) including--
+                    (A) identification of how the Administration will 
+                address any gaps between the agency's investments and 
+                the recommended technology areas, including a projection 
+                of funding requirements; and
+                    (B) identification of the rationale described in 
+                subsection (f)(1)(C).
+
+    (h) Annual Report.--The Administrator shall include in the 
+Administration's annual budget request for each fiscal year the 
+rationale for assigning organizational responsibility for, in the year 
+prior to the budget fiscal year, each initiated project, program, and 
+mission focused on research and development of advanced technologies for 
+human space exploration.
+
+                    TITLE VIII--MAXIMIZING EFFICIENCY
+
+       Subtitle A--Agency Information Technology and Cybersecurity
+
+SEC. 811. <<NOTE: 51 USC 20111 note.>>  INFORMATION TECHNOLOGY 
+                        GOVERNANCE.
+
+    (a) In General.--The Administrator shall, in a manner that reflects 
+the unique nature of NASA's mission and expertise--
+            (1) ensure the NASA Chief Information Officer, Mission 
+        Directorates, and Centers have appropriate roles in the 
+        management, governance, and oversight processes related to 
+        information technology operations and investments and 
+        information security programs for the protection of NASA 
+        systems;
+            (2) ensure the NASA Chief Information Officer has the 
+        appropriate resources and insight to oversee NASA information 
+        technology and information security operations and investments;
+            (3) provide an information technology program management 
+        framework to increase the efficiency and effectiveness of 
+        information technology investments, including relying on metrics 
+        for identifying and reducing potential duplication, waste, and 
+        cost;
+            (4) improve the operational linkage between the NASA Chief 
+        Information Officer and each NASA mission directorate, center, 
+        and mission support office to ensure both agency and mission 
+        needs are considered in agency-wide information technology and 
+        information security management and oversight;
+            (5) <<NOTE: Review.>>  review the portfolio of information 
+        technology investments and spending, including information 
+        technology-related investments included as part of activities 
+        within NASA mission directorates that may not be considered 
+        information technology,
+
+[[Page 131 STAT. 59]]
+
+        to ensure investments are recognized and reported appropriately 
+        based on guidance from the Office of Management and Budget;
+            (6) consider appropriate revisions to the charters of 
+        information technology boards and councils that inform 
+        information technology investment and operation decisions; and
+            (7) consider whether the NASA Chief Information Officer 
+        should have a seat on any boards or councils described in 
+        paragraph (6).
+
+    (b) GAO Study.--
+            (1) Study.--The Comptroller General of the United States 
+        shall conduct a study of the effectiveness of the 
+        Administration's Information Technology Governance in ensuring 
+        information technology resources are aligned with agency 
+        missions and are cost effective and secure.
+            (2) <<NOTE: Assessment.>>  Contents.--The study shall 
+        include an assessment of--
+                    (A) the resources available for overseeing 
+                Administration-wide information technology operations, 
+                investments, and security measures and the NASA Chief 
+                Information Officer's visibility and involvement into 
+                information technology oversight and access to those 
+                resources;
+                    (B) the effectiveness and challenges of the 
+                Administration's information technology structure, 
+                decision making processes and authorities, including 
+                impacts on its ability to implement information 
+                security; and
+                    (C) the impact of NASA Chief Information Officer 
+                approval authority over information technology 
+                investments that exceed a defined monetary threshold, 
+                including any potential impacts of such authority on the 
+                Administration's missions, flights programs and 
+                projects, research activities, and Center operations.
+            (3) <<NOTE: Recommenda- tions.>>  Report.--Not later than 1 
+        year after the date of enactment of this Act, the Comptroller 
+        General shall submit to the appropriate committees of Congress a 
+        report detailing the results of the study under paragraph (1), 
+        including any recommendations.
+SEC. 812. <<NOTE: 51 USC 20111 note.>>  INFORMATION TECHNOLOGY 
+                        STRATEGIC PLAN.
+
+    (a) In General.--Subject to subsection (b), the Administrator shall 
+develop an information technology strategic plan to guide NASA 
+information technology management and strategic objectives.
+    (b) Requirements.--In developing the strategic plan, the 
+Administrator shall ensure that the strategic plan addresses--
+            (1) the deadline under section 306(a) of title 5, United 
+        States Code; and
+            (2) the requirements under section 3506 of title 44, United 
+        States Code.
+
+    (c) Contents.--The strategic plan shall address, in a manner that 
+reflects the unique nature of NASA's mission and expertise--
+            (1) near and long-term goals and objectives for leveraging 
+        information technology;
+            (2) a plan for how NASA will submit to Congress of a list of 
+        information technology projects, including completion dates and 
+        risk level in accordance with guidance from the Office of 
+        Management and Budget;
+
+[[Page 131 STAT. 60]]
+
+            (3) an implementation overview for an agency-wide approach 
+        to information technology investments and operations, including 
+        reducing barriers to cross-center collaboration;
+            (4) <<NOTE: Coordination.>>  coordination by the NASA Chief 
+        Information Officer with centers and mission directorates to 
+        ensure that information technology policies are effectively and 
+        efficiently implemented across the agency;
+            (5) a plan to increase the efficiency and effectiveness of 
+        information technology investments, including a description of 
+        how unnecessarily duplicative, wasteful, legacy, or outdated 
+        information technology across NASA will be identified and 
+        eliminated, and a schedule for the identification and 
+        elimination of such information technology;
+            (6) a plan for improving the information security of agency 
+        information and agency information systems, including improving 
+        security control assessments and role-based security training of 
+        employees; and
+            (7) submission by NASA to Congress of information regarding 
+        high risk projects and cybersecurity risks.
+
+    (d) Congressional Oversight.--The Administrator shall submit to the 
+appropriate committees of Congress the strategic plan under subsection 
+(a) and any updates thereto.
+SEC. 813. <<NOTE: 51 USC 20111 note.>>  CYBERSECURITY.
+
+    (a) Finding.--Congress finds that the security of NASA information 
+and information systems is vital to the success of the mission of the 
+agency.
+    (b) Information Security Plan.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 1 year 
+        after the date of enactment of this Act, the Administrator shall 
+        implement the information security plan developed under 
+        paragraph (2) and take such further actions as the Administrator 
+        considers necessary to improve the information security system 
+        in accordance with this section.
+            (2) Information security plan.--Subject to paragraphs (3) 
+        and (4), the Administrator shall develop an agency-wide 
+        information security plan to enhance information security for 
+        NASA information and information infrastructure.
+            (3) Requirements.--In developing the plan under paragraph 
+        (2), the Administrator shall ensure that the plan--
+                    (A) reflects the unique nature of NASA's mission and 
+                expertise;
+                    (B) is informed by policies, standards, guidelines, 
+                and directives on information security required for 
+                Federal agencies;
+                    (C) is consistent with the standards and guidelines 
+                under section 11331 of title 40, United States Code; and
+                    (D) meets applicable National Institute of Standards 
+                and Technology information security standards and 
+                guidelines.
+            (4) Contents.--The plan shall address--
+                    (A) an overview of the requirements of the 
+                information security system;
+                    (B) an agency-wide risk management framework for 
+                information security;
+
+[[Page 131 STAT. 61]]
+
+                    (C) a description of the information security system 
+                management controls and common controls that are 
+                necessary to ensure compliance with information 
+                security-related requirements;
+                    (D) an identification and assignment of roles, 
+                responsibilities, and management commitment for 
+                information security at the agency;
+                    (E) coordination among organizational entities, 
+                including between each center, facility, mission 
+                directorate, and mission support office, and among 
+                agency entities responsible for different aspects of 
+                information security;
+                    (F) the need to protect the information security of 
+                mission-critical systems and activities and high-impact 
+                and moderate-impact information systems; and
+                    (G) a schedule of frequent reviews and updates, as 
+                necessary, of the plan.
+SEC. 814. <<NOTE: Notification.>>  SECURITY MANAGEMENT OF FOREIGN 
+                        NATIONAL ACCESS.
+
+    The Administrator shall notify the appropriate committees of 
+Congress when the agency has implemented the information technology 
+security recommendations from the National Academy of Public 
+Administration on foreign national access management, based on reports 
+from January 2014 and March 2016.
+SEC. 815. <<NOTE: Deadline. Plans.>>  CYBERSECURITY OF WEB 
+                        APPLICATIONS.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Administrator shall, in a manner that reflects the unique nature of 
+NASA's mission and expertise--
+            (1) develop a plan, including such actions and milestones as 
+        are necessary, to fully remediate security vulnerabilities of 
+        NASA web applications within a timely fashion after discovery; 
+        and
+            (2) provide an update on its plan to implement the 
+        recommendation from the NASA Inspector General in the audit 
+        report dated July 10, 2014, (IG-14-023) to remove from the 
+        Internet or otherwise secure all NASA web applications in 
+        development or testing mode.
+
+ Subtitle B--Collaboration Among Mission Directorates and Other Matters
+
+SEC. 821. <<NOTE: 51 USC 20111 note.>>  COLLABORATION AMONG 
+                        MISSION DIRECTORATES.
+
+    The Administrator shall encourage an interdisciplinary approach 
+among all NASA mission directorates and divisions, whenever appropriate, 
+for projects or missions--
+            (1) to improve coordination, and encourage collaboration and 
+        early planning on scope;
+            (2) to determine areas of overlap or alignment;
+            (3) to find ways to leverage across divisional perspectives 
+        to maximize outcomes; and
+            (4) to be more efficient with resources and funds.
+SEC. 822. <<NOTE: 51 USC 50131 note.>>  NASA LAUNCH CAPABILITIES 
+                        COLLABORATION.
+
+    (a) Findings.--Congress makes the following findings:
+
+[[Page 131 STAT. 62]]
+
+            (1) The Launch Services Program is responsible for the 
+        acquisition, management, and technical oversight of commercial 
+        launch services for NASA's science and robotic missions.
+            (2) The Commercial Crew Program is responsible for the 
+        acquisition, management, and technical oversight of commercial 
+        crew transportation systems.
+            (3) The Launch Services Program and Commercial Crew Program 
+        have worked together to gain exceptional technical insight into 
+        the contracted launch service providers that are common to both 
+        programs.
+            (4) The Launch Services Program has a long history of 
+        oversight of 12 different launch vehicles and over 80 launches.
+            (5) Co-location of the Launch Services Program and 
+        Commercial Crew Program has enabled the Commercial Crew Program 
+        to efficiently obtain the launch vehicle technical expertise of 
+        and provide engineering and analytical support to the Commercial 
+        Crew Program.
+
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) the Launch Services Program and Commercial Crew Program 
+        each benefit from communication and coordination of launch 
+        manifests, technical information, and common launch vehicle 
+        insight between the programs; and
+            (2) such communication and coordination is enabled by the 
+        co-location of the programs.
+
+    (c) In General.--The Administrator shall pursue a strategy for 
+acquisition of crewed transportation services and non-crewed launch 
+services that continues to enhance communication, collaboration, and 
+coordination between the Launch Services Program and the Commercial Crew 
+Program.
+SEC. 823. <<NOTE: 51 USC 30301 note prec.>>  DETECTION AND 
+                        AVOIDANCE OF COUNTERFEIT PARTS.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) A 2012 investigation by the Committee on Armed Services 
+        of the Senate of counterfeit electronic parts in the Department 
+        of Defense supply chain from 2009 through 2010 uncovered 1,800 
+        cases and over 1,000,000 counterfeit parts and exposed the 
+        threat such counterfeit parts pose to service members and 
+        national security.
+            (2) Since 2010, the Comptroller General of the United States 
+        has identified in 3 separate reports the risks and challenges 
+        associated with counterfeit parts and counterfeit prevention at 
+        both the Department of Defense and NASA, including inconsistent 
+        definitions of counterfeit parts, poorly targeted quality 
+        control practices, and potential barriers to improvements to 
+        these practices.
+
+    (b) Sense of Congress.--It is the sense of Congress that the 
+presence of counterfeit electronic parts in the NASA supply chain poses 
+a danger to United States government astronauts, crew, and other 
+personnel and a risk to the agency overall.
+    (c) Regulations.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 270 
+        days after the date of enactment of this Act, the Administrator 
+        shall revise the NASA Supplement to the Federal Acquisition 
+        Regulation to improve the detection and avoidance of counterfeit 
+        electronic parts in the supply chain.
+            (2) Contractor responsibilities.--In revising the 
+        regulations under paragraph (1), the Administrator shall--
+
+[[Page 131 STAT. 63]]
+
+                    (A) require each covered contractor--
+                          (i) to detect and avoid the use or inclusion 
+                      of any counterfeit parts in electronic parts or 
+                      products that contain electronic parts;
+                          (ii) to take such corrective actions as the 
+                      Administrator considers necessary to remedy the 
+                      use or inclusion described in clause (i); and
+                          (iii) <<NOTE: Notification. Deadline.>>  
+                      including a subcontractor, to notify the 
+                      applicable NASA contracting officer not later than 
+                      30 calendar days after the date the covered 
+                      contractor becomes aware, or has reason to 
+                      suspect, that any end item, component, part or 
+                      material contained in supplies purchased by NASA, 
+                      or purchased by a covered contractor or 
+                      subcontractor for delivery to, or on behalf of, 
+                      NASA, contains a counterfeit electronic part or 
+                      suspect counterfeit electronic part; and
+                    (B) prohibit the cost of counterfeit electronic 
+                parts, suspect counterfeit electronic parts, and any 
+                corrective action described under subparagraph (A)(ii) 
+                from being included as allowable costs under agency 
+                contracts, unless--
+                          (i)(I) the covered contractor has an 
+                      operational system to detect and avoid counterfeit 
+                      electronic parts and suspect counterfeit 
+                      electronic parts that has been reviewed and 
+                      approved by NASA or the Department of Defense; and
+                                    (II) the covered contractor has 
+                                provided the notice under subparagraph 
+                                (A)(iii); or
+                          (ii) the counterfeit electronic parts or 
+                      suspect counterfeit electronic parts were provided 
+                      to the covered contractor as Government property 
+                      in accordance with part 45 of the Federal 
+                      Acquisition Regulation.
+            (3) Suppliers of electronic parts.--In revising the 
+        regulations under paragraph (1), the Administrator shall--
+                    (A) require NASA and covered contractors, including 
+                subcontractors, at all tiers--
+                          (i) to obtain electronic parts that are in 
+                      production or currently available in stock from--
+                                    (I) the original manufacturers of 
+                                the parts or their authorized dealers; 
+                                or
+                                    (II) suppliers who obtain such parts 
+                                exclusively from the original 
+                                manufacturers of the parts or their 
+                                authorized dealers; and
+                          (ii) to obtain electronic parts that are not 
+                      in production or currently available in stock from 
+                      suppliers that meet qualification requirements 
+                      established under subparagraph (C);
+                    (B) establish documented requirements consistent 
+                with published industry standards or Government contract 
+                requirements for--
+                          (i) notification of the agency; and
+                          (ii) inspection, testing, and authentication 
+                      of electronic parts that NASA or a covered 
+                      contractor, including a subcontractor, obtains 
+                      from any source other than a source described in 
+                      subparagraph (A);
+                    (C) establish qualification requirements, consistent 
+                with the requirements of section 2319 of title 10, 
+                United
+
+[[Page 131 STAT. 64]]
+
+                States Code, pursuant to which NASA may identify 
+                suppliers that have appropriate policies and procedures 
+                in place to detect and avoid counterfeit electronic 
+                parts and suspect counterfeit electronic parts; and
+                    (D) authorize a covered contractor, including a 
+                subcontractor, to identify and use additional suppliers 
+                beyond those identified under subparagraph (C) if--
+                          (i) the standards and processes for 
+                      identifying such suppliers comply with established 
+                      industry standards;
+                          (ii) the covered contractor assumes 
+                      responsibility for the authenticity of parts 
+                      provided by such suppliers under paragraph (2); 
+                      and
+                          (iii) the selection of such suppliers is 
+                      subject to review and audit by NASA.
+
+    (d) Definitions.--In this section:
+            (1) Covered contractor.--The term ``covered contractor'' 
+        means a contractor that supplies an electronic part, or a 
+        product that contains an electronic part, to NASA.
+            (2) Electronic part.--The term ``electronic part'' means a 
+        discrete electronic component, including a microcircuit, 
+        transistor, capacitor, resistor, or diode, that is intended for 
+        use in a safety or mission critical application.
+SEC. 824. <<NOTE: 51 USC 40901 note prec.>>  EDUCATION AND 
+                        OUTREACH.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) United States competitiveness in the 21st century 
+        requires engaging the science, technology, engineering, and 
+        mathematics (referred to in this section as ``STEM'') talent in 
+        all States;
+            (2) the Administration is uniquely positioned to educate and 
+        inspire students and the broader public on STEM subjects and 
+        careers;
+            (3) the Administration's Education and Communication 
+        Offices, Mission Directorates, and Centers have been effective 
+        in delivering educational content because of the strong 
+        engagement of Administration scientists and engineers in the 
+        Administration's education and outreach activities;
+            (4) the Administration's education and outreach programs, 
+        including the Experimental Program to Stimulate Competitive 
+        Research (EPSCoR) and the Space Grant College and Fellowship 
+        Program, reflect the Administration's successful commitment to 
+        growing and diversifying the national science and engineering 
+        workforce; and
+            (5) in order to grow and diversify the Nation's engineering 
+        workforce, it is vital for the Administration to bolster 
+        programs, such as High Schools United with NASA to Create 
+        Hardware (HUNCH) program, that conduct outreach activities to 
+        underserved rural communities, vocational schools, and tribal 
+        colleges and universities and encourage new participation in the 
+        STEM workforce.
+
+    (b) Continuation of Education and Outreach Activities and 
+Programs.--
+            (1) In general.--The Administrator shall continue engagement 
+        with the public and education opportunities for students via all 
+        the Administration's mission directorates to the maximum extent 
+        practicable.
+
+[[Page 131 STAT. 65]]
+
+            (2) Report.--Not later than 60 days after the date of 
+        enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report on the 
+        Administration's near-term outreach plans for advancing space 
+        law education.
+SEC. 825. <<NOTE: 51 USC 50131 note.>>  LEVERAGING COMMERCIAL 
+                        SATELLITE SERVICING CAPABILITIES ACROSS 
+                        MISSION DIRECTORATES.
+
+    (a) Findings.--Congress makes the following findings:
+            (1) Refueling and relocating aging satellites to extend 
+        their operational lifetimes is a capacity that NASA will 
+        substantially benefit from and is important for lowering the 
+        costs of ongoing scientific, national security, and commercial 
+        satellite operations.
+            (2) The technologies involved in satellite servicing, such 
+        as dexterous robotic arms, propellant transfer systems, and 
+        solar electric propulsion, are all critical capabilities to 
+        support a human exploration mission to Mars.
+
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) satellite servicing is a vital capability that will 
+        bolster the capacity and affordability of NASA's ongoing 
+        scientific and human exploration operations while simultaneously 
+        enhancing the ability of domestic companies to compete in the 
+        global marketplace; and
+            (2) future NASA satellites and spacecraft across mission 
+        directorates should be constructed in a manner that allows for 
+        servicing in order to maximize operational longevity and 
+        affordability.
+
+    (c) Leveraging of Capabilities.--The Administrator shall--
+            (1) identify orbital assets in both the Science Mission 
+        Directorate and the Human Exploration and Operations Mission 
+        Directorate that could benefit from satellite servicing-related 
+        technologies; and
+            (2) <<NOTE: Evaluation.>>  work across all NASA mission 
+        directorates to evaluate opportunities for the private sector to 
+        perform such services or advance technical capabilities by 
+        leveraging the technologies and techniques developed by NASA 
+        programs and other industry programs.
+SEC. 826. <<NOTE: 51 USC 70102 note.>>  FLIGHT OPPORTUNITIES.
+
+    (a) Development of Payloads.--
+            (1) In general.--In order to conduct necessary research, the 
+        Administrator shall continue and, as the Administrator considers 
+        appropriate, expand the development of technology payloads for--
+                    (A) scientific research; and
+                    (B) investigating new or improved capabilities.
+            (2) Funds.--For the purpose of carrying out paragraph (1), 
+        the Administrator shall make funds available for--
+                    (A) flight testing;
+                    (B) payload development; and
+                    (C) hardware related to subparagraphs (A) and (B).
+
+    (b) Reaffirmation of Policy.--Congress reaffirms that the 
+Administrator should provide flight opportunities for payloads to 
+microgravity environments and suborbital altitudes as authorized by 
+section 907 of the National Aeronautics and Space Administration 
+Authorization Act of 2010 (42 U.S.C. 18405).
+
+[[Page 131 STAT. 66]]
+
+SEC. 827. SENSE OF CONGRESS ON SMALL CLASS LAUNCH MISSIONS.
+
+    It is the sense of Congress that--
+            (1) Venture Class Launch Services contracts awarded under 
+        the Launch Services Program will expand opportunities for future 
+        dedicated launches of CubeSats and other small satellites and 
+        small orbital science missions; and
+            (2) principal investigator-led small orbital science 
+        missions, including CubeSat class, Small Explorer (SMEX) class, 
+        and Venture class, offer valuable opportunities to advance 
+        science at low cost, train the next generation of scientists and 
+        engineers, and enable participants to acquire skills in systems 
+        engineering and systems integration that are critical to 
+        maintaining the Nation's leadership in space and to enhancing 
+        United States innovation and competitiveness abroad.
+SEC. 828. BASELINE AND COST CONTROLS.
+
+    Section 30104(a)(1) of title 51, United States Code, is amended by 
+striking ``Procedural Requirements 7120.5c, dated March 22, 2005'' and 
+inserting ``Procedural Requirements 7120.5E, dated August 14, 2012''.
+SEC. 829. COMMERCIAL TECHNOLOGY TRANSFER PROGRAM.
+
+    Section 50116(a) of title 51, United States Code, is amended by 
+inserting ``, while protecting national security'' after ``research 
+community''.
+SEC. 830. <<NOTE: 51 USC 30301 note prec.>>  AVOIDING 
+                        ORGANIZATIONAL CONFLICTS OF INTEREST IN 
+                        MAJOR ADMINISTRATION ACQUISITION PROGRAMS.
+
+    (a) <<NOTE: Deadline. Recommenda- tions.>>  Revised Regulations 
+Required.--Not later than 270 days after the date of enactment of this 
+Act, the Administrator shall revise the Administration Supplement to the 
+Federal Acquisition Regulation to provide uniform guidance and recommend 
+revised requirements for organizational conflicts of interest by 
+contractors in major acquisition programs in order to address the 
+elements identified in subsection (b).
+
+    (b) Elements.--The revised regulations under subsection (a) shall, 
+at a minimum--
+            (1) address organizational conflicts of interest that could 
+        potentially arise as a result of--
+                    (A) lead system integrator contracts on major 
+                acquisition programs and contracts that follow lead 
+                system integrator contracts on such programs, 
+                particularly contracts for production;
+                    (B) the ownership of business units performing 
+                systems engineering and technical assistance functions, 
+                professional services, or management support services in 
+                relation to major acquisition programs by contractors 
+                who simultaneously own business units competing to 
+                perform as either the prime contractor or the supplier 
+                of a major subsystem or component for such programs;
+                    (C) the award of major subsystem contracts by a 
+                prime contractor for a major acquisition program to 
+                business units or other affiliates of the same parent 
+                corporate entity, and particularly the award of 
+                subcontracts for software integration or the development 
+                of a proprietary software system architecture; or
+                    (D) the performance by, or assistance of, 
+                contractors in technical evaluations on major 
+                acquisition programs;
+
+[[Page 131 STAT. 67]]
+
+            (2) require the Administration to request advice on systems 
+        architecture and systems engineering matters with respect to 
+        major acquisition programs from objective sources independent of 
+        the prime contractor;
+            (3) require that a contract for the performance of systems 
+        engineering and technical assistance functions for a major 
+        acquisition program contains a provision prohibiting the 
+        contractor or any affiliate of the contractor from participating 
+        as a prime contractor or a major subcontractor in the 
+        development of a system under the program; and
+            (4) establish such limited exceptions to the requirement in 
+        paragraphs (2) and (3) as the Administrator considers necessary 
+        to ensure that the Administration has continued access to advice 
+        on systems architecture and systems engineering matters from 
+        highly qualified contractors with domain experience and 
+        expertise, while ensuring that such advice comes from sources 
+        that are objective and unbiased.
+SEC. 831. <<NOTE: Historic preservation.>>  PROTECTION OF APOLLO 
+                        LANDING SITES.
+
+    (a) <<NOTE: Consultation.>>  Assessment.--The Director of the Office 
+of Science and Technology Policy, in consultation with relevant Federal 
+agencies and stakeholders, shall assess the issues relating to 
+protecting and preserving historically important Apollo Program lunar 
+landing sites and Apollo program artifacts residing on the lunar 
+surface, including those pertaining to Apollo 11 and Apollo 17.
+
+    (b) <<NOTE: Determinations.>>  Contents.--In conducting the 
+assessment, the Director shall include--
+            (1) a determination of what risks to the protection and 
+        preservation of those sites and artifacts exist or may exist in 
+        the future;
+            (2) a determination of what measures are required to ensure 
+        such protection and preservation;
+            (3) a determination of the extent to which additional 
+        domestic legislation or international treaties or agreements 
+        will be required; and
+            (4) <<NOTE: Recommenda- tions.>>  specific recommendations 
+        for protecting and preserving those lunar landing sites and 
+        artifacts.
+
+    (c) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Director shall submit to the appropriate committees of 
+Congress the results of the assessment.
+SEC. 832. NASA LEASE OF NON-EXCESS PROPERTY.
+
+    Section 20145(g) of title 51, United States Code, is amended by 
+striking ``10 years after December 26, 2007'' and inserting ``December 
+31, 2018''.
+SEC. 833. TERMINATION LIABILITY.
+
+    It is the sense of Congress that--
+            (1) the ISS, the Space Launch System, and the Orion will 
+        enable the Nation to continue operations in low-Earth orbit and 
+        to send its astronauts to deep space;
+            (2) the James Webb Space Telescope will revolutionize our 
+        understanding of star and planet formation and how galaxies 
+        evolved, and will advance the search for the origins of our 
+        universe;
+            (3) as a result of their unique capabilities and their 
+        critical contribution to the future of space exploration, these 
+        systems
+
+[[Page 131 STAT. 68]]
+
+        have been designated by Congress and the Administration as 
+        priority investments;
+            (4) contractors are currently holding program funding, 
+        estimated to be in the hundreds of millions of dollars, to cover 
+        the potential termination liability should the Government choose 
+        to terminate a program for convenience;
+            (5) as a result, hundreds of millions of taxpayer dollars 
+        are unavailable for meaningful work on these programs;
+            (6) according to the Government Accountability Office, the 
+        Administration procures most of its goods and services through 
+        contracts, and it terminates very few of them;
+            (7) in fiscal year 2010, the Administration terminated 28 of 
+        16,343 active contracts and orders, a termination rate of about 
+        0.17 percent; and
+            (8) the Administration should vigorously pursue a policy on 
+        termination liability that maximizes the utilization of its 
+        appropriated funds to make maximum progress in meeting 
+        established technical goals and schedule milestones on these 
+        high-priority programs.
+SEC. 834. <<NOTE: Reports.>>  INDEPENDENT REVIEWS.
+
+    Not later than 270 days after the date of enactment of this Act, the 
+Administrator shall submit to the appropriate committees of Congress a 
+report describing--
+            (1) the Administration's procedures for conducting 
+        independent reviews of projects and programs at lifecycle 
+        milestones;
+            (2) how the Administration ensures the independence of the 
+        individuals who conduct those reviews prior to their assignment;
+            (3) the internal and external entities independent of 
+        project and program management that conduct reviews of projects 
+        and programs at life cycle milestones; and
+            (4) how the Administration ensures the independence of such 
+        entities and their members.
+SEC. 835. NASA ADVISORY COUNCIL.
+
+    (a) <<NOTE: Recommenda- tions.>>  Assessment.--The Administrator 
+shall enter into an arrangement with the National Academy of Public 
+Administration to assess the effectiveness of the NASA Advisory Council 
+and to make recommendations to Congress for any change to--
+            (1) the functions of the Council;
+            (2) the appointment of members to the Council;
+            (3) the qualifications for members of the Council;
+            (4) the duration of terms of office for members of the 
+        Council;
+            (5) the frequency of meetings of the Council;
+            (6) the structure of leadership and Committees of the 
+        Council; and
+            (7) the levels of professional staffing for the Council.
+
+    (b) Considerations.--In carrying out the assessment under subsection 
+(a), the National Academy of Public Administration shall--
+            (1) consider the impacts of broadening the Council's role to 
+        include providing consultation and advice to Congress under 
+        section 20113(g) of title 51, United States Code;
+            (2) consider the past activities of the Council and the 
+        activities of other analogous Federal advisory bodies; and
+
+[[Page 131 STAT. 69]]
+
+            (3) any other issues that the National Academy of Public 
+        Administration determines could potentially impact the 
+        effectiveness of the Council.
+
+    (c) <<NOTE: Recommenda- tions.>>  Report.--The National Academy of 
+Public Administration shall submit to the appropriate committees of 
+Congress the results of the assessment, including any recommendations.
+
+    (d) Consultation and Advice.--
+            (1) In general.--Section 20113(g) of title 51, United States 
+        Code, is amended by inserting ``and Congress'' after ``advice to 
+        the Administration''.
+            (2) <<NOTE: Effective date. 51 USC 30307 note.>>  Sunset.--
+        Effective September 30, 2017, section 20113(g) of title 51, 
+        United States Code, is amended by striking ``and Congress''.
+SEC. 836. <<NOTE: 51 USC 30307 note.>>  COST ESTIMATION.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) realistic cost estimating is critically important to the 
+        ultimate success of major space development projects; and
+            (2) the Administration has devoted significant efforts over 
+        the past 5 years to improving its cost estimating capabilities, 
+        but it is important that the Administration continue its efforts 
+        to develop and implement guidance in establishing realistic cost 
+        estimates.
+
+    (b) Guidance and Criteria.--The Administrator shall provide to its 
+acquisition programs and projects, in a manner consistent with the 
+Administration's Space Flight Program and Project Management 
+Requirements--
+            (1) guidance on when to use an Independent Cost Estimate and 
+        Independent Cost Assessment; and
+            (2) criteria to use to make a determination under paragraph 
+        (1).
+SEC. 837. <<NOTE: 51 USC 31502 note.>>  FACILITIES AND 
+                        INFRASTRUCTURE.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) the Administration must address, mitigate, and reverse, 
+        where possible, the deterioration of its facilities and 
+        infrastructure, as their condition is hampering the 
+        effectiveness and efficiency of research performed by both the 
+        Administration and industry participants making use of 
+        Administration facilities, thus harming the competitiveness of 
+        the United States aerospace industry;
+            (2) the Administration has a role in providing laboratory 
+        capabilities to industry participants that are not economically 
+        viable as commercial entities and thus are not available 
+        elsewhere;
+            (3) to ensure continued access to reliable and efficient 
+        world-class facilities by researchers, the Administration should 
+        establish strategic partnerships with other Federal agencies, 
+        State agencies, FAA-licensed spaceports, institutions of higher 
+        education, and industry, as appropriate; and
+            (4) decisions on whether to dispose of, maintain, or 
+        modernize existing facilities must be made in the context of 
+        meeting Administration and other needs, including those required 
+        to meet the activities supporting the human exploration roadmap 
+        under section 432 of this Act, considering other national 
+        laboratory needs as the Administrator deems appropriate.
+
+[[Page 131 STAT. 70]]
+
+    (b) Policy.--It is the policy of the United States that the 
+Administration maintain reliable and efficient facilities and 
+infrastructure and that decisions on whether to dispose of, maintain, or 
+modernize existing facilities or infrastructure be made in the context 
+of meeting future Administration needs.
+    (c) Plan.--
+            (1) In general.--The Administrator shall develop a 
+        facilities and infrastructure plan.
+            (2) Goal.--The goal of the plan is to position the 
+        Administration to have the facilities and infrastructure, 
+        including laboratories, tools, and approaches, necessary to meet 
+        future Administration and other Federal agencies' laboratory 
+        needs.
+            (3) Contents.--The plan shall identify--
+                    (A) current Administration and other Federal agency 
+                laboratory needs;
+                    (B) future Administration research and development 
+                and testing needs;
+                    (C) <<NOTE: Strategy.>>  a strategy for identifying 
+                facilities and infrastructure that are candidates for 
+                disposal, that is consistent with the national strategic 
+                direction set forth in--
+                          (i) the National Space Policy;
+                          (ii) the National Aeronautics Research, 
+                      Development, Test, and Evaluation Infrastructure 
+                      Plan;
+                          (iii) the National Aeronautics and Space 
+                      Administration Authorization Act of 2005 (Public 
+                      Law 109-155; 119 Stat. 2895), National Aeronautics 
+                      and Space Administration Authorization Act of 2008 
+                      (Public Law 110-422; 122 Stat. 4779), and National 
+                      Aeronautics and Space Administration Authorization 
+                      Act of 2010 (42 U.S.C. 18301 et seq.); and
+                          (iv) the human exploration roadmap under 
+                      section 432 of this Act;
+                    (D) <<NOTE: Strategy.>>  a strategy for the 
+                maintenance, repair, upgrading, and modernization of 
+                Administration facilities and infrastructure, including 
+                laboratories and equipment;
+                    (E) <<NOTE: Criteria.>>  criteria for--
+                          (i) prioritizing deferred maintenance tasks;
+                          (ii) maintaining, repairing, upgrading, or 
+                      modernizing Administration facilities and 
+                      infrastructure; and
+                          (iii) implementing processes, plans, and 
+                      policies for guiding the Administration's Centers 
+                      on whether to maintain, repair, upgrade, or 
+                      modernize a facility or infrastructure and for 
+                      determining the type of instrument to be used;
+                    (F) <<NOTE: Assessment.>>  an assessment of 
+                modifications needed to maximize usage of facilities 
+                that offer unique and highly specialized benefits to the 
+                aerospace industry and the American public; and
+                    (G) <<NOTE: Timeline. Estimate.>>  implementation 
+                steps, including a timeline, milestones, and an estimate 
+                of resources required for carrying out the plan.
+
+    (d) Requirement To Establish Policy.--
+            (1) <<NOTE: Deadline. Public information.>>  In general.--
+        Not later than 180 days after the date of enactment of this Act, 
+        the Administrator shall establish and make publicly available a 
+        policy that guides the Administration's use of existing 
+        authorities to out-grant, lease, excess to the General Services 
+        Administration, sell, decommission,
+
+[[Page 131 STAT. 71]]
+
+        demolish, or otherwise transfer property, facilities, or 
+        infrastructure.
+            (2) Criteria.--The policy shall include criteria for the use 
+        of authorities, best practices, standardized procedures, and 
+        guidelines for how to appropriately manage property, facilities, 
+        and infrastructure.
+
+    (e) <<NOTE: Deadline.>>  Submission to Congress.--Not later than 1 
+year after the date of enactment of this Act, the Administrator shall 
+submit to the appropriate committees of Congress the plan developed 
+under subsection (c).
+SEC. 838. HUMAN SPACE FLIGHT ACCIDENT INVESTIGATIONS.
+
+    Section 70702 of title 51, United States Code, is amended--
+            (1) by amending subsection (a)(3) to read as follows:
+            ``(3) any other orbital or suborbital space vehicle carrying 
+        humans that is--
+                    ``(A) owned by the Federal Government; or
+                    ``(B) being used pursuant to a contract or Space Act 
+                Agreement with the Federal Government for carrying a 
+                government astronaut or a researcher funded by the 
+                Federal Government; or''; and
+            (2) by adding at the end the following:
+
+    ``(c) Definitions.--In this section:
+            ``(1) Government astronaut.--The term `government astronaut' 
+        has the meaning given the term in section 50902.
+            ``(2) Space act agreement.--The term `Space Act Agreement' 
+        means an agreement entered into by the Administration pursuant 
+        to its other transactions authority under section 20113(e).''.
+SEC. 839. ORBITAL DEBRIS.
+
+    (a) Findings.--Congress finds that--
+            (1) orbital debris poses serious risks to the operational 
+        space capabilities of the United States;
+            (2) an international commitment and integrated strategic 
+        plan are needed to mitigate the growth of orbital debris 
+        wherever possible; and
+            (3) the delay in the Office of Science and Technology 
+        Policy's submission of a report on the status of international 
+        coordination and development of orbital debris mitigation 
+        strategies is inconsistent with such risks.
+
+    (b) Reports.--
+            (1) Coordination.--Not later than 90 days after the date of 
+        enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report on the status of 
+        efforts to coordinate with foreign countries within the Inter-
+        Agency Space Debris Coordination Committee to mitigate the 
+        effects and growth of orbital debris under section 1202(b)(1) of 
+        the National Aeronautics and Space Administration Authorization 
+        Act of 2010 (42 U.S.C. 18441(b)(1)).
+            (2) Mitigation strategy.--Not later than 90 days after the 
+        date of enactment of this Act, the Director of the Office of 
+        Science and Technology Policy shall submit to the appropriate 
+        committees of Congress a report on the status of the orbital 
+        debris mitigation strategy required under section 1202(b)(2) of 
+        the National Aeronautics and Space Administration Authorization 
+        Act of 2010 (42 U.S.C. 18441(b)(2)).
+
+[[Page 131 STAT. 72]]
+
+SEC. 840. REVIEW OF ORBITAL DEBRIS REMOVAL CONCEPTS.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) orbital debris in low-Earth orbit poses significant 
+        risks to spacecraft;
+            (2) such orbital debris may increase due to collisions 
+        between existing debris objects; and
+            (3) understanding options to address and remove orbital 
+        debris is important for ensuring safe and effective spacecraft 
+        operations in low-Earth orbit.
+
+    (b) Review.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 270 
+        days after the date of enactment of this Act, the 
+        Administrator--
+                    (A) in collaboration with the heads of other 
+                relevant Federal agencies, shall solicit and review 
+                concepts and options for removing orbital debris from 
+                low-Earth orbit; and
+                    (B) <<NOTE: Reports. Recommenda- tions.>>  shall 
+                submit to the appropriate committees of Congress a 
+                report on the solicitation and review under subparagraph 
+                (A), including recommendations on the best options for 
+                decreasing the risks associated with orbital debris.
+            (2) Requirements.--The solicitation and review under 
+        paragraph (1) shall address the requirements for and feasibility 
+        of developing and implementing each of the options.
+SEC. 841. <<NOTE: 51 USC 20113 note.>>  SPACE ACT AGREEMENTS.
+
+    (a) Sense of Congress.--It is the sense of Congress that, when used 
+appropriately, Space Act Agreements can provide significant value in 
+furtherance of NASA's mission.
+    (b) Funded Space Act Agreements.--To the extent appropriate, the 
+Administrator shall seek to maximize the value of contributions provided 
+by other parties under a funded Space Act Agreement in order to advance 
+NASA's mission.
+    (c) Non-exclusivity.--
+            (1) In general.--The Administrator shall, to the greatest 
+        extent practicable, issue each Space Act Agreement--
+                    (A) except as provided in paragraph (2), on a 
+                nonexclusive basis;
+                    (B) in a manner that ensures all non-government 
+                parties have equal access to NASA resources; and
+                    (C) exercising reasonable care not to reveal unique 
+                or proprietary information.
+            (2) <<NOTE: Determination.>>  Exclusivity.--If the 
+        Administrator determines an exclusive arrangement is necessary, 
+        the Administrator shall, to the greatest extent practicable, 
+        issue the Space Act Agreement--
+                    (A) utilizing a competitive selection process when 
+                exclusive arrangements are necessary; and
+                    (B) pursuant to public announcements when exclusive 
+                arrangements are necessary.
+
+    (d) <<NOTE: Public information. Web posting. Estimate. Deadline.>>  
+Transparency.--The Administrator shall publicly disclose on the 
+Administration's website and make available in a searchable format each 
+Space Act Agreement, including an estimate of committed NASA resources 
+and the expected benefits to agency objectives for each agreement, with 
+appropriate redactions for proprietary, sensitive, or classified 
+information, not later than 60 days after such agreement is signed by 
+the parties.
+
+    (e) Annual Reports.--
+
+[[Page 131 STAT. 73]]
+
+            (1) Requirement.--Not later than 90 days after the end of 
+        each fiscal year, the Administrator shall submit to the 
+        appropriate committees of Congress a report on the use of Space 
+        Act Agreement authority by the Administration during the 
+        previous fiscal year.
+            (2) Contents.--The report shall include for each Space Act 
+        Agreement in effect at the time of the report--
+                    (A) an indication of whether the agreement is a 
+                reimbursable, non-reimbursable, or funded Space Act 
+                Agreement;
+                    (B) a description of--
+                          (i) the subject and terms;
+                          (ii) the parties;
+                          (iii) the responsible--
+                                    (I) Mission Directorate;
+                                    (II) Center; or
+                                    (III) headquarters element;
+                          (iv) the value;
+                          (v) the extent of the cost sharing among 
+                      Federal Government and non-Federal sources;
+                          (vi) the time period or schedule; and
+                          (vii) all milestones; and
+                    (C) an indication of whether the agreement was 
+                renewed during the previous fiscal year.
+            (3) <<NOTE: Lists.>>  Anticipated agreements.--The report 
+        shall include a list of all anticipated reimbursable, non-
+        reimbursable, and funded Space Act Agreements for the upcoming 
+        fiscal year.
+            (4) Cumulative program benefits.--The report shall include, 
+        with respect to each Space Act Agreement covered by the report, 
+        a summary of--
+                    (A) the technology areas in which research projects 
+                were conducted under that agreement;
+                    (B) the extent to which the use of that agreement--
+                          (i) has contributed to a broadening of the 
+                      technology and industrial base available for 
+                      meeting Administration needs; and
+                          (ii) has fostered within the technology and 
+                      industrial base new relationships and practices 
+                      that support the United States; and
+
+[[Page 131 STAT. 74]]
+
+                    (C) the total amount of value received by the 
+                Federal Government during the fiscal year under that 
+                agreement.
+
+    Approved March 21, 2017.
+
+LEGISLATIVE HISTORY--S. 442:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 163 (2017):
+            Feb. 17, considered and passed Senate.
+            Mar. 7, considered and passed House.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2017):
+            Mar. 21, Presidential remarks.
+
+                                  
+

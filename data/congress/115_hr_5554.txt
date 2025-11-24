@@ -1,0 +1,982 @@
+
+[115th Congress Public Law 234]
+[From the U.S. Government Publishing Office]
+
+
+<star> (Star Print)
+
+[[Page 132 STAT. 2427]]
+
+Public Law 115-234
+115th Congress
+
+                                 An Act
+
+
+ 
+ To amend the Federal Food, Drug, and Cosmetic Act to reauthorize user 
+    fee programs relating to new animal drugs and generic new animal 
+             drugs. <<NOTE: Aug. 14, 2018 -  [H.R. 5554]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Animal Drug and 
+Animal Generic Drug User Fee Amendments of 2018. 21 USC 301 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Animal Drug and Animal Generic Drug 
+User Fee Amendments of 2018''.
+SEC. 2. TABLE OF CONTENTS; REFERENCES IN ACT.
+
+    (a) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents; references in Act.
+
+                 TITLE I--FEES RELATING TO ANIMAL DRUGS
+
+Sec. 101. Short title; finding.
+Sec. 102. Definitions.
+Sec. 103. Authority to assess and use animal drug fees.
+Sec. 104. Reauthorization; reporting requirements.
+Sec. 105. Savings clause.
+Sec. 106. Effective date.
+Sec. 107. Sunset dates.
+
+             TITLE II--FEES RELATING TO GENERIC ANIMAL DRUGS
+
+Sec. 201. Short title; finding.
+Sec. 202. Authority to assess and use generic new animal drug fees.
+Sec. 203. Reauthorization; reporting requirements.
+Sec. 204. Savings clause.
+Sec. 205. Effective date.
+Sec. 206. Sunset dates.
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+Sec. 301. Electronic submissions.
+Sec. 302. Index of legally marketed unapproved new animal drugs for 
+           minor species.
+Sec. 303. Misbranded drugs and devices.
+Sec. 304. Conditional approval of new animal drugs.
+Sec. 305. Guidance addressing investigation designs.
+Sec. 306. Food additives intended for use in animal food.
+
+    (b) References in Act.--Except as otherwise specified, amendments 
+made by this Act to a section or other provision of law are amendments 
+to such section or other provision of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 301 et seq.).
+
+[[Page 132 STAT. 2428]]
+
+   TITLE I-- <<NOTE: Animal Drug User Fee Amendments of 2018.>> FEES 
+RELATING TO ANIMAL DRUGS
+SEC. 101. <<NOTE: 21 USC 301 note.>>  SHORT TITLE; FINDING.
+
+    (a) Short Title.--This title may be cited as the ``Animal Drug User 
+Fee Amendments of 2018''.
+    (b) Finding.-- <<NOTE: 21 USC 379j-11 note.>> Congress finds that 
+the fees authorized by the amendments made in this title will be 
+dedicated toward expediting the animal drug development process and the 
+review of new and supplemental animal drug applications and 
+investigational animal drug submissions as set forth in the goals 
+identified for purposes of part 4 of subchapter C of chapter VII of the 
+Federal Food, Drug, and Cosmetic Act, in the letters from the Secretary 
+of Health and Human Services to the Chairman of the Committee on Energy 
+and Commerce of the House of Representatives and the Chairman of the 
+Committee on Health, Education, Labor, and Pensions of the Senate as set 
+forth in the Congressional Record.
+SEC. 102. DEFINITIONS.
+
+    Section 739 (21 U.S.C. 379j-11) is amended--
+            (1) by amending paragraph (1) to read as follows:
+            ``(1)(A) The term `animal drug application' means--
+                    ``(i) an application for approval of any new animal 
+                drug submitted under section 512(b)(1); or
+                    ``(ii) an application for conditional approval of a 
+                new animal drug submitted under section 571.
+            ``(B) Such term does not include either a new animal drug 
+        application submitted under section 512(b)(2) or a supplemental 
+        animal drug application.''; and
+            (2) in paragraph (8), by adding at the end the following:
+                    ``(I) The activities necessary for implementation of 
+                the United States and European Union Good Manufacturing 
+                Practice Mutual Inspection Agreement with respect to 
+                animal drug products subject to review, including 
+                implementation activities prior to and following product 
+                approval.''.
+SEC. 103. AUTHORITY TO ASSESS AND USE ANIMAL DRUG FEES.
+
+    (a) Fee Revenue Amounts.--Section 740(b) (21 U.S.C. 379j-12(b)) is 
+amended--
+            (1) in paragraph (1)--
+                    (A) in subparagraph (A)--
+                          (i) by striking ``2014'' and inserting 
+                      ``2019''; and
+                          (ii) by striking ``$23,600,000'' and inserting 
+                      ``$30,331,240''; and
+                    (B) in subparagraph (B)--
+                          (i) by striking ``2015 through 2018'' and 
+                      inserting ``2020 through 2023''; and
+                          (ii) by striking ``$21,600,000'' and inserting 
+                      ``$29,931,240''; and
+            (2) in paragraph (2), in the matter preceding subparagraph 
+        (A), by striking ``determined'' and inserting ``established''.
+
+    (b) Annual Fee Setting; Adjustments.--
+            (1) Inflation adjustment.--Section 740(c)(2) (21 U.S.C. 
+        379j-12(c)(2)) is amended--
+                    (A) in the matter preceding subparagraph (A)--
+
+[[Page 132 STAT. 2429]]
+
+                          (i) by striking ``For fiscal year 2015'' and 
+                      inserting ``(A) For fiscal year 2020''; and
+                          (ii) by inserting ``multiplying such revenue 
+                      amounts by'' before ``an amount'';
+                    (B) by redesignating subparagraphs (A), (B), and (C) 
+                as clauses (i), (ii), and (iii), respectively;
+                    (C) by striking the flush text at the end; and
+                    (D) by adding at the end the following new 
+                subparagraph:
+            ``(B) Compounded basis.--The adjustment made each fiscal 
+        year after fiscal year 2020 under this paragraph shall be 
+        applied on a compounded basis to the revenue amount calculated 
+        under this paragraph for the most recent previous fiscal 
+        year.''.
+            (2) Workload adjustments.--Paragraph (3) of section 740(c) 
+        (21 U.S.C. 379j-12(c)) is amended to read as follows:
+            ``(3) Workload adjustments.--
+                    ``(A) In general.--For fiscal year 2020 and 
+                subsequent fiscal years, after the fee revenue amounts 
+                established under subsection (b) are adjusted for 
+                inflation in accordance with paragraph (2), the fee 
+                revenue amounts shall be further adjusted for such 
+                fiscal year to reflect changes in the workload of the 
+                Secretary for the process for the review of animal drug 
+                applications, subject to subparagraphs (B) and (C). With 
+                respect to such adjustment--
+                          ``(i) <<NOTE: Determination.>>  such 
+                      adjustment shall be determined by the Secretary 
+                      based on a weighted average of the change in the 
+                      total number of animal drug applications, 
+                      supplemental animal drug applications for which 
+                      data with respect to safety or effectiveness are 
+                      required, manufacturing supplemental animal drug 
+                      applications, investigational animal drug study 
+                      submissions, and investigational animal drug 
+                      protocol submissions submitted to the Secretary; 
+                      and
+                          ``(ii) <<NOTE: Federal Register, 
+                      publication.>>  the Secretary shall publish in the 
+                      Federal Register the fees resulting from such 
+                      adjustment and the supporting methodologies.
+                    ``(B) Reduction of workload-based increase by amount 
+                of certain excess collections.--For each of fiscal years 
+                2021 through 2023, if application of the workload 
+                adjustment under subparagraph (A) increases the fee 
+                revenue amounts otherwise established for the fiscal 
+                year under subsection (b), as adjusted for inflation 
+                under paragraph (2), such fee revenue increase shall be 
+                reduced by the amount of any excess collections, as 
+                described in subsection (g)(4), for the second preceding 
+                fiscal year, up to the amount of such fee revenue 
+                increase.
+                    ``(C) Rule of application.--Under no circumstances 
+                shall the workload adjustments under this paragraph 
+                result in fee revenues for a fiscal year that are less 
+                than the fee revenues for that fiscal year established 
+                under subsection (b), as adjusted for inflation under 
+                paragraph (2).''.
+            (3) Final year adjustment.--Section 740(c)(4) (21 U.S.C. 
+        379j-12(c)(4)) is amended--
+                    (A) by striking ``2018'' each place it appears and 
+                inserting ``2023''; and
+                    (B) by striking ``2019'' and inserting ``2024''.
+
+[[Page 132 STAT. 2430]]
+
+    (c) Exemptions From Fees.--Section 740(d) (21 U.S.C. 379j-12(d)) is 
+amended--
+            (1) in the subsection heading, by inserting ``; Exemptions 
+        From Fees'' after ``Reduction'';
+            (2) by striking the heading of paragraph (1) and inserting 
+        ``Waiver or reduction''; and
+            (3) by adding at the end the following:
+            ``(4) Exemptions from fees.--
+                    ``(A) Certain labeling supplements to add number of 
+                approved application.--Fees under this section shall not 
+                apply with respect to any person who--
+                          ``(i) <<NOTE: Deadline.>>  not later than 
+                      September 30, 2023, submits a supplemental animal 
+                      drug application relating to a new animal drug 
+                      application approved under section 512, solely to 
+                      add the new animal drug application number to the 
+                      labeling of the drug in the manner specified in 
+                      section 502(w)(3); and
+                          ``(ii) otherwise would be subject to fees 
+                      under this section solely on the basis of such 
+                      supplemental application.
+                    ``(B) Certain animal drug applications.--Fees under 
+                paragraphs (2), (3), and (4) of subsection (a) shall not 
+                apply with respect to any person who is the named 
+                applicant or sponsor of an animal drug application, 
+                supplemental animal drug application, or investigational 
+                animal drug submission if such application or submission 
+                involves the intentional genomic alteration of an animal 
+                that is intended to produce a drug, device, or 
+                biological product subject to fees under section 736, 
+                738, 744B, or 744H.''.
+
+    (d) Crediting and Availability of Fees.--
+            (1) Authorization of appropriations.--Section 740(g)(3) (21 
+        U.S.C. 379j-12(g)(3)) is amended--
+                    (A) by striking ``2014 through 2018'' and inserting 
+                ``2019 through 2023'';
+                    (B) by striking ``determined'' and inserting 
+                ``established''; and
+                    (C) by striking ``paragraph (4)'' and inserting 
+                ``paragraph (5)''.
+            (2) Excess collections.--Section 740(g) (21 U.S.C. 379j-
+        12(g)) is amended by striking paragraph (4) and inserting the 
+        following:
+            ``(4) Excess collections.--If the sum total of fees 
+        collected under this section for a fiscal year exceeds the 
+        amount of fees authorized to be appropriated for such year under 
+        paragraph (3), the excess collections shall be credited to the 
+        appropriations account of the Food and Drug Administration as 
+        provided in paragraph (1).
+            ``(5) Recovery of collection shortfalls.--
+                    ``(A) In general.--Subject to subparagraph (B)--
+                          ``(i) for fiscal year 2021, the amount of fees 
+                      otherwise authorized to be collected under this 
+                      section shall be increased by the amount, if any, 
+                      by which the amount collected under this section 
+                      and appropriated for fiscal year 2019 falls below 
+                      the amount of fees authorized for fiscal year 2019 
+                      under paragraph (3);
+                          ``(ii) for fiscal year 2022, the amount of 
+                      fees otherwise authorized to be collected under 
+                      this section shall
+
+[[Page 132 STAT. 2431]]
+
+                      be increased by the amount, if any, by which the 
+                      amount collected under this section and 
+                      appropriated for fiscal year 2020 falls below the 
+                      amount of fees authorized for fiscal year 2020 
+                      under paragraph (3); and
+                          ``(iii) for fiscal year 2023, the amount of 
+                      fees otherwise authorized to be collected under 
+                      this section shall be increased by the cumulative 
+                      amount, if any, by which the amount collected 
+                      under this section and appropriated for fiscal 
+                      years 2021 and 2022 (including estimated 
+                      collections for fiscal year 2022) falls below the 
+                      cumulative amount of fees authorized for such 
+                      fiscal years under paragraph (3).
+                    ``(B) Reduction of shortfall-based fee increase by 
+                prior year excess collections.--
+                          ``(i) In general.--Subject to clause (ii), the 
+                      Secretary shall, in such manner as the Secretary 
+                      determines appropriate, reduce any fee increase 
+                      otherwise applicable for a fiscal year under 
+                      subparagraph (A) by the amount of any excess 
+                      collections under this section for preceding 
+                      fiscal years (after fiscal year 2018).
+                          ``(ii) Workload-based fee accounting.--In 
+                      applying clause (i), the Secretary shall account 
+                      for the reduction of workload-based fee revenue 
+                      increases by excess collections under subsection 
+                      (c)(3)(B), in such manner as needed to provide 
+                      that no portion of any excess collections 
+                      described in clause (i) is applied for purposes of 
+                      reducing fee increases under both such subsection 
+                      (c)(3)(B) and this paragraph.
+                    ``(C) Rule of application.--Under no circumstances 
+                shall adjustments under this paragraph result in fee 
+                revenues for a fiscal year that are less than the fee 
+                revenues for that fiscal year established in subsection 
+                (b), as adjusted or otherwise affected under subsection 
+                (c).''.
+SEC. 104. REAUTHORIZATION; REPORTING REQUIREMENTS.
+
+    Section 740A (21 U.S.C. 379j-13) is amended--
+            (1) in subsection (a), by striking ``2013'' and inserting 
+        ``2018'';
+            (2) by striking ``2014'' each place it appears in 
+        subsections (a) and (b) and inserting ``2019''; and
+            (3) in subsection (d), by striking ``2018'' each place it 
+        appears and inserting ``2023''.
+SEC. <<NOTE: Time period. 21 USC 379j-11 note.>>  105. SAVINGS 
+                        CLAUSE.
+
+    Notwithstanding the amendments made by this title, part 4 of 
+subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act 
+(21 U.S.C. 379j-11 et seq.), as in effect on the day before the date of 
+enactment of this title, shall continue to be in effect with respect to 
+animal drug applications and supplemental animal drug applications (as 
+defined in such part as of such day) that on or after October 1, 2013, 
+but before October 1, 2018, were accepted by the Food and Drug 
+Administration for filing with respect to assessing and collecting any 
+fee required by such part for a fiscal year prior to fiscal year 2019.
+
+[[Page 132 STAT. 2432]]
+
+SEC. 106. <<NOTE: 21 USC 379j-11 note.>>  EFFECTIVE DATE.
+
+    The amendments made by this title shall take effect on October 1, 
+2018, or the date of the enactment of this Act, whichever is later, 
+except that fees under part 4 of subchapter C of chapter VII of the 
+Federal Food, Drug, and Cosmetic Act, as amended by this title, shall be 
+assessed for animal drug applications and supplemental animal drug 
+applications received on or after October 1, 2018, regardless of the 
+date of the enactment of this Act.
+SEC. 107. SUNSET DATES.
+
+    (a) Authorization.-- <<NOTE: 21 USC 379j-12 note.>> Section 740 of 
+the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j-12) shall cease 
+to be effective October 1, 2023.
+
+    (b) Reporting Requirements.-- <<NOTE: 21 USC 379j-13 note.>> Section 
+740A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j-13) 
+shall cease to be effective January 31, 2024.
+
+    (c) <<NOTE: Repeals. 21 USC 379j-12 note.>>  Previous Sunset 
+Provision.-- <<NOTE: Animal Generic Drug User Fee Amendments of 
+2018.>> Effective October 1, 2018, subsections (a) and (b) of section 
+107 of the Animal Drug User Fee Amendments of 2013 (Public Law 113-14) 
+are repealed.
+
+     TITLE II-- <<NOTE: Animal Generic Drug User Fee Amendments of 
+2018.>> FEES RELATING TO GENERIC ANIMAL DRUGS
+SEC. 201. SHORT TITLE; FINDING.
+
+    (a) Short Title.-- <<NOTE: 21 USC 301 note.>> This title may be 
+cited as the ``Animal Generic Drug User Fee Amendments of 2018''.
+
+    (b) Finding.-- <<NOTE: 21 USC 379j-21 note.>> Congress finds that 
+the fees authorized by the amendments made in this title will be 
+dedicated toward expediting the generic new animal drug development 
+process and the review of abbreviated applications for generic new 
+animal drugs, supplemental abbreviated applications for generic new 
+animal drugs, and investigational submissions for generic new animal 
+drugs as set forth in the goals identified for purposes of part 5 of 
+subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act, 
+in the letters from the Secretary of Health and Human Services to the 
+Chairman of the Committee on Energy and Commerce of the House of 
+Representatives and the Chairman of the Committee on Health, Education, 
+Labor and Pensions of the Senate as set forth in the Congressional 
+Record.
+SEC. 202. AUTHORITY TO ASSESS AND USE GENERIC NEW ANIMAL DRUG 
+                        FEES.
+
+    (a) Fee Revenue Amounts.--Subsection (b) of section 741 (21 U.S.C. 
+379j-21) is amended to read as follows:
+    ``(b) Fee Revenue Amounts.--
+            ``(1) In general.--Subject to subsections (c), (d), (f), and 
+        (g), for each of fiscal years 2019 through 2023, the fees 
+        required under subsection (a) shall be established to generate a 
+        total revenue amount of $18,336,340.
+            ``(2) Types of fees.--Of the total revenue amount 
+        established for a fiscal year under paragraph (1)--
+                    ``(A) 25 percent shall be derived from fees under 
+                subsection (a)(1) (relating to abbreviated applications 
+                for a generic new animal drug);
+
+[[Page 132 STAT. 2433]]
+
+                    ``(B) 37.5 percent shall be derived from fees under 
+                subsection (a)(2) (relating to generic new animal drug 
+                products); and
+                    ``(C) 37.5 percent shall be derived from fees under 
+                subsection (a)(3) (relating to generic new animal drug 
+                sponsors).''.
+
+    (b) Annual Fee Setting; Adjustments.--
+            (1) Inflation adjustment.--Section 741(c) (21 U.S.C. 379j-
+        21(c)) is amended--
+                    (A) by redesignating paragraphs (2) through (4) as 
+                paragraphs (3) through (5), respectively; and
+                    (B) by inserting after paragraph (1) the following:
+            ``(2) Inflation adjustment.--
+                    ``(A) In general.-- <<NOTE: Notice. Federal 
+                Register, publication.>> For fiscal year 2020 and 
+                subsequent fiscal years, the revenue amounts established 
+                under subsection (b) shall be adjusted by the Secretary 
+                by notice, published in the Federal Register, for a 
+                fiscal year, by multiplying such revenue amounts by an 
+                amount equal to the sum of--
+                          ``(i) one;
+                          ``(ii) the average annual percent change in 
+                      the cost, per full-time equivalent position of the 
+                      Food and Drug Administration, of all personnel 
+                      compensation and benefits paid with respect to 
+                      such positions for the first 3 of the preceding 4 
+                      fiscal years for which data are available, 
+                      multiplied by the average proportion of personnel 
+                      compensation and benefits costs to total Food and 
+                      Drug Administration costs for the first 3 of the 
+                      preceding 4 fiscal years for which data are 
+                      available; and
+                          ``(iii) the average annual percent change that 
+                      occurred in the Consumer Price Index for urban 
+                      consumers (Washington-Baltimore, DC-MD-VA-WV; not 
+                      seasonally adjusted; all items less food and 
+                      energy; annual index) for the first 3 of the 
+                      preceding 4 years for which data are available 
+                      multiplied by the average proportion of all costs 
+                      other than personnel compensation and benefits 
+                      costs to total Food and Drug Administration costs 
+                      for the first 3 of the preceding 4 fiscal years 
+                      for which data are available.
+                    ``(B) Compounded basis.--The adjustment made each 
+                fiscal year after fiscal year 2020 under this paragraph 
+                shall be applied on a compounded basis to the revenue 
+                amount calculated under this paragraph for the most 
+                recent previous fiscal year.''.
+            (2) Workload adjustments.--Paragraph (3) of section 741(c) 
+        (21 U.S.C. 379j-21(c)), as redesignated, is amended to read as 
+        follows:
+            ``(3) Workload adjustments.--
+                    ``(A) In general.--For fiscal year 2020 and 
+                subsequent fiscal years, after the fee revenue amounts 
+                established under subsection (b) are adjusted for 
+                inflation in accordance with paragraph (2), the fee 
+                revenue amounts shall be further adjusted for each such 
+                fiscal year to reflect changes in the workload of the 
+                Secretary for the process for the review of abbreviated 
+                applications for generic new animal
+
+[[Page 132 STAT. 2434]]
+
+                drugs, subject to subparagraphs (B) and (C). With 
+                respect to such adjustment--
+                          ``(i) <<NOTE: Determination.>>  this 
+                      adjustment shall be determined by the Secretary 
+                      based on a weighted average of the change in the 
+                      total number of abbreviated applications for 
+                      generic new animal drugs, manufacturing 
+                      supplemental abbreviated applications for generic 
+                      new animal drugs, investigational generic new 
+                      animal drug study submissions, and investigational 
+                      generic new animal drug protocol submissions 
+                      submitted to the Secretary; and
+                          ``(ii) <<NOTE: Federal Register, 
+                      publication.>>  the Secretary shall publish in the 
+                      Federal Register the fees resulting from this 
+                      adjustment and the supporting methodologies.
+                    ``(B) Reduction of workload-based increase by amount 
+                of certain excess collections.--For each of fiscal years 
+                2021 through 2023, if application of the workload 
+                adjustment under subparagraph (A) increases the fee 
+                revenue amounts otherwise established for the fiscal 
+                year under subsection (b), as adjusted for inflation 
+                under paragraph (2), such fee revenue increase shall be 
+                reduced by the amount of any excess collections, as 
+                described in subsection (g)(4), for the second preceding 
+                fiscal year, up to the amount of such fee revenue 
+                increase.
+                    ``(C) Rule of application.--Under no circumstances 
+                shall workload adjustments under this paragraph result 
+                in fee revenues for a fiscal year that are less than the 
+                fee revenues for that fiscal year established under 
+                subsection (b), as adjusted for inflation under 
+                paragraph (2).''.
+            (3) Final year adjustment.--Paragraph (4) of section 741(c) 
+        (21 U.S.C. 379j-21(c)), as redesignated, is amended by--
+                    (A) striking ``2018'' each place it appears and 
+                inserting ``2023''; and
+                    (B) striking ``2019'' and inserting ``2024''.
+
+    (c) Fee Waiver or Reduction; Exemption From Fees.--Subsection (d) of 
+section 741 (21 U.S.C. 379j-21) is amended to read as follows:
+    ``(d) Fee Waiver or Reduction; Exemption From Fees.--
+            ``(1) Fee waiver or reduction.--The Secretary shall grant a 
+        waiver from or a reduction of one or more fees assessed under 
+        subsection (a) where the Secretary finds that the generic new 
+        animal drug is intended solely to provide for a minor use or 
+        minor species indication.
+            ``(2) Exemption from fees.--Fees under this section shall 
+        not apply with respect to any person who--
+                    ``(A) <<NOTE: Deadline.>> not later than September 
+                30, 2023, submits a supplemental abbreviated application 
+                for a generic new animal drug approved under section 
+                512, solely to add the application number to the 
+                labeling of the drug in the manner specified in section 
+                502(w)(3); and
+                    ``(B) otherwise would be subject to fees under this 
+                section solely on the basis of such supplemental 
+                abbreviated application.''.
+
+    (d) Crediting and Availability of Fees.--Section 741(g) (21 U.S.C. 
+379j-21) is amended by striking paragraph (3) and inserting the 
+following paragraphs:
+
+[[Page 132 STAT. 2435]]
+
+            ``(3) Authorization of appropriations.--For each of the 
+        fiscal years 2019 through 2023, there is authorized to be 
+        appropriated for fees under this section an amount equal to the 
+        total revenue amount established under subsection (b) for the 
+        fiscal year, as adjusted or otherwise affected under subsection 
+        (c).
+            ``(4) Excess collections.--If the sum total of fees 
+        collected under this section for a fiscal year exceeds the 
+        amount of fees authorized to be appropriated for such year under 
+        paragraph (3), the excess collections shall be credited to the 
+        appropriations account of the Food and Drug Administration as 
+        provided in paragraph (1).''.
+SEC. 203. REAUTHORIZATION; REPORTING REQUIREMENTS.
+
+    Section 742 (21 U.S.C. 379j-22) is amended--
+            (1) in subsection (a), by striking ``2013'' and inserting 
+        ``2018'';
+            (2) in subsection (b), by striking ``Committee on Health, 
+        Education, Labor, and Pensions'' and inserting ``the Committee 
+        on Health, Education, Labor and Pensions'';
+            (3) by striking ``2014'' each place it appears in 
+        subsections (a) and (b) and inserting ``2019''; and
+            (4) in subsection (d), by striking ``2018'' each place it 
+        appears and inserting ``2023''.
+SEC. 204. <<NOTE: Time period. 21 USC 379j-21 note.>>  SAVINGS 
+                        CLAUSE.
+
+    Notwithstanding the amendments made by this title, part 5 of 
+subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act 
+(21 U.S.C. 379j-21 et seq.), as in effect on the day before the date of 
+enactment of this title, shall continue to be in effect with respect to 
+abbreviated applications for a generic new animal drug and supplemental 
+abbreviated applications for a generic new animal drug (as defined in 
+such part as of such day) that on or after October 1, 2013, but before 
+October 1, 2018, were accepted by the Food and Drug Administration for 
+filing with respect to assessing and collecting any fee required by such 
+part for a fiscal year prior to fiscal year 2019.
+SEC. 205. <<NOTE: 21 USC 379j-21 note.>>  EFFECTIVE DATE.
+
+    The amendments made by this title shall take effect on October 1, 
+2018, or the date of the enactment of this Act, whichever is later, 
+except that fees under part 5 of subchapter C of chapter VII of the 
+Federal Food, Drug, and Cosmetic Act, as amended by this title, shall be 
+assessed for abbreviated applications for a generic new animal drug and 
+supplemental abbreviated applications for a generic new animal drug 
+received on or after October 1, 2018, regardless of the date of 
+enactment of this Act.
+SEC. 206. SUNSET DATES.
+
+    (a) Authorization.-- <<NOTE: 21 USC 379j-21 note.>> Section 741 of 
+the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j-21) shall cease 
+to be effective October 1, 2023.
+
+    (b) Reporting Requirements.-- <<NOTE: 21 USC 379j-22 note.>> Section 
+742 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j-22) 
+shall cease to be effective January 31, 2024.
+
+    (c) <<NOTE: Repeals. 21 USC 379j-21 note.>>  Previous Sunset 
+Provision.--Effective October 1, 2018, subsections (a) and (b) of 
+section 206 of the Animal Generic Drug User Fee Amendments of 2013 
+(Public Law 113-14) are repealed.
+
+[[Page 132 STAT. 2436]]
+
+                   TITLE III--MISCELLANEOUS PROVISIONS
+
+SEC. 301. ELECTRONIC SUBMISSIONS.
+
+    (a) New Animal Drug Applications and Abbreviated Applications for a 
+Generic New Animal Drug.--Section 512(b) (21 U.S.C. 360b(b)) is amended 
+by adding at the end the following:
+    ``(4) <<NOTE: Effective date.>>  Beginning on October 1, 2018, all 
+applications or submissions pursuant to this subsection shall be 
+submitted by electronic means in such format as the Secretary may 
+require.''.
+
+    (b) Conditional Approval of New Animal Drugs for Minor Use and Minor 
+Species.--Section 571(a) (21 U.S.C. 360ccc(a)) is amended by adding at 
+the end the following:
+    ``(4) <<NOTE: Effective date.>>  Beginning on October 1, 2018, all 
+applications or submissions pursuant to this subsection shall be 
+submitted by electronic means in such format as the Secretary may 
+require.''.
+SEC. 302. INDEX OF LEGALLY MARKETED UNAPPROVED NEW ANIMAL DRUGS 
+                        FOR MINOR SPECIES.
+
+<<NOTE: Effective date. 21 USC 360ccc-1 note.>>     Effective on October 
+1, 2018, section 572(h) (21 U.S.C. 360ccc-1(h)) is amended--
+            (1) by amending paragraph (1) to read as follows:
+            ``(1) `LEGAL STATUS--In order to be legally marketed, a new 
+        animal drug intended for a minor species must be Approved, 
+        Conditionally Approved, or Indexed by the Food and Drug 
+        Administration. THIS PRODUCT IS INDEXED--MIF #' (followed by the 
+        applicable minor species index file number and a period) `Extra-
+        label use is prohibited.';''; and
+            (2) in paragraph (2), by striking ``other animals'' and 
+        inserting ``food-producing animals''.
+SEC. 303. MISBRANDED DRUGS AND DEVICES.
+
+    (a) In General.--Section 502(w) (21 U.S.C. 352(w)) is amended--
+            (1) in subparagraph (1), by striking ``; or'' and inserting 
+        ``;'';
+            (2) in subparagraph (2), by striking the period and 
+        inserting ``; or''; and
+            (3) by adding at the end the following:
+            ``(3) for which an application has been approved under 
+        section 512 and the labeling of such drug does not include the 
+        application number in the format: `Approved by FDA under (A)NADA 
+        # xxx-xxx', except that this subparagraph shall not apply to 
+        representative labeling required under section 514.1(b)(3)(v)(b) 
+        of title 21, Code of Federal Regulations (or any successor 
+        regulation) for animal feed bearing or containing a new animal 
+        drug.''.
+
+    (b) Applicability.-- <<NOTE: Effective date. 21 USC 352 
+note.>> Section 502(w)(3) of the Federal Food, Drug, and Cosmetic Act, 
+as added by subsection (a), shall apply beginning on September 30, 2023.
+SEC. 304. CONDITIONAL APPROVAL OF NEW ANIMAL DRUGS.
+
+    (a) In General.--Section 571 of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 360ccc) is amended--
+            (1) in the section heading, by striking ``species'' and 
+        inserting ``species and certain new animal drugs'';
+
+[[Page 132 STAT. 2437]]
+
+            (2) in subsection (a)--
+                    (A) by amending paragraph (1) to read as follows:
+
+    ``(1)(A) Except as provided in paragraph (3), any person may file 
+with the Secretary an application for conditional approval of--
+            ``(i) a new animal drug intended for a minor use or a minor 
+        species; or
+            ``(ii) a new animal drug not intended for a minor use or 
+        minor species--
+                    ``(I) that is intended to treat a serious or life-
+                threatening disease or condition or addresses an unmet 
+                animal or human health need; and
+                    ``(II) for which the Secretary determines that a 
+                demonstration of effectiveness would require a complex 
+                or particularly difficult study or studies.
+
+    ``(B) <<NOTE: Deadline. Guidance. Regulations.>>  The Secretary 
+shall, not later than September 30, 2019, issue guidance or regulations 
+further clarifying the criteria specified in subparagraph (A)(ii).
+
+    ``(C) <<NOTE: Compliance.>>  An application under this paragraph 
+shall comply in all respects with the provisions of section 512 except 
+for subsections (a)(4), (b)(2), (c)(1), (c)(2), (c)(3), (d)(1), (e), 
+(h), and (n) of such section unless otherwise stated in this section, 
+and any additional provisions of this section.
+
+    ``(D) New animal drugs for which conditional approval is sought 
+under this section are subject to the same safety standards that would 
+be applied to new animal drugs under section 512(d) (including, for 
+antimicrobial new animal drugs, with respect to antimicrobial 
+resistance).''; and
+                    (B) in paragraph (3)--
+                          (i) in subparagraph (B), by striking ``, or'' 
+                      and inserting ``; or'';
+                          (ii) by redesignating subparagraphs (A), (B), 
+                      and (C) as clauses (i), (ii), and (iii), 
+                      respectively;
+                          (iii) by striking ``A person may not file'' 
+                      and inserting ``(A) A person may not file''; and
+                          (iv) by adding at the end the following new 
+                      subparagraph:
+
+    ``(B) A person may not file an application under paragraph 
+(1)(A)(ii) if the application seeks conditional approval of a new animal 
+drug that contains an antimicrobial active ingredient.'';
+            (3) in subsection (f)--
+                    (A) in paragraph (1), in the matter preceding 
+                subparagraph (A), by inserting ``for the conditionally 
+                approved use'' after ``shall''; and
+                    (B) in paragraph (2)--
+                          
+                      (i) <<NOTE: Regulations. Guidance. Determination.>> 
+                       by striking ``An intended use'' and inserting 
+                      ``The Secretary shall, through regulation or 
+                      guidance, determine under what conditions an 
+                      intended use''; and
+                          (ii) by striking ``shall not'' and inserting 
+                      ``may''; and
+            (4) by adding at the end the following new subsection:
+
+    ``(k) Sunset.--
+            ``(1) The Secretary's authority to grant conditional 
+        approval of new animal drugs not intended for a minor use or 
+        minor species pursuant to subsection (a)(1)(A)(ii) terminates on 
+        October 1, 2028.
+            ``(2) The Secretary--
+
+[[Page 132 STAT. 2438]]
+
+                    ``(A) may not accept any new applications for such 
+                conditional approval pursuant to subsection 
+                (a)(1)(A)(ii) on or after such date; and
+                    ``(B) may continue all activities under this section 
+                with respect to drugs that were conditionally approved 
+                pursuant to (a)(1)(A)(ii) prior to such date.
+            ``(3) <<NOTE: Deadline.>>  The Secretary may, until October 
+        1, 2032, accept applications for approval under 512 of drugs 
+        conditionally approved pursuant to (a)(1)(A)(ii).''.
+
+    (b) Exception From Fees in Case of Certain Previously Submitted 
+Applications for Conditional Approval.--Section 740(a)(1)(C) of the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j-12(a)(1)(C)) is 
+amended--
+            (1) in the caption by striking ``Exception'' and inserting 
+        ``Exceptions'';
+            (2) by striking ``If an animal drug'' and inserting the 
+        following:
+                          ``(i) If an animal drug''; and
+            (3) by inserting after clause (i), as so designated, the 
+        following new clause:
+                          ``(ii) <<NOTE: Effective date.>>  Beginning 
+                      with fiscal year 2019, in the case of an animal 
+                      drug application submitted by a person under 
+                      section 512(b)(1), where such person (or their 
+                      licensor, assignor, or predecessor-in-interest) 
+                      previously submitted an application for 
+                      conditional approval under section 571 for the 
+                      same product and paid the applicable fee under 
+                      subparagraph (A), the application under section 
+                      512(b)(1) shall not be subject to a fee under 
+                      subparagraph (A) if submitted within the timeframe 
+                      specified in section 571(h).''.
+
+    (c) Report on Incorporating Veterinary Oversight.--Not later than 
+September 30, 2019, the Secretary of Health and Human Services, acting 
+through the Commissioner of Food and Drugs, shall submit a report to the 
+Committee on Energy and Commerce of the House of Representatives and the 
+Committee on Health, Education, Labor and Pensions of the Senate 
+identifying how the Food and Drug Administration will incorporate 
+veterinary oversight for all approved medically important antimicrobial 
+drugs administered to animals that are not yet subject to veterinary 
+oversight. Such report shall address requirements related to revisions 
+of labeling to reflect that medically important antimicrobial drugs 
+administered to animals shall be subject to veterinary oversight.
+    (d) GAO Study of Conditional Approval Programs.--
+            (1) Study.--The Comptroller General of the United States 
+        (referred to in this section as the ``Comptroller General'') 
+        shall conduct a study on the effectiveness and overall impact of 
+        the conditional approval pathway under section 571 of the 
+        Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ccc).
+            (2) Issuance of report.--Not later than January 1, 2026, the 
+        Comptroller General shall submit to the Committee on Health, 
+        Education, Labor and Pensions of the Senate and the Committee on 
+        Energy and Commerce of the House of Representatives a report 
+        containing the results of the study under paragraph (1).
+            (3) Contents of reports.--The report submitted under 
+        paragraph (2) shall address--
+
+[[Page 132 STAT. 2439]]
+
+                    (A) for each drug for which a conditional approval 
+                has been awarded since October 1, 2018--
+                          (i) whether the drug was granted conditional 
+                      approval pursuant to clause (i) or (ii) of section 
+                      571(a)(1)(A) of the Federal Food, Drug, and 
+                      Cosmetic Act, as amended by subsection (a);
+                          (ii) whether the drug was dual labeled during 
+                      its conditional approval;
+                          (iii) the indications for which the drug was 
+                      granted conditional approval under section 571 of 
+                      such Act (21 U.S.C. 360ccc) and whether the drug 
+                      was approved or not approved under section 512 of 
+                      such Act (21 U.S.C. 360b);
+                          (iv) the number of years the drug was so 
+                      conditionally approved and a description of the 
+                      complexity of the investigation to demonstrate the 
+                      drug's effectiveness;
+                          (v) whether, and to what extent, the 
+                      conditional approval pathway under such section 
+                      571 (21 U.S.C. 360ccc) impacted the sponsor's 
+                      decision to develop the drug or seek approval of 
+                      the drug under section 512 of such Act (21 U.S.C. 
+                      360b);
+                          (vi) whether, and to what extent, conditional 
+                      approval pursuant to clause (ii) of section 
+                      571(a)(1)(A) of such Act (21 U.S.C. 360b(a)(1)(A)) 
+                      addressed a serious or life-threatening condition; 
+                      and
+                          (vii) whether, and to what extent, conditional 
+                      approval pursuant to clause (ii) of section 
+                      571(a)(1)(A) of such Act (21 U.S.C. 360b(a)(1)(A)) 
+                      addressed an unmet animal or human health need, 
+                      and whether before such conditional approval there 
+                      were available therapies for the disease or 
+                      condition involved;
+                    (B) <<NOTE: Analysis.>>  an analysis of the 
+                conditional approval program under section 571 of such 
+                Act (21 U.S.C. 360ccc), including--
+                          (i) the resources used by the Food and Drug 
+                      Administration in reviewing applications for 
+                      conditional approval of drugs pursuant to such 
+                      program and renewal of such conditional approval, 
+                      including the effects of the program on the Food 
+                      and Drug Administration's review of animal drugs 
+                      for which conditional approval is not used;
+                          (ii) whether any improvements to the program 
+                      under section 512 of such Act (21 U.S.C. 360b) are 
+                      necessary to incentivize the development of animal 
+                      drugs that would likely not otherwise be 
+                      developed, or developed in as timely a manner, to 
+                      address--
+                                    (I) serious or life-threatening 
+                                conditions; and
+                                    (II) an unmet animal or human health 
+                                need; and
+                          (iii) whether the conditional approval pathway 
+                      has resulted in a greater number of animal drugs 
+                      approved under section 512 of such Act (21 U.S.C. 
+                      360b) for serious or life-threatening conditions 
+                      or unmet animal or human health needs than would 
+                      have otherwise come to market under the practices 
+                      and commitments of the Center for Veterinary 
+                      Medicine of the Food
+
+[[Page 132 STAT. 2440]]
+
+                      and Drug Administration as such practices and 
+                      commitments existed as of the day before the date 
+                      of enactment of this Act; and
+                    (C) how the Center for Veterinary Medicine of the 
+                Food and Drug Administration has utilized complex 
+                adaptive or other novel investigation designs, data from 
+                foreign countries, real-world evidence (including 
+                ongoing surveillance activities, observational studies, 
+                and registry data), biomarkers, or surrogate endpoints--
+                          (i) to support the approval of products under 
+                      section 512 of such Act (21 U.S.C. 360b), 
+                      including how many such products have been 
+                      approved since October 1, 2018; and
+                          (ii) to support the approval of products under 
+                      section 512 of such Act (21 U.S.C. 360b) that 
+                      received conditional approval under section 571 of 
+                      such Act (21 U.S.C. 360ccc), including how many 
+                      such products have been approved since October 1, 
+                      2018.
+SEC. 305. <<NOTE: 21 USC 360b note.>>  GUIDANCE ADDRESSING 
+                        INVESTIGATION DESIGNS.
+
+    (a) In General.--For purposes of assisting sponsors in incorporating 
+complex adaptive and other novel investigation designs, data from 
+foreign countries, real world evidence (including ongoing surveillance 
+activities, observational studies, and registry data), biomarkers, and 
+surrogate endpoints (referred to in this section as ``elements of 
+investigations'') into proposed clinical investigation protocols and 
+applications for new animal drugs under sections 512 and 571 of the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b; 360ccc), the 
+Secretary of Health and Human Services (referred to in this section as 
+the ``Secretary'') shall issue guidance addressing the use of such 
+elements of investigations in the development and regulatory review of 
+such new animal drugs.
+    (b) Contents.--The guidance under subsection (a) shall address how 
+the Secretary will evaluate the elements of investigations proposed or 
+submitted pursuant to section 512(b)(1)(A) of the Federal Food, Drug, 
+and Cosmetic Act or to meet the commitment under section 571(a)(2)(F) of 
+such Act, and how sponsors of such applications may obtain feedback from 
+the Secretary on technical issues related to such investigations prior 
+to the submission of an application to the Secretary.
+    (c) Meeting.-- <<NOTE: Consultation. Deadline.>> Prior to issuing 
+the guidance under subsection (a), the Secretary shall consult with 
+stakeholders, including representatives of regulated industry, consumer 
+groups, academia, veterinarians, and food producers, through a public 
+meeting to be held not later than 1 year after the date of enactment of 
+this Act.
+
+    (d) Timing.-- <<NOTE: Deadlines.>> The Secretary shall issue a draft 
+guidance under subsection (a) not later than 1 year after the date of 
+the public meeting under subsection (c), and shall finalize such 
+guidance not later than 1 year after the date on which the public 
+comment period on such draft guidance ends.
+SEC. 306. FOOD ADDITIVES INTENDED FOR USE IN ANIMAL FOOD.
+
+    (a) Food Additive Petitions for Animal Food.--Section 409 of the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 348) is amended by 
+adding at the end the following:
+    ``(k) Food Additives Intended for Use in Animal Food.--(1) In taking 
+action on a petition under subsection (c) for, or for
+
+[[Page 132 STAT. 2441]]
+
+recognition of, a food additive intended for use in animal food, the 
+Secretary shall review reports of investigations conducted in foreign 
+countries, provided by the petitioner.
+    ``(2) <<NOTE: Deadline. Web posting.>>  Not later than 12 months 
+after the date of enactment of the Animal Drug and Animal Generic Drug 
+Use Fee Amendments of 2018, the Secretary shall post on the internet 
+website of the Food and Drug Administration--
+            ``(A) the number of petitions for food additives intended 
+        for use in animal food filed under subsection (b) that are 
+        pending;
+            ``(B) how long each such petition submitted under subsection 
+        (b) has been pending, including such petitions the Secretary has 
+        extended under subsection (c)(2); and
+            ``(C) the number of study protocols that have been pending 
+        review for over 50 days, and the number that have received an 
+        extension.
+
+    ``(3) In the case of a food additive petition intended for use in 
+animal food, the Secretary shall provide information to the petitioner 
+on the required contents of such petition. If the Secretary requires 
+additional studies beyond what the petitioner proposed, the Secretary 
+shall provide the scientific rationale for such requirement.''.
+    (b) Ensuring the Safety of Pet Food.--Section 1002(a) of the Food 
+and Drug Administration Amendments Act of 2007 (21 U.S.C. 2102(a)) is 
+amended--
+            (1) by striking paragraph (1); and
+            (2) by redesignating paragraphs (2) and (3) as paragraphs 
+        (1) and (2), respectively.
+
+    (c) <<NOTE: Deadlines. 21 USC 348 note.>>  Guidance on Pre-Petition 
+Consultation Process for Animal Food Additives.--
+            (1) In general.--Not later than 18 months after the date of 
+        enactment of this Act, the Secretary of Health and Human 
+        Services (referred to in this subsection as the ``Secretary'') 
+        shall publish draft guidance relating to the voluntary pre-
+        petition consultation process for food additives intended for 
+        use in animal food.
+            (2) Contents.--The guidance under paragraph (1) shall 
+        include--
+                    (A) the recommended format to submit to the Food and 
+                Drug Administration existing data, including any 
+                applicable foreign data, for assessment prior to 
+                submission of a food additive petition for animal food 
+                under section 409(b) of the Federal Food, Drug, and 
+                Cosmetic Act;
+                    (B) the manner and the number of days by which the 
+                Food and Drug Administration intends to review and 
+                respond to such existing data, including with respect to 
+                providing a scientific rationale for any additional data 
+                request;
+                    (C) circumstances under which the submission of 
+                study protocols is recommended prior to submission of a 
+                food additive petition under such section 409(b);
+                    (D) the manner in which the Secretary intends to 
+                inform the person submitting a study protocol for a food 
+                additive if the review of such study protocol will take 
+                longer than 50 days; and
+                    (E) best practices for communication between the 
+                Food and Drug Administration and industry on the 
+                development
+
+[[Page 132 STAT. 2442]]
+
+                of pre-petition submissions of study protocols and 
+                existing data for food additives.
+            (3) Final guidance.--The guidance under paragraph (1) shall 
+        be finalized, withdrawn, or reissued not later than 1 year after 
+        the close of the comment period on the draft guidance.
+
+    Approved August 14, 2018.
+
+LEGISLATIVE HISTORY--H.R. 5554 (S. 2434):
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 164 (2018):
+            July 16, considered and passed House.
+            July 31, considered and passed Senate.
+
+                                  
+

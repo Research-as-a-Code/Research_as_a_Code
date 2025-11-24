@@ -1,0 +1,94 @@
+
+[114th Congress Public Law 210]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 130 STAT. 824]]
+
+Public Law 114-210
+114th Congress
+
+                                 An Act
+
+
+ 
+To require the Director of the Office of Management and Budget to issue 
+   a directive on the management of software licenses, and for other 
+            purposes. <<NOTE: July 29, 2016 -  [H.R. 4904]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Making 
+Electronic Government Accountable By Yielding Tangible Efficiencies 
+Act of 2016. 40 USC 11302 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Making Electronic Government 
+Accountable By Yielding Tangible Efficiencies Act of 2016'' or the 
+``MEGABYTE Act of 2016''.
+SEC. 2. OMB DIRECTIVE ON MANAGEMENT OF SOFTWARE LICENSES.
+
+    (a) Definition.--In this section--
+            (1) the term ``Director'' means the Director of the Office 
+        of Management and Budget; and
+            (2) the term ``executive agency'' has the meaning given that 
+        term in section 105 of title 5, United States Code.
+
+    (b) OMB Directive.--The Director shall issue a directive to require 
+the Chief Information Officer of each executive agency to develop a 
+comprehensive software licensing policy, which shall--
+            (1) identify clear roles, responsibilities, and central 
+        oversight authority within the executive agency for managing 
+        enterprise software license agreements and commercial software 
+        licenses; and
+            (2) require the Chief Information Officer of each executive 
+        agency to--
+                    (A) <<NOTE: Inventory.>>  establish a comprehensive 
+                inventory, including 80 percent of software license 
+                spending and enterprise licenses in the executive 
+                agency, by identifying and collecting information about 
+                software license agreements using automated discovery 
+                and inventory tools;
+                    (B) regularly track and maintain software licenses 
+                to assist the executive agency in implementing decisions 
+                throughout the software license management life cycle;
+                    (C) <<NOTE: Analyze.>>  analyze software usage and 
+                other data to make cost-effective decisions;
+                    (D) provide training relevant to software license 
+                management;
+                    (E) establish goals and objectives of the software 
+                license management program of the executive agency; and
+                    (F) consider the software license management life 
+                cycle phases, including the requisition, reception, 
+                deployment and maintenance, retirement, and disposal 
+                phases, to implement effective decisionmaking and 
+                incorporate existing standards, processes, and metrics.
+
+[[Page 130 STAT. 825]]
+
+    (c) Report on Software License Management.--
+            (1) <<NOTE: Effective date. Deadline.>>  In general.--
+        Beginning in the first fiscal year beginning after the date of 
+        enactment of this Act, and in each of the following 5 fiscal 
+        years, the Chief Information Officer of each executive agency 
+        shall submit to the Director a report on the financial savings 
+        or avoidance of spending that resulted from improved software 
+        license management.
+            (2) <<NOTE: Public information.>>  Availability.--The 
+        Director shall make each report submitted under paragraph (1) 
+        publically available.
+
+    Approved July 29, 2016.
+
+LEGISLATIVE HISTORY--H.R. 4904 (S. 2340):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-587 (Comm. on Oversight and Government Reform).
+SENATE REPORTS: No. 114-289 (Comm. on Homeland Security and Governmental 
+Affairs) accompanying S. 2340.
+CONGRESSIONAL RECORD, Vol. 162 (2016):
+            June 7, considered and passed House.
+            July 14, considered and passed Senate.
+
+                                  
+

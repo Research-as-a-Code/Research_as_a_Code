@@ -1,0 +1,292 @@
+
+[106th Congress Public Law 81]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ081.106]
+
+
+[[Page 1285]]
+
+          WIRELESS COMMUNICATIONS AND PUBLIC SAFETY ACT OF 1999
+
+[[Page 113 STAT. 1286]]
+
+Public Law 106-81
+106th Congress
+
+                                 An Act
+
+
+ 
+   To <<NOTE:  Oct. 26, 1999 -  [S. 800]>> promote and enhance public 
+   safety through use of 9-1-1 as the universal emergency assistance 
+number, further deployment of wireless 9-1-1 service, support of States 
+in upgrading 9-1-1 capabilities and related functions, encouragement of 
+    construction and operation of seamless, ubiquitous, and reliable 
+    networks for personal wireless services, and for other purposes.
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of <<NOTE: Wireless Communications and Public Safety Act 
+of 1999.>>  America in Congress assembled,
+
+SECTION 1. <<NOTE: 47 USC 609 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Wireless Communications and Public 
+Safety Act of 1999''.
+
+SEC. 2. <<NOTE: 47 USC 615 note.>> FINDINGS AND PURPOSE.
+
+    (a) Findings.--The Congress finds that--
+            (1) the establishment and maintenance of an end-to-end 
+        communications infrastructure among members of the public, 
+        emergency safety, fire service and law enforcement officials, 
+        emergency dispatch providers, transportation officials, and 
+        hospital emergency and trauma care facilities will reduce 
+        response times for the delivery of emergency care, assist in 
+        delivering appropriate care, and thereby prevent fatalities, 
+        substantially reduce the severity and extent of injuries, reduce 
+        time lost from work, and save thousands of lives and billions of 
+        dollars in health care costs;
+            (2) the rapid, efficient deployment of emergency 
+        telecommunications service requires statewide coordination of 
+        the efforts of local public safety, fire service and law 
+        enforcement officials, emergency dispatch providers, and 
+        transportation officials; the establishment of sources of 
+        adequate funding for carrier and public safety, fire service and 
+        law enforcement agency technology development and deployment; 
+        the coordination and integration of emergency communications 
+        with traffic control and management systems and the designation 
+        of 9-1-1 as the number to call in emergencies throughout the 
+        Nation;
+            (3) emerging technologies can be a critical component of the 
+        end-to-end communications infrastructure connecting the public 
+        with emergency medical service providers and emergency dispatch 
+        providers, public safety, fire service and law enforcement 
+        officials, and hospital emergency and trauma care facilities, to 
+        reduce emergency response times and provide appropriate care;
+
+[[Page 113 STAT. 1287]]
+
+            (4) improved public safety remains an important public 
+        health objective of Federal, State, and local governments and 
+        substantially facilitates interstate and foreign commerce;
+            (5) emergency care systems, particularly in rural areas of 
+        the Nation, will improve with the enabling of prompt 
+        notification of emergency services when motor vehicle crashes 
+        occur; and
+            (6) the construction and operation of seamless, ubiquitous, 
+        and reliable wireless telecommunications systems promote public 
+        safety and provide immediate and critical communications links 
+        among members of the public; emergency medical service providers 
+        and emergency dispatch providers; public safety, fire service 
+        and law enforcement officials; transportation officials, and 
+        hospital emergency and trauma care facilities.
+
+    (b) Purpose.--The purpose of this Act is to encourage and facilitate 
+the prompt deployment throughout the United States of a seamless, 
+ubiquitous, and reliable end-to-end infrastructure for communications, 
+including wireless communications, to meet the Nation's public safety 
+and other communications needs.
+
+SEC. 3. UNIVERSAL EMERGENCY TELEPHONE NUMBER.
+
+    (a) Establishment of Universal Emergency Telephone Number.--Section 
+251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)) is amended 
+by adding at the end the following new paragraph:
+            ``(3) Universal emergency telephone number.--The Commission 
+        and any agency or entity to which the Commission has delegated 
+        authority under this subsection shall designate 9-1-1 as the 
+        universal emergency telephone number within the United States 
+        for reporting an emergency to appropriate authorities and 
+        requesting assistance. The designation shall apply to both 
+        wireline and wireless telephone service. In making the 
+        designation, the Commission (and any such agency or entity) 
+        shall provide appropriate transition periods for areas in which 
+        9-1-1 is not in use as an emergency telephone number on the date 
+        of enactment of the Wireless Communications and Public Safety 
+        Act of 1999.''.
+
+    (b) Support.--The <<NOTE: 47 USC 615.>> Federal Communications 
+Commission shall encourage and support efforts by States to deploy 
+comprehensive end-to-end emergency communications infrastructure and 
+programs, based on coordinated statewide plans, including seamless, 
+ubiquitous, reliable wireless telecommunications networks and enhanced 
+wireless 9-1-1 service. In encouraging and supporting that deployment, 
+the Commission shall consult and cooperate with State and local 
+officials responsible for emergency services and public safety, the 
+telecommunications industry (specifically including the cellular and 
+other wireless telecommunications service providers), the motor vehicle 
+manufacturing industry, emergency medical service providers and 
+emergency dispatch providers, transportation officials, special 9-1-1 
+districts, public safety, fire service and law enforcement officials, 
+consumer groups, and hospital emergency and trauma care personnel 
+(including emergency physicians, trauma surgeons, and nurses). The 
+Commission shall encourage each State to develop and implement 
+coordinated statewide deployment plans, through an entity designated by 
+the governor, and to include representatives of the foregoing 
+organizations and entities in development and implementation of such 
+plans. Nothing in this subsection
+
+[[Page 113 STAT. 1288]]
+
+shall be construed to authorize or require the Commission to impose 
+obligations or costs on any person.
+SEC. 4. PARITY <<NOTE: 47 USC 615a.>> OF PROTECTION FOR PROVISION 
+                    OR USE OF WIRELESS SERVICE.
+
+    (a) Provider Parity.--A wireless carrier, and its officers, 
+directors, employees, vendors, and agents, shall have immunity or other 
+protection from liability in a State of a scope and extent that is not 
+less than the scope and extent of immunity or other protection from 
+liability that any local exchange company, and its officers, directors, 
+employees, vendors, or agents, have under Federal and State law (whether 
+through statute, judicial decision, tariffs filed by such local exchange 
+company, or otherwise) applicable in such State, including in connection 
+with an act or omission involving the release to a PSAP, emergency 
+medical service provider or emergency dispatch provider, public safety, 
+fire service or law enforcement official, or hospital emergency or 
+trauma care facility of
+subscriber information related to emergency calls or emergency services.
+    (b) User Parity.--A person using wireless 9-1-1 service shall have 
+immunity or other protection from liability of a scope and extent that 
+is not less than the scope and extent of immunity or other protection 
+from liability under applicable law in similar circumstances of a person 
+using 9-1-1 service that is not wireless.
+    (c) PSAP Parity.--In matters related to wireless 9-1-1 
+communications, a PSAP, and its employees, vendors, agents, and 
+authorizing government entity (if any) shall have immunity or other 
+protection from liability of a scope and extent that is not less than 
+the scope and extent of immunity or other protection from liability 
+under applicable law accorded to such PSAP, employees, vendors, agents, 
+and authorizing government entity, respectively, in matters related to 
+9-1-1 communications that are not wireless.
+    (d) Basis for Enactment.--This section is enacted as an exercise of 
+the enforcement power of the Congress under section 5 of the Fourteenth 
+Amendment to the Constitution and the power of the Congress to regulate 
+commerce with foreign nations, among the several States, and with Indian 
+tribes.
+
+SEC. 5. AUTHORITY TO PROVIDE CUSTOMER INFORMATION.
+
+    Section 222 of the Communications Act of 1934 (47 U.S.C. 222) is 
+amended--
+            (1) in subsection (d)--
+                    (A) by striking ``or'' at the end of paragraph (2);
+                    (B) by striking the period at the end of paragraph 
+                (3) and inserting a semicolon and ``and''; and
+                    (C) by adding at the end the following:
+            ``(4) to provide call location information concerning the 
+        user of a commercial mobile service (as such term is defined in 
+        section 332(d))--
+                    ``(A) to a public safety answering point, emergency 
+                medical service provider or emergency dispatch provider, 
+                public safety, fire service, or law enforcement 
+                official, or hospital emergency or trauma care facility, 
+                in order to respond to the user's call for emergency 
+                services;
+                    ``(B) to inform the user's legal guardian or members 
+                of the user's immediate family of the user's location in 
+                an emergency situation that involves the risk of death 
+                or serious physical harm; or
+
+[[Page 113 STAT. 1289]]
+
+                    ``(C) to providers of information or database 
+                management services solely for purposes of assisting in 
+                the delivery of emergency services in response to an 
+                emergency.''.
+            (2) by redesignating subsection (f) as subsection (h) and by 
+        inserting the following after subsection (e):
+
+    ``(f) Authority To Use Wireless Location Information.--For purposes 
+of subsection (c)(1), without the express prior authorization of the 
+customer, a customer shall not be considered to have approved the use or 
+disclosure of or access to--
+            ``(1) call location information concerning the user of a 
+        commercial mobile service (as such term is defined in section 
+        332(d)), other than in accordance with subsection (d)(4); or
+            ``(2) automatic crash notification information to any person 
+        other than for use in the operation of an automatic crash 
+        notification system.
+
+    ``(g) Subscriber Listed and Unlisted Information for Emergency 
+Services.--Notwithstanding subsections (b), (c), and (d), a 
+telecommunications carrier that provides telephone exchange service 
+shall provide information described in subsection (i)(3)(A) (including 
+information pertaining to subscribers whose information is unlisted or 
+unpublished) that is in its possession or control (including information 
+pertaining to subscribers of other carriers) on a timely and unbundled 
+basis, under nondiscriminatory and reasonable rates, terms, and 
+conditions to providers of emergency services, and providers of 
+emergency support services, solely for purposes of delivering or 
+assisting in the delivery of emergency services.'';
+            (3) by inserting ``location,'' after ``destination,'' in 
+        subsection (h)(1)(A) (as redesignated by paragraph (2)); and
+            (4) by adding at the end of subsection (h) (as 
+        redesignated), the following:
+            ``(4) Public safety answering point.--The term `public 
+        safety answering point' means a facility that has been 
+        designated to receive emergency calls and route them to 
+        emergency service personnel.
+            ``(5) Emergency services.--The term `emergency services' 
+        means 9-1-1 emergency services and emergency notification 
+        services.
+            ``(6) Emergency notification services.--The term `emergency 
+        notification services' means services that notify the public of 
+        an emergency.
+            ``(7) Emergency support services.--The term `emergency 
+        support services' means information or data base management 
+        services used in support of emergency services.''.
+
+SEC. 6. <<NOTE: 47 USC 615b.>> DEFINITIONS.
+
+    As used in this Act:
+            (1) Secretary.--The term ``Secretary'' means the Secretary 
+        of Transportation.
+            (2) State.--The term ``State'' means any of the several 
+        States, the District of Columbia, or any territory or possession 
+        of the United States.
+            (3) Public safety answering point; psap.--The term ``public 
+        safety answering point'' or ``PSAP'' means a facility that has 
+        been designated to receive 9-1-1 calls and route them to 
+        emergency service personnel.
+
+[[Page 113 STAT. 1290]]
+
+            (4) Wireless carrier.--The term ``wireless carrier'' means a 
+        provider of commercial mobile services or any other radio 
+        communications service that the Federal Communications 
+        Commission requires to provide wireless 9-1-1 service.
+            (5) Enhanced wireless 9-1-1 service.--The term ``enhanced 
+        wireless 9-1-1 service'' means any enhanced 9-1-1 service so 
+        designated by the Federal Communications Commission in the 
+        proceeding entitled ``Revision of the Commission's Rules to 
+        Ensure Compatibility with Enhanced 9-1-1 Emergency Calling 
+        Systems'' (CC Docket No. 94-102; RM-8143), or any successor 
+        proceeding.
+            (6) Wireless 9-1-1 service.--The term ``wireless 9-1-1 
+        service'' means any 9-1-1 service provided by a wireless 
+        carrier, including enhanced wireless 9-1-1 service.
+            (7) Emergency dispatch providers.--The term ``emergency 
+        dispatch providers'' shall include governmental and 
+        nongovernmental providers of emergency dispatch services.
+
+    Approved October 26, 1999.
+
+LEGISLATIVE HISTORY--S. 800 (H.R. 438):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 106-25 accompanying H.R. 438 (Comm. on Commerce).
+SENATE REPORTS: No. 106-138 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 145 (1999):
+            Aug. 5, considered and passed Senate.
+            Oct. 12, considered and passed House.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 35 (1999):
+            Oct. 26, Presidential statement.
+
+                                  
+

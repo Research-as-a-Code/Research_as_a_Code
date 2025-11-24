@@ -1,0 +1,203 @@
+
+[108th Congress Public Law 275]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ275.108]
+
+[[Page 118 STAT. 831]]
+
+Public Law 108-275
+108th Congress
+
+                                 An Act
+
+
+ 
+   To amend title 18, United States Code, to establish penalties for 
+  aggravated identity theft, and for other purposes. <<NOTE: July 15, 
+                         2004 -  [H.R. 1731]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Identity Theft 
+Penalty Enhancement Act. 18 USC 1001 note.>> 
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Identity Theft Penalty Enhancement 
+Act''.
+
+SEC. 2. AGGRAVATED IDENTITY THEFT.
+
+    (a) In General.--Chapter 47 of title 18, United States Code, is 
+amended by adding after section 1028, the following:
+
+``Sec. 1028A. Aggravated identity theft
+
+    ``(a) Offenses.--
+            ``(1) In general.--Whoever, during and in relation to any 
+        felony violation enumerated in subsection (c), knowingly 
+        transfers, possesses, or uses, without lawful authority, a means 
+        of identification of another person shall, in addition to the 
+        punishment provided for such felony, be sentenced to a term of 
+        imprisonment of 2 years.
+            ``(2) Terrorism offense.--Whoever, during and in relation to 
+        any felony violation enumerated in section 2332b(g)(5)(B), 
+        knowingly transfers, possesses, or uses, without lawful 
+        authority, a means of identification of another person or a 
+        false identification document shall, in addition to the 
+        punishment provided for such felony, be sentenced to a term of 
+        imprisonment of 5 years.
+
+    ``(b) Consecutive Sentence.--Notwithstanding any other provision of 
+law--
+            ``(1) a court shall not place on probation any person 
+        convicted of a violation of this section;
+            ``(2) except as provided in paragraph (4), no term of 
+        imprisonment imposed on a person under this section shall run 
+        concurrently with any other term of imprisonment imposed on the 
+        person under any other provision of law, including any term of 
+        imprisonment imposed for the felony during which the means of 
+        identification was transferred, possessed, or used;
+            ``(3) in determining any term of imprisonment to be imposed 
+        for the felony during which the means of identification was 
+        transferred, possessed, or used, a court shall not in any way 
+        reduce the term to be imposed for such crime so as to compensate 
+        for, or otherwise take into account, any separate term
+
+[[Page 118 STAT. 832]]
+
+        of imprisonment imposed or to be imposed for a violation of this 
+        section; and
+            ``(4) a term of imprisonment imposed on a person for a 
+        violation of this section may, in the discretion of the court, 
+        run concurrently, in whole or in part, only with another term of 
+        imprisonment that is imposed by the court at the same time on 
+        that person for an additional violation of this section, 
+        provided that such discretion shall be exercised in accordance 
+        with any applicable guidelines and policy statements issued by 
+        the Sentencing Commission pursuant to section 994 of title 28.
+
+    ``(c) Definition.--For purposes of this section, the term `felony 
+violation enumerated in subsection (c)' means any offense that is a 
+felony violation of--
+            ``(1) section 641 (relating to theft of public money, 
+        property, or rewards), section 656 (relating to theft, 
+        embezzlement, or misapplication by bank officer or employee), or 
+        section 664 (relating to theft from employee benefit plans);
+            ``(2) section 911 (relating to false personation of 
+        citizenship);
+            ``(3) section 922(a)(6) (relating to false statements in 
+        connection with the acquisition of a firearm);
+            ``(4) any provision contained in this chapter (relating to 
+        fraud and false statements), other than this section or section 
+        1028(a)(7);
+            ``(5) any provision contained in chapter 63 (relating to 
+        mail, bank, and wire fraud);
+            ``(6) any provision contained in chapter 69 (relating to 
+        nationality and citizenship);
+            ``(7) any provision contained in chapter 75 (relating to 
+        passports and visas);
+            ``(8) section 523 of the Gramm-Leach-Bliley Act (15 U.S.C. 
+        6823) (relating to obtaining customer information by false 
+        pretenses);
+            ``(9) section 243 or 266 of the Immigration and Nationality 
+        Act (8 U.S.C. 1253 and 1306) (relating to willfully failing to 
+        leave the United States after deportation and creating a 
+        counterfeit alien registration card);
+            ``(10) any provision contained in chapter 8 of title II of 
+        the Immigration and Nationality Act (8 U.S.C. 1321 et seq.) 
+        (relating to various immigration offenses); or
+            ``(11) section 208, 811, 1107(b), 1128B(a), or 1632 of the 
+        Social Security Act (42 U.S.C. 408, 1011, 1307(b), 1320a-7b(a), 
+        and 1383a) (relating to false statements relating to programs 
+        under the Act).''.
+
+    (b) Amendment to Chapter Analysis.--The table of sections for 
+chapter 47 of title 18, United States Code, is amended by inserting 
+after the item relating to section 1028 the following new item:
+
+``1028A. Aggravated identity theft.''.
+
+    (c) Application of Definitions From Section 1028.--Section 1028(d) 
+of title 18, United States Code, is amended by inserting ``and section 
+1028A'' after ``In this section''.
+
+SEC. 3. AMENDMENTS TO EXISTING IDENTITY THEFT PROHIBITION.
+
+    Section 1028 of title 18, United States Code, is amended--
+            (1) in subsection (a)(7)--
+
+[[Page 118 STAT. 833]]
+
+                    (A) by striking ``transfers'' and inserting 
+                ``transfers, possesses,''; and
+                    (B) by striking ``abet,'' and inserting ``abet, or 
+                in connection with,'';
+            (2) in subsection (b)(1)(D), by striking ``transfer'' and 
+        inserting ``transfer, possession,'';
+            (3) in subsection (b)(2), by striking ``three years'' and 
+        inserting ``5 years''; and
+            (4) in subsection (b)(4), by inserting after ``facilitate'' 
+        the following: ``an act of domestic terrorism (as defined under 
+        section 2331(5) of this title) or''.
+
+SEC. 4. AGGREGATION OF VALUE FOR PURPOSES OF SECTION 641.
+
+    The penultimate paragraph of section 641 of title 18 of the United 
+States Code is amended by inserting ``in the aggregate, combining 
+amounts from all the counts for which the defendant is convicted in a 
+single case,'' after ``value of such property'' .
+
+SEC. 5. <<NOTE: 28 USC 994 note.>> DIRECTIVE TO THE UNITED STATES 
+            SENTENCING COMMISSION.
+
+    (a) In General.--Pursuant to its authority under section 994(p) of 
+title 28, United States Code, and in accordance with this section, the 
+United States Sentencing Commission shall review and amend its 
+guidelines and its policy statements to ensure that the guideline 
+offense levels and enhancements appropriately punish identity theft 
+offenses involving an abuse of position.
+    (b) Requirements.--In carrying out this section, the United States 
+Sentencing Commission shall do the following:
+            (1) Amend U.S.S.G. section 3B1.3 (Abuse of Position of Trust 
+        of Use of Special Skill) to apply to and punish offenses in 
+        which the defendant exceeds or abuses the authority of his or 
+        her position in order to obtain unlawfully or use without 
+        authority any means of identification, as defined section 
+        1028(d)(4) of title 18, United States Code.
+            (2) Ensure reasonable consistency with other relevant 
+        directives, other sentencing guidelines, and statutory 
+        provisions.
+            (3) Make any necessary and conforming changes to the 
+        sentencing guidelines.
+            (4) Ensure that the guidelines adequately meet the purposes 
+        of sentencing set forth in section 3553(a)(2) of title 18, 
+        United States Code.
+
+SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+    In addition to any other sums authorized to be appropriated for this 
+purpose, there is authorized to be appropriated to the Department of 
+Justice, for the investigation and prosecution of
+
+[[Page 118 STAT. 834]]
+
+identity theft and related credit card and other fraud cases 
+constituting felony violations of law, $2,000,000 for fiscal year 2005 
+and $2,000,000 for each of the 4 succeeding fiscal years.
+
+    Approved July 15, 2004.
+
+LEGISLATIVE HISTORY--H.R. 1731 (S. 153):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 108-528 (Comm. on the Judiciary).
+CONGRESSIONAL RECORD, Vol. 150 (2004):
+            June 23, considered and passed House.
+            June 25, considered and passed Senate.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 40 (2004):
+            July 15, Presidential remarks.
+
+                                  
+

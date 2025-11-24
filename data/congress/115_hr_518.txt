@@ -1,0 +1,91 @@
+
+[115th Congress Public Law 115]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 131 STAT. 2280]]
+
+Public Law 115-115
+115th Congress
+
+                                 An Act
+
+
+ 
+To amend the Energy Policy and Conservation Act to exclude power supply 
+ circuits, drivers, and devices designed to be connected to, and power, 
+    light-emitting diodes or organic light-emitting diodes providing 
+   illumination from energy conservation standards for external power 
+supplies, and for other purposes. <<NOTE: Jan. 12, 2018 -  [H.R. 518]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: EPS Improvement 
+Act of 2017. 42 USC 6201 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``EPS Improvement Act of 2017''.
+SEC. 2. APPLICATION OF ENERGY CONSERVATION STANDARDS TO CERTAIN 
+                    EXTERNAL POWER SUPPLIES.
+
+    (a) Definition of External Power Supply.--Section 321(36)(A) of the 
+Energy Policy and Conservation Act (42 U.S.C. 6291(36)(A)) is amended--
+            (1) by striking the subparagraph designation and all that 
+        follows through ``The term'' and inserting the following:
+                    ``(A) External power supply.--
+                          ``(i) In general.--The term''; and
+            (2) by adding at the end the following:
+                          ``(ii) Exclusion.--The term `external power 
+                      supply' does not include a power supply circuit, 
+                      driver, or device that is designed exclusively to 
+                      be connected to, and power--
+                                    ``(I) light-emitting diodes 
+                                providing illumination;
+                                    ``(II) organic light-emitting diodes 
+                                providing illumination; or
+                                    ``(III) ceiling fans using direct 
+                                current motors.''.
+
+    (b) Standards for Lighting Power Supply Circuits.--
+            (1) Definition.--Section 340(2)(B) of the Energy Policy and 
+        Conservation Act (42 U.S.C. 6311(2)(B)) is amended by striking 
+        clause (v) and inserting the following:
+                          ``(v) electric lights and lighting power 
+                      supply circuits;''.
+            (2) Energy conservation standard for certain equipment.--
+        Section 342 of the Energy Policy and Conservation Act (42 U.S.C. 
+        6313) is amended by adding at the end the following:
+
+    ``(g) Lighting Power Supply Circuits.--If the Secretary, acting 
+pursuant to section 341(b), includes as covered equipment solid state 
+lighting power supply circuits, drivers, or devices described in section 
+321(36)(A)(ii), the Secretary may prescribe under this part, not earlier 
+than 1 year after the date on which
+
+[[Page 131 STAT. 2281]]
+
+a test procedure has been prescribed, an energy conservation standard 
+for such equipment.''.
+    (c) Technical Corrections.--
+            (1) Section 321(6)(B) of the Energy Policy and Conservation 
+        Act (42 U.S.C. 6291(6)(B)) is amended by striking ``(19)'' and 
+        inserting ``(20)''.
+            (2) Section 324 of the Energy Policy and Conservation Act 
+        (42 U.S.C. 6294) is amended by striking ``(19)'' each place it 
+        appears in each of subsections (a)(3), (b)(1)(B), (b)(3), and 
+        (b)(5) and inserting ``(20)''.
+            (3) Section 325(l) of the Energy Policy and Conservation Act 
+        (42 U.S.C. 6295(l)) is amended by striking ``paragraph (19)'' 
+        each place it appears and inserting ``paragraph (20)''.
+
+    Approved January 12, 2018.
+
+LEGISLATIVE HISTORY--H.R. 518:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 163 (2017):
+            Jan. 23, considered and passed House.
+            Dec. 21, considered and passed Senate.
+
+                                  
+

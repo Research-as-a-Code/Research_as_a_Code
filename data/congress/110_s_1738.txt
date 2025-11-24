@@ -1,0 +1,1492 @@
+
+[110th Congress Public Law 401]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ401.110]
+
+[[Page 122 STAT. 4229]]
+
+Public Law 110-401
+110th Congress
+
+                                 An Act
+
+
+ 
+To require the Department of Justice to develop and implement a National 
+Strategy Child Exploitation Prevention and Interdiction, to improve the 
+ Internet Crimes Against Children Task Force, to increase resources for 
+   regional computer forensic labs, and to make other improvements to 
+  increase the ability of law enforcement agencies to investigate and 
+    prosecute child predators. <<NOTE: Oct. 13, 2008 -  [S. 1738]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Providing 
+Resources, Officers, and Technology To Eradicate Cyber Threats to Our 
+Children Act of 2008.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short <<NOTE: 42 USC 17601 note.>> Title.--This Act may be cited 
+as the ``Providing Resources, Officers, and Technology To Eradicate 
+Cyber Threats to Our Children Act of 2008'' or the ``PROTECT Our 
+Children Act of 2008''.
+
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+    TITLE I--NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND 
+                              INTERDICTION
+
+Sec. 101. Establishment of National Strategy for Child Exploitation 
+           Prevention and Interdiction.
+Sec. 102. Establishment of National ICAC Task Force Program.
+Sec. 103. Purpose of ICAC task forces.
+Sec. 104. Duties and functions of task forces.
+Sec. 105. National Internet Crimes Against Children Data System.
+Sec. 106. ICAC grant program.
+Sec. 107. Authorization of appropriations.
+
+       TITLE II--ADDITIONAL MEASURES TO COMBAT CHILD EXPLOITATION
+
+Sec. 201. Additional regional computer forensic labs.
+
+           TITLE III--EFFECTIVE CHILD PORNOGRAPHY PROSECUTION
+
+Sec. 301. Prohibit the broadcast of live images of child abuse.
+Sec. 302. Amendment to section 2256 of title 18, United States Code.
+Sec. 303. Amendment to section 2260 of title 18, United States Code.
+Sec. 304. Prohibiting the adaptation or modification of an image of an 
+           identifiable minor to produce child pornography.
+
+      TITLE IV--NATIONAL INSTITUTE OF JUSTICE STUDY OF RISK FACTORS
+
+Sec. 401. NIJ study of risk factors for assessing dangerousness.
+
+         TITLE V--SECURING ADOLESCENTS FROM ONLINE EXPLOITATION
+
+Sec. 501. Reporting requirements of electronic communication service 
+           providers and remote computing service providers.
+Sec. 502. Reports.
+Sec. 503. Severability.
+
+SEC. 2. <<NOTE: 42 USC 17601.>> DEFINITIONS.
+
+    In this Act, the following definitions shall apply:
+
+[[Page 122 STAT. 4230]]
+
+            (1) Child exploitation.--The term ``child exploitation'' 
+        means any conduct, attempted conduct, or conspiracy to engage in 
+        conduct involving a minor that violates section 1591, chapter 
+        109A, chapter 110, and chapter 117 of title 18, United States 
+        Code, or any sexual activity involving a minor for which any 
+        person can be charged with a criminal offense.
+            (2) Child obscenity.--The term ``child obscenity'' means any 
+        visual depiction proscribed by section 1466A of title 18, United 
+        States Code.
+            (3) Minor.--The term ``minor'' means any person under the 
+        age of 18 years.
+            (4) Sexually explicit conduct.--The term ``sexually explicit 
+        conduct'' has the meaning given such term in section 2256 of 
+        title 18, United States Code.
+
+    TITLE I--NATIONAL STRATEGY FOR CHILD EXPLOITATION PREVENTION AND 
+                              INTERDICTION
+
+SEC. 101. <<NOTE: 42 USC 17611.>> ESTABLISHMENT OF NATIONAL 
+                        STRATEGY FOR CHILD EXPLOITATION PREVENTION 
+                        AND INTERDICTION.
+
+    (a) In General.--The Attorney General of the United States shall 
+create and implement a National Strategy for Child Exploitation 
+Prevention and Interdiction.
+    (b) Timing.--Not <<NOTE: Deadlines.>> later than 1 year after the 
+date of enactment of this Act and on February 1 of every second year 
+thereafter, the Attorney General shall submit to Congress the National 
+Strategy established under subsection (a).
+
+    (c) Required Contents of National Strategy.--The National Strategy 
+established under subsection (a) shall include the following:
+            (1) Comprehensive long-range, goals for reducing child 
+        exploitation.
+            (2) Annual measurable objectives and specific targets to 
+        accomplish long-term, quantifiable goals that the Attorney 
+        General determines may be achieved during each year beginning on 
+        the date when the National Strategy is submitted.
+            (3) Annual budget priorities and Federal efforts dedicated 
+        to combating child exploitation, including resources dedicated 
+        to Internet Crimes Against Children task forces, Project Safe 
+        Childhood, FBI Innocent Images Initiative, the National Center 
+        for Missing and Exploited Children, regional forensic computer 
+        labs, Internet Safety programs, and all other entities whose 
+        goal or mission is to combat the exploitation of children that 
+        receive Federal support.
+            (4) A 5-year projection for program and budget goals and 
+        priorities.
+            (5) A review of the policies and work of the Department of 
+        Justice related to the prevention and investigation of child 
+        exploitation crimes, including efforts at the Office of Justice 
+        Programs, the Criminal Division of the Department of Justice, 
+        the Executive Office of United States Attorneys, the Federal 
+        Bureau of Investigation, the Office of the Attorney General, the 
+        Office of the Deputy Attorney General, the Office of Legal
+
+[[Page 122 STAT. 4231]]
+
+        Policy, and any other agency or bureau of the Department of 
+        Justice whose activities relate to child exploitation.
+            (6) A description of the Department's efforts to coordinate 
+        with international, State, local, tribal law enforcement, and 
+        private sector entities on child exploitation prevention and 
+        interdiction efforts.
+            (7) Plans for interagency coordination regarding the 
+        prevention, investigation, and apprehension of individuals 
+        exploiting children, including cooperation and collaboration 
+        with--
+                    (A) Immigration and Customs Enforcement;
+                    (B) the United States Postal Inspection Service;
+                    (C) the Department of State;
+                    (D) the Department of Commerce;
+                    (E) the Department of Education;
+                    (F) the Department of Health and Human Services; and
+                    (G) other appropriate Federal agencies.
+            (8) A review of the Internet Crimes Against Children Task 
+        Force Program, including--
+                    (A) the number of ICAC task forces and location of 
+                each ICAC task force;
+                    (B) the number of trained personnel at each ICAC 
+                task force;
+                    (C) the amount of Federal grants awarded to each 
+                ICAC task force;
+                    (D) an assessment of the Federal, State, and local 
+                cooperation in each task force, including--
+                          (i) the number of arrests made by each task 
+                      force;
+                          (ii) the number of criminal referrals to 
+                      United States attorneys for prosecution;
+                          (iii) the number of prosecutions and 
+                      convictions from the referrals made under clause 
+                      (ii);
+                          (iv) the number, if available, of local 
+                      prosecutions and convictions based on ICAC task 
+                      force investigations; and
+                          (v) any other information demonstrating the 
+                      level of Federal, State, and local coordination 
+                      and cooperation, as such information is to be 
+                      determined by the Attorney General;
+                    (E) an assessment of the training opportunities and 
+                technical assistance available to support ICAC task 
+                force grantees; and
+                    (F) an assessment of the success of the Internet 
+                Crimes Against Children Task Force Program at leveraging 
+                State and local resources and matching funds.
+            (9) An assessment of the technical assistance and support 
+        available for Federal, State, local, and tribal law enforcement 
+        agencies, in the prevention, investigation, and prosecution of 
+        child exploitation crimes.
+            (10) A review of the backlog of forensic analysis for child 
+        exploitation cases at each FBI Regional Forensic lab and an 
+        estimate of the backlog at State and local labs.
+            (11) Plans for reducing the forensic backlog described in 
+        paragraph (10), if any, at Federal, State and local forensic 
+        labs.
+            (12) A review of the Federal programs related to child 
+        exploitation prevention and education, including those related
+
+[[Page 122 STAT. 4232]]
+
+        to Internet safety, including efforts by the private sector and 
+        nonprofit entities, or any other initiatives, that have proven 
+        successful in promoting child safety and Internet safety.
+            (13) An assessment of the future trends, challenges, and 
+        opportunities, including new technologies, that will impact 
+        Federal, State, local, and tribal efforts to combat child 
+        exploitation.
+            (14) Plans for liaisons with the judicial branches of the 
+        Federal and State governments on matters relating to child 
+        exploitation.
+            (15) An assessment of Federal investigative and prosecution 
+        activity relating to reported incidents of child exploitation 
+        crimes, which shall include a number of factors, including--
+                    (A) the number of high-priority suspects (identified 
+                because of the volume of suspected criminal activity or 
+                because of the danger to the community or a potential 
+                victim) who were investigated and prosecuted;
+                    (B) the number of investigations, arrests, 
+                prosecutions and convictions for a crime of child 
+                exploitation; and
+                    (C) the average sentence imposed and statutory 
+                maximum for each crime of child exploitation.
+            (16) A review of all available statistical data indicating 
+        the overall magnitude of child pornography trafficking in the 
+        United States and internationally, including--
+                    (A) the number of computers or computer users, 
+                foreign and domestic, observed engaging in, or suspected 
+                by law enforcement agencies and other sources of 
+                engaging in, peer-to-peer file sharing of child 
+                pornography;
+                    (B) the number of computers or computer users, 
+                foreign and domestic, observed engaging in, or suspected 
+                by law enforcement agencies and other reporting sources 
+                of engaging in, buying and selling, or other commercial 
+                activity related to child pornography;
+                    (C) the number of computers or computer users, 
+                foreign and domestic, observed engaging in, or suspected 
+                by law enforcement agencies and other sources of 
+                engaging in, all other forms of activity related to 
+                child pornography;
+                    (D) the number of tips or other statistical data 
+                from the National Center for Missing and Exploited 
+                Children's CyberTipline and other data indicating the 
+                magnitude of child pornography trafficking; and
+                    (E) any other statistical data indicating the type, 
+                nature, and extent of child exploitation crime in the 
+                United States and abroad.
+            (17) Copies of recent relevant research and studies related 
+        to child exploitation, including--
+                    (A) studies related to the link between possession 
+                or trafficking of child pornography and actual abuse of 
+                a child;
+                    (B) studies related to establishing a link between 
+                the types of files being viewed or shared and the type 
+                of illegal activity; and
+                    (C) any other research, studies, and available 
+                information related to child exploitation.
+            (18) A review of the extent of cooperation, coordination, 
+        and mutual support between private sector and other entities
+
+[[Page 122 STAT. 4233]]
+
+        and organizations and Federal agencies, including the 
+        involvement of States, local and tribal government agencies to 
+        the extent Federal programs are involved.
+            (19) The results of the Project Safe Childhood Conference or 
+        other conferences or meetings convened by the Department of 
+        Justice related to combating child exploitation.
+
+    (d) Appointment of High-Level Official.--
+            (1) In general.--The Attorney General shall designate a 
+        senior official at the Department of Justice to be responsible 
+        for coordinating the development of the National Strategy 
+        established under subsection (a).
+            (2) Duties.--The duties of the official designated under 
+        paragraph (1) shall include--
+                    (A) acting as a liaison with all Federal agencies 
+                regarding the development of the National Strategy;
+                    (B) working to ensure that there is proper 
+                coordination among agencies in developing the National 
+                Strategy;
+                    (C) being knowledgeable about budget priorities and 
+                familiar with all efforts within the Department of 
+                Justice and the FBI related to child exploitation 
+                prevention and interdiction; and
+                    (D) communicating the National Strategy to Congress 
+                and being available to answer questions related to the 
+                strategy at congressional hearings, if requested by 
+                committees of appropriate jurisdictions, on the contents 
+                of the National Strategy and progress of the Department 
+                of Justice in implementing the National Strategy.
+SEC. 102. <<NOTE: 42 USC 17612.>> ESTABLISHMENT OF NATIONAL ICAC 
+                        TASK FORCE PROGRAM.
+
+    (a) Establishment.--
+            (1) In general.--There is established within the Department 
+        of Justice, under the general authority of the Attorney General, 
+        a National Internet Crimes Against Children Task Force Program 
+        (hereinafter in this title referred to as the ``ICAC Task Force 
+        Program''), which shall consist of a national program of State 
+        and local law enforcement task forces dedicated to developing 
+        effective responses to online enticement of children by sexual 
+        predators, child exploitation, and child obscenity and 
+        pornography cases.
+            (2) Intent of congress.--It is the purpose and intent of 
+        Congress that the ICAC Task Force Program established under 
+        paragraph (1) is intended to continue the ICAC Task Force 
+        Program authorized under title I of the Departments of Commerce, 
+        Justice, and State, the Judiciary, and Related Agencies 
+        Appropriations Act, 1998, and funded under title IV of the 
+        Juvenile Justice and Delinquency Prevention Act of 1974.
+
+    (b) National Program.--
+            (1) State representation.--The ICAC Task Force Program 
+        established under subsection (a) shall include at least 1 ICAC 
+        task force in each State.
+            (2) Capacity and continuity 
+        of <<NOTE: Consultation.>> investigations.--In order to maintain 
+        established capacity and continuity of investigations and 
+        prosecutions of child exploitation cases, the Attorney General, 
+        shall, in establishing the ICAC Task Force Program under 
+        subsection (a) consult with and consider all 59 task forces in 
+        existence on the date of enactment of this
+
+[[Page 122 STAT. 4234]]
+
+        Act. The Attorney General shall include all existing ICAC task 
+        forces in the ICAC Task Force Program, unless the Attorney 
+        General makes a determination that an existing ICAC does not 
+        have a proven track record of success.
+            (3) Ongoing review.--The Attorney General shall--
+                    (A) conduct periodic reviews of the effectiveness of 
+                each ICAC task force established under this section; and
+                    (B) <<NOTE: Notification.>> have the discretion to 
+                establish a new task force if the Attorney General 
+                determines that such decision will enhance the 
+                effectiveness of combating child exploitation provided 
+                that the Attorney General notifies Congress in advance 
+                of any such decision and that each state maintains at 
+                least 1 ICAC task force at all times.
+            (4) Training.--
+                    (A) In general.--The Attorney General may establish 
+                national training programs to support the mission of the 
+                ICAC task forces, including the effective use of the 
+                National Internet Crimes Against Children Data System.
+                    (B) Limitation.--In establishing training courses 
+                under this paragraph, the Attorney General may not award 
+                any one entity other than a law enforcement agency more 
+                than $2,000,000 annually to establish and conduct 
+                training courses for ICAC task force members and other 
+                law enforcement officials.
+                    (C) Review.--The Attorney General shall--
+                          (i) conduct periodic reviews of the 
+                      effectiveness of each training session authorized 
+                      by this paragraph; and
+                          (ii) consider outside reports related to the 
+                      effective use of Federal funding in making future 
+                      grant awards for training.
+SEC. 103. <<NOTE: 42 USC 17613.>> PURPOSE OF ICAC TASK FORCES.
+
+    The ICAC Task Force Program, and each State or local ICAC task force 
+that is part of the national program of task forces, shall be dedicated 
+toward--
+            (1) increasing the investigative capabilities of State and 
+        local law enforcement officers in the detection, investigation, 
+        and apprehension of Internet crimes against children offenses or 
+        offenders, including technology-facilitated child exploitation 
+        offenses;
+            (2) conducting proactive and reactive Internet crimes 
+        against children investigations;
+            (3) providing training and technical assistance to ICAC task 
+        forces and other Federal, State, and local law enforcement 
+        agencies in the areas of investigations, forensics, prosecution, 
+        community outreach, and capacity-building, using recognized 
+        experts to assist in the development and delivery of training 
+        programs;
+            (4) increasing the number of Internet crimes against 
+        children offenses being investigated and prosecuted in both 
+        Federal and State courts;
+            (5) creating a multiagency task force response to Internet 
+        crimes against children offenses within each State;
+            (6) participating in the Department of Justice's Project 
+        Safe Childhood initiative, the purpose of which is to combat
+
+[[Page 122 STAT. 4235]]
+
+        technology-facilitated sexual exploitation crimes against 
+        children;
+            (7) enhancing nationwide responses to Internet crimes 
+        against children offenses, including assisting other ICAC task 
+        forces, as well as other Federal, State, and local agencies with 
+        Internet crimes against children investigations and 
+        prosecutions;
+            (8) developing and delivering Internet crimes against 
+        children public awareness and prevention programs; and
+            (9) participating in such other activities, both proactive 
+        and reactive, that will enhance investigations and prosecutions 
+        of Internet crimes against children.
+SEC. 104. <<NOTE: 42 USC 17614.>> DUTIES AND FUNCTIONS OF TASK 
+                        FORCES.
+
+    Each State or local ICAC task force that is part of the national 
+program of task forces shall--
+            (1) consist of State and local investigators, prosecutors, 
+        forensic specialists, and education specialists who are 
+        dedicated to addressing the goals of such task force;
+            (2) work consistently toward achieving the purposes 
+        described in section 103;
+            (3) engage in proactive investigations, forensic 
+        examinations, and effective prosecutions of Internet crimes 
+        against children;
+            (4) provide forensic, preventive, and investigative 
+        assistance to parents, educators, prosecutors, law enforcement, 
+        and others concerned with Internet crimes against children;
+            (5) develop multijurisdictional, multiagency responses and 
+        partnerships to Internet crimes against children offenses 
+        through ongoing informational, administrative, and technological 
+        support to other State and local law enforcement agencies, as a 
+        means for such agencies to acquire the necessary knowledge, 
+        personnel, and specialized equipment to investigate and 
+        prosecute such offenses;
+            (6) participate in nationally coordinated investigations in 
+        any case in which the Attorney General determines such 
+        participation to be necessary, as permitted by the available 
+        resources of such task force;
+            (7) <<NOTE: Standards.>> establish or adopt investigative 
+        and prosecution standards, consistent with established norms, to 
+        which such task force shall comply;
+            (8) investigate, and seek prosecution on, tips related to 
+        Internet crimes against children, including tips from Operation 
+        Fairplay, the National Internet Crimes Against Children Data 
+        System established in section 105, the National Center for 
+        Missing and Exploited Children's CyberTipline, ICAC task forces, 
+        and other Federal, State, and local agencies, with priority 
+        being given to investigative leads that indicate the possibility 
+        of identifying or rescuing child victims, including 
+        investigative leads that indicate a likelihood of seriousness of 
+        offense or dangerousness to the community;
+            (9) <<NOTE: Procedures.>> develop procedures for handling 
+        seized evidence;
+            (10) <<NOTE: Reports. Records.>> maintain--
+                    (A) such reports and records as are required under 
+                this title; and
+                    (B) such other reports and records as determined by 
+                the Attorney General; and
+
+[[Page 122 STAT. 4236]]
+
+            (11) seek to comply with national standards regarding the 
+        investigation and prosecution of Internet crimes against 
+        children, as set forth by the Attorney General, to the extent 
+        such standards are consistent with the law of the State where 
+        the task force is located.
+SEC. 105. <<NOTE: 42 USC 17615.>> NATIONAL INTERNET CRIMES AGAINST 
+                        CHILDREN DATA SYSTEM.
+
+    (a) In General.--The Attorney General shall establish, consistent 
+with all existing Federal laws relating to the protection of privacy, a 
+National Internet Crimes Against Children Data System. The system shall 
+not be used to search for or obtain any information that does not 
+involve the use of the Internet to facilitate child exploitation.
+    (b) Intent of Congress.--It is the purpose and intent of Congress 
+that the National Internet Crimes Against Children Data System 
+established in subsection (a) is intended to continue and build upon 
+Operation Fairplay developed by the Wyoming Attorney General's office, 
+which has established a secure, dynamic undercover infrastructure that 
+has facilitated online law enforcement investigations of child 
+exploitation, information sharing, and the capacity to collect and 
+aggregate data on the extent of the problems of child exploitation.
+    (c) Purpose of System.--The National Internet Crimes Against 
+Children Data System established under subsection (a) shall be dedicated 
+to assisting and supporting credentialed law enforcement agencies 
+authorized to investigate child exploitation in accordance with Federal, 
+State, local, and tribal laws, including by providing assistance and 
+support to--
+            (1) Federal agencies investigating and prosecuting child 
+        exploitation;
+            (2) the ICAC Task Force Program established under section 
+        102;
+            (3) State, local, and tribal agencies investigating and 
+        prosecuting child exploitation; and
+            (4) foreign or international law enforcement agencies, 
+        subject to approval by the Attorney General.
+
+    (d) Cyber Safe Deconfliction and Information Sharing.--The National 
+Internet Crimes Against Children Data System established under 
+subsection (a)--
+            (1) shall be housed and maintained within the Department of 
+        Justice or a credentialed law enforcement agency;
+            (2) shall be made available for a nominal charge to support 
+        credentialed law enforcement agencies in accordance with 
+        subsection (c); and
+            (3) shall--
+                    (A) allow Federal, State, local, and tribal agencies 
+                and ICAC task forces investigating and prosecuting child 
+                exploitation to contribute and access data for use in 
+                resolving case conflicts;
+                    (B) provide, directly or in partnership with a 
+                credentialed law enforcement agency, a dynamic 
+                undercover infrastructure to facilitate online law 
+                enforcement investigations of child exploitation;
+                    (C) facilitate the development of essential software 
+                and network capability for law enforcement participants; 
+                and
+
+[[Page 122 STAT. 4237]]
+
+                    (D) provide software or direct hosting and support 
+                for online investigations of child exploitation 
+                activities, or, in the alternative, provide users with a 
+                secure connection to an alternative system that provides 
+                such capabilities, provided that the system is hosted 
+                within a governmental agency or a credentialed law 
+                enforcement agency.
+
+    (e) Collection and Reporting of Data.--
+            (1) In general.--The National Internet Crimes Against 
+        Children Data System established under subsection (a) shall 
+        ensure the following:
+                    (A) Real-time reporting.--All child exploitation 
+                cases involving local child victims that are reasonably 
+                detectable using available software and data are, 
+                immediately upon their detection, made available to 
+                participating law enforcement agencies.
+                    (B) High-priority suspects.--Every 30 days, at 
+                minimum, the National Internet Crimes Against Children 
+                Data System shall--
+                          (i) identify high-priority suspects, as such 
+                      suspects are determined by the volume of suspected 
+                      criminal activity or other indicators of 
+                      seriousness of offense or dangerousness to the 
+                      community or a potential local victim; and
+                          (ii) report all such identified high-priority 
+                      suspects to participating law enforcement 
+                      agencies.
+                    (C) Annual reports.--Any statistical data indicating 
+                the overall magnitude of child pornography trafficking 
+                and child exploitation in the United States and 
+                internationally is made available and included in the 
+                National Strategy, as is required under section 
+                101(c)(16).
+            (2) Rule of construction.--Nothing in this subsection shall 
+        be construed to limit the ability of participating law 
+        enforcement agencies to disseminate investigative leads or 
+        statistical information in accordance with State and local laws.
+
+    (f) Mandatory Requirements of Network.--The National Internet Crimes 
+Against Children Data System established under subsection (a) shall 
+develop, deploy, and maintain an integrated technology and training 
+program that provides--
+            (1) a secure, online system for Federal law enforcement 
+        agencies, ICAC task forces, and other State, local, and tribal 
+        law enforcement agencies for use in resolving case conflicts, as 
+        provided in subsection (d);
+            (2) a secure system enabling online communication and 
+        collaboration by Federal law enforcement agencies, ICAC task 
+        forces, and other State, local, and tribal law enforcement 
+        agencies regarding ongoing investigations, investigatory 
+        techniques, best practices, and any other relevant news and 
+        professional information;
+            (3) a secure online data storage and analysis system for use 
+        by Federal law enforcement agencies, ICAC task forces, and other 
+        State, local, and tribal law enforcement agencies;
+            (4) secure connections or interaction with State and local 
+        law enforcement computer networks, consistent with reasonable 
+        and established security protocols and guidelines;
+            (5) <<NOTE: Guidelines.>> guidelines for use of the National 
+        Internet Crimes Against Children Data System by Federal, State, 
+        local, and tribal law enforcement agencies and ICAC task forces; 
+        and
+
+[[Page 122 STAT. 4238]]
+
+            (6) training and technical assistance on the use of the 
+        National Internet Crimes Against Children Data System by 
+        Federal, State, local, and tribal law enforcement agencies and 
+        ICAC task forces.
+
+    (g) National <<NOTE: Establishment.>> Internet Crimes Against 
+Children Data System Steering Committee.--The Attorney General shall 
+establish a National Internet Crimes Against Children Data System 
+Steering Committee to provide guidance to the Network relating to the 
+program under subsection (f), and to assist in the development of 
+strategic plans for the System. The Steering Committee shall consist of 
+10 members with expertise in child exploitation prevention and 
+interdiction prosecution, investigation, or prevention, including--
+            (1) 3 representatives elected by the local directors of the 
+        ICAC task forces, such representatives shall represent different 
+        geographic regions of the country;
+            (2) 1 representative of the Department of Justice Office of 
+        Information Services;
+            (3) 1 representative from Operation Fairplay, currently 
+        hosted at the Wyoming Office of the Attorney General;
+            (4) 1 representative from the law enforcement agency having 
+        primary responsibility for hosting and maintaining the National 
+        Internet Crimes Against Children Data System;
+            (5) 1 representative of the Federal Bureau of 
+        Investigation's Innocent Images National Initiative or Regional 
+        Computer Forensic Lab program;
+            (6) 1 representative of the Immigration and Customs 
+        Enforcement's Cyber Crimes Center;
+            (7) 1 representative of the United States Postal Inspection 
+        Service; and
+            (8) 1 representative of the Department of Justice.
+
+    (h) Authorization of Appropriations.--There are authorized to be 
+appropriated for each of the fiscal years 2009 through 2016, $2,000,000 
+to carry out the provisions of this section.
+SEC. 106. <<NOTE: 42 USC 17616.>> ICAC GRANT PROGRAM.
+
+    (a) Establishment.--
+            (1) In general.--The Attorney General is authorized to award 
+        grants to State and local ICAC task forces to assist in carrying 
+        out the duties and functions described under section 104.
+            (2) Formula grants.--
+                    (A) Development of formula.--At least 75 percent of 
+                the total funds appropriated to carry out this section 
+                shall be available to award or otherwise distribute 
+                grants pursuant to a funding formula established by the 
+                Attorney General in accordance with the requirements in 
+                subparagraph (B).
+                    (B) Formula requirements.--Any formula established 
+                by the Attorney General under subparagraph (A) shall--
+                          (i) ensure that each State or local ICAC task 
+                      force shall, at a minimum, receive an amount equal 
+                      to 0.5 percent of the funds available to award or 
+                      otherwise distribute grants under subparagraph 
+                      (A); and
+                          (ii) take into consideration the following 
+                      factors:
+
+[[Page 122 STAT. 4239]]
+
+                                    (I) The population of each State, as 
+                                determined by the most recent decennial 
+                                census performed by the Bureau of the 
+                                Census.
+                                    (II) The number of investigative 
+                                leads within the applicant's 
+                                jurisdiction generated by Operation 
+                                Fairplay, the ICAC Data Network, the 
+                                CyberTipline, and other sources.
+                                    (III) The number of criminal cases 
+                                related to Internet crimes against 
+                                children referred to a task force for 
+                                Federal, State, or local prosecution.
+                                    (IV) The number of successful 
+                                prosecutions of child exploitation cases 
+                                by a task force.
+                                    (V) The amount of training, 
+                                technical assistance, and public 
+                                education or outreach by a task force 
+                                related to the prevention, 
+                                investigation, or prosecution of child 
+                                exploitation offenses.
+                                    (VI) Such other criteria as the 
+                                Attorney General determines demonstrate 
+                                the level of need for additional 
+                                resources by a task force.
+            (3) Distribution of remaining funds based on need.--
+                    (A) In <<NOTE: Criteria.>> general.--Any funds 
+                remaining from the total funds appropriated to carry out 
+                this section after funds have been made available to 
+                award or otherwise distribute formula grants under 
+                paragraph (2)(A) shall be distributed to State and local 
+                ICAC task forces based upon need, as set forth by 
+                criteria established by the Attorney General. Such 
+                criteria shall include the factors under paragraph 
+                (2)(B)(ii).
+                    (B) Matching requirement.--A State or local ICAC 
+                task force shall contribute matching non-Federal funds 
+                in an amount equal to not less than 25 percent of the 
+                amount of funds received by the State or local ICAC task 
+                force under subparagraph (A). A State or local ICAC task 
+                force that is not able or willing to contribute matching 
+                funds in accordance with this subparagraph shall not be 
+                eligible for funds under subparagraph (A).
+                    (C) Waiver.--The Attorney General may waive, in 
+                whole or in part, the matching requirement under 
+                subparagraph (B) if the State or local ICAC task force 
+                demonstrates good cause or financial hardship.
+
+    (b) Application.--
+            (1) In general.--Each State or local ICAC task force seeking 
+        a grant under this section shall submit an application to the 
+        Attorney General at such time, in such manner, and accompanied 
+        by such information as the Attorney General may reasonably 
+        require.
+            (2) Contents.--Each application submitted pursuant to 
+        paragraph (1) shall--
+                    (A) describe the activities for which assistance 
+                under this section is sought; and
+                    (B) provide such additional assurances as the 
+                Attorney General determines to be essential to ensure 
+                compliance with the requirements of this title.
+
+    (c) Allowable Uses.--Grants awarded under this section may be used 
+to--
+            (1) hire personnel, investigators, prosecutors, education 
+        specialists, and forensic specialists;
+
+[[Page 122 STAT. 4240]]
+
+            (2) establish and support forensic laboratories utilized in 
+        Internet crimes against children investigations;
+            (3) support investigations and prosecutions of Internet 
+        crimes against children;
+            (4) conduct and assist with education programs to help 
+        children and parents protect themselves from Internet predators;
+            (5) conduct and attend training sessions related to 
+        successful investigations and prosecutions of Internet crimes 
+        against children; and
+            (6) fund any other activities directly related to 
+        preventing, investigating, or prosecuting Internet crimes 
+        against children.
+
+    (d) Reporting Requirements.--
+            (1) ICAC reports.--To measure the results of the activities 
+        funded by grants under this section, and to assist the Attorney 
+        General in complying with the Government Performance and Results 
+        Act (Public Law 103-62; 107 Stat. 285), each State or local ICAC 
+        task force receiving a grant under this section shall, on an 
+        annual basis, submit a report to the Attorney General that sets 
+        forth the following:
+                    (A) Staffing levels of the task force, including the 
+                number of investigators, prosecutors, education 
+                specialists, and forensic specialists dedicated to 
+                investigating and prosecuting Internet crimes against 
+                children.
+                    (B) Investigation and prosecution performance 
+                measures of the task force, including--
+                          (i) the number of investigations initiated 
+                      related to Internet crimes against children;
+                          (ii) the number of arrests related to Internet 
+                      crimes against children; and
+                          (iii) the number of prosecutions for Internet 
+                      crimes against children, including--
+                                    (I) whether the prosecution resulted 
+                                in a conviction for such crime; and
+                                    (II) the sentence and the statutory 
+                                maximum for such crime under State law.
+                    (C) The number of referrals made by the task force 
+                to the United States Attorneys office, including whether 
+                the referral was accepted by the United States Attorney.
+                    (D) Statistics that account for the disposition of 
+                investigations that do not result in arrests or 
+                prosecutions, such as referrals to other law 
+                enforcement.
+                    (E) The number of investigative technical assistance 
+                sessions that the task force provided to nonmember law 
+                enforcement agencies.
+                    (F) The number of computer forensic examinations 
+                that the task force completed.
+                    (G) The number of law enforcement agencies 
+                participating in Internet crimes against children 
+                program standards established by the task force.
+            (2) Report to congress.--Not later than 1 year after the 
+        date of enactment of this Act, the Attorney General shall submit 
+        a report to Congress on--
+                    (A) the progress of the development of the ICAC Task 
+                Force Program established under section 102; and
+
+[[Page 122 STAT. 4241]]
+
+                    (B) the number of Federal and State investigations, 
+                prosecutions, and convictions in the prior 12-month 
+                period related to child exploitation.
+SEC. 107. <<NOTE: 42 USC 17617.>> AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General.--There are authorized to be appropriated to carry 
+out this title--
+            (1) $60,000,000 for fiscal year 2009;
+            (2) $60,000,000 for fiscal year 2010;
+            (3) $60,000,000 for fiscal year 2011;
+            (4) $60,000,000 for fiscal year 2012; and
+            (5) $60,000,000 for fiscal year 2013.
+
+    (b) Availability.--Funds appropriated under subsection (a) shall 
+remain available until expended.
+
+       TITLE II--ADDITIONAL MEASURES TO COMBAT CHILD EXPLOITATION
+
+SEC. 201. <<NOTE: 42 USC 17631.>> ADDITIONAL REGIONAL COMPUTER 
+                        FORENSIC LABS.
+
+    (a) Additional Resources.--The Attorney General shall establish 
+additional computer forensic capacity to address the current backlog for 
+computer forensics, including for child exploitation investigations. The 
+Attorney General may utilize funds under this title to increase capacity 
+at existing regional forensic laboratories or to add laboratories under 
+the Regional Computer Forensic Laboratories Program operated by the 
+Federal Bureau of Investigation.
+    (b) Purpose of New Resources.--The additional forensic capacity 
+established by resources provided under this section shall be dedicated 
+to assist Federal agencies, State and local Internet Crimes Against 
+Children task forces, and other Federal, State, and local law 
+enforcement agencies in preventing, investigating, and prosecuting 
+Internet crimes against children.
+    (c) New Computer Forensic Labs.--If the Attorney General determines 
+that new regional computer forensic laboratories are required under 
+subsection (a) to best address existing backlogs, such new laboratories 
+shall be established pursuant to subsection (d).
+    (d) Location of New Labs.--The location of any new regional computer 
+forensic laboratories under this section shall be determined by the 
+Attorney General, in consultation with the Director of the Federal 
+Bureau of Investigation, the Regional Computer Forensic Laboratory 
+National Steering Committee, and other relevant stakeholders.
+    (e) Report.--Not later than 1 year after the date of enactment of 
+this Act, and every year thereafter, the Attorney General shall submit a 
+report to the Congress on how the funds appropriated under this section 
+were utilized.
+    (f) Authorization of Appropriations.--There are authorized to be 
+appropriated for fiscal years 2009 through 2013, $2,000,000 to carry out 
+the provisions of this section.
+
+[[Page 122 STAT. 4242]]
+
+           TITLE III--EFFECTIVE CHILD PORNOGRAPHY PROSECUTION
+
+SEC. 301. PROHIBIT THE BROADCAST OF LIVE IMAGES OF CHILD ABUSE.
+
+    Section 2251 of title 18, United States Code is amended--
+            (1) in subsection (a), by--
+                    (A) inserting ``or for the purpose of transmitting a 
+                live visual depiction of such conduct'' after ``for the 
+                purpose of producing any visual depiction of such 
+                conduct'';
+                    (B) inserting ``or transmitted'' after ``if such 
+                person knows or has reason to know that such visual 
+                depiction will be transported'';
+                    (C) inserting ``or transmitted'' after ``if that 
+                visual depiction was produced''; and
+                    (D) inserting ``or transmitted'' after ``has 
+                actually been transported''; and
+            (2) in subsection (b), by--
+                    (A) inserting ``or for the purpose of transmitting a 
+                live visual depiction of such conduct'' after ``for the 
+                purpose of producing any visual depiction of such 
+                conduct'';
+                    (B) inserting ``or transmitted'' after ``person 
+                knows or has reason to know that such visual depiction 
+                will be transported'';
+                    (C) inserting ``or transmitted'' after ``if that 
+                visual depiction was produced''; and
+                    (D) inserting ``or transmitted'' after ``has 
+                actually been transported''.
+SEC. 302. AMENDMENT TO SECTION 2256 OF TITLE 18, UNITED STATES 
+                        CODE.
+
+    Section 2256(5) of title 18, United States Code is amended by--
+            (1) striking ``and'' before ``data'';
+            (2) after ``visual image'' by inserting ``, and data which 
+        is capable of conversion into a visual image that has been 
+        transmitted by any means, whether or not stored in a permanent 
+        format''.
+SEC. 303. AMENDMENT TO SECTION 2260 OF TITLE 18, UNITED STATES 
+                        CODE.
+
+    Section 2260(a) of title 18, United States Code, is amended by--
+            (1) inserting ``or for the purpose of transmitting a live 
+        visual depiction of such conduct'' after ``for the purpose of 
+        producing any visual depiction of such conduct''; and
+            (2) inserting ``or transmitted'' after ``imported''.
+SEC. 304. PROHIBITING THE ADAPTATION OR MODIFICATION OF AN IMAGE 
+                        OF AN IDENTIFIABLE MINOR TO PRODUCE CHILD 
+                        PORNOGRAPHY.
+
+    (a) Offense.--Subsection (a) of section 2252A of title 18, United 
+States Code, is amended--
+            (1) in paragraph (5), by striking ``; or'' at the end and 
+        inserting a semicolon;
+
+[[Page 122 STAT. 4243]]
+
+            (2) in paragraph (6), by striking the period at the end and 
+        inserting ``; or''; and
+            (3) by inserting after paragraph (6) the following:
+            ``(7) knowingly produces with intent to distribute, or 
+        distributes, by any means, including a computer, in or affecting 
+        interstate or foreign commerce, child pornography that is an 
+        adapted or modified depiction of an identifiable minor.''.
+
+    (b) Punishment.--Subsection (b) of section 2252A of title 18, United 
+States Code, is amended by adding at the end the following:
+            ``(3) Whoever violates, or attempts or conspires to violate, 
+        subsection (a)(7) shall be fined under this title or imprisoned 
+        not more than 15 years, or both.''.
+
+      TITLE IV--NATIONAL INSTITUTE OF JUSTICE STUDY OF RISK FACTORS
+
+SEC. 401. NIJ STUDY OF RISK FACTORS FOR ASSESSING DANGEROUSNESS.
+
+    (a) In General.--Not <<NOTE: Deadline. Reports.>> later than 1 year 
+after the date of enactment of this Act, the National Institute of 
+Justice shall prepare a report to identify investigative factors that 
+reliably indicate whether a subject of an online child exploitation 
+investigation poses a high risk of harm to children. Such a report shall 
+be prepared in consultation and coordination with Federal law 
+enforcement agencies, the National Center for Missing and Exploited 
+Children, Operation Fairplay at the Wyoming Attorney General's Office, 
+the Internet Crimes Against Children Task Force, and other State and 
+local law enforcement.
+
+    (b) Contents of Analysis.--The report required by subsection (a) 
+shall include a thorough analysis of potential investigative factors in 
+on-line child exploitation cases and an appropriate examination of 
+investigative data from prior prosecutions and case files of identified 
+child victims.
+    (c) Report to Congress.--Not later than 1 year after the date of 
+enactment of this Act, the National Institute of Justice shall submit a 
+report to the House and Senate Judiciary Committees that includes the 
+findings of the study required by this section and makes recommendations 
+on technological tools and law enforcement procedures to help 
+investigators prioritize scarce resources to those cases where there is 
+actual hands-on abuse by the suspect.
+    (d) Authorization of Appropriations.--There are authorized to be 
+appropriated $500,000 to the National Institute of Justice to conduct 
+the study required under this section.
+
+         TITLE V--SECURING ADOLESCENTS FROM ONLINE EXPLOITATION
+
+SEC. 501. REPORTING REQUIREMENTS OF ELECTRONIC COMMUNICATION 
+                        SERVICE PROVIDERS AND REMOTE COMPUTING 
+                        SERVICE PROVIDERS.
+
+    (a) In General.--Chapter 110 of title 18, United States Code, is 
+amended by inserting after section 2258 the following:
+
+[[Page 122 STAT. 4244]]
+
+``SEC. 2258A. <<NOTE: 18 USC 2258A.>> REPORTING REQUIREMENTS OF 
+                            ELECTRONIC COMMUNICATION SERVICE 
+                            PROVIDERS AND REMOTE COMPUTING SERVICE 
+                            PROVIDERS.
+
+    ``(a) Duty To Report.--
+            ``(1) In general.--Whoever, while engaged in providing an 
+        electronic communication service or a remote computing service 
+        to the public through a facility or means of interstate or 
+        foreign commerce, obtains actual knowledge of any facts or 
+        circumstances described in paragraph (2) shall, as soon as 
+        reasonably possible--
+                    ``(A) provide to the CyberTipline of the National 
+                Center for Missing and Exploited Children, or any 
+                successor to the CyberTipline operated by such center, 
+                the mailing address, telephone number, facsimile number, 
+                electronic mail address of, and individual point of 
+                contact for, such electronic communication service 
+                provider or remote computing service provider; and
+                    ``(B) make a report of such facts or circumstances 
+                to the CyberTipline, or any successor to the 
+                CyberTipline operated by such center.
+            ``(2) Facts or circumstances.--The facts or circumstances 
+        described in this paragraph are any facts or circumstances from 
+        which there is an apparent violation of--
+                    ``(A) section 2251, 2251A, 2252, 2252A, 2252B, or 
+                2260 that involves child pornography; or
+                    ``(B) section 1466A.
+
+    ``(b) Contents of Report.--To the extent the information is within 
+the custody or control of an electronic communication service provider 
+or a remote computing service provider, the facts and circumstances 
+included in each report under subsection (a)(1) may include the 
+following information:
+            ``(1) Information about the involved individual.--
+        Information relating to the identity of any individual who 
+        appears to have violated a Federal law described in subsection 
+        (a)(2), which may, to the extent reasonably practicable, include 
+        the electronic mail address, Internet Protocol address, uniform 
+        resource locator, or any other identifying information, 
+        including self-reported identifying information.
+            ``(2) Historical reference.--Information relating to when 
+        and how a customer or subscriber of an electronic communication 
+        service or a remote computing service uploaded, transmitted, or 
+        received apparent child pornography or when and how apparent 
+        child pornography was reported to, or discovered by the 
+        electronic communication service provider or remote computing 
+        service provider, including a date and time stamp and time zone.
+            ``(3) Geographic location information.--
+                    ``(A) In general.--Information relating to the 
+                geographic location of the involved individual or 
+                website, which may include the Internet Protocol address 
+                or verified billing address, or, if not reasonably 
+                available, at least 1 form of geographic identifying 
+                information, including area code or zip code.
+                    ``(B) Inclusion.--The information described in 
+                subparagraph (A) may also include any geographic 
+                information provided to the electronic communication 
+                service or remote computing service by the customer or 
+                subscriber.
+
+[[Page 122 STAT. 4245]]
+
+            ``(4) Images of apparent child pornography.--Any image of 
+        apparent child pornography relating to the incident such report 
+        is regarding.
+            ``(5) Complete communication.--The complete communication 
+        containing any image of apparent child pornography, including--
+                    ``(A) any data or information regarding the 
+                transmission of the communication; and
+                    ``(B) any images, data, or other digital files 
+                contained in, or attached to, the communication.
+
+    ``(c) Forwarding of Report to Law Enforcement.--
+            ``(1) In general.--The National Center for Missing and 
+        Exploited Children shall forward each report made under 
+        subsection (a)(1) to any appropriate law enforcement agency 
+        designated by the Attorney General under subsection (d)(2).
+            ``(2) State and local law enforcement.--The National Center 
+        for Missing and Exploited Children may forward any report made 
+        under subsection (a)(1) to an appropriate law enforcement 
+        official of a State or political subdivision of a State for the 
+        purpose of enforcing State criminal law.
+            ``(3) Foreign law enforcement.--
+                    ``(A) In general.--The National Center for Missing 
+                and Exploited Children may forward any report made under 
+                subsection (a)(1) to any appropriate foreign law 
+                enforcement agency designated by the Attorney General 
+                under subsection (d)(3), subject to the conditions 
+                established by the Attorney General under subsection 
+                (d)(3).
+                    ``(B) Transmittal to designated federal agencies.--
+                If the National Center for Missing and Exploited 
+                Children forwards a report to a foreign law enforcement 
+                agency under subparagraph (A), the National Center for 
+                Missing and Exploited Children shall concurrently 
+                provide a copy of the report and the identity of the 
+                foreign law enforcement agency to--
+                          ``(i) the Attorney General; or
+                          ``(ii) the Federal law enforcement agency or 
+                      agencies designated by the Attorney General under 
+                      subsection (d)(2).
+
+    ``(d) Attorney General Responsibilities.--
+            ``(1) In general.--The Attorney General shall enforce this 
+        section.
+            ``(2) Designation of federal agencies.--The Attorney General 
+        shall designate promptly the Federal law enforcement agency or 
+        agencies to which a report shall be forwarded under subsection 
+        (c)(1).
+            ``(3) Designation of foreign agencies.--The Attorney General 
+        shall promptly--
+                    ``(A) in consultation with the Secretary of State, 
+                designate the foreign law enforcement agencies to which 
+                a report may be forwarded under subsection (c)(3);
+                    ``(B) establish the conditions under which such a 
+                report may be forwarded to such agencies; and
+                    ``(C) develop a process for foreign law enforcement 
+                agencies to request assistance from Federal law 
+                enforcement agencies in obtaining evidence related to a 
+                report referred under subsection (c)(3).
+
+[[Page 122 STAT. 4246]]
+
+            ``(4) Reporting designated 
+        foreign <<NOTE: Lists.>> agencies.--The Attorney General shall 
+        maintain and make available to the Department of State, the 
+        National Center for Missing and Exploited Children, electronic 
+        communication service providers, remote computing service 
+        providers, the Committee on the Judiciary of the Senate, and the 
+        Committee on the Judiciary of the House of Representatives a 
+        list of the foreign law enforcement agencies designated under 
+        paragraph (3).
+            ``(5) Sense of congress regarding designation of foreign 
+        agencies.--It is the sense of Congress that--
+                    ``(A) combating the international manufacturing, 
+                possession, and trade in online child pornography 
+                requires cooperation with competent, qualified, and 
+                appropriately trained foreign law enforcement agencies; 
+                and
+                    ``(B) the Attorney General, in cooperation with the 
+                Secretary of State, should make a substantial effort to 
+                expand the list of foreign agencies designated under 
+                paragraph (3).
+            ``(6) Notification to providers.--If an electronic 
+        communication service provider or remote computing service 
+        provider notifies the National Center for Missing and Exploited 
+        Children that the electronic communication service provider or 
+        remote computing service provider is making a report under this 
+        section as the result of a request by a foreign law enforcement 
+        agency, the National Center for Missing and Exploited Children 
+        shall--
+                    ``(A) if the Center forwards the report to the 
+                requesting foreign law enforcement agency or another 
+                agency in the same country designated by the Attorney 
+                General under paragraph (3), notify the electronic 
+                communication service provider or remote computing 
+                service provider of--
+                          ``(i) the identity of the foreign law 
+                      enforcement agency to which the report was 
+                      forwarded; and
+                          ``(ii) the date on which the report was 
+                      forwarded; or
+                    ``(B) notify the electronic communication service 
+                provider or remote computing service provider if the 
+                Center declines to forward the report because the 
+                Center, in consultation with the Attorney General, 
+                determines that no law enforcement agency in the foreign 
+                country has been designated by the Attorney General 
+                under paragraph (3).
+
+    ``(e) Failure To Report.--An electronic communication service 
+provider or remote computing service provider that knowingly and 
+willfully fails to make a report required under subsection (a)(1) shall 
+be fined--
+            ``(1) in the case of an initial knowing and willful failure 
+        to make a report, not more than $150,000; and
+            ``(2) in the case of any second or subsequent knowing and 
+        willful failure to make a report, not more than $300,000.
+
+    ``(f) Protection of Privacy.--Nothing in this section shall be 
+construed to require an electronic communication service provider or a 
+remote computing service provider to--
+            ``(1) monitor any user, subscriber, or customer of that 
+        provider;
+            ``(2) monitor the content of any communication of any person 
+        described in paragraph (1); or
+
+[[Page 122 STAT. 4247]]
+
+            ``(3) affirmatively seek facts or circumstances described in 
+        sections (a) and (b).
+
+    ``(g) Conditions of Disclosure Information Contained Within 
+Report.--
+            ``(1) In general.--Except as provided in paragraph (2), a 
+        law enforcement agency that receives a report under subsection 
+        (c) shall not disclose any information contained in that report.
+            ``(2) Permitted disclosures by law enforcement.--
+                    ``(A) In general.--A law enforcement agency may 
+                disclose information in a report received under 
+                subsection (c)--
+                          ``(i) to an attorney for the government for 
+                      use in the performance of the official duties of 
+                      that attorney;
+                          ``(ii) to such officers and employees of that 
+                      law enforcement agency, as may be necessary in the 
+                      performance of their investigative and 
+                      recordkeeping functions;
+                          ``(iii) to such other government personnel 
+                      (including personnel of a State or subdivision of 
+                      a State) as are determined to be necessary by an 
+                      attorney for the government to assist the attorney 
+                      in the performance of the official duties of the 
+                      attorney in enforcing Federal criminal law;
+                          ``(iv) if the report discloses a violation of 
+                      State criminal law, to an appropriate official of 
+                      a State or subdivision of a State for the purpose 
+                      of enforcing such State law;
+                          ``(v) to a defendant in a criminal case or the 
+                      attorney for that defendant, subject to the terms 
+                      and limitations under section 3509(m) or a similar 
+                      State law, to the extent the information relates 
+                      to a criminal charge pending against that 
+                      defendant;
+                          ``(vi) subject to subparagraph (B), to an 
+                      electronic communication service provider or 
+                      remote computing provider if necessary to 
+                      facilitate response to legal process issued in 
+                      connection to a criminal investigation, 
+                      prosecution, or post-conviction remedy relating to 
+                      that report; and
+                          ``(vii) as ordered by a court upon a showing 
+                      of good cause and pursuant to any protective 
+                      orders or other conditions that the court may 
+                      impose.
+                    ``(B) Limitations.--
+                          ``(i) Limitations on further disclosure.--The 
+                      electronic communication service provider or 
+                      remote computing service provider shall be 
+                      prohibited from disclosing the contents of a 
+                      report provided under subparagraph (A)(vi) to any 
+                      person, except as necessary to respond to the 
+                      legal process.
+                          ``(ii) Effect.--Nothing in subparagraph 
+                      (A)(vi) authorizes a law enforcement agency to 
+                      provide child pornography images to an electronic 
+                      communications service provider or a remote 
+                      computing service.
+            ``(3) Permitted disclosures by the national center for 
+        missing and exploited children.--The National Center for Missing 
+        and Exploited Children may disclose information received in a 
+        report under subsection (a) only--
+
+[[Page 122 STAT. 4248]]
+
+                    ``(A) to any Federal law enforcement agency 
+                designated by the Attorney General under subsection 
+                (d)(2);
+                    ``(B) to any State, local, or tribal law enforcement 
+                agency involved in the investigation of child 
+                pornography, child exploitation, kidnapping, or 
+                enticement crimes;
+                    ``(C) to any foreign law enforcement agency 
+                designated by the Attorney General under subsection 
+                (d)(3); and
+                    ``(D) to an electronic communication service 
+                provider or remote computing service provider as 
+                described in section 2258C.
+
+    ``(h) Preservation.--
+            ``(1) In general.--For the purposes of this section, the 
+        notification to an electronic communication service provider or 
+        a remote computing service provider by the CyberTipline of 
+        receipt of a report under subsection (a)(1) shall be treated as 
+        a request to preserve, as if such request was made pursuant to 
+        section 2703(f).
+            ``(2) Preservation of report.--Pursuant to paragraph (1), an 
+        electronic communication service provider or a remote computing 
+        service shall preserve the contents of the report provided 
+        pursuant to subsection (b) for 90 days after such notification 
+        by the CyberTipline.
+            ``(3) Preservation of commingled images.--Pursuant to 
+        paragraph (1), an electronic communication service provider or a 
+        remote computing service shall preserve any images, data, or 
+        other digital files that are commingled or interspersed among 
+        the images of apparent child pornography within a particular 
+        communication or user-created folder or directory.
+            ``(4) Protection of preserved materials.--An electronic 
+        communications service or remote computing service preserving 
+        materials under this section shall maintain the materials in a 
+        secure location and take appropriate steps to limit access by 
+        agents or employees of the service to the materials to that 
+        access necessary to comply with the requirements of this 
+        subsection.
+            ``(5) Authorities and duties not affected.--Nothing in this 
+        section shall be construed as replacing, amending, or otherwise 
+        interfering with the authorities and duties under section 2703.
+``SEC. 2258B. <<NOTE: 18 USC 2258B.>> LIMITED LIABILITY FOR 
+                            ELECTRONIC COMMUNICATION SERVICE 
+                            PROVIDERS, REMOTE COMPUTING SERVICE 
+                            PROVIDERS, OR DOMAIN NAME REGISTRAR.
+
+    ``(a) In General.--Except as provided in subsection (b), a civil 
+claim or criminal charge against an electronic communication service 
+provider, a remote computing service provider, or domain name registrar, 
+including any director, officer, employee, or agent of such electronic 
+communication service provider, remote computing service provider, or 
+domain name registrar arising from the performance of the reporting or 
+preservation responsibilities of such electronic communication service 
+provider, remote computing service provider, or domain name registrar 
+under this section, section 2258A, or section 2258C may not be brought 
+in any Federal or State court.
+    ``(b) Intentional, Reckless, or Other Misconduct.--Subsection (a) 
+shall not apply to a claim if the electronic communication service 
+provider, remote computing service provider, or domain
+
+[[Page 122 STAT. 4249]]
+
+name registrar, or a director, officer, employee, or agent of that 
+electronic communication service provider, remote computing service 
+provider, or domain name registrar--
+            ``(1) engaged in intentional misconduct; or
+            ``(2) acted, or failed to act--
+                    ``(A) with actual malice;
+                    ``(B) with reckless disregard to a substantial risk 
+                of causing physical injury without legal justification; 
+                or
+                    ``(C) for a purpose unrelated to the performance of 
+                any responsibility or function under this section, 
+                sections 2258A, 2258C, 2702, or 2703.
+
+    ``(c) Minimizing Access.--An electronic communication service 
+provider, a remote computing service provider, and domain name registrar 
+shall--
+            ``(1) minimize the number of employees that are provided 
+        access to any image provided under section 2258A or 2258C; and
+            ``(2) ensure that any such image is permanently destroyed, 
+        upon a request from a law enforcement agency to destroy the 
+        image.
+``SEC. 2258C. <<NOTE: 18 USC 2258C.>> USE TO COMBAT CHILD 
+                            PORNOGRAPHY OF TECHNICAL ELEMENTS 
+                            RELATING TO IMAGES REPORTED TO THE 
+                            CYBERTIPLINE.
+
+    ``(a) Elements.--
+            ``(1) In general.--The National Center for Missing and 
+        Exploited Children may provide elements relating to any apparent 
+        child pornography image of an identified child to an electronic 
+        communication service provider or a remote computing service 
+        provider for the sole and exclusive purpose of permitting that 
+        electronic communication service provider or remote computing 
+        service provider to stop the further transmission of images.
+            ``(2) Inclusions.--The elements authorized under paragraph 
+        (1) may include hash values or other unique identifiers 
+        associated with a specific image, Internet location of images, 
+        and other technological elements that can be used to identify 
+        and stop the transmission of child pornography.
+            ``(3) Exclusion.--The elements authorized under paragraph 
+        (1) may not include the actual images.
+
+    ``(b) Use by Electronic Communication Service Providers and Remote 
+Computing Service Providers.--Any electronic communication service 
+provider or remote computing service provider that receives elements 
+relating to any apparent child pornography image of an identified child 
+from the National Center for Missing and Exploited Children under this 
+section may use such information only for the purposes described in this 
+section, provided that such use shall not relieve that electronic 
+communication service provider or remote computing service provider from 
+its reporting obligations under section 2258A.
+    ``(c) Limitations.--Nothing in subsections (a) or (b) requires 
+electronic communication service providers or remote computing service 
+providers receiving elements relating to any apparent child pornography 
+image of an identified child from the National Center for Missing and 
+Exploited Children to use the elements to stop the further transmission 
+of the images.
+
+[[Page 122 STAT. 4250]]
+
+    ``(d) Provision of Elements to Law Enforcement.--The National Center 
+for Missing and Exploited Children shall make available to Federal, 
+State, and local law enforcement involved in the investigation of child 
+pornography crimes elements, including hash values, relating to any 
+apparent child pornography image of an identified child reported to the 
+National Center for Missing and Exploited Children.
+    ``(e) Use by Law Enforcement.--Any Federal, State, or local law 
+enforcement agency that receives elements relating to any apparent child 
+pornography image of an identified child from the National Center for 
+Missing and Exploited Children under section (d) may use such elements 
+only in the performance of the official duties of that agency to 
+investigate child pornography crimes.
+``SEC. 2258D. <<NOTE: 18 USC 2258D.>> LIMITED LIABILITY FOR THE 
+                            NATIONAL CENTER FOR MISSING AND 
+                            EXPLOITED CHILDREN.
+
+    ``(a) In General.--Except as provided in subsections (b) and (c), a 
+civil claim or criminal charge against the National Center for Missing 
+and Exploited Children, including any director, officer, employee, or 
+agent of such center, arising from the performance of the CyberTipline 
+responsibilities or functions of such center, as described in this 
+section, section 2258A or 2258C of this title, or section 404 of the 
+Missing Children's Assistance Act (42 U.S.C. 5773), or from the effort 
+of such center to identify child victims may not be brought in any 
+Federal or State court.
+    ``(b) Intentional, Reckless, or Other Misconduct.--Subsection (a) 
+shall not apply to a claim or charge if the National Center for Missing 
+and Exploited Children, or a director, officer, employee, or agent of 
+such center--
+            ``(1) engaged in intentional misconduct; or
+            ``(2) acted, or failed to act--
+                    ``(A) with actual malice;
+                    ``(B) with reckless disregard to a substantial risk 
+                of causing injury without legal justification; or
+                    ``(C) for a purpose unrelated to the performance of 
+                any responsibility or function under this section, 
+                section 2258A or 2258C of this title, or section 404 of 
+                the Missing Children's Assistance Act (42 U.S.C. 5773).
+
+    ``(c) Ordinary Business Activities.--Subsection (a) shall not apply 
+to an act or omission relating to an ordinary business activity, 
+including general administration or operations, the use of motor 
+vehicles, or personnel management.
+    ``(d) Minimizing Access.--The National Center for Missing and 
+Exploited Children shall--
+            ``(1) minimize the number of employees that are provided 
+        access to any image provided under section 2258A; and
+            ``(2) ensure that any such image is permanently destroyed 
+        upon notification from a law enforcement agency.
+``SEC. 2258E. <<NOTE: 18 USC 2258E.>> DEFINITIONS.
+
+    ``In sections 2258A through 2258D--
+            ``(1) the terms `attorney for the government' and `State' 
+        have the meanings given those terms in rule 1 of the Federal 
+        Rules of Criminal Procedure;
+            ``(2) the term `electronic communication service' has the 
+        meaning given that term in section 2510;
+
+[[Page 122 STAT. 4251]]
+
+            ``(3) the term `electronic mail address' has the meaning 
+        given that term in section 3 of the CAN-SPAM Act of 2003 (15 
+        U.S.C. 7702);
+            ``(4) the term `Internet' has the meaning given that term in 
+        section 1101 of the Internet Tax Freedom Act (47 U.S.C. 151 
+        note);
+            ``(5) the term `remote computing service' has the meaning 
+        given that term in section 2711; and
+            ``(6) the term `website' means any collection of material 
+        placed in a computer server-based file archive so that it is 
+        publicly accessible, over the Internet, using hypertext transfer 
+        protocol or any successor protocol.''.
+
+    (b) Technical and Conforming Amendments.--
+            (1) Repeal of superceded provision.--Section 227 of the 
+        Crime Control Act of 1990 (42 U.S.C. 13032) is repealed.
+            (2) Technical corrections.--Section 2702 of title 18, United 
+        States Code, is amended--
+                    (A) in subsection (b)(6), by striking ``section 227 
+                of the Victims of Child Abuse Act of 1990 (42 U.S.C. 
+                13032)'' and inserting ``section 2258A''; and
+                    (B) in subsection (c)(5), by striking ``section 227 
+                of the Victims of Child Abuse Act of 1990 (42 U.S.C. 
+                13032)'' and inserting ``section 2258A''.
+            (3) Table of sections.--The table of sections for chapter 
+        110 of title 18, United States Code, is amended by inserting 
+        after the item relating to section 2258 the following:
+
+``2258A. Reporting requirements of electronic communication service 
+           providers and remote computing service providers.
+``2258B. Limited liability for electronic communication service 
+           providers and remote computing service providers.
+``2258C. Use to combat child pornography of technical elements relating 
+           to images reported to the CyberTipline.
+``2258D. Limited liability for the National Center for Missing and 
+           Exploited Children.
+``2258E. Definitions.''.
+
+SEC. 502. REPORTS.
+
+    (a) Attorney General Report on Implementation, Investigative Methods 
+and Information Sharing.--Not later than 12 months after the date of 
+enactment of this Act, the Attorney General shall submit a report to the 
+Committee on the Judiciary of Senate and the Committee on the Judiciary 
+of the House of Representatives on--
+            (1) the structure established in this Act, including the 
+        respective functions of the National Center for Missing and 
+        Exploited Children, Department of Justice, and other entities 
+        that participate in information sharing under this Act;
+            (2) an assessment of the legal and constitutional 
+        implications of such structure;
+            (3) the privacy safeguards contained in the reporting 
+        requirements, including the training, qualifications, 
+        recruitment and screening of all Federal and non-Federal 
+        personnel implementing this Act; and
+            (4) information relating to the aggregate number of 
+        incidents reported under section 2258A(b) of title 18, United 
+        States Code, to Federal and State law enforcement agencies based 
+        on the reporting requirements under this Act and the aggregate 
+        number of times that elements are provided to
+
+[[Page 122 STAT. 4252]]
+
+        communication service providers under section 2258C of such 
+        title.
+
+    (b) GAO Audit and Report on Efficiency and Effectiveness.--Not later 
+than 2 years after the date of enactment of this Act, the Comptroller 
+General shall conduct an audit and submit a report to the Committee on 
+the Judiciary of the Senate and to the Committee on the Judiciary of the 
+House of Representatives on--
+            (1) the efforts, activities, and actions of the CyberTipline 
+        of the National Center for Missing and Exploited Children, or 
+        any successor to the CyberTipline, and the Attorney General in 
+        achieving the goals and purposes of this Act, as well as in 
+        carrying out any responsibilities or duties assigned to each 
+        such individual or agency under this Act;
+            (2) any legislative, administrative, or regulatory changes 
+        that the Comptroller General recommends be taken by or on behalf 
+        of the Attorney General to better achieve such goals and 
+        purposes, and to more effectively carry out such 
+        responsibilities and duties;
+            (3) the effectiveness of any actions taken and efforts made 
+        by the CyberTipline of the National Center for Missing and 
+        Exploited Children, or any successor to the CyberTipline and the 
+        Attorney General to--
+                    (A) minimize duplicating the efforts, materials, 
+                facilities, and procedures of any other Federal agency 
+                responsible for the enforcement, investigation, or 
+                prosecution of child pornography crimes; and
+                    (B) enhance the efficiency and consistency with 
+                which Federal funds and resources are expended to 
+                enforce, investigate, or prosecute child pornography 
+                crimes, including the use of existing personnel, 
+                materials, technologies, and facilities; and
+            (4) any actions or efforts that the Comptroller General 
+        recommends be taken by the Attorney General to reduce 
+        duplication of efforts and increase the efficiency and 
+        consistency with which Federal funds and resources are expended 
+        to enforce, investigate, or prosecute child pornography crimes.
+SEC. 503. <<NOTE: 18 USC 2251 note.>> SEVERABILITY.
+
+    If any provision of this title or amendment made by this title is 
+held to be unconstitutional, the remainder of the provisions of this 
+title or amendments made by this title--
+            (1) shall remain in full force and effect; and
+
+[[Page 122 STAT. 4253]]
+
+            (2) shall not be affected by the holding.
+
+    Approved October 13, 2008.
+
+LEGISLATIVE HISTORY--S. 1738 (H.R. 3845):
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 154 (2008):
+            Sept. 25, considered and passed Senate.
+            Sept. 27, considered and passed House.
+
+                                  
+

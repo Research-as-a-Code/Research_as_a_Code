@@ -1,0 +1,1372 @@
+
+[112th Congress Public Law 106]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 305]]
+
+                   JUMPSTART OUR BUSINESS STARTUPS ACT
+
+[[Page 126 STAT. 306]]
+
+Public Law 112-106
+112th Congress
+
+                                 An Act
+
+
+ 
+   To increase American job creation and economic growth by improving 
+        access to the public capital markets for emerging growth 
+            companies. <<NOTE: Apr. 5, 2012 -  [H.R. 3606]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Jumpstart Our 
+Business Startups Act. 15 USC 78a note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Jumpstart Our Business Startups 
+Act''.
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents of this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+
+TITLE I--REOPENING AMERICAN CAPITAL MARKETS TO EMERGING GROWTH COMPANIES
+
+Sec. 101. Definitions.
+Sec. 102. Disclosure obligations.
+Sec. 103. Internal controls audit.
+Sec. 104. Auditing standards.
+Sec. 105. Availability of information about emerging growth companies.
+Sec. 106. Other matters.
+Sec. 107. Opt-in right for emerging growth companies.
+Sec. 108. Review of Regulation S-K.
+
+              TITLE II--ACCESS TO CAPITAL FOR JOB CREATORS
+
+Sec. 201. Modification of exemption.
+
+                         TITLE III--CROWDFUNDING
+
+Sec. 301. Short title.
+Sec. 302. Crowdfunding exemption.
+Sec. 303. Exclusion of crowdfunding investors from shareholder cap.
+Sec. 304. Funding portal regulation.
+Sec. 305. Relationship with State law.
+
+                TITLE IV--SMALL COMPANY CAPITAL FORMATION
+
+Sec. 401. Authority to exempt certain securities.
+Sec. 402. Study on the impact of State Blue Sky laws on Regulation A 
+           offerings.
+
+             TITLE V--PRIVATE COMPANY FLEXIBILITY AND GROWTH
+
+Sec. 501. Threshold for registration.
+Sec. 502. Employees.
+Sec. 503. Commission rulemaking.
+Sec. 504. Commission study of enforcement authority under Rule 12g5-1.
+
+                       TITLE VI--CAPITAL EXPANSION
+
+Sec. 601. Shareholder threshold for registration.
+Sec. 602. Rulemaking.
+
+                TITLE VII--OUTREACH ON CHANGES TO THE LAW
+
+Sec. 701. Outreach by the Commission.
+
+[[Page 126 STAT. 307]]
+
+TITLE I--REOPENING AMERICAN CAPITAL MARKETS TO EMERGING GROWTH COMPANIES
+
+SEC. 101. DEFINITIONS.
+
+    (a) Securities Act of 1933.--Section 2(a) of the Securities Act of 
+1933 (15 U.S.C. 77b(a)) is amended by adding at the end the following:
+            ``(19) The term `emerging growth company' means an issuer 
+        that had total annual gross revenues of less than $1,000,000,000 
+        (as such amount is indexed for inflation every 5 years by the 
+        Commission to reflect the change in the Consumer Price Index for 
+        All Urban Consumers published by the Bureau of Labor Statistics, 
+        setting the threshold to the nearest 1,000,000) during its most 
+        recently completed fiscal year. An issuer that is an emerging 
+        growth company as of the first day of that fiscal year shall 
+        continue to be deemed an emerging growth company until the 
+        earliest of--
+                    ``(A) the last day of the fiscal year of the issuer 
+                during which it had total annual gross revenues of 
+                $1,000,000,000 (as such amount is indexed for inflation 
+                every 5 years by the Commission to reflect the change in 
+                the Consumer Price Index for All Urban Consumers 
+                published by the Bureau of Labor Statistics, setting the 
+                threshold to the nearest 1,000,000) or more;
+                    ``(B) the last day of the fiscal year of the issuer 
+                following the fifth anniversary of the date of the first 
+                sale of common equity securities of the issuer pursuant 
+                to an effective registration statement under this title;
+                    ``(C) the date on which such issuer has, during the 
+                previous 3-year period, issued more than $1,000,000,000 
+                in non-convertible debt; or
+                    ``(D) the date on which such issuer is deemed to be 
+                a `large accelerated filer', as defined in section 
+                240.12b-2 of title 17, Code of Federal Regulations, or 
+                any successor thereto.''.
+
+    (b) Securities Exchange Act of 1934.--Section 3(a) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended--
+            (1) by redesignating paragraph (77), as added by section 
+        941(a) of the Investor Protection and Securities Reform Act of 
+        2010 (Public Law 111-203, 124 Stat. 1890), as paragraph (79); 
+        and
+            (2) by adding at the end the following:
+            ``(80) Emerging growth company.--The term `emerging growth 
+        company' means an issuer that had total annual gross revenues of 
+        less than $1,000,000,000 (as such amount is indexed for 
+        inflation every 5 years by the Commission to reflect the change 
+        in the Consumer Price Index for All Urban Consumers published by 
+        the Bureau of Labor Statistics, setting the threshold to the 
+        nearest 1,000,000) during its most recently completed fiscal 
+        year. An issuer that is an emerging growth company as of the 
+        first day of that fiscal year shall continue to be deemed an 
+        emerging growth company until the earliest of--
+
+[[Page 126 STAT. 308]]
+
+                    ``(A) the last day of the fiscal year of the issuer 
+                during which it had total annual gross revenues of 
+                $1,000,000,000 (as such amount is indexed for inflation 
+                every 5 years by the Commission to reflect the change in 
+                the Consumer Price Index for All Urban Consumers 
+                published by the Bureau of Labor Statistics, setting the 
+                threshold to the nearest 1,000,000) or more;
+                    ``(B) the last day of the fiscal year of the issuer 
+                following the fifth anniversary of the date of the first 
+                sale of common equity securities of the issuer pursuant 
+                to an effective registration statement under the 
+                Securities Act of 1933;
+                    ``(C) the date on which such issuer has, during the 
+                previous 3-year period, issued more than $1,000,000,000 
+                in non-convertible debt; or
+                    ``(D) the date on which such issuer is deemed to be 
+                a `large accelerated filer', as defined in section 
+                240.12b-2 of title 17, Code of Federal Regulations, or 
+                any successor thereto.''.
+
+    (c) <<NOTE: Applicability. 15 USC 78c note.>>  Other Definitions.--
+As used in this title, the following definitions shall apply:
+            (1) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission.
+            (2) Initial public offering date.--The term ``initial public 
+        offering date'' means the date of the first sale of common 
+        equity securities of an issuer pursuant to an effective 
+        registration statement under the Securities Act of 1933.
+
+    (d) <<NOTE: 15 USC 77b note.>>  Effective Date.--Notwithstanding 
+section 2(a)(19) of the Securities Act of 1933 and section 3(a)(80) of 
+the Securities Exchange Act of 1934, an issuer shall not be an emerging 
+growth company for purposes of such Acts if the first sale of common 
+equity securities of such issuer pursuant to an effective registration 
+statement under the Securities Act of 1933 occurred on or before 
+December 8, 2011.
+SEC. 102. DISCLOSURE OBLIGATIONS.
+
+    (a) Executive Compensation.--
+            (1) Exemption.--Section 14A(e) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78n-1(e)) is amended--
+                    (A) by striking ``The Commission may'' and inserting 
+                the following:
+            ``(1) In general.--The Commission may'';
+                    (B) by striking ``an issuer'' and inserting ``any 
+                other issuer''; and
+                    (C) by adding at the end the following:
+            ``(2) Treatment of emerging growth companies.--
+                    ``(A) In general.--An emerging growth company shall 
+                be exempt from the requirements of subsections (a) and 
+                (b).
+                    ``(B) <<NOTE: Time period.>>  Compliance after 
+                termination of emerging growth company treatment.--An 
+                issuer that was an emerging growth company but is no 
+                longer an emerging growth company shall include the 
+                first separate resolution described under subsection 
+                (a)(1) not later than the end of--
+                          ``(i) in the case of an issuer that was an 
+                      emerging growth company for less than 2 years 
+                      after the date
+
+[[Page 126 STAT. 309]]
+
+                      of first sale of common equity securities of the 
+                      issuer pursuant to an effective registration 
+                      statement under the Securities Act of 1933, the 3-
+                      year period beginning on such date; and
+                          ``(ii) in the case of any other issuer, the 1-
+                      year period beginning on the date the issuer is no 
+                      longer an emerging growth company.''.
+            (2) Proxies.--Section 14(i) of the Securities Exchange Act 
+        of 1934 (15 U.S.C. 78n(i)) is amended by inserting ``, for any 
+        issuer other than an emerging growth company,'' after 
+        ``including''.
+            (3) Compensation disclosures.--Section 953(b)(1) of the 
+        Investor Protection and Securities Reform Act of 2010 (Public 
+        Law 111-203; 124 Stat. 1904) <<NOTE: 15 USC 78l note.>> is 
+        amended by inserting ``, other than an emerging growth company, 
+        as that term is defined in section 3(a) of the Securities 
+        Exchange Act of 1934,'' after ``require each issuer''.
+
+    (b) Financial Disclosures and Accounting Pronouncements.--
+            (1) Securities act of 1933.--Section 7(a) of the Securities 
+        Act of 1933 (15 U.S.C. 77g(a)) is amended--
+                    (A) by striking ``(a) The registration'' and 
+                inserting the following:
+
+    ``(a) Information Required in Registration Statement.--
+            ``(1) In general.--The registration''; and
+                    (B) by adding at the end the following:
+            ``(2) Treatment of emerging growth companies.--An emerging 
+        growth company--
+                    ``(A) need not present more than 2 years of audited 
+                financial statements in order for the registration 
+                statement of such emerging growth company with respect 
+                to an initial public offering of its common equity 
+                securities to be effective, and in any other 
+                registration statement to be filed with the Commission, 
+                an emerging growth company need not present selected 
+                financial data in accordance with section 229.301 of 
+                title 17, Code of Federal Regulations, for any period 
+                prior to the earliest audited period presented in 
+                connection with its initial public offering; and
+                    ``(B) may not be required to comply with any new or 
+                revised financial accounting standard until such date 
+                that a company that is not an issuer (as defined under 
+                section 2(a) of the Sarbanes-Oxley Act of 2002 (15 
+                U.S.C. 7201(a))) is required to comply with such new or 
+                revised accounting standard, if such standard applies to 
+                companies that are not issuers.''.
+            (2) Securities exchange act of 1934.--Section 13(a) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78m(a)) is amended by 
+        adding at the end the following: ``In any registration 
+        statement, periodic report, or other reports to be filed with 
+        the Commission, an emerging growth company need not present 
+        selected financial data in accordance with section 229.301 of 
+        title 17, Code of Federal Regulations, for any period prior to 
+        the earliest audited period presented in connection with its 
+        first registration statement that became effective under this 
+        Act or the Securities Act of 1933 and, with respect to any such 
+        statement or reports, an emerging growth company may not be 
+        required to comply with any new or revised financial
+
+[[Page 126 STAT. 310]]
+
+        accounting standard until such date that a company that is not 
+        an issuer (as defined under section 2(a) of the Sarbanes-Oxley 
+        Act of 2002 (15 U.S.C. 7201(a))) is required to comply with such 
+        new or revised accounting standard, if such standard applies to 
+        companies that are not issuers.''.
+
+    (c) <<NOTE: 15 USC 77g note.>>  Other Disclosures.--An emerging 
+growth company may comply with section 229.303(a) of title 17, Code of 
+Federal Regulations, or any successor thereto, by providing information 
+required by such section with respect to the financial statements of the 
+emerging growth company for each period presented pursuant to section 
+7(a) of the Securities Act of 1933 (15 U.S.C. 77g(a)). An emerging 
+growth company may comply with section 229.402 of title 17, Code of 
+Federal Regulations, or any successor thereto, by disclosing the same 
+information as any issuer with a market value of outstanding voting and 
+nonvoting common equity held by non-affiliates of less than $75,000,000.
+SEC. 103. INTERNAL CONTROLS AUDIT.
+
+    Section 404(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262(b)) 
+is amended by inserting ``, other than an issuer that is an emerging 
+growth company (as defined in section 3 of the Securities Exchange Act 
+of 1934),'' before ``shall attest to''.
+SEC. 104. AUDITING STANDARDS.
+
+    Section 103(a)(3) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 
+7213(a)(3)) is amended by adding at the end the following:
+                    ``(C) Transition period for emerging growth 
+                companies.--Any rules of the Board requiring mandatory 
+                audit firm rotation or a supplement to the auditor's 
+                report in which the auditor would be required to provide 
+                additional information about the audit and the financial 
+                statements of the issuer (auditor discussion and 
+                analysis) shall not apply to an audit of an emerging 
+                growth company, as defined in section 3 of the 
+                Securities Exchange Act of 
+                1934. <<NOTE: Determination.>> Any additional rules 
+                adopted by the Board after the date of enactment of this 
+                subparagraph shall not apply to an audit of any emerging 
+                growth company, unless the Commission determines that 
+                the application of such additional requirements is 
+                necessary or appropriate in the public interest, after 
+                considering the protection of investors and whether the 
+                action will promote efficiency, competition, and capital 
+                formation.''.
+SEC. 105. AVAILABILITY OF INFORMATION ABOUT EMERGING GROWTH 
+                        COMPANIES.
+
+    (a) Provision of Research.--Section 2(a)(3) of the Securities Act of 
+1933 (15 U.S.C. 77b(a)(3)) is amended by adding at the end the 
+following: ``The publication or distribution by a broker or dealer of a 
+research report about an emerging growth company that is the subject of 
+a proposed public offering of the common equity securities of such 
+emerging growth company pursuant to a registration statement that the 
+issuer proposes to file, or has filed, or that is effective shall be 
+deemed for purposes of paragraph (10) of this subsection and section 
+5(c) not to constitute an offer for sale or offer to sell a security, 
+even if the broker or dealer is participating or will participate in the 
+registered offering of the securities of the 
+issuer. <<NOTE: Definition.>> As used in this paragraph, the term 
+`research report' means a written, electronic, or oral communication
+
+[[Page 126 STAT. 311]]
+
+that includes information, opinions, or recommendations with respect to 
+securities of an issuer or an analysis of a security or an issuer, 
+whether or not it provides information reasonably sufficient upon which 
+to base an investment decision.''.
+
+    (b) Securities Analyst Communications.--Section 15D of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78o-6) is amended--
+            (1) by redesignating subsection (c) as subsection (d); and
+            (2) by inserting after subsection (b) the following:
+
+    ``(c) Limitation.--Notwithstanding subsection (a) or any other 
+provision of law, neither the Commission nor any national securities 
+association registered under section 15A may adopt or maintain any rule 
+or regulation in connection with an initial public offering of the 
+common equity of an emerging growth company--
+            ``(1) restricting, based on functional role, which 
+        associated persons of a broker, dealer, or member of a national 
+        securities association, may arrange for communications between a 
+        securities analyst and a potential investor; or
+            ``(2) restricting a securities analyst from participating in 
+        any communications with the management of an emerging growth 
+        company that is also attended by any other associated person of 
+        a broker, dealer, or member of a national securities association 
+        whose functional role is other than as a securities analyst.''.
+
+    (c) Expanding Permissible Communications.--Section 5 of the 
+Securities Act of 1933 (15 U.S.C. 77e) is amended--
+            (1) by redesignating subsection (d) as subsection (e); and
+            (2) by inserting after subsection (c) the following:
+
+    ``(d) Limitation.--Notwithstanding any other provision of this 
+section, an emerging growth company or any person authorized to act on 
+behalf of an emerging growth company may engage in oral or written 
+communications with potential investors that are qualified institutional 
+buyers or institutions that are accredited investors, as such terms are 
+respectively defined in section 230.144A and section 230.501(a) of title 
+17, Code of Federal Regulations, or any successor thereto, to determine 
+whether such investors might have an interest in a contemplated 
+securities offering, either prior to or following the date of filing of 
+a registration statement with respect to such securities with the 
+Commission, subject to the requirement of subsection (b)(2).''.
+    (d) <<NOTE: 15 USC 78o-6 note.>>  Post Offering Communications.--
+Neither the Commission nor any national securities association 
+registered under section 15A of the Securities Exchange Act of 1934 may 
+adopt or maintain any rule or regulation prohibiting any broker, dealer, 
+or member of a national securities association from publishing or 
+distributing any research report or making a public appearance, with 
+respect to the securities of an emerging growth company, either--
+            (1) within any prescribed period of time following the 
+        initial public offering date of the emerging growth company; or
+            (2) within any prescribed period of time prior to the 
+        expiration date of any agreement between the broker, dealer, or 
+        member of a national securities association and the emerging 
+        growth company or its shareholders that restricts or prohibits 
+        the sale of securities held by the emerging growth company or 
+        its shareholders after the initial public offering date.
+
+[[Page 126 STAT. 312]]
+
+SEC. 106. OTHER MATTERS.
+
+    (a) Draft Registration Statements.--Section 6 of the Securities Act 
+of 1933 (15 U.S.C. 77f) is amended by adding at the end the following:
+    ``(e) Emerging Growth Companies.--
+            ``(1) <<NOTE: Public information. Deadline.>>  In general.--
+        Any emerging growth company, prior to its initial public 
+        offering date, may confidentially submit to the Commission a 
+        draft registration statement, for confidential nonpublic review 
+        by the staff of the Commission prior to public filing, provided 
+        that the initial confidential submission and all amendments 
+        thereto shall be publicly filed with the Commission not later 
+        than 21 days before the date on which the issuer conducts a road 
+        show, as such term is defined in section 230.433(h)(4) of title 
+        17, Code of Federal Regulations, or any successor thereto.
+            ``(2) Confidentiality.--Notwithstanding any other provision 
+        of this title, the Commission shall not be compelled to disclose 
+        any information provided to or obtained by the Commission 
+        pursuant to this subsection. For purposes of section 552 of 
+        title 5, United States Code, this subsection shall be considered 
+        a statute described in subsection (b)(3)(B) of such section 552. 
+        Information described in or obtained pursuant to this subsection 
+        shall be deemed to constitute confidential information for 
+        purposes of section 24(b)(2) of the Securities Exchange Act of 
+        1934.''.
+
+    (b) Tick Size.--Section 11A(c) of the Securities Exchange Act of 
+1934 (15 U.S.C. 78k-1(c)) is amended by adding at the end the following 
+new paragraph:
+            ``(6) Tick size.--
+                    ``(A) Study and report.--The Commission shall 
+                conduct a study examining the transition to trading and 
+                quoting securities in one penny increments, also known 
+                as decimalization. The study shall examine the impact 
+                that decimalization has had on the number of initial 
+                public offerings since its implementation relative to 
+                the period before its implementation. The study shall 
+                also examine the impact that this change has had on 
+                liquidity for small and middle capitalization company 
+                securities and whether there is sufficient economic 
+                incentive to support trading operations in these 
+                securities in penny increments. Not later than 90 days 
+                after the date of enactment of this paragraph, the 
+                Commission shall submit to Congress a report on the 
+                findings of the study.
+                    ``(B) <<NOTE: Determination. Deadline.>>  
+                Designation.--If the Commission determines that the 
+                securities of emerging growth companies should be quoted 
+                and traded using a minimum increment of greater than 
+                $0.01, the Commission may, by rule not later than 180 
+                days after the date of enactment of this paragraph, 
+                designate a minimum increment for the securities of 
+                emerging growth companies that is greater than $0.01 but 
+                less than $0.10 for use in all quoting and trading of 
+                securities in any exchange or other execution venue.''.
+SEC. 107. <<NOTE: 15 USC 78c note.>> OPT-IN RIGHT FOR EMERGING 
+                        GROWTH COMPANIES.
+
+    (a) In General.--With respect to an exemption provided to emerging 
+growth companies under this title, or an amendment made by this title, 
+an emerging growth company may choose to
+
+[[Page 126 STAT. 313]]
+
+forgo such exemption and instead comply with the requirements that apply 
+to an issuer that is not an emerging growth company.
+    (b) Special Rule.--Notwithstanding subsection (a), with respect to 
+the extension of time to comply with new or revised financial accounting 
+standards provided under section 7(a)(2)(B) of the Securities Act of 
+1933 and section 13(a) of the Securities Exchange Act of 1934, as added 
+by section 102(b), if an emerging growth company chooses to comply with 
+such standards to the same extent that a non-emerging growth company is 
+required to comply with such standards, the emerging growth company--
+            (1) <<NOTE: Notification.>>  must make such choice at the 
+        time the company is first required to file a registration 
+        statement, periodic report, or other report with the Commission 
+        under section 13 of the Securities Exchange Act of 1934 and 
+        notify the Securities and Exchange Commission of such choice;
+            (2) may not select some standards to comply with in such 
+        manner and not others, but must comply with all such standards 
+        to the same extent that a non-emerging growth company is 
+        required to comply with such standards; and
+            (3) must continue to comply with such standards to the same 
+        extent that a non-emerging growth company is required to comply 
+        with such standards for as long as the company remains an 
+        emerging growth company.
+SEC. 108. REVIEW OF REGULATION S-K.
+
+    (a) Review.--The Securities and Exchange Commission shall conduct a 
+review of its Regulation S-K (17 CFR 229.10 et seq.) to--
+            (1) comprehensively analyze the current registration 
+        requirements of such regulation; and
+            (2) determine how such requirements can be updated to 
+        modernize and simplify the registration process and reduce the 
+        costs and other burdens associated with these requirements for 
+        issuers who are emerging growth companies.
+
+    (b) Report.--Not later than 180 days after the date of enactment of 
+this title, the Commission shall transmit to Congress a report of the 
+review conducted under subsection (a). The report shall include the 
+specific recommendations of the Commission on how to streamline the 
+registration process in order to make it more efficient and less 
+burdensome for the Commission and for prospective issuers who are 
+emerging growth companies.
+
+              TITLE II--ACCESS TO CAPITAL FOR JOB CREATORS
+
+SEC. 201. MODIFICATION OF EXEMPTION.
+
+    (a) <<NOTE: 15 USC 77d note.>>  Modification of Rules.--
+            (1) <<NOTE: Deadlines.>>  Not later than 90 days after the 
+        date of the enactment of this Act, the Securities and Exchange 
+        Commission shall revise its rules issued in section 230.506 of 
+        title 17, Code of Federal Regulations, to provide that the 
+        prohibition against general solicitation or general advertising 
+        contained in section 230.502(c) of such title shall not apply to 
+        offers and sales of securities made pursuant to section 230.506, 
+        provided that all purchasers of the securities are accredited 
+        investors. Such rules shall require the issuer to take 
+        reasonable steps to verify
+
+[[Page 126 STAT. 314]]
+
+        that purchasers of the securities are accredited investors, 
+        using such methods as determined by the Commission. Section 
+        230.506 of title 17, Code of Federal Regulations, as revised 
+        pursuant to this section, shall continue to be treated as a 
+        regulation issued under section 4(2) of the Securities Act of 
+        1933 (15 U.S.C. 77d(2)).
+            (2) Not later than 90 days after the date of enactment of 
+        this Act, the Securities and Exchange Commission shall revise 
+        subsection (d)(1) of section 230.144A of title 17, Code of 
+        Federal Regulations, to provide that securities sold under such 
+        revised exemption may be offered to persons other than qualified 
+        institutional buyers, including by means of general solicitation 
+        or general advertising, provided that securities are sold only 
+        to persons that the seller and any person acting on behalf of 
+        the seller reasonably believe is a qualified institutional 
+        buyer.
+
+    (b) Consistency in Interpretation.--Section 4 of the Securities Act 
+of 1933 (15 U.S.C. 77d) is amended--
+            (1) by striking ``The provisions of section 5'' and 
+        inserting ``(a) The provisions of section 5''; and
+            (2) by adding at the end the following:
+
+    ``(b) Offers and sales exempt under section 230.506 of title 17, 
+Code of Federal Regulations (as revised pursuant to section 201 of the 
+Jumpstart Our Business Startups Act) shall not be deemed public 
+offerings under the Federal securities laws as a result of general 
+advertising or general solicitation.''.
+    (c) Explanation of Exemption.--Section 4 of the Securities Act of 
+1933 (15 U.S.C. 77d) is amended--
+            (1) by striking ``The provisions of section 5'' and 
+        inserting ``(a) The provisions of section 5''; and
+            (2) by adding at the end the following:
+
+    ``(b)(1) With respect to securities offered and sold in compliance 
+with Rule 506 of Regulation D under this Act, no person who meets the 
+conditions set forth in paragraph (2) shall be subject to registration 
+as a broker or dealer pursuant to section 15(a)(1) of this title, solely 
+because--
+                    ``(A) that person maintains a platform or mechanism 
+                that permits the offer, sale, purchase, or negotiation 
+                of or with respect to securities, or permits general 
+                solicitations, general advertisements, or similar or 
+                related activities by issuers of such securities, 
+                whether online, in person, or through any other means;
+                    ``(B) that person or any person associated with that 
+                person co-invests in such securities; or
+                    ``(C) that person or any person associated with that 
+                person provides ancillary services with respect to such 
+                securities.
+
+    ``(2) <<NOTE: Applicability.>>  The exemption provided in paragraph 
+(1) shall apply to any person described in such paragraph if--
+            ``(A) such person and each person associated with that 
+        person receives no compensation in connection with the purchase 
+        or sale of such security;
+            ``(B) such person and each person associated with that 
+        person does not have possession of customer funds or securities 
+        in connection with the purchase or sale of such security; and
+            ``(C) such person is not subject to a statutory 
+        disqualification as defined in section 3(a)(39) of this title 
+        and does not
+
+[[Page 126 STAT. 315]]
+
+        have any person associated with that person subject to such a 
+        statutory disqualification.
+
+    ``(3) <<NOTE: Definition.>>  For the purposes of this subsection, 
+the term `ancillary services' means--
+            ``(A) the provision of due diligence services, in connection 
+        with the offer, sale, purchase, or negotiation of such security, 
+        so long as such services do not include, for separate 
+        compensation, investment advice or recommendations to issuers or 
+        investors; and
+            ``(B) the provision of standardized documents to the issuers 
+        and investors, so long as such person or entity does not 
+        negotiate the terms of the issuance for and on behalf of third 
+        parties and issuers are not required to use the standardized 
+        documents as a condition of using the service.''.
+
+TITLE <<NOTE: Capital Raising Online While Deterring Fraud and Unethical 
+Non-Disclosure Act of 2012. 15 USC 77a note.>>  III--CROWDFUNDING
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Capital Raising Online While 
+Deterring Fraud and Unethical Non-Disclosure Act of 2012'' or the 
+``CROWDFUND Act''.
+SEC. 302. CROWDFUNDING EXEMPTION.
+
+    (a) Securities Act of 1933.--Section 4 of the Securities Act of 1933 
+(15 U.S.C. 77d) is amended by adding at the end the following:
+            ``(6) transactions involving the offer or sale of securities 
+        by an issuer (including all entities controlled by or under 
+        common control with the issuer), provided that--
+                    ``(A) the aggregate amount sold to all investors by 
+                the issuer, including any amount sold in reliance on the 
+                exemption provided under this paragraph during the 12-
+                month period preceding the date of such transaction, is 
+                not more than $1,000,000;
+                    ``(B) the aggregate amount sold to any investor by 
+                an issuer, including any amount sold in reliance on the 
+                exemption provided under this paragraph during the 12-
+                month period preceding the date of such transaction, 
+                does not exceed--
+                          ``(i) the greater of $2,000 or 5 percent of 
+                      the annual income or net worth of such investor, 
+                      as applicable, if either the annual income or the 
+                      net worth of the investor is less than $100,000; 
+                      and
+                          ``(ii) 10 percent of the annual income or net 
+                      worth of such investor, as applicable, not to 
+                      exceed a maximum aggregate amount sold of 
+                      $100,000, if either the annual income or net worth 
+                      of the investor is equal to or more than $100,000;
+                    ``(C) the transaction is conducted through a broker 
+                or funding portal that complies with the requirements of 
+                section 4A(a); and
+                    ``(D) the issuer complies with the requirements of 
+                section 4A(b).''.
+
+    (b) Requirements To Qualify for Crowdfunding Exemption.--The 
+Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by inserting 
+after section 4 the following:
+
+[[Page 126 STAT. 316]]
+
+``SEC. 4A. <<NOTE: 15 USC 77d-1.>> REQUIREMENTS WITH RESPECT TO 
+                      CERTAIN SMALL TRANSACTIONS.
+
+    ``(a) <<NOTE: Regulations.>>  Requirements on Intermediaries.--A 
+person acting as an intermediary in a transaction involving the offer or 
+sale of securities for the account of others pursuant to section 4(6) 
+shall--
+            ``(1) register with the Commission as--
+                    ``(A) a broker; or
+                    ``(B) a funding portal (as defined in section 
+                3(a)(80) of the Securities Exchange Act of 1934);
+            ``(2) register with any applicable self-regulatory 
+        organization (as defined in section 3(a)(26) of the Securities 
+        Exchange Act of 1934);
+            ``(3) provide such disclosures, including disclosures 
+        related to risks and other investor education materials, as the 
+        Commission shall, by rule, determine appropriate;
+            ``(4) ensure that each investor--
+                    ``(A) reviews investor-education information, in 
+                accordance with standards established by the Commission, 
+                by rule;
+                    ``(B) positively affirms that the investor 
+                understands that the investor is risking the loss of the 
+                entire investment, and that the investor could bear such 
+                a loss; and
+                    ``(C) answers questions demonstrating--
+                          ``(i) an understanding of the level of risk 
+                      generally applicable to investments in startups, 
+                      emerging businesses, and small issuers;
+                          ``(ii) an understanding of the risk of 
+                      illiquidity; and
+                          ``(iii) an understanding of such other matters 
+                      as the Commission determines appropriate, by rule;
+            ``(5) take such measures to reduce the risk of fraud with 
+        respect to such transactions, as established by the Commission, 
+        by rule, including obtaining a background and securities 
+        enforcement regulatory history check on each officer, director, 
+        and person holding more than 20 percent of the outstanding 
+        equity of every issuer whose securities are offered by such 
+        person;
+            ``(6) <<NOTE: Deadline.>>  not later than 21 days prior to 
+        the first day on which securities are sold to any investor (or 
+        such other period as the Commission may establish), make 
+        available to the Commission and to potential investors any 
+        information provided by the issuer pursuant to subsection (b);
+            ``(7) ensure that all offering proceeds are only provided to 
+        the issuer when the aggregate capital raised from all investors 
+        is equal to or greater than a target offering amount, and allow 
+        all investors to cancel their commitments to invest, as the 
+        Commission shall, by rule, determine appropriate;
+            ``(8) <<NOTE: Time period.>>  make such efforts as the 
+        Commission determines appropriate, by rule, to ensure that no 
+        investor in a 12-month period has purchased securities offered 
+        pursuant to section 4(6) that, in the aggregate, from all 
+        issuers, exceed the investment limits set forth in section 
+        4(6)(B);
+            ``(9) <<NOTE: Confidentiality.>>  take such steps to protect 
+        the privacy of information collected from investors as the 
+        Commission shall, by rule, determine appropriate;
+
+[[Page 126 STAT. 317]]
+
+            ``(10) not compensate promoters, finders, or lead generators 
+        for providing the broker or funding portal with the personal 
+        identifying information of any potential investor;
+            ``(11) prohibit its directors, officers, or partners (or any 
+        person occupying a similar status or performing a similar 
+        function) from having any financial interest in an issuer using 
+        its services; and
+            ``(12) meet such other requirements as the Commission may, 
+        by rule, prescribe, for the protection of investors and in the 
+        public interest.
+
+    ``(b) Requirements for Issuers.--For purposes of section 4(6), an 
+issuer who offers or sells securities shall--
+            ``(1) file with the Commission and provide to investors and 
+        the relevant broker or funding portal, and make available to 
+        potential investors--
+                    ``(A) the name, legal status, physical address, and 
+                website address of the issuer;
+                    ``(B) the names of the directors and officers (and 
+                any persons occupying a similar status or performing a 
+                similar function), and each person holding more than 20 
+                percent of the shares of the issuer;
+                    ``(C) a description of the business of the issuer 
+                and the anticipated business plan of the issuer;
+                    ``(D) <<NOTE: Time period.>>  a description of the 
+                financial condition of the issuer, including, for 
+                offerings that, together with all other offerings of the 
+                issuer under section 4(6) within the preceding 12-month 
+                period, have, in the aggregate, target offering amounts 
+                of--
+                          ``(i) $100,000 or less--
+                                    ``(I) the income tax returns filed 
+                                by the issuer for the most recently 
+                                completed year (if any); and
+                                    ``(II) financial statements of the 
+                                issuer, which shall be certified by the 
+                                principal executive officer of the 
+                                issuer to be true and complete in all 
+                                material respects;
+                          ``(ii) more than $100,000, but not more than 
+                      $500,000, financial statements reviewed by a 
+                      public accountant who is independent of the 
+                      issuer, using professional standards and 
+                      procedures for such review or standards and 
+                      procedures established by the Commission, by rule, 
+                      for such purpose; and
+                          ``(iii) more than $500,000 (or such other 
+                      amount as the Commission may establish, by rule), 
+                      audited financial statements;
+                    ``(E) a description of the stated purpose and 
+                intended use of the proceeds of the offering sought by 
+                the issuer with respect to the target offering amount;
+                    ``(F) the target offering amount, the deadline to 
+                reach the target offering amount, and regular updates 
+                regarding the progress of the issuer in meeting the 
+                target offering amount;
+                    ``(G) the price to the public of the securities or 
+                the method for determining the price, provided that, 
+                prior to sale, each investor shall be provided in 
+                writing the final price and all required disclosures, 
+                with a reasonable opportunity to rescind the commitment 
+                to purchase the securities;
+
+[[Page 126 STAT. 318]]
+
+                    ``(H) a description of the ownership and capital 
+                structure of the issuer, including--
+                          ``(i) terms of the securities of the issuer 
+                      being offered and each other class of security of 
+                      the issuer, including how such terms may be 
+                      modified, and a summary of the differences between 
+                      such securities, including how the rights of the 
+                      securities being offered may be materially 
+                      limited, diluted, or qualified by the rights of 
+                      any other class of security of the issuer;
+                          ``(ii) a description of how the exercise of 
+                      the rights held by the principal shareholders of 
+                      the issuer could negatively impact the purchasers 
+                      of the securities being offered;
+                          ``(iii) the name and ownership level of each 
+                      existing shareholder who owns more than 20 percent 
+                      of any class of the securities of the issuer;
+                          ``(iv) how the securities being offered are 
+                      being valued, and examples of methods for how such 
+                      securities may be valued by the issuer in the 
+                      future, including during subsequent corporate 
+                      actions; and
+                          ``(v) the risks to purchasers of the 
+                      securities relating to minority ownership in the 
+                      issuer, the risks associated with corporate 
+                      actions, including additional issuances of shares, 
+                      a sale of the issuer or of assets of the issuer, 
+                      or transactions with related parties; and
+                    ``(I) such other information as the Commission may, 
+                by rule, prescribe, for the protection of investors and 
+                in the public interest;
+            ``(2) not advertise the terms of the offering, except for 
+        notices which direct investors to the funding portal or broker;
+            ``(3) not compensate or commit to compensate, directly or 
+        indirectly, any person to promote its offerings through 
+        communication channels provided by a broker or funding portal, 
+        without taking such steps as the Commission shall, by rule, 
+        require to ensure that such person clearly discloses the 
+        receipt, past or prospective, of such compensation, upon each 
+        instance of such promotional communication;
+            ``(4) <<NOTE: Deadline. Reports.>>  not less than annually, 
+        file with the Commission and provide to investors reports of the 
+        results of operations and financial statements of the issuer, as 
+        the Commission shall, by rule, determine appropriate, subject to 
+        such exceptions and termination dates as the Commission may 
+        establish, by rule; and
+            ``(5) comply with such other requirements as the Commission 
+        may, by rule, prescribe, for the protection of investors and in 
+        the public interest.
+
+    ``(c) Liability for Material Misstatements and Omissions.--
+            ``(1) Actions authorized.--
+                    ``(A) In general.--Subject to paragraph (2), a 
+                person who purchases a security in a transaction 
+                exempted by the provisions of section 4(6) may bring an 
+                action against an issuer described in paragraph (2), 
+                either at law or in equity in any court of competent 
+                jurisdiction, to recover the consideration paid for such 
+                security with interest thereon, less the amount of any 
+                income received thereon, upon the tender of such 
+                security, or for damages if such person no longer owns 
+                the security.
+
+[[Page 126 STAT. 319]]
+
+                    ``(B) Liability.--An action brought under this 
+                paragraph shall be subject to the provisions of section 
+                12(b) and section 13, as if the liability were created 
+                under section 12(a)(2).
+            ``(2) Applicability.--An issuer shall be liable in an action 
+        under paragraph (1), if the issuer--
+                    ``(A) by the use of any means or instruments of 
+                transportation or communication in interstate commerce 
+                or of the mails, by any means of any written or oral 
+                communication, in the offering or sale of a security in 
+                a transaction exempted by the provisions of section 
+                4(6), makes an untrue statement of a material fact or 
+                omits to state a material fact required to be stated or 
+                necessary in order to make the statements, in the light 
+                of the circumstances under which they were made, not 
+                misleading, provided that the purchaser did not know of 
+                such untruth or omission; and
+                    ``(B) does not sustain the burden of proof that such 
+                issuer did not know, and in the exercise of reasonable 
+                care could not have known, of such untruth or omission.
+            ``(3) Definition.--As used in this subsection, the term 
+        `issuer' includes any person who is a director or partner of the 
+        issuer, and the principal executive officer or officers, 
+        principal financial officer, and controller or principal 
+        accounting officer of the issuer (and any person occupying a 
+        similar status or performing a similar function) that offers or 
+        sells a security in a transaction exempted by the provisions of 
+        section 4(6), and any person who offers or sells the security in 
+        such offering.
+
+    ``(d) Information Available to States.--The Commission shall make, 
+or shall cause to be made by the relevant broker or funding portal, the 
+information described in subsection (b) and such other information as 
+the Commission, by rule, determines appropriate, available to the 
+securities commission (or any agency or office performing like 
+functions) of each State and territory of the United States and the 
+District of Columbia.
+    ``(e) Restrictions on Sales.--Securities issued pursuant to a 
+transaction described in section 4(6)--
+            ``(1) <<NOTE: Time period.>>  may not be transferred by the 
+        purchaser of such securities during the 1-year period beginning 
+        on the date of purchase, unless such securities are 
+        transferred--
+                    ``(A) to the issuer of the securities;
+                    ``(B) to an accredited investor;
+                    ``(C) as part of an offering registered with the 
+                Commission; or
+                    ``(D) to a member of the family of the purchaser or 
+                the equivalent, or in connection with the death or 
+                divorce of the purchaser or other similar circumstance, 
+                in the discretion of the Commission; and
+            ``(2) shall be subject to such other limitations as the 
+        Commission shall, by rule, establish.
+
+    ``(f) Applicability.--Section 4(6) shall not apply to transactions 
+involving the offer or sale of securities by any issuer that--
+            ``(1) is not organized under and subject to the laws of a 
+        State or territory of the United States or the District of 
+        Columbia;
+
+[[Page 126 STAT. 320]]
+
+            ``(2) is subject to the requirement to file reports pursuant 
+        to section 13 or section 15(d) of the Securities Exchange Act of 
+        1934;
+            ``(3) is an investment company, as defined in section 3 of 
+        the Investment Company Act of 1940, or is excluded from the 
+        definition of investment company by section 3(b) or section 3(c) 
+        of that Act; or
+            ``(4) the Commission, by rule or regulation, determines 
+        appropriate.
+
+    ``(g) Rule of Construction.--Nothing in this section or section 4(6) 
+shall be construed as preventing an issuer from raising capital through 
+methods not described under section 4(6).
+    ``(h) Certain Calculations.--
+            ``(1) <<NOTE: Time period. Notice. Federal Register, 
+        publication.>>  Dollar amounts.--Dollar amounts in section 4(6) 
+        and subsection (b) of this section shall be adjusted by the 
+        Commission not less frequently than once every 5 years, by 
+        notice published in the Federal Register to reflect any change 
+        in the Consumer Price Index for All Urban Consumers published by 
+        the Bureau of Labor Statistics.
+            ``(2) Income and net worth.--The income and net worth of a 
+        natural person under section 4(6)(B) shall be calculated in 
+        accordance with any rules of the Commission under this title 
+        regarding the calculation of the income and net worth, 
+        respectively, of an accredited investor.''.
+
+    (c) <<NOTE: Deadline. 15 USC 77d note.>>  Rulemaking.--Not later 
+than 270 days after the date of enactment of this Act, the Securities 
+and Exchange Commission (in this title referred to as the 
+``Commission'') shall issue such rules as the Commission determines may 
+be necessary or appropriate for the protection of investors to carry out 
+sections 4(6) and section 4A of the Securities Act of 1933, as added by 
+this title. <<NOTE: Consultation.>> In carrying out this section, the 
+Commission shall consult with any securities commission (or any agency 
+or office performing like functions) of the States, any territory of the 
+United States, and the District of Columbia, which seeks to consult with 
+the Commission, and with any applicable national securities association.
+
+    (d) <<NOTE: 15 USC 77d note.>>  Disqualification.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 270 
+        days after the date of enactment of this Act, the Commission 
+        shall, by rule, establish disqualification provisions under 
+        which--
+                    (A) an issuer shall not be eligible to offer 
+                securities pursuant to section 4(6) of the Securities 
+                Act of 1933, as added by this title; and
+                    (B) a broker or funding portal shall not be eligible 
+                to effect or participate in transactions pursuant to 
+                that section 4(6).
+            (2) Inclusions.--Disqualification provisions required by 
+        this subsection shall--
+                    (A) be substantially similar to the provisions of 
+                section 230.262 of title 17, Code of Federal Regulations 
+                (or any successor thereto); and
+                    (B) disqualify any offering or sale of securities by 
+                a person that--
+                          (i) is subject to a final order of a State 
+                      securities commission (or an agency or officer of 
+                      a State performing like functions), a State 
+                      authority that supervises or examines banks, 
+                      savings associations, or credit unions, a State 
+                      insurance commission (or an agency
+
+[[Page 126 STAT. 321]]
+
+                      or officer of a State performing like functions), 
+                      an appropriate Federal banking agency, or the 
+                      National Credit Union Administration, that--
+                                    (I) bars the person from--
+                                            (aa) association with an 
+                                        entity regulated by such 
+                                        commission, authority, agency, 
+                                        or officer;
+                                            (bb) engaging in the 
+                                        business of securities, 
+                                        insurance, or banking; or
+                                            (cc) engaging in savings 
+                                        association or credit union 
+                                        activities; or
+                                    (II) constitutes a final order based 
+                                on a violation of any law or regulation 
+                                that prohibits fraudulent, manipulative, 
+                                or deceptive conduct within the 10-year 
+                                period ending on the date of the filing 
+                                of the offer or sale; or
+                          (ii) has been convicted of any felony or 
+                      misdemeanor in connection with the purchase or 
+                      sale of any security or involving the making of 
+                      any false filing with the Commission.
+SEC. 303. EXCLUSION OF CROWDFUNDING INVESTORS FROM SHAREHOLDER 
+                        CAP.
+
+    (a) Exemption.--Section 12(g) of the Securities Exchange Act of 1934 
+(15 U.S.C. 78l(g)) is amended by adding at the end the following:
+            ``(6) Exclusion for persons holding certain securities.--
+        The <<NOTE: Regulations.>> Commission shall, by rule, exempt, 
+        conditionally or unconditionally, securities acquired pursuant 
+        to an offering made under section 4(6) of the Securities Act of 
+        1933 from the provisions of this subsection.''.
+
+    (b) Rulemaking.--The Commission shall issue a rule to carry out 
+section 12(g)(6) of the Securities Exchange Act of <<NOTE: 15 USC 78l 
+note.>> 1934 (15 U.S.C. 78c), as added by this section, not later than 
+270 days after the date of enactment of this Act.
+SEC. 304. FUNDING PORTAL REGULATION.
+
+    (a) Exemption.--
+            (1) In general.--Section 3 of the Securities Exchange Act of 
+        1934 (15 U.S.C. 78c) is amended by adding at the end the 
+        following:
+
+    ``(h) Limited Exemption for Funding Portals.--
+            ``(1) In general.--The Commission shall, by rule, exempt, 
+        conditionally or unconditionally, a registered funding portal 
+        from the requirement to register as a broker or dealer under 
+        section 15(a)(1), provided that such funding portal--
+                    ``(A) remains subject to the examination, 
+                enforcement, and other rulemaking authority of the 
+                Commission;
+                    ``(B) is a member of a national securities 
+                association registered under section 15A; and
+                    ``(C) is subject to such other requirements under 
+                this title as the Commission determines appropriate 
+                under such rule.
+            ``(2) <<NOTE: Definition.>>  National securities association 
+        membership.--For purposes of sections 15(b)(8) and 15A, the term 
+        `broker or dealer' includes a funding portal and the term 
+        `registered broker or dealer' includes a registered funding 
+        portal, except to the extent that the Commission, by rule, 
+        determines otherwise,
+
+[[Page 126 STAT. 322]]
+
+        provided that a national securities association shall only 
+        examine for and enforce against a registered funding portal 
+        rules of such national securities association written 
+        specifically for registered funding portals.''.
+            (2) <<NOTE: Deadline. 15 USC 78c note.>>  Rulemaking.--The 
+        Commission shall issue a rule to carry out section 3(h) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78c), as added by 
+        this subsection, not later than 270 days after the date of 
+        enactment of this Act.
+
+    (b) Definition.--Section 3(a) of the Securities Exchange Act of 1934 
+(15 U.S.C. 78c(a)) is amended by adding at the end the following:
+            ``(80) Funding portal.--The term `funding portal' means any 
+        person acting as an intermediary in a transaction involving the 
+        offer or sale of securities for the account of others, solely 
+        pursuant to section 4(6) of the Securities Act of 1933 (15 
+        U.S.C. 77d(6)), that does not--
+                    ``(A) offer investment advice or recommendations;
+                    ``(B) solicit purchases, sales, or offers to buy the 
+                securities offered or displayed on its website or 
+                portal;
+                    ``(C) compensate employees, agents, or other persons 
+                for such solicitation or based on the sale of securities 
+                displayed or referenced on its website or portal;
+                    ``(D) hold, manage, possess, or otherwise handle 
+                investor funds or securities; or
+                    ``(E) engage in such other activities as the 
+                Commission, by rule, determines appropriate.''.
+SEC. 305. RELATIONSHIP WITH STATE LAW.
+
+    (a) In General.--Section 18(b)(4) of the Securities Act of 1933 (15 
+U.S.C. 77r(b)(4)) is amended--
+            (1) by redesignating subparagraphs (C) and (D) as 
+        subparagraphs (D) and (E), respectively; and
+            (2) by inserting after subparagraph (B) the following:
+                    ``(C) section 4(6);''.
+
+    (b) Clarification of the Preservation of State Enforcement 
+Authority.--
+            (1) <<NOTE: 15 USC 77r note.>>  In general.--The amendments 
+        made by subsection (a) relate solely to State registration, 
+        documentation, and offering requirements, as described under 
+        section 18(a) of Securities Act of 1933 (15 U.S.C. 77r(a)), and 
+        shall have no impact or limitation on other State authority to 
+        take enforcement action with regard to an issuer, funding 
+        portal, or any other person or entity using the exemption from 
+        registration provided by section 4(6) of that Act.
+            (2) Clarification of state jurisdiction over unlawful 
+        conduct of funding portals and issuers.--Section 18(c)(1) of the 
+        Securities Act of 1933 (15 U.S.C. 77r(c)(1)) is amended by 
+        striking ``with respect to fraud or deceit, or unlawful conduct 
+        by a broker or dealer, in connection with securities or 
+        securities transactions.'' and inserting the following: ``, in 
+        connection with securities or securities transactions
+                    ``(A) with respect to--
+                          ``(i) fraud or deceit; or
+                          ``(ii) unlawful conduct by a broker or dealer; 
+                      and
+                    ``(B) in connection to a transaction described under 
+                section 4(6), with respect to--
+                          ``(i) fraud or deceit; or
+
+[[Page 126 STAT. 323]]
+
+                          ``(ii) unlawful conduct by a broker, dealer, 
+                      funding portal, or issuer.''.
+
+    (c) Notice Filings Permitted.--Section 18(c)(2) of the Securities 
+Act of 1933 (15 U.S.C. 77r(c)(2)) is amended by adding at the end the 
+following:
+                    ``(F) Fees not permitted on crowdfunded 
+                securities.--Notwithstanding <<NOTE: Definition.>> subpar
+                agraphs (A), (B), and (C), no filing or fee may be 
+                required with respect to any security that is a covered 
+                security pursuant to subsection (b)(4)(B), or will be 
+                such a covered security upon completion of the 
+                transaction, except for the securities commission (or 
+                any agency or office performing like functions) of the 
+                State of the principal place of business of the issuer, 
+                or any State in which purchasers of 50 percent or 
+                greater of the aggregate amount of the issue are 
+                residents, provided that for purposes of this 
+                subparagraph, the term `State' includes the District of 
+                Columbia and the territories of the United States.''.
+
+    (d) Funding Portals.--
+            (1) State exemptions and oversight.--Section 15(i) of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78o(i)) is amended--
+                    (A) by redesignating paragraphs (2) and (3) as 
+                paragraphs (3) and (4), respectively; and
+                    (B) by inserting after paragraph (1) the following:
+            ``(2) Funding portals.--
+                    ``(A) Limitation on state laws.--Except as provided 
+                in subparagraph (B), no State or political subdivision 
+                thereof may enforce any law, rule, regulation, or other 
+                administrative action against a registered funding 
+                portal with respect to its business as such.
+                    ``(B) Examination and enforcement authority.--
+                Subparagraph (A) does not apply with respect to the 
+                examination and enforcement of any law, rule, 
+                regulation, or administrative action of a State or 
+                political subdivision thereof in which the principal 
+                place of business of a registered funding portal is 
+                located, provided that such law, rule, regulation, or 
+                administrative action is not in addition to or different 
+                from the requirements for registered funding portals 
+                established by the Commission.
+                    ``(C) Definition.--For purposes of this paragraph, 
+                the term `State' includes the District of Columbia and 
+                the territories of the United States.''.
+            (2) State fraud authority.--Section 18(c)(1) of the 
+        Securities Act of 1933 (15 U.S.C. 77r(c)(1)) is amended by 
+        striking ``or dealer'' and inserting ``, dealer, or funding 
+        portal''.
+
+                TITLE IV--SMALL COMPANY CAPITAL FORMATION
+
+SEC. 401. AUTHORITY TO EXEMPT CERTAIN SECURITIES.
+
+    (a) In General.--Section 3(b) of the Securities Act of 1933 (15 
+U.S.C. 77c(b)) is amended--
+            (1) by striking ``(b) The Commission'' and inserting the 
+        following:
+
+    ``(b) Additional Exemptions.--
+
+[[Page 126 STAT. 324]]
+
+            ``(1) Small issues exemptive authority.--The Commission''; 
+        and
+            (2) by adding at the end the following:
+            ``(2) <<NOTE: Regulations.>>  Additional issues.--The 
+        Commission shall by rule or regulation add a class of securities 
+        to the securities exempted pursuant to this section in 
+        accordance with the following terms and conditions:
+                    ``(A) <<NOTE: Time period.>>  The aggregate offering 
+                amount of all securities offered and sold within the 
+                prior 12-month period in reliance on the exemption added 
+                in accordance with this paragraph shall not exceed 
+                $50,000,000.
+                    ``(B) The securities may be offered and sold 
+                publicly.
+                    ``(C) The securities shall not be restricted 
+                securities within the meaning of the Federal securities 
+                laws and the regulations promulgated thereunder.
+                    ``(D) <<NOTE: Applicability.>>  The civil liability 
+                provision in section 12(a)(2) shall apply to any person 
+                offering or selling such securities.
+                    ``(E) The issuer may solicit interest in the 
+                offering prior to filing any offering statement, on such 
+                terms and conditions as the Commission may prescribe in 
+                the public interest or for the protection of investors.
+                    ``(F) <<NOTE: Records.>>  The Commission shall 
+                require the issuer to file audited financial statements 
+                with the Commission annually.
+                    ``(G) Such other terms, conditions, or requirements 
+                as the Commission may determine necessary in the public 
+                interest and for the protection of investors, which may 
+                include--
+                          ``(i) a requirement that the issuer prepare 
+                      and electronically file with the Commission and 
+                      distribute to prospective investors an offering 
+                      statement, and any related documents, in such form 
+                      and with such content as prescribed by the 
+                      Commission, including audited financial 
+                      statements, a description of the issuer's business 
+                      operations, its financial condition, its corporate 
+                      governance principles, its use of investor funds, 
+                      and other appropriate matters; and
+                          ``(ii) disqualification provisions under which 
+                      the exemption shall not be available to the issuer 
+                      or its predecessors, affiliates, officers, 
+                      directors, underwriters, or other related persons, 
+                      which shall be substantially similar to the 
+                      disqualification provisions contained in the 
+                      regulations adopted in accordance with section 926 
+                      of the Dodd-Frank Wall Street Reform and Consumer 
+                      Protection Act (15 U.S.C. 77d note).
+            ``(3) Limitation.--Only the following types of securities 
+        may be exempted under a rule or regulation adopted pursuant to 
+        paragraph (2): equity securities, debt securities, and debt 
+        securities convertible or exchangeable to equity interests, 
+        including any guarantees of such securities.
+            ``(4) Periodic disclosures.--Upon such terms and conditions 
+        as the Commission determines necessary in the public interest 
+        and for the protection of investors, the Commission by rule or 
+        regulation may require an issuer of a class of securities 
+        exempted under paragraph (2) to make available to investors and 
+        file with the Commission periodic disclosures regarding the 
+        issuer, its business operations, its financial condition, its
+
+[[Page 126 STAT. 325]]
+
+        corporate governance principles, its use of investor funds, and 
+        other appropriate matters, and also may provide for the 
+        suspension and termination of such a requirement with respect to 
+        that issuer.
+            ``(5) <<NOTE: Deadlines. Review.>>  Adjustment.--Not later 
+        than 2 years after the date of enactment of the Small Company 
+        Capital Formation Act of 2011 and every 2 years thereafter, the 
+        Commission shall review the offering amount limitation described 
+        in paragraph (2)(A) and shall increase such amount as the 
+        Commission determines appropriate. If the Commission determines 
+        not to increase such amount, it shall report to the Committee on 
+        Financial Services of the House of Representatives and the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        on its reasons for not increasing the amount.''.
+
+    (b) Treatment as Covered Securities for Purposes of NSMIA.--Section 
+18(b)(4) of the Securities Act of 1933 (as amended by section 303) (15 
+U.S.C. 77r(b)(4)) is further amended by inserting after subparagraph (C) 
+(as added by such section) the following:
+                    ``(D) a rule or regulation adopted pursuant to 
+                section 3(b)(2) and such security is--
+                          ``(i) offered or sold on a national securities 
+                      exchange; or
+                          ``(ii) offered or sold to a qualified 
+                      purchaser, as defined by the Commission pursuant 
+                      to paragraph (3) with respect to that purchase or 
+                      sale;''.
+
+    (c) Conforming Amendment.--Section 4(5) of the Securities Act of 
+1933 <<NOTE: 15 USC 77d.>> is amended by striking ``section 3(b)'' and 
+inserting ``section 3(b)(1)''.
+SEC. 402. STUDY ON THE IMPACT OF STATE BLUE SKY LAWS ON REGULATION 
+                        A OFFERINGS.
+
+    The Comptroller General shall conduct a study on the impact of State 
+laws regulating securities offerings, or ``Blue Sky laws'', on offerings 
+made under Regulation A (17 CFR 230.251 et seq.). 
+The <<NOTE: Reports. Deadline.>> Comptroller General shall transmit a 
+report on the findings of the study to the Committee on Financial 
+Services of the House of Representatives, and the Committee on Banking, 
+Housing, and Urban Affairs of the Senate not later than 3 months after 
+the date of enactment of this Act.
+
+             TITLE V--PRIVATE COMPANY FLEXIBILITY AND GROWTH
+
+SEC. 501. THRESHOLD FOR REGISTRATION.
+
+    Section 12(g)(1)(A) of the Securities Exchange Act of 1934 (15 
+U.S.C. 78l(g)(1)(A)) is amended to read as follows:
+            ``(A) <<NOTE: Time period.>>  within 120 days after the last 
+        day of its first fiscal year ended on which the issuer has total 
+        assets exceeding $10,000,000 and a class of equity security 
+        (other than an exempted security) held of record by either--
+            ``(i) 2,000 persons, or
+            ``(ii) 500 persons who are not accredited investors (as such 
+        term is defined by the Commission), and''.
+
+[[Page 126 STAT. 326]]
+
+SEC. 502. EMPLOYEES.
+
+    Section 12(g)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78l(g)(5)), as amended by section 302, is amended in subparagraph (A) by 
+adding at the end the following: ``For purposes of determining whether 
+an issuer is required to register a security with the Commission 
+pursuant to paragraph (1), the definition of `held of record' shall not 
+include securities held by persons who received the securities pursuant 
+to an employee compensation plan in transactions exempted from the 
+registration requirements of section 5 of the Securities Act of 1933.''.
+SEC. 503. <<NOTE: 15 USC 78l note.>> COMMISSION RULEMAKING.
+
+    The Securities and Exchange Commission shall revise the definition 
+of ``held of record'' pursuant to section 12(g)(5) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78l(g)(5)) to implement the amendment 
+made by section 502. The Commission shall also adopt safe harbor 
+provisions that issuers can follow when determining whether holders of 
+their securities received the securities pursuant to an employee 
+compensation plan in transactions that were exempt from the registration 
+requirements of section 5 of the Securities Act of 1933.
+SEC. 504. COMMISSION STUDY OF ENFORCEMENT AUTHORITY UNDER RULE 
+                        12G5-1.
+
+    The <<NOTE: Deadline. Recommenda- tions.>> Securities and Exchange 
+Commission shall examine its authority to enforce Rule 12g5-1 to 
+determine if new enforcement tools are needed to enforce the anti-
+evasion provision contained in subsection (b)(3) of the rule, and shall, 
+not later than 120 days after the date of enactment of this Act transmit 
+its recommendations to Congress.
+
+                       TITLE VI--CAPITAL EXPANSION
+
+SEC. 601. SHAREHOLDER THRESHOLD FOR REGISTRATION.
+
+    (a) Amendments to Section 12 of the Securities Exchange Act of 
+1934.--Section 12(g) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78l(g)) is further amended--
+            (1) in paragraph (1), by amending subparagraph (B) to read 
+        as follows:
+            ``(B) <<NOTE: Deadline.>>  in the case of an issuer that is 
+        a bank or a bank holding company, as such term is defined in 
+        section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 
+        1841), not later than 120 days after the last day of its first 
+        fiscal year ended after the effective date of this subsection, 
+        on which the issuer has total assets exceeding $10,000,000 and a 
+        class of equity security (other than an exempted security) held 
+        of record by 2,000 or more persons,''; and
+            (2) in paragraph (4), by striking ``three hundred'' and 
+        inserting ``300 persons, or, in the case of a bank or a bank 
+        holding company, as such term is defined in section 2 of the 
+        Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1,200 
+        persons''.
+
+    (b) Amendments to Section 15 of the Securities Exchange Act of 
+1934.--Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o(d)) is amended, in the third sentence, by striking ``three hundred'' 
+and inserting ``300 persons, or, in the case of bank or a bank holding 
+company, as such term is defined
+
+[[Page 126 STAT. 327]]
+
+in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), 
+1,200 persons''.
+SEC. 602. <<NOTE: Deadline. 15 USC 78l note.>> RULEMAKING.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Securities and Exchange Commission shall issue final regulations to 
+implement this title and the amendments made by this title.
+
+                TITLE VII--OUTREACH ON CHANGES TO THE LAW
+
+SEC. 701. <<NOTE: Web posting. Small 
+                        business. Women. Veterans. Minorities. 15 
+                        USC 78d note.>> OUTREACH BY THE 
+                        COMMISSION.
+
+    The Securities and Exchange Commission shall provide online 
+information and conduct outreach to inform small and medium sized 
+businesses, women owned businesses, veteran owned businesses, and 
+minority owned businesses of the changes made by this Act.
+
+    Approved April 5, 2012.
+
+LEGISLATIVE HISTORY--H.R. 3606:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 112-406 and Pt. 2 (Comm. on Financial Services).
+CONGRESSIONAL RECORD, Vol. 158 (2012):
+            Mar. 7, 8, considered and passed House.
+            Mar. 15, 19-22, considered and passed Senate, amended.
+            Mar. 27, House concurred in Senate amendment.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2012):
+            Apr. 5, Presidential remarks.
+
+                                  
+

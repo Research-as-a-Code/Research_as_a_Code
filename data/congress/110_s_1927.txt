@@ -1,0 +1,352 @@
+
+[110th Congress Public Law 55]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ055.110]
+
+[[Page 551]]
+
+                       PROTECT AMERICA ACT OF 2007
+
+[[Page 121 STAT. 552]]
+
+Public Law 110-55
+110th Congress
+
+                                 An Act
+
+
+ 
+ To amend the Foreign Intelligence Surveillance Act of 1978 to provide 
+ additional procedures for authorizing certain acquisitions of foreign 
+    intelligence information and for other purposes. <<NOTE: Aug. 5, 
+                          2007 -  [S. 1927]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Protect America Act of 
+2007. 50 USC 1801 note.>> assembled,
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protect America Act of 2007''.
+SEC. 2. ADDITIONAL PROCEDURE FOR AUTHORIZING CERTAIN ACQUISITIONS 
+                    OF FOREIGN INTELLIGENCE INFORMATION.
+
+    The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et 
+seq.) is amended by inserting after section 105 the following:
+
+
+``CLARIFICATION OF ELECTRONIC SURVEILLANCE OF PERSONS OUTSIDE THE UNITED 
+                                 STATES
+
+
+    ``Sec. 105A.  <<NOTE: 50 USC 1805a.>> Nothing in the definition of 
+electronic surveillance under section 101(f) shall be construed to 
+encompass surveillance directed at a person reasonably believed to be 
+located outside of the United States.
+
+
+ ``ADDITIONAL PROCEDURE FOR AUTHORIZING CERTAIN ACQUISITIONS CONCERNING 
+                PERSONS LOCATED OUTSIDE THE UNITED STATES
+
+
+    ``Sec. 105B.  <<NOTE: 50 USC 1805b.>> (a) Notwithstanding any other 
+law, the Director of National Intelligence and the Attorney General, may 
+for periods of up to one year authorize the acquisition of foreign 
+intelligence information concerning persons reasonably believed to be 
+outside the United States if the Director of National Intelligence and 
+the Attorney General determine, based on the information provided to 
+them, that--
+            ``(1) there are reasonable procedures in place for 
+        determining that the acquisition of foreign intelligence 
+        information under this section concerns persons reasonably 
+        believed to be located outside the United States, and such 
+        procedures will be subject to review of the Court pursuant to 
+        section 105C of this Act;
+            ``(2) the acquisition does not constitute electronic 
+        surveillance;
+            ``(3) the acquisition involves obtaining the foreign 
+        intelligence information from or with the assistance of a 
+        communications service provider, custodian, or other person 
+        (including any officer, employee, agent, or other specified 
+        person of such service provider, custodian, or other person) who 
+        has access
+
+[[Page 121 STAT. 553]]
+
+        to communications, either as they are transmitted or while they 
+        are stored, or equipment that is being or may be used to 
+        transmit or store such communications;
+            ``(4) a significant purpose of the acquisition is to obtain 
+        foreign intelligence information; and
+            ``(5) the minimization procedures to be used with respect to 
+        such acquisition activity meet the definition of minimization 
+        procedures under section 101(h).
+
+    ``This <<NOTE: Certification.>>  determination shall be in the form 
+of a written certification, under oath, supported as appropriate by 
+affidavit of appropriate officials in the national security field 
+occupying positions appointed by the President, by and with the consent 
+of the Senate, or the Head of any Agency of the Intelligence Community, 
+unless immediate action by the Government is required and time does not 
+permit the preparation of a certification. In such a case, the 
+determination of the Director of National Intelligence and the Attorney 
+General shall be reduced to a certification as soon as possible but in 
+no event more than 72 hours after the determination is made.
+
+    ``(b) A certification under subsection (a) is not required to 
+identify the specific facilities, places, premises, or property at which 
+the acquisition of foreign intelligence information will be directed.
+    ``(c) The <<NOTE: Records.>>  Attorney General shall transmit as 
+soon as practicable under seal to the court established under section 
+103(a) a copy of a certification made under subsection (a). Such 
+certification shall be maintained under security measures established by 
+the Chief Justice of the United States and the Attorney General, in 
+consultation with the Director of National Intelligence, and shall 
+remain sealed unless the certification is necessary to determine the 
+legality of the acquisition under section 105B.
+
+    ``(d) An acquisition under this section may be conducted only in 
+accordance with the certification of the Director of National 
+Intelligence and the Attorney General, or their oral instructions if 
+time does not permit the preparation of a certification, and the 
+minimization procedures adopted by the Attorney 
+General. <<NOTE: Reports.>> The Director of National Intelligence and 
+the Attorney General shall assess compliance with such procedures and 
+shall report such assessments to the Permanent Select Committee on 
+Intelligence of the House of Representatives and the Select Committee on 
+Intelligence of the Senate under section 108(a).
+
+    ``(e) With respect to an authorization of an acquisition under 
+section 105B, the Director of National Intelligence and Attorney General 
+may direct a person to--
+            ``(1) immediately provide the Government with all 
+        information, facilities, and assistance necessary to accomplish 
+        the acquisition in such a manner as will protect the secrecy of 
+        the acquisition and produce a minimum of interference with the 
+        services that such person is providing to the target; and
+            ``(2) maintain under security procedures approved by the 
+        Attorney General and the Director of National Intelligence any 
+        records concerning the acquisition or the aid furnished that 
+        such person wishes to maintain.
+
+    ``(f) The Government shall compensate, at the prevailing rate, a 
+person for providing information, facilities, or assistance pursuant to 
+subsection (e).
+    ``(g) In the case of a failure to comply with a directive issued 
+pursuant to subsection (e), the Attorney General may invoke the
+
+[[Page 121 STAT. 554]]
+
+aid of the court established under section 103(a) to compel compliance 
+with the directive. <<NOTE: Courts.>>  The court shall issue an order 
+requiring the person to comply with the directive if it finds that the 
+directive was issued in accordance with subsection (e) and is otherwise 
+lawful. Failure to obey an order of the court may be punished by the 
+court as contempt of court. Any process under this section may be served 
+in any judicial district in which the person may be found.
+
+    ``(h)(1)(A) A person receiving a directive issued pursuant to 
+subsection (e) may challenge the legality of that directive by filing a 
+petition with the pool established under section 103(e)(1).
+    ``(B) <<NOTE: Petitions.>> The presiding judge designated pursuant 
+to section 103(b) shall assign a petition filed under subparagraph (A) 
+to one of the judges serving in the pool established by section 
+103(e)(1). Not <<NOTE: Deadline.>> later than 48 hours after the 
+assignment of such petition, the assigned judge shall conduct an initial 
+review of the directive. If the assigned judge determines that the 
+petition is frivolous, the assigned judge shall immediately deny the 
+petition and affirm the directive or any part of the directive that is 
+the subject of the petition. <<NOTE: Deadline. Records.>> If the 
+assigned judge determines the petition is not frivolous, the assigned 
+judge shall, within 72 hours, consider the petition in accordance with 
+the procedures established under section 103(e)(2) and provide a written 
+statement for the record of the reasons for any determination under this 
+subsection.
+
+    ``(2) A judge considering a petition to modify or set aside a 
+directive may grant such petition only if the judge finds that such 
+directive does not meet the requirements of this section or is otherwise 
+unlawful. If the judge does not modify or set aside the directive, the 
+judge shall immediately affirm such directive, and order the recipient 
+to comply with such directive.
+    ``(3) Any directive not explicitly modified or set aside under this 
+subsection shall remain in full effect.
+    ``(i) <<NOTE: Deadline.>> The Government or a person receiving a 
+directive reviewed pursuant to subsection (h) may file a petition with 
+the Court of Review established under section 103(b) for review of the 
+decision issued pursuant to subsection (h) not later than 7 days after 
+the issuance of such decision. <<NOTE: Records.>> Such court of review 
+shall have jurisdiction to consider such petitions and shall provide for 
+the record a written statement of the reasons for its decision. On 
+petition for a writ of certiorari by the Government or any person 
+receiving such directive, the record shall be transmitted under seal to 
+the Supreme Court, which shall have jurisdiction to review such 
+decision.
+
+    ``(j) Judicial proceedings under this section shall be concluded as 
+expeditiously as possible. <<NOTE: Records.>> The record of proceedings, 
+including petitions filed, orders granted, and statements of reasons for 
+decision, shall be maintained under security measures established by the 
+Chief Justice of the United States, in consultation with the Attorney 
+General and the Director of National Intelligence.
+
+    ``(k) <<NOTE: Petitions.>> All petitions under this section shall be 
+filed under seal. In any proceedings under this section, the court 
+shall, upon request of the Government, review ex parte and in camera any 
+Government submission, or portions of a submission, which may include 
+classified information.
+
+    ``(l) Notwithstanding any other law, no cause of action shall lie in 
+any court against any person for providing any information,
+
+[[Page 121 STAT. 555]]
+
+facilities, or assistance in accordance with a directive under this 
+section.
+    ``(m) <<NOTE: Records.>> A directive made or an order granted under 
+this section shall be retained for a period of not less than 10 years 
+from the date on which such directive or such order is made.''.
+SEC. 3. SUBMISSION TO COURT REVIEW AND ASSESSMENT OF PROCEDURES.
+
+    The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et 
+seq.) is amended by inserting after section 105B the following:
+
+
+               ``SUBMISSION TO COURT REVIEW OF PROCEDURES
+
+
+    ``Sec. 105C.  <<NOTE: Deadlines. 50 USC 1805c.>> (a) No later than 
+120 days after the effective date of this Act, the Attorney General 
+shall submit to the Court established under section 103(a), the 
+procedures by which the Government determines that acquisitions 
+conducted pursuant to section 105B do not constitute electronic 
+surveillance. The procedures submitted pursuant to this section shall be 
+updated and submitted to the Court on an annual basis.
+
+    ``(b) No later than 180 days after the effective date of this Act, 
+the court established under section 103(a) shall assess the Government's 
+determination under section 105B(a)(1) that those procedures are 
+reasonably designed to ensure that acquisitions conducted pursuant to 
+section 105B do not constitute electronic surveillance. The court's 
+review shall be limited to whether the Government's determination is 
+clearly erroneous.
+    ``(c) If the court concludes that the determination is not clearly 
+erroneous, it shall enter an order approving the continued use of such 
+procedures. If the court concludes that the determination is clearly 
+erroneous, it shall issue an order directing the Government to submit 
+new procedures within 30 days or cease any acquisitions under section 
+105B that are implicated by the court's order.
+    ``(d) The Government may appeal any order issued under subsection 
+(c) to the court established under section 103(b). <<NOTE: Records.>> If 
+such court determines that the order was properly entered, the court 
+shall immediately provide for the record a written statement of each 
+reason for its decision, and, on petition of the United States for a 
+writ of certiorari, the record shall be transmitted under seal to the 
+Supreme Court of the United States, which shall have jurisdiction to 
+review such decision. Any acquisitions affected by the order issued 
+under subsection (c) of this section may continue during the pendency of 
+any appeal, the period during which a petition for writ of certiorari 
+may be pending, and any review by the Supreme Court of the United 
+States.''.
+SEC. 4. REPORTING TO CONGRESS.
+
+    On a semi-annual basis the Attorney General shall inform the Select 
+Committee on Intelligence of the Senate, the Permanent Select Committee 
+on Intelligence of the House of Representatives, the Committee on the 
+Judiciary of the Senate, and the Committee on the Judiciary of the House 
+of Representatives, concerning acquisitions under this section during 
+the previous 6-month period. Each report made under this section shall 
+include--
+            (1) a description of any incidents of non-compliance with a 
+        directive issued by the Attorney General and the Director of 
+        National Intelligence under section 105B, to include--
+
+[[Page 121 STAT. 556]]
+
+                    (A) incidents of non-compliance by an element of the 
+                Intelligence Community with guidelines or procedures 
+                established for determining that the acquisition of 
+                foreign intelligence authorized by the Attorney General 
+                and Director of National Intelligence concerns persons 
+                reasonably to be outside the United States; and
+                    (B) incidents of noncompliance by a specified person 
+                to whom the Attorney General and Director of National 
+                Intelligence issue a directive under this section; and
+            (2) the number of certifications and directives issued 
+        during the reporting period.
+SEC. 5. TECHNICAL AMENDMENT AND CONFORMING AMENDMENTS.
+
+    (a) In General.--Section 103(e) of the Foreign Intelligence 
+Surveillance Act of 1978 (50 U.S.C. 1803(e)) is amended--
+            (1) in paragraph (1), by striking ``501(f)(1)'' and 
+        inserting ``105B(h) or 501(f)(1)''; and
+            (2) in paragraph (2), by striking ``501(f)(1)'' and 
+        inserting ``105B(h) or 501(f)(1)''.
+
+    (b) Table of Contents.--The table of contents in the first section 
+of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et 
+seq.) is amended by inserting after the item relating to section 105 the 
+following:
+
+``105A. Clarification of electronic surveillance of persons outside the 
+           United States.
+``105B. Additional procedure for authorizing certain acquisitions 
+           concerning persons located outside the United States.
+``105C. Submission to court review of procedures.''.
+
+SEC. 6. <<NOTE: 50 USC 1803 note.>> EFFECTIVE DATE; TRANSITION 
+                    PROCEDURES.
+
+    (a) Effective Date.--Except as otherwise provided, the amendments 
+made by this Act shall take effect immediately after the date of the 
+enactment of this Act.
+    (b) Transition Procedures.--Notwithstanding any other provision of 
+this Act, any order in effect on the date of enactment of this Act 
+issued pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 
+U.S.C. 1801 et seq.) shall remain in effect until the date of expiration 
+of such order, and, at the request of the applicant, the court 
+established under section 103(a) of such Act (50 U.S.C. 1803(a)) shall 
+reauthorize such order as long as the facts and circumstances continue 
+to justify issuance of such order under the provisions of the Foreign 
+Intelligence Surveillance Act of 1978, as in effect on the day before 
+the applicable effective date of this Act. The Government also may file 
+new applications, and the court established under section 103(a) of the 
+Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)) shall 
+enter orders granting such applications pursuant to such Act, as long as 
+the application meets the requirements set forth under the provisions of 
+such Act as in effect on the day before the effective date of this Act. 
+At the request of the applicant, the court established under section 
+103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 
+1803(a)), shall extinguish any extant authorization to conduct 
+electronic surveillance or physical search entered pursuant to such Act. 
+Any surveillance conducted pursuant to an order entered under this 
+subsection shall be subject to the provisions of the Foreign 
+Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as in 
+effect on the day before the effective date of this Act.
+
+[[Page 121 STAT. 557]]
+
+    (c) Sunset.--Except as provided in subsection (d), sections 2, 3, 4, 
+and 5 of this Act, and the amendments made by this Act, shall cease to 
+have effect 180 days after the date of the enactment of this Act.
+    (d) Authorizations in Effect.--Authorizations for the acquisition of 
+foreign intelligence information pursuant to the amendments made by this 
+Act, and directives issued pursuant to such authorizations, shall remain 
+in effect until their expiration. Such acquisitions shall be governed by 
+the applicable provisions of such amendments and shall not be deemed to 
+constitute electronic surveillance as that term is defined in section 
+101(f) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 
+1801(f)).
+
+    Approved August 5, 2007.
+
+LEGISLATIVE HISTORY--S. 1927:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 153 (2007):
+            Aug. 3, considered and passed Senate.
+            Aug. 4, considered and passed House.
+
+                                  
+

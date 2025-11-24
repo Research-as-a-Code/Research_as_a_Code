@@ -1,0 +1,476 @@
+
+[114th Congress Public Law 185]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 537]]
+
+                      FOIA IMPROVEMENT ACT OF 2016
+
+[[Page 130 STAT. 538]]
+
+Public Law 114-185
+114th Congress
+
+                                 An Act
+
+
+ 
+To improve the Freedom of Information Act. <<NOTE: June 30, 2016 -  [S. 
+                                 337]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: FOIA Improvement 
+Act of 2016. 5 USC 101 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``FOIA Improvement Act of 2016''.
+SEC. 2. AMENDMENTS TO FOIA.
+
+    Section 552 of title 5, United States Code, is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (2)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by striking ``for public inspection and copying'' 
+                      and inserting ``for public inspection in an 
+                      electronic format'';
+                          (ii) by striking subparagraph (D) and 
+                      inserting the following:
+            ``(D) copies of all records, regardless of form or format--
+                    ``(i) that have been released to any person under 
+                paragraph (3); and
+                    ``(ii)(I) that because of the nature of their 
+                subject matter, the agency determines have become or are 
+                likely to become the subject of subsequent requests for 
+                substantially the same records; or
+                    ``(II) that have been requested 3 or more times; 
+                and''; and
+                          (iii) in the undesignated matter following 
+                      subparagraph (E), by striking ``public inspection 
+                      and copying current'' and inserting ``public 
+                      inspection in an electronic format current'';
+                    (B) in paragraph (4)(A), by striking clause (viii) 
+                and inserting the following:
+                    ``(viii)(I) Except as provided in subclause (II), an 
+                agency shall not assess any search fees (or in the case 
+                of a requester described under clause (ii)(II) of this 
+                subparagraph, duplication fees) under this subparagraph 
+                if the agency has failed to comply with any time limit 
+                under paragraph (6).
+                    ``(II)(aa) <<NOTE: Time period.>>  If an agency has 
+                determined that unusual circumstances apply (as the term 
+                is defined in paragraph (6)(B)) and the agency provided 
+                a timely written notice to the requester in accordance 
+                with paragraph (6)(B), a failure described in subclause 
+                (I) is excused for an additional 10 days. If the agency 
+                fails to comply with the extended time limit, the agency 
+                may not assess any search
+
+[[Page 130 STAT. 539]]
+
+                fees (or in the case of a requester described under 
+                clause (ii)(II) of this subparagraph, duplication fees).
+                    ``(bb) If an agency has determined that unusual 
+                circumstances apply and more than 5,000 pages are 
+                necessary to respond to the request, an agency may 
+                charge search fees (or in the case of a requester 
+                described under clause (ii)(II) of this subparagraph, 
+                duplication fees) if the agency has provided a timely 
+                written notice to the requester in accordance with 
+                paragraph (6)(B) and the agency has discussed with the 
+                requester via written mail, electronic mail, or 
+                telephone (or made not less than 3 good-faith attempts 
+                to do so) how the requester could effectively limit the 
+                scope of the request in accordance with paragraph 
+                (6)(B)(ii).
+                    ``(cc) If a court has determined that exceptional 
+                circumstances exist (as that term is defined in 
+                paragraph (6)(C)), a failure described in subclause (I) 
+                shall be excused for the length of time provided by the 
+                court order.'';
+                    (C) in paragraph (6)--
+                          (i) in subparagraph (A)(i), by striking 
+                      ``making such request'' and all that follows 
+                      through ``determination; and'' and inserting the 
+                      following: ``making such request of--
+                          ``(I) such determination and the reasons 
+                      therefor;
+                          ``(II) the right of such person to seek 
+                      assistance from the FOIA Public Liaison of the 
+                      agency; and
+                          ``(III) <<NOTE: Time period.>>  in the case of 
+                      an adverse determination--
+                                    ``(aa) the right of such person to 
+                                appeal to the head of the agency, within 
+                                a period determined by the head of the 
+                                agency that is not less than 90 days 
+                                after the date of such adverse 
+                                determination; and
+                                    ``(bb) the right of such person to 
+                                seek dispute resolution services from 
+                                the FOIA Public Liaison of the agency or 
+                                the Office of Government Information 
+                                Services; and''; and
+                          (ii) in subparagraph (B)(ii), by striking 
+                      ``the agency.'' and inserting ``the agency, and 
+                      notify the requester of the right of the requester 
+                      to seek dispute resolution services from the 
+                      Office of Government Information Services.''; and
+                    (D) by adding at the end the following:
+
+    ``(8)(A) An agency shall--
+            ``(i) withhold information under this section only if--
+                    ``(I) the agency reasonably foresees that disclosure 
+                would harm an interest protected by an exemption 
+                described in subsection (b); or
+                    ``(II) disclosure is prohibited by law; and
+            ``(ii)(I) consider whether partial disclosure of information 
+        is possible whenever the agency determines that a full 
+        disclosure of a requested record is not possible; and
+            ``(II) take reasonable steps necessary to segregate and 
+        release nonexempt information; and
+
+    ``(B) Nothing in this paragraph requires disclosure of information 
+that is otherwise prohibited from disclosure by law, or otherwise 
+exempted from disclosure under subsection (b)(3).'';
+            (2) in subsection (b), by amending paragraph (5) to read as 
+        follows:
+
+[[Page 130 STAT. 540]]
+
+            ``(5) inter-agency or intra-agency memorandums or letters 
+        that would not be available by law to a party other than an 
+        agency in litigation with the agency, provided that the 
+        deliberative process privilege shall not apply to records 
+        created 25 years or more before the date on which the records 
+        were requested;''; and
+            (3) in subsection (e)--
+                    (A) in paragraph (1)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by inserting ``and to the Director of the Office 
+                      of Government Information Services'' after 
+                      ``United States'';
+                          (ii) in subparagraph (N), by striking ``and'' 
+                      at the end;
+                          (iii) in subparagraph (O), by striking the 
+                      period at the end and inserting a semicolon; and
+                          (iv) by adding at the end the following:
+            ``(P) the number of times the agency denied a request for 
+        records under subsection (c); and
+            ``(Q) the number of records that were made available for 
+        public inspection in an electronic format under subsection 
+        (a)(2).'';
+                    (B) by striking paragraph (3) and inserting the 
+                following:
+
+    ``(3) <<NOTE: Reports. Public information. Electronic 
+format. Data.>>  Each agency shall make each such report available for 
+public inspection in an electronic format. In addition, each agency 
+shall make the raw statistical data used in each report available in a 
+timely manner for public inspection in an electronic format, which shall 
+be made available--
+            ``(A) without charge, license, or registration requirement;
+            ``(B) in an aggregated, searchable format; and
+            ``(C) in a format that may be downloaded in bulk.'';
+                    (C) in paragraph (4)--
+                          (i) by striking ``Government Reform and 
+                      Oversight'' and inserting ``Oversight and 
+                      Government Reform'';
+                          (ii) by inserting ``Homeland Security and'' 
+                      before ``Governmental Affairs''; and
+                          (iii) by striking ``April'' and inserting 
+                      ``March''; and
+                    (D) by striking paragraph (6) and inserting the 
+                following:
+
+    ``(6)(A) <<NOTE: Reports. Deadline. Time period. Lists.>>  The 
+Attorney General of the United States shall submit to the Committee on 
+Oversight and Government Reform of the House of Representatives, the 
+Committee on the Judiciary of the Senate, and the President a report on 
+or before March 1 of each calendar year, which shall include for the 
+prior calendar year--
+            ``(i) a listing of the number of cases arising under this 
+        section;
+            ``(ii) a listing of--
+                    ``(I) each subsection, and any exemption, if 
+                applicable, involved in each case arising under this 
+                section;
+                    ``(II) the disposition of each case arising under 
+                this section; and
+                    ``(III) the cost, fees, and penalties assessed under 
+                subparagraphs (E), (F), and (G) of subsection (a)(4); 
+                and
+            ``(iii) a description of the efforts undertaken by the 
+        Department of Justice to encourage agency compliance with this 
+        section.
+
+    ``(B) <<NOTE: Public information. Electronic format.>>  The Attorney 
+General of the United States shall make--
+
+[[Page 130 STAT. 541]]
+
+            ``(i) each report submitted under subparagraph (A) available 
+        for public inspection in an electronic format; and
+            ``(ii) the raw statistical data used in each report 
+        submitted under subparagraph (A) available for public inspection 
+        in an electronic format, which shall be made available--
+                    ``(I) without charge, license, or registration 
+                requirement;
+                    ``(II) in an aggregated, searchable format; and
+                    ``(III) in a format that may be downloaded in 
+                bulk.'';
+            (4) in subsection (g), in the matter preceding paragraph 
+        (1), by striking ``publicly available upon request'' and 
+        inserting ``available for public inspection in an electronic 
+        format'';
+            (5) in subsection (h)--
+                    (A) in paragraph (1), by adding at the end the 
+                following: ``The head of the Office shall be the 
+                Director of the Office of Government Information 
+                Services.'';
+                    (B) in paragraph (2), by striking subparagraph (C) 
+                and inserting the following:
+            ``(C) identify procedures and methods for improving 
+        compliance under this section.'';
+                    (C) by striking paragraph (3) and inserting the 
+                following:
+
+    ``(3) The Office of Government Information Services shall offer 
+mediation services to resolve disputes between persons making requests 
+under this section and administrative agencies as a nonexclusive 
+alternative to litigation and may issue advisory opinions at the 
+discretion of the Office or upon request of any party to a dispute.''; 
+and
+                    (D) by adding at the end the following:
+
+    ``(4)(A) Not less frequently than annually, the Director of the 
+Office of Government Information Services shall submit to the Committee 
+on Oversight and Government Reform of the House of Representatives, the 
+Committee on the Judiciary of the Senate, and the President--
+            ``(i) <<NOTE: Reports.>>  a report on the findings of the 
+        information reviewed and identified under paragraph (2);
+            ``(ii) <<NOTE: Summary.>>  a summary of the activities of 
+        the Office of Government Information Services under paragraph 
+        (3), including--
+                    ``(I) any advisory opinions issued; and
+                    ``(II) the number of times each agency engaged in 
+                dispute resolution with the assistance of the Office of 
+                Government Information Services or the FOIA Public 
+                Liaison; and
+            ``(iii) <<NOTE: Recommenda- tions.>>  legislative and 
+        regulatory recommendations, if any, to improve the 
+        administration of this section.
+
+    ``(B) <<NOTE: Public information. Electronic format.>>  The Director 
+of the Office of Government Information Services shall make each report 
+submitted under subparagraph (A) available for public inspection in an 
+electronic format.
+
+    ``(C) The Director of the Office of Government Information Services 
+shall not be required to obtain the prior approval, comment, or review 
+of any officer or agency of the United States, including the Department 
+of Justice, the Archivist of the United States, or the Office of 
+Management and Budget before submitting to Congress, or any committee or 
+subcommittee thereof, any reports, recommendations, testimony, or 
+comments, if such submissions include a statement indicating that the 
+views expressed therein
+
+[[Page 130 STAT. 542]]
+
+are those of the Director and do not necessarily represent the views of 
+the President.
+    ``(5) The Director of the Office of Government Information Services 
+may directly submit additional information to Congress and the President 
+as the Director determines to be appropriate.
+    ``(6) <<NOTE: Deadline. Meeting. Public information.>>  Not less 
+frequently than annually, the Office of Government Information Services 
+shall conduct a meeting that is open to the public on the review and 
+reports by the Office and shall allow interested persons to appear and 
+present oral or written statements at the meeting.'';
+            (6) by striking subsections (j) and (k), and inserting the 
+        following:
+
+    ``(j)(1) <<NOTE: Designation.>>  Each agency shall designate a Chief 
+FOIA Officer who shall be a senior official of such agency (at the 
+Assistant Secretary or equivalent level).
+
+    ``(2) The Chief FOIA Officer of each agency shall, subject to the 
+authority of the head of the agency--
+            ``(A) have agency-wide responsibility for efficient and 
+        appropriate compliance with this section;
+            ``(B) monitor implementation of this section throughout the 
+        agency and keep the head of the agency, the chief legal officer 
+        of the agency, and the Attorney General appropriately informed 
+        of the agency's performance in implementing this section;
+            ``(C) <<NOTE: Recommenda- tions.>>  recommend to the head of 
+        the agency such adjustments to agency practices, policies, 
+        personnel, and funding as may be necessary to improve its 
+        implementation of this section;
+            ``(D) <<NOTE: Review. Reports.>>  review and report to the 
+        Attorney General, through the head of the agency, at such times 
+        and in such formats as the Attorney General may direct, on the 
+        agency's performance in implementing this section;
+            ``(E) facilitate public understanding of the purposes of the 
+        statutory exemptions of this section by including concise 
+        descriptions of the exemptions in both the agency's handbook 
+        issued under subsection (g), and the agency's annual report on 
+        this section, and by providing an overview, where appropriate, 
+        of certain general categories of agency records to which those 
+        exemptions apply;
+            ``(F) offer training to agency staff regarding their 
+        responsibilities under this section;
+            ``(G) serve as the primary agency liaison with the Office of 
+        Government Information Services and the Office of Information 
+        Policy; and
+            ``(H) <<NOTE: Designation.>>  designate 1 or more FOIA 
+        Public Liaisons.
+
+    ``(3) <<NOTE: Review. Deadline.>>  The Chief FOIA Officer of each 
+agency shall review, not less frequently than annually, all aspects of 
+the administration of this section by the agency to ensure compliance 
+with the requirements of this section, including--
+            ``(A) agency regulations;
+            ``(B) disclosure of records required under paragraphs (2) 
+        and (8) of subsection (a);
+            ``(C) assessment of fees and determination of eligibility 
+        for fee waivers;
+            ``(D) the timely processing of requests for information 
+        under this section;
+            ``(E) the use of exemptions under subsection (b); and
+
+[[Page 130 STAT. 543]]
+
+            ``(F) dispute resolution services with the assistance of the 
+        Office of Government Information Services or the FOIA Public 
+        Liaison.
+
+    ``(k)(1) <<NOTE: Establishment.>>  There is established in the 
+executive branch the Chief FOIA Officers Council (referred to in this 
+subsection as the `Council').
+
+    ``(2) The Council shall be comprised of the following members:
+            ``(A) The Deputy Director for Management of the Office of 
+        Management and Budget.
+            ``(B) The Director of the Office of Information Policy at 
+        the Department of Justice.
+            ``(C) The Director of the Office of Government Information 
+        Services.
+            ``(D) The Chief FOIA Officer of each agency.
+            ``(E) Any other officer or employee of the United States as 
+        designated by the Co-Chairs.
+
+    ``(3) The Director of the Office of Information Policy at the 
+Department of Justice and the Director of the Office of Government 
+Information Services shall be the Co-Chairs of the Council.
+    ``(4) The Administrator of General Services shall provide 
+administrative and other support for the Council.
+    ``(5)(A) The duties of the Council shall include the following:
+            ``(i) Develop recommendations for increasing compliance and 
+        efficiency under this section.
+            ``(ii) Disseminate information about agency experiences, 
+        ideas, best practices, and innovative approaches related to this 
+        section.
+            ``(iii) Identify, develop, and coordinate initiatives to 
+        increase transparency and compliance with this section.
+            ``(iv) Promote the development and use of common performance 
+        measures for agency compliance with this section.
+
+    ``(B) <<NOTE: Consultation.>>  In performing the duties described in 
+subparagraph (A), the Council shall consult on a regular basis with 
+members of the public who make requests under this section.
+
+    ``(6)(A) <<NOTE: Public information.>>  The Council shall meet 
+regularly and such meetings shall be open to the public unless the 
+Council determines to close the meeting for reasons of national security 
+or to discuss information exempt under subsection (b).
+
+    ``(B) Not less frequently than annually, the Council shall hold a 
+meeting that shall be open to the public and permit interested persons 
+to appear and present oral and written statements to the Council.
+    ``(C) <<NOTE: Deadline.>>  Not later than 10 business days before a 
+meeting of the Council, notice of such meeting shall be published in the 
+Federal Register.
+
+    ``(D) Except as provided in subsection (b), the records, reports, 
+transcripts, minutes, appendices, working papers, drafts, studies, 
+agenda, or other documents that were made available to or prepared for 
+or by the Council shall be made publicly available.
+    ``(E) <<NOTE: Records.>>  Detailed minutes of each meeting of the 
+Council shall be kept and shall contain a record of the persons present, 
+a complete and accurate description of matters discussed and conclusions 
+reached, and copies of all reports received, issued, or approved by the 
+Council. The minutes shall be redacted as necessary and made publicly 
+available.''; and
+            (7) by adding at the end the following:
+
+[[Page 130 STAT. 544]]
+
+    ``(m)(1) <<NOTE: Consultation. Portal.>>  The Director of the Office 
+of Management and Budget, in consultation with the Attorney General, 
+shall ensure the operation of a consolidated online request portal that 
+allows a member of the public to submit a request for records under 
+subsection (a) to any agency from a single website. The portal may 
+include any additional tools the Director of the Office of Management 
+and Budget finds will improve the implementation of this section.
+
+    ``(2) This subsection shall not be construed to alter the power of 
+any other agency to create or maintain an independent online portal for 
+the submission of a request for records under this section. The 
+Director <<NOTE: Standards.>>  of the Office of Management and Budget 
+shall establish standards for interoperability between the portal 
+required under paragraph (1) and other request processing software used 
+by agencies subject to this section.''.
+SEC. 3. <<NOTE: 5 USC 552 note.>>  REVIEW AND ISSUANCE OF 
+                    REGULATIONS.
+
+    (a) <<NOTE: Deadline. Procedures.>>  In General.--Not later than 180 
+days after the date of enactment of this Act, the head of each agency 
+(as defined in section 551 of title 5, United States Code) shall review 
+the regulations of such agency and shall issue regulations on procedures 
+for the disclosure of records under section 552 of title 5, United 
+States Code, in accordance with the amendments made by section 2.
+
+    (b) Requirements.--The regulations of each agency shall include 
+procedures for engaging in dispute resolution through the FOIA Public 
+Liaison and the Office of Government Information Services.
+SEC. 4. PROACTIVE DISCLOSURE THROUGH RECORDS MANAGEMENT.
+
+    Section 3102 of title 44, United States Code, is amended--
+            (1) by redesignating paragraphs (2) and (3) as paragraphs 
+        (3) and (4); and
+            (2) by inserting after paragraph (1) the following:
+            ``(2) procedures for identifying records of general interest 
+        or use to the public that are appropriate for public disclosure, 
+        and for posting such records in a publicly accessible electronic 
+        format;''.
+SEC. 5. NO ADDITIONAL FUNDS AUTHORIZED.
+
+    No additional funds are authorized to carry out the requirements of 
+this Act or the amendments made by this Act. The requirements of this 
+Act and the amendments made by this Act shall be carried out using 
+amounts otherwise authorized or appropriated.
+SEC. 6. <<NOTE: Effective date. 5 USC 552 note.>>  APPLICABILITY.
+
+    This Act, and the amendments made by this Act, shall take effect on 
+the date of enactment of this Act and shall apply to
+
+[[Page 130 STAT. 545]]
+
+any request for records under section 552 of title 5, United States 
+Code, made after the date of enactment of this Act.
+
+    Approved June 30, 2016.
+
+LEGISLATIVE HISTORY--S. 337:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 114-4 (Comm. on the Judiciary).
+CONGRESSIONAL RECORD, Vol. 162 (2016):
+            Mar. 15, considered and passed Senate.
+            June 13, considered and passed House.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2016):
+            June 30, Presidential remarks.
+
+                                  
+

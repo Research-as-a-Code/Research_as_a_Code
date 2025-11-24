@@ -1,0 +1,612 @@
+
+[108th Congress Public Law 492]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ492.108]
+
+
+[[Page 3973]]
+
+             COMMERCIAL SPACE LAUNCH AMENDMENTS ACT OF 2004
+
+[[Page 118 STAT. 3974]]
+
+Public Law 108-492
+108th Congress
+
+                                 An Act
+
+
+ 
+To promote the development of the emerging commercial human space flight 
+    industry, and for other purposes. <<NOTE: Dec. 23, 2004 -  [H.R. 
+                                5382]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Commercial Space Launch 
+Amendments Act of 2004.>> assembled,
+
+SECTION 1. <<NOTE: 49 USC 70101 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Commercial Space Launch Amendments 
+Act of 2004''.
+
+SEC. 2. AMENDMENTS.
+
+    (a) Findings and Purposes.--Section 70101 of title 49, United States 
+Code, is amended--
+            (1) in subsection (a)(3), by inserting ``human space 
+        flight,'' after ``microgravity research,'';
+            (2) in subsection (a)(4)--
+                    (A) by striking ``satellite''; and
+                    (B) by striking ``services now available from'' and 
+                inserting ``capabilities of'';
+            (3) in subsection (a)(8), by striking ``and'' at the end;
+            (4) in subsection (a)(9), by striking the period and 
+        inserting a semicolon;
+            (5) by adding at the end of subsection (a) the following new 
+        paragraphs:
+            ``(10) the goal of safely opening space to the American 
+        people and their private commercial, scientific, and cultural 
+        enterprises should guide Federal space investments, policies, 
+        and regulations;
+            ``(11) private industry has begun to develop commercial 
+        launch vehicles capable of carrying human beings into space and 
+        greater private investment in these efforts will stimulate the 
+        Nation's commercial space transportation industry as a whole;
+            ``(12) space transportation is inherently risky, and the 
+        future of the commercial human space flight industry will depend 
+        on its ability to continually improve its safety performance;
+            ``(13) a critical area of responsibility for the Department 
+        of Transportation is to regulate the operations and safety of 
+        the emerging commercial human space flight industry;
+            ``(14) the public interest is served by creating a clear 
+        legal, regulatory, and safety regime for commercial human space 
+        flight; and
+            ``(15) the regulatory standards governing human space flight 
+        must evolve as the industry matures so that regulations
+
+[[Page 118 STAT. 3975]]
+
+        neither stifle technology development nor expose crew or space 
+        flight participants to avoidable risks as the public comes to 
+        expect greater safety for crew and space flight participants 
+        from the industry.'';
+            (6) in subsection (b)(2)--
+                    (A) by striking ``and'' at the end of subparagraph 
+                (A);
+                    (B) by inserting ``and'' after the semicolon in 
+                subparagraph (B); and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(C) promoting the continuous improvement of the 
+                safety of launch vehicles designed to carry humans, 
+                including through the issuance of regulations, to the 
+                extent permitted by this chapter;''; and
+            (7) in subsection (b)(3), by striking ``issue and transfer'' 
+        and inserting ``issue permits and commercial licenses and 
+        transfer''.
+
+    (b) Definitions.--Section 70102 of title 49, United States Code, is 
+amended--
+            (1) by redesignating paragraphs (2) through (17) as 
+        paragraphs (3), (4), (5), (6), (7), (8), (9), (10), (12), (13), 
+        (14), (15), (16), (18), (21), and (22), respectively;
+            (2) by inserting after paragraph (1) the following new 
+        paragraph:
+            ``(2) `crew' means any employee of a licensee or transferee, 
+        or of a contractor or subcontractor of a licensee or transferee, 
+        who performs activities in the course of that employment 
+        directly relating to the launch, reentry, or other operation of 
+        or in a launch vehicle or reentry vehicle that carries human 
+        beings.'';
+            (3) in paragraph (4), as so redesignated by paragraph (1) of 
+        this subsection, by inserting ``, crew, or space flight 
+        participant'' after ``any payload'';
+            (4) in paragraph (6)(A), as so redesignated by paragraph (1) 
+        of this subsection, by striking ``and payload'' and inserting 
+        ``, payload, crew (including crew training), or space flight 
+        participant'';
+            (5) in paragraph (8)(A), as so redesignated by paragraph (1) 
+        of this subsection, by inserting ``or human beings'' after 
+        ``place a payload'';
+            (6) by inserting after paragraph (10), as so redesignated by 
+        paragraph (1) of this subsection, the following new paragraph:
+            ``(11) except in section 70104(c), `permit' means an 
+        experimental permit issued under section 70105a.'';
+            (7) in paragraph (13), as so redesignated by paragraph (1) 
+        of this subsection, by inserting ``crew, or space flight 
+        participants,'' after ``and its payload,'';
+            (8) in paragraph (14)(A), as so redesignated by paragraph 
+        (1) of this subsection, by striking ``and its payload'' 
+        inserting ``and payload, crew (including crew training), or 
+        space flight participant'';
+            (9) by inserting after paragraph (16), as so redesignated by 
+        paragraph (1) of this subsection, the following new paragraph:
+            ``(17) `space flight participant' means an individual, who 
+        is not crew, carried within a launch vehicle or reentry 
+        vehicle.'';
+
+[[Page 118 STAT. 3976]]
+
+            (10) by inserting after paragraph (18), as so redesignated 
+        by paragraph (1) of this subsection, the following new 
+        paragraphs:
+            ``(19) unless and until regulations take effect under 
+        section 70120(c)(2), `suborbital rocket' means a vehicle, 
+        rocket-propelled in whole or in part, intended for flight on a 
+        suborbital trajectory, and the thrust of which is greater than 
+        its lift for the majority of the rocket-powered portion of its 
+        ascent.
+            ``(20) `suborbital trajectory' means the intentional flight 
+        path of a launch vehicle, reentry vehicle, or any portion 
+        thereof, whose vacuum instantaneous impact point does not leave 
+        the surface of the Earth.''; and
+            (11) in paragraph (21), as so redesignated by paragraph (1) 
+        of this subsection--
+                    (A) by striking ``or'' at the end of subparagraph 
+                (C);
+                    (B) by striking the period at the end of 
+                subparagraph (D) and inserting ``; or''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(E) crew or space flight participants.''.
+
+    (c) Commercial Human Space Flight.--(1) Section 70103(b)(1) of title 
+49, United States Code, is amended by inserting ``, including those 
+involving space flight participants'' after ``private sector''.
+    (2) Section 70103 of title 49, United States Code, is amended by 
+redesignating subsection (c) as subsection (d), and by inserting after 
+subsection (b) the following new subsection:
+    ``(c) Safety.--In carrying out the responsibilities under subsection 
+(b), the Secretary shall encourage, facilitate, and promote the 
+continuous improvement of the safety of launch vehicles designed to 
+carry humans, and the Secretary may, consistent with this chapter, 
+promulgate regulations to carry out this subsection.''.
+    (3) Section 70104(a) of title 49, United States Code, is amended--
+            (A) by striking ``License Requirement.--A license issued or 
+        transferred under this chapter'' and inserting ``Requirement.--A 
+        license issued or transferred under this chapter, or a 
+        permit,''; and
+            (B) by inserting after paragraph (4) the following: 
+        ``Notwithstanding this subsection, a permit shall not authorize 
+        a person to operate a launch site or reentry site.''.
+
+    (4) Section 70104(b) of title 49, United States Code, is amended by 
+inserting ``or permit'' after ``holder of a license''.
+    (5) Section 70104 of title 49, United States Code, is amended by 
+adding at the end the following new subsection:
+    ``(d) Single License or Permit.--The Secretary of Transportation 
+shall ensure that only 1 license or permit is required from the 
+Department of Transportation to conduct activities involving crew or 
+space flight participants, including launch and reentry, for which a 
+license or permit is required under this chapter. The Secretary shall 
+ensure that all Department of Transportation regulations relevant to the 
+licensed or permitted activity are satisfied.''.
+    (6) Section 70105(a) of title 49, United States Code, is amended--
+            (A) in paragraph (1), by striking ``a license is not 
+        issued'' and inserting ``the Secretary has not taken action on a 
+        license application''; and
+
+[[Page 118 STAT. 3977]]
+
+            (B) in paragraph (2), by inserting ``(including approval 
+        procedures for the purpose of protecting the health and safety 
+        of crews and space flight participants, to the extent permitted 
+        by subsections (b) and (c))'' after ``or personnel''.
+
+    (7) Section 70105(b)(1) of title 49, United States Code, is amended 
+by inserting ``or permit'' after ``for a license''.
+    (8) Section 70105(b)(2)(B) of title 49, United States Code, is 
+amended by striking ``an additional requirement necessary to protect'' 
+and inserting ``any additional requirement necessary to protect''.
+    (9) Section 70105(b)(2)(C) of title 49, United States Code, is 
+amended--
+            (A) by inserting ``or permit'' after ``for a license''; and
+            (B) by striking ``and'' at the end thereof.
+
+    (10) Section 70105(b)(2) of title 49, United States Code, is amended 
+by redesignating subparagraph (D) as subparagraph (E) and inserting 
+after subparagraph (C) the following new subparagraph:
+                    ``(D) additional license requirements, for a launch 
+                vehicle carrying a human being for compensation or hire, 
+                necessary to protect the health and safety of crew or 
+                space flight participants, only if such requirements are 
+                imposed pursuant to final regulations issued in 
+                accordance with subsection (c); and''.
+
+    (11) Section 70105(b)(2)(E) of title 49, United States Code, as so 
+redesignated by paragraph (11) of this subsection, is amended by 
+inserting ``or permit'' after ``for a license''.
+    (12) Section 70105(b)(3) of title 49, United States Code, is amended 
+by adding at the end the following: ``The Secretary may not grant a 
+waiver under this paragraph that would permit the launch or reentry of a 
+launch vehicle or a reentry vehicle without a license or permit if a 
+human being will be on board.''.
+    (13) Section 70105(b) of title 49, United States Code, is amended by 
+adding at the end the following new paragraphs:
+            ``(4) The holder of a license or a permit under this chapter 
+        may launch or reenter crew only if--
+                    ``(A) the crew has received training and has 
+                satisfied medical or other standards specified in the 
+                license or permit in accordance with regulations 
+                promulgated by the Secretary;
+                    ``(B) the holder of the license or permit has 
+                informed any individual serving as crew in writing, 
+                prior to executing any contract or other arrangement to 
+                employ that individual (or, in the case of an individual 
+                already employed as of the date of enactment of the 
+                Commercial Space Launch Amendments Act of 2004, as early 
+                as possible, but in any event prior to any launch in 
+                which the individual will participate as crew), that the 
+                United States Government has not certified the launch 
+                vehicle as safe for carrying crew or space flight 
+                participants; and
+                    ``(C) the holder of the license or permit and crew 
+                have complied with all requirements of the laws of the 
+                United States that apply to crew.
+            ``(5) The holder of a license or a permit under this chapter 
+        may launch or reenter a space flight participant only if--
+                    ``(A) in accordance with regulations promulgated by 
+                the Secretary, the holder of the license or permit has
+
+[[Page 118 STAT. 3978]]
+
+                informed the space flight participant in writing about 
+                the risks of the launch and reentry, including the 
+                safety record of the launch or reentry vehicle type, and 
+                the Secretary has informed the space flight participant 
+                in writing of any relevant information related to risk 
+                or probable loss during each phase of flight gathered by 
+                the Secretary in making the determination required by 
+                section 70112(a)(2) and (c);
+                    ``(B) the holder of the license or permit has 
+                informed any space flight participant in writing, prior 
+                to receiving any compensation from that space flight 
+                participant or (in the case of a space flight 
+                participant not providing compensation) otherwise 
+                concluding any agreement to fly that space flight 
+                participant, that the United States Government has not 
+                certified the launch vehicle as safe for carrying crew 
+                or space flight participants;
+                    ``(C) in accordance with regulations promulgated by 
+                the Secretary, the space flight participant has provided 
+                written informed consent to participate in the launch 
+                and reentry and written certification of compliance with 
+                any regulations promulgated under paragraph (6)(A); and
+                    ``(D) the holder of the license or permit has 
+                complied with any regulations promulgated by the 
+                Secretary pursuant to paragraph (6).
+            ``(6)(A) The Secretary may issue regulations requiring space 
+        flight participants to undergo an appropriate physical 
+        examination prior to a launch or reentry under 
+        this <<NOTE: Termination date.>> chapter. This subparagraph 
+        shall cease to be in effect three years after the date of 
+        enactment of the Commercial Space Launch Amendments Act of 2004.
+            ``(B) The Secretary may issue additional regulations setting 
+        reasonable requirements for space flight participants, including 
+        medical and training requirements. Such regulations shall not be 
+        effective before the expiration of 3 years after the date of 
+        enactment of the Commercial Space Launch Amendments Act of 
+        2004.''.
+
+    (14) Section 70105 of title 49, United States Code, is amended by 
+redesignating subsection (c) as subsection (d), and by adding after 
+subsection (b) the following new subsection:
+    ``(c) Safety Regulations.--(1) The Secretary may issue regulations 
+governing the design or operation of a launch vehicle to protect the 
+health and safety of crew and space flight participants.
+            ``(2) Regulations issued under this subsection shall--
+                    ``(A) describe how such regulations would be applied 
+                when the Secretary is determining whether to issue a 
+                license under this chapter;
+                    ``(B) apply only to launches in which a vehicle will 
+                be carrying a human being for compensation or hire;
+                    ``(C) be limited to restricting or prohibiting 
+                design features or operating practices that--
+                          ``(i) have resulted in a serious or fatal 
+                      injury (as defined in 49 CFR 830, as in effect on 
+                      November 10, 2004) to crew or space flight 
+                      participants during a licensed or permitted 
+                      commercial human space flight; or
+                          ``(ii) contributed to an unplanned event or 
+                      series of events during a licensed or permitted 
+                      commercial
+
+[[Page 118 STAT. 3979]]
+
+                      human space flight that posed a high risk of 
+                      causing a serious or fatal injury (as defined in 
+                      49 CFR 830, as in effect on November 10, 2004) to 
+                      crew or space flight participants; and
+                    ``(D) be issued with a description of the instance 
+                or instances when the design feature or operating 
+                practice being restricted or prohibited contributed to a 
+                result or event described in subparagraph (C).
+            ``(3) <<NOTE: Effective date.>> Beginning 8 years after the 
+        date of enactment of the Commercial Space Launch Amendments Act 
+        of 2004, the Secretary may propose regulations under this 
+        subsection without regard to paragraph (2)(C) and (D). Any such 
+        regulations shall take into consideration the evolving standards 
+        of safety in the commercial space flight industry.
+            ``(4) Nothing in this subsection shall be construed to limit 
+        the authority of the Secretary to issue requirements or 
+        regulations to protect the public health and safety, safety of 
+        property, national security interests, and foreign policy 
+        interests of the United States.''.
+
+    (15) Section 70105(d) of title 49, United States Code, as so 
+redesignated by paragraph (15) of this subsection, is amended by 
+inserting ``or permit'' after ``of a license''.
+    (16) Chapter 701 of title 49, United States Code, is amended by 
+inserting after section 70105 the following new section:
+
+``Sec. 70105a. <<NOTE: Deadlines.>> Experimental permits
+
+    ``(a) A person may apply to the Secretary of Transportation for an 
+experimental permit under this section in the form and manner the 
+Secretary prescribes. Consistent with the protection of the public 
+health and safety, safety of property, and national security and foreign 
+policy interests of the United States, the Secretary, not later than 120 
+days after receiving an application pursuant to this section, shall 
+issue a permit if the Secretary decides in writing that the applicant 
+complies, and will continue to comply, with this chapter and regulations 
+prescribed under this chapter. The Secretary shall inform the applicant 
+of any pending issue and action required to resolve the issue if the 
+Secretary has not made a decision not later than 90 days after receiving 
+an application. <<NOTE: Notice.>> The Secretary shall transmit to the 
+Committee on Science of the House of Representatives and Committee on 
+Commerce, Science, and Transportation of the Senate a written notice not 
+later than 15 days after any occurrence when the Secretary has failed to 
+act on a permit within the deadline established by this section.
+
+    ``(b) In carrying out subsection (a), the Secretary may establish 
+procedures for safety approvals of launch vehicles, reentry vehicles, 
+safety systems, processes, services, or personnel that may be used in 
+conducting commercial space launch or reentry activities pursuant to a 
+permit.
+    ``(c) In order to encourage the development of a commercial space 
+flight industry, the Secretary may when issuing permits use the 
+authority granted under section 70105(b)(2)(C).
+    ``(d) The Secretary may issue a permit only for reusable suborbital 
+rockets that will be launched or reentered solely for--
+            ``(1) research and development to test new design concepts, 
+        new equipment, or new operating techniques;
+
+[[Page 118 STAT. 3980]]
+
+            ``(2) showing compliance with requirements as part of the 
+        process for obtaining a license under this chapter; or
+            ``(3) crew training prior to obtaining a license for a 
+        launch or reentry using the design of the rocket for which the 
+        permit would be issued.
+
+    ``(e) Permits issued under this section shall--
+            ``(1) authorize an unlimited number of launches and 
+        reentries for a particular suborbital rocket design for the uses 
+        described in subsection (d); and
+            ``(2) specify the type of modifications that may be made to 
+        the suborbital rocket without changing the design to an extent 
+        that would invalidate the permit.
+
+    ``(f) Permits shall not be transferable.
+    ``(g) A permit may not be issued for, and a permit that has already 
+been issued shall cease to be valid for, a particular design for a 
+reusable suborbital rocket after a license has been issued for the 
+launch or reentry of a rocket of that design.
+    ``(h) No person may operate a reusable suborbital rocket under a 
+permit for carrying any property or human being for compensation or 
+hire.
+    ``(i) For the purposes of sections 70106, 70107, 70108, 70109, 
+70110, 70112, 70115, 70116, 70117, and 70121 of this chapter--
+            ``(1) a permit shall be considered a license;
+            ``(2) the holder of a permit shall be considered a licensee;
+            ``(3) a vehicle operating under a permit shall be considered 
+        to be licensed; and
+            ``(4) the issuance of a permit shall be considered 
+        licensing.
+        This subsection shall not be construed to allow the transfer of 
+        a permit.''.
+
+    (17) Section 70106(a) of title 49, United States Code, is amended--
+            (A) by inserting ``at a site used for crew or space flight 
+        participant training,'' after ``assemble a launch vehicle or 
+        reentry vehicle,''; and
+            (B) by striking ``section 70104(c)'' and inserting 
+        ``sections 70104(c), 70105, and 70105a''.
+
+    (18) Section 70107(b) of title 49, United States Code, is amended--
+            (A) by inserting ``(1)'' before ``On the initiative''; and
+            (B) by adding the following new paragraph at the end:
+            ``(2) The Secretary shall modify a license issued or 
+        transferred under this chapter whenever a modification is needed 
+        for the license to be in conformity with a regulation that was 
+        issued pursuant to section 70105(c) after the issuance of the 
+        license. This paragraph shall not apply to permits.''.
+
+    (19) Section 70107 of title 49, United States Code, is amended by 
+redesignating subsections (d) and (e) as subsections (e) and (f), 
+respectively, and by inserting after subsection (c) the following new 
+subsection:
+    ``(d) Additional Suspensions.--(1) The Secretary may suspend a 
+license when a previous launch or reentry under the license has resulted 
+in a serious or fatal injury (as defined in 49 CFR 830, as in effect on 
+November 10, 2004) to crew or space flight participants and the 
+Secretary has determined that continued operations under the license are 
+likely to cause additional serious or fatal injury (as defined in 49 CFR 
+830, as in effect on November 10, 2004) to crew or space flight 
+participants.
+
+[[Page 118 STAT. 3981]]
+
+            ``(2) Any suspension imposed under this subsection shall be 
+        for as brief a period as possible and, in any event, shall cease 
+        when the Secretary--
+                    ``(A) has determined that the licensee has taken 
+                sufficient steps to reduce the likelihood of a 
+                recurrence of the serious or fatal injury; or
+                    ``(B) has modified the license pursuant to 
+                subsection (b) to sufficiently reduce the likelihood of 
+                a recurrence of the serious or fatal injury.
+            ``(3) This subsection shall not apply to permits.''.
+
+    (20) Section 70110(a)(1) of title 49, United States Code, is amended 
+by inserting ``or 70105a'' after ``70105(a)''.
+    (21) Section 70112(b)(2) of title 49, United States Code, is 
+amended--
+            (A) by inserting ``crew, space flight participants,'' after 
+        ``transferee, contractors, subcontractors,''; and
+            (B) by inserting ``or by space flight participants,'' after 
+        ``its own employees''.
+
+    (22) Section 70113(a)(1) of title 49, United States Code, is amended 
+by inserting ``but not against a space flight participant,'' after 
+``subcontractor of a customer,''.
+    (23) Section 70113(f) of title 49, United States Code, is amended by 
+inserting at the end the following: ``This section does not apply to 
+permits.''.
+    (24) Section 70115(b)(1)(D)(i) of title 49, United States Code, is 
+amended by inserting ``crew or space flight participant training site,'' 
+after ``site of a launch vehicle or reentry vehicle,''.
+    (25) Section 70120 of title 49, United States Code, is amended by 
+adding at the end the following new subsections:
+    ``(c) Amendments.--
+(1) <<NOTE: Deadlines. Regulations. Publication.>> Not later than 12 
+months after the date of enactment of the Commercial Space Launch 
+Amendments Act of 2004, the Secretary shall publish proposed regulations 
+to carry out that Act, including regulations relating to crew, space 
+flight participants, and permits for launch or reentry of reusable 
+suborbital rockets. Not later than 18 months after such date of 
+enactment, the Secretary shall issue final regulations.
+            ``(2)(A) Starting 3 years after the date of enactment of the 
+        Commercial Space Launch Amendments Act of 2004, the Secretary 
+        may issue final regulations changing the definition of 
+        suborbital rocket under this chapter. <<NOTE: Effective 
+        date.>> No such regulation may take effect until 180 days after 
+        the Secretary has submitted the regulation to the Congress.
+            ``(B) The Secretary may issue regulations under this 
+        paragraph only if the Secretary has determined that the 
+        definition in section 70102 does not describe, or will not 
+        continue to describe, all appropriate vehicles and only those 
+        vehicles. In making that determination, the Secretary shall take 
+        into account the evolving nature of the commercial space launch 
+        industry.
+
+    ``(d) Effective Date.--(1) Licenses for the launch or reentry of 
+launch vehicles or reentry vehicles with human beings on board and 
+permits may be issued by the Secretary prior to the issuance of the 
+regulations described in subsection (c).
+            ``(2) <<NOTE: Guidelines.>> As soon as practicable after the 
+        date of enactment of the Commercial Space Launch Amendments Act 
+        of 2004, the Secretary shall issue guidelines or advisory 
+        circulars to
+
+[[Page 118 STAT. 3982]]
+
+        guide the implementation of that Act until regulations are 
+        issued.
+            ``(3) Notwithstanding paragraphs (1) and (2), no licenses 
+        for the launch or reentry of launch vehicles or reentry vehicles 
+        with human beings on board or permits may be issued starting 
+        three years after the date of enactment of the Commercial Space 
+        Launch Amendments Act of 2004 unless the final regulations 
+        described in subsection (c) have been issued.''.
+
+    (26) The table of sections for chapter 701 of title 49, United 
+States Code, is amended by inserting after the item relating to 70105 
+the following new item:
+
+``70105a. Experimental permits.''.
+
+SEC. 3. <<NOTE: Contracts.>> STUDIES.
+
+    (a) Risk Sharing.--Not <<NOTE: Deadline.>> later than 60 days after 
+the date of enactment of this Act, the Secretary of Transportation shall 
+enter into an arrangement with a nonprofit entity for the conduct of an 
+independent comprehensive study of the liability risk sharing regime in 
+the United States for commercial space transportation under section 
+70113 of title 49, United States Code. To ensure that Congress has a 
+full analysis of the liability risk sharing regime, the study shall 
+assess methods by which the current system could be eliminated, 
+including an estimate of the time required to implement each of the 
+methods assessed. The study shall assess whether any alternative steps 
+would be needed to maintain a viable and competitive United States space 
+transportation industry if the current regime were eliminated. In 
+conducting the assessment under this subsection, input from commercial 
+space transportation insurance experts shall be sought. The study also 
+shall examine liability risk sharing in other nations with commercial 
+launch capability and evaluate the direct and indirect impact that 
+ending this regime would have on the competitiveness of the United 
+States commercial space launch industry in relation to foreign 
+commercial launch providers and on United States assured access to 
+space.
+
+    (b) Safety.--The <<NOTE: Reports.>> Secretary of Transportation, in 
+consultation with the Administrator of the National Aeronautics and 
+Space Administration, shall enter into an arrangement with a nonprofit 
+entity for a report analyzing safety issues related to launching human 
+beings into space. In designing the study, the Secretary should take 
+into account any recommendations from the Commercial Space 
+Transportation Advisory Committee and the National Aeronautics and Space 
+Administration's Aerospace Safety Advisory 
+Panel. <<NOTE: Deadline.>> The report shall be submitted to the Senate 
+Committee on Commerce, Science, and Transportation and the House of 
+Representatives Committee on Science within 4 years of the date of 
+enactment of this Act. The report shall analyze and make recommendations 
+about--
+            (1) the standards of safety and concepts of operation that 
+        should guide the regulation of human space flight and whether 
+        the standard of safety should vary by class or type of vehicle, 
+        the purpose of flight, or other considerations;
+            (2) the effectiveness of the commercial licensing and 
+        permitting regime under chapter 701 of title 49, United States 
+        Code, particularly in ensuring the safety of the public and of 
+        crew and space flight participants during launch, in-space 
+        transit, orbit, and reentry, and whether any changes are needed 
+        to that chapter;
+
+[[Page 118 STAT. 3983]]
+
+            (3) whether there is a need for commercial ground operations 
+        for commercial space flight, including provision of launch 
+        support, launch and reentry control, mission control, range 
+        operations, and communications and telemetry operations through 
+        all phases of flight, and if such operations developed, whether 
+        and how they should be regulated;
+            (4) whether expendable and reusable launch and reentry 
+        vehicles should be regulated differently from each other, and 
+        whether either of those vehicles should be regulated differently 
+        when carrying human beings;
+            (5) whether the Federal Government should separate the 
+        promotion of human space flight from the regulation of such 
+        activity;
+            (6) how third parties could be used to evaluate the 
+        qualification and acceptance of new human space flight vehicles 
+        prior to their operation;
+            (7) how nongovernment experts could participate more fully 
+        in setting standards and developing regulations concerning human 
+        space flight safety; and
+            (8) whether the Federal Government should regulate the 
+        extent of foreign ownership or control of human space flight 
+        companies operating or incorporated in the United States.
+
+SEC. 4. TECHNICAL AMENDMENT.
+
+    Section 102(c) <<NOTE: 49 USC 70105 note.>> of the Commercial Space 
+Act of 1998 is repealed.
+
+    Approved December 23, 2004.
+
+LEGISLATIVE HISTORY--H.R. 5382 (S. 1260):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 108-111 accompanying S. 1260 (Comm. on Commerce, 
+Science, and Transportation).
+CONGRESSIONAL RECORD, Vol. 150 (2004):
+            Nov. 19, 20, considered and passed House.
+            Dec. 8, considered and passed Senate.
+
+                                  
+
