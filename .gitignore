@@ -77,5 +77,6 @@ temp/
 
 # Generated documentation
 *.pdf
-# But include tariff PDFs in the data directory
+# But include tariff PDFs and sustainability PDFs in the data directory
 !data/tariffs/*.pdf
+!data/sustainability/*.pdf
