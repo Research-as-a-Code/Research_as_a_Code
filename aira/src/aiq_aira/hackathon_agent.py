@@ -210,27 +210,44 @@ async def ttd_dr_init_node(state: HackathonAgentState, config: RunnableConfig):
     }
 
 
-async def ttd_dr_research_node(state: HackathonAgentState, config: RunnableConfig):
+async def ttd_dr_start_research_node(state: HackathonAgentState, config: RunnableConfig):
     """
-    TTD-DR Step 2: Execute iterative research with diffusion
-    Progressive update: Shows research phase completion
+    TTD-DR Step 2a: Start iterative research process
+    Progressive update: Shows research starting
     """
-    logger.info("TTD-DR: Step 2 - Research Iterations")
+    logger.info("TTD-DR: Step 2a - Start Research")
+    
+    step_logs = [
+        "🔍 Starting iterative TTD-DR research...",
+        "📚 Preparing to execute diffusion iterations"
+    ]
+    
+    return {
+        "logs": step_logs
+    }
+
+
+async def ttd_dr_execute_iterations_node(state: HackathonAgentState, config: RunnableConfig):
+    """
+    TTD-DR Step 2b: Execute the actual diffusion iterations
+    Progressive update: Shows when iterations complete
+    This is the long-running phase
+    """
+    logger.info("TTD-DR: Step 2b - Execute Iterations")
     
     ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
     context = state.get("ttd_dr_context")
     
-    # Phase-level logs (callback system removed - not functional)
     step_logs = [
-        "🔍 Executing iterative TTD-DR research...",
-        "🔬 Running diffusion process with convergence tracking"
+        "🔬 Running diffusion iterations with convergence tracking...",
+        "⚗️ Iteratively refining research draft"
     ]
     
-    # Execute TTD-DR
+    # Execute TTD-DR (this is the long operation)
     try:
         result = await ttd_dr_integration.execute(context)
         
-        step_logs.append("✅ Research iterations complete")
+        step_logs.append("✅ Diffusion iterations complete")
         
         return {
             "ttd_dr_result": result,
@@ -238,8 +255,8 @@ async def ttd_dr_research_node(state: HackathonAgentState, config: RunnableConfi
         }
         
     except Exception as e:
-        logger.error(f"TTD-DR research error: {e}")
-        step_logs.append(f"❌ TTD-DR research error: {str(e)}")
+        logger.error(f"TTD-DR iterations error: {e}")
+        step_logs.append(f"❌ TTD-DR iterations error: {str(e)}")
         return {
             "logs": step_logs,
             "ttd_dr_result": None
@@ -1046,9 +1063,10 @@ def create_hackathon_agent_graph() -> StateGraph:
     workflow.add_node("udr_compile_validate", udr_compile_validate_node)
     workflow.add_node("udr_execute", udr_execute_node)
     
-    # TTD-DR broken into 3 progressive nodes: init → research → finalize
+    # TTD-DR broken into 4 progressive nodes: init → start → execute → finalize
     workflow.add_node("ttd_dr_init", ttd_dr_init_node)
-    workflow.add_node("ttd_dr_research", ttd_dr_research_node)
+    workflow.add_node("ttd_dr_start_research", ttd_dr_start_research_node)
+    workflow.add_node("ttd_dr_execute_iterations", ttd_dr_execute_iterations_node)
     workflow.add_node("ttd_dr_finalize", ttd_dr_finalize_node)
     
     # Simple RAG broken into 3 progressive nodes: queries → search → synthesize
@@ -1077,9 +1095,10 @@ def create_hackathon_agent_graph() -> StateGraph:
     workflow.add_edge("udr_compile_validate", "udr_execute")
     workflow.add_edge("udr_execute", "final_report")
     
-    # TTD-DR path: 3 sequential nodes for progressive updates
-    workflow.add_edge("ttd_dr_init", "ttd_dr_research")
-    workflow.add_edge("ttd_dr_research", "ttd_dr_finalize")
+    # TTD-DR path: 4 sequential nodes for progressive updates
+    workflow.add_edge("ttd_dr_init", "ttd_dr_start_research")
+    workflow.add_edge("ttd_dr_start_research", "ttd_dr_execute_iterations")
+    workflow.add_edge("ttd_dr_execute_iterations", "ttd_dr_finalize")
     workflow.add_edge("ttd_dr_finalize", "final_report")
     
     # Simple RAG path: 3 sequential nodes for progressive updates

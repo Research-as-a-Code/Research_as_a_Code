@@ -456,12 +456,12 @@ async def generate_research_stream(request: ResearchRequest):
                     # Watch for all node completions including progressive nodes
                     watched_nodes = [
                         "planner",
-                        # Progressive SIMPLE_RAG nodes
+                        # Progressive SIMPLE_RAG nodes (3 nodes)
                         "generate_queries", "search_sources", "synthesize_report",
-                        # Progressive UDR nodes
+                        # Progressive UDR nodes (3 nodes)
                         "udr_prepare", "udr_compile_validate", "udr_execute",
-                        # Progressive TTD-DR nodes
-                        "ttd_dr_init", "ttd_dr_research", "ttd_dr_finalize",
+                        # Progressive TTD-DR nodes (4 nodes - split research phase)
+                        "ttd_dr_init", "ttd_dr_start_research", "ttd_dr_execute_iterations", "ttd_dr_finalize",
                         # Final
                         "final_report"
                     ]
