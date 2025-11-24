@@ -1,0 +1,3298 @@
+
+[114th Congress Public Law 190]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 130 STAT. 615]]
+
+Public Law 114-190
+114th Congress
+
+                                 An Act
+
+
+ 
+To amend title 49, United States Code, to extend authorizations for the 
+airport improvement program, to amend the Internal Revenue Code of 1986 
+   to extend the funding and expenditure authority of the Airport and 
+      Airway Trust Fund, and for other purposes. <<NOTE: July 15, 
+                          2016 -  [H.R. 636]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: FAA Extension, 
+Safety, and Security Act of 2016. 49 USC 40101 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``FAA Extension, 
+Safety, and Security Act of 2016''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Appropriate committees of Congress defined.
+
+                         TITLE I--FAA EXTENSION
+
+                 Subtitle A--Airport and Airway Programs
+
+Sec. 1101. Extension of airport improvement program.
+Sec. 1102. Extension of expiring authorities.
+Sec. 1103. Federal Aviation Administration operations.
+Sec. 1104. Air navigation facilities and equipment.
+Sec. 1105. Research, engineering, and development.
+Sec. 1106. Funding for aviation programs.
+Sec. 1107. Essential air service.
+
+                     Subtitle B--Revenue Provisions
+
+Sec. 1201. Expenditure authority from Airport and Airway Trust Fund.
+Sec. 1202. Extension of taxes funding Airport and Airway Trust Fund.
+
+               TITLE II--AVIATION SAFETY CRITICAL REFORMS
+
+                           Subtitle A--Safety
+
+Sec. 2101. Pilot records database deadline.
+Sec. 2102. Cockpit automation management.
+Sec. 2103. Enhanced mental health screening for pilots.
+Sec. 2104. Laser pointer incidents.
+Sec. 2105. Crash-resistant fuel systems.
+Sec. 2106. Hiring of air traffic controllers.
+Sec. 2107. Training policies regarding assistance for persons with 
+           disabilities.
+Sec. 2108. Air travel accessibility.
+Sec. 2109. Additional certification resources.
+Sec. 2110. Tower marking.
+Sec. 2111. Aviation cybersecurity.
+Sec. 2112. Repair stations located outside United States.
+Sec. 2113. Enhanced training for flight attendants.
+
+                         Subtitle B--UAS Safety
+
+Sec. 2201. Definitions.
+Sec. 2202. Identification standards.
+Sec. 2203. Safety statements.
+
+[[Page 130 STAT. 616]]
+
+Sec. 2204. Facilitating interagency cooperation for unmanned aircraft 
+           authorization in support of firefighting operations and 
+           utility restoration.
+Sec. 2205. Interference with wildfire suppression, law enforcement, or 
+           emergency response effort by operation of unmanned aircraft.
+Sec. 2206. Pilot project for airport safety and airspace hazard 
+           mitigation.
+Sec. 2207. Emergency exemption process.
+Sec. 2208. Unmanned aircraft systems traffic management.
+Sec. 2209. Applications for designation.
+Sec. 2210. Operations associated with critical infrastructure.
+Sec. 2211. Unmanned aircraft systems research and development roadmap.
+Sec. 2212. Unmanned aircraft systems-manned aircraft collision research.
+Sec. 2213. Probabilistic metrics research and development study.
+
+               Subtitle C--Time Sensitive Aviation Reforms
+
+Sec. 2301. Small airport relief for safety projects.
+Sec. 2302. Use of revenues at previously associated airport.
+Sec. 2303. Working group on improving air service to small communities.
+Sec. 2304. Computation of basic annuity for certain air traffic 
+           controllers.
+Sec. 2305. Refunds for delayed baggage.
+Sec. 2306. Contract weather observers.
+Sec. 2307. Medical certification of certain small aircraft pilots.
+Sec. 2308. Tarmac delays.
+Sec. 2309. Family seating.
+
+                      TITLE III--AVIATION SECURITY
+
+Sec. 3001. Short title.
+Sec. 3002. Definitions.
+
+                   Subtitle A--TSA PreCheck Expansion
+
+Sec. 3101. PreCheck program authorization.
+Sec. 3102. PreCheck program enrollment expansion.
+
+  Subtitle B--Securing Aviation From Foreign Entry Points and Guarding 
+                   Airports Through Enhanced Security
+
+Sec. 3201. Last point of departure airport security assessment.
+Sec. 3202. Security coordination enhancement plan.
+Sec. 3203. Workforce assessment.
+Sec. 3204. Donation of screening equipment to protect the United States.
+Sec. 3205. National cargo security program.
+Sec. 3206. International training and capacity development.
+
+           Subtitle C--Checkpoint Optimization and Efficiency
+
+Sec. 3301. Sense of Congress.
+Sec. 3302. Enhanced staffing allocation model.
+Sec. 3303. Effective utilization of staffing resources.
+Sec. 3304. TSA staffing and resource allocation.
+Sec. 3305. Aviation security stakeholders defined.
+Sec. 3306. Rule of construction.
+
+         Subtitle D--Aviation Security Enhancement and Oversight
+
+Sec. 3401. Definitions.
+Sec. 3402. Threat assessment.
+Sec. 3403. Oversight.
+Sec. 3404. Credentials.
+Sec. 3405. Vetting.
+Sec. 3406. Metrics.
+Sec. 3407. Inspections and assessments.
+Sec. 3408. Covert testing.
+Sec. 3409. Security directives.
+Sec. 3410. Implementation report.
+Sec. 3411. Miscellaneous amendments.
+
+                  Subtitle E--Checkpoints of the Future
+
+Sec. 3501. Checkpoints of the future.
+Sec. 3502. Pilot program for increased efficiency and security at 
+           Category X airports.
+Sec. 3503. Pilot program for the development and testing of prototypes 
+           for airport security systems.
+Sec. 3504. Report required.
+Sec. 3505. Funding.
+
+[[Page 130 STAT. 617]]
+
+Sec. 3506. Acceptance and provision of resources by the Transportation 
+           Security Administration.
+
+                  Subtitle F--Miscellaneous Provisions
+
+Sec. 3601. Visible deterrent.
+Sec. 3602. Law enforcement training for mass casualty and active shooter 
+           incidents.
+Sec. 3603. Assistance to airports and surface transportation systems.
+
+SEC. 2. <<NOTE: 49 USC 40101 note.>>  APPROPRIATE COMMITTEES OF 
+                    CONGRESS DEFINED.
+
+    In this Act, unless expressly provided otherwise, the term 
+``appropriate committees of Congress'' means the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on 
+Transportation and Infrastructure of the House of Representatives.
+
+                         TITLE I--FAA EXTENSION
+
+                 Subtitle A--Airport and Airway Programs
+
+SEC. 1101. EXTENSION OF AIRPORT IMPROVEMENT PROGRAM.
+
+    (a) Authorization of Appropriations.--Section 48103(a) of title 49, 
+United States Code, is amended by striking ``fiscal years 2012 through 
+2015'' and all that follows through the period at the end and inserting 
+``fiscal years 2012 through 2017.''.
+    (b) Project Grant Authority.--Section 47104(c) of title 49, United 
+States Code, is amended in the matter preceding paragraph (1) by 
+striking ``July 15, 2016,'' and inserting ``September 30, 2017,''.
+SEC. 1102. EXTENSION OF EXPIRING AUTHORITIES.
+
+    (a) Section 47107(r)(3) of title 49, United States Code, is amended 
+by striking ``July 16, 2016'' and inserting ``October 1, 2017''.
+    (b) Section 47115(j) of title 49, United States Code, is amended by 
+striking ``fiscal years 2012 through 2015'' and all that follows through 
+``July 15, 2016,'' and inserting ``fiscal years 2012 through 2017,''.
+    (c) Section 47124(b)(3)(E) of title 49, United States Code, is 
+amended by striking ``fiscal years 2012 through 2015'' and all that 
+follows through ``July 15, 2016,'' and inserting ``fiscal years 2012 
+through 2017''.
+    (d) Section 47141(f) of title 49, United States Code, is amended by 
+striking ``July 15, 2016'' and inserting ``September 30, 2017''.
+    (e) Section 41743(e)(2) of title 49, United States Code, is amended 
+by striking ``2015'' and inserting ``2017''.
+    (f) Section 186(d) of the Vision 100--Century of Aviation 
+Reauthorization Act (117 Stat. 2518) is amended by striking ``fiscal 
+years 2012 through 2015'' and all that follows through ``July 15, 
+2016,'' and inserting ``fiscal years 2012 through 2017''.
+    (g) Section 409(d) of the Vision 100--Century of Aviation 
+Reauthorization Act (49 U.S.C. 41731 note) is amended by striking ``July 
+15, 2016'' and inserting ``September 30, 2017''.
+    (h) Section 140(c)(1) of the FAA Modernization and Reform Act of 
+2012 (126 Stat. 28) is amended--
+            (1) by striking ``fiscal years 2013 through 2016,'' and 
+        inserting ``fiscal years 2013 through 2017,''; and
+            (2) by inserting before the period at the end the following: 
+        ``or an extension of this Act''.
+
+[[Page 130 STAT. 618]]
+
+    (i) Section 332(c)(1) of the FAA Modernization and Reform Act of 
+2012 (49 U.S.C. 40101 note) is amended by striking ``5 years after the 
+date of enactment of this Act'' and inserting ``on September 30, 2019''.
+    (j) Section 411(h) of the FAA Modernization and Reform Act of 2012 
+(49 U.S.C. 42301 prec. note) is amended by striking ``July 15, 2016'' 
+and inserting ``September 30, 2017''.
+    (k) Section 822(k) of the FAA Modernization and Reform Act of 2012 
+(49 U.S.C. 47141 note) is amended by striking ``July 15, 2016'' and 
+inserting ``September 30, 2017''.
+SEC. 1103. FEDERAL AVIATION ADMINISTRATION OPERATIONS.
+
+    Section 106(k) of title 49, United States Code, is amended--
+            (1) by striking paragraph (1)(E) and inserting the 
+        following:
+                    ``(E) $9,909,724,000 for each of fiscal years 2016 
+                and 2017.''; and
+            (2) in paragraph (3) by striking ``fiscal years 2012 through 
+        2015'' and all that follows through ``July 15, 2016,'' and 
+        inserting ``fiscal years 2012 through 2017,''.
+SEC. 1104. AIR NAVIGATION FACILITIES AND EQUIPMENT.
+
+    Section 48101(a)(5) of title 49, United States Code, is amended to 
+read as follows:
+            ``(5) $2,855,000,000 for each of fiscal years 2016 and 
+        2017.''.
+SEC. 1105. RESEARCH, ENGINEERING, AND DEVELOPMENT.
+
+    Section 48102(a)(9) of title 49, United States Code, is amended to 
+read as follows:
+            ``(9) $166,000,000 for each of fiscal years 2016 and 
+        2017.''.
+SEC. 1106. FUNDING FOR AVIATION PROGRAMS.
+
+    (a) In General.--Section 48114 of title 49, United States Code, is 
+amended--
+            (1) in subsection (a)(2) by striking ``fiscal year 2016,'' 
+        and inserting ``fiscal year 2017,''; and
+            (2) in subsection (c)(2) by striking ``fiscal year 2016'' 
+        and inserting ``fiscal year 2017''.
+
+    (b) Compliance With Aviation Funding Requirement.--The budget 
+authority authorized in this title, including the amendments made by 
+this title, shall be deemed to satisfy the requirements of subsections 
+(a)(1)(B) and (a)(2) of section 48114 of title 49, United States Code, 
+for each of fiscal years 2016 and 2017.
+SEC. 1107. ESSENTIAL AIR SERVICE.
+
+    Section 41742(a)(2) of title 49, United States Code, is amended by 
+striking ``fiscal year 2014,'' and all that follows through ``July 15, 
+2016,'' and inserting ``fiscal year 2014, $93,000,000 for fiscal year 
+2015, and $175,000,000 for each of fiscal years 2016 and 2017''.
+
+                     Subtitle B--Revenue Provisions
+
+SEC. 1201. EXPENDITURE AUTHORITY FROM AIRPORT AND AIRWAY TRUST 
+                          FUND.
+
+    (a) In General.--Section 9502(d)(1) of the Internal Revenue Code of 
+1986 <<NOTE: 26 USC 9502.>>  is amended--
+
+[[Page 130 STAT. 619]]
+
+            (1) in the matter preceding subparagraph (A), by striking 
+        ``July 16, 2016'' and inserting ``October 1, 2017''; and
+            (2) in subparagraph (A), by striking the semicolon at the 
+        end and inserting ``or the FAA Extension, Safety, and Security 
+        Act of 2016;''.
+
+    (b) Conforming Amendment.--Section 9502(e)(2) <<NOTE: 26 USC 
+9502.>>  of such Code is amended by striking ``July 16, 2016'' and 
+inserting ``October 1, 2017''.
+SEC. 1202. EXTENSION OF TAXES FUNDING AIRPORT AND AIRWAY TRUST 
+                          FUND.
+
+    (a) Fuel Taxes.--Section 4081(d)(2)(B) of the Internal Revenue Code 
+of 1986 <<NOTE: 26 USC 4081.>>  is amended by striking ``July 15, 2016'' 
+and inserting ``September 30, 2017''.
+
+    (b) Ticket Taxes.--
+            (1) Persons.--Section 4261(k)(1)(A)(ii) of such Code is 
+        amended by striking ``July 15, 2016'' and inserting ``September 
+        30, 2017''.
+            (2) Property.--Section 4271(d)(1)(A)(ii) of such Code is 
+        amended by striking ``July 15, 2016'' and inserting ``September 
+        30, 2017''.
+
+    (c) Fractional Ownership Programs.--
+            (1) Treatment as noncommercial aviation.--Section 4083(b) of 
+        such Code is amended by striking ``July 16, 2016'' and inserting 
+        ``October 1, 2017''.
+            (2) Exemption from ticket taxes.--Section 4261(j) of such 
+        Code is amended by striking ``July 15, 2016'' and inserting 
+        ``September 30, 2017''.
+
+               TITLE II--AVIATION SAFETY CRITICAL REFORMS
+
+                           Subtitle A--Safety
+
+SEC. 2101. PILOT RECORDS DATABASE DEADLINE.
+
+    Section 44703(i)(2) of title 49, United States Code, is amended by 
+striking ``The Administrator shall establish'' and inserting ``Not later 
+than April 30, 2017, the Administrator shall establish and make 
+available for use''.
+SEC. 2102. <<NOTE: Deadline. 49 USC 44701 note.>>  COCKPIT 
+                          AUTOMATION MANAGEMENT.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Administrator of the Federal Aviation Administration shall--
+            (1) <<NOTE: Verification.>>  develop a process to verify 
+        that air carrier training programs incorporate measures to train 
+        pilots on--
+                    (A) monitoring automation systems; and
+                    (B) controlling the flightpath of aircraft without 
+                autopilot or autoflight systems engaged;
+            (2) develop metrics or measurable tasks that air carriers 
+        can use to evaluate pilot monitoring proficiency;
+            (3) <<NOTE: Guidance.>>  issue guidance to aviation safety 
+        inspectors responsible for oversight of the operations of air 
+        carriers on tracking and assessing pilots' proficiency in manual 
+        flight; and
+            (4) <<NOTE: Guidance.>>  issue guidance to air carriers and 
+        inspectors regarding standards for compliance with the 
+        requirements for enhanced
+
+[[Page 130 STAT. 620]]
+
+        pilot training contained in the final rule published in the 
+        Federal Register on November 12, 2013 (78 Fed. Reg. 67800).
+SEC. 2103. <<NOTE: Deadline. Recommenda- tions. Determination.>>  
+                          ENHANCED MENTAL HEALTH SCREENING FOR 
+                          PILOTS.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Administrator of the Federal Aviation Administration shall consider the 
+recommendations of the Pilot Fitness Aviation Rulemaking Committee in 
+determining whether to implement, as part of a comprehensive medical 
+certification process for pilots with a first- or second-class airman 
+medical certificate, additional screening for mental health conditions, 
+including depression and suicidal thoughts or tendencies, and assess 
+treatments that would address any risk associated with such conditions.
+SEC. 2104. <<NOTE: 49 USC 46301 note. Effective 
+                          date. Coordination. Updates.>>  LASER 
+                          POINTER INCIDENTS.
+
+    (a) In General.--Beginning 90 days after the date of enactment of 
+this Act, the Administrator of the Federal Aviation Administration, in 
+coordination with appropriate Federal law enforcement agencies, shall 
+provide quarterly updates to the appropriate committees of Congress 
+regarding--
+            (1) the number of incidents involving the beam from a laser 
+        pointer (as defined in section 39A of title 18, United States 
+        Code) being aimed at, or in the flight path of, an aircraft in 
+        the airspace jurisdiction of the United States;
+            (2) the number of civil or criminal enforcement actions 
+        taken by the Federal Aviation Administration, the Department of 
+        Transportation, or another Federal agency with regard to the 
+        incidents described in paragraph (1), including the amount of 
+        the civil or criminal penalties imposed on violators;
+            (3) the resolution of any incidents described in paragraph 
+        (1) that did not result in a civil or criminal enforcement 
+        action; and
+            (4) any actions the Department of Transportation or another 
+        Federal agency has taken on its own, or in conjunction with 
+        other Federal agencies or local law enforcement agencies, to 
+        deter the type of activity described in paragraph (1).
+
+    (b) Civil Penalties.--The Administrator shall revise the maximum 
+civil penalty that may be imposed on an individual who aims the beam of 
+a laser pointer at an aircraft in the airspace jurisdiction of the 
+United States, or at the flight path of such an aircraft, to be $25,000.
+SEC. 2105. <<NOTE: Deadline. Evaluation. Update. Rotorcraft. 49 
+                          USC 44504 note.>>  CRASH-RESISTANT FUEL 
+                          SYSTEMS.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Administrator of the Federal Aviation Administration shall evaluate and 
+update, as necessary, standards for crash-resistant fuel systems for 
+civilian rotorcraft.
+SEC. 2106. HIRING OF AIR TRAFFIC CONTROLLERS.
+
+    (a) In General.--Section 44506 of title 49, United States Code, is 
+amended by adding at the end the following:
+    ``(f) Hiring of Certain Air Traffic Control Specialists.--
+            ``(1) Consideration of applicants.--
+                    ``(A) Ensuring selection of most qualified 
+                applicants.--In appointing <<NOTE: Time periods.>>  
+                individuals to the position of air traffic controller, 
+                the Administrator shall give preferential consideration 
+                to qualified individuals maintaining 52 consecutive 
+                weeks of air traffic control experience
+
+[[Page 130 STAT. 621]]
+
+                involving the full-time active separation of air traffic 
+                after receipt of an air traffic certification or air 
+                traffic control facility rating within 5 years of 
+                application while serving at--
+                          ``(i) a Federal Aviation Administration air 
+                      traffic control facility;
+                          ``(ii) a civilian or military air traffic 
+                      control facility of the Department of Defense; or
+                          ``(iii) a tower operating under contract with 
+                      the Federal Aviation Administration under section 
+                      47124.
+                    ``(B) Consideration of additional applicants.--
+                          ``(i) In general.--After giving preferential 
+                      consideration to applicants under subparagraph 
+                      (A), the Administrator shall consider additional 
+                      applicants for the position of air traffic 
+                      controller by referring an approximately equal 
+                      number of individuals for appointment among the 2 
+                      applicant pools described in this subparagraph. 
+                      The number of individuals referred for 
+                      consideration from each group shall not differ by 
+                      more than 10 percent.
+                          ``(ii) Pool 1.--Pool 1 applicants are 
+                      individuals who--
+                                    ``(I) have successfully completed 
+                                air traffic controller training and 
+                                graduated from an institution 
+                                participating in the Collegiate Training 
+                                Initiative program maintained under 
+                                subsection (c)(1) and who have received 
+                                from the institution--
+                                            ``(aa) an appropriate 
+                                        recommendation; or
+                                            ``(bb) an endorsement 
+                                        certifying that the individual 
+                                        would have met the requirements 
+                                        in effect as of December 31, 
+                                        2013, for an appropriate 
+                                        recommendation;
+                                    ``(II) <<NOTE: Deadline.>>  are 
+                                eligible for a veterans recruitment 
+                                appointment pursuant to section 4214 of 
+                                title 38 and provide a Certificate of 
+                                Release or Discharge from Active Duty 
+                                within 120 days of the announcement 
+                                closing;
+                                    ``(III) are eligible veterans (as 
+                                defined in section 4211 of title 38) 
+                                maintaining aviation experience obtained 
+                                in the course of the individual's 
+                                military experience; or
+                                    ``(IV) are preference eligible 
+                                veterans (as defined in section 2108 of 
+                                title 5).
+                          ``(iii) Pool 2.--Pool 2 applicants are 
+                      individuals who apply under a vacancy announcement 
+                      recruiting from all United States citizens.
+            ``(2) Use of biographical assessments.--
+                    ``(A) Biographical assessments.--The Administrator 
+                shall not use any biographical assessment when hiring 
+                under paragraph (1)(A) or paragraph (1)(B)(ii).
+                    ``(B) Reconsideration of applicants disqualified on 
+                basis of biographical assessments.--
+                          ``(i) In general.--If an individual described 
+                      in paragraph (1)(A) or paragraph (1)(B)(ii), who 
+                      applied for the position of air traffic controller 
+                      with the Administration in response to Vacancy 
+                      Announcement FAA-AMC-14-ALLSRCE-33537 (issued on 
+                      February
+
+[[Page 130 STAT. 622]]
+
+                      10, 2014), was disqualified from the position as 
+                      the result of a biographical assessment, the 
+                      Administrator shall provide the applicant an 
+                      opportunity to reapply for the position as soon as 
+                      practicable under the revised hiring practices.
+                          ``(ii) Waiver of age restriction.--The 
+                      Administrator shall waive any maximum age 
+                      restriction for the position of air traffic 
+                      controller with the Administration that would 
+                      otherwise disqualify an individual from the 
+                      position if the individual--
+                                    ``(I) <<NOTE: Deadline.>>  is 
+                                reapplying for the position pursuant to 
+                                clause (i) on or before December 31, 
+                                2017; and
+                                    ``(II) met the maximum age 
+                                requirement on the date of the 
+                                individual's previous application for 
+                                the position during the interim hiring 
+                                process.
+            ``(3) <<NOTE: Time period.>>  Maximum entry age for 
+        experienced controllers.--Notwithstanding section 3307 of title 
+        5, the maximum limit of age for an original appointment to a 
+        position as an air traffic controller shall be 35 years of age 
+        for those maintaining 52 weeks of air traffic control experience 
+        involving the full-time active separation of air traffic after 
+        receipt of an air traffic certification or air traffic control 
+        facility rating in a civilian or military air traffic control 
+        facility.''.
+
+    (b) <<NOTE: 49 USC 41705 note.>>  Notification of Vacancies.--The 
+Administrator of the Federal Aviation Administration shall consider 
+directly notifying secondary schools and institutions of higher 
+learning, including Historically Black Colleges and Universities, 
+Hispanic-serving institutions, Minority Institutions, and Tribal 
+Colleges and Universities, of a vacancy announcement under section 
+44506(f)(1)(B)(iii) of title 49, United States Code.
+SEC. 2107. TRAINING POLICIES REGARDING ASSISTANCE FOR PERSONS WITH 
+                          DISABILITIES.
+
+    (a) <<NOTE: Deadline. Reports. Assessment.>>  In General.--Not later 
+than 270 days after the date of enactment of this Act, the Comptroller 
+General of the United States shall submit to Congress a report assessing 
+required air carrier personnel and contractor training programs 
+regarding the assistance of persons with disabilities, including--
+            (1) variations in training programs between air carriers;
+            (2) instances since 2005 where the Department of 
+        Transportation has requested that an air carrier take corrective 
+        action following a review of the air carrier's training 
+        programs; and
+            (3) actions taken by air carriers following requests 
+        described in paragraph (2).
+
+    (b) <<NOTE: Public information.>>  Best Practices.--After the date 
+the report is submitted under subsection (a), the Secretary of 
+Transportation, based on the findings of the report, shall develop, make 
+publicly available, and appropriately disseminate to air carriers such 
+best practices as the Secretary considers necessary to improve the 
+reviewed training programs.
+SEC. 2108. <<NOTE: Deadline. Notice. Regulations.>>  AIR TRAVEL 
+                          ACCESSIBILITY.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Secretary of Transportation shall issue the supplemental notice of 
+proposed rulemaking referenced in the Secretary's Report on Significant 
+Rulemakings, dated June 15, 2015, and assigned Regulation Identification 
+Number 2105-AE12.
+
+[[Page 130 STAT. 623]]
+
+SEC. 2109. <<NOTE: 49 USC 44701 note. Contracts.>>  ADDITIONAL 
+                          CERTIFICATION RESOURCES.
+
+    (a) In General.--Notwithstanding any other provision of law, and 
+subject to the requirements of subsection (b), the Administrator of the 
+FAA may enter into a reimbursable agreement with an applicant or 
+certificate-holder for the reasonable travel and per diem expenses of 
+the FAA associated with official travel to expedite the acceptance or 
+validation by a foreign authority of an FAA certificate or design 
+approval or the acceptance or validation by the FAA of a foreign 
+authority certificate or design approval.
+    (b) Conditions.--The Administrator may enter into an agreement under 
+subsection (a) only if--
+            (1) the travel covered under the agreement is deemed 
+        necessary, by both the Administrator and the applicant or 
+        certificate-holder, to expedite the acceptance or validation of 
+        the relevant certificate or approval;
+            (2) the travel is conducted at the request of the applicant 
+        or certificate-holder;
+            (3) travel plans and expenses are approved by the applicant 
+        or certificate-holder prior to travel; and
+            (4) the agreement requires payment in advance of FAA 
+        services and is consistent with the processes under section 
+        106(l)(6) of title 49, United States Code.
+
+    (c) Report.--Not later than 2 years after the date of enactment of 
+this Act, the Administrator shall submit to the appropriate committees 
+of Congress a report on--
+            (1) the number of occasions on which the Administrator 
+        entered into reimbursable agreements under this section;
+            (2) the number of occasions on which the Administrator 
+        declined a request by an applicant or certificate-holder to 
+        enter into a reimbursable agreement under this section;
+            (3) the amount of reimbursements collected in accordance 
+        with agreements under this section; and
+            (4) the extent to which reimbursable agreements under this 
+        section assisted in reducing the amount of time necessary for 
+        validations of certificates and design approvals.
+
+    (d) Definitions.--In this section, the following definitions apply:
+            (1) Applicant.--The term ``applicant'' means a person that 
+        has--
+                    (A) applied to a foreign authority for the 
+                acceptance or validation of an FAA certificate or design 
+                approval; or
+                    (B) applied to the FAA for the acceptance or 
+                validation of a foreign authority certificate or design 
+                approval.
+            (2) Certificate-holder.--The term ``certificate-holder'' 
+        means a person that holds a certificate issued by the 
+        Administrator under part 21 of title 14, Code of Federal 
+        Regulations.
+            (3) FAA.--The term ``FAA'' means the Federal Aviation 
+        Administration.
+SEC. 2110. <<NOTE: 49 USC 44718 note. Deadline. Regulations.>>  
+                          TOWER MARKING.
+
+    (a) In General.--Not later than 1 year after the date of enactment 
+of this Act, the Administrator of the Federal Aviation Administration 
+shall issue regulations to require the marking of covered towers.
+    (b) Marking Required.--The regulations under subsection (a) shall 
+require that a covered tower be clearly marked in a manner
+
+[[Page 130 STAT. 624]]
+
+that is consistent with applicable guidance under the Federal Aviation 
+Administration Advisory Circular issued December 4, 2015 (AC 70/7460-
+1L), or other relevant safety guidance, as determined by the 
+Administrator.
+    (c) Application.--The regulations issued under subsection (a) shall 
+ensure that--
+            (1) all covered towers constructed on or after the date on 
+        which such regulations take effect are marked in accordance with 
+        subsection (b); and
+            (2) <<NOTE: Deadline.>>  a covered tower constructed before 
+        the date on which such regulations take effect is marked in 
+        accordance with subsection (b) not later than 1 year after such 
+        effective date.
+
+    (d) Definitions.--
+            (1) In general.--In this section, the following definitions 
+        apply:
+                    (A) Covered tower.--
+                          (i) In general.--The term ``covered tower'' 
+                      means a structure that--
+                                    (I) is self-standing or supported by 
+                                guy wires and ground anchors;
+                                    (II) is 10 feet or less in diameter 
+                                at the above-ground base, excluding 
+                                concrete footing;
+                                    (III) at the highest point of the 
+                                structure is at least 50 feet above 
+                                ground level;
+                                    (IV) at the highest point of the 
+                                structure is not more than 200 feet 
+                                above ground level;
+                                    (V) has accessory facilities on 
+                                which an antenna, sensor, camera, 
+                                meteorological instrument, or other 
+                                equipment is mounted; and
+                                    (VI) is located--
+                                            (aa) outside the boundaries 
+                                        of an incorporated city or town; 
+                                        or
+                                            (bb) on land that is--
+                                                (AA) undeveloped; or
+                                                (BB) used for 
+                                            agricultural purposes.
+                          (ii) Exclusions.--The term ``covered tower'' 
+                      does not include any structure that--
+                                    (I) is adjacent to a house, barn, 
+                                electric utility station, or other 
+                                building;
+                                    (II) is within the curtilage of a 
+                                farmstead;
+                                    (III) supports electric utility 
+                                transmission or distribution lines;
+                                    (IV) is a wind-powered electrical 
+                                generator with a rotor blade radius that 
+                                exceeds 6 feet; or
+                                    (V) is a street light erected or 
+                                maintained by a Federal, State, local, 
+                                or tribal entity.
+                    (B) Undeveloped.--The term ``undeveloped'' means a 
+                defined geographic area where the Administrator 
+                determines low-flying aircraft are operated on a routine 
+                basis, such as low-lying forested areas with predominant 
+                tree cover under 200 feet and pasture and range land.
+            (2) Other definitions.--The Administrator shall define such 
+        other terms as may be necessary to carry out this section.
+
+    (e) Database.--The Administrator shall--
+            (1) develop a database that contains the location and height 
+        of each covered tower;
+            (2) keep the database current to the extent practicable;
+
+[[Page 130 STAT. 625]]
+
+            (3) ensure that any proprietary information in the database 
+        is protected from disclosure in accordance with law; and
+            (4) ensure that, by virtue of accessing the database, users 
+        agree and acknowledge that information in the database--
+                    (A) may only be used for aviation safety purposes; 
+                and
+                    (B) may not be disclosed for purposes other than 
+                aviation safety, regardless of whether or not the 
+                information is marked or labeled as proprietary or with 
+                a similar designation.
+SEC. 2111. <<NOTE: 49 USC 44903 note.>>  AVIATION CYBERSECURITY.
+
+    (a) Comprehensive and Strategic Aviation Framework.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 240 
+        days after the date of enactment of this Act, the Administrator 
+        of the Federal Aviation Administration shall facilitate and 
+        support the development of a comprehensive and strategic 
+        framework of principles and policies to reduce cybersecurity 
+        risks to the national airspace system, civil aviation, and 
+        agency information systems using a total systems approach that 
+        takes into consideration the interactions and interdependence of 
+        different components of aircraft systems and the national 
+        airspace system.
+            (2) Scope.--In carrying out paragraph (1), the Administrator 
+        shall--
+                    (A) identify and address the cybersecurity risks 
+                associated with--
+                          (i) the modernization of the national airspace 
+                      system;
+                          (ii) the automation of aircraft, equipment, 
+                      and technology; and
+                          (iii) aircraft systems, including by--
+                                    (I) directing the Aircraft Systems 
+                                Information Security Protection Working 
+                                Group--
+                                            (aa) to assess cybersecurity 
+                                        risks to aircraft systems;
+                                            (bb) to review the extent to 
+                                        which existing rulemaking, 
+                                        policy, and guidance to promote 
+                                        safety also promote aircraft 
+                                        systems information security 
+                                        protection; and
+                                            (cc) to provide appropriate 
+                                        recommendations to the 
+                                        Administrator if separate or 
+                                        additional rulemaking, policy, 
+                                        or guidance is needed to address 
+                                        cybersecurity risks to aircraft 
+                                        systems; and
+                                    (II) identifying and addressing--
+                                            (aa) cybersecurity risks 
+                                        associated with in-flight 
+                                        entertainment systems; and
+                                            (bb) whether in-flight 
+                                        entertainment systems can and 
+                                        should be isolated and separate, 
+                                        such as through an air gap, 
+                                        under existing rulemaking, 
+                                        policy, and guidance;
+                    (B) clarify cybersecurity roles and responsibilities 
+                of offices and employees of the Federal Aviation 
+                Administration, as the roles and responsibilities relate 
+                to cybersecurity at the Federal Aviation Administration;
+                    (C) identify and implement objectives and actions to 
+                reduce cybersecurity risks to air traffic control 
+                information
+
+[[Page 130 STAT. 626]]
+
+                systems, including actions to improve implementation of 
+                information security standards, such as those of the 
+                National Institute of Standards and Technology;
+                    (D) support voluntary efforts by industry, RTCA, 
+                Inc., and other standards-setting organizations to 
+                develop and identify consensus standards and best 
+                practices relating to guidance on aviation systems 
+                information security protection, consistent, to the 
+                extent appropriate, with the cybersecurity risk 
+                management activities described in section 2(e) of the 
+                National Institute of Standards and Technology Act (15 
+                U.S.C. 272(e));
+                    (E) <<NOTE: Guidelines.>>  establish guidelines for 
+                the voluntary exchange of information between and among 
+                aviation stakeholders pertaining to aviation-related 
+                cybersecurity incidents, threats, and vulnerabilities;
+                    (F) identify short- and long-term objectives and 
+                actions that can be taken in response to cybersecurity 
+                risks to the national airspace system; and
+                    (G) identify research and development activities to 
+                inform actions in response to cybersecurity risks.
+            (3) Implementation requirements.--In carrying out the 
+        activities under this subsection, the Administrator shall--
+                    (A) <<NOTE: Coordination.>>  coordinate with 
+                aviation stakeholders, including, at a minimum, 
+                representatives of industry, airlines, manufacturers, 
+                airports, RTCA, Inc., and unions;
+                    (B) <<NOTE: Consultation.>>  consult with the heads 
+                of relevant agencies and with international regulatory 
+                authorities;
+                    (C) if determined appropriate, convene an expert 
+                panel or working group to identify and address 
+                cybersecurity risks; and
+                    (D) <<NOTE: Evaluation.>>  evaluate, on a periodic 
+                basis, the effectiveness of the principles established 
+                under this subsection.
+
+    (b) <<NOTE: Deadline.>>  Update on Cybersecurity Implementation 
+Progress.--Not later than 90 days after the date of enactment of this 
+Act, the Administrator shall provide to the appropriate committees of 
+Congress an update on progress made toward the implementation of this 
+section.
+
+    (c) <<NOTE: Deadline. Consultation. Assessment. Research and 
+development.>>  Cybersecurity Threat Model.--Not later than 1 year after 
+the date of enactment of this Act, the Administrator, in consultation 
+with the Director of the National Institute of Standards and Technology, 
+shall implement the open recommendation issued in 2015 by the Government 
+Accountability Office to assess and research the potential cost and 
+timetable of developing and maintaining an agencywide threat model, 
+which shall be updated regularly, to strengthen the cybersecurity of 
+agency systems across the Federal Aviation Administration. The 
+Administrator shall brief the Committee on Science, Space, and 
+Technology and the Committee on Transportation and Infrastructure of the 
+House of Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate on the status, results, and composition of 
+the threat model.
+
+    (d) National Institute of Standards and Technology Information 
+Security Standards.--Not 
+later <<NOTE: Deadline. Consultation. Reports. Plan.>>  than 180 days 
+after the date of enactment of this Act, the Administrator of the 
+Federal Aviation Administration, after consultation with the Director of 
+the National Institute of Standards and Technology, shall transmit
+
+[[Page 130 STAT. 627]]
+
+to the Committee on Science, Space, and Technology and the Committee on 
+Transportation and Infrastructure of the House of Representatives and 
+the Committee on Commerce, Science, and Transportation of the Senate a 
+report on--
+            (1) a cybersecurity standards plan to improve implementation 
+        of the National Institute of Standards and Technology's latest 
+        revisions to information security guidance for Federal Aviation 
+        Administration information and Federal Aviation Administration 
+        information systems within set timeframes; and
+            (2) an explanation of why any such revisions are not 
+        incorporated in the plan or are not incorporated within set 
+        timeframes.
+
+    (e) <<NOTE: Deadline. Consultation. Plan.>>  Cybersecurity Research 
+and Development.--Not later than 1 year after the date of enactment of 
+this Act, the Administrator, in consultation with other agencies as 
+appropriate, shall establish a cybersecurity research and development 
+plan for the national airspace system, including--
+            (1) any proposal for research and development cooperation 
+        with international partners;
+            (2) <<NOTE: Evaluation. Determination.>>  an evaluation and 
+        determination of research and development needs to determine any 
+        cybersecurity risks of cabin communications and cabin 
+        information technology systems on board in the passenger domain; 
+        and
+            (3) <<NOTE: Time period.>>  objectives, proposed tasks, 
+        milestones, and a 5-year budgetary profile.
+SEC. 2112. REPAIR STATIONS LOCATED OUTSIDE UNITED STATES.
+
+    (a) Risk-Based Oversight.--Section 44733 of title 49, United States 
+Code, is amended--
+            (1) by redesignating subsection (f) as subsection (g);
+            (2) by inserting after subsection (e) the following:
+
+    ``(f) Risk-Based Oversight.--
+            ``(1) <<NOTE: Deadline.>>  In general.--Not later than 90 
+        days after the date of enactment of the FAA Extension, Safety, 
+        and Security Act of 2016, the Administrator shall take measures 
+        to ensure that the safety assessment system established under 
+        subsection (a)--
+                    ``(A) places particular consideration on inspections 
+                of part 145 repair stations located outside the United 
+                States that conduct scheduled heavy maintenance work on 
+                part 121 air carrier aircraft; and
+                    ``(B) accounts for the frequency and seriousness of 
+                any corrective actions that part 121 air carriers must 
+                implement to aircraft following such work at such repair 
+                stations.
+            ``(2) International agreements.--The Administrator shall 
+        take the measures required under paragraph (1)--
+                    ``(A) in accordance with United States obligations 
+                under applicable international agreements; and
+                    ``(B) in a manner consistent with the applicable 
+                laws of the country in which a repair station is 
+                located.
+            ``(3) Access to data.--The Administrator may access and 
+        review such information or data in the possession of a part 121 
+        air carrier as the Administrator may require in carrying out 
+        paragraph (1)(B).''; and
+            (3) in subsection (g) (as so redesignated)--
+                    (A) by redesignating paragraphs (1) and (2) as 
+                paragraphs (2) and (3), respectively; and
+
+[[Page 130 STAT. 628]]
+
+                    (B) by inserting before paragraph (2) (as so 
+                redesignated) the following:
+            ``(1) Heavy maintenance work.--The term `heavy maintenance 
+        work' means a C-check, a D-check, or equivalent maintenance 
+        operation with respect to the airframe of a transport-category 
+        aircraft.''.
+
+    (b) <<NOTE: Deadlines. Notice. Regulations. Federal Register, 
+publication. 49 USC 44733 note.>>  Alcohol and Controlled Substances 
+Testing.--The Administrator of the Federal Aviation Administration shall 
+ensure that--
+            (1) not later than 90 days after the date of enactment of 
+        this Act, a notice of proposed rulemaking required pursuant to 
+        section 44733(d)(2) is published in the Federal Register; and
+            (2) not later than 1 year after the date on which the notice 
+        of proposed rulemaking is published in the Federal Register, the 
+        rulemaking is finalized.
+
+    (c) <<NOTE: Deadline. 49 USC 44733 note.>>  Background 
+Investigations.--Not later than 180 days after the date of enactment of 
+this Act, the Administrator shall ensure that each employee of a repair 
+station certificated under part 145 of title 14, Code of Federal 
+Regulations, who performs a safety-sensitive function on an air carrier 
+aircraft has undergone a pre-employment background investigation 
+sufficient to determine whether the individual presents a threat to 
+aviation safety, in a manner that is--
+            (1) determined acceptable by the Administrator;
+            (2) consistent with the applicable laws of the country in 
+        which the repair station is located; and
+            (3) consistent with the United States obligations under 
+        international agreements.
+SEC. 2113. ENHANCED TRAINING FOR FLIGHT ATTENDANTS.
+
+    Section 44734(a) of title 49, United States Code, is amended--
+            (1) in paragraph (2) by striking ``and'' at the end;
+            (2) in paragraph (3) by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) recognizing and responding to potential human 
+        trafficking victims.''.
+
+                         Subtitle B--UAS Safety
+
+SEC. 2201. <<NOTE: 49 USC 40101 note.>>  DEFINITIONS.
+
+    (a) Definitions Applied.--In this subtitle, the terms ``unmanned 
+aircraft'', ``unmanned aircraft system'', and ``small unmanned 
+aircraft'' have the meanings given those terms in section 331 of the FAA 
+Modernization and Reform Act of 2012 (49 U.S.C. 40101 note), as amended 
+by this Act.
+    (b) FAA Modernization and Reform Act.--Section 331 of the FAA 
+Modernization and Reform Act of 2012 (49 U.S.C. 40101 note) is amended--
+            (1) in paragraph (6) by inserting ``, including everything 
+        that is on board or otherwise attached to the aircraft'' after 
+        ``55 pounds''; and
+            (2) by striking paragraph (7) and inserting the following:
+            ``(7) Test range.--
+
+[[Page 130 STAT. 629]]
+
+                    ``(A) In general.--The term `test range' means a 
+                defined geographic area where research and development 
+                are conducted as authorized by the Administrator of the 
+                Federal Aviation Administration.
+                    ``(B) <<NOTE: Deadline.>>  Inclusions.--The term 
+                `test range' includes any of the 6 test ranges 
+                established by the Administrator of the Federal Aviation 
+                Administration under section 332(c), as in effect on the 
+                day before the date of enactment of this subparagraph, 
+                and any public entity authorized by the Federal Aviation 
+                Administration as an unmanned aircraft system flight 
+                test center before January 1, 2009.''.
+SEC. 2202. <<NOTE: 49 USC 40101 note. Consultation.>>  
+                          IDENTIFICATION STANDARDS.
+
+    (a) In General.--The Administrator of the Federal Aviation 
+Administration, in consultation with the Secretary of Transportation, 
+the President of RTCA, Inc., and the Director of the National Institute 
+of Standards and Technology, shall convene industry stakeholders to 
+facilitate the development of consensus standards for remotely 
+identifying operators and owners of unmanned aircraft systems and 
+associated unmanned aircraft.
+    (b) Considerations.--As part of any standards developed under 
+subsection (a), the Administrator shall ensure the consideration of--
+            (1) requirements for remote identification of unmanned 
+        aircraft systems;
+            (2) appropriate requirements for different classifications 
+        of unmanned aircraft systems operations, including public and 
+        civil; and
+            (3) the feasibility of the development and operation of a 
+        publicly accessible online database of unmanned aircraft and the 
+        operators thereof, and any criteria for exclusion from the 
+        database.
+
+    (c) <<NOTE: Reports.>>  Deadline.--Not later than 1 year after the 
+date of enactment of this Act, the Administrator shall submit to the 
+appropriate committees of Congress a report on any standards developed 
+under subsection (a).
+
+    (d) <<NOTE: Deadline. Regulations.>>  Guidance.--Not later than 1 
+year after the date on which the Administrator submits the report under 
+subsection (c), the Administrator shall issue regulations or guidance, 
+as appropriate, based on any standards developed under subsection (a).
+SEC. 2203. <<NOTE: 49 USC 40101 note. Effective date.>>  SAFETY 
+                          STATEMENTS.
+
+    (a) Required Information.--Beginning on the date that is 1 year 
+after the date of publication of the guidance under subsection (b)(1), a 
+manufacturer of a small unmanned aircraft shall make available to the 
+owner at the time of delivery of the small unmanned aircraft the safety 
+statement described in subsection (b)(2).
+    (b) Safety Statement.--
+            (1) <<NOTE: Deadline. Guidance.>>  In general.--Not later 
+        than 1 year after the date of enactment of this Act, the 
+        Administrator of the Federal Aviation Administration shall issue 
+        guidance for implementing this section.
+            (2) Requirements.--A safety statement required under 
+        subsection (a) shall include--
+                    (A) information about, and sources of, laws and 
+                regulations applicable to small unmanned aircraft;
+
+[[Page 130 STAT. 630]]
+
+                    (B) <<NOTE: Recommenda- tions.>>  recommendations 
+                for using small unmanned aircraft in a manner that 
+                promotes the safety of persons and property;
+                    (C) the date that the safety statement was created 
+                or last modified; and
+                    (D) language approved by the Administrator regarding 
+                the following:
+                          (i) A person may operate the small unmanned 
+                      aircraft as a model aircraft (as defined in 
+                      section 336 of the FAA Modernization and Reform 
+                      Act of 2012 (49 U.S.C. 40101 note)) or otherwise 
+                      in accordance with Federal Aviation Administration 
+                      authorization or regulation, including 
+                      requirements for the completion of any applicable 
+                      airman test.
+                          (ii) The definition of a model aircraft under 
+                      section 336 of the FAA Modernization and Reform 
+                      Act of 2012 (49 U.S.C. 40101 note).
+                          (iii) The requirements regarding the operation 
+                      of a model aircraft under section 336 of the FAA 
+                      Modernization and Reform Act of 2012 (49 U.S.C. 
+                      40101 note).
+                          (iv) The Administrator may pursue enforcement 
+                      action against a person operating model aircraft 
+                      who endangers the safety of the national airspace 
+                      system.
+
+    (c) Civil Penalty.--A person who violates subsection (a) shall be 
+liable for each violation to the United States Government for a civil 
+penalty described in section 46301(a) of title 49, United States Code.
+SEC. 2204. <<NOTE: Contracts. 49 USC 40101 note.>>  FACILITATING 
+                          INTERAGENCY COOPERATION FOR UNMANNED 
+                          AIRCRAFT AUTHORIZATION IN SUPPORT OF 
+                          FIREFIGHTING OPERATIONS AND UTILITY 
+                          RESTORATION.
+
+    (a) Firefighting Operations.--The Administrator of the Federal 
+Aviation Administration shall enter into agreements with the Secretary 
+of the Interior and the Secretary of Agriculture, as necessary, to 
+continue the expeditious authorization of safe unmanned aircraft system 
+operations in support of firefighting operations consistent with the 
+requirements of section 334(c) of the FAA Modernization and Reform Act 
+of 2012 (49 U.S.C. 40101 note).
+    (b) Utility Restoration.--The Administrator shall enter into 
+agreements with the Secretary of Energy and with such other agencies or 
+parties, including the Federal Emergency Management Agency, as are 
+necessary to facilitate the expeditious authorization of safe unmanned 
+aircraft system operations in support of service restoration efforts of 
+utilities.
+    (c) Definition of Utility.--In this section, the term ``utility'' 
+shall at a minimum include the definition in section 3(4) of the Public 
+Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602(4)).
+SEC. 2205. <<NOTE: 49 USC 40101 note.>>  INTERFERENCE WITH 
+                          WILDFIRE SUPPRESSION, LAW ENFORCEMENT, 
+                          OR EMERGENCY RESPONSE EFFORT BY 
+                          OPERATION OF UNMANNED AIRCRAFT.
+
+    (a) In General.--Chapter 463 of title 49, United States Code, is 
+amended by adding at the end the following:
+
+[[Page 130 STAT. 631]]
+
+``Sec. 46320. <<NOTE: 49 USC 46320.>>  Interference with wildfire 
+                    suppression, law enforcement, or emergency 
+                    response effort by operation of unmanned 
+                    aircraft
+
+    ``(a) In General.--Except as provided in subsection (b), an 
+individual who operates an unmanned aircraft and in so doing knowingly 
+or recklessly interferes with a wildfire suppression, law enforcement, 
+or emergency response effort is liable to the United States Government 
+for a civil penalty of not more than $20,000.
+    ``(b) Exceptions.--This section does not apply to the operation of 
+an unmanned aircraft conducted by a unit or agency of the United States 
+Government or of a State, tribal, or local government (including any 
+individual conducting such operation pursuant to a contract or other 
+agreement entered into with the unit or agency) for the purpose of 
+protecting the public safety and welfare, including firefighting, law 
+enforcement, or emergency response.
+    ``(c) Compromise and Setoff.--
+            ``(1) Compromise.--The United States Government may 
+        compromise the amount of a civil penalty imposed under this 
+        section.
+            ``(2) Setoff.--The United States Government may deduct the 
+        amount of a civil penalty imposed or compromised under this 
+        section from the amounts the Government owes the person liable 
+        for the penalty.
+
+    ``(d) Definitions.--In this section, the following definitions 
+apply:
+            ``(1) Wildfire.--The term `wildfire' has the meaning given 
+        that term in section 2 of the Emergency Wildfire Suppression Act 
+        (42 U.S.C. 1856m).
+            ``(2) Wildfire suppression.--The term `wildfire suppression' 
+        means an effort to contain, extinguish, or suppress a 
+        wildfire.''.
+
+    (b) FAA To Impose Civil Penalty.--Section 46301(d)(2) of title 49, 
+United States Code, is amended by inserting ``section 46320,'' after 
+``section 46319,''.
+    (c) Clerical Amendment.--The analysis for chapter 463 of title 49, 
+United States Code, <<NOTE: 49 USC prec. 46301.>>  is amended by adding 
+at the end the following:
+
+``46320. Interference with wildfire suppression, law enforcement, or 
+           emergency response effort by operation of unmanned 
+           aircraft.''.
+
+SEC. 2206. <<NOTE: 49 USC 40101 note.>>  PILOT PROJECT FOR AIRPORT 
+                          SAFETY AND AIRSPACE HAZARD MITIGATION.
+
+    (a) In General.--The Administrator of the Federal Aviation 
+Administration shall establish a pilot program for airspace hazard 
+mitigation at airports and other critical infrastructure using unmanned 
+aircraft detection systems.
+    (b) Consultation.--In carrying out the pilot program under 
+subsection (a), the Administrator shall work with the Secretary of 
+Defense, the Secretary of Homeland Security, and the heads of other 
+relevant Federal departments and agencies for the purpose of ensuring 
+that technologies that are developed, tested, or deployed by those 
+departments and agencies to mitigate threats posed by errant or hostile 
+unmanned aircraft system operations do not adversely impact or interfere 
+with safe airport operations, navigation, air traffic services, or the 
+safe and efficient operation of the national airspace system.
+
+[[Page 130 STAT. 632]]
+
+    (c) Authorization of Appropriations.--There is authorized to be 
+appropriated from the Airport and Airway Trust Fund to carry out this 
+section $6,000,000, to remain available until expended.
+    (d) Authority.--After the pilot program established under subsection 
+(a) ceases to be effective pursuant to subsection (g), the Administrator 
+may use unmanned aircraft detection systems to detect and mitigate the 
+unauthorized operation of an unmanned aircraft that poses a risk to 
+aviation safety.
+    (e) Report.--
+            (1) In general.--Not later than 18 months after the date of 
+        enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report on the results of 
+        the pilot program established under subsection (a).
+            (2) Contents.--The report required under paragraph (1) shall 
+        include the following:
+                    (A) The number of unauthorized unmanned aircraft 
+                operations detected, together with a description of such 
+                operations.
+                    (B) The number of instances in which unauthorized 
+                unmanned aircraft were mitigated, together with a 
+                description of such instances.
+                    (C) The number of enforcement cases brought by the 
+                Federal Aviation Administration for unauthorized 
+                operation of unmanned aircraft detected through the 
+                pilot program, together with a description of such 
+                cases.
+                    (D) The number of any technical failures in the 
+                pilot program, together with a description of such 
+                failures.
+                    (E) <<NOTE: Recommenda- tions.>>  Recommendations 
+                for safety and operational standards for unmanned 
+                aircraft detection systems.
+                    (F) The feasibility of deployment of the systems at 
+                other airports.
+            (3) <<NOTE: Classified information.>>  Format.--To the 
+        extent practicable, the report prepared under paragraph (1) 
+        shall be submitted in a classified format. If appropriate, the 
+        report may include an unclassified summary.
+
+    (f) Sunset.--The pilot program established under subsection (a) 
+shall cease to be effective on the earlier of--
+            (1) the date that is 18 months after the date of enactment 
+        of this Act; and
+            (2) the date of the submission of the report under 
+        subsection (e).
+SEC. 2207. <<NOTE: 49 USC 40101 
+                          note. Deadline. Publication. Guidance. Pr
+                          ocedures. Certification. Waiver 
+                          authority.>>  EMERGENCY EXEMPTION 
+                          PROCESS.
+
+    (a) In General.--Not later than 90 days after the date of enactment 
+of this Act, the Administrator of the Federal Aviation Administration 
+shall publish guidance for applications for, and procedures for the 
+processing of, on an emergency basis, exemptions or certificates of 
+authorization or waiver for the use of unmanned aircraft systems by 
+civil or public operators in response to a catastrophe, disaster, or 
+other emergency to facilitate emergency response operations, such as 
+firefighting, search and rescue, and utility and infrastructure 
+restoration efforts. In processing such applications, the Administrator 
+shall give priority to applications for public unmanned aircraft systems 
+engaged in emergency response activities.
+    (b) Requirements.--In providing guidance under subsection (a), the 
+Administrator shall--
+
+[[Page 130 STAT. 633]]
+
+            (1) make explicit any safety requirements that must be met 
+        for the consideration of applications that include requests for 
+        beyond visual line of sight or nighttime operations, or the 
+        suspension of otherwise applicable operating restrictions, 
+        consistent with public interest and safety; and
+            (2) explicitly state the procedures for coordinating with an 
+        incident commander, if any, to ensure operations granted under 
+        procedures developed under subsection (a) do not interfere with 
+        other emergency response efforts.
+
+    (c) Review.--In processing applications on an emergency basis for 
+exemptions or certificates of authorization or waiver for unmanned 
+aircraft systems operations in response to a catastrophe, disaster, or 
+other emergency, the Administrator shall act on such applications as 
+expeditiously as practicable and without requiring public notice and 
+comment.
+SEC. 2208. <<NOTE: 49 USC 40101 note.>>  UNMANNED AIRCRAFT SYSTEMS 
+                          TRAFFIC MANAGEMENT.
+
+    (a) Research Plan for UTM Development and Deployment.--
+            (1) <<NOTE: Coordination.>>  In general.--The Administrator 
+        of the Federal Aviation Administration (in this section referred 
+        to as the ``Administrator''), in coordination with the 
+        Administrator of the National Aeronautics and Space 
+        Administration, shall continue development of a research plan 
+        for unmanned aircraft systems traffic management (in this 
+        section referred to as ``UTM'') development and deployment.
+            (2) Requirements.--In developing the research plan, the 
+        Administrator shall--
+                    (A) identify research outcomes sought; and
+                    (B) ensure the plan is consistent with existing 
+                regulatory and operational frameworks, and considers 
+                potential future regulatory and operational frameworks, 
+                for unmanned aircraft systems in the national airspace 
+                system.
+            (3) Assessment.--The research plan shall include an 
+        assessment of the interoperability of a UTM system with existing 
+        and potential future air traffic management systems and 
+        processes.
+            (4) Deadlines.--The Administrator shall--
+                    (A) initiate development of the research plan not 
+                later than 60 days after the date of enactment of this 
+                Act; and
+                    (B) not later than 180 days after the date of 
+                enactment of this Act--
+                          (i) complete the research plan;
+                          (ii) submit the research plan to the Committee 
+                      on Commerce, Science, and Transportation of the 
+                      Senate and the Committee on Science, Space, and 
+                      Technology and the Committee on Transportation and 
+                      Infrastructure of the House of Representatives; 
+                      and
+                          (iii) <<NOTE: Web posting.>>  publish the 
+                      research plan on the Internet Web site of the 
+                      Federal Aviation Administration.
+
+    (b) Pilot Program.--
+            (1) <<NOTE: Deadline. Coordination.>>  In general.--Not 
+        later than 90 days after the date of submission of the research 
+        plan under subsection (a)(4)(B), the Administrator, in 
+        coordination with the Administrator of the National Aeronautics 
+        and Space Administration, the Drone
+
+[[Page 130 STAT. 634]]
+
+        Advisory Committee, the research advisory committee established 
+        by section 44508(a) of title 49, United States Code, and 
+        representatives of the unmanned aircraft industry, shall 
+        establish a UTM system pilot program.
+            (2) Sunset.--Not later than 2 years after the date of 
+        establishment of the pilot program, the Administrator shall 
+        conclude the pilot program.
+
+    (c) <<NOTE: Deadlines.>>  Updates.--Not later than 180 days after 
+the date of establishment of the pilot program, and every 180 days 
+thereafter until the date of conclusion of the pilot program, the 
+Administrator shall submit to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Science, Space, and 
+Technology and the Committee on Transportation and Infrastructure of the 
+House of Representatives an update on the status and progress of the 
+pilot program.
+SEC. 2209. <<NOTE: 49 USC 40101 note. Deadline.>>  APPLICATIONS 
+                          FOR DESIGNATION.
+
+    (a) Applications for Designation.--Not later than 180 days after the 
+date of enactment of this Act, the Secretary of Transportation shall 
+establish a process to allow applicants to petition the Administrator of 
+the Federal Aviation Administration to prohibit or restrict the 
+operation of an unmanned aircraft in close proximity to a fixed site 
+facility.
+    (b) Review Process.--
+            (1) Application procedures.--
+                    (A) In general.--The Administrator shall establish 
+                the procedures for the application for designation under 
+                subsection (a).
+                    (B) Requirements.--The procedures shall allow 
+                operators or proprietors of fixed site facilities to 
+                apply for designation individually or collectively.
+                    (C) Considerations.--Only the following may be 
+                considered fixed site facilities:
+                          (i) Critical infrastructure, such as energy 
+                      production, transmission, and distribution 
+                      facilities and equipment.
+                          (ii) Oil refineries and chemical facilities.
+                          (iii) Amusement parks.
+                          (iv) Other locations that warrant such 
+                      restrictions.
+            (2) Determination.--
+                    (A) <<NOTE: Deadline. Notice.>>  In general.--The 
+                Secretary shall provide for a determination under the 
+                review process established under subsection (a) not 
+                later than 90 days after the date of application, unless 
+                the applicant is provided with written notice describing 
+                the reason for the delay.
+                    (B) Affirmative designations.--An affirmative 
+                designation shall outline--
+                          (i) the boundaries for unmanned aircraft 
+                      operation near the fixed site facility; and
+                          (ii) such other limitations that the 
+                      Administrator determines may be appropriate.
+                    (C) Considerations.--In making a determination 
+                whether to grant or deny an application for a 
+                designation, the Administrator may consider--
+                          (i) aviation safety;
+                          (ii) protection of persons and property on the 
+                      ground;
+
+[[Page 130 STAT. 635]]
+
+                          (iii) national security; or
+                          (iv) homeland security.
+                    (D) Opportunity for resubmission.--If an application 
+                is denied, and the applicant can reasonably address the 
+                reason for the denial, the Administrator may allow the 
+                applicant to reapply for designation.
+
+    (c) <<NOTE: Web posting.>>  Public Information.--Designations under 
+subsection (a) shall be published by the Federal Aviation Administration 
+on a publicly accessible website.
+
+    (d) Savings Clause.--Nothing in this section may be construed as 
+prohibiting the Administrator from authorizing operation of an aircraft, 
+including an unmanned aircraft system, over, under, or within a 
+specified distance from that fixed site facility designated under 
+subsection (b).
+SEC. 2210. <<NOTE: 49 USC 40101 note.>>  OPERATIONS ASSOCIATED 
+                          WITH CRITICAL INFRASTRUCTURE.
+
+    (a) In General.--Any application process established under section 
+333 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 
+note) shall allow for a person to apply to the Administrator of the 
+Federal Aviation Administration to operate an unmanned aircraft system, 
+for purposes of conducting an activity described in subsection (b)--
+            (1) beyond the visual line of sight of the individual 
+        operating the unmanned aircraft system; and
+            (2) during the day or at night.
+
+    (b) Activities Described.--The activities described in this 
+subsection are--
+            (1) activities for which manned aircraft may be used to 
+        comply with Federal, State, or local laws, including--
+                    (A) activities to ensure compliance with Federal or 
+                State regulatory, permit, or other requirements, 
+                including to conduct surveys associated with 
+                applications for permits for new pipeline or pipeline 
+                systems construction or maintenance or rehabilitation of 
+                existing pipelines or pipeline systems; and
+                    (B) activities relating to ensuring compliance 
+                with--
+                          (i) parts 192 and 195 of title 49, Code of 
+                      Federal Regulations; and
+                          (ii) the requirements of any Federal, State, 
+                      or local governmental or regulatory body, or 
+                      industry best practice, pertaining to the 
+                      construction, ownership, operation, maintenance, 
+                      repair, or replacement of covered facilities;
+            (2) activities to inspect, repair, construct, maintain, or 
+        protect covered facilities, including for the purpose of 
+        responding to a pipeline, pipeline system, or electric energy 
+        infrastructure incident; and
+            (3) activities in response to or in preparation for a 
+        natural disaster, manmade disaster, severe weather event, or 
+        other incident beyond the control of the applicant that may 
+        cause material damage to a covered facility.
+
+    (c) <<NOTE: Applicability.>>  Definitions.--In this section, the 
+following definitions apply:
+            (1) Covered facility.--The term ``covered facility'' means--
+                    (A) a pipeline or pipeline system;
+
+[[Page 130 STAT. 636]]
+
+                    (B) an electric energy generation, transmission, or 
+                distribution facility (including a renewable electric 
+                energy facility);
+                    (C) an oil or gas production, refining, or 
+                processing facility; or
+                    (D) any other critical infrastructure facility.
+            (2) Critical infrastructure.--The term ``critical 
+        infrastructure'' has the meaning given that term in section 
+        2339D of title 18, United States Code.
+
+    (d) Deadlines.--
+            (1) Certification to congress.--Not later than 90 days after 
+        the date of enactment of this Act, the Administrator shall 
+        submit to the appropriate committees of Congress a certification 
+        that a process has been established to facilitate applications 
+        for unmanned aircraft systems operations described in this 
+        section.
+            (2) Failure to meet certification deadline.--If the 
+        Administrator cannot provide a certification under paragraph 
+        (1), the Administrator, not later than 180 days after the 
+        deadline specified in paragraph (1), shall update the process 
+        under section 333 of the FAA Modernization and Reform Act of 
+        2012 (49 U.S.C. 40101 note) to facilitate applications for 
+        unmanned aircraft systems operations described in this section.
+
+    (e) Exemptions.--In addition to the operations described in this 
+section, the Administrator may authorize, exempt, or otherwise allow 
+other unmanned aircraft systems operations under section 333 of the FAA 
+Modernization and Reform Act of 2012 (49 U.S.C. 40101 note) that are 
+conducted beyond the visual line of sight of the individual operating 
+the unmanned aircraft system or during the day or at night.
+SEC. 2211. <<NOTE: 49 USC 40101 note.>>  UNMANNED AIRCRAFT SYSTEMS 
+                          RESEARCH AND DEVELOPMENT ROADMAP.
+
+    Section 332(a)(5) of the FAA Modernization and Reform Act of 2012 
+(49 U.S.C. 40101 note) is amended--
+            (1) by inserting ``, in coordination with the Administrator 
+        of the National Aeronautics and Space Administration (NASA) and 
+        relevant stakeholders, including those in industry and 
+        academia,'' after ``update''; and
+            (2) by inserting after ``annually.'' the following: ``The 
+        roadmap shall include, at a minimum--
+                    ``(A) <<NOTE: Cost estimates.>>  cost estimates, 
+                planned schedules, and performance benchmarks, including 
+                specific tasks, milestones, and timelines, for unmanned 
+                aircraft systems integration into the national airspace 
+                system, including an identification of--
+                          ``(i) the role of the unmanned aircraft 
+                      systems test ranges established under subsection 
+                      (c) and the Unmanned Aircraft Systems Center of 
+                      Excellence;
+                          ``(ii) performance objectives for unmanned 
+                      aircraft systems that operate in the national 
+                      airspace system; and
+                          ``(iii) research and development priorities 
+                      for tools that could assist air traffic 
+                      controllers as unmanned aircraft systems are 
+                      integrated into the national airspace system, as 
+                      appropriate;
+
+[[Page 130 STAT. 637]]
+
+                    ``(B) a description of how the Administration plans 
+                to use research and development, including research and 
+                development conducted through NASA's Unmanned Aircraft 
+                Systems Traffic Management initiatives, to accommodate, 
+                integrate, and provide for the evolution of unmanned 
+                aircraft systems in the national airspace system;
+                    ``(C) <<NOTE: Assessment.>>  an assessment of 
+                critical performance abilities necessary to integrate 
+                unmanned aircraft systems into the national airspace 
+                system, and how these performance abilities can be 
+                demonstrated; and
+                    ``(D) an update on the advancement of technologies 
+                needed to integrate unmanned aircraft systems into the 
+                national airspace system, including decisionmaking by 
+                adaptive systems, such as sense-and-avoid capabilities 
+                and cyber physical systems security.''.
+SEC. 2212. <<NOTE: 49 USC 40101 note.>>  UNMANNED AIRCRAFT 
+                          SYSTEMS-MANNED AIRCRAFT COLLISION 
+                          RESEARCH.
+
+    (a) <<NOTE: Coordination. Testing.>>  Research.--The Administrator 
+of the Federal Aviation Administration (in this section referred to as 
+the ``Administrator''), in continuation of ongoing work, shall 
+coordinate with the Administrator of the National Aeronautics and Space 
+Administration to develop a program to conduct comprehensive testing or 
+modeling of unmanned aircraft systems colliding with various sized 
+aircraft in various operational settings, as considered appropriate by 
+the Administrator, including--
+            (1) collisions between unmanned aircraft systems of various 
+        sizes, traveling at various speeds, and jet aircraft of various 
+        sizes, traveling at various speeds;
+            (2) collisions between unmanned aircraft systems of various 
+        sizes, traveling at various speeds, and propeller-driven 
+        aircraft of various sizes, traveling at various speeds;
+            (3) collisions between unmanned aircraft systems of various 
+        sizes, traveling at various speeds, and rotorcraft of various 
+        sizes, traveling at various speeds; and
+            (4) collisions between unmanned aircraft systems and various 
+        parts of the aforementioned aircraft, including--
+                    (A) windshields;
+                    (B) noses;
+                    (C) engines;
+                    (D) radomes;
+                    (E) propellers; and
+                    (F) wings.
+
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Administrator shall transmit to the Committee on Science, 
+Space, and Technology and the Committee on Transportation and 
+Infrastructure of the House of Representatives and the Committee on 
+Commerce, Science, and Transportation of the Senate a report summarizing 
+the costs and results of research under this section.
+SEC. 2213. <<NOTE: 49 USC 40101 note.>>  PROBABILISTIC METRICS 
+                          RESEARCH AND DEVELOPMENT STUDY.
+
+    (a) <<NOTE: Deadline. Contracts.>>  Study.--Not later than 30 days 
+after the date of enactment of this Act, the Administrator of the 
+Federal Aviation Administration shall enter into an arrangement with the 
+National Academies to study the potential use of probabilistic 
+assessments of risks by the Administration to streamline the integration 
+of unmanned
+
+[[Page 130 STAT. 638]]
+
+aircraft systems into the national airspace system, including any 
+research and development necessary.
+
+    (b) <<NOTE: Deadline.>>  Completion Date.--Not later than 1 year 
+after the date of enactment of this Act, the Administrator shall provide 
+the results of the study to the Committee on Science, Space, and 
+Technology and the Committee on Transportation and Infrastructure of the 
+House of Representatives and the Committee on Commerce, Science, and 
+Transportation of the Senate.
+
+               Subtitle C--Time Sensitive Aviation Reforms
+
+SEC. 2301. SMALL AIRPORT RELIEF FOR SAFETY PROJECTS.
+
+    Section 47114(c)(1)(F) of title 49, United States Code, is amended 
+to read as follows:
+                    ``(F) Special rule for fiscal year 2017.--
+                Notwithstanding subparagraph (A), the Secretary shall 
+                apportion to a sponsor of an airport under that 
+                subparagraph for fiscal year 2017 an amount based on the 
+                number of passenger boardings at the airport during 
+                calendar year 2012 if the airport--
+                          ``(i) had 10,000 or more passenger boardings 
+                      during calendar year 2012;
+                          ``(ii) had fewer than 10,000 passenger 
+                      boardings during the calendar year used to 
+                      calculate the apportionment for fiscal year 2017 
+                      under subparagraph (A); and
+                          ``(iii) had scheduled air service at any point 
+                      during the calendar year used to calculate the 
+                      apportionment for fiscal year 2017 under 
+                      subparagraph (A).''.
+SEC. 2302. USE OF REVENUES AT PREVIOUSLY ASSOCIATED AIRPORT.
+
+    Section 40117 of title 49, United States Code, is amended by adding 
+at the end the following:
+    ``(n) Use of Revenues at Previously Associated Airport.--
+Notwithstanding the requirements relating to airport control under 
+subsection (b)(1), the Secretary may authorize use of a passenger 
+facility charge under subsection (b) to finance an eligible airport-
+related project if--
+            ``(1) the eligible agency seeking to impose the new charge 
+        controls an airport where a $2.00 passenger facility charge 
+        became effective on January 1, 2013; and
+            ``(2) the location of the project to be financed by the new 
+        charge is at an airport that was under the control of the same 
+        eligible agency that had controlled the airport described in 
+        paragraph (1).''.
+SEC. 2303. <<NOTE: Establishment.>>  WORKING GROUP ON IMPROVING 
+                          AIR SERVICE TO SMALL COMMUNITIES.
+
+    (a) <<NOTE: Deadline.>>  In General.--Not later than 120 days after 
+the date of enactment of this Act, the Secretary of Transportation shall 
+establish a working group--
+            (1) to identify obstacles to attracting and maintaining air 
+        transportation service to and from small communities; and
+
+[[Page 130 STAT. 639]]
+
+            (2) <<NOTE: Recommenda- tions.>>  to develop recommendations 
+        for maintaining and improving air transportation service to and 
+        from small communities.
+
+    (b) <<NOTE: Consultation.>>  Outreach.--In carrying out subsection 
+(a), the working group shall consult with--
+            (1) interested Governors;
+            (2) representatives of State and local agencies, and other 
+        officials and groups, representing rural States and other rural 
+        areas;
+            (3) other representatives of relevant State and local 
+        agencies; and
+            (4) members of the public with experience in aviation 
+        safety, pilot training, economic development, and related 
+        issues.
+
+    (c) Considerations.--In carrying out subsection (a), the working 
+group shall--
+            (1) consider whether funding for, and the terms of, current 
+        or potential new programs are sufficient to help ensure 
+        continuation of or improvement to air transportation service to 
+        small communities, including the essential air service program 
+        and the small community air service development program;
+            (2) identify initiatives to help support pilot training and 
+        aviation safety to maintain air transportation service to small 
+        communities;
+            (3) consider whether Federal funding for airports serving 
+        small communities, including airports that have lost air 
+        transportation services or had decreased enplanements in recent 
+        years, is adequate to ensure that small communities have access 
+        to quality, affordable air transportation service;
+            (4) identify innovative State or local efforts that have 
+        established public-private partnerships that are successful in 
+        attracting and retaining air transportation service in small 
+        communities; and
+            (5) consider such other issues as the Secretary considers 
+        appropriate.
+
+    (d) Composition.--
+            (1) In general.--The working group shall be facilitated 
+        through the Secretary or the Secretary's designee.
+            (2) Membership.--Members of the working group shall be 
+        appointed by the Secretary and shall include representatives 
+        of--
+                    (A) State and local government, including State and 
+                local aviation officials;
+                    (B) State Governors;
+                    (C) aviation safety experts;
+                    (D) economic development officials; and
+                    (E) the traveling public from small communities.
+
+    (e) Report and Recommendations.--Not later than 1 year after the 
+date of enactment of this Act, the Secretary shall submit to the 
+appropriate committees of Congress a report, including--
+            (1) <<NOTE: Summary.>>  a summary of the views expressed by 
+        the participants in the outreach under subsection (b);
+            (2) a description of the working group's findings, including 
+        the identification of any areas of general consensus among the 
+        non-Federal participants in the outreach under subsection (b); 
+        and
+
+[[Page 130 STAT. 640]]
+
+            (3) any recommendations for legislative or regulatory action 
+        that would assist in maintaining and improving air 
+        transportation service to and from small communities.
+SEC. 2304. COMPUTATION OF BASIC ANNUITY FOR CERTAIN AIR TRAFFIC 
+                          CONTROLLERS.
+
+    (a) In General.--Section 8415(f) of title 5, United States Code, is 
+amended to read as follows:
+    ``(f) The annuity of an air traffic controller or former air traffic 
+controller retiring under section 8412(a) is computed under subsection 
+(a), except that if the individual has at least 5 years of service in 
+any combination as--
+            ``(1) an air traffic controller as defined by section 
+        2109(1)(A)(i);
+            ``(2) a first level supervisor of an air traffic controller 
+        as defined by section 2109(1)(A)(i); or
+            ``(3) a second level supervisor of an air traffic controller 
+        as defined by section 2109(1)(A)(i);
+
+so much of the annuity as is computed with respect to such type of 
+service shall be computed by multiplying 1 7/10 percent of the 
+individual's average pay by the years of such service.''.
+    (b) <<NOTE: 5 USC 8415 note.>>  Effective Date.--The amendment made 
+by subsection (a) shall be deemed to be effective on December 12, 2003.
+
+    (c) <<NOTE: 5 USC 8415 note.>>  Procedures Required.--The Director 
+of the Office of Personnel Management shall establish such procedures as 
+are necessary to provide for--
+            (1) <<NOTE: Notification.>>  notification to each annuitant 
+        affected by the amendments made by this section;
+            (2) recalculation of the benefits of affected annuitants;
+            (3) an adjustment to applicable monthly benefit amounts 
+        pursuant to such recalculation, to begin as soon as is 
+        practicable; and
+            (4) a lump-sum payment to each affected annuitant equal to 
+        the additional total benefit amount that such annuitant would 
+        have received had the amendment made by subsection (a) been in 
+        effect on December 12, 2003.
+SEC. 2305. <<NOTE: 49 USC 41704 note. Deadlines. Regulations.>>  
+                          REFUNDS FOR DELAYED BAGGAGE.
+
+    (a) In General.--Not later than 1 year after the date of enactment 
+of this Act, the Secretary of Transportation shall issue final 
+regulations to require an air carrier or foreign air carrier to promptly 
+provide to a passenger an automated refund for any ancillary fees paid 
+by the passenger for checked baggage if--
+            (1) the air carrier or foreign air carrier fails to deliver 
+        the checked baggage to the passenger--
+                    (A) not later than 12 hours after the arrival of a 
+                domestic flight; or
+                    (B) not later than 15 hours after the arrival of an 
+                international flight; and
+            (2) the passenger has notified the air carrier or foreign 
+        air carrier of the lost or delayed checked baggage.
+
+    (b) <<NOTE: Determination.>>  Exception.--If, as part of the 
+rulemaking, the Secretary makes a determination on the record that a 
+requirement under subsection (a) is not feasible and would adversely 
+affect consumers in certain cases, the Secretary may modify 1 or both of 
+the deadlines specified in subsection (a)(1) for such cases, except 
+that--
+            (1) the deadline relating to a domestic flight may not 
+        exceed 18 hours after the arrival of the domestic flight; and
+
+[[Page 130 STAT. 641]]
+
+            (2) the deadline relating to an international flight may not 
+        exceed 30 hours after the arrival of the international flight.
+SEC. 2306. CONTRACT WEATHER OBSERVERS.
+
+    (a) <<NOTE: Deadline. Reports.>>  In General.--Not later than 1 year 
+after the date of enactment of this Act, the Administrator of the 
+Federal Aviation Administration shall submit to the appropriate 
+committees of Congress a report, which includes public and stakeholder 
+input--
+            (1) examining the safety risks, hazard effects, and 
+        efficiency and operational effects for airports, airlines, and 
+        other stakeholders that could result from a loss of contract 
+        weather observer service at the 57 airports targeted for the 
+        loss of the service;
+            (2) detailing how the Federal Aviation Administration will 
+        accurately report rapidly changing severe weather conditions at 
+        the airports, including thunderstorms, lightning, fog, 
+        visibility, smoke, dust, haze, cloud layers and ceilings, ice 
+        pellets, and freezing rain or drizzle, without contract weather 
+        observers;
+            (3) indicating how airports can comply with applicable 
+        Federal Aviation Administration orders governing weather 
+        observations given the current documented limitations of 
+        automated surface observing systems; and
+            (4) identifying the process through which the Federal 
+        Aviation Administration analyzed the safety hazards associated 
+        with the elimination of the contract weather observer program.
+
+    (b) <<NOTE: Termination date.>>  Continued Use of Contract Weather 
+Observers.--The Administrator may not discontinue the contract weather 
+observer program at any airport until October 1, 2017.
+SEC. 2307. <<NOTE: 49 USC 44703 note.>>  MEDICAL CERTIFICATION OF 
+                          CERTAIN SMALL AIRCRAFT PILOTS.
+
+    (a) <<NOTE: Deadline. Regulations.>>  In General.--Not later than 
+180 days after the date of enactment of this Act, the Administrator of 
+the Federal Aviation Administration shall issue or revise regulations to 
+ensure that an individual may operate as pilot in command of a covered 
+aircraft if--
+            (1) the individual possesses a valid driver's license issued 
+        by a State, territory, or possession of the United States and 
+        complies with all medical requirements or restrictions 
+        associated with that license;
+            (2) <<NOTE: Time period.>>  the individual holds a medical 
+        certificate issued by the Federal Aviation Administration on the 
+        date of enactment of this Act, held such a certificate at any 
+        point during the 10-year period preceding such date of 
+        enactment, or obtains such a certificate after such date of 
+        enactment;
+            (3) the most recent medical certificate issued by the 
+        Federal Aviation Administration to the individual--
+                    (A) indicates whether the certificate is first, 
+                second, or third class;
+                    (B) may include authorization for special issuance;
+                    (C) may be expired;
+                    (D) cannot have been revoked or suspended; and
+                    (E) cannot have been withdrawn;
+            (4) the most recent application for airman medical 
+        certification submitted to the Federal Aviation Administration 
+        by the individual cannot have been completed and denied;
+            (5) <<NOTE: Time period.>>  the individual has completed a 
+        medical education course described in subsection (c) during the 
+        24 calendar months before
+
+[[Page 130 STAT. 642]]
+
+        acting as pilot in command of a covered aircraft and 
+        demonstrates proof of completion of the course;
+            (6) the individual, when serving as a pilot in command, is 
+        under the care and treatment of a physician if the individual 
+        has been diagnosed with any medical condition that may impact 
+        the ability of the individual to fly;
+            (7) <<NOTE: Time period.>>  the individual has received a 
+        comprehensive medical examination from a State-licensed 
+        physician during the previous 48 months and--
+                    (A) prior to the examination, the individual--
+                          (i) completed the individual's section of the 
+                      checklist described in subsection (b); and
+                          (ii) provided the completed checklist to the 
+                      physician performing the examination; and
+                    (B) the physician conducted the comprehensive 
+                medical examination in accordance with the checklist 
+                described in subsection (b), checking each item 
+                specified during the examination and addressing, as 
+                medically appropriate, every medical condition listed, 
+                and any medications the individual is taking; and
+            (8) the individual is operating in accordance with the 
+        following conditions:
+                    (A) The covered aircraft is carrying not more than 5 
+                passengers.
+                    (B) The individual is operating the covered aircraft 
+                under visual flight rules or instrument flight rules.
+                    (C) The flight, including each portion of that 
+                flight, is not carried out--
+                          (i) for compensation or hire, including that 
+                      no passenger or property on the flight is being 
+                      carried for compensation or hire;
+                          (ii) at an altitude that is more than 18,000 
+                      feet above mean sea level;
+                          (iii) outside the United States, unless 
+                      authorized by the country in which the flight is 
+                      conducted; or
+                          (iv) at an indicated air speed exceeding 250 
+                      knots.
+
+    (b) Comprehensive Medical Examination.--
+            (1) <<NOTE: Deadline. Checklist.>>  In general.--Not later 
+        than 180 days after the date of enactment of this Act, the 
+        Administrator shall develop a checklist for an individual to 
+        complete and provide to the physician performing the 
+        comprehensive medical examination required in subsection (a)(7).
+            (2) Requirements.--The checklist shall contain--
+                    (A) a section, for the individual to complete that 
+                contains--
+                          (i) boxes 3 through 13 and boxes 16 through 19 
+                      of the Federal Aviation Administration Form 8500-8 
+                      (3-99); and
+                          (ii) a signature line for the individual to 
+                      affirm that--
+                                    (I) the answers provided by the 
+                                individual on that checklist, including 
+                                the individual's answers regarding 
+                                medical history, are true and complete;
+                                    (II) the individual understands that 
+                                he or she is prohibited under Federal 
+                                Aviation Administration regulations from 
+                                acting as pilot in command, or any other 
+                                capacity as a required flight crew
+
+[[Page 130 STAT. 643]]
+
+                                member, if he or she knows or has reason 
+                                to know of any medical deficiency or 
+                                medically disqualifying condition that 
+                                would make the individual unable to 
+                                operate the aircraft in a safe manner; 
+                                and
+                                    (III) the individual is aware of the 
+                                regulations pertaining to the 
+                                prohibition on operations during medical 
+                                deficiency and has no medically 
+                                disqualifying conditions in accordance 
+                                with applicable law;
+                    (B) a section with instructions for the individual 
+                to provide the completed checklist to the physician 
+                performing the comprehensive medical examination 
+                required in subsection (a)(7); and
+                    (C) a section, for the physician to complete, that 
+                instructs the physician--
+                          (i) to perform a clinical examination of--
+                                    (I) head, face, neck, and scalp;
+                                    (II) nose, sinuses, mouth, and 
+                                throat;
+                                    (III) ears, general (internal and 
+                                external canals), and eardrums 
+                                (perforation);
+                                    (IV) eyes (general), 
+                                ophthalmoscopic, pupils (equality and 
+                                reaction), and ocular motility 
+                                (associated parallel movement, 
+                                nystagmus);
+                                    (V) lungs and chest (not including 
+                                breast examination);
+                                    (VI) heart (precordial activity, 
+                                rhythm, sounds, and murmurs);
+                                    (VII) vascular system (pulse, 
+                                amplitude, and character, and arms, 
+                                legs, and others);
+                                    (VIII) abdomen and viscera 
+                                (including hernia);
+                                    (IX) anus (not including digital 
+                                examination);
+                                    (X) skin;
+                                    (XI) G-U system (not including 
+                                pelvic examination);
+                                    (XII) upper and lower extremities 
+                                (strength and range of motion);
+                                    (XIII) spine and other 
+                                musculoskeletal;
+                                    (XIV) identifying body marks, scars, 
+                                and tattoos (size and location);
+                                    (XV) lymphatics;
+                                    (XVI) neurologic (tendon reflexes, 
+                                equilibrium, senses, cranial nerves, and 
+                                coordination, etc.);
+                                    (XVII) psychiatric (appearance, 
+                                behavior, mood, communication, and 
+                                memory);
+                                    (XVIII) general systemic;
+                                    (XIX) hearing;
+                                    (XX) vision (distant, near, and 
+                                intermediate vision, field of vision, 
+                                color vision, and ocular alignment);
+                                    (XXI) blood pressure and pulse; and
+                                    (XXII) anything else the physician, 
+                                in his or her medical judgment, 
+                                considers necessary;
+                          (ii) to exercise medical discretion to 
+                      address, as medically appropriate, any medical 
+                      conditions identified, and to exercise medical 
+                      discretion in determining whether any medical 
+                      tests are warranted as part of the comprehensive 
+                      medical examination;
+
+[[Page 130 STAT. 644]]
+
+                          (iii) to discuss all drugs the individual 
+                      reports taking (prescription and nonprescription) 
+                      and their potential to interfere with the safe 
+                      operation of an aircraft or motor vehicle;
+                          (iv) to sign the checklist, stating: ``I 
+                      certify that I discussed all items on this 
+                      checklist with the individual during my 
+                      examination, discussed any medications the 
+                      individual is taking that could interfere with 
+                      their ability to safely operate an aircraft or 
+                      motor vehicle, and performed an examination that 
+                      included all of the items on this checklist. I 
+                      certify that I am not aware of any medical 
+                      condition that, as presently treated, could 
+                      interfere with the individual's ability to safely 
+                      operate an aircraft.''; and
+                          (v) to provide the date the comprehensive 
+                      medical examination was completed, and the 
+                      physician's full name, address, telephone number, 
+                      and State medical license number.
+            (3) Logbook.--The completed checklist shall be retained in 
+        the individual's logbook and made available on request.
+
+    (c) Medical Education Course Requirements.--The medical education 
+course described in this subsection shall--
+            (1) <<NOTE: Internet.>>  be available on the Internet free 
+        of charge;
+            (2) <<NOTE: Coordination.>>  be developed and periodically 
+        updated in coordination with representatives of relevant 
+        nonprofit and not-for-profit general aviation stakeholder 
+        groups;
+            (3) educate pilots on conducting medical self-assessments;
+            (4) advise pilots on identifying warning signs of potential 
+        serious medical conditions;
+            (5) identify risk mitigation strategies for medical 
+        conditions;
+            (6) increase awareness of the impacts of potentially 
+        impairing over-the-counter and prescription drug medications;
+            (7) encourage regular medical examinations and consultations 
+        with primary care physicians;
+            (8) inform pilots of the regulations pertaining to the 
+        prohibition on operations during medical deficiency and 
+        medically disqualifying conditions;
+            (9) provide the checklist developed by the Federal Aviation 
+        Administration in accordance with subsection (b); and
+            (10) <<NOTE: Certifications.>>  upon successful completion 
+        of the course, electronically provide to the individual and 
+        transmit to the Federal Aviation Administration--
+                    (A) a certification of completion of the medical 
+                education course, which shall be printed and retained in 
+                the individual's logbook and made available upon 
+                request, and shall contain the individual's name, 
+                address, and airman certificate number;
+                    (B) subject to subsection (d), a release authorizing 
+                the National Driver Register through a designated State 
+                Department of Motor Vehicles to furnish to the Federal 
+                Aviation Administration information pertaining to the 
+                individual's driving record;
+                    (C) a certification by the individual that the 
+                individual is under the care and treatment of a 
+                physician if the individual has been diagnosed with any 
+                medical condition that may impact the ability of the 
+                individual to fly, as required under subsection (a)(6);
+
+[[Page 130 STAT. 645]]
+
+                    (D) a form that includes--
+                          (i) the name, address, telephone number, and 
+                      airman certificate number of the individual;
+                          (ii) the name, address, telephone number, and 
+                      State medical license number of the physician 
+                      performing the comprehensive medical examination 
+                      required in subsection (a)(7);
+                          (iii) the date of the comprehensive medical 
+                      examination required in subsection (a)(7); and
+                          (iv) a certification by the individual that 
+                      the checklist described in subsection (b) was 
+                      followed and signed by the physician in the 
+                      comprehensive medical examination required in 
+                      subsection (a)(7); and
+                    (E) a statement, which shall be printed, and signed 
+                by the individual certifying that the individual 
+                understands the existing prohibition on operations 
+                during medical deficiency by stating: ``I understand 
+                that I cannot act as pilot in command, or any other 
+                capacity as a required flight crew member, if I know or 
+                have reason to know of any medical condition that would 
+                make me unable to operate the aircraft in a safe 
+                manner.''.
+
+    (d) National Driver Register.--The authorization under subsection 
+(c)(10)(B) shall be an authorization for a single access to the 
+information contained in the National Driver Register.
+    (e) Special Issuance Process.--
+            (1) In general.--An individual who has qualified for the 
+        third-class medical certificate exemption under subsection (a) 
+        and is seeking to serve as a pilot in command of a covered 
+        aircraft shall be required to have completed the process for 
+        obtaining an Authorization for Special Issuance of a Medical 
+        Certificate for each of the following:
+                    (A) A mental health disorder, limited to an 
+                established medical history or clinical diagnosis of--
+                          (i) personality disorder that is severe enough 
+                      to have repeatedly manifested itself by overt 
+                      acts;
+                          (ii) psychosis, defined as a case in which an 
+                      individual--
+                                    (I) has manifested delusions, 
+                                hallucinations, grossly bizarre or 
+                                disorganized behavior, or other commonly 
+                                accepted symptoms of psychosis; or
+                                    (II) may reasonably be expected to 
+                                manifest delusions, hallucinations, 
+                                grossly bizarre or disorganized 
+                                behavior, or other commonly accepted 
+                                symptoms of psychosis;
+                          (iii) bipolar disorder; or
+                          (iv) substance dependence within the previous 
+                      2 years, as defined in section 67.307(a)(4) of 
+                      title 14, Code of Federal Regulations.
+                    (B) A neurological disorder, limited to an 
+                established medical history or clinical diagnosis of any 
+                of the following:
+                          (i) Epilepsy.
+                          (ii) Disturbance of consciousness without 
+                      satisfactory medical explanation of the cause.
+                          (iii) A transient loss of control of nervous 
+                      system functions without satisfactory medical 
+                      explanation of the cause.
+
+[[Page 130 STAT. 646]]
+
+                    (C) A cardiovascular condition, limited to a one-
+                time special issuance for each diagnosis of the 
+                following:
+                          (i) Myocardial infraction.
+                          (ii) Coronary heart disease that has required 
+                      treatment.
+                          (iii) Cardiac valve replacement.
+                          (iv) Heart replacement.
+            (2) Special rule for cardiovascular conditions.--In the case 
+        of an individual with a cardiovascular condition, the process 
+        for obtaining an Authorization for Special Issuance of a Medical 
+        Certificate shall be satisfied with the successful completion of 
+        an appropriate clinical evaluation without a mandatory wait 
+        period.
+            (3) Special rule for mental health conditions.--
+                    (A) In general.--In the case of an individual with a 
+                clinically diagnosed mental health condition, the third-
+                class medical certificate exemption under subsection (a) 
+                shall not apply if--
+                          (i) in the judgment of the individual's State-
+                      licensed medical specialist, the condition--
+                                    (I) renders the individual unable to 
+                                safely perform the duties or exercise 
+                                the airman privileges described in 
+                                subsection (a)(8); or
+                                    (II) may reasonably be expected to 
+                                make the individual unable to perform 
+                                the duties or exercise the privileges 
+                                described in subsection (a)(8); or
+                          (ii) the individual's driver's license is 
+                      revoked by the issuing agency as a result of a 
+                      clinically diagnosed mental health condition.
+                    (B) <<NOTE: Deadline.>>  Certification.--Subject to 
+                subparagraph (A), an individual clinically diagnosed 
+                with a mental health condition shall certify every 2 
+                years, in conjunction with the certification under 
+                subsection (c)(10)(C), that the individual is under the 
+                care of a State-licensed medical specialist for that 
+                mental health condition.
+            (4) Special rule for neurological conditions.--
+                    (A) In general.--In the case of an individual with a 
+                clinically diagnosed neurological condition, the third-
+                class medical certificate exemption under subsection (a) 
+                shall not apply if--
+                          (i) in the judgment of the individual's State-
+                      licensed medical specialist, the condition--
+                                    (I) renders the individual unable to 
+                                safely perform the duties or exercise 
+                                the airman privileges described in 
+                                subsection (a)(8); or
+                                    (II) may reasonably be expected to 
+                                make the individual unable to perform 
+                                the duties or exercise the privileges 
+                                described in subsection (a)(8); or
+                          (ii) the individual's driver's license is 
+                      revoked by the issuing agency as a result of a 
+                      clinically diagnosed neurological condition.
+                    (B) <<NOTE: Deadline.>>  Certification.--Subject to 
+                subparagraph (A), an individual clinically diagnosed 
+                with a neurological condition shall certify every 2 
+                years, in conjunction with the certification under 
+                subsection (c)(10)(C), that the individual is under the 
+                care of a State-licensed medical specialist for that 
+                neurological condition.
+
+[[Page 130 STAT. 647]]
+
+    (f) Identification of Additional Medical Conditions for CACI 
+Program.--
+            (1) <<NOTE: Deadline. Review.>>  In general.--Not later than 
+        180 days after the date of enactment of this Act, the 
+        Administrator shall review and identify additional medical 
+        conditions that could be added to the program known as the 
+        Conditions AMEs Can Issue (CACI) program.
+            (2) Consultations.--In carrying out paragraph (1), the 
+        Administrator shall consult with aviation, medical, and union 
+        stakeholders.
+            (3) Report required.--Not later than 180 days after the date 
+        of enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report listing the medical 
+        conditions that have been added to the CACI program under 
+        paragraph (1).
+
+    (g) Expedited Authorization for Special Issuance of a Medical 
+Certificate.--
+            (1) In general.--The Administrator shall implement 
+        procedures to expedite the process for obtaining an 
+        Authorization for Special Issuance of a Medical Certificate 
+        under section 67.401 of title 14, Code of Federal Regulations.
+            (2) Consultations.--In carrying out paragraph (1), the 
+        Administrator shall consult with aviation, medical, and union 
+        stakeholders.
+            (3) Report required.--Not later than 1 year after the date 
+        of enactment of this Act, the Administrator shall submit to the 
+        appropriate committees of Congress a report describing how the 
+        procedures implemented under paragraph (1) will streamline the 
+        process for obtaining an Authorization for Special Issuance of a 
+        Medical Certificate and reduce the amount of time needed to 
+        review and decide special issuance cases.
+
+    (h) Report Required.--Not later than 5 years after the date of 
+enactment of this Act, the Administrator, in coordination with the 
+National Transportation Safety Board, shall submit to the appropriate 
+committees of Congress a report that describes the effect of the 
+regulations issued or revised under subsection (a) and includes 
+statistics with respect to changes in small aircraft activity and safety 
+incidents.
+    (i) <<NOTE: Effective date. Regulations. Federal 
+Register, publication.>>  Prohibition on Enforcement Actions.--Beginning 
+on the date that is 1 year after the date of enactment of this Act, the 
+Administrator may not take an enforcement action for not holding a valid 
+third-class medical certificate against a pilot of a covered aircraft 
+for a flight if the pilot and the flight meet, through a good faith 
+effort, the applicable requirements under subsection (a), except 
+paragraph (5) of that subsection, unless the Administrator has published 
+final regulations in the Federal Register under that subsection.
+
+    (j) Covered Aircraft Defined.--In this section, the term ``covered 
+aircraft'' means an aircraft that--
+            (1) is authorized under Federal law to carry not more than 6 
+        occupants; and
+            (2) has a maximum certificated takeoff weight of not more 
+        than 6,000 pounds.
+
+    (k) Operations Covered.--The provisions and requirements covered in 
+this section do not apply to pilots who elect to operate under the 
+medical requirements under subsection (b) or subsection (c) of section 
+61.23 of title 14, Code of Federal Regulations.
+
+[[Page 130 STAT. 648]]
+
+    (l) Authority To Require Additional Information.--
+            (1) In general.--If the Administrator receives credible or 
+        urgent information, including from the National Driver Register 
+        or the Administrator's Safety Hotline, that reflects on an 
+        individual's ability to safely operate a covered aircraft under 
+        the third-class medical certificate exemption in subsection (a), 
+        the Administrator may require the individual to provide 
+        additional information or history so that the Administrator may 
+        determine whether the individual is safe to continue operating a 
+        covered aircraft.
+            (2) Use of information.--The Administrator may use credible 
+        or urgent information received under paragraph (1) to request an 
+        individual to provide additional information or to take actions 
+        under section 44709(b) of title 49, United States Code.
+SEC. 2308. TARMAC DELAYS.
+
+    (a) Deplaning Following Excessive Tarmac Delay.--Section 42301(b)(3) 
+of title 49, United States Code, is amended--
+            (1) by redesignating subparagraph (C) as subparagraph (D);
+            (2) by inserting after subparagraph (B) the following:
+                    ``(C) <<NOTE: Deadlines.>>  In providing the option 
+                described in subparagraph (A), the air carrier shall 
+                begin to return the aircraft to a suitable 
+                disembarkation point--
+                          ``(i) in the case of a flight in interstate 
+                      air transportation, not later than 3 hours after 
+                      the main aircraft door is closed in preparation 
+                      for departure; and
+                          ``(ii) in the case of a flight in foreign air 
+                      transportation, not later than 4 hours after the 
+                      main aircraft door is closed in preparation for 
+                      departure.''; and
+            (3) in subparagraph (D) (as redesignated by paragraph (1) of 
+        this subsection) by striking ``subparagraphs (A) and (B)'' and 
+        inserting ``subparagraphs (A), (B), and (C)''.
+
+    (b) Excessive Tarmac Delay Defined.--Section 42301(i)(4) of title 
+49, United States Code, is amended to read as follows:
+            ``(4) Excessive tarmac delay.--The term `excessive tarmac 
+        delay' means a tarmac delay of more than--
+                    ``(A) 3 hours for a flight in interstate air 
+                transportation; or
+                    ``(B) 4 hours for a flight in foreign air 
+                transportation.''.
+
+    (c) <<NOTE: Deadline. 49 USC 42301 note.>>  Regulations.--Not later 
+than 90 days after the date of enactment of this section, the Secretary 
+of Transportation shall issue regulations and take other actions 
+necessary to carry out the amendments made by this section.
+SEC. 2309. <<NOTE: 49 USC 42301 note prec. Deadline. Review.>>  
+                          FAMILY SEATING.
+
+    (a) In General.--Not later than 1 year after the date of enactment 
+of this Act, the Secretary of Transportation shall review and, if 
+appropriate, establish a policy directing all air carriers providing 
+scheduled passenger interstate or intrastate air transportation to 
+establish policies that enable a child, who is age 13 or under on the 
+date an applicable flight is scheduled to occur, to be seated in a seat 
+adjacent to the seat of an accompanying family member over the age of 
+13, to the maximum extent practicable and at no additional cost, except 
+when assignment to an adjacent seat would require an upgrade to another 
+cabin class
+
+[[Page 130 STAT. 649]]
+
+or a seat with extra legroom or seat pitch for which additional payment 
+is normally required.
+    (b) Effect on Airline Boarding and Seating Policies.--When 
+considering any new policy under this section, the Secretary shall 
+consider the traditional seating and boarding policies of air carriers 
+providing scheduled passenger interstate or intrastate air 
+transportation and whether those policies generally allow families to 
+sit together.
+    (c) Statutory Construction.--Notwithstanding the requirement in 
+subsection (a), nothing in this section may be construed to allow the 
+Secretary to impose a significant change in the overall seating or 
+boarding policy of an air carrier providing scheduled passenger 
+interstate or intrastate air transportation that has an open or flexible 
+seating policy in place that generally allows adjacent family seating as 
+described in subsection (a).
+
+TITLE <<NOTE: Aviation Security Act of 2016. 49 USC 44901 note.>>  III--
+AVIATION SECURITY
+SEC. 3001. SHORT TITLE.
+
+    This title may be cited as the ``Aviation Security Act of 2016''.
+SEC. 3002. DEFINITIONS.
+
+    In this title:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Transportation Security Administration.
+            (2) Department.--The term ``Department'' means the 
+        Department of Homeland Security.
+            (3) Precheck program.--The term ``PreCheck Program'' means 
+        the trusted traveler program implemented by the Transportation 
+        Security Administration under section 109(a)(3) of the Aviation 
+        and Transportation Security Act (Public Law 107-71; 49 U.S.C. 
+        114 note).
+            (4) TSA.--The term ``TSA'' means the Transportation Security 
+        Administration.
+
+                   Subtitle A--TSA PreCheck Expansion
+
+SEC. 3101. PRECHECK PROGRAM AUTHORIZATION.
+
+    The Administrator shall continue to administer the PreCheck Program.
+SEC. 3102. PRECHECK PROGRAM ENROLLMENT EXPANSION.
+
+    (a) <<NOTE: Deadline. Publication. Standards. Public information.>>  
+In General.--Not later than 90 days after the date of enactment of this 
+Act, the Administrator shall publish PreCheck Program enrollment 
+standards that add multiple private sector application capabilities for 
+the PreCheck Program to increase the public's enrollment access to the 
+program, including standards that allow the use of secure technologies, 
+including online enrollment, kiosks, tablets, or staffed laptop stations 
+at which individuals can apply for entry into the program.
+
+    (b) Requirements.--Upon publication of the PreCheck Program 
+enrollment standards under subsection (a), the Administrator shall--
+            (1) <<NOTE: Coordination.>>  coordinate with interested 
+        parties--
+
+[[Page 130 STAT. 650]]
+
+                    (A) to deploy TSA-approved ready-to-market private 
+                sector solutions that meet the PreCheck Program 
+                enrollment standards under such subsection;
+                    (B) to make available additional PreCheck Program 
+                enrollment capabilities; and
+                    (C) to offer secure online and mobile enrollment 
+                opportunities;
+            (2) partner with the private sector to collect biographic 
+        and biometric identification information via kiosks, mobile 
+        devices, or other mobile enrollment platforms to increase 
+        enrollment flexibility and minimize the amount of travel to 
+        enrollment centers for applicants;
+            (3) ensure that any information, including biographic 
+        information, is collected in a manner that--
+                    (A) is comparable with the appropriate and 
+                applicable standards developed by the National Institute 
+                of Standards and Technology; and
+                    (B) <<NOTE: Confidential information.>>  protects 
+                privacy and data security, including that any personally 
+                identifiable information is collected, retained, used, 
+                and shared in a manner consistent with section 552a of 
+                title 5, United States Code (commonly known as ``Privacy 
+                Act of 1974''), and with agency regulations;
+            (4) ensure that the enrollment process is streamlined and 
+        flexible to allow an individual to provide additional 
+        information to complete enrollment and verify identity;
+            
+        (5) <<NOTE: Records. Evaluation. Certification. Verification.>>  
+        ensure that any enrollment expansion using a private sector risk 
+        assessment instead of a fingerprint-based criminal history 
+        records check is evaluated and certified by the Secretary of 
+        Homeland Security, and verified by the Government Accountability 
+        Office or a federally funded research and development center 
+        after award to be equivalent to a fingerprint-based criminal 
+        history records check conducted through the Federal Bureau of 
+        Investigation with respect to the effectiveness of identifying 
+        individuals who are not qualified to participate in the PreCheck 
+        Program due to disqualifying criminal history; and
+            (6) <<NOTE: Certification. Procedures.>>  ensure that the 
+        Secretary has certified that reasonable procedures are in place 
+        with regard to the accuracy, relevancy, and proper utilization 
+        of information employed in private sector risk assessments.
+
+    (c) Marketing of PreCheck Program.--Upon publication of PreCheck 
+Program enrollment standards under subsection (a), the Administrator 
+shall--
+            (1) in accordance with such standards, develop and 
+        implement--
+                    (A) a continual process, including an associated 
+                timeframe, for approving private sector marketing of the 
+                PreCheck Program; and
+                    (B) a long-term strategy for partnering with the 
+                private sector to encourage enrollment in such program;
+            (2) <<NOTE: Deadline. Reports. Recommenda- tions.>>  submit 
+        to Congress, at the end of each fiscal year, a report on any 
+        PreCheck Program application fees collected in excess of the 
+        costs of administering the program, including to assess the 
+        feasibility of the program, for such fiscal year, and 
+        recommendations for using such fees to support marketing of the 
+        program.
+
+[[Page 130 STAT. 651]]
+
+    (d) <<NOTE: Deadline.>>  Identity Verification Enhancement.--Not 
+later than 120 days after the date of enactment of this Act, the 
+Administrator shall--
+            (1) <<NOTE: Coordinate.>>  coordinate with the heads of 
+        appropriate components of the Department to leverage Department-
+        held data and technologies to verify the citizenship of 
+        individuals enrolling in the PreCheck Program;
+            (2) partner with the private sector to use biometrics and 
+        authentication standards, such as relevant standards developed 
+        by the National Institute of Standards and Technology, to 
+        facilitate enrollment in the program; and
+            (3) consider leveraging the existing resources and abilities 
+        of airports to conduct fingerprint and background checks to 
+        expedite identity verification.
+
+    (e) PreCheck Program Lanes Operation.--The Administrator shall--
+            (1) ensure that PreCheck Program screening lanes are open 
+        and available during peak and high-volume travel times at 
+        appropriate airports to individuals enrolled in the PreCheck 
+        Program; and
+            (2) make every practicable effort to provide expedited 
+        screening at standard screening lanes during times when PreCheck 
+        Program screening lanes are closed to individuals enrolled in 
+        the program in order to maintain operational efficiency.
+
+    (f) <<NOTE: Deadline. Assessment. Determination.>>  Vetting for 
+PreCheck Program Participants.--Not later than 90 days after the date of 
+enactment of this Act, the Administrator shall initiate an assessment to 
+identify any security vulnerabilities in the vetting process for the 
+PreCheck Program, including determining whether subjecting PreCheck 
+Program participants to recurrent fingerprint-based criminal history 
+records checks, in addition to recurrent checks against the terrorist 
+watchlist, could be done in a cost-effective manner to strengthen the 
+security of the PreCheck Program.
+
+  Subtitle B--Securing Aviation From Foreign Entry Points and Guarding 
+                   Airports Through Enhanced Security
+
+SEC. 3201. LAST POINT OF DEPARTURE AIRPORT SECURITY ASSESSMENT.
+
+    (a) <<NOTE: Deadline.>>  In General.--Not later than 180 days after 
+the date of enactment of this Act, the Administrator shall conduct a 
+comprehensive security risk assessment of all last point of departure 
+airports with nonstop flights to the United States.
+
+    (b) Contents.--The security risk assessment required under 
+subsection (a) shall include consideration of the following:
+            (1) The level of coordination and cooperation between the 
+        TSA and the foreign government of the country in which the last 
+        point of departure airport with nonstop flights to the United 
+        States is located.
+            (2) The intelligence and threat mitigation capabilities of 
+        the country in which such airport is located.
+            (3) The number of known or suspected terrorists annually 
+        transiting through such airport.
+
+[[Page 130 STAT. 652]]
+
+            (4) The degree to which the foreign government of the 
+        country in which such airport is located mandates, encourages, 
+        or prohibits the collection, analysis, and sharing of passenger 
+        name records.
+            (5) The passenger security screening practices, 
+        capabilities, and capacity of such airport.
+            (6) The security vetting undergone by aviation workers at 
+        such airport.
+            (7) The access controls utilized by such airport to limit to 
+        authorized personnel access to secure and sterile areas of such 
+        airports.
+SEC. 3202. SECURITY COORDINATION ENHANCEMENT PLAN.
+
+    (a) <<NOTE: Deadline.>>  In General.--Not later than 240 days after 
+the date of enactment of this Act, the Administrator shall submit to 
+Congress and the Government Accountability Office a plan--
+            (1) to enhance and bolster security collaboration, 
+        coordination, and information sharing relating to securing 
+        international-inbound aviation between the United States and 
+        domestic and foreign partners, including U.S. Customs and Border 
+        Protection, foreign government entities, passenger air carriers, 
+        cargo air carriers, and United States Government entities, in 
+        order to enhance security capabilities at foreign airports, 
+        including airports that may not have nonstop flights to the 
+        United States but are nonetheless determined by the 
+        Administrator to be high risk; and
+            (2) <<NOTE: Assessment. Contracts.>>  that includes an 
+        assessment of the ability of the TSA to enter into a mutual 
+        agreement with a foreign government entity that permits TSA 
+        representatives to conduct without prior notice inspections of 
+        foreign airports.
+
+    (b) <<NOTE: Deadline. Determination.>>  GAO Review.--Not later than 
+180 days after the submission of the plan required under subsection (a), 
+the Comptroller General of the United States shall review the efforts, 
+capabilities, and effectiveness of the TSA to enhance security 
+capabilities at foreign airports and determine if the implementation of 
+such efforts and capabilities effectively secures international-inbound 
+aviation.
+SEC. 3203. <<NOTE: Deadline.>>  WORKFORCE ASSESSMENT.
+
+    Not later than 270 days after the date of enactment of this Act, the 
+Administrator shall submit to Congress a comprehensive workforce 
+assessment of all TSA personnel within the Office of Global Strategies 
+of the TSA or whose primary professional duties contribute to the TSA's 
+global efforts to secure transportation security, including a review of 
+whether such personnel are assigned in a risk-based, intelligence-driven 
+manner.
+SEC. 3204. DONATION OF SCREENING EQUIPMENT TO PROTECT THE UNITED 
+                          STATES.
+
+    (a) In General.--The Administrator is authorized to donate security 
+screening equipment to a foreign last point of departure airport 
+operator if such equipment can be reasonably expected to mitigate a 
+specific vulnerability to the security of the United States or United 
+States citizens.
+    (b) Report.--Not later than 30 days before any donation of security 
+screening equipment pursuant to subsection (a), the Administrator shall 
+provide to the Committee on Homeland Security of the House of 
+Representatives and the Committee on Homeland
+
+[[Page 130 STAT. 653]]
+
+Security and Governmental Affairs and the Committee on Commerce, 
+Science, and Transportation of the Senate a detailed written explanation 
+of the following:
+            (1) The specific vulnerability to the United States or 
+        United States citizens that will be mitigated by such donation.
+            (2) An explanation as to why the recipient of such donation 
+        is unable or unwilling to purchase security screening equipment 
+        to mitigate such vulnerability.
+            (3) <<NOTE: Evacuation plan.>>  An evacuation plan for 
+        sensitive technologies in case of emergency or instability in 
+        the country to which such donation is being made.
+            (4) How the Administrator will ensure the security screening 
+        equipment that is being donated is used and maintained over the 
+        course of its life by the recipient.
+            (5) The total dollar value of such donation.
+SEC. 3205. NATIONAL CARGO SECURITY PROGRAM.
+
+    (a) <<NOTE: Evaluation.>>  In General.--The Administrator may 
+evaluate foreign countries' air cargo security programs to determine 
+whether such programs provide a level of security commensurate with the 
+level of security required by United States air cargo security programs.
+
+    (b) Approval and Recognition.--
+            (1) <<NOTE: Determination.>>  In general.--If the 
+        Administrator determines that a foreign country's air cargo 
+        security program evaluated under subsection (a) provides a level 
+        of security commensurate with the level of security required by 
+        United States air cargo security programs, the Administrator 
+        shall approve and officially recognize such foreign country's 
+        air cargo security program.
+            (2) Effect of approval and recognition.--If the 
+        Administrator approves and officially recognizes pursuant to 
+        paragraph (1) a foreign country's air cargo security program, an 
+        aircraft transporting cargo that is departing such foreign 
+        country shall not be required to adhere to United States air 
+        cargo security programs that would otherwise be applicable.
+
+    (c) Revocation and Suspension.--
+            (1) <<NOTE: Determination.>>  In general.--If the 
+        Administrator determines at any time that a foreign country's 
+        air cargo security program approved and officially recognized 
+        under subsection (b) no longer provides a level of security 
+        commensurate with the level of security required by United 
+        States air cargo security programs, the Administrator may revoke 
+        or temporarily suspend such approval and official recognition 
+        until such time as the Administrator determines that such 
+        foreign country's cargo security programs provide a level of 
+        security commensurate with the level of security required by 
+        such United States air cargo security programs.
+            (2) <<NOTE: Deadline.>>  Notification.--If the Administrator 
+        revokes or suspends pursuant to paragraph (1) a foreign 
+        country's air cargo security program, the Administrator shall 
+        notify the Committee on Homeland Security of the House of 
+        Representatives and the Committee on Commerce, Science, and 
+        Transportation of the Senate not later than 30 days after such 
+        revocation or suspension.
+
+    (d) Application.--This section shall apply irrespective of whether 
+cargo is transported on an aircraft of an air carrier, a foreign air 
+carrier, a cargo carrier, or a foreign cargo carrier.
+
+[[Page 130 STAT. 654]]
+
+SEC. 3206. INTERNATIONAL TRAINING AND CAPACITY DEVELOPMENT.
+
+    (a) In General.--The Administrator shall establish an international 
+training and capacity development program to train the appropriate 
+authorities of foreign governments in air transportation security.
+    (b) Contents of Training.--If the Administrator determines that a 
+foreign government would benefit from training and capacity development 
+assistance pursuant to subsection (a), the Administrator may provide to 
+the appropriate authorities of such foreign government technical 
+assistance and training programs to strengthen aviation security in 
+managerial, operational, and technical areas, including--
+            (1) active shooter scenarios;
+            (2) incident response;
+            (3) use of canines;
+            (4) mitigation of insider threats;
+            (5) perimeter security;
+            (6) operation and maintenance of security screening 
+        technology; and
+            (7) recurrent related training and exercises.
+
+           Subtitle C--Checkpoint Optimization and Efficiency
+
+SEC. 3301. SENSE OF CONGRESS.
+
+    It is the sense of Congress that airport checkpoint wait times 
+should not take priority over the security of the aviation system of the 
+United States.
+SEC. 3302. ENHANCED STAFFING ALLOCATION MODEL.
+
+    (a) <<NOTE: Deadline. Assessment. Determination.>>  In General.--Not 
+later than 30 days after the date of the enactment of this Act, the 
+Administrator shall complete an assessment of the TSA's staffing 
+allocation model to determine the necessary staffing positions at all 
+airports in the United States at which the TSA operates passenger 
+checkpoints.
+
+    (b) Appropriate Staffing.--The staffing allocation model described 
+in subsection (a) shall be based on necessary staffing levels to 
+maintain minimal passenger wait times and maximum security 
+effectiveness.
+    (c) Additional Resources.--In assessing necessary staffing for 
+minimal passenger wait times and maximum security effectiveness referred 
+to in subsection (b), the Administrator shall include the use of canine 
+explosives detection teams and technology to assist screeners conducting 
+security checks.
+    (d) Transparency.--The Administrator shall share with aviation 
+security stakeholders the staffing allocation model described in 
+subsection (a), as appropriate.
+    (e) Exchange of Information.--The Administrator shall require each 
+Federal Security Director to engage on a regular basis with the 
+appropriate aviation security stakeholders to exchange information 
+regarding airport operations, including security operations.
+    (f) <<NOTE: Deadline. Reports.>>  GAO Review.--Not later than 180 
+days after the date of the enactment of this Act, the Comptroller 
+General of the United States shall review the staffing allocation model 
+described in subsection (a) and report to the Committee on Homeland 
+Security
+
+[[Page 130 STAT. 655]]
+
+of the House of Representatives and the Committee on Commerce, Science, 
+and Transportation of the Senate on the results of such review.
+SEC. 3303. EFFECTIVE UTILIZATION OF STAFFING RESOURCES.
+
+    (a) In General.--To the greatest extent practicable, the 
+Administrator shall direct that Transportation Security Officers with 
+appropriate certifications and training are assigned to passenger and 
+baggage security screening functions and that other TSA personnel who 
+may not have certification and training to screen passengers or baggage 
+are utilized for tasks not directly related to security screening, 
+including restocking bins and providing instructions and support to 
+passengers in security lines.
+    (b) Assessment and Reassignment.--The Administrator shall conduct an 
+assessment of headquarters personnel and reassign appropriate personnel 
+to assist with airport security screening activities on a permanent or 
+temporary basis, as appropriate.
+SEC. 3304. <<NOTE: Deadlines.>>  TSA STAFFING AND RESOURCE 
+                          ALLOCATION.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, the Administrator shall take the following 
+actions:
+            (1) Utilize the TSA's Behavior Detection Officers for 
+        passenger and baggage security screening, including the 
+        verification of traveler documents, particularly at designated 
+        PreCheck Program lanes to ensure that such lanes are operational 
+        for use and maximum efficiency.
+            (2) Make every practicable effort to grant additional 
+        flexibility and authority to Federal Security Directors in 
+        matters related to checkpoint and checked baggage staffing 
+        allocation and employee overtime in furtherance of maintaining 
+        minimal passenger wait times and maximum security effectiveness.
+            (3) <<NOTE: List.>>  Disseminate to aviation security 
+        stakeholders and appropriate TSA personnel a list of checkpoint 
+        optimization best practices.
+            (4) <<NOTE: Recommenda- tions.>>  Request the Aviation 
+        Security Advisory Committee (established pursuant to section 
+        44946 of title 49, United States Code) provide recommendations 
+        on best practices for checkpoint security operations 
+        optimization.
+
+    (b) Staffing Advisory Coordination.--Not later than 30 days after 
+the date of the enactment of this Act, the Administrator shall--
+            (1) <<NOTE: Establishment.>>  direct each Federal Security 
+        Director to coordinate local representatives of aviation 
+        security stakeholders to establish a staffing advisory working 
+        group at each airport at which the TSA oversees or performs 
+        passenger security screening to provide recommendations to the 
+        Administrator on Transportation Security Officer staffing 
+        numbers, for each such airport; and
+            (2) <<NOTE: Certification.>>  certify to the Committee on 
+        Homeland Security of the House of Representatives and the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        that such staffing advisory working groups have been 
+        established.
+
+    (c) Reporting.--Not later than 60 days after the date of the 
+enactment of this Act, the Administrator shall--
+            (1) report to the Committee on Homeland Security of the 
+        House of Representatives and the Committee on Commerce, Science, 
+        and Transportation of the Senate regarding how the
+
+[[Page 130 STAT. 656]]
+
+        TSA's Passenger Screening Canine assets may be deployed and 
+        utilized for maximum efficiency to mitigate risk and optimize 
+        checkpoint operations; and
+            (2) report to the Committee on Homeland Security of the 
+        House of Representatives and the Committee on Commerce, Science, 
+        and Transportation of the Senate on the status of the TSA's 
+        Credential Authentication Technology Assessment program and how 
+        deployment of such program might optimize checkpoint operations.
+SEC. 3305. AVIATION SECURITY STAKEHOLDERS DEFINED.
+
+    For purposes of this subtitle, the term ``aviation security 
+stakeholders'' shall mean, at a minimum, air carriers, airport 
+operators, and labor organizations representing Transportation Security 
+Officers or, where applicable, contract screeners.
+SEC. 3306. RULE OF CONSTRUCTION.
+
+    Nothing in this subtitle may be construed as authorizing or 
+directing the Administrator to prioritize reducing wait times over 
+security effectiveness.
+
+         Subtitle D--Aviation Security Enhancement and Oversight
+
+SEC. 3401. DEFINITIONS.
+
+    In this subtitle:
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means--
+                    (A) the Committee on Homeland Security of the House 
+                of Representatives;
+                    (B) the Committee on Homeland Security and 
+                Governmental Affairs of the Senate; and
+                    (C) the Committee on Commerce, Science, and 
+                Transportation of the Senate.
+            (2) ASAC.--The term ``ASAC'' means the Aviation Security 
+        Advisory Committee established under section 44946 of title 49, 
+        United States Code.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of Homeland Security.
+            (4) SIDA.--The term ``SIDA'' means the Secure Identification 
+        Display Area as such term is defined in section 1540.5 of title 
+        49, Code of Federal Regulations, or any successor regulation to 
+        such section.
+SEC. 3402. THREAT ASSESSMENT.
+
+    (a) Insider Threats.--
+            (1) <<NOTE: Deadline. Determination.>>  In general.--Not 
+        later than 90 days after the date of the enactment of this Act, 
+        the Administrator shall conduct or update an assessment to 
+        determine the level of risk posed to the domestic air 
+        transportation system by individuals with unescorted access to a 
+        secure area of an airport (as such term is defined in section 
+        44903(j)(2)(H)) in light of recent international terrorist 
+        activity.
+            (2) Considerations.--In conducting or updating the 
+        assessment under paragraph (1), the Administrator shall 
+        consider--
+
+[[Page 130 STAT. 657]]
+
+                    (A) domestic intelligence;
+                    (B) international intelligence;
+                    (C) the vulnerabilities associated with unescorted 
+                access authority granted to domestic airport operators 
+                and air carriers, and their workers;
+                    (D) the vulnerabilities associated with unescorted 
+                access authority granted to foreign airport operators 
+                and air carriers, and their workers;
+                    (E) the processes and practices designed to mitigate 
+                the vulnerabilities associated with unescorted access 
+                privileges granted to airport operators and air 
+                carriers, and their workers;
+                    (F) the recent security breaches at domestic and 
+                foreign airports; and
+                    (G) the recent security improvements at domestic 
+                airports, including the implementation of 
+                recommendations made by relevant advisory committees, 
+                including the ASAC.
+
+    (b) Reports.--The Administrator shall submit to the appropriate 
+congressional committees--
+            (1) a report on the results of the assessment under 
+        subsection (a), including any recommendations for improving 
+        aviation security;
+            (2) a report on the implementation status of any 
+        recommendations made by the ASAC; and
+            (3) regular updates about the insider threat environment as 
+        new information becomes available or as needed.
+SEC. 3403. OVERSIGHT.
+
+    (a) Enhanced Requirements.--
+            (1) <<NOTE: Public information. Regulations.>>  In 
+        general.--Subject to public notice and comment, and in 
+        consultation with airport operators, the Administrator shall 
+        update the rules on access controls issued by the Secretary 
+        under chapter 449 of title 49, United States Code.
+            (2) Considerations.--As part of the update under paragraph 
+        (1), the Administrator shall consider--
+                    (A) increased fines and advanced oversight for 
+                airport operators that report missing more than five 
+                percent of credentials for unescorted access to any SIDA 
+                of an airport;
+                    (B) best practices for Category X airport operators 
+                that report missing more than three percent of 
+                credentials for unescorted access to any SIDA of an 
+                airport;
+                    (C) additional audits and status checks for airport 
+                operators that report missing more than three percent of 
+                credentials for unescorted access to any SIDA of an 
+                airport;
+                    (D) review and analysis of the prior five years of 
+                audits for airport operators that report missing more 
+                than three percent of credentials for unescorted access 
+                to any SIDA of an airport;
+                    (E) <<NOTE: Deadline.>>  increased fines and direct 
+                enforcement requirements for both airport workers and 
+                their employers that fail to report within 24 hours an 
+                employment termination or a missing credential for 
+                unescorted access to any SIDA of an airport; and
+                    (F) a method for termination by the employer of any 
+                airport worker who fails to report in a timely manner 
+                missing credentials for unescorted access to any SIDA of 
+                an airport.
+
+[[Page 130 STAT. 658]]
+
+    (b) Temporary Credentials.--The Administrator may encourage the 
+issuance by airports and aircraft operators of free, one-time, 24-hour 
+temporary credentials for workers who have reported, in a timely manner, 
+their credentials missing, but not permanently lost, stolen, or 
+destroyed, until replacement of credentials under section 1542.211 of 
+title 49 Code of Federal Regulations is necessary.
+    (c) Notification and Report to Congress.--The Administrator shall--
+            (1) notify the appropriate congressional committees each 
+        time an airport operator reports that more than three percent of 
+        credentials for unescorted access to any SIDA at a Category X 
+        airport are missing, or more than five percent of credentials to 
+        access any SIDA at any other airport are missing; and
+            (2) submit to the appropriate congressional committees an 
+        annual report on the number of violations and fines related to 
+        unescorted access to the SIDA of an airport collected in the 
+        preceding fiscal year.
+SEC. 3404. <<NOTE: Guidance.>>  CREDENTIALS.
+
+    (a) <<NOTE: Deadline.>>  Lawful Status.--Not later than 90 days 
+after the date of the enactment of this Act, the Administrator shall 
+issue to airport operators guidance regarding placement of an expiration 
+date on each airport credential issued to a non-United States citizen 
+that is not longer than the period of time during which such non-United 
+States citizen is lawfully authorized to work in the United States.
+
+    (b) Review of Procedures.--
+            (1) In general.--Not later than 90 days after the date of 
+        the enactment of this Act, the Administrator shall--
+                    (A) issue guidance for transportation security 
+                inspectors to annually review the procedures of airport 
+                operators and air carriers for applicants seeking 
+                unescorted access to any SIDA of an airport; and
+                    (B) make available to airport operators and air 
+                carriers information on identifying suspicious or 
+                fraudulent identification materials.
+            (2) Inclusions.--The guidance issued pursuant to paragraph 
+        (1) shall require a comprehensive review of background checks 
+        and employment authorization documents issued by United States 
+        Citizenship and Immigration Services during the course of a 
+        review of procedures under such paragraph.
+SEC. 3405. VETTING.
+
+    (a) Eligibility Requirements.--
+            (1) <<NOTE: Deadline. Public information. Regulations.>>  In 
+        general.--Not later than 180 days after the date of the 
+        enactment of this Act, and subject to public notice and comment, 
+        the Administrator shall revise the regulations issued under 
+        section 44936 of title 49, United States Code, in accordance 
+        with this section and current knowledge of insider threats and 
+        intelligence under section 3502, to enhance the eligibility 
+        requirements and disqualifying criminal offenses for individuals 
+        seeking or having unescorted access to any SIDA of an airport.
+            (2) Disqualifying criminal offenses.--In revising the 
+        regulations under paragraph (1), the Administrator shall 
+        consider adding to the list of disqualifying criminal offenses 
+        and criteria the offenses and criteria listed in section 
+        122.183(a)(4) of title 19, Code of Federal Regulations and 
+        section 1572.103 of title 49, Code of Federal Regulations.
+
+[[Page 130 STAT. 659]]
+
+            (3) Waiver process for denied credentials.--Notwithstanding 
+        section 44936(b) of title 49, United States Code, in revising 
+        the regulations under paragraph (1) of this subsection, the 
+        Administrator shall--
+                    (A) ensure there exists or is developed a waiver 
+                process for approving the issuance of credentials for 
+                unescorted access to any SIDA of an airport for an 
+                individual found to be otherwise ineligible for such 
+                credentials; and
+                    (B) consider, as appropriate and practicable--
+                          (i) the circumstances of any disqualifying act 
+                      or offense, restitution made by the individual, 
+                      Federal and State mitigation remedies, and other 
+                      factors from which it may be concluded that the 
+                      individual does not pose a terrorism risk or a 
+                      risk to aviation security warranting denial of the 
+                      credential; and
+                          (ii) the elements of the appeals and waiver 
+                      process established under section 70105(c) of 
+                      title 46, United States Code.
+            (4) <<NOTE: Time periods.>>  Look back.--In revising the 
+        regulations under paragraph (1), the Administrator shall propose 
+        that an individual be disqualified if the individual was 
+        convicted, or found not guilty by reason of insanity, of a 
+        disqualifying criminal offense within 15 years before the date 
+        of an individual's application, or if the individual was 
+        incarcerated for such crime and released from incarceration 
+        within five years before the date of the individual's 
+        application.
+            (5) Certifications.--The Administrator shall require an 
+        airport or aircraft operator, as applicable, to certify for each 
+        individual who receives unescorted access to any SIDA of an 
+        airport that--
+                    (A) a specific need exists for providing the 
+                individual with unescorted access authority; and
+                    (B) the individual has certified to the airport or 
+                aircraft operator that the individual understands the 
+                requirements for possessing a SIDA badge.
+            (6) Report to congress.--Not later than 90 days after the 
+        date of the enactment of this Act, the Administrator shall 
+        submit to the appropriate congressional committees a report on 
+        the status of the revision to the regulations issued under 
+        section 44936 of title 49, United States Code, in accordance 
+        with this section.
+            (7) Rule of construction.--Nothing in this subsection may be 
+        construed to affect existing aviation worker vetting fees 
+        imposed by the TSA.
+
+    (b) Recurrent Vetting.--
+            (1) <<NOTE: Deadline.>>  In general.--Not later than 90 days 
+        after the date of the enactment of this Act, the Administrator 
+        and the Director of the Federal Bureau of Investigation shall 
+        fully implement the Rap Back service for recurrent vetting of 
+        eligible TSA-regulated populations of individuals with 
+        unescorted access to any SIDA of an airport.
+            (2) Requirements.--As part of the requirement in paragraph 
+        (1), the Administrator shall ensure that--
+                    (A) any status notifications the TSA receives 
+                through the Rap Back service about criminal offenses be 
+                limited to only disqualifying criminal offenses in 
+                accordance with the regulations promulgated by the TSA 
+                under section
+
+[[Page 130 STAT. 660]]
+
+                44903 of title 49, United States Code, or other Federal 
+                law; and
+                    (B) any information received by the Administration 
+                through the Rap Back service is provided directly and 
+                immediately to the relevant airport and aircraft 
+                operators.
+            (3) Report to congress.--Not later than 30 days after 
+        implementation of the Rap Back service described in paragraph 
+        (1), the Administrator shall submit to the appropriate 
+        congressional committees a report on the such implementation.
+
+    (c) <<NOTE: Deadline. Coordination.>>  Access to Terrorism-Related 
+Data.--Not later than 30 days after the date of the enactment of this 
+Act, the Administrator and the Director of National Intelligence shall 
+coordinate to ensure that the Administrator is authorized to receive 
+automated, real-time access to additional Terrorist Identities Datamart 
+Environment (TIDE) data and any other terrorism-related category codes 
+to improve the effectiveness of the TSA's credential vetting program for 
+individuals who are seeking or have unescorted access to any SIDA of an 
+airport.
+
+    (d) <<NOTE: Deadline. Determination.>>  Access to E-Verify and SAVE 
+Programs.--Not later than 90 days after the date of the enactment of 
+this Act, the Secretary shall authorize each airport operator to have 
+direct access to the E-Verify program and the Systematic Alien 
+Verification for Entitlements (SAVE) automated system to determine the 
+eligibility of individuals seeking unescorted access to any SIDA of an 
+airport.
+SEC. 3406. METRICS.
+
+    (a) <<NOTE: Deadline.>>  In General.--Not later than one year after 
+the date of the enactment of this Act, the Administrator shall develop 
+and implement performance metrics to measure the effectiveness of 
+security for the SIDAs of airports.
+
+    (b) Considerations.--In developing the performance metrics under 
+subsection (a), the Administrator may consider--
+            (1) adherence to access point procedures;
+            (2) proper use of credentials;
+            (3) differences in access point requirements between airport 
+        workers performing functions on the airside of an airport and 
+        airport workers performing functions in other areas of an 
+        airport;
+            (4) differences in access point characteristics and 
+        requirements at airports; and
+            (5) any additional factors the Administrator considers 
+        necessary to measure performance.
+SEC. 3407. INSPECTIONS AND ASSESSMENTS.
+
+    (a) <<NOTE: Deadline. Consultation.>>  Model and Best Practices.--
+Not later than 180 days after the date of the enactment of this Act, the 
+Administrator, in consultation with the ASAC, shall develop a model and 
+best practices for unescorted access security that--
+            (1) use intelligence, scientific algorithms, and risk-based 
+        factors;
+            (2) ensure integrity, accountability, and control;
+            (3) subject airport workers to random physical security 
+        inspections conducted by TSA representatives in accordance with 
+        this section;
+            (4) appropriately manage the number of SIDA access points to 
+        improve supervision of and reduce unauthorized access to SIDAs; 
+        and
+
+[[Page 130 STAT. 661]]
+
+            (5) include validation of identification materials, such as 
+        with biometrics.
+
+    (b) <<NOTE: Verification.>>  Inspections.--Consistent with a risk-
+based security approach, the Administrator shall expand the use of 
+transportation security officers and inspectors to conduct enhanced, 
+random and unpredictable, data-driven, and operationally dynamic 
+physical inspections of airport workers in each SIDA of an airport and 
+at each SIDA access point to--
+            (1) verify the credentials of such airport workers;
+            (2) <<NOTE: Determination.>>  determine whether such airport 
+        workers possess prohibited items, except for those items that 
+        may be necessary for the performance of such airport workers' 
+        duties, as appropriate, in any SIDA of an airport; and
+            (3) verify whether such airport workers are following 
+        appropriate procedures to access any SIDA of an airport.
+
+    (c) Screening Review.--
+            (1) In general.--The Administrator shall conduct a review of 
+        airports that have implemented additional airport worker 
+        screening or perimeter security to improve airport security, 
+        including--
+                    (A) comprehensive airport worker screening at access 
+                points to secure areas;
+                    (B) comprehensive perimeter screening, including 
+                vehicles;
+                    (C) enhanced fencing or perimeter sensors; and
+                    (D) any additional airport worker screening or 
+                perimeter security measures the Administrator 
+                identifies.
+            (2) Best practices.--After completing the review under 
+        paragraph (1), the Administrator shall--
+                    (A) identify best practices for additional access 
+                control and airport worker security at airports; and
+                    (B) disseminate to airport operators the best 
+                practices identified under subparagraph (A).
+            (3) Pilot program.--The Administrator may conduct a pilot 
+        program at one or more airports to test and validate best 
+        practices for comprehensive airport worker screening or 
+        perimeter security under paragraph (2).
+SEC. 3408. COVERT TESTING.
+
+    (a) In General.--The Administrator shall increase the use of red-
+team, covert testing of access controls to any secure areas of an 
+airport.
+    (b) Additional Covert Testing.--The Inspector General of the 
+Department of Homeland Security shall conduct red-team, covert testing 
+of airport access controls to the SIDAs of airports.
+    (c) Reports to Congress.--
+            (1) Administrator report.--Not later than 90 days after the 
+        date of the enactment of this Act, the Administrator shall 
+        submit to the appropriate congressional committees a report on 
+        the progress to expand the use of inspections and of red-team, 
+        covert testing under subsection (a).
+            (2) Inspector general report.--Not later than 180 days after 
+        the date of the enactment of this Act, the Inspector General of 
+        the Department of Homeland Security shall submit to the 
+        appropriate congressional committees a report on the 
+        effectiveness of airport access controls to the SIDAs of 
+        airports based on red-team, covert testing under subsection (b).
+
+[[Page 130 STAT. 662]]
+
+SEC. 3409. SECURITY DIRECTIVES.
+
+    (a) <<NOTE: Deadlines. Consultation. Determinations.>>  Review.--Not 
+later than 180 days after the date of the enactment of this Act and 
+annually thereafter, the Administrator, in consultation with the 
+appropriate regulated entities, shall conduct a comprehensive review of 
+every current security directive addressed to any regulated entity to--
+            (1) determine whether each such security directive continues 
+        to be relevant;
+            (2) determine whether such security directives should be 
+        streamlined or consolidated to most efficiently maximize risk 
+        reduction; and
+            (3) update, consolidate, or revoke any security directive as 
+        necessary.
+
+    (b) Notice.--For each security directive that the Administrator 
+issues, the Administrator shall submit to the appropriate congressional 
+committees notice of--
+            (1) the extent to which each such security directive 
+        responds to a specific threat, security threat assessment, or 
+        emergency situation against civil aviation; and
+            (2) when it is anticipated that each such security directive 
+        will expire.
+SEC. 3410. IMPLEMENTATION REPORT.
+
+    Not later than one year after the date of the enactment of this Act, 
+the Comptroller General of the United States shall--
+            (1) <<NOTE: Assessment.>>  assess the progress made by the 
+        TSA and the effect on aviation security of implementing the 
+        requirements under sections 3402 through 3409 of this subtitle; 
+        and
+            (2) <<NOTE: Recommenda- tions.>>  report to the appropriate 
+        congressional committees on the results of the assessment under 
+        paragraph (1), including any recommendations.
+SEC. 3411. MISCELLANEOUS AMENDMENTS.
+
+    (a) ASAC Terms of Office.--Subparagraph (A) of section 44946(c)(2) 
+of title 49, United States Code, is amended to read as follows:
+                    ``(A) Terms.--The term of each member of the 
+                Advisory Committee shall be two years, but a member may 
+                continue to serve until a successor is appointed. A 
+                member of the Advisory Committee may be reappointed.''.
+
+    (b) Feedback.--Paragraph (5) of section 44946(b) of title 49, United 
+States Code, is amended by striking ``paragraph (4)'' and inserting 
+``paragraph (2) or (4)''.
+
+                  Subtitle E--Checkpoints of the Future
+
+SEC. 3501. CHECKPOINTS OF THE FUTURE.
+
+    (a) <<NOTE: Recommenda- tions.>>  In General.--The Administrator, in 
+accordance with chapter 449 of title 49, United States Code, shall 
+request the Aviation Security Advisory Committee (established pursuant 
+to section 44946 of such title) to develop recommendations for more 
+efficient and effective passenger screening processes.
+
+    (b) Considerations.--In making recommendations to improve existing 
+passenger screening processes, the Aviation Security Advisory Committee 
+shall consider--
+            (1) the configuration of a checkpoint;
+            (2) technology innovation;
+
+[[Page 130 STAT. 663]]
+
+            (3) ways to address any vulnerabilities identified in audits 
+        of checkpoint operations;
+            (4) ways to prevent security breaches at airports at which 
+        Federal security screening is provided;
+            (5) best practices in aviation security;
+            (6) recommendations from airports and aircraft operators, 
+        and any relevant advisory committees; and
+            (7) ``curb to curb'' processes and procedures.
+
+    (c) <<NOTE: Recommenda- tions.>>  Report.--Not later than one year 
+after the date of enactment of this Act, the Administrator shall submit 
+to the Committee on Homeland Security of the House of Representatives 
+and the Committee on Homeland Security and Governmental Affairs and the 
+Committee on Commerce, Science, and Transportation of the Senate a 
+report on the results of the Aviation Security Advisory Committee review 
+under this section, including any recommendations for improving 
+passenger screening processes.
+SEC. 3502. PILOT PROGRAM FOR INCREASED EFFICIENCY AND SECURITY AT 
+                          CATEGORY X AIRPORTS.
+
+    (a) In General.--The Administrator shall establish a pilot program 
+at at least three and not more than six airports to reconfigure and 
+install security systems that increase efficiency and reduce 
+vulnerabilities in airport terminals, particularly at airports that have 
+large open areas at which screening is conducted.
+    (b) Selection of Airports.--In selecting airports for the pilot 
+program established under subsection (a), the Administrator shall--
+            (1) select airports from among airports classified by the 
+        TSA as Category X airports and that are able to begin the 
+        reconfiguration and installation of security systems 
+        expeditiously; and
+            (2) give priority to an airport that--
+                    (A) submits a proposal that seeks Federal funding 
+                for reconfiguration of such airport's security systems;
+                    (B) has the space needed to reduce vulnerabilities 
+                and reconfigure existing security systems; and
+                    (C) is able to enter into a cost-sharing arrangement 
+                with the TSA under which such airport will provided 
+                funding towards the cost of such pilot program.
+SEC. 3503. PILOT PROGRAM FOR THE DEVELOPMENT AND TESTING OF 
+                          PROTOTYPES FOR AIRPORT SECURITY SYSTEMS.
+
+    (a) In General.--The Administrator shall establish a pilot program 
+at three airports to develop and test prototypes of screening security 
+systems and security checkpoint configurations that are intended to 
+expedite the movement of passengers by deploying a range of 
+technologies, including passive and active systems, new types of 
+security baggage and personal screening systems, and new systems to 
+review and address passenger and baggage anomalies.
+    (b) Selection of Airports.--In selecting airports for the pilot 
+program established under subsection (a), the Administrator shall--
+            (1) select airports from among airports classified by the 
+        TSA as Category X airports that are able to begin the 
+        reconfiguration and installation of security systems 
+        expeditiously;
+            (2) consider detection capabilities; and
+            (3) give priority to an airport that--
+                    (A) submits a proposal that seeks Federal funding to 
+                test prototypes for new airport security systems;
+
+[[Page 130 STAT. 664]]
+
+                    (B) has the space needed to reduce vulnerabilities 
+                and reconfigure existing security systems; and
+                    (C) is able to enter into a cost-sharing arrangement 
+                with the TSA under which such airport will provided 
+                funding towards the cost of such pilot program.
+SEC. 3504. REPORT REQUIRED.
+
+    Not later than 90 days after the date of the enactment of this Act, 
+the Administrator shall submit to the Committee on Homeland Security of 
+the House of Representatives and the Committee on Homeland Security and 
+Governmental Affairs and the Committee on Commerce, Science, and 
+Transportation of the Senate and a report on the pilot programs 
+established under sections 3502 and 3503 of this subtitle.
+SEC. 3505. FUNDING.
+
+    The Administrator shall carry out the pilot programs established 
+under sections 3502 and 3503 of this subtitle using amounts--
+            (1) appropriated to the TSA before the date of the enactment 
+        of this Act and available for obligation as of such date of 
+        enactment; and
+            (2) amounts obtained as reimbursements from airports under 
+        such pilot programs.
+SEC. 3506. ACCEPTANCE AND PROVISION OF RESOURCES BY THE 
+                          TRANSPORTATION SECURITY ADMINISTRATION.
+
+    The Administrator, in carrying out the functions of the pilot 
+programs established under sections 3502 and 3503 of this subtitle, may 
+accept services, supplies, equipment, personnel, or facilities, without 
+reimbursement, from any other public or private entity.
+
+                  Subtitle F--Miscellaneous Provisions
+
+SEC. 3601. VISIBLE DETERRENT.
+
+    Section 1303 of the Implementing Recommendations of the 9/11 
+Commission Act of 2007 (6 U.S.C. 1112) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (3), by striking ``and'' at the 
+                end;
+                    (B) in paragraph (4), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(5) shall require, as appropriate based on risk, in the 
+        case of a VIPR team deployed to an airport, that the VIPR team 
+        conduct operations--
+                    ``(A) in the sterile area and any other areas to 
+                which only individuals issued security credentials have 
+                unescorted access; and
+                    ``(B) in nonsterile areas.''; and
+            (2) in subsection (b), by striking ``such sums as necessary 
+        for fiscal years 2007 through 2011'' and inserting ``such sums 
+        as necessary, including funds to develop not more than 60 VIPR 
+        teams, for fiscal years 2016 through 2018''.
+
+[[Page 130 STAT. 665]]
+
+SEC. 3602. LAW ENFORCEMENT TRAINING FOR MASS CASUALTY AND ACTIVE 
+                          SHOOTER INCIDENTS.
+
+    Paragraph (2) of section 2006(a) of the Homeland Security Act of 
+2002 (6 U.S.C. 607(a)) is amended--
+            (1) by redesignating subparagraphs (E) through (I) as 
+        subparagraphs (F) through (J), respectively; and
+            (2) by inserting after subparagraph (D) the following new 
+        subparagraph:
+                    ``(E) training exercises to enhance preparedness for 
+                and response to mass casualty and active shooter 
+                incidents and security events at public locations, 
+                including airports and mass transit systems;''.
+SEC. 3603. ASSISTANCE TO AIRPORTS AND SURFACE TRANSPORTATION 
+                          SYSTEMS.
+
+    Subsection (a) of section 2008 of the Homeland Security Act of 2002 
+(6 U.S.C. 609) is amended--
+            (1) by redesignating paragraphs (9) through (13) as 
+        paragraphs (10) through (14), respectively; and
+            (2) by inserting after paragraph (8) the following new 
+        paragraph:
+            ``(9) enhancing the security and preparedness of secure and 
+        nonsecure areas of eligible airports and surface transportation 
+        systems;''.
+
+    Approved July 15, 2016.
+
+LEGISLATIVE HISTORY--H.R. 636:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-21, Pt. 1 (Comm. on Ways and Means).
+CONGRESSIONAL RECORD:
+                                                        Vol. 161 (2015):
+                                    Feb. 13, considered and passed 
+                                        House.
+                                                        Vol. 162 (2016):
+                                    Apr. 6, 7, 11-14, 18, 19, considered 
+                                        and passed Senate,
+                                      amended.
+                                    July 11, House concurred in Senate 
+                                        amendments with
+                                      amendments pursuant to H. Res. 
+                                        818.
+                                    July 13, Senate concurred in House 
+                                        amendments.
+
+                                  
+

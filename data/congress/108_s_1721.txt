@@ -1,0 +1,2491 @@
+
+[108th Congress Public Law 374]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ374.108]
+
+[[Page 118 STAT. 1773]]
+
+Public Law 108-374
+108th Congress
+
+                                 An Act
+
+
+ 
+    To amend the Indian Land Consolidation Act to improve provisions 
+    relating to probate of trust and restricted land, and for other 
+             purposes. <<NOTE: Oct. 27, 2004 -  [S. 1721]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: American Indian Probate 
+Reform Act of 2004.>> assembled,
+
+SECTION 1. <<NOTE: 15 USC 2201 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``American Indian Probate Reform Act of 
+2004''.
+
+SEC. 2. <<NOTE: 15 USC 2201 note.>> FINDINGS.
+
+    Congress finds that--
+            (1) the Act of February 8, 1887 (commonly known as the 
+        ``Indian General Allotment Act'') (25 U.S.C. 331 et seq.), which 
+        authorized the allotment of Indian reservations, did not permit 
+        Indian allotment owners to provide for the testamentary 
+        disposition of the land that was allotted to them;
+            (2) that Act provided that allotments would descend 
+        according to State law of intestate succession based on the 
+        location of the allotment;
+            (3) the reliance of the Federal Government on the State law 
+        of intestate succession with respect to the descent of 
+        allotments has resulted in numerous problems affecting Indian 
+        tribes, members of Indian tribes, and the Federal Government, 
+        including--
+                    (A) the increasingly fractionated ownership of trust 
+                and restricted land as that land is inherited by 
+                successive generations of owners as tenants in common;
+                    (B) the application of different rules of intestate 
+                succession to each interest of a decedent in or to trust 
+                or restricted land if that land is located within the 
+                boundaries of more than 1 State, which application--
+                          (i) makes probate planning unnecessarily 
+                      difficult; and
+                          (ii) impedes efforts to provide probate 
+                      planning assistance or advice;
+                    (C) the absence of a uniform general probate code 
+                for trust and restricted land, which makes it difficult 
+                for Indian tribes to work cooperatively to develop 
+                tribal probate codes; and
+                    (D) the failure of Federal law to address or provide 
+                for many of the essential elements of general probate 
+                law, either directly or by reference, which--
+                          (i) is unfair to the owners of trust and 
+                      restricted land (and heirs and devisees of 
+                      owners); and
+
+[[Page 118 STAT. 1774]]
+
+                          (ii) makes probate planning more difficult;
+            (4) a uniform Federal probate code would likely--
+                    (A) reduce the number of fractionated interests in 
+                trust or restricted land;
+                    (B) facilitate efforts to provide probate planning 
+                assistance and advice and create incentives for owners 
+                of trust and restricted land to engage in estate 
+                planning;
+                    (C) facilitate intertribal efforts to produce tribal 
+                probate codes in accordance with section 206 of the 
+                Indian Land Consolidation Act (25 U.S.C. 2205); and
+                    (D) provide essential elements of general probate 
+                law that are not applicable on the date of enactment of 
+                this Act to interests in trust or restricted land; and
+            (5) the provisions of a uniform Federal probate code and 
+        other forth in this Act should operate to further the policy of 
+        the United States as stated in the Indian Land Consolidated Act 
+        Amendments of 2000, Public Law 106-462, 102, November 7, 2000, 
+        114 Stat. 1992.
+
+SEC. 3. INDIAN PROBATE REFORM.
+
+    (a) Nontestamentary Disposition.--Section 207 of the Indian Land 
+Consolidation Act (25 U.S.C. 2206) is amended by striking subsection (a) 
+and inserting the following:
+    ``(a) Nontestamentary Disposition.--
+            ``(1) Rules of descent.--Subject to any applicable Federal 
+        law relating to the devise or descent of trust or restricted 
+        property, any trust or restricted interest in land or interest 
+        in trust personalty that is not disposed of by a valid will--
+                    ``(A) shall descend according to an applicable 
+                tribal probate code approved in accordance with section 
+                206; or
+                    ``(B) in the case of a trust or restricted interest 
+                in land or interest in trust personalty to which a 
+                tribal probate code does not apply, shall descend in 
+                accordance with--
+                          ``(i) paragraphs (2) through (5); and
+                          ``(ii) other applicable Federal law.
+            ``(2) Rules governing descent of estate.--
+                    ``(A) Surviving spouse.--If there is a surviving 
+                spouse of the decedent, such spouse shall receive trust 
+                and restricted land and trust personalty in the estate 
+                as follows:
+                          ``(i) If the decedent is survived by 1 or more 
+                      eligible heirs described in subparagraph (B) (i), 
+                      (ii), (iii), or (iv), the surviving spouse shall 
+                      receive \1/3\ of the trust personalty of the 
+                      decedent and a life estate without regard to waste 
+                      in the interests in trust or restricted lands of 
+                      the decedent.
+                          ``(ii) If there are no eligible heirs 
+                      described in subparagraph (B) (i), (ii), (iii), or 
+                      (iv), the surviving spouse shall receive all of 
+                      the trust personalty of the decedent and a life 
+                      estate without regard to waste in the trust or 
+                      restricted lands of the decedent.
+                          ``(iii) The remainder shall pass as set forth 
+                      in subparagraph (B).
+                          ``(iv) Trust personalty passing to a surviving 
+                      spouse under the provisions of this subparagraph 
+                      shall be maintained by the Secretary in an account 
+                      as trust personalty, but only if such spouse is 
+                      Indian.
+
+[[Page 118 STAT. 1775]]
+
+                    ``(B) Individual and tribal heirs.--Where there is 
+                no surviving spouse of the decedent, or there is a 
+                remainder interest pursuant to subparagraph (A), the 
+                trust or restricted estate or such remainder shall, 
+                subject to subparagraphs (A) and (D), pass as follows:
+                          ``(i) To those of the decedent's children who 
+                      are eligible heirs (or if 1 or more of such 
+                      children do not survive the decedent, the children 
+                      of any such deceased child who are eligible heirs, 
+                      by right of representation, but only if such 
+                      children of the deceased child survive the 
+                      decedent) in equal shares.
+                          ``(ii) If the property does not pass under 
+                      clause (i), to those of the decedent's surviving 
+                      great-grandchildren who are eligible heirs, in 
+                      equal shares.
+                          ``(iii) If the property does not pass under 
+                      clause (i) or (ii), to the decedent's surviving 
+                      parent who is an eligible heir, and if both 
+                      parents survive the decedent and are both eligible 
+                      heirs, to both parents in equal shares.
+                          ``(iv) If the property does not pass under 
+                      clause (i), (ii), or (iii), to those of the 
+                      decedent's surviving siblings who are eligible 
+                      heirs, in equal shares.
+                          ``(v) If the property does not pass under 
+                      clause (i), (ii), (iii), or (iv), to the Indian 
+                      tribe with jurisdiction over the interests in 
+                      trust or restricted lands;
+                except that notwithstanding clause (v), an Indian co-
+                owner (including the Indian tribe referred to in clause 
+                (v)) of a parcel of trust or restricted land may acquire 
+                an interest that would otherwise descend under that 
+                clause by paying into the estate of the decedent, before 
+                the close of the probate of the estate, the fair market 
+                value of the interest in the land; if more than 1 Indian 
+                co-owner offers to pay for such interest, the highest 
+                bidder shall acquire the interest.
+                    ``(C) No indian tribe.--
+                          ``(i) In general.--If there is no Indian tribe 
+                      with jurisdiction over the interests in trust or 
+                      restricted lands that would otherwise descend 
+                      under subparagraph (B)(v), then such interests 
+                      shall be divided equally among co-owners of trust 
+                      or restricted interests in the parcel; if there 
+                      are no such co-owners, then to the United States, 
+                      provided that any such interests in land passing 
+                      to the United States under this subparagraph shall 
+                      be sold by the Secretary and the proceeds from 
+                      such sale deposited into the land acquisition fund 
+                      established under section 216 (25 U.S.C. 2215) and 
+                      used for the purposes described in subsection (b) 
+                      of that section.
+                          ``(ii) Contiguous parcel.--If the interests 
+                      passing to the United States under this 
+                      subparagraph are in a parcel of land that is 
+                      contiguous to another parcel of trust or 
+                      restricted land, the Secretary shall give the 
+                      owner or owners of the trust or restricted 
+                      interest in the contiguous parcel the first 
+                      opportunity to purchase the interest at not less 
+                      than fair market value determined in accordance 
+                      with this Act. If more than
+
+[[Page 118 STAT. 1776]]
+
+                      1 such owner in the contiguous parcel request to 
+                      purchase the parcel, the Secretary shall sell the 
+                      parcel by public auction or sealed bid (as 
+                      determined by the Secretary) at not less than fair 
+                      market value to the owner of a trust or restricted 
+                      interest in the contiguous parcel submitting the 
+                      highest bid.
+                    ``(D) Intestate descent of small fractional 
+                interests in land.--
+                          ``(i) General rule.--Notwithstanding 
+                      subparagraphs (A) and (B), and subject to any 
+                      applicable Federal law, any trust or restricted 
+                      interest in land in the decedent's estate that is 
+                      not disposed of by a valid will and represents 
+                      less than 5 percent of the entire undivided 
+                      ownership of the parcel of land of which such 
+                      interest is a part, as evidenced by the decedent's 
+                      estate inventory at the time of the heirship 
+                      determination, shall descend in accordance with 
+                      clauses (ii) through (iv).
+                          ``(ii) Surviving spouse.--If there is a 
+                      surviving spouse, and such spouse was residing on 
+                      a parcel of land described in clause (i) at the 
+                      time of the decedent's death, the spouse shall 
+                      receive a life estate without regard to waste in 
+                      the decedent's trust or restricted interest in 
+                      only such parcel, and the remainder interest in 
+                      that parcel shall pass in accordance with clause 
+                      (iii).
+                          ``(iii) Single heir rule.--Where there is no 
+                      life estate created under clause (ii) or there is 
+                      a remainder interest under that clause, the trust 
+                      or restricted interest or remainder interest that 
+                      is subject to this subparagraph shall descend, in 
+                      trust or restricted status, to--
+                                    ``(I) the decedent's surviving 
+                                child, but only if such child is an 
+                                eligible heir; and if 2 or more 
+                                surviving children are eligible heirs, 
+                                then to the oldest of such children;
+                                    ``(II) if the interest does not pass 
+                                under subclause (I), the decedent's 
+                                surviving grandchild, but only if such 
+                                grandchild is an eligible heir; and if 2 
+                                or more surviving grandchildren are 
+                                eligible heirs, then to the oldest of 
+                                such grandchildren;
+                                    ``(III) if the interest does not 
+                                pass under subclause (I) or (II), the 
+                                decedent's surviving great grandchild, 
+                                but only if such great grandchild is an 
+                                eligible heir; and if 2 or more 
+                                surviving great grandchildren are 
+                                eligible heirs, then to the oldest of 
+                                such great grandchildren;
+                                    ``(IV) if the interest does not pass 
+                                under subclause (I), (II), or (III), the 
+                                Indian tribe with jurisdiction over the 
+                                interest; or
+                                    ``(V) if the interest does not pass 
+                                under subclause (I), (II), or (III), and 
+                                there is no such Indian tribe to inherit 
+                                the property under subclause (IV), the 
+                                interest shall be divided equally among 
+                                co-owners of trust or restricted 
+                                interests in the parcel; and if there 
+                                are no such co-owners, then to the 
+                                United States, to be sold, and the 
+                                proceeds from
+
+[[Page 118 STAT. 1777]]
+
+                                sale used, in the same manner provided 
+                                in subparagraph (C).
+                The determination of which person is the oldest eligible 
+                heir for inheritance purposes under this clause shall be 
+                made by the Secretary in the decedent's probate 
+                proceeding and shall be consistent with the provisions 
+                of this Act.
+                          ``(iv) Exceptions.--Notwithstanding clause 
+                      (iii)--
+                                    ``(I)(aa) the heir of an interest 
+                                under clause (iii), unless the heir is a 
+                                minor or incompetent person, may agree 
+                                in writing entered into the record of 
+                                the decedent's probate proceeding to 
+                                renounce such interest, in trust or 
+                                restricted status, in favor of--
+                                            ``(AA) any other eligible 
+                                        heir or Indian person related to 
+                                        the heir by blood, but in any 
+                                        case never in favor of more than 
+                                        1 such heir or person;
+                                            ``(BB) any co-owner of 
+                                        another trust or restricted 
+                                        interest in such parcel of land; 
+                                        or
+                                            ``(CC) the Indian tribe with 
+                                        jurisdiction over the interest, 
+                                        if any; and
+                                    ``(bb) the Secretary shall give 
+                                effect to such agreement in the 
+                                distribution of the interest in the 
+                                probate proceeding; and
+                                    ``(II) the governing body of the 
+                                Indian tribe with jurisdiction over an 
+                                interest in trust or restricted land 
+                                that is subject to the provisions of 
+                                this subparagraph may adopt a rule of 
+                                intestate descent applicable to such 
+                                interest that differs from the order of 
+                                decedent set forth in clause 
+                                (iii). <<NOTE: Applicability.>> The 
+                                Secretary shall apply such rule to the 
+                                interest in distributing the decedent's 
+                                estate, but only if--
+                                            ``(aa) a copy of the tribal 
+                                        rule is delivered to the 
+                                        official designated by the 
+                                        Secretary to receive copies of 
+                                        tribal rules for the purposes of 
+                                        this clause;
+                                            ``(bb) the tribal rule 
+                                        provides for the intestate 
+                                        inheritance of such interest by 
+                                        no more than 1 heir, so that the 
+                                        interest does not further 
+                                        fractionate;
+                                            ``(cc) the tribal rule does 
+                                        not apply to any interest 
+                                        disposed of by a valid will;
+                                            ``(dd) the decedent died on 
+                                        or after the date described in 
+                                        subsection (b) of section 8 of 
+                                        the American Indian Probate Act 
+                                        of 2004, or on or after the date 
+                                        on which a copy of the tribal 
+                                        rule was delivered to the 
+                                        Secretary pursuant to item (aa), 
+                                        whichever is later; and
+                                            
+                                        ``(ee) <<NOTE: Deadline.>> the 
+                                        Secretary does not make a 
+                                        determination within 90 days 
+                                        after a copy of the tribal rule 
+                                        is delivered pursuant to item 
+                                        (aa) that the rule would be 
+                                        unreasonably difficult to 
+                                        administer or does not conform 
+                                        with the requirements in item 
+                                        (bb) or (cc).
+                          ``(v) Rule of construction.--This subparagraph 
+                      shall not be construed to limit a person's right 
+                      to
+
+[[Page 118 STAT. 1778]]
+
+                      devise any trust or restricted interest by way of 
+                      a valid will in accordance with subsection (b).
+            ``(3) Right of representation.--If, under this subsection, 
+        all or any part of the estate of a decedent is to pass to 
+        children of a deceased child by right of representation, that 
+        part is to be divided into as many equal shares as there are 
+        living children of the decedent and pre-deceased children who 
+        left issue who survive the decedent. Each living child of the 
+        decedent, if any, shall receive 1 share, and the share of each 
+        pre-deceased child shall be divided equally among the pre-
+        deceased child's children.
+            ``(4) Special rule relating to survival.--In the case of 
+        intestate succession under this subsection, if an individual 
+        fails to survive the decedent by at least 120 hours, as 
+        established by clear and convincing evidence--
+                    ``(A) the individual shall be deemed to have 
+                predeceased the decedent for the purpose of intestate 
+                succession; and
+                    ``(B) the heirs of the decedent shall be determined 
+                in accordance with this section.
+            ``(5) Status of inherited interests.--Except as provided in 
+        paragraphs (2) (A) and (D) regarding the life estate of a 
+        surviving spouse, a trust or restricted interest in land or 
+        trust personalty that descends under the provisions of this 
+        subsection shall vest in the heir in the same trust or 
+        restricted status as such interest was held immediately prior to 
+        the decedent's death.''.
+
+    (b) Testamentary Disposition.--Section 207 of the Indian Land 
+Consolidation Act (25 U.S.C. 2206) is amended by striking subsection (b) 
+and inserting the following:
+    ``(b) Testamentary Disposition.--
+            ``(1) General devise of an interest in trust or restricted 
+        land.--
+                    ``(A) In general.--Subject to any applicable Federal 
+                law relating to the devise or descent of trust or 
+                restricted land, or a tribal probate code approved by 
+                the Secretary in accordance with section 206, the owner 
+                of a trust or restricted interest in land may devise 
+                such interest to--
+                          ``(i) any lineal descendant of the testator;
+                          ``(ii) any person who owns a preexisting 
+                      undivided trust or restricted interest in the same 
+                      parcel of land;
+                          ``(iii) the Indian tribe with jurisdiction 
+                      over the interest in land; or
+                          ``(iv) any Indian;
+                in trust or restricted status.
+                    ``(B) Rules of interpretation.--Any devise of a 
+                trust or restricted interest in land pursuant to 
+                subparagraph (A) to an Indian or the Indian tribe with 
+                jurisdiction over the interest shall be deemed to be a 
+                devise of the interest in trust or restricted status. 
+                Any devise of a trust or restricted interest in land to 
+                a person who is only eligible to be a devisee under 
+                clause (i) or (ii) of subparagraph (A) shall be presumed 
+                to be a devise of the interest in trust or restricted 
+                status unless language in such devise clearly evidences 
+                an intent on the part of the testator that the interest 
+                is to pass as a life estate or fee interest in 
+                accordance with paragraph (2)(A).
+
+[[Page 118 STAT. 1779]]
+
+            ``(2) Devise of trust or restricted land as a life estate or 
+        in fee.--
+                    ``(A) In general.--Except as provided under any 
+                applicable Federal law, any trust or restricted interest 
+                in land that is not devised in accordance with paragraph 
+                (1)(A) may be devised only--
+                          ``(i) as a life estate to any person, with the 
+                      remainder being devised only in accordance with 
+                      subparagraph (B) or paragraph (1); or
+                          ``(ii) except as provided in subparagraph (B), 
+                      as a fee interest without Federal restrictions 
+                      against alienation to any person who is not 
+                      eligible to be a devisee under clause (iv) of 
+                      paragraph (1)(A).
+                    ``(B) Indian reorganization act lands.--Any interest 
+                in trust or restricted land that is subject to section 4 
+                of the Act of June 18, 1934 (25 U.S.C. 464), may be 
+                devised only in accordance with--
+                          ``(i) that section;
+                          ``(ii) subparagraph (A)(i); or
+                          ``(iii) paragraph (1)(A);
+                provided that nothing in this section or in section 4 of 
+                the Act of June 18, 1934 (25 U.S.C. 464), shall be 
+                construed to authorize the devise of any interest in 
+                trust or restricted land that is subject to section 4 of 
+                that Act to any person as a fee interest under 
+                subparagraph (A)(ii).
+            ``(3) General devise of an interest in trust personalty.--
+                    ``(A) Trust personality defined.--The term `trust 
+                personalty' as used in this section includes all funds 
+                and securities of any kind which are held in trust in an 
+                individual Indian money account or otherwise supervised 
+                by the Secretary.
+                    ``(B) In general.--Subject to any applicable Federal 
+                law relating to the devise or descent of such trust 
+                personalty, or a tribal probate code approved by the 
+                Secretary in accordance with section 206, the owner of 
+                an interest in trust personalty may devise such an 
+                interest to any person or entity.
+                    ``(C) Maintenance as trust personalty.--In the case 
+                of a devise of an interest in trust personalty to a 
+                person or Indian tribe eligible to be a devisee under 
+                paragraph (1)(A), the Secretary shall maintain and 
+                continue to manage such interests as trust personalty.
+                    ``(D) Direct disbursement and distribution.--In the 
+                case of a devise of an interest in trust personalty to a 
+                person or Indian tribe not eligible to be a devisee 
+                under paragraph (1)(A), the Secretary shall directly 
+                disburse and distribute such personalty to the devisee.
+            ``(4) Invalid devises and wills.--
+                    ``(A) Land.--Any trust or restricted interest in 
+                land that is not devised in accordance with paragraph 
+                (1) or (2) or that is not disposed of by a valid will 
+                shall descend in accordance with the applicable law of 
+                intestate succession as provided for in subsection (a).
+                    ``(B) Personalty.--Any trust personalty that is not 
+                disposed of by a valid will shall descend in accordance
+
+[[Page 118 STAT. 1780]]
+
+                with the applicable law of intestate succession as 
+                provided for in subsection (a).''.
+
+    (c) Joint Tenancy; Right of Survivorship.--Section 207(c) of the 
+Indian Land Consolidation Act (25 U.S.C. 2206(c)) is amended by striking 
+all that follows the heading, ``Joint Tenancy; Right of Survivorship'', 
+and inserting the following:
+            ``(1) Presumption of joint tenancy.--If a testator devises 
+        trust or restricted interests in the same parcel of land to more 
+        than 1 person, in the absence of clear and express language in 
+        the devise stating that the interest is to pass to the devisees 
+        as tenants in common, the devise shall be presumed to create a 
+        joint tenancy with the right of survivorship in the interests 
+        involved.
+            ``(2) Exception.--Paragraph (1) shall not apply to any 
+        devise of an interest in trust or restricted land where the will 
+        in which such devise is made was executed prior to the date that 
+        is 1 year after the date on which the Secretary publishes the 
+        certification required by section 8(a)(4) of the American Indian 
+        Probate Reform Act of 2004.''.
+
+    (d) Rule of Construction.--Section 207 of the Indian Land 
+Consolidation Act (25 U.S.C. 2206) is amended by adding at the end the 
+following:
+    ``(h) Applicable Federal Law.--
+            ``(1) In general.--Any references in subsections (a) and (b) 
+        to applicable Federal law include--
+                    ``(A) Public Law 91-627 (84 Stat. 1874);
+                    ``(B) Public Law 92-377 (86 Stat. 530);
+                    ``(C) Public Law 92-443 (86 Stat. 744);
+                    ``(D) Public Law 96-274 (94 Stat. 537); and
+                    ``(E) Public Law 98-513 (98 Stat. 2411).
+            ``(2) No effect on laws.--Nothing in this Act amends or 
+        otherwise affects the application of any law described in 
+        paragraph (1), or any other Federal law that pertains to--
+                    ``(A) trust or restricted land located on 1 or more 
+                specific Indian reservations that are expressly 
+                identified in such law; or
+                    ``(B) the allotted lands of 1 or more specific 
+                Indian tribes that are expressly identified in such law.
+
+    ``(i) Rules of Interpretation.--In the absence of a contrary intent, 
+and except as otherwise provided under this Act, applicable Federal law, 
+or a tribal probate code approved by the Secretary pursuant to section 
+206, wills shall be construed as to trust and restricted land and trust 
+personalty in accordance with the following rules:
+            ``(1) Construction <<NOTE: Applicability.>> that will passes 
+        all property.--A will shall be construed to apply to all trust 
+        and restricted land and trust personalty which the testator 
+        owned at his death, including any such land or personalty 
+        acquired after the execution of his will.
+            ``(2) Class gifts.--
+                    ``(A) No differentiation between relationship by 
+                blood and relationship by affinity.--Terms of 
+                relationship that do not differentiate relationships by 
+                blood from those by affinity, such as `uncles', `aunts', 
+                `nieces', or `nephews', are construed to exclude 
+                relatives by affinity. Terms of relationship that do not 
+                differentiate relationships by the half blood from those 
+                by the whole blood, such
+
+[[Page 118 STAT. 1781]]
+
+                as `brothers', `sisters', `nieces', or `nephews', are 
+                construed to include both types of relationships.
+                    ``(B) Meaning of `heirs' and `next of kin', etc.; 
+                time of ascertaining class.--A devise of trust or 
+                restricted interest in land or an interest in trust 
+                personalty to the testator's or another designated 
+                person's `heirs', `next of kin', `relatives', or 
+                `family' shall mean those persons, including the spouse, 
+                who would be entitled to take under the provisions of 
+                this Act for nontestamentary disposition. The class is 
+                to be ascertained as of the date of the testator's 
+                death.
+                    ``(C) Time for ascertaining class.--In construing a 
+                devise to a class other than a class described in 
+                subparagraph (B), the class shall be ascertained as of 
+                the time the devise is to take effect in enjoyment. The 
+                surviving issue of any member of the class who is then 
+                dead shall take by right of representation the share 
+                which their deceased ancestor would have taken.
+            ``(3) Meaning of `die without issue' and similar phrases.--
+        In any devise under this chapter, the words `die without issue', 
+        `die without leaving issue', `have no issue', or words of a 
+        similar import shall be construed to mean that an individual had 
+        no lineal descendants in his lifetime or at his death, and not 
+        that there will be no lineal descendants at some future time.
+            ``(4) Persons born out of wedlock.--In construing provisions 
+        of this chapter relating to lapsed and void devises, and in 
+        construing a devise to a person or persons described by 
+        relationship to the testator or to another, a person born out of 
+        wedlock shall be considered the child of the natural mother and 
+        also of the natural father.
+            ``(5) Lapsed devises.--Subject to the provisions of 
+        subsection (b), where the testator devises or bequeaths a trust 
+        or restricted interest in land or trust personalty to the 
+        testator's grandparents or to the lineal descendent of a 
+        grandparent, and the devisee or legatee dies before the testator 
+        leaving lineal descendents, such descendents shall take the 
+        interest so devised or bequeathed per stirpes.
+            ``(6) Void devises.--Except as provided in paragraph (5), 
+        and if the disposition shall not be otherwise expressly provided 
+        for by a tribal probate code approved under section 206 (25 
+        U.S.C. 2205), if a devise other than a residuary devise of a 
+        trust or restricted interest in land or trust personalty fails 
+        for any reason, such interest shall become part of the residue 
+        and pass, subject to the provisions of subsection (b), to the 
+        other residuary devisees, if any, in proportion to their 
+        respective shares or interests in the residue.
+            ``(7) Family cemetery plot.--If a family cemetery plot owned 
+        by the testator at his decease is not mentioned in the 
+        decedent's will, the ownership of the plot shall descend to his 
+        heirs as if he had died intestate.
+
+    ``(j) Heirship by Killing.--
+            ``(1) Heir by killing defined.--As used in this subsection, 
+        `heir by killing' means any person who knowingly participates, 
+        either as a principal or as an accessory before the fact, in the 
+        willful and unlawful killing of the decedent.
+
+[[Page 118 STAT. 1782]]
+
+            ``(2) No acquisition of property by killing.--Subject to any 
+        applicable Federal law relating to the devise or descent of 
+        trust or restricted land, no heir by killing shall in any way 
+        acquire any trust or restricted interests in land or interests 
+        in trust personalty as the result of the death of the decedent, 
+        but such property shall pass in accordance with this subsection.
+            ``(3) Descent, distribution, and right of survivorship.--The 
+        heir by killing shall be deemed to have predeceased the decedent 
+        as to decedent's trust or restricted interests in land or trust 
+        personalty which would have passed from the decedent or his 
+        estate to such heir--
+                    ``(A) under intestate succession under this section;
+                    ``(B) under a tribal probate code, unless otherwise 
+                provided for;
+                    ``(C) as the surviving spouse;
+                    ``(D) by devise;
+                    ``(E) as a reversion or a vested remainder;
+                    ``(F) as a survivorship interest; and
+                    ``(G) as a contingent remainder or executory or 
+                other future interest.
+            ``(4) Joint tenants, joint owners, and joint obligees.--
+                    ``(A) Any trust or restricted land or trust 
+                personalty held by only the heir by killing and the 
+                decedent as joint tenants, joint owners, or joint 
+                obligees shall pass upon the death of the decedent to 
+                his or her estate, as if the heir by killing had 
+                predeceased the decedent.
+                    ``(B) As to trust or restricted land or trust 
+                personalty held jointly by 3 or more persons, including 
+                both the heir by killing and the decedent, any income 
+                which would have accrued to the heir by killing as a 
+                result of the death of the decedent shall pass to the 
+                estate of the decedent as if the heir by killing had 
+                predeceased the decedent and any surviving joint 
+                tenants.
+                    ``(C) Notwithstanding any other provision of this 
+                subsection, the decedent's trust or restricted interest 
+                land or trust personalty that is held in a joint tenancy 
+                with the right of survivorship shall be severed from the 
+                joint tenancy as though the property held in the joint 
+                tenancy were to be severed and distributed equally among 
+                the joint tenants and the decedent's interest shall pass 
+                to his estate; the remainder of the interests shall 
+                remain in joint tenancy with right of survivorship among 
+                the surviving joint tenants.
+            ``(5) Life estate for the life of another.--If the estate is 
+        held by a third person whose possession expires upon the death 
+        of the decedent, it shall remain in such person's hands for the 
+        period of time following the decedent's death equal to the life 
+        expectancy of the decedent but for the killing.
+            ``(6) Preadjudication rule.--
+                    ``(A) In general.--If a person has been charged, 
+                whether by indictment, information, or otherwise by the 
+                United States, a tribe, or any State, with voluntary 
+                manslaughter or homicide in connection with a decedent's 
+                death, then any and all trust or restricted land or 
+                trust personalty that would otherwise pass to that 
+                person from the decedent's estate shall not pass or be 
+                distributed by
+
+[[Page 118 STAT. 1783]]
+
+                the Secretary until the charges have been resolved in 
+                accordance with the provisions of this paragraph.
+                    ``(B) Dismissal or withdrawal.--Upon dismissal or 
+                withdrawal of the charge, or upon a verdict of not 
+                guilty, such land and personalty shall pass as if no 
+                charge had been filed or made.
+                    ``(C) Conviction.--Upon conviction of such person, 
+                and the exhaustion of all appeals, if any, the trust and 
+                restricted land and trust personalty in the estate shall 
+                pass in accordance with this subsection.
+            ``(7) Broad construction; policy of subsection.--This 
+        subsection shall not be considered penal in nature, but shall be 
+        construed broadly in order to effect the policy that no person 
+        shall be allowed to profit by his own wrong, wherever committed.
+
+    ``(k) General Rules Governing Probate.--
+            ``(1) Scope.--Except as provided under applicable Federal 
+        law or a tribal probate code approved under section 206, the 
+        provisions of this subsection shall govern the probate of 
+        estates containing trust and restricted interests in land or 
+        trust personalty.
+            ``(2) Pretermitted spouses and children.--
+                    ``(A) Spouses.--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), if the surviving spouse of a testator 
+                      married the testator after the testator executed 
+                      the will of the testator, the surviving spouse 
+                      shall receive the intestate share in the 
+                      decedent's trust or restricted land and trust 
+                      personalty that the spouse would have received if 
+                      the testator had died intestate.
+                          ``(ii) Exception.--Clause (i) shall not apply 
+                      to a trust or restricted interest land where--
+                                    ``(I) the will of a testator is 
+                                executed before the date of enactment of 
+                                this subparagraph;
+                                    ``(II)(aa) the spouse of a testator 
+                                is a non-Indian; and
+                                    ``(bb) the testator devised the 
+                                interests in trust or restricted land of 
+                                the testator to 1 or more Indians;
+                                    ``(III) it appears, based on an 
+                                examination of the will or other 
+                                evidence, that the will was made in 
+                                contemplation of the marriage of the 
+                                testator to the surviving spouse;
+                                    ``(IV) the will expresses the 
+                                intention that the will is to be 
+                                effective notwithstanding any subsequent 
+                                marriage; or
+                                    ``(V)(aa) the testator provided for 
+                                the spouse by a transfer of funds or 
+                                property outside the will; and
+                                    ``(bb) an intent that the transfer 
+                                be in lieu of a testamentary provision 
+                                is demonstrated by statements of the 
+                                testator or through a reasonable 
+                                inference based on the amount of the 
+                                transfer or other evidence.
+                          ``(iii) Spouses married at the time of the 
+                      will.--Should the surviving spouse of the testator 
+                      be omitted from the will of the testator, the 
+                      surviving spouse
+
+[[Page 118 STAT. 1784]]
+
+                      shall be treated, for purposes of trust or 
+                      restricted land or trust personalty in the 
+                      testator's estate, in accordance with the 
+                      provisions of section 207(a)(2)(A), as though 
+                      there was no will but only if--
+                                    ``(I) the testator and surviving 
+                                spouse were continuously married without 
+                                legal separation for the 5-year period 
+                                preceding the decedent's death;
+                                    ``(II) the testator and surviving 
+                                spouse have a surviving child who is the 
+                                child of the testator;
+                                    ``(III) the surviving spouse has 
+                                made substantial payments toward the 
+                                purchase of, or improvements to, the 
+                                trust or restricted land in such estate; 
+                                or
+                                    ``(IV) the surviving spouse is under 
+                                a binding obligation to continue making 
+                                loan payments for the trust or 
+                                restricted land for a substantial period 
+                                of time;
+                      except that, if there is evidence that the 
+                      testator adequately provided for the surviving 
+                      spouse and any minor children by a transfer of 
+                      funds or property outside of the will, this clause 
+                      shall not apply.
+                    ``(B) Children.--
+                          ``(i) In general.--If a testator executed the 
+                      will of the testator before the birth or adoption 
+                      of 1 or more children of the testator, and the 
+                      omission of the children from the will is a 
+                      product of inadvertence rather than an intentional 
+                      omission, the children shall share in the trust or 
+                      restricted interests in land and trust personalty 
+                      as if the decedent had died intestate.
+                          ``(ii) Adopted heirs.--Any person recognized 
+                      as an heir by virtue of adoption under the Act of 
+                      July 8, 1940 (25 U.S.C. 372a), shall be treated as 
+                      the child of a decedent under this subsection.
+                          ``(iii) Adopted-out children.--
+                                    ``(I) In general.--For purposes of 
+                                this Act, an adopted person shall not be 
+                                considered the child or issue of his 
+                                natural parents, except in distributing 
+                                the estate of a natural kin, other than 
+                                the natural parent, who has maintained a 
+                                family relationship with the adopted 
+                                person. If a natural parent shall have 
+                                married the adopting parent, the adopted 
+                                person for purposes of inheritance by, 
+                                from and through him shall also be 
+                                considered the issue of such natural 
+                                parent.
+                                    ``(II) Eligible heir pursuant to 
+                                other federal law or tribal law.--
+                                Notwithstanding the provisions of 
+                                subparagraph (B)(iii)(I), other Federal 
+                                laws and laws of the Indian tribe with 
+                                jurisdiction over the trust or 
+                                restricted interest in land may 
+                                otherwise define the inheritance rights 
+                                of adopted-out children.
+            ``(3) Divorce.--
+                    ``(A) Surviving spouse.--
+                          ``(i) In general.--An individual who is 
+                      divorced from a decedent, or whose marriage to the 
+                      decedent has been annulled, shall not be 
+                      considered to be a surviving spouse unless, by 
+                      virtue of a subsequent
+
+[[Page 118 STAT. 1785]]
+
+                      marriage, the individual is married to the 
+                      decedent at the time of death of the decedent.
+                          ``(ii) Separation.--A decree of separation 
+                      that does not dissolve a marriage, and terminate 
+                      the status of husband and wife, shall not be 
+                      considered a divorce for the purpose of this 
+                      subsection.
+                          ``(iii) No effect on adjudications.--Nothing 
+                      in clause (i) shall prevent the Secretary from 
+                      giving effect to a property right settlement 
+                      relating to a trust or restricted interest in land 
+                      or an interest in trust personalty if 1 of the 
+                      parties to the settlement dies before the issuance 
+                      of a final decree dissolving the marriage of the 
+                      parties to the property settlement.
+                    ``(B) Effect of subsequent divorce on a will or 
+                devise.--
+                          ``(i) In general.--If, after executing a will, 
+                      a testator is divorced or the marriage of the 
+                      testator is annulled, as of the effective date of 
+                      the divorce or annulment, any disposition of trust 
+                      or restricted interests in land or of trust 
+                      personalty made by the will to the former spouse 
+                      of the testator shall be considered to be revoked 
+                      unless the will expressly provides otherwise.
+                          ``(ii) Property.--Property that is prevented 
+                      from passing to a former spouse of a decedent 
+                      under clause (i) shall pass as if the former 
+                      spouse failed to survive the decedent.
+                          ``(iii) Provisions of wills.--Any provision of 
+                      a will that is considered to be revoked solely by 
+                      operation of this subparagraph shall be revived by 
+                      the remarriage of a testator to the former spouse 
+                      of the testator.
+            ``(4) After-born heirs.--A child in gestation at the time of 
+        decedent's death will be treated as having survived the decedent 
+        if the child lives at least 120 hours after its birth.
+            ``(5) Advancements of trust personalty during lifetime; 
+        effect on distribution of estate.--
+                    ``(A) The trust personalty of a decedent who dies 
+                intestate as to all or a portion of his or her estate, 
+                given during the decedent's lifetime to a person 
+                eligible to be an heir of the decedent under subsection 
+                (b)(2)(B), shall be treated as an advancement against 
+                the heir's inheritance, but only if the decedent 
+                declared in a contemporaneous writing, or the heir 
+                acknowledged in writing, that the gift is an advancement 
+                or is to be taken into account in computing the division 
+                and distribution of the decedent's intestate estate.
+                    ``(B) For the purposes of this section, trust 
+                personalty advanced during the decedent's lifetime is 
+                valued as of the time the heir came into possession or 
+                enjoyment of the property or as of the time of the 
+                decedent's death, whichever occurs first.
+                    ``(C) If the recipient of the trust personalty 
+                predeceases the decedent, the property shall not be 
+                treated as an advancement or taken into account in 
+                computing the division and distribution of the 
+                decedent's intestate estate unless the decedent's 
+                contemporaneous writing provides otherwise.
+
+[[Page 118 STAT. 1786]]
+
+            ``(6) Heirs related to decedent through 2 lines; single 
+        share.--A person who is related to the decedent through 2 lines 
+        of relationship is entitled to only a single share of the trust 
+        or restricted land or trust personalty in the decedent's estate 
+        based on the relationship that would entitle such person to the 
+        larger share.
+            ``(7) Notice.--
+                    ``(A) In general.--To the maximum extent 
+                practicable, the Secretary shall notify each owner of 
+                trust and restricted land of the provisions of this Act.
+                    ``(B) Combined notices.--The notice under 
+                subparagraph (A) may, at the discretion of the 
+                Secretary, be provided with the notice required under 
+                subsection (a) of
+                section 8 of the American Indian Probate Reform Act of 
+                2004.
+            ``(8) Renunciation or disclaimer of interests.--
+                    ``(A) In general.--Any person 18 years of age or 
+                older may renounce or disclaim an inheritance of a trust 
+                or restricted interest in land or in trust personalty 
+                through intestate succession or devise, either in full 
+                or subject to the reservation of a life estate (where 
+                the interest is an interest in land), in accordance with 
+                subparagraph (B), by filing a signed and acknowledged 
+                declaration with the probate decisionmaker prior to 
+                entry of a final probate order. No interest so renounced 
+                or disclaimed shall be considered to have vested in the 
+                renouncing or disclaiming heir or devisee, and the 
+                renunciation or disclaimer shall not be considered to be 
+                a transfer or gift of the renounced or disclaimed 
+                interest.
+                    ``(B) Eligible recipients of renounced or disclaimed 
+                interests; notice to recipients.--
+                          ``(i) Interests in land.--A trust or 
+                      restricted interest in land may be renounced or 
+                      disclaimed only in favor of--
+                                    ``(I) an eligible heir;
+                                    ``(II) any person who would have 
+                                been eligible to be a devisee of the 
+                                interest in question pursuant to 
+                                subsection (b)(1)(A) (but only in cases 
+                                where the renouncing person is a devisee 
+                                of the interest under a valid will); or
+                                    ``(III) the Indian tribe with 
+                                jurisdiction over the interest in 
+                                question;
+                      and the interest so renounced shall pass to its 
+                      recipient in trust or restricted status.
+                          ``(ii) Trust personalty.--An interest in trust 
+                      personalty may be renounced or disclaimed in favor 
+                      of any person who would be eligible to be a 
+                      devisee of such an interest under subsection 
+                      (b)(3) and shall pass to the recipient in 
+                      accordance with the provisions of that subsection.
+                          ``(iii) Unauthorized renunciations and 
+                      disclaimers.--Unless renounced or disclaimed in 
+                      favor of a person or Indian tribe eligible to 
+                      receive the interest in accordance with the 
+                      provisions of this subparagraph, a renounced or 
+                      disclaimed interest shall pass as if the 
+                      renunciation or disclaimer had not been made.
+
+[[Page 118 STAT. 1787]]
+
+                    ``(C) Acceptance of interest.--A renunciation or 
+                disclaimer of an interest filed in accordance with this 
+                paragraph shall be considered accepted when implemented 
+                in a final order by a decisionmaker, and shall 
+                thereafter be irrevocable. No renunciation or disclaimer 
+                of an interest shall be included in such order unless 
+                the recipient of the interest has been given notice of 
+                the renunciation or disclaimer and has not refused to 
+                accept the interest. All disclaimers and renunciations 
+                filed and implemented in probate orders made effective 
+                prior to the date of enactment of the American Indian 
+                Probate Reform Act of 2004 are hereby ratified.
+                    ``(D) Rule of construction.--Nothing in this 
+                paragraph shall be construed to allow the renunciation 
+                of an interest that is subject to the provisions of 
+                section 207(a)(2)(D) (25 U.S.C. 2206(a)(2)(D)) in favor 
+                of more than 1 person.
+            ``(9) Consolidation agreements.--
+                    ``(A) In general.--During the pendency of probate, 
+                the decisionmaker is authorized to approve written 
+                consolidation agreements effecting exchanges or gifts 
+                voluntarily entered into between the decedent's eligible 
+                heirs or devisees, to consolidate interests in any tract 
+                of land included in the decedent's trust inventory. Such 
+                agreements may provide for the conveyance of interests 
+                already owned by such heirs or devisees in such tracts, 
+                without having to comply with the Secretary's rules and 
+                requirements otherwise applicable to conveyances by deed 
+                of trust or restricted interests in land.
+                    ``(B) Effective.--An agreement approved under 
+                subparagraph (A) shall be considered final when 
+                implemented in an order by a decisionmaker. The final 
+                probate order shall direct any changes necessary to the 
+                Secretary's land records, to reflect and implement the 
+                terms of the approved agreement.
+                    ``(C) Effect on purchase option at probate.--Any 
+                interest in trust or restricted land that is subject to 
+                a consolidation agreement under this paragraph or 
+                section 207(e) (25 U.S.C. 2206(e)) shall not be 
+                available for purchase under section 207(p) (25 U.S.C. 
+                2206(p)) unless the decisionmaker determines that the 
+                agreement should not be approved.''.
+SEC. 4. PARTITION OF HIGHLY FRACTIONATED INDIAN LANDS.
+
+    Section 205 of the Indian Land Consolidation Act (25 U.S.C. 2204) 
+(as amended by section 6(a)(2)) is amended by adding at the end the 
+following:
+    ``(d) Partition of Highly Fractionated Indian Lands.--
+            ``(1) Applicability.--This subsection shall be applicable 
+        only to parcels of land (including surface and subsurface 
+        interests, except with respect to a subsurface interest that has 
+        been severed from the surface interest, in which case this 
+        subsection shall apply only to the surface interest) which the 
+        Secretary has determined, pursuant to paragraph (2)(B), to be 
+        parcels of highly fractionated Indian land.
+
+[[Page 118 STAT. 1788]]
+
+            ``(2) Requirements.--Each partition action under this 
+        subsection shall be conducted by the Secretary in accordance 
+        with the following requirements:
+                    ``(A) Application.--Upon receipt of any payment or 
+                bond required under subparagraph (B), the Secretary 
+                shall commence a process for partitioning a parcel of 
+                land by sale in accordance with the provisions of this 
+                subsection upon receipt of an application by--
+                          ``(i) the Indian tribe with jurisdiction over 
+                      the subject land that owns an undivided interest 
+                      in the parcel of land; or
+                          ``(ii) any person owning an undivided interest 
+                      in the parcel of land who is eligible to bid at 
+                      the sale of the parcel pursuant to subclause (II), 
+                      (III), or (IV) of subparagraph (I)(i);
+                provided that no such application shall be valid or 
+                considered if it is received by the Secretary prior to 
+                the date that is 1 year after the date on which notice 
+                is published pursuant to section 8(a)(4) of the American 
+                Indian Probate Reform Act of 2004.
+                    ``(B) Costs of serving notice and publication.--The 
+                costs of serving and publishing notice under 
+                subparagraph (F) shall be borne by the applicant. Upon 
+                receiving written notice from the Secretary, the 
+                applicant must pay to the Secretary an amount determined 
+                by the Secretary to be the estimated costs of such 
+                service of notice and publication, or furnish a 
+                sufficient bond for such estimated costs within the time 
+                stated in the notice, failing which, unless an extension 
+                is granted by the Secretary, the Secretary shall not be 
+                required to commence the partition process under 
+                subparagraph (A) and may deny the application. The 
+                Secretary shall have the discretion and authority in any 
+                case to waive either the payment or the bond (or any 
+                portion of such payment or bond) otherwise required by 
+                this subparagraph, upon making a determination that such 
+                waiver will further the policies of this Act.
+                    ``(C) Determination.--Upon receipt of an application 
+                pursuant to subparagraph (A), the Secretary shall 
+                determine whether the subject parcel meets the 
+                requirements set forth in section 202(6) (25 U.S.C. 
+                2201(6)) to be classified as a parcel of highly 
+                fractionated Indian land.
+                    ``(D) Consent requirements.--
+                          ``(i) In general.--A parcel of land may be 
+                      partitioned under this subsection only if the 
+                      applicant obtains the written consent of--
+                                    ``(I) the Indian tribe with 
+                                jurisdiction over the subject land if 
+                                such Indian tribe owns an undivided 
+                                interest in the parcel;
+                                    ``(II) any owner who, for the 3-year 
+                                period immediately preceding the date on 
+                                which the Secretary receives the 
+                                application, has
+                                            ``(aa) continuously 
+                                        maintained a bona fide residence 
+                                        on the parcel; or
+                                            ``(bb) operated a bona fide 
+                                        farm, ranch, or other business 
+                                        on the parcel; and
+                                    ``(III) the owners (including 
+                                parents of minor owners and legal 
+                                guardians of incompetent owners)
+
+[[Page 118 STAT. 1789]]
+
+                                of at least 50 percent of the undivided 
+                                interests in the parcel, but only in 
+                                cases where the Secretary determines 
+                                that, based on the final appraisal 
+                                prepared pursuant to subparagraph (F), 
+                                any 1 owner's total undivided interest 
+                                in the parcel (not including the 
+                                interest of an Indian tribe or that of 
+                                the owner requesting the partition) has 
+                                a value in excess of $1,500.
+                      Any consent required by this clause must be in 
+                      writing and acknowledged before a notary public 
+                      (or other official authorized to make 
+                      acknowledgments), and shall be approved by 
+                      Secretary unless the Secretary has reason to 
+                      believe that the consent was obtained as a result 
+                      of fraud or undue influence.
+                          ``(ii) Consent by the secretary on behalf of 
+                      certain individuals.--For the purposes of clause 
+                      (i)(III), the Secretary may consent on behalf of--
+                                    ``(I) undetermined heirs of trust or 
+                                restricted interests and owners of such 
+                                interests who are minors and legal 
+                                incompetents having no parents or legal 
+                                guardian; and
+                                    ``(II) missing owners or owners of 
+                                trust or restricted interests whose 
+                                whereabouts are unknown, but only after 
+                                a search for such owners has been 
+                                completed in accordance with the 
+                                provisions of this subsection.
+                    ``(E) Appraisal.--After the Secretary has determined 
+                that the subject parcel is a parcel of highly 
+                fractionated Indian land pursuant to subparagraph (C), 
+                the Secretary shall cause to be made, in accordance with 
+                the provisions of this Act for establishing fair market 
+                value, an appraisal of the fair market value of the 
+                subject parcel.
+                    ``(F) Notice to owners on completion of appraisal.--
+                Upon completion of the appraisal, the Secretary shall 
+                give notice of the requested partition and appraisal to 
+                all owners of undivided interests in the parcel, in 
+                accordance with principles of due process. Such notice 
+                shall include the following requirements:
+                          ``(i) Written notice.--The Secretary shall 
+                      attempt to give each owner written notice of the 
+                      partition action stating the following:
+                                    ``(I) That a proceeding to partition 
+                                the parcel of land by sale has been 
+                                commenced.
+                                    ``(II) The legal description of the 
+                                subject parcel.
+                                    ``(III) The owner's ownership 
+                                interest in the subject parcel as 
+                                evidenced by the Secretary's records as 
+                                of the date that owners are determined 
+                                in accordance with clause (ii).
+                                    ``(IV) The results of the appraisal.
+                                    ``(V) The owner's right to receive a 
+                                copy of the appraisal upon written 
+                                request.
+                                    ``(VI) The owner's right to comment 
+                                on or object to the proposed partition 
+                                and the appraisal.
+                                    ``(VII) That the owner must timely 
+                                comment on or object in writing to the 
+                                proposed partition or the appraisal, in 
+                                order to receive notice of approval of 
+                                the appraisal and right to appeal.
+
+[[Page 118 STAT. 1790]]
+
+                                    ``(VIII) <<NOTE: Deadline.>> The 
+                                date by which the owner's written 
+                                comments or objections must be received, 
+                                which shall not be less than 90 days 
+                                after the date that the notice is mailed 
+                                under this clause or last published 
+                                under clause (ii)(II).
+                                    ``(IX) The address for requesting 
+                                copies of the appraisal and for 
+                                submitting written comments or 
+                                objections.
+                                    ``(X) The name and telephone number 
+                                of the official to be contacted for 
+                                purposes of obtaining information 
+                                regarding the proceeding, including the 
+                                time and date of the auction of the land 
+                                or the date for submitting sealed bids.
+                                    ``(XI) Any other information the 
+                                Secretary deems to be appropriate.
+                          ``(ii) Manner of service.--
+                                    ``(I) Service by certified mail.--
+                                The Secretary shall use due diligence to 
+                                provide all owners of interests in the 
+                                subject parcel, as evidenced by the 
+                                Secretary's records at the time of the 
+                                determination under subparagraph (C), 
+                                with actual notice of the partition 
+                                proceedings by mailing a copy of the 
+                                written notice described in clause (i) 
+                                by certified mail, restricted delivery, 
+                                to each such owner at the owner's last 
+                                known address. For purposes of this 
+                                subsection, owners shall be determined 
+                                from the Secretary's land title records 
+                                as of the date of the determination 
+                                under subparagraph (C) or a date that is 
+                                not more than 90 days prior to the date 
+                                of mailing under this clause, whichever 
+                                is later. In the event the written 
+                                notice to an owner is returned 
+                                undelivered, the Secretary shall attempt 
+                                to obtain a current address for such 
+                                owner by conducting a reasonable search 
+                                (including a reasonable search of 
+                                records maintained by local, State, 
+                                Federal and tribal governments and 
+                                agencies) and by inquiring with the 
+                                Indian tribe with jurisdiction over the 
+                                subject parcel, and, if different from 
+                                that tribe, the Indian tribe of which 
+                                the owner is a member, and, if 
+                                successful in locating any such owner, 
+                                send written notice by certified mail in 
+                                accordance with this subclause.
+                                    ``(II) Notice by publication.--The 
+                                Secretary shall give notice by 
+                                publication of the partition proceedings 
+                                to all owners that the Secretary was 
+                                unable to serve pursuant to subclause 
+                                (I), and to unknown heirs and assigns 
+                                by--
+                                            
+                                        ``(aa) <<NOTE: Newspaper.>> publi
+                                        shing the notice described in 
+                                        clause (i) at least 2 times in a 
+                                        newspaper of general circulation 
+                                        in the county or counties where 
+                                        the subject parcel of land is 
+                                        located or, if there is an 
+                                        Indian tribe with jurisdiction 
+                                        over the parcel of land and that 
+                                        tribe publishes a tribal 
+                                        newspaper or newsletter at least 
+                                        once every month, 1 time in such 
+                                        newspaper of
+
+[[Page 118 STAT. 1791]]
+
+                                        general circulation and 1 time 
+                                        in such tribal newspaper or 
+                                        newsletter;
+                                            ``(bb) posting such notice 
+                                        in a conspicuous place in the 
+                                        tribal headquarters or 
+                                        administration building (or such 
+                                        other tribal building determined 
+                                        by the Secretary to be most 
+                                        appropriate for giving public 
+                                        notice) of the Indian tribe with 
+                                        jurisdiction over the parcel of 
+                                        land, if any; and
+                                            ``(cc) in addition to the 
+                                        foregoing, in the Secretary's 
+                                        discretion, publishing notice in 
+                                        any other place or means that 
+                                        the Secretary determines to be 
+                                        appropriate.
+                    ``(G) Review of comments on appraisal.--
+                          ``(i) In general.--After reviewing and 
+                      considering comments or information timely 
+                      submitted by any owner of an interest in the 
+                      parcel in response to the notice required under 
+                      subparagraph (F), the Secretary may, consistent 
+                      with the provisions of this Act for establishing 
+                      fair market value--
+                                    ``(I) order a new appraisal; or
+                                    ``(II) approve the appraisal;
+                provided that if the Secretary orders a new appraisal 
+                under subclause (I), notice of the new appraisal shall 
+                be given as specified in clause (ii).
+                          ``(ii) Notice.--Notice shall be given--
+                                    ``(I) in accordance with 
+                                subparagraph (H), where the new 
+                                appraisal results in a higher valuation 
+                                of the land; or
+                                    ``(II) in accordance with 
+                                subparagraph (F)(ii), where the new 
+                                appraisal results in a lower valuation 
+                                of the land.
+                    ``(H) Notice to owners of approval of appraisal and 
+                right to appeal.--Upon making the determination under 
+                subparagraph (G), the Secretary shall provide to the 
+                Indian tribe with jurisdiction over the subject land and 
+                to all persons who submitted written comments on or 
+                objections to the proposed partition or appraisal, a 
+                written notice to be served on such tribe and persons by 
+                certified mail. Such notice shall state--
+                          ``(i) the results of the appraisal;
+                          ``(ii) that the owner has the right to review 
+                      a copy of the appraisal upon request;
+                          ``(iii) that the land will be sold for not 
+                      less than the appraised value, subject to the 
+                      consent requirements under paragraph (2)(D);
+                          ``(iv) the time of the sale or for submitting 
+                      bids under subparagraph (I);
+                          ``(v) that the owner has the right, under the 
+                      Secretary's regulations governing administrative 
+                      appeals, to pursue an administrative appeal from--
+                                    ``(I) the determination that the 
+                                land may be partitioned by sale under 
+                                the provisions of this section; and
+                                    ``(II) the Secretary's order 
+                                approving the appraisal;
+
+[[Page 118 STAT. 1792]]
+
+                          ``(vi) the date by which an administrative 
+                      appeal must be taken, a citation to the provisions 
+                      of the Secretary's regulations that will govern 
+                      the owner's appeal, and any other information 
+                      required by such regulations to be given to 
+                      parties affected by adverse decisions of the 
+                      Secretary;
+                          ``(vii) in cases where the Secretary 
+                      determines that any person's undivided trust or 
+                      restricted interest in the parcel exceeds $1,500 
+                      pursuant to paragraph (2)(D)(iii), that the 
+                      Secretary has authority to consent to the 
+                      partition on behalf of undetermined heirs of trust 
+                      or restricted interests in the parcel and owners 
+                      of such interests whose whereabouts are unknown; 
+                      and
+                          ``(viii) any other information the Secretary 
+                      deems to be appropriate.
+                    ``(I) Sale to eligible purchaser.--
+                          ``(i) In general.--Subject to clauses (ii) and 
+                      (iii) and the consent requirements of paragraph 
+                      (2)(D), the Secretary shall, after providing 
+                      notice to owners under subparagraph (H), including 
+                      the time and place of sale or for receiving sealed 
+                      bids, at public auction or by sealed bid 
+                      (whichever of such methods of sale the Secretary 
+                      determines to be more appropriate under the 
+                      circumstances) sell the parcel of land by 
+                      competitive bid for not less than the final 
+                      appraised fair market value to the highest bidder 
+                      from among the following eligible bidders:
+                                    ``(I) The Indian tribe, if any, with 
+                                jurisdiction over the trust or 
+                                restricted interests in the parcel being 
+                                sold.
+                                    ``(II) Any person who is a member, 
+                                or is eligible to be a member, of the 
+                                Indian tribe described in subclause (I).
+                                    ``(III) Any person who is a member, 
+                                or is eligible to be a member, of an 
+                                Indian tribe but not of the tribe 
+                                described in subclause (I), but only if 
+                                such person already owns an undivided 
+                                interest in the parcel at the time of 
+                                sale.
+                                    ``(IV) Any lineal descendent of the 
+                                original allottee of the parcel who is a 
+                                member or is eligible to be a member of 
+                                an Indian tribe or, with respect to a 
+                                parcel located in the State of 
+                                California that is not within an Indian 
+                                tribe's reservation or not otherwise 
+                                subject to the jurisdiction of an Indian 
+                                tribe, who is a member, or eligible to 
+                                be a member, of an Indian tribe or owns 
+                                a trust or restricted interest in the 
+                                parcel.
+                          ``(ii) Right to match highest bid.--If the 
+                      highest bidder is a person who is only eligible to 
+                      bid under clause (i)(III), the Indian tribe that 
+                      has jurisdiction over the parcel, if any, shall 
+                      have the right to match the highest bid and 
+                      acquire the parcel, but only if--
+                                    ``(I) prior to the date of the sale, 
+                                the governing body of such tribe has 
+                                adopted a tribal law or resolution 
+                                reserving its right to match the bids of 
+                                such nonmember bidders in partition 
+                                sales
+
+[[Page 118 STAT. 1793]]
+
+                                under this subsection and delivered a 
+                                copy of such law or resolution to the 
+                                Secretary; and
+                                    ``(II) the parcel is not acquired 
+                                under clause (iii).
+                          ``(iii) Right to purchase.--Any person who is 
+                      a member, or eligible to be a member, of the 
+                      Indian tribe with jurisdiction over the trust or 
+                      restricted interests in the parcel being sold and 
+                      is, as of the time of sale under this 
+                      subparagraph, the owner of the largest undivided 
+                      interest in the parcel shall have a right to 
+                      purchase the parcel by tendering to the Secretary 
+                      an amount equal to the highest sufficient bid 
+                      submitted at the sale, less that amount of the bid 
+                      attributable to such owner's share, but only if--
+                                    ``(I) the owner submitted a 
+                                sufficient bid at the sale;
+                                    ``(II) the owner's total undivided 
+                                interest in the parcel immediately prior 
+                                to the sale was--
+                                            ``(aa) greater than the 
+                                        undivided interest held by any 
+                                        other co-owners, except where 
+                                        there are 2 or more co-owners 
+                                        whose interests are of equal 
+                                        size but larger than the 
+                                        interests of all other co-owners 
+                                        and such owners of the largest 
+                                        interests have agreed in writing 
+                                        that 1 of them may exercise the 
+                                        right of purchase under this 
+                                        clause; and
+                                            ``(bb) equal to or greater 
+                                        than 20 percent of the entire 
+                                        undivided ownership of the 
+                                        parcel;
+                                    
+                                ``(III) <<NOTE: Deadline. Notice.>> withi
+                                n 3 days following the date of the 
+                                auction or for receiving sealed bids, 
+                                and in accordance with the regulations 
+                                adopted to implement this section, the 
+                                owner delivers to the Secretary a 
+                                written notice of intent to exercise the 
+                                owner's rights under this clause; and
+                                    ``(IV) such owner tenders the amount 
+                                of the purchase price required under 
+                                this clause--
+                                            
+                                        ``(aa) <<NOTE: Deadline.>> not 
+                                        less than 30 days after the date 
+                                        of the auction or time for 
+                                        receiving sealed bids; and
+                                            ``(bb) in accordance with 
+                                        any requirements of the 
+                                        regulations promulgated to 
+                                        implement this section.
+                          ``(iv) Interest acquired.--A purchaser of a 
+                      parcel of land under this subparagraph shall 
+                      acquire title to the parcel in trust or restricted 
+                      status, free and clear of any and all claims of 
+                      title or ownership of all persons or entities (not 
+                      including the United States) owning or claiming to 
+                      own an interest in such parcel prior to the time 
+                      of sale.
+                    ``(J) Proceeds of sale.--
+                          ``(i) Subject to clauses (ii) and (iii), the 
+                      Secretary shall distribute the proceeds of sale of 
+                      a parcel of land under the provisions of this 
+                      section to the owners of interests in such parcel 
+                      in proportion to their respective ownership 
+                      interests.
+
+[[Page 118 STAT. 1794]]
+
+                          ``(ii) Proceeds attributable to the sale of 
+                      trust or restricted interests shall be maintained 
+                      in accounts as trust personalty.
+                          ``(iii) Proceeds attributable to the sale of 
+                      interests of owners whose whereabouts are unknown, 
+                      of undetermined heirs, and of other persons whose 
+                      ownership interests have not been recorded shall 
+                      be held by the Secretary until such owners, heirs, 
+                      or other persons have been determined, at which 
+                      time such proceeds shall be distributed in 
+                      accordance with clauses (i) and (ii).
+                    ``(K) Lack of bids or consent.--
+                          ``(i) Lack of bids.--If no bidder described in 
+                      subparagraph (I) presents a bid that equals or 
+                      exceeds the final appraised value, the Secretary 
+                      may either--
+                                    ``(I) purchase the parcel of land 
+                                for its appraised fair market value on 
+                                behalf of the Indian tribe with 
+                                jurisdiction over the land, subject to 
+                                the lien and procedures provided under 
+                                section 214(b) (25 U.S.C. 2213(b)); or
+                                    ``(II) terminate the partition 
+                                process.
+                          ``(ii) Lack of consent.--If an applicant fails 
+                      to obtain any applicable consent required under 
+                      the provisions of subparagraph (D) by the date 
+                      established by the Secretary prior to the proposed 
+                      sale, the Secretary may either extend the time for 
+                      obtaining any such consent or deny the request for 
+                      partition.
+            ``(3) Enforcement.--
+                    ``(A) In general.--If a partition is approved under 
+                this subsection and an owner of an interest in the 
+                parcel of land refuses to surrender possession in 
+                accordance with the partition decision, or refuses to 
+                execute any conveyance necessary to implement the 
+                partition, then any affected owner or the United States 
+                may--
+                          ``(i) commence a civil action in the United 
+                      States district court for the district in which 
+                      the parcel of land is located; and
+                          ``(ii) request that the court issue an order 
+                      for ejectment or any other appropriate remedy 
+                      necessary for the partition of the land by sale.
+                    ``(B) Federal role.--With respect to any civil 
+                action brought under subparagraph (A)--
+                          ``(i) the United States--
+                                    ``(I) <<NOTE: Notice.>> shall 
+                                receive notice of the civil action; and
+                                    ``(II) may be a party to the civil 
+                                action; and
+                          ``(ii) the civil action shall not be 
+                      dismissed, and no relief requested shall be 
+                      denied, on the ground that the civil action is 
+                      against the United States or that the United 
+                      States is a necessary and indispensable party.
+            ``(4) Grants and loans.--The Secretary may provide grants 
+        and low interest loans to successful bidders at sales authorized 
+        by this subsection, provided that--
+                    ``(A) the total amount of such assistance in any 
+                such sale shall not exceed 20 percent of the appraised 
+                value of the parcel of land sold; and
+
+[[Page 118 STAT. 1795]]
+
+                    ``(B) the grant or loan funds provided shall only be 
+                applied toward the purchase price of the parcel of land 
+                sold.
+            ``(5) Regulations.--The Secretary is authorized to adopt 
+        such regulations as may be necessary to implement the provisions 
+        of this subsection. Such regulations shall include provisions 
+        for giving notice of sales to prospective purchasers eligible to 
+        submit bids at sales conducted under paragraph (2)(I).''.
+
+SEC. 5. OWNER-MANAGED INTERESTS.
+
+    The Indian Land Consolidation Act (25 U.S.C. 2201 et seq.) is 
+amended by adding at the end the following:
+
+``SEC. 221. <<NOTE: 25 USC 2220.>> OWNER-MANAGED INTERESTS.
+
+    ``(a) Purpose.--The purpose of this section is to provide a means 
+for the co-owners of trust or restricted interests in a parcel of land 
+to enter into surface leases of such parcel for certain purposes without 
+approval of the Secretary.
+    ``(b) Mineral Interests.--Nothing in this section shall be construed 
+to limit or otherwise affect the application of any Federal law 
+requiring the Secretary to approve mineral leases or other agreements 
+for the development of the mineral interest in trust or restricted land.
+    ``(c) Owner Management.--
+            ``(1) In general.--Notwithstanding any provision of Federal 
+        law requiring the Secretary to approve individual Indian leases 
+        of individual Indian trust or restricted land, where the owners 
+        of all of the undivided trust or restricted interests in a 
+        parcel of land have submitted applications to the Secretary 
+        pursuant to subsection (a), and the Secretary has approved such 
+        applications under subsection (d), such owners may, without 
+        further approval by the Secretary, enter into a lease of the 
+        parcel for agricultural purposes for a term not to exceed 10 
+        years.
+            ``(2) Rule of construction.--No such lease shall be 
+        effective until it has been executed by the owners of all 
+        undivided trust or restricted interests in the parcel.
+
+    ``(d) Approval of Applications for Owner Management.--
+            ``(1) In general.--Subject to the provisions of paragraph 
+        (2), the Secretary shall approve an application for owner 
+        management submitted by a qualified applicant pursuant to this 
+        section unless the Secretary has reason to believe that the 
+        applicant is submitting the application as the result of fraud 
+        or undue influence. No such application shall be valid or 
+        considered if it is received by the Secretary prior to the date 
+        that is 1 year after the date on which notice is published 
+        pursuant to section 8(a)(4) of the American Indian Probate 
+        Reform Act of 2004.
+            ``(2) Commencement of owner-managed status.--Notwithstanding 
+        the approval of 1 or more applications pursuant to paragraph 
+        (1), no trust or restricted interest in a parcel of land shall 
+        acquire owner-managed status until applications for all of the 
+        trust or restricted interests in such parcel of land have been 
+        submitted to and approved by the Secretary pursuant to this 
+        section.
+
+    ``(e) Validity of Leases.--No lease of trust or restricted interests 
+in a parcel of land that is owner-managed under this section shall be 
+valid or enforceable against the owners of such
+
+[[Page 118 STAT. 1796]]
+
+interests, or against the land, the interest or the United States, 
+unless such lease--
+            ``(1) is consistent with, and entered into in accordance 
+        with, the requirements of this section; or
+            ``(2) has been approved by the Secretary in accordance with 
+        other Federal laws applicable to the leasing of trust or 
+        restricted land.
+
+    ``(f) Lease Revenues.--The Secretary shall not be responsible for 
+the collection of, or accounting for, any lease revenues accruing to any 
+interests under a lease authorized by subsection (e), so long as such 
+interest is in owner-managed status under the provisions of this 
+section.
+    ``(g) Jurisdiction.--
+            ``(1) Jurisdiction unaffected by status.--The Indian tribe 
+        with jurisdiction over an interest in trust or restricted land 
+        that becomes owner-managed pursuant to this section shall 
+        continue to have jurisdiction over the interest to the same 
+        extent and in all respects that such tribe had prior to the 
+        interest acquiring owner-managed status.
+            ``(2) Persons using land.--Any person holding, leasing, or 
+        otherwise using such interest in land shall be considered to 
+        consent to the jurisdiction of the Indian tribe referred to in 
+        paragraph (1), including such tribe's laws and regulations, if 
+        any, relating to the use, and any effects associated with the 
+        use, of the interest.
+
+    ``(h) Continuation of Owner-Managed Status; Revocation.--
+            ``(1) In general.--Subject to the provisions of paragraph 
+        (2), after the applications of the owners of all of the trust or 
+        restricted interests in a parcel of land have been approved by 
+        the Secretary pursuant to subsection (d), each such interest 
+        shall continue in owner-managed status under this section 
+        notwithstanding any subsequent conveyance of the interest in 
+        trust or restricted status to another person or the subsequent 
+        descent of the interest in trust or restricted status by testate 
+        or intestate succession to 1 or more heirs.
+            ``(2) Revocation.--Owner-managed status of an interest may 
+        be revoked upon written request of the owners (including the 
+        parents or legal guardians of minors or incompetent owners) of 
+        all trust or restricted interests in the parcel, submitted to 
+        the Secretary in accordance with regulations adopted under 
+        subsection (l). The revocation shall become effective as of the 
+        date on which the last of all such requests has been delivered 
+        to the Secretary.
+            ``(3) Effect of revocation.--Revocation of owner-managed 
+        status under paragraph (2) shall not affect the validity of any 
+        lease made in accordance with the provisions of this section 
+        prior to the effective date of the revocation, provided that, 
+        after such revocation becomes effective, the Secretary shall be 
+        responsible for the collection of, and accounting for, all 
+        future lease revenues accruing to the trust or restricted 
+        interests in the parcel from and after such effective date.
+
+    ``(i) Defined Terms.--
+            ``(1) For purposes of subsection (d)(1), the term `qualified 
+        applicant' means--
+                    ``(A) a person over the age of 18 who owns a trust 
+                or restricted interest in a parcel of land; and
+
+[[Page 118 STAT. 1797]]
+
+                    ``(B) the parent or legal guardian of a minor or 
+                incompetent person who owns a trust or restricted 
+                interest in a parcel of land.
+            ``(2) For purposes of this section, the term `owner-managed 
+        status' means, with respect to a trust or restricted interest, 
+        that--
+                    ``(A) the interest is a trust or restricted interest 
+                in a parcel of land for which applications covering all 
+                trust or restricted interests in such parcel have been 
+                submitted to and approved by the Secretary pursuant to 
+                subsection (d);
+                    ``(B) the interest may be leased without approval of 
+                the Secretary pursuant to, and in a manner that is 
+                consistent with, the requirements of this section; and
+                    ``(C) no revocation has occurred under subsection 
+                (h)(2).
+
+    ``(j) Secretarial Approval of Other Transactions.--Except with 
+respect to the specific lease transaction described in paragraph (1) of 
+subsection (c), interests that acquire owner-managed status under the 
+provisions of this section shall continue to be subject to all Federal 
+laws requiring the Secretary to approve transactions involving trust or 
+restricted land (including leases with terms of a duration in excess of 
+10 years) that would otherwise apply to such interests if the interests 
+had not acquired owner-managed status under this section.
+    ``(k) Effect of Section.--Subject to subsections (c), (f), and (h), 
+nothing in this section diminishes or otherwise affects any authority or 
+responsibility of the Secretary with respect to an interest in trust or 
+restricted land.''.
+
+SEC. 6. ADDITIONAL AMENDMENTS.
+
+    (a) In General.--The Indian Land Consolidation Act (25 U.S.C. 2201 
+et seq.) is amended--
+            (1) in the second sentence of section 205(a) (25 U.S.C. 
+        2204(a)), by striking ``over 50 per centum of the undivided 
+        interests'' and inserting ``undivided interests equal to at 
+        least 50 percent of the undivided interest'';
+            (2) in section 207 (25 U.S.C. 2206), by adding a subsection 
+        at the end as follows:
+
+    ``(p) Purchase Option at Probate.--
+            ``(1) In general.--The trust or restricted interests in a 
+        parcel of land in the decedent's estate may be purchased at 
+        probate in accordance with the provisions of this subsection.
+            ``(2) Sale of interest at fair market value.--Subject to 
+        paragraph (3), the Secretary is authorized to sell trust or 
+        restricted interests in land subject to this subsection, 
+        including the interest that a surviving spouse would otherwise 
+        receive under section 207(a)(2) (A) or (D), at no less than fair 
+        market value, as determined in accordance with the provisions of 
+        this Act, to any of the following eligible purchasers:
+                    ``(A) Any other eligible heir taking an interest in 
+                the same parcel of land by intestate succession or the 
+                decedent's other devisees of interests in the same 
+                parcel who are eligible to receive a devise under 
+                section 207(b)(1)(A).
+                    ``(B) All persons who own undivided trust or 
+                restricted interests in the same parcel of land involved 
+                in the probate proceeding.
+
+[[Page 118 STAT. 1798]]
+
+                    ``(C) The Indian tribe with jurisdiction over the 
+                interest, or the Secretary on behalf of such Indian 
+                tribe.
+            ``(3) Request to purchase; auction; consent requirements.--
+        No sale of an interest in probate shall occur under this 
+        subsection unless--
+                    ``(A) an eligible purchaser described in paragraph 
+                (2) submits a written request to purchase prior to the 
+                distribution of the interest to heirs or devisees of the 
+                decedent and in accordance with any regulations of the 
+                Secretary; and
+                    ``(B) except as provided in paragraph (5), the heirs 
+                or devisees of such interest, and the decedent's 
+                surviving spouse, if any, receiving a life estate under 
+                section 207(a)(2) (A) or (D) consent to the sale.
+        If the Secretary receives more than 1 request to purchase the 
+        same interest, the Secretary shall sell the interest by public 
+        auction or sealed bid (as determined by the Secretary) at not 
+        less than the appraised fair market value to the eligible 
+        purchaser submitting the highest bid.
+            ``(4) Appraisal and notice.--Prior to the sale of an 
+        interest pursuant to this subsection, the Secretary shall--
+                    ``(A) appraise the interest at its fair market value 
+                in accordance with this Act;
+                    ``(B) provide eligible heirs, other devisees, and 
+                the Indian tribe with jurisdiction over the interest 
+                with written notice, sent by first class mail, that the 
+                interest is available for purchase in accordance with 
+                this subsection; and
+                    ``(C) if the Secretary receives more than 1 request 
+                to purchase the interest by a person described in 
+                subparagraph (B), provide notice of the manner (auction 
+                or sealed bid), time and place of the sale, a 
+                description, and the appraised fair market value, of the 
+                interest to be sold--
+                          ``(i) to the heirs or other devisees and the 
+                      Indian tribe with jurisdiction over the interest, 
+                      by first class mail; and
+                          ``(ii) to all other eligible purchasers, by 
+                      posting written notice in at least 5 conspicuous 
+                      places in the vicinity of the place of hearing.
+            ``(5) Small undivided interests in indian lands.--
+                    ``(A) In general.--Subject to subparagraph (B), the 
+                consent of a person who is an heir otherwise required 
+                under paragraph (3)(B) shall not be required for the 
+                auction and sale of an interest at probate under this 
+                subsection if--
+                          ``(i) the interest is passing by intestate 
+                      succession; and
+                          ``(ii) prior to the auction the Secretary 
+                      determines in the probate proceeding that the 
+                      interest passing to such heir represents less than 
+                      5 percent of the entire undivided ownership of the 
+                      parcel of land as evidenced by the Secretary's 
+                      records as of the time the determination is made.
+                    ``(B) Exception.--Notwithstanding subparagraph (A), 
+                the consent of such heir shall be required for the sale 
+                at probate of the heir's interest if, at the time of the 
+                decedent's death, the heir was residing on the parcel of 
+                land of which the interest to be sold was a part.
+
+[[Page 118 STAT. 1799]]
+
+            ``(6) Distribution of proceeds.--Proceeds from the sale of 
+        interests under this subsection shall be distributed to the 
+        heirs, devisees, or spouse whose interest was sold in accordance 
+        with the values of their respective interests. The proceeds 
+        attributable to an heir or devisee shall be held in an account 
+        as trust personalty if the interest sold would have otherwise 
+        passed to the heir or devisee in trust or restricted status.'';
+            (3) in section 206 (25 U.S.C. 2205)--
+                    (A) in subsection (a), by striking paragraph (3) and 
+                inserting the following:
+            ``(3) Tribal probate codes.--Except as provided in any 
+        applicable Federal law, the Secretary shall not approve a tribal 
+        probate code, or an amendment to such a code, that prohibits the 
+        devise of an interest in trust or restricted land to--
+                    ``(A) an Indian lineal descendant of the original 
+                allottee; or
+                    ``(B) an Indian who is not a member of the Indian 
+                tribe with jurisdiction over such an interest;
+        unless the code provides for--
+                          ``(i) the renouncing of interests to eligible 
+                      devisees in accordance with the code;
+                          ``(ii) the opportunity for a devisee who is 
+                      the spouse or lineal descendant of a testator to 
+                      reserve a life estate without regard to waste; and
+                          ``(iii) payment of fair market value in the 
+                      manner prescribed under subsection (c)(2).''; and
+                    (B) in subsection (c)--
+                          (i) in paragraph (1)--
+                                    (I) by striking the paragraph 
+                                heading and inserting the following:
+            ``(1) Authority.--
+                    ``(A) In general.--'';
+                                    (II) in the first sentence of 
+                                subparagraph (A) (as redesignated by 
+                                clause (i)), by striking ``section 
+                                207(a)(6)(A) of this title'' and 
+                                inserting ``section 207(b)(2)(A)(ii) of 
+                                this title''; and
+                                    (III) by striking the last sentence 
+                                and inserting the following:
+                    ``(B) Transfer.--The Secretary shall transfer 
+                payments received under subparagraph (A) to any person 
+                or persons who would have received an interest in land 
+                if the interest had not been acquired by the Indian 
+                tribe in accordance with this paragraph.''; and
+                          (ii) in paragraph (2)--
+                                    (I) in subparagraph (A)--
+                                            (aa) by striking the 
+                                        subparagraph heading and all 
+                                        that follows through ``Paragraph 
+                                        (1) shall not apply'' and 
+                                        inserting the following:
+                    ``(A) Inapplicability to certain interests.--
+                          ``(i) In general.--Paragraph (1) shall not 
+                      apply'';
+                                            (bb) in clause (i) (as 
+                                        redesignated by item (aa)), by 
+                                        striking ``if, while'' and 
+                                        inserting the following: ``if--
+                                    ``(I) while'';
+                                            (cc) by striking the period 
+                                        at the end and inserting ``; 
+                                        or''; and
+                                            (dd) by adding at the end 
+                                        the following:
+
+[[Page 118 STAT. 1800]]
+
+                                    ``(II)(aa) the interest is part of a 
+                                family farm that is devised to a member 
+                                of the family of the decedent; and
+                                    ``(bb) the devisee agrees that the 
+                                Indian tribe with jurisdiction over the 
+                                land will have the opportunity to 
+                                acquire the interest for fair market 
+                                value if the interest is offered for 
+                                sale to a person or entity that is not a 
+                                member of the family of the owner of the 
+                                land.
+                          ``(ii) Recording of interest.--On request by 
+                      the Indian tribe described in clause (i)(II)(bb), 
+                      a restriction relating to the acquisition by the 
+                      Indian tribe of an interest in a family farm 
+                      involved shall be recorded as part of the deed 
+                      relating to the interest involved.
+                          ``(iii) Mortgage and foreclosure.--Nothing in 
+                      clause (i)(II) limits--
+                                    ``(I) the ability of an owner of 
+                                land to which that clause applies to 
+                                mortgage the land; or
+                                    ``(II) the right of the entity 
+                                holding such a mortgage to foreclose or 
+                                otherwise enforce such a mortgage 
+                                agreement in accordance with applicable 
+                                law.
+                          ``(iv) Definition of `member of the family'.--
+                      In this paragraph, the term `member of the 
+                      family', with respect to a decedent or landowner, 
+                      means--
+                                    ``(I) a lineal descendant of a 
+                                decedent or landowner;
+                                    ``(II) a lineal descendant of the 
+                                grandparent of a decedent or landowner;
+                                    ``(III) the spouse of a descendant 
+                                or landowner described in subclause (I) 
+                                or (II); and
+                                    ``(IV) the spouse of a decedent or 
+                                landowner.''; and
+                                    (II) in subparagraph (B), by 
+                                striking ``subparagraph (A)'' and all 
+                                that follows through ``207(a)(6)(B) of 
+                                this title'' and inserting ``paragraph 
+                                (1)'';
+            (4) in section 207 (25 U.S.C. 2206), by striking subsection 
+        (g);
+            (5) in section 213 (25 U.S.C. 2212)--
+                    (A) by striking the section heading and inserting 
+                the following:
+
+``SEC. 2212. FRACTIONAL INTEREST ACQUISITION PROGRAM.'';
+
+                    (B) in subsection (a), by--
+                          (i) adding in paragraph (1) ``or from an heir 
+                      during probate in accordance with section 207(p) 
+                      (25 U.S.C. 2206(p))'' after ``owner,''; and
+                          (ii) striking ``(2) Authority of secretary.--
+                      '' and all that follows through ``the Secretary 
+                      shall submit'' and inserting the following:
+            ``(2) Authority of secretary.--The Secretary shall submit''; 
+        and
+                          (iii) by striking ``whether the program to 
+                      acquire fractional interests should be extended or 
+                      altered to make resources'' and inserting ``how 
+                      the fractional
+
+[[Page 118 STAT. 1801]]
+
+                      interest acquisition program should be enhanced to 
+                      increase the resources made'';
+                    (C) in subsection (b), by striking paragraph (4) and 
+                inserting the following:
+            ``(4) shall minimize the administrative costs associated 
+        with the land acquisition program through the use of policies 
+        and procedures designed to accommodate the voluntary sale of 
+        interests under this section, notwithstanding the existence of 
+        any otherwise applicable policy, procedure, or regulation, 
+        through the elimination of duplicate--
+                    ``(A) conveyance documents;
+                    ``(B) administrative proceedings; and
+                    ``(C) transactions.'';
+                    (D) in subsection (c)--
+                          (i) in paragraph (1)--
+                                    (I) in subparagraph (A), by striking 
+                                ``at least 5 percent of the'' and 
+                                inserting in its place ``an'';
+                                    (II) in subparagraph (A), by 
+                                inserting ``in such parcel'' following 
+                                ``the Secretary shall convey an 
+                                interest'';
+                                    (III) in subparagraph (A), by 
+                                striking ``landowner upon payment'' and 
+                                all that follows and inserting the 
+                                following: ``landowner--
+                          ``(i) on payment by the Indian landowner of 
+                      the amount paid for the interest by the Secretary; 
+                      or
+                          ``(ii) if--
+                                    ``(I) the Indian referred to in this 
+                                subparagraph provides assurances that 
+                                the purchase price will be paid by 
+                                pledging revenue from any source, 
+                                including trust resources; and
+                                    ``(II) the Secretary determines that 
+                                the purchase price will be paid in a 
+                                timely and efficient manner.''; and
+                                    (IV) in subparagraph (B), by 
+                                inserting before the period at the end 
+                                the following: ``unless the interest is 
+                                subject to a foreclosure of a mortgage 
+                                in accordance with the Act of March 29, 
+                                1956 (25 U.S.C. 483a)''; and
+                          (ii) in paragraph (3), by striking ``10 
+                      percent or more of the undivided interests'' and 
+                      inserting ``an undivided interest''; and
+                    (E) by adding at the end of the section:
+
+    ``(d) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section $75,000,000 for fiscal year 2005, 
+$95,000,000 for fiscal year 2006, and $145,000,000 for each of fiscal 
+years 2007 through 2010.'';
+            (6) in section 214 (25 U.S.C. 2213), by striking subsection 
+        (b) and inserting the following:
+
+    ``(b) Application of Revenue From Acquired Interests to Land 
+Consolidation Program.--
+            ``(1) In general.--The Secretary shall have a lien on any 
+        revenue accruing to an interest described in subsection (a) 
+        until the Secretary provides for the removal of the lien under 
+        paragraph (3), (4), or (5).
+            ``(2) Requirements.--
+                    ``(A) In general.--Until the Secretary removes a 
+                lien from an interest in land under paragraph (1)--
+
+[[Page 118 STAT. 1802]]
+
+                          ``(i) any lease, resource sale contract, 
+                      right-of-way, or other document evidencing a 
+                      transaction affecting the interest shall contain a 
+                      clause providing that all revenue derived from the 
+                      interest shall be paid to the Secretary; and
+                          ``(ii) any revenue derived from any interest 
+                      acquired by the Secretary in accordance with 
+                      section 213 shall be deposited in the fund created 
+                      under section 216.
+                    ``(B) Approval of transactions.--Notwithstanding 
+                section 16 of the Act of June 18, 1934 (commonly known 
+                as the `Indian Reorganization Act') (25 U.S.C. 476), or 
+                any other provision of law, until the Secretary removes 
+                a lien from an interest in land under paragraph (1), the 
+                Secretary may approve a transaction covered under this 
+                section on behalf of an Indian tribe.
+            ``(3) Removal of liens after findings.--The Secretary may 
+        remove a lien referred to in paragraph (1) if the Secretary 
+        makes a finding that--
+                    ``(A) the costs of administering the interest from 
+                which revenue accrues under the lien will equal or 
+                exceed the projected revenues for the parcel of land 
+                involved;
+                    ``(B) in the discretion of the Secretary, it will 
+                take an unreasonable period of time for the parcel of 
+                land to generate revenue that equals the purchase price 
+                paid for the interest; or
+                    ``(C) a subsequent decrease in the value of land or 
+                commodities associated with the parcel of land make it 
+                likely that the interest will be unable to generate 
+                revenue that equals the purchase price paid for the 
+                interest in a reasonable time.
+            ``(4) Removal of liens upon payment into the acquisition 
+        fund.--The Secretary shall remove a lien referred to in 
+        paragraph (1) upon payment of an amount equal to the purchase 
+        price of that interest in land into the Acquisition Fund created 
+        under section 2215 of this title, except where the tribe with 
+        jurisdiction over such interest in land authorizes the Secretary 
+        to continue the lien in order to generate additional acquisition 
+        funds.
+            ``(5) Other removal of liens.--The Secretary may, in 
+        consultation with tribal governments and other entities 
+        described in section 213(b)(3), periodically remove liens 
+        referred to in paragraph (1) from interests in land acquired by 
+        the Secretary.'';
+            (7) in section 215 (25 U.S.C. 2214), in the last sentence, 
+        by striking ``section 2212 of this title'' and inserting ``this 
+        Act'';
+            (8) in section 216 (25 U.S.C. 2215)--
+                    (A) in subsection (a), by striking paragraph (2) and 
+                inserting the following:
+            ``(2) collect all revenues received from the lease, permit, 
+        or sale of resources from interests acquired under section 213 
+        or paid by Indian landowners under section 213.''; and
+                    (B) in subsection (b)--
+                          (i) in paragraph (1)--
+                                    (I) in the matter preceding 
+                                subparagraph (A), by striking ``Subject 
+                                to paragraph (2), all'' and inserting 
+                                ``All'';
+
+[[Page 118 STAT. 1803]]
+
+                                    (II) in subparagraph (A), by 
+                                striking ``and'' at the end;
+                                    (III) in subparagraph (B), by 
+                                striking the period at the end and 
+                                inserting ``; and''; and
+                                    (IV) by adding at the end the 
+                                following:
+                    ``(C) be used to acquire undivided interests on the 
+                reservation from which the income was derived.''; and
+                          (ii) by striking paragraph (2) and inserting 
+                      the following:
+            ``(2) Use of funds.--The Secretary may use the revenue 
+        deposited in the Acquisition Fund under paragraph (1) to acquire 
+        some or all of the undivided interests in any parcels of land in 
+        accordance with section 205.'';
+            (9) in section 217 (25 U.S.C. 2216)--
+                    (A) in subsection (b)(1), by striking subparagraph 
+                (B) and inserting a new subparagraph (B) as follows:
+                    ``(B) Waiver of requirement.--The requirement for an 
+                estimate of value under subparagraph (A) may be waived 
+                in writing by an owner of a trust or restricted interest 
+                in land either selling, exchanging, or conveying by gift 
+                deed for no or nominal consideration such interest--
+                          ``(i) to an Indian person who is the owner's 
+                      spouse, brother, sister, lineal ancestor, lineal 
+                      descendant, or collateral heir; or
+                          ``(ii) to an Indian co-owner or to the tribe 
+                      with jurisdiction over the subject parcel of land, 
+                      where the grantor owns a fractional interest that 
+                      represents 5 percent or less of the parcel.'';
+                    (B) in subsection (e), by striking the matter 
+                preceding paragraph (1), and inserting ``Notwithstanding 
+                any other provision of law, the names and mailing 
+                addresses of the owners of any interest in trust or 
+                restricted lands, and information on the location of the 
+                parcel and the percentage of undivided interest owned by 
+                each individual shall, upon written request, be made 
+                available to'';
+                    (C) in subsection (e)(1), by striking ``Indian'';
+                    (D) in subsection (e)(3), by striking ``prospective 
+                applicants for the leasing, use, or consolidation of'' 
+                and inserting ``any person that is leasing, using, or 
+                consolidating, or is applying to lease, use, or 
+                consolidate,''; and
+                    (E) by striking subsection (f) and inserting the 
+                following:
+
+    ``(f) Purchase of Land by Indian Tribe.--
+            ``(1) In general.--Except as provided in paragraph (2), 
+        before the Secretary approves an application to terminate the 
+        trust status or remove the restrictions on alienation from a 
+        parcel of, or interest in, trust or restricted land, the Indian 
+        tribe with jurisdiction over the parcel shall have the 
+        opportunity--
+                    ``(A) to match any offer contained in the 
+                application; or
+                    ``(B) in a case in which there is no purchase price 
+                offered, to acquire the interest in the parcel by paying 
+                the fair market value of the interest.
+            ``(2) Exception for family farms.--
+                    ``(A) In general.--Paragraph (1) shall not apply to 
+                a parcel of, or interest in, trust or restricted land 
+                that
+
+[[Page 118 STAT. 1804]]
+
+                is part of a family farm that is conveyed to a member of 
+                the family of a landowner (as defined in section 
+                206(c)(2)(A)(iv)) if the conveyance requires that in the 
+                event that the parcel or interest is offered for sale to 
+                an entity or person that is not a member of the family 
+                of the landowner, the Indian tribe with jurisdiction 
+                over the land shall be afforded the opportunity to 
+                purchase the interest pursuant to paragraph (1).
+                    ``(B) Applicability of other provision.--Section 
+                206(c)(2)(A) shall apply with respect to the recording 
+                and mortgaging of any trust or restricted land referred 
+                to in subparagraph (A).'';
+            (10) in section 219(b)(1)(A) (25 U.S.C. 2218(b)(1)(A)), by 
+        striking ``100'' and inserting ``90''; and
+            (11) in section 219, by adding at the end of the section:
+
+    ``(g) Other Laws.--Nothing in this Act shall be construed to 
+supersede, repeal, or modify any general or specific statute authorizing 
+the grant or approval of any type of land use transaction involving 
+fractional interests in trust or restricted land.''.
+    (b) Definitions.--Section 202 of the Indian Land Consolidation Act 
+(25 U.S.C. 2201) is amended--
+            (1) by striking paragraph (2) and inserting the following:
+            ``(2) `Indian' means--
+                    ``(A) any person who is a member of any Indian 
+                tribe, is eligible to become a member of any Indian 
+                tribe, or is an owner (as of the date of enactment of 
+                the American Indian Probate Reform Act of 2004) of a 
+                trust or restricted interest in land;
+                    ``(B) any person meeting the definition of Indian 
+                under the Indian Reorganization Act (25 U.S.C. 479) and 
+                the regulations promulgated thereunder; and
+                    ``(C) with respect to the inheritance and ownership 
+                of trust or restricted land in the State of California 
+                pursuant to section 207, any person described in 
+                subparagraph (A) or (B) or any person who owns a trust 
+                or restricted interest in a parcel of such land in that 
+                State.'';
+            (2) by striking paragraph (4) and inserting the following:
+            ``(4) `trust or restricted lands' means lands, title to 
+        which is held by the United States in trust for an Indian tribe 
+        or individual, or which is held by an Indian tribe or individual 
+        subject to a restriction by the United States against 
+        alienation; and `trust or restricted interest in land' or `trust 
+        or restricted interest in a parcel of land' means an interest in 
+        land, title to which is held in trust by the United States for 
+        an Indian tribe or individual, or which is held by an Indian 
+        tribe or individual subject to a restriction by the United 
+        States against alienation.''; and
+            (3) by adding at the end the following:
+            ``(6) `parcel of highly fractionated Indian land' means a 
+        parcel of land that the Secretary, pursuant to authority under a 
+        provision of this Act, determines to have, as evidenced by the 
+        Secretary's records at the time of the determination--
+                    ``(A) 50 or more but less than 100 co-owners of 
+                undivided trust or restricted interests, and no 1 of 
+                such co-owners holds a total undivided trust or 
+                restricted interest in the parcel that is greater than 
+                10 percent of the entire undivided ownership of the 
+                parcel; or
+
+[[Page 118 STAT. 1805]]
+
+                    ``(B) 100 or more co-owners of undivided trust or 
+                restricted interests;
+            ``(7) `land' means any real property, and includes within 
+        its meaning for purposes of this Act improvements permanently 
+        affixed to real property;
+            ``(8) `person' or `individual' means a natural person;
+            ``(9) `eligible heirs' means, for purposes of section 207 
+        (25 U.S.C. 2206), any of a decedent's children, grandchildren, 
+        great grandchildren, full siblings, half siblings by blood, and 
+        parents who are--
+                    ``(A) Indian; or
+                    ``(B) lineal descendents within 2 degrees of 
+                consanguinity of an Indian; or
+                    ``(C) owners of a trust or restricted interest in a 
+                parcel of land for purposes of inheriting by descent, 
+                renunciation, or consolidation agreement under section 
+                207 (25 U.S.C. 2206), another trust or restricted 
+                interest in such parcel from the decedent; and
+            ``(10) `without regard to waste' means, with respect to a 
+        life estate interest in land, that the holder of such estate is 
+        entitled to the receipt of all income, including bonuses and 
+        royalties, from such land to the exclusion of the 
+        remaindermen.''.
+
+    (c) Issuance of Patents.--Section 5 of the Act of February 8, 1887 
+(25 U.S.C. 348), is amended by striking the second proviso and inserting 
+the following: ``Provided, <<NOTE: Applicability.>> That the rules of 
+intestate succession under the Indian Land Consolidation Act (25 U.S.C. 
+2201 et seq.) (including a tribal probate code approved under that Act 
+or regulations promulgated under that Act) shall apply to that land for 
+which patents have been executed and delivered:''.
+
+    (d) Transfers of Restricted Indian Land.--Section 4 of the Act of 
+June 18, 1934 (25 U.S.C. 464), is amended in the first proviso by--
+            (1) striking ``, in accordance with'' and all that follows 
+        through ``or in which the subject matter of the corporation is 
+        located,'';
+            (2) striking ``, except as provided by the Indian Land 
+        Consolidation Act'' and all that follows through the colon; and
+            (3) inserting ``in accordance with the Indian Land 
+        Consolidation Act (25 U.S.C. 2201 et seq.) (including a tribal 
+        probate code approved under that Act or regulations promulgated 
+        under that Act):''.
+
+    (e) Estate Planning.--
+            (1) Conduct of activities.--Section 207(f)(1) of the Indian 
+        Land Consolidation Act (25 U.S.C. 2206) is amended by striking 
+        paragraph (1) and inserting the following:
+            ``(1) In general.--
+                    ``(A) The activities conducted under this subsection 
+                shall be conducted in accordance with any applicable--
+                          ``(i) tribal probate code; or
+                          ``(ii) tribal land consolidation plan.
+                    ``(B) The Secretary shall provide estate planning 
+                assistance in accordance with this subsection, to the 
+                extent amounts are appropriated for such purpose.''.
+            (2) Requirements.--Section 207(f)(2) of the Indian Land 
+        Consolidation Act (25 U.S.C. 2206(f)(2)) is amended by striking
+
+[[Page 118 STAT. 1806]]
+
+        ``and'' at the end of subparagraph (A), redesignating 
+        subparagraph (B) as subparagraph (D), and adding the following:
+                    ``(B) dramatically increase the use of wills and 
+                other methods of devise among Indian landowners;
+                    ``(C) substantially reduce the quantity and 
+                complexity of Indian estates that pass intestate through 
+                the probate process, while protecting the rights and 
+                interests of Indian landowners; and''.
+            (3) Probate code development and legal assistance grants.--
+        Section 207(f)(3) of the Indian Land Consolidation Act (25 
+        U.S.C. 2206(f)(3)) is amended by striking paragraph (3) and 
+        inserting the following:
+            ``(3) Probate code development and legal assistance 
+        grants.--In carrying out this section, the Secretary may award 
+        grants to--
+                    ``(A) Indian tribes, for purposes of tribal probate 
+                code development and estate planning services to tribal 
+                members;
+                    ``(B) organizations that provide legal assistance 
+                services for Indian tribes, Indian organizations, and 
+                individual owners of interests in trust or restricted 
+                lands that are qualified as nonprofit organizations 
+                under section 501(c)(3) of the Internal Revenue Code of 
+                1986 and provide such services pursuant to Federal 
+                poverty guidelines, for purposes of providing civil 
+                legal assistance to such Indian tribes, individual 
+                owners, and Indian organizations for the development of 
+                tribal probate codes, for estate planning services or 
+                for other purposes consistent with the services they 
+                provide to Indians and Indian tribes; and
+                    ``(C) in specific areas and reservations where 
+                qualified nonprofit organizations referred to in 
+                subparagraph (B) do not provide such legal assistance to 
+                Indian tribes, Indian organizations, or individual 
+                owners of trust or restricted land, to other providers 
+                of such legal assistance;
+        that submit an application to the Secretary, in such form and 
+        manner as the Secretary may prescribe.
+            ``(4) Authorization for appropriations.--There is authorized 
+        to be appropriated such sums as may be necessary to carry out 
+        the provisions of paragraph (3).''.
+            (4) Notification to landowners.--Section 207 of the Indian 
+        Land Consolidation Act (25 U.S.C. 2206) is amended by adding at 
+        the end the following:
+
+    ``(l) Notification to Landowners.--After receiving written request 
+by any owner of a trust or restricted interest in land, the Secretary 
+shall provide to such landowner the following information with respect 
+to each tract of trust or restricted land in which the landowner has an 
+interest:
+            ``(1) The location of the tract of land involved.
+            ``(2) The identity of each other co-owner of interests in 
+        the parcel of land.
+            ``(3) The percentage of ownership of each owner of an 
+        interest in the tract.
+
+    ``(m) Pilot Project for the Management of Trust Assets of Indian 
+Families and Relatives.--
+            ``(1) Development pilot project.--The Secretary shall 
+        consult with tribes, individual landowner organizations, Indian 
+        advocacy organizations, and other interested parties to--
+
+[[Page 118 STAT. 1807]]
+
+                    ``(A) develop a pilot project for the creation of 
+                legal entities such as private or family trusts, 
+                partnerships corporations, or other organizations to 
+                improve, facilitate, and assist in the efficient 
+                management of interests in trust or restricted lands or 
+                funds owned by Indian family members and relatives; and
+                    ``(B) develop proposed rules, regulations, and 
+                guidelines to implement the pilot project, including--
+                          ``(i) the criteria for establishing such legal 
+                      entities;
+                          ``(ii) reporting and other requirements that 
+                      the Secretary determines to be appropriate for 
+                      administering such entities; and
+                          ``(iii) provisions for suspending or revoking 
+                      the authority of an entity to engage in activities 
+                      relating to the management of trust or restricted 
+                      assets under the pilot project in order to protect 
+                      the interests of the beneficial owners of such 
+                      assets.
+            ``(2) Primary purposes; limitation; approval of 
+        transactions; payments by secretary.--
+                    ``(A) Purposes.--The primary purpose of any entity 
+                organized under the pilot project shall be to improve, 
+                facilitate, and assist in the management of interests in 
+                trust or restricted land, held by 1 or more persons, in 
+                furtherance of the purposes of this Act.
+                    ``(B) Limitation.--The organization or activities of 
+                any entity under the pilot project shall not be 
+                construed to impair, impede, replace, abrogate, or 
+                modify in any respect the trust duties or 
+                responsibilities of the Secretary, nor shall anything in 
+                this subsection or in any rules, regulations, or 
+                guidelines developed under this subsection enable any 
+                private or family trustee of trust or restricted 
+                interests in land to exercise any powers over such 
+                interests greater than that held by the Secretary with 
+                respect to such interests.
+                    ``(C) Secretarial approval of transactions.--Any 
+                transaction involving the lease, use, mortgage or other 
+                disposition of trust or restricted land or other trust 
+                assets administered by or through an entity under the 
+                pilot project shall be subject to approval by the 
+                Secretary in accordance with applicable Federal law.
+                    ``(D) Payments.--The Secretary shall have the 
+                authority to make payments of income and revenues 
+                derived from trust or restricted land or other trust 
+                assets administered by or through an entity 
+                participating in the pilot project directly to the 
+                entity, in accordance with requirements of the 
+                regulations adopted pursuant to this subsection.
+            ``(3) Limitations on pilot project.--
+                    ``(A) Number of organizations.--The number of 
+                entities established under the pilot project authorized 
+                by this subsection shall not exceed 30.
+                    ``(B) Regulations required.--No entity shall 
+                commence activities under the pilot project authorized 
+                by this subsection until the Secretary has adopted final 
+                rules and regulations under paragraph (1)(B).
+
+[[Page 118 STAT. 1808]]
+
+            ``(4) Report to congress.--Prior to the expiration of the 
+        pilot project provided for under this subsection, the Secretary 
+        shall submit a report to Congress stating--
+                    ``(A) a description of the Secretary's consultation 
+                with Indian tribes, individual landowner associations, 
+                Indian advocacy organizations, and other parties 
+                consulted with regarding the development of rules and 
+                regulations for the creation and management of interests 
+                in trust and restricted lands under the pilot project;
+                    ``(B) the feasibility of accurately monitoring the 
+                performance of legal entities such as those involved in 
+                the pilot project, and the effectiveness of such 
+                entities as mechanisms to manage and protect trust 
+                assets;
+                    ``(C) the impact that the use of entities such as 
+                those in the pilot project may have with respect to the 
+                accomplishment of the goals of the Indian Land 
+                Consolidation Act (25 U.S.C. 2201 et seq.); and
+                    ``(D) any recommendations that the Secretary may 
+                have regarding whether to adopt a permanent program as a 
+                management and consolidation measure for interests in 
+                trust or restricted lands.
+
+    ``(n) Notice to Heirs.--Prior to holding a hearing to determine the 
+heirs to trust or restricted property, or making a decision determining 
+such heirs, the Secretary shall seek to provide actual written notice of 
+the proceedings to all heirs. Such efforts shall include--
+            ``(1) a search of publicly available records and Federal 
+        records, including telephone and address directories and 
+        including electronic search services or directories;
+            ``(2) an inquiry with family members and co-heirs of the 
+        property;
+            ``(3) an inquiry with the tribal government of which the 
+        owner is a member, and the tribal government with jurisdiction 
+        over the property, if any; and
+            ``(4) if the property is of a value greater than $2,000, 
+        engaging the services of an independent firm to conduct a 
+        missing persons search.
+
+    ``(o) Missing Heirs.--
+            ``(1) For purposes of this subsection and subsection (m), an 
+        heir may be presumed missing if--
+                    ``(A) such heir's whereabouts remain unknown 60 days 
+                after completion of notice efforts under subsection (m); 
+                and
+                    ``(B) in the proceeding to determine a decedent's 
+                heirs, the Secretary finds that the heir has had no 
+                contact with other heirs of the decedent, if any, or 
+                with the Department relating to trust or restricted land 
+                or other trust assets at any time during the 6-year 
+                period preceding the hearing to determine heirs.
+            ``(2) Before the date for declaring an heir missing, any 
+        person may request an extension of time to locate such heir. The 
+        Secretary shall grant a reasonable extension of time for good 
+        cause.
+            ``(3) An heir shall be declared missing only after a review 
+        of the efforts made in the heirship proceeding and a finding has 
+        been made that this subsection has been complied with.
+
+[[Page 118 STAT. 1809]]
+
+            ``(4) An heir determined to be missing pursuant to this 
+        subsection shall be deemed to have predeceased the decedent for 
+        purposes of descent and devise of trust or restricted land and 
+        trust personalty within that decedent's estate.''.
+SEC. 7. ANNUAL NOTICE AND FILING REQUIREMENT FOR OWNERS OF 
+                    INTERESTS IN TRUST OR RESTRICTED LANDS.
+
+    The Indian Land Consolidation Act (25 U.S.C. 2201 et seq.) is 
+amended by adding at the end the following:
+
+``SEC. 222. <<NOTE: 25 USC 2221.>> ANNUAL NOTICE AND FILING; CURRENT 
+            WHEREABOUTS OF INTEREST OWNERS.
+
+    ``On at least an annual basis, the Secretary shall include along 
+with other regular reports to owners of trust or restricted interests in 
+land and individual Indian money account owners a change of name and 
+address form by means of which the owner may confirm or update the 
+owner's name and address. The change of name and address form shall 
+include a section in which the owner may confirm and update the owner's 
+name and address.''.
+
+SEC. 8. <<NOTE: 25 USC 2201 note.>> NOTICE; EFFECTIVE DATE.
+
+    (a) Notice.--
+            (1) In general.--Not <<NOTE: Deadline.>> later than 180 days 
+        after the date of enactment of this Act, the Secretary shall 
+        notify Indian tribes and owners of trust or restricted lands of 
+        the amendments made by this Act.
+            (2) Specifications.--The notice required under paragraph (1) 
+        shall be designed to inform Indian owners of trust or restricted 
+        land of--
+                    (A) the effect of this Act and the amendments made 
+                by this Act, with emphasis on the effect of the 
+                provisions of this Act and the amendments made by this 
+                Act, on the testate disposition and intestate descent of 
+                their interests in trust or restricted land;
+                    (B) estate planning options available to the owners, 
+                including any opportunities for receiving estate 
+                planning assistance or advice;
+                    (C) the use of negotiated sales, gift deeds, land 
+                exchanges, and other transactions for consolidating the 
+                ownership of land; and
+                    (D) a toll-free telephone number to be used for 
+                obtaining information regarding the provisions of this 
+                Act and any trust assets of such owners.
+            (3) Requirements.--The Secretary shall provide the notice 
+        required under paragraph (1)--
+                    (A) by direct mail for those Indians with interests 
+                in trust and restricted lands for which the Secretary 
+                has an address for the interest holder;
+                    (B) through the Federal Register;
+                    (C) through local newspapers in areas with 
+                significant Indian populations, reservation newspapers, 
+                and newspapers that are directed at an Indian audience; 
+                and
+                    (D) through any other means determined appropriate 
+                by the Secretary.
+            (4) Certification.--After providing notice under this 
+        subsection, the Secretary shall--
+                    (A) certify that the requirements of this subsection 
+                have been met; and
+
+[[Page 118 STAT. 1810]]
+
+                    (B) <<NOTE: Federal Register, publication.>> publish 
+                notice of that certification in the Federal Register.
+
+    (b) Effective Date.--Section 207 of the Indian Land Consolidation 
+Act (25 U.S.C. 2206), except subsections (e) and (f) of that section, 
+shall not apply to the estate of an individual who dies before the date 
+that is 1 year after the date on which the Secretary makes the 
+certification required under subsection (a)(4).
+
+SEC. 9. <<NOTE: 25 USC 2201 note.>> SEVERABILITY.
+
+    If any provision of this Act or of any amendment made by this Act, 
+or the application of any such provision to any person or circumstance, 
+is held to be invalid for any reason, the remainder of this Act and of 
+amendments made by this Act, and the application of the provisions and 
+of the amendments made by this Act to any other person or circumstance 
+shall not be affected by such holding, except that each of subclauses 
+(II), (III), and (IV) of section 205(d)(2)(I)(i) is deemed to be 
+inseverable from the other 2, such that if any 1 of those 3 subclauses 
+is held to be invalid for any reason, neither of the other 2 of such 
+subclauses shall be given effect.
+
+SEC. 10. <<NOTE: 25 USC 2201 note.>> REGULATIONS.
+
+    The Secretary is authorized to adopt such regulations as may be 
+necessary to implement the provisions of this Act.
+
+    Approved October 27, 2004.
+
+LEGISLATIVE HISTORY--S. 1721:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 108-656 (Comm. on Resources).
+SENATE REPORTS: No. 108-264 (Comm. on Indian Affairs).
+CONGRESSIONAL RECORD, Vol. 150 (2004):
+            June 2, considered and passed Senate.
+            Oct. 6, considered and passed House.
+
+                                  
+

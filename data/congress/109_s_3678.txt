@@ -1,0 +1,3212 @@
+
+[109th Congress Public Law 417]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ417.109]
+
+[[Page 120 STAT. 2831]]
+
+Public Law 109-417
+109th Congress
+
+                                 An Act
+
+
+ 
+  To amend the Public Health Service Act with respect to public health 
+   security and all-hazards preparedness and response, and for other 
+             purposes. <<NOTE: Dec. 19, 2006 -  [S. 3678]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Pandemic and All-Hazards 
+Preparedness Act. 42 USC 201 note.>> assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Pandemic and All-
+Hazards Preparedness Act''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+ TITLE I--NATIONAL PREPAREDNESS AND RESPONSE, LEADERSHIP, ORGANIZATION, 
+                              AND PLANNING
+
+Sec. 101. Public health and medical preparedness and response functions 
+           of the Secretary of Health and Human Services.
+Sec. 102. Assistant Secretary for Preparedness and Response.
+Sec. 103. National Health Security Strategy.
+
+              TITLE II--PUBLIC HEALTH SECURITY PREPAREDNESS
+
+Sec. 201. Improving State and local public health security.
+Sec. 202. Using information technology to improve situational awareness 
+           in public health emergencies.
+Sec. 203. Public health workforce enhancements.
+Sec. 204. Vaccine tracking and distribution.
+Sec. 205. National Science Advisory Board for Biosecurity.
+Sec. 206. Revitalization of Commissioned Corps.
+
+              TITLE III--ALL-HAZARDS MEDICAL SURGE CAPACITY
+
+Sec. 301. National disaster medical system.
+Sec. 302. Enhancing medical surge capacity.
+Sec. 303. Encouraging health professional volunteers.
+Sec. 304. Core education and training.
+Sec. 305. Partnerships for State and regional hospital preparedness to 
+           improve surge capacity.
+Sec. 306. Enhancing the role of the Department of Veterans Affairs.
+
+     TITLE IV--PANDEMIC AND BIODEFENSE VACCINE AND DRUG DEVELOPMENT
+
+Sec. 401. Biomedical Advanced Research and Development Authority.
+Sec. 402. National Biodefense Science Board.
+Sec. 403. Clarification of countermeasures covered by Project BioShield.
+Sec. 404. Technical assistance.
+Sec. 405. Collaboration and coordination.
+Sec. 406. Procurement.
+
+[[Page 120 STAT. 2832]]
+
+ TITLE I--NATIONAL PREPAREDNESS AND RESPONSE, LEADERSHIP, ORGANIZATION, 
+                              AND PLANNING
+
+SEC. 101. PUBLIC HEALTH AND MEDICAL PREPAREDNESS AND RESPONSE FUNCTIONS 
+            OF THE SECRETARY OF HEALTH AND HUMAN SERVICES.
+
+    Title XXVIII of the Public Health Service Act (42 U.S.C. 300hh-11 et 
+seq.) is amended--
+            (1) by striking the title heading and inserting the 
+        following:
+
+  ``TITLE XXVIII--NATIONAL ALL-HAZARDS PREPAREDNESS FOR PUBLIC HEALTH 
+                             EMERGENCIES'';
+
+        and
+            (2) by amending subtitle A to read as follows:
+
+ ``Subtitle A--National All-Hazards Preparedness and Response Planning, 
+                       Coordinating, and Reporting
+
+``SEC. 2801. <<NOTE: 42 USC 300hh.>> PUBLIC HEALTH AND MEDICAL 
+            PREPAREDNESS AND RESPONSE FUNCTIONS.
+
+    ``(a) In General.--The Secretary of Health and Human Services shall 
+lead all Federal public health and medical response to public health 
+emergencies and incidents covered by the National Response Plan 
+developed pursuant to section 502(6) of the Homeland Security Act of 
+2002, or any successor plan.
+    ``(b) Interagency Agreement.--The Secretary, in collaboration with 
+the Secretary of Veterans Affairs, the Secretary of Transportation, the 
+Secretary of Defense, the Secretary of Homeland Security, and the head 
+of any other relevant Federal agency, shall establish an interagency 
+agreement, consistent with the National Response Plan or any successor 
+plan, under which agreement the Secretary of Health and Human Services 
+shall assume operational control of emergency public health and medical 
+response assets, as necessary, in the event of a public health 
+emergency, except that members of the armed forces under the authority 
+of the Secretary of Defense shall remain under the command and control 
+of the Secretary of Defense, as shall any associated assets of the 
+Department of Defense.''.
+
+SEC. 102. ASSISTANT SECRETARY FOR PREPAREDNESS AND RESPONSE.
+
+    (a) Assistant Secretary for Preparedness and Response.--Subtitle B 
+of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh-11 et 
+seq.) is amended--
+            (1) in the subtitle heading, by inserting ``All-Hazards'' 
+        before ``Emergency Preparedness'';
+            (2) by redesignating section 2811 <<NOTE: 42 USC 300hh-
+        11.>> as section 2812;
+
+[[Page 120 STAT. 2833]]
+
+            (3) by inserting after the subtitle heading the following 
+        new section:
+
+``SEC. 2811. <<NOTE: 42 USC 300hh-10.>> COORDINATION OF PREPAREDNESS FOR 
+            AND RESPONSE TO ALL-HAZARDS PUBLIC HEALTH EMERGENCIES.
+
+    ``(a) <<NOTE: Government organization.>> In General.--There is 
+established within the Department of Health and Human Services the 
+position of the Assistant Secretary for Preparedness and Response. 
+The <<NOTE: President.>> President, with the advice and consent of the 
+Senate, shall appoint an individual to serve in such position. Such 
+Assistant Secretary shall report to the Secretary.
+
+    ``(b) Duties.--Subject to the authority of the Secretary, the 
+Assistant Secretary for Preparedness and Response shall carry out the 
+following functions:
+            ``(1) Leadership.--Serve as the principal advisor to the 
+        Secretary on all matters related to Federal public health and 
+        medical preparedness and response for public health emergencies.
+            ``(2) Personnel.--Register, credential, organize, train, 
+        equip, and have the authority to deploy Federal public health 
+        and medical personnel under the authority of the Secretary, 
+        including the National Disaster Medical System, and coordinate 
+        such personnel with the Medical Reserve Corps and the Emergency 
+        System for Advance Registration of Volunteer Health 
+        Professionals.
+            ``(3) Countermeasures.--Oversee advanced research, 
+        development, and procurement of qualified countermeasures (as 
+        defined in section 319F-1) and qualified pandemic or epidemic 
+        products (as defined in section 319F-3).
+            ``(4) Coordination.--
+                    ``(A) Federal integration.--Coordinate with relevant 
+                Federal officials to ensure integration of Federal 
+                preparedness and response activities for public health 
+                emergencies.
+                    ``(B) State, local, and tribal integration.--
+                Coordinate with State, local, and tribal public health 
+                officials, the Emergency Management Assistance Compact, 
+                health care systems, and emergency medical service 
+                systems to ensure effective integration of Federal 
+                public health and medical assets during a public health 
+                emergency.
+                    ``(C) Emergency medical services.--Promote improved 
+                emergency medical services medical direction, system 
+                integration, research, and uniformity of data 
+                collection, treatment protocols, and policies with 
+                regard to public health emergencies.
+            ``(5) Logistics.--In coordination with the Secretary of 
+        Veterans Affairs, the Secretary of Homeland Security, the 
+        General Services Administration, and other public and private 
+        entities, provide logistical support for medical and public 
+        health aspects of Federal responses to public health 
+        emergencies.
+            ``(6) Leadership.--Provide leadership in international 
+        programs, initiatives, and policies that deal with public health 
+        and medical emergency preparedness and response.
+
+    ``(c) Functions.--The Assistant Secretary for Preparedness and 
+Response shall--
+            ``(1) have authority over and responsibility for--
+
+[[Page 120 STAT. 2834]]
+
+                    ``(A) the National Disaster Medical System (in 
+                accordance with section 301 of the Pandemic and All-
+                Hazards Preparedness Act); and
+                    ``(B) the Hospital Preparedness Cooperative 
+                Agreement Program pursuant to section 319C-2;
+            ``(2) exercise the responsibilities and authorities of the 
+        Secretary with respect to the coordination of--
+                    ``(A) the Medical Reserve Corps pursuant to section 
+                2813;
+                    ``(B) the Emergency System for Advance Registration 
+                of Volunteer Health Professionals pursuant to section 
+                319I;
+                    ``(C) the Strategic National Stockpile; and
+                    ``(D) the Cities Readiness Initiative; and
+            ``(3) assume other duties as determined appropriate by the 
+        Secretary.''; and
+            (4) <<NOTE: 42 USC 300hh-11.>> by striking ``Assistant 
+        Secretary for Public Health Emergency Preparedness'' each place 
+        it appears and inserting ``Assistant Secretary for Preparedness 
+        and Response''.
+
+    (b) <<NOTE: 42 USC 300hh-10 note.>> Transfer of Functions; 
+References.--
+            (1) Transfer of functions.--There shall be transferred to 
+        the Office of the Assistant Secretary for Preparedness and 
+        Response the functions, personnel, assets, and liabilities of 
+        the Assistant Secretary for Public Health Emergency Preparedness 
+        as in effect on the day before the date of enactment of this 
+        Act.
+            (2) References.--Any reference in any Federal law, Executive 
+        order, rule, regulation, or delegation of authority, or any 
+        document of or pertaining to the Assistant Secretary for Public 
+        Health Emergency Preparedness as in effect the day before the 
+        date of enactment of this Act, shall be deemed to be a reference 
+        to the Assistant Secretary for Preparedness and Response.
+
+    (c) Stockpile.--Section 319F-2(a)(1) of the Public Health Service 
+Act (42 U.S.C. 247d-6b(a)(1)) is amended by--
+            (1) inserting ``in collaboration with the Director of the 
+        Centers for Disease Control and Prevention, and'' after 
+        ``Secretary,''; and
+            (2) inserting at the end the following: ``The Secretary 
+        shall conduct an annual review (taking into account at-risk 
+        individuals) of the contents of the stockpile, including non-
+        pharmaceutical supplies, and make necessary additions or 
+        modifications to the contents based on such review.''.
+
+    (d) At-Risk Individuals.--Title XXVIII of the Public Health Service 
+Act (42 U.S.C. 300hh et seq.), as amended by section 303 of this Act, is 
+amended by inserting after section 2813 the following:
+
+``SEC. 2814. <<NOTE: 42 USC 300hh-16.>> AT-RISK INDIVIDUALS.
+
+    ``The Secretary, acting through such employee of the Department of 
+Health and Human Services as determined by the Secretary and designated 
+publicly (which may, at the discretion of the Secretary, involve the 
+appointment or designation of an individual as the Director of At-Risk 
+Individuals), shall--
+            ``(1) oversee the implementation of the National 
+        Preparedness goal of taking into account the public health and 
+        medical needs of at-risk individuals in the event of a public 
+        health emergency, as described in section 2802(b)(4);
+
+[[Page 120 STAT. 2835]]
+
+            ``(2) assist other Federal agencies responsible for planning 
+        for, responding to, and recovering from public health 
+        emergencies in addressing the needs of at-risk individuals;
+            ``(3) provide guidance to and ensure that recipients of 
+        State and local public health grants include preparedness and 
+        response strategies and capabilities that take into account the 
+        medical and public health needs of at-risk individuals in the 
+        event of a public health emergency, as described in section 
+        319C-1(b)(2)(A)(iii);
+            ``(4) ensure that the contents of the strategic national 
+        stockpile take into account at-risk populations as described in 
+        section 2811(b)(3)(B);
+            ``(5) oversee the progress of the Advisory Committee on At-
+        Risk Individuals and Public Health Emergencies established under 
+        section 319F(b)(2) and make recommendations with a focus on 
+        opportunities for action based on the work of the Committee;
+            ``(6) oversee curriculum development for the public health 
+        and medical response training program on medical management of 
+        casualties, as it concerns at-risk individuals as described in 
+        subparagraphs (A) through (C) of section 319F(a)(2);
+            ``(7) disseminate novel and best practices of outreach to 
+        and care of at-risk individuals before, during, and following 
+        public health emergencies; and
+            ``(8) <<NOTE: Deadline. Reports.>> not later than one year 
+        after the date of enactment of the Pandemic and All-Hazards 
+        Preparedness Act, prepare and submit to Congress a report 
+        describing the progress made on implementing the duties 
+        described in this section.''.
+
+SEC. 103. NATIONAL HEALTH SECURITY STRATEGY.
+
+    Title XXVIII of the Public Health Service Act (300hh-11 et seq.), as 
+amended by section 101, is amended by inserting after section 2801 the 
+following:
+
+``SEC. 2802. <<NOTE: 42 USC 300hh-1.>> NATIONAL HEALTH SECURITY 
+            STRATEGY.
+
+    ``(a) In General.--
+            ``(1) Preparedness and response regarding public health 
+        emergencies.--Beginning <<NOTE: Effective date. Deadline.>> in 
+        2009 and every four years thereafter, the Secretary shall 
+        prepare and submit to the relevant committees of Congress a 
+        coordinated strategy (to be known as the National Health 
+        Security Strategy) and any revisions thereof, and an 
+        accompanying implementation plan for public health emergency 
+        preparedness and response. Such National Health Security 
+        Strategy shall identify the process for achieving the 
+        preparedness goals described in subsection (b) and shall be 
+        consistent with the National Preparedness Goal, the National 
+        Incident Management System, and the National Response Plan 
+        developed pursuant to section 502(6) of the Homeland Security 
+        Act of 2002, or any successor plan.
+            ``(2) Evaluation of progress.--The National Health Security 
+        Strategy shall include an evaluation of the progress made by 
+        Federal, State, local, and tribal entities, based on the 
+        evidence-based benchmarks and objective standards that measure 
+        levels of preparedness established pursuant to section 319C-
+        1(g). Such evaluation shall include aggregate and State-specific 
+        breakdowns of obligated funding spent by major category (as 
+        defined by the Secretary) for activities funded through awards 
+        pursuant to sections 319C-1 and 319C-2.
+
+[[Page 120 STAT. 2836]]
+
+            ``(3) Public health workforce.--In 2009, the National Health 
+        Security Strategy shall include a national strategy for 
+        establishing an effective and prepared public health workforce, 
+        including defining the functions, capabilities, and gaps in such 
+        workforce, and identifying strategies to recruit, retain, and 
+        protect such workforce from workplace exposures during public 
+        health emergencies.
+
+    ``(b) Preparedness Goals.--The National Health Security Strategy 
+shall include provisions in furtherance of the following:
+            ``(1) Integration.--Integrating public health and public and 
+        private medical capabilities with other first responder systems, 
+        including through--
+                    ``(A) the periodic evaluation of Federal, State, 
+                local, and tribal preparedness and response capabilities 
+                through drills and exercises; and
+                    ``(B) integrating public and private sector public 
+                health and medical donations and volunteers.
+            ``(2) Public health.--Developing and sustaining Federal, 
+        State, local, and tribal essential public health security 
+        capabilities, including the following:
+                    ``(A) Disease situational awareness domestically and 
+                abroad, including detection, identification, and 
+                investigation.
+                    ``(B) Disease containment including capabilities for 
+                isolation, quarantine, social distancing, and 
+                decontamination.
+                    ``(C) Risk communication and public preparedness.
+                    ``(D) Rapid distribution and administration of 
+                medical countermeasures.
+            ``(3) Medical.--Increasing the preparedness, response 
+        capabilities, and surge capacity of hospitals, other health care 
+        facilities (including mental health facilities), and trauma care 
+        and emergency medical service systems, with respect to public 
+        health emergencies, which shall include developing plans for the 
+        following:
+                    ``(A) Strengthening public health emergency medical 
+                management and treatment capabilities.
+                    ``(B) Medical evacuation and fatality management.
+                    ``(C) Rapid distribution and administration of 
+                medical countermeasures.
+                    ``(D) Effective utilization of any available public 
+                and private mobile medical assets and integration of 
+                other Federal assets.
+                    ``(E) Protecting health care workers and health care 
+                first responders from workplace exposures during a 
+                public health emergency.
+            ``(4) At-risk individuals.--
+                    ``(A) Taking into account the public health and 
+                medical needs of at-risk individuals in the event of a 
+                public health emergency.
+                    ``(B) For purpose of this section and sections 319C-
+                1, 319F, and 319L, the term `at-risk individuals' means 
+                children, pregnant women, senior citizens and other 
+                individuals who have special needs in the event of a 
+                public health emergency, as determined by the Secretary.
+            ``(5) Coordination.--Minimizing duplication of, and ensuring 
+        coordination between, Federal, State, local, and tribal 
+        planning, preparedness, and response activities (including the
+
+[[Page 120 STAT. 2837]]
+
+        State Emergency Management Assistance Compact). Such planning 
+        shall be consistent with the National Response Plan, or any 
+        successor plan, and National Incident Management System and the 
+        National Preparedness Goal.
+            ``(6) Continuity of operations.--Maintaining vital public 
+        health and medical services to allow for optimal Federal, State, 
+        local, and tribal operations in the event of a public health 
+        emergency.''.
+
+              TITLE II--PUBLIC HEALTH SECURITY PREPAREDNESS
+
+SEC. 201. IMPROVING STATE AND LOCAL PUBLIC HEALTH SECURITY.
+
+    Section 319C-1 of the Public Health Service Act (42 U.S.C. 247d-3a) 
+is amended--
+            (1) by amending the heading to read as follows: ``improving 
+        state and local public health security.'';
+            (2) by striking subsections (a) through (i) and inserting 
+        the following:
+
+    ``(a) <<NOTE: Contracts.>> In General.--To enhance the security of 
+the United States with respect to public health emergencies, the 
+Secretary shall award cooperative agreements to eligible entities to 
+enable such entities to conduct the activities described in subsection 
+(d).
+
+    ``(b) Eligible Entities.--To be eligible to receive an award under 
+subsection (a), an entity shall--
+            ``(1)(A) be a State;
+            ``(B) be a political subdivision determined by the Secretary 
+        to be eligible for an award under this section (based on 
+        criteria described in subsection (i)(4)); or
+            ``(C) be a consortium of entities described in subparagraph 
+        (A); and
+            ``(2) prepare and submit to the Secretary an application at 
+        such time, and in such manner, and containing such information 
+        as the Secretary may require, including--
+                    ``(A) an All-Hazards Public Health Emergency 
+                Preparedness and Response Plan which shall include--
+                          ``(i) a description of the activities such 
+                      entity will carry out under the agreement to meet 
+                      the goals identified under section 2802;
+                          ``(ii) a pandemic influenza plan consistent 
+                      with the requirements of paragraphs (2) and (5) of 
+                      subsection (g);
+                          ``(iii) preparedness and response strategies 
+                      and capabilities that take into account the 
+                      medical and public health needs of at-risk 
+                      individuals in the event of a public health 
+                      emergency;
+                          ``(iv) a description of the mechanism the 
+                      entity will implement to utilize the Emergency 
+                      Management Assistance Compact or other mutual aid 
+                      agreements for medical and public health mutual 
+                      aid; and
+                          ``(v) a description of how the entity will 
+                      include the State Unit on Aging in public health 
+                      emergency preparedness;
+                    ``(B) an assurance that the entity will report to 
+                the Secretary on an annual basis (or more frequently as 
+                determined by the Secretary) on the evidence-based 
+                benchmarks
+
+[[Page 120 STAT. 2838]]
+
+                and objective standards established by the Secretary to 
+                evaluate the preparedness and response capabilities of 
+                such entity under subsection (g);
+                    ``(C) an assurance that the entity will conduct, on 
+                at least an annual basis, an exercise or drill that 
+                meets any criteria established by the Secretary to test 
+                the preparedness and response capabilities of such 
+                entity, and that the entity will report back to the 
+                Secretary within the application of the following year 
+                on the strengths and weaknesses identified through such 
+                exercise or drill, and corrective actions taken to 
+                address material weaknesses;
+                    ``(D) an assurance that the entity will provide to 
+                the Secretary the data described under section 
+                319D(d)(3) as determined feasible by the Secretary;
+                    ``(E) an assurance that the entity will conduct 
+                activities to inform and educate the hospitals within 
+                the jurisdiction of such entity on the role of such 
+                hospitals in the plan required under subparagraph (A);
+                    ``(F) an assurance that the entity, with respect to 
+                the plan described under subparagraph (A), has developed 
+                and will implement an accountability system to ensure 
+                that such entity make satisfactory annual improvement 
+                and describe such system in the plan under subparagraph 
+                (A);
+                    ``(G) a description of the means by which to obtain 
+                public comment and input on the plan described in 
+                subparagraph (A) and on the implementation of such plan, 
+                that shall include an advisory committee or other 
+                similar mechanism for obtaining comment from the public 
+                and from other State, local, and tribal stakeholders; 
+                and
+                    ``(H) as relevant, a description of the process used 
+                by the entity to consult with local departments of 
+                public health to reach consensus, approval, or 
+                concurrence on the relative distribution of amounts 
+                received under this section.
+
+    ``(c) <<NOTE: Effective date.>> Limitation.--Beginning in fiscal 
+year 2009, the Secretary may not award a cooperative agreement to a 
+State unless such State is a participant in the Emergency System for 
+Advance Registration of Volunteer Health Professionals described in 
+section 319I.
+
+    ``(d) Use of Funds.--
+            ``(1) In general.--An award under subsection (a) shall be 
+        expended for activities to achieve the preparedness goals 
+        described under paragraphs (1), (2), (4), (5), and (6) of 
+        section 2802(b).
+            ``(2) Effect of section.--Nothing in this subsection may be 
+        construed as establishing new regulatory authority or as 
+        modifying any existing regulatory authority.
+
+    ``(e) Coordination With Local Response Capabilities.--An entity 
+shall, to the extent practicable, ensure that activities carried out 
+under an award under subsection (a) are coordinated with activities of 
+relevant Metropolitan Medical Response Systems, local public health 
+departments, the Cities Readiness Initiative, and local emergency plans.
+    ``(f) Consultation With Homeland Security.--In making awards under 
+subsection (a), the Secretary shall consult with the Secretary of 
+Homeland Security to--
+
+[[Page 120 STAT. 2839]]
+
+            ``(1) ensure maximum coordination of public health and 
+        medical preparedness and response activities with the 
+        Metropolitan Medical Response System, and other relevant 
+        activities;
+            ``(2) minimize duplicative funding of programs and 
+        activities;
+            ``(3) analyze activities, including exercises and drills, 
+        conducted under this section to develop recommendations and 
+        guidance on best practices for such activities; and
+            ``(4) <<NOTE: Website.>> disseminate such recommendations 
+        and guidance, including through expanding existing lessons 
+        learned information systems to create a single Internet-based 
+        point of access for sharing and distributing medical and public 
+        health best practices and lessons learned from drills, 
+        exercises, disasters, and other emergencies.
+
+    ``(g) Achievement of Measurable Evidence-Based Benchmarks and 
+Objective Standards.--
+            ``(1) <<NOTE: Deadline.>> In general.--Not later than 180 
+        days after the date of enactment of the Pandemic and All-Hazards 
+        Preparedness Act, the Secretary shall develop or where 
+        appropriate adopt, and require the application of, measurable 
+        evidence-based benchmarks and objective standards that measure 
+        levels of preparedness with respect to the activities described 
+        in this section and with respect to activities described in 
+        section 319C-2. In developing such benchmarks and standards, the 
+        Secretary shall consult with and seek comments from State, 
+        local, and tribal officials and private entities, as 
+        appropriate. Where appropriate, the Secretary shall incorporate 
+        existing objective standards. Such benchmarks and standards 
+        shall--
+                    ``(A) include outcome goals representing operational 
+                achievement of the National Preparedness Goals developed 
+                under section 2802(b); and
+                    ``(B) at a minimum, require entities to--
+                          ``(i) measure progress toward achieving the 
+                      outcome goals; and
+                          ``(ii) at least annually, test, exercise, and 
+                      rigorously evaluate the public health and medical 
+                      emergency preparedness and response capabilities 
+                      of the entity, and report to the Secretary on such 
+                      measured and tested capabilities and measured and 
+                      tested progress toward achieving outcome goals, 
+                      based on criteria established by the Secretary.
+            ``(2) Criteria for pandemic influenza plans.--
+                    ``(A) <<NOTE: Deadline.>> In general.--Not later 
+                than 180 days after the date of enactment of the 
+                Pandemic and All-Hazards Preparedness Act, the Secretary 
+                shall develop and disseminate to the chief executive 
+                officer of each State criteria for an effective State 
+                plan for responding to pandemic influenza.
+                    ``(B) Rule of construction.--Nothing in this section 
+                shall be construed to require the duplication of Federal 
+                efforts with respect to the development of criteria or 
+                standards, without regard to whether such efforts were 
+                carried out prior to or after the date of enactment of 
+                this section.
+            ``(3) Technical assistance.--The Secretary shall, as 
+        determined appropriate by the Secretary, provide to a State, 
+        upon request, technical assistance in meeting the requirements 
+        of this section, including the provision of advice by experts in
+
+[[Page 120 STAT. 2840]]
+
+        the development of high-quality assessments, the setting of 
+        State objectives and assessment methods, the development of 
+        measures of satisfactory annual improvement that are valid and 
+        reliable, and other relevant areas.
+            ``(4) Notification of failures.--The Secretary shall develop 
+        and implement a process to notify entities that are determined 
+        by the Secretary to have failed to meet the requirements of 
+        paragraph (1) or (2). Such process shall provide such entities 
+        with the opportunity to correct such noncompliance. An entity 
+        that fails to correct such noncompliance shall be subject to 
+        paragraph (5).
+            ``(5) Withholding of amounts from entities that fail to 
+        achieve benchmarks or submit influenza <<NOTE: Effective 
+        date. Deadline.>> plan.--Beginning with fiscal year 2009, and in 
+        each succeeding fiscal year, the Secretary shall--
+                    ``(A) withhold from each entity that has failed 
+                substantially to meet the benchmarks and performance 
+                measures described in paragraph (1) for the immediately 
+                preceding fiscal year (beginning with fiscal year 2008), 
+                pursuant to the process developed under paragraph (4), 
+                the amount described in paragraph (6); and
+                    ``(B) withhold from each entity that has failed to 
+                submit to the Secretary a plan for responding to 
+                pandemic influenza that meets the criteria developed 
+                under paragraph (2), the amount described in paragraph 
+                (6).
+            ``(6) Amounts described.--
+                    ``(A) In general.--The amounts described in this 
+                paragraph are the following amounts that are payable to 
+                an entity for activities described in section 319C-1 or 
+                319C-2:
+                          ``(i) For the fiscal year immediately 
+                      following a fiscal year in which an entity 
+                      experienced a failure described in subparagraph 
+                      (A) or (B) of paragraph (5) by the entity, an 
+                      amount equal to 10 percent of the amount the 
+                      entity was eligible to receive for such fiscal 
+                      year.
+                          ``(ii) For the fiscal year immediately 
+                      following two consecutive fiscal years in which an 
+                      entity experienced such a failure, an amount equal 
+                      to 15 percent of the amount the entity was 
+                      eligible to receive for such fiscal year, taking 
+                      into account the withholding of funds for the 
+                      immediately preceding fiscal year under clause 
+                      (i).
+                          ``(iii) For the fiscal year immediately 
+                      following three consecutive fiscal years in which 
+                      an entity experienced such a failure, an amount 
+                      equal to 20 percent of the amount the entity was 
+                      eligible to receive for such fiscal year, taking 
+                      into account the withholding of funds for the 
+                      immediately preceding fiscal years under clauses 
+                      (i) and (ii).
+                          ``(iv) For the fiscal year immediately 
+                      following four consecutive fiscal years in which 
+                      an entity experienced such a failure, an amount 
+                      equal to 25 percent of the amount the entity was 
+                      eligible to receive for such a fiscal year, taking 
+                      into account the withholding of funds for the 
+                      immediately preceding fiscal years under clauses 
+                      (i), (ii), and (iii).
+
+[[Page 120 STAT. 2841]]
+
+                    ``(B) Separate accounting.--Each failure described 
+                in subparagraph (A) or (B) of paragraph (5) shall be 
+                treated as a separate failure for purposes of 
+                calculating amounts withheld under subparagraph (A).
+            ``(7) Reallocation of amounts withheld.--
+                    ``(A) In general.--The Secretary shall make amounts 
+                withheld under paragraph (6) available for making awards 
+                under section 319C-2 to entities described in subsection 
+                (b)(1) of such section.
+                    ``(B) Preference in reallocation.--In making awards 
+                under section 319C-2 with amounts described in 
+                subparagraph (A), the Secretary shall give preference to 
+                eligible entities (as described in section 319C-2(b)(1)) 
+                that are located in whole or in part in States from 
+                which amounts have been withheld under paragraph (6).
+            ``(8) Waive or reduce withholding.--The Secretary may waive 
+        or reduce the withholding described in paragraph (6), for a 
+        single entity or for all entities in a fiscal year, if the 
+        Secretary determines that mitigating conditions exist that 
+        justify the waiver or reduction.
+
+    ``(h) Grants for Real-Time Disease Detection Improvement.--
+            ``(1) In general.--The Secretary may award grants to 
+        eligible entities to carry out projects described under 
+        paragraph (4).
+            ``(2) Eligible entity.--For purposes of this section, the 
+        term `eligible entity' means an entity that is--
+                    ``(A)(i) a hospital, clinical laboratory, 
+                university; or
+                    ``(ii) a poison control center or professional 
+                organization in the field of poison control; and
+                    ``(B) a participant in the network established under 
+                subsection 319D(d).
+            ``(3) Application.--Each eligible entity desiring a grant 
+        under this subsection shall submit to the Secretary an 
+        application at such time, in such manner, and containing such 
+        information as the Secretary may require.
+            ``(4) Use of funds.--
+                    ``(A) In general.--An eligible entity described in 
+                paragraph (2)(A)(i) that receives a grant under this 
+                subsection shall use the funds awarded pursuant to such 
+                grant to carry out a pilot demonstration project to 
+                purchase and implement the use of advanced diagnostic 
+                medical equipment to analyze real-time clinical 
+                specimens for pathogens of public health or bioterrorism 
+                significance and report any results from such project to 
+                State, local, and tribal public health entities and the 
+                network established under section 319D(d).
+                    ``(B) Other entities.--An eligible entity described 
+                in paragraph (2)(A)(ii) that receives a grant under this 
+                section shall use the funds awarded pursuant to such 
+                grant to--
+                          ``(i) improve the early detection, 
+                      surveillance, and investigative capabilities of 
+                      poison control centers for chemical, biological, 
+                      radiological, and nuclear events by training 
+                      poison information personnel to improve
+
+[[Page 120 STAT. 2842]]
+
+                      the accuracy of surveillance data, improving the 
+                      definitions used by the poison control centers for 
+                      surveillance, and enhancing timely and efficient 
+                      investigation of data anomalies;
+                          ``(ii) improve the capabilities of poison 
+                      control centers to provide information to health 
+                      care providers and the public with regard to 
+                      chemical, biological, radiological, or nuclear 
+                      threats or exposures, in consultation with the 
+                      appropriate State, local, and tribal public health 
+                      entities; or
+                          ``(iii) provide surge capacity in the event of 
+                      a chemical, biological, radiological, or nuclear 
+                      event through the establishment of alternative 
+                      poison control center worksites and the training 
+                      of nontraditional personnel.'';
+            (3) by redesignating subsection (j) as subsection (i);
+            (4) in subsection (i), as so redesignated--
+                    (A) by striking paragraphs (1) through (3)(A) and 
+                inserting the following:
+            ``(1) Authorization of appropriations.--
+                    ``(A) In general.--For the purpose of carrying out 
+                this section, there is authorized to be appropriated 
+                $824,000,000 for fiscal year 2007, of which $35,000,000 
+                shall be used to carry out subsection (h), for awards 
+                pursuant to paragraph (3) (subject to the authority of 
+                the Secretary to make awards pursuant to paragraphs (4) 
+                and (5)), and such sums as may be necessary for each of 
+                fiscal years 2008 through 2011.
+                    ``(B) Coordination.--There are authorized to be 
+                appropriated, $10,000,000 for fiscal year 2007 to carry 
+                out subsection (f)(4) of this section and section 2814.
+                    ``(C) Requirement for state matching funds.--
+                Beginning in <<NOTE: Effective date.>> fiscal year 2009, 
+                in the case of any State or consortium of two or more 
+                States, the Secretary may not award a cooperative 
+                agreement under this section unless the State or 
+                consortium of States agree that, with respect to the 
+                amount of the cooperative agreement awarded by the 
+                Secretary, the State or consortium of States will make 
+                available (directly or through donations from public or 
+                private entities) non-Federal contributions in an amount 
+                equal to--
+                          ``(i) for the first fiscal year of the 
+                      cooperative agreement, not less than 5 percent of 
+                      such costs ($1 for each $20 of Federal funds 
+                      provided in the cooperative agreement); and
+                          ``(ii) for any second fiscal year of the 
+                      cooperative agreement, and for any subsequent 
+                      fiscal year of such cooperative agreement, not 
+                      less than 10 percent of such costs ($1 for each 
+                      $10 of Federal funds provided in the cooperative 
+                      agreement).
+                    ``(D) Determination of amount of non-federal 
+                contributions.--As determined by the Secretary, non-
+                Federal contributions required in subparagraph (C) may 
+                be provided directly or through donations from public or 
+                private entities and may be in cash or in kind, fairly 
+                evaluated, including plant, equipment or services. 
+                Amounts provided
+
+[[Page 120 STAT. 2843]]
+
+                by the Federal government, or services assisted or 
+                subsidized to any significant extent by the Federal 
+                government, may not be included in determining the 
+                amount of such non-Federal contributions.
+            ``(2) Maintaining state funding.--
+                    ``(A) In general.--An entity that receives an award 
+                under this section shall maintain expenditures for 
+                public health security at a level that is not less than 
+                the average level of such expenditures maintained by the 
+                entity for the preceding 2 year period.
+                    ``(B) Rule of construction.--Nothing in this section 
+                shall be construed to prohibit the use of awards under 
+                this section to pay salary and related expenses of 
+                public health and other professionals employed by State, 
+                local, or tribal public health agencies who are carrying 
+                out activities supported by such awards (regardless of 
+                whether the primary assignment of such personnel is to 
+                carry out such activities).
+            ``(3) Determination of amount.--
+                    ``(A) <<NOTE: Contracts.>> In general.--The 
+                Secretary shall award cooperative agreements under 
+                subsection (a) to each State or consortium of 2 or more 
+                States that submits to the Secretary an application that 
+                meets the criteria of the Secretary for the receipt of 
+                such an award and that meets other implementation 
+                conditions established by the Secretary for such 
+                awards.'';
+                    (B) in paragraph (4)(A)--
+                          (i) by striking ``2003'' and inserting 
+                      ``2007''; and
+                          (ii) by striking ``(A)(i)(I)'';
+                    (C) in paragraph (4)(D), by striking ``2002'' and 
+                inserting ``2006'';
+                    (D) in paragraph (5)--
+                          (i) by striking ``2003'' and inserting 
+                      ``2007''; and
+                          (ii) by striking ``(A)(i)(I)''; and
+                    (E) by striking paragraph (6) and inserting the 
+                following:
+            ``(6) Funding of local entities.--The Secretary shall, in 
+        making awards under this section, ensure that with respect to 
+        the cooperative agreement awarded, the entity make available 
+        appropriate portions of such award to political subdivisions and 
+        local departments of public health through a process involving 
+        the consensus, approval or concurrence with such local 
+        entities.''; and
+            (5) by adding at the end the following:
+
+    ``(j) Administrative and Fiscal Responsibility.--
+            ``(1) Annual reporting requirements.--Each entity shall 
+        prepare and submit to the Secretary annual reports on its 
+        activities under this section and section 319C-2. Each such 
+        report shall be prepared by, or in consultation with, the health 
+        department. In order to properly evaluate and compare the 
+        performance of different entities assisted under this section 
+        and section 319C-2 and to assure the proper expenditure of funds 
+        under this section and section 319C-2, such reports shall be in 
+        such standardized form and contain such information as the 
+        Secretary determines and describes within 180 days of the date 
+        of enactment of the Pandemic and All-Hazards
+
+[[Page 120 STAT. 2844]]
+
+        Preparedness Act (after consultation with the States) to be 
+        necessary to--
+                    ``(A) secure an accurate description of those 
+                activities;
+                    ``(B) secure a complete record of the purposes for 
+                which funds were spent, and of the recipients of such 
+                funds;
+                    ``(C) describe the extent to which the entity has 
+                met the goals and objectives it set forth under this 
+                section or section 319C-2;
+                    ``(D) determine the extent to which funds were 
+                expended consistent with the entity's application 
+                transmitted under this section or section 319C-2; and
+                    ``(E) <<NOTE: Publication. Website.>> publish such 
+                information on a Federal Internet website consistent 
+                with subsection (k).
+            ``(2) Audits; implementation.--
+                    ``(A) In general.--Each entity receiving funds under 
+                this section or section 319C-2 shall, not less often 
+                than once every 2 years, audit its expenditures from 
+                amounts received under this section or section 319C-2. 
+                Such audits shall be conducted by an entity independent 
+                of the agency administering a program funded under this 
+                section or section 319C-2 in accordance with the 
+                Comptroller General's standards for auditing 
+                governmental organizations, programs, activities, and 
+                functions and generally accepted auditing 
+                standards. <<NOTE: Deadline.>> Within 30 days following 
+                the completion of each audit report, the entity shall 
+                submit a copy of that audit report to the Secretary.
+                    ``(B) Repayment.--Each entity shall repay to the 
+                United States amounts found by the Secretary, after 
+                notice and opportunity for a hearing to the entity, not 
+                to have been expended in accordance with this section or 
+                section 319C-2 and, if such repayment is not made, the 
+                Secretary may offset such amounts against the amount of 
+                any allotment to which the entity is or may become 
+                entitled under this section or section 319C-2 or may 
+                otherwise recover such amounts.
+                    ``(C) Withholding of payment.--The Secretary may, 
+                after notice and opportunity for a hearing, withhold 
+                payment of funds to any entity which is not using its 
+                allotment under this section or section 319C-2 in 
+                accordance with such section. The Secretary may withhold 
+                such funds until the Secretary finds that the reason for 
+                the withholding has been removed and there is reasonable 
+                assurance that it will not recur.
+            ``(3) Maximum carryover amount.--
+                    ``(A) In general.--For each fiscal year, the 
+                Secretary, in consultation with the States and political 
+                subdivisions, shall determine the maximum percentage 
+                amount of an award under this section that an entity may 
+                carryover to the succeeding fiscal year.
+                    ``(B) Amount exceeded.--For each fiscal year, if the 
+                percentage amount of an award under this section 
+                unexpended by an entity exceeds the maximum percentage 
+                permitted by the Secretary under subparagraph (A), the 
+                entity shall return to the Secretary the portion of the 
+                unexpended amount that exceeds the maximum amount 
+                permitted to be carried over by the Secretary.
+
+[[Page 120 STAT. 2845]]
+
+                    ``(C) Action by secretary.--The Secretary shall make 
+                amounts returned to the Secretary under subparagraph (B) 
+                available for awards under section 319C-2(b)(1). In 
+                making awards under section 319C-2(b)(1) with amounts 
+                collected under this paragraph the Secretary shall give 
+                preference to entities that are located in whole or in 
+                part in States from which amounts have been returned 
+                under subparagraph (B).
+                    ``(D) Waiver.--An entity may apply to the Secretary 
+                for a waiver of the maximum percentage amount under 
+                subparagraph (A). Such an application for a waiver shall 
+                include an explanation why such requirement should not 
+                apply to the entity and the steps taken by such entity 
+                to ensure that all funds under an award under this 
+                section will be expended appropriately.
+                    ``(E) Waive or reduce withholding.--The Secretary 
+                may waive the application of subparagraph (B), or reduce 
+                the amount determined under such subparagraph, for a 
+                single entity pursuant to subparagraph (D) or for all 
+                entities in a fiscal year, if the Secretary determines 
+                that mitigating conditions exist that justify the waiver 
+                or reduction.
+
+    ``(k) <<NOTE: Website.>> Compilation and Availability of Data.--The 
+Secretary shall compile the data submitted under this section and make 
+such data available in a timely manner on an appropriate Internet 
+website in a format that is useful to the public and to other entities 
+and that provides information on what activities are best contributing 
+to the achievement of the outcome goals described in subsection (g).''.
+
+SEC. 202. USING INFORMATION TECHNOLOGY TO IMPROVE SITUATIONAL AWARENESS 
+            IN PUBLIC HEALTH EMERGENCIES.
+
+    Section 319D of the Public Health Service Act (42 U.S.C. 247d-4) is 
+amended--
+            (1) in subsection (a)(1), by inserting ``domestically and 
+        abroad'' after ``public health threats''; and
+            (2) by adding at the end the following:
+
+    ``(d) Public Health Situational Awareness.--
+            ``(1) <<NOTE: Deadline.>> In general.--Not later than 2 
+        years after the date of enactment of the Pandemic and All-
+        Hazards Preparedness Act, the Secretary, in collaboration with 
+        State, local, and tribal public health officials, shall 
+        establish a near real-time electronic nationwide public health 
+        situational awareness capability through an interoperable 
+        network of systems to share data and information to enhance 
+        early detection of rapid response to, and management of, 
+        potentially catastrophic infectious disease outbreaks and other 
+        public health emergencies that originate domestically or abroad. 
+        Such network shall be built on existing State situational 
+        awareness systems or enhanced systems that enable such 
+        connectivity.
+            ``(2) <<NOTE: Deadline.>> Strategic plan.--Not later than 
+        180 days after the date of enactment the Pandemic and All-
+        Hazards Preparedness Act, the Secretary shall submit to the 
+        appropriate committees of Congress, a strategic plan that 
+        demonstrates the steps the Secretary will undertake to develop, 
+        implement, and evaluate the network described in paragraph (1), 
+        utilizing the elements described in paragraph (3).
+
+[[Page 120 STAT. 2846]]
+
+            ``(3) Elements.--The network described in paragraph (1) 
+        shall include data and information transmitted in a standardized 
+        format from--
+                    ``(A) State, local, and tribal public health 
+                entities, including public health laboratories;
+                    ``(B) Federal health agencies;
+                    ``(C) zoonotic disease monitoring systems;
+                    ``(D) public and private sector health care 
+                entities, hospitals, pharmacies, poison control centers 
+                or professional organizations in the field of poison 
+                control, and clinical laboratories, to the extent 
+                practicable and provided that such data are voluntarily 
+                provided simultaneously to the Secretary and appropriate 
+                State, local, and tribal public health agencies; and
+                    ``(E) such other sources as the Secretary may deem 
+                appropriate.
+            ``(4) Rule of construction.--Paragraph (3) shall not be 
+        construed as requiring separate reporting of data and 
+        information from each source listed.
+            ``(5) Required activities.--In establishing and operating 
+        the network described in paragraph (1), the Secretary shall--
+                    ``(A) utilize applicable interoperability standards 
+                as determined by the Secretary through a joint public 
+                and private sector process;
+                    ``(B) define minimal data elements for such network;
+                    ``(C) in collaboration with State, local, and tribal 
+                public health officials, integrate and build upon 
+                existing State, local, and tribal capabilities, ensuring 
+                simultaneous sharing of data, information, and analyses 
+                from the network described in paragraph (1) with State, 
+                local, and tribal public health agencies; and
+                    ``(D) in collaboration with State, local, and tribal 
+                public health officials, develop procedures and 
+                standards for the collection, analysis, and 
+                interpretation of data that States, regions, or other 
+                entities collect and report to the network described in 
+                paragraph (1).
+
+    ``(e) State and Regional Systems To Enhance Situational Awareness in 
+Public Health Emergencies.--
+            ``(1) In general.--To implement the network described in 
+        subsection (d), the Secretary may award grants to States or 
+        consortia of States to enhance the ability of such States or 
+        consortia of States to establish or operate a coordinated public 
+        health situational awareness system for regional or Statewide 
+        early detection of, rapid response to, and management of 
+        potentially catastrophic infectious disease outbreaks and public 
+        health emergencies, in collaboration with appropriate public 
+        health agencies, sentinel hospitals, clinical laboratories, 
+        pharmacies, poison control centers, other health care 
+        organizations, and animal health organizations within such 
+        States.
+            ``(2) <<NOTE: Reports.>> Eligibility.--To be eligible to 
+        receive a grant under paragraph (1), the State or consortium of 
+        States shall submit to the Secretary an application at such 
+        time, in such manner, and containing such information as the 
+        Secretary may require, including an assurance that the State or 
+        consortium of States will submit to the Secretary--
+
+[[Page 120 STAT. 2847]]
+
+                    ``(A) reports of such data, information, and metrics 
+                as the Secretary may require;
+                    ``(B) a report on the effectiveness of the systems 
+                funded under the grant; and
+                    ``(C) a description of the manner in which grant 
+                funds will be used to enhance the timelines and 
+                comprehensiveness of efforts to detect, respond to, and 
+                manage potentially catastrophic infectious disease 
+                outbreaks and public health emergencies.
+            ``(3) Use of funds.--A State or consortium of States that 
+        receives an award under this subsection--
+                    ``(A) shall establish, enhance, or operate a 
+                coordinated public health situational awareness system 
+                for regional or Statewide early detection of, rapid 
+                response to, and management of potentially catastrophic 
+                infectious disease outbreaks and public health 
+                emergencies;
+                    ``(B) may award grants or contracts to entities 
+                described in paragraph (1) within or serving such State 
+                to assist such entities in improving the operation of 
+                information technology systems, facilitating the secure 
+                exchange of data and information, and training personnel 
+                to enhance the operation of the system described in 
+                subparagraph (A); and
+                    ``(C) may conduct a pilot program for the 
+                development of multi-State telehealth network test beds 
+                that build on, enhance, and securely link existing State 
+                and local telehealth programs to prepare for, monitor, 
+                respond to, and manage the events of public health 
+                emergencies, facilitate coordination and communication 
+                among medical, public health, and emergency response 
+                agencies, and provide medical services through 
+                telehealth initiatives within the States that are 
+                involved in such a multi-State telehealth network test 
+                bed.
+            ``(4) Limitation.--Information technology systems acquired 
+        or implemented using grants awarded under this section must be 
+        compliant with--
+                    ``(A) interoperability and other technological 
+                standards, as determined by the Secretary; and
+                    ``(B) data collection and reporting requirements for 
+                the network described in subsection (d).
+            ``(5) <<NOTE: Deadline. Reports.>> Independent evaluation.--
+        Not later than 4 years after the date of enactment of the 
+        Pandemic and All-Hazards Preparedness Act, the Government 
+        Accountability Office shall conduct an independent evaluation, 
+        and submit to the Secretary and the appropriate committees of 
+        Congress a report concerning the activities conducted under this 
+        subsection and subsection (d).
+
+    ``(f) Telehealth Enhancements for Emergency Response.--
+            ``(1) Evaluation.--The Secretary, in consultation with the 
+        Federal Communications Commission and other relevant Federal 
+        agencies, shall--
+                    ``(A) conduct an inventory of telehealth initiatives 
+                in existence on the date of enactment of the Pandemic 
+                and All-Hazards Preparedness Act, including--
+                          ``(i) the specific location of network 
+                      components;
+                          ``(ii) the medical, technological, and 
+                      communications capabilities of such components;
+
+[[Page 120 STAT. 2848]]
+
+                          ``(iii) the functionality of such components; 
+                      and
+                          ``(iv) the capacity and ability of such 
+                      components to handle increased volume during the 
+                      response to a public health emergency;
+                    ``(B) identify methods to expand and interconnect 
+                the regional health information networks funded by the 
+                Secretary, the State and regional broadband networks 
+                funded through the rural health care support mechanism 
+                pilot program funded by the Federal Communications 
+                Commission, and other telehealth networks;
+                    ``(C) evaluate ways to prepare for, monitor, respond 
+                rapidly to, or manage the events of, a public health 
+                emergency through the enhanced use of telehealth 
+                technologies, including mechanisms for payment or 
+                reimbursement for use of such technologies and personnel 
+                during public health emergencies;
+                    ``(D) identify methods for reducing legal barriers 
+                that deter health care professionals from providing 
+                telemedicine services, such as by utilizing State 
+                emergency health care professional credentialing 
+                verification systems, encouraging States to establish 
+                and implement mechanisms to improve interstate medical 
+                licensure cooperation, facilitating the exchange of 
+                information among States regarding investigations and 
+                adverse actions, and encouraging States to waive the 
+                application of licensing requirements during a public 
+                health emergency;
+                    ``(E) evaluate ways to integrate the practice of 
+                telemedicine within the National Disaster Medical 
+                System; and
+                    ``(F) promote greater coordination among existing 
+                Federal interagency telemedicine and health information 
+                technology initiatives.
+            ``(2) Report.--Not later than 12 months after the date of 
+        enactment of the Pandemic and All-Hazards Preparedness Act, the 
+        Secretary shall prepare and submit a report to the Committee on 
+        Health, Education, Labor, and Pensions of the Senate and the 
+        Committee on Energy and Commerce of the House of Representatives 
+        regarding the findings and recommendations pursuant to 
+        subparagraphs (A) through (F) of paragraph (1).
+
+    ``(g) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section, such sums as may be necessary in 
+each of fiscal years 2007 through 2011.''.
+
+SEC. 203. PUBLIC HEALTH WORKFORCE ENHANCEMENTS.
+
+    (a) Demonstration Project.--Subpart III of part D of title III of 
+the Public Health Service Act (42 U.S.C. 254l) is amended by adding at 
+the end the following:
+
+``SEC. 338M. <<NOTE: 42 USC 254u.>> PUBLIC HEALTH DEPARTMENTS.
+
+    ``(a) In General.--To the extent that funds are appropriated under 
+subsection (e), the Secretary shall establish a demonstration project to 
+provide for the participation of individuals who are eligible for the 
+Loan Repayment Program described in section 338B and who agree to 
+complete their service obligation in a State health department that 
+provides a significant amount of service to health professional shortage 
+areas or areas at risk of a public health emergency, as determined by 
+the Secretary, or in a local or tribal
+
+[[Page 120 STAT. 2849]]
+
+health department that serves a health professional shortage area or an 
+area at risk of a public health emergency.
+    ``(b) Procedure.--To be eligible to receive assistance under 
+subsection (a), with respect to the program described in section 338B, 
+an individual shall--
+            ``(1) comply with all rules and requirements described in 
+        such section (other than section 338B(f)(1)(B)(iv)); and
+            ``(2) agree to serve for a time period equal to 2 years, or 
+        such longer period as the individual may agree to, in a State, 
+        local, or tribal health department, described in subsection (a).
+
+    ``(c) Designations.--The demonstration project described in 
+subsection (a), and any healthcare providers who are selected to 
+participate in such project, shall not be considered by the Secretary in 
+the designation of health professional shortage areas under section 332 
+during fiscal years 2007 through 2010.
+    ``(d) Report.--Not later than 3 years after the date of enactment of 
+this section, the Secretary shall submit a report to the relevant 
+committees of Congress that evaluates the participation of individuals 
+in the demonstration project under subsection (a), the impact of such 
+participation on State, local, and tribal health departments, and the 
+benefit and feasibility of permanently allowing such placements in the 
+Loan Repayment Program.
+    ``(e) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section, such sums as may be necessary 
+for each of fiscal years 2007 through 2010.''.
+    (b) Grants for Loan Repayment Program.--Section 338I of the Public 
+Health Service Act (42 U.S.C. 254q-1) is amended by adding at the end 
+the following:
+    ``(j) Public Health Loan Repayment.--
+            ``(1) In general.--The Secretary may award grants to States 
+        for the purpose of assisting such States in operating loan 
+        repayment programs under which such States enter into contracts 
+        to repay all or part of the eligible loans borrowed by, or on 
+        behalf of, individuals who agree to serve in State, local, or 
+        tribal health departments that serve health professional 
+        shortage areas or other areas at risk of a public health 
+        emergency, as designated by the Secretary.
+            ``(2) Loans eligible for repayment.--To be eligible for 
+        repayment under this subsection, a loan shall be a loan made, 
+        insured, or guaranteed by the Federal Government that is 
+        borrowed by, or on behalf of, an individual to pay the cost of 
+        attendance for a program of education leading to a degree 
+        appropriate for serving in a State, local, or tribal health 
+        department as determined by the Secretary and the chief 
+        executive officer of the State in which the grant is 
+        administered, at an institution of higher education (as defined 
+        in section 102 of the Higher Education Act of 1965), including 
+        principal, interest, and related expenses on such loan.
+            ``(3) Applicability of existing requirements.--With respect 
+        to awards made under paragraph (1)--
+                    ``(A) the requirements of subsections (b), (f), and 
+                (g) shall apply to such awards; and
+                    ``(B) the requirements of subsection (c) shall apply 
+                to such awards except that with respect to paragraph (1) 
+                of such subsection, the State involved may assign an 
+                individual only to public and nonprofit private entities 
+                that
+
+[[Page 120 STAT. 2850]]
+
+                serve health professional shortage areas or areas at 
+                risk of a public health emergency, as determined by the 
+                Secretary.
+            ``(4) Authorization of appropriations.--There are authorized 
+        to be appropriated to carry out this subsection, such sums as 
+        may be necessary for each of fiscal years 2007 through 2010.''.
+
+SEC. 204. VACCINE TRACKING AND DISTRIBUTION.
+
+    (a) In General.--Section 319A of the Public Health Service Act (42 
+U.S.C. 247d-1) is amended to read as follows:
+
+``SEC. 319A. VACCINE TRACKING AND DISTRIBUTION.
+
+    ``(a) Tracking.--The Secretary, together with relevant 
+manufacturers, wholesalers, and distributors as may agree to cooperate, 
+may track the initial distribution of federally purchased influenza 
+vaccine in an influenza pandemic. Such tracking information shall be 
+used to inform Federal, State, local, and tribal decision makers during 
+an influenza pandemic.
+    ``(b) Distribution.--The Secretary shall promote communication 
+between State, local, and tribal public health officials and such 
+manufacturers, wholesalers, and distributors as agree to participate, 
+regarding the effective distribution of seasonal influenza vaccine. Such 
+communication shall include estimates of high priority populations, as 
+determined by the Secretary, in State, local, and tribal jurisdictions 
+in order to inform Federal, State, local, and tribal decision makers 
+during vaccine shortages and supply disruptions.
+    ``(c) Confidentiality.--The information submitted to the Secretary 
+or its contractors, if any, under this section or under any other 
+section of this Act related to vaccine distribution information shall 
+remain confidential in accordance with the exception from the public 
+disclosure of trade secrets, commercial or financial information, and 
+information obtained from an individual that is privileged and 
+confidential, as provided for in section 552(b)(4) of title 5, United 
+States Code, and subject to the penalties and exceptions under sections 
+1832 and 1833 of title 18, United States Code, relating to the 
+protection and theft of trade secrets, and subject to privacy 
+protections that are consistent with the regulations promulgated under 
+section 264(c) of the Health Insurance Portability and Accountability 
+Act of 1996. None of such information provided by a manufacturer, 
+wholesaler, or distributor shall be disclosed without its consent to 
+another manufacturer, wholesaler, or distributor, or shall be used in 
+any manner to give a manufacturer, wholesaler, or distributor a 
+proprietary advantage.
+    ``(d) Guidelines.--The Secretary, in order to maintain the 
+confidentiality of relevant information and ensure that none of the 
+information contained in the systems involved may be used to provide 
+proprietary advantage within the vaccine market, while allowing State, 
+local, and tribal health officials access to such information to 
+maximize the delivery and availability of vaccines to high priority 
+populations, during times of influenza pandemics, vaccine shortages, and 
+supply disruptions, in consultation with manufacturers, distributors, 
+wholesalers and State, local, and tribal health departments, shall 
+develop guidelines for subsections (a) and (b).
+
+[[Page 120 STAT. 2851]]
+
+    ``(e) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section, such sums for each of fiscal 
+years 2007 through 2011.
+    ``(f) Report to Congress.--As part of the National Health Security 
+Strategy described in section 2802, the Secretary shall provide an 
+update on the implementation of subsections (a) through (d).''.
+    (b) Conforming Amendments.--
+            (1) In general.--Title III of the Public Health Service Act 
+        (42 U.S.C. 241 et seq.) is amended by striking sections 319B 
+        and <<NOTE: 42 USC 247d-2, 247d-3.>> 319C.
+            (2) Technical amendment.--Section 319D(a)(3) of the Public 
+        Health Service Act (42 U.S.C. 247d-4(a)(3)) is amended by 
+        striking ``, taking into account evaluations under section 
+        319B(a),''.
+
+SEC. 205. <<NOTE: 42 USC 262a note.>> NATIONAL SCIENCE ADVISORY BOARD 
+            FOR BIOSECURITY.
+
+    The National Science Advisory Board for Biosecurity shall, when 
+requested by the Secretary of Health and Human Services, provide to 
+relevant Federal departments and agencies, advice, guidance, or 
+recommendations concerning--
+            (1) a core curriculum and training requirements for workers 
+        in maximum containment biological laboratories; and
+            (2) periodic evaluations of maximum containment biological 
+        laboratory capacity nationwide and assessments of the future 
+        need for increased laboratory capacity.
+
+SEC. 206. <<NOTE: 42 USC 204a note.>> REVITALIZATION OF COMMISSIONED 
+            CORPS.
+
+    (a) Purpose.--It is the purpose of this section to improve the force 
+management and readiness of the Commissioned Corps to accomplish the 
+following objectives:
+            (1) To ensure the Corps is ready to respond rapidly to 
+        urgent or emergency public health care needs and challenges.
+            (2) To ensure the availability of the Corps for assignments 
+        that address clinical and public health needs in isolated, 
+        hardship, and hazardous duty positions, and, when required, to 
+        address needs related to the well-being, security, and defense 
+        of the United States.
+            (3) To establish the Corps as a resource available to 
+        Federal and State Government agencies for assistance in meeting 
+        public health leadership and service roles.
+
+    (b) Commissioned Corps Readiness.--Title II of the Public Health 
+Service Act (42 U.S.C. 202 et seq.) is amended by inserting after 
+section 203 the following:
+
+``SEC. 203A. <<NOTE: 42 USC 204a.>> DEPLOYMENT READINESS.
+
+    ``(a) Readiness Requirements for Commissioned Corps Officers.--
+            ``(1) In general.--The Secretary, with respect to members of 
+        the following Corps components, shall establish requirements, 
+        including training and medical examinations, to ensure the 
+        readiness of such components to respond to urgent or emergency 
+        public health care needs that cannot otherwise be met at the 
+        Federal, State, and local levels:
+                    ``(A) Active duty Regular Corps.
+                    ``(B) Active Reserves.
+            ``(2) Annual assessment of members.--The Secretary shall 
+        annually determine whether each member of the Corps
+
+[[Page 120 STAT. 2852]]
+
+        meets the applicable readiness requirements established under 
+        paragraph (1).
+            ``(3) Failure to meet requirements.--A member of the Corps 
+        who fails to meet or maintain the readiness requirements 
+        established under paragraph (1) or who fails to comply with 
+        orders to respond to an urgent or emergency public health care 
+        need shall, except as provided in paragraph (4), in accordance 
+        with procedures established by the Secretary, be subject to 
+        disciplinary action as prescribed by the Secretary.
+            ``(4) Waiver of requirements.--
+                    ``(A) In general.--The Secretary may waive one or 
+                more of the requirements established under paragraph (1) 
+                for an individual who is not able to meet such 
+                requirements because of--
+                          ``(i) a disability;
+                          ``(ii) a temporary medical condition; or
+                          ``(iii) any other extraordinary limitation as 
+                      determined by the Secretary.
+                    ``(B) Regulations.--The Secretary shall promulgate 
+                regulations under which a waiver described in 
+                subparagraph (A) may be granted.
+            ``(5) Urgent or emergency public health care need.--For 
+        purposes of this section and section 214, the term `urgent or 
+        emergency public health care need' means a health care need, as 
+        determined by the Secretary, arising as the result of--
+                    ``(A) a national emergency declared by the President 
+                under the National Emergencies Act (50 U.S.C. 1601 et 
+                seq.);
+                    ``(B) an emergency or major disaster declared by the 
+                President under the Robert T. Stafford Disaster Relief 
+                and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
+                    ``(C) a public health emergency declared by the 
+                Secretary under section 319 of this Act; or
+                    ``(D) any emergency that, in the judgment of the 
+                Secretary, is appropriate for the deployment of members 
+                of the Corps.
+
+    ``(b) Corps Management for Deployment.--The Secretary shall--
+            ``(1) organize members of the Corps into units for rapid 
+        deployment by the Secretary to respond to urgent or emergency 
+        public health care needs;
+            ``(2) <<NOTE: Procedures.>> establish appropriate procedures 
+        for the command and control of units or individual members of 
+        the Corps that are deployed at the direction of the President or 
+        the Secretary in response to an urgent or emergency public 
+        health care need of national, State or local significance;
+            ``(3) ensure that members of the Corps are trained, equipped 
+        and otherwise prepared to fulfill their public health and 
+        emergency response roles; and
+            ``(4) ensure that deployment planning takes into account--
+                    ``(A) any deployment exemptions that may be granted 
+                by the Secretary based on the unique requirements of an 
+                agency and an individual's functional role in such 
+                agency; and
+                    ``(B) the nature of the urgent or emergency public 
+                health care need.
+
+[[Page 120 STAT. 2853]]
+
+    ``(c) Deployment of Detailed or Assigned Officers.--For purposes of 
+pay, allowances, and benefits of a Commissioned Corps officer who is 
+detailed or assigned to a Federal entity, the deployment of such officer 
+by the Secretary in response to an urgent or emergency public health 
+care need shall be deemed to be an authorized activity of the Federal 
+entity to which the officer is detailed or assigned.''.
+    (c) Personnel Deployment Authority.--
+            (1) Personnel detailed.--Section 214 of the Public Health 
+        Service Act (42 U.S.C. 215) is amended by adding at the end the 
+        following:
+
+    ``(e) Except with respect to the United States Coast Guard and the 
+Department of Defense, and except as provided in agreements negotiated 
+with officials at agencies where officers of the Commissioned Corps may 
+be assigned, the Secretary shall have the sole authority to deploy any 
+Commissioned Corps officer assigned under this section to an entity 
+outside of the Department of Health and Human Services for service under 
+the Secretary's direction in response to an urgent or emergency public 
+health care need (as defined in section 203A(a)(5)).''.
+            (2) National health service corps.--Section 331(f) of the 
+        Public Health Service Act (42 U.S.C. 254d(f)(1)) is amended by 
+        inserting before the period the following: ``, except when such 
+        members are Commissioned Corps officers who entered into a 
+        contract with Secretary under section 338A or 338B after 
+        December 31, 2006 and when the Secretary determines that 
+        exercising the authority provided under section 214 or 216 with 
+        respect to any such officer to would not cause unreasonable 
+        disruption to health care services provided in the community in 
+        which such officer is providing health care services''.
+
+              TITLE III--ALL-HAZARDS MEDICAL SURGE CAPACITY
+
+SEC. 301. NATIONAL DISASTER MEDICAL SYSTEM.
+
+    (a) National Disaster Medical System.--Section 2812 of subtitle B of 
+title XXVIII of the Public Health Service Act (42 U.S.C. 300hh-11 et 
+seq.), as redesignated by section 102, is amended--
+            (1) by striking the section heading and inserting ``national 
+        disaster medical system'';
+            (2) by striking subsection (a);
+            (3) by redesignating subsections (b) through (h) as 
+        subsections (a) through (g);
+            (4) in subsection (a), as so redesignated--
+                    (A) in paragraph (2)(B), by striking ``Federal 
+                Emergency Management Agency'' and inserting ``Department 
+                of Homeland Security''; and
+                    (B) in paragraph (3)(C), by striking ``Public Health 
+                Security and Bioterrorism Preparedness and Response Act 
+                of 2002'' and inserting ``Pandemic and All-Hazards 
+                Preparedness Act'';
+            (5) in subsection (b), as so redesignated, by--
+                    (A) striking the subsection heading and inserting 
+                ``Modifications'';
+                    (B) redesignating paragraph (2) as paragraph (3); 
+                and
+
+[[Page 120 STAT. 2854]]
+
+                    (C) striking paragraph (1) and inserting the 
+                following:
+            ``(1) In general.--Taking into account the findings from the 
+        joint review described under paragraph (2), the Secretary shall 
+        modify the policies of the National Disaster Medical System as 
+        necessary.
+            ``(2) Joint review and medical surge capacity strategic 
+        plan.--Not <<NOTE: Deadline.>> later than 180 days after the 
+        date of enactment of the Pandemic and All-Hazards Preparedness 
+        Act, the Secretary, in coordination with the Secretary of 
+        Homeland Security, the Secretary of Defense, and the Secretary 
+        of Veterans Affairs, shall conduct a joint review of the 
+        National Disaster Medical System. Such review shall include an 
+        evaluation of medical surge capacity, as described by section 
+        2803(a). As part of the National Health Security Strategy under 
+        section 2802, the Secretary shall update the findings from such 
+        review and further modify the policies of the National Disaster 
+        Medical System as necessary.'';
+            (6) by striking ``subsection (b)'' each place it appears and 
+        inserting ``subsection (a)'';
+            (7) by striking ``subsection (d)'' each place it appears and 
+        inserting ``subsection (c)''; and
+            (8) in subsection (g), as so redesignated, by striking 
+        ``2002 through 2006'' and inserting ``2007 through 2011''.
+
+    (b) <<NOTE: 42 USC 300hh-11 note.>> Transfer of National Disaster 
+Medical System to the Department of Health and Human Services.--There 
+shall be transferred to the Secretary of Health and Human Services the 
+functions, personnel, assets, and liabilities of the National Disaster 
+Medical System of the Department of Homeland Security, including the 
+functions of the Secretary of Homeland Security and the Under Secretary 
+for Emergency Preparedness and Response relating thereto.
+
+    (c) Conforming Amendments to the Homeland Security Act of 2002.--The 
+Homeland Security Act of 2002 (6 U.S.C. 312(3)(B), 313(5)) is amended--
+            (1) in section 502(3)(B), <<NOTE: 6 USC 314.>> by striking 
+        ``, the National Disaster Medical System,''; and
+            (2) in section 503(5), <<NOTE: 6 USC 313.>> by striking ``, 
+        the National Disaster Medical System''.
+
+    (d) Update of Certain Provision.--Section 319F(b)(2) of the Public 
+Health Service Act (42 U.S.C. 247d-6(b)(2)) is amended--
+            (1) in the paragraph heading, by striking ``Children and 
+        terrorism'' and inserting ``At-risk individuals and public 
+        health emergencies'';
+            (2) in subparagraph (A), by striking ``Children and 
+        Terrorism'' and inserting ``At-Risk Individuals and Public 
+        Health Emergencies'';
+            (3) in subparagraph (B)--
+                    (A) in clause (i), by striking ``bioterrorism as it 
+                relates to children'' and inserting ``public health 
+                emergencies as they relate to at-risk individuals'';
+                    (B) in clause (ii), by striking ``children'' and 
+                inserting ``at-risk individuals''; and
+                    (C) in clause (iii), by striking ``children'' and 
+                inserting ``at-risk individuals'';
+            (4) in subparagraph (C), by striking ``children'' and all 
+        that follows through the period and inserting ``at-risk 
+        populations.''; and
+
+[[Page 120 STAT. 2855]]
+
+            (5) in subparagraph (D), by striking ``one year'' and 
+        inserting ``six years''.
+
+    (e) Conforming Amendment.--Section 319F(b)(3)(B) of the Public 
+Health Service Act (42 U.S.C. 247d-6(b)(3)(B)) is amended by striking 
+``and the working group under subsection (a)''.
+    (f) <<NOTE: 6 USC 313 note.>> Effective Date.--The amendments made 
+by subsections (b) and (c) shall take effect on January 1, 2007.
+
+SEC. 302. ENHANCING MEDICAL SURGE CAPACITY.
+
+    (a) In General.--Title XXVIII of the Public Health Service Act 
+(300hh-11 et seq.), as amended by section 103, is amended by inserting 
+after section 2802 the following:
+
+``SEC. 2803. <<NOTE: 42 USC 300hh-2.>> ENHANCING MEDICAL SURGE CAPACITY.
+
+    ``(a) Study of Enhancing Medical Surge Capacity.--As part of the 
+joint review described in section 2812(b), the Secretary shall evaluate 
+the benefits and feasibility of improving the capacity of the Department 
+of Health and Human Services to provide additional medical surge 
+capacity to local communities in the event of a public health emergency. 
+Such study shall include an assessment of the need for and feasibility 
+of improving surge capacity through--
+            ``(1) acquisition and operation of mobile medical assets by 
+        the Secretary to be deployed, on a contingency basis, to a 
+        community in the event of a public health emergency;
+            ``(2) integrating the practice of telemedicine within the 
+        National Disaster Medical System; and
+            ``(3) other strategies to improve such capacity as 
+        determined appropriate by the Secretary.
+
+    ``(b) Authority To Acquire and Operate Mobile Medical Assets.--In 
+addition to any other authority to acquire, deploy, and operate mobile 
+medical assets, the Secretary may acquire, deploy, and operate mobile 
+medical assets if, taking into consideration the evaluation conducted 
+under subsection (a), such acquisition, deployment, and operation is 
+determined to be beneficial and feasible in improving the capacity of 
+the Department of Health and Human Services to provide additional 
+medical surge capacity to local communities in the event of a public 
+health emergency.
+    ``(c) Using Federal Facilities To Enhance Medical Surge Capacity.--
+            ``(1) Analysis.--The Secretary shall conduct an analysis of 
+        whether there are Federal facilities which, in the event of a 
+        public health emergency, could practicably be used as facilities 
+        in which to provide health care.
+            ``(2) Memoranda of understanding.--If, based on the analysis 
+        conducted under paragraph (1), the Secretary determines that 
+        there are Federal facilities which, in the event of a public 
+        health emergency, could be used as facilities in which to 
+        provide health care, the Secretary shall, with respect to each 
+        such facility, seek to conclude a memorandum of understanding 
+        with the head of the Department or agency that operates such 
+        facility that permits the use of such facility to provide health 
+        care in the event of a public health emergency.''.
+
+    (b) EMTALA.--
+            (1) In general.--Section 1135(b) of the Social Security Act 
+        (42 U.S.C. 1320b-5(b)) is amended--
+                    (A) in paragraph (3), by striking subparagraph (B) 
+                and inserting the following:
+
+[[Page 120 STAT. 2856]]
+
+                    ``(B) the direction or relocation of an individual 
+                to receive medical screening in an alternative 
+                location--
+                          ``(i) pursuant to an appropriate State 
+                      emergency preparedness plan; or
+                          ``(ii) in the case of a public health 
+                      emergency described in subsection (g)(1)(B) that 
+                      involves a pandemic infectious disease, pursuant 
+                      to a State pandemic preparedness plan or a plan 
+                      referred to in clause (i), whichever is applicable 
+                      in the State;'';
+                    (B) <<NOTE: Applicability.>> in the third sentence, 
+                by striking ``and shall be limited to'' and inserting 
+                ``and, except in the case of a waiver or modification to 
+                which the fifth sentence of this subsection applies, 
+                shall be limited to''; and
+                    (C) <<NOTE: Applicability.>> by adding at the end 
+                the following: ``If a public health emergency described 
+                in subsection (g)(1)(B) involves a pandemic infectious 
+                disease (such as pandemic influenza), the duration of a 
+                waiver or modification under paragraph (3) shall be 
+                determined in accordance with subsection (e) as such 
+                subsection applies to public health emergencies.''.
+            (2) <<NOTE: 42 USC 1320b-5 note.>> Effective date.--The 
+        amendments made by paragraph (1) shall take effect on the date 
+        of the enactment of this Act and shall apply to public health 
+        emergencies declared pursuant to section 319 of the Public 
+        Health Service Act (42 U.S.C. 247d) on or after such date.
+
+SEC. 303. ENCOURAGING HEALTH PROFESSIONAL VOLUNTEERS.
+
+    (a) Volunteer Medical Reserve Corps.--Title XXVIII of the Public 
+Health Service Act (42 U.S.C. 300hh-11 et seq.), as amended by this Act, 
+is amended by inserting after section 2812 the following:
+
+``SEC. 2813. <<NOTE: Establishment. 42 USC 300hh-
+            15. Deadline.>> VOLUNTEER MEDICAL RESERVE CORPS.
+
+    ``(a) In General.--Not later than 180 days after the date of 
+enactment of the Pandemic and All-Hazards Preparedness Act, the 
+Secretary, in collaboration with State, local, and tribal officials, 
+shall build on State, local, and tribal programs in existence on the 
+date of enactment of such Act to establish and maintain a Medical 
+Reserve Corps (referred to in this section as the `Corps') to provide 
+for an adequate supply of volunteers in the case of a Federal, State, 
+local, or tribal public health emergency. The Corps shall be headed by a 
+Director who shall be appointed by the Secretary and shall oversee the 
+activities of the Corps chapters that exist at the State, local, and 
+tribal levels.
+    ``(b) State, Local, and Tribal Coordination.--The Corps shall be 
+established using existing State, local, and tribal teams and shall not 
+alter such teams.
+    ``(c) Composition.--The Corps shall be composed of individuals who--
+            ``(1)(A) are health professionals who have appropriate 
+        professional training and expertise as determined appropriate by 
+        the Director of the Corps; or
+            ``(B) are non-health professionals who have an interest in 
+        serving in an auxiliary or support capacity to facilitate access 
+        to health care services in a public health emergency;
+            ``(2) are certified in accordance with the certification 
+        program developed under subsection (d);
+            ``(3) are geographically diverse in residence;
+            ``(4) have registered and carry out training exercises with 
+        a local chapter of the Medical Reserve Corps; and
+
+[[Page 120 STAT. 2857]]
+
+            ``(5) indicate whether they are willing to be deployed 
+        outside the area in which they reside in the event of a public 
+        health emergency.
+
+    ``(d) Certification; Drills.--
+            ``(1) Certification.--The Director, in collaboration with 
+        State, local, and tribal officials, shall establish a process 
+        for the periodic certification of individuals who volunteer for 
+        the Corps, as determined by the Secretary, which shall include 
+        the completion by each individual of the core training programs 
+        developed under section 319F, as required by the Director. Such 
+        certification shall not supercede State licensing or 
+        credentialing requirements.
+            ``(2) Drills.--In conjunction with the core training 
+        programs referred to in paragraph (1), and in order to 
+        facilitate the integration of trained volunteers into the health 
+        care system at the local level, Corps members shall engage in 
+        periodic training exercises to be carried out at the local 
+        level.
+
+    ``(e) Deployment.--During a public health emergency, the Secretary 
+shall have the authority to activate and deploy willing members of the 
+Corps to areas of need, taking into consideration the public health and 
+medical expertise required, with the concurrence of the State, local, or 
+tribal officials from the area where the members reside.
+    ``(f) Expenses and Transportation.--While engaged in performing 
+duties as a member of the Corps pursuant to an assignment by the 
+Secretary (including periods of travel to facilitate such assignment), 
+members of the Corps who are not otherwise employed by the Federal 
+Government shall be allowed travel or transportation expenses, including 
+per diem in lieu of subsistence.
+    ``(g) Identification.--The Secretary, in cooperation and 
+consultation with the States, shall develop a Medical Reserve Corps 
+Identification Card that describes the licensure and certification 
+information of Corps members, as well as other identifying information 
+determined necessary by the Secretary.
+    ``(h) Intermittent Disaster-Response Personnel.--
+            ``(1) In general.--For the purpose of assisting the Corps in 
+        carrying out duties under this section, during a public health 
+        emergency, the Secretary may appoint selected individuals to 
+        serve as intermittent personnel of such Corps in accordance with 
+        applicable civil service laws and regulations. In all other 
+        cases, members of the Corps are subject to the laws of the State 
+        in which the activities of the Corps are undertaken.
+            ``(2) Applicable protections.--Subsections (c)(2), (d), and 
+        (e) of section 2812 shall apply to an individual appointed under 
+        paragraph (1) in the same manner as such subsections apply to an 
+        individual appointed under section 2812(c).
+            ``(3) Limitation.--State, local, and tribal officials shall 
+        have no authority to designate a member of the Corps as Federal 
+        intermittent disaster-response personnel, but may request the 
+        services of such members.
+
+    ``(i) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section, $22,000,000 for fiscal year 
+2007, and such sums as may be necessary for each of fiscal years 2008 
+through 2011.''.
+    (b) Encouraging Health Professions Volunteers.--Section 319I of the 
+Public Health Service Act (42 U.S.C. 247d-7b) is amended--
+
+[[Page 120 STAT. 2858]]
+
+            (1) by redesignating subsections (e) and (f) as subsections 
+        (j) and (k), respectively;
+            (2) by striking subsections (a) and (b) and inserting the 
+        following:
+
+    ``(a) <<NOTE: Deadline.>> In General.--Not later than 12 months 
+after the date of enactment of the Pandemic and All-Hazards Preparedness 
+Act, the Secretary shall link existing State verification systems to 
+maintain a single national interoperable network of systems, each system 
+being maintained by a State or group of States, for the purpose of 
+verifying the credentials and licenses of health care professionals who 
+volunteer to provide health services during a public health emergency.
+
+    ``(b) Requirements.--The interoperable network of systems 
+established under subsection (a) (referred to in this section as the 
+`verification network') shall include--
+            ``(1) with respect to each volunteer health professional 
+        included in the verification network--
+                    ``(A) information necessary for the rapid 
+                identification of, and communication with, such 
+                professionals; and
+                    ``(B) the credentials, certifications, licenses, and 
+                relevant training of such individuals; and
+            ``(2) the name of each member of the Medical Reserve Corps, 
+        the National Disaster Medical System, and any other relevant 
+        federally-sponsored or administered programs determined 
+        necessary by the Secretary.'';
+            (3) in subsection (c), strike ``system'' and insert 
+        ``network''; and
+            (4) by striking subsection (d) and inserting the following:
+
+    ``(d) Accessibility.--The Secretary shall ensure that the 
+verification network is electronically accessible by State, local, and 
+tribal health departments and can be linked with the identification 
+cards under section 2813.
+    ``(e) Confidentiality.--The Secretary shall establish and require 
+the application of and compliance with measures to ensure the effective 
+security of, integrity of, and access to the data included in the 
+verification network.
+    ``(f) Coordination.--The Secretary shall coordinate with the 
+Secretary of Veterans Affairs and the Secretary of Homeland Security to 
+assess the feasibility of integrating the verification network under 
+this section with the VetPro system of the Department of Veterans 
+Affairs and the National Emergency Responder Credentialing System of the 
+Department of Homeland Security. The Secretary shall, if feasible, 
+integrate the verification network under this section with such VetPro 
+system and the National Emergency Responder Credentialing System.
+    ``(g) Updating of Information.--The States that are participants in 
+the verification network shall, on at least a quarterly basis, work with 
+the Director to provide for the updating of the information contained in 
+the verification network.
+    ``(h) Clarification.--Inclusion of a health professional in the 
+verification network shall not constitute appointment of such individual 
+as a Federal employee for any purpose, either under section 2812(c) or 
+otherwise. Such appointment may only be made under section 2812 or 2813.
+    ``(i) Health Care Provider Licenses.--The Secretary shall encourage 
+States to establish and implement mechanisms to waive
+
+[[Page 120 STAT. 2859]]
+
+the application of licensing requirements applicable to health 
+professionals, who are seeking to provide medical services (within their 
+scope of practice), during a national, State, local, or tribal public 
+health emergency upon verification that such health professionals are 
+licensed and in good standing in another State and have not been 
+disciplined by any State health licensing or disciplinary board.''; and
+            (5) in subsection (k) (as so redesignated), by striking 
+        ``2006'' and inserting ``2011''.
+
+SEC. 304. CORE EDUCATION AND TRAINING.
+
+    Section 319F of the Public Health Service Act (42 U.S.C. 247d-6) is 
+amended--
+            (1) by striking subsection (a) and inserting the following:
+
+    ``(a) All-Hazards Public Health and Medical Response Curricula and 
+Training.--
+            ``(1) In general.--The Secretary, in collaboration with the 
+        Secretary of Defense, and in consultation with relevant public 
+        and private entities, shall develop core health and medical 
+        response curricula and trainings by adapting applicable existing 
+        curricula and training programs to improve responses to public 
+        health emergencies.
+            ``(2) Curriculum.--The public health and medical response 
+        training program may include course work related to--
+                    ``(A) medical management of casualties, taking into 
+                account the needs of at-risk individuals;
+                    ``(B) public health aspects of public health 
+                emergencies;
+                    ``(C) mental health aspects of public health 
+                emergencies;
+                    ``(D) national incident management, including 
+                coordination among Federal, State, local, tribal, 
+                international agencies, and other entities; and
+                    ``(E) protecting health care workers and health care 
+                first responders from workplace exposures during a 
+                public health emergency.
+            ``(3) Peer review.--On a periodic basis, products prepared 
+        as part of the program shall be rigorously tested and peer-
+        reviewed by experts in the relevant fields.
+            ``(4) Credit.--The Secretary and the Secretary of Defense 
+        shall--
+                    ``(A) take into account continuing professional 
+                education requirements of public health and healthcare 
+                professions; and
+                    ``(B) cooperate with State, local, and tribal 
+                accrediting agencies and with professional associations 
+                in arranging for students enrolled in the program to 
+                obtain continuing professional education credit for 
+                program courses.
+            ``(5) Dissemination and training.--
+                    ``(A) In general.--The Secretary may provide for the 
+                dissemination and teaching of the materials described in 
+                paragraphs (1) and (2) by appropriate means, as 
+                determined by the Secretary.
+                    ``(B) Certain entities.--The education and training 
+                activities described in subparagraph (A) may be carried 
+                out by Federal public health or medical entities, 
+                appropriate educational entities, professional 
+                organizations and
+
+[[Page 120 STAT. 2860]]
+
+                societies, private accrediting organizations, and other 
+                nonprofit institutions or entities meeting criteria 
+                established by the Secretary.
+                    ``(C) Grants and contracts.--In carrying out this 
+                subsection, the Secretary may carry out activities 
+                directly or through the award of grants and contracts, 
+                and may enter into interagency agreements with other 
+                Federal agencies.''.
+            (2) by striking subsections (c) through (g) and inserting 
+        the following:
+
+    ``(c) Expansion of Epidemic Intelligence Service Program.--The 
+Secretary may establish 20 officer positions in the Epidemic 
+Intelligence Service Program, in addition to the number of the officer 
+positions offered under such Program in 2006, for individuals who agree 
+to participate, for a period of not less than 2 years, in the Career 
+Epidemiology Field Officer program in a State, local, or tribal health 
+department that serves a health professional shortage area (as defined 
+under section 332(a)), a medically underserved population (as defined 
+under section 330(b)(3)), or a medically underserved area or area at 
+high risk of a public health emergency as designated by the Secretary.
+    ``(d) Centers for Public Health Preparedness; Core Curricula and 
+Training.--
+            ``(1) In general.--The Secretary may establish at accredited 
+        schools of public health, Centers for Public Health Preparedness 
+        (hereafter referred to in this section as the `Centers').
+            ``(2) Eligibility.--To be eligible to receive an award under 
+        this subsection to establish a Center, an accredited school of 
+        public health shall agree to conduct activities consistent with 
+        the requirements of this subsection.
+            ``(3) Core curricula.--The Secretary, in collaboration with 
+        the Centers and other public or private entities shall establish 
+        core curricula based on established competencies leading to a 4-
+        year bachelor's degree, a graduate degree, a combined bachelor 
+        and master's degree, or a certificate program, for use by each 
+        Center. The Secretary shall disseminate such curricula to other 
+        accredited schools of public health and other health professions 
+        schools determined appropriate by the Secretary, for voluntary 
+        use by such schools.
+            ``(4) Core competency-based training program.--The 
+        Secretary, in collaboration with the Centers and other public or 
+        private entities shall facilitate the development of a 
+        competency-based training program to train public health 
+        practitioners. The Centers shall use such training program to 
+        train public health practitioners. The Secretary shall 
+        disseminate such training program to other accredited schools of 
+        public health, health professions schools, and other public or 
+        private entities as determined by the Secretary, for voluntary 
+        use by such entities.
+            ``(5) Content of core curricula and training program.--The 
+        Secretary shall ensure that the core curricula and training 
+        program established pursuant to this subsection respond to the 
+        needs of State, local, and tribal public health authorities and 
+        integrate and emphasize essential public health security 
+        capabilities consistent with section 2802(b)(2).
+
+[[Page 120 STAT. 2861]]
+
+            ``(6) Academic-workforce communication.--As a condition of 
+        receiving funding from the Secretary under this subsection, a 
+        Center shall collaborate with a State, local, or tribal public 
+        health department to--
+                    ``(A) define the public health preparedness and 
+                response needs of the community involved;
+                    ``(B) assess the extent to which such needs are 
+                fulfilled by existing preparedness and response 
+                activities of such school or health department, and how 
+                such activities may be improved;
+                    ``(C) prior to developing new materials or 
+                trainings, evaluate and utilize relevant materials and 
+                trainings developed by others Centers; and
+                    ``(D) evaluate community impact and the 
+                effectiveness of any newly developed materials or 
+                trainings.
+            ``(7) Public health systems research.--In consultation with 
+        relevant public and private entities, the Secretary shall define 
+        the existing knowledge base for public health preparedness and 
+        response systems, and establish a research agenda based on 
+        Federal, State, local, and tribal public health preparedness 
+        priorities. As a condition of receiving funding from the 
+        Secretary under this subsection, a Center shall conduct public 
+        health systems research that is consistent with the agenda 
+        described under this paragraph.'';
+            (3) by redesignating subsection (h) as subsection (e);
+            (4) by inserting after subsection (e) (as so redesignated), 
+        the following:
+
+    ``(f) Authorization of Appropriations.--
+            ``(1) Fiscal year 2007.--There are authorized to be 
+        appropriated to carry out this section for fiscal year 2007--
+                    ``(A) to carry out subsection (a)--
+                          ``(i) $5,000,000 to carry out paragraphs (1) 
+                      through (4); and
+                          ``(ii) $7,000,000 to carry out paragraph (5);
+                    ``(B) to carry out subsection (c), $3,000,000; and
+                    ``(C) to carry out subsection (d), $31,000,000, of 
+                which $5,000,000 shall be used to carry out paragraphs 
+                (3) through (5) of such subsection.
+            ``(2) Subsequent fiscal years.--There are authorized to be 
+        appropriated such sums as may be necessary to carry out this 
+        section for fiscal year 2008 and each subsequent fiscal year.''; 
+        and
+            (5) by striking subsections (i) and (j).
+
+SEC. 305. PARTNERSHIPS FOR STATE AND REGIONAL HOSPITAL PREPAREDNESS TO 
+            IMPROVE SURGE CAPACITY.
+
+    Section 319C-2 of the Public Health Service Act (42 U.S.C. 247d-3b) 
+is amended to read as follows:
+
+``SEC. 319C-2. PARTNERSHIPS FOR STATE AND REGIONAL HOSPITAL PREPAREDNESS 
+            TO IMPROVE SURGE CAPACITY.
+
+    ``(a) <<NOTE: Grants. Contracts.>> In General.--The Secretary shall 
+award competitive grants or cooperative agreements to eligible entities 
+to enable such entities to improve surge capacity and enhance community 
+and hospital preparedness for public health emergencies.
+
+    ``(b) Eligibility.--To be eligible for an award under subsection 
+(a), an entity shall--
+            ``(1)(A) be a partnership consisting of--
+
+[[Page 120 STAT. 2862]]
+
+                    ``(i) one or more hospitals, at least one of which 
+                shall be a designated trauma center, consistent with 
+                section 1213(c);
+                    ``(ii) one or more other local health care 
+                facilities, including clinics, health centers, primary 
+                care facilities, mental health centers, mobile medical 
+                assets, or nursing homes; and
+                    ``(iii)(I) one or more political subdivisions;
+                    ``(II) one or more States; or
+                    ``(III) one or more States and one or more political 
+                subdivisions; and
+            ``(B) prepare, in consultation with the Chief Executive 
+        Officer and the lead health officials of the State, District, or 
+        territory in which the hospital and health care facilities 
+        described in subparagraph (A) are located, and submit to the 
+        Secretary, an application at such time, in such manner, and 
+        containing such information as the Secretary may require; or
+            ``(2)(A) be an entity described in section 319C-1(b)(1); and
+            ``(B) submit an application at such time, in such manner, 
+        and containing such information as the Secretary may require, 
+        including the information or assurances required under section 
+        319C-1(b)(2) and an assurance that the State will adhere to any 
+        applicable guidelines established by the Secretary.
+
+    ``(c) Use of Funds.--An award under subsection (a) shall be expended 
+for activities to achieve the preparedness goals described under 
+paragraphs (1), (3), (4), (5), and (6) of section 2802(b).
+    ``(d) Preferences.--
+            ``(1) Regional coordination.--In making awards under 
+        subsection (a), the Secretary shall give preference to eligible 
+        entities that submit applications that, in the determination of 
+        the Secretary--
+                    ``(A) will enhance coordination--
+                          ``(i) among the entities described in 
+                      subsection (b)(1)(A)(i); and
+                          ``(ii) between such entities and the entities 
+                      described in subsection (b)(1)(A)(ii); and
+                    ``(B) include, in the partnership described in 
+                subsection (b)(1)(A), a significant percentage of the 
+                hospitals and health care facilities within the 
+                geographic area served by such partnership.
+            ``(2) Other preferences.--In making awards under subsection 
+        (a), the Secretary shall give preference to eligible entities 
+        that, in the determination of the Secretary--
+                    ``(A) include one or more hospitals that are 
+                participants in the National Disaster Medical System;
+                    ``(B) are located in a geographic area that faces a 
+                high degree of risk, as determined by the Secretary in 
+                consultation with the Secretary of Homeland Security; or
+                    ``(C) have a significant need for funds to achieve 
+                the medical preparedness goals described in section 
+                2802(b)(3).
+
+    ``(e) Consistency of Planned Activities.--The Secretary may not 
+award a cooperative agreement to an eligible entity described in 
+subsection (b)(1) unless the application submitted by the entity is 
+coordinated and consistent with an applicable State All-Hazards Public 
+Health Emergency Preparedness and Response Plan and relevant local 
+plans, as determined by the Secretary in consultation with relevant 
+State health officials.
+
+[[Page 120 STAT. 2863]]
+
+    ``(f) Limitation on Awards.--A political subdivision shall not 
+participate in more than one partnership described in subsection (b)(1).
+    ``(g) Coordination With Local Response Capabilities.--An eligible 
+entity shall, to the extent practicable, ensure that activities carried 
+out under an award under subsection (a) are coordinated with activities 
+of relevant local Metropolitan Medical Response Systems, local Medical 
+Reserve Corps, the Cities Readiness Initiative, and local emergency 
+plans.
+    ``(h) Maintenance of Funding.--
+            ``(1) In general.--An entity that receives an award under 
+        this section shall maintain expenditures for health care 
+        preparedness at a level that is not less than the average level 
+        of such expenditures maintained by the entity for the preceding 
+        2 year period.
+            ``(2) Rule of construction.--Nothing in this section shall 
+        be construed to prohibit the use of awards under this section to 
+        pay salary and related expenses of public health and other 
+        professionals employed by State, local, or tribal agencies who 
+        are carrying out activities supported by such awards (regardless 
+        of whether the primary assignment of such personnel is to carry 
+        out such activities).
+
+    ``(i) <<NOTE: Applicability.>> Performance and Accountability.--The 
+requirements of section 319C-1(g), (j), and (k) shall apply to entities 
+receiving awards under this section (regardless of whether such entities 
+are described under subsection (b)(1)(A) or (b)(2)(A)) in the same 
+manner as such requirements apply to entities under section 319C-1. An 
+entity described in subsection (b)(1)(A) shall make such reports 
+available to the lead health official of the State in which such 
+partnership is located.
+
+    ``(j) Authorization of Appropriations.--
+            ``(1) In general.--For the purpose of carrying out this 
+        section, there is authorized to be appropriated $474,000,000 for 
+        fiscal year 2007, and such sums as may be necessary for each of 
+        fiscal years 2008 through 2011.
+            ``(2) Reservation of amounts for partnerships.--Prior to 
+        making awards described in paragraph (3), the Secretary may 
+        reserve from the amount appropriated under paragraph (1) for a 
+        fiscal year, an amount determined appropriate by the Secretary 
+        for making awards to entities described in subsection (b)(1)(A).
+            ``(3) Awards to states and political subdivisions.--
+                    ``(A) In general.--From amounts appropriated for a 
+                fiscal year under paragraph (1) and not reserved under 
+                paragraph (2), the Secretary shall make awards to 
+                entities described in subsection (b)(2)(A) that have 
+                completed an application as described in subsection 
+                (b)(2)(B).
+                    ``(B) Amount.--The Secretary shall determine the 
+                amount of an award to each entity described in 
+                subparagraph (A) in the same manner as such amounts are 
+                determined under section 319C-1(h).''.
+
+SEC. 306. ENHANCING THE ROLE OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+    (a) In General.--Section 8117 of title 38, United States Code, is 
+amended--
+            (1) in subsection (a)--
+
+[[Page 120 STAT. 2864]]
+
+                    (A) in paragraph (1), by--
+                          (i) striking ``chemical or biological attack'' 
+                      and inserting ``a public health emergency (as 
+                      defined in section 2801 of the Public Health 
+                      Service Act)'';
+                          (ii) striking ``an attack'' and inserting 
+                      ``such an emergency''; and
+                          (iii) striking ``public health emergencies'' 
+                      and inserting ``such emergencies''; and
+                    (B) in paragraph (2)--
+                          (i) in subparagraph (A), by striking ``; and'' 
+                      and inserting a semicolon;
+                          (ii) in subparagraph (B), by striking the 
+                      period and inserting a semicolon; and
+                          (iii) by adding at the end the following:
+                    ``(C) organizing, training, and equipping the staff 
+                of such centers to support the activities carried out by 
+                the Secretary of Health and Human Services under section 
+                2801 of the Public Health Service Act in the event of a 
+                public health emergency and incidents covered by the 
+                National Response Plan developed pursuant to section 
+                502(6) of the Homeland Security Act of 2002, or any 
+                successor plan; and
+                    ``(D) providing medical logistical support to the 
+                National Disaster Medical System and the Secretary of 
+                Health and Human Services as necessary, on a 
+                reimbursable basis, and in coordination with other 
+                designated Federal agencies.'';
+            (2) in subsection (c), by striking ``a chemical or 
+        biological attack or other terrorist attack.'' and inserting ``a 
+        public health emergency. The Secretary shall, through existing 
+        medical procurement contracts, and on a reimbursable basis, make 
+        available as necessary, medical supplies, equipment, and 
+        pharmaceuticals in response to a public health emergency in 
+        support of the Secretary of Health and Human Services.'';
+            (3) in subsection (d), by--
+                    (A) striking ``develop and'';
+                    (B) striking ``biological, chemical, or radiological 
+                attacks'' and inserting ``public health emergencies''; 
+                and
+                    (C) by inserting ``consistent with section 319F(a) 
+                of the Public Health Service Act'' before the period; 
+                and
+            (4) in subsection (e)--
+                    (A) in paragraph (1), by striking ``2811(b)'' and 
+                inserting ``2812''; and
+                    (B) in paragraph (2)--
+                          (i) by striking ``bioterrorism and other''; 
+                      and
+                          (ii) by striking ``319F(a)'' and inserting 
+                      ``319F''.
+
+    (b) Authorization of Appropriations.--Section 8117 of title 38, 
+United States Code, is amended by adding at the end the following:
+    ``(g) Authorization of Appropriations.--There are authorized to be 
+appropriated, such sums as may be necessary to carry out this section 
+for each of fiscal years 2007 through 2011.''.
+
+[[Page 120 STAT. 2865]]
+
+     TITLE IV--PANDEMIC AND BIODEFENSE VACCINE AND DRUG DEVELOPMENT
+
+SEC. 401. BIOMEDICAL ADVANCED RESEARCH AND DEVELOPMENT AUTHORITY.
+
+    Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) 
+is amended by inserting after section 319K the following:
+
+``SEC. 319L. <<NOTE: 42 USC 247d-7e.>> BIOMEDICAL ADVANCED RESEARCH AND 
+            DEVELOPMENT AUTHORITY.
+
+    ``(a) Definitions.--In this section:
+            ``(1) BARDA.--The term `BARDA' means the Biomedical Advanced 
+        Research and Development Authority.
+            ``(2) Fund.--The term `Fund' means the Biodefense Medical 
+        Countermeasure Development Fund established under subsection 
+        (d).
+            ``(3) Other transactions.--The term `other transactions' 
+        means transactions, other than procurement contracts, grants, 
+        and cooperative agreements, such as the Secretary of Defense may 
+        enter into under section 2371 of title 10, United States Code.
+            ``(4) Qualified countermeasure.--The term `qualified 
+        countermeasure' has the meaning given such term in section 319F-
+        1.
+            ``(5) Qualified pandemic or epidemic product.--The term 
+        `qualified pandemic or epidemic product' has the meaning given 
+        the term in section 319F-3.
+            ``(6) Advanced research and development.--
+                    ``(A) In general.--The term `advanced research and 
+                development' means, with respect to a product that is or 
+                may become a qualified countermeasure or a qualified 
+                pandemic or epidemic product, activities that 
+                predominantly--
+                          ``(i) are conducted after basic research and 
+                      preclinical development of the product; and
+                          ``(ii) are related to manufacturing the 
+                      product on a commercial scale and in a form that 
+                      satisfies the regulatory requirements under the 
+                      Federal Food, Drug, and Cosmetic Act or under 
+                      section 351 of this Act.
+                    ``(B) Activities included.--The term under 
+                subparagraph (A) includes--
+                          ``(i) testing of the product to determine 
+                      whether the product may be approved, cleared, or 
+                      licensed under the Federal Food, Drug, and 
+                      Cosmetic Act or under section 351 of this Act for 
+                      a use that is or may be the basis for such product 
+                      becoming a qualified countermeasure or qualified 
+                      pandemic or epidemic product, or to help obtain 
+                      such approval, clearance, or license;
+                          ``(ii) design and development of tests or 
+                      models, including animal models, for such testing;
+                          ``(iii) activities to facilitate manufacture 
+                      of the product on a commercial scale with 
+                      consistently high quality, as well as to improve 
+                      and make available new technologies to increase 
+                      manufacturing surge capacity;
+
+[[Page 120 STAT. 2866]]
+
+                          ``(iv) activities to improve the shelf-life of 
+                      the product or technologies for administering the 
+                      product; and
+                          ``(v) such other activities as are part of the 
+                      advanced stages of testing, refinement, 
+                      improvement, or preparation of the product for 
+                      such use and as are specified by the Secretary.
+            ``(7) Security countermeasure.--The term `security 
+        countermeasure' has the meaning given such term in section 319F-
+        2.
+            ``(8) Research tool.--The term `research tool' means a 
+        device, technology, biological material (including a cell line 
+        or an antibody), reagent, animal model, computer system, 
+        computer software, or analytical technique that is developed to 
+        assist in the discovery, development, or manufacture of 
+        qualified countermeasures or qualified pandemic or epidemic 
+        products.
+            ``(9) Program manager.--The term `program manager' means an 
+        individual appointed to carry out functions under this section 
+        and authorized to provide project oversight and management of 
+        strategic initiatives.
+            ``(10) Person.--The term `person' includes an individual, 
+        partnership, corporation, association, entity, or public or 
+        private corporation, and a Federal, State, or local government 
+        agency or department.
+
+    ``(b) Strategic Plan for Countermeasure Research, Development, and 
+Procurement.--
+            ``(1) <<NOTE: Deadline. Public information.>> In general.--
+        Not later than 6 months after the date of enactment of the 
+        Pandemic and All-Hazards Preparedness Act, the Secretary shall 
+        develop and make public a strategic plan to integrate biodefense 
+        and emerging infectious disease requirements with the advanced 
+        research and development, strategic initiatives for innovation, 
+        and the procurement of qualified countermeasures and qualified 
+        pandemic or epidemic products. The Secretary shall carry out 
+        such activities as may be practicable to disseminate the 
+        information contained in such plan to persons who may have the 
+        capacity to substantially contribute to the activities described 
+        in such strategic plan. The Secretary shall update and 
+        incorporate such plan as part of the National Health Security 
+        Strategy described in section 2802.
+            ``(2) Content.--The strategic plan under paragraph (1) shall 
+        guide--
+                    ``(A) research and development, conducted or 
+                supported by the Department of Health and Human 
+                Services, of qualified countermeasures and qualified 
+                pandemic or epidemic products against possible 
+                biological, chemical, radiological, and nuclear agents 
+                and to emerging infectious diseases;
+                    ``(B) innovation in technologies that may assist 
+                advanced research and development of qualified 
+                countermeasures and qualified pandemic or epidemic 
+                products (such research and development referred to in 
+                this section as `countermeasure and product advanced 
+                research and development'); and
+                    ``(C) procurement of such qualified countermeasures 
+                and qualified pandemic or epidemic products by such 
+                Department.
+
+[[Page 120 STAT. 2867]]
+
+    ``(c) Biomedical Advanced Research and Development Authority.--
+            ``(1) Establishment.--There is established within the 
+        Department of Health and Human Services the Biomedical Advanced 
+        Research and Development Authority.
+            ``(2) In general.--Based upon the strategic plan described 
+        in subsection (b), the Secretary shall coordinate the 
+        acceleration of countermeasure and product advanced research and 
+        development by--
+                    ``(A) facilitating collaboration between the 
+                Department of Health and Human Services and other 
+                Federal agencies, relevant industries, academia, and 
+                other persons, with respect to such advanced research 
+                and development;
+                    ``(B) promoting countermeasure and product advanced 
+                research and development;
+                    ``(C) facilitating contacts between interested 
+                persons and the offices or employees authorized by the 
+                Secretary to advise such persons regarding requirements 
+                under the Federal Food, Drug, and Cosmetic Act and under 
+                section 351 of this Act; and
+                    ``(D) promoting innovation to reduce the time and 
+                cost of countermeasure and product advanced research and 
+                development.
+            ``(3) Director.--The BARDA shall be headed by a Director 
+        (referred to in this section as the `Director') who shall be 
+        appointed by the Secretary and to whom the Secretary shall 
+        delegate such functions and authorities as necessary to 
+        implement this section.
+            ``(4) Duties.--
+                    ``(A) Collaboration.--To carry out the purpose 
+                described in paragraph (2)(A), the Secretary shall--
+                          ``(i) facilitate and increase the expeditious 
+                      and direct communication between the Department of 
+                      Health and Human Services and relevant persons 
+                      with respect to countermeasure and product 
+                      advanced research and development, including by--
+                                    ``(I) facilitating such 
+                                communication regarding the processes 
+                                for procuring such advanced research and 
+                                development with respect to qualified 
+                                countermeasures and qualified pandemic 
+                                or epidemic products of interest; and
+                                    ``(II) soliciting information about 
+                                and data from research on potential 
+                                qualified countermeasures and qualified 
+                                pandemic or epidemic products and 
+                                related technologies;
+                          ``(ii) at least annually--
+                                    ``(I) convene meetings with 
+                                representatives from relevant 
+                                industries, academia, other Federal 
+                                agencies, international agencies as 
+                                appropriate, and other interested 
+                                persons;
+                                    ``(II) sponsor opportunities to 
+                                demonstrate the operation and 
+                                effectiveness of relevant biodefense 
+                                countermeasure technologies; and
+                                    ``(III) convene such working groups 
+                                on countermeasure and product advanced 
+                                research and development as the 
+                                Secretary may determine are necessary to 
+                                carry out this section; and
+
+[[Page 120 STAT. 2868]]
+
+                          ``(iii) carry out the activities described in 
+                      section 405 of the Pandemic and All-Hazards 
+                      Preparedness Act.
+                    ``(B) Support advanced research and development.--To 
+                carry out the purpose described in paragraph (2)(B), the 
+                Secretary shall--
+                          ``(i) conduct ongoing searches for, and 
+                      support calls for, potential qualified 
+                      countermeasures and qualified pandemic or epidemic 
+                      products;
+                          ``(ii) direct and coordinate the 
+                      countermeasure and product advanced research and 
+                      development activities of the Department of Health 
+                      and Human Services;
+                          ``(iii) establish strategic initiatives to 
+                      accelerate countermeasure and product advanced 
+                      research and development and innovation in such 
+                      areas as the Secretary may identify as priority 
+                      unmet need areas; and
+                          ``(iv) award contracts, grants, cooperative 
+                      agreements, and enter into other transactions, for 
+                      countermeasure and product advanced research and 
+                      development.
+                    ``(C) Facilitating advice.--To carry out the purpose 
+                described in paragraph (2)(C) the Secretary shall--
+                          ``(i) connect interested persons with the 
+                      offices or employees authorized by the Secretary 
+                      to advise such persons regarding the regulatory 
+                      requirements under the Federal Food, Drug, and 
+                      Cosmetic Act and under section 351 of this Act 
+                      related to the approval, clearance, or licensure 
+                      of qualified countermeasures or qualified pandemic 
+                      or epidemic products; and
+                          ``(ii) with respect to persons performing 
+                      countermeasure and product advanced research and 
+                      development funded under this section, enable such 
+                      offices or employees to provide to the extent 
+                      practicable such advice in a manner that is 
+                      ongoing and that is otherwise designed to 
+                      facilitate expeditious development of qualified 
+                      countermeasures and qualified pandemic or epidemic 
+                      products that may achieve such approval, 
+                      clearance, or licensure.
+                    ``(D) Supporting innovation.--To carry out the 
+                purpose described in paragraph (2)(D), the Secretary may 
+                award contracts, grants, and cooperative agreements, or 
+                enter into other transactions, such as prize payments, 
+                to promote--
+                          ``(i) innovation in technologies that may 
+                      assist countermeasure and product advanced 
+                      research and development;
+                          ``(ii) research on and development of research 
+                      tools and other devices and technologies; and
+                          ``(iii) research to promote strategic 
+                      initiatives, such as rapid diagnostics, broad 
+                      spectrum antimicrobials, and vaccine manufacturing 
+                      technologies.
+            ``(5) Transaction authorities.--
+                    ``(A) Other transactions.--
+                          ``(i) In general.--The Secretary shall have 
+                      the authority to enter into other transactions 
+                      under this subsection in the same manner as the 
+                      Secretary of
+
+[[Page 120 STAT. 2869]]
+
+                      Defense enters into such transactions under 
+                      section 2371 of title 10, United States Code.
+                          ``(ii) Limitations on authority.--
+                                    ``(I) <<NOTE: Applicability.>> In 
+                                general.--Subsections (b), (c), and (h) 
+                                of section 845 of the National Defense 
+                                Authorization Act for Fiscal Year 1994 
+                                (10 U.S.C. 2371 note) shall apply to 
+                                other transactions under this 
+                                subparagraph as if such transactions 
+                                were for prototype projects described by 
+                                subsection (a) of such section 845.
+                                    ``(II) Written determinations 
+                                required.--The authority of this 
+                                subparagraph may be exercised for a 
+                                project that is expected to cost the 
+                                Department of Health and Human Services 
+                                in excess of $20,000,000 only upon a 
+                                written determination by the senior 
+                                procurement executive for the Department 
+                                (as designated for purpose of section 
+                                16(c) of the Office of Federal 
+                                Procurement Policy Act (41 U.S.C. 
+                                414(c))), that the use of such authority 
+                                is essential to promoting the success of 
+                                the project. The authority of the senior 
+                                procurement executive under this 
+                                subclause may not be delegated.
+                          ``(iii) Guidelines.--The Secretary shall 
+                      establish guidelines regarding the use of the 
+                      authority under clause (i). Such guidelines shall 
+                      include auditing requirements.
+                    ``(B) Expedited authorities.--
+                          ``(i) In general.--In awarding contracts, 
+                      grants, and cooperative agreements, and in 
+                      entering into other transactions under 
+                      subparagraph (B) or (D) of paragraph (4), the 
+                      Secretary shall have the expedited procurement 
+                      authorities, the authority to expedite peer 
+                      review, and the authority for personal services 
+                      contracts, supplied by subsections (b), (c), and 
+                      (d) of section 319F-1.
+                          ``(ii) Application of provisions.--Provisions 
+                      in such section 319F-1 that apply to such 
+                      authorities and that require institution of 
+                      internal controls, limit review, provide for 
+                      Federal Tort Claims Act coverage of personal 
+                      services contractors, and commit decisions to the 
+                      discretion of the Secretary shall apply to the 
+                      authorities as exercised pursuant to this 
+                      paragraph.
+                          ``(iii) <<NOTE: Applicability.>> Authority to 
+                      limit competition.--For purposes of applying 
+                      section 319F-1(b)(1)(D) to this paragraph, the 
+                      phrase `BioShield Program under the Project 
+                      BioShield Act of 2004' shall be deemed to mean the 
+                      countermeasure and product advanced research and 
+                      development program under this section.
+                          ``(iv) Availability of data.--The Secretary 
+                      shall require that, as a condition of being 
+                      awarded a contract, grant, cooperative agreement, 
+                      or other transaction under subparagraph (B) or (D) 
+                      of paragraph (4), a person make available to the 
+                      Secretary on an
+
+[[Page 120 STAT. 2870]]
+
+                      ongoing basis, and submit upon request to the 
+                      Secretary, all data related to or resulting from 
+                      countermeasure and product advanced research and 
+                      development carried out pursuant to this section.
+                    ``(C) Advance payments; advertising.--The Secretary 
+                may waive the requirements of section 3324(a) of title 
+                31, United States Code, or section 3709 of the Revised 
+                Statutes of the United States (41 U.S.C. 5) upon the 
+                determination by the Secretary that such waiver is 
+                necessary to obtain countermeasures or products under 
+                this section.
+                    ``(D) Milestone-based payments allowed.--In awarding 
+                contracts, grants, and cooperative agreements, and in 
+                entering into other transactions, under this section, 
+                the Secretary may use milestone-based awards and 
+                payments.
+                    ``(E) Foreign nationals eligible.--The Secretary may 
+                under this section award contracts, grants, and 
+                cooperative agreements to, and may enter into other 
+                transactions with, highly qualified foreign national 
+                persons outside the United States, alone or in 
+                collaboration with American participants, when such 
+                transactions may inure to the benefit of the American 
+                people.
+                    ``(F) Establishment of research centers.--The 
+                Secretary may assess the feasibility and appropriateness 
+                of establishing, through contract, grant, cooperative 
+                agreement, or other transaction, an arrangement with an 
+                existing research center in order to achieve the goals 
+                of this section. If such an agreement is not feasible 
+                and appropriate, the Secretary may establish one or more 
+                federally-funded research and development centers, or 
+                university-affiliated research centers, in accordance 
+                with section 303(c)(3) of the Federal Property and 
+                Administrative Services Act of 1949 (41 U.S.C. 
+                253(c)(3)).
+            ``(6) At-risk individuals.--In carrying out the functions 
+        under this section, the Secretary may give priority to the 
+        advanced research and development of qualified countermeasures 
+        and qualified pandemic or epidemic products that are likely to 
+        be safe and effective with respect to children, pregnant women, 
+        elderly, and other at-risk individuals.
+            ``(7) Personnel authorities.--
+                    ``(A) Specially qualified scientific and 
+                professional personnel.--
+                          ``(i) In general.--In addition to any other 
+                      personnel authorities, the Secretary may--
+                                    ``(I) without regard to those 
+                                provisions of title 5, United States 
+                                Code, governing appointments in the 
+                                competitive service, appoint highly 
+                                qualified individuals to scientific or 
+                                professional positions in BARDA, such as 
+                                program managers, to carry out this 
+                                section; and
+                                    ``(II) compensate them in the same 
+                                manner and subject to the same terms and 
+                                conditions in which individuals 
+                                appointed under section 9903 of such 
+                                title are compensated, without regard to 
+                                the provisions of chapter 51 and 
+                                subchapter III of chapter 53 of such 
+                                title relating to classification and 
+                                General Schedule pay rates.
+
+[[Page 120 STAT. 2871]]
+
+                          ``(ii) Manner of exercise of authority.--The 
+                      authority provided for in this subparagraph shall 
+                      be exercised subject to the same limitations 
+                      described in section 319F-1(e)(2).
+                          ``(iii) <<NOTE: Applicability.>> Term of 
+                      appointment.--The term limitations described in 
+                      section 9903(c) of title 5, United States Code, 
+                      shall apply to appointments under this 
+                      subparagraph, except that the references to the 
+                      `Secretary' and to the `Department of Defense's 
+                      national security missions' shall be deemed to be 
+                      to the Secretary of Health and Human Services and 
+                      to the mission of the Department of Health and 
+                      Human Services under this section.
+                    ``(B) Special consultants.--In carrying out this 
+                section, the Secretary may appoint special consultants 
+                pursuant to section 207(f).
+                    ``(C) Limitation.--
+                          ``(i) In general.--The Secretary may hire up 
+                      to 100 highly qualified individuals, or up to 50 
+                      percent of the total number of employees, 
+                      whichever is less, under the authorities provided 
+                      for in subparagraphs (A) and (B).
+                          ``(ii) Report.--The Secretary shall report to 
+                      Congress on a biennial basis on the implementation 
+                      of this subparagraph.
+
+    ``(d) Fund.--
+            ``(1) Establishment.--There is established the Biodefense 
+        Medical Countermeasure Development Fund, which shall be 
+        available to carry out this section in addition to such amounts 
+        as are otherwise available for this purpose.
+            ``(2) Funding.--To carry out the purposes of this section, 
+        there are authorized to be appropriated to the Fund--
+                    ``(A) $1,070,000,000 for fiscal years 2006 through 
+                2008, the amounts to remain available until expended; 
+                and
+                    ``(B) such sums as may be necessary for subsequent 
+                fiscal years, the amounts to remain available until 
+                expended.
+
+    ``(e) Inapplicability of Certain Provisions.--
+            ``(1) Disclosure.--
+                    ``(A) In general.--The Secretary shall withhold from 
+                disclosure under section 552 of title 5, United States 
+                Code, specific technical data or scientific information 
+                that is created or obtained during the countermeasure 
+                and product advanced research and development carried 
+                out under subsection (c) that reveals significant and 
+                not otherwise publicly known vulnerabilities of existing 
+                medical or public health defenses against biological, 
+                chemical, nuclear, or radiological threats. Such 
+                information shall be deemed to be information described 
+                in section 552(b)(3) of title 5, United States Code.
+                    ``(B) Review.--Information subject to nondisclosure 
+                under subparagraph (A) shall be reviewed by the 
+                Secretary every 5 years, or more frequently as 
+                determined necessary by the Secretary, to determine the 
+                relevance or necessity of continued nondisclosure.
+                    ``(C) Sunset.--This paragraph shall cease to have 
+                force or effect on the date that is 7 years after the 
+                date of
+
+[[Page 120 STAT. 2872]]
+
+                enactment of the Pandemic and All-Hazards Preparedness 
+                Act.
+            ``(2) <<NOTE: Termination date.>> Review.--Notwithstanding 
+        section 14 of the Federal Advisory Committee Act, a working 
+        group of BARDA under this section and the National Biodefense 
+        Science Board under section 319M shall each terminate on the 
+        date that is 5 years after the date on which each such group or 
+        Board, as applicable, was established. Such 5-year period may be 
+        extended by the Secretary for one or more additional 5-year 
+        periods if the Secretary determines that any such extension is 
+        appropriate.''.
+
+SEC. 402. NATIONAL BIODEFENSE SCIENCE BOARD.
+
+    Title III of the Public Health Service Act (42 U.S.C. 241 et seq.), 
+as amended by section 401, is further amended by inserting after section 
+319L the following:
+
+``SEC. 319M. <<NOTE: 42 USC 247d-7f.>> NATIONAL BIODEFENSE SCIENCE BOARD 
+            AND WORKING GROUPS.
+
+    ``(a) In General.--
+            ``(1) Establishment and function.--The Secretary shall 
+        establish the National Biodefense Science Board (referred to in 
+        this section as the `Board') to provide expert advice and 
+        guidance to the Secretary on scientific, technical and other 
+        matters of special interest to the Department of Health and 
+        Human Services regarding current and future chemical, 
+        biological, nuclear, and radiological agents, whether naturally 
+        occurring, accidental, or deliberate.
+            ``(2) Membership.--The membership of the Board shall be 
+        comprised of individuals who represent the Nation's preeminent 
+        scientific, public health, and medical experts, as follows--
+                    ``(A) such Federal officials as the Secretary may 
+                determine are necessary to support the functions of the 
+                Board;
+                    ``(B) four individuals representing the 
+                pharmaceutical, biotechnology, and device industries;
+                    ``(C) four individuals representing academia; and
+                    ``(D) five other members as determined appropriate 
+                by the Secretary, of whom--
+                          ``(i) one such member shall be a practicing 
+                      healthcare professional; and
+                          ``(ii) one such member shall be an individual 
+                      from an organization representing healthcare 
+                      consumers.
+            ``(3) Term of appointment.--A member of the Board described 
+        in subparagraph (B), (C), or (D) of paragraph (2) shall serve 
+        for a term of 3 years, except that the Secretary may adjust the 
+        terms of the initial Board appointees in order to provide for a 
+        staggered term of appointment for all members.
+            ``(4) Consecutive appointments; maximum terms.--A member may 
+        be appointed to serve not more than 3 terms on the Board and may 
+        serve not more than 2 consecutive terms.
+            ``(5) Duties.--The Board shall--
+                    ``(A) advise the Secretary on current and future 
+                trends, challenges, and opportunities presented by 
+                advances in biological and life sciences, biotechnology, 
+                and genetic engineering with respect to threats posed by 
+                naturally occurring infectious diseases and chemical, 
+                biological, radiological, and nuclear agents;
+
+[[Page 120 STAT. 2873]]
+
+                    ``(B) at the request of the Secretary, review and 
+                consider any information and findings received from the 
+                working groups established under subsection (b); and
+                    ``(C) at the request of the Secretary, provide 
+                recommendations and findings for expanded, intensified, 
+                and coordinated biodefense research and development 
+                activities.
+            ``(6) Meetings.--
+                    ``(A) <<NOTE: Deadline.>> Initial meeting.--Not 
+                later than one year after the date of enactment of the 
+                Pandemic and All-Hazards Preparedness Act, the Secretary 
+                shall hold the first meeting of the Board.
+                    ``(B) Subsequent meetings.--The Board shall meet at 
+                the call of the Secretary, but in no case less than 
+                twice annually.
+            ``(7) Vacancies.--Any vacancy in the Board shall not affect 
+        its powers, but shall be filled in the same manner as the 
+        original appointment.
+            ``(8) Chairperson.--The Secretary shall appoint a 
+        chairperson from among the members of the Board.
+            ``(9) Powers.--
+                    ``(A) Hearings.--The Board may hold such hearings, 
+                sit and act at such times and places, take such 
+                testimony, and receive such evidence as the Board 
+                considers advisable to carry out this subsection.
+                    ``(B) Postal services.--The Board may use the United 
+                States mails in the same manner and under the same 
+                conditions as other departments and agencies of the 
+                Federal Government.
+            ``(10) Personnel.--
+                    ``(A) Employees of the federal government.--A member 
+                of the Board that is an employee of the Federal 
+                Government may not receive additional pay, allowances, 
+                or benefits by reason of the member's service on the 
+                Board.
+                    ``(B) Other members.--A member of the Board that is 
+                not an employee of the Federal Government may be 
+                compensated at a rate not to exceed the daily equivalent 
+                of the annual rate of basic pay prescribed for level IV 
+                of the Executive Schedule under section 5315 of title 5, 
+                United States Code, for each day (including travel time) 
+                during which the member is engaged in the actual 
+                performance of duties as a member of the Board.
+                    ``(C) Travel expenses.--Each member of the Board 
+                shall receive travel expenses, including per diem in 
+                lieu of subsistence, in accordance with applicable 
+                provisions under subchapter I of chapter 57 of title 5, 
+                United States Code.
+                    ``(D) Detail of government employees.--Any Federal 
+                Government employee may be detailed to the Board with 
+                the approval for the contributing agency without 
+                reimbursement, and such detail shall be without 
+                interruption or loss of civil service status or 
+                privilege.
+
+    ``(b) Other Working Groups.--The Secretary may establish a working 
+group of experts, or may use an existing working group or advisory 
+committee, to--
+            ``(1) identify innovative research with the potential to be 
+        developed as a qualified countermeasure or a qualified pandemic 
+        or epidemic product;
+
+[[Page 120 STAT. 2874]]
+
+            ``(2) identify accepted animal models for particular 
+        diseases and conditions associated with any biological, 
+        chemical, radiological, or nuclear agent, any toxin, or any 
+        potential pandemic infectious disease, and identify strategies 
+        to accelerate animal model and research tool development and 
+        validation; and
+            ``(3) obtain advice regarding supporting and facilitating 
+        advanced research and development related to qualified 
+        countermeasures and qualified pandemic or epidemic products that 
+        are likely to be safe and effective with respect to children, 
+        pregnant women, and other vulnerable populations, and other 
+        issues regarding activities under this section that affect such 
+        populations.
+
+    ``(c) Definitions.--Any term that is defined in section 319L and 
+that is used in this section shall have the same meaning in this section 
+as such term is given in section 319L.
+    ``(d) Authorization of Appropriations.--There are authorized to be 
+appropriated $1,000,000 to carry out this section for fiscal year 2007 
+and each fiscal year thereafter.''.
+
+SEC. 403. CLARIFICATION OF COUNTERMEASURES COVERED BY PROJECT BIOSHIELD.
+
+    (a) Qualified Countermeasure.--Section 319F-1(a) of the Public 
+Health Service Act (42 U.S.C. 247d-6a(a)) is amended by striking 
+paragraph (2) and inserting the following:
+            ``(2) Definitions.--In this section:
+                    ``(A) Qualified countermeasure.--The term `qualified 
+                countermeasure' means a drug (as that term is defined by 
+                section 201(g)(1) of the Federal Food, Drug, and 
+                Cosmetic Act (21 U.S.C. 321(g)(1))), biological product 
+                (as that term is defined by section 351(i) of this Act 
+                (42 U.S.C. 262(i))), or device (as that term is defined 
+                by section 201(h) of the Federal Food, Drug, and 
+                Cosmetic Act (21 U.S.C. 321(h))), that the Secretary 
+                determines to be a priority (consistent with sections 
+                302(2) and 304(a) of the Homeland Security Act of 2002) 
+                to--
+                          ``(i) diagnose, mitigate, prevent, or treat 
+                      harm from any biological agent (including 
+                      organisms that cause an infectious disease) or 
+                      toxin, chemical, radiological, or nuclear agent 
+                      that may cause a public health emergency affecting 
+                      national security; or
+                          ``(ii) diagnose, mitigate, prevent, or treat 
+                      harm from a condition that may result in adverse 
+                      health consequences or death and may be caused by 
+                      administering a drug, biological product, or 
+                      device that is used as described in this 
+                      subparagraph.
+                    ``(B) Infectious disease.--The term `infectious 
+                disease' means a disease potentially caused by a 
+                pathogenic organism (including a bacteria, virus, 
+                fungus, or parasite) that is acquired by a person and 
+                that reproduces in that person.''.
+
+    (b) Security Countermeasure.--Section <<NOTE: 42 USC 247d-
+6b.>> 319F-2(c)(1)(B) is amended by striking ``treat, identify, or 
+prevent'' each place it appears and inserting ``diagnose, mitigate, 
+prevent, or treat''.
+
+    (c) <<NOTE: 42 USC 321j.>> Limitation on Use of Funds.--Section 
+510(a) of the Homeland Security Act of 2002 (6 U.S.C. 320(a)) is amended 
+by adding at the end the following: ``None of the funds made available 
+under this subsection shall be used to procure countermeasures to 
+
+
+[[Page 120 STAT. 2875]]
+
+diagnose, mitigate, prevent, or treat harm resulting from any naturally 
+occurring infectious disease or other public health threat that are not 
+security countermeasures under section 319F-2(c)(1)(B).''.
+
+SEC. 404. TECHNICAL ASSISTANCE.
+
+    Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 360bbb et seq.) is amended by adding at the end the 
+following:
+
+``SEC. 565. <<NOTE: Establishment. 21 USC 360bbb-4.>> TECHNICAL 
+            ASSISTANCE.
+
+    ``The Secretary, in consultation with the Commissioner of Food and 
+Drugs, shall establish within the Food and Drug Administration a team of 
+experts on manufacturing and regulatory activities (including compliance 
+with current Good Manufacturing Practice) to provide both off-site and 
+on-site technical assistance to the manufacturers of qualified 
+countermeasures (as defined in section 319F-1 of the Public Health 
+Service Act), security countermeasures (as defined in section 319F-2 of 
+such Act), or vaccines, at the request of such a manufacturer and at the 
+discretion of the Secretary, if the Secretary determines that a shortage 
+or potential shortage may occur in the United States in the supply of 
+such vaccines or countermeasures and that the provision of such 
+assistance would be beneficial in helping alleviate or avert such 
+shortage.''.
+
+SEC. 405. <<NOTE: 42 USC 247d-6a note.>> COLLABORATION AND COORDINATION.
+
+    (a) Limited Antitrust Exemption.--
+            (1) Meetings and consultations to discuss security 
+        countermeasures, qualified countermeasures, or qualified 
+        pandemic or epidemic product development.--
+                    (A) Authority to conduct meetings and 
+                consultations.--The Secretary of Health and Human 
+                Services (referred to in this subsection as the 
+                ``Secretary''), in coordination with the Attorney 
+                General and the Secretary of Homeland Security, may 
+                conduct meetings and consultations with persons engaged 
+                in the development of a security countermeasure (as 
+                defined in section 319F-2 of the Public Health Service 
+                Act (42 U.S.C. 247d-6b)) (as amended by this Act), a 
+                qualified countermeasure (as defined in section 319F-1 
+                of the Public Health Service Act (42 U.S.C. 247d-6a)) 
+                (as amended by this Act), or a qualified pandemic or 
+                epidemic product (as defined in section 319F-3 of the 
+                Public Health Service Act (42 U.S.C. 247d-6d)) for the 
+                purpose of the development, manufacture, distribution, 
+                purchase, or storage of a countermeasure or product. The 
+                Secretary may convene such meeting or consultation at 
+                the request of the Secretary of Homeland Security, the 
+                Attorney General, the Chairman of the Federal Trade 
+                Commission (referred to in this section as the 
+                ``Chairman''), or any interested person, or upon 
+                initiation by the Secretary. <<NOTE: Notice.>> The 
+                Secretary shall give prior notice of any such meeting or 
+                consultation, and the topics to be discussed, to the 
+                Attorney General, the Chairman, and the Secretary of 
+                Homeland Security.
+                    (B) Meeting and consultation conditions.--A meeting 
+                or consultation conducted under subparagraph (A) shall--
+                          (i) be chaired or, in the case of a 
+                      consultation, facilitated by the Secretary;
+
+[[Page 120 STAT. 2876]]
+
+                          (ii) be open to persons involved in the 
+                      development, manufacture, distribution, purchase, 
+                      or storage of a countermeasure or product, as 
+                      determined by the Secretary;
+                          (iii) be open to the Attorney General, the 
+                      Secretary of Homeland Security, and the Chairman;
+                          (iv) be limited to discussions involving 
+                      covered activities; and
+                          (v) be conducted in such manner as to ensure 
+                      that no national security, confidential 
+                      commercial, or proprietary information is 
+                      disclosed outside the meeting or consultation.
+                    (C) Limitation.--The Secretary may not require 
+                participants to disclose confidential commercial or 
+                proprietary information.
+                    (D) Transcript.--The Secretary shall maintain a 
+                complete verbatim transcript of each meeting or 
+                consultation conducted under this subsection. Such 
+                transcript (or a portion thereof) shall not be disclosed 
+                under section 552 of title 5, United States Code, to the 
+                extent that the Secretary, in consultation with the 
+                Attorney General and the Secretary of Homeland Security, 
+                determines that disclosure of such transcript (or 
+                portion thereof) would pose a threat to national 
+                security. The transcript (or portion thereof) with 
+                respect to which the Secretary has made such a 
+                determination shall be deemed to be information 
+                described in subsection (b)(3) of such section 552.
+                    (E) Exemption.--
+                          (i) In general.--Subject to clause (ii), it 
+                      shall not be a violation of the antitrust laws for 
+                      any person to participate in a meeting or 
+                      consultation conducted in accordance with this 
+                      paragraph.
+                          (ii) Limitation.--Clause (i) shall not apply 
+                      to any agreement or conduct that results from a 
+                      meeting or consultation and that is not covered by 
+                      an exemption granted under paragraph (4).
+            (2) Submission of written agreements.--The Secretary shall 
+        submit each written agreement regarding covered activities that 
+        is made pursuant to meetings or consultations conducted under 
+        paragraph (1) to the Attorney General and the Chairman for 
+        consideration. In addition to the proposed agreement itself, any 
+        submission shall include--
+                    (A) an explanation of the intended purpose of the 
+                agreement;
+                    (B) a specific statement of the substance of the 
+                agreement;
+                    (C) a description of the methods that will be 
+                utilized to achieve the objectives of the agreement;
+                    (D) an explanation of the necessity for a 
+                cooperative effort among the particular participating 
+                persons to achieve the objectives of the agreement; and
+                    (E) any other relevant information determined 
+                necessary by the Attorney General, in consultation with 
+                the Chairman and the Secretary.
+            (3) Exemption for conduct under approved agreement.--It 
+        shall not be a violation of the antitrust laws for a person to 
+        engage in conduct in accordance with a written
+
+[[Page 120 STAT. 2877]]
+
+        agreement to the extent that such agreement has been granted an 
+        exemption under paragraph (4), during the period for which the 
+        exemption is in effect.
+            (4) Action on written agreements.--
+                    (A) <<NOTE: Deadline.>> In general.--The Attorney 
+                General, in consultation with the Chairman, shall grant, 
+                deny, grant in part and deny in part, or propose 
+                modifications to an exemption request regarding a 
+                written agreement submitted under paragraph (2), in a 
+                written statement to the Secretary, within 15 business 
+                days of the receipt of such request. An exemption 
+                granted under this paragraph shall take effect 
+                immediately.
+                    (B) Extension.--The Attorney General may extend the 
+                15-day period referred to in subparagraph (A) for an 
+                additional period of not to exceed 10 business days.
+                    (C) Determination.--An exemption shall be granted 
+                regarding a written agreement submitted in accordance 
+                with paragraph (2) only to the extent that the Attorney 
+                General, in consultation with the Chairman and the 
+                Secretary, finds that the conduct that will be exempted 
+                will not have any substantial anticompetitive effect 
+                that is not reasonably necessary for ensuring the 
+                availability of the countermeasure or product involved.
+            (5) Limitation on and renewal of exemptions.--An exemption 
+        granted under paragraph (4) shall be limited to covered 
+        activities, and such exemption shall be renewed (with 
+        modifications, as appropriate, consistent with the finding 
+        described in paragraph (4)(C)), on the date that is 3 years 
+        after the date on which the exemption is granted unless the 
+        Attorney General in consultation with the Chairman determines 
+        that the exemption should not be renewed (with modifications, as 
+        appropriate) considering the factors described in paragraph (4).
+            (6) Authority to obtain information.--Consideration by the 
+        Attorney General for granting or renewing an exemption submitted 
+        under this section shall be considered an antitrust 
+        investigation for purposes of the Antitrust Civil Process Act 
+        (15 U.S.C. 1311 et seq.).
+            (7) Limitation on parties.--The use of any information 
+        acquired under an agreement for which an exemption has been 
+        granted under paragraph (4), for any purpose other than 
+        specified in the exemption, shall be subject to the antitrust 
+        laws and any other applicable laws.
+            (8) Report.--Not later than one year after the date of 
+        enactment of this Act and biannually thereafter, the Attorney 
+        General and the Chairman shall report to Congress on the use of 
+        the exemption from the antitrust laws provided by this 
+        subsection.
+
+    (b) Sunset.--The applicability of this section shall expire at the 
+end of the 6-year period that begins on the date of enactment of this 
+Act.
+    (c) Definitions.--In this section:
+            (1) Antitrust laws.--The term ``antitrust laws''--
+                    (A) <<NOTE: Applicability.>> has the meaning given 
+                such term in subsection (a) of the first section of the 
+                Clayton Act (15 U.S.C. 12(a)), except that such term 
+                includes section 5 of the Federal 
+
+
+[[Page 120 STAT. 2878]]
+
+                Trade Commission Act (15 U.S.C. 45) to the extent such 
+                section 5 applies to unfair methods of competition; and
+                    (B) includes any State law similar to the laws 
+                referred to in subparagraph (A).
+            (2) Countermeasure or product.--The term ``countermeasure or 
+        product'' refers to a security countermeasure, qualified 
+        countermeasure, or qualified pandemic or epidemic product (as 
+        those terms are defined in subsection (a)(1)).
+            (3) Covered activities.--
+                    (A) In general.--Except as provided in subparagraph 
+                (B), the term ``covered activities'' includes any 
+                activity relating to the development, manufacture, 
+                distribution, purchase, or storage of a countermeasure 
+                or product.
+                    (B) Exception.--The term ``covered activities'' 
+                shall not include, with respect to a meeting or 
+                consultation conducted under subsection (a)(1) or an 
+                agreement for which an exemption has been granted under 
+                subsection (a)(4), the following activities involving 2 
+                or more persons:
+                          (i) Exchanging information among competitors 
+                      relating to costs, profitability, or distribution 
+                      of any product, process, or service if such 
+                      information is not reasonably necessary to carry 
+                      out covered activities--
+                                    (I) with respect to a countermeasure 
+                                or product regarding which such meeting 
+                                or consultation is being conducted; or
+                                    (II) that are described in the 
+                                agreement as exempted.
+                          (ii) Entering into any agreement or engaging 
+                      in any other conduct--
+                                    (I) to restrict or require the sale, 
+                                licensing, or sharing of inventions, 
+                                developments, products, processes, or 
+                                services not developed through, produced 
+                                by, or distributed or sold through such 
+                                covered activities; or
+                                    (II) to restrict or require 
+                                participation, by any person 
+                                participating in such covered 
+                                activities, in other research and 
+                                development activities, except as 
+                                reasonably necessary to prevent the 
+                                misappropriation of proprietary 
+                                information contributed by any person 
+                                participating in such covered activities 
+                                or of the results of such covered 
+                                activities.
+                          (iii) Entering into any agreement or engaging 
+                      in any other conduct allocating a market with a 
+                      competitor that is not expressly exempted from the 
+                      antitrust laws under subsection (a)(4).
+                          (iv) Exchanging information among competitors 
+                      relating to production (other than production by 
+                      such covered activities) of a product, process, or 
+                      service if such information is not reasonably 
+                      necessary to carry out such covered activities.
+                          (v) Entering into any agreement or engaging in 
+                      any other conduct restricting, requiring, or 
+                      otherwise involving the production of a product, 
+                      process, or service that is not expressly exempted 
+                      from the antitrust laws under subsection (a)(4).
+                          (vi) Except as otherwise provided in this 
+                      subsection, entering into any agreement or 
+                      engaging in
+
+[[Page 120 STAT. 2879]]
+
+                      any other conduct to restrict or require 
+                      participation by any person participating in such 
+                      covered activities, in any unilateral or joint 
+                      activity that is not reasonably necessary to carry 
+                      out such covered activities.
+                          (vii) Entering into any agreement or engaging 
+                      in any other conduct restricting or setting the 
+                      price at which a countermeasure or product is 
+                      offered for sale, whether by bid or otherwise.
+
+SEC. 406. PROCUREMENT.
+
+    Section 319F-2 of the Public Health Service Act (42 U.S.C. 247d-6b) 
+is amended--
+            (1) in the section heading, by inserting ``and security 
+        countermeasure procurements'' before the period; and
+            (2) in subsection (c)--
+                    (A) in the subsection heading, by striking 
+                ``Biomedical'';
+                    (B) in paragraph (3)--
+                          (i) by striking ``countermeasures.--The 
+                      Secretary'' and inserting the following: 
+                      ``countermeasures.--
+                    ``(A) In general.--The Secretary''; and
+                          (ii) by adding at the end the following:
+                    ``(B) <<NOTE: Public information.>> Information.--
+                The Secretary shall institute a process for making 
+                publicly available the results of assessments under 
+                subparagraph (A) while withholding such information as--
+                          ``(i) would, in the judgment of the Secretary, 
+                      tend to reveal public health vulnerabilities; or
+                          ``(ii) would otherwise be exempt from 
+                      disclosure under section 552 of title 5, United 
+                      States Code.'';
+                    (C) in paragraph (4)(A), by inserting ``not 
+                developed or'' after ``currently'';
+                    (D) in paragraph (5)(B)(i), by striking ``to meet 
+                the needs of the stockpile'' and inserting ``to meet the 
+                stockpile needs'';
+                    (E) in paragraph (7)(B)--
+                          (i) by striking the subparagraph heading and 
+                      all that follows through ``Homeland Security 
+                      Secretary'' and inserting the following: 
+                      ``Interagency agreement; cost.--The Homeland 
+                      Security Secretary''; and
+                          (ii) by striking clause (ii);
+                    (F) in paragraph (7)(C)(ii)--
+                          (i) by amending subclause (I) to read as 
+                      follows:
+                                    ``(I) Payment conditioned on 
+                                delivery.--The contract shall provide 
+                                that no payment may be made until 
+                                delivery of a portion, acceptable to the 
+                                Secretary, of the total number of units 
+                                contracted for, except that, 
+                                notwithstanding any other provision of 
+                                law, the contract may provide that, if 
+                                the Secretary determines (in the 
+                                Secretary's discretion) that an advance 
+                                payment, partial payment for significant 
+                                milestones, or payment to increase 
+                                manufacturing capacity is necessary to 
+                                ensure success of a project, the 
+                                Secretary shall pay an amount, not to 
+                                exceed 10 percent of the
+
+[[Page 120 STAT. 2880]]
+
+                                contract amount, in advance of delivery. 
+                                The Secretary shall, to the extent 
+                                practicable, make the determination of 
+                                advance payment at the same time as the 
+                                issuance of a solicitation. The contract 
+                                shall provide that such advance payment 
+                                is required to be repaid if there is a 
+                                failure to perform by the vendor under 
+                                the contract. The contract may also 
+                                provide for additional advance payments 
+                                of 5 percent each for meeting the 
+                                milestones specified in such contract, 
+                                except that such payments shall not 
+                                exceed 50 percent of the total contract 
+                                amount. If the specified milestones are 
+                                reached, the advanced payments of 5 
+                                percent shall not be required to be 
+                                repaid. Nothing in this subclause shall 
+                                be construed as affecting the rights of 
+                                vendors under provisions of law or 
+                                regulation (including the Federal 
+                                Acquisition Regulation) relating to the 
+                                termination of contracts for the 
+                                convenience of the Government.''; and
+                          (ii) by adding at the end the following:
+                                    ``(VII) Sales exclusivity.--The 
+                                contract may provide that the vendor is 
+                                the exclusive supplier of the product to 
+                                the Federal Government for a specified 
+                                period of time, not to exceed the term 
+                                of the contract, on the condition that 
+                                the vendor is able to satisfy the needs 
+                                of the Government. During the agreed 
+                                period of sales exclusivity, the vendor 
+                                shall not assign its rights of sales 
+                                exclusivity to another entity or 
+                                entities without approval by the 
+                                Secretary. Such a sales exclusivity 
+                                provision in such a contract shall 
+                                constitute a valid basis for a sole 
+                                source procurement under section 
+                                303(c)(1) of the Federal Property and 
+                                Administrative Services Act of 1949 (41 
+                                U.S.C. 253(c)(1)).
+                                    ``(VIII) Warm based surge 
+                                capacity.--The contract may provide that 
+                                the vendor establish domestic 
+                                manufacturing capacity of the product to 
+                                ensure that additional production of the 
+                                product is available in the event that 
+                                the Secretary determines that there is a 
+                                need to quickly purchase additional 
+                                quantities of the product. Such contract 
+                                may provide a fee to the vendor for 
+                                establishing and maintaining such 
+                                capacity in excess of the initial 
+                                requirement for the purchase of the 
+                                product. Additionally, the cost of 
+                                maintaining the domestic manufacturing 
+                                capacity shall be an allowable and 
+                                allocable direct cost of the contract.
+                                    ``(IX) Contract terms.--The 
+                                Secretary, in any contract for 
+                                procurement under this section, may 
+                                specify--
+                                            ``(aa) the dosing and 
+                                        administration requirements for 
+                                        countermeasures to be developed 
+                                        and procured;
+                                            ``(bb) the amount of funding 
+                                        that will be dedicated by the 
+                                        Secretary for development and 
+                                        acquisition of the 
+                                        countermeasure; and
+
+[[Page 120 STAT. 2881]]
+
+                                            ``(cc) the specifications 
+                                        the countermeasure must meet to 
+                                        qualify for procurement under a 
+                                        contract under this section.''; 
+                                        and
+                    (G) in paragraph (8)(A), by adding at the end the 
+                following: ``Such agreements may allow other executive 
+                agencies to order qualified and security countermeasures 
+                under procurement contracts or other agreements 
+                established by the Secretary. Such ordering process 
+                (including transfers of appropriated funds between an 
+                agency and the Department of Health and Human Services 
+                as reimbursements for such orders for countermeasures) 
+                may be conducted under the authority of section 1535 of 
+                title 31, United States Code, except that all such 
+                orders shall be processed under the terms established 
+                under this subsection for the procurement of 
+                countermeasures.''.
+
+    Approved December 19, 2006.
+
+LEGISLATIVE HISTORY--S. 3678:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 109-319 (Comm. on Health, Education, Labor, and       
+  Pensions).
+CONGRESSIONAL RECORD, Vol. 152 (2006):
+            Dec. 5, considered and passed Senate.
+            Dec. 8, considered and passed House.
+
+                                  
+

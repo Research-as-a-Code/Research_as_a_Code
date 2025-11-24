@@ -1,0 +1,202 @@
+
+[118th Congress Public Law 105]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 138 STAT. 1587]]
+
+Public Law 118-105
+118th Congress
+
+                                 An Act
+
+
+ 
+To amend the William M. (Mac) Thornberry National Defense Authorization 
+Act for Fiscal Year 2021 to clarify the scope of a major Federal action 
+  under the National Environmental Policy Act of 1969 with respect to 
+ certain projects relating to the production of semiconductors, and for 
+          other purposes. <<NOTE: Oct. 2, 2024 -  [S. 2228]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Building Chips 
+in America Act of 2023.>> 
+SECTION 1. <<NOTE: 15 USC 4651 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Building Chips in America Act of 
+2023''.
+SEC. 2. SEMICONDUCTOR PROGRAM.
+
+    Title XCIX of division H of the William M. (Mac) Thornberry National 
+Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651 et seq.) 
+is amended--
+            (1) in section 9902 (15 U.S.C. 4652)--
+                    (A) by redesignating subsections (h) and (i) as 
+                subsections (i) and (j), respectively; and
+                    (B) by inserting after subsection (g) the following:
+
+    ``(h) Authority Relating to Environmental Review.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, the provision by the Secretary of Federal financial 
+        assistance for a project described in this section that 
+        satisfies the requirements under subsection (a)(2)(C)(i) of this 
+        section shall not be considered to be a major Federal action 
+        under the National Environmental Policy Act of 1969 (42 U.S.C. 
+        4321 et seq.) (referred to in this subsection as `NEPA') or an 
+        undertaking for the purposes of division A of subtitle III of 
+        title 54, United States Code, if--
+                    ``(A) <<NOTE: Deadline.>> the activity described in 
+                the application for that project has commenced not later 
+                than December 31, 2024;
+                    ``(B) the Federal financial assistance provided is 
+                in the form of a loan or loan guarantee; or
+                    ``(C) the Federal financial assistance provided, 
+                excluding any loan or loan guarantee, comprises not more 
+                than 10 percent of the total estimated cost of the 
+                project.
+            ``(2) Savings clause.--Nothing in this subsection may be 
+        construed as altering whether an activity described in 
+        subparagraph (A), (B), or (C) of paragraph (1) is considered to 
+        be a major Federal action under NEPA, or an undertaking under 
+        division A of subtitle III of title 54, United States Code, for 
+        a reason other than that the activity is eligible for Federal 
+        financial assistance provided under this section.''; and
+
+[[Page 138 STAT. 1588]]
+
+            (2) in section 9909 (15 U.S.C. 4659), by adding at the end 
+        the following:
+
+    ``(c) Lead Federal Agency and Cooperating Agencies.--
+            ``(1) Definition.--In this subsection, the term `lead 
+        agency' has the meaning given the term in section 111 of NEPA 
+        (42 U.S.C. 4336e).
+            ``(2) Option to serve as lead agency.--With respect to a 
+        covered activity that is a major Federal action under NEPA, and 
+        with respect to which the Department of Commerce is authorized 
+        or required by law to issue an authorization or take action for 
+        or relating to that covered activity, the Department of Commerce 
+        shall have the first right to serve as the lead agency with 
+        respect to that covered activity under NEPA.
+
+    ``(d) Categorical Exclusions.--
+            ``(1) <<NOTE: Effective date.>> Establishment of categorical 
+        exclusions.--Each of the following categorical exclusions is 
+        established for the National Institute of Standards and 
+        Technology with respect to a covered activity and, beginning on 
+        the date of enactment of this subsection, is available for use 
+        by the Secretary with respect to a covered activity:
+                    ``(A) Categorical exclusion 17.04.d (relating to the 
+                acquisition of machinery and equipment) in the document 
+                entitled `EDA Program to Implement the National 
+                Environmental Policy Act of 1969 and Other Federal 
+                Environmental Mandates As Required' (Directive No. 
+                17.02-2; effective date October 14, 1992).
+                    ``(B) Categorical exclusion A9 in Appendix A to 
+                subpart D of part 1021 of title 10, Code of Federal 
+                Regulations, or any successor regulation.
+                    ``(C) Categorical exclusions B1.24, B1.31, B2.5, and 
+                B5.1 in Appendix B to subpart D of part 1021 of title 
+                10, Code of Federal Regulations, or any successor 
+                regulation.
+                    ``(D) The categorical exclusions described in 
+                paragraphs (4) and (13) of section 50.19(b) of title 24, 
+                Code of Federal Regulations, or any successor 
+                regulation.
+                    ``(E) Categorical exclusion (c)(1) in Appendix B to 
+                part 651 of title 32, Code of Federal Regulations, or 
+                any successor regulation.
+                    ``(F) Categorical exclusions A2.3.8 and A2.3.14 in 
+                Appendix B to part 989 of title 32, Code of Federal 
+                Regulations, or any successor regulation.
+            ``(2) Additional categorical exclusions.--Notwithstanding 
+        any other provision of law, each of the following shall be 
+        treated as a category of action categorically excluded from the 
+        requirements relating to environmental assessments and 
+        environmental impact statements under section 1501.4 of title 
+        40, Code of Federal Regulations, or any successor regulation:
+                    ``(A) The provision by the Secretary of any Federal 
+                financial assistance for a project described in section 
+                9902, if the facility that is the subject of the project 
+                is on or adjacent to a site--
+                          ``(i) that is owned or leased by the covered 
+                      entity to which Federal financial assistance is 
+                      provided for that project; and
+
+[[Page 138 STAT. 1589]]
+
+                          ``(ii) on which, as of the date on which the 
+                      Secretary provides that Federal financial 
+                      assistance, substantially similar construction, 
+                      expansion, or modernization is being or has been 
+                      carried out, such that the facility would not more 
+                      than double existing developed acreage or on-site 
+                      supporting infrastructure.
+                    ``(B) The provision by the Secretary of Defense of 
+                any Federal financial assistance relating to--
+                          ``(i) the creation, expansion, or 
+                      modernization of one or more facilities described 
+                      in the second sentence of section 9903(a)(1); or
+                          ``(ii) carrying out section 9903(b), as in 
+                      effect on the date of enactment of this 
+                      subsection.
+                    ``(C) Any activity undertaken by the Secretary 
+                relating to carrying out section 9906, as in effect on 
+                the date of enactment of this subsection.
+
+    ``(e) Incorporation of Prior Planning Decisions.--
+            ``(1) Definition.--In this subsection, the term `prior 
+        studies and decisions' means baseline data, planning documents, 
+        studies, analyses, decisions, and documentation that a Federal 
+        agency has completed for a project (or that have been completed 
+        under the laws and procedures of a State or Indian Tribe), 
+        including for determining the reasonable range of alternatives 
+        for that project.
+            ``(2) <<NOTE: Determination.>> Reliance on prior studies and 
+        decisions.--In completing an environmental review under NEPA for 
+        a covered activity, the Secretary may consider and, as 
+        appropriate, rely on or adopt prior studies and decisions, if 
+        the Secretary determines that--
+                    ``(A) those prior studies and decisions meet the 
+                standards for an adequate statement, assessment, or 
+                determination under applicable procedures of the 
+                Department of Commerce implementing the requirements of 
+                NEPA;
+                    ``(B) in the case of prior studies and decisions 
+                completed under the laws and procedures of a State or 
+                Indian Tribe, those laws and procedures are of equal or 
+                greater rigor than those of each applicable Federal law, 
+                including NEPA, implementing procedures of the 
+                Department of Commerce; or
+                    ``(C) if applicable, the prior studies and decisions 
+                are informed by other analysis or documentation that 
+                would have been prepared if the prior studies and 
+                decisions were prepared by the Secretary under NEPA.
+
+    ``(f) Definitions.--In this section:
+            ``(1) Covered activity.--The term `covered activity' means 
+        any activity relating to the construction, expansion, or 
+        modernization of a facility, the investment in which is eligible 
+        for Federal financial assistance under section 9902 or 9906.
+
+[[Page 138 STAT. 1590]]
+
+            ``(2) NEPA.--The term `NEPA' means the National 
+        Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).''.
+
+    Approved October 2, 2024.
+
+LEGISLATIVE HISTORY--S. 2228:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD:
+                                                        Vol. 169 (2023):
+                                    Dec. 14, considered and passed 
+                                        Senate.
+                                                        Vol. 170 (2024):
+                                    Sept. 23, considered and passed 
+                                        House.
+
+                                  
+

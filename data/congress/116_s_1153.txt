@@ -1,0 +1,213 @@
+
+[116th Congress Public Law 251]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 134 STAT. 1129]]
+
+Public Law 116-251
+116th Congress
+
+                                 An Act
+
+
+ 
+   To explicitly make unauthorized access to Department of Education 
+information technology systems and the misuse of identification devices 
+ issued by the Department of Education a criminal act. <<NOTE: Dec. 22, 
+                          2020 -  [S. 1153]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Stop Student 
+Debt Relief Scams Act of 2019. 20 USC 1001 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stop Student Debt Relief Scams Act of 
+2019''.
+SEC. 2. CRIMINAL PENALTIES.
+
+    (a) In General.--Section 490 of the Higher Education Act of 1965 (20 
+U.S.C. 1097) is amended by adding at the end the following:
+    ``(e) Access to Department of Education Information Technology 
+Systems for Fraud, Commercial Advantage, or Private Financial Gain.--Any 
+person who knowingly uses an access device, as defined in section 
+1029(e)(1) of title 18, United States Code, issued to another person or 
+obtained by fraud or false statement to access Department information 
+technology systems for purposes of obtaining commercial advantage or 
+private financial gain, or in furtherance of any criminal or tortious 
+act in violation of the Constitution or laws of the United States or of 
+any State, shall be fined not more than $20,000, imprisoned for not more 
+than 5 years, or both.''.
+    (b) <<NOTE: 20 USC 1097 note.>>  Guidance.--The Secretary shall 
+issue guidance regarding the use of access devices in a manner that 
+complies with this Act, and the amendments made by this Act.
+
+    (c) <<NOTE: 20 USC 1097 note.>>  Effective Date of Penalties.--
+Notwithstanding section 6, the penalties described in section 490(e) of 
+the Higher Education Act of 1965 (20 U.S.C. 1097), as added by 
+subsection (a), shall take effect the day after the date on which the 
+Secretary issues guidance regarding the use of access devices, as 
+described in subsection (b).
+SEC. 3. LOAN COUNSELING.
+
+    Section 485(b) of the Higher Education Act of 1965 (20 U.S.C. 
+1092(b)) is amended--
+            (1) in clause (viii), by striking ``and'' after the 
+        semicolon; and
+            (2) by adding at the end the following:
+                          ``(x) an explanation that--
+
+[[Page 134 STAT. 1130]]
+
+                                    ``(I) the borrower may be contacted 
+                                during the repayment period by third-
+                                party student debt relief companies;
+                                    ``(II) the borrower should use 
+                                caution when dealing with those 
+                                companies; and
+                                    ``(III) the services that those 
+                                companies typically provide are already 
+                                offered to borrowers free of charge 
+                                through the Department or the borrower's 
+                                servicer; and''.
+SEC. 4. PREVENTION OF IMPROPER ACCESS.
+
+    Section 485B of the Higher Education Act of 1965 (20 U.S.C. 1092b) 
+is amended--
+            (1) by redesignating subsections (e) through (h) as 
+        subsections (f) through (i), respectively;
+            (2) in subsection (d)--
+                    (A) in paragraph (5)(C), by striking ``and'' after 
+                the semicolon;
+                    (B) in paragraph (6)(C), by striking the period at 
+                the end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(7) preventing access to the data system and any other 
+        system used to administer a program under this title by any 
+        person or entity for the purpose of assisting a student in 
+        managing loan repayment or applying for any repayment plan, 
+        consolidation loan, or other benefit authorized by this title, 
+        unless such access meets the requirements described in 
+        subsection (e).'';
+            (3) by inserting after subsection (d) the following:
+
+    ``(e) Requirements for Third-Party Data System Access.--
+            ``(1) In general.--As provided in paragraph (7) of 
+        subsection (d), an authorized person or entity described in 
+        paragraph (2) may access the data system and any other system 
+        used to administer a program under this title if that access--
+                    ``(A) <<NOTE: Federal Register, publication.>>  is 
+                in compliance with terms of service, information 
+                security standards, and a code of conduct which shall be 
+                established by the Secretary and published in the 
+                Federal Register;
+                    ``(B) is obtained using an access device (as defined 
+                in section 1029(e)(1) of title 18, United States Code) 
+                issued by the Secretary to the authorized person or 
+                entity; and
+                    ``(C) is obtained without using any access device 
+                (as defined in section 1029(e)(1) of title 18, United 
+                States Code) issued by the Secretary to a student, 
+                borrower, or parent.
+            ``(2) <<NOTE: Definition.>>  Authorized person or entity.--
+        An authorized person or entity described in this paragraph 
+        means--
+                    ``(A) a guaranty agency, eligible lender, or 
+                eligible institution, or a third-party organization 
+                acting on behalf of a guaranty agency, eligible lender, 
+                or eligible institution, that is in compliance with 
+                applicable Federal law (including regulations and 
+                guidance); or
+                    ``(B) <<NOTE: Determinations.>>  a licensed attorney 
+                representing a student, borrower, or parent, or another 
+                individual who works for a Federal, State, local, or 
+                Tribal government or agency, or for a nonprofit 
+                organization, providing financial or student loan 
+                repayment counseling to a student, borrower, or parent, 
+                if--
+
+[[Page 134 STAT. 1131]]
+
+                          ``(i) that attorney or other individual has 
+                      never engaged in unfair, deceptive, or abusive 
+                      practices, as determined by the Secretary;
+                          ``(ii) that attorney or other individual does 
+                      not work for an entity that has engaged in unfair, 
+                      deceptive, or abusive practices (including an 
+                      entity that is owned or operated by a person or 
+                      entity that engaged in such practices), as 
+                      determined by the Secretary;
+                          ``(iii) system access is provided only through 
+                      a separate point of entry; and
+                          ``(iv) the attorney or other individual has 
+                      consent from the relevant student, borrower, or 
+                      parent to access the system.''; and
+            (4) in subsection (f)(1), as redesignated by paragraph (1)--
+                    (A) in subparagraph (A), by striking ``student and 
+                parent'' and inserting ``student, borrower, and 
+                parent'';
+                    (B) by redesignating subparagraphs (C) and (D) as 
+                subparagraphs (D) and (E), respectively;
+                    (C) by inserting after subparagraph (B) the 
+                following:
+                    ``(C) the reduction in improper data system access 
+                as described in subsection (d)(7);''; and
+                    (D) by striking subparagraph (E), as redesignated by 
+                subparagraph (B), and inserting the following:
+                    ``(E) any protocols, codes of conduct, terms of 
+                service, or information security standards developed 
+                under paragraphs (6) or (7) of subsection (d) during the 
+                preceding fiscal year.''.
+SEC. 5. AGENCY PREVENTION AND DETECTION.
+
+    Section 141(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 
+1018(b)(2)) is amended by adding at the end the following:
+                    ``(C) Taking action to prevent and address the 
+                improper use of access devices, as described in section 
+                485B(d)(7), including by--
+                          ``(i) detecting common patterns of improper 
+                      use of any system that processes payments on 
+                      Federal Direct Loans or other Department 
+                      information technology systems;
+                          ``(ii) maintaining a reporting system for 
+                      contractors involved in the processing of payments 
+                      on Federal Direct Loans in order to allow those 
+                      contractors to alert the Secretary of potentially 
+                      improper use of Department information technology 
+                      systems;
+                          ``(iii) proactively contacting Federal student 
+                      loan borrowers whose Federal student loan accounts 
+                      demonstrate a likelihood of improper use in order 
+                      to warn those borrowers of suspicious activity or 
+                      potential fraud regarding their Federal student 
+                      loan accounts; and
+                          ``(iv) providing clear and simple disclosures 
+                      in communications with borrowers who are applying 
+                      for or requesting assistance with Federal Direct 
+                      Loan programs (including assistance or 
+                      applications regarding income-driven repayment, 
+                      forbearance, deferment, consolidation, 
+                      rehabilitation, cancellation, and forgiveness) to 
+                      ensure that borrowers are aware that the 
+                      Department will never require borrowers to pay for 
+                      such assistance or applications.''.
+
+[[Page 134 STAT. 1132]]
+
+SEC. 6. <<NOTE: 20 USC 1018 note.>>  EFFECTIVE DATE.
+
+    This Act, and the amendments made by this Act, shall take effect on 
+the date that is 180 days after the date of enactment of this Act.
+
+    Approved December 22, 2020.
+
+LEGISLATIVE HISTORY--S. 1153:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 166 (2020):
+            Dec. 1, considered and passed Senate.
+            Dec. 7, considered and passed House.
+
+                                  
+

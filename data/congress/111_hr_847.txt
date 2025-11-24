@@ -1,0 +1,2875 @@
+
+[111th Congress Public Law 347]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 124 STAT. 3623]]
+
+Public Law 111-347
+111th Congress
+
+                                 An Act
+
+
+ 
+To amend the Public Health Service Act to extend and improve protections 
+and services to individuals directly impacted by the terrorist attack in 
+           New York City on September 11, 2001, and for other 
+             purposes. <<NOTE: Jan. 2, 2011 -  [H.R. 847]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: James Zadroga 9/
+11 Health and Compensation Act of 2010.>> 
+SECTION 1. <<NOTE: 42 USC 201 note.>> SHORT TITLE; TABLE OF 
+                              CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``James Zadroga 9/11 
+Health and Compensation Act of 2010''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+               TITLE I--WORLD TRADE CENTER HEALTH PROGRAM
+
+Sec. 101. World Trade Center Health Program.
+
+            ``TITLE XXXIII--WORLD TRADE CENTER HEALTH PROGRAM
+
+       ``Subtitle A--Establishment of Program; Advisory Committee
+
+        ``Sec. 3301. Establishment of World Trade Center Health Program.
+        ``Sec. 3302. WTC Health Program Scientific/Technical Advisory 
+                            Committee; WTC Health Program Steering 
+                            Committees.
+        ``Sec. 3303. Education and outreach.
+        ``Sec. 3304. Uniform data collection and analysis.
+        ``Sec. 3305. Clinical Centers of Excellence and Data Centers.
+        ``Sec. 3306. Definitions.
+
+  ``Subtitle B--Program of Monitoring, Initial Health Evaluations, and 
+                                Treatment
+
+                        ``PART 1--WTC Responders
+
+        ``Sec. 3311. Identification of WTC responders and provision of 
+                            WTC-related monitoring services.
+        ``Sec. 3312. Treatment of enrolled WTC responders for WTC-
+                            related health conditions.
+        ``Sec. 3313. National arrangement for benefits for eligible 
+                            individuals outside New York.
+
+                         ``PART 2--WTC Survivors
+
+        ``Sec. 3321. Identification and initial health evaluation of 
+                            screening-eligible and certified-eligible 
+                            WTC survivors.
+        ``Sec. 3322. Followup monitoring and treatment of certified-
+                            eligible WTC survivors for WTC-related 
+                            health conditions.
+        ``Sec. 3323. Followup monitoring and treatment of other 
+                            individuals with WTC-related health 
+                            conditions.
+
+                       ``PART 3--Payor Provisions
+
+        ``Sec. 3331. Payment of claims.
+        ``Sec. 3332. Administrative arrangement authority.
+
+                 ``Subtitle C--Research Into Conditions
+
+        ``Sec. 3341. Research regarding certain health conditions 
+                            related to September 11 terrorist attacks.
+
+[[Page 124 STAT. 3624]]
+
+        ``Sec. 3342. World Trade Center Health Registry.
+
+                          ``Subtitle D--Funding
+
+        ``Sec. 3351. World Trade Center Health Program Fund.
+
+        TITLE II--SEPTEMBER 11TH VICTIM COMPENSATION FUND OF 2001
+
+Sec. 201. Definitions.
+Sec. 202. Extended and expanded eligibility for compensation.
+Sec. 203. Requirement to update regulations.
+Sec. 204. Limited liability for certain claims.
+Sec. 205. Funding; attorney fees.
+
+                  TITLE III--REVENUE RELATED PROVISIONS
+
+Sec. 301. Excise tax on foreign procurement.
+Sec. 302. Renewal of fees for visa-dependent employers.
+
+                       TITLE IV--BUDGETARY EFFECTS
+
+Sec. 401. Compliance with Statutory Pay-As-You-Go Act of 2010.
+
+               TITLE I--WORLD TRADE CENTER HEALTH PROGRAM
+
+SEC. 101. WORLD TRADE CENTER HEALTH PROGRAM.
+
+    The Public Health Service Act is amended by adding at the end the 
+following new title:
+
+            ``TITLE XXXIII--WORLD TRADE CENTER HEALTH PROGRAM
+
+       ``Subtitle A--Establishment of Program; Advisory Committee
+
+``SEC. 3301. <<NOTE: 42 USC 300mm.>> ESTABLISHMENT OF WORLD TRADE 
+                          CENTER HEALTH PROGRAM.
+
+    ``(a) In General.--There is hereby established within the Department 
+of Health and Human Services a program to be known as the World Trade 
+Center Health Program, which shall be administered by the WTC Program 
+Administrator, to provide beginning on July 1, 2011--
+            ``(1) medical monitoring and treatment benefits to eligible 
+        emergency responders and recovery and cleanup workers (including 
+        those who are Federal employees) who responded to the September 
+        11, 2001, terrorist attacks; and
+            ``(2) initial health evaluation, monitoring, and treatment 
+        benefits to residents and other building occupants and area 
+        workers in New York City who were directly impacted and 
+        adversely affected by such attacks.
+
+    ``(b) Components of Program.--The WTC Program includes the following 
+components:
+            ``(1) Medical monitoring for responders.--Medical monitoring 
+        under section 3311, including clinical examinations and long-
+        term health monitoring and analysis for enrolled WTC responders 
+        who were likely to have been exposed to airborne toxins that 
+        were released, or to other hazards, as a result of the September 
+        11, 2001, terrorist attacks.
+
+[[Page 124 STAT. 3625]]
+
+            ``(2) Initial health evaluation for survivors.--An initial 
+        health evaluation under section 3321, including an evaluation to 
+        determine eligibility for followup monitoring and treatment.
+            ``(3) Followup monitoring and treatment for wtc-related 
+        health conditions for responders and survivors.--Provision under 
+        sections 3312, 3322, and 3323 of followup monitoring and 
+        treatment and payment, subject to the provisions of subsection 
+        (d), for all medically necessary health and mental health care 
+        expenses of an individual with respect to a WTC-related health 
+        condition (including necessary prescription drugs).
+            ``(4) Outreach.--Establishment under section 3303 of an 
+        education and outreach program to potentially eligible 
+        individuals concerning the benefits under this title.
+            ``(5) Clinical data collection and analysis.--Collection and 
+        analysis under section 3304 of health and mental health data 
+        relating to individuals receiving monitoring or treatment 
+        benefits in a uniform manner in collaboration with the 
+        collection of epidemiological data under section 3342.
+            ``(6) Research on health conditions.--Establishment under 
+        subtitle C of a research program on health conditions resulting 
+        from the September 11, 2001, terrorist attacks.
+
+    ``(c) No Cost Sharing.--Monitoring and treatment benefits and 
+initial health evaluation benefits are provided under subtitle B without 
+any deductibles, copayments, or other cost sharing to an enrolled WTC 
+responder or certified-eligible WTC survivor. Initial health evaluation 
+benefits are provided under subtitle B without any deductibles, 
+copayments, or other cost sharing to a screening-eligible WTC survivor.
+    ``(d) Preventing Fraud and Unreasonable Administrative Costs.--
+            ``(1) Fraud.--The Inspector General of the Department of 
+        Health and Human Services shall develop and implement a program 
+        to review the WTC Program's health care expenditures to detect 
+        fraudulent or duplicate billing and payment for inappropriate 
+        services. This title is a Federal health care program (as 
+        defined in section 1128B(f) of the Social Security Act) and is a 
+        health plan (as defined in section 1128C(c) of such Act) for 
+        purposes of applying sections 1128 through 1128E of such Act.
+            ``(2) Unreasonable administrative costs.--The Inspector 
+        General of the Department of Health and Human Services shall 
+        develop and implement a program to review the WTC Program for 
+        unreasonable administrative costs, including with respect to 
+        infrastructure, administration, and claims processing.
+
+    ``(e) Quality Assurance.--The WTC Program Administrator working with 
+the Clinical Centers of Excellence shall develop and implement a quality 
+assurance program for the monitoring and treatment delivered by such 
+Centers of Excellence and any other participating health care providers. 
+Such program shall include--
+            ``(1) adherence to monitoring and treatment protocols;
+            ``(2) appropriate diagnostic and treatment referrals for 
+        participants;
+            ``(3) prompt communication of test results to participants; 
+        and
+
+[[Page 124 STAT. 3626]]
+
+            ``(4) such other elements as the Administrator specifies in 
+        consultation with the Clinical Centers of Excellence.
+
+    ``(f) Annual Program Report.--
+            ``(1) In general.--Not later than 6 months after the end of 
+        each fiscal year in which the WTC Program is in operation, the 
+        WTC Program Administrator shall submit an annual report to the 
+        Congress on the operations of this title for such fiscal year 
+        and for the entire period of operation of the program.
+            ``(2) Contents included in report.--Each annual report under 
+        paragraph (1) shall include at least the following:
+                    ``(A) Eligible individuals.--Information for each 
+                clinical program described in paragraph (3)--
+                          ``(i) on the number of individuals who applied 
+                      for certification under subtitle B and the number 
+                      of such individuals who were so certified;
+                          ``(ii) of the individuals who were certified, 
+                      on the number who received monitoring under the 
+                      program and the number of such individuals who 
+                      received medical treatment under the program;
+                          ``(iii) with respect to individuals so 
+                      certified who received such treatment, on the WTC-
+                      related health conditions for which they were 
+                      treated; and
+                          ``(iv) on the projected number of individuals 
+                      who will be certified under subtitle B in the 
+                      succeeding fiscal year and the succeeding 10-year 
+                      period.
+                    ``(B) Monitoring, initial health evaluation, and 
+                treatment costs.--For each clinical program so 
+                described--
+                          ``(i) information on the costs of monitoring 
+                      and initial health evaluation and the costs of 
+                      treatment and on the estimated costs of such 
+                      monitoring, evaluation, and treatment in the 
+                      succeeding fiscal year; and
+                          ``(ii) an estimate of the cost of medical 
+                      treatment for WTC-related health conditions that 
+                      have been paid for or reimbursed by workers' 
+                      compensation, by public or private health plans, 
+                      or by New York City under section 3331.
+                    ``(C) Administrative costs.--Information on the cost 
+                of administering the program, including costs of program 
+                support, data collection and analysis, and research 
+                conducted under the program.
+                    ``(D) Administrative experience.--Information on the 
+                administrative performance of the program, including--
+                          ``(i) the performance of the program in 
+                      providing timely evaluation of and treatment to 
+                      eligible individuals; and
+                          ``(ii) a list of the Clinical Centers of 
+                      Excellence and other providers that are 
+                      participating in the program.
+                    ``(E) Scientific reports.--A summary of the findings 
+                of any new scientific reports or studies on the health 
+                effects associated with exposure described in section 
+                3306(1), including the findings of research conducted 
+                under section 3341(a).
+                    ``(F) Advisory committee recommendations.--A list of 
+                recommendations by the WTC Scientific/Technical Advisory 
+                Committee on additional WTC Program eligibility
+
+[[Page 124 STAT. 3627]]
+
+                criteria and on additional WTC-related health conditions 
+                and the action of the WTC Program Administrator 
+                concerning each such recommendation.
+            ``(3) Separate clinical programs described.--In paragraph 
+        (2), each of the following shall be treated as a separate 
+        clinical program of the WTC Program:
+                    ``(A) Firefighters and related personnel.--The 
+                benefits provided for enrolled WTC responders described 
+                in section 3311(a)(2)(A).
+                    ``(B) Other wtc responders.--The benefits provided 
+                for enrolled WTC responders not described in 
+                subparagraph (A).
+                    ``(C) WTC survivors.--The benefits provided for 
+                screening-eligible WTC survivors and certified-eligible 
+                WTC survivors in section 3321(a).
+
+    ``(g) Notification to Congress Upon Reaching 80 Percent of 
+Eligibility Numerical Limits.--The Secretary shall promptly notify the 
+Congress of each of the following:
+            ``(1) When the number of enrollments of WTC responders 
+        subject to the limit established under section 3311(a)(4) has 
+        reached 80 percent of such limit.
+            ``(2) When the number of certifications for certified-
+        eligible WTC survivors subject to the limit established under 
+        section 3321(a)(3) has reached 80 percent of such limit.
+
+    ``(h) Consultation.--The WTC Program Administrator shall engage in 
+ongoing outreach and consultation with relevant stakeholders, including 
+the WTC Health Program Steering Committees and the Advisory Committee 
+under section 3302, regarding the implementation and improvement of 
+programs under this title.
+``SEC. 3302. <<NOTE: 42 USC 300mm-1.>> WTC HEALTH PROGRAM 
+                          SCIENTIFIC/TECHNICAL ADVISORY COMMITTEE; 
+                          WTC HEALTH PROGRAM STEERING COMMITTEES.
+
+    ``(a) Advisory Committee.--
+            ``(1) Establishment.--The WTC Program Administrator shall 
+        establish an advisory committee to be known as the WTC Health 
+        Program Scientific/Technical Advisory Committee (in this 
+        subsection referred to as the `Advisory Committee') to review 
+        scientific and medical evidence and to make recommendations to 
+        the Administrator on additional WTC Program eligibility criteria 
+        and on additional WTC-related health conditions.
+            ``(2) Composition.--The WTC Program Administrator shall 
+        appoint the members of the Advisory Committee and shall include 
+        at least--
+                    ``(A) 4 occupational physicians, at least 2 of whom 
+                have experience treating WTC rescue and recovery 
+                workers;
+                    ``(B) 1 physician with expertise in pulmonary 
+                medicine;
+                    ``(C) 2 environmental medicine or environmental 
+                health specialists;
+                    ``(D) 2 representatives of WTC responders;
+                    ``(E) 2 representatives of certified-eligible WTC 
+                survivors;
+                    ``(F) an industrial hygienist;
+                    ``(G) a toxicologist;
+                    ``(H) an epidemiologist; and
+                    ``(I) a mental health professional.
+
+[[Page 124 STAT. 3628]]
+
+            ``(3) Meetings.--The Advisory Committee shall meet at such 
+        frequency as may be required to carry out its duties.
+            ``(4) Reports.--The <<NOTE: Public information. Web 
+        posting.>> WTC Program Administrator shall provide for 
+        publication of recommendations of the Advisory Committee on the 
+        public Web site established for the WTC Program.
+            ``(5) Duration.--Notwithstanding any other provision of law, 
+        the Advisory Committee shall continue in operation during the 
+        period in which the WTC Program is in operation.
+            ``(6) Application of faca.--Except as otherwise specifically 
+        provided, the Advisory Committee shall be subject to the Federal 
+        Advisory Committee Act.
+
+    ``(b) WTC Health Program Steering Committees.--
+            ``(1) Consultation.--The WTC Program Administrator shall 
+        consult with 2 steering committees (each in this section 
+        referred to as a `Steering Committee') that are established as 
+        follows:
+                    ``(A) WTC responders steering committee.--One 
+                Steering Committee, to be known as the WTC Responders 
+                Steering Committee, for the purpose of receiving input 
+                from affected stakeholders and facilitating the 
+                coordination of monitoring and treatment programs for 
+                the enrolled WTC responders under part 1 of subtitle B.
+                    ``(B) WTC survivors steering committee.--One 
+                Steering Committee, to be known as the WTC Survivors 
+                Steering Committee, for the purpose of receiving input 
+                from affected stakeholders and facilitating the 
+                coordination of initial health evaluations, monitoring, 
+                and treatment programs for screening-eligible and 
+                certified-eligible WTC survivors under part 2 of 
+                subtitle B.
+            ``(2) Membership.--
+                    ``(A) WTC responders steering committee.--
+                          ``(i) Representation.--The WTC Responders 
+                      Steering Committee shall include--
+                                    ``(I) representatives of the Centers 
+                                of Excellence providing services to WTC 
+                                responders;
+                                    ``(II) representatives of labor 
+                                organizations representing firefighters, 
+                                police, other New York City employees, 
+                                and recovery and cleanup workers who 
+                                responded to the September 11, 2001, 
+                                terrorist attacks; and
+                                    ``(III) 3 representatives of New 
+                                York City, 1 of whom will be selected by 
+                                the police commissioner of New York 
+                                City, 1 by the health commissioner of 
+                                New York City, and 1 by the mayor of New 
+                                York City.
+                          ``(ii) Initial membership.--The WTC Responders 
+                      Steering Committee shall initially be composed of 
+                      members of the WTC Monitoring and Treatment 
+                      Program Steering Committee (as in existence on the 
+                      day before the date of the enactment of this 
+                      title).
+                    ``(B) WTC survivors steering committee.--
+                          ``(i) Representation.--The WTC Survivors 
+                      Steering Committee shall include representatives 
+                      of--
+                                    ``(I) the Centers of Excellence 
+                                providing services to screening-eligible 
+                                and certified-eligible WTC survivors;
+
+[[Page 124 STAT. 3629]]
+
+                                    ``(II) the population of residents, 
+                                students, and area and other workers 
+                                affected by the September 11, 2001, 
+                                terrorist attacks;
+                                    ``(III) screening-eligible and 
+                                certified-eligible survivors receiving 
+                                initial health evaluations, monitoring, 
+                                or treatment under part 2 of subtitle B 
+                                and organizations advocating on their 
+                                behalf; and
+                                    ``(IV) New York City.
+                          ``(ii) Initial membership.--The WTC Survivors 
+                      Steering Committee shall initially be composed of 
+                      members of the WTC Environmental Health Center 
+                      Survivor Advisory Committee (as in existence on 
+                      the day before the date of the enactment of this 
+                      title).
+                    ``(C) Additional appointments.--Each Steering 
+                Committee may recommend, if approved by a majority of 
+                voting members of the Committee, additional members to 
+                the Committee.
+                    ``(D) Vacancies.--A vacancy in a Steering Committee 
+                shall be filled by an individual recommended by the 
+                Steering Committee.
+``SEC. 3303. <<NOTE: 42 USC 300mm-2.>> EDUCATION AND OUTREACH.
+
+    ``The WTC Program Administrator shall institute a program that 
+provides education and outreach on the existence and availability of 
+services under the WTC Program. The outreach and education program--
+            ``(1) shall include--
+                    ``(A) <<NOTE: Web site.>> the establishment of a 
+                public Web site with information about the WTC Program;
+                    ``(B) meetings with potentially eligible 
+                populations;
+                    ``(C) development and dissemination of outreach 
+                materials informing people about the program; and
+                    ``(D) the establishment of phone information 
+                services; and
+            ``(2) shall be conducted in a manner intended--
+                    ``(A) to reach all affected populations; and
+                    ``(B) to include materials for culturally and 
+                linguistically diverse populations.
+``SEC. 3304. <<NOTE: Reports. 42 USC 300mm-3.>> UNIFORM DATA 
+                          COLLECTION AND ANALYSIS.
+
+    ``(a) In General.--The WTC Program Administrator shall provide for 
+the uniform collection of data, including claims data (and analysis of 
+data and regular reports to the Administrator) on the prevalence of WTC-
+related health conditions and the identification of new WTC-related 
+health conditions. Such data shall be collected for all individuals 
+provided monitoring or treatment benefits under subtitle B and 
+regardless of their place of residence or Clinical Center of Excellence 
+through which the benefits are provided. The WTC Program Administrator 
+shall provide, through the Data Centers or otherwise, for the 
+integration of such data into the monitoring and treatment program 
+activities under this title.
+    ``(b) Coordinating Through Centers of Excellence.--Each Clinical 
+Center of Excellence shall collect data described in subsection (a) and 
+report such data to the corresponding Data Center for analysis by such 
+Data Center.
+    ``(c) Collaboration With WTC Health Registry.--The WTC Program 
+Administrator shall provide for collaboration between the
+
+[[Page 124 STAT. 3630]]
+
+Data Centers and the World Trade Center Health Registry described in 
+section 3342.
+    ``(d) Privacy.--The data collection and analysis under this section 
+shall be conducted and maintained in a manner that protects the 
+confidentiality of individually identifiable health information 
+consistent with applicable statutes and regulations, including, as 
+applicable, HIPAA privacy and security law (as defined in section 
+3009(a)(2)) and section 552a of title 5, United States Code.
+``SEC. <<NOTE: 42 USC 300mm-4.>> 3305. CLINICAL CENTERS OF 
+                          EXCELLENCE AND DATA CENTERS.
+
+    ``(a) In General.--
+            ``(1) Contracts with clinical centers of excellence.--The 
+        WTC Program Administrator shall, subject to subsection 
+        (b)(1)(B), enter into contracts with Clinical Centers of 
+        Excellence (as defined in subsection (b)(1)(A))--
+                    ``(A) for the provision of monitoring and treatment 
+                benefits and initial health evaluation benefits under 
+                subtitle B;
+                    ``(B) for the provision of outreach activities to 
+                individuals eligible for such monitoring and treatment 
+                benefits, for initial health evaluation benefits, and 
+                for followup to individuals who are enrolled in the 
+                monitoring program;
+                    ``(C) for the provision of counseling for benefits 
+                under subtitle B, with respect to WTC-related health 
+                conditions, for individuals eligible for such benefits;
+                    ``(D) for the provision of counseling for benefits 
+                for WTC-related health conditions that may be available 
+                under workers' compensation or other benefit programs 
+                for work-related injuries or illnesses, health 
+                insurance, disability insurance, or other insurance 
+                plans or through public or private social service 
+                agencies and assisting eligible individuals in applying 
+                for such benefits;
+                    ``(E) for the provision of translational and 
+                interpretive services for program participants who are 
+                not English language proficient; and
+                    ``(F) for the collection and reporting of data, 
+                including claims data, in accordance with section 3304.
+            ``(2) Contracts with data centers.--
+                    ``(A) In general.--The WTC Program Administrator 
+                shall enter into contracts with one or more Data Centers 
+                (as defined in subsection (b)(2))--
+                          ``(i) for receiving, analyzing, and reporting 
+                      to the WTC Program Administrator on data, in 
+                      accordance with section 3304, that have been 
+                      collected and reported to such Data Centers by the 
+                      corresponding Clinical Centers of Excellence under 
+                      subsection (b)(1)(B)(iii);
+                          ``(ii) for the development of monitoring, 
+                      initial health evaluation, and treatment 
+                      protocols, with respect to WTC-related health 
+                      conditions;
+                          ``(iii) for coordinating the outreach 
+                      activities conducted under paragraph (1)(B) by 
+                      each corresponding Clinical Center of Excellence;
+                          ``(iv) for establishing criteria for the 
+                      credentialing of medical providers participating 
+                      in the nationwide network under section 3313;
+
+[[Page 124 STAT. 3631]]
+
+                          ``(v) for coordinating and administering the 
+                      activities of the WTC Health Program Steering 
+                      Committees established under section 3002(b); and
+                          ``(vi) for meeting periodically with the 
+                      corresponding Clinical Centers of Excellence to 
+                      obtain input on the analysis and reporting of data 
+                      collected under clause (i) and on the development 
+                      of monitoring, initial health evaluation, and 
+                      treatment protocols under clause (ii).
+                    ``(B) Medical provider selection.--The medical 
+                providers under subparagraph (A)(iv) shall be selected 
+                by the WTC Program Administrator on the basis of their 
+                experience treating or diagnosing the health conditions 
+                included in the list of WTC-related health conditions.
+                    ``(C) Clinical discussions.--In carrying out 
+                subparagraph (A)(ii), a Data Center shall engage in 
+                clinical discussions across the WTC Program to guide 
+                treatment approaches for individuals with a WTC-related 
+                health condition.
+                    ``(D) Transparency of data.--A contract entered into 
+                under this subsection with a Data Center shall require 
+                the Data Center to make any data collected and reported 
+                to such Center under subsection (b)(1)(B)(iii) available 
+                to health researchers and others as provided in the CDC/
+                ATSDR Policy on Releasing and Sharing Data.
+            ``(3) Authority for contracts to be class specific.--A 
+        contract entered into under this subsection with a Clinical 
+        Center of Excellence or a Data Center may be with respect to one 
+        or more class of enrolled WTC responders, screening-eligible WTC 
+        survivors, or certified-eligible WTC survivors.
+            ``(4) Use of cooperative agreements.--Any contract under 
+        this title between the WTC Program Administrator and a Data 
+        Center or a Clinical Center of Excellence may be in the form of 
+        a cooperative agreement.
+            ``(5) Review <<NOTE: Deadline. Reports.>> on feasibility of 
+        consolidating data centers.--Not later than July 1, 2011, the 
+        Comptroller General of the United States shall submit to the 
+        Committee on Energy and Commerce of the House of Representatives 
+        and the Committee on Health, Education, Labor, and Pensions of 
+        the Senate a report on the feasibility of consolidating Data 
+        Centers into a single Data Center.
+
+    ``(b) Centers of Excellence.--
+            ``(1) Clinical centers of excellence.--
+                    ``(A) Definition.--For purposes of this title, the 
+                term `Clinical Center of Excellence' means a Center that 
+                demonstrates to the satisfaction of the Administrator 
+                that the Center--
+                          ``(i) uses an integrated, centralized health 
+                      care provider approach to create a comprehensive 
+                      suite of health services under this title that are 
+                      accessible to enrolled WTC responders, screening-
+                      eligible WTC survivors, or certified-eligible WTC 
+                      survivors;
+                          ``(ii) has experience in caring for WTC 
+                      responders and screening-eligible WTC survivors or 
+                      includes health care providers who have been 
+                      trained pursuant to section 3313(c);
+
+[[Page 124 STAT. 3632]]
+
+                          ``(iii) employs health care provider staff 
+                      with expertise that includes, at a minimum, 
+                      occupational medicine, environmental medicine, 
+                      trauma-related psychiatry and psychology, and 
+                      social services counseling; and
+                          ``(iv) meets such other requirements as 
+                      specified by the Administrator.
+                    ``(B) Contract requirements.--The WTC Program 
+                Administrator shall not enter into a contract with a 
+                Clinical Center of Excellence under subsection (a)(1) 
+                unless the Center agrees to do each of the following:
+                          ``(i) Establish a formal mechanism for 
+                      consulting with and receiving input from 
+                      representatives of eligible populations receiving 
+                      monitoring and treatment benefits under subtitle B 
+                      from such Center.
+                          ``(ii) Coordinate monitoring and treatment 
+                      benefits under subtitle B with routine medical 
+                      care provided for the treatment of conditions 
+                      other than WTC-related health conditions.
+                          ``(iii) Collect and report to the 
+                      corresponding Data Center data, including claims 
+                      data, in accordance with section 3304(b).
+                          ``(iv) Have in place safeguards against fraud 
+                      that are satisfactory to the Administrator, in 
+                      consultation with the Inspector General of the 
+                      Department of Health and Human Services.
+                          ``(v) Treat or refer for treatment all 
+                      individuals who are enrolled WTC responders or 
+                      certified-eligible WTC survivors with respect to 
+                      such Center who present themselves for treatment 
+                      of a WTC-related health condition.
+                          ``(vi) Have in place safeguards, consistent 
+                      with section 3304(c), to ensure the 
+                      confidentiality of an individual's individually 
+                      identifiable health information, including 
+                      requiring that such information not be disclosed 
+                      to the individual's employer without the 
+                      authorization of the individual.
+                          ``(vii) Use amounts paid under subsection 
+                      (c)(1) only for costs incurred in carrying out the 
+                      activities described in subsection (a), other than 
+                      those described in subsection (a)(1)(A).
+                          ``(viii) Utilize health care providers with 
+                      occupational and environmental medicine expertise 
+                      to conduct physical and mental health assessments, 
+                      in accordance with protocols developed under 
+                      subsection (a)(2)(A)(ii).
+                          ``(ix) Communicate with WTC responders and 
+                      screening-eligible and certified-eligible WTC 
+                      survivors in appropriate languages and conduct 
+                      outreach activities with relevant stakeholder 
+                      worker or community associations.
+                          ``(x) Meet all the other applicable 
+                      requirements of this title, including regulations 
+                      implementing such requirements.
+                    ``(C) Transition rule to ensure continuity of 
+                care.--The WTC Program Administrator shall to the 
+                maximum extent feasible ensure continuity of care in any 
+                period of transition from monitoring and treatment of an 
+                enrolled
+
+[[Page 124 STAT. 3633]]
+
+                WTC responder or certified-eligible WTC survivor by a 
+                provider to a Clinical Center of Excellence or a health 
+                care provider participating in the nationwide network 
+                under section 3313.
+            ``(2) Data centers.--For <<NOTE: Definition.>> purposes of 
+        this title, the term `Data Center' means a Center that the WTC 
+        Program Administrator determines has the capacity to carry out 
+        the responsibilities for a Data Center under subsection (a)(2).
+            ``(3) Corresponding centers.--For purposes of this title, a 
+        Clinical Center of Excellence and a Data Center shall be treated 
+        as `corresponding' to the extent that such Clinical Center and 
+        Data Center serve the same population group.
+
+    ``(c) Payment for Infrastructure Costs.--
+            ``(1) In general.--The WTC Program Administrator shall 
+        reimburse a Clinical Center of Excellence for the fixed 
+        infrastructure costs of such Center in carrying out the 
+        activities described in subtitle B at a rate negotiated by the 
+        Administrator and such Centers. Such negotiated rate shall be 
+        fair and appropriate and take into account the number of 
+        enrolled WTC responders receiving services from such Center 
+        under this title.
+            ``(2) Fixed <<NOTE: Definition.>> infrastructure costs.--For 
+        purposes of paragraph (1), the term `fixed infrastructure costs' 
+        means, with respect to a Clinical Center of Excellence, the 
+        costs incurred by such Center that are not otherwise 
+        reimbursable by the WTC Program Administrator under section 
+        3312(c) for patient evaluation, monitoring, or treatment but 
+        which are needed to operate the WTC program such as the costs 
+        involved in outreach to participants or recruiting participants, 
+        data collection and analysis, social services for counseling 
+        patients on other available assistance outside the WTC program, 
+        and the development of treatment protocols. Such term does not 
+        include costs for new construction or other capital costs.
+
+    ``(d) GAO Analysis.--Not <<NOTE: Deadline.>> later than July 1, 
+2011, the Comptroller General shall submit to the Committee on Energy 
+and Commerce of the House of Representatives and the Committee on 
+Health, Education, Labor, and Pensions of the Senate an analysis on 
+whether Clinical Centers of Excellence with which the WTC Program 
+Administrator enters into a contract under this section have financial 
+systems that will allow for the timely submission of claims data for 
+purposes of section 3304 and subsections (a)(1)(F) and (b)(1)(B)(iii).
+``SEC. 3306. <<NOTE: 42 USC 300mm-5.>> DEFINITIONS.
+
+    ``In this title:
+            ``(1) The term `aggravating' means, with respect to a health 
+        condition, a health condition that existed on September 11, 
+        2001, and that, as a result of exposure to airborne toxins, any 
+        other hazard, or any other adverse condition resulting from the 
+        September 11, 2001, terrorist attacks, requires medical 
+        treatment that is (or will be) in addition to, more frequent 
+        than, or of longer duration than the medical treatment that 
+        would have been required for such condition in the absence of 
+        such exposure.
+            ``(2) The term `certified-eligible WTC survivor' has the 
+        meaning given such term in section 3321(a)(2).
+            ``(3) The terms `Clinical Center of Excellence' and `Data 
+        Center' have the meanings given such terms in section 3305.
+
+[[Page 124 STAT. 3634]]
+
+            ``(4) The term `enrolled WTC responder' means a WTC 
+        responder enrolled under section 3311(a)(3).
+            ``(5) The term `initial health evaluation' includes, with 
+        respect to an individual, a medical and exposure history, a 
+        physical examination, and additional medical testing as needed 
+        to evaluate whether the individual has a WTC-related health 
+        condition and is eligible for treatment under the WTC Program.
+            ``(6) The term `list of WTC-related health conditions' 
+        means--
+                    ``(A) for WTC responders, the health conditions 
+                listed in section 3312(a)(3); and
+                    ``(B) for screening-eligible and certified-eligible 
+                WTC survivors, the health conditions listed in section 
+                3322(b).
+            ``(7) The term `New York City disaster area' means the area 
+        within New York City that is--
+                    ``(A) the area of Manhattan that is south of Houston 
+                Street; and
+                    ``(B) any block in Brooklyn that is wholly or 
+                partially contained within a 1.5-mile radius of the 
+                former World Trade Center site.
+            ``(8) The term `New York metropolitan area' means an area, 
+        specified by the WTC Program Administrator, within which WTC 
+        responders and eligible WTC screening-eligible survivors who 
+        reside in such area are reasonably able to access monitoring and 
+        treatment benefits and initial health evaluation benefits under 
+        this title through a Clinical Center of Excellence described in 
+        subparagraphs (A), (B), or (C) of section 3305(b)(1).
+            ``(9) The term `screening-eligible WTC survivor' has the 
+        meaning given such term in section 3321(a)(1).
+            ``(10) Any reference to `September 11, 2001' shall be deemed 
+        a reference to the period on such date subsequent to the 
+        terrorist attacks at the World Trade Center, Shanksville, 
+        Pennsylvania, or the Pentagon, as applicable, on such date.
+            ``(11) The term `September 11, 2001, terrorist attacks' 
+        means the terrorist attacks that occurred on September 11, 2001, 
+        in New York City, in Shanksville, Pennsylvania, and at the 
+        Pentagon, and includes the aftermath of such attacks.
+            ``(12) The term `WTC Health Program Steering Committee' 
+        means such a Steering Committee established under section 
+        3302(b).
+            ``(13) The term `WTC Program' means the Word Trade Center 
+        Health Program established under section 3301(a).
+            ``(14)(A) The term `WTC Program Administrator' means--
+                    ``(i) subject to subparagraph (B), with respect to 
+                paragraphs (3) and (4) of section 3311(a) (relating to 
+                enrollment of WTC responders), section 3312(c) and the 
+                corresponding provisions of section 3322 (relating to 
+                payment for initial health evaluation, monitoring, and 
+                treatment, paragraphs (1)(C), (2)(B), and (3) of section 
+                3321(a) (relating to determination or certification of 
+                screening-eligible or certified-eligible WTC 
+                responders), and part 3 of subtitle B (relating to payor 
+                provisions), an official in the Department of Health and 
+                Human Services, to be designated by the Secretary; and
+                    ``(ii) with respect to any other provision of this 
+                title, the Director of the National Institute for 
+                Occupational Safety and Health, or a designee of such 
+                Director.
+
+[[Page 124 STAT. 3635]]
+
+            ``(B) In no case may the Secretary designate under 
+        subparagraph (A)(i) the Director of the National Institute for 
+        Occupational Safety and Health or a designee of such Director 
+        with respect to section 3322 (relating to payment for initial 
+        health evaluation, monitoring, and treatment).
+            ``(15) The term `WTC-related health condition' is defined in 
+        section 3312(a).
+            ``(16) The term `WTC responder' is defined in section 
+        3311(a).
+            ``(17) The term `WTC Scientific/Technical Advisory 
+        Committee' means such Committee established under section 
+        3302(a).
+
+  ``Subtitle B--Program of Monitoring, Initial Health Evaluations, and 
+                                Treatment
+
+                        ``PART 1--WTC RESPONDERS
+
+``SEC. <<NOTE: 42 USC 300mm-21.>> 3311. IDENTIFICATION OF WTC 
+                          RESPONDERS AND PROVISION OF WTC-RELATED 
+                          MONITORING SERVICES.
+
+    ``(a) WTC Responder Defined.--
+            ``(1) In general.--For purposes of this title, the term `WTC 
+        responder' means any of the following individuals, subject to 
+        paragraph (4):
+                    ``(A) Currently identified responder.--An individual 
+                who has been identified as eligible for monitoring under 
+                the arrangements as in effect on the date of the 
+                enactment of this title between the National Institute 
+                for Occupational Safety and Health and--
+                          ``(i) the consortium coordinated by Mt. Sinai 
+                      Hospital in New York City that coordinates the 
+                      monitoring and treatment for enrolled WTC 
+                      responders other than with respect to those 
+                      covered under the arrangement with the Fire 
+                      Department of New York City; or
+                          ``(ii) the Fire Department of New York City.
+                    ``(B) Responder who meets current eligibility 
+                criteria.--An individual who meets the current 
+                eligibility criteria described in paragraph (2).
+                    ``(C) Responder who meets modified eligibility 
+                criteria.--An individual who--
+                          ``(i) performed rescue, recovery, demolition, 
+                      debris cleanup, or other related services in the 
+                      New York City disaster area in response to the 
+                      September 11, 2001, terrorist attacks, regardless 
+                      of whether such services were performed by a State 
+                      or Federal employee or member of the National 
+                      Guard or otherwise; and
+                          ``(ii) meets such eligibility criteria 
+                      relating to exposure to airborne toxins, other 
+                      hazards, or adverse conditions resulting from the 
+                      September 11, 2001, terrorist attacks as the WTC 
+                      Program Administrator, after consultation with the 
+                      WTC Scientific/Technical Advisory Committee, 
+                      determines appropriate.
+                The WTC Program Administrator shall not modify such 
+                eligibility criteria on or after the date that the 
+                number of enrollments of WTC responders has reached 80 
+                percent of the limit described in paragraph (4) or on or 
+                after the
+
+[[Page 124 STAT. 3636]]
+
+                date that the number of certifications for certified-
+                eligible WTC survivors under section 3321(a)(2)(B) has 
+                reached 80 percent of the limit described in section 
+                3321(a)(3).
+            ``(2) Current eligibility <<NOTE: Time 
+        periods.>> criteria.--The eligibility criteria described in this 
+        paragraph for an individual is that the individual is described 
+        in any of the following categories:
+                    ``(A) Firefighters and related personnel.--The 
+                individual--
+                          ``(i) was a member of the Fire Department of 
+                      New York City (whether fireor emergency personnel, 
+                      active or retired) who participated at least one 
+                      day in the rescue and recovery effort at any of 
+                      the former World Trade Center sites (including 
+                      Ground Zero, Staten Island Landfill, and the New 
+                      York City Chief Medical Examiner's Office) for any 
+                      time during the period beginning on September 11, 
+                      2001, and ending on July 31, 2002; or
+                          ``(ii)(I) is a surviving immediate family 
+                      member of an individual who was a member of the 
+                      Fire Department of New York City (whether fire or 
+                      emergency personnel, active or retired) and was 
+                      killed at the World Trade site on September 11, 
+                      2001; and
+                          ``(II) received any treatment for a WTC-
+                      related health condition described in section 
+                      3312(a)(1)(A)(ii) (relating to mental health 
+                      conditions) on or before September 1, 2008.
+                    ``(B) Law enforcement officers and wtc rescue, 
+                recovery, and cleanup workers.--The individual--
+                          ``(i) worked or volunteered onsite in rescue, 
+                      recovery, debris cleanup, or related support 
+                      services in lower Manhattan (south of Canal St.), 
+                      the Staten Island Landfill, or the barge loading 
+                      piers, for at least 4 hours during the period 
+                      beginning on September 11, 2001, and ending on 
+                      September 14, 2001, for at least 24 hours during 
+                      the period beginning on September 11, 2001, and 
+                      ending on September 30, 2001, or for at least 80 
+                      hours during the period beginning on September 11, 
+                      2001, and ending on July 31, 2002;
+                          ``(ii)(I) was a member of the Police 
+                      Department of New York City (whether active or 
+                      retired) or a member of the Port Authority Police 
+                      of the Port Authority of New York and New Jersey 
+                      (whether active or retired) who participated 
+                      onsite in rescue, recovery, debris cleanup, or 
+                      related services in lower Manhattan (south of 
+                      Canal St.), including Ground Zero, the Staten 
+                      Island Landfill, or the barge loading piers, for 
+                      at least 4 hours during the period beginning 
+                      September 11, 2001, and ending on September 14, 
+                      2001;
+                          ``(II) participated onsite in rescue, 
+                      recovery, debris cleanup, or related services at 
+                      Ground Zero, the Staten Island Landfill, or the 
+                      barge loading piers, for at least one day during 
+                      the period beginning on September 11, 2001, and 
+                      ending on July 31, 2002;
+                          ``(III) participated onsite in rescue, 
+                      recovery, debris cleanup, or related services in 
+                      lower Manhattan (south of Canal St.) for at least 
+                      24 hours during the period
+
+[[Page 124 STAT. 3637]]
+
+                      beginning on September 11, 2001, and ending on 
+                      September 30, 2001; or
+                          ``(IV) participated onsite in rescue, 
+                      recovery, debris cleanup, or related services in 
+                      lower Manhattan (south of Canal St.) for at least 
+                      80 hours during the period beginning on September 
+                      11, 2001, and ending on July 31, 2002;
+                          ``(iii) was an employee of the Office of the 
+                      Chief Medical Examiner of New York City involved 
+                      in the examination and handling of human remains 
+                      from the World Trade Center attacks, or other 
+                      morgue worker who performed similar post-September 
+                      11 functions for such Office staff, during the 
+                      period beginning on September 11, 2001, and ending 
+                      on July 31, 2002;
+                          ``(iv) was a worker in the Port Authority 
+                      Trans-Hudson Corporation Tunnel for at least 24 
+                      hours during the period beginning on February 1, 
+                      2002, and ending on July 1, 2002; or
+                          ``(v) was a vehicle-maintenance worker who was 
+                      exposed to debris from the former World Trade 
+                      Center while retrieving, driving, cleaning, 
+                      repairing, and maintaining vehicles contaminated 
+                      by airborne toxins from the September 11, 2001, 
+                      terrorist attacks during a duration and period 
+                      described in subparagraph (A).
+                    ``(C) Responders to the september 11 attacks at the 
+                pentagon and shanksville, pennsylvania.--The 
+                individual--
+                          ``(i)(I) was a member of a fire or police 
+                      department (whether fire or emergency personnel, 
+                      active or retired), worked for a recovery or 
+                      cleanup contractor, or was a volunteer; and 
+                      performed rescue, recovery, demolition, debris 
+                      cleanup, or other related services at the Pentagon 
+                      site of the terrorist-related aircraft crash of 
+                      September 11, 2001, during the period beginning on 
+                      September 11, 2001, and ending on the date on 
+                      which the cleanup of the site was concluded, as 
+                      determined by the WTC Program Administrator; or
+                          ``(II) was a member of a fire or police 
+                      department (whether fire or emergency personnel, 
+                      active or retired), worked for a recovery or 
+                      cleanup contractor, or was a volunteer; and 
+                      performed rescue, recovery, demolition, debris 
+                      cleanup, or other related services at the 
+                      Shanksville, Pennsylvania, site of the terrorist-
+                      related aircraft crash of September 11, 2001, 
+                      during the period beginning on September 11, 2001, 
+                      and ending on the date on which the cleanup of the 
+                      site was concluded, as determined by the WTC 
+                      Program Administrator; and
+                          ``(ii) is determined by the WTC Program 
+                      Administrator to be at an increased risk of 
+                      developing a WTC-related health condition as a 
+                      result of exposure to airborne toxins, other 
+                      hazards, or adverse conditions resulting from the 
+                      September 11, 2001, terrorist attacks, and meets 
+                      such eligibility criteria related to such 
+                      exposures, as the WTC Program Administrator 
+                      determines are appropriate, after consultation 
+                      with the WTC Scientific/Technical Advisory 
+                      Committee.
+
+[[Page 124 STAT. 3638]]
+
+            ``(3) Enrollment process.--
+                    ``(A) In general.--The WTC Program Administrator 
+                shall establish a process for enrolling WTC responders 
+                in the WTC Program. Under such process--
+                          ``(i) WTC responders described in paragraph 
+                      (1)(A) shall be deemed to be enrolled in such 
+                      Program;
+                          ``(ii) subject to clause (iii), the 
+                      Administrator shall enroll in such program 
+                      individuals who are determined to be WTC 
+                      responders;
+                          ``(iii) the Administrator shall deny such 
+                      enrollment to an individual if the Administrator 
+                      determines that the numerical limitation in 
+                      paragraph (4) on enrollment of WTC responders has 
+                      been met;
+                          ``(iv) there shall be no fee charged to the 
+                      applicant for making an application for such 
+                      enrollment;
+                          ``(v) <<NOTE: Determination. Deadline.>> the 
+                      Administrator shall make a determination on such 
+                      an application not later than 60 days after the 
+                      date of filing the application; and
+                          ``(vi) an individual who is denied enrollment 
+                      in such Program shall have an opportunity to 
+                      appeal such determination in a manner established 
+                      under such process.
+                    ``(B) Timing.--
+                          ``(i) Currently 
+                      identified <<NOTE: Deadline.>> responders.--In 
+                      accordance with subparagraph (A)(i), the WTC 
+                      Program Administrator shall enroll an individual 
+                      described in paragraph (1)(A) in the WTC Program 
+                      not later than July 1, 2011.
+                          ``(ii) Other responders.--In accordance with 
+                      subparagraph (A)(ii) and consistent with paragraph 
+                      (4), the WTC Program Administrator shall enroll 
+                      any other individual who is determined to be a WTC 
+                      responder in the WTC Program at the time of such 
+                      determination.
+            ``(4) Numerical limitation on eligible wtc responders.--
+                    ``(A) In general.--The total number of individuals 
+                not described in paragraph (1)(A) or (2)(A)(ii) who may 
+                be enrolled under paragraph (3)(A)(ii) shall not exceed 
+                25,000 at any time, of which no more than 2,500 may be 
+                individuals enrolled based on modified eligibility 
+                criteria established under paragraph (1)(C).
+                    ``(B) Process.--In implementing subparagraph (A), 
+                the WTC Program Administrator shall--
+                          ``(i) limit the number of enrollments made 
+                      under paragraph (3)--
+                                    ``(I) in accordance with such 
+                                subparagraph; and
+                                    ``(II) to such number, as determined 
+                                by the Administrator based on the best 
+                                available information and subject to 
+                                amounts available under section 3351, 
+                                that will ensure sufficient funds will 
+                                be available to provide treatment and 
+                                monitoring benefits under this title, 
+                                with respect to all individuals who are 
+                                enrolled through the end of fiscal year 
+                                2020; and
+
+[[Page 124 STAT. 3639]]
+
+                          ``(ii) provide priority (subject to paragraph 
+                      (3)(A)(i)) in such enrollments in the order in 
+                      which individuals apply for enrollment under 
+                      paragraph (3).
+            ``(5) Disqualification of individuals on terrorist watch 
+        list.--No individual who is on the terrorist watch list 
+        maintained by the Department of Homeland Security shall qualify 
+        as an eligible WTC responder. <<NOTE: Determination.>> Before 
+        enrolling any individual as a WTC responder in the WTC Program 
+        under paragraph (3), the Administrator, in consultation with the 
+        Secretary of Homeland Security, shall determine whether the 
+        individual is on such list.
+
+    ``(b) Monitoring Benefits.--
+            ``(1) In general.--In the case of an enrolled WTC responder 
+        (other than one described in subsection (a)(2)(A)(ii)), the WTC 
+        Program shall provide for monitoring benefits that include 
+        monitoring consistent with protocols approved by the WTC Program 
+        Administrator and including clinical examinations and long-term 
+        health monitoring and analysis. In the case of an enrolled WTC 
+        responder who is an active member of the Fire Department of New 
+        York City, the responder shall receive such benefits as part of 
+        the individual's periodic company medical exams.
+            ``(2) Provision of monitoring benefits.--The monitoring 
+        benefits under paragraph (1) shall be provided through the 
+        Clinical Center of Excellence for the type of individual 
+        involved or, in the case of an individual residing outside the 
+        New York metropolitan area, under an arrangement under section 
+        3313.
+``SEC. 3312. <<NOTE: 42 USC 300mm-22.>> TREATMENT OF ENROLLED WTC 
+                          RESPONDERS FOR WTC-RELATED HEALTH 
+                          CONDITIONS.
+
+    ``(a) WTC-Related Health Condition Defined.--
+            ``(1) In general.--For purposes of this title, the term 
+        `WTC-related health condition' means a condition that--
+                    ``(A)(i) is an illness or health condition for which 
+                exposure to airborne toxins, any other hazard, or any 
+                other adverse condition resulting from the September 11, 
+                2001, terrorist attacks, based on an examination by a 
+                medical professional with experience in treating or 
+                diagnosing the health conditions included in the 
+                applicable list of WTC-related health conditions, is 
+                substantially likely to be a significant factor in 
+                aggravating, contributing to, or causing the illness or 
+                health condition, as determined under paragraph (2); or
+                    ``(ii) is a mental health condition for which such 
+                attacks, based on an examination by a medical 
+                professional with experience in treating or diagnosing 
+                the health conditions included in the applicable list of 
+                WTC-related health conditions, is substantially likely 
+                to be a significant factor in aggravating, contributing 
+                to, or causing the condition, as determined under 
+                paragraph (2); and
+                    ``(B) is included in the applicable list of WTC-
+                related health conditions or--
+                          ``(i) with respect to a WTC responder, is 
+                      provided certification of coverage under 
+                      subsection (b)(2)(B)(iii); or
+                          ``(ii) with respect to a screening-eligible 
+                      WTC survivor or certified-eligible WTC survivor, 
+                      is provided
+
+[[Page 124 STAT. 3640]]
+
+                      certification of coverage under subsection 
+                      (b)(2)(B)(iii), as applied under section 3322(a).
+        In the case of a WTC responder described in section 
+        3311(a)(2)(A)(ii) (relating to a surviving immediate family 
+        member of a firefighter), such term does not include an illness 
+        or health condition described in subparagraph (A)(i).
+            ``(2) Determination.--The determination under paragraph (1) 
+        or subsection (b) of whether the September 11, 2001, terrorist 
+        attacks were substantially likely to be a significant factor in 
+        aggravating, contributing to, or causing an individual's illness 
+        or health condition shall be made based on an assessment of the 
+        following:
+                    ``(A) The individual's exposure to airborne toxins, 
+                any other hazard, or any other adverse condition 
+                resulting from the terrorist attacks. Such exposure 
+                shall be--
+                          ``(i) evaluated and characterized through the 
+                      use of a standardized, population-appropriate 
+                      questionnaire approved by the Director of the 
+                      National Institute for Occupational Safety and 
+                      Health; and
+                          ``(ii) assessed and documented by a medical 
+                      professional with experience in treating or 
+                      diagnosing health conditions included on the list 
+                      of WTC-related health conditions.
+                    ``(B) The type of symptoms and temporal sequence of 
+                symptoms. Such symptoms shall be--
+                          ``(i) assessed through the use of a 
+                      standardized, population-appropriate medical 
+                      questionnaire approved by the Director of the 
+                      National Institute for Occupational Safety and 
+                      Health and a medical examination; and
+                          ``(ii) diagnosed and documented by a medical 
+                      professional described in subparagraph (A)(ii).
+            ``(3) List of health conditions for wtc responders.--The 
+        list of health conditions for WTC responders consists of the 
+        following:
+                    ``(A) Aerodigestive disorders.--
+                          ``(i) Interstitial lung diseases.
+                          ``(ii) Chronic respiratory disorder--fumes/
+                      vapors.
+                          ``(iii) Asthma.
+                          ``(iv) Reactive airways dysfunction syndrome 
+                      (RADS).
+                          ``(v) WTC-exacerbated chronic obstructive 
+                      pulmonary disease (COPD).
+                          ``(vi) Chronic cough syndrome.
+                          ``(vii) Upper airway hyperreactivity.
+                          ``(viii) Chronic rhinosinusitis.
+                          ``(ix) Chronic nasopharyngitis.
+                          ``(x) Chronic laryngitis.
+                          ``(xi) Gastroesophageal reflux disorder 
+                      (GERD).
+                          ``(xii) Sleep apnea exacerbated by or related 
+                      to a condition described in a previous clause.
+                    ``(B) Mental health conditions.--
+                          ``(i) Posttraumatic stress disorder (PTSD).
+                          ``(ii) Major depressive disorder.
+                          ``(iii) Panic disorder.
+                          ``(iv) Generalized anxiety disorder.
+                          ``(v) Anxiety disorder (not otherwise 
+                      specified).
+
+[[Page 124 STAT. 3641]]
+
+                          ``(vi) Depression (not otherwise specified).
+                          ``(vii) Acute stress disorder.
+                          ``(viii) Dysthymic disorder.
+                          ``(ix) Adjustment disorder.
+                          ``(x) Substance abuse.
+                    ``(C) Musculoskeletal disorders for certain wtc 
+                responders.--In the case of a WTC responder described in 
+                paragraph (4), a condition described in such paragraph.
+                    ``(D) Additional conditions.--Any cancer (or type of 
+                cancer) or other condition added, pursuant to paragraph 
+                (5) or (6), to the list under this paragraph.
+            ``(4) Musculoskeletal disorders.--
+                    ``(A) In general.--For purposes of this title, in 
+                the case of a WTC responder who received any treatment 
+                for a WTC-related musculoskeletal disorder on or before 
+                September 11, 2003, the list of health conditions in 
+                paragraph (3) shall include:
+                          ``(i) Low back pain.
+                          ``(ii) Carpal tunnel syndrome (CTS).
+                          ``(iii) Other musculoskeletal disorders.
+                    ``(B) Definition.--The term `WTC-related 
+                musculoskeletal disorder' means a chronic or recurrent 
+                disorder of the musculoskeletal system caused by heavy 
+                lifting or repetitive strain on the joints or 
+                musculoskeletal system occurring during rescue or 
+                recovery efforts in the New York City disaster area in 
+                the aftermath of the September 11, 2001, terrorist 
+                attacks.
+            ``(5) Cancer.--
+                    ``(A) In general.--
+                The <<NOTE: Deadlines. Review.>> WTC Program 
+                Administrator shall periodically conduct a review of all 
+                available scientific and medical evidence, including 
+                findings and recommendations of Clinical Centers of 
+                Excellence, published in peer-reviewed journals to 
+                determine if, based on such evidence, cancer or a 
+                certain type of cancer should be added to the applicable 
+                list of WTC-related health conditions. The WTC Program 
+                Administrator shall conduct the first review under this 
+                subparagraph not later than 180 days after the date of 
+                the enactment of this title.
+                    ``(B) Proposed regulations and rulemaking.--Based on 
+                the periodic reviews under subparagraph (A), if the WTC 
+                Program Administrator determines that cancer or a 
+                certain type of cancer should be added to such list of 
+                WTC-related health conditions, the WTC Program 
+                Administrator shall propose regulations, through 
+                rulemaking, to add cancer or the certain type of cancer 
+                to such list.
+                    ``(C) Final regulations.--
+                Based <<NOTE: Determination.>> on all the available 
+                evidence in the rulemaking record, the WTC Program 
+                Administrator shall make a final determination of 
+                whether cancer or a certain type of cancer should be 
+                added to such list of WTC-related health conditions. If 
+                such a determination is made to make such an addition, 
+                the WTC Program Administrator shall by regulation add 
+                cancer or the certain type of cancer to such list.
+                    ``(D) Determinations not to add cancer or certain 
+                types of cancer.--In <<NOTE: Federal Register, 
+                publication.>> the case that the WTC Program 
+                Administrator determines under subparagraph (B) or (C) 
+                that cancer or a certain type of cancer should not be 
+                added
+
+[[Page 124 STAT. 3642]]
+
+                to such list of WTC-related health conditions, the WTC 
+                Program Administrator shall publish an explanation for 
+                such determination in the Federal Register. Any such 
+                determination to not make such an addition shall not 
+                preclude the addition of cancer or the certain type of 
+                cancer to such list at a later date.
+            ``(6) Addition of health conditions to list for wtc 
+        responders.--
+                    ``(A) In general.--Whenever the WTC Program 
+                Administrator determines that a proposed rule should be 
+                promulgated to add a health condition to the list of 
+                health conditions in paragraph (3), the Administrator 
+                may request a recommendation of the Advisory Committee 
+                or may publish such a proposed rule in the Federal 
+                Register in accordance with subparagraph (D).
+                    ``(B) Administrator's options after receipt of 
+                petition.--In the <<NOTE: Deadline. Recommenda- 
+                tion. Federal Register, publication.>> case that the WTC 
+                Program Administrator receives a written petition by an 
+                interested party to add a health condition to the list 
+                of health conditions in paragraph (3), not later than 60 
+                days after the date of receipt of such petition the 
+                Administrator shall--
+                          ``(i) request a recommendation of the Advisory 
+                      Committee;
+                          ``(ii) publish a proposed rule in the Federal 
+                      Register to add such health condition, in 
+                      accordance with subparagraph (D);
+                          ``(iii) publish in the Federal Register the 
+                      Administrator's determination not to publish such 
+                      a proposed rule and the basis for such 
+                      determination; or
+                          ``(iv) publish in the Federal Register a 
+                      determination that insufficient evidence exists to 
+                      take action under clauses (i) through (iii).
+                    ``(C) Action by advisory committee.--
+                In <<NOTE: Recommenda- tion. Deadlines.>> the case that 
+                the Administrator requests a recommendation of the 
+                Advisory Committee under this paragraph, with respect to 
+                adding a health condition to the list in paragraph (3), 
+                the Advisory Committee shall submit to the Administrator 
+                such recommendation not later than 60 days after the 
+                date of such request or by such date (not to exceed 180 
+                days after such date of request) as specified by the 
+                Administrator. Not later than <<NOTE: Federal Register, 
+                publication.>> 60 days after the date of receipt of such 
+                recommendation, the Administrator shall, in accordance 
+                with subparagraph (D), publish in the Federal Register a 
+                proposed rule with respect to such recommendation or a 
+                determination not to propose such a proposed rule and 
+                the basis for such determination.
+                    ``(D) Publication.--The WTC Program Administrator 
+                shall, with respect to any proposed rule under this 
+                paragraph--
+                          ``(i) publish such proposed rule in accordance 
+                      with section 553 of title 5, United States Code; 
+                      and
+                          ``(ii) <<NOTE: Comment period.>> provide 
+                      interested parties a period of 30 days after such 
+                      publication to submit written comments on the 
+                      proposed rule.
+                The WTC Program Administrator may <<NOTE: Federal 
+                Register, publication.>> extend the period described in 
+                clause (ii) upon a finding of good cause. In
+
+[[Page 124 STAT. 3643]]
+
+                the case of such an extension, the Administrator shall 
+                publish such extension in the Federal Register.
+                    ``(E) Interested <<NOTE: Definition.>> party 
+                defined.--For purposes of this paragraph, the term 
+                `interested party' includes a representative of any 
+                organization representing WTC responders, a nationally 
+                recognized medical association, a Clinical or Data 
+                Center, a State or political subdivision, or any other 
+                interested person.
+
+    ``(b) Coverage of Treatment for WTC-Related Health Conditions.--
+            ``(1) Determination for enrolled wtc responders based on a 
+        wtc-related health condition.--
+                    ``(A) In general.--If a physician at a Clinical 
+                Center of Excellence that is providing monitoring 
+                benefits under section 3311 for an enrolled WTC 
+                responder makes a determination that the responder has a 
+                WTC-related health condition that is in the list in 
+                subsection (a)(3) and that exposure to airborne toxins, 
+                other hazards, or adverse conditions resulting from the 
+                September 1, 2001, terrorist attacks is substantially 
+                likely to be a significant factor in aggravating, 
+                contributing to, or causing the condition--
+                          ``(i) the physician shall promptly transmit 
+                      such determination to the WTC Program 
+                      Administrator and provide the Administrator with 
+                      the medical facts supporting such determination; 
+                      and
+                          ``(ii) on and after the date of such 
+                      transmittal and subject to subparagraph (B), the 
+                      WTC Program shall provide for payment under 
+                      subsection (c) for medically necessary treatment 
+                      for such condition.
+                    ``(B) Review; certification; appeals.--
+                          ``(i) Review.--A Federal employee designated 
+                      by the WTC Program Administrator shall review 
+                      determinations made under subparagraph (A).
+                          ``(ii) Certification.--The Administrator shall 
+                      provide a certification of such condition based 
+                      upon reviews conducted under clause (i). Such a 
+                      certification shall be provided unless the 
+                      Administrator determines that the responder's 
+                      condition is not a WTC-related health condition in 
+                      the list in subsection (a)(3) or that exposure to 
+                      airborne toxins, other hazards, or adverse 
+                      conditions resulting from the September 1, 2001, 
+                      terrorist attacks is not substantially likely to 
+                      be a significant factor in aggravating, 
+                      contributing to, or causing the condition.
+                          ``(iii) Appeal process.--
+                      The <<NOTE: Regulations.>> Administrator shall 
+                      establish, by rule, a process for the appeal of 
+                      determinations under clause (ii).
+            ``(2) Determination based on medically associated wtc-
+        related health conditions.--
+                    ``(A) In general.--If a physician at a Clinical 
+                Center of Excellence determines pursuant to subsection 
+                (a) that the enrolled WTC responder has a health 
+                condition described in subsection (a)(1)(A) that is not 
+                in the list in subsection (a)(3) but which is medically 
+                associated with a WTC-related health condition--
+                          ``(i) the physician shall promptly transmit 
+                      such determination to the WTC Program 
+                      Administrator and
+
+[[Page 124 STAT. 3644]]
+
+                      provide the Administrator with the facts 
+                      supporting such determination; and
+                          ``(ii) the Administrator shall make a 
+                      determination under subparagraph (B) with respect 
+                      to such physician's determination.
+                    ``(B) Procedures <<NOTE: Regulations.>> for review, 
+                certification, and appeal.--The WTC Program 
+                Administrator shall, by rule, establish procedures for 
+                the review and certification of physician determinations 
+                under subparagraph (A). Such rule shall provide for--
+                          ``(i) the timely review of such a 
+                      determination by a physician panel with 
+                      appropriate expertise for the condition and 
+                      recommendations to the WTC Program Administrator;
+                          ``(ii) <<NOTE: Deadline.>> not later than 60 
+                      days after the date of the transmittal under 
+                      subparagraph (A)(i), a determination by the WTC 
+                      Program Administrator on whether or not the 
+                      condition involved is described in subsection 
+                      (a)(1)(A) and is medically associated with a WTC-
+                      related health condition;
+                          ``(iii) certification in accordance with 
+                      paragraph (1)(B)(ii) of coverage of such condition 
+                      if determined to be described in subsection 
+                      (a)(1)(A) and medically associated with a WTC-
+                      related health condition; and
+                          ``(iv) a process for appeals of determinations 
+                      relating to such conditions.
+                    ``(C) Inclusion in list of health conditions.--If 
+                the WTC Program Administrator provides certification 
+                under subparagraph (B)(iii) for coverage of a condition, 
+                the Administrator may, pursuant to subsection (a)(6), 
+                add the condition to the list in subsection (a)(3).
+                    ``(D) Conditions already declined for inclusion in 
+                list.--If the WTC Program Administrator publishes a 
+                determination under subsection (a)(6)(B) not to include 
+                a condition in the list in subsection (a)(3), the WTC 
+                Program Administrator shall not provide certification 
+                under subparagraph (B)(iii) for coverage of the 
+                condition. In the case of an individual who is certified 
+                under subparagraph (B)(iii) with respect to such 
+                condition before the date of the publication of such 
+                determination the previous sentence shall not apply.
+            ``(3) Requirement of medical necessity.--
+                    ``(A) In general.--In providing treatment for a WTC-
+                related health condition, a physician or other provider 
+                shall provide treatment that is medically necessary and 
+                in accordance with medical treatment protocols 
+                established under subsection (d).
+                    ``(B) Regulations relating to medical necessity.--
+                For the purpose of this title, the WTC Program 
+                Administrator shall issue regulations specifying a 
+                standard for determining medical necessity with respect 
+                to health care services and prescription 
+                pharmaceuticals, a process for determining whether 
+                treatment furnished and pharmaceuticals prescribed under 
+                this title meet such standard (including any prior 
+                authorization requirement), and a process for appeal of 
+                a determination under subsection (c)(3).
+
+[[Page 124 STAT. 3645]]
+
+            ``(4) Scope of treatment covered.--
+                    ``(A) In general.--The scope of treatment covered 
+                under this subsection includes services of physicians 
+                and other health care providers, diagnostic and 
+                laboratory tests, prescription drugs, inpatient and 
+                outpatient hospital services, and other medically 
+                necessary treatment.
+                    ``(B) Pharmaceutical coverage.--With respect to 
+                ensuring coverage of medically necessary outpatient 
+                prescription drugs, such drugs shall be provided, under 
+                arrangements made by the WTC Program Administrator, 
+                directly through participating Clinical Centers of 
+                Excellence or through one or more outside vendors.
+                    ``(C) Transportation expenses for nationwide 
+                network.--The WTC Program Administrator may provide for 
+                necessary and reasonable transportation and expenses 
+                incident to the securing of medically necessary 
+                treatment through the nationwide network under section 
+                3313 involving travel of more than 250 miles and for 
+                which payment is made under this section in the same 
+                manner in which individuals may be furnished necessary 
+                and reasonable transportation and expenses incident to 
+                services involving travel of more than 250 miles under 
+                regulations implementing section 3629(c) of the Energy 
+                Employees Occupational Illness Compensation Program Act 
+                of 2000 (title XXXVI of Public Law 106-398; 42 U.S.C. 
+                7384t(c)).
+            ``(5) Provision of treatment pending certification.--With 
+        respect to an enrolled WTC responder for whom a determination is 
+        made by an examining physician under paragraph (1) or (2), but 
+        for whom the WTC Program Administrator has not yet determined 
+        whether to certify the determination, the WTC Program 
+        Administrator may establish by rule a process through which the 
+        Administrator may approve the provision of medical treatment 
+        under this subsection (and payment under subsection (c)) with 
+        respect to such responder and such responder's WTC-related 
+        health condition (under such terms and conditions as the 
+        Administrator may provide) until the Administrator makes a 
+        decision on whether to certify the determination.
+
+    ``(c) Payment for Initial Health Evaluation, Monitoring, and 
+Treatment of WTC-Related Health Conditions.--
+            ``(1) Medical treatment.--
+                    ``(A) Use of feca payment rates.--
+                          ``(i) In general.--Subject to clause (ii):
+                                    ``(I) Subject to subparagraphs (B) 
+                                and (C), the WTC Program Administrator 
+                                shall reimburse costs for medically 
+                                necessary treatment under this title for 
+                                WTC-related health conditions according 
+                                to the payment rates that would apply to 
+                                the provision of such treatment and 
+                                services by the facility under the 
+                                Federal Employees Compensation Act.
+                                    ``(II) <<NOTE: Regulations.>> For 
+                                treatment not covered under subclause 
+                                (i) or subparagraph (B), the WTC Program 
+                                Administrator shall establish by 
+                                regulation a reimbursement rate for such 
+                                treatment.
+                          ``(ii) Exception.--In no case shall payments 
+                      for products or services under clause (i) be made 
+                      at a rate higher than the Office of Worker's 
+                      Compensation
+
+[[Page 124 STAT. 3646]]
+
+                      Programs in the Department Labor would pay for 
+                      such products or services rendered at the time 
+                      such products or services were provided.
+                    ``(B) Pharmaceuticals.--
+                          ``(i) In general.--The WTC Program 
+                      Administrator shall establish a program for paying 
+                      for the medically necessary outpatient 
+                      prescription pharmaceuticals prescribed under this 
+                      title for WTC-related health conditions through 
+                      one or more contracts with outside vendors.
+                          ``(ii) Competitive bidding.--Under such 
+                      program the Administrator shall--
+                                    ``(I) select one or more appropriate 
+                                vendors through a Federal competitive 
+                                bid process; and
+                                    ``(II) select the lowest bidder (or 
+                                bidders) meeting the requirements for 
+                                providing pharmaceutical benefits for 
+                                participants in the WTC Program.
+                          ``(iii) Treatment of fdny participants.--Under 
+                      such program the Administrator may enter into an 
+                      agreement with a separate vendor to provide 
+                      pharmaceutical benefits to enrolled WTC responders 
+                      for whom the Clinical Center of Excellence is 
+                      described in section 3305 if such an arrangement 
+                      is deemed necessary and beneficial to the program 
+                      by the WTC Program Administrator.
+                          ``(iv) Pharmaceuticals.--
+                      Not <<NOTE: Deadline. Reports.>> later than July 
+                      1, 2011, the Comptroller General of the United 
+                      States shall submit to the Committee on Energy and 
+                      Commerce of the House of Representatives and the 
+                      Committee on Health, Education, Labor, and 
+                      Pensions of the Senate a report on whether 
+                      existing Federal pharmaceutical purchasing 
+                      programs can provide pharmaceutical benefits more 
+                      efficiently and effectively than through the WTC 
+                      program.
+                    ``(C) Improving quality and efficiency through 
+                modification of payment amounts and methodologies.--The 
+                WTC Program Administrator may modify the amounts and 
+                methodologies for making payments for initial health 
+                evaluations, monitoring, or treatment, if, taking into 
+                account utilization and quality data furnished by the 
+                Clinical Centers of Excellence under section 
+                3305(b)(1)(B)(iii), the Administrator determines that a 
+                bundling, capitation, pay for performance, or other 
+                payment methodology would better ensure high quality and 
+                efficient delivery of initial health evaluations, 
+                monitoring, or treatment to an enrolled WTC responder, 
+                screening-eligible WTC survivor, or certified-eligible 
+                WTC survivor.
+            ``(2) Monitoring and initial health evaluation.--The WTC 
+        Program Administrator shall reimburse the costs of monitoring 
+        and the costs of an initial health evaluation provided under 
+        this title at a rate set by the Administrator by regulation.
+            ``(3) Determination of medical necessity.--
+                    ``(A) Review of medical necessity and protocols.--As 
+                part of the process for reimbursement or payment under 
+                this subsection, the WTC Program Administrator shall 
+                provide for the review of claims for reimbursement or 
+                payment
+
+[[Page 124 STAT. 3647]]
+
+                for the provision of medical treatment to determine if 
+                such treatment is medically necessary and in accordance 
+                with medical treatment protocols established under 
+                subsection (d).
+                    ``(B) Withholding of payment for medically 
+                unnecessary treatment.--The Administrator shall withhold 
+                such reimbursement or payment for treatment that the 
+                Administrator determines is not medically necessary or 
+                is not in accordance with such medical treatment 
+                protocols.
+
+    ``(d) Medical Treatment Protocols.--
+            ``(1) Development.--The Data Centers shall develop medical 
+        treatment protocols for the treatment of enrolled WTC responders 
+        and certified-eligible WTC survivors for health conditions 
+        included in the applicable list of WTC-related health 
+        conditions.
+            ``(2) Approval.--The medical treatment protocols developed 
+        under paragraph (1) shall be subject to approval by the WTC 
+        Program Administrator.
+``SEC. 3313. <<NOTE: 42 USC 300mm-23.>> NATIONAL ARRANGEMENT FOR 
+                          BENEFITS FOR ELIGIBLE INDIVIDUALS 
+                          OUTSIDE NEW YORK.
+
+    ``(a) In General.--In order to ensure reasonable access to benefits 
+under this subtitle for individuals who are enrolled WTC responders, 
+screening-eligible WTC survivors, or certified-eligible WTC survivors 
+and who reside in any State, as defined in section 2(f), outside the New 
+York metropolitan area, the WTC Program Administrator shall establish a 
+nationwide network of health care providers to provide monitoring and 
+treatment benefits and initial health evaluations near such individuals' 
+areas of residence in such States. Nothing in this subsection shall be 
+construed as preventing such individuals from being provided such 
+monitoring and treatment benefits or initial health evaluation through 
+any Clinical Center of Excellence.
+    ``(b) Network Requirements.--Any health care provider participating 
+in the network under subsection (a) shall--
+            ``(1) meet criteria for credentialing established by the 
+        Data Centers;
+            ``(2) follow the monitoring, initial health evaluation, and 
+        treatment protocols developed under section 3305(a)(2)(A)(ii);
+            ``(3) collect and report data in accordance with section 
+        3304; and
+            ``(4) meet such fraud, quality assurance, and other 
+        requirements as the WTC Program Administrator establishes, 
+        including sections 1128 through 1128E of the Social Security 
+        Act, as applied by section 3301(d).
+
+    ``(c) Training and Technical Assistance.--The WTC Program Administer 
+may provide, including through contract, for the provision of training 
+and technical assistance to health care providers participating in the 
+network under subsection (a).
+    ``(d) Provision of Services Through the VA.--
+            ``(1) In general.--The WTC Program Administrator may enter 
+        into an agreement with the Secretary of Veterans Affairs for the 
+        Secretary to provide services under this section through 
+        facilities of the Department of Veterans Affairs.
+            ``(2) National program.--
+        Not <<NOTE: Deadline. Reports.>> later than July 1, 2011, the 
+        Comptroller General of the United States shall submit
+
+[[Page 124 STAT. 3648]]
+
+        to the Committee on Energy and Commerce of the House of 
+        Representatives and the Committee on Health, Education, Labor, 
+        and Pensions of the Senate a report on whether the Department of 
+        Veterans Affairs can provide monitoring and treatment services 
+        to individuals under this section more efficiently and 
+        effectively than through the nationwide network to be 
+        established under subsection (a).
+
+                         ``PART 2--WTC SURVIVORS
+
+``SEC. 3321. <<NOTE: 42 USC 300mm-31.>> IDENTIFICATION AND INITIAL 
+                          HEALTH EVALUATION OF SCREENING-ELIGIBLE 
+                          AND CERTIFIED-ELIGIBLE WTC SURVIVORS.
+
+    ``(a) Identification of Screening-Eligible WTC Survivors and 
+Certified-Eligible WTC Survivors.--
+            ``(1) Screening-eligible wtc survivors.--
+                    ``(A) Definition.--In this title, the term 
+                `screening-eligible WTC survivor' means, subject to 
+                subparagraph (C) and paragraph (3), an individual who is 
+                described in any of the following clauses:
+                          ``(i) Currently identified survivor.--An 
+                      individual, including a WTC responder, who has 
+                      been identified as eligible for medical treatment 
+                      and monitoring by the WTC Environmental Health 
+                      Center as of the date of enactment of this title.
+                          ``(ii) Survivor who meets current eligibility 
+                      criteria.--An individual who is not a WTC 
+                      responder, for purposes of the initial health 
+                      evaluation under subsection (b), claims symptoms 
+                      of a WTC-related health condition and meets any of 
+                      the current eligibility criteria described in 
+                      subparagraph (B).
+                          ``(iii) Survivor who meets modified 
+                      eligibility criteria.--An individual who is not a 
+                      WTC responder, for purposes of the initial health 
+                      evaluation under subsection (b), claims symptoms 
+                      of a WTC-related health condition and meets such 
+                      eligibility criteria relating to exposure to 
+                      airborne toxins, other hazards, or adverse 
+                      conditions resulting from the September 11, 2001, 
+                      terrorist attacks as the WTC Administrator 
+                      determines, after consultation with the Data 
+                      Centers described in section 3305 and the WTC 
+                      Scientific/Technical Advisory Committee and WTC 
+                      Health Program Steering Committees under section 
+                      3302.
+                The Administrator shall not modify such criteria under 
+                clause (iii) on or after the date that the number of 
+                certifications for certified-eligible WTC survivors 
+                under paragraph (2)(B) has reached 80 percent of the 
+                limit described in paragraph (3) or on or after the date 
+                that the number of enrollments of WTC responders has 
+                reached 80 percent of the limit described in section 
+                3311(a)(4).
+                    ``(B) Current <<NOTE: Time periods.>> eligibility 
+                criteria.--The eligibility criteria described in this 
+                subparagraph for an individual are that the individual 
+                is described in any of the following clauses:
+                          ``(i) A person who was present in the New York 
+                      City disaster area in the dust or dust cloud on 
+                      September 11, 2001.
+
+[[Page 124 STAT. 3649]]
+
+                          ``(ii) A person who worked, resided, or 
+                      attended school, childcare, or adult daycare in 
+                      the New York City disaster area for--
+                                    ``(I) at least 4 days during the 4-
+                                month period beginning on September 11, 
+                                2001, and ending on January 10, 2002; or
+                                    ``(II) at least 30 days during the 
+                                period beginning on September 11, 2001, 
+                                and ending on July 31, 2002.
+                          ``(iii) Any person who worked as a cleanup 
+                      worker or performed maintenance work in the New 
+                      York City disaster area during the 4-month period 
+                      described in subparagraph (B)(i) and had extensive 
+                      exposure to WTC dust as a result of such work.
+                          ``(iv) A person who was deemed eligible to 
+                      receive a grant from the Lower Manhattan 
+                      Development Corporation Residential Grant Program, 
+                      who possessed a lease for a residence or purchased 
+                      a residence in the New York City disaster area, 
+                      and who resided in such residence during the 
+                      period beginning on September 11, 2001, and ending 
+                      on May 31, 2003.
+                          ``(v) A person whose place of employment--
+                                    ``(I) at any time during the period 
+                                beginning on September 11, 2001, and 
+                                ending on May 31, 2003, was in the New 
+                                York City disaster area; and
+                                    ``(II) was deemed eligible to 
+                                receive a grant from the Lower Manhattan 
+                                Development Corporation WTC Small Firms 
+                                Attraction and Retention Act program or 
+                                other government incentive program 
+                                designed to revitalize the lower 
+                                Manhattan economy after the September 
+                                11, 2001, terrorist attacks.
+                    ``(C) Application and determination process for 
+                screening eligibility.--
+                          ``(i) In general.--The WTC Program 
+                      Administrator in consultation with the Data 
+                      Centers shall establish a process for individuals, 
+                      other than individuals described in subparagraph 
+                      (A)(i), to be determined to be screening-eligible 
+                      WTC survivors. Under such process--
+                                    ``(I) there shall be no fee charged 
+                                to the applicant for making an 
+                                application for such determination;
+                                    ``(II) <<NOTE: Deadline.>> the 
+                                Administrator shall make a determination 
+                                on such an application not later than 60 
+                                days after the date of filing the 
+                                application;
+                                    ``(III) the Administrator shall make 
+                                such a determination relating to an 
+                                applicant's compliance with this title 
+                                and shall not determine that an 
+                                individual is not so eligible or deny 
+                                written documentation under clause (ii) 
+                                to such individual unless the 
+                                Administrator determines that--
+                                            ``(aa) based on the 
+                                        application submitted, the 
+                                        individual does not meet the 
+                                        eligibility criteria; or
+
+[[Page 124 STAT. 3650]]
+
+                                            ``(bb) the numerical 
+                                        limitation on certifications of 
+                                        certified-eligible WTC survivors 
+                                        set forth in paragraph (3) has 
+                                        been met; and
+                                    ``(IV) an individual who is 
+                                determined not to be a screening-
+                                eligible WTC survivor shall have an 
+                                opportunity to appeal such determination 
+                                in a manner established under such 
+                                process.
+                          ``(ii) Written documentation of screening-
+                      eligibility.--
+                                    ``(I) In general.--In the case of an 
+                                individual who is described in 
+                                subparagraph (A)(i) or who is determined 
+                                under clause (i) (consistent with 
+                                paragraph (3)) to be a screening-
+                                eligible WTC survivor, the WTC Program 
+                                Administrator shall provide an 
+                                appropriate written documentation of 
+                                such fact.
+                                    ``(II) Timing.--
+                                            ``(aa) Currently identified 
+                                        survivors.--In the case of an 
+                                        individual who is described in 
+                                        subparagraph (A)(i), the WTC 
+                                        Program Administrator shall 
+                                        provide the written 
+                                        documentation under subclause 
+                                        (I) not later than July 1, 2011.
+                                            ``(bb) Other members.--In 
+                                        the case of another individual 
+                                        who is determined under clause 
+                                        (i) and consistent with 
+                                        paragraph (3) to be a screening-
+                                        eligible WTC survivor, the WTC 
+                                        Program Administrator shall 
+                                        provide the written 
+                                        documentation under subclause 
+                                        (I) at the time of such 
+                                        determination.
+            ``(2) Certified-eligible wtc survivors.--
+                    ``(A) Definition.--The term `certified-eligible WTC 
+                survivor' means, subject to paragraph (3), a screening-
+                eligible WTC survivor who the WTC Program Administrator 
+                certifies under subparagraph (B) to be eligible for 
+                followup monitoring and treatment under this part.
+                    ``(B) Certification of eligibility for monitoring 
+                and treatment.--
+                          ``(i) In general.--The WTC Program 
+                      Administrator shall establish a certification 
+                      process under which the Administrator shall 
+                      provide appropriate certification to screening-
+                      eligible WTC survivors who, pursuant to the 
+                      initial health evaluation under subsection (b), 
+                      are determined to be eligible for followup 
+                      monitoring and treatment under this part.
+                          ``(ii) Timing.--
+                                    ``(I) Currently identified 
+                                survivors.--In the case of an individual 
+                                who is described in paragraph (1)(A)(i), 
+                                the WTC Program Administrator shall 
+                                provide the certification under clause 
+                                (i) not later than July 1, 2011.
+                                    ``(II) Other members.--In the case 
+                                of another individual who is determined 
+                                under clause (i) to be eligible for 
+                                followup monitoring and treatment, the 
+                                WTC Program Administrator shall provide 
+                                the certification under such clause at 
+                                the time of such determination.
+
+[[Page 124 STAT. 3651]]
+
+            ``(3) Numerical limitation on certified-eligible wtc 
+        survivors.--
+                    ``(A) In general.--The total number of individuals 
+                not described in paragraph (1)(A)(i) who may be 
+                certified as certified-eligible WTC survivors under 
+                paragraph (2)(B) shall not exceed 25,000 at any time.
+                    ``(B) Process.--In implementing subparagraph (A), 
+                the WTC Program Administrator shall--
+                          ``(i) limit the number of certifications 
+                      provided under paragraph (2)(B)--
+                                    ``(I) in accordance with such 
+                                subparagraph; and
+                                    ``(II) to such number, as determined 
+                                by the Administrator based on the best 
+                                available information and subject to 
+                                amounts made available under section 
+                                3351, that will ensure sufficient funds 
+                                will be available to provide treatment 
+                                and monitoring benefits under this 
+                                title, with respect to all individuals 
+                                receiving such certifications through 
+                                the end of fiscal year 2020; and
+                          ``(ii) provide priority in such certifications 
+                      in the order in which individuals apply for a 
+                      determination under paragraph (2)(B).
+            ``(4) Disqualification of individuals on terrorist watch 
+        list.--No individual who is on the terrorist watch list 
+        maintained by the Department of Homeland Security shall qualify 
+        as a screening-eligible WTC survivor or a certified-eligible WTC 
+        survivor. <<NOTE: Determination.>> Before determining any 
+        individual to be a screening-eligible WTC survivor under 
+        paragraph (1) or certifying any individual as a certified 
+        eligible WTC survivor under paragraph (2), the Administrator, in 
+        consultation with the Secretary of Homeland Security, shall 
+        determine whether the individual is on such list.
+
+    ``(b) Initial Health Evaluation To Determine Eligibility for 
+Followup Monitoring or Treatment.--
+            ``(1) In general.--In the case of a screening-eligible WTC 
+        survivor, the WTC Program shall provide for an initial health 
+        evaluation to determine if the survivor has a WTC-related health 
+        condition and is eligible for followup monitoring and treatment 
+        benefits under the WTC Program. Initial health evaluation 
+        protocols under section 3305(a)(2)(A)(ii) shall be subject to 
+        approval by the WTC Program Administrator.
+            ``(2) Initial health evaluation providers.--The initial 
+        health evaluation described in paragraph (1) shall be provided 
+        through a Clinical Center of Excellence with respect to the 
+        individual involved.
+            ``(3) Limitation on initial health evaluation benefits.--
+        Benefits for an initial health evaluation under this part for a 
+        screening-eligible WTC survivor shall consist only of a single 
+        medical initial health evaluation consistent with initial health 
+        evaluation protocols described in paragraph (1). Nothing in this 
+        paragraph shall be construed as preventing such an individual 
+        from seeking additional medical initial health evaluations at 
+        the expense of the individual.
+
+[[Page 124 STAT. 3652]]
+
+``SEC. 3322. <<NOTE: 42 USC 300mm-32.>> FOLLOWUP MONITORING AND 
+                          TREATMENT OF CERTIFIED-ELIGIBLE WTC 
+                          SURVIVORS FOR WTC-RELATED HEALTH 
+                          CONDITIONS.
+
+    ``(a) In General.--Subject <<NOTE: Applicability.>> to subsection 
+(b), the provisions of sections 3311 and 3312 shall apply to followup 
+monitoring and treatment of WTC-related health conditions for certified-
+eligible WTC survivors in the same manner as such provisions apply to 
+the monitoring and treatment of WTC-related health conditions for 
+enrolled WTC responders.
+
+    ``(b) List of WTC-Related Health Conditions for Survivors.--The list 
+of health conditions for screening-eligible WTC survivors and certified-
+eligible WTC survivors consists of the following:
+            ``(1) Aerodigestive disorders.--
+                    ``(A) Interstitial lung diseases.
+                    ``(B) Chronic respiratory disorder--fumes/vapors.
+                    ``(C) Asthma.
+                    ``(D) Reactive airways dysfunction syndrome (RADS).
+                    ``(E) WTC-exacerbated chronic obstructive pulmonary 
+                disease (COPD).
+                    ``(F) Chronic cough syndrome.
+                    ``(G) Upper airway hyperreactivity.
+                    ``(H) Chronic rhinosinusitis.
+                    ``(I) Chronic nasopharyngitis.
+                    ``(J) Chronic laryngitis.
+                    ``(K) Gastroesophageal reflux disorder (GERD).
+                    ``(L) Sleep apnea exacerbated by or related to a 
+                condition described in a previous clause.
+            ``(2) Mental health conditions.--
+                    ``(A) Posttraumatic stress disorder (PTSD).
+                    ``(B) Major depressive disorder.
+                    ``(C) Panic disorder.
+                    ``(D) Generalized anxiety disorder.
+                    ``(E) Anxiety disorder (not otherwise specified).
+                    ``(F) Depression (not otherwise specified).
+                    ``(G) Acute stress disorder.
+                    ``(H) Dysthymic disorder.
+                    ``(I) Adjustment disorder.
+                    ``(J) Substance abuse.
+            ``(3) Additional conditions.--Any cancer (or type of cancer) 
+        or other condition added to the list in section 3312(a)(3) 
+        pursuant to paragraph (5) or (6) of section 3312(a), as such 
+        provisions are applied under subsection (a) with respect to 
+        certified-eligible WTC survivors.
+``SEC. 3323. <<NOTE: 42 USC 300mm-33.>> FOLLOWUP MONITORING AND 
+                          TREATMENT OF OTHER INDIVIDUALS WITH WTC-
+                          RELATED HEALTH CONDITIONS.
+
+    ``(a) In General.--Subject <<NOTE: Applicability.>> to subsection 
+(c), the provisions of section 3322 shall apply to the followup 
+monitoring and treatment of WTC-related health conditions in the case of 
+individuals described in subsection (b) in the same manner as such 
+provisions apply to the followup monitoring and treatment of WTC-related 
+health conditions for certified-eligible WTC survivors.
+
+    ``(b) Individuals Described.--An individual described in this 
+subsection is an individual who, regardless of location of residence--
+            ``(1) is not an enrolled WTC responder or a certified-
+        eligible WTC survivor; and
+
+[[Page 124 STAT. 3653]]
+
+            ``(2) is diagnosed at a Clinical Center of Excellence with a 
+        WTC-related health condition for certified-eligible WTC 
+        survivors.
+
+    ``(c) Limitation.--
+            ``(1) In general.--The WTC Program Administrator shall limit 
+        benefits for any fiscal year under subsection (a) in a manner so 
+        that payments under this section for such fiscal year do not 
+        exceed the amount specified in paragraph (2) for such fiscal 
+        year.
+            ``(2) Limitation.--The amount specified in this paragraph 
+        for--
+                    ``(A) the last calendar quarter of fiscal year 2011 
+                is $5,000,000;
+                    ``(B) fiscal year 2012 is $20,000,000; or
+                    ``(C) a succeeding fiscal year is the amount 
+                specified in this paragraph for the previous fiscal year 
+                increased by the annual percentage increase in the 
+                medical care component of the consumer price index for 
+                all urban consumers.
+
+                       ``PART 3--PAYOR PROVISIONS
+
+``SEC. 3331. <<NOTE: 42 USC 300mm-41.>> PAYMENT OF CLAIMS.
+
+    ``(a) In General.--Except as provided in subsections (b) and (c), 
+the cost of monitoring and treatment benefits and initial health 
+evaluation benefits provided under parts 1 and 2 of this subtitle shall 
+be paid for by the WTC Program from the World Trade Center Health 
+Program Fund.
+    ``(b) Workers' Compensation Payment.--
+            ``(1) In general.--Subject to paragraph (2), payment for 
+        treatment under parts 1 and 2 of this subtitle of a WTC-related 
+        health condition of an individual that is work-related shall be 
+        reduced or recouped to the extent that the WTC Program 
+        Administrator determines that payment has been made, or can 
+        reasonably be expected to be made, under a workers' compensation 
+        law or plan of the United States, a State, or a locality, or 
+        other work-related injury or illness benefit plan of the 
+        employer of such individual, for such 
+        treatment. <<NOTE: Applicability.>> The provisions of clauses 
+        (iii), (iv), (v), and (vi) of paragraph (2)(B) of section 
+        1862(b) of the Social Security Act and paragraphs (3) and (4) of 
+        such section shall apply to the recoupment under this subsection 
+        of a payment to the WTC Program (with respect to a workers' 
+        compensation law or plan, or other work-related injury or 
+        illness plan of the employer involved, and such individual) in 
+        the same manner as such provisions apply to the reimbursement of 
+        a payment under section 1862(b)(2) of such Act to the Secretary 
+        (with respect to such a law or plan and an individual entitled 
+        to benefits under title XVIII of such Act) except that any 
+        reference in such paragraph (4) to payment rates under title 
+        XVIII of the Social Security Act shall be deemed a reference to 
+        payment rates under this title.
+            ``(2) Exception.--Paragraph (1) shall not apply for any 
+        quarter, with respect to any workers' compensation law or plan, 
+        including line of duty compensation, to which New York City is 
+        obligated to make payments, if, in accordance with terms 
+        specified under the contract under subsection (d)(1)(A),
+
+[[Page 124 STAT. 3654]]
+
+        New York City has made the full payment required under such 
+        contract for such quarter.
+            ``(3) Rules of construction.--Nothing in this title shall be 
+        construed to affect, modify, or relieve any obligations under a 
+        worker's compensation law or plan, other work-related injury or 
+        illness benefit plan of an employer, or any health insurance 
+        plan.
+
+    ``(c) Health Insurance Coverage.--
+            ``(1) In general.--In <<NOTE: Applicability.>> the case of 
+        an individual who has a WTC-related health condition that is not 
+        work-related and has health coverage for such condition through 
+        any public or private health plan (including health benefits 
+        under title XVIII, XIX, or XXI of the Social Security Act) the 
+        provisions of section 1862(b) of the Social Security Act shall 
+        apply to such a health plan and such individual in the same 
+        manner as they apply to group health plan and an individual 
+        entitled to benefits under title XVIII of such Act pursuant to 
+        section 226(a) of such Act. Any costs for items and services 
+        covered under such plan that are not reimbursed by such health 
+        plan, due to the application of deductibles, copayments, 
+        coinsurance, other cost sharing, or otherwise, are reimbursable 
+        under this title to the extent that they are covered under the 
+        WTC Program. The program under this title shall not be treated 
+        as a legally liable party for purposes of applying section 
+        1902(a)(25) of the Social Security Act.
+            ``(2) Recovery by individual providers.--Nothing in 
+        paragraph (1) shall be construed as requiring an entity 
+        providing monitoring and treatment under this title to seek 
+        reimbursement under a health plan with which the entity has no 
+        contract for reimbursement.
+            ``(3) Maintenance of required minimum essential coverage.--
+        No payment may be made for monitoring and treatment under this 
+        title for an individual for a month (beginning with July 2014) 
+        if with respect to such month the individual--
+                    ``(A) is an applicable individual (as defined in 
+                subsection (d) of section 5000A of Internal Revenue Code 
+                of 1986) for whom the exemption under subsection (e) of 
+                such section does not apply; and
+                    ``(B) is not covered under minimum essential 
+                coverage, as required under subsection (a) of such 
+                section.
+
+    ``(d) Required Contribution by New York City in Program Costs.--
+            ``(1) Contract requirement.--
+                    ``(A) In general.--No funds may be disbursed from 
+                the World Trade Center Health Program Fund under section 
+                3351 unless New York City has entered into a contract 
+                with the WTC Program Administrator under which New York 
+                City agrees, in a form and manner specified by the 
+                Administrator, to pay the full contribution described in 
+                subparagraph (B) in accordance with this subsection on a 
+                timely basis, plus any interest owed pursuant to 
+                subparagraph (E)(i). Such contract shall specify the 
+                terms under which New York City shall be considered to 
+                have made the full payment required for a quarter for 
+                purposes of subsection (b)(2).
+                    ``(B) Full contribution amount.--Under such 
+                contract, with respect to the last calendar quarter of 
+                fiscal
+
+[[Page 124 STAT. 3655]]
+
+                year 2011 and each calendar quarter in fiscal years 2012 
+                through 2015 the full contribution amount under this 
+                subparagraph shall be equal to 10 percent of the 
+                expenditures in carrying out this title for the 
+                respective quarter and with respect to calendar quarters 
+                in fiscal year 2016, such full contribution amount shall 
+                be equal to \1/9\ of the Federal expenditures in 
+                carrying out this title for the respective quarter.
+                    ``(C) Satisfaction of payment obligation.--The 
+                payment obligation under such contract may not be 
+                satisfied through any of the following:
+                          ``(i) An amount derived from Federal sources.
+                          ``(ii) An amount paid before the date of the 
+                      enactment of this title.
+                          ``(iii) An amount paid to satisfy a judgment 
+                      or as part of a settlement related to injuries or 
+                      illnesses arising out of the September 11, 2001, 
+                      terrorist attacks.
+                    ``(D) Timing of contribution.--The payment 
+                obligation under such contract for a calendar quarter in 
+                a fiscal year shall be paid not later than the last day 
+                of the second succeeding calendar quarter.
+                    ``(E) Compliance.--
+                          ``(i) Interest for late payment.--If New York 
+                      City fails to pay to the WTC Program Administrator 
+                      pursuant to such contract the amount required for 
+                      any calendar quarter by the day specified in 
+                      subparagraph (D), interest shall accrue on the 
+                      amount not so paid at the rate (determined by the 
+                      Administrator) based on the average yield to 
+                      maturity, plus 1 percentage point, on outstanding 
+                      municipal bonds issued by New York City with a 
+                      remaining maturity of at least 1 year.
+                          ``(ii) Recovery of amounts owed.--The amounts 
+                      owed to the WTC Program Administrator under such 
+                      contract shall be recoverable by the United States 
+                      in an action in the same manner as payments made 
+                      under title XVIII of the Social Security Act may 
+                      be recoverable in an action brought under section 
+                      1862(b)(2)(B)(iii) of such Act.
+                    ``(F) Deposit in fund.--The WTC Program Administer 
+                shall deposit amounts paid under such contract into the 
+                World Trade Center Health Program Fund under section 
+                3351.
+            ``(2) Payment of new york city share of monitoring and 
+        treatment costs.--With respect to each calendar quarter for 
+        which a contribution is required by New York City under the 
+        contract under paragraph (1), the WTC Program Administrator 
+        shall--
+                    ``(A) provide New York City with an estimate of such 
+                amount of the required contribution at the beginning of 
+                such quarter and with an updated estimate of such amount 
+                at the beginning of each of the subsequent 2 quarters;
+                    ``(B) bill such amount directly to New York City; 
+                and
+                    ``(C) 
+                certify <<NOTE: Certification. Deadline.>> periodically, 
+                for purposes of this subsection, whether or not New York 
+                City has paid the amount so billed.
+
+[[Page 124 STAT. 3656]]
+
+        Such amount shall initially be estimated by the WTC Program 
+        Administrator and shall be subject to adjustment and 
+        reconciliation based upon actual expenditures in carrying out 
+        this title.
+            ``(3) Rule of construction.--Nothing in this subsection 
+        shall be construed as authorizing the WTC Administrator, with 
+        respect to a fiscal year, to reduce the numerical limitation 
+        under section 3311(a)(4) or 3321(a)(3) for such fiscal year if 
+        New York City fails to comply with paragraph (1) for a calendar 
+        quarter in such fiscal year.
+
+    ``(e) Work-Related Described.--For the purposes of this section, a 
+WTC-related health condition shall be treated as a condition that is 
+work-related if--
+            ``(1) the condition is diagnosed in an enrolled WTC 
+        responder, or in an individual who qualifies as a certified-
+        eligible WTC survivor on the basis of being a rescue, recovery, 
+        or cleanup worker; or
+            ``(2) with respect to the condition the individual has filed 
+        and had established a claim under a workers' compensation law or 
+        plan of the United States or a State, or other work-related 
+        injury or illness benefit plan of the employer of such 
+        individual.
+``SEC. 3332. <<NOTE: 42 USC 300mm-42.>> ADMINISTRATIVE ARRANGEMENT 
+                          AUTHORITY.
+
+    ``The WTC Program Administrator may enter into arrangements with 
+other government agencies, insurance companies, or other third-party 
+administrators to provide for timely and accurate processing of claims 
+under sections 3312, 3313, 3322, and 3323.
+
+                 ``Subtitle C--Research Into Conditions
+
+``SEC. 3341. <<NOTE: 42 USC 300mm-51.>> RESEARCH REGARDING CERTAIN 
+                          HEALTH CONDITIONS RELATED TO SEPTEMBER 
+                          11 TERRORIST ATTACKS.
+
+    ``(a) In General.--With respect to individuals, including enrolled 
+WTC responders and certified-eligible WTC survivors, receiving 
+monitoring or treatment under subtitle B, the WTC Program Administrator 
+shall conduct or support--
+            ``(1) research on physical and mental health conditions that 
+        may be related to the September 11, 2001, terrorist attacks;
+            ``(2) research on diagnosing WTC-related health conditions 
+        of such individuals, in the case of conditions for which there 
+        has been diagnostic uncertainty; and
+            ``(3) research on treating WTC-related health conditions of 
+        such individuals, in the case of conditions for which there has 
+        been treatment uncertainty.
+
+The Administrator may provide such support through continuation and 
+expansion of research that was initiated before the date of the 
+enactment of this title and through the World Trade Center Health 
+Registry (referred to in section 3342), through a Clinical Center of 
+Excellence, or through a Data Center.
+    ``(b) Types of Research.--The research under subsection (a)(1) shall 
+include epidemiologic and other research studies on WTC-related health 
+conditions or emerging conditions--
+            ``(1) among enrolled WTC responders and certified-eligible 
+        WTC survivors under treatment; and
+
+[[Page 124 STAT. 3657]]
+
+            ``(2) in sampled populations outside the New York City 
+        disaster area in Manhattan as far north as 14th Street and in 
+        Brooklyn, along with control populations, to identify potential 
+        for long-term adverse health effects in less exposed 
+        populations.
+
+    ``(c) Consultation.--The WTC Program Administrator shall carry out 
+this section in consultation with the WTC Scientific/Technical Advisory 
+Committee.
+    ``(d) Application of Privacy and Human Subject Protections.--The 
+privacy and human subject protections applicable to research conducted 
+under this section shall not be less than such protections applicable to 
+research conducted or funded by the Department of Health and Human 
+Services.
+``SEC. 3342. <<NOTE: 42 USC 300mm-52.>> WORLD TRADE CENTER HEALTH 
+                          REGISTRY.
+
+    ``For the purpose of ensuring ongoing data collection relating to 
+victims of the September 11, 2001, terrorist attacks, the WTC Program 
+Administrator shall ensure that a registry of such victims is maintained 
+that is at least as comprehensive as the World Trade Center Health 
+Registry maintained under the arrangements in effect as of April 20, 
+2009, with the New York City Department of Health and Mental Hygiene.
+
+                          ``Subtitle D--Funding
+
+``SEC. 3351. <<NOTE: 42 USC 300mm-61.>> WORLD TRADE CENTER HEALTH 
+                          PROGRAM FUND.
+
+    ``(a) Establishment of Fund.--
+            ``(1) In general.--There is established a fund to be known 
+        as the World Trade Center Health Program Fund (referred to in 
+        this section as the `Fund').
+            ``(2) Funding.--Out of any money in the Treasury not 
+        otherwise appropriated, there shall be deposited into the Fund 
+        for each of fiscal years 2012 through 2016 (and the last 
+        calendar quarter of fiscal year 2011)--
+                    ``(A) the Federal share, consisting of an amount 
+                equal to the lesser of--
+                          ``(i) 90 percent of the expenditures in 
+                      carrying out this title for the respective fiscal 
+                      year (initially based on estimates, subject to 
+                      subsequent reconciliation based on actual 
+                      expenditures); or
+                          ``(ii)(I) $71,000,000 for the last calendar 
+                      quarter of fiscal year 2011, $318,000,000 for 
+                      fiscal year 2012, $354,000,000 for fiscal year 
+                      2013, $382,000,000 for fiscal year 2014, and 
+                      $431,000,000 for fiscal year 2015; and
+                          ``(II) subject to paragraph (4), an additional 
+                      amount for fiscal year 2016 from unexpended 
+                      amounts for previous fiscal years; plus
+                    ``(B) the New York City share, consisting of the 
+                amount contributed under the contract under section 
+                3331(d).
+            ``(3) Contract requirement.--
+                    ``(A) In general.--No funds may be disbursed from 
+                the Fund unless New York City has entered into a 
+                contract with the WTC Program Administrator under 
+                section 3331(d)(1).
+                    ``(B) Breach of contract.--In the case of a failure 
+                to pay the amount so required under the contract--
+
+[[Page 124 STAT. 3658]]
+
+                          ``(i) the amount is recoverable under 
+                      subparagraph (E)(ii) of such section;
+                          ``(ii) such failure shall not affect the 
+                      disbursement of amounts from the Fund; and
+                          ``(iii) the Federal share described in 
+                      paragraph (2)(A) shall not be increased by the 
+                      amount so unpaid.
+            ``(4) Aggregate limitation on funding beginning with fiscal 
+        year 2016.--Beginning with fiscal year 2016, in no case shall 
+        the share of Federal funds deposited into the Fund under 
+        paragraph (2) for such fiscal year and previous fiscal years and 
+        quarters exceed the sum of the amounts specified in paragraph 
+        (2)(A)(ii)(I).
+
+    ``(b) Mandatory Funds for Monitoring, Initial Health Evaluations, 
+Treatment, and Claims Processing.--
+            ``(1) In general.--The amounts deposited into the Fund under 
+        subsection (a)(2) shall be available, without further 
+        appropriation, consistent with paragraph (2) and subsection (c), 
+        to carry out subtitle B and sections 3302(a), 3303, 3304, 
+        3305(a)(2), 3305(c), 3341, and 3342.
+            ``(2) Limitation on mandatory funding.--This title does not 
+        establish any Federal obligation for payment of amounts in 
+        excess of the amounts available from the Fund for such purpose.
+            ``(3) Limitation on authorization for further 
+        appropriations.--This title does not establish any authorization 
+        for appropriation of amounts in excess of the amounts available 
+        from the Fund under paragraph (1).
+
+    ``(c) Limits on Spending for Certain Purposes.--Of the amounts made 
+available under subsection (b)(1), not more than each of the following 
+amounts may be available for each of the following purposes:
+            ``(1) Surviving immediate family members of firefighters.--
+        For the purposes of carrying out subtitle B with respect to WTC 
+        responders described in section 3311(a)(2)(A)(ii)--
+                    ``(A) for the last calendar quarter of fiscal year 
+                2011, $100,000;
+                    ``(B) for fiscal year 2012, $400,000; and
+                    ``(C) for each subsequent fiscal year, the amount 
+                specified under this paragraph for the previous fiscal 
+                year increased by the percentage increase in the 
+                consumer price index for all urban consumers (all items; 
+                United States city average) as estimated by the 
+                Secretary for the 12-month period ending with March of 
+                the previous year.
+            ``(2) WTC health program scientific/technical advisory 
+        committee.--For the purpose of carrying out section 3302(a)--
+                    ``(A) for the last calendar quarter of fiscal year 
+                2011, $25,000;
+                    ``(B) for fiscal year 2012, $100,000; and
+                    ``(C) for each subsequent fiscal year, the amount 
+                specified under this paragraph for the previous fiscal 
+                year increased by the percentage increase in the 
+                consumer price index for all urban consumers (all items; 
+                United States city average) as estimated by the 
+                Secretary for the 12-month period ending with March of 
+                the previous year.
+            ``(3) Education and outreach.--For the purpose of carrying 
+        out section 3303--
+
+[[Page 124 STAT. 3659]]
+
+                    ``(A) for the last calendar quarter of fiscal year 
+                2011, $500,000;
+                    ``(B) for fiscal year 2012, $2,000,000; and
+                    ``(C) for each subsequent fiscal year, the amount 
+                specified under this paragraph for the previous fiscal 
+                year increased by the percentage increase in the 
+                consumer price index for all urban consumers (all items; 
+                United States city average) as estimated by the 
+                Secretary for the 12-month period ending with March of 
+                the previous year.
+            ``(4) Uniform data collection.--For the purpose of carrying 
+        out section 3304 and for reimbursing Data Centers (as defined in 
+        section 3305(b)(2)) for the costs incurred by such Centers in 
+        carrying out activities under contracts entered into under 
+        section 3305(a)(2)--
+                    ``(A) for the last calendar quarter of fiscal year 
+                2011, $2,500,000;
+                    ``(B) for fiscal year 2012, $10,000,000; and
+                    ``(C) for each subsequent fiscal year, the amount 
+                specified under this paragraph for the previous fiscal 
+                year increased by the percentage increase in the 
+                consumer price index for all urban consumers (all items; 
+                United States city average) as estimated by the 
+                Secretary for the 12-month period ending with March of 
+                the previous year.
+            ``(5) Research regarding certain health conditions.--For the 
+        purpose of carrying out section 3341--
+                    ``(A) for the last calendar quarter of fiscal year 
+                2011, $3,750,000;
+                    ``(B) for fiscal year 2012, $15,000,000; and
+                    ``(C) for each subsequent fiscal year, the amount 
+                specified under this paragraph for the previous fiscal 
+                year increased by the percentage increase in the 
+                consumer price index for all urban consumers (all items; 
+                United States city average) as estimated by the 
+                Secretary for the 12-month period ending with March of 
+                the previous year.
+            ``(6) World trade center health registry.--For the purpose 
+        of carrying out section 3342--
+                    ``(A) for the last calendar quarter of fiscal year 
+                2011, $1,750,000;
+                    ``(B) for fiscal year 2012, $7,000,000; and
+                    ``(C) for each subsequent fiscal year, the amount 
+                specified under this paragraph for the previous fiscal 
+                year increased by the percentage increase in the 
+                consumer price index for all urban consumers (all items; 
+                United States city average) as estimated by the 
+                Secretary for the 12-month period ending with March of 
+                the previous year.''.
+
+        TITLE II--SEPTEMBER 11TH VICTIM COMPENSATION FUND OF 2001
+
+SEC. 201. DEFINITIONS.
+
+    Section 402 of the Air Transportation Safety and System 
+Stabilization Act (49 U.S.C. 40101 note) is amended--
+            (1) in paragraph (6) by inserting ``, or debris removal, 
+        including under the World Trade Center Health Program 
+        established under section 3001 of the Public Health Service Act,
+
+[[Page 124 STAT. 3660]]
+
+        and payments made pursuant to the settlement of a civil action 
+        described in section 405(c)(3)(C)(iii)'' after ``September 11, 
+        2001'';
+            (2) by inserting after paragraph (6) the following new 
+        paragraphs and redesignating subsequent paragraphs accordingly:
+            ``(7) Contractor and subcontractor.--The term `contractor 
+        and subcontractor' means any contractor or subcontractor (at any 
+        tier of a subcontracting relationship), including any general 
+        contractor, construction manager, prime contractor, consultant, 
+        or any parent, subsidiary, associated or allied company, 
+        affiliated company, corporation, firm, organization, or joint 
+        venture thereof that participated in debris removal at any 9/11 
+        crash site. Such term shall not include any entity, including 
+        the Port Authority of New York and New Jersey, with a property 
+        interest in the World Trade Center, on September 11, 2001, 
+        whether fee simple, leasehold or easement, direct or indirect.
+            ``(8) Debris removal.--The term `debris removal' means 
+        rescue and recovery efforts, removal of debris, cleanup, 
+        remediation, and response during the immediate aftermath of the 
+        terrorist-related aircraft crashes of September 11, 2001, with 
+        respect to a 9/11 crash site.'';
+            (3) by inserting after paragraph (10), as so redesignated, 
+        the following new paragraph and redesignating the subsequent 
+        paragraphs accordingly:
+            ``(11) Immediate aftermath.--The term `immediate aftermath' 
+        means any period beginning with the terrorist-related aircraft 
+        crashes of September 11, 2001, and ending on May 30, 2002.''; 
+        and
+            (4) by adding at the end the following new paragraph:
+            ``(14) 9/11 crash site.--The term `9/11 crash site' means--
+                    ``(A) the World Trade Center site, Pentagon site, 
+                and Shanksville, Pennsylvania site;
+                    ``(B) the buildings or portions of buildings that 
+                were destroyed as a result of the terrorist-related 
+                aircraft crashes of September 11, 2001;
+                    ``(C) any area contiguous to a site of such crashes 
+                that the Special Master determines was sufficiently 
+                close to the site that there was a demonstrable risk of 
+                physical harm resulting from the impact of the aircraft 
+                or any subsequent fire, explosions, or building 
+                collapses (including the immediate area in which the 
+                impact occurred, fire occurred, portions of buildings 
+                fell, or debris fell upon and injured individuals); and
+                    ``(D) any area related to, or along, routes of 
+                debris removal, such as barges and Fresh Kills.''.
+SEC. 202. EXTENDED AND EXPANDED ELIGIBILITY FOR COMPENSATION.
+
+    (a) Information on Losses Resulting From Debris Removal Included in 
+Contents of Claim Form.--Section 405(a)(2)(B) of the Air Transportation 
+Safety and System Stabilization Act (49 U.S.C. 40101 note) is amended--
+            (1) in clause (i), by inserting ``, or debris removal during 
+        the immediate aftermath'' after ``September 11, 2001'';
+            (2) in clause (ii), by inserting ``or debris removal during 
+        the immediate aftermath'' after ``crashes''; and
+
+[[Page 124 STAT. 3661]]
+
+            (3) in clause (iii), by inserting ``or debris removal during 
+        the immediate aftermath'' after ``crashes''.
+
+    (b) Extension of Deadline for Claims Under September 11th Victim 
+Compensation Fund of 2001.--Section 405(a)(3) of such Act <<NOTE: 49 USC 
+40101 note.>> is amended to read as follows:
+            ``(3) Limitation.--
+                    ``(A) In general.--Except as provided by 
+                subparagraph (B), no claim may be filed under paragraph 
+                (1) after the date that is 2 years after the date on 
+                which regulations are promulgated under section 407(a).
+                    ``(B) Exception.--A claim <<NOTE: Time period.>> may 
+                be filed under paragraph (1), in accordance with 
+                subsection (c)(3)(A)(i), by an individual (or by a 
+                personal representative on behalf of a deceased 
+                individual) during the period beginning on the date on 
+                which the regulations are updated under section 407(b) 
+                and ending on the date that is 5 years after the date on 
+                which such regulations are updated.''.
+
+    (c) Requirements for Filing Claims During Extended Filing Period.--
+Section 405(c)(3) of such Act is <<NOTE: 49 USC 40101 note.>> amended--
+            (1) by redesignating subparagraphs (A) and (B) as 
+        subparagraphs (B) and (C), respectively; and
+            (2) by inserting before subparagraph (B), as so 
+        redesignated, the following new subparagraph:
+                    ``(A) Requirements for filing claims during extended 
+                filing period.--
+                          ``(i) Timing requirements for filing claims.--
+                      An individual (or a personal representative on 
+                      behalf of a deceased individual) may file a claim 
+                      during the period described in subsection 
+                      (a)(3)(B) as follows:
+                                    ``(I) In the case that the Special 
+                                Master determines the individual knew 
+                                (or reasonably should have known) before 
+                                the date specified in clause (iii) that 
+                                the individual suffered a physical harm 
+                                at a 9/11 crash site as a result of the 
+                                terrorist-related aircraft crashes of 
+                                September 11, 2001, or as a result of 
+                                debris removal, and that the individual 
+                                knew (or should have known) before such 
+                                specified date that the individual was 
+                                eligible to file a claim under this 
+                                title, the individual may file a claim 
+                                not later than the date that is 2 years 
+                                after such specified date.
+                                    ``(II) In the case that the Special 
+                                Master determines the individual first 
+                                knew (or reasonably should have known) 
+                                on or after the date specified in clause 
+                                (iii) that the individual suffered such 
+                                a physical harm or that the individual 
+                                first knew (or should have known) on or 
+                                after such specified date that the 
+                                individual was eligible to file a claim 
+                                under this title, the individual may 
+                                file a claim not later than the last day 
+                                of the 2-year period beginning on the 
+                                date the Special Master determines the 
+                                individual first knew (or should have 
+                                known) that the individual both suffered 
+                                from such harm and was eligible to file 
+                                a claim under this title.
+
+[[Page 124 STAT. 3662]]
+
+                          ``(ii) Other eligibility requirements for 
+                      filing claims.--An individual may file a claim 
+                      during the period described in subsection 
+                      (a)(3)(B) only if--
+                                    ``(I) the individual was treated by 
+                                a medical professional for suffering 
+                                from a physical harm described in clause 
+                                (i)(I) within a reasonable time from the 
+                                date of discovering such harm; and
+                                    ``(II) the individual's physical 
+                                harm is verified by contemporaneous 
+                                medical records created by or at the 
+                                direction of the medical professional 
+                                who provided the medical care.
+                          ``(iii) Date specified.--The date specified in 
+                      this clause is the date on which the regulations 
+                      are updated under section 407(a).''.
+
+    (d) Clarifying Applicability to All 9/11 Crash Sites.--Section 
+405(c)(2)(A)(i) of such Act <<NOTE: 49 USC 40101 note.>> is amended by 
+striking ``or the site of the aircraft crash at Shanksville, 
+Pennsylvania'' and inserting ``the site of the aircraft crash at 
+Shanksville, Pennsylvania, or any other 9/11 crash site''.
+
+    (e) Inclusion of Physical Harm Resulting From Debris Removal.--
+Section 405(c) of such Act is <<NOTE: 49 USC 40101 note.>> amended in 
+paragraph (2)(A)(ii), by inserting ``or debris removal'' after ``air 
+crash''.
+
+    (f) Limitations on Civil Actions.--
+            (1) Application to damages related to debris removal.--
+        Clause (i) of section 405(c)(3)(C) of such Act, as redesignated 
+        by subsection <<NOTE: 49 USC 40101 note.>> (c), is amended by 
+        inserting ``, or for damages arising from or related to debris 
+        removal'' after ``September 11, 2001''.
+            (2) Pending actions.--Clause (ii) of such section, as so 
+        redesignated, is amended to read as follows:
+                          ``(ii) Pending actions.--In the case of an 
+                      individual who is a party to a civil action 
+                      described in clause (i), such individual may not 
+                      submit a claim under this title--
+                                    ``(I) during the period described in 
+                                subsection (a)(3)(A) unless such 
+                                individual withdraws from such action by 
+                                the date that is 90 days after the date 
+                                on which regulations are promulgated 
+                                under section 407(a); and
+                                    ``(II) during the period described 
+                                in subsection (a)(3)(B) unless such 
+                                individual withdraws from such action by 
+                                the date that is 90 days after the date 
+                                on which the regulations are updated 
+                                under section 407(b).''.
+            (3) Settled actions.--Such section, as so redesignated, is 
+        further amended by adding at the end the following new clause:
+                          ``(iii) Settled actions.--In the case of an 
+                      individual who settled a civil action described in 
+                      clause (i), such individual may not submit a claim 
+                      under this title unless such action was commenced 
+                      after December 22, 2003, and a release of all 
+                      claims in such action was tendered prior to the 
+                      date on which the James Zadroga 9/11 Health and 
+                      Compensation Act of 2010 was enacted.''.
+
+[[Page 124 STAT. 3663]]
+
+SEC. 203. REQUIREMENT TO UPDATE REGULATIONS.
+
+    Section 407 of the Air Transportation Safety and System 
+Stabilization Act (49 U.S.C. 40101 note) is amended--
+            (1) by striking ``Not later than'' and inserting ``(a) In 
+        General.--Not later than''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(b) Updated Regulations.--Not <<NOTE: Deadline.>> later than 180 
+days after the date of the enactment of the James Zadroga 9/11 Health 
+and Compensation Act of 2010, the Special Master shall update the 
+regulations promulgated under subsection (a) to the extent necessary to 
+comply with the provisions of title II of such Act.''.
+SEC. 204. LIMITED LIABILITY FOR CERTAIN CLAIMS.
+
+    Section 408(a) of the Air Transportation Safety and System 
+Stabilization Act (49 U.S.C. 40101 note) is amended by adding at the end 
+the following new paragraphs:
+            ``(4) Liability for certain claims.--Notwithstanding any 
+        other provision of law, liability for all claims and actions 
+        (including claims or actions that have been previously resolved, 
+        that are currently pending, and that may be filed) for 
+        compensatory damages, contribution or indemnity, or any other 
+        form or type of relief, arising from or related to debris 
+        removal, against the City of New York, any entity (including the 
+        Port Authority of New York and New Jersey) with a property 
+        interest in the World Trade Center on September 11, 2001 
+        (whether fee simple, leasehold or easement, or direct or 
+        indirect) and any contractors and subcontractors, shall not be 
+        in an amount that exceeds the sum of the following, as may be 
+        applicable:
+                    ``(A) The amount of funds of the WTC Captive 
+                Insurance Company, including the cumulative interest.
+                    ``(B) The amount of all available insurance 
+                identified in schedule 2 of the WTC Captive Insurance 
+                Company insurance policy.
+                    ``(C) As it relates to the limitation of liability 
+                of the City of New York, the amount that is the greater 
+                of the City of New York's insurance coverage or 
+                $350,000,000. In determining the amount of the City's 
+                insurance coverage for purposes of the previous 
+                sentence, any amount described in subparagraphs (A) and 
+                (B) shall not be included.
+                    ``(D) As it relates to the limitation of liability 
+                of any entity, including the Port Authority of New York 
+                and New Jersey, with a property interest in the World 
+                Trade Center on September 11, 2001 (whether fee simple, 
+                leasehold or easement, or direct or indirect), the 
+                amount of all available liability insurance coverage 
+                maintained by any such entity.
+                    ``(E) As it relates to the limitation of liability 
+                of any individual contractor or subcontractor, the 
+                amount of all available liability insurance coverage 
+                maintained by such contractor or subcontractor on 
+                September 11, 2001.
+            ``(5) Priority <<NOTE: Applicability.>> of claims 
+        payments.--Payments to plaintiffs who obtain a settlement or 
+        judgment with respect to a claim or action to which paragraph 
+        (4) applies, shall be paid solely from the following funds in 
+        the following order, as may be applicable:
+                    ``(A) The funds described in subparagraph (A) or (B) 
+                of paragraph (4).
+
+[[Page 124 STAT. 3664]]
+
+                    ``(B) If there are no funds available as described 
+                in subparagraph (A) or (B) of paragraph (4), the funds 
+                described in subparagraph (C) of such paragraph.
+                    ``(C) If there are no funds available as described 
+                in subparagraph (A), (B), or (C) of paragraph (4), the 
+                funds described in subparagraph (D) of such paragraph.
+                    ``(D) If there are no funds available as described 
+                in subparagraph (A), (B), (C), or (D) of paragraph (4), 
+                the funds described in subparagraph (E) of such 
+                paragraph.
+            ``(6) Declaratory judgment actions and direct action.--Any 
+        claimant to a claim or action to which paragraph (4) applies 
+        may, with respect to such claim or action, either file an action 
+        for a declaratory judgment for insurance coverage or bring a 
+        direct action against the insurance company involved, except 
+        that no such action for declaratory judgment or direct action 
+        may be commenced until after the funds available in subparagraph 
+        (A), (B), (C), and (D) of paragraph (5) have been exhausted 
+        consistent with the order described in such paragraph for 
+        payment.''.
+SEC. 205. FUNDING; ATTORNEY FEES.
+
+    Section 406 of the Air Transportation Safety and System 
+Stabilization Act (49 U.S.C. 40101 note) is amended--
+            (1) in subsection (a), by striking ``Not later than'' and 
+        inserting ``Subject to the limitations under subsection (d), not 
+        later than'';
+            (2) in subsection (b)--
+                    (A) by inserting ``in the amounts provided under 
+                subsection (d)(1)'' after ``appropriations Acts''; and
+                    (B) by inserting ``subject to the limitations under 
+                subsection (d)'' before the period; and
+            (3) by adding at the end the following new subsections:
+
+    ``(d) Limitation.--
+            ``(1) In general.--The total amount of Federal funds paid 
+        for compensation under this title, with respect to claims filed 
+        on or after the date on which the regulations are updated under 
+        section 407(b), shall not exceed <<NOTE: Time 
+        period.>> $2,775,000,000. Of such amounts, not to exceed 
+        $875,000,000 shall be available to pay such claims during the 5-
+        year period beginning on such date.
+            ``(2) Pro-ration <<NOTE: Time period.>> and payment of 
+        remaining claims.--
+                    ``(A) In general.--The Special Master shall ratably 
+                reduce the amount of compensation due claimants under 
+                this title in a manner to ensure, to the extent 
+                possible, that--
+                          ``(i) all claimants who, before application of 
+                      the limitation under the second sentence of 
+                      paragraph (1), would have been determined to be 
+                      entitled to a payment under this title during such 
+                      5-year period, receive a payment during such 
+                      period; and
+                          ``(ii) the total amount of all such payments 
+                      made during such 5-year period do not exceed the 
+                      amount available under the second sentence of 
+                      paragraph (1) to pay claims during such period.
+                    ``(B) Payment of remainder of claim amounts.--
+                In <<NOTE: Deadline.>> any case in which the amount of a 
+                claim is ratably reduced pursuant to subparagraph (A), 
+                on or after the first day after the 5-year period 
+                described in paragraph
+
+[[Page 124 STAT. 3665]]
+
+                (1), but in no event later than 1 year after such 5-year 
+                period, the Special Master shall pay to the claimant the 
+                amount that is equal to the difference between--
+                          ``(i) the amount that the claimant would have 
+                      been paid under this title during such period 
+                      without regard to the limitation under the second 
+                      sentence of paragraph (1) applicable to such 
+                      period; and
+                          ``(ii) the amount the claimant was paid under 
+                      this title during such period.
+                    ``(C) Termination.--Upon completion of all payments 
+                pursuant to this subsection, the Victim's Compensation 
+                Fund shall be permanently closed.
+
+    ``(e) Attorney Fees.--
+            ``(1) In general.--Notwithstanding any contract, the 
+        representative of an individual may not charge, for services 
+        rendered in connection with the claim of an individual under 
+        this title, more than 10 percent of an award made under this 
+        title on such claim.
+            ``(2) Limitation.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), in the case of an individual who was 
+                charged a legal fee in connection with the settlement of 
+                a civil action described in section 405(c)(3)(C)(iii), 
+                the representative of the individual may not charge any 
+                amount for compensation for services rendered in 
+                connection with a claim filed under this title.
+                    ``(B) Exception.--If the legal fee charged in 
+                connection with the settlement of a civil action 
+                described in section 405(c)(3)(C)(iii) of an individual 
+                is less than 10 percent of the aggregate amount of 
+                compensation awarded to such individual through such 
+                settlement, the representative of such individual may 
+                charge an amount for compensation for services rendered 
+                to the extent that such amount charged is not more 
+                than--
+                          ``(i) 10 percent of such aggregate amount 
+                      through the settlement, minus
+                          ``(ii) the total amount of all legal fees 
+                      charged for services rendered in connection with 
+                      such settlement.
+            ``(3) Discretion to lower fee.--In the event that the 
+        special master finds that the fee limit set by paragraph (1) or 
+        (2) provides excessive compensation for services rendered in 
+        connection with such claim, the Special Master may, in the 
+        discretion of the Special Master, award as reasonable 
+        compensation for services rendered an amount lesser than that 
+        permitted for in paragraph (1).''.
+
+                  TITLE III--REVENUE RELATED PROVISIONS
+
+SEC. 301. EXCISE TAX ON CERTAIN FOREIGN PROCUREMENT.
+
+    (a) Imposition of Tax.--
+            (1) In general.--Subtitle D of the Internal Revenue Code of 
+        1986 is amended by adding at the end the following new chapter:
+
+[[Page 124 STAT. 3666]]
+
+                    ``CHAPTER 50--FOREIGN PROCUREMENT
+
+``Sec. 5000C. Imposition of tax on certain foreign procurement.
+
+``SEC. 5000C. <<NOTE: 26 USC 5000C.>> IMPOSITION OF TAX ON CERTAIN 
+                            FOREIGN PROCUREMENT.
+
+    ``(a) Imposition of Tax.--There is hereby imposed on any foreign 
+person that receives a specified Federal procurement payment a tax equal 
+to 2 percent of the amount of such specified Federal procurement 
+payment.
+    ``(b) Specified Federal Procurement <<NOTE: Definition.>> Payment.--
+For purposes of this section, the term `specified Federal procurement 
+payment' means any payment made pursuant to a contract with the 
+Government of the United States for--
+            ``(1) the provision of goods, if such goods are manufactured 
+        or produced in any country which is not a party to an 
+        international procurement agreement with the United States, or
+            ``(2) the provision of services, if such services are 
+        provided in any country which is not a party to an international 
+        procurement agreement with the United States.
+
+    ``(c) Foreign Person.--For purposes of this section, the term 
+`foreign person' means any person other than a United States person.
+    ``(d) Administrative Provisions.--
+            ``(1) Withholding.--The amount deducted and withheld under 
+        chapter 3 shall be increased by the amount of tax imposed by 
+        this section on such payment.
+            ``(2) Other administrative provisions.--For purposes of 
+        subtitle F, any tax imposed by this section shall be treated as 
+        a tax imposed by subtitle A.''.
+            (2) Clerical amendment.--The table of chapters for subtitle 
+        D of the Internal Revenue Code of 1986 is amended by adding at 
+        the end the following new item:
+
+                  ``Chapter 50--Foreign Procurement''.
+
+            (3) Effective <<NOTE: Applicability. 26 USC 5000C 
+        note.>> date.--The amendments made by this subsection shall 
+        apply to payments received pursuant to contracts entered into on 
+        and after the date of the enactment of this Act.
+
+    (b) Prohibition <<NOTE: 26 USC 5000C note.>> on Reimbursement of 
+Fees.--
+            (1) In general.--The head of each executive agency shall 
+        take any and all measures necessary to ensure that no funds are 
+        disbursed to any foreign contractor in order to reimburse the 
+        tax imposed under section 5000C of the Internal Revenue Code of 
+        1986.
+            (2) Annual review.--The Administrator for Federal 
+        Procurement Policy shall annually review the contracting 
+        activities of each executive agency to monitor compliance with 
+        the requirements of paragraph (1).
+            (3) Executive agency.--For <<NOTE: Definition.>> purposes of 
+        this subsection, the term ``executive agency'' has the meaning 
+        given the term in section 4 of the Office of Federal Procurement 
+        Policy Act (41 U.S.C. 403).
+
+    (c) Application.--This <<NOTE: 26 USC 5000C note.>> section and the 
+amendments made by this section shall be applied in a manner consistent 
+with United States obligations under international agreements.
+
+[[Page 124 STAT. 3667]]
+
+SEC. 302. RENEWAL OF FEES FOR VISA-DEPENDENT EMPLOYERS.
+
+    Subsections (a), (b), and (c) of section 402 of Public Law 111-
+230 <<NOTE: Ante, p. 2487.>> are amended by striking ``2014'' each place 
+that such appears and inserting ``2015''.
+
+                       TITLE IV--BUDGETARY EFFECTS
+
+SEC. 401. COMPLIANCE WITH STATUTORY PAY-AS-YOU-GO ACT OF 2010.
+
+    The budgetary effects of this Act, for the purpose of complying with 
+the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the Senate Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+    Approved January 2, 2011.
+
+LEGISLATIVE HISTORY--H.R. 847:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 111-560, Pt. 1 (Comm. on Energy and Commerce) and     
+Pt. 2 (Comm. on the Judiciary).
+CONGRESSIONAL RECORD, Vol. 156 (2010):
+            July 29, considered and failed House.
+            Sept. 29, considered and passed House.
+            Dec. 22, considered and passed Senate, amended. House 
+                concurred in Senate amendment.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2011):
+            Jan. 2, Presidential statement.
+
+                                  
+

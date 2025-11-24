@@ -1,0 +1,537 @@
+
+[108th Congress Public Law 237]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ237.108]
+
+[[Page 118 STAT. 661]]
+
+Public Law 108-237
+108th Congress
+
+                                 An Act
+
+
+ 
+  To encourage the development and promulgation of voluntary consensus 
+  standards by providing relief under the antitrust laws to standards 
+  development organizations with respect to conduct engaged in for the 
+   purpose of developing voluntary consensus standards, and for other 
+            purposes. <<NOTE: June 22, 2004 -  [H.R. 1086]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+     TITLE I--STANDARDS <<NOTE: Standards Development Organization 
+ Advancement Act of 2004.>> DEVELOPMENT ORGANIZATION ADVANCEMENT ACT OF 
+2004
+
+SEC. 101. <<NOTE: 15 USC 4301 note.>> SHORT TITLE.
+
+    This title may be cited as the ``Standards Development Organization 
+Advancement Act of 2004''.
+
+SEC. 102. <<NOTE: 15 USC 4301 note.>> FINDINGS.
+
+    The Congress finds the following:
+            (1) In 1993, the Congress amended and renamed the National 
+        Cooperative Research Act of 1984 (now known as the National 
+        Cooperative Research and Production Act of 1993 (15 U.S.C. 4301 
+        et seq.)) by enacting the National Cooperative Production 
+        Amendments of 1993 (Public Law 103-42) to encourage the use of 
+        collaborative, procompetitive activity in the form of research 
+        and production joint ventures that provide adequate disclosure 
+        to the antitrust enforcement agencies about the nature and scope 
+        of the activity involved.
+            (2) Subsequently, in 1995, the Congress in enacting the 
+        National Technology Transfer and Advancement Act of 1995 (15 
+        U.S.C. 272 note) recognized the importance of technical 
+        standards developed by voluntary consensus standards bodies to 
+        our national economy by requiring the use of such standards to 
+        the extent practicable by Federal agencies and by encouraging 
+        Federal agency representatives to participate in ongoing 
+        standards development activities. The Office of Management and 
+        Budget on February 18, 1998, revised Circular A-119 to reflect 
+        these changes made in law.
+            (3) Following enactment of the National Technology Transfer 
+        and Advancement Act of 1995, technical standards developed or 
+        adopted by voluntary consensus standards bodies have replaced 
+        thousands of unique Government standards and specifications 
+        allowing the national economy to operate in a more unified 
+        fashion.
+
+[[Page 118 STAT. 662]]
+
+            (4) Having the same technical standards used by Federal 
+        agencies and by the private sector permits the Government to 
+        avoid the cost of developing duplicative Government standards 
+        and to more readily use products and components designed for the 
+        commercial marketplace, thereby enhancing quality and safety and 
+        reducing costs.
+            (5) Technical standards are written by hundreds of nonprofit 
+        voluntary consensus standards bodies in a nonexclusionary 
+        fashion, using thousands of volunteers from the private and 
+        public sectors, and are developed under the standards 
+        development principles set out in Circular Number A-119, as 
+        revised February 18, 1998, of the Office of Management and 
+        Budget, including principles that require openness, balance, 
+        transparency, consensus, and due process. Such principles 
+        provide for--
+                    (A) notice to all parties known to be affected by 
+                the particular standards development activity,
+                    (B) the opportunity to participate in standards 
+                development or modification,
+                    (C) balancing interests so that standards 
+                development activities are not dominated by any single 
+                group of interested persons,
+                    (D) readily available access to essential 
+                information regarding proposed and final standards,
+                    (E) the requirement that substantial agreement be 
+                reached on all material points after the consideration 
+                of all views and objections, and
+                    (F) the right to express a position, to have it 
+                considered, and to appeal an adverse decision.
+            (6) There are tens of thousands of voluntary consensus 
+        standards available for government use. Most of these standards 
+        are kept current through interim amendments and interpretations, 
+        issuance of addenda, and periodic reaffirmation, revision, or 
+        reissuance every 3 to 5 years.
+            (7) Standards developed by government entities generally are 
+        not subject to challenge under the antitrust laws.
+            (8) Private developers of the technical standards that are 
+        used as Government standards are often not similarly protected, 
+        leaving such developers vulnerable to being named as 
+        codefendants in lawsuits even though the likelihood of their 
+        being held liable is remote in most cases, and they generally 
+        have limited resources to defend themselves in such lawsuits.
+            (9) Standards development organizations do not stand to 
+        benefit from any antitrust violations that might occur in the 
+        voluntary consensus standards development process.
+            (10) As was the case with respect to research and production 
+        joint ventures before the passage of the National Cooperative 
+        Research and Production Act of 1993, if relief from the threat 
+        of liability under the antitrust laws is not granted to 
+        voluntary consensus standards bodies, both regarding the 
+        development of new standards and efforts to keep existing 
+        standards current, such bodies could be forced to cut back on 
+        standards development activities at great financial cost both to 
+        the Government and to the national economy.
+
+[[Page 118 STAT. 663]]
+
+SEC. 103. DEFINITIONS.
+
+    Section 2 of the National Cooperative Research and Production Act of 
+1993 (15 U.S.C. 4301) is amended--
+            (1) in subsection (a) by adding at the end the following:
+            ``(7) The term `standards development activity' means any 
+        action taken by a standards development organization for the 
+        purpose of developing, promulgating, revising, amending, 
+        reissuing, interpreting, or otherwise maintaining a voluntary 
+        consensus standard, or using such standard in conformity 
+        assessment activities, including actions relating to the 
+        intellectual property policies of the standards development 
+        organization.
+            ``(8) The term `standards development organization' means a 
+        domestic or international organization that plans, develops, 
+        establishes, or coordinates voluntary consensus standards using 
+        procedures that incorporate the attributes of openness, balance 
+        of interests, due process, an appeals process, and consensus in 
+        a manner consistent with the Office of Management and Budget 
+        Circular Number A-119, as revised February 10, 1998. The term 
+        `standards development organization' shall not, for purposes of 
+        this Act, include the parties participating in the standards 
+        development organization.
+            ``(9) The term `technical standard' has the meaning given 
+        such term in section 12(d)(4) of the National Technology 
+        Transfer and Advancement Act of 1995.
+            ``(10) The term `voluntary consensus standard' has the 
+        meaning given such term in Office of Management and Budget 
+        Circular Number A-119, as revised February 10, 1998.''; and
+            (2) by adding at the end the following:
+
+    ``(c) The term `standards development activity' excludes the 
+following activities:
+            ``(1) Exchanging information among competitors relating to 
+        cost, sales, profitability, prices, marketing, or distribution 
+        of any product, process, or service that is not reasonably 
+        required for the purpose of developing or promulgating a 
+        voluntary consensus standard, or using such standard in 
+        conformity assessment activities.
+            ``(2) Entering into any agreement or engaging in any other 
+        conduct that would allocate a market with a competitor.
+            ``(3) Entering into any agreement or conspiracy that would 
+        set or restrain prices of any good or service.''.
+
+SEC. 104. RULE OF REASON STANDARD.
+
+    Section 3 of the National Cooperative Research and Production Act of 
+1993 (15 U.S.C. 4302) is amended by striking ``of any person in making 
+or performing a contract to carry out a joint venture shall'' and 
+inserting the following: ``of--
+            ``(1) any person in making or performing a contract to carry 
+        out a joint venture, or
+            ``(2) a standards development organization while engaged in 
+        a standards development activity,
+
+shall''.
+
+SEC. 105. LIMITATION ON RECOVERY.
+
+    Section 4 of the National Cooperative Research and Production Act of 
+1993 (15 U.S.C. 4303) is amended--
+
+[[Page 118 STAT. 664]]
+
+            (1) in subsections (a)(1), (b)(1), and (c)(1) by inserting 
+        ``, or for a standards development activity engaged in by a 
+        standards development organization against which such claim is 
+        made'' after ``joint venture'',
+            (2) in subsection (e)--
+                    (A) by inserting ``, or of a standards development 
+                activity engaged in by a standards development 
+                organization'' before the period at the end, and
+                    (B) by redesignating such subsection as subsection 
+                (f), and
+            (3) by inserting after subsection (d) the following:
+
+    ``(e) Subsections (a), (b), and (c) shall not be construed to modify 
+the liability under the antitrust laws of any person (other than a 
+standards development organization) who--
+            ``(1) directly (or through an employee or agent) 
+        participates in a standards development activity with respect to 
+        which a violation of any of the antitrust laws is found,
+            ``(2) is not a fulltime employee of the standards 
+        development organization that engaged in such activity, and
+            ``(3) is, or is an employee or agent of a person who is, 
+        engaged in a line of commerce that is likely to benefit directly 
+        from the operation of the standards development activity with 
+        respect to which such violation is found.''.
+
+SEC. 106. ATTORNEY FEES.
+
+    Section 5 of the National Cooperative Research and Production Act of 
+1993 (15 U.S.C. 4304) is amended--
+            (1) in subsection (a) by inserting ``, or of a standards 
+        development activity engaged in by a standards development 
+        organization'' after ``joint venture'', and
+            (2) by adding at the end the following:
+
+    ``(c) Subsections (a) and (b) shall not apply with respect to any 
+person who--
+            ``(1) directly participates in a standards development 
+        activity with respect to which a violation of any of the 
+        antitrust laws is found,
+            ``(2) is not a fulltime employee of a standards development 
+        organization that engaged in such activity, and
+            ``(3) is, or is an employee or agent of a person who is, 
+        engaged in a line of commerce that is likely to benefit directly 
+        from the operation of the standards development activity with 
+        respect to which such violation is found.''.
+
+SEC. 107. DISCLOSURE OF STANDARDS DEVELOPMENT ACTIVITY.
+
+    Section 6 of the National Cooperative Research and Production Act of 
+1993 (15 U.S.C. 4305) is amended--
+            (1) in subsection (a)--
+                    (A) by redesignating paragraphs (1), (2), and (3) as 
+                subparagraphs (A), (B), and (C), respectively,
+                    (B) by inserting ``(1)'' after ``(a)'', and
+                    (C) by adding at the end the following:
+
+    ``(2) A <<NOTE: Deadline.>> standards development organization may, 
+not later than 90 days after commencing a standards development activity 
+engaged in for the purpose of developing or promulgating a voluntary 
+consensus standards or not later than 90 days after the date of the 
+enactment of the Standards Development Organization Advancement Act of 
+2004, whichever is later, file simultaneously with
+
+[[Page 118 STAT. 665]]
+
+the Attorney General and the Commission, a written notification 
+disclosing--
+            ``(A) the name and principal place of business of the 
+        standards development organization, and
+            ``(B) documents showing the nature and scope of such 
+        activity.
+
+Any standards development organization may file additional disclosure 
+notifications pursuant to this section as are appropriate to extend the 
+protections of section 4 to standards development activities that are 
+not covered by the initial filing or that have changed significantly 
+since the initial filing.'',
+            (2) in subsection (b)--
+                    (A) in the 1st sentence by inserting ``, or a notice 
+                with respect to such standards development activity that 
+                identifies the standards development organization 
+                engaged in such activity and that describes such 
+                activity in general terms'' before the period at the 
+                end, and
+                    (B) in the last sentence by inserting ``or available 
+                to such organization, as the case may be'' before the 
+                period,
+            (3) in subsection (d)(2) by inserting ``, or the standards 
+        development activity,'' after ``venture'',
+            (4) in subsection (e)--
+                    (A) by striking ``person who'' and inserting 
+                ``person or standards development organization that'', 
+                and
+                    (B) by inserting ``or any standards development 
+                organization'' after ``person'' the last place it 
+                appears, and
+            (5) in subsection (g)(1) by inserting ``or standards 
+        development organization'' after ``person''.
+
+SEC. 108. <<NOTE: 15 USC 4301 note.>> RULE OF CONSTRUCTION.
+
+    Nothing in this title shall be construed to alter or modify the 
+antitrust treatment under existing law of--
+            (1) parties participating in standards development activity 
+        of standards development organizations within the scope of this 
+        title, including the existing standard under which the conduct 
+        of the parties is reviewed, regardless of the standard under 
+        which the conduct of the standards development organizations in 
+        which they participate are reviewed, or
+            (2) other organizations and parties engaged in standard-
+        setting processes not within the scope of this amendment to the 
+        title.
+
+ TITLE II--ANTITRUST <<NOTE: Antitrust Criminal Penalty Enhancement and 
+Reform Act of 2004>> CRIMINAL PENALTY ENHANCEMENT AND REFORM ACT OF 2004
+
+SEC. 201. <<NOTE: 15 USC 1 note.>> SHORT TITLE.
+
+    This title may be cited as the ``Antitrust Criminal Penalty 
+Enhancement and Reform Act of 2004''.
+
+[[Page 118 STAT. 666]]
+
+     Subtitle A--Antitrust Enforcement Enhancements and Cooperation 
+                               Incentives
+
+SEC. 211. <<NOTE: 15 USC 1 note.>> SUNSET.
+
+    (a) In General.--Except as provided in subsection (b), the 
+provisions of sections 211 through 214 shall cease to have effect 5 
+years after the date of enactment of this Act.
+    (b) Exception.--With respect to an applicant who has entered into an 
+antitrust leniency agreement on or before the date on which the 
+provisions of sections 211 through 214 of this subtitle shall cease to 
+have effect, the provisions of sections 211 through 214 of this subtitle 
+shall continue in effect.
+
+SEC. 212. <<NOTE: 15 USC 1 note.>> DEFINITIONS.
+
+    In this subtitle:
+            (1) Antitrust division.--The term ``Antitrust Division'' 
+        means the United States Department of Justice Antitrust 
+        Division.
+            (2) Antitrust leniency agreement.--The term ``antitrust 
+        leniency agreement,'' or ``agreement,'' means a leniency letter 
+        agreement, whether conditional or final, between a person and 
+        the Antitrust Division pursuant to the Corporate Leniency Policy 
+        of the Antitrust Division in effect on the date of execution of 
+        the agreement.
+            (3) Antitrust leniency applicant.--The term ``antitrust 
+        leniency applicant,'' or ``applicant,'' means, with respect to 
+        an antitrust leniency agreement, the person that has entered 
+        into the agreement.
+            (4) Claimant.--The term ``claimant'' means a person or 
+        class, that has brought, or on whose behalf has been brought, a 
+        civil action alleging a violation of section 1 or 3 of the 
+        Sherman Act or any similar State law, except that the term does 
+        not include a State or a subdivision of a State with respect to 
+        a civil action brought to recover damages sustained by the State 
+        or subdivision.
+            (5) Cooperating individual.--The term ``cooperating 
+        individual'' means, with respect to an antitrust leniency 
+        agreement, a current or former director, officer, or employee of 
+        the antitrust leniency applicant who is covered by the 
+        agreement.
+            (6) Person.--The term ``person'' has the meaning given it in 
+        subsection (a) of the first section of the Clayton Act.
+
+SEC. 213. <<NOTE: 15 USC 1 note.>> LIMITATION ON RECOVERY.
+
+    (a) In General.--Subject to subsection (d), in any civil action 
+alleging a violation of section 1 or 3 of the Sherman Act, or alleging a 
+violation of any similar State law, based on conduct covered by a 
+currently effective antitrust leniency agreement, the amount of damages 
+recovered by or on behalf of a claimant from an antitrust leniency 
+applicant who satisfies the requirements of subsection (b), together 
+with the amounts so recovered from cooperating individuals who satisfy 
+such requirements, shall not exceed that portion of the actual damages 
+sustained by such claimant which is attributable to the commerce done by 
+the applicant in the goods or services affected by the violation.
+    (b) Requirements.--Subject to subsection (c), an antitrust leniency 
+applicant or cooperating individual satisfies the requirements
+
+[[Page 118 STAT. 667]]
+
+of this subsection with respect to a civil action described in 
+subsection (a) if the court in which the civil action is brought 
+determines, after considering any appropriate pleadings from the 
+claimant, that the applicant or cooperating individual, as the case may 
+be, has provided satisfactory cooperation to the claimant with respect 
+to the civil action, which cooperation shall include--
+            (1) providing a full account to the claimant of all facts 
+        known to the applicant or cooperating individual, as the case 
+        may be, that are potentially relevant to the civil action;
+            (2) furnishing all documents or other items potentially 
+        relevant to the civil action that are in the possession, 
+        custody, or control of the applicant or cooperating individual, 
+        as the case may be, wherever they are located; and
+            (3)(A) in the case of a cooperating individual--
+                    (i) making himself or herself available for such 
+                interviews, depositions, or testimony in connection with 
+                the civil action as the claimant may reasonably require; 
+                and
+                    (ii) responding completely and truthfully, without 
+                making any attempt either falsely to protect or falsely 
+                to implicate any person or entity, and without 
+                intentionally withholding any potentially relevant 
+                information, to all questions asked by the claimant in 
+                interviews, depositions, trials, or any other court 
+                proceedings in connection with the civil action; or
+            (B) in the case of an antitrust leniency applicant, using 
+        its best efforts to secure and facilitate from cooperating 
+        individuals covered by the agreement the cooperation described 
+        in clauses (i) and (ii) and subparagraph (A).
+
+    (c) Timeliness.--If the initial contact by the antitrust leniency 
+applicant with the Antitrust Division regarding conduct covered by the 
+antitrust leniency agreement occurs after a State, or subdivision of a 
+State, has issued compulsory process in connection with an investigation 
+of allegations of a violation of section 1 or 3 of the Sherman Act or 
+any similar State law based on conduct covered by the antitrust leniency 
+agreement or after a civil action described in subsection (a) has been 
+filed, then the court shall consider, in making the determination 
+concerning satisfactory cooperation described in subsection (b), the 
+timeliness of the applicant's initial cooperation with the claimant.
+    (d) Continuation.--Nothing in this section shall be construed to 
+modify, impair, or supersede the provisions of sections 4, 4A, and 4C of 
+the Clayton Act relating to the recovery of costs of suit, including a 
+reasonable attorney's fee, and interest on damages, to the extent that 
+such recovery is authorized by such sections.
+
+SEC. 214. <<NOTE: 15 USC 1 note.>> RIGHTS, AUTHORITIES, AND LIABILITIES 
+            NOT AFFECTED.
+
+    Nothing in this subtitle shall be construed to--
+            (1) affect the rights of the Antitrust Division to seek a 
+        stay or protective order in a civil action based on conduct 
+        covered by an antitrust leniency agreement to prevent the 
+        cooperation described in section 213(b) from impairing or 
+        impeding the investigation or prosecution by the Antitrust 
+        Division of conduct covered by the agreement;
+            (2) create any right to challenge any decision by the 
+        Antitrust Division with respect to an antitrust leniency 
+        agreement; or
+
+[[Page 118 STAT. 668]]
+
+            (3) affect, in any way, the joint and several liability of 
+        any party to a civil action described in section 213(a), other 
+        than that of the antitrust leniency applicant and cooperating 
+        individuals as provided in section 213(a) of this title.
+
+SEC. 215. INCREASED PENALTIES FOR ANTITRUST VIOLATIONS.
+
+    (a) Restraint of Trade Among the States.--Section 1 of the Sherman 
+Act (15 U.S.C. 1) is amended by--
+            (1) striking ``$10,000,000'' and inserting ``$100,000,000'';
+            (2) striking ``$350,000'' and inserting ``$1,000,000''; and
+            (3) striking ``three'' and inserting ``10''.
+
+    (b) Monopolizing Trade.--Section 2 of the Sherman Act (15 U.S.C. 2) 
+is amended by--
+            (1) striking ``$10,000,000'' and inserting ``$100,000,000'';
+            (2) striking ``$350,000'' and inserting ``$1,000,000''; and
+            (3) striking ``three'' and inserting ``10''.
+
+    (c) Other Restraints of Trade.--Section 3 of the Sherman Act (15 
+U.S.C. 3) is amended by--
+            (1) striking ``$10,000,000'' and inserting ``$100,000,000'';
+            (2) striking ``$350,000'' and inserting ``$1,000,000''; and
+            (3) striking ``three'' and inserting ``10''.
+
+                      Subtitle B--Tunney Act Reform
+
+SEC. 221. PUBLIC <<NOTE: 15 USC 16 note.>> INTEREST DETERMINATION.
+
+    (a) Congressional Findings and Declaration of Purposes.--
+            (1) Findings.--Congress finds that--
+                    (A) the purpose of the Tunney Act was to ensure that 
+                the entry of antitrust consent judgments is in the 
+                public interest; and
+                    (B) it would misconstrue the meaning and 
+                Congressional intent in enacting the Tunney Act to limit 
+                the discretion of district courts to review antitrust 
+                consent judgments solely to determining whether entry of 
+                those consent judgments would make a ``mockery of the 
+                judicial function''.
+            (2) Purposes.--The purpose of this section is to effectuate 
+        the original Congressional intent in enacting the Tunney Act and 
+        to ensure that United States settlements of civil antitrust 
+        suits are in the public interest.
+
+    (b) Public Interest Determination.--Section 5 of the Clayton Act (15 
+U.S.C. 16) is amended--
+            (1) in subsection (d), by inserting at the end the 
+        following: ``Upon application by the United States, the district 
+        court may, for good cause (based on a finding that the expense 
+        of publication in the Federal Register exceeds the public 
+        interest benefits to be gained from such publication), authorize 
+        an alternative method of public dissemination of the public 
+        comments received and the response to those comments.'';
+            (2) in subsection (e)--
+                    (A) in the matter before paragraph (1), by--
+                          (i) striking ``court may'' and inserting 
+                      ``court shall''; and
+                          (ii) inserting ``(1)'' before ``Before''; and
+                    (B) striking paragraphs (1) and (2) and inserting 
+                the following:
+
+[[Page 118 STAT. 669]]
+
+            ``(A) the competitive impact of such judgment, including 
+        termination of alleged violations, provisions for enforcement 
+        and modification, duration of relief sought, anticipated effects 
+        of alternative remedies actually considered, whether its terms 
+        are ambiguous, and any other competitive considerations bearing 
+        upon the adequacy of such judgment that the court deems 
+        necessary to a determination of whether the consent judgment is 
+        in the public interest; and
+            ``(B) the impact of entry of such judgment upon competition 
+        in the relevant market or markets, upon the public generally and 
+        individuals alleging specific injury from the violations set 
+        forth in the complaint including consideration of the public 
+        benefit, if any, to be derived from a determination of the 
+        issues at trial.
+
+    ``(2) Nothing in this section shall be construed to require the 
+court to conduct an evidentiary hearing or to require the court to 
+permit anyone to intervene.''; and
+            (3) in subsection (g), by inserting ``by any officer, 
+        director, employee, or agent of such defendant'' before ``, or 
+        other person''.
+
+    Approved June 22, 2004.
+
+LEGISLATIVE HISTORY--H.R. 1086:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 108-125 and Pt. 2 (Comm. on the Judiciary).
+CONGRESSIONAL RECORD:
+                                                        Vol. 149 (2003):
+                                    June 10, considered and passed 
+                                        House.
+                                                        Vol. 150 (2004):
+                                    Apr. 2, considered and passed 
+                                        Senate, amended.
+                                    June 2, House concurred in Senate 
+                                        amendment.
+
+                                  
+

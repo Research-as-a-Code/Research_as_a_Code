@@ -1,0 +1,1776 @@
+
+[112th Congress Public Law 25]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 239]]
+
+                       BUDGET CONTROL ACT OF 2011
+
+[[Page 125 STAT. 240]]
+
+Public Law 112-25
+112th Congress
+
+                                 An Act
+
+
+ 
+   To provide for budget control. <<NOTE: Aug. 2, 2011 -  [S. 365]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Budget Control 
+Act of 2011.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This <<NOTE: 2 USC 900 note.>> Act may be cited as 
+the ``Budget Control Act of 2011''.
+
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Severability.
+
+           TITLE I--TEN-YEAR DISCRETIONARY CAPS WITH SEQUESTER
+
+Sec. 101. Enforcing discretionary spending limits.
+Sec. 102. Definitions.
+Sec. 103. Reports and orders.
+Sec. 104. Expiration.
+Sec. 105. Amendments to the Congressional Budget and Impoundment Control 
+           Act of 1974.
+Sec. 106. Senate budget enforcement.
+
+             TITLE II--VOTE ON THE BALANCED BUDGET AMENDMENT
+
+Sec. 201. Vote on the balanced budget amendment.
+Sec. 202. Consideration by the other House.
+
+               TITLE III--DEBT CEILING DISAPPROVAL PROCESS
+
+Sec. 301. Debt ceiling disapproval process.
+Sec. 302. Enforcement of budget goal.
+
+          TITLE IV--JOINT SELECT COMMITTEE ON DEFICIT REDUCTION
+
+Sec. 401. Establishment of Joint Select Committee.
+Sec. 402. Expedited consideration of joint committee recommendations.
+Sec. 403. Funding.
+Sec. 404. Rulemaking.
+
+          TITLE V--PELL GRANT AND STUDENT LOAN PROGRAM CHANGES
+
+Sec. 501. Federal Pell grants.
+Sec. 502. Termination of authority to make interest subsidized loans to 
+           graduate and professional students.
+Sec. 503. Termination of direct loan repayment incentives.
+Sec. 504. Inapplicability of title IV negotiated rulemaking and master 
+           calendar exception.
+
+SEC. 2. <<NOTE: 2 USC 900 note.>> SEVERABILITY.
+
+    If any provision of this Act, or any application of such provision 
+to any person or circumstance, is held to be unconstitutional, the 
+remainder of this Act and the application of this Act to any other 
+person or circumstance shall not be affected.
+
+[[Page 125 STAT. 241]]
+
+           TITLE I--TEN-YEAR DISCRETIONARY CAPS WITH SEQUESTER
+
+SEC. 101. ENFORCING DISCRETIONARY SPENDING LIMITS.
+
+    Section 251 of the Balanced Budget and Emergency Deficit Control Act 
+of 1985 <<NOTE: 2 USC 901.>>  is amended to read as follows:
+``SEC. 251. ENFORCING DISCRETIONARY SPENDING LIMITS.
+
+    ``(a) Enforcement.--
+            ``(1) Sequestration.--Within <<NOTE: Deadline.>> 15 calendar 
+        days after Congress adjourns to end a session there shall be a 
+        sequestration to eliminate a budget-year breach, if any, within 
+        any category.
+            ``(2) Eliminating a breach.--Each non-exempt account within 
+        a category shall be reduced by a dollar amount calculated by 
+        multiplying the enacted level of sequestrable budgetary 
+        resources in that account at that time by the uniform percentage 
+        necessary to eliminate a breach within that category.
+            ``(3) Military personnel.--If the President uses the 
+        authority to exempt any personnel account from sequestration 
+        under section 255(f), each account within subfunctional category 
+        051 (other than those military personnel accounts for which the 
+        authority provided under section 255(f) has been exercised) 
+        shall be further reduced by a dollar amount calculated by 
+        multiplying the enacted level of non-exempt budgetary resources 
+        in that account at that time by the uniform percentage necessary 
+        to offset the total dollar amount by which outlays are not 
+        reduced in military personnel accounts by reason of the use of 
+        such authority.
+            ``(4) Part-year appropriations.--If, on the date specified 
+        in paragraph (1), there is in effect an Act making or continuing 
+        appropriations for part of a fiscal year for any budget account, 
+        then the dollar sequestration calculated for that account under 
+        paragraphs (2) and (3) shall be subtracted from--
+                    ``(A) the annualized amount otherwise available by 
+                law in that account under that or a subsequent part-year 
+                appropriation; and
+                    ``(B) when a full-year appropriation for that 
+                account is enacted, from the amount otherwise provided 
+                by the full-year appropriation for that account.
+            ``(5) Look-back.--If, after June 30, an appropriation for 
+        the fiscal year in progress is enacted that causes a breach 
+        within a category for that year (after taking into account any 
+        sequestration of amounts within that category), the 
+        discretionary spending limits for that category for the next 
+        fiscal year shall be reduced by the amount or amounts of that 
+        breach.
+            ``(6) Within-session sequestration.--
+        If <<NOTE: Deadline.>> an appropriation for a fiscal year in 
+        progress is enacted (after Congress adjourns to end the session 
+        for that budget year and before July 1 of that fiscal year) that 
+        causes a breach within a category for that year (after taking 
+        into account any prior sequestration of amounts within that 
+        category), 15 days later there shall be a sequestration to 
+        eliminate that breach within that category following the 
+        procedures set forth in paragraphs (2) through (4).
+            ``(7) Estimates.--
+
+[[Page 125 STAT. 242]]
+
+                    ``(A) CBO estimates.--As soon as practicable after 
+                Congress completes action on any discretionary 
+                appropriation, CBO, after consultation with the 
+                Committees on the Budget of the House of Representatives 
+                and the Senate, shall provide OMB with an estimate of 
+                the amount of discretionary new budget authority and 
+                outlays for the current year, if any, and the budget 
+                year provided by that legislation.
+                    ``(B) OMB estimates and explanation of 
+                differences.--Not <<NOTE: Deadline. Reports.>> later 
+                than 7 calendar days (excluding Saturdays, Sundays, and 
+                legal holidays) after the date of enactment of any 
+                discretionary appropriation, OMB shall transmit a report 
+                to the House of Representatives and to the Senate 
+                containing the CBO estimate of that legislation, an OMB 
+                estimate of the amount of discretionary new budget 
+                authority and outlays for the current year, if any, and 
+                the budget year provided by that legislation, and an 
+                explanation of any difference between the 2 estimates. 
+                If <<NOTE: Consultation.>> during the preparation of the 
+                report OMB determines that there is a significant 
+                difference between OMB and CBO, OMB shall consult with 
+                the Committees on the Budget of the House of 
+                Representatives and the Senate regarding that difference 
+                and that consultation shall include, to the extent 
+                practicable, written communication to those committees 
+                that affords such committees the opportunity to comment 
+                before the issuance of the report.
+                    ``(C) Assumptions and guidelines.--OMB estimates 
+                under this paragraph shall be made using current 
+                economic and technical assumptions. OMB shall use the 
+                OMB estimates transmitted to the Congress under this 
+                paragraph. OMB and CBO shall prepare estimates under 
+                this paragraph in conformance with scorekeeping 
+                guidelines determined after consultation among the 
+                Committees on the Budget of the House of Representatives 
+                and the Senate, CBO, and OMB.
+                    ``(D) Annual appropriations.--For purposes of this 
+                paragraph, amounts provided by annual appropriations 
+                shall include any discretionary appropriations for the 
+                current year, if any, and the budget year in accounts 
+                for which funding is provided in that legislation that 
+                result from previously enacted legislation.
+
+    ``(b) Adjustments to Discretionary Spending Limits.--
+            ``(1) Concepts and definitions.--When the President submits 
+        the budget under section 1105 of title 31, United States Code, 
+        OMB shall calculate and the budget shall include adjustments to 
+        discretionary spending limits (and those limits as cumulatively 
+        adjusted) for the budget year and each outyear to reflect 
+        changes in concepts and definitions. Such changes shall equal 
+        the baseline levels of new budget authority and outlays using 
+        up-to-date concepts and definitions, minus those levels using 
+        the concepts and definitions in effect before such changes. Such 
+        changes may only be made after consultation with the Committees 
+        on Appropriations and the Budget of the House of Representatives 
+        and the Senate, and that consultation shall include written 
+        communication to such committees that affords such committees 
+        the opportunity to comment before official action is taken with 
+        respect to such changes.
+
+[[Page 125 STAT. 243]]
+
+            ``(2) Sequestration reports.--When OMB submits a 
+        sequestration report under section 254(e), (f), or (g) for a 
+        fiscal year, OMB shall calculate, and the sequestration report 
+        and subsequent budgets submitted by the President under section 
+        1105(a) of title 31, United States Code, shall include 
+        adjustments to discretionary spending limits (and those limits 
+        as adjusted) for the fiscal year and each succeeding year, as 
+        follows:
+                    ``(A) Emergency appropriations; overseas contingency 
+                operations/global war on terrorism.--If, for any fiscal 
+                year, appropriations for discretionary accounts are 
+                enacted that--
+                          ``(i) the Congress designates as emergency 
+                      requirements in statute on an account by account 
+                      basis and the President subsequently so 
+                      designates, or
+                          ``(ii) the Congress designates for Overseas 
+                      Contingency Operations/Global War on Terrorism in 
+                      statute on an account by account basis and the 
+                      President subsequently so designates,
+                the adjustment shall be the total of such appropriations 
+                in discretionary accounts designated as emergency 
+                requirements or for Overseas Contingency Operations/
+                Global War on Terrorism, as applicable.
+                    ``(B) Continuing disability reviews and 
+                redeterminations.--(i) If a bill or joint resolution 
+                making appropriations for a fiscal year is enacted that 
+                specifies an amount for continuing disability reviews 
+                under titles II and XVI of the Social Security Act and 
+                for the cost associated with conducting redeterminations 
+                of eligibility under title XVI of the Social Security 
+                Act, then the adjustments for that fiscal year shall be 
+                the additional new budget authority provided in that Act 
+                for such expenses for that fiscal year, but shall not 
+                exceed--
+                          ``(I) for fiscal year 2012, $623,000,000 in 
+                      additional new budget authority;
+                          ``(II) for fiscal year 2013, $751,000,000 in 
+                      additional new budget authority;
+                          ``(III) for fiscal year 2014, $924,000,000 in 
+                      additional new budget authority;
+                          ``(IV) for fiscal year 2015, $1,123,000,000 in 
+                      additional new budget authority;
+                          ``(V) for fiscal year 2016, $1,166,000,000 in 
+                      additional new budget authority;
+                          ``(VI) for fiscal year 2017, $1,309,000,000 in 
+                      additional new budget authority;
+                          ``(VII) for fiscal year 2018, $1,309,000,000 
+                      in additional new budget authority;
+                          ``(VIII) for fiscal year 2019, $1,309,000,000 
+                      in additional new budget authority;
+                          ``(IX) for fiscal year 2020, $1,309,000,000 in 
+                      additional new budget authority; and
+                          ``(X) for fiscal year 2021, $1,309,000,000 in 
+                      additional new budget authority.
+                    ``(ii) <<NOTE: Definitions.>> As used in this 
+                subparagraph--
+                          ``(I) the term `continuing disability reviews' 
+                      means continuing disability reviews under sections 
+                      221(i) and 1614(a)(4) of the Social Security Act;
+
+[[Page 125 STAT. 244]]
+
+                          ``(II) the term `redetermination' means 
+                      redetermination of eligibility under sections 
+                      1611(c)(1) and 1614(a)(3)(H) of the Social 
+                      Security Act; and
+                          ``(III) the term `additional new budget 
+                      authority' means the amount provided for a fiscal 
+                      year, in excess of $273,000,000, in an 
+                      appropriation Act and specified to pay for the 
+                      costs of continuing disability reviews and 
+                      redeterminations under the heading `Limitation on 
+                      Administrative Expenses' for the Social Security 
+                      Administration.
+                    ``(C) Health care fraud and abuse control.--(i) If a 
+                bill or joint resolution making appropriations for a 
+                fiscal year is enacted that specifies an amount for the 
+                health care fraud abuse control program at the 
+                Department of Health and Human Services (75-8393-0-7-
+                571), then the adjustments for that fiscal year shall be 
+                the amount of additional new budget authority provided 
+                in that Act for such program for that fiscal year, but 
+                shall not exceed--
+                          ``(I) for fiscal year 2012, $270,000,000 in 
+                      additional new budget authority;
+                          ``(II) for fiscal year 2013, $299,000,000 in 
+                      additional new budget authority;
+                          ``(III) for fiscal year 2014, $329,000,000 in 
+                      additional new budget authority;
+                          ``(IV) for fiscal year 2015, $361,000,000 in 
+                      additional new budget authority;
+                          ``(V) for fiscal year 2016, $395,000,000 in 
+                      additional new budget authority;
+                          ``(VI) for fiscal year 2017, $414,000,000 in 
+                      additional new budget authority;
+                          ``(VII) for fiscal year 2018, $434,000,000 in 
+                      additional new budget authority;
+                          ``(VIII) for fiscal year 2019, $454,000,000 in 
+                      additional new budget authority;
+                          ``(IX) for fiscal year 2020, $475,000,000 in 
+                      additional new budget authority; and
+                          ``(X) for fiscal year 2021, $496,000,000 in 
+                      additional new budget authority.
+                    ``(ii) <<NOTE: Definition.>> As used in this 
+                subparagraph, the term `additional new budget authority' 
+                means the amount provided for a fiscal year, in excess 
+                of $311,000,000, in an appropriation Act and specified 
+                to pay for the costs of the health care fraud and abuse 
+                control program.
+                    ``(D) Disaster funding.--
+                          ``(i) If, for fiscal years 2012 through 2021, 
+                      appropriations for discretionary accounts are 
+                      enacted that Congress designates as being for 
+                      disaster relief in statute, the adjustment for a 
+                      fiscal year shall be the total of such 
+                      appropriations for the fiscal year in 
+                      discretionary accounts designated as being for 
+                      disaster relief, but not to exceed the total of--
+                                    ``(I) the average funding provided 
+                                for disaster relief over the previous 10 
+                                years, excluding the highest and lowest 
+                                years; and
+                                    ``(II) the amount, for years when 
+                                the enacted new discretionary budget 
+                                authority designated as being for 
+                                disaster relief for the preceding fiscal
+
+[[Page 125 STAT. 245]]
+
+                                year was less than the average as 
+                                calculated in subclause (I) for that 
+                                fiscal year, that is the difference 
+                                between the enacted amount and the 
+                                allowable adjustment as calculated in 
+                                such subclause for that fiscal year.
+                          ``(ii) OMB shall report to the Committees on 
+                      Appropriations and Budget in each House the 
+                      average calculated pursuant to clause (i)(II), not 
+                      later than 30 days after the date of the enactment 
+                      of the Budget Control Act of 2011.
+                          ``(iii) <<NOTE: Definition.>> For the purposes 
+                      of this subparagraph, the term `disaster relief' 
+                      means activities carried out pursuant to a 
+                      determination under section 102(2) of the Robert 
+                      T. Stafford Disaster Relief and Emergency 
+                      Assistance Act (42 U.S.C. 5122(2)).
+                          ``(iv) Appropriations considered disaster 
+                      relief under this subparagraph in a fiscal year 
+                      shall not be eligible for adjustments under 
+                      subparagraph (A) for the fiscal year.
+
+    ``(c) Discretionary Spending Limit.--As <<NOTE: Definition.>> used 
+in this part, the term `discretionary spending limit' means--
+            ``(1) with respect to fiscal year 2012--
+                    ``(A) for the security category, $684,000,000,000 in 
+                new budget authority; and
+                    ``(B) for the nonsecurity category, $359,000,000,000 
+                in new budget authority;
+            ``(2) with respect to fiscal year 2013--
+                    ``(A) for the security category, $686,000,000,000 in 
+                new budget authority; and
+                    ``(B) for the nonsecurity category, $361,000,000,000 
+                in new budget authority;
+            ``(3) with respect to fiscal year 2014, for the 
+        discretionary category, $1,066,000,000,000 in new budget 
+        authority;
+            ``(4) with respect to fiscal year 2015, for the 
+        discretionary category, $1,086,000,000,000 in new budget 
+        authority;
+            ``(5) with respect to fiscal year 2016, for the 
+        discretionary category, $1,107,000,000,000 in new budget 
+        authority;
+            ``(6) with respect to fiscal year 2017, for the 
+        discretionary category, $1,131,000,000,000 in new budget 
+        authority;
+            ``(7) with respect to fiscal year 2018, for the 
+        discretionary category, $1,156,000,000,000 in new budget 
+        authority;
+            ``(8) with respect to fiscal year 2019, for the 
+        discretionary category, $1,182,000,000,000 in new budget 
+        authority;
+            ``(9) with respect to fiscal year 2020, for the 
+        discretionary category, $1,208,000,000,000 in new budget 
+        authority; and
+            ``(10) with respect to fiscal year 2021, for the 
+        discretionary category, $1,234,000,000,000 in new budget 
+        authority;
+
+as adjusted in strict conformance with subsection (b).''.
+SEC. 102. DEFINITIONS.
+
+    Section 250(c) of the Balanced Budget and Emergency Deficit Control 
+Act of 1985 <<NOTE: 2 USC 900.>> is amended as follows:
+            (1) Strike paragraph (4) and insert the following new 
+        paragraph:
+            ``(4)(A) The term `nonsecurity category' means all 
+        discretionary appropriations not included in the security 
+        category defined in subparagraph (B).
+
+[[Page 125 STAT. 246]]
+
+            ``(B) The term `security category' includes discretionary 
+        appropriations associated with agency budgets for the Department 
+        of Defense, the Department of Homeland Security, the Department 
+        of Veterans Affairs, the National Nuclear Security 
+        Administration, the intelligence community management account 
+        (95-0401-0-1-054), and all budget accounts in budget function 
+        150 (international affairs).
+            ``(C) The term `discretionary category' includes all 
+        discretionary appropriations.''.
+            (2) In paragraph (8)(C), strike ``the food stamp program'' 
+        and insert ``the Supplemental Nutrition Assistance Program''.
+            (3) Strike paragraph (14) and insert the following new 
+        paragraph:
+            ``(14) The term `outyear' means a fiscal year one or more 
+        years after the budget year.''.
+            (4) At the end, add the following new paragraphs:
+            ``(20) The term `emergency' means a situation that--
+                    ``(A) requires new budget authority and outlays (or 
+                new budget authority and the outlays flowing therefrom) 
+                for the prevention or mitigation of, or response to, 
+                loss of life or property, or a threat to national 
+                security; and
+                    ``(B) is unanticipated.
+            ``(21) The term `unanticipated' means that the underlying 
+        situation is--
+                    ``(A) sudden, which means quickly coming into being 
+                or not building up over time;
+                    ``(B) urgent, which means a pressing and compelling 
+                need requiring immediate action;
+                    ``(C) unforeseen, which means not predicted or 
+                anticipated as an emerging need; and
+                    ``(D) temporary, which means not of a permanent 
+                duration.''.
+SEC. 103. REPORTS AND ORDERS.
+
+    Section 254 of the Balanced Budget and Emergency Deficit Control Act 
+of 1985 <<NOTE: 2 USC 904.>> is amended as follows:
+            (1) In subsection (c)(2), strike ``2002'' and insert 
+        ``2021''.
+            (2) At the end of subsection (e), insert ``This report shall 
+        also contain a preview estimate of the adjustment for disaster 
+        funding for the upcoming fiscal year.''.
+            (3) In subsection (f)(2)(A), strike ``2002'' and insert 
+        ``2021''; before the concluding period insert ``, including a 
+        final estimate of the adjustment for disaster funding''.
+SEC. 104. EXPIRATION.
+
+    (a) Repealer.--Section 275 of the Balanced Budget and Emergency 
+Deficit Control Act of 1985 <<NOTE: 2 USC 900 note.>> is repealed.
+
+    (b) Conforming Change.--Sections <<NOTE: 2 USC 902 
+note.>> 252(d)(1), 254(c), 254(f)(3), and 254(i) of the Balanced Budget 
+and Emergency Deficit Control Act of 1985 shall not apply to the 
+Congressional Budget Office.
+SEC. 105. AMENDMENTS TO THE CONGRESSIONAL BUDGET AND IMPOUNDMENT 
+                        CONTROL ACT OF 1974.
+
+    (a) Adjustments.--Section 314 of the Congressional Budget Act of 
+1974 <<NOTE: 2 USC 645.>> is amended as follows:
+            (1) Strike subsection (a) and insert the following:
+
+    ``(a) Adjustments.--After the reporting of a bill or joint 
+resolution or the offering of an amendment thereto or the submission
+
+[[Page 125 STAT. 247]]
+
+of a conference report thereon, the chairman of the Committee on the 
+Budget of the House of Representatives or the Senate may make 
+appropriate budgetary adjustments of new budget authority and the 
+outlays flowing therefrom in the same amount as required by section 
+251(b) of the Balanced Budget and Emergency Deficit Control Act of 
+1985.''.
+            (2) Strike subsections (b) and (e) and redesignate 
+        subsections (c) and (d) as subsections (b) and (c), 
+        respectively.
+            (3) At the end, add the following new subsections:
+
+    ``(d) Emergencies in the House of Representatives.-- (1) In the 
+House of Representatives, if a reported bill or joint resolution, or 
+amendment thereto or conference report thereon, contains a provision 
+providing new budget authority and outlays or reducing revenue, and a 
+designation of such provision as an emergency requirement pursuant to 
+251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 
+1985, the chair of the Committee on the Budget of the House of 
+Representatives shall not count the budgetary effects of such provision 
+for purposes of title III and title IV of the Congressional Budget Act 
+of 1974 and the Rules of the House of Representatives.
+    ``(2)(A) In the House of Representatives, if a reported bill or 
+joint resolution, or amendment thereto or conference report thereon, 
+contains a provision providing new budget authority and outlays or 
+reducing revenue, and a designation of such provision as an emergency 
+pursuant to paragraph (1), the chair of the Committee on the Budget 
+shall not count the budgetary effects of such provision for purposes of 
+this title and title IV and the Rules of the House of Representatives.
+    ``(B) In the House of Representatives, a proposal to strike a 
+designation under subparagraph (A) shall be excluded from an evaluation 
+of budgetary effects for purposes of this title and title IV and the 
+Rules of the House of Representatives.
+    ``(C) An amendment offered under subparagraph (B) that also proposes 
+to reduce each amount appropriated or otherwise made available by the 
+pending measure that is not required to be appropriated or otherwise 
+made available shall be in order at any point in the reading of the 
+pending measure.
+    ``(e) Enforcement of Discretionary Spending Caps.--It shall not be 
+in order in the House of Representatives or the Senate to consider any 
+bill, joint resolution, amendment, motion, or conference report that 
+would cause the discretionary spending limits as set forth in section 
+251 of the Balanced Budget and Emergency Deficit Control Act to be 
+exceeded.''.
+    (b) Definitions.--Section 3 of the Congressional Budget and 
+Impoundment Control Act of 1974 <<NOTE: 2 USC 622.>> is amended by 
+adding at the end the following new paragraph:
+            ``(11) The terms `emergency' and `unanticipated' have the 
+        meanings given to such terms in section 250(c) of the Balanced 
+        Budget and Emergency Deficit Control Act of 1985.''.
+
+    (c) Appeals for Discretionary Caps.--Section 904(c)(2) of the 
+Congressional Budget Act of 1974 <<NOTE: 2 USC 621 note.>> is amended by 
+striking ``and 312(c)'' and inserting ``312(c), and 314(e)''.
+SEC. 106. <<NOTE: 2 USC 631 note.>> SENATE BUDGET ENFORCEMENT.
+
+    (a) <<NOTE: Applicability.>>  In General.--
+            (1) For the purpose of enforcing the Congressional Budget 
+        Act of 1974 through April 15, 2012, including section 300 of
+
+[[Page 125 STAT. 248]]
+
+        that Act, and enforcing budgetary points of order in prior 
+        concurrent resolutions on the budget, the allocations, 
+        aggregates, and levels set in subsection (b)(1) shall apply in 
+        the Senate in the same manner as for a concurrent resolution on 
+        the budget for fiscal year 2012 with appropriate budgetary 
+        levels for fiscal years 2011 and 2013 through 2021.
+            (2) For the purpose of enforcing the Congressional Budget 
+        Act of 1974 after April 15, 2012, including section 300 of that 
+        Act, and enforcing budgetary points of order in prior concurrent 
+        resolutions on the budget, the allocations, aggregates, and 
+        levels set in subsection (b)(2) shall apply in the Senate in the 
+        same manner as for a concurrent resolution on the budget for 
+        fiscal year 2013 with appropriate budgetary levels for fiscal 
+        years 2012 and 2014 through 2022.
+
+    (b) Committee Allocations, Aggregates, and Levels.--
+            (1) As soon as practicable after the date of enactment of 
+        this section, the Chairman of the Committee on the Budget shall 
+        file--
+                    (A) for the Committee on Appropriations, committee 
+                allocations for fiscal years 2011 and 2012 consistent 
+                with the discretionary spending limits set forth in this 
+                Act for the purpose of enforcing section 302 of the 
+                Congressional Budget Act of 1974;
+                    (B) for all committees other than the Committee on 
+                Appropriations, committee allocations for fiscal years 
+                2011, 2012, 2012 through 2016, and 2012 through 2021 
+                consistent with the Congressional Budget Office's March 
+                2011 baseline adjusted to account for the budgetary 
+                effects of this Act and legislation enacted prior to 
+                this Act but not included in the Congressional Budget 
+                Office's March 2011 baseline, for the purpose of 
+                enforcing section 302 of the Congressional Budget Act of 
+                1974;
+                    (C) aggregate spending levels for fiscal years 2011 
+                and 2012 and aggregate revenue levels for fiscal years 
+                2011, 2012, 2012 through 2016, 2012 through 2021 
+                consistent with the Congressional Budget Office's March 
+                2011 baseline adjusted to account for the budgetary 
+                effects of this Act and legislation enacted prior to 
+                this Act but not included in the Congressional Budget 
+                Office's March 2011 baseline, and the discretionary 
+                spending limits set forth in this Act for the purpose of 
+                enforcing section 311 of the Congressional Budget Act of 
+                1974; and
+                    (D) levels of Social Security revenues and outlays 
+                for fiscal years 2011, 2012, 2012 through 2016, and 2012 
+                through 2021 consistent with the Congressional Budget 
+                Office's March 2011 baseline adjusted to account for the 
+                budgetary effects of this Act and legislation enacted 
+                prior to this Act but not included in the Congressional 
+                Budget Office's March 2011 baseline, for the purpose of 
+                enforcing sections 302 and 311 of the Congressional 
+                Budget Act of 1974.
+            (2) <<NOTE: Deadline.>> Not later than April 15, 2012, the 
+        Chairman of the Committee on the Budget shall file--
+                    (A) for the Committee on Appropriations, committee 
+                allocations for fiscal years 2012 and 2013 consistent 
+                with the discretionary spending limits set forth in this 
+                Act for
+
+[[Page 125 STAT. 249]]
+
+                the purpose of enforcing section 302 of the 
+                Congressional Budget Act of 1974;
+                    (B) for all committees other than the Committee on 
+                Appropriations, committee allocations for fiscal years 
+                2012, 2013, 2013 through 2017, and 2013 through 2022 
+                consistent with the Congressional Budget Office's March 
+                2012 baseline for the purpose of enforcing section 302 
+                of the Congressional Budget Act of 1974;
+                    (C) aggregate spending levels for fiscal years 2012 
+                and 2013 and aggregate revenue levels for fiscal years 
+                2012, 2013, 2013-2017, and 2013-2022 consistent with the 
+                Congressional Budget Office's March 2012 baseline and 
+                the discretionary spending limits set forth in this Act 
+                for the purpose of enforcing section 311 of the 
+                Congressional Budget Act of 1974; and
+                    (D) levels of Social Security revenues and outlays 
+                for fiscal years 2012 and 2013, 2013-2017, and 2013-2022 
+                consistent with the Congressional Budget Office's March 
+                2012 baseline budget for the purpose of enforcing 
+                sections 302 and 311 of the Congressional Budget Act of 
+                1974.
+
+    (c) Senate Pay-as-you-go Scorecard.--
+            (1) <<NOTE: Effective date.>> Effective on the date of 
+        enactment of this section, for the purpose of enforcing section 
+        201 of S. Con. Res. 21 (110th Congress), the Chairman of the 
+        Senate Committee on the Budget shall reduce any balances of 
+        direct spending and revenues for any fiscal year to 0 (zero).
+            (2) <<NOTE: Deadline.>> Not later than April 15, 2012, for 
+        the purpose of enforcing section 201 of S. Con. Res. 21 (110th 
+        Congress), the Chairman of the Senate Committee on the Budget 
+        shall reduce any balances of direct spending and revenues for 
+        any fiscal year to 0 (zero).
+            (3) <<NOTE: Notification. Congressional Record.>> Upon 
+        resetting the Senate paygo scorecard pursuant to paragraph (2), 
+        the Chairman shall publish a notification of such action in the 
+        Congressional Record.
+
+    (d) Further Adjustments.--
+            (1) The Chairman of the Committee on the Budget of the 
+        Senate may revise any allocations, aggregates, or levels set 
+        pursuant to this section to account for any subsequent 
+        adjustments to discretionary spending limits made pursuant to 
+        this Act.
+            (2) With respect to any allocations, aggregates, or levels 
+        set or adjustments made pursuant to this section, sections 412 
+        through 414 of S. Con. Res. 13 (111th Congress) shall remain in 
+        effect.
+
+    (e) Expiration.--
+            (1) Subsections (a)(1), (b)(1), and (c)(1) shall expire if a 
+        concurrent resolution on the budget for fiscal year 2012 is 
+        agreed to by the Senate and House of Representatives pursuant to 
+        section 301 of the Congressional Budget Act of 1974.
+            (2) Subsections (a)(2), (b)(2), and (c)(2) shall expire if a 
+        concurrent resolution on the budget for fiscal year 2013 is 
+        agreed to by the Senate and House of Representatives pursuant to 
+        section 301 of the Congressional Budget Act of 1974.
+
+[[Page 125 STAT. 250]]
+
+             TITLE II--VOTE ON THE BALANCED BUDGET AMENDMENT
+
+SEC. 201. VOTE ON THE BALANCED BUDGET AMENDMENT.
+
+    After <<NOTE: Time period.>> September 30, 2011, and not later than 
+December 31, 2011, the House of Representatives and Senate, 
+respectively, shall vote on passage of a joint resolution, the title of 
+which is as follows: ``Joint resolution proposing a balanced budget 
+amendment to the Constitution of the United States.''.
+SEC. 202. CONSIDERATION BY THE OTHER HOUSE.
+
+    (a) House Consideration.--
+            (1) Referral.--If the <<NOTE: Deadline.>> House receives a 
+        joint resolution described in section 201 from the Senate, such 
+        joint resolution shall be referred to the Committee on the 
+        Judiciary. If the committee fails to report the joint resolution 
+        within five legislative days, it shall be in order to move that 
+        the House discharge the committee from further consideration of 
+        the joint resolution. Such a motion shall not be in order after 
+        the House has disposed of a motion to discharge the joint 
+        resolution. The previous question shall be considered as ordered 
+        on the motion to its adoption without intervening motion except 
+        twenty minutes of debate equally divided and controlled by the 
+        proponent and an opponent. If such a motion is adopted, the 
+        House shall proceed immediately to consider the joint resolution 
+        in accordance with paragraph (3). A motion to reconsider the 
+        vote by which the motion is disposed of shall not be in order.
+            (2) Proceeding to consideration.--After the joint resolution 
+        has been referred to the appropriate calendar or the committee 
+        has been discharged (other than by motion) from its 
+        consideration, it shall be in order to move to proceed to 
+        consider the joint resolution in the House. Such a motion shall 
+        not be in order after the House has disposed of a motion to 
+        proceed with respect to the joint resolution. The previous 
+        question shall be considered as ordered on the motion to its 
+        adoption without intervening motion. A motion to reconsider the 
+        vote by which the motion is disposed of shall not be in order.
+            (3) Consideration.--The joint resolution shall be considered 
+        as read. All points of order against the joint resolution and 
+        against its consideration are waived. The previous question 
+        shall be considered as ordered on the joint resolution to its 
+        passage without intervening motion except two hours of debate 
+        equally divided and controlled by the proponent and an opponent 
+        and one motion to limit debate on the joint resolution. A motion 
+        to reconsider the vote on passage of the joint resolution shall 
+        not be in order.
+
+    (b) Senate Consideration.--(1) If the <<NOTE: Deadline.>> Senate 
+receives a joint resolution described in section 201 from the House of 
+Representatives, such joint resolution shall be referred to the 
+appropriate committee of the Senate. If such committee has not reported 
+the joint resolution at the close of the fifth session day after its 
+receipt by the Senate, such committee shall be automatically discharged 
+from further consideration of the joint resolution and it shall be 
+placed on the appropriate calendar.
+
+    (2) Consideration of the joint resolution and on all debatable 
+motions and appeals in connection therewith, shall be limited to
+
+[[Page 125 STAT. 251]]
+
+not more than 20 hours, which shall be divided equally between the 
+majority and minority leaders or their designees. A motion further to 
+limit debate is in order and not debatable. An amendment to, or a motion 
+to postpone, or a motion to proceed to the consideration of other 
+business, or a motion to recommit the joint resolution is not in order. 
+Any debatable motion or appeal is debatable for not to exceed 1 hour, to 
+be divided equally between those favoring and those opposing the motion 
+or appeal. All time used for consideration of the joint resolution, 
+including time used for quorum calls and voting, shall be counted 
+against the total 20 hours of consideration.
+    (3) If the <<NOTE: Deadline.>> Senate has voted to proceed to a 
+joint resolution, the vote on passage of the joint resolution shall be 
+taken on or before the close of the seventh session day after such joint 
+resolution has been reported or discharged or immediately following the 
+conclusion of consideration of the joint resolution, and a single quorum 
+call at the conclusion of the debate if requested in accordance with the 
+rules of the Senate.
+
+               TITLE III--DEBT CEILING DISAPPROVAL PROCESS
+
+SEC. 301. DEBT CEILING DISAPPROVAL PROCESS.
+
+    (a) In General.--Subchapter I of chapter 31 of subtitle III of title 
+31, United States Code, is amended--
+            (1) in section 3101(b), by striking ``or otherwise'' and 
+        inserting ``or as provided by section 3101A or otherwise''; and
+            (2) by inserting after section 3101 the following:
+``Sec. 3101A. Presidential modification of the debt ceiling
+
+    ``(a) In General.--
+            ``(1) $900 billion.--
+                    ``(A) Certification.--If, 
+                not <<NOTE: Deadline.>> later than December 31, 2011, 
+                the President submits a written certification to 
+                Congress that the President has determined that the debt 
+                subject to limit is within $100,000,000,000 of the limit 
+                in section 3101(b) and that further borrowing is 
+                required to meet existing commitments, the Secretary of 
+                the Treasury may exercise authority to borrow an 
+                additional $900,000,000,000, subject to the enactment of 
+                a joint resolution of disapproval enacted pursuant to 
+                this section. Upon submission of such certification, the 
+                limit on debt provided in section 3101(b) (referred to 
+                in this section as the `debt limit') is increased by 
+                $400,000,000,000.
+                    ``(B) Resolution of disapproval.--Congress may 
+                consider a joint resolution of disapproval of the 
+                authority under subparagraph (A) as provided in 
+                subsections (b) through (f). The joint resolution of 
+                disapproval considered under this section shall contain 
+                only the language provided in subsection (b)(2). If the 
+                time for disapproval has lapsed without enactment of a 
+                joint resolution of disapproval under this section, the 
+                debt limit is increased by an additional 
+                $500,000,000,000.
+            ``(2) Additional amount.--
+                    ``(A) Certification.--If, after the debt limit is 
+                increased by $900,000,000,000 under paragraph (1), the
+
+[[Page 125 STAT. 252]]
+
+                President submits a written certification to Congress 
+                that the President has determined that the debt subject 
+                to limit is within $100,000,000,000 of the limit in 
+                section 3101(b) and that further borrowing is required 
+                to meet existing commitments, the Secretary of the 
+                Treasury may, subject to the enactment of a joint 
+                resolution of disapproval enacted pursuant to this 
+                section, exercise authority to borrow an additional 
+                amount equal to--
+                          ``(i) $1,200,000,000,000, unless clause (ii) 
+                      or (iii) applies;
+                          ``(ii) $1,500,000,000,000 if the Archivist of 
+                      the United States has submitted to the States for 
+                      their ratification a proposed amendment to the 
+                      Constitution of the United States pursuant to a 
+                      joint resolution entitled `Joint resolution 
+                      proposing a balanced budget amendment to the 
+                      Constitution of the United States'; or
+                          ``(iii) if a joint committee bill to achieve 
+                      an amount greater than $1,200,000,000,000 in 
+                      deficit reduction as provided in section 
+                      401(b)(3)(B)(i)(II) of the Budget Control Act of 
+                      2011 is enacted, an amount equal to the amount of 
+                      that deficit reduction, but not greater than 
+                      $1,500,000,000,000, unless clause (ii) applies.
+                    ``(B) Resolution of disapproval.--Congress may 
+                consider a joint resolution of disapproval of the 
+                authority under subparagraph (A) as provided in 
+                subsections (b) through (f). The joint resolution of 
+                disapproval considered under this section shall contain 
+                only the language provided in subsection (b)(2). If the 
+                time for disapproval has lapsed without enactment of a 
+                joint resolution of disapproval under this section, the 
+                debt limit is increased by the amount authorized under 
+                subparagraph (A).
+
+    ``(b) Joint Resolution of Disapproval.--
+            ``(1) In general.--Except <<NOTE: Deadlines.>> for the 
+        $400,000,000,000 increase in the debt limit provided by 
+        subsection (a)(1)(A), the debt limit may not be raised under 
+        this section if, within 50 calendar days after the date on which 
+        Congress receives a certification described in subsection (a)(1) 
+        or within 15 calendar days after Congress receives the 
+        certification described in subsection (a)(2) (regardless of 
+        whether Congress is in session), there is enacted into law a 
+        joint resolution disapproving the President's exercise of 
+        authority with respect to such additional amount.
+            ``(2) Contents of joint resolution.--
+        For <<NOTE: Definition.>> the purpose of this section, the term 
+        `joint resolution' means only a joint resolution--
+                    ``(A)(i) for the certification described in 
+                subsection (a)(1), that is introduced on September 6, 7, 
+                8, or 9, 2011 (or, if the Senate was not in session, the 
+                next calendar day on which the Senate is in session); 
+                and
+                    ``(ii) for the certification described in subsection 
+                (a)(2), that is introduced between the date the 
+                certification is received and 3 calendar days after that 
+                date;
+                    ``(B) which does not have a preamble;
+                    ``(C) the title of which is only as follows: `Joint 
+                resolution relating to the disapproval of the 
+                President's exercise of authority to increase the debt 
+                limit, as submitted under section 3101A of title 31, 
+                United States Code, on
+
+[[Page 125 STAT. 253]]
+
+                ______' (with the blank containing the date of such 
+                submission); and
+                    ``(D) the matter after the resolving clause of which 
+                is only as follows: `That Congress disapproves of the 
+                President's exercise of authority to increase the debt 
+                limit, as exercised pursuant to the certification under 
+                section 3101A(a) of title 31, United States Code.'.
+
+    ``(c) Expedited Consideration in House of Representatives.--
+            ``(1) Reconvening.--
+        Upon <<NOTE: Notification. Deadline.>> receipt of a 
+        certification described in subsection (a)(2), the Speaker, if 
+        the House would otherwise be adjourned, shall notify the Members 
+        of the House that, pursuant to this section, the House shall 
+        convene not later than the second calendar day after receipt of 
+        such certification.
+            ``(2) Reporting and discharge.--Any committee of the House 
+        of Representatives to which a joint resolution is referred shall 
+        report it to the House without amendment not later than 5 
+        calendar days after the date of introduction of a joint 
+        resolution described in subsection (a). If a committee fails to 
+        report the joint resolution within that period, the committee 
+        shall be discharged from further consideration of the joint 
+        resolution and the joint resolution shall be referred to the 
+        appropriate calendar.
+            ``(3) Proceeding to consideration.--
+        After <<NOTE: Deadline.>> each committee authorized to consider 
+        a joint resolution reports it to the House or has been 
+        discharged from its consideration, it shall be in order, not 
+        later than the sixth day after introduction of a joint 
+        resolution under subsection (a), to move to proceed to consider 
+        the joint resolution in the House. All points of order against 
+        the motion are waived. Such a motion shall not be in order after 
+        the House has disposed of a motion to proceed on a joint 
+        resolution addressing a particular submission. The previous 
+        question shall be considered as ordered on the motion to its 
+        adoption without intervening motion. The motion shall not be 
+        debatable. A motion to reconsider the vote by which the motion 
+        is disposed of shall not be in order.
+            ``(4) Consideration.--The joint resolution shall be 
+        considered as read. All points of order against the joint 
+        resolution and against its consideration are waived. The 
+        previous question shall be considered as ordered on the joint 
+        resolution to its passage without intervening motion except two 
+        hours of debate equally divided and controlled by the proponent 
+        and an opponent. A motion to reconsider the vote on passage of 
+        the joint resolution shall not be in order.
+
+    ``(d) Expedited Procedure in Senate.--
+            ``(1) Reconvening.--
+        Upon <<NOTE: Notification. Deadline.>> receipt of a 
+        certification under subsection (a)(2), if the Senate has 
+        adjourned or recessed for more than 2 days, the majority leader 
+        of the Senate, after consultation with the minority leader of 
+        the Senate, shall notify the Members of the Senate that, 
+        pursuant to this section, the Senate shall convene not later 
+        than the second calendar day after receipt of such message.
+            ``(2) Placement on calendar.--Upon introduction in the 
+        Senate, the joint resolution shall be immediately placed on the 
+        calendar.
+            ``(3) Floor consideration.--
+
+[[Page 125 STAT. 254]]
+
+                    ``(A) In general.--Notwithstanding <<NOTE: Time 
+                period. Waiver.>> Rule XXII of the Standing Rules of the 
+                Senate, it is in order at any time during the period 
+                beginning on the day after the date on which Congress 
+                receives a certification under subsection (a) and, for 
+                the certification described in subsection (a)(1), ending 
+                on September 14, 2011, and for the certification 
+                described in subsection (a)(2), on the 6th day after the 
+                date on which Congress receives a certification under 
+                subsection (a) (even though a previous motion to the 
+                same effect has been disagreed to) to move to proceed to 
+                the consideration of the joint resolution, and all 
+                points of order against the joint resolution (and 
+                against consideration of the joint resolution) are 
+                waived. The motion to proceed is not debatable. The 
+                motion is not subject to a motion to postpone. A motion 
+                to reconsider the vote by which the motion is agreed to 
+                or disagreed to shall not be in order. If a motion to 
+                proceed to the consideration of the resolution is agreed 
+                to, the joint resolution shall remain the unfinished 
+                business until disposed of.
+                    ``(B) Consideration.--Consideration of the joint 
+                resolution, and on all debatable motions and appeals in 
+                connection therewith, shall be limited to not more than 
+                10 hours, which shall be divided equally between the 
+                majority and minority leaders or their designees. A 
+                motion further to limit debate is in order and not 
+                debatable. An amendment to, or a motion to postpone, or 
+                a motion to proceed to the consideration of other 
+                business, or a motion to recommit the joint resolution 
+                is not in order.
+                    ``(C) Vote on passage.--If the Senate has voted to 
+                proceed to a joint resolution, the vote on passage of 
+                the joint resolution shall occur immediately following 
+                the conclusion of consideration of the joint resolution, 
+                and a single quorum call at the conclusion of the debate 
+                if requested in accordance with the rules of the Senate.
+                    ``(D) Rulings of the chair on procedure.--Appeals 
+                from the decisions of the Chair relating to the 
+                application of the rules of the Senate, as the case may 
+                be, to the procedure relating to a joint resolution 
+                shall be decided without debate.
+
+    ``(e) Amendment Not in Order.--A joint resolution of disapproval 
+considered pursuant to this section shall not be subject to amendment in 
+either the House of Representatives or the Senate.
+    ``(f) Coordination With Action by Other House.--
+            ``(1) In general.--If, before passing the joint resolution, 
+        one House receives from the other a joint resolution--
+                    ``(A) the joint resolution of the other House shall 
+                not be referred to a committee; and
+                    ``(B) the procedure in the receiving House shall be 
+                the same as if no joint resolution had been received 
+                from the other House until the vote on passage, when the 
+                joint resolution received from the other House shall 
+                supplant the joint resolution of the receiving House.
+            ``(2) Treatment of joint resolution of other house.--If the 
+        Senate fails to introduce or consider a joint resolution under 
+        this section, the joint resolution of the House shall be 
+        entitled to expedited floor procedures under this section.
+
+[[Page 125 STAT. 255]]
+
+            ``(3) Treatment of companion measures.--If, following 
+        passage of the joint resolution in the Senate, the Senate then 
+        receives the companion measure from the House of 
+        Representatives, the companion measure shall not be debatable.
+            ``(4) Consideration after passage.--(A) If Congress passes a 
+        joint resolution, the period beginning on the date the President 
+        is presented with the joint resolution and ending on the date 
+        the President signs, allows to become law without his signature, 
+        or vetoes and returns the joint resolution (but excluding days 
+        when either House is not in session) shall be disregarded in 
+        computing the appropriate calendar day period described in 
+        subsection (b)(1).
+            ``(B) Debate on a veto message in the Senate under this 
+        section shall be 1 hour equally divided between the majority and 
+        minority leaders or their designees.
+            ``(5) Veto override.--If within the appropriate calendar day 
+        period described in subsection (b)(1), Congress overrides a veto 
+        of the joint resolution with respect to authority exercised 
+        pursuant to paragraph (1) or (2) of subsection (a), the limit on 
+        debt provided in section 3101(b) shall not be raised, except for 
+        the $400,000,000,000 increase in the limit provided by 
+        subsection (a)(1)(A).
+            ``(6) Sequestration.--(A) If <<NOTE: Time 
+        period. President.>> within the 50-calendar day period described 
+        in subsection (b)(1), the President signs the joint resolution, 
+        the President allows the joint resolution to become law without 
+        his signature, or Congress overrides a veto of the joint 
+        resolution with respect to authority exercised pursuant to 
+        paragraph (1) of subsection (a), there shall be a sequestration 
+        to reduce spending by $400,000,000,000. OMB shall implement the 
+        sequestration forthwith.
+            ``(B) <<NOTE: Definition.>> OMB shall implement each half of 
+        such sequestration in accordance with section 255, section 256, 
+        and subsections (c), (d), (e), and (f) of section 253 of the 
+        Balanced Budget and Emergency Deficit Control Act of 1985, and 
+        for the purpose of such implementation the term `excess deficit' 
+        means the amount specified in subparagraph (A).
+
+    ``(g) Rules of House of Representatives and Senate.--This subsection 
+and subsections (b), (c), (d), (e), and (f) (other than paragraph (6)) 
+are enacted by Congress--
+            ``(1) as an exercise of the rulemaking power of the Senate 
+        and House of Representatives, respectively, and as such it is 
+        deemed a part of the rules of each House, respectively, but 
+        applicable only with respect to the procedure to be followed in 
+        that House in the case of a joint resolution, and it supersedes 
+        other rules only to the extent that it is inconsistent with such 
+        rules; and
+            ``(2) with full recognition of the constitutional right of 
+        either House to change the rules (so far as relating to the 
+        procedure of that House) at any time, in the same manner, and to 
+        the same extent as in the case of any other rule of that 
+        House.''.
+
+    (b) Conforming Amendment.--The table of sections for chapter 31 of 
+title 31, United States Code, is amended by inserting after the item 
+relating to section 3101 the following new item:
+
+``3101A. Presidential modification of the debt ceiling.''.
+
+[[Page 125 STAT. 256]]
+
+SEC. 302. ENFORCEMENT OF BUDGET GOAL.
+
+    (a) In General.--The Balanced Budget and Emergency Deficit Control 
+Act of 1985 is amended by inserting after section 251 the following new 
+section:
+``SEC. 251A. <<NOTE: 2 USC 901a.>> ENFORCEMENT OF BUDGET GOAL.
+
+    ``Unless a <<NOTE: Deadline.>> joint committee bill achieving an 
+amount greater than $1,200,000,000,000 in deficit reduction as provided 
+in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is 
+enacted by January 15, 2012, the discretionary spending limits listed in 
+section 251(c) shall be revised, and discretionary appropriations and 
+direct spending shall be reduced, as follows:
+            ``(1) <<NOTE: Definitions.>>  Revised security category; 
+        revised nonsecurity category.--(A) The term `revised security 
+        category' means discretionary appropriations in budget function 
+        050.
+            ``(B) The term `revised nonsecurity category' means 
+        discretionary appropriations other than in budget function 050.
+            ``(2) Revised discretionary spending limits.--The 
+        discretionary spending limits for fiscal years 2013 through 2021 
+        under section 251(c) shall be replaced with the following:
+                    ``(A) For fiscal year 2013--
+                          ``(i) for the security category, 
+                      $546,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $501,000,000,000 in budget authority.
+                    ``(B) For fiscal year 2014--
+                          ``(i) for the security category, 
+                      $556,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $510,000,000,000 in budget authority.
+                    ``(C) For fiscal year 2015--
+                          ``(i) for the security category, 
+                      $566,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $520,000,000,000 in budget authority.
+                    ``(D) For fiscal year 2016--
+                          ``(i) for the security category, 
+                      $577,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $530,000,000,000 in budget authority.
+                    ``(E) For fiscal year 2017--
+                          ``(i) for the security category, 
+                      $590,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $541,000,000,000 in budget authority.
+                    ``(F) For fiscal year 2018--
+                          ``(i) for the security category, 
+                      $603,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $553,000,000,000 in budget authority.
+                    ``(G) For fiscal year 2019--
+                          ``(i) for the security category, 
+                      $616,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $566,000,000,000 in budget authority.
+                    ``(H) For fiscal year 2020--
+
+[[Page 125 STAT. 257]]
+
+                          ``(i) for the security category, 
+                      $630,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $578,000,000,000 in budget authority.
+                    ``(I) For fiscal year 2021--
+                          ``(i) for the security category, 
+                      $644,000,000,000 in budget authority; and
+                          ``(ii) for the nonsecurity category, 
+                      $590,000,000,000 in budget authority.
+            ``(3) Calculation of total deficit reduction.--OMB shall 
+        calculate the amount of the deficit reduction required by this 
+        section for each of fiscal years 2013 through 2021 by--
+                    ``(A) starting with $1,200,000,000,000;
+                    ``(B) subtracting the amount of deficit reduction 
+                achieved by the enactment of a joint committee bill, as 
+                provided in section 401(b)(3)(B)(i)(II) of the Budget 
+                Control Act of 2011;
+                    ``(C) reducing the difference by 18 percent to 
+                account for debt service; and
+                    ``(D) dividing the result by 9.
+            ``(4) Allocation to functions.--On <<NOTE: Effective 
+        date.>> January 2, 2013, for fiscal year 2013, and in its 
+        sequestration preview report for fiscal years 2014 through 2021 
+        pursuant to section 254(c), OMB shall allocate half of the total 
+        reduction calculated pursuant to paragraph (3) for that year to 
+        discretionary appropriations and direct spending accounts within 
+        function 050 (defense function) and half to accounts in all 
+        other functions (nondefense functions).
+            ``(5) Defense function reduction.--OMB shall calculate the 
+        reductions to discretionary appropriations and direct spending 
+        for each of fiscal years 2013 through 2021 for defense function 
+        spending as follows:
+                    ``(A) Discretionary.--OMB shall calculate the 
+                reduction to discretionary appropriations by--
+                          ``(i) taking the total reduction for the 
+                      defense function allocated for that year under 
+                      paragraph (4);
+                          ``(ii) multiplying by the discretionary 
+                      spending limit for the revised security category 
+                      for that year; and
+                          ``(iii) dividing by the sum of the 
+                      discretionary spending limit for the security 
+                      category and OMB's baseline estimate of nonexempt 
+                      outlays for direct spending programs within the 
+                      defense function for that year.
+                    ``(B) Direct spending.--OMB shall calculate the 
+                reduction to direct spending by taking the total 
+                reduction for the defense function required for that 
+                year under paragraph (4) and subtracting the 
+                discretionary reduction calculated pursuant to 
+                subparagraph (A).
+            ``(6) Nondefense function reduction.--OMB shall calculate 
+        the reduction to discretionary appropriations and to direct 
+        spending for each of fiscal years 2013 through 2021 for programs 
+        in nondefense functions as follows:
+                    ``(A) Discretionary.--OMB shall calculate the 
+                reduction to discretionary appropriations by--
+
+[[Page 125 STAT. 258]]
+
+                          ``(i) taking the total reduction for 
+                      nondefense functions allocated for that year under 
+                      paragraph (4);
+                          ``(ii) multiplying by the discretionary 
+                      spending limit for the revised nonsecurity 
+                      category for that year; and
+                          ``(iii) dividing by the sum of the 
+                      discretionary spending limit for the revised 
+                      nonsecurity category and OMB's baseline estimate 
+                      of nonexempt outlays for direct spending programs 
+                      in nondefense functions for that year.
+                    ``(B) Direct spending.--OMB shall calculate the 
+                reduction to direct spending programs by taking the 
+                total reduction for nondefense functions required for 
+                that year under paragraph (4) and subtracting the 
+                discretionary reduction calculated pursuant to 
+                subparagraph (A).
+            ``(7) Implementing discretionary reductions.--
+                    ``(A) Fiscal year 2013.--On <<NOTE: Effective 
+                date. President. Sequestration order.>> January 2, 2013, 
+                for fiscal year 2013, OMB shall calculate and the 
+                President shall order a sequestration, effective upon 
+                issuance and under the procedures set forth in section 
+                253(f), to reduce each account within the security 
+                category or nonsecurity category by a dollar amount 
+                calculated by multiplying the baseline level of 
+                budgetary resources in that account at that time by a 
+                uniform percentage necessary to achieve--
+                          ``(i) for the revised security category, an 
+                      amount equal to the defense function discretionary 
+                      reduction calculated pursuant to paragraph (5); 
+                      and
+                          ``(ii) for the revised nonsecurity category, 
+                      an amount equal to the nondefense function 
+                      discretionary reduction calculated pursuant to 
+                      paragraph (6).
+                    ``(B) Fiscal years 2014-2021.--On the date of the 
+                submission of its sequestration preview report for 
+                fiscal years 2014 through 2021 pursuant to section 
+                254(c) for each of fiscal years 2014 through 2021, OMB 
+                shall reduce the discretionary spending limit--
+                          ``(i) for the revised security category by the 
+                      amount of the defense function discretionary 
+                      reduction calculated pursuant to paragraph (5); 
+                      and
+                          ``(ii) for the revised nonsecurity category by 
+                      the amount of the nondefense function 
+                      discretionary reduction calculated pursuant to 
+                      paragraph (6).
+            ``(8) Implementing direct spending reductions.--
+        On <<NOTE: President. Sequestration order.>> the date specified 
+        in paragraph (4) during each applicable year, OMB shall prepare 
+        and the President shall order a sequestration, effective upon 
+        issuance, of nonexempt direct spending to achieve the direct 
+        spending reduction calculated pursuant to paragraphs (5) and 
+        (6). When implementing the sequestration of direct spending 
+        pursuant to this paragraph, OMB shall follow the procedures 
+        specified in section 6 of the Statutory Pay-As-You-Go Act of 
+        2010, the exemptions specified in section 255, and the special 
+        rules specified in section 256, except that the percentage 
+        reduction for the Medicare programs specified in section 256(d) 
+        shall not be more than 2 percent for a fiscal year.
+            ``(9) Adjustment for medicare.--If the percentage reduction 
+        for the Medicare programs would exceed 2 percent for a fiscal 
+        year in the absence of paragraph (8), OMB shall
+
+[[Page 125 STAT. 259]]
+
+        increase the reduction for all other discretionary 
+        appropriations and direct spending under paragraph (6) by a 
+        uniform percentage to a level sufficient to achieve the 
+        reduction required by paragraph (6) in the non-defense function.
+            ``(10) Implementation of reductions.--Any reductions imposed 
+        under this section shall be implemented in accordance with 
+        section 256(k).
+            ``(11) Report.--On the dates specified in paragraph (4), OMB 
+        shall submit a report to Congress containing information about 
+        the calculations required under this section, the adjusted 
+        discretionary spending limits, a listing of the reductions 
+        required for each nonexempt direct spending account, and any 
+        other data and explanations that enhance public understanding of 
+        this title and actions taken under it.''.
+
+    (b) Conforming Amendment.--The table of contents set forth in 
+section 250(a) of the Balanced Budget and Emergency Deficit Control Act 
+of 1985 is amended by inserting after the item relating to section 251 
+the following:
+
+``Sec. 251A. Enforcement of budget goal.''.
+
+          TITLE IV--JOINT SELECT COMMITTEE ON DEFICIT REDUCTION
+
+SEC. 401. <<NOTE: 2 USC 900 note.>> ESTABLISHMENT OF JOINT SELECT 
+                        COMMITTEE.
+
+    (a) Definitions.--In this title:
+            (1) Joint committee.--The term ``joint committee'' means the 
+        Joint Select Committee on Deficit Reduction established under 
+        subsection (b)(1).
+            (2) Joint committee bill.--The term ``joint committee bill'' 
+        means a bill consisting of the proposed legislative language of 
+        the joint committee recommended under subsection (b)(3)(B) and 
+        introduced under section 402(a).
+
+    (b) Establishment of Joint Select Committee.--
+            (1) Establishment.--There is established a joint select 
+        committee of Congress to be known as the ``Joint Select 
+        Committee on Deficit Reduction''.
+            (2) Goal.--The goal of the joint committee shall be to 
+        reduce the deficit by at least $1,500,000,000,000 over the 
+        period of fiscal years 2012 to 2021.
+            (3) Duties.--
+                    (A) In general.--
+                          (i) Improving the short-term and long-term 
+                      fiscal imbalance.--The <<NOTE: Recommenda- 
+                      tions.>> joint committee shall provide 
+                      recommendations and legislative language that will 
+                      significantly improve the short-term and long-term 
+                      fiscal imbalance of the Federal Government.
+                          (ii) Recommendations of committees.--
+                      Not <<NOTE: Deadline.>> later than October 14, 
+                      2011, each committee of the House of 
+                      Representatives and the Senate may transmit to the 
+                      joint committee its recommendations for changes in 
+                      law to reduce the deficit consistent with the goal 
+                      described in paragraph (2) for the joint 
+                      committee's consideration.
+                    (B) Report, recommendations, and legislative 
+                language.--
+
+[[Page 125 STAT. 260]]
+
+                          (i) In general.--Not later than November 23, 
+                      2011, the joint committee shall vote on--
+                                    (I) a report that contains a 
+                                detailed statement of the findings, 
+                                conclusions, and recommendations of the 
+                                joint committee and the estimate of the 
+                                Congressional Budget Office required by 
+                                paragraph (5)(D)(ii); and
+                                    (II) proposed legislative language 
+                                to carry out such recommendations as 
+                                described in subclause (I), which shall 
+                                include a statement of the deficit 
+                                reduction achieved by the legislation 
+                                over the period of fiscal years 2012 to 
+                                2021.
+                      Any change to the Rules of the House of 
+                      Representatives or the Standing Rules of the 
+                      Senate included in the report or legislative 
+                      language shall be considered to be merely 
+                      advisory.
+                          (ii) Approval of report and legislative 
+                      language.--The report of the joint committee and 
+                      the proposed legislative language described in 
+                      clause (i) shall require the approval of a 
+                      majority of the members of the joint committee.
+                          (iii) Additional views.--A <<NOTE: Time 
+                      period.>> member of the joint committee who gives 
+                      notice of an intention to file supplemental, 
+                      minority, or additional views at the time of final 
+                      joint committee vote on the approval of the report 
+                      and legislative language under clause (ii) shall 
+                      be entitled to 3 calendar days in which to file 
+                      such views in writing with the staff director of 
+                      the joint committee. Such views shall then be 
+                      included in the joint committee report and printed 
+                      in the same volume, or part thereof, and their 
+                      inclusion shall be noted on the cover of the 
+                      report. In the absence of timely notice, the joint 
+                      committee report may be printed and transmitted 
+                      immediately without such views.
+                          (iv) Transmission of report and legislative 
+                      language.--If the report and legislative language 
+                      are approved by the joint committee pursuant to 
+                      clause (ii), then not later than December 2, 2011, 
+                      the joint committee shall submit the joint 
+                      committee report and legislative language 
+                      described in clause (i) to the President, the Vice 
+                      President, the Speaker of the House of 
+                      Representatives, and the majority and minority 
+                      Leaders of each House of Congress.
+                          (v) Report and legislative language to be made 
+                      public.--Upon the approval or disapproval of the 
+                      joint committee report and legislative language 
+                      pursuant to clause (ii), the joint committee shall 
+                      promptly make the full report and legislative 
+                      language, and a record of the vote, available to 
+                      the public.
+            (4) Membership.--
+                    (A) In general.--The joint committee shall be 
+                composed of 12 members appointed pursuant to 
+                subparagraph (B).
+                    (B) Appointment.--Members of the joint committee 
+                shall be appointed as follows:
+                          (i) The majority leader of the Senate shall 
+                      appoint three members from among Members of the 
+                      Senate.
+
+[[Page 125 STAT. 261]]
+
+                          (ii) The minority leader of the Senate shall 
+                      appoint three members from among Members of the 
+                      Senate.
+                          (iii) The Speaker of the House of 
+                      Representatives shall appoint three members from 
+                      among Members of the House of Representatives.
+                          (iv) The minority leader of the House of 
+                      Representatives shall appoint three members from 
+                      among Members of the House of Representatives.
+                    (C) Co-chairs.--
+                          (i) In general.--
+                      There <<NOTE: Appointments.>> shall be two Co-
+                      Chairs of the joint committee. The majority leader 
+                      of the Senate shall appoint one Co-Chair from 
+                      among the members of the joint committee. The 
+                      Speaker of the House of Representatives shall 
+                      appoint the second Co-Chair from among the members 
+                      of the joint <<NOTE: Deadline.>> committee. The 
+                      Co-Chairs shall be appointed not later than 14 
+                      calendar days after the date of enactment of this 
+                      Act.
+                          (ii) Staff director.--The Co-Chairs, acting 
+                      jointly, shall hire the staff director of the 
+                      joint committee.
+                    (D) Date.--
+                Members <<NOTE: Appointments. Deadline.>> of the joint 
+                committee shall be appointed not later than 14 calendar 
+                days after the date of enactment of this Act.
+                    (E) Period of appointment.--
+                Members <<NOTE: Deadline.>> shall be appointed for the 
+                life of the joint committee. Any vacancy in the joint 
+                committee shall not affect its powers, but shall be 
+                filled not later than 14 calendar days after the date on 
+                which the vacancy occurs, in the same manner as the 
+                original designation was made. If a member of the joint 
+                committee ceases to be a Member of the House of 
+                Representatives or the Senate, as the case may be, the 
+                member is no longer a member of the joint committee and 
+                a vacancy shall exist.
+            (5) Administration.--
+                    (A) In general.--To enable the joint committee to 
+                exercise its powers, functions, and duties, there are 
+                authorized to be disbursed by the Senate the actual and 
+                necessary expenses of the joint committee approved by 
+                the co-chairs, subject to the rules and regulations of 
+                the Senate.
+                    (B) Expenses.--In carrying out its functions, the 
+                joint committee is authorized to incur expenses in the 
+                same manner and under the same conditions as the Joint 
+                Economic Committee is authorized by section 11 of Public 
+                Law 79-304 (15 U.S.C. 1024 (d)).
+                    (C) Quorum.--Seven members of the joint committee 
+                shall constitute a quorum for purposes of voting, 
+                meeting, and holding hearings.
+                    (D) Voting.--
+                          (i) Proxy voting.--No proxy voting shall be 
+                      allowed on behalf of the members of the joint 
+                      committee.
+                          (ii) Congressional budget office estimates.--
+                      The Congressional Budget Office shall provide 
+                      estimates of the legislation (as described in 
+                      paragraph (3)(B)) in accordance with sections 
+                      308(a) and 201(f) of the Congressional Budget Act 
+                      of 1974 (2 U.S.C. 639(a) and 601(f))(including 
+                      estimates of the effect of
+
+[[Page 125 STAT. 262]]
+
+                      interest payment on the debt). In addition, the 
+                      Congressional Budget Office shall provide 
+                      information on the budgetary effect of the 
+                      legislation beyond the year 
+                      2021. <<NOTE: Deadline.>> The joint committee may 
+                      not vote on any version of the report, 
+                      recommendations, or legislative language unless 
+                      such estimates are available for consideration by 
+                      all members of the joint committee at least 48 
+                      hours prior to the vote as certified by the Co-
+                      Chairs.
+                    (E) <<NOTE: Deadlines.>>  Meetings.--
+                          (i) Initial meeting.--Not later than 45 
+                      calendar days after the date of enactment of this 
+                      Act, the joint committee shall hold its first 
+                      meeting.
+                          (ii) Agenda.--The Co-Chairs of the joint 
+                      committee shall provide an agenda to the joint 
+                      committee members not less than 48 hours in 
+                      advance of any meeting.
+                    (F) Hearings.--
+                          (i) In general.--The joint committee may, for 
+                      the purpose of carrying out this section, hold 
+                      such hearings, sit and act at such times and 
+                      places, require attendance of witnesses and 
+                      production of books, papers, and documents, take 
+                      such testimony, receive such evidence, and 
+                      administer such oaths as the joint committee 
+                      considers advisable.
+                          (ii) <<NOTE: Deadlines.>>  Hearing procedures 
+                      and responsibilities of co-chairs.--
+                                    (I) Announcement.--The Co-Chairs of 
+                                the joint committee shall make a public 
+                                announcement of the date, place, time, 
+                                and subject matter of any hearing to be 
+                                conducted, not less than 7 days in 
+                                advance of such hearing, unless the Co-
+                                Chairs determine that there is good 
+                                cause to begin such hearing at an 
+                                earlier date.
+                                    (II) Written statement.--A witness 
+                                appearing before the joint committee 
+                                shall file a written statement of 
+                                proposed testimony at least 2 calendar 
+                                days before the appearance of the 
+                                witness, unless the requirement is 
+                                waived by the Co-Chairs, following their 
+                                determination that there is good cause 
+                                for failure to comply with such 
+                                requirement.
+                    (G) Technical assistance.--Upon written request of 
+                the Co-Chairs, a Federal agency shall provide technical 
+                assistance to the joint committee in order for the joint 
+                committee to carry out its duties.
+
+    (c) Staff of Joint Committee.--
+            (1) In general.--The Co-Chairs of the joint committee may 
+        jointly appoint and fix the compensation of staff as they deem 
+        necessary, within the guidelines for employees of the Senate and 
+        following all applicable rules and employment requirements of 
+        the Senate.
+            (2) Ethical standards.--Members on the joint committee who 
+        serve in the House of Representatives shall be governed by the 
+        ethics rules and requirements of the 
+        House. <<NOTE: Compliance.>> Members of the Senate who serve on 
+        the joint committee and staff of the joint committee shall 
+        comply with the ethics rules of the Senate.
+
+[[Page 125 STAT. 263]]
+
+    (d) Termination.--The joint committee shall terminate on January 31, 
+2012.
+SEC. 402. <<NOTE: 2 USC 900 note.>> EXPEDITED CONSIDERATION OF 
+                        JOINT COMMITTEE RECOMMENDATIONS.
+
+    (a) Introduction.--If approved by the majority required by section 
+401(b)(3)(B)(ii), the proposed legislative language submitted pursuant 
+to section 401(b)(3)(B)(iv) shall be introduced in the Senate (by 
+request) on the next day on which the Senate is in session by the 
+majority leader of the Senate or by a Member of the Senate designated by 
+the majority leader of the Senate and shall be introduced in the House 
+of Representatives (by request) on the next legislative day by the 
+majority leader of the House or by a Member of the House designated by 
+the majority leader of the House.
+    (b) Consideration in the House of Representatives.--
+            (1) Referral and reporting.--Any committee of the House of 
+        Representatives to which the joint committee bill is referred 
+        shall report it to the House without amendment not later than 
+        December 9, 2011. If a committee fails to report the joint 
+        committee bill within that period, it shall be in order to move 
+        that the House discharge the committee from further 
+        consideration of the bill. Such a motion shall not be in order 
+        after the last committee authorized to consider the bill reports 
+        it to the House or after the House has disposed of a motion to 
+        discharge the bill. The previous question shall be considered as 
+        ordered on the motion to its adoption without intervening motion 
+        except 20 minutes of debate equally divided and controlled by 
+        the proponent and an opponent. If such a motion is adopted, the 
+        House shall proceed immediately to consider the joint committee 
+        bill in accordance with paragraphs (2) and (3). A motion to 
+        reconsider the vote by which the motion is disposed of shall not 
+        be in order.
+            (2) Proceeding to consideration.--After the last committee 
+        authorized to consider a joint committee bill reports it to the 
+        House or has been discharged (other than by motion) from its 
+        consideration, it shall be in order to move to proceed to 
+        consider the joint committee bill in the House. Such a motion 
+        shall not be in order after the House has disposed of a motion 
+        to proceed with respect to the joint committee bill. The 
+        previous question shall be considered as ordered on the motion 
+        to its adoption without intervening motion. A motion to 
+        reconsider the vote by which the motion is disposed of shall not 
+        be in order.
+            (3) Consideration.--The joint committee bill shall be 
+        considered as read. <<NOTE: Waiver.>> All points of order 
+        against the joint committee bill and against its consideration 
+        are waived. The previous question shall be considered as ordered 
+        on the joint committee bill to its passage without intervening 
+        motion except 2 hours of debate equally divided and controlled 
+        by the proponent and an opponent and one motion to limit debate 
+        on the joint committee bill. A motion to reconsider the vote on 
+        passage of the joint committee bill shall not be in order.
+            (4) Vote on passage.--The <<NOTE: Deadline.>> vote on 
+        passage of the joint committee bill shall occur not later than 
+        December 23, 2011.
+
+    (c) Expedited Procedure in the Senate.--
+            (1) Committee consideration.--
+        A <<NOTE: Reports. Deadline.>> joint committee bill introduced 
+        in the Senate under subsection (a) shall be jointly
+
+[[Page 125 STAT. 264]]
+
+        referred to the committee or committees of jurisdiction, which 
+        committees shall report the bill without any revision and with a 
+        favorable recommendation, an unfavorable recommendation, or 
+        without recommendation, not later than December 9, 2011. If any 
+        committee fails to report the bill within that period, that 
+        committee shall be automatically discharged from consideration 
+        of the bill, and the bill shall be placed on the appropriate 
+        calendar.
+            (2) Motion to proceed.--
+        Notwithstanding <<NOTE: Deadline.>> Rule XXII of the Standing 
+        Rules of the Senate, it is in order, not later than 2 days of 
+        session after the date on which a joint committee bill is 
+        reported or discharged from all committees to which it was 
+        referred, for the majority leader of the Senate or the majority 
+        leader's designee to move to proceed to the consideration of the 
+        joint committee bill. It shall also be in order for any Member 
+        of the Senate to move to proceed to the consideration of the 
+        joint committee bill at any time after the conclusion of such 2-
+        day period. A motion to proceed is in order even though a 
+        previous motion to the same effect has been disagreed 
+        to. <<NOTE: Waiver.>> All points of order against the motion to 
+        proceed to the joint committee bill are waived. The motion to 
+        proceed is not debatable. The motion is not subject to a motion 
+        to postpone. A motion to reconsider the vote by which the motion 
+        is agreed to or disagreed to shall not be in order. If a motion 
+        to proceed to the consideration of the joint committee bill is 
+        agreed to, the joint committee bill shall remain the unfinished 
+        business until disposed of.
+            (3) Consideration.--All points of order against the joint 
+        committee bill and against consideration of the joint committee 
+        bill are waived. Consideration of the joint committee bill and 
+        of all debatable motions and appeals in connection therewith 
+        shall not exceed a total of 30 hours which shall be divided 
+        equally between the Majority and Minority Leaders or their 
+        designees. A motion further to limit debate on the joint 
+        committee bill is in order, shall require an affirmative vote of 
+        three-fifths of the Members duly chosen and sworn, and is not 
+        debatable. Any debatable motion or appeal is debatable for not 
+        to exceed 1 hour, to be divided equally between those favoring 
+        and those opposing the motion or appeal. All time used for 
+        consideration of the joint committee bill, including time used 
+        for quorum calls and voting, shall be counted against the total 
+        30 hours of consideration.
+            (4) No amendments.--An amendment to the joint committee 
+        bill, or a motion to postpone, or a motion to proceed to the 
+        consideration of other business, or a motion to recommit the 
+        joint committee bill, is not in order.
+            (5) Vote on passage.--If the Senate has voted to proceed to 
+        the joint committee bill, the vote on passage of the joint 
+        committee bill shall occur immediately following the conclusion 
+        of the debate on a joint committee bill, and a single quorum 
+        call at the conclusion of the debate if 
+        requested. <<NOTE: Deadline.>> The vote on passage of the joint 
+        committee bill shall occur not later than December 23, 2011.
+            (6) Rulings of the chair on procedure.--Appeals from the 
+        decisions of the Chair relating to the application of the rules 
+        of the Senate, as the case may be, to the procedure
+
+[[Page 125 STAT. 265]]
+
+        relating to a joint committee bill shall be decided without 
+        debate.
+
+    (d) Amendment.--The joint committee bill shall not be subject to 
+amendment in either the House of Representatives or the Senate.
+    (e) Consideration by the Other House.--
+            (1) In general.--If, before passing the joint committee 
+        bill, one House receives from the other a joint committee bill--
+                    (A) the joint committee bill of the other House 
+                shall not be referred to a committee; and
+                    (B) the procedure in the receiving House shall be 
+                the same as if no joint committee bill had been received 
+                from the other House until the vote on passage, when the 
+                joint committee bill received from the other House shall 
+                supplant the joint committee bill of the receiving 
+                House.
+            (2) Revenue measure.--This subsection shall not apply to the 
+        House of Representatives if the joint committee bill received 
+        from the Senate is a revenue measure.
+
+    (f) Rules to Coordinate Action With Other House.--
+            (1) Treatment of joint committee bill of other house.--If 
+        the Senate fails to introduce or consider a joint committee bill 
+        under this section, the joint committee bill of the House shall 
+        be entitled to expedited floor procedures under this section.
+            (2) Treatment of companion measures in the senate.--If 
+        following passage of the joint committee bill in the Senate, the 
+        Senate then receives the joint committee bill from the House of 
+        Representatives, the House-passed joint committee bill shall not 
+        be debatable. The vote on passage of the joint committee bill in 
+        the Senate shall be considered to be the vote on passage of the 
+        joint committee bill received from the House of Representatives.
+            (3) Vetoes.--If the President vetoes the joint committee 
+        bill, debate on a veto message in the Senate under this section 
+        shall be 1 hour equally divided between the majority and 
+        minority leaders or their designees.
+
+    (g) Loss of Privilege.--The <<NOTE: Deadlines.>> provisions of this 
+section shall cease to apply to the joint committee bill if--
+            (1) the joint committee fails to vote on the report or 
+        proposed legislative language required under section 
+        401(b)(3)(B)(i) not later than November 23, 2011; or
+            (2) the joint committee bill does not pass both Houses not 
+        later than December 23, 2011.
+SEC. 403. <<NOTE: 2 USC 900 note.>> FUNDING.
+
+    Funding for the joint committee shall be derived in equal portions 
+from--
+            (1) the applicable accounts of the House of Representatives; 
+        and
+            (2) the contingent fund of the Senate from the 
+        appropriations account ``Miscellaneous Items'', subject to the 
+        rules and regulations of the Senate.
+SEC. 404. <<NOTE: 2 USC 900 note.>> RULEMAKING.
+
+    The provisions of this title are enacted by Congress--
+            (1) as an exercise of the rulemaking power of the House of 
+        Representatives and the Senate, respectively, and as such they 
+        shall be considered as part of the rules of each House, 
+        respectively, or of that House to which they specifically apply,
+
+[[Page 125 STAT. 266]]
+
+        and such rules shall supersede other rules only to the extent 
+        that they are inconsistent therewith; and
+            (2) with full recognition of the constitutional right of 
+        either House to change such rules (so far as relating to such 
+        House) at any time, in the same manner, and to the same extent 
+        as in the case of any other rule of such House.
+
+          TITLE V--PELL GRANT AND STUDENT LOAN PROGRAM CHANGES
+
+SEC. 501. FEDERAL PELL GRANTS.
+
+    Section 401(b)(7)(A)(iv) of the Higher Education Act of 1965 (20 
+U.S.C. 1070a(b)(7)(A)(iv)) is amended--
+            (1) in subclause (II), by striking ``$3,183,000,000'' and 
+        inserting ``$13,183,000,000''; and
+            (2) in subclause (III), by striking ``$0'' and inserting 
+        ``$7,000,000,000''.
+SEC. 502. TERMINATION OF AUTHORITY TO MAKE INTEREST SUBSIDIZED 
+                        LOANS TO GRADUATE AND PROFESSIONAL 
+                        STUDENTS.
+
+    Section 455(a) of the Higher Education Act of 1965 (20 U.S.C. 
+1087e(a)) is amended by adding at the end the following new paragraph:
+            ``(3) Termination of authority to make interest subsidized 
+        loans to graduate and professional students.--
+                    ``(A) In general.--Subject to subparagraph (B) and 
+                notwithstanding any provision of this part or part B, 
+                for any period of instruction beginning on or after July 
+                1, 2012--
+                          ``(i) a graduate or professional student shall 
+                      not be eligible to receive a Federal Direct 
+                      Stafford loan under this part; and
+                          ``(ii) the maximum annual amount of Federal 
+                      Direct Unsubsidized Stafford loans such a student 
+                      may borrow in any academic year (as defined in 
+                      section 481(a)(2)) or its equivalent shall be the 
+                      maximum annual amount for such student determined 
+                      under section 428H, plus an amount equal to the 
+                      amount of Federal Direct Stafford loans the 
+                      student would have received in the absence of this 
+                      subparagraph.
+                    ``(B) Exception.--Subparagraph (A) shall not apply 
+                to an individual enrolled in course work specified in 
+                paragraph (3)(B) or (4)(B) of section 484(b).''.
+SEC. 503. TERMINATION OF DIRECT LOAN REPAYMENT INCENTIVES.
+
+    Section 455(b)(8) of the Higher Education Act of 1965 (20 U.S.C. 
+1087e(b)(8)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by amending the header to read as follows: ``(A) 
+                Incentives for loans disbursed before july 1, 2012.--''; 
+                and
+                    (B) by inserting ``with respect to loans for which 
+                the first disbursement of principal is made before July 
+                1, 2012,'' after ``of this part'';
+
+[[Page 125 STAT. 267]]
+
+            (2) in subparagraph (B), by inserting ``with respect to 
+        loans for which the first disbursement of principal is made 
+        before July 1, 2012'' after ``repayment incentives''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(C) No repayment incentives for new loans 
+                disbursed on or after july 1, 2012.--Notwithstanding any 
+                other provision of this part, the Secretary is 
+                prohibited from authorizing or providing any repayment 
+                incentive not otherwise authorized under this part to 
+                encourage on-time repayment of a loan under this part 
+                for which the first disbursement of principal is made on 
+                or after July 1, 2012, including any reduction in the 
+                interest or origination fee rate paid by a borrower of 
+                such a loan, except that the Secretary may provide for 
+                an interest rate reduction for a borrower who agrees to 
+                have payments on such a loan automatically 
+                electronically debited from a bank account.''.
+SEC. 504. <<NOTE: 20 USC 1089 note.>> INAPPLICABILITY OF TITLE IV 
+                        NEGOTIATED RULEMAKING AND MASTER CALENDAR 
+                        EXCEPTION.
+
+    Sections 482(c) and 492 of the Higher Education Act of 1965 (20 
+U.S.C. 1089(c), 1098a) shall not apply to the amendments made by this 
+title, or to any regulations promulgated under those amendments.
+
+    Approved August 2, 2011.
+
+LEGISLATIVE HISTORY--S. 365:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 157 (2011):
+            Feb. 17, considered and passed Senate.
+            Aug. 1, considered and passed House, amended.
+            Aug. 2, Senate concurred in House amendment.
+
+                                  
+

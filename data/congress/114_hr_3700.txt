@@ -1,0 +1,2173 @@
+
+[114th Congress Public Law 201]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 781]]
+
+          HOUSING OPPORTUNITY THROUGH MODERNIZATION ACT OF 2016
+
+[[Page 130 STAT. 782]]
+
+Public Law 114-201
+114th Congress
+
+                                 An Act
+
+
+ 
+     To provide housing opportunities in the United States through 
+        modernization of various housing programs, and for other 
+            purposes. <<NOTE: July 29, 2016 -  [H.R. 3700]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Housing 
+Opportunity Through Modernization Act of 2016. 42 USC 1437 note.>> 
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Housing Opportunity 
+Through Modernization Act of 2016''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title and table of contents.
+
+         TITLE I--SECTION 8 RENTAL ASSISTANCE AND PUBLIC HOUSING
+
+Sec. 101. Inspection of dwelling units.
+Sec. 102. Income reviews.
+Sec. 103. Limitation on public housing tenancy for over-income families.
+Sec. 104. Limitation on eligibility for assistance based on assets.
+Sec. 105. Units owned by public housing agencies.
+Sec. 106. PHA project-based assistance.
+Sec. 107. Establishment of fair market rent.
+Sec. 108. Collection of utility data.
+Sec. 109. Public housing Capital and Operating Funds.
+Sec. 110. Family unification program for children aging out of foster 
+           care.
+Sec. 111. Public housing heating guidelines.
+Sec. 112. Use of vouchers for manufactured housing.
+Sec. 113. Preference for United States citizens or nationals.
+Sec. 114. Exception to public housing agency resident board member 
+           requirement.
+
+                         TITLE II--RURAL HOUSING
+
+Sec. 201. Delegation of guaranteed rural housing loan approval.
+Sec. 202. Guaranteed underwriting user fee.
+
+           TITLE III--FHA MORTGAGE INSURANCE FOR CONDOMINIUMS
+
+Sec. 301. Modification of FHA requirements for mortgage insurance for 
+           condominiums.
+
+       TITLE IV--HOUSING REFORMS FOR THE HOMELESS AND FOR VETERANS
+
+Sec. 401. Definition of geographic area for Continuum of Care Program.
+Sec. 402. Inclusion of public housing agencies and local redevelopment 
+           authorities in emergency solutions grants.
+Sec. 403. Special assistant for Veterans Affairs in the Department of 
+           Housing and Urban Development.
+Sec. 404. Annual supplemental report on veterans homelessness.
+Sec. 405. Reopening of public comment period for continuum of care 
+           program regulations.
+
+                         TITLE V--MISCELLANEOUS
+
+Sec. 501. Inclusion of Disaster Housing Assistance Program in certain 
+           fraud and abuse prevention measures.
+Sec. 502. Energy efficiency requirements under Self-Help Homeownership 
+           Opportunity program.
+
+[[Page 130 STAT. 783]]
+
+Sec. 503. Data exchange standardization for improved interoperability.
+
+                            TITLE VI--REPORTS
+
+Sec. 601. Report on interagency family economic empowerment strategies.
+
+         TITLE VII--HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS
+
+Sec. 701. Formula and terms for allocations to prevent homelessness for 
+           individuals living with HIV or AIDS.
+
+         TITLE I--SECTION 8 RENTAL ASSISTANCE AND PUBLIC HOUSING
+
+SEC. 101. INSPECTION OF DWELLING UNITS.
+
+    (a) In General.--Section 8(o)(8) of the United States Housing Act of 
+1937 (42 U.S.C. 1437f(o)(8)) is amended--
+            (1) by striking subparagraph (A) and inserting the following 
+        new subparagraph:
+                    ``(A) <<NOTE: Determination.>>  Initial 
+                inspection.--
+                          ``(i) In general.--For each dwelling unit for 
+                      which a housing assistance payment contract is 
+                      established under this subsection, the public 
+                      housing agency (or other entity pursuant to 
+                      paragraph (11)) shall inspect the unit before any 
+                      assistance payment is made to determine whether 
+                      the dwelling unit meets the housing quality 
+                      standards under subparagraph (B), except as 
+                      provided in clause (ii) or (iii) of this 
+                      subparagraph.
+                          ``(ii) Correction of non-life-threatening 
+                      conditions.--In the case of any dwelling unit that 
+                      is determined, pursuant to an inspection under 
+                      clause (i), not to meet the housing quality 
+                      standards under subparagraph (B), assistance 
+                      payments may be made for the unit notwithstanding 
+                      subparagraph (C) if failure to meet such standards 
+                      is a result only of non-life-threatening 
+                      conditions, as such conditions are established by 
+                      the Secretary. <<NOTE: Time period.>>  A public 
+                      housing agency making assistance payments pursuant 
+                      to this clause for a dwelling unit shall, 30 days 
+                      after the beginning of the period for which such 
+                      payments are made, withhold any assistance 
+                      payments for the unit if any deficiency resulting 
+                      in noncompliance with the housing quality 
+                      standards has not been corrected by such time. The 
+                      public housing agency shall recommence assistance 
+                      payments when such deficiency has been corrected, 
+                      and may use any payments withheld to make 
+                      assistance payments relating to the period during 
+                      which payments were withheld.
+                          ``(iii) Use of alternative inspection method 
+                      for interim period.--In the case of any property 
+                      that within the previous 24 months has met the 
+                      requirements of an inspection that qualifies as an 
+                      alternative inspection method pursuant to 
+                      subparagraph (E), a public housing agency may 
+                      authorize occupancy before the inspection under 
+                      clause (i) has been completed, and may make 
+                      assistance payments retroactive to the beginning 
+                      of the lease term after the unit has been 
+                      determined pursuant to an inspection under clause 
+                      (i) to meet the housing quality standards under
+
+[[Page 130 STAT. 784]]
+
+                      subparagraph (B). This clause may not be construed 
+                      to exempt any dwelling unit from compliance with 
+                      the requirements of subparagraph (D).'';
+            (2) by redesignating subparagraph (G) as subparagraph (H); 
+        and
+            (3) by inserting after subparagraph (F) the following new 
+        subparagraph:
+                    ``(G) Enforcement of housing quality standards.--
+                          ``(i) <<NOTE: Contracts.>>  Determination of 
+                      noncompliance.--A dwelling unit that is covered by 
+                      a housing assistance payments contract under this 
+                      subsection shall be considered, for purposes of 
+                      subparagraphs (D) and (F), to be in noncompliance 
+                      with the housing quality standards under 
+                      subparagraph (B) if--
+                                    ``(I) the public housing agency or 
+                                an inspector authorized by the State or 
+                                unit of local government determines upon 
+                                inspection of the unit that the unit 
+                                fails to comply with such standards;
+                                    ``(II) the agency or inspector 
+                                notifies the owner of the unit in 
+                                writing of such failure to comply; and
+                                    ``(III) <<NOTE: Time periods.>>  the 
+                                failure to comply is not corrected--
+                                            ``(aa) in the case of any 
+                                        such failure that is a result of 
+                                        life-threatening conditions, 
+                                        within 24 hours after such 
+                                        notice has been provided; and
+                                            ``(bb) in the case of any 
+                                        such failure that is a result of 
+                                        non-life-threatening conditions, 
+                                        within 30 days after such notice 
+                                        has been provided or such other 
+                                        reasonable longer period as the 
+                                        public housing agency may 
+                                        establish.
+                          ``(ii) Withholding of assistance amounts 
+                      during correction.--The public housing agency may 
+                      withhold assistance amounts under this subsection 
+                      with respect to a dwelling unit for which a notice 
+                      pursuant to clause (i)(II), of failure to comply 
+                      with housing quality standards under subparagraph 
+                      (B) as determined pursuant to an inspection 
+                      conducted under subparagraph (D) or (F), has been 
+                      provided. If the unit is brought into compliance 
+                      with such housing quality standards during the 
+                      periods referred to in clause (i)(III), the public 
+                      housing agency shall recommence assistance 
+                      payments and may use any amounts withheld during 
+                      the correction period to make assistance payments 
+                      relating to the period during which payments were 
+                      withheld.
+                          ``(iii) Abatement of assistance amounts.--The 
+                      public housing agency shall abate all of the 
+                      assistance amounts under this subsection with 
+                      respect to a dwelling unit that is determined, 
+                      pursuant to clause (i) of this subparagraph, to be 
+                      in noncompliance with housing quality standards 
+                      under subparagraph (B). Upon completion of repairs 
+                      by the public housing agency or the owner 
+                      sufficient so that the dwelling unit complies with 
+                      such housing quality standards, the agency shall 
+                      recommence payments under the
+
+[[Page 130 STAT. 785]]
+
+                      housing assistance payments contract to the owner 
+                      of the dwelling unit.
+                          ``(iv) Notification.--If a public housing 
+                      agency providing assistance under this subsection 
+                      abates rental assistance payments pursuant to 
+                      clause (iii) with respect to a dwelling unit, the 
+                      agency shall, upon commencement of such 
+                      abatement--
+                                    ``(I) notify the tenant and the 
+                                owner of the dwelling unit that--
+                                            ``(aa) such abatement has 
+                                        commenced; and
+                                            ``(bb) <<NOTE: Time 
+                                        period.>>  if the dwelling unit 
+                                        is not brought into compliance 
+                                        with housing quality standards 
+                                        within 60 days after the 
+                                        effective date of the 
+                                        determination of noncompliance 
+                                        under clause (i) or such 
+                                        reasonable longer period as the 
+                                        agency may establish, the tenant 
+                                        will have to move; and
+                                    ``(II) issue the tenant the 
+                                necessary forms to allow the tenant to 
+                                move to another dwelling unit and 
+                                transfer the rental assistance to that 
+                                unit.
+                          ``(v) Protection of tenants.--An owner of a 
+                      dwelling unit may not terminate the tenancy of any 
+                      tenant because of the withholding or abatement of 
+                      assistance pursuant to this subparagraph. During 
+                      the period that assistance is abated pursuant to 
+                      this subparagraph, the tenant may terminate the 
+                      tenancy by notifying the owner.
+                          ``(vi) Termination of lease or assistance 
+                      payments contract.--If assistance <<NOTE: Time 
+                      period.>>  amounts under this section for a 
+                      dwelling unit are abated pursuant to clause (iii) 
+                      and the owner does not correct the noncompliance 
+                      within 60 days after the effective date of the 
+                      determination of noncompliance under clause (i), 
+                      or such other reasonable longer period as the 
+                      public housing agency may establish, the agency 
+                      shall terminate the housing assistance payments 
+                      contract for the dwelling unit.
+                          ``(vii) Relocation.--
+                                    ``(I) <<NOTE: Time period.>>  Lease 
+                                of new unit.--The agency shall provide 
+                                the family residing in such a dwelling 
+                                unit a period of 90 days or such longer 
+                                period as the public housing agency 
+                                determines is reasonably necessary to 
+                                lease a new unit, beginning upon 
+                                termination of the contract, to lease a 
+                                new residence with tenant-based rental 
+                                assistance under this section.
+                                    ``(II) Availability of public 
+                                housing units.--If the family is unable 
+                                to lease such a new residence during 
+                                such period, the public housing agency 
+                                shall, at the option of the family, 
+                                provide such family a preference for 
+                                occupancy in a dwelling unit of public 
+                                housing that is owned or operated by the 
+                                agency that first becomes available for 
+                                occupancy after the expiration of such 
+                                period.
+                                    ``(III) Assistance in finding 
+                                unit.--The public housing agency may 
+                                provide assistance to the family in 
+                                finding a new residence, including
+
+[[Page 130 STAT. 786]]
+
+                                use of up to two months of any 
+                                assistance amounts withheld or abated 
+                                pursuant to clause (ii) or (iii), 
+                                respectively, for costs directly 
+                                associated with relocation of the family 
+                                to a new residence, which shall include 
+                                security deposits as necessary and may 
+                                include reimbursements for reasonable 
+                                moving expenses incurred by the 
+                                household, as established by the 
+                                Secretary. The agency may require that a 
+                                family receiving assistance for a 
+                                security deposit shall remit, to the 
+                                extent of such assistance, the amount of 
+                                any security deposit refunds made by the 
+                                owner of the dwelling unit for which the 
+                                lease was terminated.
+                          ``(viii) <<NOTE: Determination.>>  Tenant-
+                      caused damages.--If a public housing agency 
+                      determines that any damage to a dwelling unit that 
+                      results in a failure of the dwelling unit to 
+                      comply with housing quality standards under 
+                      subparagraph (B), other than any damage resulting 
+                      from ordinary use, was caused by the tenant, any 
+                      member of the tenant's household, or any guest or 
+                      other person under the tenant's control, the 
+                      agency may waive the applicability of this 
+                      subparagraph, except that this clause shall not 
+                      exonerate a tenant from any liability otherwise 
+                      existing under applicable law for damages to the 
+                      premises caused by such tenant.
+                          ``(ix) <<NOTE: Contracts.>>  Applicability.--
+                      This subparagraph shall apply to any dwelling unit 
+                      for which a housing assistance payments contract 
+                      is entered into or renewed after the date of the 
+                      effectiveness of the regulations implementing this 
+                      subparagraph.''.
+
+    (b) <<NOTE: Notice. Regulations. 42 USC 1437f note.>>  Effective 
+Date.--The Secretary of Housing and Urban Development shall issue notice 
+or regulations to implement subsection (a) of this section and such 
+subsection shall take effect upon such issuance.
+SEC. 102. INCOME REVIEWS.
+
+    (a) Income Reviews for Public Housing and Section 8 Programs.--
+Section 3 of the United States Housing Act of 1937 (42 U.S.C. 1437a) is 
+amended--
+            (1) in subsection (a)--
+                    (A) in the second sentence of paragraph (1), by 
+                striking ``at least annually'' and inserting ``pursuant 
+                to paragraph (6)''; and
+                    (B) by adding at the end the following new 
+                paragraphs:
+            ``(6) Reviews of family income.--
+                    ``(A) Frequency.--Reviews of family income for 
+                purposes of this section shall be made--
+                          ``(i) in the case of all families, upon the 
+                      initial provision of housing assistance for the 
+                      family;
+                          ``(ii) annually thereafter, except as provided 
+                      in paragraph (1) with respect to fixed-income 
+                      families;
+                          ``(iii) upon the request of the family, at any 
+                      time the income or deductions (under subsection 
+                      (b)(5)) of the family change by an amount that is 
+                      estimated to result in a decrease of 10 percent 
+                      (or such lower amount as the Secretary may, by 
+                      notice, establish,
+
+[[Page 130 STAT. 787]]
+
+                      or permit the public housing agency or owner to 
+                      establish) or more in annual adjusted income; and
+                          ``(iv) <<NOTE: Time period.>>  at any time the 
+                      income or deductions (under subsection (b)(5)) of 
+                      the family change by an amount that is estimated 
+                      to result in an increase of 10 percent or more in 
+                      annual adjusted income, or such other amount as 
+                      the Secretary may by notice establish, except that 
+                      any increase in the earned income of a family 
+                      shall not be considered for purposes of this 
+                      clause (except that earned income may be 
+                      considered if the increase corresponds to previous 
+                      decreases under clause (iii)), except that a 
+                      public housing agency or owner may elect not to 
+                      conduct such review in the last three months of a 
+                      certification period.
+                    ``(B) In general.--Reviews of family income for 
+                purposes of this section shall be subject to the 
+                provisions of section 904 of the Stewart B. McKinney 
+                Homeless Assistance Amendments Act of 1988 (42 U.S.C. 
+                3544).
+            ``(7) Calculation of income.--
+                    ``(A) Use of current year income.--In determining 
+                family income for initial occupancy or provision of 
+                housing assistance pursuant to clause (i) of paragraph 
+                (6)(A) or pursuant to reviews pursuant to clause (iii) 
+                or (iv) of such paragraph, a public housing agency or 
+                owner shall use the income of the family as estimated by 
+                the agency or owner for the upcoming year.
+                    ``(B) Use of prior year income.--In determining 
+                family income for annual reviews pursuant to paragraph 
+                (6)(A)(ii), a public housing agency or owner shall, 
+                except as otherwise provided in this paragraph and 
+                paragraph (1), use the income of the family as 
+                determined by the agency or owner for the preceding 
+                year, taking into consideration any redetermination of 
+                income during such prior year pursuant to clause (iii) 
+                or (iv) of paragraph (6)(A).
+                    ``(C) Other income.--In determining the income for 
+                any family based on the prior year's income, with 
+                respect to prior year calculations of income not subject 
+                to subparagraph (B), a public housing agency or owner 
+                may make other adjustments as it considers appropriate 
+                to reflect current income.
+                    ``(D) Safe harbor.--A public housing agency or owner 
+                may, to the extent such information is available to the 
+                public housing agency or owner, determine the family's 
+                income prior to the application of any deductions based 
+                on timely income determinations made for purposes of 
+                other means-tested Federal public assistance programs 
+                (including the program for block grants to States for 
+                temporary assistance for needy families under part A of 
+                title IV of the Social Security Act, a program for 
+                Medicaid assistance under a State plan approved under 
+                title XIX of the Social Security Act, and the 
+                supplemental nutrition assistance program (as such term 
+                is defined in section 3 of the Food and Nutrition Act of 
+                2008 (7 U.S.C. 
+                2012))). <<NOTE: Consultation. Procedures.>>  The 
+                Secretary shall, in consultation with other appropriate 
+                Federal agencies, develop electronic procedures to 
+                enable public housing agencies and owners to have access 
+                to such benefit determinations made by other means-
+                tested Federal programs
+
+[[Page 130 STAT. 788]]
+
+                that the Secretary determines to have comparable 
+                reliability. Exchanges of such information shall be 
+                subject to the same limitations and tenant protections 
+                provided under section 904 of the Stewart B. McKinney 
+                Homeless Assistance Act Amendments of 1988 (42 U.S.C. 
+                3544) with respect to information obtained under the 
+                requirements of section 303(i) of the Social Security 
+                Act (42 U.S.C. 503(i)).
+                    ``(E) Electronic income verification.--The Secretary 
+                shall develop a mechanism for disclosing information to 
+                a public housing agency for the purpose of verifying the 
+                employment and income of individuals and families in 
+                accordance with section 453(j)(7)(E) of the Social 
+                Security Act (42 U.S.C. 653(j)(7)(E)), and shall ensure 
+                public housing agencies have access to information 
+                contained in the `Do Not Pay' system established by 
+                section 5 of the Improper Payments Elimination and 
+                Recovery Improvement Act of 2012 (Public Law 112-248; 
+                126 Stat. 2392).
+                    ``(F) PHA and owner compliance.--A public housing 
+                agency or owner may not be considered to fail to comply 
+                with this paragraph or paragraph (6) due solely to any 
+                de minimis errors made by the agency or owner in 
+                calculating family incomes.'';
+            (2) by striking subsections (d) and (e); and
+            (3) by redesignating subsection (f) as subsection (d).
+
+    (b) <<NOTE: Deadline. Time period. Effective date.>>  Certification 
+Regarding Hardship Exception to Minimum Monthly Rent.--Not later than 
+the expiration of the 6-month period beginning on the date of the 
+enactment of this Act, the Secretary of Housing and Urban Development 
+shall submit to the Congress a certification that the hardship and 
+tenant protection provisions in clause (i) of section 3(a)(3)(B) of the 
+United States Housing Act of 1937 (42 U.S.C. 1437a(a)(3)(B)(i)) are 
+being enforced at such time and that the Secretary will continue to 
+provide due consideration to the hardship circumstances of persons 
+assisted under relevant programs of this Act.
+
+    (c) Income; Adjusted Income.--Section 3(b) of the United States 
+Housing Act of 1937 (42 U.S.C. 1437a(b)) is amended by striking 
+paragraphs (4) and (5) and inserting the following new paragraphs:
+            ``(4) <<NOTE: Definition. Criteria. Consultation.>>  
+        Income.--The term `income' means, with respect to a family, 
+        income received from all sources by each member of the household 
+        who is 18 years of age or older or is the head of household or 
+        spouse of the head of the household, plus unearned income by or 
+        on behalf of each dependent who is less than 18 years of age, as 
+        determined in accordance with criteria prescribed by the 
+        Secretary, in consultation with the Secretary of Agriculture, 
+        subject to the following requirements:
+                    ``(A) Included amounts.--Such term includes 
+                recurring gifts and receipts, actual income from assets, 
+                and profit or loss from a business.
+                    ``(B) Excluded amounts.--Such term does not 
+                include--
+                          ``(i) any imputed return on assets, except to 
+                      the extent that net family assets exceed $50,000, 
+                      except that such amount (as it may have been 
+                      previously adjusted) shall be adjusted for 
+                      inflation annually by
+
+[[Page 130 STAT. 789]]
+
+                      the Secretary in accordance with an inflationary 
+                      index selected by the Secretary;
+                          ``(ii) any amounts that would be eligible for 
+                      exclusion under section 1613(a)(7) of the Social 
+                      Security Act (42 U.S.C. 1382b(a)(7));
+                          ``(iii) deferred disability benefits from the 
+                      Department of Veterans Affairs that are received 
+                      in a lump sum amount or in prospective monthly 
+                      amounts;
+                          ``(iv) any expenses related to aid and 
+                      attendance under section 1521 of title 38, United 
+                      States Code, to veterans who are in need of 
+                      regular aid and attendance; and
+                          ``(v) exclusions from income as established by 
+                      the Secretary by regulation or notice, or any 
+                      amount required by Federal law to be excluded from 
+                      consideration as income.
+                    ``(C) Earned income of students.--Such term does not 
+                include--
+                          ``(i) earned income, up to an amount as the 
+                      Secretary may by regulation establish, of any 
+                      dependent earned during any period that such 
+                      dependent is attending school or vocational 
+                      training on a full-time basis; or
+                          ``(ii) any grant-in-aid or scholarship amounts 
+                      related to such attendance used--
+                                    ``(I) for the cost of tuition or 
+                                books; or
+                                    ``(II) in such amounts as the 
+                                Secretary may allow, for the cost of 
+                                room and board.
+                    ``(D) <<NOTE: Determination.>>  Educational savings 
+                accounts.--Income shall be determined without regard to 
+                any amounts in or from, or any benefits from, any 
+                Coverdell education savings account under section 530 of 
+                the Internal Revenue Code of 1986 or any qualified 
+                tuition program under section 529 of such Code.
+                    ``(E) Recordkeeping.--The Secretary may not require 
+                a public housing agency or owner to maintain records of 
+                any amounts excluded from income pursuant to this 
+                subparagraph.
+            ``(5) <<NOTE: Definition.>>  Adjusted income.--The term 
+        `adjusted income' means, with respect to a family, the amount 
+        (as determined by the public housing agency or owner) of the 
+        income of the members of the family residing in a dwelling unit 
+        or the persons on a lease, after any deductions from income as 
+        follows:
+                    ``(A) Elderly and disabled families.--$525 in the 
+                case of any family that is an elderly family or a 
+                disabled family.
+                    ``(B) Minors, students, and persons with 
+                disabilities.--$480 for each member of the family 
+                residing in the household (other than the head of the 
+                household or his or her spouse) who is less than 18 
+                years of age or is attending school or vocational 
+                training on a full-time basis, or who is 18 years of age 
+                or older and is a person with disabilities.
+                    ``(C) Child care.--Any reasonable child care 
+                expenses necessary to enable a member of the family to 
+                be employed or to further his or her education.
+
+[[Page 130 STAT. 790]]
+
+                    ``(D) Health and medical expenses.--The amount, if 
+                any, by which 10 percent of annual family income is 
+                exceeded by the sum of--
+                          ``(i) in the case of any elderly or disabled 
+                      family, any unreimbursed health and medical care 
+                      expenses; and
+                          ``(ii) any unreimbursed reasonable attendant 
+                      care and auxiliary apparatus expenses for each 
+                      handicapped member of the family, if determined 
+                      necessary by the public housing agency or owner to 
+                      enable any member of such family to be employed.
+                 The Secretary <<NOTE: Regulation.>>  shall, by 
+                regulation, provide hardship exemptions to the 
+                requirements of this subparagraph and subparagraph (C) 
+                for impacted families who demonstrate an inability to 
+                pay calculated rents because of financial hardship. 
+                Such <<NOTE: Notification.>>  regulations shall include 
+                a requirement to notify tenants regarding any changes to 
+                the determination of adjusted income pursuant to such 
+                subparagraphs based on the determination of the family's 
+                claim of financial hardship exemptions required by the 
+                preceding sentence. Such 
+                regulations <<NOTE: Consultation. Comment period.>>  
+                shall be promulgated in consultation with tenant 
+                organizations, industry participants, and the Secretary 
+                of Health and Human Services, with an adequate comment 
+                period provided for interested parties.
+                    ``(E) <<NOTE: Procedures.>>  Permissive 
+                deductions.--Such additional deductions as a public 
+                housing agency may, at its discretion, establish, except 
+                that the Secretary shall establish procedures to ensure 
+                that such deductions do not materially increase Federal 
+                expenditures.
+        The 
+        Secretary <<NOTE: Determination. Applicability. Regulation.>>  
+        shall annually calculate the amounts of the deductions under 
+        subparagraphs (A) and (B), as such amounts may have been 
+        previously calculated, by applying an inflationary factor as the 
+        Secretary shall, by regulation, establish, except that the 
+        actual deduction determined for each year shall be established 
+        by rounding such amount to the next lowest multiple of $25.''.
+
+    (d) Housing Choice Voucher Program.--Section 8(o) of the United 
+States Housing Act of 1937 (42 U.S.C. 1437f(o)) is amended--
+            (1) in paragraph (1)(D), by inserting before the period at 
+        the end the following: ``, except that a public housing agency 
+        may establish a payment standard of not more than 120 percent of 
+        the fair market rent where necessary as a reasonable 
+        accommodation for a person with a disability, without approval 
+        of the Secretary. A public housing agency may use a payment 
+        standard that is greater than 120 percent of the fair market 
+        rent as a reasonable accommodation for a person with a 
+        disability, but only with the approval of the Secretary. In 
+        connection with the use of any increased payment standard 
+        established or approved pursuant to either of the preceding two 
+        sentences as a reasonable accommodation for a person with a 
+        disability, the Secretary may not establish additional 
+        requirements regarding the amount of adjusted income paid by 
+        such person for rent''; and
+            (2) in paragraph (5)--
+                    (A) in the paragraph heading, by striking ``Annual 
+                review'' and inserting ``Reviews'';
+
+[[Page 130 STAT. 791]]
+
+                    (B) in subparagraph (A)--
+                          (i) by striking ``the provisions of'' and 
+                      inserting ``paragraphs (1), (6), and (7) of 
+                      section 3(a) and to''; and
+                          (ii) by striking ``and shall be conducted'' 
+                      and all that follows through the end of the 
+                      subparagraph and inserting a period; and
+                    (C) in subparagraph (B), by striking the second 
+                sentence.
+
+    (e) Enhanced Voucher Program.--Section 8(t)(1)(D) of the United 
+States Housing Act of 1937 (42 U.S.C. 1437f(t)(1)(D)) is amended by 
+striking ``income'' each place such term appears and inserting ``annual 
+adjusted income''.
+    (f) Project-Based Housing.--Paragraph (3) of section 8(c) of the 
+United States Housing Act of 1937 (42 U.S.C. 1437f(c)(3)) is amended by 
+striking the last sentence.
+    (g) <<NOTE: 42 USC 1437a note. Determination.>>  Impact on Public 
+Housing Revenues.--
+            (1) Adjustments to operating formula.--If the Secretary of 
+        Housing and Urban Development determines that the application of 
+        subsections (a) through (e) of this section results in a 
+        material and disproportionate reduction in the rental income of 
+        certain public housing agencies during the first year in which 
+        such subsections are implemented, the Secretary may make 
+        appropriate adjustments in the formula income for such year of 
+        those agencies experiencing such a reduction.
+            (2) <<NOTE: Time periods.>>  HUD reports on revenue and cost 
+        impact.--In each of the first two years after the first year in 
+        which subsections (a) through (e) are implemented, the Secretary 
+        of Housing and Urban Development shall submit a report to 
+        Congress identifying and calculating the impact of changes made 
+        by such subsections and section 104 of this Act on the revenues 
+        and costs of operating public housing units, the voucher program 
+        for rental assistance under section 8 of the United States 
+        Housing Act of 1937, and the program under such section 8 for 
+        project-based rental assistance. <<NOTE: Recommenda- tions.>>  
+        If such report identifies a material reduction in the net income 
+        of public housing agencies nationwide or a material increase in 
+        the costs of funding the voucher program or the project-based 
+        assistance program, the Secretary shall include in such report 
+        recommendations for legislative changes to reduce or eliminate 
+        such a reduction.
+
+    (h) <<NOTE: Notice. Regulations. 42 USC 1437a note.>>  Effective 
+Date.--The Secretary of Housing and Urban Development shall issue notice 
+or regulations to implement this section and this section shall take 
+effect after such issuance, except that this section may only take 
+effect upon the commencement of a calendar year.
+
+    (i) Study on Impact on Elderly and Disabled Families of Decreased 
+Deductions in Income.--
+            (1) <<NOTE: Determination.>>  Study.--The Secretary of 
+        Housing and Urban Development shall conduct a study to determine 
+        the impacts, on rents paid by elderly and disabled individuals 
+        and families assisted under the section 8 rental assistance and 
+        public housing programs under the United States Housing Act of 
+        1937 (42 U.S.C. 1437 et seq.), of any decreases in the amounts 
+        of any deductions from income (for purposes of section 3(b) of 
+        such Act (42 U.S.C. 1437a(b))), as compared to such deductions 
+        under such section 3(b) as in effect before the effectiveness of 
+        this section, resulting from the amendments made by this 
+        section.
+
+[[Page 130 STAT. 792]]
+
+            (2) <<NOTE: Time period.>>  Report.--The Secretary shall 
+        submit to the Congress a report setting forth the results of the 
+        study conducted pursuant to paragraph (1) not later than the 
+        expiration of the 12-month period beginning on the date of the 
+        enactment of this Act.
+            (3) Effective date.--Notwithstanding subsection (h) of this 
+        section, this subsection shall take effect on the date of the 
+        enactment of this Act.
+SEC. 103. LIMITATION ON PUBLIC HOUSING TENANCY FOR OVER-INCOME 
+                        FAMILIES.
+
+    Subsection (a) of section 16 of the United States Housing Act of 
+1937 (42 U.S.C. 1437n(a)) is amended by adding at the end the following 
+new paragraph:
+            ``(5) Limitations on tenancy for over-income families.--
+                    ``(A) Limitations.--Except as provided in 
+                subparagraph (D), in the case of any family residing in 
+                a dwelling unit of public housing whose income for the 
+                most recent two consecutive years, as determined 
+                pursuant to income reviews conducted pursuant to section 
+                3(a)(6), has exceeded the applicable income limitation 
+                under subparagraph (C), the public housing agency 
+                shall--
+                          ``(i) notwithstanding any other provision of 
+                      this Act, charge such family as monthly rent for 
+                      the unit occupied by such family an amount equal 
+                      to the greater of--
+                                    ``(I) the applicable fair market 
+                                rental established under section 8(c) 
+                                for a dwelling unit in the same market 
+                                area of the same size; or
+                                    ``(II) <<NOTE: Regulations.>>  the 
+                                amount of the monthly subsidy provided 
+                                under this Act for the dwelling unit, 
+                                which shall include any amounts from the 
+                                Operating Fund and Capital Fund under 
+                                section 9 used for the unit, as 
+                                determined by the agency in accordance 
+                                with regulations that the Secretary 
+                                shall issue to carry out this subclause; 
+                                or
+                          ``(ii) <<NOTE: Deadline.>>  terminate the 
+                      tenancy of such family in public housing not later 
+                      than 6 months after the income determination 
+                      described in subparagraph (A).
+                    ``(B) Notice.--In the case of any family residing in 
+                a dwelling unit of public housing whose income for a 
+                year has exceeded the applicable income limitation under 
+                subparagraph (C), upon the conclusion of such year the 
+                public housing agency shall provide written notice to 
+                such family of the requirements under subparagraph (A).
+                    ``(C) <<NOTE: Determination.>>  Income limitation.--
+                The income limitation under this subparagraph shall be 
+                120 percent of the median income for the area, as 
+                determined by the Secretary with adjustments for smaller 
+                and larger families, except that the Secretary may 
+                establish income limitations higher or lower than 120 
+                percent of such median income on the basis of the 
+                Secretary's findings that such variations are necessary 
+                because of prevailing levels of construction costs, or 
+                unusually high or low family incomes, vacancy rates, or 
+                rental costs.
+
+[[Page 130 STAT. 793]]
+
+                    ``(D) Exception.--Subparagraph (A) shall not apply 
+                to a family occupying a dwelling unit in public housing 
+                pursuant to paragraph (5) of section 3(a) (42 U.S.C. 
+                1437a(a)(5)).
+                    ``(E) Reports on over-income families and waiting 
+                lists.--The Secretary shall require that each public 
+                housing agency shall--
+                          ``(i) submit a report annually, in a format 
+                      required by the Secretary, that specifies--
+                                    ``(I) the number of families 
+                                residing, as of the end of the year for 
+                                which the report is submitted, in public 
+                                housing administered by the agency who 
+                                had incomes exceeding the applicable 
+                                income limitation under subparagraph 
+                                (C); and
+                                    ``(II) the number of families, as of 
+                                the end of such year, on the waiting 
+                                lists for admission to public housing 
+                                projects of the agency; and
+                          ``(ii) <<NOTE: Public information.>>  make the 
+                      information reported pursuant to clause (i) 
+                      publicly available.''.
+SEC. 104. LIMITATION ON ELIGIBILITY FOR ASSISTANCE BASED ON 
+                        ASSETS.
+
+    Section 16 of the United States Housing Act of 1937 (42 U.S.C. 
+1437n) is amended by inserting after subsection (d) the following new 
+subsection:
+    ``(e) Eligibility for Assistance Based on Assets.--
+            ``(1) Limitation on assets.--Subject to paragraph (3) and 
+        notwithstanding any other provision of this Act, a dwelling unit 
+        assisted under this Act may not be rented and assistance under 
+        this Act may not be provided, either initially or at each 
+        recertification of family income, to any family--
+                    ``(A) whose net family assets exceed $100,000, as 
+                such amount is adjusted annually by applying an 
+                inflationary factor as the Secretary considers 
+                appropriate; or
+                    ``(B) who has a present ownership interest in, a 
+                legal right to reside in, and the effective legal 
+                authority to sell, real property that is suitable for 
+                occupancy by the family as a residence, except that the 
+                prohibition under this subparagraph shall not apply to--
+                          ``(i) any property for which the family is 
+                      receiving assistance under subsection (y) or 
+                      (o)(12) of section 8 of this Act;
+                          ``(ii) any person that is a victim of domestic 
+                      violence; or
+                          ``(iii) any family that is offering such 
+                      property for sale.
+            ``(2) Net family assets.--
+                    ``(A) <<NOTE: Definition.>>  In general.--For 
+                purposes of this subsection, the term `net family 
+                assets' means, for all members of the household, the net 
+                cash value of all assets after deducting reasonable 
+                costs that would be incurred in disposing of real 
+                property, savings, stocks, bonds, and other forms of 
+                capital investment. Such term does not include interests 
+                in Indian trust land, equity in property for which the 
+                family is receiving assistance under subsection (y) or 
+                (o)(12) of section 8, equity accounts in homeownership 
+                programs
+
+[[Page 130 STAT. 794]]
+
+                of the Department of Housing and Urban Development, or 
+                Family Self Sufficiency accounts.
+                    ``(B) Exclusions.--Such term does not include--
+                          ``(i) the value of personal property, except 
+                      for items of personal property of significant 
+                      value, as the Secretary may establish or the 
+                      public housing agency may determine;
+                          ``(ii) the value of any retirement account;
+                          ``(iii) real property for which the family 
+                      does not have the effective legal authority 
+                      necessary to sell such property;
+                          ``(iv) any amounts recovered in any civil 
+                      action or settlement based on a claim of 
+                      malpractice, negligence, or other breach of duty 
+                      owed to a member of the family and arising out of 
+                      law, that resulted in a member of the family being 
+                      disabled;
+                          ``(v) the value of any Coverdell education 
+                      savings account under section 530 of the Internal 
+                      Revenue Code of 1986 or any qualified tuition 
+                      program under section 529 of such Code; and
+                          ``(vi) such other exclusions as the Secretary 
+                      may establish.
+                    ``(C) Trust funds.--In cases in which a trust fund 
+                has been established and the trust is not revocable by, 
+                or under the control of, any member of the family or 
+                household, the value of the trust fund shall not be 
+                considered an asset of a family if the fund continues to 
+                be held in trust. Any income distributed from the trust 
+                fund shall be considered income for purposes of section 
+                3(b) and any calculations of annual family income, 
+                except in the case of medical expenses for a minor.
+            ``(3) Self-certification.--
+                    ``(A) Net family assets.--A public housing agency or 
+                owner may determine the net assets of a family, for 
+                purposes of this section, based on a certification by 
+                the family that the net assets of such family do not 
+                exceed $50,000, as such amount is adjusted annually by 
+                applying an inflationary factor as the Secretary 
+                considers appropriate.
+                    ``(B) <<NOTE: Determination.>>  No current real 
+                property ownership.--A public housing agency or owner 
+                may determine compliance with paragraph (1)(B) based on 
+                a certification by the family that such family does not 
+                have any current ownership interest in any real property 
+                at the time the agency or owner reviews the family's 
+                income.
+                    ``(C) Standardized forms.--The Secretary may develop 
+                standardized forms for the certifications referred to in 
+                subparagraphs (A) and (B).
+            ``(4) Compliance for public housing dwelling units.--When 
+        recertifying family income with respect to families residing in 
+        public housing dwelling units, a public housing agency may, in 
+        the discretion of the agency and only pursuant to a policy that 
+        is set forth in the public housing agency plan under section 5A 
+        for the agency, choose not to enforce the limitation under 
+        paragraph (1).
+            ``(5) Enforcement.--When recertifying the income of a family 
+        residing in a dwelling unit assisted under this Act,
+
+[[Page 130 STAT. 795]]
+
+        a public housing agency or owner may choose not to enforce the 
+        limitation under paragraph (1) or may establish exceptions to 
+        such limitation based on eligibility criteria, but only pursuant 
+        to a policy that is set forth in the public housing agency plan 
+        under section 5A for the agency or under a policy adopted by the 
+        owner. Eligibility criteria for establishing exceptions may 
+        provide for separate treatment based on family type and may be 
+        based on different factors, such as age, disability, income, the 
+        ability of the family to find suitable alternative housing, and 
+        whether supportive services are being provided.
+            ``(6) <<NOTE: Time period.>>  Authority to delay 
+        evictions.--In the case of a family residing in a dwelling unit 
+        assisted under this Act who does not comply with the limitation 
+        under paragraph (1), the public housing agency or project owner 
+        may delay eviction or termination of the family based on such 
+        noncompliance for a period of not more than 6 months.
+            ``(7) Verifying income.--
+                    ``(A) <<NOTE: Effective 
+                date. Records. Determination.>>  Beginning in fiscal 
+                year 2018, the Secretary shall require public housing 
+                agencies to require each applicant for, or recipient of, 
+                benefits under this Act to provide authorization by the 
+                applicant or recipient (or by any other person whose 
+                income or resources are material to the determination of 
+                the eligibility of the applicant or recipient for such 
+                benefits) for the public housing agency to obtain 
+                (subject to the cost reimbursement requirements of 
+                section 1115(a) of the Right to Financial Privacy Act) 
+                from any financial institution (within the meaning of 
+                section 1101(1) of such Act) any financial record 
+                (within the meaning of section 1101(2) of such Act) held 
+                by the institution with respect to the applicant or 
+                recipient (or any such other person) whenever the public 
+                housing agency determines the record is needed in 
+                connection with a determination with respect to such 
+                eligibility or the amount of such benefits.
+                    ``(B) Notwithstanding section 1104(a)(1) of the 
+                Right to Financial Privacy Act, an authorization 
+                provided by an applicant or recipient (or any other 
+                person whose income or resources are material to the 
+                determination of the eligibility of the applicant or 
+                recipient) pursuant to subparagraph (A) of this 
+                paragraph shall remain effective until the earliest of--
+                          ``(i) the rendering of a final adverse 
+                      decision on the applicant's application for 
+                      eligibility for benefits under this Act;
+                          ``(ii) the cessation of the recipient's 
+                      eligibility for benefits under this Act; or
+                          ``(iii) <<NOTE: Notification.>>  the express 
+                      revocation by the applicant or recipient (or such 
+                      other person referred to in subparagraph (A)) of 
+                      the authorization, in a written notification to 
+                      the Secretary.
+                    ``(C)(i) An authorization obtained by the public 
+                housing agency pursuant to this paragraph shall be 
+                considered to meet the requirements of the Right to 
+                Financial Privacy Act for purposes of section 1103(a) of 
+                such Act, and need not be furnished to the financial 
+                institution, notwithstanding section 1104(a) of such 
+                Act.
+
+[[Page 130 STAT. 796]]
+
+                    ``(ii) The certification requirements of section 
+                1103(b) of the Right to Financial Privacy Act shall not 
+                apply to requests by the public housing agency pursuant 
+                to an authorization provided under this clause.
+                    ``(iii) A request by the public housing agency 
+                pursuant to an authorization provided under this clause 
+                is deemed to meet the requirements of section 1104(a)(3) 
+                of the Right to Financial Privacy Act and the flush 
+                language of section 1102 of such Act.
+                    ``(iv) <<NOTE: Notification.>>  The public housing 
+                agency shall inform any person who provides 
+                authorization pursuant to this paragraph of the duration 
+                and scope of the authorization.
+                    ``(D) If an applicant for, or recipient of, benefits 
+                under this Act (or any such other person referred to in 
+                subparagraph (A)) refuses to provide, or revokes, any 
+                authorization made by the applicant or recipient for the 
+                public housing agency to obtain from any financial 
+                institution any financial record, the public housing 
+                agency may, on that basis, determine that the applicant 
+                or recipient is ineligible for benefits under this 
+                title.''.
+SEC. 105. UNITS OWNED BY PUBLIC HOUSING AGENCIES.
+
+    Paragraph (11) of section 8(o) of the United States Housing Act of 
+1937 (42 U.S.C. 1437f(o)(11)) is amended--
+            (1) by striking ``(11) Leasing of units owned by pha.--If'' 
+        and inserting the following:
+            ``(11) Leasing of units owned by pha.--
+                    ``(A) Inspections and rent determinations.--If''; 
+                and
+            (2) by adding at the end the following new subparagraph:
+                    ``(B) <<NOTE: Definition.>>  Units owned by pha.--
+                For purposes of this subsection, the term `owned by a 
+                public housing agency' means, with respect to a dwelling 
+                unit, that the dwelling unit is in a project that is 
+                owned by such agency, by an entity wholly controlled by 
+                such agency, or by a limited liability company or 
+                limited partnership in which such agency (or an entity 
+                wholly controlled by such agency) holds a controlling 
+                interest in the managing member or general partner. A 
+                dwelling unit shall not be deemed to be owned by a 
+                public housing agency for purposes of this subsection 
+                because the agency holds a fee interest as ground lessor 
+                in the property on which the unit is situated, holds a 
+                security interest under a mortgage or deed of trust on 
+                the unit, or holds a non-controlling interest in an 
+                entity which owns the unit or in the managing member or 
+                general partner of an entity which owns the unit.''.
+SEC. 106. PHA PROJECT-BASED ASSISTANCE.
+
+    (a) In General.--Paragraph (13) of section 8(o) of the United States 
+Housing Act of 1937 (42 U.S.C. 1437f(o)(13)) is amended--
+            (1) by striking ``structure'' each place such term appears 
+        and inserting ``project'';
+            (2) by striking subparagraph (B) and inserting the following 
+        new subparagraph:
+                    ``(B) Percentage limitation.--
+                          ``(i) In general.--Subject to clause (ii), a 
+                      public housing agency may use for project-based 
+                      assistance under this paragraph not more than 20 
+                      percent of the authorized units for the agency.
+
+[[Page 130 STAT. 797]]
+
+                          ``(ii) Exception.--A public housing agency may 
+                      use up to an additional 10 percent of the 
+                      authorized units for the agency for project-based 
+                      assistance under this paragraph, to provide units 
+                      that house individuals and families that meet the 
+                      definition of homeless under section 103 of the 
+                      McKinney-Vento Homeless Assistance Act (42 U.S.C. 
+                      11302), that house families with veterans, that 
+                      provide supportive housing to persons with 
+                      disabilities or elderly persons, or that are 
+                      located in areas where vouchers under this 
+                      subsection are difficult to use, as specified in 
+                      subparagraph (D)(ii)(II). Any units of project-
+                      based assistance that are attached to units 
+                      previously subject to federally required rent 
+                      restrictions or receiving another type of long-
+                      term housing subsidy provided by the Secretary 
+                      shall not count toward the percentage limitation 
+                      under clause (i) of this subparagraph. The 
+                      Secretary <<NOTE: Regulations.>>  may, by 
+                      regulation, establish additional categories for 
+                      the exception under this clause.'';
+            (3) by striking subparagraph (D) and inserting the following 
+        new subparagraph:
+                    ``(D) Income-mixing requirement.--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), not more than the greater of 25 
+                      dwelling units or 25 percent of the dwelling units 
+                      in any project may be assisted under a housing 
+                      assistance payment contract for project-based 
+                      assistance pursuant to this paragraph. 
+                      For <<NOTE: Definition.>>  purposes of this 
+                      subparagraph, the term `project' means a single 
+                      building, multiple contiguous buildings, or 
+                      multiple buildings on contiguous parcels of land.
+                          ``(ii) Exceptions.--
+                                    ``(I) Certain families.--The 
+                                limitation under clause (i) shall not 
+                                apply to dwelling units assisted under a 
+                                contract that are exclusively made 
+                                available to elderly families or to 
+                                households eligible for supportive 
+                                services that are made available to the 
+                                assisted residents of the project, 
+                                according to standards for such services 
+                                the Secretary may establish.
+                                    
+                                ``(II) <<NOTE: Determination. Applicabili
+                                ty. Regulations.>>  Certain areas.--With 
+                                respect to areas in which tenant-based 
+                                vouchers for assistance under this 
+                                subsection are difficult to use, as 
+                                determined by the Secretary, and with 
+                                respect to census tracts with a poverty 
+                                rate of 20 percent or less, clause (i) 
+                                shall be applied by substituting `40 
+                                percent' for `25 percent', and the 
+                                Secretary may, by regulation, establish 
+                                additional conditions.
+                                    ``(III) Certain contracts.--The 
+                                limitation under clause (i) shall not 
+                                apply with respect to contracts or 
+                                renewal of contracts under which a 
+                                greater percentage of the dwelling units 
+                                in a project were assisted under a 
+                                housing assistance payment contract for 
+                                project-based assistance pursuant to 
+                                this paragraph on the date of the 
+                                enactment of the Housing Opportunity 
+                                Through Modernization Act of 2016.
+
+[[Page 130 STAT. 798]]
+
+                                    ``(IV) Certain properties.--Any 
+                                units of project-based assistance under 
+                                this paragraph that are attached to 
+                                units previously subject to federally 
+                                required rent restrictions or receiving 
+                                other project-based assistance provided 
+                                by the Secretary shall not count toward 
+                                the percentage limitation imposed by 
+                                this subparagraph (D).
+                          ``(iii) Additional monitoring and oversight 
+                      requirements.--The Secretary may establish 
+                      additional requirements for monitoring and 
+                      oversight of projects in which more than 40 
+                      percent of the dwelling units are assisted under a 
+                      housing assistance payment contract for project-
+                      based assistance pursuant to this paragraph.'';
+            (4) by striking subparagraph (F) and inserting the following 
+        new subparagraph:
+                    ``(F) Contract term.--
+                          ``(i) Term.--A housing assistance payment 
+                      contract pursuant to this paragraph between a 
+                      public housing agency and the owner of a project 
+                      may have a term of up to 20 years, subject to--
+                                    ``(I) the availability of sufficient 
+                                appropriated funds for the purpose of 
+                                renewing expiring contracts for 
+                                assistance payments, as provided in 
+                                appropriation Acts and in the agency's 
+                                annual contributions contract with the 
+                                Secretary, provided that in the event of 
+                                insufficient appropriated funds, 
+                                payments due under contracts under this 
+                                paragraph shall take priority if other 
+                                cost-saving measures that do not require 
+                                the termination of an existing contract 
+                                are available to the agency; and
+                                    ``(II) compliance with the 
+                                inspection requirements under paragraph 
+                                (8), except that the agency shall not be 
+                                required to make biennial inspections of 
+                                each assisted unit in the development.
+                          ``(ii) Addition of eligible units.--Subject to 
+                      the limitations of subparagraphs (B) and (D), the 
+                      agency and the owner may add eligible units within 
+                      the same project to a housing assistance payments 
+                      contract at any time during the term thereof 
+                      without being subject to any additional 
+                      competitive selection procedures.
+                          ``(iii) Housing under construction or recently 
+                      constructed.--An agency may enter into a housing 
+                      assistance payments contract with an owner for any 
+                      unit that does not qualify as existing housing and 
+                      is under construction or recently has been 
+                      constructed whether or not the agency has executed 
+                      an agreement to enter into a contract with the 
+                      owner, provided that the owner demonstrates 
+                      compliance with applicable requirements prior to 
+                      execution of the housing assistance payments 
+                      contract. This clause shall not subject a housing 
+                      assistance payments contract for existing housing 
+                      under this paragraph to such requirements or 
+                      otherwise limit the extent to which a unit may be 
+                      assisted as existing housing.
+                          ``(iv) Additional conditions.--The contract 
+                      may specify additional conditions, including with 
+                      respect
+
+[[Page 130 STAT. 799]]
+
+                      to continuation, termination, or expiration, and 
+                      shall specify that upon termination or expiration 
+                      of the contract without extension, each assisted 
+                      family may elect to use its assistance under this 
+                      subsection to remain in the same project if its 
+                      unit complies with the inspection requirements 
+                      under paragraph (8), the rent for the unit is 
+                      reasonable as required by paragraph (10)(A), and 
+                      the family pays its required share of the rent and 
+                      the amount, if any, by which the unit rent 
+                      (including the amount allowed for tenant-based 
+                      utilities) exceeds the applicable payment 
+                      standard.'';
+            (5) in subparagraph (G), by striking ``15 years'' and 
+        inserting ``20 years'';
+            (6) by striking subparagraph (I) and inserting the following 
+        new subparagraph:
+                    ``(I) <<NOTE: Contracts.>>  Rent adjustments.--A 
+                housing assistance payments contract pursuant to this 
+                paragraph entered into after the date of the enactment 
+                of the Housing Opportunity Through Modernization Act of 
+                2016 shall provide for annual rent adjustments upon the 
+                request of the owner, except that--
+                          ``(i) by agreement of the parties, a contract 
+                      may allow a public housing agency to adjust the 
+                      rent for covered units using an operating cost 
+                      adjustment factor established by the Secretary 
+                      pursuant to section 524(c) of the Multifamily 
+                      Assisted Housing Reform and Affordability Act of 
+                      1997 (which shall not result in a negative 
+                      adjustment), in which case the contract may 
+                      require an additional adjustment, if requested, up 
+                      to the reasonable rent periodically during the 
+                      term of the contract, and shall require such an 
+                      adjustment, if requested, upon extension pursuant 
+                      to subparagraph (G);
+                          ``(ii) the adjusted rent shall not exceed the 
+                      maximum rent permitted under subparagraph (H);
+                          ``(iii) the contract may provide that the 
+                      maximum rent permitted for a dwelling unit shall 
+                      not be less than the initial rent for the dwelling 
+                      unit under the initial housing assistance payments 
+                      contract covering the units; and
+                          ``(iv) the provisions of subsection (c)(2)(C) 
+                      shall not apply.'';
+            (7) in subparagraph (J)--
+                    (A) in the first sentence--
+                          (i) by striking ``shall'' and inserting 
+                      ``may''; and
+                          (ii) by inserting before the period the 
+                      following: ``or may permit owners to select 
+                      applicants from site-based waiting lists as 
+                      specified in this subparagraph'';
+                    (B) by striking the third sentence and inserting the 
+                following: ``The agency or owner may establish 
+                preferences or criteria for selection for a unit 
+                assisted under this paragraph that are consistent with 
+                the public housing agency plan for the agency approved 
+                under section 5A and that give preference to families 
+                who qualify for voluntary services, including 
+                disability-specific services, offered in conjunction 
+                with assisted units.''; and
+
+[[Page 130 STAT. 800]]
+
+                    (C) <<NOTE: Procedures.>>  by striking the fifth and 
+                sixth sentences and inserting the following: ``A public 
+                housing agency may establish and utilize procedures for 
+                owner-maintained site-based waiting lists, under which 
+                applicants may apply at, or otherwise designate to the 
+                public housing agency, the project or projects in which 
+                they seek to reside, except that all eligible applicants 
+                on the waiting list of an agency for assistance under 
+                this subsection shall be permitted to place their names 
+                on such separate list, subject to policies and 
+                procedures established by the Secretary. All such 
+                procedures shall comply with title VI of the Civil 
+                Rights Act of 1964, the Fair Housing Act, section 504 of 
+                the Rehabilitation Act of 1973, and other applicable 
+                civil rights laws. The owner or manager of a project 
+                assisted under this paragraph shall not admit any family 
+                to a dwelling unit assisted under a contract pursuant to 
+                this paragraph other than a family referred by the 
+                public housing agency from its waiting list, or a family 
+                on a site-based waiting list that complies with the 
+                requirements of this subparagraph. A 
+                public <<NOTE: Disclosure.>>  housing agency shall 
+                disclose to each applicant all other options in the 
+                selection of a project in which to reside that are 
+                provided by the public housing agency and are available 
+                to the applicant.'';
+            (8) in subparagraph (M)(ii), by inserting before the period 
+        at the end the following: ``relating to funding other than 
+        housing assistance payments''; and
+            (9) by adding at the end the following new subparagraphs:
+                    ``(N) <<NOTE: Notification. Public information.>>  
+                Structure owned by agency.--A public housing agency 
+                engaged in an initiative to improve, develop, or replace 
+                a public housing property or site may attach assistance 
+                to an existing, newly constructed, or rehabilitated 
+                structure in which the agency has an ownership interest 
+                or which the agency has control of without following a 
+                competitive process, provided that the agency has 
+                notified the public of its intent through its public 
+                housing agency plan and subject to the limitations and 
+                requirements of this paragraph.
+                    ``(O) Special purpose vouchers.--A public housing 
+                agency that administers vouchers authorized under 
+                subsection (o)(19) or (x) of this section may provide 
+                such assistance in accordance with the limitations and 
+                requirements of this paragraph, without additional 
+                requirements for approval by the Secretary.''.
+
+    (b) <<NOTE: Notice. Regulations. 42 USC 1437f note.>>  Effective 
+Date.--The Secretary of Housing and Urban Development shall issue notice 
+or regulations to implement subsection (a) of this section and such 
+subsection shall take effect upon such issuance.
+SEC. 107. ESTABLISHMENT OF FAIR MARKET RENT.
+
+    (a) In General.--Paragraph (1) of section 8(c) of the United States 
+Housing Act of 1937 (42 U.S.C. 1437f(c)(1)) is amended--
+            (1) by inserting ``(A)'' after the paragraph designation;
+            (2) by striking the fourth, seventh, eighth, and ninth 
+        sentences; and
+            (3) by adding at the end the following:
+
+    ``(B) <<NOTE: Web posting.>>  Fair market rentals for an area shall 
+be published not less than annually by the Secretary on the site of the 
+Department
+
+[[Page 130 STAT. 801]]
+
+on the World Wide Web and in any other manner specified by the 
+Secretary. <<NOTE: Notice. Federal Register, publication. Effective 
+date. Time period.>>  Notice that such fair market rentals are being 
+published shall be published in the Federal Register, and such fair 
+market rentals shall become effective no earlier than 30 days after the 
+date of such publication. The Secretary shall establish a procedure for 
+public housing agencies and other interested parties to comment on such 
+fair market rentals and to request, within a time specified by the 
+Secretary, reevaluation of the fair market rentals in a jurisdiction 
+before such rentals become effective. The Secretary shall cause to be 
+published for comment in the Federal Register notices of proposed 
+material changes in the methodology for estimating fair market rentals 
+and notices specifying the final decisions regarding such proposed 
+substantial methodological changes and responses to public comments.''.
+
+    (b) Payment Standard.--Subparagraph (B) of section 8(o)(1) of the 
+United States Housing Act of 1937 (42 U.S.C. 1437f(o)(1)(B)) is amended 
+by inserting before the period at the end the following: ``, except that 
+no public housing agency shall be required as a result of a reduction in 
+the fair market rental to reduce the payment standard applied to a 
+family continuing to reside in a unit for which the family was receiving 
+assistance under this section at the time the fair market rental was 
+reduced. <<NOTE: Criteria. Procedures.>>  The Secretary shall allow 
+public housing agencies to request exception payment standards within 
+fair market rental areas subject to criteria and procedures established 
+by the Secretary''.
+
+    (c) <<NOTE: 42 USC 1437f note.>>  Effective Date.--The amendments 
+made by this section shall take effect upon the date of the enactment of 
+this Act.
+SEC. 108. COLLECTION OF UTILITY DATA.
+
+    Section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 
+1437f(o)) is amended by adding at the end the following new paragraph:
+            ``(20) Collection of utility data.--
+                    ``(A) <<NOTE: Determination.>>  Publication.--The 
+                Secretary shall, to the extent that data can be 
+                collected cost effectively, regularly publish such data 
+                regarding utility consumption and costs in local areas 
+                as the Secretary determines will be useful for the 
+                establishment of allowances for tenant-paid utilities 
+                for families assisted under this subsection.
+                    ``(B) Use of data.--The Secretary shall provide such 
+                data in a manner that--
+                          ``(i) avoids unnecessary administrative 
+                      burdens for public housing agencies and owners; 
+                      and
+                          ``(ii) protects families in various unit sizes 
+                      and building types, and using various utilities, 
+                      from high rent and utility cost burdens relative 
+                      to income.''.
+SEC. 109. PUBLIC HOUSING CAPITAL AND OPERATING FUNDS.
+
+    (a) Capital Fund Replacement Reserves.--Section 9 of the United 
+States Housing Act of 1937 (42 U.S.C. 1437g) is amended--
+            (1) in subsection (j), by adding at the end the following 
+        new paragraph:
+            ``(7) Treatment of replacement reserve.--The requirements of 
+        this subsection shall not apply to funds held in replacement 
+        reserves established pursuant to subsection (n).''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(n) Establishment of Replacement Reserves.--
+
+[[Page 130 STAT. 802]]
+
+            ``(1) In general.--Public housing agencies shall be 
+        permitted to establish a replacement reserve to fund any of the 
+        capital activities listed in subsection (d)(1).
+            ``(2) Source and amount of funds for replacement reserve.--
+        At any time, a public housing agency may deposit funds from such 
+        agency's Capital Fund into a replacement reserve, subject to the 
+        following:
+                    ``(A) At the discretion of the Secretary, public 
+                housing agencies may transfer and hold in a replacement 
+                reserve funds originating from additional sources.
+                    ``(B) No minimum transfer of funds to a replacement 
+                reserve shall be required.
+                    ``(C) <<NOTE: Determination.>>  At any time, a 
+                public housing agency may not hold in a replacement 
+                reserve more than the amount the public housing 
+                authority has determined necessary to satisfy the 
+                anticipated capital needs of properties in its portfolio 
+                assisted under this section, as outlined in its Capital 
+                Fund 5-Year Action Plan, or a comparable plan, as 
+                determined by the Secretary.
+                    ``(D) <<NOTE: Regulations.>>  The Secretary may 
+                establish, by regulation, a maximum replacement reserve 
+                level or levels that are below amounts determined under 
+                subparagraph (C), which may be based upon the size of 
+                the portfolio assisted under this section or other 
+                factors.
+            ``(3) Transfer of operating funds.--In first establishing a 
+        replacement reserve, the Secretary may allow public housing 
+        agencies to transfer more than 20 percent of its operating funds 
+        into its replacement reserve.
+            ``(4) Expenditure.--Funds in a replacement reserve may be 
+        used for purposes authorized by subsection (d)(1) and contained 
+        in its Capital Fund 5-Year Action Plan.
+            ``(5) Management and report.--The Secretary shall establish 
+        appropriate accounting and reporting requirements to ensure that 
+        public housing agencies are spending funds on eligible projects 
+        and that funds in the replacement reserve are connected to 
+        capital needs.''.
+
+    (b) Flexibility of Operating Fund Amounts.--Paragraph (1) of section 
+9(g) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1)) is 
+amended--
+            (1) by striking ``(1)'' and all that follows through ``--
+        Of'' and inserting the following:
+            ``(1) Flexibility in use of funds.--
+                    ``(A) Flexibility for capital fund amounts.--Of''; 
+                and
+            (2) by adding at the end the following new subparagraph:
+                    ``(B) Flexibility for operating fund amounts.--Of 
+                any amounts appropriated for fiscal year 2016 or any 
+                fiscal year thereafter that are allocated for fiscal 
+                year 2016 or any fiscal year thereafter from the 
+                Operating Fund for any public housing agency, the agency 
+                may use not more than 20 percent for activities that are 
+                eligible under subsection (d) for assistance with 
+                amounts from the Capital Fund, but only if the public 
+                housing plan under section 5A for the agency provides 
+                for such use.''.
+
+[[Page 130 STAT. 803]]
+
+SEC. 110. FAMILY UNIFICATION PROGRAM FOR CHILDREN AGING OUT OF 
+                        FOSTER CARE.
+
+    Section 8(x) of the United States Housing Act of 1937 (42 U.S.C. 
+1437f(x)) is amended--
+            (1) in paragraph (2)(B)--
+                    (A) by striking ``18 months'' and inserting ``36 
+                months'';
+                    (B) by striking ``21 years of age'' and inserting 
+                ``24 years of age''; and
+                    (C) by inserting after ``have left foster care'' the 
+                following: ``, or will leave foster care within 90 days, 
+                in accordance with a transition plan described in 
+                section 475(5)(H) of the Social Security Act, and is 
+                homeless or is at risk of becoming homeless'';
+            (2) by redesignating paragraph (4) as paragraph (5); and
+            (3) by inserting after paragraph (3) the following new 
+        paragraph:
+            ``(4) <<NOTE: Deadline. Time period. Effective 
+        date. Consultation. Guidance.>>  Coordination between public 
+        housing agencies and public child welfare agencies.--The 
+        Secretary shall, not later than the expiration of the 180-day 
+        period beginning on the date of the enactment of the Housing 
+        Opportunity Through Modernization Act of 2016 and after 
+        consultation with other appropriate Federal agencies, issue 
+        guidance to improve coordination between public housing agencies 
+        and public child welfare agencies in carrying out the program 
+        under this subsection, which shall provide guidance on--
+                    ``(A) identifying eligible recipients for assistance 
+                under this subsection;
+                    ``(B) coordinating with other local youth and family 
+                providers in the community and participating in the 
+                Continuum of Care program established under subtitle C 
+                of title IV of the McKinney-Vento Homeless Assistance 
+                Act (42 U.S.C. 11381 et seq.);
+                    ``(C) implementing housing strategies to assist 
+                eligible families and youth;
+                    ``(D) aligning system goals to improve outcomes for 
+                families and youth and reducing lapses in housing for 
+                families and youth; and
+                    ``(E) identifying resources that are available to 
+                eligible families and youth to provide supportive 
+                services available through parts B and E of title IV of 
+                the Social Security Act (42 U.S.C. 621 et seq.; 670 et 
+                seq.) or that the head of household of a family or youth 
+                may be entitled to receive under section 477 of the 
+                Social Security Act (42 U.S.C. 677).''.
+SEC. 111. PUBLIC HOUSING HEATING GUIDELINES.
+
+    Section 9 of the United States Housing Act of 1937 (42 U.S.C. 
+1437g), as amended by the preceding provisions of this Act, is further 
+amended by adding at the end the following new subsection:
+    ``(o) <<NOTE: Publication.>>  Public Housing Heating Guidelines.--
+The Secretary shall publish model guidelines for minimum heating 
+requirements for public housing dwelling units operated by public 
+housing agencies receiving assistance under this section.''.
+SEC. 112. USE OF VOUCHERS FOR MANUFACTURED HOUSING.
+
+    (a) In General.--Section 8(o)(12) of the United States Housing Act 
+of 1937 (42 U.S.C. 1437f(o)(12)) is amended--
+
+[[Page 130 STAT. 804]]
+
+            (1) in subparagraph (A), by striking the period at the end 
+        of the first sentence and all that follows through ``of'' in the 
+        second sentence and inserting ``and rents''; and
+            (2) in subparagraph (B)--
+                    (A) in clause (i), by striking ``the rent'' and all 
+                that follows and inserting the following: ``rent shall 
+                mean the sum of the monthly payments made by a family 
+                assisted under this paragraph to amortize the cost of 
+                purchasing the manufactured home, including any required 
+                insurance and property taxes, the monthly amount allowed 
+                for tenant-paid utilities, and the monthly rent charged 
+                for the real property on which the manufactured home is 
+                located, including monthly management and maintenance 
+                charges.'';
+                    (B) by striking clause (ii); and
+                    (C) in clause (iii)--
+                          (i) by inserting after the period at the end 
+                      the following: ``If the amount of the monthly 
+                      assistance payment for a family exceeds the 
+                      monthly rent charged for the real property on 
+                      which the manufactured home is located, including 
+                      monthly management and maintenance charges, a 
+                      public housing agency may pay the remainder to the 
+                      family, lender or utility company, or may choose 
+                      to make a single payment to the family for the 
+                      entire monthly assistance amount.''; and
+                          (ii) by redesignating such clause as clause 
+                      (ii).
+
+    (b) <<NOTE: Notice. 42 USC 1437f note.>>  Effective Date.--The 
+Secretary of Housing and Urban Development shall issue notice to 
+implement the amendments made by subsection (a) and such amendments 
+shall take effect upon such issuance.
+SEC. 113. PREFERENCE FOR UNITED STATES CITIZENS OR NATIONALS.
+
+    Section 214(a)(7) of the Housing and Community Development Act of 
+1980 (42 U.S.C. 1436a(a)(7)) is amended by striking ``such alien'' and 
+all that follows through the period at the end and inserting ``any 
+citizen or national of the United States shall be entitled to a 
+preference or priority in receiving financial assistance before any such 
+alien who is otherwise eligible for assistance.''.
+SEC. 114. EXCEPTION TO PUBLIC HOUSING AGENCY RESIDENT BOARD MEMBER 
+                        REQUIREMENT.
+
+    Subsection (b) of section 2 of the United States Housing Act of 1937 
+(42 U.S.C. 1437(b)) is amended--
+            (1) in paragraph (1), by striking ``paragraph (2)'' and 
+        inserting ``paragraphs (2) and (3)'';
+            (2) by redesignating paragraph (3) as paragraph (4); and
+            (3) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) Exception for certain jurisdictions.--
+                    ``(A) Exception.--A covered agency (as such term is 
+                defined in subparagraph (C) of this paragraph) shall not 
+                be required to include on the board of directors or a 
+                similar governing board of such agency a member 
+                described in paragraph (1).
+                    ``(B) <<NOTE: Establishment.>>  Advisory board 
+                requirement.--Each covered agency that administers 
+                Federal housing assistance under section 8 (42 U.S.C. 
+                1437f) that chooses not to include
+
+[[Page 130 STAT. 805]]
+
+                a member described in paragraph (1) on the board of 
+                directors or a similar governing board of the agency 
+                shall establish an advisory board of not less than 6 
+                residents of public housing or recipients of assistance 
+                under section 8 (42 U.S.C. 1437f) to provide advice and 
+                comment to the agency or other administering entity on 
+                issues related to public housing and section 8. Such 
+                advisory board shall meet not less than quarterly.
+                    ``(C) <<NOTE: Definition.>>  Covered agency or 
+                entity.--For purposes of this paragraph, the term 
+                `covered agency' means a public housing agency or such 
+                other entity that administers Federal housing assistance 
+                for--
+                          ``(I) the Housing Authority of the county of 
+                      Los Angeles, California; or
+                          ``(ii) any of the States of Alaska, Iowa, and 
+                      Mississippi.''.
+
+                         TITLE II--RURAL HOUSING
+
+SEC. 201. DELEGATION OF GUARANTEED RURAL HOUSING LOAN APPROVAL.
+
+    Subsection (h) of section 502 of the Housing Act of 1949 (42 U.S.C. 
+1472(h)) is amended by adding at the end the following new paragraph:
+            ``(18) <<NOTE: Standards.>>  Delegation of approval.--The 
+        Secretary may delegate, in part or in full, the Secretary's 
+        authority to approve and execute binding Rural Housing Service 
+        loan guarantees pursuant to this subsection to certain preferred 
+        lenders, in accordance with standards established by the 
+        Secretary.''.
+SEC. 202. GUARANTEED UNDERWRITING USER FEE.
+
+    Section 502 of the Housing Act of 1949 (42 U.S.C. 1472) is amended 
+by adding at the end the following new subsection:
+    ``(i) Guaranteed Underwriting User Fee.--
+            ``(1) Authority; maximum amount.--The Secretary may assess 
+        and collect a fee for a lender to access the automated 
+        underwriting systems of the Department in connection with such 
+        lender's participation in the single family loan program under 
+        this section and only in an amount necessary to cover the costs 
+        of information technology enhancements, improvements, 
+        maintenance, and development for automated underwriting systems 
+        used in connection with the single family loan program under 
+        this section, except that such fee shall not exceed $50 per 
+        loan.
+            ``(2) Crediting; availability.--Any amounts collected from 
+        such fees shall be credited to the Rural Development Expense 
+        Account as offsetting collections and shall remain available 
+        until expended, in the amounts provided in appropriation Acts, 
+        solely for expenses described in paragraph (1).''.
+
+[[Page 130 STAT. 806]]
+
+           TITLE III--FHA MORTGAGE INSURANCE FOR CONDOMINIUMS
+
+SEC. 301. MODIFICATION OF FHA REQUIREMENTS FOR MORTGAGE INSURANCE 
+                        FOR CONDOMINIUMS.
+
+    Section 203 of the National Housing Act (12 U.S.C. 1709) is amended 
+by adding at the end the following new subsection:
+    ``(y) Requirements for Mortgages for Condominiums.--
+            ``(1) Project recertification requirements.--Notwithstanding 
+        any other law, regulation, or guideline of the Secretary, 
+        including chapter 2.4 of the Condominium Project Approval and 
+        Processing Guide of the FHA, the Secretary shall streamline the 
+        project certification requirements that are applicable to the 
+        insurance under this section for mortgages for condominium 
+        projects so that recertifications are substantially less 
+        burdensome than certifications. The Secretary shall consider 
+        lengthening the time between certifications for approved 
+        properties, and allowing updating of information rather than 
+        resubmission.
+            ``(2) <<NOTE: Determination.>>  Commercial space 
+        requirements.--Notwithstanding any other law, regulation, or 
+        guideline of the Secretary, including chapter 2.1.3 of the 
+        Condominium Project Approval and Processing Guide of the FHA, in 
+        providing for exceptions to the requirement for the insurance of 
+        a mortgage on a condominium property under this section 
+        regarding the percentage of the floor space of a condominium 
+        property that may be used for nonresidential or commercial 
+        purposes, the Secretary shall provide that--
+                    ``(A) any request for such an exception and the 
+                determination of the disposition of such request may be 
+                made, at the option of the requester, under the direct 
+                endorsement lender review and approval process or under 
+                the HUD review and approval process through the 
+                applicable field office of the Department; and
+                    ``(B) in determining whether to allow such an 
+                exception for a condominium property, factors relating 
+                to the economy for the locality in which such project is 
+                located or specific to project, including the total 
+                number of family units in the project, shall be 
+                considered.
+        Not <<NOTE: Deadline. Time period. Effective 
+        date. Regulations. Standards. Penalties.>>  later than the 
+        expiration of the 90-day period beginning on the date of the 
+        enactment of this paragraph, the Secretary shall issue 
+        regulations to implement this paragraph, which shall include any 
+        standards, training requirements, and remedies and penalties 
+        that the Secretary considers appropriate.
+            ``(3) <<NOTE: Applicability.>>  Transfer fees.--
+        Notwithstanding any other law, regulation, or guideline of the 
+        Secretary, including chapter 1.8.8 of the Condominium Project 
+        Approval and Processing Guide of the FHA and section 203.41 of 
+        the Secretary's regulations (24 CFR 203.41), existing standards 
+        of the Federal Housing Finance Agency relating to encumbrances 
+        under private transfer fee covenants shall apply to the 
+        insurance of mortgages by the Secretary under this section to 
+        the same extent and in the same manner that such standards apply 
+        to the purchasing, investing in, and otherwise dealing in 
+        mortgages by the Federal National Mortgage Association and the 
+        Federal Home Loan Mortgage Corporation. <<NOTE: Federal 
+        Register, publication. Notice. Deadline.>>  If the provisions of 
+        part
+
+[[Page 130 STAT. 807]]
+
+        1228 of the Director of the Federal Housing Finance Agency's 
+        regulations (12 CFR part 1228) are amended or otherwise changed 
+        after the date of the enactment of this paragraph, the Secretary 
+        of Housing and Urban Development shall adopt any such amendments 
+        or changes for purposes of this paragraph, unless the Secretary 
+        causes to be published in the Federal Register a notice 
+        explaining why the Secretary will disregard such amendments or 
+        changes within 90 days after the effective date of such 
+        amendments or changes.
+            ``(4) Owner-occupancy requirement.--
+                    ``(A) <<NOTE: Deadline. Time period. Effective 
+                date. Regulations. Notice. Guidance.>>  Establishment of 
+                percentage requirement.--Not later than the expiration 
+                of the 90-day period beginning on the date of the 
+                enactment of this paragraph, the Secretary shall, by 
+                rule, notice, or mortgagee letter, issue guidance 
+                regarding the percentage of units that must be occupied 
+                by the owners as a principal residence or a secondary 
+                residence (as such terms are defined by the Secretary), 
+                or must have been sold to owners who intend to meet such 
+                occupancy requirements, including justifications for the 
+                percentage requirements, in order for a condominium 
+                project to be acceptable to the Secretary for insurance 
+                under this section of a mortgage within such condominium 
+                property.
+                    ``(B) <<NOTE: Applicability.>>  Failure to act.--If 
+                the Secretary fails to issue the guidance required under 
+                subparagraph (A) before the expiration of the 90-day 
+                period specified in such clause, the following 
+                provisions shall apply:
+                          ``(i) 35 percent requirement.--In order for a 
+                      condominium project to be acceptable to the 
+                      Secretary for insurance under this section, at 
+                      least 35 percent of all family units (including 
+                      units not covered by FHA-insured mortgages) must 
+                      be occupied by the owners as a principal residence 
+                      or a secondary residence (as such terms are 
+                      defined by the Secretary), or must have been sold 
+                      to owners who intend to meet such occupancy 
+                      requirement.
+                          ``(ii) Other considerations.--The Secretary 
+                      may increase the percentage applicable pursuant to 
+                      clause (i) to a condominium project on a project-
+                      by-project or regional basis, and in determining 
+                      such percentage for a project shall consider 
+                      factors relating to the economy for the locality 
+                      in which such project is located or specific to 
+                      project, including the total number of family 
+                      units in the project.''.
+
+       TITLE IV--HOUSING REFORMS FOR THE HOMELESS AND FOR VETERANS
+
+SEC. 401. DEFINITION OF GEOGRAPHIC AREA FOR CONTINUUM OF CARE 
+                        PROGRAM.
+
+    (a) Definition.--Subtitle C of the McKinney-Vento Homeless 
+Assistance Act is amended--
+            (1) by redesignating sections 432 and 433 (42 U.S.C. 11387, 
+        11388) as sections 433 and 434, respectively; and
+            (2) by inserting after section 431 (42 U.S.C. 11386e) the 
+        following new section:
+
+[[Page 130 STAT. 808]]
+
+``SEC. 432. <<NOTE: 42 USC 11386f.>>  GEOGRAPHIC AREAS.
+
+    ``(a) <<NOTE: Notice.>>  Requirement to Define.--For purposes of 
+this subtitle, the term `geographic area' shall have such meaning as the 
+Secretary shall by notice provide.
+
+    ``(b) <<NOTE: Deadline. Time period. Effective date.>>  Issuance of 
+Notice.--Not later than the expiration of the 90-day period beginning on 
+the date of the enactment of the Housing Opportunity Through 
+Modernization Act of 2016, the Secretary shall issue a notice setting 
+forth the definition required by subsection (a).''.
+
+    (b) Clerical Amendment.--The table of contents in section 101(b) of 
+the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 note) is 
+amended by striking the items relating to sections 432 and 433 and 
+inserting the following new items:
+
+``Sec. 432. Geographic areas.
+``Sec. 433. Regulations.
+``Sec. 434. Reports to Congress.''.
+
+SEC. 402. INCLUSION OF PUBLIC HOUSING AGENCIES AND LOCAL 
+                        REDEVELOPMENT AUTHORITIES IN EMERGENCY 
+                        SOLUTIONS GRANTS.
+
+    Section 414(c) of the McKinney-Vento Homeless Assistance Act (42 
+U.S.C. 11373(c)) is amended--
+            (1) in the subsection heading, by inserting ``, Public 
+        Housing Agencies, and Local Redevelopment Authorities'' after 
+        ``Organizations''; and
+            (2) in the first sentence, by inserting before the period at 
+        the end the following: ``, to public housing agencies (as 
+        defined under section 3(b)(6) of the United States Housing Act 
+        of 1937), or to local redevelopment authorities (as defined 
+        under State law)''.
+SEC. 403. SPECIAL ASSISTANT FOR VETERANS AFFAIRS IN THE DEPARTMENT 
+                        OF HOUSING AND URBAN DEVELOPMENT.
+
+    (a) Transfer of Position to Office of the Secretary.--Section 4 of 
+the Department of Housing and Urban Development Act (42 U.S.C. 3533) is 
+amended by adding at the end the following new subsection:
+    ``(h) Special Assistant for Veterans Affairs.--
+            ``(1) Position.--There shall be in the Office of the 
+        Secretary a Special Assistant for Veterans Affairs, who shall 
+        report directly to the Secretary.
+            ``(2) Appointment.--The Special Assistant for Veterans 
+        Affairs shall be appointed based solely on merit and shall be 
+        covered under the provisions of title 5, United States Code, 
+        governing appointments in the competitive service.
+            ``(3) Responsibilities.--The Special Assistant for Veterans 
+        Affairs shall be responsible for--
+                    ``(A) ensuring veterans have fair access to housing 
+                and homeless assistance under each program of the 
+                Department providing either such assistance;
+                    ``(B) coordinating all programs and activities of 
+                the Department relating to veterans;
+                    ``(C) serving as a liaison for the Department with 
+                the Department of Veterans Affairs, including 
+                establishing and maintaining relationships with the 
+                Secretary of Veterans Affairs;
+
+[[Page 130 STAT. 809]]
+
+                    ``(D) serving as a liaison for the Department, and 
+                establishing and maintaining relationships with the 
+                United States Interagency Council on Homelessness and 
+                officials of State, local, regional, and nongovernmental 
+                organizations concerned with veterans;
+                    ``(E) providing information and advice regarding--
+                          ``(i) sponsoring housing projects for veterans 
+                      assisted under programs administered by the 
+                      Department; or
+                          ``(ii) assisting veterans in obtaining housing 
+                      or homeless assistance under programs administered 
+                      by the Department;
+                    ``(F) coordinating with the Secretary of Housing and 
+                Urban Development and the Secretary of Veterans Affairs 
+                in carrying out section 404 of the Housing Opportunity 
+                Through Modernization Act of 2016;
+                    ``(G) collaborating with the Department of Veterans 
+                Affairs on making joint recommendations to the Congress, 
+                the Secretary of Housing and Urban Development, and the 
+                Secretary of Veterans Affairs on how to better 
+                coordinate and improve services to veterans under both 
+                Department of Housing and Urban Development and 
+                Department of Veteran Affairs veterans housing programs, 
+                including ways to improve the Independent Living Program 
+                of the Department of Veteran Affairs; and
+                    ``(H) carrying out such other duties as may be 
+                assigned to the Special Assistant by the Secretary or by 
+                law.''.
+
+    (b) <<NOTE: 42 USC 3533 note. Termination.>>  Transfer of Position 
+in Office of Deputy Assistant Secretary for Special Needs.--On the date 
+that the initial Special Assistant for Veterans Affairs is appointed 
+pursuant to section 4(h)(2) of the Department of Housing and Urban 
+Development Act, as added by subsection (a) of this section, the 
+position of Special Assistant for Veterans Programs in the Office of the 
+Deputy Assistant Secretary for Special Needs of the Department of 
+Housing and Urban Development shall be terminated.
+SEC. 404. <<NOTE: 42 USC 11313 note.>>  ANNUAL SUPPLEMENTAL REPORT 
+                        ON VETERANS HOMELESSNESS.
+
+    (a) <<NOTE: Coordination.>>  In General.--The Secretary of Housing 
+and Urban Development and the Secretary of Veterans Affairs, in 
+coordination with the United States Interagency Council on Homelessness, 
+shall submit annually to the Committees of the Congress specified in 
+subsection (b), together with the annual reports required by such 
+Secretaries under section 203(c)(1) of the McKinney-Vento Homeless 
+Assistance Act (42 U.S.C. 11313(c)(1)), a supplemental report that 
+includes the following information with respect to the preceding year:
+            (1) The same information, for such preceding year, that was 
+        included with respect to 2010 in the report by the Secretary of 
+        Housing and Urban Development and the Secretary of Veterans 
+        Affairs entitled ``Veterans Homelessness: A Supplemental Report 
+        to the 2010 Annual Homeless Assessment Report to Congress''.
+            (2) Information regarding the activities of the Department 
+        of Housing and Urban Development relating to veterans during 
+        such preceding year, as follows:
+
+[[Page 130 STAT. 810]]
+
+                    (A) The number of veterans provided assistance under 
+                the housing choice voucher program for Veterans Affairs 
+                supported housing under section 8(o)(19) of the United 
+                States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)), the 
+                socioeconomic characteristics of such homeless veterans, 
+                and the number, types, and locations of entities 
+                contracted under such section to administer the 
+                vouchers.
+                    (B) <<NOTE: Summary.>>  A summary description of the 
+                special considerations made for veterans under public 
+                housing agency plans submitted pursuant to section 5A of 
+                the United States Housing Act of 1937 (42 U.S.C. 1437c-
+                1) and under comprehensive housing affordability 
+                strategies submitted pursuant to section 105 of the 
+                Cranston-Gonzalez National Affordable Housing Act (42 
+                U.S.C. 12705).
+                    (C) A description of the activities of the Special 
+                Assistant for Veterans Affairs of the Department of 
+                Housing and Urban Development.
+                    (D) A description of the efforts of the Department 
+                of Housing and Urban Development and the other members 
+                of the United States Interagency Council on Homelessness 
+                to coordinate the delivery of housing and services to 
+                veterans.
+                    (E) The cost to the Department of Housing and Urban 
+                Development of administering the programs and activities 
+                relating to veterans.
+                    (F) Any other information that the Secretary of 
+                Housing and Urban Development and the Secretary of 
+                Veterans Affairs consider relevant in assessing the 
+                programs and activities of the Department of Housing and 
+                Urban Development relating to veterans.
+
+    (b) Committees.--The Committees of the Congress specified in this 
+subsection are as follows:
+            (1) The Committee on Banking, Housing, and Urban Affairs of 
+        the Senate.
+            (2) The Committee on Veterans' Affairs of the Senate.
+            (3) The Committee on Appropriations of the Senate.
+            (4) The Committee on Financial Services of the House of 
+        Representatives.
+            (5) The Committee on Veterans' Affairs of the House of 
+        Representatives.
+            (6) The Committee on Appropriations of the House of 
+        Representatives.
+SEC. 405. REOPENING OF PUBLIC COMMENT PERIOD FOR CONTINUUM OF CARE 
+                        PROGRAM REGULATIONS.
+
+    Not <<NOTE: Deadline. Time period. Effective date.>>  later than the 
+expiration of the 30-day period beginning on the date of the enactment 
+of this Act, the Secretary of Housing and Urban Development shall re-
+open the period for public comment regarding the Secretary's interim 
+rule entitled ``Homeless Emergency Assistance and Rapid Transition to 
+Housing: Continuum of Care Program'', published in the Federal Register 
+on July 31, 2012 (77 Fed. Reg. 45422; Docket No. FR-5476-I-01). Upon re-
+opening, such comment period shall remain open for a period of not fewer 
+than 60 days.
+
+[[Page 130 STAT. 811]]
+
+                         TITLE V--MISCELLANEOUS
+
+SEC. 501. <<NOTE: 42 USC 3544 note.>>  INCLUSION OF DISASTER 
+                        HOUSING ASSISTANCE PROGRAM IN CERTAIN 
+                        FRAUD AND ABUSE PREVENTION MEASURES.
+
+    The Disaster Housing Assistance Program administered by the 
+Department of Housing and Urban Development shall be considered a 
+``program of the Department of Housing and Urban Development'' under 
+section 904 of the Stewart B. McKinney Homeless Assistance Amendments 
+Act of 1988 (42 U.S.C. 3544) for the purpose of income verifications.
+SEC. 502. ENERGY EFFICIENCY REQUIREMENTS UNDER SELF-HELP 
+                        HOMEOWNERSHIP OPPORTUNITY PROGRAM.
+
+    Section 11 of the Housing Opportunity Program Extension Act of 1996 
+(42 U.S.C. 12805 note) is amended by inserting after subsection (f) the 
+following new subsection:
+    ``(g) Energy Efficiency Requirements.--The Secretary may not require 
+any dwelling developed using amounts from a grant made under this 
+section to meet any energy efficiency standards other than the standards 
+applicable at such time pursuant to section 109 of the Cranston-Gonzalez 
+National Affordable Housing Act (42 U.S.C. 12709) to housing specified 
+in subsection (a) of such section.''.
+SEC. 503. DATA EXCHANGE STANDARDIZATION FOR IMPROVED 
+                        INTEROPERABILITY.
+
+    (a) Data Exchange Standardization.--Title I of the United States 
+Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the 
+end the following new section:
+``SEC. 37. <<NOTE: 42 USC 1437z-9.>>  DATA EXCHANGE STANDARDS FOR 
+                      IMPROVED INTEROPERABILITY.
+
+    ``(a) <<NOTE: Consultation.>>  Designation.--The Secretary shall, in 
+consultation with an interagency work group established by the Office of 
+Management and Budget, and considering State government perspectives, 
+designate data exchange standards to govern, under this Act--
+            ``(1) necessary categories of information that State 
+        agencies operating related programs are required under 
+        applicable law to electronically exchange with another State 
+        agency; and
+            ``(2) Federal reporting and data exchange required under 
+        applicable law.
+
+    ``(b) Requirements.--The data exchange standards required by 
+subsection (a) shall, to the maximum extent practicable--
+            ``(1) incorporate a widely accepted, nonproprietary, 
+        searchable, computer-readable format, such as the eXtensible 
+        Markup Language;
+            ``(2) contain interoperable standards developed and 
+        maintained by intergovernmental partnerships, such as the 
+        National Information Exchange Model;
+            ``(3) incorporate interoperable standards developed and 
+        maintained by Federal entities with authority over contracting 
+        and financial assistance;
+            ``(4) be consistent with and implement applicable accounting 
+        principles;
+            ``(5) be implemented in a manner that is cost- effective and 
+        improves program efficiency and effectiveness; and
+            ``(6) be capable of being continually upgraded as necessary.
+
+[[Page 130 STAT. 812]]
+
+    ``(c) Rules of Construction.--Nothing in this section requires a 
+change to existing data exchange standards for Federal reporting found 
+to be effective and efficient.''.
+    (b) <<NOTE: 42 USC 1437z-9 note. Deadline. Regulations.>>  
+Applicability.--
+            (1) In general.--Not later than 2 years after the date of 
+        the enactment of this Act, the Secretary of Housing and Urban 
+        Development shall issue a proposed rule to carry out the 
+        amendments made by subsection (a).
+            (2) Requirements.--The rule shall--
+                    (A) identify federally required data exchanges;
+                    (B) include specification and timing of exchanges to 
+                be standardized;
+                    (C) address the factors used in determining whether 
+                and when to standardize data exchanges;
+                    (D) specify State implementation options; and
+                    (E) describe future milestones.
+
+                            TITLE VI--REPORTS
+
+SEC. 601. <<NOTE: 42 USC 3536a note.>>  REPORT ON INTERAGENCY 
+                        FAMILY ECONOMIC EMPOWERMENT STRATEGIES.
+
+    The <<NOTE: Consultation.>>  Secretary of Housing and Urban 
+Development, in consultation with the Secretary of Labor, shall submit a 
+report to the Congress annually that describes--
+            (1) any interagency strategies of such Departments that are 
+        designed to improve family economic empowerment by linking 
+        housing assistance with essential supportive services, such as 
+        employment counseling and training, financial education and 
+        growth, childcare, transportation, meals, youth recreational 
+        activities, and other supportive services; and
+            (2) any actions taken in the preceding year to carry out 
+        such strategies and the extent of progress achieved by such 
+        actions.
+
+         TITLE VII--HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS
+
+SEC. 701. FORMULA AND TERMS FOR ALLOCATIONS TO PREVENT 
+                        HOMELESSNESS FOR INDIVIDUALS LIVING WITH 
+                        HIV OR AIDS.
+
+    (a) In General.--Subsection (c) of section 854 of the AIDS Housing 
+Opportunity Act (42 U.S.C. 12903(c)) is amended by--
+            (1) redesignating paragraph (3) as paragraph (5); and
+            (2) striking paragraphs (1) and (2) and inserting the 
+        following:
+            ``(1) Allocation of resources.--
+                    ``(A) Allocation formula.--The Secretary shall 
+                allocate 90 percent of the amount approved in 
+                appropriations Acts under section 863 among States and 
+                metropolitan statistical areas as follows:
+                          ``(I) 75 percent of such amounts among--
+                                    ``(I) cities that are the most 
+                                populous unit of general local 
+                                government in a metropolitan statistical 
+                                area with a population greater than 
+                                500,000, as determined on the basis of 
+                                the most recent
+
+[[Page 130 STAT. 813]]
+
+                                census, and with more than 2,000 
+                                individuals living with HIV or AIDS, 
+                                using the data specified in subparagraph 
+                                (B); and
+                                    ``(II) States with more than 2,000 
+                                individuals living with HIV or AIDS 
+                                outside of metropolitan statistical 
+                                areas.
+                          ``(ii) 25 percent of such amounts among States 
+                      and metropolitan statistical areas based on the 
+                      method described in subparagraph (C).
+                    ``(B) Source of data.--For purposes of allocating 
+                amounts under this paragraph for any fiscal year, the 
+                number of individuals living with HIV or AIDS shall be 
+                the number of such individuals as confirmed by the 
+                Director of the Centers for Disease Control and 
+                Prevention, as of December 31 of the most recent 
+                calendar year for which such data is available.
+                    ``(C) Allocation under subparagraph (A)(ii).--For 
+                purposes of allocating amounts under subparagraph 
+                (A)(ii), the Secretary shall develop a method that 
+                accounts for--
+                          ``(I) differences in housing costs among 
+                      States and metropolitan statistical areas based on 
+                      the fair market rental established pursuant to 
+                      section 8(c) of the United States Housing Act of 
+                      1937 (42 U.S.C. 1437f(c)) or another methodology 
+                      established by the Secretary through regulation; 
+                      and
+                          ``(ii) differences in poverty rates among 
+                      States and metropolitan statistical areas based on 
+                      area poverty indexes or another methodology 
+                      established by the Secretary through regulation.
+            ``(2) Maintaining grants.--
+                    ``(A) Continued eligibility of fiscal year 2016 
+                grantees.--A grantee that received an allocation in 
+                fiscal year 2016 shall continue to be eligible for 
+                allocations under paragraph (1) in subsequent fiscal 
+                years, subject to--
+                          ``(I) the amounts available from 
+                      appropriations Acts under section 863;
+                          ``(ii) approval by the Secretary of the most 
+                      recent comprehensive housing affordability 
+                      strategy for the grantee approved under section 
+                      105; and
+                          ``(iii) the requirements of subparagraph (C).
+                    ``(B) Adjustments.--Allocations to grantees 
+                described in subparagraph (A) shall be adjusted annually 
+                based on the administrative provisions included in 
+                fiscal year 2016 appropriations Acts.
+                    ``(C) <<NOTE: Time period.>>  Redetermination of 
+                continued eligibility.--The Secretary shall redetermine 
+                the continued eligibility of a grantee that received an 
+                allocation in fiscal year 2016 at least once during the 
+                10-year period following fiscal year 2016.
+                    ``(D) Adjustment to grants.--For each of fiscal 
+                years 2017, 2018, 2019, 2020, and 2021, the Secretary 
+                shall ensure that a grantee that received an allocation 
+                in the prior fiscal year does not receive an allocation 
+                that is 5 percent less than or 10 percent greater than 
+                the amount allocated to such grantee in the preceding 
+                fiscal year.
+            ``(3) <<NOTE: Contracts.>>  Alternative grantees.--
+
+[[Page 130 STAT. 814]]
+
+                    ``(A) Requirements.--The Secretary may award funds 
+                reserved for a grantee eligible under paragraph (1) to 
+                an alternative grantee if--
+                          ``(I) <<NOTE: Contracts.>>  the grantee 
+                      submits to the Secretary a written agreement 
+                      between the grantee and the alternative grantee 
+                      that describes how the alternative grantee will 
+                      take actions consistent with the applicable 
+                      comprehensive housing affordability strategy 
+                      approved under section 105 of this Act;
+                          ``(ii) the Secretary approves the written 
+                      agreement described in clause (I) and agrees to 
+                      award funds to the alternative grantee; and
+                          ``(iii) the written agreement does not exceed 
+                      a term of 10 years.
+                    ``(B) Renewal.--An agreement approved pursuant to 
+                subparagraph (A) may be renewed by the parties with the 
+                approval of the Secretary.
+                    ``(C) Definition.--In this paragraph, the term 
+                `alternative grantee' means a public housing agency (as 
+                defined in section 3(b) of the United States Housing Act 
+                of 1937 (42 U.S.C. 1437a(b))), a unified funding agency 
+                (as defined in section 401 of the McKinney-Vento 
+                Homeless Assistance Act (42 U.S.C. 11360)), a State, a 
+                unit of general local government, or an instrumentality 
+                of State or local government.
+            ``(4) <<NOTE: Determination.>>  Reallocations.--If a State 
+        or metropolitan statistical area declines an allocation under 
+        paragraph (1)(A), or the Secretary determines, in accordance 
+        with criteria specified in regulation, that a State or 
+        metropolitan statistical area that is eligible for an allocation 
+        under paragraph (1)(A) is unable to properly administer such 
+        allocation, the Secretary shall reallocate any funds reserved 
+        for such State or metropolitan statistical area as follows:
+                    ``(A) For funds reserved for a State--
+                          ``(I) to eligible metropolitan statistical 
+                      areas within the State on a pro rata basis; or
+                          ``(ii) if there is no eligible metropolitan 
+                      statistical areas within a State, to metropolitan 
+                      cities and urban counties within the State that 
+                      are eligible for grant under section 106 of the 
+                      Housing and Community Development Act of 1974 (42 
+                      U.S.C. 5306), on a pro rata basis.
+                    ``(B) For funds reserved for a metropolitan 
+                statistical area, to the State in which the metropolitan 
+                statistical area is located.
+                    ``(C) If the Secretary is unable to make a 
+                reallocation under subparagraph (A) or (B), the 
+                Secretary shall make such funds available on a pro rata 
+                basis under the formula in paragraph (1)(A).''.
+
+    (b) Amendment to Definitions.--Section 853 of the AIDS Housing 
+Opportunity Act (42 U.S.C. 12902) is amended--
+            (1) in paragraph (1), by inserting ``or `AIDS' '' before 
+        ``means''; and
+            (2) by inserting at the end the following new paragraphs:
+            ``(15) The term `HIV' means infection with the human 
+        immunodeficiency virus.
+
+[[Page 130 STAT. 815]]
+
+            ``(16) The term `individuals living with HIV or AIDS' means, 
+        with respect to the counting of cases in a geographic area 
+        during a period of time, the sum of--
+                    ``(A) the number of living non-AIDS cases of HIV in 
+                the area; and
+                    ``(B) the number of living cases of AIDS in the 
+                area.''.
+
+    Approved July 29, 2016.
+
+LEGISLATIVE HISTORY--H.R. 3700:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-397 (Comm. on Financial Services).
+CONGRESSIONAL RECORD, Vol. 162 (2016):
+            Feb. 2, considered and passed House.
+            July 14, considered and passed Senate.
+
+                                  
+

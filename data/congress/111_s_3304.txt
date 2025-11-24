@@ -1,0 +1,1652 @@
+
+[111th Congress Public Law 260]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 124 STAT. 2751]]
+
+Public Law 111-260
+111th Congress
+
+                                 An Act
+
+
+ 
+     To increase the access of persons with disabilities to modern 
+  communications, and for other purposes. <<NOTE: Oct. 8, 2010 -  [S. 
+                                3304]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Twenty-First 
+Century Communications and Video Accessibility Act of 2010.>> 
+
+SECTION 1. <<NOTE: 47 USC 609 note.>> SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Twenty-First 
+Century Communications and Video Accessibility Act of 2010''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Limitation on liability.
+Sec. 3. Proprietary technology.
+
+                     TITLE I--COMMUNICATIONS ACCESS
+
+Sec. 101. Definitions.
+Sec. 102. Hearing aid compatibility.
+Sec. 103. Relay services.
+Sec. 104. Access to advanced communications services and equipment.
+Sec. 105. Universal service.
+Sec. 106. Emergency Access Advisory Committee.
+
+                       TITLE II--VIDEO PROGRAMMING
+
+Sec. 201. Video Programming and Emergency Access Advisory Committee.
+Sec. 202. Video description and closed captioning.
+Sec. 203. Closed captioning decoder and video description capability.
+Sec. 204. User interfaces on digital apparatus.
+Sec. 205. Access to video programming guides and menus provided on 
+           navigation devices.
+Sec. 206. Definitions.
+
+SEC. 2. <<NOTE: 47 USC 153 note.>> LIMITATION ON LIABILITY.
+
+    (a) In General.--Except as provided in subsection (b), no person 
+shall be liable for a violation of the requirements of this Act (or of 
+the provisions of the Communications Act of 1934 that are amended or 
+added by this Act) with respect to video programming, online content, 
+applications, services, advanced communications services, or equipment 
+used to provide or access advanced communications services to the extent 
+such person--
+            (1) transmits, routes, or stores in intermediate or 
+        transient storage the communications made available through the 
+        provision of advanced communications services by a third party; 
+        or
+            (2) provides an information location tool, such as a 
+        directory, index, reference, pointer, menu, guide, user 
+        interface, or hypertext link, through which an end user obtains 
+        access
+
+[[Page 124 STAT. 2752]]
+
+        to such video programming, online content, applications, 
+        services, advanced communications services, or equipment used to 
+        provide or access advanced communications services.
+
+    (b) Exception.--The limitation on liability under subsection (a) 
+shall not apply to any person who relies on third party applications, 
+services, software, hardware, or equipment to comply with the 
+requirements of this Act (or of the provisions of the Communications Act 
+of 1934 that are amended or added by this Act) with respect to video 
+programming, online content, applications, services, advanced 
+communications services, or equipment used to provide or access advanced 
+communications services.
+
+SEC. 3. <<NOTE: 47 USC 153 note.>> PROPRIETARY TECHNOLOGY.
+
+    No action taken by the Federal Communications Commission to 
+implement this Act or any amendment made by this Act shall mandate the 
+use or incorporation of proprietary technology.
+
+                     TITLE I--COMMUNICATIONS ACCESS
+
+SEC. 101. DEFINITIONS.
+
+    Section 3 of the Communications Act of 1934 (47 U.S.C. 153) is 
+amended--
+            (1) by adding at the end the following new paragraphs:
+            ``(53) Advanced communications services.--The term `advanced 
+        communications services' means--
+                    ``(A) interconnected VoIP service;
+                    ``(B) non-interconnected VoIP service;
+                    ``(C) electronic messaging service; and
+                    ``(D) interoperable video conferencing service.
+            ``(54) Consumer generated media.--The term `consumer 
+        generated media' means content created and made available by 
+        consumers to online websites and services on the Internet, 
+        including video, audio, and multimedia content.
+            ``(55) Disability.--The term `disability' has the meaning 
+        given such term under section 3 of the Americans with 
+        Disabilities Act of 1990 (42 U.S.C. 12102).
+            ``(56) Electronic messaging service.--The term `electronic 
+        messaging service' means a service that provides real-time or 
+        near real-time non-voice messages in text form between 
+        individuals over communications networks.
+            ``(57) Interconnected voip service.--The term 
+        `interconnected VoIP service' has the meaning given such term 
+        under section 9.3 of title 47, Code of Federal Regulations, as 
+        such section may be amended from time to time.
+            ``(58) Non-interconnected voip service.--The term `non-
+        interconnected VoIP service'--
+                    ``(A) means a service that--
+                          ``(i) enables real-time voice communications 
+                      that originate from or terminate to the user's 
+                      location using Internet protocol or any successor 
+                      protocol; and
+                          ``(ii) requires Internet protocol compatible 
+                      customer premises equipment; and
+                    ``(B) does not include any service that is an 
+                interconnected VoIP service.
+            ``(59) Interoperable video conferencing service.--The term 
+        `interoperable video conferencing service' means a service
+
+[[Page 124 STAT. 2752]]
+
+        that provides real-time video communications, including audio, 
+        to enable users to share information of the user's choosing.''; 
+        and
+            (2) by reordering paragraphs (1) through (52) and the 
+        paragraphs added by paragraph (1) of this section in 
+        alphabetical order based on the headings of such paragraphs and 
+        renumbering such paragraphs as so reordered.
+
+SEC. 102. HEARING AID COMPATIBILITY.
+
+    (a) Compatibility Requirements.--
+            (1) Telephone service for the disabled.--Section 710(b)(1) 
+        of the Communications Act of 1934 (47 U.S.C. 610(b)(1)) is 
+        amended to read as follows:
+
+    ``(b)(1) Except as provided in paragraphs (2) and (3) and subsection 
+(c), the Commission shall require that customer premises equipment 
+described in this paragraph provide internal means for effective use 
+with hearing aids that are designed to be compatible with telephones 
+which meet established technical standards for hearing aid 
+compatibility. Customer premises equipment described in this paragraph 
+are the following:
+            ``(A) All essential telephones.
+            ``(B) All telephones manufactured in the United States 
+        (other than for export) more than one year after the date of 
+        enactment of the Hearing Aid Compatibility Act of 1988 or 
+        imported for use in the United States more than one year after 
+        such date.
+            ``(C) All customer premises equipment used with advanced 
+        communications services that is designed to provide 2-way voice 
+        communication via a built-in speaker intended to be held to the 
+        ear in a manner functionally equivalent to a telephone, subject 
+        to the regulations prescribed by the Commission under subsection 
+        (e).''.
+            (2) Additional amendments.--Section 710(b) of the 
+        Communications Act of 1934 (47 U.S.C. 610(b)) is further 
+        amended--
+                    (A) in paragraph (2)--
+                          (i) in subparagraph (A)--
+                                    (I) in the matter preceding clause 
+                                (i)--
+                                            (aa) by striking 
+                                        ``initial'';
+                                            (bb) by striking ``of this 
+                                        subsection after the date of 
+                                        enactment of the Hearing Aid 
+                                        Compatibility Act of 1988''; and
+                                            (cc) by striking ``paragraph 
+                                        (1)(B) of this subsection'' and 
+                                        inserting ``subparagraphs (B) 
+                                        and (C) of paragraph (1)'';
+                                    (II) by inserting ``and'' at the end 
+                                of clause (ii);
+                                    (III) by striking clause (iii); and
+                                    (IV) by redesignating clause (iv) as 
+                                clause (iii);
+                          (ii) by striking subparagraph (B) and 
+                      redesignating subparagraph (C) as subparagraph 
+                      (B); and
+                          (iii) in subparagraph (B) (as so 
+                      redesignated)--
+                                    (I) by striking the first sentence 
+                                and inserting ``The Commission shall 
+                                periodically assess the appropriateness 
+                                of continuing in effect the exemptions 
+                                for telephones and other customer 
+                                premises
+
+[[Page 124 STAT. 2754]]
+
+                                equipment described in subparagraph (A) 
+                                of this paragraph.''; and
+                                    (II) in each of clauses (iii) and 
+                                (iv), by striking ``paragraph (1)(B)'' 
+                                and inserting ``subparagraph (B) or (C) 
+                                of paragraph (1)'';
+                    (B) in paragraph (4)(B)--
+                          (i) by striking ``public mobile'' and 
+                      inserting ``telephones used with public mobile'';
+                          (ii) by inserting ``telephones and other 
+                      customer premises equipment used in whole or in 
+                      part with'' after ``means'';
+                          (iii) by striking ``and'' after ``public land 
+                      mobile telephone service,'' and inserting ``or'';
+                          (iv) by striking ``part 22 of''; and
+                          (v) by inserting after ``Regulations'' the 
+                      following: ``, or any functionally equivalent 
+                      unlicensed wireless services''; and
+                    (C) in paragraph (4)(C)--
+                          (i) by striking ``term `private radio 
+                      services' '' and inserting ``term `telephones used 
+                      with private radio services' ''; and
+                          (ii) by inserting ``telephones and other 
+                      customer premises equipment used in whole or in 
+                      part with'' after ``means''.
+
+    (b) Technical Standards.--Section 710(c) of the Communications Act 
+of 1934 (47 U.S.C. 610(c)) is amended by adding at the end the 
+following: ``A telephone or other customer premises equipment that is 
+compliant with relevant technical standards developed through a public 
+participation process and in consultation with interested consumer 
+stakeholders (designated by the Commission for the purposes of this 
+section) will be considered hearing aid compatible for purposes of this 
+section, until such time as the Commission may determine 
+otherwise. <<NOTE: Consultation.>>  The Commission shall consult with 
+the public, including people with hearing loss, in establishing or 
+approving such technical standards. The Commission may delegate this 
+authority to an employee pursuant to section 5(c). The Commission shall 
+remain the final arbiter as to whether the standards meet the 
+requirements of this section.''.
+
+    (c) Rulemaking.--Section 710(e) of the Communications Act of 1934 
+(47 U.S.C. 610(e)) is amended--
+            (1) by striking ``impairments'' and inserting ``loss''; and
+            (2) by adding at the end the following sentence: ``In 
+        implementing the provisions of subsection (b)(1)(C), the 
+        Commission shall use appropriate timetables or benchmarks to the 
+        extent necessary (1) due to technical feasibility, or (2) to 
+        ensure the marketability or availability of new technologies to 
+        users.''.
+
+    (d) Rule of Construction.--Section 710(h) of the Communications Act 
+of 1934 (47 U.S.C. 610(h)) is amended to read as follows:
+    ``(h) Rule of Construction.--Nothing in the Twenty-First Century 
+Communications and Video Accessibility Act of 2010 shall be construed to 
+modify the Commission's regulations set forth in section 20.19 of title 
+47 of the Code of Federal Regulations, as in effect on the date of 
+enactment of such Act.''.
+
+[[Page 124 STAT. 2755]]
+
+SEC. 103. RELAY SERVICES.
+
+    (a) Definition.--Paragraph (3) of section 225(a) of the 
+Communications Act of 1934 (47 U.S.C. 225(a)(3)) is amended to read as 
+follows:
+            ``(3) Telecommunications relay services.--The term 
+        `telecommunications relay services' means telephone transmission 
+        services that provide the ability for an individual who is deaf, 
+        hard of hearing, deaf-blind, or who has a speech disability to 
+        engage in communication by wire or radio with one or more 
+        individuals, in a manner that is functionally equivalent to the 
+        ability of a hearing individual who does not have a speech 
+        disability to communicate using voice communication services by 
+        wire or radio.''.
+
+    (b) Internet Protocol-based Relay Services.--Title VII of such Act 
+(47 U.S.C. 601 et seq.) is amended by adding at the end the following 
+new section:
+
+``SEC. 715. <<NOTE: 47 USC 616.>> INTERNET PROTOCOL-BASED RELAY 
+            SERVICES.
+
+     <<NOTE: Deadline.>> ``Within one year after the date of enactment 
+of the Twenty-First Century Communications and Video Accessibility Act 
+of 2010, each interconnected VoIP service provider and each provider of 
+non-interconnected VoIP service shall participate in and contribute to 
+the Telecommunications Relay Services Fund established in section 
+64.604(c)(5)(iii) of title 47, Code of Federal Regulations, as in effect 
+on the date of enactment of such Act, in a manner prescribed by the 
+Commission by regulation to provide for obligations of such providers 
+that are consistent with and comparable to the obligations of other 
+contributors to such Fund.''.
+
+SEC. 104. ACCESS TO ADVANCED COMMUNICATIONS SERVICES AND EQUIPMENT.
+
+    (a) Title VII Amendment.--Title VII of the Communications Act of 
+1934 (47 U.S.C. 601 et seq.), as amended by section 103, is further 
+amended by adding at the end the following new sections:
+
+``SEC. 716. <<NOTE: 47 USC 617.>> ACCESS TO ADVANCED COMMUNICATIONS 
+            SERVICES AND EQUIPMENT.
+
+    ``(a) Manufacturing.--
+            ``(1) In general.--With respect to equipment manufactured 
+        after the effective date of the regulations established pursuant 
+        to subsection (e), and subject to those regulations, a 
+        manufacturer of equipment used for advanced communications 
+        services, including end user equipment, network equipment, and 
+        software, shall ensure that the equipment and software that such 
+        manufacturer offers for sale or otherwise distributes in 
+        interstate commerce shall be accessible to and usable by 
+        individuals with disabilities, unless the requirements of this 
+        subsection are not achievable.
+            ``(2) Industry flexibility.--A manufacturer of equipment may 
+        satisfy the requirements of paragraph (1) with respect to such 
+        equipment by--
+                    ``(A) ensuring that the equipment that such 
+                manufacturer offers is accessible to and usable by 
+                individuals with disabilities without the use of third 
+                party applications, peripheral devices, software, 
+                hardware, or customer premises equipment; or
+
+[[Page 124 STAT. 2756]]
+
+                    ``(B) if such manufacturer chooses, using third 
+                party applications, peripheral devices, software, 
+                hardware, or customer premises equipment that is 
+                available to the consumer at nominal cost and that 
+                individuals with disabilities can access.
+
+    ``(b) Service Providers.--
+            ``(1) In general.--With respect to services provided after 
+        the effective date of the regulations established pursuant to 
+        subsection (e), and subject to those regulations, a provider of 
+        advanced communications services shall ensure that such services 
+        offered by such provider in or affecting interstate commerce are 
+        accessible to and usable by individuals with disabilities, 
+        unless the requirements of this subsection are not achievable.
+            ``(2) Industry flexibility.--A provider of services may 
+        satisfy the requirements of paragraph (1) with respect to such 
+        services by--
+                    ``(A) ensuring that the services that such provider 
+                offers are accessible to and usable by individuals with 
+                disabilities without the use of third party 
+                applications, peripheral devices, software, hardware, or 
+                customer premises equipment; or
+                    ``(B) if such provider chooses, using third party 
+                applications, peripheral devices, software, hardware, or 
+                customer premises equipment that is available to the 
+                consumer at nominal cost and that individuals with 
+                disabilities can access.
+
+    ``(c) Compatibility.--Whenever the requirements of subsections (a) 
+or (b) are not achievable, a manufacturer or provider shall ensure that 
+its equipment or service is compatible with existing peripheral devices 
+or specialized customer premises equipment commonly used by individuals 
+with disabilities to achieve access, unless the requirement of this 
+subsection is not achievable.
+    ``(d) Network Features, Functions, and Capabilities.--Each provider 
+of advanced communications services has the duty not to install network 
+features, functions, or capabilities that do not impede accessibility or 
+usability.
+    ``(e) Regulations.--
+            ``(1) In general.-- <<NOTE: Deadline.>> Within one year 
+        after the date of enactment of the Twenty-First Century 
+        Communications and Video Accessibility Act of 2010, the 
+        Commission shall promulgate such regulations as are necessary to 
+        implement this section. In prescribing the regulations, the 
+        Commission shall--
+                    ``(A) include performance objectives to ensure the 
+                accessibility, usability, and compatibility of advanced 
+                communications services and the equipment used for 
+                advanced communications services by individuals with 
+                disabilities;
+                    ``(B) provide that advanced communications services, 
+                the equipment used for advanced communications services, 
+                and networks used to provide advanced communications 
+                services may not impair or impede the accessibility of 
+                information content when accessibility has been 
+                incorporated into that content for transmission through 
+                advanced communications services, equipment used for 
+                advanced communications services, or networks used to 
+                provide advanced communications services;
+
+[[Page 124 STAT. 2757]]
+
+                    ``(C) <<NOTE: Determination.>>  determine the 
+                obligations under this section of manufacturers, service 
+                providers, and providers of applications or services 
+                accessed over service provider networks; and
+                    ``(D) not mandate technical standards, except that 
+                the Commission may adopt technical standards as a safe 
+                harbor for such compliance if necessary to facilities 
+                the manufacturers' and service providers' compliance 
+                with sections (a) through (c).
+            ``(2) Prospective guidelines.--The Commission shall issue 
+        prospective guidelines for a manufacturer or provider regarding 
+        the requirements of this section.
+
+    ``(f) Services and Equipment Subject to Section 255.--The 
+requirements of this section shall not apply to any equipment or 
+services, including interconnected VoIP service, that are subject to the 
+requirements of section 255 on the day before the date of enactment of 
+the Twenty-First Century Communications and Video Accessibility Act of 
+2010. Such services and equipment shall remain subject to the 
+requirements of section 255.
+    ``(g) Achievable Defined.--For purposes of this section and section 
+718, the term `achievable' means with reasonable effort or expense, as 
+determined by the Commission. In determining whether the requirements of 
+a provision are achievable, the Commission shall consider the following 
+factors:
+            ``(1) The nature and cost of the steps needed to meet the 
+        requirements of this section with respect to the specific 
+        equipment or service in question.
+            ``(2) The technical and economic impact on the operation of 
+        the manufacturer or provider and on the operation of the 
+        specific equipment or service in question, including on the 
+        development and deployment of new communications technologies.
+            ``(3) The type of operations of the manufacturer or 
+        provider.
+            ``(4) The extent to which the service provider or 
+        manufacturer in question offers accessible services or equipment 
+        containing varying degrees of functionality and features, and 
+        offered at differing price points.
+
+    ``(h) Commission Flexibility.--
+            ``(1) Waiver.--The Commission shall have the authority, on 
+        its own motion or in response to a petition by a manufacturer or 
+        provider of advanced communications services or any interested 
+        party, to waive the requirements of this section for any feature 
+        or function of equipment used to provide or access advanced 
+        communications services, or for any class of such equipment, for 
+        any provider of advanced communications services, or for any 
+        class of such services, that--
+                    ``(A) is capable of accessing an advanced 
+                communications service; and
+                    ``(B) is designed for multiple purposes, but is 
+                designed primarily for purposes other than using 
+                advanced communications services.
+            ``(2) Small entity exemption.--The Commission may exempt 
+        small entities from the requirements of this section.
+
+    ``(i) Customized Equipment or Services.--The provisions of this 
+section shall not apply to customized equipment or services that are not 
+offered directly to the public, or to such classes of
+
+[[Page 124 STAT. 2758]]
+
+users as to be effectively available directly to the public, regardless 
+of the facilities used.
+    ``(j) Rule of Construction.--This section shall not be construed to 
+require a manufacturer of equipment used for advanced communications or 
+a provider of advanced communications services to make every feature and 
+function of every device or service accessible for every disability.
+
+``SEC. 717. <<NOTE: 47 USC 618.>> ENFORCEMENT AND RECORDKEEPING 
+            OBLIGATIONS.
+
+    ``(a) Complaint and Enforcement Procedures.-- 
+<<NOTE: Deadline. Regulations.>> Within one year after the date of 
+enactment of the Twenty-First Century Communications and Video 
+Accessibility Act of 2010, the Commission shall establish regulations 
+that facilitate the filing of formal and informal complaints that allege 
+a violation of section 255, 716, or 718, establish procedures for 
+enforcement actions by the Commission with respect to such violations, 
+and implement the recordkeeping obligations of paragraph (5) for 
+manufacturers and providers subject to such sections. Such regulations 
+shall include the following provisions:
+            ``(1) No fee.--The Commission shall not charge any fee to an 
+        individual who files a complaint alleging a violation of section 
+        255, 716, or 718.
+            ``(2) Receipt of complaints.--The Commission shall establish 
+        separate and identifiable electronic, telephonic, and physical 
+        receptacles for the receipt of complaints filed under section 
+        255, 716, or 718.
+            ``(3) Complaints to the commission.--
+                    ``(A) In general.--Any person alleging a violation 
+                of section 255, 716, or 718 by a manufacturer of 
+                equipment or provider of service subject to such 
+                sections may file a formal or informal complaint with 
+                the Commission.
+                    ``(B) Investigation of informal complaint.-- 
+                <<NOTE: Deadline. Orders.>> The Commission shall 
+                investigate the allegations in an informal complaint 
+                and, within 180 days after the date on which such 
+                complaint was filed with the Commission, issue an order 
+                concluding the investigation, unless such complaint is 
+                resolved before such time. The order shall include a 
+                determination whether any violation occurred.
+                          ``(i) If the Commission determines that a 
+                      violation has occurred, the Commission may, in the 
+                      order issued under this subparagraph or in a 
+                      subsequent order, direct the manufacturer or 
+                      service provider to bring the service, or in the 
+                      case of a manufacturer, the next generation of the 
+                      equipment or device, into compliance with 
+                      requirements of those sections within a reasonable 
+                      time established by the Commission in its order.
+                          ``(ii) No violation.--If a determination is 
+                      made that a violation has not occurred, the 
+                      Commission shall provide the basis for such 
+                      determination.
+                    ``(C) Consolidation of complaints.--The Commission 
+                may consolidate for investigation and resolution 
+                complaints alleging substantially the same violation.
+            ``(4) Opportunity to respond.--Before the Commission makes a 
+        determination pursuant to paragraph (3), the party that is the 
+        subject of the complaint shall have a reasonable opportunity to 
+        respond to such complaint, and may include
+
+[[Page 124 STAT. 2759]]
+
+        in such response any factors that are relevant to such 
+        determination. Before issuing a final order under paragraph 
+        (3)(B)(i), the Commission shall provide such party a reasonable 
+        opportunity to comment on any proposed remedial action.
+            ``(5) Recordkeeping.-- <<NOTE: Effective date.>> (A) 
+        Beginning one year after the effective date of regulations 
+        promulgated pursuant to section 716(e), each manufacturer and 
+        provider subject to sections 255, 716, and 718 shall maintain, 
+        in the ordinary course of business and for a reasonable period, 
+        records of the efforts taken by such manufacturer or provider to 
+        implement sections 255, 716, and 718, including the following:
+                          ``(i) Information about the manufacturer's or 
+                      provider's efforts to consult with individuals 
+                      with disabilities.
+                          ``(ii) Descriptions of the accessibility 
+                      features of its products and services.
+                          ``(iii) Information about the compatibility of 
+                      such products and services with peripheral devices 
+                      or specialized customer premise equipment commonly 
+                      used by individuals with disabilities to achieve 
+                      access.
+            ``(B) <<NOTE: Deadline. Certification.>> An officer of a 
+        manufacturer or provider shall submit to the Commission an 
+        annual certification that records are being kept in accordance 
+        with subparagraph (A).
+            ``(C) After the filing of a formal or informal complaint 
+        against a manufacturer or provider in the manner prescribed in 
+        paragraph (3), the Commission may request, and shall keep 
+        confidential, a copy of the records maintained by such 
+        manufacturer or provider pursuant to subparagraph (A) of this 
+        paragraph that are directly relevant to the equipment or service 
+        that is the subject of such complaint.
+            ``(6) Failure to act.--If the Commission fails to carry out 
+        any of its responsibilities to act upon a complaint in the 
+        manner prescribed in paragraph (3), the person that filed such 
+        complaint may bring an action in the nature of mandamus in the 
+        United States Court of Appeals for the District of Columbia to 
+        compel the Commission to carry out any such responsibility.
+            ``(7) Commission jurisdiction.-- 
+        <<NOTE: Applicability.>> The limitations of section 255(f) shall 
+        apply to any claim that alleges a violation of section 255, 716, 
+        or 718. Nothing in this paragraph affects or limits any action 
+        for mandamus under paragraph (6) or any appeal pursuant to 
+        section 402(b)(10).
+            ``(8) Private resolutions of complaints.--Nothing in the 
+        Commission's rules or this Act shall be construed to preclude a 
+        person who files a complaint and a manufacturer or provider from 
+        resolving a formal or informal complaint prior to the 
+        Commission's final determination in a complaint proceeding. In 
+        the event of such a resolution, the parties shall jointly 
+        request dismissal of the complaint and the Commission shall 
+        grant such request.
+
+    ``(b) Reports to Congress.--
+            ``(1) In general.--Every two years after the date of 
+        enactment of the Twenty-First Century Communications and Video 
+        Accessibility Act of 2010, the Commission shall submit to the 
+        Committee on Commerce, Science, and Transportation of the Senate 
+        and the Committee on Energy and Commerce of the House of 
+        Representatives a report that includes the following:
+
+[[Page 124 STAT. 2760]]
+
+                    ``(A) An assessment of the level of compliance with 
+                sections 255, 716, and 718.
+                    ``(B) An evaluation of the extent to which any 
+                accessibility barriers still exist with respect to new 
+                communications technologies.
+                    ``(C) The number and nature of complaints received 
+                pursuant to subsection (a) during the two years that are 
+                the subject of the report.
+                    ``(D) A description of the actions taken to resolve 
+                such complaints under this section, including forfeiture 
+                penalties assessed.
+                    ``(E) The length of time that was taken by the 
+                Commission to resolve each such complaint.
+                    ``(F) The number, status, nature, and outcome of any 
+                actions for mandamus filed pursuant to subsection (a)(6) 
+                and the number, status, nature, and outcome of any 
+                appeals filed pursuant to section 402(b)(10).
+                    ``(G) An assessment of the effect of the 
+                requirements of this section on the development and 
+                deployment of new communications technologies.
+            ``(2) Public comment required.--The Commission shall seek 
+        public comment on its tentative findings prior to submission to 
+        the Committees of the report under this subsection.
+
+    ``(c) Comptroller General Enforcement Study.--
+            ``(1) In general.--The Comptroller General shall conduct a 
+        study to consider and evaluate the following:
+                    ``(A) The Commission's compliance with the 
+                requirements of this section, including the Commission's 
+                level of compliance with the deadlines established under 
+                and pursuant to this section and deadlines for acting on 
+                complaints pursuant to subsection (a).
+                    ``(B) Whether the enforcement actions taken by the 
+                Commission pursuant to this section have been 
+                appropriate and effective in ensuring compliance with 
+                this section.
+                    ``(C) Whether the enforcement provisions under this 
+                section are adequate to ensure compliance with this 
+                section.
+                    ``(D) Whether, and to what extent (if any), the 
+                requirements of this section have an effect on the 
+                development and deployment of new communications 
+                technologies.
+            ``(2) Report.--Not later than 5 years after the date of 
+        enactment of the Twenty-First Century Communications and Video 
+        Accessibility Act of 2010, the Comptroller General shall submit 
+        to the Committee on Commerce, Science, and Transportation of the 
+        Senate and the Committee on Energy and Commerce of the House of 
+        Representatives a report on the results of the study required by 
+        paragraph (1), with recommendations for how the enforcement 
+        process and measures under this section may be modified or 
+        improved.
+
+    ``(d) Clearinghouse.-- <<NOTE: Deadline.>> Within one year after the 
+date of enactment of the Twenty-First Century Communications and Video 
+Accessibility Act of 2010, the Commission shall, in consultation with 
+the Architectural and Transportation Barriers Compliance Board, the 
+National Telecommunications and Information Administration, trade 
+associations, and organizations representing individuals with 
+disabilities, establish a clearinghouse of information on the 
+availability of accessible products and services and accessibility
+
+[[Page 124 STAT. 2761]]
+
+solutions required under sections 255, 716, and 718. Such information 
+shall be made publicly available on the Commission's website and by 
+other means, and shall include an annually updated list of products and 
+services with access features.
+
+    ``(e) Outreach and Education.--Upon establishment of the 
+clearinghouse of information required under subsection (d), the 
+Commission, in coordination with the National Telecommunications and 
+Information Administration, shall conduct an informational and 
+educational program designed to inform the public about the availability 
+of the clearinghouse and the protections and remedies available under 
+sections 255, 716, and 718.
+
+``SEC. 718. <<NOTE: 47 USC 619.>> INTERNET BROWSERS BUILT INTO 
+            TELEPHONES USED WITH PUBLIC MOBILE SERVICES.
+
+    ``(a) Accessibility.--If a manufacturer of a telephone used with 
+public mobile services (as such term is defined in section 710(b)(4)(B)) 
+includes an Internet browser in such telephone, or if a provider of 
+mobile service arranges for the inclusion of a browser in telephones to 
+sell to customers, the manufacturer or provider shall ensure that the 
+functions of the included browser (including the ability to launch the 
+browser) are accessible to and usable by individuals who are blind or 
+have a visual impairment, unless doing so is not achievable, except that 
+this subsection shall not impose any requirement on such manufacturer or 
+provider--
+            ``(1) to make accessible or usable any Internet browser 
+        other than a browser that such manufacturer or provider includes 
+        or arranges to include in the telephone; or
+            ``(2) to make Internet content, applications, or services 
+        accessible or usable (other than enabling individuals with 
+        disabilities to use an included browser to access such content, 
+        applications, or services).
+
+    ``(b) Industry Flexibility.--A manufacturer or provider may satisfy 
+the requirements of subsection (a) with respect to such telephone or 
+services by--
+            ``(1) ensuring that the telephone or services that such 
+        manufacture or provider offers is accessible to and usable by 
+        individuals with disabilities without the use of third party 
+        applications, peripheral devices, software, hardware, or 
+        customer premises equipment; or
+            ``(2) using third party applications, peripheral devices, 
+        software, hardware, or customer premises equipment that is 
+        available to the consumer at nominal cost and that individuals 
+        with disabilities can access.''.
+
+    (b) <<NOTE: 47 USC 619 note.>>  Effective Date for Section 718.--
+Section 718 of the Communications Act of 1934, as added by subsection 
+(a), shall take effect 3 years after the date of enactment of this Act.
+
+    (c) Title V Amendments.--Section 503(b)(2) of such Act (47 U.S.C. 
+503(b)(2)) is amended by adding after subparagraph (E) the following:
+            ``(F) Subject to paragraph (5) of this section, if the 
+        violator is a manufacturer or service provider subject to the 
+        requirements of section 255, 716, or 718, and is determined by 
+        the Commission to have violated any such requirement, the 
+        manufacturer or provider shall be liable to the United States 
+        for a forfeiture penalty of not more than $100,000 for each 
+        violation or each day of a continuing violation, except that the 
+        amount
+
+[[Page 124 STAT. 2762]]
+
+        assessed for any continuing violation shall not exceed a total 
+        of $1,000,000 for any single act or failure to act.''.
+
+    (d) Review of Commission Determinations.--Section 402(b) of such Act 
+(47 U.S.C. 402(b)) is amended by adding the following new paragraph:
+            ``(10) By any person who is aggrieved or whose interests are 
+        adversely affected by a determination made by the Commission 
+        under section 717(a)(3).''.
+
+SEC. 105. RELAY SERVICES FOR DEAF-BLIND INDIVIDUALS.
+
+    Title VII of the Communications Act of 1934, as amended by section 
+104, is further amended by adding at the end the following:
+
+``SEC. 719. <<NOTE: 47 USC 620.>> RELAY SERVICES FOR DEAF-BLIND 
+            INDIVIDUALS.
+
+    ``(a) In general.-- <<NOTE: Deadline. Regulations.>> Within 6 months 
+after the date of enactment of the Equal Access to 21st Century 
+Communications Act, the Commission shall establish rules that define as 
+eligible for relay service support those programs that are approved by 
+the Commission for the distribution of specialized customer premises 
+equipment designed to make telecommunications service, Internet access 
+service, and advanced communications, including interexchange services 
+and advanced telecommunications and information services, accessible by 
+individuals who are deaf-blind.
+
+    ``(b) Individuals Who Are Deaf-blind Defined.--For purposes of this 
+subsection, the term `individuals who are deaf-blind' has the same 
+meaning given such term in the Helen Keller National Center Act, as 
+amended by the Rehabilitation Act Amendments of 1992 (29 U.S.C. 
+1905(2)).
+    ``(c) Annual amount.--The total amount of support the Commission may 
+provide from its interstate relay fund for any fiscal year may not 
+exceed $10,000,000.''.
+
+SEC. 106. <<NOTE: 47 USC 615c.>> EMERGENCY ACCESS ADVISORY COMMITTEE.
+
+    (a) Establishment.-- <<NOTE: Deadline.>> For the purpose of 
+achieving equal access to emergency services by individuals with 
+disabilities, as a part of the migration to a national Internet 
+protocol-enabled emergency network, not later than 60 days after the 
+date of enactment of this Act, the Chairman of the Commission shall 
+establish an advisory committee, to be known as the Emergency Access 
+Advisory Committee (referred to in this section as the ``Advisory 
+Committee'').
+
+    (b) Membership.--As soon as practicable after the date of enactment 
+of this Act, the Chairman of the Commission shall appoint the members of 
+the Advisory Committee, ensuring a balance between individuals with 
+disabilities and other stakeholders, and shall designate two such 
+members as the co-chairs of the Committee. Members of the Advisory 
+Committee shall be selected from the following groups:
+            (1) State and local government and emergency responder 
+        representatives.--Representatives of State and local governments 
+        and representatives of emergency response providers, selected 
+        from among individuals nominated by national organizations 
+        representing such governments and representatives.
+            (2) Subject matter experts.--Individuals who have the 
+        technical knowledge and expertise to serve on the Advisory 
+        Committee in the fulfillment of its duties, including 
+        representatives of--
+
+[[Page 124 STAT. 2763]]
+
+                    (A) providers of interconnected and non-
+                interconnected VoIP services;
+                    (B) vendors, developers, and manufacturers of 
+                systems, facilities, equipment, and capabilities for the 
+                provision of interconnected and non-interconnected VoIP 
+                services;
+                    (C) national organizations representing individuals 
+                with disabilities and senior citizens;
+                    (D) Federal agencies or departments responsible for 
+                the implementation of the Next Generation E 9-1-1 
+                system;
+                    (E) the National Institute of Standards and 
+                Technology; and
+                    (F) other individuals with such technical knowledge 
+                and expertise.
+            (3) Representatives of other stakeholders and interested 
+        parties.--Representatives of such other stakeholders and 
+        interested and affected parties as the Chairman of the 
+        Commission determines appropriate.
+
+    (c) Development of Recommendations.-- <<NOTE: Deadline.>> Within 1 
+year after the completion of the member appointment process by the 
+Chairman of the Commission pursuant to subsection (b), the Advisory 
+Committee shall conduct a national survey of individuals with 
+disabilities, seeking input from the groups described in subsection 
+(b)(2), to determine the most effective and efficient technologies and 
+methods by which to enable access to emergency services by individuals 
+with disabilities and shall develop and submit to the Commission 
+recommendations to implement such technologies and methods, including 
+recommendations--
+            (1) with respect to what actions are necessary as a part of 
+        the migration to a national Internet protocol-enabled network to 
+        achieve reliable, interoperable communication transmitted over 
+        such network that will ensure access to emergency services by 
+        individuals with disabilities;
+            (2) for protocols, technical capabilities, and technical 
+        requirements to ensure the reliability and interoperability 
+        necessary to ensure access to emergency services by individuals 
+        with disabilities;
+            (3) for the establishment of technical standards for use by 
+        public safety answering points, designated default answering 
+        points, and local emergency authorities;
+            (4) for relevant technical standards and requirements for 
+        communication devices and equipment and technologies to enable 
+        the use of reliable emergency access;
+            (5) for procedures to be followed by IP-enabled network 
+        providers to ensure that such providers do not install features, 
+        functions, or capabilities that would conflict with technical 
+        standards;
+            (6) for deadlines by which providers of interconnected and 
+        non-interconnected VoIP services and manufacturers of equipment 
+        used for such services shall achieve the actions required in 
+        paragraphs (1) through (5), where achievable, and for the 
+        possible phase out of the use of current-generation TTY 
+        technology to the extent that this technology is replaced with 
+        more effective and efficient technologies and methods to enable 
+        access to emergency services by individuals with disabilities;
+            (7) for the establishment of rules to update the 
+        Commission's rules with respect to 9-1-1 services and E-911 
+        services
+
+[[Page 124 STAT. 2764]]
+
+        (as defined in section 158(e)(4) of the National 
+        Telecommunications and Information Administration Organization 
+        Act (47 U.S.C. 942(e)(4))), for users of telecommunications 
+        relay services as new technologies and methods for providing 
+        such relay services are adopted by providers of such relay 
+        services; and
+            (8) that take into account what is technically and 
+        economically feasible.
+
+    (d) Meetings.--
+            (1) Initial meeting.--The initial meeting of the Advisory 
+        Committee shall take place not later than 45 days after the 
+        completion of the member appointment process by the Chairman of 
+        the Commission pursuant to subsection (b).
+            (2) Other meetings.--After the initial meeting, the Advisory 
+        Committee shall meet at the call of the chairs, but no less than 
+        monthly until the recommendations required pursuant to 
+        subsection (c) are completed and submitted.
+            (3) Notice; open meetings.-- <<NOTE: Deadline.>> Any 
+        meetings held by the Advisory Committee shall be duly noticed at 
+        least 14 days in advance and shall be open to the public.
+
+    (e) Rules.--
+            (1) Quorum.--One-third of the members of the Advisory 
+        Committee shall constitute a quorum for conducting business of 
+        the Advisory Committee.
+            (2) Subcommittees.--To assist the Advisory Committee in 
+        carrying out its functions, the chair may establish appropriate 
+        subcommittees composed of members of the Advisory Committee and 
+        other subject matter experts as determined to be necessary.
+            (3) Additional rules.--The Advisory Committee may adopt 
+        other rules as needed.
+
+    (f) Federal Advisory Committee Act.--The Federal Advisory Committee 
+Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+    (g) Implementing Recommendations.--The Commission shall have the 
+authority to promulgate regulations to implement the recommendations 
+proposed by the Advisory Committee, as well as any other regulations, 
+technical standards, protocols, and procedures as are necessary to 
+achieve reliable, interoperable communication that ensures access by 
+individuals with disabilities to an Internet protocol-enabled emergency 
+network, where achievable and technically feasible.
+    (h) Definitions.--In this section--
+            (1) the term ``Commission'' means the Federal Communications 
+        Commission;
+            (2) the term ``Chairman'' means the Chairman of the Federal 
+        Communications Commission; and
+            (3) except as otherwise expressly provided, other terms have 
+        the meanings given such terms in section 3 of the Communications 
+        Act of 1934 (47 U.S.C. 153).
+
+                       TITLE II--VIDEO PROGRAMMING
+
+SEC. 201. <<NOTE: 47 USC 613 note.>> VIDEO PROGRAMMING AND EMERGENCY 
+            ACCESS ADVISORY COMMITTEE.
+
+    (a) Establishment.-- <<NOTE: Deadline.>> Not later than 60 days 
+after the date of enactment of this Act, the Chairman shall establish an 
+advisory
+
+[[Page 124 STAT. 2765]]
+
+committee to be known as the Video Programming and Emergency Access 
+Advisory Committee.
+
+    (b) Membership.--As soon as practicable after the date of enactment 
+of this Act, the Chairman shall appoint individuals who have the 
+technical knowledge and engineering expertise to serve on the Advisory 
+Committee in the fulfillment of its duties, including the following:
+            (1) Representatives of distributors and providers of video 
+        programming or a national organization representing such 
+        distributors.
+            (2) Representatives of vendors, developers, and 
+        manufacturers of systems, facilities, equipment, and 
+        capabilities for the provision of video programming delivered 
+        using Internet protocol or a national organization representing 
+        such vendors, developers, or manufacturers.
+            (3) Representatives of manufacturers of consumer electronics 
+        or information technology equipment or a national organization 
+        representing such manufacturers.
+            (4) Representatives of video programming producers or a 
+        national organization representing such producers.
+            (5) Representatives of national organizations representing 
+        accessibility advocates, including individuals with disabilities 
+        and the elderly.
+            (6) Representatives of the broadcast television industry or 
+        a national organization representing such industry.
+            (7) Other individuals with technical and engineering 
+        expertise, as the Chairman determines appropriate.
+
+    (c) Commission Oversight.--The Chairman shall appoint a member of 
+the Commission's staff to moderate and direct the work of the Advisory 
+Committee.
+    (d) Technical Staff.--The Commission shall appoint a member of the 
+Commission's technical staff to provide technical assistance to the 
+Advisory Committee.
+    (e) Development of Recommendations.--
+            (1) Closed captioning report.--Within 6 months after the 
+        date of the first meeting of the Advisory Committee, the 
+        Advisory Committee shall develop and submit to the Commission a 
+        report that includes the following:
+                    (A) A recommended schedule of deadlines for the 
+                provision of closed captioning service.
+                    (B) An identification of the performance requirement 
+                for protocols, technical capabilities, and technical 
+                procedures needed to permit content providers, content 
+                distributors, Internet service providers, software 
+                developers, and device manufacturers to reliably encode, 
+                transport, receive, and render closed captions of video 
+                programming, except for consumer generated media, 
+                delivered using Internet protocol.
+                    (C) An identification of additional protocols, 
+                technical capabilities, and technical procedures beyond 
+                those available as of the date of enactment of the 
+                Twenty-First Century Communications and Video 
+                Accessibility Act of 2010 for the delivery of closed 
+                captions of video programming, except for consumer 
+                generated media, delivered using Internet protocol that 
+                are necessary to meet the performance objectives 
+                identified under subparagraph (B).
+
+[[Page 124 STAT. 2766]]
+
+                    (D) A recommendation for technical standards to 
+                address the performance objectives identified in 
+                subparagraph (B).
+                    (E) A recommendation for any regulations that may be 
+                necessary to ensure compatibility between video 
+                programming, except for consumer generated media, 
+                delivered using Internet protocol and devices capable of 
+                receiving and displaying such programming in order to 
+                facilitate access to closed captions.
+            (2) Video description, emergency information, user 
+        interfaces, and video programming guides and menus.--
+        Within <<NOTE: Deadline. Reports.>> 18 months after the date of 
+        enactment of this Act, the Advisory Committee shall develop and 
+        submit to the Commission a report that includes the following:
+                    (A) A recommended schedule of deadlines for the 
+                provision of video description and emergency 
+                information.
+                    (B) An identification of the performance requirement 
+                for protocols, technical capabilities, and technical 
+                procedures needed to permit content providers, content 
+                distributors, Internet service providers, software 
+                developers, and device manufacturers to reliably encode, 
+                transport, receive, and render video descriptions of 
+                video programming, except for consumer generated media, 
+                and emergency information delivered using Internet 
+                protocol or digital broadcast television.
+                    (C) An identification of additional protocols, 
+                technical capabilities, and technical procedures beyond 
+                those available as of the date of enactment of the 
+                Twenty-First Century Communications and Video 
+                Accessibility Act of 2010 for the delivery of video 
+                descriptions of video programming, except for consumer 
+                generated media, and emergency information delivered 
+                using Internet protocol that are necessary to meet the 
+                performance objectives identified under subparagraph 
+                (B).
+                    (D) A recommendation for technical standards to 
+                address the performance objectives identified in 
+                subparagraph (B).
+                    (E) A recommendation for any regulations that may be 
+                necessary to ensure compatibility between video 
+                programming, except for consumer generated media, 
+                delivered using Internet protocol and devices capable of 
+                receiving and displaying such programming, except for 
+                consumer generated media, in order to facilitate access 
+                to video descriptions and emergency information.
+                    (F) With respect to user interfaces, a 
+                recommendation for the standards, protocols, and 
+                procedures used to enable the functions of apparatus 
+                designed to receive or display video programming 
+                transmitted simultaneously with sound (including 
+                apparatus designed to receive or display video 
+                programming transmitted by means of services using 
+                Internet protocol) to be accessible to and usable by 
+                individuals with disabilities.
+                    (G) With respect to user interfaces, a 
+                recommendation for the standards, protocols, and 
+                procedures used to enable on-screen text menus and other 
+                visual indicators used to access the functions on an 
+                apparatus described in subparagraph (F) to be 
+                accompanied by audio output so that such
+
+[[Page 124 STAT. 2767]]
+
+                menus or indicators are accessible to and usable by 
+                individuals with disabilities.
+                    (H) With respect to video programming guides and 
+                menus, a recommendation for the standards, protocols, 
+                and procedures used to enable video programming 
+                information and selection provided by means of a 
+                navigation device, guide, or menu to be accessible in 
+                real-time by individuals who are blind or visually 
+                impaired.
+            (3) Consideration of work by standard-setting 
+        organizations.--The recommendations of the advisory committee 
+        shall, insofar as possible, incorporate the standards, 
+        protocols, and procedures that have been adopted by recognized 
+        industry standard-setting organizations for each of the purposes 
+        described in paragraphs (1) and (2).
+
+    (f) Meetings.--
+            (1) Initial meeting.-- <<NOTE: Deadline.>> The initial 
+        meeting of the Advisory Committee shall take place not later 
+        than 180 days after the date of the enactment of this Act.
+            (2) Other meetings.--After the initial meeting, the Advisory 
+        Committee shall meet at the call of the Chairman.
+            (3) Notice; open meetings.-- <<NOTE: Deadline.>> Any meeting 
+        held by the Advisory Committee shall be noticed at least 14 days 
+        before such meeting and shall be open to the public.
+
+    (g) Procedural Rules.--
+            (1) Quorum.--The presence of one-third of the members of the 
+        Advisory Committee shall constitute a quorum for conducting the 
+        business of the Advisory Committee.
+            (2) Subcommittees.--To assist the Advisory Committee in 
+        carrying out its functions, the Chairman may establish 
+        appropriate subcommittees composed of members of the Advisory 
+        Committee and other subject matter experts.
+            (3) Additional procedural rules.--The Advisory Committee may 
+        adopt other procedural rules as needed.
+
+    (h) Federal Advisory Committee Act.--The Federal Advisory Committee 
+Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+
+SEC. 202. VIDEO DESCRIPTION AND CLOSED CAPTIONING.
+
+    (a) Video Description.--Section 713 of the Communications Act of 
+1934 (47 U.S.C. 613) is amended--
+            (1) by striking subsections (f) and (g);
+            (2) by redesignating subsection (h) as subsection (j); and
+            (3) by inserting after subsection (e) the following:
+
+    ``(f) Video Description.--
+            ``(1) Reinstatement of regulations.-- <<NOTE: Deadline.>> On 
+        the day that is 1 year after the date of enactment of the 
+        Twenty-First Century Communications and Video Accessibility Act 
+        of 2010, the Commission shall, after a rulemaking, reinstate its 
+        video description regulations contained in the Implementation of 
+        Video Description of Video Programming Report and Order (15 
+        F.C.C.R. 15,230 (2000)), recon. granted in part and denied in 
+        part, (16 F.C.C.R. 1251 (2001)), modified as provided in 
+        paragraph (2).
+            ``(2) Modifications to reinstated regulations.--Such 
+        regulations shall be modified only as follows:
+
+[[Page 124 STAT. 2768]]
+
+                    ``(A) <<NOTE: Applicability.>> The regulations shall 
+                apply to video programming, as defined in subsection 
+                (h), insofar as and programming is transmitted for 
+                display on television in digital format.
+                    ``(B) <<NOTE: Lists. Deadlines.>> The Commission 
+                shall update the list of the top 25 designated market 
+                areas, the list of the top 5 national nonbroadcast 
+                networks that at least 50 hours per quarter of prime 
+                time programming that is not exempt under this 
+                paragraph, and the beginning calendar quarter for which 
+                compliance shall be calculated.
+                    ``(C) The regulations may permit a provider of video 
+                programming or a program owner to petition the 
+                Commission for an exemption from the requirements of 
+                this section upon a showing that the requirements 
+                contained in this section be economically burdensome.
+                    ``(D) The Commission may exempt from the regulations 
+                established pursuant to paragraph (1) a service, class 
+                of services, program, class of programs, equipment, or 
+                class of equipment for which the Commission has 
+                determined that the application of such regulations 
+                would be economically burdensome for the provider of 
+                such service, program, or equipment.
+                    ``(E) The regulations shall not apply to live or 
+                near-live programming.
+                    ``(F) The regulations shall provide for an 
+                appropriate phased schedule of deadlines for compliance.
+                    ``(G) The Commission shall consider extending the 
+                exemptions and limitations in the reinstated regulations 
+                for technical capability reasons to all providers and 
+                owners of video programming.
+            ``(3) Inquiries on further video description requirements.--
+        The Commission shall commence <<NOTE: Deadlines. Reports.>> the 
+        following inquiries not later than 1 year after the completion 
+        of the phase-in of the reinstated regulations and shall report 
+        to Congress 1 year thereafter on the findings for each of the 
+        following:
+                    ``(A) Video description in television programming.--
+                The availability, use, and benefits of video description 
+                on video programming distributed on television, the 
+                technical and creative issues associated with providing 
+                such video description, and the financial costs of 
+                providing such video description for providers of video 
+                programming and program owners.
+                    ``(B) Video description in video programming 
+                distributed on the internet.--The technical and 
+                operational issues, costs, and benefits of providing 
+                video descriptions for video programming that is 
+                delivered using Internet protocol.
+            ``(4) Continuing commission authority.--
+                    ``(A) In general.-- <<NOTE: Determination.>> The 
+                Commission may not issue additional regulations unless 
+                the Commission determines, at least 2 years after 
+                completing the reports required in paragraph (3), that 
+                the need for and benefits of providing video description 
+                for video programming, insofar as such programming is 
+                transmitted for display on television, are greater than 
+                the technical and economic costs of providing such 
+                additional programming.
+                    ``(B) Limitation.--If the Commission makes the 
+                determination under subparagraph (A) and issues 
+                additional
+
+[[Page 124 STAT. 2769]]
+
+                regulations, the Commission may not increase, in total, 
+                the hour requirement for additional described 
+                programming by more than 75 percent of the requirement 
+                in the regulations reinstated under paragraph (1).
+                    ``(C) Application to designated market areas.--
+                          ``(i) In general.-- <<NOTE: Waiver 
+                      authority.>> After the Commission completes the 
+                      reports on video description required in paragraph 
+                      (3), the Commission shall phase in the video 
+                      description regulations for the top 60 designated 
+                      market areas, except that the Commission may grant 
+                      waivers to entities in specific designated market 
+                      areas where it deems appropriate.
+                          ``(ii) Phase-in deadline.--The phase-in 
+                      described in clause (i) shall be completed not 
+                      later than 6 years after the date of enactment of 
+                      the Twenty-First Century Communications and Video 
+                      Accessibility Act of 2010.
+                          ``(iii) Report.--Nine years after the date of 
+                      enactment of the Twenty-First Century 
+                      Communications and Video Accessibility Act of 
+                      2010, the Commission shall submit to the Committee 
+                      on Energy of the House of Representatives and the 
+                      Committee on Commerce, Science, and Transportation 
+                      of the Senate a report assessing--
+                                    ``(I) the types of described video 
+                                programming that is available to 
+                                consumers;
+                                    ``(II) consumer use of such 
+                                programming;
+                                    ``(III) the costs to program owners, 
+                                providers, and distributors of creating 
+                                such programming;
+                                    ``(IV) the potential costs to 
+                                program owners, providers, and 
+                                distributors in designated market areas 
+                                outside of the top 60 of creating such 
+                                programming;
+                                    ``(V) the benefits to consumers of 
+                                such programming;
+                                    ``(VI) the amount of such 
+                                programming currently available; and
+                                    ``(VII) the need for additional 
+                                described programming in designated 
+                                market areas outside the top 60.
+                          ``(iv) Additional market areas.--Ten years 
+                      after the date of enactment of the Twenty-First 
+                      Century Communications and Video Accessibility Act 
+                      of 2010, the Commission shall have the authority, 
+                      based upon the findings, conclusions, and 
+                      recommendations contained in the report under 
+                      clause (iii), to phase in the video description 
+                      regulations for up to an additional 10 designated 
+                      market areas each year--
+                                    ``(I) if the costs of implementing 
+                                the video description regulations to 
+                                program owners, providers, and 
+                                distributors in those additional markets 
+                                are reasonable, as determined by the 
+                                Commission; and
+                                    ``(II) <<NOTE: Waiver 
+                                authority.>> except that the Commission 
+                                may grant waivers to entities in 
+                                specific designated market areas where 
+                                it deems appropriate.
+
+[[Page 124 STAT. 2770]]
+
+    ``(g) Emergency Information.-- <<NOTE: Deadline.>> Not later than 1 
+year after the Advisory Committee report under subsection (e)(2) is 
+submitted to the Commission, the Commission shall complete a proceeding 
+to--
+            ``(1) identify methods to convey emergency information (as 
+        that term is defined in section 79.2 of title 47, Code of 
+        Federal Regulations) in a manner accessible to individuals who 
+        are blind or visually impaired; and
+            ``(2) <<NOTE: Regulations.>> promulgate regulations that 
+        require video programming providers and video programming 
+        distributors (as those terms are defined in section 79.1 of 
+        title 47, Code of Federal Regulations) and program owners to 
+        convey such emergency information in a manner accessible to 
+        individuals who are blind or visually impaired.
+
+    ``(h) Definitions.--For purposes of this section, section 303, and 
+section 330:
+            ``(1) Video description.--The term `video description' means 
+        the insertion of audio narrated descriptions of a television 
+        program's key visual elements into natural pauses between the 
+        program's dialogue.
+            ``(2) Video programming.--The term `video programming' means 
+        programming by, or generally considered comparable to 
+        programming provided by a television broadcast station, but not 
+        including consumer-generated media (as defined in section 3).
+
+    (b) Closed Captioning on Video Programming Delivered Using Internet 
+Protocol.--Section 713 of such Act <<NOTE: 47 USC 613.>> is further 
+amended by striking subsection (c) and inserting the following:
+
+    ``(c) Deadlines for Captioning.--
+            ``(1) In general.--The regulations prescribed pursuant to 
+        subsection (b) shall include an appropriate schedule of 
+        deadlines for the provision of closed captioning of video 
+        programming once published or exhibited on television.
+            ``(2) Deadlines for programming delivered using internet 
+        protocol.--
+                    ``(A) Regulations on closed captioning on video 
+                programming delivered using internet protocol.--Not 
+                later than 6 months after the submission of the report 
+                to the Commission required by subsection (e)(1) of the 
+                Twenty-First Century Communications and Video 
+                Accessibility Act of 2010, the Commission shall revise 
+                its regulations to require the provision of closed 
+                captioning on video programming delivered using Internet 
+                protocol that was published or exhibited on television 
+                with captions after the effective date of such 
+                regulations.
+                    ``(B) Schedule.--The regulations prescribed under 
+                this paragraph shall include an appropriate schedule of 
+                deadlines for the provision of closed captioning, taking 
+                into account whether such programming is prerecorded and 
+                edited for Internet distribution, or whether such 
+                programming is live or near-live and not edited for 
+                Internet distribution.
+                    ``(C) Cost.-- <<NOTE: Waiver authority.>> The 
+                Commission may delay or waive the regulation promulgated 
+                under subparagraph (A) to the extent the Commission 
+                finds that the application of the regulation to live 
+                video programming delivered using Internet protocol with 
+                captions after the effective date of such
+
+[[Page 124 STAT. 2771]]
+
+                regulations would be economically burdensome to 
+                providers of video programming or program owners.
+                    ``(D) Requirements for regulations.--The regulations 
+                prescribed under this paragraph--
+                          ``(i) shall contain a definition of `near-live 
+                      programming' and `edited for Internet 
+                      distribution';
+                          ``(ii) may exempt any service, class of 
+                      service, program, class of program, equipment, or 
+                      class of equipment for which the Commission has 
+                      determined that the application of such 
+                      regulations would be economically burdensome for 
+                      the provider of such service, program, or 
+                      equipment;
+                          ``(iii) shall clarify that, for the purposes 
+                      of implementation, of this subsection, the terms 
+                      `video programming distribution' and `video 
+                      programming providers' include an entity that 
+                      makes available directly to the end user video 
+                      programming through a distribution method that 
+                      uses Internet protocol;
+                          ``(iv) and describe the responsibilities of 
+                      video programming providers or distributors and 
+                      video programming owners;
+                          ``(v) shall establish a mechanism to make 
+                      available to video progamming providers and 
+                      distributors information on video programming 
+                      subject to the Act on an ongoing basis;
+                          ``(vi) shall consider that the video 
+                      programming provider or distributor shall be 
+                      deemed in compliance if such entity enables the 
+                      rendering or pass through of closed captions and 
+                      video description signals and make a good faith 
+                      effort to identify video programming subject to 
+                      the Act using the mechanism created in (v); and
+                          ``(vii) shall provide that de minimis failure 
+                      to comply with such regulations by a video 
+                      programming provider or owner shall not be treated 
+                      as a violation of the regulations.
+            ``(3) Alternate means of compliance.--An entity may meet the 
+        requirements of this section through alternate means than those 
+        prescribed by regulations pursuant to subsection (b), as revised 
+        pursuant to paragraph (2)(A) of this subsection, if the 
+        requirements of this section are met, as determined by the 
+        Commission.''.
+
+    (c) Conforming Amendment.--Section 713(d) of such Act <<NOTE: 47 USC 
+613.>>  is amended by striking paragraph (3) and inserting the 
+following:
+            ``(3) a provider of video programming or program owner may 
+        petition the Commission for an exemption from the requirements 
+        of this section, and the Commission may grant such petition upon 
+        a showing that the requirements contained in this section would 
+        be economically burdensome. During the pendency of such a 
+        petition, such provider or owner shall be exempt from the 
+        requirements of this section. <<NOTE: Deadline.>>  The 
+        Commission shall act to grant or deny any such petition, in 
+        whole or in part, within 6 months after the Commission receives 
+        such petition, unless the Commission finds that an extension of 
+        the 6-month period is necessary to determine whether such 
+        requirements are economically burdensome.''.
+
+[[Page 124 STAT. 2772]]
+
+SEC. 203. CLOSED CAPTIONING DECODER AND VIDEO DESCRIPTION CAPABILITY.
+
+    (a) Authority to Regulate.--Section 303(u) of the Communications Act 
+of 1934 (47 U.S.C. 303(u)) is amended to read as follows:
+            ``(u) Require that, if technically feasible--
+                    ``(1) apparatus designed to receive or play back 
+                video programming transmitted simultaneously with sound, 
+                if such apparatus is manufactured in the United States 
+                or imported for use in the United States and uses a 
+                picture screen of any size--
+                          ``(A) be equipped with built-in closed caption 
+                      decoder circuitry or capability designed to 
+                      display closed-captioned video programming;
+                          ``(B) have the capability to decode and make 
+                      available the transmission and delivery of video 
+                      description services as required by regulations 
+                      reinstated and modified pursuant to section 
+                      713(f); and
+                          ``(C) have the capability to decode and make 
+                      available emergency information (as that term is 
+                      defined in section 79.2 of the Commission's 
+                      regulations (47 CFR 79.2)) in a manner that is 
+                      accessible to individuals who are blind or 
+                      visually impaired; and
+                    ``(2) notwithstanding paragraph (1) of this 
+                subsection--
+                          ``(A) apparatus described in such paragraph 
+                      that use a picture screen that is less than 13 
+                      inches in size meet the requirements of 
+                      subparagraph (A), (B), or (C) of such paragraph 
+                      only if the requirements of such subparagraphs are 
+                      achievable (as defined in section 716);
+                          ``(B) any apparatus or class of apparatus that 
+                      are display-only video monitors with no playback 
+                      capability are exempt from the requirements of 
+                      such paragraph; and
+                          ``(C) <<NOTE: Waiver authority.>> the 
+                      Commission shall have the authority, on its own 
+                      motion or in response to a petition by a 
+                      manufacturer, to waive the requirements of this 
+                      subsection for any apparatus or class of 
+                      apparatus--
+                                    ``(i) primarily designed for 
+                                activities other than receiving or 
+                                playing back video programming 
+                                transmitted simultaneously with sound; 
+                                or
+                                    ``(ii) for equipment designed for 
+                                multiple purposes, capable of receiving 
+                                or playing video programming transmitted 
+                                simultaneously with sound but whose 
+                                essential utility is derived from other 
+                                purposes.''.
+
+    (b) Other Devices.--Section 303 of the Communications Act of 1934 
+(47 U.S.C. 303) is further amended by adding at the end the following 
+new subsection:
+            ``(z) Require that--
+                    ``(1) if achievable (as defined in section 716), 
+                apparatus designed to record video programming 
+                transmitted simultaneously with sound, if such apparatus 
+                is manufactured in the United States or imported for use 
+                in the United States, enable the rendering or the pass 
+                through of closed captions, video description signals, 
+                and emergency information (as that term is defined in 
+                section 79.2 of title 47,
+
+[[Page 124 STAT. 2773]]
+
+                Code of Federal Regulations) such that viewers are able 
+                to activate and de-activate the closed captions and 
+                video description as the video programming is played 
+                back on a picture screen of any size; and
+                    ``(2) interconnection mechanisms and standards for 
+                digital video source devices are available to carry from 
+                the source device to the consumer equipment the 
+                information necessary to permit or render the display of 
+                closed captions and to make encoded video description 
+                and emergency information audible.''.
+
+    (c) Shipment in Commerce.--Section 330(b) of the Communications Act 
+of 1934 (47 U.S.C. 330(b)) is amended--
+            (1) by striking ``303(u)'' in the first sentence and 
+        inserting ``303(u) and (z)'';
+            (2) by striking the second sentence and inserting the 
+        following: ``Such rules shall provide performance and display 
+        standards for such built-in decoder circuitry or capability 
+        designed to display closed captioned video programming, the 
+        transmission and delivery of video description services, and the 
+        conveyance of emergency information as required by section 303 
+        of this Act.''; and
+            (3) in the fourth sentence, by striking ``closed-captioning 
+        service continues'' and inserting ``closed-captioning service 
+        and video description service continue''.
+
+    (d) Implementing Regulations.-- <<NOTE: 47 USC 303 note.>> The 
+Federal Communications Commission shall prescribe such regulations as 
+are necessary to implement the requirements of sections 303(u), 303(z), 
+and 330(b) of the Communications Act of 1934, as amended by this 
+section, including any technical standards, protocols, and procedures 
+needed for the transmission of--
+            (1) closed captioning within 6 months after the submission 
+        to the Commission of the Advisory Committee report required by 
+        section 201(e)(1); and
+            (2) video description and emergency information within 18 
+        months after the submission to the Commission of the Advisory 
+        Committee report required by section 201(e)(2).
+
+    (e) <<NOTE: 47 USC 303 note.>>  Alternate Means of Compliance.--An 
+entity may meet the requirements of sections 303(u), 303(z), and 330(b) 
+of the Communications Act of 1934 through alternate means than those 
+prescribed by regulations pursuant to subsection (d) if the requirements 
+of those sections are met, as determined by the Commission.
+
+SEC. 204. USER INTERFACES ON DIGITAL APPARATUS.
+
+    (a) Amendment.--Section 303 of the Communications Act of 1934 (47 
+U.S.C. 303) is further amended by adding after subsection (z), as added 
+by section 203 of this Act, the following new subsection:
+            ``(aa) Require--
+                    ``(1) if achievable (as defined in section 716) that 
+                digital apparatus designed to receive or play back video 
+                programming transmitted in digital format simultaneously 
+                with sound, including apparatus designed to receive or 
+                display video programming transmitted in digital format 
+                using Internet protocol, be designed, developed, and 
+                fabricated so that control of appropriate built-in 
+                apparatus functions are accessible to and usable by 
+                individuals who are blind or visually impaired, except 
+                that the Commission may not
+
+[[Page 124 STAT. 2774]]
+
+                specify the technical standards, protocols, procedures, 
+                and other technical requirements for meeting this 
+                requirement;
+                    ``(2) that if on-screen text menus or other visual 
+                indicators built in to the digital apparatus are used to 
+                access the functions of the apparatus described in 
+                paragraph (1), such functions shall be accompanied by 
+                audio output that is either integrated or peripheral to 
+                the apparatus, so that such menus or indicators are 
+                accessible to and usable by individuals who are blind or 
+                visually impaired in real-time;
+                    ``(3) that for such apparatus equipped with the 
+                functions described in paragraphs (1) and (2) built in 
+                access to those closed captioning and video description 
+                features through a mechanism that is reasonably 
+                comparable to a button, key, or icon designated by 
+                activating the closed captioning or accessibility 
+                features; and
+                    ``(4) that in applying this subsection the term 
+                `apparatus' does not include a navigation device, as 
+                such term is defined in section 76.1200 of the 
+                Commission's rules (47 CFR 76.1200).''.
+
+    (b) Implementing Regulations.-- <<NOTE: Deadline. 47 USC 303 
+note.>> Within 18 months after the submission to the Commission of the 
+Advisory Committee report required by section 201(e)(2), the Commission 
+shall prescribe such regulations as are necessary to implement the 
+amendments made by subsection (a).
+
+    (c) <<NOTE: 47 USC 303 note.>>  Alternate Means of Compliance.--An 
+entity may meet the requirements of section 303(aa) of the 
+Communications Act of 1934 through alternate means than those prescribed 
+by regulations pursuant to subsection (b) if the requirements of those 
+sections are met, as determined by the Commission.
+
+    (d) <<NOTE: 47 USC 303 note.>>  Deferral of Compliance with ATSC 
+Mobile DTV Standard A/153.-- <<NOTE: Time period. Federal Register, 
+publication.>> A digital apparatus designed and manufactured to receive 
+or play back the Advanced Television Systems Committee's Mobile DTV 
+Standards A/153 shall not be required to meet the requirements of the 
+regulations prescribed under subsection (b) for a period of not less 
+than 24 months after the date on which the final regulations are 
+published in the Federal Register.
+
+SEC. 205. ACCESS TO VIDEO PROGRAMMING GUIDES AND MENUS PROVIDED ON 
+            NAVIGATION DEVICES.
+
+    (a) Amendment.--Section 303 of the Communications Act of 1934 (47 
+U.S.C. 303) is further amended by adding after subsection (aa), as added 
+by section 204 of this Act, the following new subsection:
+    ``(bb) Require--
+            ``(1) if achievable (as defined in section 716), that the 
+        on-screen text menus and guides provided by navigation devices 
+        (as such term is defined in section 76.1200 of title 47, Code of 
+        Federal Regulations) for the display or selection of 
+        multichannel video programming are audibly accessible in real-
+        time upon request by individuals who are blind or visually 
+        impaired, except that the Commission may not specify the 
+        technical standards, protocols, procedures, and other technical 
+        requirements for meeting this requirement; and
+            ``(2) for navigation devices with built-in closed captioning 
+        capability, that access to that capability through a mechanism
+
+[[Page 124 STAT. 2775]]
+
+        is reasonably comparable to a button, key, or icon designated 
+        for activating the closed captioning, or accessibility features.
+
+With respect to apparatus features and functions delivered in software, 
+the requirements set forth in this subsection shall apply to the 
+manufacturer of such software. <<NOTE: Applicability.>>  With respect to 
+apparatus features and functions delivered in hardware, the requirements 
+set forth in this subsection shall apply to the manufacturer of such 
+hardware.''.
+
+    (b) <<NOTE: 47 USC 303 note.>>  Implementing Regulations.--
+            (1) In general.-- <<NOTE: Deadline.>> Within 18 months after 
+        the submission to the Commission of the Advisory Committee 
+        report required by section 201(e)(2), the Commission shall 
+        prescribe such regulations as are necessary to implement the 
+        amendment made by subsection (a).
+            (2) Exemption.--Such regulations may provide an exemption 
+        from the regulations for cable systems serving 20,000 or fewer 
+        subscribers.
+            (3) Responsibility.--An entity shall only be responsible for 
+        compliance with the requirements added by this section with 
+        respect to navigation devices that it provides to a requesting 
+        blind or visually impaired individual.
+            (4) Separate equipment or software.--
+                    (A) In general.--Such regulations shall permit but 
+                not require the entity providing the navigation device 
+                to the requesting blind or visually impaired individual 
+                to comply with section 303(bb)(1) of the Communications 
+                Act of 1934 through that entity's use of software, a 
+                peripheral device, specialized consumer premises 
+                equipment, a network-based service or other solution, 
+                and shall provide the maximum flexibility to select the 
+                manner of compliance.
+                    (B) Requirements.--If an entity complies with 
+                section 303(bb)(1) of the Communications Act of 1934 
+                under subparagraph (A), the entity providing the 
+                navigation device to the requesting blind or visually 
+                impaired individual shall provide any such software, 
+                peripheral device, equipment, service, or solution at no 
+                additional charge and within a reasonable time to such 
+                individual and shall ensure that such software, device, 
+                equipment, service, or solution provides the access 
+                required by such regulations.
+            (5) User controls for closed captioning.--Such regulations 
+        shall permit the entity providing the navigation device maximum 
+        flexibility in the selection of means for compliance with 
+        section 303(bb)(2) of the Communications Act of 1934 (as added 
+        by subsection (a) of this section).
+            (6) Phase-in.--
+                    (A) In general.-- <<NOTE: Deadlines.>> The 
+                Commission shall provide affected entities with--
+                          (i) not less than 2 years after the adoption 
+                      of such regulations to begin placing in service 
+                      devices that comply with the requirements of 
+                      section 303(bb)(2) of the Communications Act of 
+                      1934 (as added by subsection (a) of this section); 
+                      and
+                          (ii) not less than 3 years after the adoption 
+                      of such regulations to begin placing in service 
+                      devices that comply with the requirements of 
+                      section 303(bb)(1) of the Communications Act of 
+                      1934 (as added by subsection (a) of this section).
+
+[[Page 124 STAT. 2776]]
+
+                    (B) Application.--Such regulations shall apply only 
+                to devices manufactured or imported on or after the 
+                respective effective dates established in subparagraph 
+                (A).
+
+SEC. 206. <<NOTE: 47 USC 153 note.>> DEFINITIONS.
+
+    In this title:
+            (1) Advisory committee.--The term ``Advisory Committee'' 
+        means the advisory committee established in section 201.
+            (2) Chairman.--The term ``Chairman'' means the Chairman of 
+        the Federal Communications Commission.
+            (3) Commission.--The term ``Commission'' means the Federal 
+        Communications Commission.
+            (4) Emergency information.--The term ``emergency 
+        information'' has the meaning given such term in section 79.2 of 
+        title 47, Code of Federal Regulations.
+            (5) Internet protocol.--The term ``Internet protocol'' 
+        includes Transmission Control Protocol and a successor protocol 
+        or technology to Internet protocol.
+            (6) Navigation device.--The term ``navigation device'' has 
+        the meaning given such term in section 76.1200 of title 47, Code 
+        of Federal Regulations.
+            (7) Video description.--The term ``video description'' has 
+        the meaning given such term in section 713 of the Communications 
+        Act of 1934 (47 U.S.C. 613).
+            (8) Video programming.--The term ``video programming'' has 
+        the meaning given such term in section 713 of the Communications 
+        Act of 1934 (47 U.S.C. 613).
+
+    Approved October 8, 2010.
+
+LEGISLATIVE HISTORY--S. 3304:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 156 (2010):
+            Aug. 5, considered and passed Senate.
+            Sept. 28, considered and passed House.
+
+                                  
+

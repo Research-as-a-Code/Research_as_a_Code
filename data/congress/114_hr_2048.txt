@@ -1,0 +1,2903 @@
+
+[114th Congress Public Law 23]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 267]]
+
+  UNITING AND STRENGTHENING AMERICA BY FULFILLING RIGHTS AND ENSURING 
+            EFFECTIVE DISCIPLINE OVER MONITORING ACT OF 2015
+
+[[Page 129 STAT. 268]]
+
+Public Law 114-23
+114th Congress
+
+                                 An Act
+
+
+ 
+   To reform the authorities of the Federal Government to require the 
+production of certain business records, conduct electronic surveillance, 
+  use pen registers and trap and trace devices, and use other forms of 
+ information gathering for foreign intelligence, counterterrorism, and 
+criminal purposes, and for other purposes. <<NOTE: June 2, 2015 -  [H.R. 
+                                2048]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Uniting and 
+Strengthening America by Fulfilling Rights and Ensuring Effective 
+Discipline Over Monitoring Act of 2015. 50 USC 1801 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Uniting and 
+Strengthening America by Fulfilling Rights and Ensuring Effective 
+Discipline Over Monitoring Act of 2015'' or the ``USA FREEDOM Act of 
+2015''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Amendments to the Foreign Intelligence Surveillance Act of 1978.
+
+                 TITLE I--FISA BUSINESS RECORDS REFORMS
+
+Sec. 101. Additional requirements for call detail records.
+Sec. 102. Emergency authority.
+Sec. 103. Prohibition on bulk collection of tangible things.
+Sec. 104. Judicial review.
+Sec. 105. Liability protection.
+Sec. 106. Compensation for assistance.
+Sec. 107. Definitions.
+Sec. 108. Inspector General reports on business records orders.
+Sec. 109. Effective date.
+Sec. 110. Rule of construction.
+
+      TITLE II--FISA PEN REGISTER AND TRAP AND TRACE DEVICE REFORM
+
+Sec. 201. Prohibition on bulk collection.
+Sec. 202. Privacy procedures.
+
+TITLE III--FISA ACQUISITIONS TARGETING PERSONS OUTSIDE THE UNITED STATES 
+                                 REFORMS
+
+Sec. 301. Limits on use of unlawfully obtained information.
+
+        TITLE IV--FOREIGN INTELLIGENCE SURVEILLANCE COURT REFORMS
+
+Sec. 401. Appointment of amicus curiae.
+Sec. 402. Declassification of decisions, orders, and opinions.
+
+                TITLE V--NATIONAL SECURITY LETTER REFORM
+
+Sec. 501. Prohibition on bulk collection.
+Sec. 502. Limitations on disclosure of national security letters.
+Sec. 503. Judicial review.
+
+         TITLE VI--FISA TRANSPARENCY AND REPORTING REQUIREMENTS
+
+Sec. 601. Additional reporting on orders requiring production of 
+           business records; business records compliance reports to 
+           Congress.
+
+[[Page 129 STAT. 269]]
+
+Sec. 602. Annual reports by the Government.
+Sec. 603. Public reporting by persons subject to FISA orders.
+Sec. 604. Reporting requirements for decisions, orders, and opinions of 
+           the Foreign Intelligence Surveillance Court and the Foreign 
+           Intelligence Surveillance Court of Review.
+Sec. 605. Submission of reports under FISA.
+
+            TITLE VII--ENHANCED NATIONAL SECURITY PROVISIONS
+
+Sec. 701. Emergencies involving non-United States persons.
+Sec. 702. Preservation of treatment of non-United States persons 
+           traveling outside the United States as agents of foreign 
+           powers.
+Sec. 703. Improvement to investigations of international proliferation 
+           of weapons of mass destruction.
+Sec. 704. Increase in penalties for material support of foreign 
+           terrorist organizations.
+Sec. 705. Sunsets.
+
+    TITLE VIII--SAFETY OF MARITIME NAVIGATION AND NUCLEAR TERRORISM 
+                       CONVENTIONS IMPLEMENTATION
+
+                Subtitle A--Safety of Maritime Navigation
+
+Sec. 801. Amendment to section 2280 of title 18, United States Code.
+Sec. 802. New section 2280a of title 18, United States Code.
+Sec. 803. Amendments to section 2281 of title 18, United States Code.
+Sec. 804. New section 2281a of title 18, United States Code.
+Sec. 805. Ancillary measure.
+
+               Subtitle B--Prevention of Nuclear Terrorism
+
+Sec. 811. New section 2332i of title 18, United States Code.
+Sec. 812. Amendment to section 831 of title 18, United States Code.
+
+SEC. 2. AMENDMENTS TO THE FOREIGN INTELLIGENCE SURVEILLANCE ACT OF 
+                    1978.
+
+    Except as otherwise expressly provided, whenever in this Act an 
+amendment or repeal is expressed in terms of an amendment to, or a 
+repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of the Foreign 
+Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).
+
+                 TITLE I--FISA BUSINESS RECORDS REFORMS
+
+SEC. 101. ADDITIONAL REQUIREMENTS FOR CALL DETAIL RECORDS.
+
+    (a) Application.--Section 501(b)(2) (50 U.S.C. 1861(b)(2)) is 
+amended--
+            (1) in subparagraph (A)--
+                    (A) in the matter preceding clause (i), by striking 
+                ``a statement'' and inserting ``in the case of an 
+                application other than an application described in 
+                subparagraph (C) (including an application for the 
+                production of call detail records other than in the 
+                manner described in subparagraph (C)), a statement''; 
+                and
+                    (B) in clause (iii), by striking ``; and'' and 
+                inserting a semicolon;
+            (2) by redesignating subparagraphs (A) and (B) as 
+        subparagraphs (B) and (D), respectively; and
+            (3) by inserting after subparagraph (B) (as so redesignated) 
+        the following new subparagraph:
+                    ``(C) in the case of an application for the 
+                production on an ongoing basis of call detail records 
+                created before,
+
+[[Page 129 STAT. 270]]
+
+                on, or after the date of the application relating to an 
+                authorized investigation (other than a threat 
+                assessment) conducted in accordance with subsection 
+                (a)(2) to protect against international terrorism, a 
+                statement of facts showing that--
+                          ``(i) there are reasonable grounds to believe 
+                      that the call detail records sought to be produced 
+                      based on the specific selection term required 
+                      under subparagraph (A) are relevant to such 
+                      investigation; and
+                          ``(ii) there is a reasonable, articulable 
+                      suspicion that such specific selection term is 
+                      associated with a foreign power engaged in 
+                      international terrorism or activities in 
+                      preparation therefor, or an agent of a foreign 
+                      power engaged in international terrorism or 
+                      activities in preparation therefor; and''.
+
+    (b) Order.--Section 501(c)(2) (50 U.S.C. 1861(c)(2)) is amended--
+            (1) in subparagraph (D), by striking ``; and'' and inserting 
+        a semicolon;
+            (2) in subparagraph (E), by striking the period and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(F) in the case of an application described in 
+                subsection (b)(2)(C), shall--
+                          ``(i) <<NOTE: Time period.>> authorize the 
+                      production on a daily basis of call detail records 
+                      for a period not to exceed 180 days;
+                          ``(ii) provide that an order for such 
+                      production may be extended upon application under 
+                      subsection (b) and the judicial finding under 
+                      paragraph (1) of this subsection;
+                          ``(iii) provide that the Government may 
+                      require the prompt production of a first set of 
+                      call detail records using the specific selection 
+                      term that satisfies the standard required under 
+                      subsection (b)(2)(C)(ii);
+                          ``(iv) provide that the Government may require 
+                      the prompt production of a second set of call 
+                      detail records using session-identifying 
+                      information or a telephone calling card number 
+                      identified by the specific selection term used to 
+                      produce call detail records under clause (iii);
+                          ``(v) provide that, when produced, such 
+                      records be in a form that will be useful to the 
+                      Government;
+                          ``(vi) direct each person the Government 
+                      directs to produce call detail records under the 
+                      order to furnish the Government forthwith all 
+                      information, facilities, or technical assistance 
+                      necessary to accomplish the production in such a 
+                      manner as will protect the secrecy of the 
+                      production and produce a minimum of interference 
+                      with the services that such person is providing to 
+                      each subject of the production; and
+                          ``(vii) direct the Government to--
+                                    ``(I) <<NOTE: Procedures.>> adopt 
+                                minimization procedures that require the 
+                                prompt destruction of all call detail 
+                                records produced under the order that 
+                                the Government determines are not 
+                                foreign intelligence information; and
+
+[[Page 129 STAT. 271]]
+
+                                    ``(II) destroy all call detail 
+                                records produced under the order as 
+                                prescribed by such procedures.''.
+SEC. 102. EMERGENCY AUTHORITY.
+
+    (a) Authority.--Section 501 (50 U.S.C. 1861) is amended by adding at 
+the end the following new subsection:
+    ``(i) Emergency Authority for Production of Tangible Things.--
+            ``(1) Notwithstanding any other provision of this section, 
+        the Attorney General may require the emergency production of 
+        tangible things if the Attorney General--
+                    ``(A) reasonably determines that an emergency 
+                situation requires the production of tangible things 
+                before an order authorizing such production can with due 
+                diligence be obtained;
+                    ``(B) reasonably determines that the factual basis 
+                for the issuance of an order under this section to 
+                approve such production of tangible things exists;
+                    ``(C) informs, either personally or through a 
+                designee, a judge having jurisdiction under this section 
+                at the time the Attorney General requires the emergency 
+                production of tangible things that the decision has been 
+                made to employ the authority under this subsection; and
+                    ``(D) <<NOTE: Deadline.>> makes an application in 
+                accordance with this section to a judge having 
+                jurisdiction under this section as soon as practicable, 
+                but not later than 7 days after the Attorney General 
+                requires the emergency production of tangible things 
+                under this subsection.
+            ``(2) If the Attorney General requires the emergency 
+        production of tangible things under paragraph (1), the Attorney 
+        General shall require that the minimization procedures required 
+        by this section for the issuance of a judicial order be 
+        followed.
+            ``(3) <<NOTE: Termination date.>> In the absence of a 
+        judicial order approving the production of tangible things under 
+        this subsection, the production shall terminate when the 
+        information sought is obtained, when the application for the 
+        order is denied, or after the expiration of 7 days from the time 
+        the Attorney General begins requiring the emergency production 
+        of such tangible things, whichever is earliest.
+            ``(4) A denial of the application made under this subsection 
+        may be reviewed as provided in section 103.
+            ``(5) If such application for approval is denied, or in any 
+        other case where the production of tangible things is terminated 
+        and no order is issued approving the production, no information 
+        obtained or evidence derived from such production shall be 
+        received in evidence or otherwise disclosed in any trial, 
+        hearing, or other proceeding in or before any court, grand jury, 
+        department, office, agency, regulatory body, legislative 
+        committee, or other authority of the United States, a State, or 
+        a political subdivision thereof, and no information concerning 
+        any United States person acquired from such production shall 
+        subsequently be used or disclosed in any other manner by Federal 
+        officers or employees without the consent of such person, except 
+        with the approval of the Attorney General if the information 
+        indicates a threat of death or serious bodily harm to any 
+        person.
+
+[[Page 129 STAT. 272]]
+
+            ``(6) <<NOTE: Assessment.>> The Attorney General shall 
+        assess compliance with the requirements of paragraph (5).''.
+
+    (b) Conforming Amendment.--Section 501(d) (50 U.S.C. 1861(d)) is 
+amended--
+            (1) in paragraph (1)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``pursuant to an order'' and inserting 
+                ``pursuant to an order issued or an emergency production 
+                required'';
+                    (B) in subparagraph (A), by striking ``such order'' 
+                and inserting ``such order or such emergency 
+                production''; and
+                    (C) in subparagraph (B), by striking ``the order'' 
+                and inserting ``the order or the emergency production''; 
+                and
+            (2) in paragraph (2)--
+                    (A) in subparagraph (A), by striking ``an order'' 
+                and inserting ``an order or emergency production''; and
+                    (B) in subparagraph (B), by striking ``an order'' 
+                and inserting ``an order or emergency production''.
+SEC. 103. PROHIBITION ON BULK COLLECTION OF TANGIBLE THINGS.
+
+    (a) Application.--Section 501(b)(2) (50 U.S.C. 1861(b)(2)), as 
+amended by section 101(a) of this Act, is further amended by inserting 
+before subparagraph (B), as redesignated by such section 101(a) of this 
+Act, the following new subparagraph:
+                    ``(A) a specific selection term to be used as the 
+                basis for the production of the tangible things 
+                sought;''.
+
+    (b) Order.--Section 501(c) (50 U.S.C. 1861(c)) is amended--
+            (1) in paragraph (2)(A), by striking the semicolon and 
+        inserting ``, including each specific selection term to be used 
+        as the basis for the production;''; and
+            (2) by adding at the end the following new paragraph:
+            ``(3) No order issued under this subsection may authorize 
+        the collection of tangible things without the use of a specific 
+        selection term that meets the requirements of subsection 
+        (b)(2).''.
+SEC. 104. JUDICIAL REVIEW.
+
+    (a) Minimization Procedures.--
+            (1) Judicial review.--Section 501(c)(1) (50 U.S.C. 
+        1861(c)(1)) is amended by inserting after ``subsections (a) and 
+        (b)'' the following: ``and that the minimization procedures 
+        submitted in accordance with subsection (b)(2)(D) meet the 
+        definition of minimization procedures under subsection (g)''.
+            (2) Rule of construction.--Section 501(g) (50 U.S.C. 
+        1861(g)) is amended by adding at the end the following new 
+        paragraph:
+            ``(3) Rule of construction.--Nothing in this subsection 
+        shall limit the authority of the court established under section 
+        103(a) to impose additional, particularized minimization 
+        procedures with regard to the production, retention, or 
+        dissemination of nonpublicly available information concerning 
+        unconsenting United States persons, including additional, 
+        particularized procedures related to the destruction of 
+        information within a reasonable time period.''.
+            (3) Technical and conforming amendment.--Section 501(g)(1) 
+        (50 U.S.C. 1861(g)(1)) is amended--
+                    (A) by striking ``Not later than 180 days after the 
+                date of the enactment of the USA PATRIOT Improvement
+
+[[Page 129 STAT. 273]]
+
+                and Reauthorization Act of 2005, the'' and inserting 
+                ``The''; and
+                    (B) by inserting after ``adopt'' the following: ``, 
+                and update as appropriate,''.
+
+    (b) Orders.--Section 501(f)(2) (50 U.S.C. 1861(f)(2)) is amended--
+            (1) in subparagraph (A)(i)--
+                    (A) by striking ``that order'' and inserting ``the 
+                production order or any nondisclosure order imposed in 
+                connection with the production order''; and
+                    (B) by striking the second sentence; and
+            (2) in subparagraph (C)--
+                    (A) by striking clause (ii); and
+                    (B) by redesignating clause (iii) as clause (ii).
+SEC. 105. LIABILITY PROTECTION.
+
+    Section 501(e) (50 U.S.C. 1861(e)) is amended to read as follows:
+    ``(e)(1) No cause of action shall lie in any court against a person 
+who--
+            ``(A) produces tangible things or provides information, 
+        facilities, or technical assistance in accordance with an order 
+        issued or an emergency production required under this section; 
+        or
+            ``(B) otherwise provides technical assistance to the 
+        Government under this section or to implement the amendments 
+        made to this section by the USA FREEDOM Act of 2015.
+
+    ``(2) A production or provision of information, facilities, or 
+technical assistance described in paragraph (1) shall not be deemed to 
+constitute a waiver of any privilege in any other proceeding or 
+context.''.
+SEC. 106. COMPENSATION FOR ASSISTANCE.
+
+    Section 501 (50 U.S.C. 1861), as amended by section 102 of this Act, 
+is further amended by adding at the end the following new subsection:
+    ``(j) Compensation.--The Government shall compensate a person for 
+reasonable expenses incurred for--
+            ``(1) producing tangible things or providing information, 
+        facilities, or assistance in accordance with an order issued 
+        with respect to an application described in subsection (b)(2)(C) 
+        or an emergency production under subsection (i) that, to comply 
+        with subsection (i)(1)(D), requires an application described in 
+        subsection (b)(2)(C); or
+            ``(2) otherwise providing technical assistance to the 
+        Government under this section or to implement the amendments 
+        made to this section by the USA FREEDOM Act of 2015.''.
+SEC. 107. DEFINITIONS.
+
+    Section 501 (50 U.S.C. 1861), as amended by section 106 of this Act, 
+is further amended by adding at the end the following new subsection:
+    ``(k) Definitions.--In this section:
+            ``(1) In general.--The terms `foreign power', `agent of a 
+        foreign power', `international terrorism', `foreign intelligence 
+        information', `Attorney General', `United States person', 
+        `United States', `person', and `State' have the meanings 
+        provided those terms in section 101.
+            ``(2) Address.--The term `address' means a physical address 
+        or electronic address, such as an electronic mail address
+
+[[Page 129 STAT. 274]]
+
+        or temporarily assigned network address (including an Internet 
+        protocol address).
+            ``(3) Call detail record.--The term `call detail record'--
+                    ``(A) means session-identifying information 
+                (including an originating or terminating telephone 
+                number, an International Mobile Subscriber Identity 
+                number, or an International Mobile Station Equipment 
+                Identity number), a telephone calling card number, or 
+                the time or duration of a call; and
+                    ``(B) does not include--
+                          ``(i) the contents (as defined in section 
+                      2510(8) of title 18, United States Code) of any 
+                      communication;
+                          ``(ii) the name, address, or financial 
+                      information of a subscriber or customer; or
+                          ``(iii) cell site location or global 
+                      positioning system information.
+            ``(4) Specific selection term.--
+                    ``(A) Tangible things.--
+                          ``(i) In general.--Except as provided in 
+                      subparagraph (B), a `specific selection term'--
+                                    ``(I) is a term that specifically 
+                                identifies a person, account, address, 
+                                or personal device, or any other 
+                                specific identifier; and
+                                    ``(II) is used to limit, to the 
+                                greatest extent reasonably practicable, 
+                                the scope of tangible things sought 
+                                consistent with the purpose for seeking 
+                                the tangible things.
+                          ``(ii) Limitation.--A specific selection term 
+                      under clause (i) does not include an identifier 
+                      that does not limit, to the greatest extent 
+                      reasonably practicable, the scope of tangible 
+                      things sought consistent with the purpose for 
+                      seeking the tangible things, such as an identifier 
+                      that--
+                                    ``(I) identifies an electronic 
+                                communication service provider (as that 
+                                term is defined in section 701) or a 
+                                provider of remote computing service (as 
+                                that term is defined in section 2711 of 
+                                title 18, United States Code), when not 
+                                used as part of a specific identifier as 
+                                described in clause (i), unless the 
+                                provider is itself a subject of an 
+                                authorized investigation for which the 
+                                specific selection term is used as the 
+                                basis for the production; or
+                                    ``(II) identifies a broad geographic 
+                                region, including the United States, a 
+                                city, a county, a State, a zip code, or 
+                                an area code, when not used as part of a 
+                                specific identifier as described in 
+                                clause (i).
+                          ``(iii) Rule of construction.--Nothing in this 
+                      paragraph shall be construed to preclude the use 
+                      of multiple terms or identifiers to meet the 
+                      requirements of clause (i).
+                    ``(B) Call detail record applications.--For purposes 
+                of an application submitted under subsection (b)(2)(C), 
+                the term `specific selection term' means a term that 
+                specifically identifies an individual, account, or 
+                personal device.''.
+
+[[Page 129 STAT. 275]]
+
+SEC. 108. INSPECTOR GENERAL REPORTS ON BUSINESS RECORDS ORDERS.
+
+    Section 106A of the USA PATRIOT Improvement and Reauthorization Act 
+of 2005 (Public Law 109-177; 120 Stat. 200) is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1), by inserting ``and calendar 
+                years 2012 through 2014'' after ``2006'';
+                    (B) by striking paragraphs (2) and (3);
+                    (C) by redesignating paragraphs (4) and (5) as 
+                paragraphs (2) and (3), respectively; and
+                    (D) in paragraph (3) (as so redesignated)--
+                          (i) by striking subparagraph (C) and inserting 
+                      the following new subparagraph:
+                    ``(C) with respect to calendar years 2012 through 
+                2014, an examination of the minimization procedures used 
+                in relation to orders under section 501 of the Foreign 
+                Intelligence Surveillance Act of 1978 (50 U.S.C. 1861) 
+                and whether the minimization procedures adequately 
+                protect the constitutional rights of United States 
+                persons;''; and
+                          (ii) in subparagraph (D), by striking ``(as 
+                      such term is defined in section 3(4) of the 
+                      National Security Act of 1947 (50 U.S.C. 
+                      401a(4)))'';
+            (2) in subsection (c), by adding at the end the following 
+        new paragraph:
+            ``(3) <<NOTE: Time period.>> Calendar years 2012 through 
+        2014.--Not later than 1 year after the date of enactment of the 
+        USA FREEDOM Act of 2015, the Inspector General of the Department 
+        of Justice shall submit to the Committee on the Judiciary and 
+        the Select Committee on Intelligence of the Senate and the 
+        Committee on the Judiciary and the Permanent Select Committee on 
+        Intelligence of the House of Representatives a report containing 
+        the results of the audit conducted under subsection (a) for 
+        calendar years 2012 through 2014.'';
+            (3) by redesignating subsections (d) and (e) as subsections 
+        (e) and (f), respectively;
+            (4) by inserting after subsection (c) the following new 
+        subsection:
+
+    ``(d) Intelligence Assessment.--
+            ``(1) <<NOTE: Time period.>> In general.--For the period 
+        beginning on January 1, 2012, and ending on December 31, 2014, 
+        the Inspector General of the Intelligence Community shall 
+        assess--
+                    ``(A) the importance of the information acquired 
+                under title V of the Foreign Intelligence Surveillance 
+                Act of 1978 (50 U.S.C. 1861 et seq.) to the activities 
+                of the intelligence community;
+                    ``(B) the manner in which that information was 
+                collected, retained, analyzed, and disseminated by the 
+                intelligence community;
+                    ``(C) the minimization procedures used by elements 
+                of the intelligence community under such title and 
+                whether the minimization procedures adequately protect 
+                the constitutional rights of United States persons; and
+                    ``(D) any minimization procedures proposed by an 
+                element of the intelligence community under such title 
+                that were modified or denied by the court established 
+                under section 103(a) of such Act (50 U.S.C. 1803(a)).
+
+[[Page 129 STAT. 276]]
+
+            ``(2) Submission date for assessment.--Not later than 180 
+        days after the date on which the Inspector General of the 
+        Department of Justice submits the report required under 
+        subsection (c)(3), the Inspector General of the Intelligence 
+        Community shall submit to the Committee on the Judiciary and the 
+        Select Committee on Intelligence of the Senate and the Committee 
+        on the Judiciary and the Permanent Select Committee on 
+        Intelligence of the House of Representatives a report containing 
+        the results of the assessment for calendar years 2012 through 
+        2014.'';
+            (5) in subsection (e), as redesignated by paragraph (3)--
+                    (A) in paragraph (1)--
+                          (i) by striking ``a report under subsection 
+                      (c)(1) or (c)(2)'' and inserting ``any report 
+                      under subsection (c) or (d)''; and
+                          (ii) by striking ``Inspector General of the 
+                      Department of Justice'' and inserting ``Inspector 
+                      General of the Department of Justice, the 
+                      Inspector General of the Intelligence Community, 
+                      and any Inspector General of an element of the 
+                      intelligence community that prepares a report to 
+                      assist the Inspector General of the Department of 
+                      Justice or the Inspector General of the 
+                      Intelligence Community in complying with the 
+                      requirements of this section''; and
+                    (B) in paragraph (2), by striking ``the reports 
+                submitted under subsections (c)(1) and (c)(2)'' and 
+                inserting ``any report submitted under subsection (c) or 
+                (d)'';
+            (6) in subsection (f), as redesignated by paragraph (3)--
+                    (A) by striking ``The reports submitted under 
+                subsections (c)(1) and (c)(2)'' and inserting ``Each 
+                report submitted under subsection (c)''; and
+                    (B) by striking ``subsection (d)(2)'' and inserting 
+                ``subsection (e)(2)''; and
+            (7) by adding at the end the following new subsection:
+
+    ``(g) Definitions.--In this section:
+            ``(1) Intelligence community.--The term `intelligence 
+        community' has the meaning given that term in section 3 of the 
+        National Security Act of 1947 (50 U.S.C. 3003).
+            ``(2) United states person.--The term `United States person' 
+        has the meaning given that term in section 101 of the Foreign 
+        Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).''.
+SEC. 109. EFFECTIVE DATE.
+
+    (a) <<NOTE: 50 USC 1861 note.>> In General.--The amendments made by 
+sections 101 through 103 shall take effect on the date that is 180 days 
+after the date of the enactment of this Act.
+
+    (b) <<NOTE: 50 USC 1861 note.>> Rule of Construction.--Nothing in 
+this Act shall be construed to alter or eliminate the authority of the 
+Government to obtain an order under title V of the Foreign Intelligence 
+Surveillance Act of 1978 (50 U.S.C. 1861 et seq.) as in effect prior to 
+the effective date described in subsection (a) during the period ending 
+on such effective date.
+SEC. 110. <<NOTE: 50 USC 1861 note.>> RULE OF CONSTRUCTION.
+
+    Nothing in this Act shall be construed to authorize the production 
+of the contents (as such term is defined in section 2510(8) of title 18, 
+United States Code) of any electronic communication from an electronic 
+communication service provider (as such term
+
+[[Page 129 STAT. 277]]
+
+is defined in section 701(b)(4) of the Foreign Intelligence Surveillance 
+Act of 1978 (50 U.S.C. 1881(b)(4))) under title V of the Foreign 
+Intelligence Surveillance Act of 1978 (50 U.S.C. 1861 et seq.).
+
+      TITLE II--FISA PEN REGISTER AND TRAP AND TRACE DEVICE REFORM
+
+SEC. 201. PROHIBITION ON BULK COLLECTION.
+
+    (a) Prohibition.--Section 402(c) (50 U.S.C. 1842(c)) is amended--
+            (1) in paragraph (1), by striking ``; and'' and inserting a 
+        semicolon;
+            (2) in paragraph (2), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(3) a specific selection term to be used as the basis for 
+        the use of the pen register or trap and trace device.''.
+
+    (b) Definition.--Section 401 (50 U.S.C. 1841) is amended by adding 
+at the end the following new paragraph:
+            ``(4)(A) The term `specific selection term'--
+                    ``(i) is a term that specifically identifies a 
+                person, account, address, or personal device, or any 
+                other specific identifier; and
+                    ``(ii) is used to limit, to the greatest extent 
+                reasonably practicable, the scope of information sought, 
+                consistent with the purpose for seeking the use of the 
+                pen register or trap and trace device.
+            ``(B) A specific selection term under subparagraph (A) does 
+        not include an identifier that does not limit, to the greatest 
+        extent reasonably practicable, the scope of information sought, 
+        consistent with the purpose for seeking the use of the pen 
+        register or trap and trace device, such as an identifier that--
+                    ``(i) identifies an electronic communication service 
+                provider (as that term is defined in section 701) or a 
+                provider of remote computing service (as that term is 
+                defined in section 2711 of title 18, United States 
+                Code), when not used as part of a specific identifier as 
+                described in subparagraph (A), unless the provider is 
+                itself a subject of an authorized investigation for 
+                which the specific selection term is used as the basis 
+                for the use; or
+                    ``(ii) identifies a broad geographic region, 
+                including the United States, a city, a county, a State, 
+                a zip code, or an area code, when not used as part of a 
+                specific identifier as described in subparagraph (A).
+            ``(C) For purposes of subparagraph (A), the term `address' 
+        means a physical address or electronic address, such as an 
+        electronic mail address or temporarily assigned network address 
+        (including an Internet protocol address).
+            ``(D) Nothing in this paragraph shall be construed to 
+        preclude the use of multiple terms or identifiers to meet the 
+        requirements of subparagraph (A).''.
+SEC. 202. PRIVACY PROCEDURES.
+
+    (a) In General.--Section 402 (50 U.S.C. 1842) is amended by adding 
+at the end the following new subsection:
+    ``(h) Privacy Procedures.--
+
+[[Page 129 STAT. 278]]
+
+            ``(1) In general.--The Attorney General shall ensure that 
+        appropriate policies and procedures are in place to safeguard 
+        nonpublicly available information concerning United States 
+        persons that is collected through the use of a pen register or 
+        trap and trace device installed under this 
+        section. <<NOTE: Applicability.>> Such policies and procedures 
+        shall, to the maximum extent practicable and consistent with the 
+        need to protect national security, include privacy protections 
+        that apply to the collection, retention, and use of information 
+        concerning United States persons.
+            ``(2) Rule of construction.--Nothing in this subsection 
+        limits the authority of the court established under section 
+        103(a) or of the Attorney General to impose additional privacy 
+        or minimization procedures with regard to the installation or 
+        use of a pen register or trap and trace device.''.
+
+    (b) Emergency Authority.--Section 403 (50 U.S.C. 1843) is amended by 
+adding at the end the following new subsection:
+    ``(d) Privacy Procedures.--Information collected through the use of 
+a pen register or trap and trace device installed under this section 
+shall be subject to the policies and procedures required under section 
+402(h).''.
+
+TITLE III--FISA ACQUISITIONS TARGETING PERSONS OUTSIDE THE UNITED STATES 
+                                 REFORMS
+
+SEC. 301. LIMITS ON USE OF UNLAWFULLY OBTAINED INFORMATION.
+
+    Section 702(i)(3) (50 U.S.C. 1881a(i)(3)) is amended by adding at 
+the end the following new subparagraph:
+                    ``(D) Limitation on use of information.--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), if the Court orders a correction of a 
+                      deficiency in a certification or procedures under 
+                      subparagraph (B), no information obtained or 
+                      evidence derived pursuant to the part of the 
+                      certification or procedures that has been 
+                      identified by the Court as deficient concerning 
+                      any United States person shall be received in 
+                      evidence or otherwise disclosed in any trial, 
+                      hearing, or other proceeding in or before any 
+                      court, grand jury, department, office, agency, 
+                      regulatory body, legislative committee, or other 
+                      authority of the United States, a State, or 
+                      political subdivision thereof, and no information 
+                      concerning any United States person acquired 
+                      pursuant to such part of such certification or 
+                      procedures shall subsequently be used or disclosed 
+                      in any other manner by Federal officers or 
+                      employees without the consent of the United States 
+                      person, except with the approval of the Attorney 
+                      General if the information indicates a threat of 
+                      death or serious bodily harm to any person.
+                          ``(ii) Exception.--If the Government corrects 
+                      any deficiency identified by the order of the 
+                      Court under subparagraph (B), the Court may permit 
+                      the use or disclosure of information obtained 
+                      before the date of the correction under such 
+                      minimization procedures as the Court may approve 
+                      for purposes of this clause.''.
+
+[[Page 129 STAT. 279]]
+
+        TITLE IV--FOREIGN INTELLIGENCE SURVEILLANCE COURT REFORMS
+
+SEC. 401. APPOINTMENT OF AMICUS CURIAE.
+
+    Section 103 (50 U.S.C. 1803) is amended by adding at the end the 
+following new subsections:
+    ``(i) Amicus Curiae.--
+            ``(1) <<NOTE: Deadline.>> Designation.--The presiding judges 
+        of the courts established under subsections (a) and (b) shall, 
+        not later than 180 days after the enactment of this subsection, 
+        jointly designate not fewer than 5 individuals to be eligible to 
+        serve as amicus curiae, who shall serve pursuant to rules the 
+        presiding judges may establish. In designating such individuals, 
+        the presiding judges may consider individuals recommended by any 
+        source, including members of the Privacy and Civil Liberties 
+        Oversight Board, the judges determine appropriate.
+            ``(2) Authorization.--A court established under subsection 
+        (a) or (b), consistent with the requirement of subsection (c) 
+        and any other statutory requirement that the court act 
+        expeditiously or within a stated time--
+                    ``(A) shall appoint an individual who has been 
+                designated under paragraph (1) to serve as amicus curiae 
+                to assist such court in the consideration of any 
+                application for an order or review that, in the opinion 
+                of the court, presents a novel or significant 
+                interpretation of the law, unless the court issues a 
+                finding that such appointment is not appropriate; and
+                    ``(B) may appoint an individual or organization to 
+                serve as amicus curiae, including to provide technical 
+                expertise, in any instance as such court deems 
+                appropriate or, upon motion, permit an individual or 
+                organization leave to file an amicus curiae brief.
+            ``(3) Qualifications of amicus curiae.--
+                    ``(A) Expertise.--Individuals designated under 
+                paragraph (1) shall be persons who possess expertise in 
+                privacy and civil liberties, intelligence collection, 
+                communications technology, or any other area that may 
+                lend legal or technical expertise to a court established 
+                under subsection (a) or (b).
+                    ``(B) Security clearance.--Individuals designated 
+                pursuant to paragraph (1) shall be persons who are 
+                determined to be eligible for access to classified 
+                information necessary to participate in matters before 
+                the courts. Amicus curiae appointed by the court 
+                pursuant to paragraph (2) shall be persons who are 
+                determined to be eligible for access to classified 
+                information, if such access is necessary to participate 
+                in the matters in which they may be appointed.
+            ``(4) Duties.--If a court established under subsection (a) 
+        or (b) appoints an amicus curiae under paragraph (2)(A), the 
+        amicus curiae shall provide to the court, as appropriate--
+                    ``(A) legal arguments that advance the protection of 
+                individual privacy and civil liberties;
+                    ``(B) information related to intelligence collection 
+                or communications technology; or
+
+[[Page 129 STAT. 280]]
+
+                    ``(C) legal arguments or information regarding any 
+                other area relevant to the issue presented to the court.
+            ``(5) Assistance.--An amicus curiae appointed under 
+        paragraph (2)(A) may request that the court designate or appoint 
+        additional amici curiae pursuant to paragraph (1) or paragraph 
+        (2), to be available to assist the amicus curiae.
+            ``(6) Access to information.--
+                    ``(A) In general.--If a court established under 
+                subsection (a) or (b) appoints an amicus curiae under 
+                paragraph (2), the amicus curiae--
+                          ``(i) shall have access to any legal 
+                      precedent, application, certification, petition, 
+                      motion, or such other materials that the court 
+                      determines are relevant to the duties of the 
+                      amicus curiae; and
+                          ``(ii) may, if the court determines that it is 
+                      relevant to the duties of the amicus curiae, 
+                      consult with any other individuals designated 
+                      pursuant to paragraph (1) regarding information 
+                      relevant to any assigned proceeding.
+                    ``(B) Briefings.--The Attorney General may 
+                periodically brief or provide relevant materials to 
+                individuals designated pursuant to paragraph (1) 
+                regarding constructions and interpretations of this Act 
+                and legal, technological, and other issues related to 
+                actions authorized by this Act.
+                    ``(C) Classified information.--An amicus curiae 
+                designated or appointed by the court may have access to 
+                classified documents, information, and other materials 
+                or proceedings only if that individual is eligible for 
+                access to classified information and to the extent 
+                consistent with the national security of the United 
+                States.
+                    ``(D) Rule of construction.--Nothing in this section 
+                shall be construed to require the Government to provide 
+                information to an amicus curiae appointed by the court 
+                that is privileged from disclosure.
+            ``(7) Notification.--A presiding judge of a court 
+        established under subsection (a) or (b) shall notify the 
+        Attorney General of each exercise of the authority to appoint an 
+        individual to serve as amicus curiae under paragraph (2).
+            ``(8) Assistance.--A court established under subsection (a) 
+        or (b) may request and receive (including on a nonreimbursable 
+        basis) the assistance of the executive branch in the 
+        implementation of this subsection.
+            ``(9) Administration.--A court established under subsection 
+        (a) or (b) may provide for the designation, appointment, 
+        removal, training, or other support for an individual designated 
+        to serve as amicus curiae under paragraph (1) or appointed to 
+        serve as amicus curiae under paragraph (2) in a manner that is 
+        not inconsistent with this subsection.
+            ``(10) Receipt of information.--Nothing in this subsection 
+        shall limit the ability of a court established under subsection 
+        (a) or (b) to request or receive information or materials from, 
+        or otherwise communicate with, the Government or amicus curiae 
+        appointed under paragraph (2) on an ex parte basis, nor limit 
+        any special or heightened obligation in any ex parte 
+        communication or proceeding.
+
+    ``(j) <<NOTE: Certification.>> Review of FISA Court Decisions.--
+Following issuance of an order under this Act, a court established under 
+subsection
+
+[[Page 129 STAT. 281]]
+
+(a) shall certify for review to the court established under subsection 
+(b) any question of law that may affect resolution of the matter in 
+controversy that the court determines warrants such review because of a 
+need for uniformity or because consideration by the court established 
+under subsection (b) would serve the interests of justice. Upon 
+certification of a question of law under this subsection, the court 
+established under subsection (b) may give binding instructions or 
+require the entire record to be sent up for decision of the entire 
+matter in controversy.
+
+    ``(k) Review of FISA Court of Review Decisions.--
+            ``(1) Certification.--For purposes of section 1254(2) of 
+        title 28, United States Code, the court of review established 
+        under subsection (b) shall be considered to be a court of 
+        appeals.
+            ``(2) Amicus curiae briefing.--Upon certification of an 
+        application under paragraph (1), the Supreme Court of the United 
+        States may appoint an amicus curiae designated under subsection 
+        (i)(1), or any other person, to provide briefing or other 
+        assistance.''.
+SEC. 402. DECLASSIFICATION OF DECISIONS, ORDERS, AND OPINIONS.
+
+    (a) Declassification.--Title VI (50 U.S.C. 1871 et seq.) is 
+amended--
+            (1) <<NOTE: 50 USC prec. 1871.>> in the heading, by striking 
+        ``REPORTING REQUIREMENT'' and inserting ``OVERSIGHT''; and
+            (2) by adding at the end the following new section:
+``SEC. 602. <<NOTE: Consultation. Public information. 50 USC 
+                        1872. Review.>> DECLASSIFICATION OF 
+                        SIGNIFICANT DECISIONS, ORDERS, AND 
+                        OPINIONS.
+
+    ``(a) Declassification Required.--Subject to subsection (b), the 
+Director of National Intelligence, in consultation with the Attorney 
+General, shall conduct a declassification review of each decision, 
+order, or opinion issued by the Foreign Intelligence Surveillance Court 
+or the Foreign Intelligence Surveillance Court of Review (as defined in 
+section 601(e)) that includes a significant construction or 
+interpretation of any provision of law, including any novel or 
+significant construction or interpretation of the term `specific 
+selection term', and, consistent with that review, make publicly 
+available to the greatest extent practicable each such decision, order, 
+or opinion.
+    ``(b) Redacted Form.--The Director of National Intelligence, in 
+consultation with the Attorney General, may satisfy the requirement 
+under subsection (a) to make a decision, order, or opinion described in 
+such subsection publicly available to the greatest extent practicable by 
+making such decision, order, or opinion publicly available in redacted 
+form.
+    ``(c) National Security Waiver.--The Director of National 
+Intelligence, in consultation with the Attorney General, may waive the 
+requirement to declassify and make publicly available a particular 
+decision, order, or opinion under subsection (a), if--
+            ``(1) the Director of National Intelligence, in consultation 
+        with the Attorney General, determines that a waiver of such 
+        requirement is necessary to protect the national security of the 
+        United States or properly classified intelligence sources or 
+        methods; and
+            ``(2) the Director of National Intelligence makes publicly 
+        available an unclassified statement prepared by the Attorney 
+        General, in consultation with the Director of National 
+        Intelligence--
+
+[[Page 129 STAT. 282]]
+
+                    ``(A) summarizing the significant construction or 
+                interpretation of any provision of law, which shall 
+                include, to the extent consistent with national 
+                security, a description of the context in which the 
+                matter arises and any significant construction or 
+                interpretation of any statute, constitutional provision, 
+                or other legal authority relied on by the decision; and
+                    ``(B) that specifies that the statement has been 
+                prepared by the Attorney General and constitutes no part 
+                of the opinion of the Foreign Intelligence Surveillance 
+                Court or the Foreign Intelligence Surveillance Court of 
+                Review.''.
+
+    (b) Table of Contents Amendments.--The table of contents in the 
+first section is amended--
+            (1) by striking the item relating to title VI and inserting 
+        the following new item:
+
+                        ``TITLE VI--OVERSIGHT'';
+
+        and
+            (2) by inserting after the item relating to section 601 the 
+        following new item:
+
+``Sec. 602. Declassification of significant decisions, orders, and 
+           opinions.''.
+
+                TITLE V--NATIONAL SECURITY LETTER REFORM
+
+SEC. 501. PROHIBITION ON BULK COLLECTION.
+
+    (a) Counterintelligence Access to Telephone Toll and Transactional 
+Records.--Section 2709(b) of title 18, United States Code, is amended in 
+the matter preceding paragraph (1) by striking ``may'' and inserting 
+``may, using a term that specifically identifies a person, entity, 
+telephone number, or account as the basis for a request''.
+    (b) Access to Financial Records for Certain Intelligence and 
+Protective Purposes.--Section 1114(a)(2) of the Right to Financial 
+Privacy Act of 1978 (12 U.S.C. 3414(a)(2)) is amended by striking the 
+period and inserting ``and a term that specifically identifies a 
+customer, entity, or account to be used as the basis for the production 
+and disclosure of financial records.''.
+    (c) Disclosures to FBI of Certain Consumer Records for 
+Counterintelligence Purposes.--Section 626 of the Fair Credit Reporting 
+Act (15 U.S.C. 1681u) is amended--
+            (1) in subsection (a), by striking ``that information,'' and 
+        inserting ``that information that includes a term that 
+        specifically identifies a consumer or account to be used as the 
+        basis for the production of that information,'';
+            (2) in subsection (b), by striking ``written request,'' and 
+        inserting ``written request that includes a term that 
+        specifically identifies a consumer or account to be used as the 
+        basis for the production of that information,''; and
+            (3) in subsection (c), by inserting ``, which shall include 
+        a term that specifically identifies a consumer or account to be 
+        used as the basis for the production of the information,'' after 
+        ``issue an order ex parte''.
+
+    (d) Disclosures to Governmental Agencies for Counterterrorism 
+Purposes of Consumer Reports.--Section 627(a) of
+
+[[Page 129 STAT. 283]]
+
+the Fair Credit Reporting Act (15 U.S.C. 1681v(a)) is amended by 
+striking ``analysis.'' and inserting ``analysis and that includes a term 
+that specifically identifies a consumer or account to be used as the 
+basis for the production of such information.''.
+SEC. 502. LIMITATIONS ON DISCLOSURE OF NATIONAL SECURITY LETTERS.
+
+    (a) Counterintelligence Access to Telephone Toll and Transactional 
+Records.--Section 2709 of title 18, United States Code, is amended by 
+striking subsection (c) and inserting the following new subsection:
+    ``(c) Prohibition of Certain Disclosure.--
+            ``(1) Prohibition.--
+                    ``(A) In general.--If a certification is issued 
+                under subparagraph (B) and notice of the right to 
+                judicial review under subsection (d) is provided, no 
+                wire or electronic communication service provider that 
+                receives a request under subsection (b), or officer, 
+                employee, or agent thereof, shall disclose to any person 
+                that the Federal Bureau of Investigation has sought or 
+                obtained access to information or records under this 
+                section.
+                    ``(B) <<NOTE: Applicability.>> Certification.--The 
+                requirements of subparagraph (A) shall apply if the 
+                Director of the Federal Bureau of Investigation, or a 
+                designee of the Director whose rank shall be no lower 
+                than Deputy Assistant Director at Bureau headquarters or 
+                a Special Agent in Charge of a Bureau field office, 
+                certifies that the absence of a prohibition of 
+                disclosure under this subsection may result in--
+                          ``(i) a danger to the national security of the 
+                      United States;
+                          ``(ii) interference with a criminal, 
+                      counterterrorism, or counterintelligence 
+                      investigation;
+                          ``(iii) interference with diplomatic 
+                      relations; or
+                          ``(iv) danger to the life or physical safety 
+                      of any person.
+            ``(2) Exception.--
+                    ``(A) In general.--A wire or electronic 
+                communication service provider that receives a request 
+                under subsection (b), or officer, employee, or agent 
+                thereof, may disclose information otherwise subject to 
+                any applicable nondisclosure requirement to--
+                          ``(i) those persons to whom disclosure is 
+                      necessary in order to comply with the request;
+                          ``(ii) an attorney in order to obtain legal 
+                      advice or assistance regarding the request; or
+                          ``(iii) other persons as permitted by the 
+                      Director of the Federal Bureau of Investigation or 
+                      the designee of the Director.
+                    ``(B) Application.--A person to whom disclosure is 
+                made under subparagraph (A) shall be subject to the 
+                nondisclosure requirements applicable to a person to 
+                whom a request is issued under subsection (b) in the 
+                same manner as the person to whom the request is issued.
+                    ``(C) Notice.--Any recipient that discloses to a 
+                person described in subparagraph (A) information 
+                otherwise subject to a nondisclosure requirement shall 
+                notify the person of the applicable nondisclosure 
+                requirement.
+
+[[Page 129 STAT. 284]]
+
+                    ``(D) Identification of disclosure recipients.--At 
+                the request of the Director of the Federal Bureau of 
+                Investigation or the designee of the Director, any 
+                person making or intending to make a disclosure under 
+                clause (i) or (iii) of subparagraph (A) shall identify 
+                to the Director or such designee the person to whom such 
+                disclosure will be made or to whom such disclosure was 
+                made prior to the request.''.
+
+    (b) Access to Financial Records for Certain Intelligence and 
+Protective Purposes.--Section 1114 of the Right to Financial Privacy Act 
+of 1978 (12 U.S.C. 3414) is amended--
+            (1) in subsection (a)(5), by striking subparagraph (D); and
+            (2) by inserting after subsection (b) the following new 
+        subsection:
+
+    ``(c) Prohibition of Certain Disclosure.--
+            ``(1) Prohibition.--
+                    ``(A) In general.--If a certification is issued 
+                under subparagraph (B) and notice of the right to 
+                judicial review under subsection (d) is provided, no 
+                financial institution that receives a request under 
+                subsection (a), or officer, employee, or agent thereof, 
+                shall disclose to any person that the Federal Bureau of 
+                Investigation has sought or obtained access to 
+                information or records under subsection (a).
+                    ``(B) <<NOTE: Applicability.>> Certification.--The 
+                requirements of subparagraph (A) shall apply if the 
+                Director of the Federal Bureau of Investigation, or a 
+                designee of the Director whose rank shall be no lower 
+                than Deputy Assistant Director at Bureau headquarters or 
+                a Special Agent in Charge of a Bureau field office, 
+                certifies that the absence of a prohibition of 
+                disclosure under this subsection may result in--
+                          ``(i) a danger to the national security of the 
+                      United States;
+                          ``(ii) interference with a criminal, 
+                      counterterrorism, or counterintelligence 
+                      investigation;
+                          ``(iii) interference with diplomatic 
+                      relations; or
+                          ``(iv) danger to the life or physical safety 
+                      of any person.
+            ``(2) Exception.--
+                    ``(A) In general.--A financial institution that 
+                receives a request under subsection (a), or officer, 
+                employee, or agent thereof, may disclose information 
+                otherwise subject to any applicable nondisclosure 
+                requirement to--
+                          ``(i) those persons to whom disclosure is 
+                      necessary in order to comply with the request;
+                          ``(ii) an attorney in order to obtain legal 
+                      advice or assistance regarding the request; or
+                          ``(iii) other persons as permitted by the 
+                      Director of the Federal Bureau of Investigation or 
+                      the designee of the Director.
+                    ``(B) Application.--A person to whom disclosure is 
+                made under subparagraph (A) shall be subject to the 
+                nondisclosure requirements applicable to a person to 
+                whom a request is issued under subsection (a) in the 
+                same manner as the person to whom the request is issued.
+
+[[Page 129 STAT. 285]]
+
+                    ``(C) Notice.--Any recipient that discloses to a 
+                person described in subparagraph (A) information 
+                otherwise subject to a nondisclosure requirement shall 
+                inform the person of the applicable nondisclosure 
+                requirement.
+                    ``(D) Identification of disclosure recipients.--At 
+                the request of the Director of the Federal Bureau of 
+                Investigation or the designee of the Director, any 
+                person making or intending to make a disclosure under 
+                clause (i) or (iii) of subparagraph (A) shall identify 
+                to the Director or such designee the person to whom such 
+                disclosure will be made or to whom such disclosure was 
+                made prior to the request.''.
+
+    (c) Identity of Financial Institutions and Credit Reports.--Section 
+626 of the Fair Credit Reporting Act (15 U.S.C. 1681u) is amended by 
+striking subsection (d) and inserting the following new subsection:
+    ``(d) Prohibition of Certain Disclosure.--
+            ``(1) Prohibition.--
+                    ``(A) In general.--If a certification is issued 
+                under subparagraph (B) and notice of the right to 
+                judicial review under subsection (e) is provided, no 
+                consumer reporting agency that receives a request under 
+                subsection (a) or (b) or an order under subsection (c), 
+                or officer, employee, or agent thereof, shall disclose 
+                or specify in any consumer report, that the Federal 
+                Bureau of Investigation has sought or obtained access to 
+                information or records under subsection (a), (b), or 
+                (c).
+                    ``(B) <<NOTE: Applicability.>> Certification.--The 
+                requirements of subparagraph (A) shall apply if the 
+                Director of the Federal Bureau of Investigation, or a 
+                designee of the Director whose rank shall be no lower 
+                than Deputy Assistant Director at Bureau headquarters or 
+                a Special Agent in Charge of a Bureau field office, 
+                certifies that the absence of a prohibition of 
+                disclosure under this subsection may result in--
+                          ``(i) a danger to the national security of the 
+                      United States;
+                          ``(ii) interference with a criminal, 
+                      counterterrorism, or counterintelligence 
+                      investigation;
+                          ``(iii) interference with diplomatic 
+                      relations; or
+                          ``(iv) danger to the life or physical safety 
+                      of any person.
+            ``(2) Exception.--
+                    ``(A) In general.--A consumer reporting agency that 
+                receives a request under subsection (a) or (b) or an 
+                order under subsection (c), or officer, employee, or 
+                agent thereof, may disclose information otherwise 
+                subject to any applicable nondisclosure requirement to--
+                          ``(i) those persons to whom disclosure is 
+                      necessary in order to comply with the request;
+                          ``(ii) an attorney in order to obtain legal 
+                      advice or assistance regarding the request; or
+                          ``(iii) other persons as permitted by the 
+                      Director of the Federal Bureau of Investigation or 
+                      the designee of the Director.
+                    ``(B) Application.--A person to whom disclosure is 
+                made under subparagraph (A) shall be subject to the 
+                nondisclosure requirements applicable to a person to 
+                whom a request under subsection (a) or (b) or an order 
+                under
+
+[[Page 129 STAT. 286]]
+
+                subsection (c) is issued in the same manner as the 
+                person to whom the request is issued.
+                    ``(C) Notice.--Any recipient that discloses to a 
+                person described in subparagraph (A) information 
+                otherwise subject to a nondisclosure requirement shall 
+                inform the person of the applicable nondisclosure 
+                requirement.
+                    ``(D) Identification of disclosure recipients.--At 
+                the request of the Director of the Federal Bureau of 
+                Investigation or the designee of the Director, any 
+                person making or intending to make a disclosure under 
+                clause (i) or (iii) of subparagraph (A) shall identify 
+                to the Director or such designee the person to whom such 
+                disclosure will be made or to whom such disclosure was 
+                made prior to the request.''.
+
+    (d) Consumer Reports.--Section 627 of the Fair Credit Reporting Act 
+(15 U.S.C. 1681v) is amended by striking subsection (c) and inserting 
+the following new subsection:
+    ``(c) Prohibition of Certain Disclosure.--
+            ``(1) Prohibition.--
+                    ``(A) In general.--If a certification is issued 
+                under subparagraph (B) and notice of the right to 
+                judicial review under subsection (d) is provided, no 
+                consumer reporting agency that receives a request under 
+                subsection (a), or officer, employee, or agent thereof, 
+                shall disclose or specify in any consumer report, that a 
+                government agency described in subsection (a) has sought 
+                or obtained access to information or records under 
+                subsection (a).
+                    ``(B) <<NOTE: Applicability.>> Certification.--The 
+                requirements of subparagraph (A) shall apply if the head 
+                of the government agency described in subsection (a), or 
+                a designee, certifies that the absence of a prohibition 
+                of disclosure under this subsection may result in--
+                          ``(i) a danger to the national security of the 
+                      United States;
+                          ``(ii) interference with a criminal, 
+                      counterterrorism, or counterintelligence 
+                      investigation;
+                          ``(iii) interference with diplomatic 
+                      relations; or
+                          ``(iv) danger to the life or physical safety 
+                      of any person.
+            ``(2) Exception.--
+                    ``(A) In general.--A consumer reporting agency that 
+                receives a request under subsection (a), or officer, 
+                employee, or agent thereof, may disclose information 
+                otherwise subject to any applicable nondisclosure 
+                requirement to--
+                          ``(i) those persons to whom disclosure is 
+                      necessary in order to comply with the request;
+                          ``(ii) an attorney in order to obtain legal 
+                      advice or assistance regarding the request; or
+                          ``(iii) other persons as permitted by the head 
+                      of the government agency described in subsection 
+                      (a) or a designee.
+                    ``(B) Application.--A person to whom disclosure is 
+                made under subparagraph (A) shall be subject to the 
+                nondisclosure requirements applicable to a person to 
+                whom a request under subsection (a) is issued in the 
+                same manner as the person to whom the request is issued.
+
+[[Page 129 STAT. 287]]
+
+                    ``(C) Notice.--Any recipient that discloses to a 
+                person described in subparagraph (A) information 
+                otherwise subject to a nondisclosure requirement shall 
+                inform the person of the applicable nondisclosure 
+                requirement.
+                    ``(D) Identification of disclosure recipients.--At 
+                the request of the head of the government agency 
+                described in subsection (a) or a designee, any person 
+                making or intending to make a disclosure under clause 
+                (i) or (iii) of subparagraph (A) shall identify to the 
+                head or such designee the person to whom such disclosure 
+                will be made or to whom such disclosure was made prior 
+                to the request.''.
+
+    (e) Investigations of Persons With Access to Classified 
+Information.--Section 802 of the National Security Act of 1947 (50 
+U.S.C. 3162) is amended by striking subsection (b) and inserting the 
+following new subsection:
+    ``(b) Prohibition of Certain Disclosure.--
+            ``(1) Prohibition.--
+                    ``(A) In general.--If a certification is issued 
+                under subparagraph (B) and notice of the right to 
+                judicial review under subsection (c) is provided, no 
+                governmental or private entity that receives a request 
+                under subsection (a), or officer, employee, or agent 
+                thereof, shall disclose to any person that an authorized 
+                investigative agency described in subsection (a) has 
+                sought or obtained access to information under 
+                subsection (a).
+                    ``(B) <<NOTE: Applicability.>> Certification.--The 
+                requirements of subparagraph (A) shall apply if the head 
+                of an authorized investigative agency described in 
+                subsection (a), or a designee, certifies that the 
+                absence of a prohibition of disclosure under this 
+                subsection may result in--
+                          ``(i) a danger to the national security of the 
+                      United States;
+                          ``(ii) interference with a criminal, 
+                      counterterrorism, or counterintelligence 
+                      investigation;
+                          ``(iii) interference with diplomatic 
+                      relations; or
+                          ``(iv) danger to the life or physical safety 
+                      of any person.
+            ``(2) Exception.--
+                    ``(A) In general.--A governmental or private entity 
+                that receives a request under subsection (a), or 
+                officer, employee, or agent thereof, may disclose 
+                information otherwise subject to any applicable 
+                nondisclosure requirement to--
+                          ``(i) those persons to whom disclosure is 
+                      necessary in order to comply with the request;
+                          ``(ii) an attorney in order to obtain legal 
+                      advice or assistance regarding the request; or
+                          ``(iii) other persons as permitted by the head 
+                      of the authorized investigative agency described 
+                      in subsection (a) or a designee.
+                    ``(B) Application.--A person to whom disclosure is 
+                made under subparagraph (A) shall be subject to the 
+                nondisclosure requirements applicable to a person to 
+                whom a request is issued under subsection (a) in the 
+                same manner as the person to whom the request is issued.
+
+[[Page 129 STAT. 288]]
+
+                    ``(C) Notice.--Any recipient that discloses to a 
+                person described in subparagraph (A) information 
+                otherwise subject to a nondisclosure requirement shall 
+                inform the person of the applicable nondisclosure 
+                requirement.
+                    ``(D) Identification of disclosure recipients.--At 
+                the request of the head of an authorized investigative 
+                agency described in subsection (a), or a designee, any 
+                person making or intending to make a disclosure under 
+                clause (i) or (iii) of subparagraph (A) shall identify 
+                to the head of the authorized investigative agency or 
+                such designee the person to whom such disclosure will be 
+                made or to whom such disclosure was made prior to the 
+                request.''.
+
+    (f) <<NOTE: 12 USC 3414 note.>> Termination Procedures.--
+            (1) <<NOTE: Deadline.>> In general.--Not later than 180 days 
+        after the date of enactment of this Act, the Attorney General 
+        shall adopt procedures with respect to nondisclosure 
+        requirements issued pursuant to section 2709 of title 18, United 
+        States Code, section 626 or 627 of the Fair Credit Reporting Act 
+        (15 U.S.C. 1681u and 1681v), section 1114 of the Right to 
+        Financial Privacy Act (12 U.S.C. 3414), or section 802 of the 
+        National Security Act of 1947 (50 U.S.C. 3162), as amended by 
+        this Act, to require--
+                    (A) the review at appropriate intervals of such a 
+                nondisclosure requirement to assess whether the facts 
+                supporting nondisclosure continue to exist;
+                    (B) the termination of such a nondisclosure 
+                requirement if the facts no longer support 
+                nondisclosure; and
+                    (C) appropriate notice to the recipient of the 
+                national security letter, or officer, employee, or agent 
+                thereof, subject to the nondisclosure requirement, and 
+                the applicable court as appropriate, that the 
+                nondisclosure requirement has been terminated.
+            (2) Reporting.--Upon adopting the procedures required under 
+        paragraph (1), the Attorney General shall submit the procedures 
+        to the Committee on the Judiciary of the Senate and the 
+        Committee on the Judiciary of the House of Representatives.
+
+    (g) Judicial Review.--Section 3511 of title 18, United States Code, 
+is amended by striking subsection (b) and inserting the following new 
+subsection:
+    ``(b) Nondisclosure.--
+            ``(1) In general.--
+                    ``(A) Notice.--If a recipient of a request or order 
+                for a report, records, or other information under 
+                section 2709 of this title, section 626 or 627 of the 
+                Fair Credit Reporting Act (15 U.S.C. 1681u and 1681v), 
+                section 1114 of the Right to Financial Privacy Act of 
+                1978 (12 U.S.C. 3414), or section 802 of the National 
+                Security Act of 1947 (50 U.S.C. 3162), wishes to have a 
+                court review a nondisclosure requirement imposed in 
+                connection with the request or order, the recipient may 
+                notify the Government or file a petition for judicial 
+                review in any court described in subsection (a).
+                    ``(B) <<NOTE: Deadline.>> Application.--Not later 
+                than 30 days after the date of receipt of a notification 
+                under subparagraph (A), the Government shall apply for 
+                an order prohibiting the disclosure of the existence or 
+                contents of the relevant
+
+[[Page 129 STAT. 289]]
+
+                request or order. An application under this subparagraph 
+                may be filed in the district court of the United States 
+                for the judicial district in which the recipient of the 
+                order is doing business or in the district court of the 
+                United States for any judicial district within which the 
+                authorized investigation that is the basis for the 
+                request is being conducted. The applicable nondisclosure 
+                requirement shall remain in effect during the pendency 
+                of proceedings relating to the requirement.
+                    ``(C) Consideration.--A district court of the United 
+                States that receives a petition under subparagraph (A) 
+                or an application under subparagraph (B) should rule 
+                expeditiously, and shall, subject to paragraph (3), 
+                issue a nondisclosure order that includes conditions 
+                appropriate to the circumstances.
+            ``(2) <<NOTE: Certification.>> Application contents.--An 
+        application for a nondisclosure order or extension thereof or a 
+        response to a petition filed under paragraph (1) shall include a 
+        certification from the Attorney General, Deputy Attorney 
+        General, an Assistant Attorney General, or the Director of the 
+        Federal Bureau of Investigation, or a designee in a position not 
+        lower than Deputy Assistant Director at Bureau headquarters or a 
+        Special Agent in Charge in a Bureau field office designated by 
+        the Director, or in the case of a request by a department, 
+        agency, or instrumentality of the Federal Government other than 
+        the Department of Justice, the head or deputy head of the 
+        department, agency, or instrumentality, containing a statement 
+        of specific facts indicating that the absence of a prohibition 
+        of disclosure under this subsection may result in--
+                    ``(A) a danger to the national security of the 
+                United States;
+                    ``(B) interference with a criminal, 
+                counterterrorism, or counterintelligence investigation;
+                    ``(C) interference with diplomatic relations; or
+                    ``(D) danger to the life or physical safety of any 
+                person.
+            ``(3) Standard.--A district court of the United States shall 
+        issue a nondisclosure order or extension thereof under this 
+        subsection if the court determines that there is reason to 
+        believe that disclosure of the information subject to the 
+        nondisclosure requirement during the applicable time period may 
+        result in--
+                    ``(A) a danger to the national security of the 
+                United States;
+                    ``(B) interference with a criminal, 
+                counterterrorism, or counterintelligence investigation;
+                    ``(C) interference with diplomatic relations; or
+                    ``(D) danger to the life or physical safety of any 
+                person.''.
+SEC. 503. JUDICIAL REVIEW.
+
+    (a) Counterintelligence Access to Telephone Toll and Transactional 
+Records.--Section 2709 of title 18, United States Code, is amended--
+            (1) by redesignating subsections (d), (e), and (f) as 
+        subsections (e), (f), and (g), respectively; and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+
+    ``(d) Judicial Review.--
+
+[[Page 129 STAT. 290]]
+
+            ``(1) In general.--A request under subsection (b) or a 
+        nondisclosure requirement imposed in connection with such 
+        request under subsection (c) shall be subject to judicial review 
+        under section 3511.
+            ``(2) Notice.--A request under subsection (b) shall include 
+        notice of the availability of judicial review described in 
+        paragraph (1).''.
+
+    (b) Access to Financial Records for Certain Intelligence and 
+Protective Purposes.--Section 1114 of the Right to Financial Privacy Act 
+of 1978 (12 U.S.C. 3414) is amended--
+            (1) by redesignating subsection (d) as subsection (e); and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+
+    ``(d) Judicial Review.--
+            ``(1) In general.--A request under subsection (a) or a 
+        nondisclosure requirement imposed in connection with such 
+        request under subsection (c) shall be subject to judicial review 
+        under section 3511 of title 18, United States Code.
+            ``(2) Notice.--A request under subsection (a) shall include 
+        notice of the availability of judicial review described in 
+        paragraph (1).''.
+
+    (c) Identity of Financial Institutions and Credit Reports.--Section 
+626 of the Fair Credit Reporting Act (15 U.S.C. 1681u) is amended--
+            (1) by redesignating subsections (e) through (m) as 
+        subsections (f) through (n), respectively; and
+            (2) by inserting after subsection (d) the following new 
+        subsection:
+
+    ``(e) Judicial Review.--
+            ``(1) In general.--A request under subsection (a) or (b) or 
+        an order under subsection (c) or a non-disclosure requirement 
+        imposed in connection with such request under subsection (d) 
+        shall be subject to judicial review under section 3511 of title 
+        18, United States Code.
+            ``(2) Notice.--A request under subsection (a) or (b) or an 
+        order under subsection (c) shall include notice of the 
+        availability of judicial review described in paragraph (1).''.
+
+    (d) Identity of Financial Institutions and Credit Reports.--Section 
+627 of the Fair Credit Reporting Act (15 U.S.C. 1681v) is amended--
+            (1) by redesignating subsections (d), (e), and (f) as 
+        subsections (e), (f), and (g), respectively; and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+
+    ``(d) Judicial Review.--
+            ``(1) In general.--A request under subsection (a) or a non-
+        disclosure requirement imposed in connection with such request 
+        under subsection (c) shall be subject to judicial review under 
+        section 3511 of title 18, United States Code.
+            ``(2) Notice.--A request under subsection (a) shall include 
+        notice of the availability of judicial review described in 
+        paragraph (1).''.
+
+    (e) Investigations of Persons With Access to Classified 
+Information.--Section 802 of the National Security Act of 1947 (50 
+U.S.C. 3162) is amended--
+            (1) by redesignating subsections (c) through (f) as 
+        subsections (d) through (g), respectively; and
+
+[[Page 129 STAT. 291]]
+
+            (2) by inserting after subsection (b) the following new 
+        subsection:
+
+    ``(c) Judicial Review.--
+            ``(1) In general.--A request under subsection (a) or a 
+        nondisclosure requirement imposed in connection with such 
+        request under subsection (b) shall be subject to judicial review 
+        under section 3511 of title 18, United States Code.
+            ``(2) Notice.--A request under subsection (a) shall include 
+        notice of the availability of judicial review described in 
+        paragraph (1).''.
+
+         TITLE VI--FISA TRANSPARENCY AND REPORTING REQUIREMENTS
+
+SEC. 601. ADDITIONAL REPORTING ON ORDERS REQUIRING PRODUCTION OF 
+                        BUSINESS RECORDS; BUSINESS RECORDS 
+                        COMPLIANCE REPORTS TO CONGRESS.
+
+    (a) Reports Submitted to Committees.--Section 502(b) (50 U.S.C. 
+1862(b)) is amended--
+            (1) by redesignating paragraphs (1), (2), and (3) as 
+        paragraphs (6), (7), and (8), respectively; and
+            (2) by inserting before paragraph (6) (as so redesignated) 
+        the following new paragraphs:
+            ``(1) a summary of all compliance reviews conducted by the 
+        Government for the production of tangible things under section 
+        501;
+            ``(2) the total number of applications described in section 
+        501(b)(2)(B) made for orders approving requests for the 
+        production of tangible things;
+            ``(3) the total number of such orders either granted, 
+        modified, or denied;
+            ``(4) the total number of applications described in section 
+        501(b)(2)(C) made for orders approving requests for the 
+        production of call detail records;
+            ``(5) the total number of such orders either granted, 
+        modified, or denied;''.
+
+    (b) Reporting on Certain Types of Production.--Section 502(c)(1) (50 
+U.S.C. 1862(c)(1)) is amended--
+            (1) in subparagraph (A), by striking ``and'';
+            (2) in subparagraph (B), by striking the period at the end 
+        and inserting a semicolon; and
+            (3) by adding at the end the following new subparagraphs:
+            ``(C) the total number of applications made for orders 
+        approving requests for the production of tangible things under 
+        section 501 in which the specific selection term does not 
+        specifically identify an individual, account, or personal 
+        device;
+            ``(D) the total number of orders described in subparagraph 
+        (C) either granted, modified, or denied; and
+            ``(E) with respect to orders described in subparagraph (D) 
+        that have been granted or modified, whether the court 
+        established under section 103 has directed additional, 
+        particularized minimization procedures beyond those adopted 
+        pursuant to section 501(g).''.
+
+[[Page 129 STAT. 292]]
+
+SEC. 602. ANNUAL REPORTS BY THE GOVERNMENT.
+
+    (a) In General.--Title VI (50 U.S.C. 1871 et seq.), as amended by 
+section 402 of this Act, is further amended by adding at the end the 
+following new section:
+``SEC. 603. <<NOTE: 50 USC 1873.>> ANNUAL REPORTS.
+
+    ``(a) Report by Director of the Administrative Office of the United 
+States Courts.--
+            ``(1) Report required.--The Director of the Administrative 
+        Office of the United States Courts shall annually submit to the 
+        Permanent Select Committee on Intelligence and the Committee on 
+        the Judiciary of the House of Representatives and the Select 
+        Committee on Intelligence and the Committee on the Judiciary of 
+        the Senate, subject to a declassification review by the Attorney 
+        General and the Director of National Intelligence, a report that 
+        includes--
+                    ``(A) the number of applications or certifications 
+                for orders submitted under each of sections 105, 304, 
+                402, 501, 702, 703, and 704;
+                    ``(B) the number of such orders granted under each 
+                of those sections;
+                    ``(C) the number of orders modified under each of 
+                those sections;
+                    ``(D) the number of applications or certifications 
+                denied under each of those sections;
+                    ``(E) the number of appointments of an individual to 
+                serve as amicus curiae under section 103, including the 
+                name of each individual appointed to serve as amicus 
+                curiae; and
+                    ``(F) the number of findings issued under section 
+                103(i) that such appointment is not appropriate and the 
+                text of any such findings.
+            ``(2) <<NOTE: Public information. Web 
+        posting.>> Publication.--The Director shall make the report 
+        required under paragraph (1) publicly available on an Internet 
+        Web site, except that the Director shall not make publicly 
+        available on an Internet Web site the findings described in 
+        subparagraph (F) of paragraph (1).
+
+    ``(b) Mandatory Reporting by Director of National 
+Intelligence. <<NOTE: Public information. Web posting. Time period.>> --
+Except as provided in subsection (d), the Director of National 
+Intelligence shall annually make publicly available on an Internet Web 
+site a report that identifies, for the preceding 12-month period--
+            ``(1) the total number of orders issued pursuant to titles I 
+        and III and sections 703 and 704 and a good faith estimate of 
+        the number of targets of such orders;
+            ``(2) the total number of orders issued pursuant to section 
+        702 and a good faith estimate of--
+                    ``(A) the number of search terms concerning a known 
+                United States person used to retrieve the unminimized 
+                contents of electronic communications or wire 
+                communications obtained through acquisitions authorized 
+                under such section, excluding the number of search terms 
+                used to prevent the return of information concerning a 
+                United States person; and
+                    ``(B) the number of queries concerning a known 
+                United States person of unminimized noncontents 
+                information
+
+[[Page 129 STAT. 293]]
+
+                relating to electronic communications or wire 
+                communications obtained through acquisitions authorized 
+                under such section, excluding the number of queries 
+                containing information used to prevent the return of 
+                information concerning a United States person;
+            ``(3) the total number of orders issued pursuant to title IV 
+        and a good faith estimate of--
+                    ``(A) the number of targets of such orders; and
+                    ``(B) the number of unique identifiers used to 
+                communicate information collected pursuant to such 
+                orders;
+            ``(4) the total number of orders issued pursuant to 
+        applications made under section 501(b)(2)(B) and a good faith 
+        estimate of--
+                    ``(A) the number of targets of such orders; and
+                    ``(B) the number of unique identifiers used to 
+                communicate information collected pursuant to such 
+                orders;
+            ``(5) the total number of orders issued pursuant to 
+        applications made under section 501(b)(2)(C) and a good faith 
+        estimate of--
+                    ``(A) the number of targets of such orders;
+                    ``(B) the number of unique identifiers used to 
+                communicate information collected pursuant to such 
+                orders; and
+                    ``(C) the number of search terms that included 
+                information concerning a United States person that were 
+                used to query any database of call detail records 
+                obtained through the use of such orders; and
+            ``(6) the total number of national security letters issued 
+        and the number of requests for information contained within such 
+        national security letters.
+
+    ``(c) <<NOTE: Public information.>> Timing.--The annual reports 
+required by subsections (a) and (b) shall be made publicly available 
+during April of each year and include information relating to the 
+previous calendar year.
+
+    ``(d) Exceptions.--
+            ``(1) Statement of numerical range.--If a good faith 
+        estimate required to be reported under subparagraph (B) of any 
+        of paragraphs (3), (4), or (5) of subsection (b) is fewer than 
+        500, it shall be expressed as a numerical range of `fewer than 
+        500' and shall not be expressed as an individual number.
+            ``(2) Nonapplicability to certain information.--
+                    ``(A) Federal bureau of investigation.--Paragraphs 
+                (2)(A), (2)(B), and (5)(C) of subsection (b) shall not 
+                apply to information or records held by, or queries 
+                conducted by, the Federal Bureau of Investigation.
+                    ``(B) Electronic mail address and telephone 
+                numbers.--Paragraph (3)(B) of subsection (b) shall not 
+                apply to orders resulting in the acquisition of 
+                information by the Federal Bureau of Investigation that 
+                does not include electronic mail addresses or telephone 
+                numbers.
+            ``(3) Certification.--
+                    ``(A) In general.--If the Director of National 
+                Intelligence concludes that a good faith estimate 
+                required to be reported under subsection (b)(2)(B) 
+                cannot be determined accurately because some but not all 
+                of the relevant elements of the intelligence community 
+                are able to provide such good faith estimate, the 
+                Director shall--
+                          ``(i) certify that conclusion in writing to 
+                      the Select Committee on Intelligence and the 
+                      Committee on the
+
+[[Page 129 STAT. 294]]
+
+                      Judiciary of the Senate and the Permanent Select 
+                      Committee on Intelligence and the Committee on the 
+                      Judiciary of the House of Representatives;
+                          ``(ii) report the good faith estimate for 
+                      those relevant elements able to provide such good 
+                      faith estimate;
+                          ``(iii) explain when it is reasonably 
+                      anticipated that such an estimate will be able to 
+                      be determined fully and accurately; and
+                          ``(iv) <<NOTE: Public information. Web 
+                      posting.>> make such certification publicly 
+                      available on an Internet Web site.
+                    ``(B) Form.--A certification described in 
+                subparagraph (A) shall be prepared in unclassified form, 
+                but may contain a classified annex.
+                    ``(C) Timing.--If the Director of National 
+                Intelligence continues to conclude that the good faith 
+                estimates described in this paragraph cannot be 
+                determined accurately, the Director shall annually 
+                submit a certification in accordance with this 
+                paragraph.
+
+    ``(e) Definitions.--In this section:
+            ``(1) Contents.--The term `contents' has the meaning given 
+        that term under section 2510 of title 18, United States Code.
+            ``(2) Electronic communication.--The term `electronic 
+        communication' has the meaning given that term under section 
+        2510 of title 18, United States Code.
+            ``(3) National security letter.--The term `national security 
+        letter' means a request for a report, records, or other 
+        information under--
+                    ``(A) section 2709 of title 18, United States Code;
+                    ``(B) section 1114(a)(5)(A) of the Right to 
+                Financial Privacy Act of 1978 (12 U.S.C. 3414(a)(5)(A));
+                    ``(C) subsection (a) or (b) of section 626 of the 
+                Fair Credit Reporting Act (15 U.S.C. 1681u(a), 
+                1681u(b)); or
+                    ``(D) section 627(a) of the Fair Credit Reporting 
+                Act (15 U.S.C. 1681v(a)).
+            ``(4) United states person.--The term `United States person' 
+        means a citizen of the United States or an alien lawfully 
+        admitted for permanent residence (as defined in section 101(a) 
+        of the Immigration and Nationality Act (8 U.S.C. 1101(a))).
+            ``(5) Wire communication.--The term `wire communication' has 
+        the meaning given that term under section 2510 of title 18, 
+        United States Code.''.
+
+    (b) Table of Contents Amendment.--The table of contents, as amended 
+by section 402 of this Act, is further amended by inserting after the 
+item relating to section 602, as added by section 402 of this Act, the 
+following new item:
+
+``Sec. 603. Annual reports.''.
+
+    (c) Public Reporting on National Security Letters.--Section 118(c) 
+of the USA PATRIOT Improvement and Reauthorization Act of 2005 (18 
+U.S.C. 3511 note) is amended--
+            (1) in paragraph (1)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``United States''; and
+                    (B) in subparagraph (A), by striking ``, excluding 
+                the number of requests for subscriber information'';
+            (2) by redesignating paragraph (2) as paragraph (3); and
+
+[[Page 129 STAT. 295]]
+
+            (3) by inserting after paragraph (1) the following:
+            ``(2) Content.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), each report required under this 
+                subsection shall include a good faith estimate of the 
+                total number of requests described in paragraph (1) 
+                requiring disclosure of information concerning--
+                          ``(i) United States persons; and
+                          ``(ii) persons who are not United States 
+                      persons.
+                    ``(B) Exception.--With respect to the number of 
+                requests for subscriber information under section 2709 
+                of title 18, United States Code, a report required under 
+                this subsection need not separate the number of requests 
+                into each of the categories described in subparagraph 
+                (A).''.
+
+    (d) Stored Communications.--Section 2702(d) of title 18, United 
+States Code, is amended--
+            (1) in paragraph (1), by striking ``; and'' and inserting a 
+        semicolon;
+            (2) in paragraph (2)(B), by striking the period and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(3) the number of accounts from which the Department of 
+        Justice has received voluntary disclosures under subsection 
+        (c)(4).''.
+SEC. 603. PUBLIC REPORTING BY PERSONS SUBJECT TO FISA ORDERS.
+
+    (a) In General.--Title VI (50 U.S.C. 1871 et seq.), as amended by 
+sections 402 and 602 of this Act, is further amended by adding at the 
+end the following new section:
+``SEC. 604. <<NOTE: 50 USC 1874.>> PUBLIC REPORTING BY PERSONS 
+                        SUBJECT TO ORDERS.
+
+    ``(a) Reporting.--A person subject to a nondisclosure requirement 
+accompanying an order or directive under this Act or a national security 
+letter may, with respect to such order, directive, or national security 
+letter, publicly report the following information using one of the 
+following structures:
+            ``(1) A semiannual report that aggregates the number of 
+        orders, directives, or national security letters with which the 
+        person was required to comply into separate categories of--
+                    ``(A) the number of national security letters 
+                received, reported in bands of 1000 starting with 0-999;
+                    ``(B) the number of customer selectors targeted by 
+                national security letters, reported in bands of 1000 
+                starting with 0-999;
+                    ``(C) the number of orders or directives received, 
+                combined, under this Act for contents, reported in bands 
+                of 1000 starting with 0-999;
+                    ``(D) the number of customer selectors targeted 
+                under orders or directives received, combined, under 
+                this Act for contents reported in bands of 1000 starting 
+                with 0-999;
+                    ``(E) the number of orders received under this Act 
+                for noncontents, reported in bands of 1000 starting with 
+                0-999; and
+                    ``(F) the number of customer selectors targeted 
+                under orders under this Act for noncontents, reported in 
+                bands of 1000 starting with 0-999, pursuant to--
+                          ``(i) title IV;
+
+[[Page 129 STAT. 296]]
+
+                          ``(ii) title V with respect to applications 
+                      described in section 501(b)(2)(B); and
+                          ``(iii) title V with respect to applications 
+                      described in section 501(b)(2)(C).
+            ``(2) A semiannual report that aggregates the number of 
+        orders, directives, or national security letters with which the 
+        person was required to comply into separate categories of--
+                    ``(A) the number of national security letters 
+                received, reported in bands of 500 starting with 0-499;
+                    ``(B) the number of customer selectors targeted by 
+                national security letters, reported in bands of 500 
+                starting with 0-499;
+                    ``(C) the number of orders or directives received, 
+                combined, under this Act for contents, reported in bands 
+                of 500 starting with 0-499;
+                    ``(D) the number of customer selectors targeted 
+                under orders or directives received, combined, under 
+                this Act for contents, reported in bands of 500 starting 
+                with 0-499;
+                    ``(E) the number of orders received under this Act 
+                for noncontents, reported in bands of 500 starting with 
+                0-499; and
+                    ``(F) the number of customer selectors targeted 
+                under orders received under this Act for noncontents, 
+                reported in bands of 500 starting with 0-499.
+            ``(3) A semiannual report that aggregates the number of 
+        orders, directives, or national security letters with which the 
+        person was required to comply in the into separate categories 
+        of--
+                    ``(A) the total number of all national security 
+                process received, including all national security 
+                letters, and orders or directives under this Act, 
+                combined, reported in bands of 250 starting with 0-249; 
+                and
+                    ``(B) the total number of customer selectors 
+                targeted under all national security process received, 
+                including all national security letters, and orders or 
+                directives under this Act, combined, reported in bands 
+                of 250 starting with 0-249.
+            ``(4) An annual report that aggregates the number of orders, 
+        directives, and national security letters the person was 
+        required to comply with into separate categories of--
+                    ``(A) the total number of all national security 
+                process received, including all national security 
+                letters, and orders or directives under this Act, 
+                combined, reported in bands of 100 starting with 0-99; 
+                and
+                    ``(B) the total number of customer selectors 
+                targeted under all national security process received, 
+                including all national security letters, and orders or 
+                directives under this Act, combined, reported in bands 
+                of 100 starting with 0-99.
+
+    ``(b) Period of Time Covered by Reports.--
+            ``(1) A report described in paragraph (1) or (2) of 
+        subsection (a) shall include only information--
+                    ``(A) relating to national security letters for the 
+                previous 180 days; and
+                    ``(B) relating to authorities under this Act for the 
+                180-day period of time ending on the date that is not 
+                less than 180 days prior to the date of the publication 
+                of such
+
+[[Page 129 STAT. 297]]
+
+                report, except that with respect to a platform, product, 
+                or service for which a person did not previously receive 
+                an order or directive (not including an enhancement to 
+                or iteration of an existing publicly available platform, 
+                product, or service) such report shall not include any 
+                information relating to such new order or directive 
+                until 540 days after the date on which such new order or 
+                directive is received.
+            ``(2) A report described in paragraph (3) of subsection (a) 
+        shall include only information relating to the previous 180 
+        days.
+            ``(3) A report described in paragraph (4) of subsection (a) 
+        shall include only information for the 1-year period of time 
+        ending on the date that is not less than 1 year prior to the 
+        date of the publication of such report.
+
+    ``(c) Other Forms of Agreed to Publication.--Nothing in this section 
+prohibits the Government and any person from jointly agreeing to the 
+publication of information referred to in this subsection in a time, 
+form, or manner other than as described in this section.
+    ``(d) Definitions.--In this section:
+            ``(1) Contents.--The term `contents' has the meaning given 
+        that term under section 2510 of title 18, United States Code.
+            ``(2) National security letter.--The term `national security 
+        letter' has the meaning given that term under section 603.''.
+
+    (b) Table of Contents Amendment.--The table of contents, as amended 
+by sections 402 and 602 of this Act, is further amended by inserting 
+after the item relating to section 603, as added by section 602 of this 
+Act, the following new item:
+
+``Sec. 604. Public reporting by persons subject to orders.''.
+
+SEC. 604. REPORTING REQUIREMENTS FOR DECISIONS, ORDERS, AND 
+                        OPINIONS OF THE FOREIGN INTELLIGENCE 
+                        SURVEILLANCE COURT AND THE FOREIGN 
+                        INTELLIGENCE SURVEILLANCE COURT OF REVIEW.
+
+    Section 601(c)(1) (50 U.S.C. 1871(c)(1)) is amended to read as 
+follows:
+            ``(1) <<NOTE: Records.>> not later than 45 days after the 
+        date on which the Foreign Intelligence Surveillance Court or the 
+        Foreign Intelligence Surveillance Court of Review issues a 
+        decision, order, or opinion, including any denial or 
+        modification of an application under this Act, that includes 
+        significant construction or interpretation of any provision of 
+        law or results in a change of application of any provision of 
+        this Act or a novel application of any provision of this Act, a 
+        copy of such decision, order, or opinion and any pleadings, 
+        applications, or memoranda of law associated with such decision, 
+        order, or opinion; and''.
+SEC. 605. SUBMISSION OF REPORTS UNDER FISA.
+
+    (a) Electronic Surveillance.--Section 108(a)(1) (50 U.S.C. 
+1808(a)(1)) is amended by striking ``the House Permanent Select 
+Committee on Intelligence and the Senate Select Committee on 
+Intelligence, and the Committee on the Judiciary of the Senate,'' and 
+inserting ``the Permanent Select Committee on Intelligence and the 
+Committee on the Judiciary of the House of Representatives
+
+[[Page 129 STAT. 298]]
+
+and the Select Committee on Intelligence and the Committee on the 
+Judiciary of the Senate''.
+    (b) Physical Searches.--The matter preceding paragraph (1) of 
+section 306 (50 U.S.C. 1826) is amended--
+            (1) in the first sentence, by striking ``Permanent Select 
+        Committee on Intelligence of the House of Representatives and 
+        the Select Committee on Intelligence of the Senate, and the 
+        Committee on the Judiciary of the Senate,'' and inserting 
+        ``Permanent Select Committee on Intelligence and the Committee 
+        on the Judiciary of the House of Representatives and the Select 
+        Committee on Intelligence and the Committee on the Judiciary of 
+        the Senate''; and
+            (2) in the second sentence, by striking ``and the Committee 
+        on the Judiciary of the House of Representatives''.
+
+    (c) Pen Registers and Trap and Trace Devices.--Section 406(b) (50 
+U.S.C. 1846(b)) is amended--
+            (1) in paragraph (2), by striking ``; and'' and inserting a 
+        semicolon;
+            (2) in paragraph (3), by striking the period and inserting a 
+        semicolon; and
+            (3) by adding at the end the following new paragraphs:
+            ``(4) each department or agency on behalf of which the 
+        Attorney General or a designated attorney for the Government has 
+        made an application for an order authorizing or approving the 
+        installation and use of a pen register or trap and trace device 
+        under this title; and
+            ``(5) for each department or agency described in paragraph 
+        (4), each number described in paragraphs (1), (2), and (3).''.
+
+    (d) Access to Certain Business Records and Other Tangible Things.--
+Section 502(a) (50 U.S.C. 1862(a)) is amended by striking ``Permanent 
+Select Committee on Intelligence of the House of Representatives and the 
+Select Committee on Intelligence and the Committee on the Judiciary of 
+the Senate'' and inserting ``Permanent Select Committee on Intelligence 
+and the Committee on the Judiciary of the House of Representatives and 
+the Select Committee on Intelligence and the Committee on the Judiciary 
+of the Senate''.
+
+            TITLE VII--ENHANCED NATIONAL SECURITY PROVISIONS
+
+SEC. 701. EMERGENCIES INVOLVING NON-UNITED STATES PERSONS.
+
+    (a) In General.--Section 105 (50 U.S.C. 1805) is amended--
+            (1) by redesignating subsections (f), (g), (h), and (i) as 
+        subsections (g), (h), (i), and (j), respectively; and
+            (2) by inserting after subsection (e) the following:
+
+    ``(f)(1) <<NOTE: Time period.>> Notwithstanding any other provision 
+of this Act, the lawfully authorized targeting of a non-United States 
+person previously believed to be located outside the United States for 
+the acquisition of foreign intelligence information may continue for a 
+period not to exceed 72 hours from the time that the non-United States 
+person is reasonably believed to be located inside the United States and 
+the acquisition is subject to this title or to title III of this Act, 
+provided that the head of an element of the intelligence community--
+
+[[Page 129 STAT. 299]]
+
+            ``(A) <<NOTE: Determination.>> reasonably determines that a 
+        lapse in the targeting of such non-United States person poses a 
+        threat of death or serious bodily harm to any person;
+            ``(B) <<NOTE: Notification.>> promptly notifies the Attorney 
+        General of a determination under subparagraph (A); and
+            ``(C) requests, as soon as practicable, the employment of 
+        emergency electronic surveillance under subsection (e) or the 
+        employment of an emergency physical search pursuant to section 
+        304(e), as warranted.
+
+    ``(2) <<NOTE: Time period. Termination.>> The authority under this 
+subsection to continue the acquisition of foreign intelligence 
+information is limited to a period not to exceed 72 hours and shall 
+cease upon the earlier of the following:
+            ``(A) The employment of emergency electronic surveillance 
+        under subsection (e) or the employment of an emergency physical 
+        search pursuant to section 304(e).
+            ``(B) An issuance of a court order under this title or title 
+        III of this Act.
+            ``(C) The Attorney General provides direction that the 
+        acquisition be terminated.
+            ``(D) The head of the element of the intelligence community 
+        conducting the acquisition determines that a request under 
+        paragraph (1)(C) is not warranted.
+            ``(E) When the threat of death or serious bodily harm to any 
+        person is no longer reasonably believed to exist.
+
+    ``(3) Nonpublicly available information concerning unconsenting 
+United States persons acquired under this subsection shall not be 
+disseminated during the 72 hour time period under paragraph (1) unless 
+necessary to investigate, reduce, or eliminate the threat of death or 
+serious bodily harm to any person.
+    ``(4) If the Attorney General declines to authorize the employment 
+of emergency electronic surveillance under subsection (e) or the 
+employment of an emergency physical search pursuant to section 304(e), 
+or a court order is not obtained under this title or title III of this 
+Act, information obtained during the 72 hour acquisition time period 
+under paragraph (1) shall not be retained, except with the approval of 
+the Attorney General if the information indicates a threat of death or 
+serious bodily harm to any person.
+    ``(5) <<NOTE: Applicability.>> Paragraphs (5) and (6) of subsection 
+(e) shall apply to this subsection.''.
+
+    (b) Notification of Emergency Employment of Electronic 
+Surveillance.--Section 106(j) (50 U.S.C. 1806(j)) is amended by striking 
+``section 105(e)'' and inserting ``subsection (e) or (f) of section 
+105''.
+    (c) Report to Congress.--Section 108(a)(2) (50 U.S.C. 1808(a)(2)) is 
+amended--
+            (1) in subparagraph (B), by striking ``and'' at the end;
+            (2) in subparagraph (C), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(D) the total number of authorizations under 
+                section 105(f) and the total number of subsequent 
+                emergency employments of electronic surveillance under 
+                section 105(e) or emergency physical searches pursuant 
+                to section 301(e).''.
+
+[[Page 129 STAT. 300]]
+
+SEC. 702. PRESERVATION OF TREATMENT OF NON-UNITED STATES PERSONS 
+                        TRAVELING OUTSIDE THE UNITED STATES AS 
+                        AGENTS OF FOREIGN POWERS.
+
+    Section 101(b)(1) <<NOTE: 50 USC 1801.>> is amended--
+            (1) in subparagraph (A), by inserting before the semicolon 
+        at the end the following: ``, irrespective of whether the person 
+        is inside the United States''; and
+            (2) in subparagraph (B)--
+                    (A) by striking ``of such person's presence in the 
+                United States''; and
+                    (B) by striking ``such activities in the United 
+                States'' and inserting ``such activities''.
+SEC. 703. IMPROVEMENT TO INVESTIGATIONS OF INTERNATIONAL 
+                        PROLIFERATION OF WEAPONS OF MASS 
+                        DESTRUCTION.
+
+    Section 101(b)(1) is further amended by striking subparagraph (E) 
+and inserting the following new subparagraph (E):
+                    ``(E) engages in the international proliferation of 
+                weapons of mass destruction, or activities in 
+                preparation therefor, for or on behalf of a foreign 
+                power, or knowingly aids or abets any person in the 
+                conduct of such proliferation or activities in 
+                preparation therefor, or knowingly conspires with any 
+                person to engage in such proliferation or activities in 
+                preparation therefor; or''.
+SEC. 704. INCREASE IN PENALTIES FOR MATERIAL SUPPORT OF FOREIGN 
+                        TERRORIST ORGANIZATIONS.
+
+    Section 2339B(a)(1) of title 18, United States Code, is amended by 
+striking ``15 years'' and inserting ``20 years''.
+SEC. 705. SUNSETS.
+
+    (a) USA PATRIOT Improvement and Reauthorization Act of 2005.--
+Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act 
+of 2005 (50 U.S.C. 1805 note) <<NOTE: 50 USC 1805 and note, 1861-
+1863.>> is amended by striking ``June 1, 2015'' and inserting ``December 
+15, 2019''.
+
+    (b) Intelligence Reform and Terrorism Prevention Act of 2004.--
+Section 6001(b)(1) of the Intelligence Reform and Terrorism Prevention 
+Act of 2004 (50 U.S.C. 1801 note) is amended by striking ``June 1, 
+2015'' and inserting ``December 15, 2019''.
+    (c) Conforming Amendment.--Section 102(b)(1) of the USA PATRIOT 
+Improvement and Reauthorization Act of 2005 (50 U.S.C. 1805 
+note), <<NOTE: 50 USC 1805 and note, 1861-1863.>> as amended by 
+subsection (a), is further amended by striking ``sections 501, 502, 
+and'' and inserting ``title V and section''.
+
+    TITLE VIII--SAFETY OF MARITIME NAVIGATION AND NUCLEAR TERRORISM 
+                       CONVENTIONS IMPLEMENTATION
+
+                Subtitle A--Safety of Maritime Navigation
+
+SEC. 801. AMENDMENT TO SECTION 2280 OF TITLE 18, UNITED STATES 
+                        CODE.
+
+    Section 2280 of title 18, United States Code, is amended--
+            (1) in subsection (b)--
+
+[[Page 129 STAT. 301]]
+
+                    (A) in paragraph (1)(A)(i), by striking ``a ship 
+                flying the flag of the United States'' and inserting ``a 
+                vessel of the United States or a vessel subject to the 
+                jurisdiction of the United States (as defined in section 
+                70502 of title 46)'';
+                    (B) in paragraph (1)(A)(ii), by inserting ``, 
+                including the territorial seas'' after ``in the United 
+                States''; and
+                    (C) in paragraph (1)(A)(iii), by inserting ``, by a 
+                United States corporation or legal entity,'' after ``by 
+                a national of the United States'';
+            (2) in subsection (c), by striking ``section 2(c)'' and 
+        inserting ``section 13(c)'';
+            (3) by striking subsection (d);
+            (4) by striking subsection (e) and inserting after 
+        subsection (c) the following:
+
+    ``(d) Definitions.--As used in this section, section 2280a, section 
+2281, and section 2281a, the term--
+            ``(1) `applicable treaty' means--
+                    ``(A) the Convention for the Suppression of Unlawful 
+                Seizure of Aircraft, done at The Hague on 16 December 
+                1970;
+                    ``(B) the Convention for the Suppression of Unlawful 
+                Acts against the Safety of Civil Aviation, done at 
+                Montreal on 23 September 1971;
+                    ``(C) the Convention on the Prevention and 
+                Punishment of Crimes against Internationally Protected 
+                Persons, including Diplomatic Agents, adopted by the 
+                General Assembly of the United Nations on 14 December 
+                1973;
+                    ``(D) International Convention against the Taking of 
+                Hostages, adopted by the General Assembly of the United 
+                Nations on 17 December 1979;
+                    ``(E) the Convention on the Physical Protection of 
+                Nuclear Material, done at Vienna on 26 October 1979;
+                    ``(F) the Protocol for the Suppression of Unlawful 
+                Acts of Violence at Airports Serving International Civil 
+                Aviation, supplementary to the Convention for the 
+                Suppression of Unlawful Acts against the Safety of Civil 
+                Aviation, done at Montreal on 24 February 1988;
+                    ``(G) the Protocol for the Suppression of Unlawful 
+                Acts against the Safety of Fixed Platforms Located on 
+                the Continental Shelf, done at Rome on 10 March 1988;
+                    ``(H) International Convention for the Suppression 
+                of Terrorist Bombings, adopted by the General Assembly 
+                of the United Nations on 15 December 1997; and
+                    ``(I) International Convention for the Suppression 
+                of the Financing of Terrorism, adopted by the General 
+                Assembly of the United Nations on 9 December 1999;
+            ``(2) `armed conflict' does not include internal 
+        disturbances and tensions, such as riots, isolated and sporadic 
+        acts of violence, and other acts of a similar nature;
+            ``(3) `biological weapon' means--
+                    ``(A) microbial or other biological agents, or 
+                toxins whatever their origin or method of production, of 
+                types and in quantities that have no justification for 
+                prophylactic, protective, or other peaceful purposes; or
+
+[[Page 129 STAT. 302]]
+
+                    ``(B) weapons, equipment, or means of delivery 
+                designed to use such agents or toxins for hostile 
+                purposes or in armed conflict;
+            ``(4) `chemical weapon' means, together or separately--
+                    ``(A) toxic chemicals and their precursors, except 
+                where intended for--
+                          ``(i) industrial, agricultural, research, 
+                      medical, pharmaceutical, or other peaceful 
+                      purposes;
+                          ``(ii) protective purposes, namely those 
+                      purposes directly related to protection against 
+                      toxic chemicals and to protection against chemical 
+                      weapons;
+                          ``(iii) military purposes not connected with 
+                      the use of chemical weapons and not dependent on 
+                      the use of the toxic properties of chemicals as a 
+                      method of warfare; or
+                          ``(iv) law enforcement including domestic riot 
+                      control purposes,
+                as long as the types and quantities are consistent with 
+                such purposes;
+                    ``(B) munitions and devices, specifically designed 
+                to cause death or other harm through the toxic 
+                properties of those toxic chemicals specified in 
+                subparagraph (A), which would be released as a result of 
+                the employment of such munitions and devices; and
+                    ``(C) any equipment specifically designed for use 
+                directly in connection with the employment of munitions 
+                and devices specified in subparagraph (B);
+            ``(5) `covered ship' means a ship that is navigating or is 
+        scheduled to navigate into, through or from waters beyond the 
+        outer limit of the territorial sea of a single country or a 
+        lateral limit of that country's territorial sea with an adjacent 
+        country;
+            ``(6) `explosive material' has the meaning given the term in 
+        section 841(c) and includes explosive as defined in section 
+        844(j) of this title;
+            ``(7) `infrastructure facility' has the meaning given the 
+        term in section 2332f(e)(5) of this title;
+            ``(8) `international organization' has the meaning given the 
+        term in section 831(f)(3) of this title;
+            ``(9) `military forces of a state' means the armed forces of 
+        a state which are organized, trained, and equipped under its 
+        internal law for the primary purpose of national defense or 
+        security, and persons acting in support of those armed forces 
+        who are under their formal command, control, and responsibility;
+            ``(10) `national of the United States' has the meaning 
+        stated in section 101(a)(22) of the Immigration and Nationality 
+        Act (8 U.S.C. 1101(a)(22));
+            ``(11) `Non-Proliferation Treaty' means the Treaty on the 
+        Non-Proliferation of Nuclear Weapons, done at Washington, 
+        London, and Moscow on 1 July 1968;
+            ``(12) `Non-Proliferation Treaty State Party' means any 
+        State Party to the Non-Proliferation Treaty, to include Taiwan, 
+        which shall be considered to have the obligations under the Non-
+        Proliferation Treaty of a party to that treaty other than a 
+        Nuclear Weapon State Party to the Non-Proliferation Treaty;
+
+[[Page 129 STAT. 303]]
+
+            ``(13) `Nuclear Weapon State Party to the Non-Proliferation 
+        Treaty' means a State Party to the Non-Proliferation Treaty that 
+        is a nuclear-weapon State, as that term is defined in Article 
+        IX(3) of the Non-Proliferation Treaty;
+            ``(14) `place of public use' has the meaning given the term 
+        in section 2332f(e)(6) of this title;
+            ``(15) `precursor' has the meaning given the term in section 
+        229F(6)(A) of this title;
+            ``(16) `public transport system' has the meaning given the 
+        term in section 2332f(e)(7) of this title;
+            ``(17) `serious injury or damage' means--
+                    ``(A) serious bodily injury,
+                    ``(B) extensive destruction of a place of public 
+                use, State or government facility, infrastructure 
+                facility, or public transportation system, resulting in 
+                major economic loss, or
+                    ``(C) substantial damage to the environment, 
+                including air, soil, water, fauna, or flora;
+            ``(18) `ship' means a vessel of any type whatsoever not 
+        permanently attached to the sea-bed, including dynamically 
+        supported craft, submersibles, or any other floating craft, but 
+        does not include a warship, a ship owned or operated by a 
+        government when being used as a naval auxiliary or for customs 
+        or police purposes, or a ship which has been withdrawn from 
+        navigation or laid up;
+            ``(19) `source material' has the meaning given that term in 
+        the International Atomic Energy Agency Statute, done at New York 
+        on 26 October 1956;
+            ``(20) `special fissionable material' has the meaning given 
+        that term in the International Atomic Energy Agency Statute, 
+        done at New York on 26 October 1956;
+            ``(21) `territorial sea of the United States' means all 
+        waters extending seaward to 12 nautical miles from the baselines 
+        of the United States determined in accordance with international 
+        law;
+            ``(22) `toxic chemical' has the meaning given the term in 
+        section 229F(8)(A) of this title;
+            ``(23) `transport' means to initiate, arrange or exercise 
+        effective control, including decisionmaking authority, over the 
+        movement of a person or item; and
+            ``(24) `United States', when used in a geographical sense, 
+        includes the Commonwealth of Puerto Rico, the Commonwealth of 
+        the Northern Mariana Islands, and all territories and 
+        possessions of the United States.''; and
+            (5) by inserting after subsection (d) (as added by paragraph 
+        (4) of this section) the following:
+
+    ``(e) Exceptions.--This section shall not apply to--
+            ``(1) the activities of armed forces during an armed 
+        conflict, as those terms are understood under the law of war, 
+        which are governed by that law; or
+            ``(2) activities undertaken by military forces of a state in 
+        the exercise of their official duties.
+
+    ``(f) Delivery of Suspected Offender.--The master of a covered ship 
+flying the flag of the United States who has reasonable grounds to 
+believe that there is on board that ship any person who has committed an 
+offense under section 2280 or section 2280a may deliver such person to 
+the authorities of a country that is
+
+[[Page 129 STAT. 304]]
+
+a party to the Convention for the Suppression of Unlawful Acts against 
+the Safety of Maritime Navigation. <<NOTE: Notification.>> Before 
+delivering such person to the authorities of another country, the master 
+shall notify in an appropriate manner the Attorney General of the United 
+States of the alleged offense and await instructions from the Attorney 
+General as to what action to take. <<NOTE: Notification.>> When 
+delivering the person to a country which is a state party to the 
+Convention, the master shall, whenever practicable, and if possible 
+before entering the territorial sea of such country, notify the 
+authorities of such country of the master's intention to deliver such 
+person and the reasons therefor. If the master delivers such person, the 
+master shall furnish to the authorities of such country the evidence in 
+the master's possession that pertains to the alleged offense.
+
+    ``(g)(1) Civil Forfeiture.--Any real or personal property used or 
+intended to be used to commit or to facilitate the commission of a 
+violation of this section, the gross proceeds of such violation, and any 
+real or personal property traceable to such property or proceeds, shall 
+be subject to forfeiture.
+    ``(2) Applicable Procedures.--Seizures and forfeitures under this 
+section shall be governed by the provisions of chapter 46 of title 18, 
+United States Code, relating to civil forfeitures, except that such 
+duties as are imposed upon the Secretary of the Treasury under the 
+customs laws described in section 981(d) shall be performed by such 
+officers, agents, and other persons as may be designated for that 
+purpose by the Secretary of Homeland Security, the Attorney General, or 
+the Secretary of Defense.''.
+SEC. 802. NEW SECTION 2280A OF TITLE 18, UNITED STATES CODE.
+
+    (a) In General.--Chapter 111 of title 18, United States Code, is 
+amended by adding after section 2280 the following new section:
+``Sec. 2280a. <<NOTE: 18 USC 2280a.>> Violence against maritime 
+                    navigation and maritime transport involving 
+                    weapons of mass destruction
+
+    ``(a) Offenses.--
+            ``(1) <<NOTE: Penalties.>> In general.--Subject to the 
+        exceptions in subsection (c), a person who unlawfully and 
+        intentionally--
+                    ``(A) when the purpose of the act, by its nature or 
+                context, is to intimidate a population, or to compel a 
+                government or an international organization to do or to 
+                abstain from doing any act--
+                          ``(i) uses against or on a ship or discharges 
+                      from a ship any explosive or radioactive material, 
+                      biological, chemical, or nuclear weapon or other 
+                      nuclear explosive device in a manner that causes 
+                      or is likely to cause death to any person or 
+                      serious injury or damage;
+                          ``(ii) discharges from a ship oil, liquefied 
+                      natural gas, or another hazardous or noxious 
+                      substance that is not covered by clause (i), in 
+                      such quantity or concentration that causes or is 
+                      likely to cause death to any person or serious 
+                      injury or damage; or
+                          ``(iii) uses a ship in a manner that causes 
+                      death to any person or serious injury or damage;
+                    ``(B) transports on board a ship--
+                          ``(i) any explosive or radioactive material, 
+                      knowing that it is intended to be used to cause, 
+                      or in a threat to cause, death to any person or 
+                      serious injury or damage for the purpose of 
+                      intimidating a population,
+
+[[Page 129 STAT. 305]]
+
+                      or compelling a government or an international 
+                      organization to do or to abstain from doing any 
+                      act;
+                          ``(ii) any biological, chemical, or nuclear 
+                      weapon or other nuclear explosive device, knowing 
+                      it to be a biological, chemical, or nuclear weapon 
+                      or other nuclear explosive device;
+                          ``(iii) any source material, special 
+                      fissionable material, or equipment or material 
+                      especially designed or prepared for the 
+                      processing, use, or production of special 
+                      fissionable material, knowing that it is intended 
+                      to be used in a nuclear explosive activity or in 
+                      any other nuclear activity not under safeguards 
+                      pursuant to an International Atomic Energy Agency 
+                      comprehensive safeguards agreement, except where--
+                                    ``(I) such item is transported to or 
+                                from the territory of, or otherwise 
+                                under the control of, a Non-
+                                Proliferation Treaty State Party; and
+                                    ``(II) the resulting transfer or 
+                                receipt (including internal to a 
+                                country) is not contrary to the 
+                                obligations under the Non-Proliferation 
+                                Treaty of the Non-Proliferation Treaty 
+                                State Party from which, to the territory 
+                                of which, or otherwise under the control 
+                                of which such item is transferred;
+                          ``(iv) any equipment, materials, or software 
+                      or related technology that significantly 
+                      contributes to the design or manufacture of a 
+                      nuclear weapon or other nuclear explosive device, 
+                      with the intention that it will be used for such 
+                      purpose, except where--
+                                    ``(I) the country to the territory 
+                                of which or under the control of which 
+                                such item is transferred is a Nuclear 
+                                Weapon State Party to the Non-
+                                Proliferation Treaty; and
+                                    ``(II) the resulting transfer or 
+                                receipt (including internal to a 
+                                country) is not contrary to the 
+                                obligations under the Non-Proliferation 
+                                Treaty of a Non-Proliferation Treaty 
+                                State Party from which, to the territory 
+                                of which, or otherwise under the control 
+                                of which such item is transferred;
+                          ``(v) any equipment, materials, or software or 
+                      related technology that significantly contributes 
+                      to the delivery of a nuclear weapon or other 
+                      nuclear explosive device, with the intention that 
+                      it will be used for such purpose, except where--
+                                    ``(I) such item is transported to or 
+                                from the territory of, or otherwise 
+                                under the control of, a Non-
+                                Proliferation Treaty State Party; and
+                                    ``(II) such item is intended for the 
+                                delivery system of a nuclear weapon or 
+                                other nuclear explosive device of a 
+                                Nuclear Weapon State Party to the Non-
+                                Proliferation Treaty; or
+                          ``(vi) any equipment, materials, or software 
+                      or related technology that significantly 
+                      contributes to the design, manufacture, or 
+                      delivery of a biological or chemical weapon, with 
+                      the intention that it will be used for such 
+                      purpose;
+                    ``(C) transports another person on board a ship 
+                knowing that the person has committed an act that 
+                constitutes
+
+[[Page 129 STAT. 306]]
+
+                an offense under section 2280 or subparagraph (A), (B), 
+                (D), or (E) of this section or an offense set forth in 
+                an applicable treaty, as specified in section 
+                2280(d)(1), and intending to assist that person to evade 
+                criminal prosecution;
+                    ``(D) injures or kills any person in connection with 
+                the commission or the attempted commission of any of the 
+                offenses set forth in subparagraphs (A) through (C), or 
+                subsection (a)(2), to the extent that the subsection 
+                (a)(2) offense pertains to subparagraph (A); or
+                    ``(E) attempts to do any act prohibited under 
+                subparagraph (A), (B) or (D), or conspires to do any act 
+                prohibited by subparagraphs (A) through (E) or 
+                subsection (a)(2),
+        shall be fined under this title, imprisoned not more than 20 
+        years, or both; and if the death of any person results from 
+        conduct prohibited by this paragraph, shall be imprisoned for 
+        any term of years or for life.
+            ``(2) <<NOTE: Penalties.>> Threats.--A person who threatens, 
+        with apparent determination and will to carry the threat into 
+        execution, to do any act prohibited under paragraph (1)(A) shall 
+        be fined under this title, imprisoned not more than 5 years, or 
+        both.
+
+    ``(b) Jurisdiction.--There is jurisdiction over the activity 
+prohibited in subsection (a)--
+            ``(1) in the case of a covered ship, if--
+                    ``(A) such activity is committed--
+                          ``(i) against or on board a vessel of the 
+                      United States or a vessel subject to the 
+                      jurisdiction of the United States (as defined in 
+                      section 70502 of title 46) at the time the 
+                      prohibited activity is committed;
+                          ``(ii) in the United States, including the 
+                      territorial seas; or
+                          ``(iii) by a national of the United States, by 
+                      a United States corporation or legal entity, or by 
+                      a stateless person whose habitual residence is in 
+                      the United States;
+                    ``(B) during the commission of such activity, a 
+                national of the United States is seized, threatened, 
+                injured, or killed; or
+                    ``(C) the offender is later found in the United 
+                States after such activity is committed;
+            ``(2) in the case of a ship navigating or scheduled to 
+        navigate solely within the territorial sea or internal waters of 
+        a country other than the United States, if the offender is later 
+        found in the United States after such activity is committed; or
+            ``(3) in the case of any vessel, if such activity is 
+        committed in an attempt to compel the United States to do or 
+        abstain from doing any act.
+
+    ``(c) Exceptions.--This section shall not apply to--
+            ``(1) the activities of armed forces during an armed 
+        conflict, as those terms are understood under the law of war, 
+        which are governed by that law; or
+            ``(2) activities undertaken by military forces of a state in 
+        the exercise of their official duties.
+
+    ``(d)(1) Civil Forfeiture.--Any real or personal property used or 
+intended to be used to commit or to facilitate the commission of a 
+violation of this section, the gross proceeds of such violation,
+
+[[Page 129 STAT. 307]]
+
+and any real or personal property traceable to such property or 
+proceeds, shall be subject to forfeiture.
+    ``(2) Applicable Procedures.--Seizures and forfeitures under this 
+section shall be governed by the provisions of chapter 46 of title 18, 
+United States Code, relating to civil forfeitures, except that such 
+duties as are imposed upon the Secretary of the Treasury under the 
+customs laws described in section 981(d) shall be performed by such 
+officers, agents, and other persons as may be designated for that 
+purpose by the Secretary of Homeland Security, the Attorney General, or 
+the Secretary of Defense.''.
+    (b) Conforming Amendment.--The table of sections at the beginning of 
+chapter 111 of title 18, United States Code, <<NOTE: 18 USC prec. 
+2271.>>  is amended by adding after the item relating to section 2280 
+the following new item:
+
+``2280a. Violence against maritime navigation and maritime transport 
+           involving weapons of mass destruction.''.
+
+SEC. 803. AMENDMENTS TO SECTION 2281 OF TITLE 18, UNITED STATES 
+                        CODE.
+
+    Section 2281 of title 18, United States Code, is amended--
+            (1) in subsection (c), by striking ``section 2(c)'' and 
+        inserting ``section 13(c)'';
+            (2) in subsection (d), by striking the definitions of 
+        ``national of the United States,'' ``territorial sea of the 
+        United States,'' and ``United States''; and
+            (3) by inserting after subsection (d) the following:
+
+    ``(e) Exceptions.--This section does not apply to--
+            ``(1) the activities of armed forces during an armed 
+        conflict, as those terms are understood under the law of war, 
+        which are governed by that law; or
+            ``(2) activities undertaken by military forces of a state in 
+        the exercise of their official duties.''.
+SEC. 804. NEW SECTION 2281A OF TITLE 18, UNITED STATES CODE.
+
+    (a) In General.--Chapter 111 of title 18, United States Code, is 
+amended by adding after section 2281 the following new section:
+``Sec. 2281a. <<NOTE: 18 USC 2281a.>> Additional offenses against 
+                    maritime fixed platforms
+
+    ``(a) Offenses.--
+            ``(1) <<NOTE: Penalties.>> In general.--A person who 
+        unlawfully and intentionally--
+                    ``(A) when the purpose of the act, by its nature or 
+                context, is to intimidate a population, or to compel a 
+                government or an international organization to do or to 
+                abstain from doing any act--
+                          ``(i) uses against or on a fixed platform or 
+                      discharges from a fixed platform any explosive or 
+                      radioactive material, biological, chemical, or 
+                      nuclear weapon in a manner that causes or is 
+                      likely to cause death or serious injury or damage; 
+                      or
+                          ``(ii) discharges from a fixed platform oil, 
+                      liquefied natural gas, or another hazardous or 
+                      noxious substance that is not covered by clause 
+                      (i), in such quantity or concentration that causes 
+                      or is likely to cause death or serious injury or 
+                      damage;
+
+[[Page 129 STAT. 308]]
+
+                    ``(B) injures or kills any person in connection with 
+                the commission or the attempted commission of any of the 
+                offenses set forth in subparagraph (A); or
+                    ``(C) attempts or conspires to do anything 
+                prohibited under subparagraph (A) or (B),
+        shall be fined under this title, imprisoned not more than 20 
+        years, or both; and if death results to any person from conduct 
+        prohibited by this paragraph, shall be imprisoned for any term 
+        of years or for life.
+            ``(2) <<NOTE: Penalties.>> Threat to safety.--A person who 
+        threatens, with apparent determination and will to carry the 
+        threat into execution, to do any act prohibited under paragraph 
+        (1)(A), shall be fined under this title, imprisoned not more 
+        than 5 years, or both.
+
+    ``(b) Jurisdiction.--There is jurisdiction over the activity 
+prohibited in subsection (a) if--
+            ``(1) such activity is committed against or on board a fixed 
+        platform--
+                    ``(A) that is located on the continental shelf of 
+                the United States;
+                    ``(B) that is located on the continental shelf of 
+                another country, by a national of the United States or 
+                by a stateless person whose habitual residence is in the 
+                United States; or
+                    ``(C) in an attempt to compel the United States to 
+                do or abstain from doing any act;
+            ``(2) during the commission of such activity against or on 
+        board a fixed platform located on a continental shelf, a 
+        national of the United States is seized, threatened, injured, or 
+        killed; or
+            ``(3) such activity is committed against or on board a fixed 
+        platform located outside the United States and beyond the 
+        continental shelf of the United States and the offender is later 
+        found in the United States.
+
+    ``(c) Exceptions.--This section does not apply to--
+            ``(1) the activities of armed forces during an armed 
+        conflict, as those terms are understood under the law of war, 
+        which are governed by that law; or
+            ``(2) activities undertaken by military forces of a state in 
+        the exercise of their official duties.
+
+    ``(d) Definitions.--In this section--
+            ``(1) `continental shelf' means the sea-bed and subsoil of 
+        the submarine areas that extend beyond a country's territorial 
+        sea to the limits provided by customary international law as 
+        reflected in Article 76 of the 1982 Convention on the Law of the 
+        Sea; and
+            ``(2) `fixed platform' means an artificial island, 
+        installation, or structure permanently attached to the sea-bed 
+        for the purpose of exploration or exploitation of resources or 
+        for other economic purposes.''.
+
+    (b) Conforming Amendment.--The table of sections at the beginning of 
+chapter 111 of title 18, United States Code, <<NOTE: 18 USC prec. 
+2271.>> is amended by adding after the item relating to section 2281 the 
+following new item:
+
+``2281a. Additional offenses against maritime fixed platforms.''.
+
+[[Page 129 STAT. 309]]
+
+SEC. 805. ANCILLARY MEASURE.
+
+    Section 2332b(g)(5)(B) of title 18, United States Code, is amended 
+by inserting ``2280a (relating to maritime safety),'' before ``2281'', 
+and by striking ``2281'' and inserting ``2281 through 2281a''.
+
+               Subtitle B--Prevention of Nuclear Terrorism
+
+SEC. 811. NEW SECTION 2332I OF TITLE 18, UNITED STATES CODE.
+
+    (a) In General.--Chapter 113B of title 18, United States Code, is 
+amended by adding after section 2332h the following:
+``Sec. 2332i. <<NOTE: 18 USC 2332i.>>  Acts of nuclear terrorism
+
+    ``(a) Offenses.--
+            ``(1) In general.--Whoever knowingly and unlawfully--
+                    ``(A) possesses radioactive material or makes or 
+                possesses a device--
+                          ``(i) with the intent to cause death or 
+                      serious bodily injury; or
+                          ``(ii) with the intent to cause substantial 
+                      damage to property or the environment; or
+                    ``(B) uses in any way radioactive material or a 
+                device, or uses or damages or interferes with the 
+                operation of a nuclear facility in a manner that causes 
+                the release of or increases the risk of the release of 
+                radioactive material, or causes radioactive 
+                contamination or exposure to radiation--
+                          ``(i) with the intent to cause death or 
+                      serious bodily injury or with the knowledge that 
+                      such act is likely to cause death or serious 
+                      bodily injury;
+                          ``(ii) with the intent to cause substantial 
+                      damage to property or the environment or with the 
+                      knowledge that such act is likely to cause 
+                      substantial damage to property or the environment; 
+                      or
+                          ``(iii) with the intent to compel a person, an 
+                      international organization or a country to do or 
+                      refrain from doing an act,
+                shall be punished as prescribed in subsection (c).
+            ``(2) Threats.--Whoever, under circumstances in which the 
+        threat may reasonably be believed, threatens to commit an 
+        offense under paragraph (1) shall be punished as prescribed in 
+        subsection (c). Whoever demands possession of or access to 
+        radioactive material, a device or a nuclear facility by threat 
+        or by use of force shall be punished as prescribed in subsection 
+        (c).
+            ``(3) Attempts and conspiracies.--Whoever attempts to commit 
+        an offense under paragraph (1) or conspires to commit an offense 
+        under paragraph (1) or (2) shall be punished as prescribed in 
+        subsection (c).
+
+    ``(b) Jurisdiction.--Conduct prohibited by subsection (a) is within 
+the jurisdiction of the United States if--
+            ``(1) the prohibited conduct takes place in the United 
+        States or the special aircraft jurisdiction of the United 
+        States;
+            ``(2) the prohibited conduct takes place outside of the 
+        United States and--
+
+[[Page 129 STAT. 310]]
+
+                    ``(A) is committed by a national of the United 
+                States, a United States corporation or legal entity or a 
+                stateless person whose habitual residence is in the 
+                United States;
+                    ``(B) is committed on board a vessel of the United 
+                States or a vessel subject to the jurisdiction of the 
+                United States (as defined in section 70502 of title 46) 
+                or on board an aircraft that is registered under United 
+                States law, at the time the offense is committed; or
+                    ``(C) is committed in an attempt to compel the 
+                United States to do or abstain from doing any act, or 
+                constitutes a threat directed at the United States;
+            ``(3) the prohibited conduct takes place outside of the 
+        United States and a victim or an intended victim is a national 
+        of the United States or a United States corporation or legal 
+        entity, or the offense is committed against any state or 
+        government facility of the United States; or
+            ``(4) a perpetrator of the prohibited conduct is found in 
+        the United States.
+
+    ``(c) Penalties.--Whoever violates this section shall be fined not 
+more than $2,000,000 and shall be imprisoned for any term of years or 
+for life.
+    ``(d) Nonapplicability.--This section does not apply to--
+            ``(1) the activities of armed forces during an armed 
+        conflict, as those terms are understood under the law of war, 
+        which are governed by that law; or
+            ``(2) activities undertaken by military forces of a state in 
+        the exercise of their official duties.
+
+    ``(e) Definitions.--As used in this section, the term--
+            ``(1) `armed conflict' has the meaning given that term in 
+        section 2332f(e)(11) of this title;
+            ``(2) `device' means:
+                    ``(A) any nuclear explosive device; or
+                    ``(B) any radioactive material dispersal or 
+                radiation-emitting device that may, owing to its 
+                radiological properties, cause death, serious bodily 
+                injury or substantial damage to property or the 
+                environment;
+            ``(3) `international organization' has the meaning given 
+        that term in section 831(f)(3) of this title;
+            ``(4) `military forces of a state' means the armed forces of 
+        a country that are organized, trained and equipped under its 
+        internal law for the primary purpose of national defense or 
+        security and persons acting in support of those armed forces who 
+        are under their formal command, control and responsibility;
+            ``(5) `national of the United States' has the meaning given 
+        that term in section 101(a)(22) of the Immigration and 
+        Nationality Act (8 U.S.C. 1101(a)(22));
+            ``(6) `nuclear facility' means:
+                    ``(A) any nuclear reactor, including reactors on 
+                vessels, vehicles, aircraft or space objects for use as 
+                an energy source in order to propel such vessels, 
+                vehicles, aircraft or space objects or for any other 
+                purpose;
+                    ``(B) any plant or conveyance being used for the 
+                production, storage, processing or transport of 
+                radioactive material; or
+
+[[Page 129 STAT. 311]]
+
+                    ``(C) a facility (including associated buildings and 
+                equipment) in which nuclear material is produced, 
+                processed, used, handled, stored or disposed of, if 
+                damage to or interference with such facility could lead 
+                to the release of significant amounts of radiation or 
+                radioactive material;
+            ``(7) `nuclear material' has the meaning given that term in 
+        section 831(f)(1) of this title;
+            ``(8) `radioactive material' means nuclear material and 
+        other radioactive substances that contain nuclides that undergo 
+        spontaneous disintegration (a process accompanied by emission of 
+        one or more types of ionizing radiation, such as alpha-, beta-, 
+        neutron particles and gamma rays) and that may, owing to their 
+        radiological or fissile properties, cause death, serious bodily 
+        injury or substantial damage to property or to the environment;
+            ``(9) `serious bodily injury' has the meaning given that 
+        term in section 831(f)(4) of this title;
+            ``(10) `state' has the same meaning as that term has under 
+        international law, and includes all political subdivisions 
+        thereof;
+            ``(11) `state or government facility' has the meaning given 
+        that term in section 2332f(e)(3) of this title;
+            ``(12) `United States corporation or legal entity' means any 
+        corporation or other entity organized under the laws of the 
+        United States or any State, Commonwealth, territory, possession 
+        or district of the United States;
+            ``(13) `vessel' has the meaning given that term in section 
+        1502(19) of title 33; and
+            ``(14) `vessel of the United States' has the meaning given 
+        that term in section 70502 of title 46.''.
+
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 113B of title 18, United States Code, <<NOTE: 18 USC prec. 
+2331.>>  is amended by inserting after the item relating to section 
+2332h the following:
+
+``2332i. Acts of nuclear terrorism.''.
+
+    (c) <<NOTE: 18 USC 2332b note.>> Disclaimer.--Nothing contained in 
+this section is intended to affect the applicability of any other 
+Federal or State law that might pertain to the underlying conduct.
+
+    (d) Inclusion in Definition of Federal Crimes of Terrorism.--Section 
+2332b(g)(5)(B) of title 18, United States Code, is amended by inserting 
+``2332i (relating to acts of nuclear terrorism),'' before ``2339 
+(relating to harboring terrorists)''.
+SEC. 812. AMENDMENT TO SECTION 831 OF TITLE 18, UNITED STATES 
+                        CODE.
+
+    Section 831 of title 18, United States Code, is amended--
+     (a) in subsection (a)--
+            (1) by redesignating paragraphs (3) through (8) as 
+        paragraphs (4) through (9);
+            (2) by inserting after paragraph (2) the following:
+            ``(3) without lawful authority, intentionally carries, sends 
+        or moves nuclear material into or out of a country;'';
+            (3) in paragraph (8), as redesignated, by striking ``an 
+        offense under paragraph (1), (2), (3), or (4)'' and inserting 
+        ``any act prohibited under paragraphs (1) through (5)''; and
+            (4) in paragraph (9), as redesignated, by striking ``an 
+        offense under paragraph (1), (2), (3), or (4)'' and inserting 
+        ``any act prohibited under paragraphs (1) through (7)'';
+
+[[Page 129 STAT. 312]]
+
+    (b) in subsection (b)--
+            (1) in paragraph (1), by striking ``(7)'' and inserting 
+        ``(8)''; and
+            (2) in paragraph (2), by striking ``(8)'' and inserting 
+        ``(9)'';
+
+    (c) in subsection (c)--
+            (1) in subparagraph (2)(A), by adding after ``United 
+        States'' the following: ``or a stateless person whose habitual 
+        residence is in the United States'';
+            (2) by striking paragraph (5);
+            (3) in paragraph (4), by striking ``or'' at the end; and
+            (4) by inserting after paragraph (4), the following:
+            ``(5) the offense is committed on board a vessel of the 
+        United States or a vessel subject to the jurisdiction of the 
+        United States (as defined in section 70502 of title 46) or on 
+        board an aircraft that is registered under United States law, at 
+        the time the offense is committed;
+            ``(6) the offense is committed outside the United States and 
+        against any state or government facility of the United States; 
+        or
+            ``(7) the offense is committed in an attempt to compel the 
+        United States to do or abstain from doing any act, or 
+        constitutes a threat directed at the United States.'';
+
+    (d) by redesignating subsections (d) through (f) as (e) through (g), 
+respectively;
+    (e) by inserting after subsection (c) the following:
+    ``(d) Nonapplicability.--This section does not apply to--
+            ``(1) the activities of armed forces during an armed 
+        conflict, as those terms are understood under the law of war, 
+        which are governed by that law; or
+            ``(2) activities undertaken by military forces of a state in 
+        the exercise of their official duties.''; and
+
+    (f) in subsection (g), as redesignated--
+            (1) in paragraph (6), by striking ``and'' at the end;
+            (2) in paragraph (7), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) <<NOTE: Definitions.>> by inserting after paragraph (7), 
+        the following:
+            ``(8) the term `armed conflict' has the meaning given that 
+        term in section 2332f(e)(11) of this title;
+            ``(9) the term `military forces of a state' means the armed 
+        forces of a country that are organized, trained and equipped 
+        under its internal law for the primary purpose of national 
+        defense or security and persons acting in support of those armed 
+        forces who are under their formal command, control and 
+        responsibility;
+            ``(10) the term `state' has the same meaning as that term 
+        has under international law, and includes all political 
+        subdivisions thereof;
+            ``(11) the term `state or government facility' has the 
+        meaning given that term in section 2332f(e)(3) of this title; 
+        and
+
+[[Page 129 STAT. 313]]
+
+            ``(12) the term `vessel of the United States' has the 
+        meaning given that term in section 70502 of title 46.''.
+
+    Approved June 2, 2015.
+
+LEGISLATIVE HISTORY--H.R. 2048:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-109, Pt. 1 (Comm. on the Judiciary).
+CONGRESSIONAL RECORD, Vol. 161 (2015):
+            May 13, considered and passed House.
+            May 31, June 1, 2, considered and passed Senate.
+
+                                  
+

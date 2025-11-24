@@ -1,0 +1,2069 @@
+
+[107th Congress Public Law 250]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ250.107]
+
+
+[[Page 1587]]
+
+          MEDICAL DEVICE USER FEE AND MODERNIZATION ACT OF 2002
+
+[[Page 116 STAT. 1588]]
+
+Public Law 107-250
+107th Congress
+
+                                 An Act
+
+
+ 
+ To amend the Federal Food, Drug, and Cosmetic Act to make improvements 
+          in the regulation of medical devices, and for other 
+            purposes. <<NOTE: Oct. 26, 2002 -  [H.R. 5651]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Medical Device User Fee and 
+Modernization Act of 2002.>> assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This <<NOTE: 21 USC 301 note.>> Act may be cited 
+as the ``Medical Device User Fee and Modernization Act of 2002''.
+
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+                TITLE I--FEES RELATED TO MEDICAL DEVICES
+
+Sec. 101. Findings.
+Sec. 102. Establishment of program.
+Sec. 103. Annual reports.
+Sec. 104. Postmarket surveillance.
+Sec. 105. Consultation.
+Sec. 106. Effective date.
+Sec. 107. Sunset clause.
+
+      TITLE II--AMENDMENTS REGARDING REGULATION OF MEDICAL DEVICES
+
+Sec. 201. Inspections by accredited persons.
+Sec. 202. Third party review of premarket notification.
+Sec. 203. Debarment of accredited persons.
+Sec. 204. Designation and regulation of combination products.
+Sec. 205. Report on certain devices.
+Sec. 206. Electronic labeling.
+Sec. 207. Electronic registration.
+Sec. 208. Intended use.
+Sec. 209. Modular review.
+Sec. 210. Pediatric expertise regarding classification-panel review of 
+           premarket applications.
+Sec. 211. Internet list of class II devices exempted from requirement of 
+           premarket notification.
+Sec. 212. Study by Institute of Medicine of postmarket surveillance 
+           regarding pediatric populations.
+Sec. 213. Guidance regarding pediatric devices.
+Sec. 214. Breast implants; study by Comptroller General.
+Sec. 215. Breast implants; research through National Institutes of 
+           Health.
+
+                    TITLE III--ADDITIONAL AMENDMENTS
+
+Sec. 301. Identification of manufacturer of medical devices.
+Sec. 302. Single-use medical devices.
+Sec. 303. MedWatch.
+
+[[Page 116 STAT. 1589]]
+
+                TITLE I--FEES RELATED TO MEDICAL DEVICES
+
+SEC. 101. <<NOTE: 21 USC 379i note.>> FINDINGS.
+
+    The Congress finds that--
+            (1) prompt approval and clearance of safe and effective 
+        devices is critical to the improvement of the public health so 
+        that patients may enjoy the benefits of devices to diagnose, 
+        treat, and prevent disease;
+            (2) the public health will be served by making additional 
+        funds available for the purpose of augmenting the resources of 
+        the Food and Drug Administration that are devoted to the process 
+        for the review of devices and the assurance of device safety and 
+        effectiveness so that statutorily mandated deadlines may be met; 
+        and
+            (3) the fees authorized by this title will be dedicated to 
+        meeting the goals identified in the letters from the Secretary 
+        of Health and Human Services to the Committee on Energy and 
+        Commerce of the House of Representatives and the Committee on 
+        Health, Education, Labor, and Pensions of the Senate, as set 
+        forth in the Congressional Record.
+
+SEC. 102. ESTABLISHMENT OF PROGRAM.
+
+    (a) In General.--Subchapter C of chapter VII of the Federal Food, 
+Drug, and Cosmetic Act (21 U.S.C. 379F et seq.) is amended by adding at 
+the end the following part:
+
+                   ``PART 3--FEES RELATING TO DEVICES
+
+``SEC. 737. <<NOTE: 21 USC 379i.>> DEFINITIONS.
+
+    ``For purposes of this subchapter:
+            ``(1) The term `premarket application' means--
+                    ``(A) an application for approval of a device 
+                submitted under section 515(c) or section 351 of the 
+                Public Health Service Act; or
+                    ``(B) a product development protocol described in 
+                section 515(f).
+        Such term does not include a supplement, a premarket report, or 
+        a premarket notification submission.
+            ``(2) The term `premarket report' means a report submitted 
+        under section 515(c)(2).
+            ``(3) The term `premarket notification submission' means a 
+        report submitted under section 510(k).
+            ``(4)(A) The term `supplement', with respect to a panel-
+        track supplement, a 180-day supplement, a real-time supplement, 
+        or an efficacy supplement, means a request to the Secretary to 
+        approve a change in a device for which--
+                    ``(i) an application or report has been approved 
+                under section 515(d), or an application has been 
+                approved under section 351 of the Public Health Service 
+                Act; or
+                    ``(ii) a notice of completion has become effective 
+                under section 515(f).
+            ``(B) The term `panel-track supplement' means a supplement 
+        to an approved premarket application or premarket report under 
+        section 515 that requests a significant change in design or 
+        performance of the device, or a new indication for use of
+
+[[Page 116 STAT. 1590]]
+
+        the device, and for which clinical data are generally necessary 
+        to provide a reasonable assurance of safety and effectiveness.
+            ``(C) The term `180-day supplement' means a supplement to an 
+        approved premarket application or premarket report under section 
+        515 that is not a panel-track supplement and requests a 
+        significant change in components, materials, design, 
+        specification, software, color additives, or labeling.
+            ``(D) The term `real-time supplement' means a supplement to 
+        an approved premarket application or premarket report under 
+        section 515 that requests a minor change to the device, such as 
+        a minor change to the design of the device, software, 
+        manufacturing, sterilization, or labeling, and for which the 
+        applicant has requested and the agency has granted a meeting or 
+        similar forum to jointly review and determine the status of the 
+        supplement.
+            ``(E) The term `efficacy supplement' means a supplement to 
+        an approved premarket application under section 351 of the 
+        Public Health Service Act that requires substantive clinical 
+        data.
+            ``(5) The term `process for the review of device 
+        applications' means the following activities of the Secretary 
+        with respect to the review of premarket applications, premarket 
+        reports, supplements, and premarket notification submissions:
+                    ``(A) The activities necessary for the review of 
+                premarket applications, premarket reports, supplements, 
+                and premarket notification submissions.
+                    ``(B) The issuance of action letters that allow the 
+                marketing of devices or which set forth in detail the 
+                specific deficiencies in such applications, reports, 
+                supplements, or submissions and, where appropriate, the 
+                actions necessary to place them in condition for 
+                approval.
+                    ``(C) The inspection of manufacturing establishments 
+                and other facilities undertaken as part of the 
+                Secretary's review of pending premarket applications, 
+                premarket reports, and supplements.
+                    ``(D) Monitoring of research conducted in connection 
+                with the review of such applications, reports, 
+                supplements, and submissions.
+                    ``(E) Review of device applications subject to 
+                section 351 of the Public Health Service Act for an 
+                investigational new drug application under section 
+                505(i) or for an investigational device exemption under 
+                section 520(g) and activities conducted in anticipation 
+                of the submission of such applications under section 
+                505(i) or 520(g).
+                    ``(F) The development of guidance, policy documents, 
+                or regulations to improve the process for the review of 
+                premarket applications, premarket reports, supplements, 
+                and premarket notification submissions.
+                    ``(G) The development of voluntary test methods, 
+                consensus standards, or mandatory performance standards 
+                under section 514 in connection with the review of such 
+                applications, reports, supplements, or submissions and 
+                related activities.
+                    ``(H) The provision of technical assistance to 
+                device manufacturers in connection with the submission 
+                of such applications, reports, supplements, or 
+                submissions.
+
+[[Page 116 STAT. 1591]]
+
+                    ``(I) Any activity undertaken under section 513 or 
+                515(i) in connection with the initial classification or 
+                reclassification of a device or under section 515(b) in 
+                connection with any requirement for approval of a 
+                device.
+                    ``(J) Evaluation of postmarket studies required as a 
+                condition of an approval of a premarket application 
+                under section 515 or section 351 of the Public Health 
+                Service Act.
+                    ``(K) Compiling, developing, and reviewing 
+                information on relevant devices to identify safety and 
+                effectiveness issues for devices subject to premarket 
+                applications, premarket reports, supplements, or 
+                premarket notification submissions.
+            ``(6) The term `costs of resources allocated for the process 
+        for the review of device applications' means the expenses 
+        incurred in connection with the process for the review of device 
+        applications for--
+                    ``(A) officers and employees of the Food and Drug 
+                Administration, contractors of the Food and Drug 
+                Administration, advisory committees, and costs related 
+                to such officers, employees, and committees and to 
+                contracts with such contractors;
+                    ``(B) management of information, and the 
+                acquisition, maintenance, and repair of computer 
+                resources;
+                    ``(C) leasing, maintenance, renovation, and repair 
+                of facilities and acquisition, maintenance, and repair 
+                of fixtures, furniture, scientific equipment, and other 
+                necessary materials and supplies; and
+                    ``(D) collecting fees and accounting for resources 
+                allocated for the review of premarket applications, 
+                premarket reports, supplements, and submissions.
+            ``(7) The term `adjustment factor' applicable to a fiscal 
+        year is the Consumer Price Index for all urban consumers (all 
+        items; United States city average) for April of the preceding 
+        fiscal year divided by such Index for April 2002.
+            ``(8) The term `affiliate' means a business entity that has 
+        a relationship with a second business entity if, directly or 
+        indirectly--
+                    ``(A) one business entity controls, or has the power 
+                to control, the other business entity; or
+                    ``(B) a third party controls, or has power to 
+                control, both of the business entities.
+
+``SEC. 738. <<NOTE: 21 USC 379j.>> AUTHORITY TO ASSESS AND USE DEVICE 
+            FEES.
+
+    ``(a) Types of Fees.--Beginning on the date of the enactment of the 
+Medical Device User Fee and Modernization Act of 2002, the Secretary 
+shall assess and collect fees in accordance with this section as 
+follows:
+            ``(1) Premarket application, premarket report, supplement, 
+        and submission fee.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B) and subsection (d), each person who 
+                submits any of the following, on or after October 1, 
+                2002, shall be subject to a fee established under 
+                subsection (c)(5) for the fiscal year involved in 
+                accordance with the following:
+                          ``(i) A premarket application.
+
+[[Page 116 STAT. 1592]]
+
+                          ``(ii) For a premarket report, a fee equal to 
+                      the fee that applies under clause (i).
+                          ``(iii) For a panel track supplement, a fee 
+                      equal to the fee that applies under clause (i).
+                          ``(iv) For a 180-day supplement, a fee equal 
+                      to 21.5 percent of the fee that applies under 
+                      clause (i), subject to any adjustment under 
+                      subsection (c)(3).
+                          ``(v) For a real-time supplement, a fee equal 
+                      to 7.2 percent of the fee that applies under 
+                      clause (i).
+                          ``(vi) For an efficacy supplement, a fee equal 
+                      to the fee that applies under clause (i).
+                          ``(vii) For a premarket notification 
+                      submission, a fee equal to 1.42 percent of the fee 
+                      that applies under clause (i), subject to any 
+                      adjustment under subsection (c)(3) and any 
+                      adjustment under subsection (e)(2)(C)(ii).
+                    ``(B) Exceptions.--
+                          ``(i) Humanitarian device exemption.--An 
+                      application under section 520(m) is not subject to 
+                      any fee under subparagraph (A).
+                          ``(ii) Further manufacturing use.--No fee 
+                      shall be required under subparagraph (A) for the 
+                      submission of a premarket application under 
+                      section 351 of the Public Health Service Act for a 
+                      product licensed for further manufacturing use 
+                      only.
+                          ``(iii) State or federal government 
+                      sponsors.--No fee shall be required under 
+                      subparagraph (A) for a premarket application, 
+                      premarket report, supplement, or premarket 
+                      notification submission submitted by a State or 
+                      Federal Government entity unless the device 
+                      involved is to be distributed commercially.
+                          ``(iv) Premarket notifications by third 
+                      parties.--No fee shall be required under 
+                      subparagraph (A) for a premarket notification 
+                      submission reviewed by an accredited person 
+                      pursuant to section 523.
+                          ``(v) Pediatric conditions of use.--
+                                    ``(I) In general.--No fee shall be 
+                                required under subparagraph (A) for a 
+                                premarket application, premarket report, 
+                                or premarket notification submission if 
+                                the proposed conditions of use for the 
+                                device involved are solely for a 
+                                pediatric population. No fee shall be 
+                                required under such subparagraph for a 
+                                supplement if the sole purpose of the 
+                                supplement is to propose conditions of 
+                                use for a pediatric population.
+                                    ``(II) Subsequent proposal of adult 
+                                conditions of use.--In the case of a 
+                                person who submits a premarket 
+                                application or premarket report for 
+                                which, under subclause (I), a fee under 
+                                subparagraph (A) is not required, any 
+                                supplement to such application that 
+                                proposes conditions of use for any adult 
+                                population is subject to the fee that 
+                                applies under such subparagraph for a 
+                                premarket application.
+                    ``(C) Payment.--The fee required by subparagraph (A) 
+                shall be due upon submission of the premarket 
+                application, premarket report, supplement, or premarket 
+                notification submission except that invoices for 
+                applications submitted
+
+[[Page 116 STAT. 1593]]
+
+                between October 1, 2002, and the date of the enactment 
+                of the Medical Device User Fee and Modernization Act of 
+                2002 shall be payable on October 30, 2002. Applicants 
+                submitting portions of applications pursuant to section 
+                515(c)(3) shall pay such fees upon submission of the 
+                first portion of such applications. The fees credited to 
+                fiscal year 2003 under this section shall include all 
+                fees payable from October 1, 2002, through September 30, 
+                2003.
+                    ``(D) Refunds.--
+                          ``(i) Application refused for filing.--The 
+                      Secretary shall refund 75 percent of the fee paid 
+                      under subparagraph (A) for any application or 
+                      supplement that is refused for filing.
+                          ``(ii) Application withdrawn before filing.--
+                      The Secretary shall refund 75 percent of the fee 
+                      paid under subparagraph (A) for any application or 
+                      supplement that is withdrawn prior to the filing 
+                      decision of the Secretary.
+                          ``(iii) Application withdrawn before first 
+                      action.--After receipt of a request for a refund 
+                      of the fee paid under subparagraph (A) for a 
+                      premarket application, premarket report, or 
+                      supplement that is withdrawn after filing but 
+                      before a first action, the Secretary may return 
+                      some or all of the fee. The amount of refund, if 
+                      any, shall be based on the level of effort already 
+                      expended on the review of such application, 
+                      report, or supplement. The Secretary shall have 
+                      sole discretion to refund a fee or portion of the 
+                      fee under this subparagraph. A determination by 
+                      the Secretary concerning a refund under this 
+                      paragraph shall not be reviewable.
+
+    ``(b) Fee Revenue Amounts.--Except as provided in subsections (c), 
+(d), (e), (g), and (h), the fees under subsection (a) shall be 
+established to generate the following revenue amounts: $25,125,000 in 
+fiscal year 2003; $27,255,000 in fiscal year 2004; $29,785,000 in fiscal 
+year 2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal 
+year 2007. If legislation is enacted after the date of the enactment of 
+the Medical Device User Fee and Modernization Act of 2002 requiring the 
+Secretary to fund additional costs of the retirement of Federal 
+personnel, fee revenue amounts under this subsection shall be increased 
+in each year by the amount necessary to fully fund the portion of such 
+additional costs that are attributable to the process for the review of 
+device applications.
+    ``(c) Adjustments.--
+            ``(1) Inflation adjustment.--The <<NOTE: Federal Register, 
+        publication.>> revenues established in subsection (b) shall be 
+        adjusted by the Secretary by notice, published in the Federal 
+        Register, for a fiscal year to reflect the greater of--
+                    ``(A) the total percentage change that occurred in 
+                the Consumer Price Index for all urban consumers (all 
+                items; U.S. city average) for the 12 month period ending 
+                June 30 preceding the fiscal year for which fees are 
+                being established, or
+                    ``(B) the total percentage change for the previous 
+                fiscal year in basic pay under the General Schedule in 
+                accordance with section 5332 of title 5, United States 
+                Code, as adjusted
+
+[[Page 116 STAT. 1594]]
+
+                by any locality-based comparability payment pursuant to 
+                section 5304 of such title for Federal employees 
+                stationed in the District of Columbia.
+        The adjustment made each fiscal year by this subsection shall be 
+        added on a compounded basis to the sum of all adjustments made 
+        each fiscal year after fiscal year 2003 under this subsection.
+            ``(2) Workload adjustment.--After the fee revenues 
+        established in subsection (b) are adjusted for a fiscal year for 
+        inflation in accordance with paragraph (1), the fee revenues 
+        shall, beginning with fiscal year 2004, be adjusted further each 
+        fiscal year to reflect changes in the workload of the Secretary 
+        for the process for the review of device applications. With 
+        respect to such adjustment:
+                    ``(A) The adjustment shall be determined by the 
+                Secretary based on a weighted average of the change in 
+                the total number of premarket applications, 
+                investigational new device applications, premarket 
+                reports, supplements, and premarket notification 
+                submissions submitted to the Secretary. <<NOTE: Federal 
+                Register, publication.>> The Secretary shall publish in 
+                the Federal Register the fee revenues and fees resulting 
+                from the adjustment and the supporting methodologies.
+                    ``(B) Under no circumstances shall the adjustment 
+                result in fee revenues for a fiscal year that are less 
+                than the fee revenues for the fiscal year established in 
+                subsection (b), as adjusted for inflation under 
+                paragraph (1).
+            ``(3) Compensating adjustment.--After the fee revenues 
+        established in subsection (b) are adjusted for a fiscal year for 
+        inflation in accordance with paragraph (1), and for workload in 
+        accordance with paragraph (2), the fee revenues shall, beginning 
+        with fiscal year 2004, be adjusted further each fiscal year, if 
+        necessary, to reflect the cumulative amount by which collections 
+        for previous fiscal years, beginning with fiscal year 2003, fell 
+        below the cumulative revenue amounts for such fiscal years 
+        specified in subsection (b), adjusted for such fiscal years for 
+        inflation in accordance with paragraph (1), and for workload in 
+        accordance with paragraph (2).
+            ``(4) Final year adjustment.--For fiscal year 2007, the 
+        Secretary may, in addition to adjustments under paragraphs (1) 
+        and (2), further increase the fees and fee revenues established 
+        in subsection (b) if such adjustment is necessary to provide for 
+        not more than three months of operating reserves of carryover 
+        user fees for the process for the review of device applications 
+        for the first three months of fiscal year 2008. If such an 
+        adjustment is necessary, the rationale for the amount of the 
+        increase shall be contained in the annual notice establishing 
+        fee revenues and fees for fiscal year 2007. If the Secretary has 
+        carryover user fee balances for such process in excess of three 
+        months of such operating reserves, the adjustment under this 
+        paragraph shall not be made.
+            ``(5) Annual fee setting.--The <<NOTE: Federal Register, 
+        publication.>> Secretary shall, 60 days before the start of each 
+        fiscal year after September 30, 2002, establish, for the next 
+        fiscal year, and publish in the Federal Register, fees under 
+        subsection (a), based on the revenue amounts established under 
+        subsection (b) and the adjustment provided under this subsection 
+        and subsection (e)(2)(C)(ii),
+
+[[Page 116 STAT. 1595]]
+
+        except that the fees established for fiscal year 2003 shall be 
+        based on a premarket application fee of $154,000.
+            ``(6) Limit.--The total amount of fees charged, as adjusted 
+        under this subsection, for a fiscal year may not exceed the 
+        total costs for such fiscal year for the resources allocated for 
+        the process for the review of device applications.
+
+    ``(d) Small Businesses; Fee Waiver and Fee Reduction Regarding 
+Premarket Approval Fees.--
+            ``(1) In general.--The Secretary shall grant a waiver of the 
+        fee required under subsection (a) for one premarket application, 
+        or one premarket report, where the Secretary finds that the 
+        applicant involved is a small business submitting its first 
+        premarket application to the Secretary, or its first premarket 
+        report, respectively, for review. In addition, for subsequent 
+        premarket applications, premarket reports, and supplements where 
+        the Secretary finds that the applicant involved is a small 
+        business, the fees specified in clauses (i) through (vi) of 
+        subsection (a)(1)(A) may be paid at a reduced rate in accordance 
+        with paragraph (2)(C).
+            ``(2) Rules relating to premarket approval fees.--
+                    ``(A) Definition.--
+                          ``(i) In general.--For purposes of this 
+                      subsection, the term `small business' means an 
+                      entity that reported $30,000,000 or less of gross 
+                      receipts or sales in its most recent Federal 
+                      income tax return for a taxable year, including 
+                      such returns of all of its affiliates, partners, 
+                      and parent firms.
+                          ``(ii) Adjustment.--The Secretary may adjust 
+                      the $30,000,000 threshold established in clause 
+                      (i) if the Secretary has evidence from actual 
+                      experience that this threshold results in a 
+                      reduction in revenues from premarket applications, 
+                      premarket reports, and supplements that is 16 
+                      percent or more than would occur without small 
+                      business exemptions and lower fee rates. To 
+                      adjust <<NOTE: Federal Register, 
+                      publication. Notice.>> this threshold, the 
+                      Secretary shall publish a notice in the Federal 
+                      Register setting out the rationale for the 
+                      adjustment, and the new threshold.
+                    ``(B) Evidence of qualification.--An applicant shall 
+                pay the higher fees established by the Secretary each 
+                year unless the applicant submits evidence that it 
+                qualifies for a waiver of the fee or the lower fee rate. 
+                The applicant shall support its claim that it meets the 
+                definition under subparagraph (A) by submission of a 
+                copy of its most recent Federal income tax return for a 
+                taxable year, and a copy of such returns of its 
+                affiliates, partners, and parent firms. which show an 
+                amount of gross sales or receipts that is less than the 
+                maximum established in subparagraph (A). The applicant, 
+                and each of such affiliates, partners, and parent firms, 
+                shall certify that the information provided is a true 
+                and accurate copy of the actual tax forms they submitted 
+                to the Internal Revenue Service. If no tax forms are 
+                submitted for affiliates, partners, or parent firms, the 
+                applicant shall certify that the applicant has no 
+                affiliates, partners, or parent firms, respectively.
+                    ``(C) Reduced fees.--Where the Secretary finds that 
+                the applicant involved meets the definition under 
+                subparagraph (A), the fees established under subsection 
+                (c)(5) may
+
+[[Page 116 STAT. 1596]]
+
+                be paid at a reduced rate of 38 percent of the fee 
+                established under such subsection for a premarket 
+                application, a premarket report, or a supplement.
+                    ``(D) Request for fee waiver or reduction.--An 
+                applicant seeking a fee waiver or reduction under this 
+                subsection shall submit supporting information to the 
+                Secretary at least 60 days before the fee is required 
+                pursuant to subsection (a). The decision of the 
+                Secretary regarding whether an entity qualifies for such 
+                a waiver or reduction is not reviewable.
+
+    ``(e) Small Businesses; Fee Reduction Regarding Premarket 
+Notification Submissions.--
+            ``(1) In general.--Where the Secretary finds that the 
+        applicant involved is a small business, the fee specified in 
+        subsection (a)(1)(A)(vii) may be paid at a reduced rate in 
+        accordance with paragraph (2)(C).
+            ``(2) Rules relating to premarket notification 
+        submissions.--
+                    ``(A) Definition.--For purposes of this subsection, 
+                the term `small business' means an entity that reported 
+                $30,000,000 or less of gross receipts or sales in its 
+                most recent Federal income tax return for a taxable 
+                year, including such returns of all of its affiliates, 
+                partners, and parent firms.
+                    ``(B) Evidence of qualification.--An applicant shall 
+                pay the higher fees established by the Secretary each 
+                year unless the applicant submits evidence that it 
+                qualifies for the lower fee rate. The applicant shall 
+                support its claim that it meets the definition under 
+                subparagraph (A) by submission of a copy of its most 
+                recent Federal income tax return for a taxable year, and 
+                a copy of such returns of its affiliates, partners, and 
+                parent firms. which show an amount of gross sales or 
+                receipts that is less than the maximum established in 
+                subparagraph (A). The applicant, and each of such 
+                affiliates, partners, and parent firms, shall certify 
+                that the information provided is a true and accurate 
+                copy of the actual tax forms they submitted to the 
+                Internal Revenue Service. If no tax forms are submitted 
+                for affiliates, partners, or parent firms, the applicant 
+                shall certify that the applicant has no affiliates, 
+                partners, or parent firms, respectively.
+                    ``(C) Reduced fees.--
+                          ``(i) In general.--Where the Secretary finds 
+                      that the applicant involved meets the definition 
+                      under subparagraph (A), the fee for a premarket 
+                      notification submission may be paid at 80 percent 
+                      of the fee that applies under subsection 
+                      (a)(1)(A)(vii), as adjusted under clause (ii) and 
+                      as established under subsection (c)(5).
+                          ``(ii) Adjustment per fee revenue amount.--For 
+                      fiscal year 2004 and each subsequent fiscal year, 
+                      the Secretary, in setting the revenue amount under 
+                      subsection (c)(5) for premarket notification 
+                      submissions, shall determine the revenue amount 
+                      that would apply if all such submissions for the 
+                      fiscal year involved paid a fee equal to 1.42 
+                      percent of the amount that applies under 
+                      subsection (a)(1)(A)(i) for premarket
+
+[[Page 116 STAT. 1597]]
+
+                      applications, and shall adjust the fee under 
+                      subsection (a)(1)(A)(vii) for premarket 
+                      notification submissions such that the reduced 
+                      fees collected under clause (i) of this 
+                      subparagraph, when added to fees for such 
+                      submissions that are not paid at the reduced rate, 
+                      will equal such revenue amount for the fiscal 
+                      year.
+                    ``(D) Request for reduction.--An applicant seeking a 
+                fee reduction under this subsection shall submit 
+                supporting information to the Secretary at least 60 days 
+                before the fee is required pursuant to subsection (a). 
+                The decision of the Secretary regarding whether an 
+                entity qualifies for such a reduction is not reviewable.
+
+    ``(f) Effect of Failure to Pay Fees.--A premarket application, 
+premarket report, supplement, or premarket notification submission 
+submitted by a person subject to fees under subsection (a) shall be 
+considered incomplete and shall not be accepted for filing by the 
+Secretary until all fees owed by such person have been paid.
+    ``(g) Conditions.--
+            ``(1) Performance goals through fiscal year 2005; 
+        termination of program after fiscal year 2005.--With respect to 
+        the amount that, under the salaries and expenses account of the 
+        Food and Drug Administration, is appropriated for a fiscal year 
+        for devices and radiological products:
+                    ``(A)(i) For each of the fiscal years 2003 and 2004, 
+                the Secretary is expected to meet all of the goals 
+                identified for the fiscal year involved in any letter 
+                referred to in section 101(3) of the Medical Device User 
+                Fee and Modernization Act of 2002 (referred to in this 
+                paragraph as `performance goals') if the amount so 
+                appropriated for such fiscal year, excluding the amount 
+                of fees appropriated for such fiscal year, is equal to 
+                or greater than $205,720,000 multiplied by the 
+                adjustment factor applicable to the fiscal year.
+                    ``(ii) For each of the fiscal years 2003 and 2004, 
+                if the amount so appropriated for the fiscal year 
+                involved, excluding the amount of fees appropriated for 
+                such fiscal year, is less than the amount that applies 
+                under clause (i) for such fiscal year, the following 
+                applies:
+                          ``(I) The Secretary is expected to meet such 
+                      goals to the extent practicable, taking into 
+                      account the amounts that are available to the 
+                      Secretary for such purpose, whether from fees 
+                      under subsection (a) or otherwise.
+                          ``(II) <<NOTE: Reports.>> The Comptroller 
+                      General of the United States shall submit to the 
+                      Congress a report describing whether and to what 
+                      extent the Secretary is meeting the performance 
+                      goals identified for such fiscal year, and whether 
+                      the Secretary will be able to meet all performance 
+                      goals identified for <<NOTE: Deadline.>> fiscal 
+                      year 2005. A report under the preceding sentence 
+                      shall be submitted to the Congress not later than 
+                      July 1 of the fiscal year with which the report is 
+                      concerned.
+                    ``(B)(i) For fiscal year 2005, the Secretary is 
+                expected to meet all of the performance goals identified 
+                for the fiscal year if the total of the amounts so 
+                appropriated for fiscal years 2003 through 2005, 
+                excluding the amount
+
+[[Page 116 STAT. 1598]]
+
+                of fees appropriated for such fiscal years, is equal to 
+                or greater than the sum of--
+                          ``(I) $205,720,000 multiplied by the 
+                      adjustment factor applicable to fiscal year 2003;
+                          ``(II) $205,720,000 multiplied by the 
+                      adjustment factor applicable to fiscal year 2004; 
+                      and
+                          ``(III) $205,720,000 multiplied by the 
+                      adjustment factor applicable to fiscal year 2005.
+                    ``(ii) For fiscal year 2005, if the total of the 
+                amounts so appropriated for fiscal years 2003 through 
+                2005, excluding the amount of fees appropriated for such 
+                fiscal years, is less than the sum that applies under 
+                clause (i) for fiscal year 2005, the following applies:
+                          ``(I) The Secretary is expected to meet such 
+                      goals to the extent practicable, taking into 
+                      account the amounts that are available to the 
+                      Secretary for such purpose, whether from fees 
+                      under subsection (a) or otherwise.
+                          ``(II) <<NOTE: Reports.>> The Comptroller 
+                      General of the United States shall submit to the 
+                      Congress a report describing whether and to what 
+                      extent the Secretary is meeting the performance 
+                      goals identified for such fiscal year, and whether 
+                      the Secretary will be able to meet all performance 
+                      goals identified for <<NOTE: Deadline.>> fiscal 
+                      year 2006. The report under the preceding sentence 
+                      shall be submitted to the Congress not later than 
+                      July 1, 2005.
+                    ``(C) For fiscal year 2006, fees may not be assessed 
+                under subsection (a) for the fiscal year, and the 
+                Secretary is not expected to meet any performance goals 
+                identified for the fiscal year, if the total of the 
+                amounts so appropriated for fiscal years 2003 through 
+                2006, excluding the amount of fees appropriated for such 
+                fiscal years, is less than the sum of--
+                          ``(i) $205,720,000 multiplied by the 
+                      adjustment factor applicable to fiscal year 2006; 
+                      and
+                          ``(ii) an amount equal to the sum that applies 
+                      for purposes of subparagraph (B)(i).
+                    ``(D) For fiscal year 2007, fees may not be assessed 
+                under subsection (a) for the fiscal year, and the 
+                Secretary is not expected to meet any performance goals 
+                identified for the fiscal year, if--
+                          ``(i) the amount so appropriated for the 
+                      fiscal year, excluding the amount of fees 
+                      appropriated for the fiscal year, is less than 
+                      $205,720,000 multiplied by the adjustment factor 
+                      applicable to fiscal year 2007; or
+                          ``(ii) pursuant to subparagraph (C), fees were 
+                      not assessed under subsection (a) for fiscal year 
+                      2006.
+            ``(2) Authority.--If the Secretary does not assess fees 
+        under subsection (a) during any portion of a fiscal year because 
+        of subparagraph (C) or (D) of paragraph (1) and if at a later 
+        date in such fiscal year the Secretary may assess such fees, the 
+        Secretary may assess and collect such fees, without any 
+        modification in the rate for premarket applications, 
+        supplements, premarket reports, and premarket notification 
+        submissions, and at any time in such fiscal year, 
+        notwithstanding the provisions of subsection (a) relating to the 
+        date fees are to be paid.
+
+[[Page 116 STAT. 1599]]
+
+    ``(h) Crediting and Availability of Fees.--
+            ``(1) In general.--Fees authorized under subsection (a) 
+        shall be collected and available for obligation only to the 
+        extent and in the amount provided in advance in appropriation 
+        Acts. Such fees are authorized to be appropriated to remain 
+        available until expended. Such sums as may be necessary may be 
+        transferred from the Food and Drug Administration salaries and 
+        expenses appropriation account without fiscal year limitation to 
+        such appropriation account for salaries and expenses with such 
+        fiscal year limitation. The sums transferred shall be available 
+        solely for the process for the review of device applications.
+            ``(2) Collections and appropriation acts.--
+                    ``(A) In general.--The fees authorized by this 
+                section--
+                          ``(i) shall be retained in each fiscal year in 
+                      an amount not to exceed the amount specified in 
+                      appropriation Acts, or otherwise made available 
+                      for obligation, for such fiscal year, and
+                          ``(ii) shall only be collected and available 
+                      to defray increases in the costs of the resources 
+                      allocated for the process for the review of device 
+                      applications (including increases in such costs 
+                      for an additional number of full-time equivalent 
+                      positions in the Department of Health and Human 
+                      Services to be engaged in such process) over such 
+                      costs, excluding costs paid from fees collected 
+                      under this section, for fiscal year 2002 
+                      multiplied by the adjustment factor.
+                    ``(B) Compliance.--The Secretary shall be considered 
+                to have met the requirements of subparagraph (A)(ii) in 
+                any fiscal year if the costs funded by appropriations 
+                and allocated for the process for the review of device 
+                applications--
+                          ``(i) are not more than 3 percent below the 
+                      level specified in subparagraph (A)(ii); or
+                          ``(ii)(I) are more than 3 percent below the 
+                      level specified in subparagraph (A)(ii), and fees 
+                      assessed for a subsequent fiscal year are 
+                      decreased by the amount in excess of 3 percent by 
+                      which such costs fell below the level specified in 
+                      such subparagraph; and
+                          ``(II) such costs are not more than 5 percent 
+                      below the level specified in such subparagraph.
+            ``(3) Authorization of appropriations.--There are authorized 
+        to be appropriated for fees under this section--
+                    ``(A) $25,125,000 for fiscal year 2003;
+                    ``(B) $27,255,000 for fiscal year 2004;
+                    ``(C) $29,785,000 for fiscal year 2005;
+                    ``(D) $32,615,000 for fiscal year 2006; and
+                    ``(E) $35,000,000 for fiscal year 2007,
+        as adjusted to reflect adjustments in the total fee revenues 
+        made under this section and changes in the total amounts 
+        collected by application fees.
+            ``(4) Offset.--Any amount of fees collected for a fiscal 
+        year under this section that exceeds the amount of fees 
+        specified in appropriation Acts for such fiscal year shall be 
+        credited to the appropriation account of the Food and Drug 
+        Administration as provided in paragraph (1), and shall be 
+        subtracted
+
+[[Page 116 STAT. 1600]]
+
+        from the amount of fees that would otherwise be authorized to be 
+        collected under this section pursuant to appropriation Acts for 
+        a subsequent fiscal year.
+
+    ``(i) Collection of Unpaid Fees.--In <<NOTE: Deadline.>> any case 
+where the Secretary does not receive payment of a fee assessed under 
+subsection (a) within 30 days after it is due, such fee shall be treated 
+as a claim of the United States Government subject to subchapter II of 
+chapter 37 of title 31, United States Code.
+
+    ``(j) Written Requests for Refunds.--To <<NOTE: Deadline.>> qualify 
+for consideration for a refund under subsection (a)(1)(D), a person 
+shall submit to the Secretary a written request for such refund not 
+later than 180 days after such fee is due.
+
+    ``(k) Construction.--This section may not be construed to require 
+that the number of full-time equivalent positions in the Department of 
+Health and Human Services, for officers, employees, and advisory 
+committees not engaged in the process of the review of device 
+applications, be reduced to offset the number of officers, employees, 
+and advisory committees so engaged.''.
+    (b) Fee <<NOTE: 21 USC 379j note.>> Exemption for Certain Entities 
+Submitting Premarket Reports.--
+            (1) In general.--A person submitting a premarket report to 
+        the Secretary of Health and Human Services is exempt from the 
+        fee under section 738(a)(1)(A)(ii) of the Federal Food, Drug, 
+        and Cosmetic Act (as added by subsection (a) of this section) 
+        if--
+                    (A) the premarket report is the first such report 
+                submitted to the Secretary by the person; and
+                    (B) before October 1, 2002, the person submitted a 
+                premarket application to the Secretary for the same 
+                device as the device for which the person is submitting 
+                the premarket report.
+            (2) Definitions.--For purposes of paragraph (1), the terms 
+        ``device'', ``premarket application'', and ``premarket report'' 
+        have the same meanings as apply to such terms for purposes of 
+        section 738 of the Federal Food, Drug, and Cosmetic Act (as 
+        added by subsection (a) of this section).
+
+SEC. 103. <<NOTE: 21 USC 379i note.>> ANNUAL REPORTS.
+
+    Beginning with fiscal year 2003, the Secretary shall prepare and 
+submit to the Committee on Energy and Commerce of the House of 
+Representatives and the Committee on Health, Education, Labor and 
+Pensions of the Senate a report concerning--
+            (1) the progress of the Food and Drug Administration in 
+        achieving the goals identified in the letters described in 
+        section 101(3) during such fiscal year and the future plans of 
+        the Food and Drug Administration for meeting the goals, not 
+        later than 60 days after the end of each fiscal year during 
+        which fees are collected under this part; and
+            (2) <<NOTE: Deadline.>> the implementation of the authority 
+        for such fees during such fiscal year, and the use, by the Food 
+        and Drug Administration, of the fees collected during such 
+        fiscal year, not later than 120 days after the end of each 
+        fiscal year during which fees are collected under the medical 
+        device user-fee program established under the amendment made by 
+        section 102.
+
+SEC. 104. POSTMARKET SURVEILLANCE.
+
+    (a) Additional Authorization of Appropriations.--For the purpose of 
+carrying out postmarket surveillance of medical devices,
+
+[[Page 116 STAT. 1601]]
+
+there are authorized to be appropriated to the Food and Drug 
+Administration the following amounts, stated as increases above the 
+amount obligated for such purpose by such Administration for fiscal year 
+2002:
+            (1) For fiscal year 2003, an increase of $3,000,000.
+            (2) For fiscal year 2004, an increase of $6,000,000.
+            (3) For fiscal year 2005 and each subsequent fiscal year, an 
+        increase of such sums as may be necessary.
+
+    (b) <<NOTE: 21 USC 379i note.>> Study.--
+            (1) In general.--The Secretary of Health and Human Services 
+        (referred to in this section as the ``Secretary'') shall conduct 
+        a study for the purpose of determining the following with 
+        respect to the medical device user-fee program established under 
+        the amendment made by section 102:
+                    (A) The impact of such program on the ability of the 
+                Food and Drug Administration to conduct postmarket 
+                surveillance on medical devices.
+                    (B) The programmatic improvements, if any, needed 
+                for adequate postmarket surveillance of medical devices.
+                    (C) The amount of funds needed to conduct adequate 
+                postmarket surveillance of medical devices.
+                    (D) The extent to which device companies comply with 
+                the postmarket surveillance requirements, including 
+                postmarket study commitments.
+                    (E) The recommendations of the Secretary as to 
+                whether, and in what amounts, user fees collected under 
+                such user-fee program should be dedicated to postmarket 
+                surveillance if the program is extended beyond fiscal 
+                year 2007.
+            (2) Report.--Not <<NOTE: Deadline.>> later than January 10, 
+        2007, the Secretary shall submit to the Committee on Energy and 
+        Commerce of the House of Representatives, and the Committee on 
+        Health, Education, Labor, and Pensions of the Senate, a report 
+        that describes the findings of the study under paragraph (1).
+
+SEC. 105. <<NOTE: 21 USC 379i note.>> CONSULTATION.
+
+    (a) In General.--In developing recommendations to the Congress for 
+the goals and plans for meeting the goals for the process for the review 
+of medical device applications for fiscal years after fiscal year 2007, 
+and for the reauthorization of sections 737 and 738 of the Federal Food, 
+Drug, and Cosmetic Act, the Secretary of Health and Human Services 
+(referred to in this section as the ``Secretary'') shall consult with 
+the Committee on Energy and Commerce of the House of Representatives, 
+the Committee on Health, Education, Labor, and Pensions of the Senate, 
+appropriate scientific and academic experts, health care professionals, 
+representatives of patient and consumer advocacy groups, and the 
+regulated industry.
+    (b) Recommendations.--The <<NOTE: Federal Register, 
+publication.>> Secretary shall publish in the Federal Register 
+recommendations under subsection (a), after negotiations with the 
+regulated industry; shall present such recommendations to the 
+congressional committees specified in such paragraph; shall hold a 
+meeting at which the public may present its views on such 
+recommendations; and shall provide for a period of 30 days for the 
+public to provide written comments on such recommendations.
+
+[[Page 116 STAT. 1602]]
+
+SEC. 106. <<NOTE: 21 USC 379i note.>> EFFECTIVE DATE.
+
+    The amendments made by this title shall take effect on the date of 
+the enactment of this Act, except that fees shall be assessed for all 
+premarket applications, premarket reports, supplements, and premarket 
+notification submissions received on or after October 1, 2002, 
+regardless of the date of enactment.
+
+SEC. 107. <<NOTE: 21 USC 379i note.>> SUNSET CLAUSE.
+
+    The amendments made by this title cease to be effective October 1, 
+2007, except that section 103 with respect to annual reports ceases to 
+be effective January 31, 2008.
+
+      TITLE II--AMENDMENTS REGARDING REGULATION OF MEDICAL DEVICES
+
+SEC. 201. INSPECTIONS BY ACCREDITED PERSONS.
+
+    (a) In General.--Section 704 of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 374) is amended by adding at the end the following 
+subsection:
+    ``(g)(1) <<NOTE: Deadline.>> Not later than one year after the date 
+of the enactment of this subsection, the Secretary shall, subject to the 
+provisions of this subsection, accredit persons for the purpose of 
+conducting inspections of establishments that manufacture, prepare, 
+propagate, compound, or process class II or class III devices that are 
+required in section 510(h), or inspections of such establishments 
+required to register pursuant to section 510(i). The owner or operator 
+of such an establishment that is eligible under paragraph (6) may, from 
+the list published under paragraph (4), select an accredited person to 
+conduct such inspections.
+
+    ``(2) <<NOTE: Deadline. Federal Register, publication.>> Not later 
+than 180 days after the date of enactment of this subsection, the 
+Secretary shall publish in the Federal Register criteria to accredit or 
+deny accreditation to persons who request to perform the duties 
+specified in paragraph (1). Thereafter, the Secretary shall inform those 
+requesting accreditation, within 60 days after the receipt of such 
+request, whether the request for accreditation is adequate for review, 
+and the Secretary shall promptly act on the request for accreditation. 
+Any resulting accreditation shall state that such person is accredited 
+to conduct inspections at device establishments identified in paragraph 
+(1). The accreditation of such person shall specify the particular 
+activities under this subsection for which such person is accredited. In 
+the first year following the publication in the Federal Register of 
+criteria to accredit or deny accreditation to persons who request to 
+perform the duties specified in paragraph (1), the Secretary shall 
+accredit no more than 15 persons who request to perform duties specified 
+in paragraph (1).
+
+    ``(3) An accredited person shall, at a minimum, meet the following 
+requirements:
+            ``(A) Such person may not be an employee of the Federal 
+        Government.
+            ``(B) Such person shall be an independent organization which 
+        is not owned or controlled by a manufacturer, supplier, or 
+        vendor of articles regulated under this Act and which has no 
+        organizational, material, or financial affiliation (including a 
+        consultative affiliation) with such a manufacturer, supplier, or 
+        vendor.
+
+[[Page 116 STAT. 1603]]
+
+            ``(C) Such person shall be a legally constituted entity 
+        permitted to conduct the activities for which it seeks 
+        accreditation.
+            ``(D) Such person shall not engage in the design, 
+        manufacture, promotion, or sale of articles regulated under this 
+        Act.
+            ``(E) The operations of such person shall be in accordance 
+        with generally accepted professional and ethical business 
+        practices, and such person shall agree in writing that at a 
+        minimum the person will--
+                    ``(i) certify that reported information accurately 
+                reflects data reviewed, inspection observations made, 
+                other matters that relate to or may influence compliance 
+                with this Act, and recommendations made during an 
+                inspection or at an inspection's closing meeting;
+                    ``(ii) limit work to that for which competence and 
+                capacity are available;
+                    ``(iii) treat information received, records, 
+                reports, and recommendations as confidential commercial 
+                or financial information or trade secret information, 
+                except such information may be made available to the 
+                Secretary;
+                    ``(iv) promptly respond and attempt to resolve 
+                complaints regarding its activities for which it is 
+                accredited; and
+                    ``(v) protect against the use, in carrying out 
+                paragraph (1), of any officer or employee of the 
+                accredited person who has a financial conflict of 
+                interest regarding any product regulated under this Act, 
+                and annually make available to the public disclosures of 
+                the extent to which the accredited person, and the 
+                officers and employees of the person, have maintained 
+                compliance with requirements under this clause relating 
+                to financial conflicts of interest.
+
+    ``(4) <<NOTE: Publication.>> The Secretary shall publish on the 
+Internet site of the Food and Drug Administration a list of persons who 
+are accredited under paragraph (2). Such list shall be updated to ensure 
+that the identity of each accredited person, and the particular 
+activities for which the person is accredited, is known 
+to <<NOTE: Deadline.>> the public. The updating of such list shall be no 
+later than one month after the accreditation of a person under this 
+subsection or the suspension or withdrawal of accreditation, or the 
+modification of the particular activities for which the person is 
+accredited.
+
+    ``(5)(A) To ensure that persons accredited under this subsection 
+continue to meet the standards of accreditation, the Secretary shall (i) 
+audit the performance of such persons on a periodic basis through the 
+review of inspection reports and inspections by persons designated by 
+the Secretary to evaluate the compliance status of a device 
+establishment and the performance of accredited persons, and (ii) take 
+such additional measures as the Secretary determines to be appropriate.
+    ``(B) The Secretary may withdraw accreditation of any person 
+accredited under paragraph (2), after providing notice and an 
+opportunity for an informal hearing, when such person is substantially 
+not in compliance with the standards of accreditation, or poses a threat 
+to public health or fails to act in a manner that is consistent with the 
+purposes of this subsection. The Secretary may suspend the accreditation 
+of such person during the pendency of the process under the preceding 
+sentence.
+
+[[Page 116 STAT. 1604]]
+
+    ``(6)(A) Subject to subparagraphs (B) and (C), a device 
+establishment is eligible for inspections by persons accredited under 
+paragraph (2) if the following conditions are met:
+            ``(i) The Secretary classified the results of the most 
+        recent inspection of the establishment pursuant to subsection 
+        (h) or (i) of section 510 as `no action indicated' or `voluntary 
+        action indicated'.
+            ``(ii) With respect to each inspection to be conducted by an 
+        accredited person--
+                    ``(I) the owner or operator of the establishment 
+                submits to the Secretary a notice requesting clearance 
+                to use such a person to conduct the inspection, and the 
+                Secretary provides such clearance; and
+                    ``(II) such notice identifies the accredited person 
+                whom the establishment has selected to conduct the 
+                inspection, and the Secretary agrees to the selected 
+                accredited person.
+            ``(iii) With respect to the devices that are manufactured, 
+        prepared, propagated, compounded, or processed by the 
+        establishment, at least one of such devices is marketed in the 
+        United States, and the following additional conditions are met:
+                    ``(I) At least one of such devices is marketed, or 
+                is intended to be marketed, in one or more foreign 
+                countries, one of which countries certifies, accredits, 
+                or otherwise recognizes the person accredited under 
+                paragraph (2) and identified under subclause (II) of 
+                this clause.
+                    ``(II) <<NOTE: Deadline.>> The owner or operator of 
+                the establishment submits to the Secretary a statement 
+                that the law of a country in which such a device is 
+                marketed, or is intended to be marketed, recognizes an 
+                inspection of the establishment by the Secretary, and 
+                not later than 30 days after receiving such statement, 
+                the Secretary informs the owner or operator of the 
+                establishment that the owner or operator may submit a 
+                notice requesting clearance under clause (ii).
+            ``(iv)(I) In the case of an inspection to be conducted 
+        pursuant to 510(h), persons accredited under paragraph (2) did 
+        not conduct the two immediately preceding inspections of the 
+        establishment, except that the establishment may petition the 
+        Secretary for a waiver of such condition. Such a waiver may be 
+        granted only if the petition states a commercial reason for the 
+        waiver; the Secretary determines that the public health would be 
+        served by granting the waiver; and the Secretary has conducted 
+        an inspection of the establishment during the four-year period 
+        preceding the date on which the notice under clause (ii) is 
+        submitted to the Secretary. Such a waiver is deemed to be 
+        granted only if the petition states a commercial reason for the 
+        waiver; the Secretary has not determined that the public health 
+        would be served by granting the waiver; and the owner or 
+        operator of the device establishment has requested in writing, 
+        not later than 18 months following the most recent inspection of 
+        such establishment by a person accredited under paragraph (2), 
+        that the Secretary inspect the establishment and the Secretary 
+        has not conducted an inspection within 30 months after the most 
+        recent inspection. With respect to such a waiver that is granted 
+        or deemed to be granted, no additional such waiver may be 
+        granted until after the Secretary has conducted an inspection of 
+        the establishment.
+
+[[Page 116 STAT. 1605]]
+
+            ``(II) In the case of an inspection to be conducted pursuant 
+        to 510(i), the Secretary periodically conducts inspections of 
+        the establishment.
+
+    ``(B)(i) <<NOTE: Deadline.>> The Secretary shall respond to a notice 
+under subparagraph (A) from a device establishment not later than 30 
+days after the Secretary receives the notice. Through such response, the 
+Secretary shall (I) provide clearance under such subparagraph, and agree 
+to the selection of an accredited person, or (II) make a request under 
+clause (ii). If the Secretary fails to respond to the notice within such 
+30-day period, the establishment is deemed to have such clearance, and 
+to have the agreement of the Secretary for such selection.
+
+    ``(ii) The request referred to in clause (i)(II) is--
+            ``(I) a request to the device establishment involved to 
+        submit to the Secretary compliance data in accordance with 
+        clause (iii); or
+            ``(II) a request to the establishment, or to the accredited 
+        person identified in the notice under subparagraph (A), for 
+        information concerning the relationship between the 
+        establishment and such accredited person, including information 
+        about the number of inspections of the establishment, or other 
+        establishments owned or operated by the owner or operator of the 
+        establishment, that have been conducted by the accredited 
+        person.
+
+The Secretary may make both such requests.
+    ``(iii) The compliance data to be submitted by a device 
+establishment under clause (ii) are data describing whether the quality 
+controls of the establishment have been sufficient for ensuring 
+consistent compliance with current good manufacturing practice within 
+the meaning of section 501(h), and data otherwise describing whether the 
+establishment has consistently been in compliance with sections 501 and 
+502 and other applicable provisions of this Act. Such data shall include 
+complete reports of inspections regarding good manufacturing practice or 
+other quality control audits that, during the preceding two-year period, 
+were conducted at the establishment by persons other than the owner or 
+operator of the establishment, together with all other compliance data 
+the Secretary deems necessary. Data under the preceding sentence shall 
+demonstrate to the Secretary whether the establishment has facilitated 
+consistent compliance by promptly correcting any compliance problems 
+identified in such inspections.
+    ``(iv) <<NOTE: Deadline.>> Not later than 60 days after receiving 
+compliance data under clause (iii) from a device establishment, the 
+Secretary shall provide or deny clearance under subparagraph (A). The 
+Secretary may deny clearance if the Secretary determines that the 
+establishment has failed to demonstrate consistent compliance for 
+purposes of clause (iii). The Secretary shall provide to the 
+establishment a statement of such reasons for such determination. If the 
+Secretary fails to provide such statement to the establishment within 
+such 60-day period, the establishment is deemed to have such clearance.
+
+    ``(v)(I) A request to an accredited person under clause (ii)(II) may 
+not seek any information that is not required to be maintained by such 
+person in records under subsection (f)(1). Not later than 60 days after 
+receiving the information sought by the request, the Secretary shall 
+agree to, or reject, the selection of such person by the device 
+establishment involved. The Secretary may reject
+
+[[Page 116 STAT. 1606]]
+
+the selection if the Secretary provides to the establishment a statement 
+of the reasons for such rejection. Reasons for the rejection may include 
+that the establishment or the accredited person, as the case may be, has 
+failed to fully respond to the request, or that the Secretary has 
+concerns regarding the relationship between the establishment and such 
+accredited person. If within such 60-day period the Secretary fails to 
+agree to or reject the selection in accordance with this subclause, the 
+Secretary is deemed to have agreed to the selection.
+    ``(II) If the Secretary rejects the selection of an accredited 
+person by a device establishment, the establishment may make an 
+additional selection of an accredited person by submitting to the 
+Secretary a notice that identifies the additional selection. Clauses (i) 
+and (ii), and subclause (I) of this clause, apply to the selection of an 
+accredited person through a notice under the preceding sentence in the 
+same manner and to the same extent as such provisions apply to a 
+selection of an accredited person through a notice under subparagraph 
+(A).
+    ``(vi) In the case of a device establishment that under clause (iv) 
+is denied clearance under subparagraph (A), or whose selection of an 
+accredited person is rejected under clause (v), the Secretary shall 
+designate a person to review the findings of the Secretary under such 
+clause if, during the 30-day period beginning on the date on which the 
+establishment receives the findings, the establishment requests the 
+review. <<NOTE: Deadline.>> The review shall commence not later than 30 
+days after the establishment requests the review, unless the Secretary 
+and the establishment otherwise agree.
+
+    ``(C)(i) In the case of a device establishment for which the 
+Secretary classified the results of the most recent inspection of the 
+establishment by a person accredited under paragraph (2) as `official 
+action indicated', the establishment, if otherwise eligible under 
+subparagraph (A), is eligible for further inspections by persons 
+accredited under such paragraph if (I) the Secretary issues a written 
+statement to the owner or operator of the establishment that the 
+violations leading to such classification have been resolved, and (II) 
+the Secretary, either upon the Secretary's own initiative or a petition 
+of the owner or operator of the establishment, notifies the 
+establishment that it has clearance to use an accredited person for the 
+inspections. The Secretary shall respond to such petition within 30 days 
+after the receipt of the petition.
+    ``(ii) If the Secretary denies a petition under clause (i), the 
+device establishment involved may, after the expiration of one year 
+after such denial, again petition the Secretary for a determination of 
+eligibility for inspection by persons accredited by the Secretary under 
+paragraph (2). If the Secretary denies such petition, the Secretary 
+shall provide the establishment with such reasons for such denial within 
+60 days after the denial. If, as of the expiration of 48 months after 
+the receipt of the first petition, the establishment has not been 
+inspected by the Secretary in accordance with section 510(h), or has not 
+during such period been inspected pursuant to section 510(i), as 
+applicable, the establishment is eligible for further inspections by 
+accredited persons.
+    ``(7)(A) Persons accredited under paragraph (2) to conduct 
+inspections shall record in writing their inspection observations and 
+shall present the observations to the device establishment's designated 
+representative and describe each observation. Additionally, such 
+accredited person shall prepare an inspection report
+
+[[Page 116 STAT. 1607]]
+
+(including for inspections classified as `no action indicated') in a 
+form and manner consistent with such reports prepared by employees and 
+officials designated by the Secretary to conduct inspections.
+    ``(B) At a minimum, an inspection report under subparagraph (A) 
+shall identify the persons responsible for good manufacturing practice 
+compliance at the inspected device establishment, the dates of the 
+inspection, the scope of the inspection, and shall describe in detail 
+each observation identified by the accredited person, identify other 
+matters that relate to or may influence compliance with this Act, and 
+describe any recommendations during the inspection or at the 
+inspection's closing meeting.
+    ``(C) <<NOTE: Deadline.>> An inspection report under subparagraph 
+(A) shall be sent to the Secretary and to the designated representative 
+of the inspected device establishment at the same time, but under no 
+circumstances later than three weeks after the last day of the 
+inspection. The report to the Secretary shall be accompanied by all 
+written inspection observations previously provided to the designated 
+representative of the establishment.
+
+    ``(D) Any statement or representation made by an employee or agent 
+of a device establishment to a person accredited under paragraph (2) to 
+conduct inspections shall be subject to section 1001 of title 18, United 
+States Code.
+    ``(E) If at any time during an inspection by an accredited person 
+the accredited person discovers a condition that could cause or 
+contribute to an unreasonable risk to the public health, the accredited 
+person shall immediately notify the Secretary of the identification of 
+the device establishment subject to inspection and such condition.
+    ``(8) Compensation for an accredited person shall be determined by 
+agreement between the accredited person and the person who engages the 
+services of the accredited person, and shall be paid by the person who 
+engages such services.
+    ``(9) Nothing in this subsection affects the authority of the 
+Secretary to inspect any device establishment pursuant to this Act.
+    ``(10)(A) For fiscal year 2005 and each subsequent fiscal year, no 
+device establishment may be inspected during the fiscal year involved by 
+a person accredited under paragraph (2) if--
+            ``(i) of the amounts appropriated for salaries and expenses 
+        of the Food and Drug Administration for the preceding fiscal 
+        year (referred to in this subparagraph as the `first prior 
+        fiscal year'), the amount obligated by the Secretary for 
+        inspections of device establishments by the Secretary was less 
+        than the adjusted base amount applicable to such first prior 
+        fiscal year; and
+            ``(ii) of the amounts appropriated for salaries and expenses 
+        of the Food and Drug Administration for the fiscal year 
+        preceding the first prior fiscal year (referred to in this 
+        subparagraph as the `second prior fiscal year'), the amount 
+        obligated by the Secretary for inspections of device 
+        establishments by the Secretary was less than the adjusted base 
+        amount applicable to such second prior fiscal year.
+
+    ``(B)(i) Subject to clause (ii), the Comptroller General of the 
+United States shall determine the amount that was obligated by the 
+Secretary for fiscal year 2002 for compliance activities of the Food and 
+Drug Administration with respect to devices (referred
+
+[[Page 116 STAT. 1608]]
+
+to in this subparagraph as the `compliance budget'), and of such amount, 
+the amount that was obligated for inspections by the Secretary of device 
+establishments (referred to in this subparagraph as the `inspection 
+budget').
+    ``(ii) For purposes of determinations under clause (i), the 
+Comptroller General shall not include in the compliance budget or the 
+inspection budget any amounts obligated for inspections of device 
+establishments conducted as part of the process of reviewing 
+applications under section 515.
+    ``(iii) Not later than March 31, 2003, the Comptroller General shall 
+complete the determinations required in this subparagraph and submit to 
+the Secretary and the Congress a reporting describing the findings made 
+through such determinations.
+    ``(C) For purposes of this paragraph:
+            ``(i) The term `base amount' means the inspection budget 
+        determined under subparagraph (B) for fiscal year 2002.
+            ``(ii) The term `adjusted base amount', in the case of 
+        applicability to fiscal year 2003, means an amount equal to the 
+        base amount increased by 5 percent.
+            ``(iii) The term `adjusted base amount', with respect to 
+        applicability to fiscal year 2004 or any subsequent fiscal year, 
+        means the adjusted based amount applicable to the preceding year 
+        increased by 5 percent.
+
+    ``(11) The authority provided by this subsection terminates on 
+October 1, 2012.
+    ``(12) <<NOTE: Deadline. Reports.>> No later than four years after 
+the enactment of this subsection the Comptroller General shall report to 
+the Committee on Energy and Commerce of the House of Representatives and 
+the Committee on Health, Education, Labor and Pensions of the Senate--
+            ``(A) the number of inspections pursuant to subsections (h) 
+        and (i) of section 510 conducted by accredited persons and the 
+        number of inspections pursuant to such subsections conducted by 
+        Federal employees;
+            ``(B) the number of persons who sought accreditation under 
+        this subsection, as well as the number of persons who were 
+        accredited under this subsection;
+            ``(C) the reasons why persons who sought accreditation, but 
+        were denied accreditation, were denied;
+            ``(D) the number of audits conducted by the Secretary of 
+        accredited persons, the quality of inspections conducted by 
+        accredited persons, whether accredited persons are meeting their 
+        obligations under this Act, and whether the number of audits 
+        conducted is sufficient to permit these assessments;
+            ``(E) whether this subsection is achieving the goal of 
+        ensuring more information about device establishment compliance 
+        is being presented to the Secretary, and whether that 
+        information is of a quality consistent with information obtained 
+        by the Secretary pursuant to subsection (h) or (i) of section 
+        510;
+            ``(F) whether this subsection is advancing efforts to allow 
+        device establishments to rely upon third-party inspections for 
+        purposes of compliance with the laws of foreign governments; and
+            ``(G) whether the Congress should continue, modify, or 
+        terminate the program under this subsection.
+
+[[Page 116 STAT. 1609]]
+
+    ``(13) The Secretary shall include in the annual report required 
+under section 903(g) the names of all accredited persons and the 
+particular activities under this subsection for which each such person 
+is accredited and the name of each accredited person whose accreditation 
+has been withdrawn during the year.
+    ``(14) Notwithstanding any provision of this subsection, this 
+subsection does not have any legal effect on any agreement described in 
+section 803(b) between the Secretary and a foreign country.''.
+    (b) Maintenance of Records.--Section 704(f) of the Federal Food, 
+Drug, and Cosmetic Act (21 U.S.C. 374(f)) is amended--
+            (1) in paragraph (1), in the first sentence, by striking ``A 
+        person accredited'' and all that follows through ``shall 
+        maintain records'' and inserting the following: ``An accredited 
+        person described in paragraph (3) shall maintain records'';
+            (2) in paragraph (2), by striking ``a person accredited 
+        under section 523'' and inserting ``an accredited person 
+        described in paragraph (3)''; and
+            (3) by adding at the end the following paragraph:
+
+    ``(3) For purposes of paragraphs (1) and (2), an accredited person 
+described in this paragraph is a person who--
+            ``(A) is accredited under subsection (g); or
+            ``(B) is accredited under section 523.''.
+
+    (c) Civil Money Penalty.--Section 303(g)(1)(A) of the Federal Food, 
+Drug, and Cosmetic Act (21 U.S.C. 333(g)(1)(A)) is amended by adding at 
+the end the following: ``For purposes of the preceding sentence, a 
+person accredited under paragraph (2) of section 704(g) who is 
+substantially not in compliance with the standards of accreditation 
+under such section, or who poses a threat to public health or fails to 
+act in a manner that is consistent with the purposes of such section, 
+shall be considered to have violated a requirement of this Act that 
+relates to devices.''.
+    (d) Prohibited Acts.--Section 301 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 331) is amended by adding at the end the 
+following:
+    ``(gg) The knowing failure of a person accredited under paragraph 
+(2) of section 704(g) to comply with paragraph (7)(E) of such section; 
+the knowing inclusion by such a person of false information in an 
+inspection report under paragraph (7)(A) of such section; or the knowing 
+failure of such a person to include material facts in such a report.''.
+    (e) Conforming Amendment.--Section 510(h) of the Federal Food, Drug, 
+and Cosmetic Act (21 U.S.C. 360(h)) is amended by inserting after ``duly 
+designated by the Secretary'' the following: ``, or by persons 
+accredited to conduct inspections under section 704(g),''.
+
+SEC. 202. THIRD PARTY REVIEW OF PREMARKET NOTIFICATION.
+
+    Section 523 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+360m) is amended--
+            (1) in subsection (c), by striking ``The authority'' and all 
+        that follows and inserting the following: ``The authority 
+        provided by this section terminates October 1, 2007.''; and
+            (2) by adding at the end the following subsection:
+
+    ``(d) Report.--Not <<NOTE: Deadline.>> later than January 10, 2007, 
+the Secretary shall conduct a study based on the experience under the 
+program under this section and submit to the Committee on Energy and
+
+
+[[Page 116 STAT. 1610]]
+
+Commerce of the House of Representatives, and the Committee on Health, 
+Education, Labor, and Pensions of the Senate, a report describing the 
+findings of the study. The objectives of the study shall include 
+determining--
+            ``(1) the number of devices reviewed under this section;
+            ``(2) the number of devices reviewed under this section that 
+        were ultimately cleared by the Secretary;
+            ``(3) the number of devices reviewed under this section that 
+        were ultimately not cleared by the Secretary;
+            ``(4) the average time period for a review under this 
+        section (including the time it takes for the Secretary to review 
+        a recommendation of an accredited person under subsection (a) 
+        and determine the initial device classification);
+            ``(5) the average time period identified in paragraph (4) 
+        compared to the average time period for review of devices solely 
+        by the Secretary pursuant to section 510(k);
+            ``(6) if there is a difference in the average time period 
+        under paragraph (4) and the average time period under paragraph 
+        (5), the reasons for such difference;
+            ``(7) whether the quality of reviews under this section for 
+        devices for which no guidance has been issued is qualitatively 
+        inferior to reviews by the Secretary for devices for which no 
+        guidance has been issued;
+            ``(8) whether the quality of reviews under this section of 
+        devices for which no guidance has been issued is qualitatively 
+        inferior to reviews under this section of devices for which 
+        guidance has been issued;
+            ``(9) whether this section has in any way jeopardized or 
+        improved the public health;
+            ``(10) any impact of this section on resources available to 
+        the Secretary to review reports under section 510(k); and
+            ``(11) any suggestions for continuation, modification 
+        (including contraction or expansion of device eligibility), or 
+        termination of this section that the Secretary determines to be 
+        appropriate.''.
+
+SEC. 203. DEBARMENT OF ACCREDITED PERSONS.
+
+    Section 306 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+335a) is amended by adding at the end the following subsection:
+    ``(m) Devices; Mandatory Debarment Regarding Third-Party Inspections 
+and Reviews.--
+            ``(1) In general.--If the Secretary finds that a person has 
+        been convicted of a felony under section 301(gg), the Secretary 
+        shall debar such person from being accredited under section 
+        523(b) or 704(g)(2) and from carrying out activities under an 
+        agreement described in section 803(b).
+            ``(2) Debarment period.--The Secretary shall debar a person 
+        under paragraph (1) for the following periods:
+                    ``(A) The period of debarment of a person (other 
+                than an individual) shall not be less than 1 year or 
+                more than 10 years, but if an act leading to a 
+                subsequent debarment under such paragraph occurs within 
+                10 years after such person has been debarred under such 
+                paragraph, the period of debarment shall be permanent.
+                    ``(B) The debarment of an individual shall be 
+                permanent.
+
+[[Page 116 STAT. 1611]]
+
+            ``(3) Termination of debarment; judicial review; other 
+        matters.--Subsections (c)(3), (d), (e), (i), (j), and (l)(1) 
+        apply with respect to a person (other than an individual) or an 
+        individual who is debarred under paragraph (1) to the same 
+        extent and in the same manner as such subsections apply with 
+        respect to a person who is debarred under subsection (a)(1), or 
+        an individual who is debarred under subsection (a)(2), 
+        respectively.''.
+
+SEC. 204. DESIGNATION AND REGULATION OF COMBINATION PRODUCTS.
+
+    Section 503(g) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 353(g)) is amended--
+            (1) in paragraph (1)--
+                    (A) in the first sentence, by striking ``shall 
+                designate a component of the Food and Drug 
+                Administration'' and inserting ``shall in accordance 
+                with this subsection assign an agency center''; and
+                    (B) in each of subparagraphs (A) through (C), by 
+                striking ``the persons charged'' and inserting ``the 
+                agency center charged'';
+            (2) by redesignating paragraph (4) as paragraph (5);
+            (3) by inserting after paragraph (3) the following 
+        paragraph:
+
+    ``(4)(A) <<NOTE: Deadline.>> Not later than 60 days after the date 
+of the enactment of this paragraph, the Secretary shall establish within 
+the Office of the Commissioner of Food and Drugs an office to ensure the 
+prompt assignment of combination products to agency centers, the timely 
+and effective premarket review of such products, and consistent and 
+appropriate postmarket regulation of like products subject to the same 
+statutory requirements to the extent permitted by law. Additionally, the 
+office shall, in determining whether a product is to be designated a 
+combination product, consult with the component within the Office of the 
+Commissioner of Food and Drugs that is responsible for such 
+determinations. Such office (referred to in this paragraph as the 
+`Office') shall have appropriate scientific and medical expertise, and 
+shall be headed by a director.
+
+    ``(B) In carrying out this subsection, the Office shall, for each 
+combination product, promptly assign an agency center with primary 
+jurisdiction in accordance with paragraph (1) for the premarket review 
+of such product.
+    ``(C)(i) In carrying out this subsection, the Office shall ensure 
+timely and effective premarket reviews by overseeing the timeliness of 
+and coordinating reviews involving more than one agency center.
+    ``(ii) In order to ensure the timeliness of the premarket review of 
+a combination product, the agency center with primary jurisdiction for 
+the product, and the consulting agency center, shall be responsible to 
+the Office with respect to the timeliness of the premarket review.
+    ``(D) In carrying out this subsection, the Office shall ensure the 
+consistency and appropriateness of postmarket regulation of like 
+products subject to the same statutory requirements to the extent 
+permitted by law.
+    ``(E)(i) Any dispute regarding the timeliness of the premarket 
+review of a combination product may be presented to the Office for 
+resolution, unless the dispute is clearly premature.
+
+[[Page 116 STAT. 1612]]
+
+    ``(ii) During the review process, any dispute regarding the 
+substance of the premarket review may be presented to the Commissioner 
+of Food and Drugs after first being considered by the agency center with 
+primary jurisdiction of the premarket review, under the scientific 
+dispute resolution procedures for such center. The Commissioner of Food 
+and Drugs shall consult with the Director of the Office in resolving the 
+substantive dispute.
+    ``(F) The Secretary, acting through the Office, shall review each 
+agreement, guidance, or practice of the Secretary that is specific to 
+the assignment of combination products to agency centers and shall 
+determine whether the agreement, guidance, or practice is consistent 
+with the requirements of this subsection. In carrying out such review, 
+the Secretary shall consult with stakeholders and the directors of the 
+agency centers. <<NOTE: Federal Register, publication. Notice.>> After 
+such consultation, the Secretary shall determine whether to continue in 
+effect, modify, revise, or eliminate such agreement, guidance, or 
+practice, and shall publish in the Federal Register a notice of the 
+availability of such modified or revised agreement, guidance or 
+practice. Nothing in this paragraph shall be construed as preventing the 
+Secretary from following each agreement, guidance, or practice until 
+continued, modified, revised, or eliminated.
+
+    ``(G) <<NOTE: Deadline. Reports.>> Not later than one year after the 
+date of the enactment of this paragraph and annually thereafter, the 
+Secretary shall report to the appropriate committees of Congress on the 
+activities and impact of the Office. The report shall include 
+provisions--
+            ``(i) describing the numbers and types of combination 
+        products under review and the timeliness in days of such 
+        assignments, reviews, and dispute resolutions;
+            ``(ii) identifying the number of premarket reviews of such 
+        products that involved a consulting agency center; and
+            ``(iii) describing improvements in the consistency of 
+        postmarket regulation of combination products.
+
+    ``(H) Nothing in this paragraph shall be construed to limit the 
+regulatory authority of any agency center.''; and
+            (4) in paragraph (5) (as redesignated by paragraph (2) of 
+        this section)--
+                    (A) by redesignating subparagraphs (A) and (B) as 
+                subparagraphs (B) and (C), respectively; and
+                    (B) by inserting before subparagraph (B) the 
+                following subparagraph:
+            ``(A) The term `agency center' means a center or alternative 
+        organizational component of the Food and Drug Administration.''.
+
+SEC. 205. <<NOTE: 21 USC 360e note.>> REPORT ON CERTAIN DEVICES.
+
+    Not <<NOTE: Deadline.>> later than one year after the date of 
+enactment of this Act, the Secretary of Health and Human Services shall 
+report to the appropriate committees of Congress on the timeliness and 
+effectiveness of device premarket reviews by centers other than the 
+Center for Devices and Radiological Health. Such report shall include 
+information on the times required to log in and review original 
+submissions and supplements, times required to review manufacturers' 
+replies to submissions, and times to approve or clear such devices. Such 
+report shall contain the Secretary's recommendations on any measures 
+needed to improve performance including, but not limited to, the 
+allocation of additional resources.
+
+
+[[Page 116 STAT. 1613]]
+
+Such report also shall include the Secretary's specific recommendation 
+on whether responsibility for regulating such devices should be 
+reassigned to those persons within the Food and Drug Administration who 
+are primarily charged with regulating other types of devices, and 
+whether such a transfer could have a deleterious impact on the public 
+health and on the safety of such devices.
+
+SEC. 206. ELECTRONIC LABELING.
+
+    Section 502(f) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 352(f)) is amended by adding at the end the following: ``Required 
+labeling for prescription devices intended for use in health care 
+facilities may be made available solely by electronic means provided 
+that the labeling complies with all applicable requirements of law and, 
+that the manufacturer affords health care facilities the opportunity to 
+request the labeling in paper form, and after such request, promptly 
+provides the health care facility the requested information without 
+additional cost.''.
+
+SEC. 207. ELECTRONIC REGISTRATION.
+
+    Section 510 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+360) is amended by adding at the end the following:
+    ``(p) Registrations under subsections (b), (c), (d), and (i) 
+(including the submission of updated information) shall be submitted to 
+the Secretary by electronic means, upon a finding by the Secretary that 
+the electronic receipt of such registrations is feasible, unless the 
+Secretary grants a request for waiver of such requirement because use of 
+electronic means is not reasonable for the person requesting such 
+waiver.''.
+
+SEC. 208. INTENDED USE.
+
+    Section 513(i)(1)(E) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 360c(i)(1)(E)) is amended by striking clause (iv).
+
+SEC. 209. MODULAR REVIEW.
+
+    Section 515(c) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 360e(c)) is amended by adding at the end the following:
+    ``(3)(A) Prior to the submission of an application under this 
+subsection, the Secretary shall accept and review any portion of the 
+application that the applicant and the Secretary agree is complete, 
+ready, and appropriate for review, except that such requirement does not 
+apply, and the Secretary has discretion whether to accept and review 
+such portion, during any period in which, under section 738(g), the 
+Secretary does not have the authority to collect fees under section 
+738(a).
+    ``(B) Each portion of a submission reviewed under subparagraph (A) 
+and found acceptable by the Secretary shall not be further reviewed 
+after receipt of an application that satisfies the requirements of 
+paragraph (1), unless an issue of safety or effectiveness provides the 
+Secretary reason to review such accepted portion.
+    ``(C) Whenever the Secretary determines that a portion of a 
+submission under subparagraph (A) is unacceptable, the Secretary shall, 
+in writing, provide to the applicant a description of any deficiencies 
+in such portion and identify the information that is required to correct 
+these deficiencies, unless the applicant is no longer pursuing the 
+application.''.
+
+[[Page 116 STAT. 1614]]
+
+SEC. 210. PEDIATRIC EXPERTISE REGARDING CLASSIFICATION-PANEL REVIEW OF 
+            PREMARKET APPLICATIONS.
+
+    Section 515(c) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 360e(c)), as amended by section 302(c)(2)(A) of this Act, is 
+amended in paragraph (3) by adding at the end the following: ``Where 
+appropriate, the Secretary shall ensure that such panel includes, or 
+consults with, one or more pediatric experts.''.
+
+SEC. 211. INTERNET LIST OF CLASS II DEVICES EXEMPTED FROM REQUIREMENT OF 
+            PREMARKET NOTIFICATION.
+
+    Section 510(m)(1) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 360(m)(1)) is amended by adding at the end the following: ``The 
+Secretary shall publish such list on the Internet site of the Food and 
+Drug Administration. The list so published shall be updated not later 
+than 30 days after each revision of the list by the Secretary.''.
+
+SEC. 212. <<NOTE: 21 USC 360l note.>> STUDY BY INSTITUTE OF MEDICINE OF 
+            POSTMARKET SURVEILLANCE REGARDING PEDIATRIC POPULATIONS.
+
+    (a) In General.--The Secretary of Health and Human Services 
+(referred to in this section as the ``Secretary'') shall request the 
+Institute of Medicine to enter into an agreement with the Secretary 
+under which such Institute conducts a study for the purpose of 
+determining whether the system under the Federal Food, Drug, and 
+Cosmetic Act for the postmarket surveillance of medical devices provides 
+adequate safeguards regarding the use of devices in pediatric 
+populations.
+    (b) Certain Matters.--The Secretary shall ensure that determinations 
+made in the study under subsection (a) include determinations of--
+            (1) whether postmarket surveillance studies of implanted 
+        medical devices are of long enough duration to evaluate the 
+        impact of growth and development for the number of years that 
+        the child will have the implant, and whether the studies are 
+        adequate to evaluate how children's active lifestyles may affect 
+        the failure rate and longevity of the implant; and
+            (2) whether the postmarket surveillance by the Food and Drug 
+        Administration of medical devices used in pediatric populations 
+        is sufficient to provide adequate safeguards for such 
+        populations, taking into account the Secretary's monitoring of 
+        commitments made at the time of approval of medical devices, 
+        such as phase IV trials, and the Secretary's monitoring and use 
+        of adverse reaction reports, registries, and other postmarket 
+        surveillance activities.
+
+    (c) Report to Congress.--The <<NOTE: Deadline.>> Secretary shall 
+ensure that, not later than four years after the date of the enactment 
+of this Act, a report describing the findings of the study under 
+subsection (a) is submitted to the Congress. The report shall include 
+any recommendations of the Secretary for administrative or legislative 
+changes to the system of postmarket surveillance referred to in such 
+subsection.
+
+SEC. 213. <<NOTE: 21 USC 360j note.>> GUIDANCE REGARDING PEDIATRIC 
+            DEVICES.
+
+    Not <<NOTE: Deadline.>> later than 270 days after the date of the 
+enactment of this Act, the Secretary of Health and Human Services shall 
+issue guidance on the following:
+
+[[Page 116 STAT. 1615]]
+
+            (1) The type of information necessary to provide reasonable 
+        assurance of the safety and effectiveness of medical devices 
+        intended for use in pediatric populations.
+            (2) Protections for pediatric subjects in clinical 
+        investigations of the safety or effectiveness of such devices.
+
+SEC. 214. <<NOTE: 42 USC 289g-3 note.>> BREAST IMPLANTS; STUDY BY 
+            COMPTROLLER GENERAL.
+
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study to determine the following with respect to breast 
+implants:
+            (1) The content of information typically provided by health 
+        professionals to women who consult with such professionals on 
+        the issue of whether to undergo breast implant surgery.
+            (2) Whether such information is provided by physicians or 
+        other health professionals, and whether the information is 
+        provided verbally or in writing, and at what point in the 
+        process of determining whether to undergo surgery is such 
+        information provided.
+            (3) Whether the information presented, as a whole, provides 
+        a complete and accurate discussion of the risks and benefits of 
+        breast implants, and the extent to which women who receive such 
+        information understand the risks and benefits.
+            (4) The number of adverse events that have been reported, 
+        and whether such events have been adequately investigated.
+            (5) With respect to women who participate as subjects in 
+        research being carried out regarding the safety and 
+        effectiveness of breast implants:
+                    (A) The content of information provided to the women 
+                during the process of obtaining the informed consent of 
+                the women to be subjects, and the extent to which such 
+                information is updated.
+                    (B) Whether such process provides written 
+                explanations of the criteria for being subjects in the 
+                research.
+                    (C) The point at which, in the planning or conduct 
+                of the research, the women are provided information 
+                regarding the provision of informed consent to be 
+                subjects.
+
+    (b) Report.--The Comptroller General shall submit to the Congress a 
+report describing the findings of the study.
+    (c) Definition.--For purposes of this section, the term ``breast 
+implant'' means a breast prosthesis that is implanted to augment or 
+reconstruct the female breast.
+
+SEC. 215. BREAST IMPLANTS; RESEARCH THROUGH NATIONAL INSTITUTES OF 
+            HEALTH.
+
+    (a) Report on Status of Current Research.--
+Not <<NOTE: Deadline. Reports.>> later than 180 days after the date of 
+the enactment of this Act, the Director of the National Institutes of 
+Health shall submit to the Congress a report describing the status of 
+research on breast implants (as defined in section 213(c)) being 
+conducted or supported by such Institutes.
+
+    (b) Research on Long-Term Implications.--Part H of title IV of the 
+Public Health Service Act (42 U.S.C. 289 et seq.) is amended by adding 
+at the end of the following section:
+
+``SEC. 498C. <<NOTE: 42 USC 289g-3.>> BREAST IMPLANT RESEARCH.
+
+    ``(a) In General.--The Director of NIH may conduct or support 
+research to examine the long-term health implications of silicone
+
+[[Page 116 STAT. 1616]]
+
+breast implants, both gel and saline filled. Such research studies may 
+include the following:
+            ``(1) Developing and examining techniques to measure 
+        concentrations of silicone in body fluids and tissues.
+            ``(2) Surveillance of recipients of silicone breast 
+        implants, including long-term outcomes and local complications.
+
+    ``(b) Definition.--For purposes of this section, the term `breast 
+implant' means a breast prosthesis that is implanted to augment or 
+reconstruct the female breast.''.
+
+                    TITLE III--ADDITIONAL AMENDMENTS
+
+SEC. 301. IDENTIFICATION OF MANUFACTURER OF MEDICAL DEVICES.
+
+    (a) In General.--Section 502 of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 352) is amended by adding at the end the following:
+    ``(u) If it is a device, unless it, or an attachment thereto, 
+prominently and conspicuously bears the name of the manufacturer of the 
+device, a generally recognized abbreviation of such name, or a unique 
+and generally recognized symbol identifying such manufacturer, except 
+that the Secretary may waive any requirement under this paragraph for 
+the device if the Secretary determines that compliance with the 
+requirement is not feasible for the device or would compromise the 
+provision of reasonable assurance of the safety or effectiveness of the 
+device.''.
+    (b) Effective Date.--The <<NOTE: 21 USC 352 note.>> amendment made 
+by subsection (a) takes effect 18 months after the date of the enactment 
+of this Act, and only applies to devices introduced or delivered for 
+introduction into interstate commerce after such effective date.
+
+SEC. 302. SINGLE-USE MEDICAL DEVICES.
+
+    (a) Required Statements on Labeling.--
+            (1) In general.--Section 502 of the Federal Food, Drug, and 
+        Cosmetic Act, as amended by section 301 of this Act, is amended 
+        by adding at the end the following:
+
+    ``(v) If it is a reprocessed single-use device, unless all labeling 
+of the device prominently and conspicuously bears the statement 
+`Reprocessed device for single use. Reprocessed by ____.' The name of 
+the manufacturer of the reprocessed device shall be placed in the space 
+identifying the person responsible for reprocessing.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        takes effect 15 months after the date of the enactment of this 
+        Act, and only applies to devices introduced or delivered for 
+        introduction into interstate commerce after such effective date.
+
+    (b) Premarket Notification.--Section <<NOTE: 21 USC 352 note.>> 510 
+of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360) is amended 
+by inserting after subsection (n) the following:
+
+    ``(o)(1) With respect to reprocessed single-use devices for which 
+reports are required under subsection (k):
+            ``(A) The Secretary shall identify such devices or types of 
+        devices for which reports under such subsection must, in order 
+        to ensure that the device is substantially equivalent to a 
+        predicate device, include validation data, the types of which 
+        shall be specified by the Secretary, regarding cleaning and 
+        sterilization, and functional performance demonstrating
+
+[[Page 116 STAT. 1617]]
+
+        that the single-use device will remain substantially equivalent 
+        to its predicate device after the maximum number of times the 
+        device is reprocessed as intended by the person submitting the 
+        premarket notification. <<NOTE: Federal Register, 
+        publication.>> Within six months after enactment of this 
+        subsection, the Secretary shall publish in the Federal Register 
+        a list of the types so identified, and shall revise the list as 
+        appropriate. Reports under subsection (k) for devices or types 
+        of devices within a type included on the list are, upon 
+        publication of the list, required to include such validation 
+        data.
+            ``(B) <<NOTE: Deadline.>> In the case of each report under 
+        subsection (k) that was submitted to the Secretary before the 
+        publication of the initial list under subparagraph (A), or any 
+        revision thereof, and was for a device or type of device 
+        included on such list, the person who submitted the report under 
+        subsection (k) shall submit validation data as described in 
+        subparagraph (A) to the Secretary not later than nine months 
+        after the publication of the list. During such nine-month 
+        period, the Secretary may not take any action under this Act 
+        against such device solely on the basis that the validation data 
+        for the device have not been submitted to the Secretary. After 
+        the submission of the validation data to the Secretary, the 
+        Secretary may not determine that the device is misbranded under 
+        section 502(o), adulterated under section 501(f)(1)(B), or take 
+        action against the device under section 301(p) for failure to 
+        provide any information required by subsection (k) until (i) the 
+        review is terminated by withdrawal of the submission of the 
+        report under subsection (k); (ii) the Secretary finds the data 
+        to be acceptable and issues a letter; or (iii) the Secretary 
+        determines that the device is not substantially equivalent to a 
+        predicate device. Upon a determination that a device is not 
+        substantially equivalent to a predicate device, or if such 
+        submission is withdrawn, the device can no longer be legally 
+        marketed.
+            ``(C) In the case of a report under subsection (k) for a 
+        device identified under subparagraph (A) that is of a type for 
+        which the Secretary has not previously received a report under 
+        such subsection, the Secretary may, in advance of revising the 
+        list under subparagraph (A) to include such type, require that 
+        the report include the validation data specified in subparagraph 
+        (A).
+            ``(D) Section 502(o) applies with respect to the failure of 
+        a report under subsection (k) to include validation data 
+        required under subparagraph (A).
+
+    ``(2) With respect to critical or semi-critical reprocessed single-
+use devices that, under subsection (l) or (m), are exempt from the 
+requirement of submitting reports under subsection (k):
+            ``(A) The Secretary shall identify such devices or types of 
+        devices for which such exemptions should be terminated in order 
+        to provide a reasonable assurance of the safety and 
+        effectiveness of the devices. <<NOTE: Federal Register, 
+        publication.>> The Secretary shall publish in the Federal 
+        Register a list of the devices or types of devices so 
+        identified, and shall revise the list as appropriate. The 
+        exemption for each device or type included on the list is 
+        terminated upon the publication of the list. For each report 
+        under subsection (k) submitted pursuant to this subparagraph the 
+        Secretary shall require the validation data described in 
+        paragraph (1)(A).
+
+[[Page 116 STAT. 1618]]
+
+            ``(B) For each device or type of device included on the list 
+        under subparagraph (A), a report under subsection (k) shall be 
+        submitted to the Secretary not later than 15 months after the 
+        publication of the initial list, or a revision of the list, 
+        whichever terminates the exemption for the device. During such 
+        15-month period, the Secretary may not take any action under 
+        this Act against such device solely on the basis that such 
+        report has not been submitted to the Secretary. After the 
+        submission of the report to the Secretary the Secretary may not 
+        determine that the device is misbranded under section 502(o), 
+        adulterated under section 501(f)(1)(B), or take action against 
+        the device under section 301(p) for failure to provide any 
+        information required by subsection (k) until (i) the review is 
+        terminated by withdrawal of the submission; (ii) the Secretary 
+        determines by order that the device is substantially equivalent 
+        to a predicate device; or (iii) the Secretary determines by 
+        order that the device is not substantially equivalent to a 
+        predicate device. Upon a determination that a device is not 
+        substantially equivalent to a predicate device, the device can 
+        no longer be legally marketed.
+            ``(C) <<NOTE: Deadlines.>> In the case of semi-critical 
+        devices, the initial list under subparagraph (A) shall be 
+        published not later than 18 months after the effective date of 
+        this subsection. In the case of critical devices, the initial 
+        list under such subparagraph shall be published not later than 
+        six months after such effective date.
+            ``(D) Section 502(o) applies with respect to the failure to 
+        submit a report under subsection (k) that is required pursuant 
+        to subparagraph (A), including a failure of the report to 
+        include validation data required in such subparagraph.
+            ``(E) The termination under subparagraph (A) of an exemption 
+        under subsection (l) or (m) for a critical or semicritical 
+        reprocessed single-use device does not terminate the exemption 
+        under subsection (l) or (m) for the original device.''.
+
+    (c) Premarket Report.--Section 515 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 360e) is amended--
+            (1) in subsection (a), in the matter after and below 
+        paragraph (2), by inserting before the period the following: 
+        ``or, as applicable, an approval under subsection (c)(2) of a 
+        report seeking premarket approval''; and
+            (2) in subsection (c)--
+                    (A) by redesignating paragraph (2) as paragraph (3); 
+                and
+                    (B) by inserting after paragraph (1) the following 
+                paragraph:
+
+    ``(2)(A) Any person may file with the Secretary a report seeking 
+premarket approval for a class III device referred to in subsection (a) 
+that is a reprocessed single-use device. Such a report shall contain the 
+following:
+            ``(i) The device name, including both the trade or 
+        proprietary name and the common or usual name.
+            ``(ii) The establishment registration number of the owner or 
+        operator submitting the report.
+            ``(iii) Actions taken to comply with performance standards 
+        under section 514.
+
+[[Page 116 STAT. 1619]]
+
+            ``(iv) Proposed labels, labeling, and advertising sufficient 
+        to describe the device, its intended use, and directions for 
+        use.
+            ``(v) Full reports of all information, published or known to 
+        or which should be reasonably known to the applicant, concerning 
+        investigations which have been made to show whether or not the 
+        device is safe or effective.
+            ``(vi) A description of the device's components, 
+        ingredients, and properties.
+            ``(vii) A full description of the methods used in, and the 
+        facilities and controls used for, the reprocessing and packing 
+        of the device.
+            ``(viii) Such samples of the device that the Secretary may 
+        reasonably require.
+            ``(ix) A financial certification or disclosure statement or 
+        both, as required by part 54 of title 21, Code of Federal 
+        Regulations.
+            ``(x) A statement that the applicant believes to the best of 
+        the applicant's knowledge that all data and information 
+        submitted to the Secretary are truthful and accurate and that no 
+        material fact has been omitted in the report.
+            ``(xi) Any additional data and information, including 
+        information of the type required in paragraph (1) for an 
+        application under such paragraph, that the Secretary determines 
+        is necessary to determine whether there is reasonable assurance 
+        of safety and effectiveness for the reprocessed device.
+            ``(xii) Validation data described in section 510(o)(1)(A) 
+        that demonstrates that the reasonable assurance of the safety or 
+        effectiveness of the device will remain after the maximum number 
+        of times the device is reprocessed as intended by the person 
+        submitting such report.
+
+    ``(B) In the case of a class III device referred to in subsection 
+(a) that is a reprocessed single-use device:
+            ``(i) Subparagraph (A) of this paragraph applies in lieu of 
+        paragraph (1).
+            ``(ii) Subject to clause (i), the provisions of this section 
+        apply to a report under subparagraph (A) to the same extent and 
+        in the same manner as such provisions apply to an application 
+        under paragraph (1).
+            ``(iii) Each reference in other sections of this Act to an 
+        application under this section, other than such a reference in 
+        section 737 or 738, shall be considered to be a reference to a 
+        report under subparagraph (A).
+            ``(iv) Each reference in other sections of this Act to a 
+        device for which an application under this section has been 
+        approved, or has been denied, suspended, or withdrawn, other 
+        than such a reference in section 737 or 738, shall be considered 
+        to be a reference to a device for which a report under 
+        subparagraph (A) has been approved, or has been denied, 
+        suspended, or withdrawn, respectively.''.
+
+    (d) Definitions.--Section 201 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 321) is amended by adding at the end the 
+following:
+    ``(ll)(1) The term `single-use device' means a device that is 
+intended for one use, or on a single patient during a single procedure.
+
+[[Page 116 STAT. 1620]]
+
+    ``(2)(A) The term `reprocessed', with respect to a single-use 
+device, means an original device that has previously been used on a 
+patient and has been subjected to additional processing and 
+manufacturing for the purpose of an additional single use on a patient. 
+The subsequent processing and manufacture of a reprocessed single-use 
+device shall result in a device that is reprocessed within the meaning 
+of this definition.
+    ``(B) A single-use device that meets the definition under clause (A) 
+shall be considered a reprocessed device without regard to any 
+description of the device used by the manufacturer of the device or 
+other persons, including a description that uses the term `recycled' 
+rather than the term `reprocessed'.
+    ``(3) The term `original device' means a new, unused single-use 
+device.
+    ``(mm)(1) The term `critical reprocessed single-use device' means a 
+reprocessed single-use device that is intended to contact normally 
+sterile tissue or body spaces during use.
+    ``(2) The term `semi-critical reprocessed single-use device' means a 
+reprocessed single-use device that is intended to contact intact mucous 
+membranes and not penetrate normally sterile areas of the body.''.
+
+SEC. 303. MEDWATCH.
+
+    Not later <<NOTE: Deadline.>> than 6 months after the date of the 
+enactment of this Act, the Secretary of Health and Human Services shall 
+modify the MedWatch mandatory and voluntary forms to facilitate the 
+reporting of information by user facilities or distributors as 
+appropriate relating to reprocessed single-use devices, including the 
+name of the reprocessor and whether the device has been reused.
+
+    Approved October 26, 2002.
+
+LEGISLATIVE HISTORY--H.R. 5651:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 148 (2002):
+            Oct. 16, considered and passed House.
+            Oct. 17, considered and passed Senate.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 38 (2002):
+            Oct. 26, 28, Presidential remarks and statement.
+
+                                  
+

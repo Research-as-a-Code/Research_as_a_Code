@@ -1,0 +1,2808 @@
+
+[107th Congress Public Law 251]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ251.107]
+
+
+[[Page 116 STAT. 1621]]
+
+Public Law 107-251
+107th Congress
+
+                                 An Act
+
+
+ 
+To amend the Public Health Service Act to reauthorize and strengthen the 
+  health centers program and the National Health Service Corps, and to 
+   establish the Healthy Communities Access Program, which will help 
+ coordinate services for the uninsured and underinsured, and for other 
+             purposes. <<NOTE: Oct. 26, 2002 -  [S. 1533]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Health Care Safety Net 
+Amendments of 2002.>> assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This <<NOTE: 42 USC 201 note.>> Act may be cited 
+as the ``Health Care Safety Net Amendments of 2002''.
+
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+         TITLE I--CONSOLIDATED HEALTH CENTER PROGRAM AMENDMENTS
+
+Sec. 101. Health centers.
+Sec. 102. Telemedicine; incentive grants regarding coordination among 
+           States.
+
+                         TITLE II--RURAL HEALTH
+
+ Subtitle A--Rural Health Care Services Outreach, Rural Health Network 
+ Development, and Small Health Care Provider Quality Improvement Grant 
+                                Programs
+
+Sec. 201. Grant programs.
+
+               Subtitle B--Telehealth Grant Consolidation
+
+Sec. 211. Short title.
+Sec. 212. Consolidation and reauthorization of provisions.
+
+    Subtitle C--Mental Health Services Telehealth Program and Rural 
+   Emergency Medical Service Training and Equipment Assistance Program
+
+Sec. 221. Programs.
+
+            TITLE III--NATIONAL HEALTH SERVICE CORPS PROGRAM
+
+Sec. 301. National Health Service Corps.
+Sec. 302. Designation of health professional shortage areas.
+Sec. 303. Assignment of Corps personnel.
+Sec. 304. Priorities in assignment of Corps personnel.
+Sec. 305. Cost-sharing.
+Sec. 306. Eligibility for Federal funds.
+Sec. 307. Facilitation of effective provision of Corps services.
+Sec. 308. Authorization of appropriations.
+Sec. 309. National Health Service Corps Scholarship Program.
+Sec. 310. National Health Service Corps Loan Repayment Program.
+Sec. 311. Obligated service.
+Sec. 312. Private practice.
+Sec. 313. Breach of scholarship contract or loan repayment contract.
+Sec. 314. Authorization of appropriations.
+Sec. 315. Grants to States for loan repayment programs.
+Sec. 316. Demonstration grants to States for community scholarship 
+           programs.
+Sec. 317. Demonstration project.
+
+[[Page 116 STAT. 1622]]
+
+              TITLE IV--HEALTHY COMMUNITIES ACCESS PROGRAM
+
+Sec. 401. Purpose.
+Sec. 402. Creation of Healthy Communities Access Program.
+Sec. 403. Expanding availability of dental services.
+Sec. 404. Study regarding barriers to participation of farmworkers in 
+           health programs.
+
+               TITLE V--STUDY AND MISCELLANEOUS PROVISIONS
+
+Sec. 501. Guarantee study.
+Sec. 502. Graduate medical education.
+
+                     TITLE VI--CONFORMING AMENDMENTS
+
+Sec. 601. Conforming amendments.
+
+         TITLE I--CONSOLIDATED HEALTH CENTER PROGRAM AMENDMENTS
+
+SEC. 101. HEALTH CENTERS.
+
+    Section 330 of the Public Health Service Act (42 U.S.C. 254b) is 
+amended--
+            (1) in subsection (b)(1)(A)--
+                    (A) in clause (i)(III)(bb), by striking ``screening 
+                for breast and cervical cancer'' and inserting 
+                ``appropriate cancer screening'';
+                    (B) in clause (ii), by inserting ``(including 
+                specialty referral when medically indicated)'' after 
+                ``medical services''; and
+                    (C) in clause (iii), by inserting ``housing,'' after 
+                ``social,'';
+            (2) in subsection (b)(2)--
+                    (A) in subparagraph (A)(i), by striking ``associated 
+                with water supply;'' and inserting the following: 
+                ``associated with--
+                                    ``(I) water supply;
+                                    ``(II) chemical and pesticide 
+                                exposures;
+                                    ``(III) air quality; or
+                                    ``(IV) exposure to lead;'';
+                    (B) by redesignating subparagraphs (A) and (B) as 
+                subparagraphs (C) and (D), respectively; and
+                    (C) by inserting before subparagraph (C) (as so 
+                redesignated by subparagraph (B)) the following:
+                    ``(A) behavioral and mental health and substance 
+                abuse services;
+                    ``(B) recuperative care services;'';
+            (3) in subsection (c)(1)--
+                    (A) in subparagraph (B)--
+                          (i) in the heading, by striking 
+                      ``Comprehensive service delivery'' and inserting 
+                      ``Managed care'';
+                          (ii) in the matter preceding clause (i), by 
+                      striking ``network or plan'' and all that follows 
+                      to the period and inserting ``managed care network 
+                      or plan.''; and
+                          (iii) in the matter following clause (ii), by 
+                      striking ``Any such grant may include'' and all 
+                      that follows through the period; and
+                    (B) by adding at the end the following:
+                    ``(C) Practice management networks.--The Secretary 
+                may make grants to health centers that receive 
+                assistance under this section to enable the centers to 
+                plan
+
+[[Page 116 STAT. 1623]]
+
+                and develop practice management networks that will 
+                enable the centers to--
+                          ``(i) reduce costs associated with the 
+                      provision of health care services;
+                          ``(ii) improve access to, and availability of, 
+                      health care services provided to individuals 
+                      served by the centers;
+                          ``(iii) enhance the quality and coordination 
+                      of health care services; or
+                          ``(iv) improve the health status of 
+                      communities.
+                    ``(D) Use of funds.--The activities for which a 
+                grant may be made under subparagraph (B) or (C) may 
+                include the purchase or lease of equipment, which may 
+                include data and information systems (including paying 
+                for the costs of amortizing the principal of, and paying 
+                the interest on, loans for equipment), the provision of 
+                training and technical assistance related to the 
+                provision of health care services on a prepaid basis or 
+                under another managed care arrangement, and other 
+                activities that promote the development of practice 
+                management or managed care networks and plans.'';
+            (4) in subsection (d)--
+                    (A) by striking the subsection heading and inserting 
+                ``Loan Guarantee Program.--'';
+                    (B) in paragraph (1)--
+                          (i) in subparagraph (A), by striking ``the 
+                      principal and interest on loans'' and all that 
+                      follows through the period and inserting ``up to 
+                      90 percent of the principal and interest on loans 
+                      made by non-Federal lenders to health centers, 
+                      funded under this section, for the costs of 
+                      developing and operating managed care networks or 
+                      plans described in subsection (c)(1)(B), or 
+                      practice management networks described in 
+                      subsection (c)(1)(C).'';
+                          (ii) in subparagraph (B)--
+                                    (I) in clause (i), by striking 
+                                ``or'';
+                                    (II) in clause (ii), by striking the 
+                                period and inserting ``; or''; and
+                                    (III) by adding at the end the 
+                                following:
+                          ``(iii) to refinance an existing loan (as of 
+                      the date of refinancing) to the center or centers, 
+                      if the Secretary determines--
+                                    ``(I) that such refinancing will be 
+                                beneficial to the health center and the 
+                                Federal Government;
+                                    ``(II) that the center (or centers) 
+                                can demonstrate an ability to repay the 
+                                refinanced loan equal to or greater than 
+                                the ability of the center (or centers) 
+                                to repay the original loan on the date 
+                                the original loan was made.''; and
+                          (iii) by adding at the end the following:
+                    ``(D) Provision directly to networks or plans.--At 
+                the request of health centers receiving assistance under 
+                this section, loan guarantees provided under this 
+                paragraph may be made directly to networks or plans that 
+                are at least majority controlled and, as applicable, at 
+                least majority owned by those health centers.
+
+[[Page 116 STAT. 1624]]
+
+                    ``(E) Federal credit reform.--The requirements of 
+                the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et 
+                seq.) shall apply with respect to loans refinanced under 
+                subparagraph (B)(iii).''; and
+                    (C)(i) by striking paragraphs (6) and (7); and
+                    (ii) by redesignating paragraph (8) as paragraph 
+                (6);
+            (4) in subsection (e)--
+                    (A) in paragraph (1)--
+                          (i) in subparagraph (B), by striking 
+                      ``subsection (j)(3)'' and inserting ``subsection 
+                      (k)(3)''; and
+                          (ii) by adding at the end the following:
+                    ``(C) Operation of networks and plans.--The 
+                Secretary may make grants to health centers that receive 
+                assistance under this section, or at the request of the 
+                health centers, directly to a network or plan (as 
+                described in subparagraphs (B) and (C) of subsection 
+                (c)(1)) that is at least majority controlled and, as 
+                applicable, at least majority owned by such health 
+                centers receiving assistance under this section, for the 
+                costs associated with the operation of such network or 
+                plan, including the purchase or lease of equipment 
+                (including the costs of amortizing the principal of, and 
+                paying the interest on, loans for equipment).'';
+                    (B) in paragraph (5)--
+                          (i) in subparagraph (A), by inserting 
+                      ``subparagraphs (A) and (B) of'' after ``any 
+                      fiscal year under'';
+                          (ii) by redesignating subparagraphs (B) and 
+                      (C) as subparagraphs (C) and (D), respectively; 
+                      and
+                          (iii) by inserting after subparagraph (A) the 
+                      following:
+                    ``(B) Networks and plans.--The total amount of grant 
+                funds made available for any fiscal year under paragraph 
+                (1)(C) and subparagraphs (B) and (C) of subsection 
+                (c)(1) to a health center or to a network or plan shall 
+                be determined by the Secretary, but may not exceed 2 
+                percent of the total amount appropriated under this 
+                section for such fiscal year.''; and
+                    (C) by redesignating paragraphs (4) and (5) as 
+                paragraphs (3) and (4), respectively;
+            (5) in subsection (g)--
+                    (A) in paragraph (2)--
+                          (i) in subparagraph (A), by inserting ``and 
+                      seasonal agricultural worker'' after 
+                      ``agricultural worker''; and
+                          (ii) in subparagraph (B), by striking ``and 
+                      members of their families'' and inserting ``and 
+                      seasonal agricultural workers, and members of 
+                      their families,''; and
+                    (B) in paragraph (3)(A), by striking ``on a seasonal 
+                basis'';
+            (6) in subsection (h)--
+                    (A) in paragraph (1), by striking ``homeless 
+                children and children at risk of homelessness'' and 
+                inserting ``homeless children and youth and children and 
+                youth at risk of homelessness'';
+                    (B)(i) by redesignating paragraph (4) as paragraph 
+                (5); and
+                    (ii) by inserting after paragraph (3) the following:
+
+[[Page 116 STAT. 1625]]
+
+            ``(4) Temporary continued provision of services to certain 
+        former homeless individuals.--If any grantee under this 
+        subsection has provided services described in this section under 
+        the grant to a homeless individual, such grantee may, 
+        notwithstanding that the individual is no longer homeless as a 
+        result of becoming a resident in permanent housing, expend the 
+        grant to continue to provide such services to the individual for 
+        not more than 12 months.''; and
+                    (C) in paragraph (5)(C) (as redesignated by 
+                subparagraph (B)), by striking ``and residential 
+                treatment'' and inserting ``, risk reduction, outpatient 
+                treatment, residential treatment, and rehabilitation'';
+            (7) in subsection (j)(3)--
+                    (A) in subparagraph (E)--
+                          (i) in clause (i)--
+                                    (I) by striking ``(i)'' and 
+                                inserting ``(i)(I)'';
+                                    (II) by striking ``plan; or'' and 
+                                inserting ``plan; and''; and
+                                    (III) by adding at the end the 
+                                following:
+                                    ``(II) has or will have a 
+                                contractual or other arrangement with 
+                                the State agency administering the 
+                                program under title XXI of such Act (42 
+                                U.S.C. 1397aa et seq.) with respect to 
+                                individuals who are State children's 
+                                health insurance program beneficiaries; 
+                                or''; and
+                          (ii) by striking clause (ii) and inserting the 
+                      following:
+                          ``(ii) has made or will make every reasonable 
+                      effort to enter into arrangements described in 
+                      subclauses (I) and (II) of clause (i);'';
+                    (B) in subparagraph (G)--
+                          (i) in clause (ii)(II), by striking ``; and'' 
+                      and inserting ``;'';
+                          (ii) by redesignating clause (iii) as clause 
+                      (iv); and
+                          (iii) by inserting after clause (ii) the 
+                      following:
+                          ``(iii)(I) will assure that no patient will be 
+                      denied health care services due to an individual's 
+                      inability to pay for such services; and
+                          ``(II) will assure that any fees or payments 
+                      required by the center for such services will be 
+                      reduced or waived to enable the center to fulfill 
+                      the assurance described in subclause (I); and'';
+                    (C) in subparagraph (H), in the matter following 
+                clause (iii), by striking ``or (p)'' and inserting ``or 
+                (q)'';
+                    (D) in subparagraph (K)(ii), by striking ``and'' at 
+                the end;
+                    (E) in subparagraph (L), by striking the period and 
+                inserting ``; and''; and
+                    (F) by inserting after subparagraph (L), the 
+                following:
+                    ``(M) the center encourages persons receiving or 
+                seeking health services from the center to participate 
+                in any public or private (including employer-offered) 
+                health programs or plans for which the persons are 
+                eligible, so long as the center, in complying with this 
+                subparagraph, does not violate the requirements of 
+                subparagraph (G)(iii)(I).'';
+            (8)(A) by redesignating subsection (l) as subsection (s) and 
+        moving that subsection (s) to the end of the section;
+
+[[Page 116 STAT. 1626]]
+
+            (B) by redesignating subsections (j), (k), and (m) through 
+        (q) as subsections (n), (o), and (p) through (s), respectively; 
+        and
+            (C) by inserting after subsection (i) the following:
+
+    ``(j) Access Grants.--
+            ``(1) In general.--The Secretary may award grants to 
+        eligible health centers with a substantial number of clients 
+        with limited English speaking proficiency to provide 
+        translation, interpretation, and other such services for such 
+        clients with limited English speaking proficiency.
+            ``(2) Eligible health center.--In this subsection, the term 
+        `eligible health center' means an entity that--
+                    ``(A) is a health center as defined under subsection 
+                (a);
+                    ``(B) provides health care services for clients for 
+                whom English is a second language; and
+                    ``(C) has exceptional needs with respect to 
+                linguistic access or faces exceptional challenges with 
+                respect to linguistic access.
+            ``(3) Grant amount.--The amount of a grant awarded to a 
+        center under this subsection shall be determined by the 
+        Administrator. Such determination of such amount shall be based 
+        on the number of clients for whom English is a second language 
+        that is served by such center, and larger grant amounts shall be 
+        awarded to centers serving larger numbers of such clients.
+            ``(4) Use of funds.--An eligible health center that receives 
+        a grant under this subsection may use funds received through 
+        such grant to--
+                    ``(A) provide translation, interpretation, and other 
+                such services for clients for whom English is a second 
+                language, including hiring professional translation and 
+                interpretation services; and
+                    ``(B) compensate bilingual or multilingual staff for 
+                language assistance services provided by the staff for 
+                such clients.
+            ``(5) Application.--An eligible health center desiring a 
+        grant under this subsection shall submit an application to the 
+        Secretary at such time, in such manner, and containing such 
+        information as the Secretary may reasonably require, including--
+                    ``(A) an estimate of the number of clients that the 
+                center serves for whom English is a second language;
+                    ``(B) the ratio of the number of clients for whom 
+                English is a second language to the total number of 
+                clients served by the center;
+                    ``(C) a description of any language assistance 
+                services that the center proposes to provide to aid 
+                clients for whom English is a second language; and
+                    ``(D) a description of the exceptional needs of such 
+                center with respect to linguistic access or a 
+                description of the exceptional challenges faced by such 
+                center with respect to linguistic access.
+            ``(6) Authorization of appropriations.--There are authorized 
+        to be appropriated to carry out this subsection, in addition to 
+        any funds authorized to be appropriated or appropriated for 
+        health centers under any other subsection of this
+
+[[Page 116 STAT. 1627]]
+
+        section, such sums as may be necessary for each of fiscal years 
+        2002 through 2006.'';
+            (9) by striking subsection (m) (as redesignated by paragraph 
+        (9)(B)) and inserting the following:
+
+    ``(m) Technical Assistance.--The Secretary shall establish a program 
+through which the Secretary shall provide technical and other assistance 
+to eligible entities to assist such entities to meet the requirements of 
+subsection (l)(3). Services provided through the program may include 
+necessary technical and nonfinancial assistance, including fiscal and 
+program management assistance, training in fiscal and program 
+management, operational and administrative support, and the provision of 
+information to the entities of the variety of resources available under 
+this title and how those resources can be best used to meet the health 
+needs of the communities served by the entities.'';
+            (10) in subsection (q) (as redesignated by paragraph 
+        (9)(B)), by striking ``(j)(3)(G)'' and inserting ``(l)(3)(G)''; 
+        and
+            (11) in subsection (s) (as redesignated by paragraph 
+        (9)(A))--
+                    (A) in paragraph (1), by striking ``$802,124,000'' 
+                and all that follows through the period and inserting 
+                ``$1,340,000,000 for fiscal year 2002 and such sums as 
+                may be necessary for each of the fiscal years 2003 
+                through 2006.'';
+                    (B) in paragraph (2)--
+                          (i) in subparagraph (A)--
+                                    (I) by striking ``(j)(3))'' and 
+                                inserting ``(l)(3))''; and
+                                    (II) by striking ``(j)(3)(G)(ii)'' 
+                                and inserting ``(l)(3)(H)''; and
+                          (ii) by striking subparagraph (B) and 
+                      inserting the following:
+                    ``(B) Distribution of grants.--For fiscal year 2002 
+                and each of the following fiscal years, the Secretary, 
+                in awarding grants under this section, shall ensure that 
+                the proportion of the amount made available under each 
+                of subsections (g), (h), and (i), relative to the total 
+                amount appropriated to carry out this section for that 
+                fiscal year, is equal to the proportion of the amount 
+                made available under that subsection for fiscal year 
+                2001, relative to the total amount appropriated to carry 
+                out this section for fiscal year 2001.''.
+SEC. 102. <<NOTE: 42 USC 254c-17.>> TELEMEDICINE; INCENTIVE GRANTS 
+                        REGARDING COORDINATION AMONG STATES.
+
+    (a) In General.--The Secretary of Health and Human Services may make 
+grants to State professional licensing boards to carry out programs 
+under which such licensing boards of various States cooperate to develop 
+and implement State policies that will reduce statutory and regulatory 
+barriers to telemedicine.
+    (b) Authorization of Appropriations.--For the purpose of carrying 
+out subsection (a), there are authorized to be appropriated such sums as 
+may be necessary for each of the fiscal years 2002 through 2006.
+
+[[Page 116 STAT. 1628]]
+
+                         TITLE II--RURAL HEALTH
+
+ Subtitle A--Rural Health Care Services Outreach, Rural Health Network 
+ Development, and Small Health Care Provider Quality Improvement Grant 
+                                Programs
+
+SEC. 201. GRANT PROGRAMS.
+
+    Section 330A of the Public Health Service Act (42 U.S.C. 254c) is 
+amended to read as follows:
+``SEC. 330A. RURAL HEALTH CARE SERVICES OUTREACH, RURAL HEALTH 
+                            NETWORK DEVELOPMENT, AND SMALL HEALTH 
+                            CARE PROVIDER QUALITY IMPROVEMENT 
+                            GRANT PROGRAMS.
+
+    ``(a) Purpose.--The purpose of this section is to provide grants for 
+expanded delivery of health care services in rural areas, for the 
+planning and implementation of integrated health care networks in rural 
+areas, and for the planning and implementation of small health care 
+provider quality improvement activities.
+    ``(b) Definitions.--
+            ``(1) Director.--The term `Director' means the Director 
+        specified in subsection (d).
+            ``(2) Federally qualified health center; rural health 
+        clinic.--The terms `Federally qualified health center' and 
+        `rural health clinic' have the meanings given the terms in 
+        section 1861(aa) of the Social Security Act (42 U.S.C. 
+        1395x(aa)).
+            ``(3) Health professional shortage area.--The term `health 
+        professional shortage area' means a health professional shortage 
+        area designated under section 332.
+            ``(4) Medically underserved community.--The term `medically 
+        underserved community' has the meaning given the term in section 
+        799B.
+            ``(5) Medically underserved population.--The term `medically 
+        underserved population' has the meaning given the term in 
+        section 330(b)(3).
+
+    ``(c) Program.--The Secretary shall establish, under section 301, a 
+small health care provider quality improvement grant program.
+    ``(d) Administration.--
+            ``(1) Programs.--The rural health care services outreach, 
+        rural health network development, and small health care provider 
+        quality improvement grant programs established under section 301 
+        shall be administered by the Director of the Office of Rural 
+        Health Policy of the Health Resources and Services 
+        Administration, in consultation with State offices of rural 
+        health or other appropriate State government entities.
+            ``(2) Grants.--
+                    ``(A) In general.--In carrying out the programs 
+                described in paragraph (1), the Director may award 
+                grants under subsections (e), (f), and (g) to expand 
+                access to, coordinate, and improve the quality of 
+                essential health care services, and enhance the delivery 
+                of health care, in rural areas.
+
+[[Page 116 STAT. 1629]]
+
+                    ``(B) Types of grants.--The Director may award the 
+                grants--
+                          ``(i) to promote expanded delivery of health 
+                      care services in rural areas under subsection (e);
+                          ``(ii) to provide for the planning and 
+                      implementation of integrated health care networks 
+                      in rural areas under subsection (f); and
+                          ``(iii) to provide for the planning and 
+                      implementation of small health care provider 
+                      quality improvement activities under subsection 
+                      (g).
+
+    ``(e) Rural Health Care Services Outreach Grants.--
+            ``(1) Grants.--The Director may award grants to eligible 
+        entities to promote rural health care services outreach by 
+        expanding the delivery of health care services to include new 
+        and enhanced services in rural areas. The Director may award the 
+        grants for periods of not more than 3 years.
+            ``(2) Eligibility.--To be eligible to receive a grant under 
+        this subsection for a project, an entity--
+                    ``(A) shall be a rural public or rural nonprofit 
+                private entity;
+                    ``(B) shall represent a consortium composed of 
+                members--
+                          ``(i) that include 3 or more health care 
+                      providers; and
+                          ``(ii) that may be nonprofit or for-profit 
+                      entities; and
+                    ``(C) shall not previously have received a grant 
+                under this subsection for the same or a similar project, 
+                unless the entity is proposing to expand the scope of 
+                the project or the area that will be served through the 
+                project.
+            ``(3) Applications.--To be eligible to receive a grant under 
+        this subsection, an eligible entity, in consultation with the 
+        appropriate State office of rural health or another appropriate 
+        State entity, shall prepare and submit to the Secretary an 
+        application, at such time, in such manner, and containing such 
+        information as the Secretary may require, including--
+                    ``(A) a description of the project that the eligible 
+                entity will carry out using the funds provided under the 
+                grant;
+                    ``(B) a description of the manner in which the 
+                project funded under the grant will meet the health care 
+                needs of rural underserved populations in the local 
+                community or region to be served;
+                    ``(C) a description of how the local community or 
+                region to be served will be involved in the development 
+                and ongoing operations of the project;
+                    ``(D) a plan for sustaining the project after 
+                Federal support for the project has ended;
+                    ``(E) a description of how the project will be 
+                evaluated; and
+                    ``(F) other such information as the Secretary 
+                determines to be appropriate.
+
+    ``(f) Rural Health Network Development Grants.--
+            ``(1) Grants.--
+                    ``(A) In general.--The Director may award rural 
+                health network development grants to eligible entities 
+                to promote, through planning and implementation, the 
+                development of integrated health care networks that have
+
+[[Page 116 STAT. 1630]]
+
+                combined the functions of the entities participating in 
+                the networks in order to--
+                          ``(i) achieve efficiencies;
+                          ``(ii) expand access to, coordinate, and 
+                      improve the quality of essential health care 
+                      services; and
+                          ``(iii) strengthen the rural health care 
+                      system as a whole.
+                    ``(B) Grant periods.--The Director may award such a 
+                rural health network development grant for 
+                implementation activities for a period of 3 years. The 
+                Director may also award such a rural health network 
+                development grant for planning activities for a period 
+                of 1 year, to assist in the development of an integrated 
+                health care network, if the proposed participants in the 
+                network do not have a history of collaborative efforts 
+                and a 3-year grant would be inappropriate.
+            ``(2) Eligibility.--To be eligible to receive a grant under 
+        this subsection, an entity--
+                    ``(A) shall be a rural public or rural nonprofit 
+                private entity;
+                    ``(B) shall represent a network composed of 
+                participants--
+                          ``(i) that include 3 or more health care 
+                      providers; and
+                          ``(ii) that may be nonprofit or for-profit 
+                      entities; and
+                    ``(C) shall not previously have received a grant 
+                under this subsection (other than a grant for planning 
+                activities) for the same or a similar project.
+            ``(3) Applications.--To be eligible to receive a grant under 
+        this subsection, an eligible entity, in consultation with the 
+        appropriate State office of rural health or another appropriate 
+        State entity, shall prepare and submit to the Secretary an 
+        application, at such time, in such manner, and containing such 
+        information as the Secretary may require, including--
+                    ``(A) a description of the project that the eligible 
+                entity will carry out using the funds provided under the 
+                grant;
+                    ``(B) an explanation of the reasons why Federal 
+                assistance is required to carry out the project;
+                    ``(C) a description of--
+                          ``(i) the history of collaborative activities 
+                      carried out by the participants in the network;
+                          ``(ii) the degree to which the participants 
+                      are ready to integrate their functions; and
+                          ``(iii) how the local community or region to 
+                      be served will benefit from and be involved in the 
+                      activities carried out by the network;
+                    ``(D) a description of how the local community or 
+                region to be served will experience increased access to 
+                quality health care services across the continuum of 
+                care as a result of the integration activities carried 
+                out by the network;
+                    ``(E) a plan for sustaining the project after 
+                Federal support for the project has ended;
+                    ``(F) a description of how the project will be 
+                evaluated; and
+
+[[Page 116 STAT. 1631]]
+
+                    ``(G) other such information as the Secretary 
+                determines to be appropriate.
+
+    ``(g) Small Health Care Provider Quality Improvement Grants.--
+            ``(1) Grants.--The Director may award grants to provide for 
+        the planning and implementation of small health care provider 
+        quality improvement activities. The Director may award the 
+        grants for periods of 1 to 3 years.
+            ``(2) Eligibility.--To be eligible for a grant under this 
+        subsection, an entity--
+                    ``(A)(i) shall be a rural public or rural nonprofit 
+                private health care provider or provider of health care 
+                services, such as a critical access hospital or a rural 
+                health clinic; or
+                    ``(ii) shall be another rural provider or network of 
+                small rural providers identified by the Secretary as a 
+                key source of local care; and
+                    ``(B) shall not previously have received a grant 
+                under this subsection for the same or a similar project.
+            ``(3) Applications.--To be eligible to receive a grant under 
+        this subsection, an eligible entity, in consultation with the 
+        appropriate State office of rural health or another appropriate 
+        State entity shall prepare and submit to the Secretary an 
+        application, at such time, in such manner, and containing such 
+        information as the Secretary may require, including--
+                    ``(A) a description of the project that the eligible 
+                entity will carry out using the funds provided under the 
+                grant;
+                    ``(B) an explanation of the reasons why Federal 
+                assistance is required to carry out the project;
+                    ``(C) a description of the manner in which the 
+                project funded under the grant will assure continuous 
+                quality improvement in the provision of services by the 
+                entity;
+                    ``(D) a description of how the local community or 
+                region to be served will experience increased access to 
+                quality health care services across the continuum of 
+                care as a result of the activities carried out by the 
+                entity;
+                    ``(E) a plan for sustaining the project after 
+                Federal support for the project has ended;
+                    ``(F) a description of how the project will be 
+                evaluated; and
+                    ``(G) other such information as the Secretary 
+                determines to be appropriate.
+            ``(4) Expenditures for small health care provider quality 
+        improvement grants.--In awarding a grant under this subsection, 
+        the Director shall ensure that the funds made available through 
+        the grant will be used to provide services to residents of rural 
+        areas. The Director shall award not less than 50 percent of the 
+        funds made available under this subsection to providers located 
+        in and serving rural areas.
+
+    ``(h) General Requirements.--
+            ``(1) Prohibited uses of funds.--An entity that receives a 
+        grant under this section may not use funds provided through the 
+        grant--
+                    ``(A) to build or acquire real property; or
+                    ``(B) for construction.
+            ``(2) Coordination with other agencies.--The Secretary shall 
+        coordinate activities carried out under grant programs
+
+[[Page 116 STAT. 1632]]
+
+        described in this section, to the extent practicable, with 
+        Federal and State agencies and nonprofit organizations that are 
+        operating similar grant programs, to maximize the effect of 
+        public dollars in funding meritorious proposals.
+            ``(3) Preference.--In awarding grants under this section, 
+        the Secretary shall give preference to entities that--
+                    ``(A) are located in health professional shortage 
+                areas or medically underserved communities, or serve 
+                medically underserved populations; or
+                    ``(B) propose to develop projects with a focus on 
+                primary care, and wellness and prevention strategies.
+
+    ``(i) Report.--Not <<NOTE: Deadline.>> later than September 30, 
+2005, the Secretary shall prepare and submit to the appropriate 
+committees of Congress a report on the progress and accomplishments of 
+the grant programs described in subsections (e), (f), and (g).
+
+    ``(j) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section $40,000,000 for fiscal year 2002, 
+and such sums as may be necessary for each of fiscal years 2003 through 
+2006.''.
+
+  Subtitle B--Telehealth <<NOTE: Telehealth Grant Consolidation Act of 
+2002.>> Grant Consolidation
+
+SEC. 211. <<NOTE: 42 USC 201 note.>> SHORT TITLE.
+
+    This subtitle may be cited as the ``Telehealth Grant Consolidation 
+Act of 2002''.
+
+SEC. 212. CONSOLIDATION AND REAUTHORIZATION OF PROVISIONS.
+
+    Subpart I of part D of title III of the Public Health Service Act 
+(42 U.S.C. 254b et seq) is amended by adding at the end the following:
+``SEC. 330I. <<NOTE: 42 USC 254c-14.>> TELEHEALTH NETWORK AND 
+                            TELEHEALTH RESOURCE CENTERS GRANT 
+                            PROGRAMS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Director; office.--The terms `Director' and `Office' 
+        mean the Director and Office specified in subsection (c).
+            ``(2) Federally qualified health center and rural health 
+        clinic.--The term `Federally qualified health center' and `rural 
+        health clinic' have the meanings given the terms in section 
+        1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)).
+            ``(3) Frontier community.--The term `frontier community' 
+        shall have the meaning given the term in regulations issued 
+        under subsection (r).
+            ``(4) Medically underserved area.--The term `medically 
+        underserved area' has the meaning given the term `medically 
+        underserved community' in section 799B.
+            ``(5) Medically underserved population.--The term `medically 
+        underserved population' has the meaning given the term in 
+        section 330(b)(3).
+            ``(6) Telehealth services.--The term `telehealth services' 
+        means services provided through telehealth technologies.
+            ``(7) Telehealth technologies.--The term `telehealth 
+        technologies' means technologies relating to the use of 
+        electronic information, and telecommunications technologies, to 
+        support
+
+[[Page 116 STAT. 1633]]
+
+        and promote, at a distance, health care, patient and 
+        professional health-related education, health administration, 
+        and public health.
+
+    ``(b) Programs.--The Secretary shall establish, under section 301, 
+telehealth network and telehealth resource centers grant programs.
+    ``(c) Administration.--
+            ``(1) Establishment.--There is established in the Health and 
+        Resources and Services Administration an Office for the 
+        Advancement of Telehealth. The Office shall be headed by a 
+        Director.
+            ``(2) Duties.--The telehealth network and telehealth 
+        resource centers grant programs established under section 301 
+        shall be administered by the Director, in consultation with the 
+        State offices of rural health, State offices concerning primary 
+        care, or other appropriate State government entities.
+
+    ``(d) Grants.--
+            ``(1) Telehealth network grants.--The Director may, in 
+        carrying out the telehealth network grant program referred to in 
+        subsection (b), award grants to eligible entities for projects 
+        to demonstrate how telehealth technologies can be used through 
+        telehealth networks in rural areas, frontier communities, and 
+        medically underserved areas, and for medically underserved 
+        populations, to--
+                    ``(A) expand access to, coordinate, and improve the 
+                quality of health care services;
+                    ``(B) improve and expand the training of health care 
+                providers; and
+                    ``(C) expand and improve the quality of health 
+                information available to health care providers, and 
+                patients and their families, for decisionmaking.
+            ``(2) Telehealth resource centers grants.--The Director may, 
+        in carrying out the telehealth resource centers grant program 
+        referred to in subsection (b), award grants to eligible entities 
+        for projects to demonstrate how telehealth technologies can be 
+        used in the areas and communities, and for the populations, 
+        described in paragraph (1), to establish telehealth resource 
+        centers.
+
+    ``(e) Grant Periods.--The Director may award grants under this 
+section for periods of not more than 4 years.
+    ``(f) Eligible Entities.--
+            ``(1) Telehealth network grants.--
+                    ``(A) Grant recipient.--To be eligible to receive a 
+                grant under subsection (d)(1), an entity shall be a 
+                nonprofit entity.
+                    ``(B) Telehealth networks.--
+                          ``(i) In general.--To be eligible to receive a 
+                      grant under subsection (d)(1), an entity shall 
+                      demonstrate that the entity will provide services 
+                      through a telehealth network.
+                          ``(ii) Nature of entities.--Each entity 
+                      participating in the telehealth network may be a 
+                      nonprofit or for-profit entity.
+                          ``(iii) Composition of network.--The 
+                      telehealth network shall include at least 2 of the 
+                      following entities (at least 1 of which shall be a 
+                      community-based health care provider):
+
+[[Page 116 STAT. 1634]]
+
+                                    ``(I) Community or migrant health 
+                                centers or other Federally qualified 
+                                health centers.
+                                    ``(II) Health care providers, 
+                                including pharmacists, in private 
+                                practice.
+                                    ``(III) Entities operating clinics, 
+                                including rural health clinics.
+                                    ``(IV) Local health departments.
+                                    ``(V) Nonprofit hospitals, including 
+                                community access hospitals.
+                                    ``(VI) Other publicly funded health 
+                                or social service agencies.
+                                    ``(VII) Long-term care providers.
+                                    ``(VIII) Providers of health care 
+                                services in the home.
+                                    ``(IX) Providers of outpatient 
+                                mental health services and entities 
+                                operating outpatient mental health 
+                                facilities.
+                                    ``(X) Local or regional emergency 
+                                health care providers.
+                                    ``(XI) Institutions of higher 
+                                education.
+                                    ``(XII) Entities operating dental 
+                                clinics.
+            ``(2) Telehealth resource centers grants.--To be eligible to 
+        receive a grant under subsection (d)(2), an entity shall be a 
+        nonprofit entity.
+
+    ``(g) Applications.--To be eligible to receive a grant under 
+subsection (d), an eligible entity, in consultation with the appropriate 
+State office of rural health or another appropriate State entity, shall 
+prepare and submit to the Secretary an application, at such time, in 
+such manner, and containing such information as the Secretary may 
+require, including--
+            ``(1) a description of the project that the eligible entity 
+        will carry out using the funds provided under the grant;
+            ``(2) a description of the manner in which the project 
+        funded under the grant will meet the health care needs of rural 
+        or other populations to be served through the project, or 
+        improve the access to services of, and the quality of the 
+        services received by, those populations;
+            ``(3) evidence of local support for the project, and a 
+        description of how the areas, communities, or populations to be 
+        served will be involved in the development and ongoing 
+        operations of the project;
+            ``(4) a plan for sustaining the project after Federal 
+        support for the project has ended;
+            ``(5) information on the source and amount of non-Federal 
+        funds that the entity will provide for the project;
+            ``(6) information demonstrating the long-term viability of 
+        the project, and other evidence of institutional commitment of 
+        the entity to the project;
+            ``(7) in the case of an application for a project involving 
+        a telehealth network, information demonstrating how the project 
+        will promote the integration of telehealth technologies into the 
+        operations of health care providers, to avoid redundancy, and 
+        improve access to and the quality of care; and
+            ``(8) other such information as the Secretary determines to 
+        be appropriate.
+
+    ``(h) Terms; Conditions; Maximum Amount of Assistance.--The 
+Secretary shall establish the terms and conditions of each
+
+[[Page 116 STAT. 1635]]
+
+grant program described in subsection (b) and the maximum amount of a 
+grant to be awarded to an individual recipient for each fiscal year 
+under this section. <<NOTE: Publication. Notice.>> The Secretary shall 
+publish, in a publication of the Health Resources and Services 
+Administration, notice of the application requirements for each grant 
+program described in subsection (b) for each fiscal year.
+
+    ``(i) Preferences.--
+            ``(1) Telehealth networks.--In awarding grants under 
+        subsection (d)(1) for projects involving telehealth networks, 
+        the Secretary shall give preference to an eligible entity that 
+        meets at least 1 of the following requirements:
+                    ``(A) Organization.--The eligible entity is a rural 
+                community-based organization or another community-based 
+                organization.
+                    ``(B) Services.--The eligible entity proposes to use 
+                Federal funds made available through such a grant to 
+                develop plans for, or to establish, telehealth networks 
+                that provide mental health, public health, long-term 
+                care, home care, preventive, or case management 
+                services.
+                    ``(C) Coordination.--The eligible entity 
+                demonstrates how the project to be carried out under the 
+                grant will be coordinated with other relevant federally 
+                funded projects in the areas, communities, and 
+                populations to be served through the grant.
+                    ``(D) Network.--The eligible entity demonstrates 
+                that the project involves a telehealth network that 
+                includes an entity that--
+                          ``(i) provides clinical health care services, 
+                      or educational services for health care providers 
+                      and for patients or their families; and
+                          ``(ii) is--
+                                    ``(I) a public library;
+                                    ``(II) an institution of higher 
+                                education; or
+                                    ``(III) a local government entity.
+                    ``(E) Connectivity.--The eligible entity proposes a 
+                project that promotes local connectivity within areas, 
+                communities, or populations to be served through the 
+                project.
+                    ``(F) Integration.--The eligible entity demonstrates 
+                that health care information has been integrated into 
+                the project.
+            ``(2) Telehealth resource centers.--In awarding grants under 
+        subsection (d)(2) for projects involving telehealth resource 
+        centers, the Secretary shall give preference to an eligible 
+        entity that meets at least 1 of the following requirements:
+                    ``(A) Provision of services.--The eligible entity 
+                has a record of success in the provision of telehealth 
+                services to medically underserved areas or medically 
+                underserved populations.
+                    ``(B) Collaboration and sharing of expertise.--The 
+                eligible entity has a demonstrated record of 
+                collaborating and sharing expertise with providers of 
+                telehealth services at the national, regional, State, 
+                and local levels.
+                    ``(C) Broad range of telehealth services.--The 
+                eligible entity has a record of providing a broad range 
+                of telehealth services, which may include--
+                          ``(i) a variety of clinical specialty 
+                      services;
+
+[[Page 116 STAT. 1636]]
+
+                          ``(ii) patient or family education;
+                          ``(iii) health care professional education; 
+                      and
+                          ``(iv) rural residency support programs.
+
+    ``(j) Distribution of Funds.--
+            ``(1) In general.--In awarding grants under this section, 
+        the Director shall ensure, to the greatest extent possible, that 
+        such grants are equitably distributed among the geographical 
+        regions of the United States.
+            ``(2) Telehealth networks.--In awarding grants under 
+        subsection (d)(1) for a fiscal year, the Director shall ensure 
+        that--
+                    ``(A) not less than 50 percent of the funds awarded 
+                shall be awarded for projects in rural areas; and
+                    ``(B) the total amount of funds awarded for such 
+                projects for that fiscal year shall be not less than the 
+                total amount of funds awarded for such projects for 
+                fiscal year 2001 under section 330A (as in effect on the 
+                day before the date of enactment of the Health Care 
+                Safety Net Amendments of 2002).
+
+    ``(k) Use of Funds.--
+            ``(1) Telehealth network program.--The recipient of a grant 
+        under subsection (d)(1) may use funds received through such 
+        grant for salaries, equipment, and operating or other costs, 
+        including the cost of--
+                    ``(A) developing and delivering clinical telehealth 
+                services that enhance access to community-based health 
+                care services in rural areas, frontier communities, or 
+                medically underserved areas, or for medically 
+                underserved populations;
+                    ``(B) developing and acquiring, through lease or 
+                purchase, computer hardware and software, audio and 
+                video equipment, computer network equipment, interactive 
+                equipment, data terminal equipment, and other equipment 
+                that furthers the objectives of the telehealth network 
+                grant program;
+                    ``(C)(i) developing and providing distance 
+                education, in a manner that enhances access to care in 
+                rural areas, frontier communities, or medically 
+                underserved areas, or for medically underserved 
+                populations; or
+                    ``(ii) mentoring, precepting, or supervising health 
+                care providers and students seeking to become health 
+                care providers, in a manner that enhances access to care 
+                in the areas and communities, or for the populations, 
+                described in clause (i);
+                    ``(D) developing and acquiring instructional 
+                programming;
+                    ``(E)(i) providing for transmission of medical data, 
+                and maintenance of equipment; and
+                    ``(ii) providing for compensation (including travel 
+                expenses) of specialists, and referring health care 
+                providers, who are providing telehealth services through 
+                the telehealth network, if no third party payment is 
+                available for the telehealth services delivered through 
+                the telehealth network;
+                    ``(F) developing projects to use telehealth 
+                technology to facilitate collaboration between health 
+                care providers;
+
+[[Page 116 STAT. 1637]]
+
+                    ``(G) collecting and analyzing usage statistics and 
+                data to document the cost-effectiveness of the 
+                telehealth services; and
+                    ``(H) carrying out such other activities as are 
+                consistent with achieving the objectives of this 
+                section, as determined by the Secretary.
+            ``(2) Telehealth resource centers.--The recipient of a grant 
+        under subsection (d)(2) may use funds received through such 
+        grant for salaries, equipment, and operating or other costs 
+        for--
+                    ``(A) providing technical assistance, training, and 
+                support, and providing for travel expenses, for health 
+                care providers and a range of health care entities that 
+                provide or will provide telehealth services;
+                    ``(B) disseminating information and research 
+                findings related to telehealth services;
+                    ``(C) promoting effective collaboration among 
+                telehealth resource centers and the Office;
+                    ``(D) conducting evaluations to determine the best 
+                utilization of telehealth technologies to meet health 
+                care needs;
+                    ``(E) promoting the integration of the technologies 
+                used in clinical information systems with other 
+                telehealth technologies;
+                    ``(F) fostering the use of telehealth technologies 
+                to provide health care information and education for 
+                health care providers and consumers in a more effective 
+                manner; and
+                    ``(G) implementing special projects or studies under 
+                the direction of the Office.
+
+    ``(l) Prohibited Uses of Funds.--An entity that receives a grant 
+under this section may not use funds made available through the grant--
+            ``(1) to acquire real property;
+            ``(2) for expenditures to purchase or lease equipment, to 
+        the extent that the expenditures would exceed 40 percent of the 
+        total grant funds;
+            ``(3) in the case of a project involving a telehealth 
+        network, to purchase or install transmission equipment (such as 
+        laying cable or telephone lines, or purchasing or installing 
+        microwave towers, satellite dishes, amplifiers, or digital 
+        switching equipment);
+            ``(4) to pay for any equipment or transmission costs not 
+        directly related to the purposes for which the grant is awarded;
+            ``(5) to purchase or install general purpose voice telephone 
+        systems;
+            ``(6) for construction; or
+            ``(7) for expenditures for indirect costs (as determined by 
+        the Secretary), to the extent that the expenditures would exceed 
+        15 percent of the total grant funds.
+
+    ``(m) Collaboration.--In providing services under this section, an 
+eligible entity shall collaborate, if feasible, with entities that--
+            ``(1)(A) are private or public organizations, that receive 
+        Federal or State assistance; or
+            ``(B) are public or private entities that operate centers, 
+        or carry out programs, that receive Federal or State assistance; 
+        and
+            ``(2) provide telehealth services or related activities.
+
+[[Page 116 STAT. 1638]]
+
+    ``(n) Coordination With Other Agencies.--The Secretary shall 
+coordinate activities carried out under grant programs described in 
+subsection (b), to the extent practicable, with Federal and State 
+agencies and nonprofit organizations that are operating similar 
+programs, to maximize the effect of public dollars in funding 
+meritorious proposals.
+    ``(o) Outreach Activities.--The Secretary shall establish and 
+implement procedures to carry out outreach activities to advise 
+potential end users of telehealth services in rural areas, frontier 
+communities, medically underserved areas, and medically underserved 
+populations in each State about the grant programs described in 
+subsection (b).
+    ``(p) Telehealth.--It is the sense of Congress that, for purposes of 
+this section, States should develop reciprocity agreements so that a 
+provider of services under this section who is a licensed or otherwise 
+authorized health care provider under the law of 1 or more States, and 
+who, through telehealth technology, consults with a licensed or 
+otherwise authorized health care provider in another State, is exempt, 
+with respect to such consultation, from any State law of the other State 
+that prohibits such consultation on the basis that the first health care 
+provider is not a licensed or authorized health care provider under the 
+law of that State.
+    ``(q) Report.--Not <<NOTE: Deadline.>> later than September 30, 
+2005, the Secretary shall prepare and submit to the appropriate 
+committees of Congress a report on the progress and accomplishments of 
+the grant programs described in subsection (b).
+
+    ``(r) Regulations.--The Secretary shall issue regulations 
+specifying, for purposes of this section, a definition of the term 
+`frontier area'. The definition shall be based on factors that include 
+population density, travel distance in miles to the nearest medical 
+facility, travel time in minutes to the nearest medical facility, and 
+such other factors as the Secretary determines to be appropriate. The 
+Secretary shall develop the definition in consultation with the Director 
+of the Bureau of the Census and the Administrator of the Economic 
+Research Service of the Department of Agriculture.
+    ``(s) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section--
+            ``(1) for grants under subsection (d)(1), $40,000,000 for 
+        fiscal year 2002, and such sums as may be necessary for each of 
+        fiscal years 2003 through 2006; and
+            ``(2) for grants under subsection (d)(2), $20,000,000 for 
+        fiscal year 2002, and such sums as may be necessary for each of 
+        fiscal years 2003 through 2006.''.
+
+    Subtitle C--Mental Health Services Telehealth Program and Rural 
+   Emergency Medical Service Training and Equipment Assistance Program
+
+SEC. 221. PROGRAMS.
+
+    Subpart I of part D of title III of the Public Health Service Act 
+(42 U.S.C. 254b et seq.) (as amended by section 212) is further amended 
+by adding at the end the following:
+
+[[Page 116 STAT. 1639]]
+
+``SEC. 330J. <<NOTE: 42 USC 254c-15.>> RURAL EMERGENCY MEDICAL 
+                            SERVICE TRAINING AND EQUIPMENT 
+                            ASSISTANCE PROGRAM.
+
+    ``(a) Grants.--The Secretary, acting through the Administrator of 
+the Health Resources and Services Administration (referred to in this 
+section as the `Secretary') shall award grants to eligible entities to 
+enable such entities to provide for improved emergency medical services 
+in rural areas.
+    ``(b) Eligibility.--To be eligible to receive a grant under this 
+section, an entity shall--
+            ``(1) be--
+                    ``(A) a State emergency medical services office;
+                    ``(B) a State emergency medical services 
+                association;
+                    ``(C) a State office of rural health;
+                    ``(D) a local government entity;
+                    ``(E) a State or local ambulance provider; or
+                    ``(F) any other entity determined appropriate by the 
+                Secretary; and
+            ``(2) prepare and submit to the Secretary an application at 
+        such time, in such manner, and containing such information as 
+        the Secretary may require, that includes--
+                    ``(A) a description of the activities to be carried 
+                out under the grant; and
+                    ``(B) an assurance that the eligible entity will 
+                comply with the matching requirement of subsection (e).
+
+    ``(c) Use of Funds.--An entity shall use amounts received under a 
+grant made under subsection (a), either directly or through grants to 
+emergency medical service squads that are located in, or that serve 
+residents of, a nonmetropolitan statistical area, an area designated as 
+a rural area by any law or regulation of a State, or a rural census 
+tract of a metropolitan statistical area (as determined under the most 
+recent Goldsmith Modification, originally published in a notice of 
+availability of funds in the Federal Register on February 27, 1992, 57 
+Fed. Reg. 6725), to--
+            ``(1) recruit emergency medical service personnel;
+            ``(2) recruit volunteer emergency medical service personnel;
+            ``(3) train emergency medical service personnel in emergency 
+        response, injury prevention, safety awareness, and other topics 
+        relevant to the delivery of emergency medical services;
+            ``(4) fund specific training to meet Federal or State 
+        certification requirements;
+            ``(5) develop new ways to educate emergency health care 
+        providers through the use of technology-enhanced educational 
+        methods (such as distance learning);
+            ``(6) acquire emergency medical services equipment, 
+        including cardiac defibrillators;
+            ``(7) acquire personal protective equipment for emergency 
+        medical services personnel as required by the Occupational 
+        Safety and Health Administration; and
+            ``(8) educate the public concerning cardiopulmonary 
+        resuscitation, first aid, injury prevention, safety awareness, 
+        illness prevention, and other related emergency preparedness 
+        topics.
+
+    ``(d) Preference.--In awarding grants under this section the 
+Secretary shall give preference to--
+            ``(1) applications that reflect a collaborative effort by 2 
+        or more of the entities described in subparagraphs (A) through 
+        (F) of subsection (b)(1); and
+
+[[Page 116 STAT. 1640]]
+
+            ``(2) applications submitted by entities that intend to use 
+        amounts provided under the grant to fund activities described in 
+        any of paragraphs (1) through (5) of subsection (c).
+
+    ``(e) Matching Requirement.--The Secretary may not award a grant 
+under this section to an entity unless the entity agrees that the entity 
+will make available (directly or through contributions from other public 
+or private entities) non-Federal contributions toward the activities to 
+be carried out under the grant in an amount equal to 25 percent of the 
+amount received under the grant.
+    ``(f) Emergency Medical Services.--In this section, the term 
+`emergency medical services'--
+            ``(1) means resources used by a qualified public or private 
+        nonprofit entity, or by any other entity recognized as qualified 
+        by the State involved, to deliver medical care outside of a 
+        medical facility under emergency conditions that occur--
+                    ``(A) as a result of the condition of the patient; 
+                or
+                    ``(B) as a result of a natural disaster or similar 
+                situation; and
+            ``(2) includes services delivered by an emergency medical 
+        services provider (either compensated or volunteer) or other 
+        provider recognized by the State involved that is licensed or 
+        certified by the State as an emergency medical technician or its 
+        equivalent (as determined by the State), a registered nurse, a 
+        physician assistant, or a physician that provides services 
+        similar to services provided by such an emergency medical 
+        services provider.
+
+    ``(g) Authorization of Appropriations.--
+            ``(1) In general.--There are authorized to be appropriated 
+        to carry out this section such sums as may be necessary for each 
+        of fiscal years 2002 through 2006.
+            ``(2) Administrative costs.--The Secretary may use not more 
+        than 10 percent of the amount appropriated under paragraph (1) 
+        for a fiscal year for the administrative expenses of carrying 
+        out this section.
+
+``SEC. 330K. <<NOTE: 42 USC 254c-16.>> MENTAL HEALTH SERVICES DELIVERED 
+            VIA TELEHEALTH.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Eligible entity.--The term `eligible entity' means a 
+        public or nonprofit private telehealth provider network that 
+        offers services that include mental health services provided by 
+        qualified mental health providers.
+            ``(2) Qualified mental health professionals.--The term 
+        `qualified mental health professionals' refers to providers of 
+        mental health services reimbursed under the medicare program 
+        carried out under title XVIII of the Social Security Act (42 
+        U.S.C. 1395 et seq.) who have additional training in the 
+        treatment of mental illness in children and adolescents or who 
+        have additional training in the treatment of mental illness in 
+        the elderly.
+            ``(3) Special populations.--The term `special populations' 
+        refers to the following 2 distinct groups:
+                    ``(A) Children and adolescents in mental health 
+                underserved rural areas or in mental health underserved 
+                urban areas.
+                    ``(B) Elderly individuals located in long-term care 
+                facilities in mental health underserved rural or urban 
+                areas.
+
+[[Page 116 STAT. 1641]]
+
+            ``(4) Telehealth.--The term `telehealth' means the use of 
+        electronic information and telecommunications technologies to 
+        support long distance clinical health care, patient and 
+        professional health-related education, public health, and health 
+        administration.
+
+    ``(b) Program Authorized.--
+            ``(1) In general.--The Secretary, acting through the 
+        Director of the Office for the Advancement of Telehealth of the 
+        Health Resources and Services Administration, shall award grants 
+        to eligible entities to establish demonstration projects for the 
+        provision of mental health services to special populations as 
+        delivered remotely by qualified mental health professionals 
+        using telehealth and for the provision of education regarding 
+        mental illness as delivered remotely by qualified mental health 
+        professionals using telehealth.
+            ``(2) Populations served.--The Secretary shall award the 
+        grants under paragraph (1) in a manner that distributes the 
+        grants so as to serve equitably the populations described in 
+        subparagraphs (A) and (B) of subsection (a)(4).
+
+    ``(c) Use of Funds.--
+            ``(1) In general.--An eligible entity that receives a grant 
+        under this section shall use the grant funds--
+                    ``(A) for the populations described in subsection 
+                (a)(4)(A)--
+                          ``(i) to provide mental health services, 
+                      including diagnosis and treatment of mental 
+                      illness, as delivered remotely by qualified mental 
+                      health professionals using telehealth; and
+                          ``(ii) to collaborate with local public health 
+                      entities to provide the mental health services; 
+                      and
+                    ``(B) for the populations described in subsection 
+                (a)(4)(B)--
+                          ``(i) to provide mental health services, 
+                      including diagnosis and treatment of mental 
+                      illness, in long-term care facilities as delivered 
+                      remotely by qualified mental health professionals 
+                      using telehealth; and
+                          ``(ii) to collaborate with local public health 
+                      entities to provide the mental health services.
+            ``(2) Other uses.--An eligible entity that receives a grant 
+        under this section may also use the grant funds to--
+                    ``(A) pay telecommunications costs; and
+                    ``(B) pay qualified mental health professionals on a 
+                reasonable cost basis as determined by the Secretary for 
+                services rendered.
+            ``(3) Prohibited uses.--An eligible entity that receives a 
+        grant under this section shall not use the grant funds to--
+                    ``(A) purchase or install transmission equipment 
+                (other than such equipment used by qualified mental 
+                health professionals to deliver mental health services 
+                using telehealth under the project involved); or
+                    ``(B) build upon or acquire real property.
+
+    ``(d) Equitable Distribution.--In awarding grants under this 
+section, the Secretary shall ensure, to the greatest extent possible, 
+that such grants are equitably distributed among geographical regions of 
+the United States.
+    ``(e) Application.--An entity that desires a grant under this 
+section shall submit an application to the Secretary at such time,
+
+[[Page 116 STAT. 1642]]
+
+in such manner, and containing such information as the Secretary 
+determines to be reasonable.
+    ``(f) Report.--Not <<NOTE: Deadline.>> later than 4 years after the 
+date of enactment of the Health Care Safety Net Amendments of 2002, the 
+Secretary shall prepare and submit to the appropriate committees of 
+Congress a report that shall evaluate activities funded with grants 
+under this section.
+
+    ``(g) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section, $20,000,000 for fiscal year 2002 
+and such sums as may be necessary for fiscal years 2003 through 2006.''.
+
+            TITLE III--NATIONAL HEALTH SERVICE CORPS PROGRAM
+
+SEC. 301. NATIONAL HEALTH SERVICE CORPS.
+
+    (a) In General.--Section 331 of the Public Health Service Act (42 
+U.S.C. 254d) is amended--
+            (1) by adding at the end of subsection (a)(3) the following:
+            ``(E)(i) The term `behavioral and mental health 
+        professionals' means health service psychologists, licensed 
+        clinical social workers, licensed professional counselors, 
+        marriage and family therapists, psychiatric nurse specialists, 
+        and psychiatrists.
+            ``(ii) The term `graduate program of behavioral and mental 
+        health' means a program that trains behavioral and mental health 
+        professionals.'';
+            (2) in subsection (b)--
+                    (A) in paragraph (1), by striking ``health 
+                professions'' and inserting ``health professions, 
+                including schools at which graduate programs of 
+                behavioral and mental health are offered,''; and
+                    (B) in paragraph (2), by inserting ``behavioral and 
+                mental health professionals,'' after ``dentists,''; and
+            (3) by striking subsection (c) and inserting the following:
+
+    ``(c)(1) The Secretary may reimburse an applicant for a position in 
+the Corps (including an individual considering entering into a written 
+agreement pursuant to section 338D) for the actual and reasonable 
+expenses incurred in traveling to and from the applicant's place of 
+residence to an eligible site to which the applicant may be assigned 
+under section 333 for the purpose of evaluating such site with regard to 
+being assigned at such site. The Secretary may establish a maximum total 
+amount that may be paid to an individual as reimbursement for such 
+expenses.
+    ``(2) The Secretary may also reimburse the applicant for the actual 
+and reasonable expenses incurred for the travel of 1 family member to 
+accompany the applicant to such site. The Secretary may establish a 
+maximum total amount that may be paid to an individual as reimbursement 
+for such expenses.
+    ``(3) In the case of an individual who has entered into a contract 
+for obligated service under the Scholarship Program or under the Loan 
+Repayment Program, the Secretary may reimburse such individual for all 
+or part of the actual and reasonable expenses incurred in transporting 
+the individual, the individual's family, and the family's possessions to 
+the site of the individual's assignment under section 333. The Secretary 
+may establish a maximum total amount
+
+[[Page 116 STAT. 1643]]
+
+that may be paid to an individual as reimbursement for such expenses.''.
+    (b) Demonstration Projects.--Section 331 of the Public Health 
+Service Act (42 U.S.C. 254d) is amended--
+            (1) by redesignating subsection (i) as subsection (j); and
+            (2) by inserting after subsection (h) the following:
+
+    ``(i)(1) In carrying out subpart III, the Secretary may, in 
+accordance with this subsection, carry out demonstration projects in 
+which individuals who have entered into a contract for obligated service 
+under the Loan Repayment Program receive waivers under which the 
+individuals are authorized to satisfy the requirement of obligated 
+service through providing clinical service that is not full-time.
+    ``(2) A waiver described in paragraph (1) may be provided by the 
+Secretary only if--
+            ``(A) the entity for which the service is to be performed--
+                    ``(i) has been approved under section 333A for 
+                assignment of a Corps member; and
+                    ``(ii) has requested in writing assignment of a 
+                health professional who would serve less than full time;
+            ``(B) the Secretary has determined that assignment of a 
+        health professional who would serve less than full time would be 
+        appropriate for the area where the entity is located;
+            ``(C) a Corps member who is required to perform obligated 
+        service has agreed in writing to be assigned for less than full-
+        time service to an entity described in subparagraph (A);
+            ``(D) the entity and the Corps member agree in writing that 
+        the less than full-time service provided by the Corps member 
+        will not be less than 16 hours of clinical service per week;
+            ``(E) the Corps member agrees in writing that the period of 
+        obligated service pursuant to section 338B will be extended so 
+        that the aggregate amount of less than full-time service 
+        performed will equal the amount of service that would be 
+        performed through full-time service under section 338C; and
+            ``(F) the Corps member agrees in writing that if the Corps 
+        member begins providing less than full-time service but fails to 
+        begin or complete the period of obligated service, the method 
+        stated in 338E(c) for determining the damages for breach of the 
+        individual's written contract will be used after converting 
+        periods of obligated service or of service performed into their 
+        full-time equivalents.
+
+    ``(3) In evaluating a demonstration project described in paragraph 
+(1), the Secretary shall examine the effect of multidisciplinary 
+teams.''.
+
+SEC. 302. DESIGNATION OF HEALTH PROFESSIONAL SHORTAGE AREAS.
+
+    (a) In General.--Section 332 of the Public Health Service Act (42 
+U.S.C. 254e) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by inserting after the first 
+                sentence the following: ``All Federally qualified health 
+                centers and rural health clinics, as defined in section 
+                1861(aa) of the Social Security Act (42 U.S.C. 
+                1395x(aa)), that meet the requirements of section 334 
+                shall be automatically designated as having such a 
+                shortage. Not earlier than 6 years after such date of 
+                enactment, and every 6 years
+
+[[Page 116 STAT. 1644]]
+
+                thereafter, each such center or clinic shall demonstrate 
+                that the center or clinic meets the applicable 
+                requirements of the Federal regulations, issued after 
+                the date of enactment of this Act, that revise the 
+                definition of a health professional shortage area for 
+                purposes of this section.''; and
+                    (B) in paragraph (3), by striking ``340(r)) may be a 
+                population group'' and inserting ``330(h)(4)), seasonal 
+                agricultural workers (as defined in section 330(g)(3)) 
+                and migratory agricultural workers (as so defined)), and 
+                residents of public housing (as defined in section 
+                3(b)(1) of the United States Housing Act of 1937 (42 
+                U.S.C. 1437a(b)(1))) may be population groups'';
+            (2) in subsection (b)(2), by striking ``with special 
+        consideration to the indicators of'' and all that follows 
+        through ``services.'' and inserting a period; and
+            (3) in subsection (c)(2)(B), by striking ``XVIII or XIX'' 
+        and inserting ``XVIII, XIX, or XXI''.
+
+    (b) <<NOTE: 42 USC 254e note.>> Regulations.--
+            (1) Report.--
+                    (A) In general.--The Secretary shall submit the 
+                report described in subparagraph (B) if the Secretary, 
+                acting through the Administrator of the Health Resources 
+                and Services Administration, issues--
+                          (i) a regulation that revises the definition 
+                      of a health professional shortage area for 
+                      purposes of section 332 of the Public Health 
+                      Service Act (42 U.S.C. 254e); or
+                          (ii) a regulation that revises the standards 
+                      concerning priority of such an area under section 
+                      333A of that Act (42 U.S.C. 254f-1).
+                    (B) Report.--On issuing a regulation described in 
+                subparagraph (A), the Secretary shall prepare and submit 
+                to the Committee on Energy and Commerce of the House of 
+                Representatives and the Committee on Health, Education, 
+                Labor, and Pensions of the Senate a report that 
+                describes the regulation.
+            (2) Effective date.--Each regulation described in paragraph 
+        (1)(A) shall take effect 180 days after the committees described 
+        in paragraph (1)(B) receive a report referred to in paragraph 
+        (1)(B) describing the regulation.
+
+    (c) Scholarship <<NOTE: 42 USC 254l note.>> and Loan Repayment 
+Programs.--The Secretary of Health and Human Services, in consultation 
+with organizations representing individuals in the dental field and 
+organizations representing publicly funded health care providers, shall 
+develop and implement a plan for increasing the participation of 
+dentists and dental hygienists in the National Health Service Corps 
+Scholarship Program under section 338A of the Public Health Service Act 
+(42 U.S.C. 254l) and the Loan Repayment Program under section 338B of 
+such Act (42 U.S.C. 254l-1).
+
+    (d) Site Designation Process.--
+            (1) Improvement <<NOTE: 42 USC 254e note.>> of designation 
+        process.--The Administrator of the Health Resources and Services 
+        Administration, in consultation with the Association of State 
+        and Territorial Dental Directors, dental societies, and other 
+        interested parties, shall revise the criteria on which the 
+        designations of dental
+
+[[Page 116 STAT. 1645]]
+
+        health professional shortage areas are based so that such 
+        criteria provide a more accurate reflection of oral health care 
+        need, particularly in rural areas.
+            (2) Public health service act.--Section 332 of the Public 
+        Health Service Act (42 U.S.C. 254e) is amended by adding at the 
+        end the following:
+
+    ``(i) Dissemination.--The Administrator of the Health Resources and 
+Services Administration shall disseminate information concerning the 
+designation criteria described in subsection (b) to--
+            ``(1) the Governor of each State;
+            ``(2) the representative of any area, population group, or 
+        facility selected by any such Governor to receive such 
+        information;
+            ``(3) the representative of any area, population group, or 
+        facility that requests such information; and
+            ``(4) the representative of any area, population group, or 
+        facility determined by the Administrator to be likely to meet 
+        the criteria described in subsection (b).''.
+
+    (e) GAO Study.--Not <<NOTE: Deadline. 42 USC 254e note.>> later than 
+February 1, 2005, the Comptroller General of the United States shall 
+submit to the Congress a report on the appropriateness of the criteria, 
+including but not limited to infant mortality rates, access to health 
+services taking into account the distance to primary health services, 
+the rate of poverty and ability to pay for health services, and low 
+birth rates, established by the Secretary of Health and Human Services 
+for the designation of health professional shortage areas and whether 
+the deeming of federally qualified health centers and rural health 
+clinics as such areas is appropriate and necessary.
+
+SEC. 303. ASSIGNMENT OF CORPS PERSONNEL.
+
+    Section 333 of the Public Health Service Act (42 U.S.C. 254f) is 
+amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1)--
+                          (i) in the matter before subparagraph (A), by 
+                      striking ``(specified in the agreement described 
+                      in section 334)'';
+                          (ii) in subparagraph (A), by striking 
+                      ``nonprofit''; and
+                          (iii) by striking subparagraph (C) and 
+                      inserting the following:
+                    ``(C) the entity agrees to comply with the 
+                requirements of section 334; and''; and
+                    (B) in paragraph (3), by adding at the end ``In 
+                approving such applications, the Secretary shall give 
+                preference to applications in which a nonprofit entity 
+                or public entity shall provide a site to which Corps 
+                members may be assigned.''; and
+            (2) in subsection (d)--
+                    (A) in paragraphs (1), (2), and (4), by striking 
+                ``nonprofit'' each place it appears; and
+                    (B) in paragraph (1)--
+                          (i) in the second sentence--
+                                    (I) in subparagraph (C), by striking 
+                                ``and'' at the end; and
+
+[[Page 116 STAT. 1646]]
+
+                                    (II) by  striking  the  period  and  
+                                inserting
+                                ``, and (E) developing long-term plans 
+                                for addressing health professional 
+                                shortages and improving access to health 
+                                care.''; and
+                          (ii) by adding at the end the following: ``The 
+                      Secretary shall encourage entities that receive 
+                      technical assistance under this paragraph to 
+                      communicate with other communities, State Offices 
+                      of Rural Health, State Primary Care Associations 
+                      and Offices, and other entities concerned with 
+                      site development and community needs 
+                      assessment.''.
+
+SEC. 304. PRIORITIES IN ASSIGNMENT OF CORPS PERSONNEL.
+
+    Section 333A of the Public Health Service Act (42 U.S.C. 254f-1) is 
+amended--
+            (1) in subsection (a)(1)(A), by striking ``, as determined 
+        in accordance with subsection (b)'';
+            (2) by striking subsection (b);
+            (3) in subsection (c), by striking the second sentence;
+            (4) in subsection (d)--
+                    (A) by redesignating paragraphs (1) through (3) as 
+                paragraphs (2) through (4), respectively;
+                    (B) by inserting before paragraph (2) (as 
+                redesignated by subparagraph (A)) the following:
+            ``(1) Proposed list.--The <<NOTE: Publication.>> Secretary 
+        shall prepare and publish a proposed list of health professional 
+        shortage areas and entities that would receive priority under 
+        subsection (a)(1) in the assignment of Corps members. The list 
+        shall contain the information described in paragraph (2), and 
+        the relative scores and relative priorities of the entities 
+        submitting applications under section 333, in a proposed format. 
+        All such entities shall have 30 days after the date of 
+        publication of the list to provide additional data and 
+        information in support of inclusion on the list or in support of 
+        a higher priority determination and the Secretary shall 
+        reasonably consider such data and information in preparing the 
+        final list under paragraph (2).'';
+                    (C) in paragraph (2) (as redesignated by 
+                subparagraph (A)), in the matter before subparagraph 
+                (A)--
+                          (i) by striking ``paragraph (2)'' and 
+                      inserting ``paragraph (3)'';
+                          (ii) by striking ``prepare a list of health 
+                      professional shortage areas'' and inserting 
+                      ``prepare and, as appropriate, update a list of 
+                      health professional shortage areas and entities''; 
+                      and
+                          (iii) by striking ``for the period applicable 
+                      under subsection (f)'';
+                    (D) by striking paragraph (3) (as redesignated by 
+                subparagraph (A)) and inserting the following:
+            ``(3) Notification of affected parties.--
+                    ``(A) Entities.--Not <<NOTE: Deadline.>> later than 
+                30 days after the Secretary has added to a list under 
+                paragraph (2) an entity specified as described in 
+                subparagraph (A) of such paragraph, the Secretary shall 
+                notify such entity that the entity has been provided an 
+                authorization to receive assignments of Corps members in 
+                the event that Corps members are available for the 
+                assignments.
+
+[[Page 116 STAT. 1647]]
+
+                    ``(B) Individuals.--In the case of an individual 
+                obligated to provide service under the Scholarship 
+                Program, not later than 3 months before the date 
+                described in section 338C(b)(5), the Secretary shall 
+                provide to such individual the names of each of the 
+                entities specified as described in paragraph (2)(B)(i) 
+                that is appropriate for the individual's medical 
+                specialty and discipline.''; and
+                    (E) by striking paragraph (4) (as redesignated by 
+                subparagraph (A)) and inserting the following:
+            ``(4) Revisions.--If <<NOTE: Notification.>> the Secretary 
+        proposes to make a revision in the list under paragraph (2), and 
+        the revision would adversely alter the status of an entity with 
+        respect to the list, the Secretary shall notify the entity of 
+        the revision. Any entity adversely affected by such a revision 
+        shall be notified in writing by the Secretary of the reasons for 
+        the revision and shall have 30 days to file a written appeal of 
+        the determination involved which shall be reasonably considered 
+        by the Secretary before the revision to the list becomes final. 
+        The revision to the list shall be effective with respect to 
+        assignment of Corps members beginning on the date that the 
+        revision becomes final.'';
+            (5) by striking subsection (e) and inserting the following:
+
+    ``(e) Limitation on Number of Entities Offered as Assignment Choices 
+in Scholarship Program.--
+            ``(1) Determination <<NOTE: Deadline.>> of available corps 
+        members.--By April 1 of each calendar year, the Secretary shall 
+        determine the number of participants in the Scholarship Program 
+        who will be available for assignments under section 333 during 
+        the program year beginning on July 1 of that calendar year.
+            ``(2) Determination of number of entities.--At all times 
+        during a program year, the number of entities specified under 
+        subsection (c)(2)(B)(i) shall be--
+                    ``(A) not less than the number of participants 
+                determined with respect to that program year under 
+                paragraph (1); and
+                    ``(B) not greater than twice the number of 
+                participants determined with respect to that program 
+                year under paragraph (1).'';
+            (6) by striking subsection (f); and
+            (7) by redesignating subsections (c), (d), and (e) as 
+        subsections (b), (c), and (d) respectively.
+
+SEC. 305. COST-SHARING.
+
+    Subpart II of part D of title III of the Public Health Service Act 
+(42 U.S.C. 254d et seq.) is amended by striking section 334 and 
+inserting the following:
+``SEC. 334. <<NOTE: 42 USC 254g.>> CHARGES FOR SERVICES BY 
+                          ENTITIES USING CORPS MEMBERS.
+
+    ``(a) Availability of Services Regardless of Ability To Pay or 
+Payment Source.--An entity to which a Corps member is assigned shall not 
+deny requested health care services, and shall not discriminate in the 
+provision of services to an individual--
+            ``(1) because the individual is unable to pay for the 
+        services; or
+            ``(2) because payment for the services would be made under--
+
+[[Page 116 STAT. 1648]]
+
+                    ``(A) the medicare program under title XVIII of the 
+                Social Security Act (42 U.S.C. 1395 et seq.);
+                    ``(B) the medicaid program under title XIX of such 
+                Act (42 U.S.C. 1396 et seq.); or
+                    ``(C) the State children's health insurance program 
+                under title XXI of such Act (42 U.S.C. 1397aa et seq.).
+
+    ``(b) Charges for Services.--The following rules shall apply to 
+charges for health care services provided by an entity to which a Corps 
+member is assigned:
+            ``(1) In general.--
+                    ``(A) Schedule of fees or payments.--Except as 
+                provided in paragraph (2), the entity shall prepare a 
+                schedule of fees or payments for the entity's services, 
+                consistent with locally prevailing rates or charges and 
+                designed to cover the entity's reasonable cost of 
+                operation.
+                    ``(B) Schedule of discounts.--Except as provided in 
+                paragraph (2), the entity shall prepare a corresponding 
+                schedule of discounts (including, in appropriate cases, 
+                waivers) to be applied to such fees or payments. In 
+                preparing the schedule, the entity shall adjust the 
+                discounts on the basis of a patient's ability to pay.
+                    ``(C) Use of schedules.--The entity shall make every 
+                reasonable effort to secure from patients fees and 
+                payments for services in accordance with such schedules, 
+                and fees or payments shall be sufficiently discounted in 
+                accordance with the schedule described in subparagraph 
+                (B).
+            ``(2) Services to beneficiaries of federal and federally 
+        assisted programs.--In the case of health care services 
+        furnished to an individual who is a beneficiary of a program 
+        listed in subsection (a)(2), the entity--
+                    ``(A) shall accept an assignment pursuant to section 
+                1842(b)(3)(B)(ii) of the Social Security Act (42 U.S.C. 
+                1395u(b)(3)(B)(ii)) with respect to an individual who is 
+                a beneficiary under the medicare program; and
+                    ``(B) shall enter into an appropriate agreement 
+                with--
+                          ``(i) the State agency administering the 
+                      program under title XIX of such Act with respect 
+                      to an individual who is a beneficiary under the 
+                      medicaid program; and
+                          ``(ii) the State agency administering the 
+                      program under title XXI of such Act with respect 
+                      to an individual who is a beneficiary under the 
+                      State children's health insurance program.
+            ``(3) Collection of payments.--The entity shall take 
+        reasonable and appropriate steps to collect all payments due for 
+        health care services provided by the entity, including payments 
+        from any third party (including a Federal, State, or local 
+        government agency and any other third party) that is responsible 
+        for part or all of the charge for such services.''.
+
+SEC. 306. ELIGIBILITY FOR FEDERAL FUNDS.
+
+    Section 335(e)(1)(B) of the Public Health Service Act (42 U.S.C. 
+254h(e)(1)(B)) is amended by striking ``XVIII or XIX'' and inserting 
+``XVIII, XIX, or XXI''.
+
+[[Page 116 STAT. 1649]]
+
+SEC. 307. FACILITATION OF EFFECTIVE PROVISION OF CORPS SERVICES.
+
+    (a) Health Professional Shortage Areas.--Section 336 of the Public 
+Health Service Act (42 U.S.C. 254h-1) is amended--
+            (1) in subsection (c), by striking ``health manpower'' and 
+        inserting ``health professional''; and
+            (2) in subsection (f)(1), by striking ``health manpower'' 
+        and inserting ``health professional''.
+
+    (b) Technical Amendment.--Section 336A(8) of the Public Health 
+Service Act (42 U.S.C. 254i(8)) is amended by striking ``agreements 
+under''.
+SEC. 308. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 338(a) of the Public Health Service Act (42 U.S.C. 254k(a)) 
+is amended--
+            (1) by striking ``(1) For'' and inserting ``For'';
+            (2) by striking ``1991 through 2000'' and inserting ``2002 
+        through 2006''; and
+            (3) by striking paragraph (2).
+SEC. 309. NATIONAL HEALTH SERVICE CORPS SCHOLARSHIP PROGRAM.
+
+    Section 338A of the Public Health Service Act (42 U.S.C. 254l) is 
+amended--
+            (1) in subsection (a)(1), by inserting ``behavioral and 
+        mental health professionals,'' after ``dentists,'';
+            (2) in subsection (b)(1)(B), by inserting ``, or an 
+        appropriate degree from a graduate program of behavioral and 
+        mental health'' after ``other health profession'';
+            (3) in subsection (c)(1)--
+                    (A) in subparagraph (A), by striking ``338D'' and 
+                inserting ``338E''; and
+                    (B) in subparagraph (B), by striking ``338C'' and 
+                inserting ``338D'';
+            (4) in subsection (d)(1)--
+                    (A) in subparagraph (A), by striking ``and'' at the 
+                end;
+                    (B) by redesignating subparagraph (B) as 
+                subparagraph (C); and
+                    (C) by inserting after subparagraph (A) the 
+                following:
+                    ``(B) the Secretary, in considering applications 
+                from individuals accepted for enrollment or enrolled in 
+                dental school, shall consider applications from all 
+                individuals accepted for enrollment or enrolled in any 
+                accredited dental school in a State; and'';
+            (5) in subsection (f)--
+                    (A) in paragraph (1)(B)--
+                          (i) in clause (iii), by striking ``and'' after 
+                      the semicolon;
+                          (ii) by redesignating clause (iv) as clause 
+                      (v); and
+                          (iii) by inserting after clause (iii) the 
+                      following new clause:
+                          ``(iv) if pursuing a degree from a school of 
+                      medicine or osteopathic medicine, to complete a 
+                      residency in a specialty that the Secretary 
+                      determines is consistent with the needs of the 
+                      Corps; and''; and
+                    (B) in paragraph (3), by striking ``338D'' and 
+                inserting ``338E''; and
+
+[[Page 116 STAT. 1650]]
+
+            (6) by striking subsection (i).
+SEC. 310. NATIONAL HEALTH SERVICE CORPS LOAN REPAYMENT PROGRAM.
+
+    Section 338B of the Public Health Service Act (42 U.S.C. 254l-1) is 
+amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by inserting ``behavioral and 
+                mental health professionals,'' after ``dentists,''; and
+                    (B) in paragraph (2), by striking ``(including 
+                mental health professionals)'';
+            (2) in subsection (b)(1), by striking subparagraph (A) and 
+        inserting the following:
+            ``(A) have a degree in medicine, osteopathic medicine, 
+        dentistry, or another health profession, or an appropriate 
+        degree from a graduate program of behavioral and mental health, 
+        or be certified as a nurse midwife, nurse practitioner, or 
+        physician assistant;'';
+            (3) in subsection (e), by striking ``(1) In general.--''; 
+        and
+            (4) by striking subsection (i).
+
+SEC. 311. OBLIGATED SERVICE.
+
+    Section 338C of the Public Health Service Act (42 U.S.C. 254m) is 
+amended--
+    (1) in subsection (b)--
+                    (A) in paragraph (1), in the matter preceding 
+                subparagraph (A), by striking ``section 
+                338A(f)(1)(B)(iv)'' and inserting ``section 
+                338A(f)(1)(B)(v)''; and
+                    (B) in paragraph (5)--
+                          (i) by striking all that precedes subparagraph 
+                      (C) and inserting the following:
+
+    ``(5)(A) In the case of the Scholarship Program, the date referred 
+to in paragraphs (1) through (4) shall be the date on which the 
+individual completes the training required for the degree for which the 
+individual receives the scholarship, except that--
+            ``(i) for an individual receiving such a degree after 
+        September 30, 2000, from a school of medicine or osteopathic 
+        medicine, such date shall be the date the individual completes a 
+        residency in a specialty that the Secretary determines is 
+        consistent with the needs of the Corps; and
+            ``(ii) at the request of an individual, the Secretary may, 
+        consistent with the needs of the Corps, defer such date until 
+        the end of a period of time required for the individual to 
+        complete advanced training (including an internship or 
+        residency).'';
+                          (ii) by striking subparagraph (D);
+                          (iii) by redesignating subparagraphs (C) and 
+                      (E) as subparagraphs (B) and (C), respectively; 
+                      and
+                          (iv) in clause (i) of subparagraph (C) (as 
+                      redesignated by clause (iii)) by striking 
+                      ``subparagraph (A), (B), or (D)'' and inserting 
+                      ``subparagraph (A)''; and
+            (2) by striking subsection (e).
+
+SEC. 312. PRIVATE PRACTICE.
+
+    Section 338D of the Public Health Service Act (42 U.S.C. 254n) is 
+amended by striking subsection (b) and inserting the following:
+    ``(b)(1) The written agreement described in subsection (a) shall--
+
+[[Page 116 STAT. 1651]]
+
+            ``(A) provide that, during the period of private practice by 
+        an individual pursuant to the agreement, the individual shall 
+        comply with the requirements of section 334 that apply to 
+        entities; and
+            ``(B) contain such additional provisions as the Secretary 
+        may require to carry out the objectives of this section.
+
+    ``(2) The Secretary shall take such action as may be appropriate to 
+ensure that the conditions of the written agreement prescribed by this 
+subsection are adhered to.''.
+SEC. 313. BREACH OF SCHOLARSHIP CONTRACT OR LOAN REPAYMENT 
+                        CONTRACT.
+
+    (a) In General.--Section 338E of the Public Health Service Act (42 
+U.S.C. 254o) is amended--
+            (1) in subsection (a)(1)--
+                    (A) in subparagraph (A), by striking the comma and 
+                inserting a semicolon;
+                    (B) in subparagraph (B), by striking the comma and 
+                inserting ``; or'';
+                    (C) in subparagraph (C), by striking ``or'' at the 
+                end; and
+                    (D) by striking subparagraph (D);
+            (2) in subsection (b)--
+                    (A) in paragraph (1)(A)--
+                          (i) by striking ``338F(d)'' and inserting 
+                      ``338G(d)'';
+                          (ii) by striking ``either'';
+                          (iii) by striking ``338D or'' and inserting 
+                      ``338D,''; and
+                          (iv) by inserting ``or to complete a required 
+                      residency as specified in section 
+                      338A(f)(1)(B)(iv),'' before ``the United States''; 
+                      and
+                    (B) by adding at the end the following new 
+                paragraph:
+
+    ``(3) <<NOTE: Deadline.>> The Secretary may terminate a contract 
+with an individual under section 338A if, not later than 30 days before 
+the end of the school year to which the contract pertains, the 
+individual--
+            ``(A) submits a written request for such termination; and
+            ``(B) repays all amounts paid to, or on behalf of, the 
+        individual under section 338A(g).'';
+            (3) in subsection (c)--
+                    (A) in paragraph (1)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by striking ``338F(d)'' and inserting ``338G(d)''; 
+                      and
+                          (ii) by striking subparagraphs (A) through (C) 
+                      and inserting the following:
+                    ``(A) the total of the amounts paid by the United 
+                States under section 338B(g) on behalf of the individual 
+                for any period of obligated service not served;
+                    ``(B) an amount equal to the product of the number 
+                of months of obligated service that were not completed 
+                by the individual, multiplied by $7,500; and
+                    ``(C) the interest on the amounts described in 
+                subparagraphs (A) and (B), at the maximum legal 
+                prevailing rate, as determined by the Treasurer of the 
+                United States, from the date of the breach;
+        except that the amount the United States is entitled to recover 
+        under this paragraph shall not be less than $31,000.'';
+
+[[Page 116 STAT. 1652]]
+
+                    (B) by striking paragraphs (2) and (3) and inserting 
+                the following:
+
+    ``(2) <<NOTE: Deadline.>> The Secretary may terminate a contract 
+with an individual under section 338B if, not later than 45 days before 
+the end of the fiscal year in which the contract was entered into, the 
+individual--
+            ``(A) submits a written request for such termination; and
+            ``(B) repays all amounts paid on behalf of the individual 
+        under section 338B(g).''; and
+                    (C) by redesignating paragraph (4) as paragraph (3);
+            (4) in subsection (d)(3)(A), by striking ``only if such 
+        discharge is granted after the expiration of the five-year 
+        period'' and inserting ``only if such discharge is granted after 
+        the expiration of the 7-year period''; and
+            (5) by adding at the end the following new subsection:
+
+    ``(e) Notwithstanding any other provision of Federal or State law, 
+there shall be no limitation on the period within which suit may be 
+filed, a judgment may be enforced, or an action relating to an offset or 
+garnishment, or other action, may be initiated or taken by the 
+Secretary, the Attorney General, or the head of another Federal agency, 
+as the case may be, for the repayment of the amount due from an 
+individual under this section.''.
+    (b) Effective Date.--The <<NOTE: 42 USC 254o note.>> amendment made 
+by subsection (a)(4) shall apply to any obligation for which a discharge 
+in bankruptcy has not been granted before the date that is 31 days after 
+the date of enactment of this Act.
+
+SEC. 314. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 338H of the Public Health Service Act (42 U.S.C. 254q) is 
+amended to read as follows:
+
+``SEC. 338H. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``(a) Authorization of Appropriations.--For the purposes of carrying 
+out this subpart, there are authorized to be appropriated $146,250,000 
+for fiscal year 2002, and such sums as may be necessary for each of 
+fiscal years 2003 through 2006.
+    ``(b) Scholarships for New Participants.--Of the amounts 
+appropriated under subsection (a) for a fiscal year, the Secretary shall 
+obligate not less than 10 percent for the purpose of providing contracts 
+for--
+            ``(1) scholarships under this subpart to individuals who 
+        have not previously received such scholarships; or
+            ``(2) scholarships or loan repayments under the Loan 
+        Repayment Program under section 338B to individuals from 
+        disadvantaged backgrounds.
+
+    ``(c) Scholarships and Loan Repayments.--With respect to 
+certification as a nurse practitioner, nurse midwife, or physician 
+assistant, the Secretary shall, from amounts appropriated under 
+subsection (a) for a fiscal year, obligate not less than a total of 10 
+percent for contracts for both scholarships under the Scholarship 
+Program under section 338A and loan repayments under the Loan Repayment 
+Program under section 338B to individuals who are entering the first 
+year of a course of study or program described in section 338A(b)(1)(B) 
+that leads to such a certification or individuals who are eligible for 
+the loan repayment program as specified in section 338B(b) for a loan 
+related to such certification.''.
+
+[[Page 116 STAT. 1653]]
+
+SEC. 315. GRANTS TO STATES FOR LOAN REPAYMENT PROGRAMS.
+
+    Section 338I of the Public Health Service Act (42 U.S.C. 254q-1) is 
+amended--
+            (1) in subsection (a), by striking paragraph (1) and 
+        inserting the following:
+            ``(1) Authority for grants.--The Secretary, acting through 
+        the Administrator of the Health Resources and Services 
+        Administration, may make grants to States for the purpose of 
+        assisting the States in operating programs described in 
+        paragraph (2) in order to provide for the increased availability 
+        of primary health care services in health professional shortage 
+        areas. The National Advisory Council established under section 
+        337 shall advise the Administrator regarding the program under 
+        this section.'';
+            (2) in subsection (e), by striking paragraph (1) and 
+        inserting the following:
+            ``(1) to submit to the Secretary such reports regarding the 
+        States loan repayment program, as are determined to be 
+        appropriate by the Secretary; and''; and
+            (3) in subsection (i), by striking paragraph (1) and 
+        inserting the following:
+            ``(1) In general.--For the purpose of making grants under 
+        subsection (a), there are authorized to be appropriated 
+        $12,000,000 for fiscal year 2002 and such sums as may be 
+        necessary for each of fiscal years 2003 through 2006.''.
+SEC. 316. DEMONSTRATION GRANTS TO STATES FOR COMMUNITY SCHOLARSHIP 
+                        PROGRAMS.
+
+    Section 338L of the Public Health Service Act (42 U.S.C. 254t) is 
+repealed.
+
+SEC. 317. DEMONSTRATION PROJECT.
+
+    Subpart III of part D of title III of the Public Health Service Act 
+(42 U.S.C. 254l et seq.) is amended by adding at the end the following:
+
+``SEC. 338L. <<NOTE: 42 USC 254t.>> DEMONSTRATION PROJECT.
+
+    ``(a) Program Authorized.--The Secretary shall establish a 
+demonstration project to provide for the participation of individuals 
+who are chiropractic doctors or pharmacists in the Loan Repayment 
+Program described in section 338B.
+    ``(b) Procedure.--An individual that receives assistance under this 
+section with regard to the program described in section 338B shall 
+comply with all rules and requirements described in such section (other 
+than subparagraphs (A) and (B) of section 338B(b)(1)) in order to 
+receive assistance under this section.
+    ``(c) Limitations.--
+            ``(1) In general.--The demonstration project described in 
+        this section shall provide for the participation of individuals 
+        who shall provide services in rural and urban areas.
+            ``(2) Availability of other health professionals.--The 
+        Secretary may not assign an individual receiving assistance 
+        under this section to provide obligated service at a site 
+        unless--
+                    ``(A) the Secretary has assigned a physician (as 
+                defined in section 1861(r) of the Social Security Act) 
+                or other health professional licensed to prescribe drugs 
+                to provide obligated service at such site under section 
+                338C or 338D; and
+
+[[Page 116 STAT. 1654]]
+
+                    ``(B) such physician or other health professional 
+                will provide obligated service at such site concurrently 
+                with the individual receiving assistance under this 
+                section.
+            ``(3) Rules of construction.--
+                    ``(A) Supervision of individuals.--Nothing in this 
+                section shall be construed to require or imply that a 
+                physician or other health professional licensed to 
+                prescribe drugs must supervise an individual receiving 
+                assistance under the demonstration project under this 
+                section, with respect to such project.
+                    ``(B) Licensure of health professionals.--Nothing in 
+                this section shall be construed to supersede State law 
+                regarding licensure of health professionals.
+
+    ``(d) Designations.--The demonstration project described in this 
+section, and any providers who are selected to participate in such 
+project, shall not be considered by the Secretary in the designation of 
+a health professional shortage area under section 332 during fiscal 
+years 2002 through 2004.
+    ``(e) Rule of Construction.--This section shall not be construed to 
+require any State to participate in the project described in this 
+section.
+    ``(f) Report.--
+            ``(1) In general.--The Secretary shall evaluate the 
+        participation of individuals in the demonstration projects under 
+        this section and prepare and submit a report containing the 
+        information described in paragraph (2) to--
+                    ``(A) the Committee on Health, Education, Labor, and 
+                Pensions of the Senate;
+                    ``(B) the Subcommittee on Labor, Health and Human 
+                Services, and Education of the Committee on 
+                Appropriations of the Senate;
+                    ``(C) the Committee on Energy and Commerce of the 
+                House of Representatives; and
+                    ``(D) the Subcommittee on Labor, Health and Human 
+                Services, and Education of the Committee on 
+                Appropriations of the House of Representatives.
+            ``(2) Content.--The report described in paragraph (1) shall 
+        detail--
+                    ``(A) the manner in which the demonstration project 
+                described in this section has affected access to primary 
+                care services, patient satisfaction, quality of care, 
+                and health care services provided for traditionally 
+                underserved populations;
+                    ``(B) how the participation of chiropractic doctors 
+                and pharmacists in the Loan Repayment Program might 
+                affect the designation of health professional shortage 
+                areas; and
+                    ``(C) whether adding chiropractic doctors and 
+                pharmacists as permanent members of the National Health 
+                Service Corps would be feasible and would enhance the 
+                effectiveness of the National Health Service Corps.
+
+    ``(g) Authorization of Appropriations.--
+            ``(1) in general.--There are authorized to be appropriated 
+        to carry out this section, such sums as may be necessary for 
+        fiscal years 2002 through 2004.
+            ``(2) Fiscal year 2005.--If <<NOTE: Deadline.>> the 
+        Secretary determines and certifies to Congress by not later than 
+        September 30, 2004,
+
+[[Page 116 STAT. 1655]]
+
+        that the number of individuals participating in the 
+        demonstration project established under this section is 
+        insufficient for purposes of performing the evaluation described 
+        in subsection (f)(1), the authorization of appropriations under 
+        paragraph (1) shall be extended to include fiscal year 2005.''.
+
+              TITLE IV--HEALTHY COMMUNITIES ACCESS PROGRAM
+
+SEC. 401. <<NOTE: 42 USC 256 note.>> PURPOSE.
+
+    The purpose of this title is to provide assistance to communities 
+and consortia of health care providers and others, to develop or 
+strengthen integrated community health care delivery systems that 
+coordinate health care services for individuals who are uninsured or 
+underinsured and to develop or strengthen activities related to 
+providing coordinated care for individuals with chronic conditions who 
+are uninsured or underinsured, through the--
+            (1) coordination of services to allow individuals to receive 
+        efficient and higher quality care and to gain entry into and 
+        receive services from a comprehensive system of care;
+            (2) development of the infrastructure for a health care 
+        delivery system characterized by effective collaboration, 
+        information sharing, and clinical and financial coordination 
+        among all providers of care in the community; and
+            (3) provision of new Federal resources that do not supplant 
+        funding for existing Federal categorical programs that support 
+        entities providing services to low-income populations.
+
+SEC. 402. CREATION OF HEALTHY COMMUNITIES ACCESS PROGRAM.
+
+    Part D of title III of the Public Health Service Act (42 U.S.C. 254b 
+et seq.) is amended by inserting after subpart IV the following new 
+subpart:
+
+             ``Subpart V--Healthy Communities Access Program
+
+``SEC. 340. <<NOTE: 42 USC 256.>> GRANTS TO STRENGTHEN THE 
+                          EFFECTIVENESS, EFFICIENCY, AND 
+                          COORDINATION OF SERVICES FOR THE 
+                          UNINSURED AND UNDERINSURED.
+
+    ``(a) In General.--The Secretary may award grants to eligible 
+entities to assist in the development of integrated health care delivery 
+systems to serve communities of individuals who are uninsured and 
+individuals who are underinsured--
+            ``(1) to improve the efficiency of, and coordination among, 
+        the providers providing services through such systems;
+            ``(2) to assist communities in developing programs targeted 
+        toward preventing and managing chronic diseases; and
+            ``(3) to expand and enhance the services provided through 
+        such systems.
+
+    ``(b) Eligible Entities.--To be eligible to receive a grant under 
+this section, an entity shall be an entity that--
+            ``(1) represents a consortium--
+                    ``(A) whose principal purpose is to provide a broad 
+                range of coordinated health care services for a 
+                community
+
+[[Page 116 STAT. 1656]]
+
+                defined in the entity's grant application as described 
+                in paragraph (2); and
+                    ``(B) that includes at least one of each of the 
+                following providers that serve the community (unless 
+                such provider does not exist within the community, 
+                declines or refuses to participate, or places 
+                unreasonable conditions on their participation)--
+                          ``(i) a Federally qualified health center (as 
+                      defined in section 1861(aa) of the Social Security 
+                      Act (42 U.S.C. 1395x(aa)));
+                          ``(ii) a hospital with a low-income 
+                      utilization rate (as defined in section 1923(b)(3) 
+                      of the Social Security Act (42 U.S.C. 1396r-
+                      4(b)(3)), that is greater than 25 percent;
+                          ``(iii) a public health department; and
+                          ``(iv) an interested public or private sector 
+                      health care provider or an organization that has 
+                      traditionally served the medically uninsured and 
+                      underserved; and
+            ``(2) submits to the Secretary an application, in such form 
+        and manner as the Secretary shall prescribe, that--
+                    ``(A) defines a community or geographic area of 
+                uninsured and underinsured individuals;
+                    ``(B) identifies the providers who will participate 
+                in the consortium's program under the grant, and 
+                specifies each provider's contribution to the care of 
+                uninsured and underinsured individuals in the community, 
+                including the volume of care the provider provides to 
+                beneficiaries under the medicare, medicaid, and State 
+                child health insurance programs and to patients who pay 
+                privately for services;
+                    ``(C) describes the activities that the applicant 
+                and the consortium propose to perform under the grant to 
+                further the objectives of this section;
+                    ``(D) demonstrates the consortium's ability to build 
+                on the current system (as of the date of submission of 
+                the application) for serving a community or geographic 
+                area of uninsured and underinsured individuals by 
+                involving providers who have traditionally provided a 
+                significant volume of care for that community;
+                    ``(E) demonstrates the consortium's ability to 
+                develop coordinated systems of care that either directly 
+                provide or ensure the prompt provision of a broad range 
+                of high-quality, accessible services, including, as 
+                appropriate, primary, secondary, and tertiary services, 
+                as well as substance abuse treatment and mental health 
+                services in a manner that assures continuity of care in 
+                the community or geographic area;
+                    ``(F) provides evidence of community involvement in 
+                the development, implementation, and direction of the 
+                program that the entity proposes to operate;
+                    ``(G) demonstrates the consortium's ability to 
+                ensure that individuals participating in the program are 
+                enrolled in public insurance programs for which the 
+                individuals are eligible or know of private insurance 
+                programs where available;
+                    ``(H) presents a plan for leveraging other sources 
+                of revenue, which may include State and local sources 
+                and private grant funds, and integrating current and 
+                proposed
+
+[[Page 116 STAT. 1657]]
+
+                new funding sources in a way to assure long-term 
+                sustainability of the program;
+                    ``(I) describes a plan for evaluation of the 
+                activities carried out under the grant, including 
+                measurement of progress toward the goals and objectives 
+                of the program and the use of evaluation findings to 
+                improve program performance;
+                    ``(J) demonstrates fiscal responsibility through the 
+                use of appropriate accounting procedures and appropriate 
+                management systems;
+                    ``(K) demonstrates the consortium's commitment to 
+                serve the community without regard to the ability of an 
+                individual or family to pay by arranging for or 
+                providing free or reduced charge care for the poor; and
+                    ``(L) includes such other information as the 
+                Secretary may prescribe.
+
+    ``(c) Limitations.--
+            ``(1) Number of awards.--
+                    ``(A) In general.--For each of fiscal years 2003, 
+                2004, 2005, and 2006, the Secretary may not make more 
+                than 35 new awards under subsection (a) (excluding 
+                renewals of such awards).
+                    ``(B) Rule of construction.--This paragraph shall 
+                not be construed to affect awards made before fiscal 
+                year 2003.
+            ``(2) In general.--An eligible entity may not receive a 
+        grant under this section (including with respect to any such 
+        grant made before fiscal year 2003) for more than 3 consecutive 
+        fiscal years, except that such entity may receive such a grant 
+        award for not more than 1 additional fiscal year if--
+                    ``(A) the eligible entity submits to the Secretary a 
+                request for a grant for such an additional fiscal year;
+                    ``(B) the Secretary determines that extraordinary 
+                circumstances (as defined in paragraph (3)) justify the 
+                granting of such request; and
+                    ``(C) the Secretary determines that granting such 
+                request is necessary to further the objectives described 
+                in subsection (a).
+            ``(3) Extraordinary circumstances.--
+                    ``(A) In general.--In paragraph (2), the term 
+                `extraordinary circumstances' means an event (or events) 
+                that is outside of the control of the eligible entity 
+                that has prevented the eligible entity from fulfilling 
+                the objectives described by such entity in the 
+                application submitted under subsection (b)(2).
+                    ``(B) Examples.--Extraordinary circumstances 
+                include--
+                          ``(i) natural disasters or other major 
+                      disruptions to the security or health of the 
+                      community or geographic area served by the 
+                      eligible entity; or
+                          ``(ii) a significant economic deterioration in 
+                      the community or geographic area served by such 
+                      eligible entity, that directly and adversely 
+                      affects the entity receiving an award under 
+                      subsection (a).
+
+    ``(d) Priorities.--In awarding grants under this section, the 
+Secretary--
+
+[[Page 116 STAT. 1658]]
+
+            ``(1) shall accord priority to applicants that demonstrate 
+        the extent of unmet need in the community involved for a more 
+        coordinated system of care; and
+            ``(2) may accord priority to applicants that best promote 
+        the objectives of this section, taking into consideration the 
+        extent to which the application involved--
+                    ``(A) identifies a community whose geographical area 
+                has a high or increasing percentage of individuals who 
+                are uninsured;
+                    ``(B) demonstrates that the applicant has included 
+                in its consortium providers, support systems, and 
+                programs that have a tradition of serving uninsured 
+                individuals and underinsured individuals in the 
+                community;
+                    ``(C) shows evidence that the program would expand 
+                utilization of preventive and primary care services for 
+                uninsured and underinsured individuals and families in 
+                the community, including behavioral and mental health 
+                services, oral health services, or substance abuse 
+                services;
+                    ``(D) proposes a program that would improve 
+                coordination between health care providers and 
+                appropriate social service providers;
+                    ``(E) demonstrates collaboration with State and 
+                local governments;
+                    ``(F) demonstrates that the applicant makes use of 
+                non-Federal contributions to the greatest extent 
+                possible; or
+                    ``(G) demonstrates a likelihood that the proposed 
+                program will continue after support under this section 
+                ceases.
+
+    ``(e) Use of Funds.--
+            ``(1) Use by grantees.--
+                    ``(A) In general.--Except as provided in paragraphs 
+                (2) and (3), a grantee may use amounts provided under 
+                this section only for--
+                          ``(i) direct expenses associated with 
+                      achieving the greater integration of a health care 
+                      delivery system so that the system either directly 
+                      provides or ensures the provision of a broad range 
+                      of culturally competent services, as appropriate, 
+                      including primary, secondary, and tertiary 
+                      services, as well as substance abuse treatment and 
+                      mental health services; and
+                          ``(ii) direct patient care and service 
+                      expansions to fill identified or documented gaps 
+                      within an integrated delivery system.
+                    ``(B) Specific uses.--The following are examples of 
+                purposes for which a grantee may use grant funds under 
+                this section, when such use meets the conditions stated 
+                in subparagraph (A):
+                          ``(i) Increases in outreach activities and 
+                      closing gaps in health care service.
+                          ``(ii) Improvements to case management.
+                          ``(iii) Improvements to coordination of 
+                      transportation to health care facilities.
+                          ``(iv) Development of provider networks and 
+                      other innovative models to engage physicians in 
+                      voluntary efforts to serve the medically 
+                      underserved within a community.
+
+[[Page 116 STAT. 1659]]
+
+                          ``(v) Recruitment, training, and compensation 
+                      of necessary personnel.
+                          ``(vi) Acquisition of technology for the 
+                      purpose of coordinating care.
+                          ``(vii) Improvements to provider 
+                      communication, including implementation of shared 
+                      information systems or shared clinical systems.
+                          ``(viii) Development of common processes for 
+                      determining eligibility for the programs provided 
+                      through the system, including creating common 
+                      identification cards and single sliding scale 
+                      discounts.
+                          ``(ix) Development of specific prevention and 
+                      disease management tools and processes.
+                          ``(x) Translation services.
+                          ``(xi) Carrying out other activities that may 
+                      be appropriate to a community and that would 
+                      increase access by the uninsured to health care, 
+                      such as access initiatives for which private 
+                      entities provide non-Federal contributions to 
+                      supplement the Federal funds provided through the 
+                      grants for the initiatives.
+            ``(2) Direct patient care limitation.--Not more than 15 
+        percent of the funds provided under a grant awarded under this 
+        section may be used for providing direct patient care and 
+        services.
+            ``(3) Reservation of funds for national program purposes.--
+        The Secretary may use not more than 3 percent of funds 
+        appropriated to carry out this section for providing technical 
+        assistance to grantees, obtaining assistance of experts and 
+        consultants, holding meetings, developing of tools, 
+        disseminating of information, evaluation, and carrying out 
+        activities that will extend the benefits of programs funded 
+        under this section to communities other than the community 
+        served by the program funded.
+
+    ``(f) Grantee Requirements.--
+            ``(1) Evaluation of effectiveness.--A grantee under this 
+        section shall--
+                    ``(A) report to the Secretary annually regarding--
+                          ``(i) progress in meeting the goals and 
+                      measurable objectives set forth in the grant 
+                      application submitted by the grantee under 
+                      subsection (b); and
+                          ``(ii) the extent to which activities 
+                      conducted by such grantee have--
+                                    ``(I) improved the effectiveness, 
+                                efficiency, and coordination of services 
+                                for uninsured and underinsured 
+                                individuals in the communities or 
+                                geographic areas served by such grantee;
+                                    ``(II) resulted in the provision of 
+                                better quality health care for such 
+                                individuals; and
+                                    ``(III) resulted in the provision of 
+                                health care to such individuals at lower 
+                                cost than would have been possible in 
+                                the absence of the activities conducted 
+                                by such grantee; and
+                    ``(B) provide for an independent annual financial 
+                audit of all records that relate to the disposition of 
+                funds received through the grant.
+            ``(2) Progress.--The Secretary may not renew an annual grant 
+        under this section for an entity for a fiscal year unless
+
+[[Page 116 STAT. 1660]]
+
+        the Secretary is satisfied that the consortium represented by 
+        the entity has made reasonable and demonstrable progress in 
+        meeting the goals and measurable objectives set forth in the 
+        entity's grant application for the preceding fiscal year.
+
+    ``(g) Maintenance of Effort.--With respect to activities for which a 
+grant under this section is authorized, the Secretary may award such a 
+grant only if the applicant for the grant, and each of the participating 
+providers, agree that the grantee and each such provider will maintain 
+its expenditures of non-Federal funds for such activities at a level 
+that is not less than the level of such expenditures during the fiscal 
+year immediately preceding the fiscal year for which the applicant is 
+applying to receive such grant.
+    ``(h) Technical Assistance.--The Secretary may, either directly or 
+by grant or contract, provide any entity that receives a grant under 
+this section with technical and other nonfinancial assistance necessary 
+to meet the requirements of this section.
+    ``(i) <<NOTE: Deadline.>>  Evaluation of Program.--Not later than 
+September 30, 2005, the Secretary shall prepare and submit to the 
+appropriate committees of Congress a report that describes the extent to 
+which projects funded under this section have been successful in 
+improving the effectiveness, efficiency, and coordination of services 
+for uninsured and underinsured individuals in the communities or 
+geographic areas served by such projects, including whether the projects 
+resulted in the provision of better quality health care for such 
+individuals, and whether such care was provided at lower costs, than 
+would have been provided in the absence of such projects.
+
+    ``(j) Demonstration Authority.--The Secretary may make demonstration 
+awards under this section to historically black health professions 
+schools for the purposes of--
+            ``(1) developing patient-based research infrastructure at 
+        historically black health professions schools, which have an 
+        affiliation, or affiliations, with any of the providers 
+        identified in subsection (b)(1)(B);
+            ``(2) establishment of joint and collaborative programs of 
+        medical research and data collection between historically black 
+        health professions schools and such providers, whose goal is to 
+        improve the health status of medically underserved populations; 
+        or
+            ``(3) supporting the research-related costs of patient care, 
+        data collection, and academic training resulting from such 
+        affiliations.
+
+    ``(k) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section such sums as may be necessary for 
+each of fiscal years 2002 through 2006.
+    ``(l) Date Certain for Termination of Program.--Funds may not be 
+appropriated to carry out this section after September 30, 2006.''.
+
+SEC. 403. EXPANDING AVAILABILITY OF DENTAL SERVICES.
+
+    Part D of title III of the Public Health Service Act (42 U.S.C. 254b 
+et seq.) is amended by adding at the end the following:
+
+[[Page 116 STAT. 1661]]
+
+                  ``Subpart X--Primary Dental Programs
+
+``SEC. 340F. <<NOTE: 42 USC 256f.>> DESIGNATED DENTAL HEALTH 
+                            PROFESSIONAL SHORT-
+                            AGE AREA.
+
+    ``In this subpart, the term `designated dental health professional 
+shortage area' means an area, population group, or facility that is 
+designated by the Secretary as a dental health professional shortage 
+area under section 332 or designated by the applicable State as having a 
+dental health professional shortage.
+
+``SEC. 340G. <<NOTE: 42 USC 256g.>> GRANTS FOR INNOVATIVE PROGRAMS.
+
+    ``(a) Grant Program Authorized.--The Secretary, acting through the 
+Administrator of the Health Resources and Services Administration, is 
+authorized to award grants to States for the purpose of helping States 
+develop and implement innovative programs to address the dental 
+workforce needs of designated dental health professional shortage areas 
+in a manner that is appropriate to the States' individual needs.
+    ``(b) State Activities.--A State receiving a grant under subsection 
+(a) may use funds received under the grant for--
+            ``(1) loan forgiveness and repayment programs for dentists 
+        who--
+                    ``(A) agree to practice in designated dental health 
+                professional shortage areas;
+                    ``(B) are dental school graduates who agree to serve 
+                as public health dentists for the Federal, State, or 
+                local government; and
+                    ``(C) agree to--
+                          ``(i) provide services to patients regardless 
+                      of such patients' ability to pay; and
+                          ``(ii) use a sliding payment scale for 
+                      patients who are unable to pay the total cost of 
+                      services;
+            ``(2) dental recruitment and retention efforts;
+            ``(3) grants and low-interest or no-interest loans to help 
+        dentists who participate in the medicaid program under title XIX 
+        of the Social Security Act (42 U.S.C. 1396 et seq.) to establish 
+        or expand practices in designated dental health professional 
+        shortage areas by equipping dental offices or sharing in the 
+        overhead costs of such practices;
+            ``(4) the establishment or expansion of dental residency 
+        programs in coordination with accredited dental training 
+        institutions in States without dental schools;
+            ``(5) programs developed in consultation with State and 
+        local dental societies to expand or establish oral health 
+        services and facilities in designated dental health professional 
+        shortage areas, including services and facilities for children 
+        with special needs, such as--
+                    ``(A) the expansion or establishment of a community-
+                based dental facility, free-standing dental clinic, 
+                consolidated health center dental facility, school-
+                linked dental facility, or United States dental school-
+                based facility;
+                    ``(B) the establishment of a mobile or portable 
+                dental clinic; and
+                    ``(C) the establishment or expansion of private 
+                dental services to enhance capacity through additional 
+                equipment or additional hours of operation;
+
+[[Page 116 STAT. 1662]]
+
+            ``(6) placement and support of dental students, dental 
+        residents, and advanced dentistry trainees;
+            ``(7) continuing dental education, including distance-based 
+        education;
+            ``(8) practice support through teledentistry conducted in 
+        accordance with State laws;
+            ``(9) community-based prevention services such as water 
+        fluoridation and dental sealant programs;
+            ``(10) coordination with local educational agencies within 
+        the State to foster programs that promote children going into 
+        oral health or science professions;
+            ``(11) the establishment of faculty recruitment programs at 
+        accredited dental training institutions whose mission includes 
+        community outreach and service and that have a demonstrated 
+        record of serving underserved States;
+            ``(12) the development of a State dental officer position or 
+        the augmentation of a State dental office to coordinate oral 
+        health and access issues in the State; and
+            ``(13) any other activities determined to be appropriate by 
+        the Secretary.
+
+    ``(c) Application.--
+            ``(1) In general.--Each State desiring a grant under this 
+        section shall submit an application to the Secretary at such 
+        time, in such manner, and containing such information as the 
+        Secretary may reasonably require.
+            ``(2) Assurances.--The application shall include assurances 
+        that the State will meet the requirements of subsection (d) and 
+        that the State possesses sufficient infrastructure to manage the 
+        activities to be funded through the grant and to evaluate and 
+        report on the outcomes resulting from such activities.
+
+    ``(d) Matching Requirement.--The Secretary may not make a grant to a 
+State under this section unless that State agrees that, with respect to 
+the costs to be incurred by the State in carrying out the activities for 
+which the grant was awarded, the State will provide non-Federal 
+contributions in an amount equal to not less than 40 percent of Federal 
+funds provided under the grant. The State may provide the contributions 
+in cash or in kind, fairly evaluated, including plant, equipment, and 
+services and may provide the contributions from State, local, or private 
+sources.
+    ``(e) Report.--Not <<NOTE: Deadline.>> later than 5 years after the 
+date of enactment of the Health Care Safety Net Amendments of 2002, the 
+Secretary shall prepare and submit to the appropriate committees of 
+Congress a report containing data relating to whether grants provided 
+under this section have increased access to dental services in 
+designated dental health professional shortage areas.
+
+    ``(f) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section, $50,000,000 for the 5-fiscal 
+year period beginning with fiscal year 2002.''.
+SEC. 404. <<NOTE: 42 USC 1396a note.>> STUDY REGARDING BARRIERS TO 
+                        PARTICIPATION OF FARMWORKERS IN HEALTH 
+                        PROGRAMS.
+
+    (a) In General.--The Secretary shall conduct a study of the problems 
+experienced by farmworkers (including their families) under Medicaid and 
+SCHIP. Specifically, the Secretary shall examine the following:
+            (1) Barriers to enrollment.--Barriers to their enrollment, 
+        including a lack of outreach and outstationed eligibility
+
+[[Page 116 STAT. 1663]]
+
+        workers, complicated applications and eligibility determination 
+        procedures, and linguistic and cultural barriers.
+            (2) Lack of portability.--The lack of portability of 
+        Medicaid and SCHIP coverage for farmworkers who are determined 
+        eligible in one State but who move to other States on a seasonal 
+        or other periodic basis.
+            (3) Possible solutions.--The development of possible 
+        solutions to increase enrollment and access to benefits for 
+        farmworkers, because, in part, of the problems identified in 
+        paragraphs (1) and (2), and the associated costs of each of the 
+        possible solutions described in subsection (b).
+
+    (b) Possible Solutions.--Possible solutions to be examined shall 
+include each of the following:
+            (1) Interstate compacts.--The use of interstate compacts 
+        among States that establish portability and reciprocity for 
+        eligibility for farmworkers under the Medicaid and SCHIP and 
+        potential financial incentives for States to enter into such 
+        compacts.
+            (2) Demonstration projects.--The use of multi-state 
+        demonstration waiver projects under section 1115 of the Social 
+        Security Act (42 U.S.C. 1315) to develop comprehensive migrant 
+        coverage demonstration projects.
+            (3) Use of current law flexibility.--Use of current law 
+        Medicaid and SCHIP State plan provisions relating to coverage of 
+        residents and out-of-State coverage.
+            (4) National migrant family coverage.--The development of 
+        programs of national migrant family coverage in which States 
+        could participate.
+            (5) Public-private partnerships.--The provision of 
+        incentives for development of public-private partnerships to 
+        develop private coverage alternatives for farmworkers.
+            (6) Other possible solutions.--Such other solutions as the 
+        Secretary deems appropriate.
+
+    (c) Consultations.--In conducting the study, the Secretary shall 
+consult with the following:
+            (1) Farmworkers affected by the lack of portability of 
+        coverage under the Medicaid program or the State children's 
+        health insurance program (under titles XIX and XXI of the Social 
+        Security Act).
+            (2) Individuals with expertise in providing health care to 
+        farmworkers, including designees of national and local 
+        organizations representing migrant health centers and other 
+        providers.
+            (3) Resources with expertise in health care financing.
+            (4) Representatives of foundations and other nonprofit 
+        entities that have conducted or supported research on farmworker 
+        health care financial issues.
+            (5) Representatives of Federal agencies which are involved 
+        in the provision or financing of health care to farmworkers, 
+        including the Health Care Financing Administration and the 
+        Health Research and Services Administration.
+            (6) Representatives of State governments.
+            (7) Representatives from the farm and agricultural 
+        industries.
+            (8) Designees of labor organizations representing 
+        farmworkers.
+
+    (d) Definitions.--For purposes of this section:
+
+[[Page 116 STAT. 1664]]
+
+            (1) Farmworker.--The term ``farmworker'' means a migratory 
+        agricultural worker or seasonal agricultural worker, as such 
+        terms are defined in section 330(g)(3) of the Public Health 
+        Service Act (42 U.S.C. 254c(g)(3)), and includes a family member 
+        of such a worker.
+            (2) Medicaid.--The term ``Medicaid'' means the program under 
+        title XIX of the Social Security Act.
+            (3) SCHIP.--The term ``SCHIP'' means the State children's 
+        health insurance program under title XXI of the Social Security 
+        Act.
+
+    (e) Report.--Not <<NOTE: Deadline.>> later than one year after the 
+date of the enactment of this Act, the Secretary shall transmit a report 
+to the President and the Congress on the study conducted under this 
+section. The report shall contain a detailed statement of findings and 
+conclusions of the study, together with its recommendations for such 
+legislation and administrative actions as the Secretary considers 
+appropriate.
+
+               TITLE V--STUDY AND MISCELLANEOUS PROVISIONS
+
+SEC. 501. <<NOTE: 42 USC 254b note.>> GUARANTEE STUDY.
+
+    The Secretary of Health and Human Services shall conduct a study 
+regarding the ability of the Department of Health and Human Services to 
+provide for solvency for managed care networks involving health centers 
+receiving funding under section 330 of the Public Health Service Act. 
+The Secretary shall prepare and submit a report to the appropriate 
+Committees of Congress regarding such ability not later than 2 years 
+after the date of enactment of the Health Care Safety Net Amendments of 
+2002.
+
+SEC. 502. GRADUATE MEDICAL EDUCATION.
+
+    Section 762(k) of the Public Health Service Act (42 U.S.C. 294o(k)) 
+is amended by striking ``2002'' and inserting ``2003''.
+
+                     TITLE VI--CONFORMING AMENDMENTS
+
+SEC. 601. CONFORMING AMENDMENTS.
+
+    (a) Homeless Programs.--Subsections (g)(1)(G)(ii), (k)(2), and 
+(n)(1)(C) of section 224, and sections 317A(a)(2), 317E(c), 318A(e), 
+332(a)(2)(C), 340D(c)(5), 799B(6)(B), 1313, and 2652(2) of the Public 
+Health Service Act (42 U.S.C. 233, 247b-1(a)(2), 247b-6(c), 247c-1(e), 
+254e(a)(2)(C), 256d(c)(5), 295p(6)(B), 300e-12, and 300ff-52(2)) are 
+amended by striking ``340'' and inserting ``330(h)''.
+
+[[Page 116 STAT. 1665]]
+
+    (b) Homeless Individual.--Section 534(2) of the Public Health 
+Service Act (42 U.S.C. 290cc-34(2)) is amended by striking ``340(r)'' 
+and inserting ``330(h)(5)''.
+
+    Approved October 26, 2002.
+
+LEGISLATIVE HISTORY--S. 1533 (H.R. 3450):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 107-83 (Comm. on Health, Education, Labor, and 
+Pensions).
+CONGRESSIONAL RECORD, Vol. 148 (2002):
+            Apr. 16, considered and passed Senate.
+            Oct. 16, considered and passed House, amended.
+            Oct. 17, Senate concurred in House amendment.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 38 (2002):
+            Oct. 26, Presidential remarks.
+
+                                  
+

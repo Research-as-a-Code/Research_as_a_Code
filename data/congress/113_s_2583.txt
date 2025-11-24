@@ -1,0 +1,92 @@
+
+[113th Congress Public Law 197]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 128 STAT. 2055]]
+
+Public Law 113-197
+113th Congress
+
+                                 An Act
+
+
+ 
+  To promote the non-exclusive use of electronic labeling for devices 
+  licensed by the Federal Communications Commission. <<NOTE: Nov. 26, 
+                          2014 -  [S. 2583]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Enhance 
+Labeling, Accessing, and Branding of Electronic Licenses Act of 2014.>> 
+SECTION 1. <<NOTE: 47 USC 609 note.>>  SHORT TITLE.
+
+    This Act may be cited as the ``Enhance Labeling, Accessing, and 
+Branding of Electronic Licenses Act of 2014'' or the ``E-LABEL Act''.
+SEC. 2. <<NOTE: 47 USC 622 note.>>  FINDINGS.
+
+    Congress finds the following:
+            (1) The Federal Communications Commission (referred to in 
+        this section as the ``Commission'') first standardized physical 
+        labels for licensed products such as computers, phones, and 
+        other electronic devices in 1973, and the Commission has 
+        continually refined physical label requirements over time.
+            (2) As devices become smaller, compliance with physical 
+        label requirements can become more difficult and costly.
+            (3) Many manufacturers and consumers of licensed devices in 
+        the United States would prefer to have the option to provide or 
+        receive important Commission labeling information digitally on 
+        the screen of the device, at the discretion of the user.
+            (4) An electronic labeling option would give flexibility to 
+        manufacturers in meeting labeling requirements.
+SEC. 3. AUTHORIZATION FOR FEDERAL COMMUNICATIONS COMMISSION TO 
+                    ALLOW ELECTRONIC LABELING.
+
+    Title VII of the Communications Act of 1934 (47 U.S.C. 601 et seq.) 
+is amended by adding at the end the following:
+``SEC. 720. <<NOTE: 47 USC 621.>>  OPTIONAL ELECTRONIC LABELING OF 
+                        COMMUNICATIONS EQUIPMENT.
+
+    ``(a) Definitions.--In this section--
+            ``(1) the term `electronic labeling' means displaying 
+        required labeling and regulatory information electronically; and
+            ``(2) the term `radiofrequency device with display' means 
+        any equipment or device that--
+                    ``(A) is required under regulations of the 
+                Commission to be authorized by the Commission before the 
+                equipment or device may be marketed or sold within the 
+                United States; and
+                    ``(B) has the capability to digitally display 
+                required labeling and regulatory information.
+
+[[Page 128 STAT. 2056]]
+
+    ``(b) <<NOTE: 47 USC 622.>>  Requirement To Promulgate Regulations 
+for Electronic Labeling. <<NOTE: Deadline.>> --Not later than 9 months 
+after the date of enactment of the Enhance Labeling, Accessing, and 
+Branding of Electronic Licenses Act of 2014, the Commission shall 
+promulgate regulations or take other appropriate action, as necessary, 
+to allow manufacturers of radiofrequency devices with display the option 
+to use electronic labeling for the equipment in place of affixing 
+physical labels to the equipment.''.
+SEC. 4. <<NOTE: 47 USC 622 note.>>  SAVINGS CLAUSE.
+
+    The amendment made by section 3 shall not be construed to affect the 
+authority of the Federal Communications Commission under section 302 of 
+the Communications Act of 1934 (47 U.S.C. 302a) to provide for 
+electronic labeling of devices.
+
+    Approved November 26, 2014.
+
+LEGISLATIVE HISTORY--S. 2583 (H.R. 5161):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 113-575 (Comm. on Energy and Commerce) accompanying 
+H.R. 5161.
+CONGRESSIONAL RECORD, Vol. 160 (2014):
+            Sept. 18, considered and passed Senate.
+            Nov. 13, considered and passed House.
+
+                                  
+

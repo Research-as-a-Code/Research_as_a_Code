@@ -1,0 +1,2425 @@
+
+[115th Congress Public Law 385]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 132 STAT. 5123]]
+
+Public Law 115-385
+115th Congress
+
+                                 An Act
+
+
+ 
+    To reauthorize and improve the Juvenile Justice and Delinquency 
+    Prevention Act of 1974, and for other purposes. <<NOTE: Dec. 21, 
+                         2018 -  [H.R. 6964]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Juvenile Justice 
+Reform Act of 2018. 34 USC 10101 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Juvenile Justice Reform Act of 
+2018''.
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Application of amendments.
+
+             TITLE I--DECLARATION OF PURPOSE AND DEFINITIONS
+
+Sec. 101. Purposes.
+Sec. 102. Definitions.
+
+ TITLE II--CHARLES GRASSLEY JUVENILE JUSTICE AND DELINQUENCY PREVENTION 
+                                 PROGRAM
+
+Sec. 201. Concentration of Federal efforts.
+Sec. 202. Coordinating Council on Juvenile Justice and Delinquency 
+           Prevention.
+Sec. 203. Annual report.
+Sec. 204. Allocation of funds.
+Sec. 205. State plans.
+Sec. 206. Repeal of juvenile delinquency prevention block grant program.
+Sec. 207. Research and evaluation; statistical analyses; information 
+           dissemination.
+Sec. 208. Training and technical assistance.
+Sec. 209. Administrative authority.
+
+TITLE III--INCENTIVE GRANTS FOR PRISON REDUCTION THROUGH OPPORTUNITIES, 
+             MENTORING, INTERVENTION, SUPPORT, AND EDUCATION
+
+Sec. 301. Short Title.
+Sec. 302. Definitions.
+Sec. 303. Duties and functions of the administrator.
+Sec. 304. Grants for delinquency prevention programs.
+Sec. 305. Grants for tribal delinquency prevention and response 
+           programs.
+Sec. 306. Evaluation by Government Accountability Office.
+Sec. 307. Technical amendment.
+
+                   TITLE IV--MISCELLANEOUS PROVISIONS
+
+Sec. 401. Evaluation by Government Accountability Office.
+Sec. 402. Authorization of appropriations; accountability and oversight.
+
+SEC. 3. <<NOTE: 34 USC 11102 note.>>  APPLICATION OF AMENDMENTS.
+
+    The amendments made by this Act shall not apply with respect to 
+funds appropriated for any fiscal year that begins before the date of 
+the enactment of this Act.
+
+[[Page 132 STAT. 5124]]
+
+             TITLE I--DECLARATION OF PURPOSE AND DEFINITIONS
+
+SEC. 101. PURPOSES.
+
+    Section 102 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11102) is amended--
+            (1) in paragraph (1), by inserting ``, tribal,'' after 
+        ``State'';
+            (2) in paragraph (2)--
+                    (A) by inserting ``, tribal,'' after ``State''; and
+                    (B) by striking ``and'' at the end;
+            (3) by amending paragraph (3) to read as follows:
+            ``(3) to assist State, tribal, and local governments in 
+        addressing juvenile crime through the provision of technical 
+        assistance, research, training, evaluation, and the 
+        dissemination of current and relevant information on effective 
+        and evidence-based programs and practices for combating juvenile 
+        delinquency; and''; and
+            (4) by adding at the end the following:
+            ``(4) to support a continuum of evidence-based or promising 
+        programs (including delinquency prevention, intervention, mental 
+        health, behavioral health and substance abuse treatment, family 
+        services, and services for children exposed to violence) that 
+        are trauma informed, reflect the science of adolescent 
+        development, and are designed to meet the needs of at-risk youth 
+        and youth who come into contact with the justice system.''.
+SEC. 102. DEFINITIONS.
+
+    Section 103 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11103) is amended--
+            (1) in paragraph (8)--
+                    (A) in subparagraph (B)(ii), by adding ``or'' at the 
+                end;
+                    (B) by striking subparagraph (C); and
+                    (C) by redesignating subparagraph (D) as 
+                subparagraph (C);
+            (2) in paragraph (18)--
+                    (A) by inserting ``for purposes of title II,'' 
+                before ``the term''; and
+                    (B) by adding at the end the 
+                following: <<NOTE: Determination. Consultation.>> 
+        ``that has a law enforcement function, as determined by the 
+        Secretary of the Interior in consultation with the Attorney 
+        General;'';
+            (3) by amending paragraph (22) to read as follows:
+            ``(22) the term `jail or lockup for adults' means a secure 
+        facility that is used by a State, unit of local government, or 
+        law enforcement authority to detain or confine adult inmates;'';
+            (4) by amending paragraph (25) to read as follows:
+            ``(25) the term `sight or sound contact' means any physical, 
+        clear visual, or verbal contact that is not brief and 
+        inadvertent;'';
+            (5) by amending paragraph (26) to read as follows:
+            ``(26) the term `adult inmate'--
+                    ``(A) means an individual who--
+                          ``(i) has reached the age of full criminal 
+                      responsibility under applicable State law; and
+
+[[Page 132 STAT. 5125]]
+
+                          ``(ii) has been arrested and is in custody for 
+                      or awaiting trial on a criminal charge, or is 
+                      convicted of a criminal offense; and
+                    ``(B) does not include an individual who--
+                          ``(i) at the time of the offense, was younger 
+                      than the maximum age at which a youth can be held 
+                      in a juvenile facility under applicable State law; 
+                      and
+                          ``(ii) was committed to the care and custody 
+                      or supervision, including post-placement or parole 
+                      supervision, of a juvenile correctional agency by 
+                      a court of competent jurisdiction or by operation 
+                      of applicable State law;'';
+            (6) in paragraph (28), by striking ``and'' at the end;
+            (7) in paragraph (29), by striking the period at the end and 
+        inserting a semicolon; and
+            (8) by adding at the end the following:
+            ``(30) the term `core requirements'--
+                    ``(A) means the requirements described in paragraphs 
+                (11), (12), (13), and (15) of section 223(a); and
+                    ``(B) does not include the data collection 
+                requirements described in subparagraphs (A) through (K) 
+                of section 207(1);
+            ``(31) the term `chemical agent' means a spray or injection 
+        used to temporarily incapacitate a person, including oleoresin 
+        capsicum spray, tear gas, and 2-chlorobenzalmalononitrile gas;
+            ``(32) the term `isolation'--
+                    ``(A) means any instance in which a youth is 
+                confined alone for more than 15 minutes in a room or 
+                cell; and
+                    ``(B) does not include--
+                          ``(i) confinement during regularly scheduled 
+                      sleeping hours;
+                          ``(ii) separation based on a treatment program 
+                      approved by a licensed medical or mental health 
+                      professional;
+                          ``(iii) confinement or separation that is 
+                      requested by the youth; or
+                          ``(iv) the separation of the youth from a 
+                      group in a nonlocked setting for the limited 
+                      purpose of calming;
+            ``(33) the term `restraints' has the meaning given that term 
+        in section 591 of the Public Health Service Act (42 U.S.C. 
+        290ii);
+            ``(34) the term `evidence-based' means a program or practice 
+        that--
+                    ``(A) is demonstrated to be effective when 
+                implemented with fidelity;
+                    ``(B) is based on a clearly articulated and 
+                empirically supported theory;
+                    ``(C) has measurable outcomes relevant to juvenile 
+                justice, including a detailed description of the 
+                outcomes produced in a particular population, whether 
+                urban or rural; and
+                    ``(D) has been scientifically tested and proven 
+                effective through randomized control studies or 
+                comparison group studies and with the ability to 
+                replicate and scale;
+            ``(35) the term `promising' means a program or practice 
+        that--
+
+[[Page 132 STAT. 5126]]
+
+                    ``(A) is demonstrated to be effective based on 
+                positive outcomes relevant to juvenile justice from one 
+                or more objective, independent, and scientifically valid 
+                evaluations, as documented in writing to the 
+                Administrator; and
+                    ``(B) will be evaluated through a well-designed and 
+                rigorous study, as described in paragraph (34)(D);
+            ``(36) the term `dangerous practice' means an act, 
+        procedure, or program that creates an unreasonable risk of 
+        physical injury, pain, or psychological harm to a juvenile 
+        subjected to the act, procedure, or program;
+            ``(37) the term `screening' means a brief process--
+                    ``(A) designed to identify youth who may have mental 
+                health, behavioral health, substance abuse, or other 
+                needs requiring immediate attention, intervention, and 
+                further evaluation; and
+                    ``(B) the purpose of which is to quickly identify a 
+                youth with possible mental health, behavioral health, 
+                substance abuse, or other needs in need of further 
+                assessment;
+            ``(38) the term `assessment' includes, at a minimum, an 
+        interview and review of available records and other pertinent 
+        information--
+                    ``(A) by an appropriately trained professional who 
+                is licensed or certified by the applicable State in the 
+                mental health, behavioral health, or substance abuse 
+                fields; and
+                    ``(B) which is designed to identify significant 
+                mental health, behavioral health, or substance abuse 
+                treatment needs to be addressed during a youth's 
+                confinement;
+            ``(39) for purposes of section 223(a)(15), the term 
+        `contact' means the points at which a youth and the juvenile 
+        justice system or criminal justice system officially intersect, 
+        including interactions with a juvenile justice, juvenile court, 
+        or law enforcement official;
+            ``(40) the term `trauma-informed' means--
+                    ``(A) understanding the impact that exposure to 
+                violence and trauma have on a youth's physical, 
+                psychological, and psychosocial development;
+                    ``(B) recognizing when a youth has been exposed to 
+                violence and trauma and is in need of help to recover 
+                from the adverse impacts of trauma; and
+                    ``(C) responding in ways that resist 
+                retraumatization;
+            ``(41) the term `racial and ethnic disparity' means minority 
+        youth populations are involved at a decision point in the 
+        juvenile justice system at disproportionately higher rates than 
+        non-minority youth at that decision point;
+            ``(42) the term `status offender' means a juvenile who is 
+        charged with or who has committed an offense that would not be 
+        criminal if committed by an adult;
+            ``(43) the term `rural' means an area that is not located in 
+        a metropolitan statistical area, as defined by the Office of 
+        Management and Budget;
+            ``(44) the term `internal controls' means a process 
+        implemented to provide reasonable assurance regarding the 
+        achievement of objectives in--
+                    ``(A) effectiveness and efficiency of operations, 
+                such as grant management practices;
+                    ``(B) reliability of reporting for internal and 
+                external use; and
+
+[[Page 132 STAT. 5127]]
+
+                    ``(C) compliance with applicable laws and 
+                regulations, as well as recommendations of the Office of 
+                Inspector General and the Government Accountability 
+                Office; and
+            ``(45) the term `tribal government' means the governing body 
+        of an Indian Tribe.''.
+
+ TITLE II--CHARLES GRASSLEY JUVENILE JUSTICE AND DELINQUENCY PREVENTION 
+                                 PROGRAM
+
+SEC. 201. CONCENTRATION OF FEDERAL EFFORTS.
+
+    Section 204 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11114) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), in the first sentence--
+                          (i) by striking ``a long-term plan, and 
+                      implement'' and inserting the following: ``a long-
+                      term plan to improve the juvenile justice system 
+                      in the United States, taking into account 
+                      scientific knowledge regarding adolescent 
+                      development and behavior and regarding the effects 
+                      of delinquency prevention programs and juvenile 
+                      justice interventions on adolescents, and shall 
+                      implement''; and
+                          (ii) by striking ``research, and improvement 
+                      of the juvenile justice system in the United 
+                      States'' and inserting ``and research''; and
+                    (B) <<NOTE: Time period.>>  in paragraph (2)(B), by 
+                striking ``Federal Register'' and all that follows and 
+                inserting ``Federal Register during the 30-day period 
+                ending on October 1 of each year.''; and
+            (2) in subsection (b)--
+                    (A) by striking paragraph (7);
+                    (B) by redesignating paragraphs (5) and (6) as 
+                paragraphs (6) and (7), respectively;
+                    (C) by inserting after paragraph (4), the following:
+            ``(5) <<NOTE: Deadline. Consultation. Policy.>>  not later 
+        than 1 year after the date of enactment of the Juvenile Justice 
+        Reform Act of 2018, in consultation with Indian Tribes, develop 
+        a policy for the Office of Juvenile Justice and Delinquency 
+        Prevention to collaborate with representatives of Indian Tribes 
+        with a criminal justice function on the implementation of the 
+        provisions of this Act relating to Indian Tribes;'';
+                    (D) in paragraph (6), as so redesignated, by adding 
+                ``and'' at the end; and
+                    (E) in paragraph (7), as so redesignated--
+                          (i) by striking ``monitoring'';
+                          (ii) by striking ``section 223(a)(15)'' and 
+                      inserting ``section 223(a)(14)''; and
+                          (iii) by striking ``to review the adequacy of 
+                      such systems; and'' and inserting ``for monitoring 
+                      compliance.''.
+
+[[Page 132 STAT. 5128]]
+
+SEC. 202. COORDINATING COUNCIL ON JUVENILE JUSTICE AND DELINQUENCY 
+                        PREVENTION.
+
+    Section 206 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11116) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1)--
+                          (i) by inserting ``the Assistant Secretary for 
+                      Mental Health and Substance Use, the Secretary of 
+                      the Interior,'' after ``the Secretary of Health 
+                      and Human Services,''; and
+                          (ii) by striking ``Commissioner of Immigration 
+                      and Naturalization'' and inserting ``Assistant 
+                      Secretary for Immigration and Customs 
+                      Enforcement''; and
+                    (B) in paragraph (2), by striking ``United States'' 
+                and inserting ``Federal Government''; and
+            (2) in subsection (c)--
+                    (A) in paragraph (1), by striking ``paragraphs 
+                (12)(A), (13), and (14) of section 223(a) of this 
+                title'' and inserting ``the core requirements''; and
+                    (B) in paragraph (2)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by inserting ``, on an annual basis'' after 
+                      ``collectively''; and
+                          (ii) by striking subparagraph (B) and 
+                      inserting the following:
+                    ``(B) <<NOTE: Deadline. Reports.>>  not later than 
+                120 days after the completion of the last meeting of the 
+                Council during any fiscal year, submit to the Committee 
+                on Education and the Workforce of the House of 
+                Representatives and the Committee on the Judiciary of 
+                the Senate a report that--
+                          ``(i) <<NOTE: Recommenda- tions.>>  contains 
+                      the recommendations described in subparagraph (A);
+                          ``(ii) includes a detailed account of the 
+                      activities conducted by the Council during the 
+                      fiscal year, including a complete detailed 
+                      accounting of expenses incurred by the Council to 
+                      conduct operations in accordance with this 
+                      section;
+                          ``(iii) <<NOTE: Web posting.>>  is published 
+                      on the websites of the Office of Juvenile Justice 
+                      and Delinquency Prevention, the Council, and the 
+                      Department of Justice; and
+                          ``(iv) is in addition to the annual report 
+                      required under section 207.''.
+SEC. 203. ANNUAL REPORT.
+
+    Section 207 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11117) is amended--
+            (1) in the matter preceding paragraph (1), by striking ``a 
+        fiscal year'' and inserting ``each fiscal year'';
+            (2) in paragraph (1)--
+                    (A) in subparagraph (B), by striking ``and gender'' 
+                and inserting ``, gender, and ethnicity, as such term is 
+                defined by the Bureau of the Census,'';
+                    (B) in subparagraph (E), by striking ``and'' at the 
+                end;
+                    (C) in subparagraph (F)--
+                          (i) by inserting ``and other'' before 
+                      ``disabilities,''; and
+
+[[Page 132 STAT. 5129]]
+
+                          (ii) by striking the period at the end and 
+                      inserting a semicolon; and
+                    (D) by adding at the end the following:
+                    ``(G) <<NOTE: Summary.>>  a summary of data from 1 
+                month of the applicable fiscal year of the use of 
+                restraints and isolation upon juveniles held in the 
+                custody of secure detention and correctional facilities 
+                operated by a State or unit of local government;
+                    ``(H) the number of status offense cases petitioned 
+                to court, number of status offenders held in secure 
+                detention, the findings used to justify the use of 
+                secure detention, and the average period of time a 
+                status offender was held in secure detention;
+                    ``(I) the number of juveniles released from custody 
+                and the type of living arrangement to which they are 
+                released;
+                    ``(J) the number of juveniles whose offense 
+                originated on school grounds, during school-sponsored 
+                off-campus activities, or due to a referral by a school 
+                official, as collected and reported by the Department of 
+                Education or similar State educational agency; and
+                    ``(K) the number of juveniles in the custody of 
+                secure detention and correctional facilities operated by 
+                a State or unit of local or tribal government who report 
+                being pregnant.''; and
+            (3) by adding at the end the following:
+            ``(5) <<NOTE: Criteria. Lists.>>  A description of the 
+        criteria used to determine what programs qualify as evidence-
+        based and promising programs under this title and title V and a 
+        comprehensive list of those programs the Administrator has 
+        determined meet such criteria in both rural and urban areas.
+            ``(6) A description of funding provided to Indian Tribes 
+        under this Act or for a juvenile delinquency or prevention 
+        program under the Tribal Law and Order Act of 2010 (Public Law 
+        111-211; 124 Stat. 2261), including direct Federal grants and 
+        funding provided to Indian Tribes through a State or unit of 
+        local government.
+            ``(7) <<NOTE: Analysis. Evaluation.>>  An analysis and 
+        evaluation of the internal controls at the Office of Juvenile 
+        Justice and Delinquency Prevention to determine if grantees are 
+        following the requirements of the Office of Juvenile Justice and 
+        Delinquency Prevention grant programs and what remedial action 
+        the Office of Juvenile Justice and Delinquency Prevention has 
+        taken to recover any grant funds that are expended in violation 
+        of the grant programs, including instances--
+                    ``(A) in which supporting documentation was not 
+                provided for cost reports;
+                    ``(B) where unauthorized expenditures occurred; or
+                    ``(C) where subrecipients of grant funds were not 
+                compliant with program requirements.
+            ``(8) <<NOTE: Analysis. Evaluation.>>  An analysis and 
+        evaluation of the total amount of payments made to grantees that 
+        the Office of Juvenile Justice and Delinquency Prevention 
+        recouped from grantees that were found to be in violation of 
+        policies and procedures of the Office of Juvenile Justice and 
+        Delinquency Prevention grant programs, including--
+                    ``(A) the full name and location of the grantee;
+                    ``(B) the violation of the program found;
+
+[[Page 132 STAT. 5130]]
+
+                    ``(C) the amount of funds sought to be recouped by 
+                the Office of Juvenile Justice and Delinquency 
+                Prevention; and
+                    ``(D) the actual amount recouped by the Office of 
+                Juvenile Justice and Delinquency Prevention.''.
+SEC. 204. ALLOCATION OF FUNDS.
+
+    (a) Technical Assistance.--Section 221(b)(1) of the Juvenile Justice 
+and Delinquency Prevention Act of 1974 (34 U.S.C. 11131(b)(1)) is 
+amended by striking ``2 percent'' and inserting ``5 percent''.
+    (b) Other Allocations.--Section 222 of the Juvenile Justice and 
+Delinquency Prevention Act of 1974 (34 U.S.C. 11132) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by striking ``age eighteen'' 
+                and inserting ``18 years of age, based on the most 
+                recent data available from the Bureau of the Census''; 
+                and
+                    (B) by striking paragraphs (2) and (3) and inserting 
+                the following:
+
+    ``(2)(A) If the aggregate amount appropriated for a fiscal year to 
+carry out this title is less than $75,000,000, then--
+            ``(i) the amount allocated to each State other than a State 
+        described in clause (ii) for that fiscal year shall be not less 
+        than $400,000; and
+            ``(ii) the amount allocated to the United States Virgin 
+        Islands, Guam, American Samoa, and the Commonwealth of the 
+        Northern Mariana Islands for that fiscal year shall be not less 
+        than $75,000.
+
+    ``(B) If the aggregate amount appropriated for a fiscal year to 
+carry out this title is not less than $75,000,000, then--
+            ``(i) the amount allocated to each State other than a State 
+        described in clause (ii) for that fiscal year shall be not less 
+        than $600,000; and
+            ``(ii) the amount allocated to the United States Virgin 
+        Islands, Guam, American Samoa, and the Commonwealth of the 
+        Northern Mariana Islands for that fiscal year shall be not less 
+        than $100,000.'';
+            (2) <<NOTE: Coordination. Certification.>>  in subsection 
+        (c), by striking ``efficient administration, including 
+        monitoring, evaluation, and one full-time staff position'' and 
+        inserting ``effective and efficient administration of funds, 
+        including the designation of not less than one individual who 
+        shall coordinate efforts to achieve and sustain compliance with 
+        the core requirements and certify whether the State is in 
+        compliance with such requirements''; and
+            (3) in subsection (d), by striking ``5 per centum of the 
+        minimum'' and inserting ``not more than 5 percent of the''.
+
+    (c) Charles Grassley Juvenile Justice and Delinquency Prevention 
+Program.--Part B of title II of the Juvenile Justice and Delinquency 
+Prevention Act of 1974 (34 U.S.C. 11131 et seq.) is amended--
+            (1) in the part heading, by striking ``Federal Assistance 
+        for State and Local Programs'' and inserting ``Charles Grassley 
+        Juvenile Justice and Delinquency Prevention Program''; and
+            (2) by inserting before section 221 the following:
+
+[[Page 132 STAT. 5131]]
+
+                              ``short title
+
+
+    ``Sec. <<NOTE: 34 USC 10101 note.>>  220. This part may be cited as 
+the `Charles Grassley Juvenile Justice and Delinquency Prevention 
+Program'.''.
+SEC. 205. STATE PLANS.
+
+    Section 223 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11133) is amended--
+            (1) in subsection (a)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``and shall describe the status of compliance 
+                with State plan requirements.'' and inserting ``and 
+                shall describe how the State plan is supported by or 
+                takes account of scientific knowledge regarding 
+                adolescent development and behavior and regarding the 
+                effects of delinquency prevention programs and juvenile 
+                justice interventions on adolescents. Not 
+                later <<NOTE: Deadline. Public information. Web 
+                posting.>>  than 60 days after the date on which a plan 
+                or amended plan submitted under this subsection is 
+                finalized, a State shall make the plan or amended plan 
+                publicly available by posting the plan or amended plan 
+                on the State's publicly available website.'';
+                    (B) in paragraph (1), by striking ``described in 
+                section 299(c)(1)'' and inserting ``as designated by the 
+                chief executive officer of the State'';
+                    (C) in paragraph (3)--
+                          (i) in subparagraph (A)--
+                                    (I) in clause (i), by inserting 
+                                ``adolescent development,'' after 
+                                ``concerning'';
+                                    (II) in clause (ii)--
+                                            (aa) in subclause (III), by 
+                                        striking ``mental health, 
+                                        education, special education'' 
+                                        and inserting ``child and 
+                                        adolescent mental health, 
+                                        education, child and adolescent 
+                                        substance abuse, special 
+                                        education, services for youth 
+                                        with disabilities'';
+                                            (bb) in subclause (V), by 
+                                        striking ``delinquents or 
+                                        potential delinquents'' and 
+                                        inserting ``delinquent youth or 
+                                        youth at risk of delinquency'';
+                                            (cc) in subclause (VI), by 
+                                        striking ``youth workers 
+                                        involved with'' and inserting 
+                                        ``representatives of'';
+                                            (dd) in subclause (VII), by 
+                                        striking ``and'' at the end;
+                                            (ee) by striking subclause 
+                                        (VIII) and inserting the 
+                                        following:
+                                    ``(VIII) persons, licensed or 
+                                certified by the applicable State, with 
+                                expertise and competence in preventing 
+                                and addressing mental health and 
+                                substance abuse needs in delinquent 
+                                youth and youth at risk of delinquency;
+                                    ``(IX) representatives of victim or 
+                                witness advocacy groups, including at 
+                                least one individual with expertise in 
+                                addressing the challenges of sexual 
+                                abuse and exploitation and trauma, 
+                                particularly the needs of youth who 
+                                experience disproportionate levels of 
+                                sexual abuse, exploitation, and
+
+[[Page 132 STAT. 5132]]
+
+                                trauma before entering the juvenile 
+                                justice system; and
+                                    ``(X) for a State in which one or 
+                                more Indian Tribes are located, an 
+                                Indian tribal representative (if such 
+                                representative is available) or other 
+                                individual with significant expertise in 
+                                tribal law enforcement and juvenile 
+                                justice in Indian tribal communities;'';
+                                    (III) in clause (iv), by striking 
+                                ``24 at the time of appointment'' and 
+                                inserting ``28 at the time of initial 
+                                appointment''; and
+                                    (IV) in clause (v) by inserting 
+                                ``or, if not feasible and in appropriate 
+                                circumstances, who is the parent or 
+                                guardian of someone who has been or is 
+                                currently under the jurisdiction of the 
+                                juvenile justice system'' after 
+                                ``juvenile justice system'';
+                          (ii) in subparagraph (C), by striking ``30 
+                      days'' and inserting ``45 days'';
+                          (iii) in subparagraph (D)--
+                                    (I) in clause (i), by striking 
+                                ``and'' at the end; and
+                                    (II) in clause (ii), by striking 
+                                ``at least annually recommendations 
+                                regarding State compliance with the 
+                                requirements of paragraphs (11), (12), 
+                                and (13)'' and inserting ``at least 
+                                every 2 years a report and necessary 
+                                recommendations regarding State 
+                                compliance with the core requirements''; 
+                                and
+                          (iv) in subparagraph (E)--
+                                    (I) in clause (i), by adding ``and'' 
+                                at the end; and
+                                    (II) in clause (ii), by striking the 
+                                period at the end and inserting a 
+                                semicolon;
+                    (D) in paragraph (5)(C), by striking ``Indian 
+                tribes'' and all that follows through ``applicable to 
+                the detention and confinement of juveniles'' and 
+                inserting ``Indian Tribes that agree to attempt to 
+                comply with the core requirements applicable to the 
+                detention and confinement of juveniles'';
+                    (E) in paragraph (7)--
+                          (i) in subparagraph (A), by striking 
+                      ``performs law enforcement functions'' and 
+                      inserting ``has jurisdiction''; and
+                          (ii) in subparagraph (B)--
+                                    (I) in clause (iii), by striking 
+                                ``and'' at the end; and
+                                    (II) by striking clause (iv) and 
+                                inserting the following:
+                          ``(iv) a plan to provide alternatives to 
+                      detention for status offenders, survivors of 
+                      commercial sexual exploitation, and others, where 
+                      appropriate, such as specialized or problem-
+                      solving courts or diversion to home-based or 
+                      community-based services or treatment for those 
+                      youth in need of mental health, substance abuse, 
+                      or co-occurring disorder services at the time such 
+                      juveniles first come into contact with the 
+                      juvenile justice system;
+
+[[Page 132 STAT. 5133]]
+
+                          ``(v) a plan to reduce the number of children 
+                      housed in secure detention and corrections 
+                      facilities who are awaiting placement in 
+                      residential treatment programs;
+                          ``(vi) a plan to engage family members, where 
+                      appropriate, in the design and delivery of 
+                      juvenile delinquency prevention and treatment 
+                      services, particularly post-placement;
+                          ``(vii) a plan to use community-based services 
+                      to respond to the needs of at-risk youth or youth 
+                      who have come into contact with the juvenile 
+                      justice system;
+                          ``(viii) a plan to promote evidence-based and 
+                      trauma-informed programs and practices; and
+                          ``(ix) <<NOTE: Deadlines.>>  not later than 1 
+                      year after the date of enactment of the Juvenile 
+                      Justice Reform Act of 2018, a plan which shall be 
+                      implemented not later than 2 years after the date 
+                      of enactment of the Juvenile Justice Reform Act of 
+                      2018, to--
+                                    ``(I) eliminate the use of 
+                                restraints of known pregnant juveniles 
+                                housed in secure juvenile detention and 
+                                correction facilities, during labor, 
+                                delivery, and post-partum recovery, 
+                                unless credible, reasonable grounds 
+                                exist to believe the detainee presents 
+                                an immediate and serious threat of 
+                                hurting herself, staff, or others; and
+                                    ``(II) eliminate the use of 
+                                abdominal restraints, leg and ankle 
+                                restraints, wrist restraints behind the 
+                                back, and four-point restraints on known 
+                                pregnant juveniles, unless--
+                                            ``(aa) credible, reasonable 
+                                        grounds exist to believe the 
+                                        detainee presents an immediate 
+                                        and serious threat of hurting 
+                                        herself, staff, or others; or
+                                            ``(bb) reasonable grounds 
+                                        exist to believe the detainee 
+                                        presents an immediate and 
+                                        credible risk of escape that 
+                                        cannot be reasonably minimized 
+                                        through any other method;'';
+                    (F) in paragraph (8), by striking ``existing'' and 
+                inserting ``evidence-based and promising'';
+                    (G) in paragraph (9)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by inserting ``, with priority in funding given to 
+                      entities meeting the criteria for evidence-based 
+                      or promising programs'' after ``used for'';
+                          (ii) in subparagraph (A)--
+                                    (I) in clause (i)--
+                                            (aa) by inserting ``status 
+                                        offenders and other'' before 
+                                        ``youth who need''; and
+                                            (bb) by striking ``and'' at 
+                                        the end;
+                                    (II) in clause (ii) by adding 
+                                ``and'' at the end; and
+                                    (III) by inserting after clause (ii) 
+                                the following:
+                          ``(iii) for youth who need specialized 
+                      intensive and comprehensive services that address 
+                      the unique issues encountered by youth when they 
+                      become involved with gangs;'';
+                          (iii) in subparagraph (B)(i)--
+
+[[Page 132 STAT. 5134]]
+
+                                    (I) by striking ``parents and other 
+                                family members'' and inserting ``status 
+                                offenders, other youth, and the parents 
+                                and other family members of such 
+                                offenders and youth''; and
+                                    (II) by striking ``be retained'' and 
+                                inserting ``remain'';
+                          (iv) in subparagraph (E)--
+                                    (I) in the matter preceding clause 
+                                (i), by striking ``delinquent'' and 
+                                inserting ``at-risk or delinquent 
+                                youth''; and
+                                    (II) in clause (i), by inserting ``, 
+                                including for truancy prevention and 
+                                reduction'' before the semicolon;
+                          (v) in subparagraph (F), in the matter 
+                      preceding clause (i), by striking ``expanding'' 
+                      and inserting ``programs to expand'';
+                          (vi) by redesignating subparagraphs (G) 
+                      through (S) as subparagraphs (H) through (T), 
+                      respectively;
+                          (vii) by inserting after subparagraph (F), the 
+                      following:
+                    ``(G) programs--
+                          ``(i) to ensure youth have access to 
+                      appropriate legal representation; and
+                          ``(ii) to expand access to publicly supported, 
+                      court-appointed legal counsel who are trained to 
+                      represent juveniles in adjudication proceedings,
+                except that the State may not use more than 2 percent of 
+                the funds received under section 222 for these 
+                purposes;'';
+                          (viii) in subparagraph (H), as so 
+                      redesignated, by striking ``State,'' each place 
+                      the term appears and inserting ``State, tribal,'';
+                          (ix) in subparagraph (M), as so redesignated--
+                                    (I) in clause (i)--
+                                            (aa) by inserting ``pre-
+                                        adjudication and'' before 
+                                        ``post-adjudication'';
+                                            (bb) by striking 
+                                        ``restraints'' and inserting 
+                                        ``alternatives''; and
+                                            (cc) by inserting 
+                                        ``specialized or problem-solving 
+                                        courts,'' after ``(including''; 
+                                        and
+                                    (II) in clause (ii)--
+                                            (aa) by striking ``by the 
+                                        provision by the 
+                                        Administrator''; and
+                                            (bb) by striking ``to 
+                                        States'';
+                          (x) in subparagraph (N), as so redesignated--
+                                    (I) by inserting ``and reduce the 
+                                risk of recidivism'' after ``families''; 
+                                and
+                                    (II) by striking ``so that such 
+                                juveniles may be retained in their 
+                                homes'';
+                          (xi) in subparagraph (S), as so redesignated, 
+                      by striking ``and'' at the end;
+                          (xii) in subparagraph (T), as so 
+                      redesignated--
+                                    (I) by inserting ``or co-occurring 
+                                disorder'' after ``mental health'';
+                                    (II) by inserting ``court-involved 
+                                or'' before ``incarcerated'';
+                                    (III) by striking ``suspected to 
+                                be'';
+
+[[Page 132 STAT. 5135]]
+
+                                    (IV) by striking ``and discharge 
+                                plans'' and inserting ``provision of 
+                                treatment, and development of discharge 
+                                plans''; and
+                                    (V) by striking the period at the 
+                                end and inserting a semicolon; and
+                          (xiii) by inserting after subparagraph (T) the 
+                      following:
+                    ``(U) programs and projects designed--
+                          ``(i) to inform juveniles of the opportunity 
+                      and process for sealing and expunging juvenile 
+                      records; and
+                          ``(ii) to assist juveniles in pursuing 
+                      juvenile record sealing and expungements for both 
+                      adjudications and arrests not followed by 
+                      adjudications;
+                except that the State may not use more than 2 percent of 
+                the funds received under section 222 for these purposes;
+                    ``(V) programs that address the needs of girls in or 
+                at risk of entering the juvenile justice system, 
+                including pregnant girls, young mothers, survivors of 
+                commercial sexual exploitation or domestic child sex 
+                trafficking, girls with disabilities, and girls of 
+                color, including girls who are members of an Indian 
+                Tribe; and
+                    ``(W) monitoring for compliance with the core 
+                requirements and providing training and technical 
+                assistance on the core requirements to secure 
+                facilities;'';
+                    (H) by striking paragraph (11) and inserting the 
+                following:
+            ``(11)(A) in accordance with rules issued by the 
+        Administrator, provide that a juvenile shall not be placed in a 
+        secure detention facility or a secure correctional facility, 
+        if--
+                    ``(i) the juvenile is charged with or has committed 
+                an offense that would not be criminal if committed by an 
+                adult, excluding--
+                          ``(I) a juvenile who is charged with or has 
+                      committed a violation of section 922(x)(2) of 
+                      title 18, United States Code, or of a similar 
+                      State law;
+                          ``(II) a juvenile who is charged with or has 
+                      committed a violation of a valid court order 
+                      issued and reviewed in accordance with paragraph 
+                      (23); and
+                          ``(III) a juvenile who is held in accordance 
+                      with the Interstate Compact on Juveniles as 
+                      enacted by the State; or
+                    ``(ii) the juvenile--
+                          ``(I) is not charged with any offense; and
+                          ``(II)(aa) is an alien; or
+                          ``(bb) is alleged to be dependent, neglected, 
+                      or abused; and
+            ``(B) require that--
+                    ``(i) <<NOTE: Deadline.>>  not later than 3 years 
+                after the date of enactment of the Juvenile Justice 
+                Reform Act of 2018, unless a court finds, after a 
+                hearing and in writing, that it is in the interest of 
+                justice, juveniles awaiting trial or other legal process 
+                who are treated as adults for purposes of prosecution in 
+                criminal court and housed in a secure facility--
+                          ``(I) shall not have sight or sound contact 
+                      with adult inmates; and
+
+[[Page 132 STAT. 5136]]
+
+                          ``(II) except as provided in paragraph (13), 
+                      may not be held in any jail or lockup for adults;
+                    ``(ii) in determining under clause (i) whether it is 
+                in the interest of justice to permit a juvenile to be 
+                held in any jail or lockup for adults, or have sight or 
+                sound contact with adult inmates, a court shall 
+                consider--
+                          ``(I) the age of the juvenile;
+                          ``(II) the physical and mental maturity of the 
+                      juvenile;
+                          ``(III) the present mental state of the 
+                      juvenile, including whether the juvenile presents 
+                      an imminent risk of harm to the juvenile;
+                          ``(IV) the nature and circumstances of the 
+                      alleged offense;
+                          ``(V) the juvenile's history of prior 
+                      delinquent acts;
+                          ``(VI) the relative ability of the available 
+                      adult and juvenile detention facilities to not 
+                      only meet the specific needs of the juvenile but 
+                      also to protect the safety of the public as well 
+                      as other detained youth; and
+                          ``(VII) any other relevant factor; and
+                    ``(iii) <<NOTE: Determinations. Time periods.>>  if 
+                a court determines under clause (i) that it is in the 
+                interest of justice to permit a juvenile to be held in 
+                any jail or lockup for adults--
+                          ``(I) the court shall hold a hearing not less 
+                      frequently than once every 30 days, or in the case 
+                      of a rural jurisdiction, not less frequently than 
+                      once every 45 days, to review whether it is still 
+                      in the interest of justice to permit the juvenile 
+                      to be so held or have such sight or sound contact; 
+                      and
+                          ``(II) the juvenile shall not be held in any 
+                      jail or lockup for adults, or permitted to have 
+                      sight or sound contact with adult inmates, for 
+                      more than 180 days, unless the court, in writing, 
+                      determines there is good cause for an extension or 
+                      the juvenile expressly waives this limitation;''.
+                    (I) in paragraph (12)(A), by striking ``contact'' 
+                and inserting ``sight or sound contact'';
+                    (J) in paragraph (13), by striking ``contact'' each 
+                place it appears and inserting ``sight or sound 
+                contact'';
+                    (K) in paragraph (14)--
+                          (i) by striking ``adequate system'' and 
+                      inserting ``effective system'';
+                          (ii) by inserting ``lock-ups,'' after 
+                      ``monitoring jails,'';
+                          (iii) by inserting ``and'' after ``detention 
+                      facilities,'';
+                          (iv) by striking ``, and non-secure 
+                      facilities'';
+                          (v) by striking ``insure'' and inserting 
+                      ``ensure'';
+                          (vi) by striking ``requirements of paragraphs 
+                      (11), (12), and (13)'' and inserting ``core 
+                      requirements''; and
+                          (vii) by striking ``, in the opinion of the 
+                      Administrator,'';
+                    (L) by striking paragraphs (22) and (27);
+                    (M) by redesignating paragraph (28) as paragraph 
+                (27);
+                    (N) by redesignating paragraphs (15) through (21) as 
+                paragraphs (16) through (22), respectively;
+                    (O) by inserting after paragraph (14) the following:
+
+[[Page 132 STAT. 5137]]
+
+            ``(15) implement policy, practice, and system improvement 
+        strategies at the State, territorial, local, and tribal levels, 
+        as applicable, to identify and reduce racial and ethnic 
+        disparities among youth who come into contact with the juvenile 
+        justice system, without establishing or requiring numerical 
+        standards or quotas, by--
+                    ``(A) establishing or designating existing 
+                coordinating bodies, composed of juvenile justice 
+                stakeholders, (including representatives of the 
+                educational system) at the State, local, or tribal 
+                levels, to advise efforts by States, units of local 
+                government, and Indian Tribes to reduce racial and 
+                ethnic disparities;
+                    ``(B) <<NOTE: Data analysis.>>  identifying and 
+                analyzing data on race and ethnicity at decision points 
+                in State, local, or tribal juvenile justice systems to 
+                determine which such points create racial and ethnic 
+                disparities among youth who come into contact with the 
+                juvenile justice system; and
+                    ``(C) <<NOTE: Plan.>>  developing and implementing a 
+                work plan that includes measurable objectives for 
+                policy, practice, or other system changes, based on the 
+                needs identified in the data collection and analysis 
+                under subparagraph (B);'';
+                    (P) in paragraph (16), as so redesignated, by 
+                inserting ``ethnicity,'' after ``race,'';
+                    (Q) in paragraph (21), as so redesignated, by 
+                striking ``local,'' each place the term appears and 
+                inserting ``local, tribal,'';
+                    (R) in paragraph (23)--
+                          (i) in subparagraphs (A), (B), and (C), by 
+                      striking ``juvenile'' each place it appears and 
+                      inserting ``status offender'';
+                          (ii) in subparagraph (B), by striking ``and'' 
+                      at the end;
+                          (iii) in subparagraph (C)--
+                                    (I) in clause (i), by striking 
+                                ``and'' at the end;
+                                    (II) in clause (ii), by adding 
+                                ``and'' at the end; and
+                                    (III) by adding at the end the 
+                                following:
+                          ``(iii) <<NOTE: Determination.>>  if such 
+                      court determines the status offender should be 
+                      placed in a secure detention facility or 
+                      correctional facility for violating such order--
+                                    ``(I) the court shall issue a 
+                                written order that--
+                                            ``(aa) identifies the valid 
+                                        court order that has been 
+                                        violated;
+                                            ``(bb) specifies the factual 
+                                        basis for determining that there 
+                                        is reasonable cause to believe 
+                                        that the status offender has 
+                                        violated such order;
+                                            ``(cc) includes findings of 
+                                        fact to support a determination 
+                                        that there is no appropriate 
+                                        less restrictive alternative 
+                                        available to placing the status 
+                                        offender in such a facility, 
+                                        with due consideration to the 
+                                        best interest of the juvenile;
+                                            ``(dd) <<NOTE: Time 
+                                        period.>>  specifies the length 
+                                        of time, not to exceed 7 days, 
+                                        that the status offender may
+
+[[Page 132 STAT. 5138]]
+
+                                        remain in a secure detention 
+                                        facility or correctional 
+                                        facility, and includes a plan 
+                                        for the status offender's 
+                                        release from such facility; and
+                                            ``(ee) may not be renewed or 
+                                        extended; and
+                                    ``(II) the court may not issue a 
+                                second or subsequent order described in 
+                                subclause (I) relating to a status 
+                                offender unless the status offender 
+                                violates a valid court order after the 
+                                date on which the court issues an order 
+                                described in subclause (I); and''; and
+                          (iv) by adding at the end the following:
+                    ``(D) <<NOTE: Time period.>>  there are procedures 
+                in place to ensure that any status offender held in a 
+                secure detention facility or correctional facility 
+                pursuant to a court order described in this paragraph 
+                does not remain in custody longer than 7 days or the 
+                length of time authorized by the court, whichever is 
+                shorter;'';
+                    (S) in paragraph (26)--
+                          (i) by inserting ``and in accordance with 
+                      confidentiality concerns,'' after ``maximum extent 
+                      practicable,''; and
+                          (ii) by striking the semicolon at the end and 
+                      inserting the following: ``, so as to provide 
+                      for--
+                    ``(A) <<NOTE: Data.>>  data in child abuse or 
+                neglect reports relating to juveniles entering the 
+                juvenile justice system with a prior reported history of 
+                arrest, court intake, probation and parole, juvenile 
+                detention, and corrections; and
+                    ``(B) <<NOTE: Plan.>>  a plan to use the data 
+                described in subparagraph (A) to provide necessary 
+                services for the treatment of such victims of child 
+                abuse or neglect;'';
+                    (T) in paragraph (27), as so redesignated, by 
+                striking the period at the end and inserting a 
+                semicolon; and
+                    (U) by adding at the end the following:
+            ``(28) provide for the coordinated use of funds provided 
+        under this title with other Federal and State funds directed at 
+        juvenile delinquency prevention and intervention programs;
+            ``(29) describe the policies, procedures, and training in 
+        effect for the staff of juvenile State correctional facilities 
+        to eliminate the use of dangerous practices, unreasonable 
+        restraints, and unreasonable isolation, including by developing 
+        effective behavior management techniques;
+            ``(30) describe--
+                    ``(A) the evidence-based methods that will be used 
+                to conduct mental health and substance abuse screening, 
+                assessment, referral, and treatment for juveniles who--
+                          ``(i) request a screening;
+                          ``(ii) show signs of needing a screening; or
+                          ``(iii) are held for a period of more than 24 
+                      hours in a secure facility that provides for an 
+                      initial screening; and
+                    ``(B) how the State will seek, to the extent 
+                practicable, to provide or arrange for mental health and 
+                substance abuse disorder treatment for juveniles 
+                determined to be in need of such treatment;
+            ``(31) describe how reentry planning by the State for 
+        juveniles will include--
+
+[[Page 132 STAT. 5139]]
+
+                    ``(A) a written case plan based on an assessment of 
+                needs that includes--
+                          ``(i) the pre-release and post-release plans 
+                      for the juveniles;
+                          ``(ii) the living arrangement to which the 
+                      juveniles are to be discharged; and
+                          ``(iii) any other plans developed for the 
+                      juveniles based on an individualized assessment; 
+                      and
+                    ``(B) review processes;
+            ``(32) provide an assurance that the agency of the State 
+        receiving funds under this title collaborates with the State 
+        educational agency receiving assistance under part A of title I 
+        of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 
+        6311 et seq.) to develop and implement a plan to ensure that, in 
+        order to support educational progress--
+                    ``(A) the student records of adjudicated juveniles, 
+                including electronic records if available, are 
+                transferred in a timely manner from the educational 
+                program in the juvenile detention or secure treatment 
+                facility to the educational or training program into 
+                which the juveniles will enroll;
+                    ``(B) the credits of adjudicated juveniles are 
+                transferred; and
+                    ``(C) adjudicated juveniles receive full or partial 
+                credit toward high school graduation for secondary 
+                school coursework satisfactorily completed before and 
+                during the period of time during which the juveniles are 
+                held in custody, regardless of the local educational 
+                agency or entity from which the credits were earned; and
+            ``(33) describe policies and procedures to--
+                    ``(A) screen for, identify, and document in records 
+                of the State the identification of victims of domestic 
+                human trafficking, or those at risk of such trafficking, 
+                upon intake; and
+                    ``(B) divert youth described in subparagraph (A) to 
+                appropriate programs or services, to the extent 
+                practicable.'';
+                    (2) by amending subsection (c) to read as follows:
+
+    ``(c)(1) If a State fails to comply with any of the core 
+requirements in any fiscal year, then--
+            ``(A) subject to subparagraph (B), the amount allocated to 
+        such State under section 222 for the subsequent fiscal year 
+        shall be reduced by not less than 20 percent for each core 
+        requirement with respect to which the failure occurs; and
+            ``(B) the State shall be ineligible to receive any 
+        allocation under such section for such fiscal year unless--
+                    ``(i) the State agrees to expend 50 percent of the 
+                amount allocated to the State for such fiscal year to 
+                achieve compliance with any such core requirement with 
+                respect to which the State is in noncompliance; or
+                    ``(ii) <<NOTE: Determination.>> the Administrator 
+                determines that the State--
+                          ``(I) has achieved substantial compliance with 
+                      such applicable requirements with respect to which 
+                      the State was not in compliance; and
+                          ``(II) has made, through appropriate executive 
+                      or legislative action, an unequivocal commitment 
+                      to
+
+[[Page 132 STAT. 5140]]
+
+                      achieving full compliance with such applicable 
+                      requirements within a reasonable time.
+
+    ``(2) Of the total amount of funds not allocated for a fiscal year 
+under paragraph (1)--
+            ``(A) 50 percent of the unallocated funds shall be 
+        reallocated under section 222 to States that have not failed to 
+        comply with the core requirements; and
+            ``(B) 50 percent of the unallocated funds shall be used by 
+        the Administrator to provide additional training and technical 
+        assistance to States for the purpose of promoting compliance 
+        with the core requirements.'';
+            (3) in subsection (d)--
+                    (A) by striking ``described in paragraphs (11), 
+                (12), (13), and (22) of subsection (a)'' and inserting 
+                ``described in the core requirements''; and
+                    (B) by striking ``the requirements under paragraphs 
+                (11), (12), (13), and (22) of subsection (a)'' and 
+                inserting ``the core requirements'';
+            (4) in subsection (f)(2)--
+                    (A) by striking subparagraph (A); and
+                    (B) by redesignating subparagraphs (B) through (E) 
+                as subparagraphs (A) through (D), respectively; and
+            (5) by adding at the end the following:
+
+    ``(g) Compliance Determination.--
+            ``(1) In general.--For each fiscal year, the Administrator 
+        shall make a determination regarding whether each State 
+        receiving a grant under this title is in compliance or out of 
+        compliance with respect to each of the core requirements.
+            ``(2) Reporting.--The Administrator shall--
+                    ``(A) <<NOTE: Public information.>>  issue an annual 
+                public report--
+                          ``(i) <<NOTE: Summary.>>  describing any 
+                      determination described in paragraph (1) made 
+                      during the previous year, including a summary of 
+                      the information on which the determination is 
+                      based and the actions to be taken by the 
+                      Administrator (including a description of any 
+                      reduction imposed under subsection (c)); and
+                          ``(ii) for any such determination that a State 
+                      is out of compliance with any of the core 
+                      requirements, describing the basis for the 
+                      determination; and
+                    ``(B) <<NOTE: Web posting.>>  make the report 
+                described in subparagraph (A) available on a publicly 
+                available website.
+            ``(3) Determinations required.--The Administrator may not--
+                    ``(A) determine that a State is `not out of 
+                compliance', or issue any other determination not 
+                described in paragraph (1), with respect to any core 
+                requirement; or
+                    ``(B) otherwise fail to make the compliance 
+                determinations required under paragraph (1).''.
+SEC. 206. REPEAL OF JUVENILE DELINQUENCY PREVENTION BLOCK GRANT 
+                        PROGRAM.
+
+    Part C of title II of the Juvenile Justice and Delinquency 
+Prevention Act of 1974 (34 U.S.C. 11141 et seq.) is repealed.
+SEC. 207. RESEARCH AND EVALUATION; STATISTICAL ANALYSES; 
+                        INFORMATION DISSEMINATION.
+
+    Section 251 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11161) is amended--
+
+[[Page 132 STAT. 5141]]
+
+            (1) in subsection (a)--
+                    (A) in paragraph (1)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by striking ``may'' and inserting ``shall'';
+                          (ii) in subparagraph (A), by striking ``plan 
+                      and identify'' and inserting ``annually publish a 
+                      plan to identify''; and
+                          (iii) in subparagraph (B)--
+                                    (I) by striking clause (iii) and 
+                                inserting the following:
+                    ``(iii) successful efforts to prevent status 
+                offenders and first-time minor offenders from subsequent 
+                involvement with the juvenile justice and criminal 
+                justice systems;'';
+                                    (II) by striking clause (vii) and 
+                                inserting the following:
+                    ``(vii) the prevalence and duration of behavioral 
+                health needs (including mental health, substance abuse, 
+                and co-occurring disorders) among juveniles pre-
+                placement and post-placement in the juvenile justice 
+                system, including an examination of the effects of 
+                secure detention in a correctional facility;'';
+                                    (III) by redesignating clauses (ix), 
+                                (x), and (xi) as clauses (xvi), (xvii), 
+                                and (xviii), respectively; and
+                                    (IV) by inserting after clause 
+                                (viii) the following:
+                    ``(ix) training efforts and reforms that have 
+                produced reductions in or elimination of the use of 
+                dangerous practices;
+                    ``(x) methods to improve the recruitment, selection, 
+                training, and retention of professional personnel who 
+                are focused on the prevention, identification, and 
+                treatment of delinquency;
+                    ``(xi) methods to improve the identification and 
+                response to victims of domestic child sex trafficking 
+                within the juvenile justice system;
+                    ``(xii) identifying positive outcome measures, such 
+                as attainment of employment and educational degrees, 
+                that States and units of local government should use to 
+                evaluate the success of programs aimed at reducing 
+                recidivism of youth who have come in contact with the 
+                juvenile justice system or criminal justice system;
+                    ``(xiii) evaluating the impact and outcomes of the 
+                prosecution and sentencing of juveniles as adults;
+                    ``(xiv) successful and cost-effective efforts by 
+                States and units of local government to reduce 
+                recidivism through policies that provide for 
+                consideration of appropriate alternative sanctions to 
+                incarceration of youth facing nonviolent charges, while 
+                ensuring that public safety is preserved;''; and
+                    (B) in paragraph (4)--
+                          (i) in the matter preceding subparagraph (A)--
+                                    (I) by striking ``date of enactment 
+                                of this paragraph, the'' and inserting 
+                                ``date of enactment of the Juvenile 
+                                Justice Reform Act of 2018, the''; and
+
+[[Page 132 STAT. 5142]]
+
+                                    (II) by inserting ``in accordance 
+                                with applicable confidentiality 
+                                requirements'' after ``wards of the 
+                                State''; and
+                          (ii) in subparagraph (D), by inserting ``and 
+                      Indian Tribes'' after ``State'';
+                          (iii) in subparagraph (F), by striking ``and'' 
+                      at the end;
+                          (iv) in subparagraph (G), by striking the 
+                      period at the end and inserting a semicolon; and
+                          (v) by adding at the end the following:
+            ``(H) a description of the best practices in discharge 
+        planning; and
+            ``(I) an assessment of living arrangements for juveniles 
+        who, upon release from confinement in a State correctional 
+        facility, cannot return to the residence they occupied prior to 
+        such confinement.'';
+            (2) in subsection (b), in the matter preceding paragraph 
+        (1), by striking ``may'' and inserting ``shall''; and
+            (3) by adding at the end the following:
+
+    ``(f) National Recidivism Measure <<NOTE: Consultation. Data.>> .--
+The Administrator, in accordance with applicable confidentiality 
+requirements and in consultation with experts in the field of juvenile 
+justice research, recidivism, and data collection, shall--
+            ``(1) establish a uniform method of data collection and 
+        technology that States may use to evaluate data on juvenile 
+        recidivism on an annual basis;
+            ``(2) establish a common national juvenile recidivism 
+        measurement system; and
+            ``(3) <<NOTE: Public information.>>  make cumulative 
+        juvenile recidivism data that is collected from States available 
+        to the public.''.
+SEC. 208. TRAINING AND TECHNICAL ASSISTANCE.
+
+    Section 252 of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11162) is amended--
+            (1) in subsection (a)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``may'';
+                    (B) in paragraph (1)--
+                          (i) by inserting ``shall'' before ``develop 
+                      and carry out projects''; and
+                          (ii) by striking ``and'' after the semicolon;
+                    (C) in paragraph (2)--
+                          (i) by inserting ``may'' before ``make grants 
+                      to and contracts with''; and
+                          (ii) by striking the period at the end and 
+                      inserting ``; and''; and
+                    (D) by adding at the end the following:
+            ``(3) shall provide periodic training for States regarding 
+        implementation of the core requirements, current protocols and 
+        best practices for achieving and monitoring compliance, and 
+        information sharing regarding relevant Office resources on 
+        evidence-based and promising programs or practices that promote 
+        the purposes of this Act.'';
+            (2) in subsection (b)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``may'';
+                    (B) in paragraph (1)--
+
+[[Page 132 STAT. 5143]]
+
+                          (i) by inserting ``shall'' before ``develop 
+                      and implement projects'';
+                          (ii) by inserting ``, including compliance 
+                      with the core requirements'' after ``this title''; 
+                      and
+                          (iii) by striking ``and'' at the end;
+                    (C) in paragraph (2)--
+                          (i) by inserting ``may'' before ``make grants 
+                      to and contracts with''; and
+                          (ii) by striking the period at the end and 
+                      inserting a semicolon; and
+                    (D) by adding at the end the following:
+            ``(3) shall provide technical assistance to States and units 
+        of local government on achieving compliance with the amendments 
+        to the core requirements and State Plans made by the Juvenile 
+        Justice Reform Act of 2018, including training and technical 
+        assistance and, when appropriate, pilot or demonstration 
+        projects intended to develop and replicate best practices for 
+        achieving sight and sound separation in facilities or portions 
+        of facilities that are open and available to the general public 
+        and that may or may not contain a jail or a lock-up; and
+            ``(4) shall provide technical assistance to States in 
+        support of efforts to establish partnerships between a State and 
+        a university, institution of higher education, or research 
+        center designed to improve the recruitment, selection, training, 
+        and retention of professional personnel in the fields of 
+        medicine, law enforcement, the judiciary, juvenile justice, 
+        social work and child protection, education, and other relevant 
+        fields who are engaged in, or intend to work in, the field of 
+        prevention, identification, and treatment of delinquency.'';
+            (3) in subsection (c)--
+                    (A) by inserting ``prosecutors,'' after ``public 
+                defenders,''; and
+                    (B) by inserting ``status offenders and'' after 
+                ``needs of''; and
+            (4) by adding at the end the following:
+
+    ``(d) Best Practices Regarding Legal Representation of Children.-- 
+<<NOTE: Consultation.>> In consultation with experts in the field of 
+juvenile defense, the Administrator shall--
+            ``(1) share best practices that may include sharing 
+        standards of practice developed by recognized entities in the 
+        profession, for attorneys representing children; and
+            ``(2) provide a State, if it so requests, technical 
+        assistance to implement any of the best practices shared under 
+        paragraph (1).
+
+    ``(e) Best Practices for Status Offenders.--Based on the available 
+research and State practices, the Administrator shall--
+            ``(1) disseminate best practices for the treatment of status 
+        offenders with a focus on reduced recidivism, improved long-term 
+        outcomes, and limited usage of valid court orders to place 
+        status offenders in secure detention; and
+            ``(2) provide a State, on request, technical assistance to 
+        implement any of the best practices shared under paragraph (1).
+
+    ``(f) Training and Technical Assistance for Local and State Juvenile 
+Detention and Corrections Personnel.--The Administrator shall coordinate 
+training and technical assistance
+
+[[Page 132 STAT. 5144]]
+
+programs with juvenile detention and corrections personnel of States and 
+units of local government--
+            ``(1) to promote methods for improving conditions of 
+        juvenile confinement, including methods that are designed to 
+        minimize the use of dangerous practices, unreasonable 
+        restraints, and isolation and methods responsive to cultural 
+        differences; and
+            ``(2) to encourage alternative behavior management 
+        techniques based on positive youth development approaches that 
+        may include methods responsive to cultural differences.
+
+    ``(g) Training and Technical Assistance To Support Mental Health or 
+Substance Abuse Treatment Including Home-Based or Community-Based 
+Care.--The Administrator shall provide training and technical 
+assistance, in conjunction with the appropriate public agencies, to 
+individuals involved in making decisions regarding the disposition and 
+management of cases for youth who enter the juvenile justice system 
+about the appropriate services and placement for youth with mental 
+health or substance abuse needs, including--
+            ``(1) juvenile justice intake personnel;
+            ``(2) probation officers;
+            ``(3) juvenile court judges and court services personnel;
+            ``(4) prosecutors and court-appointed counsel; and
+            ``(5) family members of juveniles and family advocates.
+
+    ``(h) Training and Technical Assistance to Support Juvenile Court 
+Judges and Personnel.-- <<NOTE: Consultation. Grants. Contracts.>> The 
+Attorney General, acting through the Office of Juvenile Justice and 
+Delinquency Prevention and the Office of Justice Programs in 
+consultation with entities in the profession, shall provide directly, or 
+through grants or contracts, training and technical assistance to 
+enhance the capacity of State and local courts, judges, and related 
+judicial personnel to--
+            ``(1) improve the lives of children currently involved in or 
+        at risk of being involved in the juvenile court system; and
+            ``(2) carry out the requirements of this Act.
+
+    ``(i) Free and Reduced Price School Lunches for Incarcerated 
+Juveniles.-- <<NOTE: Consultation. Guidance.>> The Attorney General, in 
+consultation with the Secretary of Agriculture, shall provide guidance 
+to States relating to existing options for school food authorities in 
+the States to apply for reimbursement for free or reduced price lunches 
+under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 
+et seq.) for juveniles who are incarcerated and would, if not 
+incarcerated, be eligible for free or reduced price lunches under that 
+Act.''.
+SEC. 209. ADMINISTRATIVE AUTHORITY.
+
+    Section 299A of the Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11182) is amended--
+            (1) in subsection (d)--
+                    (A) by inserting ``(1)'' before ``The 
+                Administrator'';
+                    (B) by striking ``, after appropriate consultation 
+                with representatives of States and units of local 
+                government,'';
+                    (C) by inserting ``guidance,'' after 
+                ``regulations,''; and
+                    (D) <<NOTE: Guidance. Procedures. Consultation.>>  
+                by adding at the end the following: ``In developing 
+                guidance and procedures, the Administrator shall consult 
+                with representatives of States and units of local 
+                government, including those individuals responsible for 
+                administration of this Act and compliance with the core 
+                requirements.
+
+[[Page 132 STAT. 5145]]
+
+    ``(2) The Administrator shall ensure that--
+            ``(A) reporting, compliance reporting, State plan 
+        requirements, and other similar documentation as may be required 
+        from States is requested in a manner that respects 
+        confidentiality, encourages efficiency and reduces the 
+        duplication of reporting efforts; and
+            ``(B) States meeting all the core requirements are 
+        encouraged to experiment with offering innovative, data-driven 
+        programs designed to further improve the juvenile justice 
+        system.''; and
+            (2) in subsection (e), by striking ``requirements described 
+        in paragraphs (11), (12), and (13) of section 223(a)'' and 
+        inserting ``core requirements''.
+
+TITLE III--INCENTIVE GRANTS FOR PRISON REDUCTION THROUGH OPPORTUNITIES, 
+             MENTORING, INTERVENTION, SUPPORT, AND EDUCATION
+
+SEC. 301. <<NOTE: 34 USC 10101 note.>>  SHORT TITLE.
+
+    Section 501 of the Incentive Grants for Local Delinquency Prevention 
+Programs Act of 2002 (34 U.S.C. 11101 note) is amended--
+            (1) by inserting ``Youth Promise'' before ``Grants''; and
+            (2) by striking ``2002'' and inserting ``2018''.
+SEC. 302. DEFINITIONS.
+
+    Section 502 of the Incentive Grants for Local Delinquency Prevention 
+Programs Act of 2002 (34 U.S.C. 11281) is amended to read as follows:
+``SEC. 502. DEFINITIONS.
+
+    ``In this title--
+            ``(1) the term `at-risk' has the meaning given that term in 
+        section 1432 of the Elementary and Secondary Education Act of 
+        1965 (20 U.S.C. 6472);
+            ``(2) the term `eligible entity' means--
+                    ``(A) a unit of local government that is in 
+                compliance with the requirements of part B of title II; 
+                or
+                    ``(B) a nonprofit organization in partnership with a 
+                unit of local government described in subparagraph (A);
+            ``(3) the term `delinquency prevention program' means a 
+        delinquency prevention program that is evidence-based or 
+        promising and that may include--
+                    ``(A) alcohol and substance abuse prevention or 
+                treatment services;
+                    ``(B) tutoring and remedial education, especially in 
+                reading and mathematics;
+                    ``(C) child and adolescent health and mental health 
+                services;
+                    ``(D) recreation services;
+                    ``(E) leadership and youth development activities;
+                    ``(F) the teaching that individuals are and should 
+                be held accountable for their actions;
+
+[[Page 132 STAT. 5146]]
+
+                    ``(G) assistance in the development of job training 
+                skills;
+                    ``(H) youth mentoring programs;
+                    ``(I) after-school programs;
+                    ``(J) coordination of a continuum of services that 
+                may include--
+                          ``(i) early childhood development services;
+                          ``(ii) voluntary home visiting programs;
+                          ``(iii) nurse-family partnership programs;
+                          ``(iv) parenting skills training;
+                          ``(v) child abuse prevention programs;
+                          ``(vi) family stabilization programs;
+                          ``(vii) child welfare services;
+                          ``(viii) family violence intervention 
+                      programs;
+                          ``(ix) adoption assistance programs;
+                          ``(x) emergency, transitional and permanent 
+                      housing assistance;
+                          ``(xi) job placement and retention training;
+                          ``(xii) summer jobs programs;
+                          ``(xiii) alternative school resources for 
+                      youth who have dropped out of school or 
+                      demonstrate chronic truancy;
+                          ``(xiv) conflict resolution skill training;
+                          ``(xv) restorative justice programs;
+                          ``(xvi) mentoring programs;
+                          ``(xvii) targeted gang prevention, 
+                      intervention and exit services;
+                          ``(xviii) training and education programs for 
+                      pregnant teens and teen parents; and
+                          ``(xix) pre-release, post-release, and reentry 
+                      services to assist detained and incarcerated youth 
+                      with transitioning back into and reentering the 
+                      community; and
+                    ``(K) other data-driven evidence-based or promising 
+                prevention programs;
+            ``(4) the term `local policy board', when used with respect 
+        to an eligible entity, means a policy board that the eligible 
+        entity will engage in the development of the eligible entity's 
+        plan described in section 504(e)(5), and that includes--
+                    ``(A) not fewer than 15 and not more than 21 
+                members; and
+                    ``(B) a balanced representation of--
+                          ``(i) public agencies and private nonprofit 
+                      organizations serving juveniles and their 
+                      families; and
+                          ``(ii) business and industry;
+                    ``(C) at least one representative of the faith 
+                community, one adjudicated youth, and one parent of an 
+                adjudicated youth; and
+                    ``(D) in the case of an eligible entity described in 
+                paragraph (1)(B), a representative of the nonprofit 
+                organization of the eligible entity;
+            ``(5) <<NOTE: Time period.>>  the term `mentoring' means 
+        matching 1 adult with 1 or more youths for the purpose of 
+        providing guidance, support, and encouragement through regularly 
+        scheduled meetings for not less than 9 months;
+
+[[Page 132 STAT. 5147]]
+
+            ``(6) the term `State advisory group' means the advisory 
+        group appointed by the chief executive officer of a State under 
+        a plan described in section 223(a); and
+            ``(7) the term `State entity' means the State agency 
+        designated under section 223(a)(1) or the entity receiving funds 
+        under section 223(d).''.
+SEC. 303. DUTIES AND FUNCTIONS OF THE ADMINISTRATOR.
+
+    Section 503 of the Incentive Grants for Local Delinquency Prevention 
+Programs Act of 2002 (34 U.S.C. 11282) is amended--
+            (1) by striking paragraph (1); and
+            (2) by redesignating paragraphs (2) through (4) as 
+        paragraphs (1) through (3), respectively.
+SEC. 304. GRANTS FOR DELINQUENCY PREVENTION PROGRAMS.
+
+    Section 504 of the Incentive Grants for Local Delinquency Prevention 
+Programs Act of 2002 (34 U.S.C. 11281 et seq.) is amended to read as 
+follows:
+``SEC. 504. GRANTS FOR LOCAL DELINQUENCY PREVENTION PROGRAMS.
+
+    ``(a) Purpose.--The purpose of this section is to enable local 
+communities to address the unmet needs of at-risk or delinquent youth, 
+including through a continuum of delinquency prevention programs for 
+juveniles who have had contact with the juvenile justice system or who 
+are likely to have contact with the juvenile justice system.
+    ``(b) Program Authorized.--The Administrator shall--
+            ``(1) for each fiscal year for which less than $25,000,000 
+        is appropriated under section 506, award grants to not fewer 
+        than 3 State entities, but not more than 5 State entities, that 
+        apply under subsection (c) and meet the requirements of 
+        subsection (d); or
+            ``(2) for each fiscal year for which $25,000,000 or more is 
+        appropriated under section 506, award grants to not fewer than 5 
+        State entities that apply under subsection (c) and meet the 
+        requirements of subsection (d).
+
+    ``(c) State Application.--To be eligible to receive a grant under 
+this section, a State entity shall submit an application to the 
+Administrator that includes the following:
+            ``(1) An assurance the State entity will use--
+                    ``(A) not more than 10 percent of such grant, in the 
+                aggregate--
+                          ``(i) for the costs incurred by the State 
+                      entity to carry out this section, except that not 
+                      more than 3 percent of such grant may be used for 
+                      such costs; and
+                          ``(ii) to provide technical assistance to 
+                      eligible entities receiving a subgrant under 
+                      subsection (e) in carrying out delinquency 
+                      prevention programs under the subgrant; and
+                    ``(B) the remainder of such grant to award subgrants 
+                to eligible entities under subsection (e).
+            ``(2) An assurance that such grant will supplement, and not 
+        supplant, State and local efforts to prevent juvenile 
+        delinquency.
+
+[[Page 132 STAT. 5148]]
+
+            ``(3) An assurance the State entity will evaluate the 
+        capacity of eligible entities receiving a subgrant under 
+        subsection (e) to fulfill the requirements under such 
+        subsection.
+            ``(4) <<NOTE: Consultation.>>  An assurance that such 
+        application was prepared after consultation with, and 
+        participation by, the State advisory group, units of local 
+        government, community-based organizations, and organizations 
+        that carry out programs, projects, or activities to prevent 
+        juvenile delinquency in the local juvenile justice system served 
+        by the State entity.
+
+    ``(d)  Approval of State Applications.--In awarding grants under 
+this section for a fiscal year, the Administrator may not award a grant 
+to a State entity for a fiscal year unless--
+            ``(1)(A) the State that will be served by the State entity 
+        submitted a plan under section 223 for such fiscal year; and
+            ``(B) such plan is approved by the Administrator for such 
+        fiscal year; or
+            ``(2) after finding good cause for a waiver, the 
+        Administrator waives the plan required under subparagraph (A) 
+        for such State for such fiscal year.
+
+    ``(e) Subgrant Program.--
+            ``(1) Program authorized.--
+                    ``(A) In general.--Each State entity receiving a 
+                grant under this section shall award subgrants to 
+                eligible entities in accordance with this subsection.
+                    ``(B) Priority.--In awarding subgrants under this 
+                subsection, the State shall give priority to eligible 
+                entities that demonstrate ability in--
+                          ``(i) plans for service and agency 
+                      coordination and collaboration including the 
+                      collocation of services;
+                          ``(ii) innovative ways to involve the private 
+                      nonprofit and business sector in delinquency 
+                      prevention activities;
+                          ``(iii) developing data-driven prevention 
+                      plans, employing evidence-based prevention 
+                      strategies, and conducting program evaluations to 
+                      determine impact and effectiveness;
+                          ``(iv) identifying under the plan submitted 
+                      under paragraph (5) potential savings and 
+                      efficiencies associated with successful 
+                      implementation of such plan; and
+                          ``(v) describing how such savings and 
+                      efficiencies may be used to carry out delinquency 
+                      prevention programs and be reinvested in the 
+                      continuing implementation of such programs after 
+                      the end of the subgrant period.
+                    ``(C) Subgrant program period and diversity of 
+                projects.--
+                          ``(i) Program period.--A subgrant awarded to 
+                      an eligible entity by a State entity under this 
+                      section shall be for a period of not more than 5 
+                      years, of which the eligible entity--
+                                    ``(I) may use not more than 18 
+                                months for completing the plan submitted 
+                                by the eligible entity under paragraph 
+                                (5); and
+                                    ``(II) shall use the remainder of 
+                                the subgrant period, after planning 
+                                period described in subclause (I), for 
+                                the implementation of such plan.
+
+[[Page 132 STAT. 5149]]
+
+                          ``(ii) Diversity of projects.--In awarding 
+                      subgrants under this subsection, a State entity 
+                      shall ensure, to the extent practicable and 
+                      applicable, that such subgrants are distributed 
+                      throughout different areas, including urban, 
+                      suburban, and rural areas.
+            ``(2) Local application.--An eligible entity that desires a 
+        subgrant under this subsection shall submit an application to 
+        the State entity in the State of the eligible entity, at such 
+        time and in such manner as determined by the State entity, and 
+        that includes--
+                    ``(A) a description of--
+                          ``(i) the local policy board and local 
+                      partners the eligible entity will engage in the 
+                      development of the plan described in paragraph 
+                      (5);
+                          ``(ii) the unmet needs of at-risk or 
+                      delinquent youth in the community;
+                          ``(iii) available resources in the community 
+                      to meet the unmet needs identified in the needs 
+                      assessment described in paragraph (5)(A);
+                          ``(iv) potential costs to the community if the 
+                      unmet needs are not addressed;
+                    ``(B) a specific time period for the planning and 
+                subsequent implementation of its continuum of local 
+                delinquency prevention programs;
+                    ``(C) the steps the eligible entity will take to 
+                implement the plan under subparagraph (A); and
+                    ``(D) a plan to continue the grant activity with 
+                non-Federal funds, if proven successful according to the 
+                performance evaluation process under paragraph (5)(D), 
+                after the grant period.
+            ``(3) Matching requirement.--An eligible entity desiring a 
+        subgrant under this subsection shall agree to provide a 50 
+        percent match of the amount of the subgrant that may include the 
+        value of in-kind contributions.
+            ``(4) Subgrant review.--
+                    ``(A) <<NOTE: Deadline. Time period.>>  Review.--Not 
+                later than the end of the second year of a subgrant 
+                period for a subgrant awarded to an eligible entity 
+                under this subsection and before awarding the remaining 
+                amount of the subgrant to the eligible entity, the State 
+                entity shall--
+                          ``(i) ensure that the eligible entity has 
+                      completed the plan submitted under paragraph (2) 
+                      and that the plan meets the requirements of such 
+                      paragraph; and
+                          ``(ii) <<NOTE: Verification.>>  verify that 
+                      the eligible entity will begin the implementation 
+                      of its plan upon receiving the next installment of 
+                      its subgrant award.
+                    ``(B) Termination.--If the State entity finds 
+                through the review conducted under subparagraph (A) that 
+                the eligible entity has not met the requirements of 
+                clause (i) of such subparagraph, the State entity shall 
+                reallocate the amount remaining on the subgrant of the 
+                eligible entity to other eligible entities receiving a 
+                subgrant under this subsection or award the amount to an 
+                eligible entity during the next subgrant competition 
+                under this subsection.
+            ``(5) Local uses of funds.--An eligible entity that receives 
+        a subgrant under this subsection shall use the funds to 
+        implement a plan to carry out delinquency prevention programs
+
+[[Page 132 STAT. 5150]]
+
+        in the community served by the eligible entity in a coordinated 
+        manner with other delinquency prevention programs or entities 
+        serving such community, which includes--
+                    ``(A) <<NOTE: Analysis.>>  an analysis of the unmet 
+                needs of at-risk or delinquent youth in the community--
+                          ``(i) which shall include--
+                                    ``(I) the available resources in the 
+                                community to meet the unmet needs; and
+                                    ``(II) factors present in the 
+                                community that may contribute to 
+                                delinquency, such as homelessness, food 
+                                insecurity, teen pregnancy, youth 
+                                unemployment, family instability, lack 
+                                of educational opportunity; and
+                          ``(ii) may include an estimate--
+                                    ``(I) for the most recent year for 
+                                which reliable data is available, the 
+                                amount expended by the community and 
+                                other entities for delinquency 
+                                adjudication for juveniles and the 
+                                incarceration of adult offenders for 
+                                offenses committed in such community; 
+                                and
+                                    ``(II) of potential savings and 
+                                efficiencies that may be achieved 
+                                through the implementation of the plan;
+                    ``(B) <<NOTE: Time period. Strategy. Estimate.>>  a 
+                minimum 3-year comprehensive strategy to address the 
+                unmet needs and an estimate of the amount or percentage 
+                of non-Federal funds that are available to carry out the 
+                strategy;
+                    ``(C) a description of how delinquency prevention 
+                programs under the plan will be coordinated;
+                    ``(D) a description of the performance evaluation 
+                process of the delinquency prevention programs to be 
+                implemented under the plan, which shall include 
+                performance measures to assess efforts to address the 
+                unmet needs of youth in the community analyzed under 
+                subparagraph (A);
+                    ``(E) the evidence or promising evaluation on which 
+                such delinquency prevention programs are based; and
+                    ``(F) if such delinquency prevention programs are 
+                proven successful according to the performance 
+                evaluation process under subparagraph (D), a strategy to 
+                continue such programs after the subgrant period with 
+                non-Federal funds, including a description of how any 
+                estimated savings or efficiencies created by the 
+                implementation of the plan may be used to continue such 
+                programs.''.
+SEC. 305. GRANTS FOR TRIBAL DELINQUENCY PREVENTION AND RESPONSE 
+                        PROGRAMS.
+
+    The Incentive Grants for Local Delinquency Prevention Programs Act 
+of 2002 (34 U.S.C. 11281 et seq.) is amended by redesignating section 
+505 <<NOTE: 42 USC 5784.>>  as section 506, and by inserting after 
+section 504 the following:
+``SEC. 505. <<NOTE: 34 USC 11314.>>  GRANTS FOR TRIBAL DELINQUENCY 
+                        PREVENTION AND RESPONSE PROGRAMS.
+
+    ``(a) In General.--The Administrator shall make grants under this 
+section, on a competitive basis, to eligible Indian Tribes (or consortia 
+of Indian Tribes) as described in subsection (b)--
+            ``(1) to support and enhance--
+
+[[Page 132 STAT. 5151]]
+
+                    ``(A) tribal juvenile delinquency prevention 
+                services; and
+                    ``(B) the ability of Indian Tribes to respond to, 
+                and care for, at-risk or delinquent youth upon release; 
+                and
+            ``(2) to encourage accountability of Indian tribal 
+        governments with respect to preventing juvenile delinquency, and 
+        responding to, and caring for, juvenile offenders.
+
+    ``(b) Eligible Indian Tribes.--To be eligible to receive a grant 
+under this section, an Indian Tribe or consortium of Indian Tribes shall 
+submit to the Administrator an application in such form as the 
+Administrator may require.
+    ``(c) Considerations.--In providing grants under this section, the 
+Administrator shall take into consideration, with respect to the Indian 
+Tribe to be served, the--
+            ``(1) juvenile delinquency rates;
+            ``(2) school dropout rates; and
+            ``(3) number of youth at risk of delinquency.
+
+    ``(d) Availability of Funds.--Of the amount available for a fiscal 
+year to carry out this title, 11 percent shall be available to carry out 
+this section.''.
+SEC. 306. EVALUATION BY GOVERNMENT ACCOUNTABILITY OFFICE.
+
+    (a) <<NOTE: Deadline. Reports.>>  Evaluation.--Not later than 2 
+years after the end of the 5th fiscal year for which funds are 
+appropriated to carry out the Incentive Grants for Local Delinquency 
+Prevention Programs Act of 2002, the Comptroller General of the United 
+States shall conduct an evaluation of a sample of subgrantees selected 
+by the Comptroller General in accordance with subsection (b)) that 
+received funds under section 504(e) of such Act and shall submit a 
+report of such evaluation to the Committee on the Judiciary of the 
+United States Senate and the Committee on Education and the Workforce of 
+the United States House of Representatives.
+
+    (b) Considerations for Evaluation.--For purposes of subsection (a), 
+the Comptroller General shall--
+            (1) ensure that the sample to be evaluated is made up of 
+        subgrantees in States that are diverse geographically and 
+        economically; and
+            (2) include in such sample subgrantees that proposed 
+        different delinquency prevention programs.
+
+    (c) Recommendations and Findings.--In conducting the evaluation 
+required by subsection (a), the Comptroller General shall take into 
+consideration whether--
+            (1) the delinquency prevention programs for which 
+        subgrantees received funds under section 504(e) of Incentive 
+        Grants for Local Delinquency Prevention Programs Act of 2002 
+        achieved the outcomes and results anticipated by the particular 
+        State involved;
+            (2) in the case of outcomes and results of delinquency 
+        prevention programs defined by the State or a local entity, 
+        unanticipated improved outcomes or results for juveniles 
+        occurred;
+            (3) the number of subgrantees that continue after the 
+        expenditure of such funds to provide such delinquency prevention 
+        programs;
+            (4) such delinquency prevention programs replaced existing 
+        or planned programs or activities in the State; and
+
+[[Page 132 STAT. 5152]]
+
+            (5) the evidence-base information used to justify such 
+        delinquency prevention programs was used with fidelity by local 
+        entities in accordance with the approach used to find the 
+        evidence;
+SEC. 307. TECHNICAL AMENDMENT.
+
+    Title V of the Juvenile Justice and Delinquency Prevention Act of 
+1974 as enacted by Public Law 93-415 (88 Stat. 1133) (relating to 
+miscellaneous and conforming amendments) is repealed.
+
+                   TITLE IV--MISCELLANEOUS PROVISIONS
+
+SEC. 401. EVALUATION BY GOVERNMENT ACCOUNTABILITY OFFICE.
+
+    (a) Evaluation <<NOTE: Deadline.>> .--Not later than 1 year after 
+the date of enactment of this Act, the Comptroller General of the United 
+States shall--
+            (1) <<NOTE: Analysis.>>  conduct a comprehensive analysis 
+        and evaluation regarding the performance of the Office of 
+        Juvenile Justice and Delinquency Prevention (referred to in this 
+        section as ``the agency''), its functions, its programs, and its 
+        grants;
+            (2) <<NOTE: Audit.>>  conduct a comprehensive audit and 
+        evaluation of a selected, sample of grantees (as determined by 
+        the Comptroller General) that receive Federal funds under grant 
+        programs administered by the agency including a review of 
+        internal controls (as defined in section 103 of the Juvenile 
+        Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 
+        11103), as amended by this Act) to prevent fraud, waste, and 
+        abuse of funds by grantees; and
+            (3) <<NOTE: Reports.>>  submit a report in accordance with 
+        subsection (d).
+
+    (b) Considerations for Evaluation.--In conducting the analysis and 
+evaluation under subsection (a)(1), and in order to document the 
+efficiency and public benefit of the Juvenile Justice and Delinquency 
+Prevention Act of 1974 (34 U.S.C. 11101 et seq.), the Comptroller 
+General shall take into consideration--
+            (1) the outcome and results of the programs carried out by 
+        the agency and those programs administered through grants by the 
+        agency;
+            (2) the extent to which the agency has complied with the 
+        Government Performance and Results Act of 1993 (Public Law 103-
+        62; 107 Stat. 285);
+            (3) the extent to which the jurisdiction of, and the 
+        programs administered by, the agency duplicate or conflict with 
+        the jurisdiction and programs of other agencies;
+            (4) the potential benefits of consolidating programs 
+        administered by the agency with similar or duplicative programs 
+        of other agencies, and the potential for consolidating those 
+        programs;
+            (5) whether less restrictive or alternative methods exist to 
+        carry out the functions of the agency and whether current 
+        functions or operations are impeded or enhanced by existing 
+        statutes, rules, and procedures;
+            (6) the number and types of beneficiaries or persons served 
+        by programs carried out by the agency;
+
+[[Page 132 STAT. 5153]]
+
+            (7) the manner with which the agency seeks public input and 
+        input from State and local governments on the performance of the 
+        functions of the agency;
+            (8) the extent to which the agency complies with section 552 
+        of title 5, United States Code (commonly known as the Freedom of 
+        Information Act);
+            (9) whether greater oversight is needed of programs 
+        developed with grants made by the agency; and
+            (10) the extent to which changes are necessary in the 
+        authorizing statutes of the agency in order for the functions of 
+        the agency to be performed in a more efficient and effective 
+        manner.
+
+    (c) Considerations for Audits.--In conducting the audit and 
+evaluation under subsection (a)(2), and in order to document the 
+efficiency and public benefit of the Juvenile Justice and Delinquency 
+Prevention Act of 1974 (34 U.S.C. 11101 et seq.), the Comptroller 
+General shall take into consideration--
+            (1) whether grantees timely file Financial Status Reports;
+            (2) whether grantees have sufficient internal controls to 
+        ensure adequate oversight of grant fund received;
+            (3) whether disbursements were accompanied with adequate 
+        supporting documentation (including invoices and receipts);
+            (4) whether expenditures were authorized;
+            (5) whether subrecipients of grant funds were complying with 
+        program requirements;
+            (6) whether salaries and fringe benefits of personnel were 
+        adequately supported by documentation;
+            (7) whether contracts were bid in accordance with program 
+        guidelines; and
+            (8) whether grant funds were spent in accordance with 
+        program goals and guidelines.
+
+    (d) Report.--
+            (1) In general.--Not later than 1 year after the date of 
+        enactment of this Act, the Comptroller General of the United 
+        States shall--
+                    (A) submit a report regarding the evaluation 
+                conducted under subsection (a) and audit under 
+                subsection (b), to the Speaker of the House of 
+                Representatives and the President pro tempore of the 
+                Senate; and
+                    (B) <<NOTE: Public information.>>  make the report 
+                described in subparagraph (A) available to the public.
+            (2) Contents.--The report submitted in accordance with 
+        paragraph (1) shall include all audit findings determined by the 
+        selected, statistically significant sample of grantees as 
+        required by subsection (a)(2) and shall include the name and 
+        location of any selected grantee as well as any findings 
+        required by subsection (a)(2).
+SEC. 402. <<NOTE: 34 USC 11321.>>  AUTHORIZATION OF 
+                        APPROPRIATIONS; ACCOUNTABILITY AND 
+                        OVERSIGHT.
+
+    (a) In General.--The Juvenile Justice and Delinquency Prevention Act 
+of 1974 (34 U.S.C. 11101 et seq.) is amended by adding at the end the 
+following:
+
+[[Page 132 STAT. 5154]]
+
+    ``TITLE VI--AUTHORIZATION OF APPROPRIATIONS; ACCOUNTABILITY AND 
+                                OVERSIGHT
+
+``SEC. 601. <<NOTE: 34 USC 11321.>>  AUTHORIZATION OF 
+                        APPROPRIATIONS.
+
+    ``There are authorized to be appropriated to carry out this Act, 
+except for titles III and IV, $176,000,000 for each of fiscal years 2019 
+through 2023, of which not more than $96,053,401 shall be used to carry 
+out title V for each such fiscal year.
+``SEC. 602. <<NOTE: 34 USC 11322.>>  ACCOUNTABILITY AND OVERSIGHT.
+
+    ``(a) Sense of Congress.--It is the sense of Congress that, in order 
+to ensure that at-risk youth, and youth who come into contact with the 
+juvenile justice system or the criminal justice system, are treated 
+fairly and that the outcome of that contact is beneficial to the 
+Nation--
+            ``(1) the Department of Justice, through its Office of 
+        Juvenile Justice and Delinquency Prevention, must restore 
+        meaningful enforcement of the core requirements in title II; and
+            ``(2) States, which are entrusted with a fiscal stewardship 
+        role if they accept funds under title II must exercise vigilant 
+        oversight to ensure full compliance with the core requirements 
+        for juveniles provided for in title II.
+
+    ``(b) Accountability.--
+            ``(1) Agency program review.--
+                    ``(A) Programmatic and financial assessment.--
+                          ``(i) In 
+                      general <<NOTE: Deadline. Evaluations.>> .--Not 
+                      later than 60 days after the date of enactment of 
+                      the Juvenile Justice Reform Act of 2018, the 
+                      Director of the Office of Audit, Assessment, and 
+                      Management of the Office of Justice Programs at 
+                      the Department of Justice (referred to in this 
+                      section as the `Director') shall--
+                                    ``(I) <<NOTE: Analysis.>>  conduct a 
+                                comprehensive analysis and evaluation of 
+                                the internal controls of the Office of 
+                                Juvenile Justice and Delinquency 
+                                Prevention (referred to in this section 
+                                as the `agency') to determine if States 
+                                and Indian Tribes receiving grants are 
+                                following the requirements of the agency 
+                                grant programs and what remedial action 
+                                the agency has taken to recover any 
+                                grant funds that are expended in 
+                                violation of grant programs, including 
+                                instances where--
+                                            ``(aa) supporting 
+                                        documentation was not provided 
+                                        for cost reports;
+                                            ``(bb) unauthorized 
+                                        expenditures occurred; and
+                                            ``(cc) subrecipients of 
+                                        grant funds were not in 
+                                        compliance with program 
+                                        requirements;
+                                    ``(II) <<NOTE: Audit.>>  conduct a 
+                                comprehensive audit and evaluation of a 
+                                selected statistically significant 
+                                sample of States and Indian Tribes (as 
+                                determined by the Director) that have 
+                                received Federal funds under title II, 
+                                including a review of internal controls 
+                                to prevent fraud, waste, and abuse of 
+                                funds by grantees; and
+
+[[Page 132 STAT. 5155]]
+
+                                    ``(III) <<NOTE: Reports.>>  submit a 
+                                report in accordance with clause (iv).
+                          ``(ii) Considerations for evaluations.--In 
+                      conducting the analysis and evaluation under 
+                      clause (i)(I), and in order to document the 
+                      efficiency and public benefit of titles II and V, 
+                      the Director shall take into consideration the 
+                      extent to which--
+                                    ``(I) greater oversight is needed of 
+                                programs developed with grants made by 
+                                the agency;
+                                    ``(II) changes are necessary in the 
+                                authorizing statutes of the agency in 
+                                order that the functions of the agency 
+                                can be performed in a more efficient and 
+                                effective manner; and
+                                    ``(III) the agency has implemented 
+                                recommendations issued by the 
+                                Comptroller General or Office of 
+                                Inspector General relating to the grant 
+                                making and grant monitoring 
+                                responsibilities of the agency.
+                          ``(iii) Considerations for audits.--In 
+                      conducting the audit and evaluation under clause 
+                      (i)(II), and in order to document the efficiency 
+                      and public benefit of titles II and V, the 
+                      Director shall take into consideration--
+                                    ``(I) whether grantees timely file 
+                                Financial Status Reports;
+                                    ``(II) whether grantees have 
+                                sufficient internal controls to ensure 
+                                adequate oversight of grant funds 
+                                received;
+                                    ``(III) whether grantees' assertions 
+                                of compliance with the core requirements 
+                                were accompanied with adequate 
+                                supporting documentation;
+                                    ``(IV) whether expenditures were 
+                                authorized;
+                                    ``(V) whether subrecipients of grant 
+                                funds were complying with program 
+                                requirements; and
+                                    ``(VI) whether grant funds were 
+                                spent in accordance with the program 
+                                goals and guidelines.
+                          ``(iv) Report.--The Director shall--
+                                    ``(I) submit to the Congress a 
+                                report outlining the results of the 
+                                analysis, evaluation, and audit 
+                                conducted under clause (i), including 
+                                supporting materials, to the Speaker of 
+                                the House of Representatives and the 
+                                President pro tempore of the Senate; and
+                                    ``(II) <<NOTE: Web posting.>>  shall 
+                                make such report available to the public 
+                                online, not later than 1 year after the 
+                                date of enactment of this section.
+                    ``(B) Analysis of internal controls.--
+                          
+                      ``(i) <<NOTE: Deadline. Evaluation. Determination.>> 
+                       In general.--Not later than 30 days after the 
+                      date of enactment of the Juvenile Justice Reform 
+                      Act of 2018, the Administrator shall initiate a 
+                      comprehensive analysis and evaluation of the 
+                      internal controls of the agency to determine 
+                      whether, and to what extent, States and Indian 
+                      Tribes that receive grants under titles II and V 
+                      are following the requirements of the grant 
+                      programs authorized under titles II and V.
+
+[[Page 132 STAT. 5156]]
+
+                          ``(ii) Report.--Not later than 180 days after 
+                      the date of enactment of the Juvenile Justice 
+                      Reform Act of 2018, the Administrator shall submit 
+                      to Congress a report containing--
+                                    ``(I) the findings of the analysis 
+                                and evaluation conducted under clause 
+                                (i);
+                                    ``(II) a description of remedial 
+                                actions, if any, that will be taken by 
+                                the Administrator to enhance the 
+                                internal controls of the agency and 
+                                recoup funds that may have been expended 
+                                in violation of law, regulations, or 
+                                program requirements issued under titles 
+                                II and V; and
+                                    ``(III) a description of--
+                                            ``(aa) the analysis 
+                                        conducted under clause (i);
+                                            ``(bb) whether the funds 
+                                        awarded under titles II and V 
+                                        have been used in accordance 
+                                        with law, regulations, program 
+                                        guidance, and applicable plans; 
+                                        and
+                                            ``(cc) the extent to which 
+                                        funds awarded to States and 
+                                        Indian Tribes under titles II 
+                                        and V enhanced the ability of 
+                                        grantees to fulfill the core 
+                                        requirements.
+                    ``(C) Report by the attorney general.--Not later 
+                than 180 days after the date of enactment of the 
+                Juvenile Justice Reform Act of 2018, the Attorney 
+                General shall submit to the appropriate committees of 
+                the Congress a report on the estimated amount of formula 
+                grant funds disbursed by the agency since fiscal year 
+                2010 that did not meet the requirements for awards of 
+                formula grants to States under title II.
+            ``(2) Office of inspector general performance audits.--
+                    ``(A) In general.--In order to ensure the effective 
+                and appropriate use of grants administered under this 
+                Act (excluding title IV) and to prevent waste, fraud, 
+                and abuse of funds by grantees, the Inspector General of 
+                the Department of Justice shall annually conduct audits 
+                of grantees that receive funds under this Act.
+                    ``(B) <<NOTE: Deadline. Determination.>>  
+                Assessment.--Not later than 1 year after the date of 
+                enactment of the Juvenile Justice Reform Act of 2018 and 
+                annually thereafter, the Inspector General shall conduct 
+                a risk assessment to determine the appropriate number of 
+                grantees to be audited under subparagraph (A) in the 
+                year involved.
+                    ``(C) Public availability on 
+                website <<NOTE: Summary.>> .--The Attorney General shall 
+                make the summary of each review conducted under this 
+                section available on the website of the Department of 
+                Justice, subject to redaction as the Attorney General 
+                determines necessary to protect classified and other 
+                sensitive information.
+                    ``(D) Mandatory exclusion <<NOTE: Time period.>> .--
+                A recipient of grant funds under this Act (excluding 
+                title IV) that is found to have an unresolved audit 
+                finding shall not be eligible to receive grant funds 
+                under this Act (excluding title IV) during the first 2 
+                fiscal years beginning after the 12-month
+
+[[Page 132 STAT. 5157]]
+
+                period beginning on the date on which the audit report 
+                is issued.
+                    ``(E) <<NOTE: Time period.>>  Priority.--In awarding 
+                grants under this Act (excluding title IV), the 
+                Administrator shall give priority to a State or Indian 
+                Tribe that did not have an unresolved audit finding 
+                during the 3 fiscal years prior to the date on which the 
+                State or Indian Tribe submits an application for a grant 
+                under this Act.
+                    ``(F) <<NOTE: Time period.>>  Reimbursement.--If a 
+                State or an Indian Tribe is awarded a grant under this 
+                Act (excluding title IV) during the 2-fiscal-year period 
+                in which the recipient is barred from receiving grants 
+                under subparagraph (D), the Attorney General shall--
+                          ``(i) deposit an amount equal to the amount of 
+                      the grant funds that were improperly awarded to 
+                      the grantee into the general fund of the Treasury; 
+                      and
+                          ``(ii) seek to recoup the costs of the 
+                      repayment to the general fund under clause (i) 
+                      from the grantee that was erroneously awarded 
+                      grant funds.
+                    ``(G) Definition.--In this paragraph, the term 
+                `unresolved audit finding' means a finding in the final 
+                audit report of the Inspector General--
+                          ``(i) that the audited State or Indian Tribe 
+                      has used grant funds for an unauthorized 
+                      expenditure or otherwise unallowable cost; and
+                          ``(ii) that is not closed or resolved during 
+                      the 12-month period beginning on the date on which 
+                      the final audit report is issued.
+            ``(3) Nonprofit organization requirements.--
+                    ``(A) Definition.--For purposes of this paragraph 
+                and the grant programs described in this Act (excluding 
+                title IV), the term `nonprofit organization' means an 
+                organization that is described in section 501(c)(3) of 
+                the Internal Revenue Code of 1986 and is exempt from 
+                taxation under section 501(a) of such Code.
+                    ``(B) Prohibition.--The Administrator may not award 
+                a grant under any grant program described in this Act 
+                (excluding title IV) to a nonprofit organization that 
+                holds money in offshore accounts for the purpose of 
+                avoiding paying the tax described in section 511(a) of 
+                the Internal Revenue Code of 1986.
+                    ``(C) Disclosure.--
+                          ``(i) In general.--Each nonprofit organization 
+                      that is awarded a grant under a grant program 
+                      described in this Act (excluding title IV) and 
+                      uses the procedures prescribed in regulations to 
+                      create a rebuttable presumption of reasonableness 
+                      for the compensation of its officers, directors, 
+                      trustees, and key employees, shall disclose to the 
+                      Administrator, in the application for the grant, 
+                      the process for determining such compensation, 
+                      including--
+                                    ``(I) the independent persons 
+                                involved in reviewing and approving such 
+                                compensation;
+                                    ``(II) the comparability data used; 
+                                and
+                                    ``(III) contemporaneous 
+                                substantiation of the deliberation and 
+                                decision.
+
+[[Page 132 STAT. 5158]]
+
+                          ``(ii) Public inspection upon request.--Upon 
+                      request, the Administrator shall make the 
+                      information disclosed under clause (i) available 
+                      for public inspection.
+            ``(4) Conference expenditures.--
+                    ``(A) Limitation.--No amounts authorized to be 
+                appropriated to the Department of Justice under this Act 
+                may be used by the Attorney General, or by any 
+                individual or organization awarded discretionary funds 
+                through a cooperative agreement under this Act, to host 
+                or support any expenditure for conferences that uses 
+                more than $20,000 in funds made available to the 
+                Department of Justice, unless the Deputy Attorney 
+                General or such Assistant Attorney Generals, Directors, 
+                or principal deputies as the Deputy Attorney General may 
+                designate, provides prior written authorization that the 
+                funds may be expended to host a conference.
+                    ``(B) <<NOTE: Cost estimate.>>  Written approval.--
+                Written approval under subparagraph (A) shall include a 
+                written estimate of all costs associated with the 
+                conference, including the cost of all food and 
+                beverages, audiovisual equipment, honoraria for 
+                speakers, and entertainment.
+                    ``(C) Report.--The Deputy Attorney General shall 
+                submit an annual report to the Committee on the 
+                Judiciary of the Senate and the Committee on Education 
+                and the Workforce of the House of Representatives on all 
+                conference expenditures approved under this paragraph.
+            ``(5) Prohibition on lobbying activity.--
+                    ``(A) In general.--Amounts authorized to be 
+                appropriated under this Act may not be utilized by any 
+                recipient of a grant made using such amounts--
+                          ``(i) to lobby any representative of the 
+                      Department of Justice regarding the award of grant 
+                      funding; or
+                          ``(ii) to lobby any representative of a 
+                      Federal, State, local, or tribal government 
+                      regarding the award of grant funding.
+                    ``(B) <<NOTE: Determination.>>  Penalty.--If the 
+                Attorney General determines that any recipient of a 
+                grant made using amounts authorized to be appropriated 
+                under this Act has violated subparagraph (A), the 
+                Attorney General shall--
+                          ``(i) require the recipient to repay the grant 
+                      in full; and
+                          ``(ii) <<NOTE: Time period.>>  prohibit the 
+                      recipient to receive another grant under this Act 
+                      for not less than 5 years.
+                    ``(C) Clarification.--For purposes of this 
+                paragraph, submitting an application for a grant under 
+                this Act shall not be considered lobbying activity in 
+                violation of subparagraph (A).
+            ``(6) Annual certification <<NOTE: Effective date.>> .--
+        Beginning in the 1st fiscal year that begins after the effective 
+        date of this section, the Attorney General shall submit to the 
+        Committee on the Judiciary and the Committee on Appropriations 
+        of the Senate, and the Committee on Education and the Workforce 
+        and the Committee on Appropriations of the House of 
+        Representatives, an annual certification that--
+
+[[Page 132 STAT. 5159]]
+
+                    ``(A) all audits issued by the Inspector General of 
+                the Department of Justice under paragraph (2) have been 
+                completed and reviewed by the appropriate Assistant 
+                Attorney General or Director;
+                    ``(B) all mandatory exclusions required under 
+                paragraph (2)(D) have been issued;
+                    ``(C) all reimbursements required under paragraph 
+                (2)(F)(i) have been made; and
+                    ``(D) includes a list of any grant recipients 
+                excluded under paragraph (2) during the then preceding 
+                fiscal year.
+
+    ``(c) Preventing Duplicative Grants.--
+            ``(1) In general.--Before the Attorney General awards a 
+        grant to an applicant under this Act, the Attorney General shall 
+        compare potential grant awards with other grants awarded under 
+        this Act to determine if duplicate grant awards are awarded for 
+        the same purpose.
+            ``(2) Report.--If the Attorney General awards duplicate 
+        grants to the same applicant for the same purpose the Attorney 
+        General shall submit to the Committee on the Judiciary of the 
+        Senate and the Committee on Education and the Workforce of the 
+        House of Representatives a report that includes--
+                    ``(A) <<NOTE: Lists.>>  a list of all duplicate 
+                grants awarded, including the total dollar amount of any 
+                duplicate grants awarded; and
+                    ``(B) the reason the Attorney General awarded the 
+                duplicative grant.
+
+    ``(d) Compliance With Auditing Standards.--The Administrator shall 
+comply with the Generally Accepted Government Auditing Standards, 
+published by the General Accountability Office (commonly known as the 
+`Yellow Book'), in the conduct of fiscal, compliance, and programmatic 
+audits of States.''.
+    (b) Authorization of Appropriations.--Section 388(a) of the Juvenile 
+Justice and Delinquency Prevention Act (34 U.S.C. 11280(a)) is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``section 345 and''; and
+                    (B) by striking ``$140,000,000 for fiscal year 2009, 
+                and such sums as may be necessary for fiscal years 2010, 
+                2011, 2012, and 2013'' and inserting ``$127,421,000 for 
+                each of fiscal years 2019 through 2020'';
+            (2) in paragraph (3), by striking subparagraph (B) and 
+        inserting the following:
+                    ``(B) Periodic estimate.--Of the amount authorized 
+                to be appropriated under paragraph (1), such sums as may 
+                be necessary shall be made available to carry out 
+                section 345 for each of fiscal years 2019 through 
+                2020.''; and
+            (3) in paragraph (4), by striking ``fiscal year 2009 and 
+        such sums as may be necessary for fiscal years 2010, 2011, 2012, 
+        and 2013'' and inserting ``each of fiscal years 2019 through 
+        2020''.
+
+[[Page 132 STAT. 5160]]
+
+    (c) Technical and Conforming Amendments.--The Juvenile Justice and 
+Delinquency Prevention Act of 1974 (34 U.S.C. 11101 et seq.) is amended 
+by striking--
+            (1) section 299 <<NOTE: 34 USC 11181.>>  (34 U.S.C. 11171); 
+        and
+            (2) section 505. <<NOTE: 42 USC 5784.>> 
+
+    Approved December 21, 2018.
+
+LEGISLATIVE HISTORY--H.R. 6964:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 164 (2018):
+            Sept. 28, considered and passed House.
+            Dec. 11, considered and passed Senate, amended.
+            Dec. 13, House concurred in Senate amendment.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2018):
+            Dec. 21, Presidential remarks.
+
+                                  
+

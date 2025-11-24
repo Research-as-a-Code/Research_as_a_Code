@@ -1,0 +1,1131 @@
+
+[114th Congress Public Law 287]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 130 STAT. 1463]]
+
+Public Law 114-287
+114th Congress
+
+                                 An Act
+
+
+ 
+ To decrease the deficit by consolidating and selling Federal buildings 
+ and other civilian real property, and for other purposes. <<NOTE: Dec. 
+                       16, 2016 -  [H.R. 4465]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Federal Assets 
+Sale and Transfer Act of 2016. 40 USC 1303 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Federal Assets Sale 
+and Transfer Act of 2016''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+Sec. 3. Definitions.
+Sec. 4. Board.
+Sec. 5. Board meetings.
+Sec. 6. Compensation and travel expenses.
+Sec. 7. Executive Director.
+Sec. 8. Staff.
+Sec. 9. Contracting authority.
+Sec. 10. Termination.
+Sec. 11. Development of recommendations to Board.
+Sec. 12. Board duties.
+Sec. 13. Review by OMB.
+Sec. 14. Implementation of Board recommendations.
+Sec. 15. Authorization of appropriations.
+Sec. 16. Funding.
+Sec. 17. Congressional approval of proposed projects.
+Sec. 18. Preclusion of judicial review.
+Sec. 19. Implementation review by GAO.
+Sec. 20. Agency retention of proceeds.
+Sec. 21. Federal real property database.
+Sec. 22. Streamlining McKinney-Vento Homeless Assistance Act.
+Sec. 23. Additional property.
+Sec. 24. Sale of 12th and Independence.
+Sec. 25. Sale of Cotton Annex.
+
+SEC. 2. PURPOSES.
+
+    The purpose of this Act is to reduce the costs of Federal real 
+estate by--
+            (1) consolidating the footprint of Federal buildings and 
+        facilities;
+            (2) maximizing the utilization rate of Federal buildings and 
+        facilities;
+            (3) reducing the reliance on leased space;
+            (4) selling or redeveloping high value assets that are 
+        underutilized to obtain the highest and best value for the 
+        taxpayer and maximize the return to the taxpayer;
+            (5) reducing the operating and maintenance costs of Federal 
+        civilian real properties;
+
+[[Page 130 STAT. 1464]]
+
+            (6) reducing redundancy, overlap, and costs associated with 
+        field offices;
+            (7) creating incentives for Federal agencies to achieve 
+        greater efficiency in their inventories of civilian real 
+        property;
+            (8) facilitating and expediting the sale or disposal of 
+        unneeded Federal civilian real properties;
+            (9) improving the efficiency of real property transfers for 
+        the provision of services to the homeless; and
+            (10) assisting Federal agencies in achieving the 
+        Government's sustainability goals by reducing excess space, 
+        inventory, and energy consumption, as well as by leveraging new 
+        technologies.
+SEC. 3. DEFINITIONS.
+
+    In <<NOTE: Applicability.>>  this Act, unless otherwise expressly 
+stated, the following definitions apply:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of General Services.
+            (2) Board.--The term ``Board'' means the Public Buildings 
+        Reform Board established by section 4.
+            (3) CERCLA.--The term ``CERCLA'' means the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 1980 
+        (42 U.S.C. 9601 et seq.).
+            (4) Federal agency.--The term ``Federal agency'' means an 
+        executive department or independent establishment in the 
+        executive branch of the Government, and a wholly owned 
+        Government corporation.
+            (5) Federal civilian real property and civilian real 
+        property.--
+                    (A) In general.--The terms ``Federal civilian real 
+                property'' and ``civilian real property'' refer to 
+                Federal real property assets, including public buildings 
+                as defined in section 3301(a) of title 40, United States 
+                Code, occupied and improved grounds, leased space, or 
+                other physical structures under the custody and control 
+                of any Federal agency.
+                    (B) Exclusions.--Subparagraph (A) shall not be 
+                construed as including any of the following types of 
+                property:
+                          (i) Properties that are on military 
+                      installations (including any fort, camp, post, 
+                      naval training station, airfield proving ground, 
+                      military supply depot, military school, or any 
+                      similar facility of the Department of Defense).
+                          (ii) A base, camp, post, station, yard, 
+                      center, or homeport facility for any ship or 
+                      activity under the jurisdiction of the Coast 
+                      Guard.
+                          (iii) Properties that are excluded for reasons 
+                      of national security by the Director of the Office 
+                      of Management and Budget.
+                          (iv) Properties that are excepted from the 
+                      definition of the term ``property'' under section 
+                      102 of title 40, United States Code.
+                          (v) Indian and Native Alaskan properties, 
+                      including--
+                                    (I) any property within the limits 
+                                of an Indian reservation to which the 
+                                United States owns title for the benefit 
+                                of an Indian tribe; and
+
+[[Page 130 STAT. 1465]]
+
+                                    (II) any property title that is held 
+                                in trust by the United States for the 
+                                benefit of an Indian tribe or individual 
+                                or held by an Indian tribe or individual 
+                                subject to restriction by the United 
+                                States against alienation.
+                          (vi) Properties operated and maintained by the 
+                      Tennessee Valley Authority pursuant to the 
+                      Tennessee Valley Authority Act of 1933 (16 U.S.C. 
+                      831 et seq.).
+                          (vii) Postal properties owned by the United 
+                      States Postal Service.
+                          (viii) Properties used in connection with 
+                      Federal programs for agricultural, recreational, 
+                      or conservation purposes, including research in 
+                      connection with the programs.
+                          (ix) Properties used in connection with river, 
+                      harbor, flood control, reclamation, or power 
+                      projects.
+                          (x) Properties located outside the United 
+                      States operated or maintained by the Department of 
+                      State or the United States Agency for 
+                      International Development.
+            (6) Field office.--The term ``field office'' means any 
+        Federal office that is not the headquarters office location for 
+        the Federal agency.
+            (7) HUD.--The term ``HUD'' means the Department of Housing 
+        and Urban Development.
+            (8) OMB.--The term ``OMB'' means the Office of Management 
+        and Budget.
+            (9) Value of transactions.--The term ``value of 
+        transactions'' means the sum of the estimated proceeds and 
+        estimated costs, based on the accounting system developed or 
+        identified under section 12(e), associated with the transactions 
+        included in Board recommendations.
+SEC. 4. BOARD.
+
+    (a) Establishment.--There is established an independent board to be 
+known as the Public Buildings Reform Board.
+    (b) Duties.--The Board shall carry out the duties as specified in 
+this Act.
+    (c) <<NOTE: President.>>  Membership.--
+            (1) In general.--The Board shall be composed of a 
+        Chairperson appointed by the President, by and with the advice 
+        and consent of the Senate, and six members appointed by the 
+        President.
+            (2) <<NOTE: Consultation.>>  Appointments.--In selecting 
+        individuals for appointments to the Board, the President shall 
+        consult with--
+                    (A) the Speaker of the House of Representatives 
+                concerning the appointment of two members;
+                    (B) the majority leader of the Senate concerning the 
+                appointment of two members;
+                    (C) the minority leader of the House of 
+                Representatives concerning the appointment of one 
+                member; and
+                    (D) the minority leader of the Senate concerning the 
+                appointment of one member.
+            (3) Terms.--The term for each member of the Board shall be 6 
+        years.
+            (4) Vacancies.--Vacancies shall be filled in the same manner 
+        as the original appointment.
+
+[[Page 130 STAT. 1466]]
+
+            (5) Qualifications.--In selecting individuals for 
+        appointment to the Board, the President shall ensure that the 
+        Board contains individuals with expertise representative of the 
+        following:
+                    (A) Commercial real estate and redevelopment.
+                    (B) Space optimization and utilization.
+                    (C) Community development, including transportation 
+                and planning.
+SEC. 5. BOARD MEETINGS.
+
+    (a) <<NOTE: Public information.>>  Open Meetings.--Each meeting of 
+the Board, other than meetings in which classified information is to be 
+discussed, shall be open to the public. <<NOTE: Federal Register, 
+publication. Web posting. Deadline.>>  Any open meeting shall be 
+announced in the Federal Register and the Federal Web site established 
+by the Board at least 14 calendar days in advance of a meeting. For all 
+public meetings, the Board shall release an agenda and a listing of 
+materials relevant to the topics to be discussed.
+
+    (b) Quorum and Meetings.--Five Board members shall constitute a 
+quorum for the purposes of conducting business and three or more Board 
+members shall constitute a meeting of the Board.
+    (c) Transparency of Information.--All the proceedings, information, 
+and deliberations of the Board shall be open, upon request, to the 
+Chairperson and ranking minority party member, and their respective 
+subcommittee Chairperson and subcommittee ranking minority party member, 
+of--
+            (1) the Committee on Transportation and Infrastructure of 
+        the House of Representatives;
+            (2) the Committee on Oversight and Government Reform of the 
+        House of Representatives;
+            (3) the Committee on Homeland Security and Governmental 
+        Affairs of the Senate;
+            (4) the Committee on Environment and Public Works of the 
+        Senate; and
+            (5) the Committees on Appropriations of the House of 
+        Representatives and the Senate.
+
+    (d) Government Accountability Office.--All proceedings, information, 
+and deliberations of the Board shall be open, upon request, to the 
+Comptroller General of the United States.
+SEC. 6. COMPENSATION AND TRAVEL EXPENSES.
+
+    (a) Compensation.--
+            (1) Rate of pay for members.--Each member, other than the 
+        Chairperson, shall be paid at a rate equal to the daily 
+        equivalent of the minimum annual rate of basic pay payable for 
+        level IV of the Executive Schedule under section 5315 of title 
+        5, United States Code, for each day (including travel time) 
+        during which the member is engaged in the actual performance of 
+        duties vested in the Board.
+            (2) Rate of pay for chairperson.--The Chairperson shall be 
+        paid for each day referred to in paragraph (1) at a rate equal 
+        to the daily equivalent of the minimum annual rate of basic pay 
+        payable for level III of the Executive Schedule under section 
+        5314 of title 5, United States Code.
+
+    (b) Travel.--Members shall receive travel expenses, including per 
+diem in lieu of subsistence, in accordance with sections 5702 and 5703 
+of title 5, United States Code.
+
+[[Page 130 STAT. 1467]]
+
+SEC. 7. EXECUTIVE DIRECTOR.
+
+    (a) Appointment.--The Board shall appoint an Executive Director, who 
+may be appointed without regard to the provisions of title 5, United 
+States Code, governing appointments in the competitive service.
+    (b) Rate of Pay.--The Executive Director shall be paid at the rate 
+of basic pay payable for level IV of the Executive Schedule under 
+section 5315 of title 5, United States Code.
+SEC. 8. STAFF.
+
+    (a) Additional Personnel.--Subject to subsection (b), the Executive 
+Director may request additional personnel detailed from Federal 
+agencies.
+    (b) Requests for Detail Employees.--Upon request of the Executive 
+Director and approval of the Board and the Director of OMB, the head of 
+any Federal agency shall detail the requested personnel of that agency 
+to the Board to assist the Board in carrying out its duties under this 
+Act.
+    (c) Qualifications.--Appointments shall be made with consideration 
+of a balance of expertise consistent with the qualifications of 
+representatives described in section 4(c)(5).
+SEC. 9. CONTRACTING AUTHORITY.
+
+    (a) Experts and Consultants.--The Board, to the extent practicable 
+and subject to appropriations Acts, shall use contracts, including 
+nonappropriated contracts, entered into by the Administrator for 
+services necessary to carry out the duties of the Board.
+    (b) <<NOTE: Consultation.>>  Office Space.--The Administrator, in 
+consultation with the Board, shall identify and provide, without charge, 
+suitable office space within the existing Federal space inventory to 
+house the operations of the Board.
+
+    (c) Personal Property.--The Board shall use personal property 
+already in the custody and control of the Administrator.
+SEC. 10. <<NOTE: Time period.>>  TERMINATION.
+
+    The Board shall cease operations and terminate 6 years after the 
+date of enactment of this Act.
+SEC. 11. DEVELOPMENT OF RECOMMENDATIONS TO BOARD.
+
+    (a) Submissions of Agency Information and Recommendations.-- 
+<<NOTE: Deadlines.>> Not later than 120 days after the date of enactment 
+of this Act, and not later than 120 days after the first day of each 
+fiscal year thereafter until the termination of the Board, the head of 
+each Federal agency shall submit to the Administrator and the Director 
+of OMB the following:
+            (1) Current data.--Current data of all Federal civilian real 
+        properties owned, leased, or controlled by the agency, including 
+        all relevant information prescribed by the Administrator and the 
+        Director of OMB, including data related to the age and condition 
+        of the property, operating costs, history of capital 
+        expenditures, sustainability metrics, number of Federal 
+        employees and functions housed in the respective property, and 
+        square footage (including gross, rentable, and usable).
+            (2) Agency recommendations.--Recommendations of the agency 
+        on the following:
+                    (A) Federal civilian real properties that can be 
+                sold for proceeds or otherwise disposed of, reported as 
+                excess, declared surplus, outleased, or otherwise no 
+                longer meeting
+
+[[Page 130 STAT. 1468]]
+
+                the needs of the agency, excluding leasebacks or other 
+                such exchange agreements where the property continues to 
+                be used by the agency.
+                    (B) Federal civilian real properties that can be 
+                transferred, exchanged, consolidated, co-located, 
+                reconfigured, or redeveloped, so as to reduce the 
+                civilian real property inventory, reduce the operating 
+                costs of the Government, and create the highest value 
+                and return for the taxpayer.
+                    (C) Operational efficiencies that the Government can 
+                realize in its operation and maintenance of Federal 
+                civilian real properties.
+
+    (b) Standards and Criteria.--
+            (1) <<NOTE: Deadline. Consultation.>>  Development of 
+        standards and criteria.--Not later than 60 days after the 
+        deadline for submissions of agency recommendations under 
+        subsection (a), the Director of OMB, in consultation with the 
+        Administrator, shall--
+                    (A) <<NOTE: Review.>>  review the agency 
+                recommendations;
+                    (B) develop consistent standards and criteria 
+                against which the agency recommendations will be 
+                reviewed; and
+                    (C) submit to the Board the recommendations 
+                developed pursuant to paragraph (2).
+            (2) Recommendations to board.--The Director of OMB and the 
+        Administrator shall jointly develop recommendations to the Board 
+        based on the standards and criteria developed under paragraph 
+        (1).
+            (3) <<NOTE: Consultation.>>  Factors.--In developing the 
+        standards and criteria under paragraph (1), the Director of OMB, 
+        in consultation with the Administrator, shall incorporate the 
+        following factors:
+                    (A) The extent to which the civilian real property 
+                could be sold (including property that is no longer 
+                meeting the needs of the Government), redeveloped, 
+                outleased, or otherwise used to produce the highest and 
+                best value and return for the taxpayer.
+                    (B) The extent to which the operating and 
+                maintenance costs are reduced through consolidating, co-
+                locating, and reconfiguring space, and through realizing 
+                other operational efficiencies.
+                    (C) The extent to which the utilization rate is 
+                being maximized and is consistent with non-governmental 
+                industry standards for the given function or operation.
+                    (D) The extent and timing of potential costs and 
+                savings, including the number of years, beginning with 
+                the date of completion of the proposed recommendation.
+                    (E) The extent to which reliance on leasing for 
+                long-term space needs is reduced.
+                    (F) The extent to which a civilian real property 
+                aligns with the current mission of the Federal agency.
+                    (G) The extent to which there are opportunities to 
+                consolidate similar operations across multiple agencies 
+                or within agencies.
+                    (H) The economic impact on existing communities in 
+                the vicinity of the civilian real property.
+                    (I) The extent to which energy consumption is 
+                reduced.
+                    (J) The extent to which public access to agency 
+                services is maintained or enhanced.
+
+    (c) Special Rule for Utilization Rates.-- 
+<<NOTE: Applicability.>> Standards developed by the Director of OMB 
+pursuant to subsection (b) shall
+
+[[Page 130 STAT. 1469]]
+
+incorporate and apply clear standard utilization rates to the extent 
+that such standard rates increase efficiency and provide performance 
+data. The utilization rates shall be consistent throughout each 
+applicable category of space and with nongovernment space utilization 
+rates. To the extent the space utilization rate of a given agency 
+exceeds the utilization rates to be applied under this subsection, the 
+Director of OMB may recommend realignment, co-location, consolidation, 
+or other type of action to improve space utilization.
+
+    (d) Submission to Board.--
+            (1) In general.--The Director of OMB shall submit the 
+        standards, criteria, and recommendations developed pursuant to 
+        subsection (b) to the Board with all supporting information, 
+        data, analyses, and documentation.
+            (2) <<NOTE: Federal Register, publication.>>  Publication.--
+        The standards, criteria, and recommendations developed pursuant 
+        to subsection (b) shall be published in the Federal Register and 
+        transmitted to the committees listed in section 5(c) and to the 
+        Comptroller General of the United States.
+            (3) Access to information.--The Board shall also have access 
+        to all information pertaining to the recommendations developed 
+        pursuant to subsection (b), including supporting information, 
+        data, analyses, and documentation submitted pursuant to 
+        subsection (a). Upon request, a Federal agency shall provide to 
+        the Board any additional information pertaining to the civilian 
+        real properties under the custody, control, or administrative 
+        jurisdiction of the Federal agency. <<NOTE: Notification.>>  The 
+        Board shall notify the committees listed in section 5(c) of any 
+        failure by an agency to comply with a request of the Board.
+SEC. 12. BOARD DUTIES.
+
+    (a) Identification of Property Reduction Opportunities.--The Board 
+shall identify opportunities for the Government to reduce significantly 
+its inventory of civilian real property and reduce costs to the 
+Government.
+    (b) Identification of High Value Assets.--
+            (1) <<NOTE: Deadline.>>  Identification of certain 
+        properties.--Not later than 180 days after Board members are 
+        appointed pursuant to section 4, the Board shall--
+                    (A) identify not fewer than five Federal civilian 
+                real properties that are not on the list of surplus or 
+                excess as of such date with a total fair market value of 
+                not less than $500,000,000 and not more than 
+                $750,000,000; and
+                    (B) transmit the list of the Federal civilian real 
+                properties to the Director of OMB and Congress as Board 
+                recommendations and subject to the approval process 
+                described in section 13.
+            (2) Information and data.--In order to meet the goal 
+        established under paragraph (1), each Federal agency shall 
+        provide, upon request, any and all information and data 
+        regarding its civilian real properties to the 
+        Board. <<NOTE: Notification.>>  The Board shall notify the 
+        committees listed in section 5(c) of any failure by an agency to 
+        comply with a request of the Board.
+            (3) Factors.--In identifying properties pursuant to 
+        paragraph (1), the Board shall consider the factors listed in 
+        section 11(b)(3).
+
+[[Page 130 STAT. 1470]]
+
+            (4) Leaseback restrictions.--None of the existing 
+        improvements on properties sold under this subsection may be 
+        leased back to the Government.
+            (5) Report of excess.--Not later than 60 days after the 
+        approval of Board recommendations pursuant to paragraph (1), 
+        Federal agencies with custody, control, or administrative 
+        jurisdiction over the identified properties shall submit a 
+        Report of Excess to the General Services Administration.
+            (6) <<NOTE: Deadlines.>>  Sale.--
+                    (A) Initiation of sale.--Not later than 120 days 
+                after the acceptance by the Administrator of the Report 
+                of Excess and notwithstanding any other provision of law 
+                (including section 501 of the McKinney-Vento Homeless 
+                Assistance Act (42 U.S.C. 11411), but except as provided 
+                in section 14(g)), the General Services Administration 
+                shall initiate the sale of the civilian real properties 
+                described in paragraph (1).
+                    (B) <<NOTE: Determination.>>  Completion of sale.--
+                Not later than 1 year after the acceptance of the Report 
+                of Excess, the Administrator shall sell the civilian 
+                real properties at fair market value at highest and best 
+                use, unless the Director of OMB determines it is in the 
+                financial interest of the Government to execute a sale 
+                more than a year after the acceptance of the Report of 
+                Excess, but not greater than 2 years after the 
+                acceptance of the Report of Excess.
+
+    (c) <<NOTE: Recommenda- tions.>>  Analysis of Inventory.--The Board 
+shall perform an independent analysis of the inventory of Federal 
+civilian real property and the recommendations submitted pursuant to 
+section 11. The Board shall not be bound or limited by the 
+recommendations submitted pursuant to section 11. If, in the opinion of 
+the Board, an agency fails to provide needed information, data, or 
+adequate recommendations that meet the standards and criteria, the Board 
+shall develop such recommendations as the Board considers appropriate 
+based on existing data contained in the Federal Real Property Profile or 
+other relevant information.
+
+    (d) Information and Proposals.--
+            (1) Receipt.--Notwithstanding any other provision of law, 
+        the Board may receive and consider proposals, information, and 
+        other data submitted by State and local officials and the 
+        private sector.
+            (2) Consultation.--The Board shall consult with State and 
+        local officials on information, proposals, and other data that 
+        the officials submit to the Board.
+            (3) Availability.--Information submitted to the Board shall 
+        be made publicly available.
+
+    (e) <<NOTE: Deadline. Evaluation.>>  Accounting System.--Not later 
+than 120 days after the date of enactment of this Act, the Board shall 
+identify or develop and implement a system of accounting to be used to 
+independently evaluate the costs of and returns on the 
+recommendations. <<NOTE: Applicability. Recommenda- 
+tions. Determination.>>  Such accounting system shall be applied in 
+developing the Board's recommendations and determining the highest 
+return to the taxpayer. In <<NOTE: Time period.>>  applying the 
+accounting system, the Board shall set a standard performance period of 
+not less than 15 years.
+
+    (f) Public Hearing.--The Board shall conduct public hearings. All 
+testimony before the Board at a public hearing under this subsection 
+shall be presented under oath.
+    (g) Reporting of Information and Recommendations.--
+
+[[Page 130 STAT. 1471]]
+
+            (1) <<NOTE: Web posting.>>  In general.--Subject to the 
+        schedule and limitations specified in paragraph (2), the Board 
+        shall transmit to the Director of OMB, and publicly post on a 
+        Federal Web site maintained by the Board, reports containing the 
+        Board's findings, conclusions, and recommendations for--
+                    (A) the consolidation, exchange, co-location, 
+                reconfiguration, lease reductions, sale, outlease, and 
+                redevelopment of Federal civilian real properties; and
+                    (B) other operational efficiencies that can be 
+                realized in the Government's operation and maintenance 
+                of such properties.
+            (2) <<NOTE: Deadlines.>>  Schedule and limitations.--
+                    (A) First round.--Not later than 2 years after the 
+                date of transmittal of the list of properties 
+                recommended pursuant to subsection (b), the Board shall 
+                transmit to the Director of OMB the first report 
+                required under paragraph (1). The total value of 
+                transactions contained in the first report may not 
+                exceed $2,500,000,000.
+                    (B) Second round.--Not earlier than 3 years after 
+                the date of transmittal of the first report, the Board 
+                shall transmit to the Director of OMB the second report 
+                required under paragraph (1). The total value of 
+                transactions contained in the second report may not 
+                exceed $4,750,000,000.
+            (3) Consensus in majority.--The Board shall seek to develop 
+        consensus recommendations, but if a consensus cannot be 
+        obtained, the Board may include in the reports required under 
+        this subsection recommendations that are supported by a majority 
+        of the Board.
+
+    (h) <<NOTE: Public information.>>  Federal Web Site.--The Board 
+shall establish and maintain a Federal Web site for the purposes of 
+making relevant information publicly available.
+
+    (i) Review by GAO.--The Comptroller General of the United States 
+shall transmit to Congress and the Board a report containing a detailed 
+analysis of the recommendations and selection process.
+SEC. 13. REVIEW BY OMB.
+
+    (a) Review of Recommendations.--Upon receipt of the Board's 
+recommendations pursuant to subsections (b) and (g) of section 12, the 
+Director of OMB shall conduct a review of the recommendations.
+    (b) Report to Board and Congress.--Not later than 30 days after the 
+receipt of the Board's recommendations, the Director of OMB shall 
+transmit to the Board and Congress a report that sets forth the Director 
+of OMB's approval or disapproval of the Board's recommendations.
+    (c) Approval and Disapproval.--
+            (1) <<NOTE: Records. Certification.>>  Approval.--If the 
+        Director of OMB approves the Board's recommendations, the 
+        Director of OMB shall transmit a copy of the recommendations to 
+        Congress, together with a certification of such approval.
+            (2) <<NOTE: Records.>>  Disapproval.--If the Director of OMB 
+        disapproves the Board's recommendations, in whole or in part, 
+        the Director of OMB shall transmit a copy of the recommendations 
+        to Congress and the reasons for disapproval of the 
+        recommendations to the Board and Congress.
+            (3) <<NOTE: Deadline.>>  Revised recommendations.--Not later 
+        than 30 days after the receipt of reasons for disapproval under 
+        paragraph
+
+[[Page 130 STAT. 1472]]
+
+        (2), the Board shall transmit to the Director of OMB revised 
+        recommendations for approval.
+            (4) <<NOTE: Certification.>>  Approval of revised 
+        recommendations.--If the Director of OMB approves the revised 
+        recommendations received under paragraph (3), the Director of 
+        OMB shall transmit a copy of the revised recommendations to 
+        Congress, together with a certification of such approval.
+
+    (d) Termination of Process for Given Round.--If the Director of OMB 
+does not transmit to Congress an approval and certification described in 
+paragraph (1) or (4) of subsection (c) on or before the 30th day 
+following the receipt of the Board's recommendations or revised 
+recommendations, as the case may be, the process shall terminate until 
+the following round, as described in section 12.
+SEC. 14. IMPLEMENTATION OF BOARD RECOMMENDATIONS.
+
+    (a) Deadlines.--
+            (1) Preparation.--Federal agencies shall--
+                    (A) not later than 60 days after the Director of OMB 
+                transmits the Board's recommendations to Congress 
+                pursuant to paragraph (1) or (4) of section 13(c), 
+                immediately begin preparations to carry out the Board's 
+                recommendations; and
+                    (B) not later than 2 years after such transmittal, 
+                initiate all activities necessary to carry out the 
+                Board's recommendations.
+            (2) Completion.--Not later than 6 years after the Director 
+        of OMB transmits the Board's recommendations to Congress 
+        pursuant to paragraph (1) or (4) of section 13(c), Federal 
+        agencies shall complete all recommended actions. All actions 
+        shall be economically beneficial, cost neutral, or otherwise 
+        favorable to the Government.
+            (3) Extenuating circumstances.--For actions that will take 
+        longer than the 6-year period described in paragraph (2) due to 
+        extenuating circumstances, Federal agencies shall notify the 
+        Director of OMB and Congress, as soon as the extenuating 
+        circumstance presents itself, with an estimated time to complete 
+        the relevant action.
+
+    (b) Actions of Federal Agencies Related to Civilian Real 
+Properties.--In taking actions related to any civilian real property 
+under this Act, Federal agencies may take, pursuant to subsection (c), 
+all such necessary and proper actions, including--
+            (1) acquiring land, constructing replacement facilities, 
+        performing such other activities, and conducting advance 
+        planning and design as may be required to transfer functions 
+        from a Federal asset or property to another Federal civilian 
+        property;
+            (2) reimbursing other Federal agencies for actions performed 
+        at the request of the Board; and
+            (3) taking such actions as are practicable to maximize the 
+        value of Federal civilian real property to be sold by clarifying 
+        zoning and other limitations on use of such property.
+
+    (c) Actions of Federal Agencies To Implement Board 
+Recommendations.--
+            (1) Use of existing legal authorities.--
+                    (A) In general.--Except as provided in paragraph 
+                (2), when acting on a recommendation of the Board, a 
+                Federal agency shall--
+
+[[Page 130 STAT. 1473]]
+
+                          (i) <<NOTE: Consultation.>>  in consultation 
+                      with the Administrator, continue to act within the 
+                      Federal agency's existing legal authorities, 
+                      including legal authorities delegated to the 
+                      Federal agency by the Administrator; or
+                          (ii) <<NOTE: Partnership.>>  work in 
+                      partnership with the Administrator to carry out 
+                      such actions.
+                    (B) Necessary and proper actions.--The Administrator 
+                may take such necessary and proper actions, including 
+                the sale, conveyance, or exchange of civilian real 
+                property, as required to implement the Board's 
+                recommendations in the time period required under 
+                subsection (a).
+            (2) Experts.--A Federal agency may enter into no cost, 
+        nonappropriated contracts for expert commercial real estate 
+        services to carry out the Federal agency's responsibilities 
+        pursuant to the recommendations.
+
+    (d) Discretion of Administrator Regarding Transactions.--For any 
+transaction identified, recommended, or commenced as a result of this 
+Act, any otherwise required legal priority given to, or requirement to 
+enter into, a transaction to convey a Federal civilian real property for 
+less than fair market value, for no consideration at all, or in a 
+transaction that mandates the exclusion of other market participants, 
+shall be at the discretion of the Administrator.
+    (e) Relationship to Other Laws.--Any recommendation or commencement 
+of a sale, disposal, consolidation, reconfiguration, co-location, or 
+realignment of civilian real property under this Act shall not be 
+subject to--
+            (1) section 545(b)(8) of title 40, United States Code;
+            (2) sections 550, 553, and 554 of title 40, United States 
+        Code;
+            (3) any section of the Act entitled ``An Act Authorizing the 
+        transfer of certain real property for wildlife, or other 
+        purposes'' (16 U.S.C. 667b);
+            (4) section 47151 of title 49, United States Code;
+            (5) sections 107 and 317 of title 23, United States Code;
+            (6) section 1304(b) of title 40, United States Code;
+            (7) section 13(d) of the Surplus Property Act of 1944 (50 
+        U.S.C. App. 1622(d));
+            (8) any other provision of law authorizing the conveyance of 
+        real property owned by the Government for no consideration; and
+            (9) any congressional notification requirement other than 
+        that in section 545 of title 40, United States Code.
+
+    (f) Public Benefit.--
+            (1) Submission of information to hud.--The Director of OMB 
+        shall submit to the Secretary of HUD, on the same day the 
+        Director of OMB submits the Board's recommendations to Congress 
+        pursuant to paragraphs (1) and (4) of section 13(c), all known 
+        information on Federal civilian real properties that are 
+        included in the recommendations (except those recommended under 
+        section 12(b)).
+            (2) HUD to report to board.--Not later than 30 days after 
+        the submission of information on Federal properties under 
+        paragraph (1), the Secretary shall identify any suitable 
+        civilian real properties for use as a property benefiting the 
+        mission of assistance to the homeless for the purposes of 
+        further
+
+[[Page 130 STAT. 1474]]
+
+        screening pursuant to section 501 of the McKinney-Vento Homeless 
+        Assistance Act (42 U.S.C. 11411).
+            (3) <<NOTE: Determination.>>  Additional authority.--
+        Following the review under paragraph (2), with respect to a 
+        civilian real property that is not identified by the Secretary 
+        as suitable for use as a property benefiting the mission of 
+        assistance to the homeless and that has been recommended for 
+        sale by the Board, the Director of OMB may exclude the property 
+        from the Board's recommendations if the Director determines that 
+        the property is suitable for use as a public park or recreation 
+        area by a State or local government and it is in the best 
+        interest of taxpayers.
+
+    (g) Environmental Considerations.--
+            (1) Transfers of real property.--
+                    (A) In general.--When implementing the recommended 
+                actions for civilian real properties that have been 
+                identified in the Board's report, as specified in 
+                section 12(g), and subject to paragraph (2) and in 
+                compliance with CERCLA, including section 120(h) of 
+                CERCLA (42 U.S.C. 9620(h)), Federal agencies may enter 
+                into an agreement to transfer by deed, pursuant to 
+                section 120(h)(3) of that Act (42 U.S.C. 9620(h)(3)), 
+                civilian real property with any person.
+                    (B) Additional terms and conditions.--The head of 
+                the disposing agency may require any additional terms 
+                and conditions in connection with an agreement 
+                authorized by subparagraph (A) as the head of the 
+                disposing agency considers appropriate to protect the 
+                interests of the United States. Such additional terms 
+                and conditions shall not affect or diminish any rights 
+                or obligations of the Federal agencies under section 
+                120(h) of CERCLA (including, without limitation, the 
+                requirements of subsections (h)(3)(A) and (h)(3)(C)(iv) 
+                of that section).
+            (2) Certification concerning costs.--A transfer of Federal 
+        civilian real property may be made under paragraph (1) only if 
+        the head of the disposing agency certifies to the Board and 
+        Congress that--
+                    (A) the costs of all environmental restoration, 
+                waste management, and environmental compliance 
+                activities otherwise to be paid by the disposing agency 
+                with respect to the property are equal to or greater 
+                than the fair market value of the property to be 
+                transferred, as determined by the head of the disposing 
+                agency; or
+                    (B) if such costs are lower than the fair market 
+                value of the property, the recipient of the property 
+                agrees to pay the difference between the fair market 
+                value and such costs.
+            (3) Payments to recipients.--In the case of a civilian real 
+        property covered by a certification under paragraph (2)(A), the 
+        disposing agency may pay the recipient of such property an 
+        amount equal to the lesser of--
+                    (A) the amount by which the costs incurred by the 
+                recipient of such property for all environmental 
+                restoration, waste management, and environmental 
+                compliance activities with respect to such property 
+                exceed the fair market value of such property as 
+                specified in such certification; or
+
+[[Page 130 STAT. 1475]]
+
+                    (B) the amount by which the costs (as determined by 
+                the head of the disposing agency) that would otherwise 
+                have been incurred by the Secretary for such 
+                restoration, waste management, and environmental 
+                compliance activities with respect to such property 
+                exceed the fair market value of such property as so 
+                specified.
+            (4) Information to be provided to recipients.--As part of an 
+        agreement under paragraph (1), the head of the disposing agency 
+        shall disclose, in accordance with applicable law, to the person 
+        to whom the civilian real property will be transferred 
+        information possessed by the disposing agency regarding the 
+        environmental restoration, waste management, and environmental 
+        compliance activities that relate to the property. The head of 
+        the disposing agency shall provide such information before 
+        entering into the agreement.
+            (5) Consideration of environmental remediation in granting 
+        time extensions.--For the purposes of granting time extensions 
+        under subsection (a), the Director of OMB shall give the need 
+        for significant environmental remediation to a civilian real 
+        property more weight than any other factor in determining 
+        whether to grant an extension to implement a Board 
+        recommendation.
+            (6) Limitation on statutory construction.--Nothing in this 
+        Act may be construed to modify, alter, or amend CERCLA, the 
+        National Environmental Policy Act of 1969, or the Solid Waste 
+        Disposal Act (42 U.S.C. 6901 et seq.).
+SEC. 15. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated to carry out this Act an 
+initial appropriation of--
+            (1) $2,000,000 for salaries and expenses of the Board; and
+            (2) $40,000,000 to be deposited into the Asset Proceeds and 
+        Space Management Fund for activities related to the 
+        implementation of the Board's recommendations.
+SEC. 16. FUNDING.
+
+    (a) Salaries and Expenses Account.--
+            (1) Establishment.--There is established in the Treasury of 
+        the United States an account to be known as the ``Public 
+        Buildings Reform Board Salaries and Expenses Account'' (in this 
+        subsection referred to as the ``Account'').
+            (2) Necessary payments.--There shall be deposited into the 
+        Account such amounts, as are provided in appropriations Acts, 
+        for those necessary payments for salaries and expenses to 
+        accomplish the administrative needs of the Board.
+
+    (b) Asset Proceeds and Space Management Fund.--
+            (1) Establishment.--There is established within the Federal 
+        Buildings Fund established under section 592 of title 40, United 
+        States Code, an account to be known as the Public Buildings 
+        Reform Board--Asset Proceeds and Space Management Fund (in this 
+        subsection referred to as the ``Fund'').
+            (2) Use of amounts.--Amounts in the Fund shall be used 
+        solely for the purposes of carrying out actions pursuant to the 
+        Board recommendations approved under section 13.
+            (3) Deposits.--The following amounts shall be deposited into 
+        the Fund and made available for obligation or expenditure only 
+        as provided in advance in appropriations Acts (subject to 
+        section 3307 of title 40, United States Code, to the extent
+
+[[Page 130 STAT. 1476]]
+
+        an appropriation normally covered by that section exceeds 
+        $20,000,000) for the purposes specified:
+                    (A) Such amounts as are provided in appropriations 
+                Acts, to remain available until expended, for the 
+                consolidation, co-location, exchange, redevelopment, 
+                reconfiguration of space, disposal, and other actions 
+                recommended by the Board for Federal agencies.
+                    (B) Amounts received from the sale of any civilian 
+                real property action taken pursuant to a recommendation 
+                of the Board.
+            (4) Use of amounts to cover costs.--As provided in 
+        appropriations Acts, amounts in the Fund may be made available 
+        to cover necessary costs associated with implementing the 
+        recommendations pursuant to section 14, including costs 
+        associated with--
+                    (A) sales transactions;
+                    (B) acquiring land, construction, constructing 
+                replacement facilities, and conducting advance planning 
+                and design as may be required to transfer functions from 
+                a Federal asset or property to another Federal civilian 
+                property;
+                    (C) co-location, redevelopment, disposal, and 
+                reconfiguration of space; and
+                    (D) other actions recommended by the Board for 
+                Federal agencies.
+
+    (c) <<NOTE: President. Estimate.>>  Additional Requirement for 
+Budget Contents.--The President shall transmit along with the 
+President's budget submitted pursuant to section 1105 of title 31, 
+United States Code, an estimate of proceeds that are the result of the 
+Board's recommendations and the obligations and expenditures needed to 
+support such recommendations.
+SEC. 17. CONGRESSIONAL APPROVAL OF PROPOSED PROJECTS.
+
+    Section 3307(b) of title 40, United States Code, is amended--
+            (1) by striking ``and'' at the end of paragraph (6);
+            (2) by striking the period at the end of paragraph (7) and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(8) a statement of how the proposed project is consistent 
+        with the standards and criteria developed under section 11(b) of 
+        the Federal Assets Sale and Transfer Act of 2016.''.
+SEC. 18. PRECLUSION OF JUDICIAL REVIEW.
+
+    The following actions shall not be subject to judicial review:
+            (1) Actions taken pursuant to sections 12 and 13.
+            (2) Actions of the Board.
+SEC. 19. IMPLEMENTATION REVIEW BY GAO.
+
+    Upon <<NOTE: Deadline.>>  transmittal of the Board's recommendations 
+from the Director of OMB to Congress under section 13, the Comptroller 
+General of the United States at least annually shall monitor and review 
+the implementation activities of Federal agencies pursuant to section 
+14, and report to Congress any findings and recommendations.
+
+[[Page 130 STAT. 1477]]
+
+SEC. 20. AGENCY RETENTION OF PROCEEDS.
+
+    (a) In General.--Section 571 of title 40, United States Code, is 
+amended by striking subsections (a) and (b) and inserting the following:
+    ``(a) Proceeds From Transfer or Sale of Real Property.--
+            ``(1) Deposit of net proceeds.--Net proceeds described in 
+        subsection (c) shall be deposited into the appropriate real 
+        property account of the agency that had custody and 
+        accountability for the real property at the time the real 
+        property is determined to be excess.
+            ``(2) Expenditure of net proceeds.--The net proceeds 
+        deposited pursuant to paragraph (1) may only be expended, as 
+        authorized in annual appropriations Acts, for activities 
+        described in sections 543 and 545, including paying costs 
+        incurred by the General Services Administration for any 
+        disposal-related activity authorized by this chapter.
+            ``(3) Deficit reduction.--Any net proceeds described in 
+        subsection (c) from the sale, lease, or other disposition of 
+        surplus real property that are not expended <<NOTE: Time 
+        periods.>>  under paragraph (2) shall be used for deficit 
+        reduction. Any net proceeds not obligated within 3 years after 
+        the date of deposit and not expended within 5 years after such 
+        date shall be deposited as miscellaneous receipts in the 
+        Treasury.
+
+    ``(b) Effect on Other Sections.--Nothing in this section is intended 
+to affect section 572(b), 573, or 574.
+    ``(c) Net Proceeds.--The net proceeds described in this subsection 
+are proceeds under this chapter, less expenses of the transfer or 
+disposition as provided in section 572(a), from a--
+            ``(1) transfer of excess real property to a Federal agency 
+        for agency use; or
+            ``(2) sale, lease, or other disposition of surplus real 
+        property.''.
+
+    (b) Effective Date.--The provisions of this section, including the 
+amendments made by this section, shall take effect upon the termination 
+of the Board pursuant to section 10 and shall not apply to proceeds from 
+transactions conducted under section 14.
+SEC. 21. FEDERAL REAL PROPERTY DATABASE.
+
+    (a) <<NOTE: Deadline. Publication.>>  Database Required.--Not later 
+than 1 year after the date of enactment of this section, the 
+Administrator of General Services shall publish a single, comprehensive, 
+and descriptive database of all Federal real property under the custody 
+and control of all executive agencies, other than Federal real property 
+excluded for reasons of national security, in accordance with subsection 
+(b).
+
+    (b) Required Information for Database.--The Administrator shall 
+collect from the head of each executive agency descriptive information, 
+except for classified information, of the nature, use, and extent of the 
+Federal real property of each such agency, including the following:
+            (1) The geographic location of each Federal real property of 
+        each such agency, including the address and description for each 
+        such property.
+            (2) The total size of each Federal real property of each 
+        such agency, including square footage and acreage of each such 
+        property.
+            (3) Whether the Federal real property is currently, or will 
+        in the future be, needed to support agency's mission or 
+        function.
+
+[[Page 130 STAT. 1478]]
+
+            (4) The utilization of each Federal real property for each 
+        such agency, including whether such property is excess, surplus, 
+        underutilized, or unutilized.
+            (5) The number of days each Federal real property is 
+        designated as excess, surplus, underutilized, or unutilized.
+            (6) The annual operating costs of each Federal real 
+        property.
+            (7) The replacement value of each Federal real property.
+
+    (c) Access to Database.--
+            (1) <<NOTE: Consultation.>>  Federal agencies.--The 
+        Administrator, in consultation with the Director of OMB, shall 
+        make the database established and maintained under this section 
+        available to other Federal agencies.
+            (2) <<NOTE: Public information. Website.>>  Public access.--
+        To the extent consistent with national security and procurement 
+        laws, the database shall be accessible by the public at no cost 
+        through the Web site of the General Services Administration.
+
+    (d) Transparency of Database.--To the extent practicable, the 
+Administrator shall ensure that the database--
+            (1) uses an open, machine-readable format;
+            (2) permits users to search and sort Federal real property 
+        data; and
+            (3) includes a means to download a large amount of Federal 
+        real property data and a selection of such data retrieved using 
+        a search.
+
+    (e) Applicability.--Nothing in this section may be construed to 
+require an agency to make available to the public information that is 
+exempt from disclosure pursuant to section 552(b) of title 5, United 
+States Code.
+SEC. 22. STREAMLINING MCKINNEY-VENTO HOMELESS ASSISTANCE ACT.
+
+    Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 
+11411) is amended--
+            (1) in subsection (b)(2)--
+                    (A) by striking ``(2)(A)'' and inserting ``(2)'';
+                    (B) by redesignating clauses (i) and (ii) as 
+                subparagraphs (A) and (B), respectively;
+                    (C) in subparagraph (A) (as so redesignated) by 
+                striking ``and'' at the end;
+                    (D) in subparagraph (B) (as so redesignated) by 
+                striking the period at the end and inserting ``; and''; 
+                and
+                    (E) by adding at the end the following:
+                    ``(C) in the case of surplus property, the provision 
+                of permanent housing with or without supportive services 
+                is an eligible use to assist the homeless under this 
+                section.'';
+            (2) in subsection (c)(1)(A) by striking ``in the Federal 
+        Register'' and inserting ``on the Web site of the Department of 
+        Housing and Urban Development or the General Services 
+        Administration'';
+            (3) in subsection (d)--
+                    (A) in paragraph (1) by striking ``period of 60 
+                days'' and inserting ``period of 30 days'';
+                    (B) in paragraphs (2) and (4) by striking ``60-day 
+                period'' and inserting ``30-day period''; and
+                    (C) <<NOTE: Time period.>>  in paragraph (3) by 
+                adding at the end the following: ``If no such review of 
+                the determination is requested within
+
+[[Page 130 STAT. 1479]]
+
+                the 20-day period, such property will not be included in 
+                subsequent publications unless the landholding agency 
+                makes changes to the property (e.g. improvements) that 
+                may change the unsuitable determination and the 
+                Secretary subsequently determines the property is 
+                suitable.'';
+            (4) in subsection (e)--
+                    (A) in paragraph (2)--
+                          (i) by striking ``(2)'' and inserting 
+                      ``(2)(A)'';
+                          (ii) in subparagraph (A) (as so designated)--
+                                    (I) by striking ``90 days'' and 
+                                inserting ``75 days''; and
+                                    (II) by striking ``a complete 
+                                application'' and inserting ``an initial 
+                                application''; and
+                          (iii) by adding at the end the following:
+
+    ``(B) An initial application shall set forth--
+            ``(i) the services that will be offered;
+            ``(ii) the need for the services; and
+            ``(iii) the experience of the applicant that demonstrates 
+        the ability to provide the services.'';
+                    (B) in paragraph (3) by striking ``25 days after 
+                receipt of a completed application'' and inserting ``10 
+                days after receipt of an initial application''; and
+                    (C) by adding at the end the following:
+
+    ``(4) <<NOTE: Deadline.>>  If the Secretary of Health and Human 
+Services approves an initial application, the applicant has 45 days in 
+which to provide a final application that sets forth a reasonable plan 
+to finance the approved program.
+
+    ``(5) <<NOTE: Deadline. Review.>>  No later than 15 days after 
+receipt of the final application, the Secretary of Health and Human 
+Services shall review, make a final determination, and complete all 
+actions on the final application. <<NOTE: Public 
+information. Records.>>  The Secretary of Health and Human Services 
+shall maintain a public record of all actions taken in response to an 
+application.''; and
+            (5) in subsection (f)(1) by striking ``available by'' and 
+        inserting ``available, at the applicant's discretion, by''.
+SEC. 23. ADDITIONAL PROPERTY.
+
+    Section 549(c)(3)(B)(vii) of title 40, United States Code, is 
+amended to read as follows:
+                          ``(vii) a museum attended by the public, and, 
+                      for purposes of determining whether a museum is 
+                      attended by the public, the Administrator shall 
+                      consider a museum to be public if the nonprofit 
+                      educational or public health institution or 
+                      organization, at minimum, accedes to any request 
+                      submitted for access during business hours;''.
+SEC. 24. SALE OF 12TH AND INDEPENDENCE.
+
+    (a) Definition.--In this section, the term ``property'' means the 
+property located in the District of Columbia, subject to survey and as 
+determined by the Administrator of General Services, generally 
+consisting of Squares 325 and 326 and a portion of Square 351 and 
+generally bounded by 12th Street, Independence Avenue, C Street, and the 
+James Forrestal Building, all in Southwest Washington, District of 
+Columbia, and shall include all associated air rights, improvements 
+thereon, and appurtenances thereto.
+
+[[Page 130 STAT. 1480]]
+
+    (b) <<NOTE: Deadline.>>  Sale.--Not later than December 31, 2018, 
+the Administrator of General Services shall sell the property at fair 
+market value at highest and best use.
+
+    (c) Net Proceeds.--Any net proceeds received shall be paid into an 
+account in the Federal Buildings Fund established under section 592 of 
+title 40, United States Code. Upon deposit, the net proceeds from the 
+sale may be expended only subject to a specific future appropriation.
+SEC. 25. SALE OF COTTON ANNEX.
+
+    (a) Definition.--In this section, the term ``property'' means 
+property located in the District of Columbia, subject to survey and as 
+determined by the Administrator, generally consisting of Square 326 
+south of C Street, all in Southwest Washington, District of Columbia, 
+including the building known as the Cotton Annex.
+    (b) <<NOTE: Deadline.>>  Sale.--Not later than December 31, 2018, 
+the Administrator of General Services shall sell the property at fair 
+market value at highest and best use.
+
+    (c) Net Proceeds.--Any net proceeds received shall be paid into an 
+account in the Federal Buildings Fund established under section 592 of 
+title 40, United States Code. Upon deposit, the net proceeds from the 
+sale may be expended only subject to a specific future appropriation.
+
+    Approved December 16, 2016
+
+LEGISLATIVE HISTORY--H.R. 4465 (S. 2375):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-578, Pt. 1 (Comm. on Transportation and 
+Infrastructure) and Pt. 2 (Comm. on Oversight and Government Reform).
+SENATE REPORTS: No. 114-291 (Comm. on Homeland Security and Governmental 
+Affairs) accompanying S. 2375.
+CONGRESSIONAL RECORD, Vol. 162 (2016):
+            May 23, considered and passed House.
+            Dec. 9, considered and passed Senate.
+
+                                  
+

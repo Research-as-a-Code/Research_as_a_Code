@@ -1,0 +1,1712 @@
+
+[112th Congress Public Law 40]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 125 STAT. 401]]
+
+Public Law 112-40
+112th Congress
+
+                                 An Act
+
+
+ 
+     To extend the Generalized System of Preferences, and for other 
+            purposes. <<NOTE: Oct. 21, 2011 -  [H.R. 2832]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+SECTION 1. EXTENSION OF GENERALIZED SYSTEM OF PREFERENCES.
+
+    (a) Extension.--Section 505 of the Trade Act of 1974 (19 U.S.C. 
+2465) is amended by striking ``December 31, 2010'' and inserting ``July 
+31, 2013''.
+    (b) Effective <<NOTE: 19 USC 2465 note.>>  Date.--
+            (1) In general.--The amendment made by subsection (a) shall 
+        apply to articles entered on or after the 15th day after the 
+        date of the enactment of this Act.
+            (2) Retroactive <<NOTE: Deadlines.>>  application for 
+        certain liquidations and reliquidations.--
+                    (A) In general.--Notwithstanding section 514 of the 
+                Tariff Act of 1930 (19 U.S.C. 1514) or any other 
+                provision of law and subject to subparagraph (B), any 
+                entry of an article to which duty-free treatment or 
+                other preferential treatment under title V of the Trade 
+                Act of 1974 would have applied if the entry had been 
+                made on December 31, 2010, that was made--
+                          (i) after December 31, 2010; and
+                          (ii) before the 15th day after the date of the 
+                      enactment of this Act,
+                shall be liquidated or reliquidated as though such entry 
+                occurred on the 15th day after the date of the enactment 
+                of this Act.
+                    (B) Requests.--A liquidation or reliquidation may be 
+                made under subparagraph (A) with respect to an entry 
+                only if a request therefor is filed with U.S. Customs 
+                and Border Protection not later than 180 days after the 
+                date of the enactment of this Act that contains 
+                sufficient information to enable U.S. Customs and Border 
+                Protection--
+                          (i) to locate the entry; or
+                          (ii) to reconstruct the entry if it cannot be 
+                      located.
+                    (C) Payment of amounts owed.--Any amounts owed by 
+                the United States pursuant to the liquidation or 
+                reliquidation of an entry of an article under 
+                subparagraph (A) shall be paid, without interest, not 
+                later than 90 days after the date of the liquidation or 
+                reliquidation (as the case may be).
+
+[[Page 125 STAT. 402]]
+
+            (3) Definition.--As used in this subsection, the terms 
+        ``enter'' and ``entry'' include a withdrawal from warehouse for 
+        consumption.
+SEC. 2. MERCHANDISE <<NOTE: 19 USC 58c note.>>  PROCESSING FEES.
+
+    For <<NOTE: Time period. Applicability.>>  the period beginning on 
+October 1, 2011, and ending on June 30, 2014, section 13031(a)(9) of the 
+Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 
+58c(a)(9)) shall be applied and administered--
+            (1) in subparagraph (A), by substituting ``0.3464'' for 
+        ``0.21''; and
+            (2) in subparagraph (B)(i), by substituting ``0.3464'' for 
+        ``0.21''.
+
+  TITLE II--TRADE <<NOTE: Trade Adjustment Assistance Extension Act of 
+2011.>>  ADJUSTMENT ASSISTANCE
+SEC. 200. <<NOTE: 19 USC 2101 note.>> SHORT TITLE; TABLE OF 
+                        CONTENTS.
+
+    (a) Short Title.--This title may be cited as the ``Trade Adjustment 
+Assistance Extension Act of 2011''.
+    (b) Table of Contents.--The table of contents for this title is as 
+follows:
+
+                  TITLE II--TRADE ADJUSTMENT ASSISTANCE
+
+Sec. 200. Short title; table of contents.
+
+          Subtitle A--Extension of Trade Adjustment Assistance
+
+     PART I--Application of Provisions Relating to Trade Adjustment 
+                               Assistance
+
+Sec. 201. Application of provisions relating to trade adjustment 
+           assistance.
+
+            PART II--Trade Adjustment Assistance for Workers
+
+Sec. 211. Group eligibility requirements.
+Sec. 212. Reductions in waivers from training.
+Sec. 213. Limitations on trade readjustment allowances.
+Sec. 214. Funding of training, employment and case management services, 
+           and job search and relocation allowances.
+Sec. 215. Reemployment trade adjustment assistance.
+Sec. 216. Program accountability.
+Sec. 217. Extension.
+
+                  PART III--Other Adjustment Assistance
+
+Sec. 221. Trade adjustment assistance for firms.
+Sec. 222. Trade adjustment assistance for communities.
+Sec. 223. Trade adjustment assistance for farmers.
+
+                       PART IV--General Provisions
+
+Sec. 231. Applicability of trade adjustment assistance provisions.
+Sec. 232. Termination provisions.
+Sec. 233. Sunset provisions.
+
+                 Subtitle B--Health Coverage Improvement
+
+Sec. 241. Health care tax credit.
+Sec. 242. TAA pre-certification period rule for purposes of determining 
+           whether there is a 63-day lapse in creditable coverage.
+Sec. 243. Extension of COBRA benefits for certain TAA-eligible 
+           individuals and PBGC recipients.
+
+                           Subtitle C--Offsets
+
+           PART I--Unemployment Compensation Program Integrity
+
+Sec. 251. Mandatory penalty assessment on fraud claims.
+Sec. 252. Prohibition on noncharging due to employer fault.
+
+[[Page 125 STAT. 403]]
+
+Sec. 253. Reporting of rehired employees to the directory of new hires.
+
+                       PART II--Additional Offsets
+
+Sec. 261. Improvements to contracts with Medicare quality improvement 
+           organizations (QIOs) in order to improve the quality of care 
+           furnished to Medicare beneficiaries.
+Sec. 262. Rates for merchandise processing fees.
+Sec. 263. Time for remitting certain merchandise processing fees.
+
+          Subtitle A--Extension of Trade Adjustment Assistance
+
+     PART I--APPLICATION OF PROVISIONS RELATING TO TRADE ADJUSTMENT 
+                               ASSISTANCE
+
+SEC. 201. APPLICATION OF PROVISIONS RELATING TO TRADE ADJUSTMENT 
+                        ASSISTANCE.
+
+    (a) Repeal of Snapback.--Section 1893 of the Trade and Globalization 
+Adjustment Assistance Act of 2009 (Public Law 111-5; 123 Stat. 
+422) <<NOTE: 19 USC 2271 note prec.>> is repealed.
+
+    (b) Applicability <<NOTE: 19 USC 2271 and note prec., 2272-2275, 
+2291-2298, 2311, 2315-2323, 2341, 2343-2352, 2354-2356, 2371-2374, 2393, 
+2395, 2397a, 2401-2401b, 2401e-2401g.>> of Certain Provisions.--Except 
+as otherwise provided in this subtitle, the provisions of chapters 2 
+through 6 of title II of the Trade Act of 1974, as in effect on February 
+12, 2011, and as amended by this subtitle, shall--
+            (1) take effect on the date of the enactment of this Act; 
+        and
+            (2) apply to petitions for certification filed under chapter 
+        2, 3, or 6 of title II of the Trade Act of 1974 on or after such 
+        date of enactment.
+
+    (c) References.--Except <<NOTE: Effective date. 19 USC 2271 and note 
+prec., 2272-2275, 2291-2298, 2311, 2315-2323, 2341, 2343-2352, 2354-
+2356, 2371-2374, 2393, 2395, 2397a, 2401-2401b, 2401e-2401g.>>  as 
+otherwise provided in this subtitle, whenever in this subtitle an 
+amendment or repeal is expressed in terms of an amendment to, or repeal 
+of, a provision of chapters 2 through 6 of title II of the Trade Act of 
+1974, the reference shall be considered to be made to a provision of any 
+such chapter, as in effect on February 12, 2011.
+
+            PART II--TRADE ADJUSTMENT ASSISTANCE FOR WORKERS
+
+SEC. 211. GROUP ELIGIBILITY REQUIREMENTS.
+
+    (a) In General.--Section 222 of the Trade Act of 1974 (19 U.S.C. 
+2272) is amended--
+            (1) by striking subsection (b);
+            (2) by redesignating subsections (c) through (f) as 
+        subsections (b) through (e), respectively;
+            (3) in paragraph (2) of subsection (b), as redesignated, by 
+        striking ``(d)'' and inserting ``(c)'';
+            (4) in subsection (c), as redesignated, by striking 
+        paragraph (5); and
+            (5) in paragraph (2) of subsection (d), as redesignated, by 
+        striking ``, (b), or (c)'' and inserting ``or (b)''.
+
+    (b) Conforming Amendments.--Section 247 of the Trade Act of 1974 (19 
+U.S.C. 2319) is amended--
+            (1) in paragraph (3)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``Subject to section 222(d)(5), the term'' and 
+                inserting ``The term''; and
+
+[[Page 125 STAT. 404]]
+
+                    (B) in subparagraph (A), by striking ``, service 
+                sector firm, or public agency'' and inserting ``or 
+                service sector firm'';
+            (2) by striking paragraph (7); and
+            (3) by redesignating paragraphs (8) through (19) as 
+        paragraphs (7) through (18), respectively.
+SEC. 212. REDUCTIONS IN WAIVERS FROM TRAINING.
+
+    (a) In General.--Section 231(c) of the Trade Act of 1974 (19 U.S.C. 
+2291(c)) is amended--
+            (1) in paragraph (1)--
+                    (A) by striking subparagraphs (A), (B), and (C); and
+                    (B) by redesignating subparagraphs (D), (E), and (F) 
+                as subparagraphs (A), (B), and (C), respectively; and
+            (2) in paragraph (3)(B), by striking ``(D), (E), or (F)'' 
+        and inserting ``or (C)''.
+
+    (b) Good Cause Exception.--Section 234(b) of the Trade Act of 1974 
+(19 U.S.C. 2294(b)) is amended to read as follows:
+    ``(b) Special Rule on Good Cause for Waiver of Time Limits or Late 
+Filing of Claims.--The <<NOTE: Procedures.>> Secretary shall establish 
+procedures and criteria that allow for a waiver for good cause of the 
+time limitations with respect to an application for a trade readjustment 
+allowance or enrollment in training under this chapter.''.
+SEC. 213. LIMITATIONS ON TRADE READJUSTMENT ALLOWANCES.
+
+    Section 233 of the Trade Act of 1974 (19 U.S.C. 2293) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (2), in the matter preceding 
+                subparagraph (A), by striking ``(or'' and all that 
+                follows through ``period)''; and
+                    (B) in paragraph (3)--
+                          (i) in the matter preceding subparagraph (A), 
+                      by striking ``78'' and inserting ``65''; and
+                          (ii) by striking ``91-week period'' each place 
+                      it appears and inserting ``78-week period''; and
+            (2) by amending subsection (f) to read as follows:
+
+    ``(f) Payment of Trade Readjustment Allowances to Complete 
+Training.--Notwithstanding <<NOTE: Time period.>>  any other provision 
+of this section, in order to assist an adversely affected worker to 
+complete training approved for the worker under section 236 that leads 
+to the completion of a degree or industry-recognized credential, 
+payments may be made as trade readjustment allowances for not more than 
+13 weeks within such period of eligibility as the Secretary may 
+prescribe to account for a break in training or for justifiable cause 
+that follows the last week for which the worker is otherwise entitled to 
+a trade readjustment allowance under this chapter if--
+            ``(1) payment of the trade readjustment allowance for not 
+        more than 13 weeks is necessary for the worker to complete the 
+        training;
+            ``(2) the worker participates in training in each such week; 
+        and
+            ``(3) the worker--
+                    ``(A) has substantially met the performance 
+                benchmarks established as part of the training approved 
+                for the worker;
+                    ``(B) is expected to continue to make progress 
+                toward the completion of the training; and
+
+[[Page 125 STAT. 405]]
+
+                    ``(C) will complete the training during that period 
+                of eligibility.''.
+SEC. 214. FUNDING OF TRAINING, EMPLOYMENT AND CASE MANAGEMENT 
+                        SERVICES, AND JOB SEARCH AND RELOCATION 
+                        ALLOWANCES.
+
+    (a) In General.--Section 236(a)(2) of the Trade Act of 1974 (19 
+U.S.C. 2296(a)(2)) is amended--
+            (1) by inserting ``and sections 235, 237, and 238'' after 
+        ``to carry out this section'' each place it appears;
+            (2) in subparagraph (A)--
+                    (A) in the matter preceding clause (i), by striking 
+                ``of payments that may be made under paragraph (1)'' and 
+                inserting ``of funds available to carry out this section 
+                and sections 235, 237, and 238''; and
+                    (B) by striking clauses (i) and (ii) and inserting 
+                the following:
+                    ``(i) $575,000,000 for each of fiscal years 2012 and 
+                2013; and
+                    ``(ii) $143,750,000 for the 3-month period beginning 
+                on October 1, 2013, and ending on December 31, 2013.'';
+            (3) in subparagraph (C)(ii)(V), by striking ``relating to 
+        the provision of training under this section'' and inserting 
+        ``to carry out this section and sections 235, 237, and 238''; 
+        and
+            (4) in subparagraph (E), by striking ``to pay the costs of 
+        training approved under this section'' and inserting ``to carry 
+        out this section and sections 235, 237, and 238''.
+
+    (b) Limitations on Administrative Expenses and Employment and Case 
+Management Services.--
+            (1) In general.--Section 235A of the Trade Act of 1974 (19 
+        U.S.C. 2295a) is amended--
+                    (A) in the section heading, by striking ``funding 
+                for'' and inserting ``limitations on''; and
+                    (B) by striking subsections (a) and (b) and 
+                inserting the following:
+
+    ``Of the funds made available to a State to carry out sections 235 
+through 238 for a fiscal year, the State shall use--
+            ``(1) not more than 10 percent for the administration of the 
+        trade adjustment assistance for workers program under this 
+        chapter, including for--
+                    ``(A) processing waivers of training requirements 
+                under section 231;
+                    ``(B) collecting, validating, and reporting data 
+                required under this chapter; and
+                    ``(C) providing reemployment trade adjustment 
+                assistance under section 246; and
+            ``(2) not less than 5 percent for employment and case 
+        management services under section 235.''.
+            (2) Clerical amendment.--The table of contents for the Trade 
+        Act of 1974 is amended by striking the item relating to section 
+        235A and inserting the following:
+
+``Sec. 235A. Limitations on administrative expenses and employment and 
+           case management services.''.
+
+    (c) Reallotment of Funds.--Section 245 of the Trade Act of 1974 (19 
+U.S.C. 2317) is amended by adding at the end the following:
+    ``(c) Reallotment of Funds.--
+
+[[Page 125 STAT. 406]]
+
+            ``(1) In general.--The Secretary may--
+                    ``(A) reallot funds that were allotted to any State 
+                to carry out sections 235 through 238 and that remain 
+                unobligated by the State during the second or third 
+                fiscal year after the fiscal year in which the funds 
+                were provided to the State; and
+                    ``(B) provide such realloted funds to States to 
+                carry out sections 235 through 238 in accordance with 
+                procedures established by the Secretary.
+            ``(2) Requests by states.--In establishing procedures under 
+        paragraph (1)(B), the Secretary shall include procedures that 
+        provide for the distribution of realloted funds under that 
+        paragraph pursuant to requests submitted by States in need of 
+        such funds.
+            ``(3) Availability of amounts.--The reallotment of funds 
+        under paragraph (1) shall not extend the period for which such 
+        funds are available for expenditure.''.
+
+    (d) Job Search Allowances.--Section 237 of the Trade Act of 1974 (19 
+U.S.C. 2297) is amended--
+            (1) in subsection (a)(1)--
+                    (A) by striking ``An adversely affected worker'' and 
+                inserting ``Each State may use funds made available to 
+                the State to carry out sections 235 through 238 to allow 
+                an adversely affected worker''; and
+                    (B) by striking ``may'' and inserting ``to'';
+            (2) in subsection (b)--
+                    (A) in paragraph (1)--
+                          (i) by striking ``An'' and inserting ``Any''; 
+                      and
+                          (ii) by striking ``all necessary job search 
+                      expenses'' and inserting ``not more than 90 
+                      percent of the necessary job search expenses of 
+                      the worker''; and
+                    (B) in paragraph (2), by striking ``$1,500'' and 
+                inserting ``$1,250''; and
+            (3) in subsection (c), by striking ``the Secretary shall'' 
+        and inserting ``a State may''.
+
+    (e) Relocation Allowances.--Section 238 of the Trade Act of 1974 (19 
+U.S.C. 2298) is amended--
+            (1) in subsection (a)(1)--
+                    (A) by striking ``Any adversely affected worker'' 
+                and inserting ``Each State may use funds made available 
+                to the State to carry out sections 235 through 238 to 
+                allow an adversely affected worker''; and
+                    (B) by striking ``may file'' and inserting ``to 
+                file''; and
+            (2) in subsection (b)--
+                    (A) in the matter preceding paragraph (1)--
+                          (i) by striking ``The'' and inserting ``Any''; 
+                      and
+                          (ii) by striking ``includes'' and inserting 
+                      ``shall include'';
+                    (B) in paragraph (1), by striking ``all'' and 
+                inserting ``not more than 90 percent of the''; and
+                    (C) in paragraph (2), by striking ``$1,500'' and 
+                inserting ``$1,250''.
+
+    (f) Conforming Amendments.--Section 236 of the Trade Act of 1974 (19 
+U.S.C. 2296) is amended--
+            (1) in subsection (b), in the first sentence, by striking 
+        ``approppriate'' and inserting ``appropriate''; and
+
+[[Page 125 STAT. 407]]
+
+            (2) by striking subsection (g) and redesignating subsection 
+        (h) as subsection (g).
+SEC. 215. REEMPLOYMENT TRADE ADJUSTMENT ASSISTANCE.
+
+    (a) In General.--Section 246(a) of the Trade Act of 1974 (19 U.S.C. 
+2318(a)) is amended--
+            (1) in paragraph (3)(B)(ii), by striking ``$55,000'' and 
+        inserting ``$50,000''; and
+            (2) in paragraph (5)--
+                    (A) in subparagraph (A)(i), by striking ``$12,000'' 
+                and inserting ``$10,000''; and
+                    (B) in subparagraph (B)(i), by striking ``$12,000'' 
+                and inserting ``$10,000''.
+
+    (b) Extension.--Section 246(b)(1) of the Trade Act of 1974 (19 
+U.S.C. 2318(b)(1)) is amended by striking ``February 12, 2011'' and 
+inserting ``December 31, 2013''.
+SEC. 216. PROGRAM ACCOUNTABILITY.
+
+    (a) Core Indicators of Performance.--
+            (1) In general.--Section 239(j)(2)(A) of the Trade Act of 
+        1974 (19 U.S.C. 2311(j)(2)(A)) is amended to read as follows:
+                    ``(A) In general.--The core indicators of 
+                performance described in this paragraph are--
+                          ``(i) the percentage of workers receiving 
+                      benefits under this chapter who are employed 
+                      during the first or second calendar quarter 
+                      following the calendar quarter in which the 
+                      workers cease receiving such benefits;
+                          ``(ii) the percentage of such workers who are 
+                      employed during the 2 calendar quarters following 
+                      the earliest calendar quarter during which the 
+                      worker was employed as described in clause (i);
+                          ``(iii) the average earnings of such workers 
+                      who are employed during the 2 calendar quarters 
+                      described in clause (ii); and
+                          ``(iv) the percentage of such workers who 
+                      obtain a recognized postsecondary credential, 
+                      including an industry-recognized credential, or a 
+                      secondary school diploma or its recognized 
+                      equivalent if combined with employment under 
+                      clause (i), while receiving benefits under this 
+                      chapter or during the 1-year period after such 
+                      workers cease receiving such benefits.''.
+            (2) Effective <<NOTE: 19 USC 2311 note.>>  date.--The 
+        amendment made by paragraph (1) shall--
+                    (A) take effect on October 1, 2011; and
+                    (B) apply <<NOTE: Applicability.>> with respect to 
+                agreements under section 239 of the Trade Act of 1974 
+                (19 U.S.C. 2311) entered into before, on, or after 
+                October 1, 2011.
+
+    (b) Collection and Publication of Data.--
+            (1) In general.--Section 249B(b) of the Trade Act of 1974 
+        (19 U.S.C. 2323(b)) is amended--
+                    (A) in paragraph (2)--
+                          (i) in subparagraph (B), by inserting 
+                      ``(including such allowances classified by 
+                      payments under paragraphs (1) and (3) of section 
+                      233(a), and section 233(f), respectively) and 
+                      payments under section 246'' after ``readjustment 
+                      allowances''; and
+                          (ii) by adding at the end the following:
+
+[[Page 125 STAT. 408]]
+
+                    ``(D) The average number of weeks trade readjustment 
+                allowances were paid to workers.
+                    ``(E) The number of workers who report that they 
+                have received benefits under a prior certification 
+                issued under this chapter in any of the 10 fiscal years 
+                preceding the fiscal year for which the data is 
+                collected under this section.'';
+                    (B) in paragraph (3)--
+                          (i) in subparagraph (A), by inserting 
+                      ``training leading to an associate's degree, 
+                      remedial education, prerequisite education,'' 
+                      after ``distance learning,'';
+                          (ii) by amending subparagraph (B) to read as 
+                      follows:
+                    ``(B) The number of workers who complete training 
+                approved under section 236 who were enrolled in pre-
+                layoff training or part-time training at any time during 
+                that training.'';
+                          (iii) in subparagraph (C), by inserting ``, 
+                      and the average duration of training that does not 
+                      include remedial or prerequisite education'' after 
+                      ``training'';
+                          (iv) in subparagraph (E), by striking 
+                      ``duration'' and inserting ``average duration''; 
+                      and
+                          (v) in subparagraph (F), by inserting ``and 
+                      the average duration of the training that was 
+                      completed by such workers'' after ``training''; 
+                      and
+                    (C) in paragraph (4)--
+                          (i) by redesignating subparagraph (B) as 
+                      subparagraph (D); and
+                          (ii) by inserting after subparagraph (A) the 
+                      following:
+                    ``(B) A summary of the data on workers in the 
+                quarterly reports required under section 239(j) 
+                classified by the age, pre-program educational level, 
+                and post-program credential attainment of the workers.
+                    ``(C) The average earnings of workers described in 
+                section 239(j)(2)(A)(i) in the second, third, and fourth 
+                calendar quarters following the calendar quarter in 
+                which such workers cease receiving benefits under this 
+                chapter, expressed as a percentage of the average 
+                earnings of such workers in the 3 calendar quarters 
+                before the calendar quarter in which such workers began 
+                receiving benefits under this chapter.''; and
+                    (D) by adding at the end the following:
+            ``(6) Data on spending.--
+                    ``(A) The total amount of funds used to pay for 
+                trade readjustment allowances, in the aggregate and by 
+                each State.
+                    ``(B) The total amount of the payments to the States 
+                to carry out sections 235 through 238 used for training, 
+                in the aggregate and for each State.
+                    ``(C) The total amount of payments to the States to 
+                carry out sections 235 through 238 used for the costs of 
+                administration, in the aggregate and for each State.
+                    ``(D) The total amount of payments to the States to 
+                carry out sections 235 through 238 used for job search 
+                and relocation allowances, in the aggregate and for each 
+                State.''.
+
+[[Page 125 STAT. 409]]
+
+            (2) Effective <<NOTE: 19 USC 2323 note.>>  date.--Not later 
+        than October 1, 2012, the Secretary of Labor shall update the 
+        system required by section 249B(a) of the Trade Act of 1974 (19 
+        U.S.C. 2323(a)) to include the collection of and reporting on 
+        the data required by the amendments made by paragraph (1).
+            (3) Annual report.--Section 249B(d) of the Trade Act of 1974 
+        (19 U.S.C. 2323(d)) is amended by striking ``December 15'' and 
+        inserting ``February 15''.
+SEC. 217. EXTENSION.
+
+    Section 245(a) of the Trade Act of 1974 (19 U.S.C. 2317(a)) is 
+amended by striking ``February 12, 2011'' and inserting ``December 31, 
+2013''.
+
+                  PART III--OTHER ADJUSTMENT ASSISTANCE
+
+SEC. 221. TRADE ADJUSTMENT ASSISTANCE FOR FIRMS.
+
+    (a) Annual Report.--
+            (1) In general.--Chapter 3 of title II of the Trade Act of 
+        1974 (19 U.S.C. 2341 et seq.) is amended by inserting after 
+        section 255 the following:
+``SEC. 255A. <<NOTE: 19 USC 2345a.>> ANNUAL REPORT ON TRADE 
+                          ADJUSTMENT ASSISTANCE FOR FIRMS.
+
+    ``(a) In General.--Not later than December 15, 2012, and annually 
+thereafter, the Secretary shall prepare a report containing data 
+regarding the trade adjustment assistance for firms program under this 
+chapter for the preceding fiscal year. The data shall include the 
+following:
+            ``(1) The number of firms that inquired about the program.
+            ``(2) The number of petitions filed under section 251.
+            ``(3) The number of petitions certified and denied by the 
+        Secretary.
+            ``(4) The average time for processing petitions after the 
+        petitions are filed.
+            ``(5) The number of petitions filed and firms certified for 
+        each congressional district of the United States.
+            ``(6) Of the number of petitions filed, the number of firms 
+        that entered the program and received benefits.
+            ``(7) The number of firms that received assistance in 
+        preparing their petitions.
+            ``(8) The number of firms that received assistance 
+        developing business recovery plans.
+            ``(9) The number of business recovery plans approved and 
+        denied by the Secretary.
+            ``(10) The average duration of benefits received under the 
+        program nationally and in each region served by an intermediary 
+        organization referred to in section 253(b)(1).
+            ``(11) Sales, employment, and productivity at each firm 
+        participating in the program at the time of certification.
+            ``(12) Sales, employment, and productivity at each firm upon 
+        completion of the program and each year for the 2-year period 
+        following completion of the program.
+            ``(13) The number of firms in operation as of the date of 
+        the report and the number of firms that ceased operations after 
+        completing the program and in each year during the 2-year period 
+        following completion of the program.
+
+[[Page 125 STAT. 410]]
+
+            ``(14) The financial assistance received by each firm 
+        participating in the program.
+            ``(15) The financial contribution made by each firm 
+        participating in the program.
+            ``(16) The types of technical assistance included in the 
+        business recovery plans of firms participating in the program.
+            ``(17) The number of firms leaving the program before 
+        completing the project or projects in their business recovery 
+        plans and the reason the project or projects were not completed.
+            ``(18) The total amount expended by all intermediary 
+        organizations referred to in section 253(b)(1) and by each such 
+        organization to administer the program.
+            ``(19) The total amount expended by intermediary 
+        organizations to provide technical assistance to firms under the 
+        program nationally and in each region served by such an 
+        organization.
+
+    ``(b) Classification of Data.--To the extent possible, in collecting 
+and reporting the data described in subsection (a), the Secretary shall 
+classify the data by intermediary organization, State, and national 
+totals.
+    ``(c) Report to Congress; Publication.--The Secretary shall--
+            ``(1) submit the report described in subsection (a) to the 
+        Committee on Finance of the Senate and the Committee on Ways and 
+        Means of the House of Representatives; and
+            ``(2) publish <<NOTE: Federal Register, publication. Web 
+        posting.>>  the report in the Federal Register and on the 
+        website of the Department of Commerce.
+
+    ``(d) Protection of Confidential Information.--
+            ``(1) In general.--The <<NOTE: Notice.>>  Secretary may not 
+        release information described in subsection (a) that the 
+        Secretary considers to be confidential business information 
+        unless the person submitting the confidential business 
+        information had notice, at the time of submission, that such 
+        information would be released by the Secretary, or such person 
+        subsequently consents to the release of the information.
+            ``(2) Rule of construction.--Nothing in this subsection 
+        shall be construed to prohibit the Secretary from providing 
+        information the Secretary considers to be confidential business 
+        information under paragraph (1) to a court in camera or to 
+        another party under a protective order issued by a court.''.
+            (2) Clerical amendment.--The table of contents for the Trade 
+        Act of 1974 is amended by inserting after the item relating to 
+        section 255 the following:
+
+``Sec. 255A. Annual report on trade adjustment assistance for firms.''.
+
+            (3) Conforming repeal.--Effective <<NOTE: Effective date. 19 
+        USC 2356 note.>>  on the day after the date on which the 
+        Secretary of Commerce submits the report required by section 
+        1866 of the Trade and Globalization Adjustment Assistance Act of 
+        2009 (19 U.S.C. 2356) for fiscal year 2011, such section is 
+        repealed.
+
+    (b) Extension.--Section 255(a) of the Trade Act of 1974 (19 U.S.C. 
+2345(a)) is amended--
+            (1) by striking ``$50,000,000'' and all that follows through 
+        ``February 12, 2011.'' and inserting ``$16,000,000 for each of 
+        the fiscal years 2012 and 2013, and $4,000,000 for the 3-month 
+        period beginning on October 1, 2013, and ending on December 31, 
+        2013.''; and
+            (2) by striking ``shall--'' and all that follows through 
+        ``otherwise remain'' and inserting ``shall remain''.
+
+[[Page 125 STAT. 411]]
+
+SEC. 222. TRADE ADJUSTMENT ASSISTANCE FOR COMMUNITIES.
+
+    (a) In General.--Chapter 4 of title II of the Trade Act of 1974 (19 
+U.S.C. 2371 et seq.) <<NOTE: 19 USC 2371-2374.>>  is amended--
+            (1) by striking subchapters A, C, and D;
+            (2) in subchapter B, by striking the subchapter heading; and
+            (3) by redesignating sections 278 <<NOTE: 19 USC 2371, 
+        2372.>>  and 279 as sections 271 and 272, respectively.
+
+    (b) Annual Report.--
+            (1) In general.--Subsection (e) of section 271 of the Trade 
+        Act of 1974, as redesignated by subsection <<NOTE: 19 USC 
+        2371.>> (a)(3), is amended--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``December 15 in each of the calendar years 
+                2009 through'' and inserting ``December 15, 2009,'';
+                    (B) in paragraph (1), by striking ``and'' at the 
+                end;
+                    (C) in paragraph (2), by striking the period at the 
+                end and inserting ``; and''; and
+                    (D) by adding at the end the following:
+            ``(3) providing the following data relating to program 
+        performance and outcomes:
+                    ``(A) Of the grants awarded under this section, the  
+                amount of funds spent by grantees.
+                    ``(B) The average dollar amount of grants awarded 
+                under this section.
+                    ``(C) The average duration of grants awarded under 
+                this section.
+                    ``(D) The percentage of workers receiving benefits 
+                under chapter 2 that are served by programs developed, 
+                offered, or improved using grants awarded under this 
+                section.
+                    ``(E) The percentage and number of workers receiving 
+                benefits under chapter 2 who obtained a degree through 
+                such programs and the average duration of the 
+                participation of such workers in training under section 
+                236.
+                    ``(F) The number of workers receiving benefits under 
+                chapter 2 served by such programs who did not complete a 
+                degree and the average duration of the participation of 
+                such workers in training under section 236.''.
+            (2) Effective <<NOTE: 19 USC 2371 note.>>  date.--The 
+        amendments made by paragraph (1) shall--
+                    (A) take effect on October 1, 2011; and
+                    (B) apply with <<NOTE: Applicability.>>  respect to 
+                reports submitted under subsection (e) of section 271 of 
+                the Trade Act of 1974, as redesignated by subsection 
+                (a)(3), on or after October 1, 2012.
+
+    (c) Conforming Amendments.--
+            (1) Section 271 of the Trade Act of 1974, as redesignated by 
+        subsection <<NOTE: 19 USC 2371.>>  (a)(3), is amended--
+                    (A) in subsection (c)--
+                          (i) in paragraph (4)--
+                                    (I) in subparagraph (A)--
+                                            (aa) in clause (ii), by 
+                                        striking the semicolon and 
+                                        inserting ``; and'';
+                                            (bb) by striking clauses 
+                                        (iii) and (iv); and
+                                            (cc) by redesignating clause 
+                                        (v) as clause (iii);
+                                    (II) in subparagraph (B), by 
+                                striking ``(A)(v)'' and inserting 
+                                ``(A)(iii)''; and
+
+[[Page 125 STAT. 412]]
+
+                          (ii) in paragraph (5)(A)--
+                                    (I) in clause (i)--
+                                            (aa) in the matter preceding 
+                                        subclause (I), by striking ``, 
+                                        and other entities described in 
+                                        section 276(a)(2)(B)''; and
+                                            (bb) in subclause (II), by 
+                                        striking the semicolon and 
+                                        inserting ``; and'';
+                                    (II) by striking clause (iii); and
+                    (B) in subsection (d), by striking paragraph (2) and 
+                redesignating paragraph (3) as paragraph (2).
+            (2) Subsection (b) of section 272 of the Trade Act of 1974, 
+        as redesignated by subsection (a)(3), <<NOTE: 19 USC 2372.>> is 
+        amended by striking ``278(a)(2)'' and inserting ``271(a)(2)''.
+
+    (d) Clerical Amendment.--The table of contents for the Trade Act of 
+1974 is amended by striking the items relating to chapter 4 of title II 
+and inserting the following:
+
+        ``Chapter 4--Trade Adjustment Assistance for Communities
+
+``Sec. 271. Community College and Career Training Grant Program.
+``Sec. 272. Authorization of appropriations.''.
+
+SEC. 223. TRADE ADJUSTMENT ASSISTANCE FOR FARMERS.
+
+    (a) Annual Report.--
+            (1) In general.--Section 293(d) of the Trade Act of 1974 (19 
+        U.S.C. 2401b(d)) is amended to read as follows:
+
+    ``(d) Annual Report.--Not later than January 30 of each year, the 
+Secretary shall submit to the Committee on Finance of the Senate and the 
+Committee on Ways and Means of the House of Representatives a report 
+containing the following information with respect to the trade 
+adjustment assistance for farmers program under this chapter during the 
+preceding fiscal year:
+            ``(1) A list of the agricultural commodities covered by a 
+        certification under this chapter.
+            ``(2) The States or regions in which agricultural 
+        commodities are produced and the aggregate amount of such 
+        commodities produced in each such State or region.
+            ``(3) The number of petitions filed.
+            ``(4) The number of petitions certified and denied by the 
+        Secretary.
+            ``(5) The average time for processing petitions.
+            ``(6) The number of petitions filed and agricultural 
+        commodity producers approved for each congressional district of 
+        the United States.
+            ``(7) Of the number of producers approved, the number of 
+        agricultural commodity producers that entered the program and 
+        received benefits.
+            ``(8) The number of agricultural commodity producers that 
+        completed initial technical assistance.
+            ``(9) The number of agricultural commodity producers that 
+        completed intensive technical assistance.
+            ``(10) The number of initial business plans approved and 
+        denied by the Secretary.
+            ``(11) The number of long-term business plans approved and 
+        denied by the Secretary.
+            ``(12) The total number of agricultural commodity producers, 
+        by congressional district, receiving initial technical 
+        assistance and intensive technical assistance, respectively, 
+        under this chapter.
+
+[[Page 125 STAT. 413]]
+
+            ``(13) The types of initial technical assistance received by 
+        agricultural commodity producers participating in the program.
+            ``(14) The types of intensive technical assistance received 
+        by agricultural commodity producers participating in the 
+        program.
+            ``(15) The number of agricultural commodity producers 
+        leaving the program before completing the projects in their 
+        long-term business plans and the reason those projects were not 
+        completed.
+            ``(16) The total number of agricultural commodity producers, 
+        by congressional district, receiving benefits under this 
+        chapter.
+            ``(17) The average duration of benefits received under this 
+        chapter.
+            ``(18) The number of agricultural commodity producers in 
+        operation as of the date of the report and the number of 
+        agricultural commodity producers that ceased operations after 
+        completing the program and in the 1-year period following 
+        completion of the program.
+            ``(19) The number of agricultural commodity producers that 
+        report that such producers received benefits under a prior 
+        certification issued under this chapter in any of the 10 fiscal 
+        years preceding the date of the report.''.
+            (2) Effective <<NOTE: 19 USC 2401b note.>>  date.--The 
+        amendment made by paragraph (1) shall--
+                    (A) take effect on October 1, 2011; and
+                    (B) apply <<NOTE: Applicability.>> with respect to 
+                reports submitted under section 293(d) of the Trade Act 
+                of 1974 (19 U.S.C. 2401b(d)) on or after October 1, 
+                2012.
+
+    (b) Extension.--Section 298(a) of the Trade Act of 1974 (19 U.S.C. 
+2401g(a)) is amended--
+            (1) by striking ``and there are appropriated''; and
+            (2) by striking ``not to exceed'' and all that follows 
+        through ``February 12, 2011'' and inserting ``not to exceed 
+        $90,000,000 for each of the fiscal years 2012 and 2013, and 
+        $22,500,000 for the 3-month period beginning on October 1, 2013, 
+        and ending on December 31, 2013''.
+
+                       PART IV--GENERAL PROVISIONS
+
+SEC. 231. <<NOTE: 19 USC 2271 note.>> APPLICABILITY OF TRADE 
+                        ADJUSTMENT ASSISTANCE PROVISIONS.
+
+    (a) Trade Adjustment Assistance for Workers.--
+            (1) Petitions filed on or after february 13, 2011, and 
+        before date of enactment.--
+                    (A) Certifications of workers not certified before 
+                date of enactment.--
+                          (i) Criteria if a determination has not been 
+                      made.--If, as of the date of the enactment of this 
+                      Act, the Secretary of Labor has not made a 
+                      determination with respect to whether to certify a 
+                      group of workers as eligible to apply for 
+                      adjustment assistance under section 222 of the 
+                      Trade Act of 1974 pursuant to a petition described 
+                      in clause (iii), the Secretary shall make that 
+                      determination based on the requirements of section 
+                      222 of the Trade Act of 1974, as in effect on such 
+                      date of enactment.
+
+[[Page 125 STAT. 414]]
+
+                          (ii) Reconsideration of denials of 
+                      certifications.--If, before the date of the 
+                      enactment of this Act, the Secretary made a 
+                      determination not to certify a group of workers as 
+                      eligible to apply for adjustment assistance under 
+                      section 222 of the Trade Act of 1974 pursuant to a 
+                      petition described in clause (iii), the Secretary 
+                      shall--
+                                    (I) reconsider that determination; 
+                                and
+                                    (II) if the group of workers meets 
+                                the requirements of section 222 of the 
+                                Trade Act of 1974, as in effect on such 
+                                date of enactment, certify the group of 
+                                workers as eligible to apply for 
+                                adjustment assistance.
+                          (iii) Petition described.--A petition 
+                      described in this clause is a petition for a 
+                      certification of eligibility for a group of 
+                      workers filed under section 221 of the Trade Act 
+                      of 1974 on or after February 13, 2011, and before 
+                      the date of the enactment of this Act.
+                    (B) Eligibility for benefits.--
+                          (i) In general.--Except <<NOTE: Effective 
+                      date.>>  as provided in clause (ii), a worker 
+                      certified as eligible to apply for adjustment 
+                      assistance under section 222 of the Trade Act of 
+                      1974 pursuant to a petition described in 
+                      subparagraph (A)(iii) shall be eligible, on and 
+                      after the date that is 60 days after the date of 
+                      the enactment of this Act, to receive benefits 
+                      only under the provisions of chapter 2 of title II 
+                      of the Trade Act of 1974, as in effect on such 
+                      date of enactment.
+                          (ii) Election for workers receiving benefits 
+                      on the 60th day after enactment.--
+                                    (I) In general.--
+                                A <<NOTE: Deadline.>> worker certified 
+                                as eligible to apply for adjustment 
+                                assistance under section 222 of the 
+                                Trade Act of 1974 pursuant to a petition 
+                                described in subparagraph (A)(iii) who 
+                                is receiving benefits under chapter 2 of 
+                                title II of the Trade Act of 1974 as of 
+                                the date that is 60 days after the date 
+                                of the enactment of this Act may, not 
+                                later than the date that is 150 days 
+                                after such date of enactment, make a 
+                                one-time election to receive benefits 
+                                pursuant to--
+                                            (aa) the provisions of 
+                                        chapter 2 of title II of the 
+                                        Trade Act of 1974, as in effect 
+                                        on such date of enactment; or
+                                            (bb) the provisions of 
+                                        chapter 2 of title II of the 
+                                        Trade Act of 1974, as in effect 
+                                        on February 13, 2011.
+                                    (II) Effect of failure to make 
+                                election.--A worker described in 
+                                subclause (I) who does not make the 
+                                election described in that subclause on 
+                                or before the date that is 150 days 
+                                after the date of the enactment of this 
+                                Act shall be eligible to receive 
+                                benefits only under the provisions of 
+                                chapter 2 of title II of the Trade Act 
+                                of 1974, as in effect on February 13, 
+                                2011.
+                                    (III) Computation of maximum 
+                                benefits.--Benefits received by a worker 
+                                described in subclause (I) under chapter 
+                                2 of title II of the Trade
+
+[[Page 125 STAT. 415]]
+
+                                Act of 1974, as in effect on February 
+                                13, 2011, before the worker makes the 
+                                election described in that subclause 
+                                shall be included in any determination 
+                                of the maximum benefits for which the 
+                                worker is eligible under the provisions 
+                                of chapter 2 of title II of the Trade 
+                                Act of 1974, as in effect on the date of 
+                                the enactment of this Act, or as in 
+                                effect on February 13, 2011, whichever 
+                                is applicable after the election of the 
+                                worker under subclause (I).
+            (2) Petitions filed before february 13, 2011.--A worker 
+        certified as eligible to apply for adjustment assistance 
+        pursuant to a petition filed under section 221 of the Trade Act 
+        of 1974--
+                    (A) on <<NOTE: Time period.>>  or after May 18, 
+                2009, and on or before February 12, 2011, shall continue 
+                to be eligible to apply for and receive benefits under 
+                the provisions of chapter 2 of title II of such Act, as 
+                in effect on February 12, 2011; or
+                    (B) before <<NOTE: Deadline.>>  May 18, 2009, shall 
+                continue to be eligible to apply for and receive 
+                benefits under the provisions of chapter 2 of title II 
+                of such Act, as in effect on May 17, 2009.
+            (3) Qualifying separations with respect to petitions filed 
+        within 90 days of date of <<NOTE: Applicability.>> enactment.--
+        Section 223(b) of the Trade Act of 1974, as in effect on the 
+        date of the enactment of this Act, shall be applied and 
+        administered by substituting ``before February 13, 2010'' for 
+        ``more than one year before the date of the petition on which 
+        such certification was granted'' for purposes of determining 
+        whether a worker is eligible to apply for adjustment assistance 
+        pursuant to a petition filed under section 221 of the Trade Act 
+        of 1974 on or after the date of the enactment of this Act and on 
+        or before the date that is 90 days after such date of enactment.
+
+    (b) Trade Adjustment Assistance for Firms.--
+            (1) Certification of firms not certified before date of 
+        enactment.--
+                    (A) Criteria if a determination has not been made.--
+                If, as of the date of the enactment of this Act, the 
+                Secretary of Commerce has not made a determination with 
+                respect to whether to certify a firm as eligible to 
+                apply for adjustment assistance under section 251 of the 
+                Trade Act of 1974 pursuant to a petition described in 
+                subparagraph (C), the Secretary shall make that 
+                determination based on the requirements of section 251 
+                of the Trade Act of 1974, as in effect on such date of 
+                enactment.
+                    (B) Reconsideration of denial of certain 
+                petitions.--If, before the date of the enactment of this 
+                Act, the Secretary made a determination not to certify a 
+                firm as eligible to apply for adjustment assistance 
+                under section 251 of the Trade Act of 1974 pursuant to a 
+                petition described in subparagraph (C), the Secretary 
+                shall--
+                          (i) reconsider that determination; and
+                          (ii) if the firm meets the requirements of 
+                      section 251 of the Trade Act of 1974, as in effect 
+                      on such date of enactment, certify the firm as 
+                      eligible to apply for adjustment assistance.
+                    (C) Petition described.--A petition described in 
+                this subparagraph is a petition for a certification of 
+                eligibility
+
+[[Page 125 STAT. 416]]
+
+                filed by a firm or its representative under section 251 
+                of the Trade Act of 1974 on or after February 13, 2011, 
+                and before the date of the enactment of this Act.
+            (2) Certification of firms that did not submit petitions 
+        between february 13, 2011, and date of enactment.--
+                    (A) In general.--The <<NOTE: Deadline.>> Secretary 
+                of Commerce shall certify a firm described in 
+                subparagraph (B) as eligible to apply for adjustment 
+                assistance under section 251 of the Trade Act of 1974, 
+                as in effect on the date of the enactment of this Act, 
+                if the firm or its representative files a petition for a 
+                certification of eligibility under section 251 of the 
+                Trade Act of 1974 not later than 90 days after such date 
+                of enactment.
+                    (B) Firm described.--A firm described in this 
+                subparagraph is a firm that the Secretary determines 
+                would have been certified as eligible to apply for 
+                adjustment assistance if--
+                          (i) the <<NOTE: Time period.>> firm or its 
+                      representative had filed a petition for a 
+                      certification of eligibility under section 251 of 
+                      the Trade Act of 1974 on a date during the period 
+                      beginning on February 13, 2011, and ending on the 
+                      day before the date of the enactment of this Act; 
+                      and
+                          (ii) the provisions of chapter 3 of title II 
+                      of the Trade Act of 1974, as in effect on such 
+                      date of enactment, had been in effect on that date 
+                      during the period described in clause (i).
+SEC. 232. <<NOTE: 19 USC 2271 note prec.>> TERMINATION PROVISIONS.
+
+    Section 285 of the Trade Act of 1974 (19 U.S.C. 2271 note) is 
+amended--
+            (1) by striking ``February 12, 2011'' each place it appears 
+        and inserting ``December 31, 2013'';
+            (2) in subsection (a)(2)--
+                    (A) in the matter preceding subparagraph (A), by 
+                striking ``that chapter'' and all that follows through 
+                ``the worker is--'' and inserting ``that chapter if the 
+                worker is--''; and
+                    (B) in subparagraph (A), by striking ``petitions'' 
+                and inserting ``a petition''; and
+            (3) in subsection (b)--
+                    (A) in paragraph (1)(B), in the matter preceding 
+                clause (i), by inserting ``pursuant to a petition filed 
+                under section 251'' after ``chapter 3'';
+                    (B) in paragraph (2)(B), in the matter preceding 
+                clause (i), by inserting ``pursuant to a petition filed 
+                under section 292'' after ``chapter 6''; and
+                    (C) by striking paragraph (3).
+SEC. 233. <<NOTE: 19 USC 2271 note prec.>> SUNSET PROVISIONS.
+
+    (a) Application of Prior Law.--Subject <<NOTE: Effective date.>>  to 
+subsection (b), beginning on January 1, 2014, the provisions of chapters 
+2, 3, 5, and 6 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et 
+seq.), as in effect on February 13, 2011, shall apply, except that in 
+applying and administering such chapters--
+            (1) paragraph (1) of section 231(c) of that Act shall be 
+        applied and administered as if subparagraphs (A), (B), and (C) 
+        of that paragraph were not in effect;
+
+[[Page 125 STAT. 417]]
+
+            (2) section 233 of that Act shall be applied and 
+        administered--
+                    (A) in subsection (a)--
+                          (i) in paragraph (2), by substituting ``104-
+                      week period'' for ``104-week period'' and all that 
+                      follows through ``130-week period)''; and
+                          (ii) in paragraph (3)--
+                                    (I) in the matter preceding 
+                                subparagraph (A), by substituting ``65'' 
+                                for ``52''; and
+                                    (II) by substituting ``78-week 
+                                period'' for ``52-week period'' each 
+                                place it appears; and
+                    (B) by applying and administering subsection (g) as 
+                if it read as follows:
+
+    ``(g) Payment of Trade Readjustment Allowances to Complete 
+Training.--Notwithstanding any other provision of this section, in order 
+to assist an adversely affected worker to complete training approved for 
+the worker under section 236 that leads to the completion of a degree or 
+industry-recognized credential, payments may be made as trade 
+readjustment allowances for not more than 13 weeks within such period of 
+eligibility as the Secretary may prescribe to account for a break in 
+training or for justifiable cause that follows the last week for which 
+the worker is otherwise entitled to a trade readjustment allowance under 
+this chapter if--
+            ``(1) payment of the trade readjustment allowance for not 
+        more than 13 weeks is necessary for the worker to complete the 
+        training;
+            ``(2) the worker participates in training in each such week; 
+        and
+            ``(3) the worker--
+                    ``(A) has substantially met the performance 
+                benchmarks established as part of the training approved 
+                for the worker;
+                    ``(B) is expected to continue to make progress 
+                toward the completion of the training; and
+                    ``(C) will complete the training during that period 
+                of eligibility.'';
+            (3) section 245 of that Act shall be applied and 
+        administered by substituting ``2014'' for ``2007'';
+            (4) section 246(b)(1) of that Act shall be applied and 
+        administered by substituting ``December 31, 2014'' for ``the 
+        date that is 5 years'' and all that follows through ``State'';
+            (5) section 256(b) of that Act shall be applied and 
+        administered by substituting ``the 1-year period beginning on 
+        January 1, 2014'' for ``each of fiscal years 2003 through 2007, 
+        and $4,000,000 for the 3-month period beginning on October 1, 
+        2007'';
+            (6) section 298(a) of that Act shall be applied and 
+        administered by substituting ``the 1-year period beginning on 
+        January 1, 2014'' for ``each of the fiscal years'' and all that 
+        follows through ``October 1, 2007''; and
+            (7) section 285 of that Act shall be applied and 
+        administered--
+                    (A) in subsection (a), by substituting ``2014'' for 
+                ``2007'' each place it appears; and
+                    (B) by applying and administering subsection (b) as 
+                if it read as follows:
+
+    ``(b) Other Assistance.--
+
+[[Page 125 STAT. 418]]
+
+            ``(1) Assistance for firms.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), assistance may not be provided under 
+                chapter 3 after December 31, 2014.
+                    ``(B) Exception.--Notwithstanding subparagraph (A), 
+                any assistance approved under chapter 3 on or before 
+                December 31, 2014, may be provided--
+                          ``(i) to the extent funds are available 
+                      pursuant to such chapter for such purpose; and
+                          ``(ii) to the extent the recipient of the 
+                      assistance is otherwise eligible to receive such 
+                      assistance.
+            ``(2) Farmers.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), assistance may not be provided under 
+                chapter 6 after December 31, 2014.
+                    ``(B) Exception.--Notwithstanding subparagraph (A), 
+                any assistance approved under chapter 6 on or before 
+                December 31, 2014, may be provided--
+                          ``(i) to the extent funds are available 
+                      pursuant to such chapter for such purpose; and
+                          ``(ii) to the extent the recipient of the 
+                      assistance is otherwise eligible to receive such 
+                      assistance.''.
+
+    (b) Exceptions.--The <<NOTE: Applicability.>> provisions of chapters 
+2, 3, 5, and 6 of title II of the Trade Act of 1974, as in effect on the 
+date of the enactment of this Act, shall continue to apply on and after 
+January 1, 2014, with respect to--
+            (1) workers certified as eligible for trade adjustment 
+        assistance benefits under chapter 2 of title II of that Act 
+        pursuant to petitions filed under section 221 of that Act before 
+        January 1, 2014;
+            (2) firms certified as eligible for technical assistance or 
+        grants under chapter 3 of title II of that Act pursuant to 
+        petitions filed under section 251 of that Act before January 1, 
+        2014; and
+            (3) agricultural commodity producers certified as eligible 
+        for technical or financial assistance under chapter 6 of title 
+        II of that Act pursuant to petitions filed under section 292 of 
+        that Act before January 1, 2014.
+
+                 Subtitle B--Health Coverage Improvement
+
+SEC. 241. HEALTH CARE TAX CREDIT.
+
+    (a) Termination of Credit.--Subparagraph (B) of section 35(b)(1) of 
+the Internal Revenue Code of 1986 <<NOTE: 26 USC 35.>> is amended by 
+inserting ``, and before January 1, 2014'' before the period.
+
+    (b) Extension Through Credit Termination Date of Certain Expired 
+Credit Provisions.--
+            (1) Partial extension of increased credit rate.--Section 
+        35(a) of such Code is amended by striking ``65 percent (80 
+        percent in the case of eligible coverage months beginning before 
+        February 13, 2011)'' and inserting ``72.5 percent''.
+            (2) Extension of advance payment provisions.--
+                    (A) Section 7527(b) of such Code <<NOTE: 26 USC 
+                7527.>>  is amended by striking ``65 percent (80 percent 
+                in the case of eligible coverage months beginning before 
+                February 13, 2011)'' and inserting ``72.5 percent''.
+
+[[Page 125 STAT. 419]]
+
+                    (B) Section 7527(d)(2) of such Code <<NOTE: 26 USC 
+                7527.>>  is amended by striking ``which is issued before 
+                February 13, 2011''.
+                    (C) Section 7527(e) of such Code is amended by 
+                striking ``80 percent'' and inserting ``72.5 percent''.
+                    (D) Section 7527(e) of such Code is amended by 
+                striking ``In the case of eligible coverage months 
+                beginning before February 13, 2011--''.
+            (3) Extension of certain other related provisions.--
+                    (A) Section 35(c)(2)(B) of such Code <<NOTE: 26 USC 
+                35.>>  is amended by striking ``and before February 13, 
+                2011''.
+                    (B) Section 35(e)(1)(K) of such Code is amended by 
+                striking ``In the case of eligible coverage months 
+                beginning before February 13, 2012, coverage'' and 
+                inserting ``Coverage''.
+                    (C) Section 35(g)(9) of such Code, as added by 
+                section 1899E(a) of the American Recovery and 
+                Reinvestment Tax Act of 2009 (relating to continued 
+                qualification of family members after certain events), 
+                is amended by striking ``In the case of eligible 
+                coverage months beginning before February 13, 2011--''.
+                    (D) Section 173(f)(8) of the Workforce Investment 
+                Act of 1998 <<NOTE: 29 USC 2918.>>  is amended by 
+                striking ``In the case of eligible coverage months 
+                beginning before February 13, 2011--''.
+
+    (c) Effective <<NOTE: 26 USC 35 note.>>  Dates.--
+            (1) In general.--Except as otherwise provided in this 
+        subsection, the amendments made by this section shall apply to 
+        coverage months beginning after February 12, 2011.
+            (2) Advance payment provisions.--
+                    (A) The amendment made by subsection (b)(2)(B) shall 
+                apply to certificates issued after the date which is 30 
+                days after the date of the enactment of this Act.
+                    (B) The amendment made by subsection (b)(2)(D) shall 
+                apply to coverage months beginning after the date which 
+                is 30 days after the date of the enactment of this Act.
+SEC. 242. TAA PRE-CERTIFICATION PERIOD RULE FOR PURPOSES OF 
+                        DETERMINING WHETHER THERE IS A 63-DAY 
+                        LAPSE IN CREDITABLE COVERAGE.
+
+    (a) In General.--The following provisions are each amended by 
+striking ``February 13, 2011'' and inserting ``January 1, 2014'':
+            (1) Section 9801(c)(2)(D) of the Internal Revenue Code of 
+        1986 <<NOTE: 26 USC 9801.>> .
+            (2) Section 701(c)(2)(C) of the Employee Retirement Income 
+        Security Act of 1974 (29 U.S.C. 1181(c)(2)(C)).
+            (3) Section 2701(c)(2)(C) <<NOTE: 42 USC 300gg, 300gg-
+        3.>> of the Public Health Service Act (as in effect for plan 
+        years beginning before January 1, 2014).
+            (4) Section 2704(c)(2)(C) <<NOTE: 42 USC 300gg-3.>> of the 
+        Public Health Service Act (as in effect for plan years beginning 
+        on or after January 1, 2014).
+
+    (b) Effective <<NOTE: 26 USC 9801 note.>>  Date.--
+            (1) In general.--The amendments made by this section shall 
+        apply to plan years beginning after February 12, 2011.
+            (2) Transitional rules.--
+                    (A) Benefit determinations.--Notwithstanding the 
+                amendments made by this section (and the provisions of 
+                law amended thereby), a plan shall not be required to 
+                modify benefit determinations for the period beginning 
+                on
+
+[[Page 125 STAT. 420]]
+
+                February 13, 2011, and ending 30 days after the date of 
+                the enactment of this Act, but a plan shall not fail to 
+                be qualified health insurance within the meaning of 
+                section 35(e) of the Internal Revenue Code of 1986 
+                during this period merely due to such failure to modify 
+                benefit determinations.
+                    (B) Guidance concerning periods before 30 days after 
+                enactment.--Except as provided in subparagraph (A), the 
+                Secretary of the Treasury (or his designee), in 
+                consultation with the Secretary of Health and Human 
+                Services and the Secretary of Labor, may issue 
+                regulations or other guidance regarding the scope of the 
+                application of the amendments made by this section to 
+                periods before the date which is 30 days after the date 
+                of the enactment of this Act.
+                    (C) Special rule relating to certain loss of 
+                coverage.--In the <<NOTE: Time period.>> case of a TAA-
+                related loss of coverage (as defined in section 
+                4980B(f)(5)(C)(iv) of the Internal Revenue Code of 1986) 
+                that occurs during the period beginning on February 13, 
+                2011, and ending 30 days after the date of the enactment 
+                of this Act, the 7-day period described in section 
+                9801(c)(2)(D) of the Internal Revenue Code of 1986, 
+                section 701(c)(2)(C) of the Employee Retirement Income 
+                Security Act of 1974, and section 2701(c)(2)(C) of the 
+                Public Health Service Act shall be extended until 30 
+                days after such date of enactment.
+SEC. 243. EXTENSION OF COBRA BENEFITS FOR CERTAIN TAA-ELIGIBLE 
+                        INDIVIDUALS AND PBGC RECIPIENTS.
+
+    (a) In General.--The following provisions are each amended by 
+striking ``February 12, 2011'' and inserting ``January 1, 2014'':
+            (1) Section 602(2)(A)(v) of the Employee Retirement Income 
+        Security Act of 1974 (29 U.S.C. 1162(2)(A)(v)).
+            (2) Section 602(2)(A)(vi) of such Act (29 U.S.C. 
+        1162(2)(A)(vi)).
+            (3) Section 4980B(f)(2)(B)(i)(V) of the Internal Revenue 
+        Code <<NOTE: 26 USC 4980B.>>  of 1986.
+            (4) Section 4980B(f)(2)(B)(i)(VI) of such Code.
+            (5) Section 2202(2)(A)(iv) of the Public Health Service Act 
+        (42 U.S.C. 300bb-2(2)(A)(iv)).
+
+    (b) Effective <<NOTE: 26 USC 4980B note.>>  Date.--The amendments 
+made by this section shall apply to periods of coverage which would 
+(without regard to the amendments made by this section) end on or after 
+the date which is 30 days after the date of the enactment of this Act.
+
+                           Subtitle C--Offsets
+
+           PART I--UNEMPLOYMENT COMPENSATION PROGRAM INTEGRITY
+
+SEC. 251. MANDATORY PENALTY ASSESSMENT ON FRAUD CLAIMS.
+
+    (a) In General.--Section 303(a) of the Social Security Act (42 
+U.S.C. 503(a)) is amended--
+            (1) in paragraph (10), by striking the period at the end of 
+        subparagraph (B) and inserting ``; and''; and
+
+[[Page 125 STAT. 421]]
+
+            (2) by adding at the end the following new paragraph:
+            ``(11)(A) At the time the State agency determines an 
+        erroneous payment from its unemployment fund was made to an 
+        individual due to fraud committed by such individual, the 
+        assessment of a penalty on the individual in an amount of not 
+        less than 15 percent of the amount of the erroneous payment; and
+            ``(B) The immediate deposit of all assessments paid pursuant 
+        to subparagraph (A) into the unemployment fund of the State.''.
+
+    (b) Application <<NOTE: 42 USC 503 note.>>  to Federal Payments.--
+            (1) In general.--As a condition for administering any 
+        unemployment compensation program of the United States (as 
+        defined in paragraph (2)) as an agent of the United States, if 
+        the State determines that an erroneous payment was made by the 
+        State to an individual under any such program due to fraud 
+        committed by such individual, the State shall assess a penalty 
+        on such individual and deposit any such penalty received in the 
+        same manner as the State assesses and deposits such penalties 
+        under provisions of State law implementing section 303(a)(11) of 
+        the Social Security Act, as added by subsection (a).
+            (2) Definition.--For purposes of this subsection, the term 
+        ``unemployment compensation program of the United States'' 
+        means--
+                    (A) unemployment compensation for Federal civilian 
+                employees under subchapter I of chapter 85 of title 5, 
+                United States Code;
+                    (B) unemployment compensation for ex-servicemembers 
+                under subchapter II of chapter 85 of title 5, United 
+                States Code;
+                    (C) trade readjustment allowances under sections 231 
+                through 234 of the Trade Act of 1974 (19 U.S.C. 2291-
+                2294);
+                    (D) disaster unemployment assistance under section 
+                410(a) of the Robert T. Stafford Disaster Relief and 
+                Emergency Assistance Act (42 U.S.C. 5177(a));
+                    (E) any Federal temporary extension of unemployment 
+                compensation;
+                    (F) any Federal program which increases the weekly 
+                amount of unemployment compensation payable to 
+                individuals; and
+                    (G) any other Federal program providing for the 
+                payment of unemployment compensation.
+
+    (c) Effective <<NOTE: 42 USC 503 note.>>  Date.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall apply to erroneous 
+        payments established after the end of the 2-year period 
+        beginning on the date of the enactment of this Act.
+            (2) Authority.--A State may amend its State law to apply 
+        such amendments to erroneous payments established prior to the 
+        end of the period described in paragraph (1).
+SEC. 252. PROHIBITION ON NONCHARGING DUE TO EMPLOYER FAULT.
+
+    (a) In General.--Section 3303 of the Internal Revenue Code of 
+1986 <<NOTE: 26 USC 3303.>>  is amended--
+            (1) by striking subsections (f) and (g); and
+
+[[Page 125 STAT. 422]]
+
+            (2) by inserting after subsection (e) the following new 
+        subsection:
+
+    ``(f) Prohibition on Noncharging Due to Employer Fault.--
+            ``(1) In general.--A State law shall be treated as meeting 
+        the requirements of subsection (a)(1) only if such law provides 
+        that an employer's account shall not be relieved of charges 
+        relating to a payment from the State unemployment fund if the 
+        State agency determines that--
+                    ``(A) the payment was made because the employer, or 
+                an agent of the employer, was at fault for failing to 
+                respond timely or adequately to the request of the 
+                agency for information relating to the claim for 
+                compensation; and
+                    ``(B) the employer or agent has established a 
+                pattern of failing to respond timely or adequately to 
+                such requests.
+            ``(2) State authority to impose stricter standards.--Nothing 
+        in paragraph (1) shall limit the authority of a State to provide 
+        that an employer's account not be relieved of charges relating 
+        to a payment from the State unemployment fund for reasons other 
+        than the reasons described in subparagraphs (A) and (B) of such 
+        paragraph, such as after the first instance of a failure to 
+        respond timely or adequately to requests described in paragraph 
+        (1)(A).''.
+
+    (b) Effective <<NOTE: 26 USC 3303 note.>>  Date.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall apply to erroneous 
+        payments established after the end of the 2-year period 
+        beginning on the date of the enactment of this Act.
+            (2) Authority.--A State may amend its State law to apply 
+        such amendments to erroneous payments established prior to the 
+        end of the period described in paragraph (1).
+SEC. 253. REPORTING OF REHIRED EMPLOYEES TO THE DIRECTORY OF NEW 
+                        HIRES.
+
+    (a) Definition of Newly Hired Employee.--Section 453A(a)(2) of the 
+Social Security Act (42 U.S.C. 653a(a)(2)) is amended by adding at the 
+end the following:
+                    ``(C) Newly hired employee.--The term `newly hired 
+                employee' means an employee who--
+                          ``(i) has not previously been employed by the 
+                      employer; or
+                          ``(ii) was previously employed by the employer 
+                      but has been separated from such prior employment 
+                      for at least 60 consecutive days.''.
+
+    (b) Effective <<NOTE: 42 USC 653a note.>>  Date.--
+            (1) In general.--Subject to paragraph (2), the amendments 
+        made by this section shall take effect 6 months after the date 
+        of the enactment of this Act.
+            (2) Compliance transition period.--If the Secretary of 
+        Health and Human Services determines that State legislation 
+        (other than legislation appropriating funds) is required in 
+        order for a State plan under part D of title IV of the Social 
+        Security Act to meet the additional requirement imposed by the 
+        amendment made by subsection (a), the plan shall not be regarded 
+        as failing to meet such requirement before the first day of the 
+        second calendar quarter beginning after the close of the first 
+        regular session of the State legislature that begins after
+
+[[Page 125 STAT. 423]]
+
+        the effective date of such amendment. If the State has a 2-year 
+        legislative session, each year of the session is deemed to be a 
+        separate regular session of the State legislature.
+
+                       PART II--ADDITIONAL OFFSETS
+
+SEC. 261. IMPROVEMENTS TO CONTRACTS WITH MEDICARE QUALITY 
+                        IMPROVEMENT ORGANIZATIONS (QIOS) IN ORDER 
+                        TO IMPROVE THE QUALITY OF CARE FURNISHED 
+                        TO MEDICARE BENEFICIARIES.
+
+    (a) Authority to Contract With a Broad Range of Entities.--
+            (1) Definition.--Section 1152 of the Social Security Act (42 
+        U.S.C. 1320c-1) is amended by striking paragraphs (1) and (2) 
+        and inserting the following new paragraphs:
+            ``(1) is able, as determined by the Secretary, to perform 
+        its functions under this part in a manner consistent with the 
+        efficient and effective administration of this part and title 
+        XVIII;
+            ``(2) has at least one individual who is a representative of 
+        health care providers on its governing body; and''.
+            (2) Name change.--Part B of title XI of the Social Security 
+        Act (42 U.S.C. 1320c et seq.) is amended--
+                    (A) in the headings for sections 1152 and 
+                1153, <<NOTE: 42 USC 1320c-1, 1320c-2.>> by striking 
+                ``utilization and quality control peer review'' and 
+                inserting ``quality improvement'';
+                    (B) in the heading for section 1154, <<NOTE: 42 USC 
+                1320c-3.>> by striking ``peer review'' and inserting 
+                ``quality improvement''; and
+                    (C) by <<NOTE: 42 USC 1320c-1320c-7, 1320c-9, 1320c-
+                10.>> striking ``utilization and quality control peer 
+                review'' and ``peer review'' each place it appears 
+                before ``organization'' or ``organizations'' and 
+                inserting ``quality improvement''.
+            (3) Conforming amendments to the medicare program.--Title 
+        XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is 
+        amended--
+                    (A) by <<NOTE: 42 USC 1395y, 1395cc, 1395dd, 1395ff, 
+                1395mm, 1395pp, 1395ww.>> striking ``utilization and 
+                quality control peer review'' and inserting ``quality 
+                improvement'' each place it appears;
+                    (B) by <<NOTE: 42 USC 1395g, 1395k, 1395x, 
+                1395pp.>> striking ``quality control and peer review'' 
+                and inserting ``quality improvement'' each place it 
+                appears;
+                    (C) in paragraphs (1)(A)(iii)(I) and (2) 
+                of <<NOTE: 42 USC 1395u.>> section 1842(l), by striking 
+                ``peer review organization'' and inserting ``quality 
+                improvement organization'';
+                    (D) in subparagraphs (A) and (B) of 
+                section <<NOTE: 42 USC 1395cc.>>  1866(a)(3), by 
+                striking ``peer review'' and inserting ``quality 
+                improvement'';
+                    (E) in section 1867(d)(3), <<NOTE: 42 USC 
+                1395dd.>> in the heading, by striking ``peer review'' 
+                and inserting ``quality improvement''; and
+                    (F) in section 1869(c)(3)(G), <<NOTE: 42 USC 
+                1395ff.>> by striking ``peer review organizations'' and 
+                inserting ``quality improvement organizations''.
+
+    (b) Improvements With Respect to the Contract.--
+            (1) Flexibility with respect to the geographic scope of 
+        contracts.--Section 1153 of the Social Security Act (42 U.S.C. 
+        1320c-2) is amended--
+                    (A) by striking subsection (a) and inserting the 
+                following new subsection:
+
+[[Page 125 STAT. 424]]
+
+    ``(a) The Secretary shall establish throughout the United States 
+such local, State, regional, national, or other geographic areas as the 
+Secretary determines appropriate with respect to which contracts under 
+this part will be made.'';
+                    (B) in subsection (b)(1), as amended by subsection 
+                (a)(2)--
+                          (i) in the first sentence, by striking ``a 
+                      contract with a quality improvement organization'' 
+                      and inserting ``contracts with one or more quality 
+                      improvement organizations''; and
+                          (ii) in the second sentence, by striking 
+                      ``meets the requirements'' and all that follows 
+                      before the period at the end and inserting ``will 
+                      be operating in an area, the Secretary shall 
+                      ensure that there is no duplication of the 
+                      functions carried out by such organizations within 
+                      the area'';
+                    (C) in subsection (b)(2)(B), by inserting ``or the 
+                Secretary determines that there is a more qualified 
+                entity to perform one or more of the functions in 
+                section 1154(a)'' after ``under this part'';
+                    (D) in subsection (b)(3)--
+                          (i) in subparagraph (A), by striking ``, or 
+                      association of such facilities,''; and
+                          (ii) in subparagraph (B)--
+                                    (I) by striking ``or association of 
+                                such facilities''; and
+                                    (II) by striking ``or 
+                                associations''; and
+                    (E) by striking subsection (i).
+            (2) Extension of length of contracts.--Section 1153(c)(3) of 
+        the Social Security Act (42 U.S.C. 1320c-2(c)(3)) is amended--
+                    (A) by striking ``three years'' and inserting ``five 
+                years''; and
+                    (B) by striking ``on a triennial basis'' and 
+                inserting ``for terms of five years''.
+            (3) Authority to terminate in a manner consistent with the 
+        federal acquisition regulation.--Section 1153 of the Social 
+        Security Act (42 U.S.C. 1320c-2) is amended--
+                    (A) in subsection (b), by adding at the end the 
+                following new paragraph:
+
+    ``(4) The Secretary may consider a variety of factors in selecting 
+the contractors that the Secretary determines would provide for the most 
+efficient and effective administration of this part, such as geographic 
+location, size, and prior experience in health care quality improvement. 
+Quality improvement organizations operating as of January 1, 2012, shall 
+be allowed to compete for new contracts (as determined appropriate by 
+the Secretary) along with other qualified organizations and are eligible 
+for renewal of contracts for terms five years thereafter (as determined 
+appropriate by the Secretary).'';
+                    (B) in subsection (c), by striking paragraphs (4) 
+                through (6) and redesignating paragraphs (7) and (8) as 
+                paragraphs (4) and (5), respectively; and
+                    (C) by striking subsection (d).
+            (4) Administrative improvement.--Section 1153(c)(5) of the 
+        Social Security Act (42 U.S.C. 1320c-2(c)(5)), as redesignated 
+        by this subsection, is amended to read as follows:
+
+[[Page 125 STAT. 425]]
+
+            ``(5) reimbursement shall be made to the organization on a 
+        monthly basis, with payments for any month being made consistent 
+        with the Federal Acquisition Regulation.''.
+
+    (c) Authority for Quality Improvement Organizations To Perform 
+Specialized Functions and to Eliminate Conflicts of Interest.--Part B of 
+title XI of the Social Security Act (42 U.S.C. 1320c et seq.) is 
+amended--
+            (1) in <<NOTE: 42 USC 1320c-2.>> section 1153--
+                    (A) in subsection (b)(1), as amended by subsection 
+                (b)(1)(B), by inserting after the first sentence the 
+                following new sentence: ``In entering into contracts 
+                with such qualified organizations, the Secretary shall, 
+                to the extent appropriate, seek to ensure that each of 
+                the functions described in section 1154(a) are carried 
+                out within an area established under subsection (a).''; 
+                and
+                    (B) in subsection (c)(1), by striking ``the 
+                functions set forth in section 1154(a), or may 
+                subcontract for the performance of all or some of such 
+                functions'' and inserting ``a function or functions 
+                under section 1154 directly or may subcontract for the 
+                performance of all or some of such function or 
+                functions''; and
+            (2) in <<NOTE: 42 USC 1320c-3.>> section 1154--
+                    (A) in subsection (a)--
+                          (i) in the matter preceding paragraph (1)--
+                                    (I) by striking ``Any'' and 
+                                inserting ``Subject to subsection (b), 
+                                any''; and
+                                    (II) by inserting ``one or more of'' 
+                                before ``the following functions'';
+                          (ii) in paragraph (4), by striking 
+                      subparagraph (C);
+                          (iii) by inserting after paragraph (11) the 
+                      following new paragraph:
+            ``(12) As part of the organization's review responsibility 
+        under paragraph (1), the organization shall review all 
+        ambulatory surgical procedures specified pursuant to section 
+        1833(i)(1)(A) which are performed in the area, or, at the 
+        discretion of the Secretary, a sample of such procedures.''; and
+                          (iv) in paragraph (15), by striking 
+                      ``significant on-site review activities'' and all 
+                      that follows before the period at the end and 
+                      inserting ``on-site review activities as the 
+                      Secretary determines appropriate''.
+                    (B) by striking subsection (d) and redesignating 
+                subsections (b) and (c) as subsections (c) and (d), 
+                respectively; and
+                    (C) by inserting after subsection (a) the following 
+                new subsection:
+
+    ``(b) A quality improvement organization entering into a contract 
+with the Secretary to perform a function described in a paragraph under 
+subsection (a) must perform all of the activities described in such 
+paragraph, except to the extent otherwise negotiated with the Secretary 
+pursuant to the contract or except for a function for which the 
+Secretary determines it is not appropriate for the organization to 
+perform, such as a function that could cause a conflict of interest with 
+another function.''.
+    (d) Quality Improvement as Specified Function.--Section 1154(a) of 
+the Social Security Act (42 U.S.C. 1320c-3(a)) is amended by adding at 
+the end the following new paragraph:
+
+[[Page 125 STAT. 426]]
+
+            ``(18) The organization shall perform, subject to the terms 
+        of the contract, such other activities as the Secretary 
+        determines may be necessary for the purposes of improving the 
+        quality of care furnished to individuals with respect to items 
+        and services for which payment may be made under title XVIII.''.
+
+    (e) Effective <<NOTE: 42 USC 1320c note.>>  Date.--The amendments 
+made by this section shall apply to contracts entered into or renewed on 
+or after January 1, 2012.
+SEC. 262. <<NOTE: 19 USC 58c note.>> RATES FOR MERCHANDISE 
+                        PROCESSING FEES.
+
+    (a) Fees for Period From July 1, 2014, to November 30, 2015.--For 
+the period beginning on July 1, 2014, and ending on November 30, 2015, 
+section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation 
+Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and administered--
+            (1) in subparagraph (A), by substituting ``0.3464'' for 
+        ``0.21''; and
+            (2) in subparagraph (B)(i), by substituting ``0.3464'' for 
+        ``0.21''.
+
+    (b) Fees for Period From October 1, 2016, to September 30, 2019.--
+For the period beginning on October 1, 2016, and ending on September 30, 
+2019, section 13031(a)(9) of the Consolidated Omnibus Budget 
+Reconciliation Act of 1985 (19 U.S.C. 58c(a)(9)) shall be applied and 
+administered--
+            (1) in subparagraph (A), by substituting ``0.1740'' for 
+        ``0.21''; and
+            (2) in subparagraph (B)(i), by substituting ``0.1740'' for 
+        ``0.21''.
+SEC. 263. <<NOTE: Deadlines. 19 USC 58c note.>> TIME FOR REMITTING 
+                        CERTAIN MERCHANDISE PROCESSING FEES.
+
+    (a) In General.--Notwithstanding any other provision of law, any 
+fees authorized under paragraphs (9) and (10) of section 13031(a) of the 
+Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a) 
+(9) and (10)) with respect to processing merchandise entered on or after 
+October 1, 2012, and before November 12, 2012, shall be paid not later 
+than September 25, 2012, in an amount equivalent to the amount of such 
+fees paid by the person responsible for such fees with respect to 
+merchandise entered on or after October 1, 2011, and before November 12, 
+2011, as determined by the Secretary of the Treasury.
+    (b) Reconciliation of Merchandise Processing Fees.--
+            (1) In general.--Not later than December 12, 2012, the 
+        Secretary of the Treasury shall reconcile the fees paid pursuant 
+        to subsection (a) with the fees for services actually provided 
+        on or after October 1, 2012, and before November 12, 2012.
+            (2) Refunds of overpayments.--
+                    (A) After making the reconciliation required under 
+                paragraph (1), the Secretary of the Treasury shall 
+                refund with interest any overpayment of such fees made 
+                under subsection (a) and make proper adjustments with 
+                respect to any underpayment of such fees.
+                    (B) No interest may be assessed with respect to any 
+                such underpayment that was based on the amount of fees
+
+[[Page 125 STAT. 427]]
+
+                paid for merchandise entered on or after October 1, 
+                2012, and before November 12, 2012.
+
+    Approved October 21, 2011.
+
+LEGISLATIVE HISTORY--H.R. 2832:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 157 (2011):
+            Sept. 7, considered and passed House.
+            Sept. 20-22, considered and passed Senate, amended.
+            Oct. 12, House concurred in Senate amendment.
+
+                                  
+

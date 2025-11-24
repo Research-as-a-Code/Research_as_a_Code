@@ -1,0 +1,161 @@
+
+[114th Congress Public Law 186]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 545]]
+
+             FRAUD REDUCTION AND DATA ANALYTICS ACT OF 2015
+
+[[Page 130 STAT. 546]]
+
+Public Law 114-186
+114th Congress
+
+                                 An Act
+
+
+ 
+  To improve Federal agency financial and administrative controls and 
+ procedures to assess and mitigate fraud risks, and to improve Federal 
+   agencies' development and use of data analytics for the purpose of 
+  identifying, preventing, and responding to fraud, including improper 
+             payments. <<NOTE: June 30, 2016 -  [S. 2133]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Fraud Reduction 
+and Data Analytics Act of 2015. 31 USC 3321 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fraud Reduction and Data Analytics 
+Act of 2015''.
+SEC. 2. DEFINITIONS.
+
+    In this Act--
+            (1) the term ``agency'' has the meaning given the term in 
+        section 551 of title 5, United States Code; and
+            (2) the term ``improper payment'' has the meaning given the 
+        term in section 2(g) of the Improper Payments Information Act of 
+        2002 (31 U.S.C. 3321 note).
+SEC. 3. ESTABLISHMENT OF FINANCIAL AND ADMINISTRATIVE CONTROLS 
+                    RELATING TO FRAUD AND IMPROPER PAYMENTS.
+
+    (a) Guidelines.--
+            (1) <<NOTE: Deadline. Consultation.>>  In general.--Not 
+        later than 90 days after the date of enactment of this Act, the 
+        Director of the Office of Management and Budget, in consultation 
+        with the Comptroller General of the United States, shall 
+        establish guidelines for agencies to establish financial and 
+        administrative controls to identify and assess fraud risks and 
+        design and implement control activities in order to prevent, 
+        detect, and respond to fraud, including improper payments.
+            (2) Contents.--The guidelines described in paragraph (1) 
+        shall incorporate the leading practices identified in the report 
+        published by the Government Accountability Office on July 28, 
+        2015, entitled ``Framework for Managing Fraud Risks in Federal 
+        Programs''.
+            (3) <<NOTE: Consultation.>>  Modification.--The Director of 
+        the Office of Management and Budget, in consultation with the 
+        Comptroller General of the United States, may periodically 
+        modify the guidelines described in paragraph (1) as the Director 
+        and Comptroller General may determine necessary.
+
+    (b) Requirements for Controls.--The financial and administrative 
+controls required to be established by agencies under subsection (a) 
+shall include--
+
+[[Page 130 STAT. 547]]
+
+            (1) <<NOTE: Evaluation.>>  conducting an evaluation of fraud 
+        risks and using a risk-based approach to design and implement 
+        financial and administrative control activities to mitigate 
+        identified fraud risks;
+            (2) collecting and analyzing data from reporting mechanisms 
+        on detected fraud to monitor fraud trends and using that data 
+        and information to continuously improve fraud prevention 
+        controls; and
+            (3) using the results of monitoring, evaluation, audits, and 
+        investigations to improve fraud prevention, detection, and 
+        response.
+
+    (c) Reports.--
+            (1) <<NOTE: Time periods.>>  In general.--Except as provided 
+        in paragraph (2), for each of the first 3 fiscal years beginning 
+        after the date of enactment of this Act, each agency shall 
+        submit to Congress, as part of the annual financial report of 
+        the agency, a report on the progress of the agency in--
+                    (A) implementing--
+                          (i) the financial and administrative controls 
+                      required to be established under subsection (a);
+                          (ii) the fraud risk principle in the Standards 
+                      for Internal Control in the Federal Government; 
+                      and
+                          (iii) Office of Management and Budget Circular 
+                      A-123 with respect to the leading practices for 
+                      managing fraud risk;
+                    (B) identifying risks and vulnerabilities to fraud, 
+                including with respect to payroll, beneficiary payments, 
+                grants, large contracts, and purchase and travel cards; 
+                and
+                    (C) establishing strategies, procedures, and other 
+                steps to curb fraud.
+            (2) First report.--If the date of enactment of this Act is 
+        less than 180 days before the date on which an agency is 
+        required to submit the annual financial report of the agency, 
+        the agency may submit the report required under paragraph (1) as 
+        part of the following annual financial report of the agency.
+SEC. 4. WORKING GROUP.
+
+    (a) <<NOTE: Deadline.>>  Establishment.--Not later than 180 days 
+after the date of enactment of this Act, the Office of Management and 
+Budget shall establish a working group to improve--
+            (1) the sharing of financial and administrative controls 
+        established under section 3(a) and other best practices and 
+        techniques for detecting, preventing, and responding to fraud, 
+        including improper payments; and
+            (2) the sharing and development of data analytics 
+        techniques.
+
+    (b) Composition.--The working group established under subsection (a) 
+shall be composed of--
+            (1) the Controller of the Office of Management and Budget, 
+        who shall serve as Chairperson;
+            (2) the Chief Financial Officer of each agency; and
+            (3) any other party determined to be appropriate by the 
+        Director of the Office of Management and Budget, which may 
+        include the Chief Information Officer, the Chief Procurement 
+        Officer, or the Chief Operating Officer of each agency.
+
+[[Page 130 STAT. 548]]
+
+    (c) Consultation.--The working group established under subsection 
+(a) shall consult with Offices of Inspectors General and Federal and 
+non-Federal experts on fraud risk assessments, financial controls, and 
+other relevant matters.
+    (d) Meetings.--The working group established under subsection (a) 
+shall hold not fewer than 4 meetings per year.
+    (e) <<NOTE: Deadline.>>  Plan.--Not later than 270 days after the 
+date of enactment of this Act, the working group established under 
+subsection (a) shall submit to Congress a plan for the establishment and 
+use of a Federal interagency library of data analytics and data sets, 
+which can incorporate or improve upon existing Federal resources and 
+capacities, for use by agencies and Offices of Inspectors General to 
+facilitate the detection, prevention, and recovery of fraud, including 
+improper payments.
+
+    Approved June 30, 2016.
+
+LEGISLATIVE HISTORY--S. 2133 (H.R. 4180):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-419 (Comm. on Oversight and Government Reform) 
+accompanying H.R. 4180.
+SENATE REPORTS: No. 114-229 (Comm. on Homeland Security and Governmental 
+Affairs).
+CONGRESSIONAL RECORD, Vol. 162 (2016):
+            Apr. 12, considered and passed Senate.
+            June 21, considered and passed House.
+
+                                  
+

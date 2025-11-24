@@ -1,0 +1,884 @@
+
+[116th Congress Public Law 16]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 851]]
+
+       MEDICAID SERVICES INVESTMENT AND ACCOUNTABILITY ACT OF 2019
+
+[[Page 133 STAT. 852]]
+
+Public Law 116-16
+116th Congress
+
+                                 An Act
+
+
+ 
+To amend title XIX to extend protection for Medicaid recipients of home 
+and community-based services against spousal impoverishment, establish a 
+   State Medicaid option to provide coordinated care to children with 
+      complex medical conditions through health homes, prevent the 
+  misclassification of drugs for purposes of the Medicaid drug rebate 
+program, and for other purposes. <<NOTE: Apr. 18, 2019 -  [H.R. 1839]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Medicaid 
+Services Investment and Accountability Act of 2019. 42 USC 1305 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Medicaid Services Investment and 
+Accountability Act of 2019''.
+SEC. 2. EXTENSION OF PROTECTION FOR MEDICAID RECIPIENTS OF HOME 
+                    AND COMMUNITY-BASED SERVICES AGAINST SPOUSAL 
+                    IMPOVERISHMENT.
+
+    (a) In General.--Section 2404 of Public Law 111-148 (42 U.S.C. 
+1396r-5 note), as amended by section 3(a) of the Medicaid Extenders Act 
+of 2019 (Public Law 116-3), is amended by striking ``March 31, 2019'' 
+and inserting ``September 30, 2019''.
+    (b) <<NOTE: 42 USC 1396r-5 note.>>  Rule of Construction.--
+            (1) Protecting state spousal income and asset disregard 
+        flexibility under waivers and plan amendments.--Nothing in 
+        section 2404 of Public Law 111-148 (42 U.S.C. 1396r-5 note) or 
+        section 1924 of the Social Security Act (42 U.S.C. 1396r-5) 
+        shall be construed as prohibiting a State from disregarding an 
+        individual's spousal income and assets under a State waiver or 
+        plan amendment described in paragraph (2) for purposes of making 
+        determinations of eligibility for home and community-based 
+        services or home and community-based attendant services and 
+        supports under such waiver or plan amendment.
+            (2) State waiver or plan amendment described.--A State 
+        waiver or plan amendment described in this paragraph is any of 
+        the following:
+                    (A) A waiver or plan amendment to provide medical 
+                assistance for home and community-based services under a 
+                waiver or plan amendment under subsection (c), (d), or 
+                (i) of section 1915 of the Social Security Act (42 
+                U.S.C. 1396n) or under section 1115 of such Act (42 
+                U.S.C. 1315).
+                    (B) A plan amendment to provide medical assistance 
+                for home and community-based services for individuals by 
+                reason of being determined eligible under section 
+                1902(a)(10)(C) of such Act (42 U.S.C. 1396a(a)(10)(C)) 
+                or by reason of section 1902(f) of such Act (42 U.S.C. 
+                1396a(f))
+
+[[Page 133 STAT. 853]]
+
+                or otherwise on the basis of a reduction of income based 
+                on costs incurred for medical or other remedial care 
+                under which the State disregarded the income and assets 
+                of the individual's spouse in determining the initial 
+                and ongoing financial eligibility of an individual for 
+                such services in place of the spousal impoverishment 
+                provisions applied under section 1924 of such Act (42 
+                U.S.C. 1396r-5).
+                    (C) A plan amendment to provide medical assistance 
+                for home and community-based attendant services and 
+                supports under section 1915(k) of such Act (42 U.S.C. 
+                1396n(k)).
+SEC. 3. STATE OPTION TO PROVIDE COORDINATED CARE THROUGH A HEALTH 
+                    HOME FOR CHILDREN WITH MEDICALLY COMPLEX 
+                    CONDITIONS.
+
+    Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is 
+amended by inserting after section 1945 the following new section:
+``SEC. 1945A. <<NOTE: 42 USC 1396w-4a.>>  STATE OPTION TO PROVIDE 
+                            COORDINATED CARE THROUGH A HEALTH HOME 
+                            FOR CHILDREN WITH MEDICALLY COMPLEX 
+                            CONDITIONS.
+
+    ``(a) <<NOTE: Effective date.>>  In General.--Notwithstanding 
+section 1902(a)(1) (relating to statewideness) and section 
+1902(a)(10)(B) (relating to comparability), beginning October 1, 2022, a 
+State, at its option as a State plan amendment, may provide for medical 
+assistance under this title to children with medically complex 
+conditions who choose to enroll in a health home under this section by 
+selecting a designated provider, a team of health care professionals 
+operating with such a provider, or a health team as the child's health 
+home for purposes of providing the child with health home services.
+
+    ``(b) <<NOTE: Coordination.>>  Health Home Qualification 
+Standards.--The Secretary shall establish standards for qualification as 
+a health home for purposes of this section. Such standards shall include 
+requiring designated providers, teams of health care professionals 
+operating with such providers, and health teams to demonstrate to the 
+State the ability to do the following:
+            ``(1) Coordinate prompt care for children with medically 
+        complex conditions, including access to pediatric emergency 
+        services at all times.
+            ``(2) Develop an individualized comprehensive pediatric 
+        family-centered care plan for children with medically complex 
+        conditions that accommodates patient preferences.
+            ``(3) Work in a culturally and linguistically appropriate 
+        manner with the family of a child with medically complex 
+        conditions to develop and incorporate into such child's care 
+        plan, in a manner consistent with the needs of the child and the 
+        choices of the child's family, ongoing home care, community-
+        based pediatric primary care, pediatric inpatient care, social 
+        support services, and local hospital pediatric emergency care.
+            ``(4) Coordinate access to--
+                    ``(A) subspecialized pediatric services and programs 
+                for children with medically complex conditions, 
+                including the most intensive diagnostic, treatment, and 
+                critical care levels as medically necessary; and
+                    ``(B) palliative services if the State provides such 
+                services under the State plan (or a waiver of such 
+                plan).
+            ``(5) Coordinate care for children with medically complex 
+        conditions with out-of-State providers furnishing care to such
+
+[[Page 133 STAT. 854]]
+
+        children to the maximum extent practicable for the families of 
+        such children and where medically necessary, in accordance with 
+        guidance issued under subsection (e)(1) and section 431.52 of 
+        title 42, Code of Federal Regulations.
+            ``(6) Collect and report information under subsection 
+        (g)(1).
+
+    ``(c) Payments.--
+            ``(1) In general.--A State shall provide a designated 
+        provider, a team of health care professionals operating with 
+        such a provider, or a health team with payments for the 
+        provision of health home services to each child with medically 
+        complex conditions that selects such provider, team of health 
+        care professionals, or health team as the child's health home. 
+        Payments made to a designated provider, a team of health care 
+        professionals operating with such a provider, or a health team 
+        for such services shall be treated as medical assistance for 
+        purposes of section 1903(a), except that, during the first 2 
+        fiscal year quarters that the State plan amendment is in effect, 
+        the Federal medical assistance percentage applicable to such 
+        payments shall be increased by 15 percentage points, but in no 
+        case may exceed 90 percent.
+            ``(2) Methodology.--
+                    ``(A) In general.--The State shall specify in the 
+                State plan amendment the methodology the State will use 
+                for determining payment for the provision of health home 
+                services. Such methodology for determining payment--
+                          ``(i) may be tiered to reflect, with respect 
+                      to each child with medically complex conditions 
+                      provided such services by a designated provider, a 
+                      team of health care professionals operating with 
+                      such a provider, or a health team, the severity or 
+                      number of each such child's chronic conditions, 
+                      life-threatening illnesses, disabilities, or rare 
+                      diseases, or the specific capabilities of the 
+                      provider, team of health care professionals, or 
+                      health team; and
+                          ``(ii) shall be established consistent with 
+                      section 1902(a)(30)(A).
+                    ``(B) Alternate models of payment.--The methodology 
+                for determining payment for provision of health home 
+                services under this section shall not be limited to a 
+                per-member per-month basis and may provide (as proposed 
+                by the State and subject to approval by the Secretary) 
+                for alternate models of payment.
+            ``(3) Planning grants.--
+                    ``(A) <<NOTE: Effective date.>>  In general.--
+                Beginning October 1, 2022, the Secretary may award 
+                planning grants to States for purposes of developing a 
+                State plan amendment under this section. A planning 
+                grant awarded to a State under this paragraph shall 
+                remain available until expended.
+                    ``(B) State contribution.--A State awarded a 
+                planning grant shall contribute an amount equal to the 
+                State percentage determined under section 1905(b) 
+                (without regard to section 5001 of Public Law 111-5) for 
+                each fiscal year for which the grant is awarded.
+                    ``(C) Limitation.--The total amount of payments made 
+                to States under this paragraph shall not exceed 
+                $5,000,000.
+
+    ``(d) Coordinating Care.--
+
+[[Page 133 STAT. 855]]
+
+            ``(1) <<NOTE: Procedures.>>  Hospital notification.--A State 
+        with a State plan amendment approved under this section shall 
+        require each hospital that is a participating provider under the 
+        State plan (or a waiver of such plan) to establish procedures 
+        for, in the case of a child with medically complex conditions 
+        who is enrolled in a health home pursuant to this section and 
+        seeks treatment in the emergency department of such hospital, 
+        notifying the health home of such child of such treatment.
+            ``(2) Education with respect to availability of health home 
+        services.--In order for a State plan amendment to be approved 
+        under this section, a State shall include in the State plan 
+        amendment a description of the State's process for educating 
+        providers participating in the State plan (or a waiver of such 
+        plan) on the availability of health home services for children 
+        with medically complex conditions, including the process by 
+        which such providers can refer such children to a designated 
+        provider, team of health care professionals operating such a 
+        provider, or health team for the purpose of establishing a 
+        health home through which such children may receive such 
+        services.
+            ``(3) Family education.--In order for a State plan amendment 
+        to be approved under this section, a State shall include in the 
+        State plan amendment a description of the State's process for 
+        educating families with children eligible to receive health home 
+        services pursuant to this section of the availability of such 
+        services. Such process shall include the participation of 
+        family-to-family entities or other public or private 
+        organizations or entities who provide outreach and information 
+        on the availability of health care items and services to 
+        families of individuals eligible to receive medical assistance 
+        under the State plan (or a waiver of such plan).
+            ``(4) <<NOTE: Consultation.>>  Mental health coordination.--
+        A State with a State plan amendment approved under this section 
+        shall consult and coordinate, as appropriate, with the Secretary 
+        in addressing issues regarding the prevention and treatment of 
+        mental illness and substance use among children with medically 
+        complex conditions receiving health home services under this 
+        section.
+
+    ``(e) Guidance on Coordinating Care From Out-of-State Providers.--
+            ``(1) <<NOTE: Deadline.>>  In general.--Not later than 
+        October 1, 2020, the Secretary shall issue (and update as the 
+        Secretary determines necessary) guidance to State Medicaid 
+        directors on--
+                    ``(A) best practices for using out-of-State 
+                providers to provide care to children with medically 
+                complex conditions;
+                    ``(B) coordinating care for such children provided 
+                by such out-of-State providers (including when provided 
+                in emergency and non-emergency situations);
+                    ``(C) reducing barriers for such children receiving 
+                care from such providers in a timely fashion; and
+                    ``(D) processes for screening and enrolling such 
+                providers in the respective State plan (or a waiver of 
+                such plan), including efforts to streamline such 
+                processes or reduce the burden of such processes on such 
+                providers.
+            ``(2) Stakeholder input.--In carrying out paragraph (1), the 
+        Secretary shall issue a request for information to seek input 
+        from children with medically complex conditions and their 
+        families, States, providers (including children's hospitals,
+
+[[Page 133 STAT. 856]]
+
+        hospitals, pediatricians, and other providers), managed care 
+        plans, children's health groups, family and beneficiary 
+        advocates, and other stakeholders with respect to coordinating 
+        the care for such children provided by out-of-State providers.
+
+    ``(f) <<NOTE: Methodologies.>>  Monitoring.--A State shall include 
+in the State plan amendment--
+            ``(1) a methodology for tracking reductions in inpatient 
+        days and reductions in the total cost of care resulting from 
+        improved care coordination and management under this section;
+            ``(2) <<NOTE: Proposal.>>  a proposal for use of health 
+        information technology in providing health home services under 
+        this section and improving service delivery and coordination 
+        across the care continuum (including the use of wireless patient 
+        technology to improve coordination and management of care and 
+        patient adherence to recommendations made by their provider); 
+        and
+            ``(3) a methodology for tracking prompt and timely access to 
+        medically necessary care for children with medically complex 
+        conditions from out-of-State providers.
+
+    ``(g) Data Collection.--
+            ``(1) Provider reporting requirements.--In order to receive 
+        payments from a State under subsection (c), a designated 
+        provider, a team of health care professionals operating with 
+        such a provider, or a health team shall report to the State, at 
+        such time and in such form and manner as may be required by the 
+        State, the following information:
+                    ``(A) With respect to each such provider, team of 
+                health care professionals, or health team, the name, 
+                National Provider Identification number, address, and 
+                specific health care services offered to be provided to 
+                children with medically complex conditions who have 
+                selected such provider, team of health care 
+                professionals, or health team as the health home of such 
+                children.
+                    ``(B) Information on all applicable measures for 
+                determining the quality of health home services provided 
+                by such provider, team of health care professionals, or 
+                health team, including, to the extent applicable, child 
+                health quality measures and measures for centers of 
+                excellence for children with complex needs developed 
+                under this title, title XXI, and section 1139A.
+                    ``(C) Such other information as the Secretary shall 
+                specify in guidance.
+        When appropriate and feasible, such provider, team of health 
+        care professionals, or health team, as the case may be, shall 
+        use health information technology in providing the State with 
+        such information.
+            ``(2) State reporting requirements.--
+                    ``(A) Comprehensive report.--A State with a State 
+                plan amendment approved under this section shall report 
+                to the Secretary (and, upon request, to the Medicaid and 
+                CHIP Payment and Access Commission), at such time and in 
+                such form and manner determined by the Secretary to be 
+                reasonable and minimally burdensome, the following 
+                information:
+                          ``(i) Information reported under paragraph 
+                      (1).
+                          ``(ii) The number of children with medically 
+                      complex conditions who have selected a health home 
+                      pursuant to this section.
+
+[[Page 133 STAT. 857]]
+
+                          ``(iii) The nature, number, and prevalence of 
+                      chronic conditions, life-threatening illnesses, 
+                      disabilities, or rare diseases that such children 
+                      have.
+                          ``(iv) The type of delivery systems and 
+                      payment models used to provide services to such 
+                      children under this section.
+                          ``(v) The number and characteristics of 
+                      designated providers, teams of health care 
+                      professionals operating with such providers, and 
+                      health teams selected as health homes pursuant to 
+                      this section, including the number and 
+                      characteristics of out-of-State providers, teams 
+                      of health care professionals operating with such 
+                      providers, and health teams who have provided 
+                      health care items and services to such children.
+                          ``(vi) The extent to which such children 
+                      receive health care items and services under the 
+                      State plan.
+                          ``(vii) Quality measures developed 
+                      specifically with respect to health care items and 
+                      services provided to children with medically 
+                      complex conditions.
+                    ``(B) <<NOTE: Public information. Web posting.>>  
+                Report on best practices.--Not later than 90 days after 
+                a State has a State plan amendment approved under this 
+                section, such State shall submit to the Secretary, and 
+                make publicly available on the appropriate State 
+                website, a report on how the State is implementing 
+                guidance issued under subsection (e)(1), including 
+                through any best practices adopted by the State.
+
+    ``(h) Rule of Construction.--Nothing in this section may be 
+construed--
+            ``(1) to require a child with medically complex conditions 
+        to enroll in a health home under this section;
+            ``(2) to limit the choice of a child with medically complex 
+        conditions in selecting a designated provider, team of health 
+        care professionals operating with such a provider, or health 
+        team that meets the health home qualification standards 
+        established under subsection (b) as the child's health home; or
+            ``(3) to reduce or otherwise modify--
+                    ``(A) the entitlement of children with medically 
+                complex conditions to early and periodic screening, 
+                diagnostic, and treatment services (as defined in 
+                section 1905(r)); or
+                    ``(B) the informing, providing, arranging, and 
+                reporting requirements of a State under section 
+                1902(a)(43).
+
+    ``(i) Definitions.--In this section:
+            ``(1) Child with medically complex conditions.--
+                    ``(A) In general.--Subject to subparagraph (B), the 
+                term `child with medically complex conditions' means an 
+                individual under 21 years of age who--
+                          ``(i) is eligible for medical assistance under 
+                      the State plan (or under a waiver of such plan); 
+                      and
+                          ``(ii) has at least--
+                                    ``(I) one or more chronic conditions 
+                                that cumulatively affect three or more 
+                                organ systems and severely reduces 
+                                cognitive or physical functioning (such 
+                                as the ability to eat, drink, or breathe 
+                                independently) and that also requires 
+                                the use of medication, durable medical 
+                                equipment, therapy, surgery, or other 
+                                treatments; or
+
+[[Page 133 STAT. 858]]
+
+                                    ``(II) one life-limiting illness or 
+                                rare pediatric disease (as defined in 
+                                section 529(a)(3) of the Federal Food, 
+                                Drug, and Cosmetic Act (21 U.S.C. 
+                                360ff(a)(3))).
+                    ``(B) Rule of construction.--Nothing in this 
+                paragraph shall prevent the Secretary from establishing 
+                higher levels as to the number or severity of chronic, 
+                life threatening illnesses, disabilities, rare diseases 
+                or mental health conditions for purposes of determining 
+                eligibility for receipt of health home services under 
+                this section.
+            ``(2) Chronic condition.--The term `chronic condition' means 
+        a serious, long-term physical, mental, or developmental 
+        disability or disease, including the following:
+                    ``(A) Cerebral palsy.
+                    ``(B) Cystic fibrosis.
+                    ``(C) HIV/AIDS.
+                    ``(D) Blood diseases, such as anemia or sickle cell 
+                disease.
+                    ``(E) Muscular dystrophy.
+                    ``(F) Spina bifida.
+                    ``(G) Epilepsy.
+                    ``(H) Severe autism spectrum disorder.
+                    ``(I) Serious emotional disturbance or serious 
+                mental health illness.
+            ``(3) Health home.--The term `health home' means a 
+        designated provider (including a provider that operates in 
+        coordination with a team of health care professionals) or a 
+        health team selected by a child with medically complex 
+        conditions (or the family of such child) to provide health home 
+        services.
+            ``(4) Health home services.--
+                    ``(A) In general.--The term `health home services' 
+                means comprehensive and timely high-quality services 
+                described in subparagraph (B) that are provided by a 
+                designated provider, a team of health care professionals 
+                operating with such a provider, or a health team.
+                    ``(B) Services described.--The services described in 
+                this subparagraph shall include--
+                          ``(i) comprehensive care management;
+                          ``(ii) care coordination, health promotion, 
+                      and providing access to the full range of 
+                      pediatric specialty and subspecialty medical 
+                      services, including services from out-of-State 
+                      providers, as medically necessary;
+                          ``(iii) comprehensive transitional care, 
+                      including appropriate follow-up, from inpatient to 
+                      other settings;
+                          ``(iv) patient and family support (including 
+                      authorized representatives);
+                          ``(v) referrals to community and social 
+                      support services, if relevant; and
+                          ``(vi) use of health information technology to 
+                      link services, as feasible and appropriate.
+            ``(5) Designated provider.--The term `designated provider' 
+        means a physician (including a pediatrician or a pediatric 
+        specialty or subspecialty provider), children's hospital, 
+        clinical practice or clinical group practice, prepaid inpatient 
+        health plan or prepaid ambulatory health plan (as defined by the 
+        Secretary), rural clinic, community health center, community 
+        mental health center, home health agency, or any other entity or 
+        provider
+
+[[Page 133 STAT. 859]]
+
+        that is determined by the State and approved by the Secretary to 
+        be qualified to be a health home for children with medically 
+        complex conditions on the basis of documentation evidencing that 
+        the entity has the systems, expertise, and infrastructure in 
+        place to provide health home services. Such term may include 
+        providers who are employed by, or affiliated with, a children's 
+        hospital.
+            ``(6) Team of health care professionals.--The term `team of 
+        health care professionals' means a team of health care 
+        professionals (as described in the State plan amendment under 
+        this section) that may--
+                    ``(A) include--
+                          ``(i) physicians and other professionals, such 
+                      as pediatricians or pediatric specialty or 
+                      subspecialty providers, nurse care coordinators, 
+                      dietitians, nutritionists, social workers, 
+                      behavioral health professionals, physical 
+                      therapists, occupational therapists, speech 
+                      pathologists, nurses, individuals with experience 
+                      in medical supportive technologies, or any 
+                      professionals determined to be appropriate by the 
+                      State and approved by the Secretary;
+                          ``(ii) an entity or individual who is 
+                      designated to coordinate such a team; and
+                          ``(iii) community health workers, translators, 
+                      and other individuals with culturally-appropriate 
+                      expertise; and
+                    ``(B) be freestanding, virtual, or based at a 
+                children's hospital, hospital, community health center, 
+                community mental health center, rural clinic, clinical 
+                practice or clinical group practice, academic health 
+                center, or any entity determined to be appropriate by 
+                the State and approved by the Secretary.
+            ``(7) Health team.--The term `health team' has the meaning 
+        given such term for purposes of section 3502 of Public Law 111-
+        148.''.
+SEC. 4. EXTENSION OF THE COMMUNITY MENTAL HEALTH SERVICES 
+                    DEMONSTRATION PROGRAM.
+
+    Section 223(d)(3) of the Protecting Access to Medicare Act of 2014 
+(42 U.S.C. 1396a note) is amended by striking ``for 2-year demonstration 
+programs under this subsection'' and inserting ``to conduct 
+demonstration programs under this subsection for 2 years or through June 
+30, 2019, whichever is longer''.
+SEC. 5. ADDITIONAL FUNDING FOR THE MONEY FOLLOWS THE PERSON 
+                    REBALANCING DEMONSTRATION.
+
+    Section 6071(h)(1)(F) of the Deficit Reduction Act of 2005 (42 
+U.S.C. 1396a note) is amended by striking ``$112,000,000'' and inserting 
+``132,000,000''.
+SEC. 6. PREVENTING THE MISCLASSIFICATION OF DRUGS UNDER THE 
+                    MEDICAID DRUG REBATE PROGRAM.
+
+    (a) Application of Civil Money Penalty for Misclassification of 
+Covered Outpatient Drugs.--
+            (1) In general.--Section 1927(b)(3) of the Social Security 
+        Act (42 U.S.C. 1396r-8(b)(3)) is amended--
+                    (A) in the paragraph heading, by inserting ``and 
+                drug product'' after ``price'';
+
+[[Page 133 STAT. 860]]
+
+                    (B) in subparagraph (A)--
+                          (i) in clause (ii), by striking ``; and'' at 
+                      the end and inserting a semicolon;
+                          (ii) in clause (iii), by striking the period 
+                      at the end and inserting a semicolon;
+                          (iii) in clause (iv), by striking the 
+                      semicolon at the end and inserting ``; and''; and
+                          (iv) by inserting after clause (iv) the 
+                      following new clause:
+                          ``(v) <<NOTE: Deadline.>>  not later than 30 
+                      days after the last day of each month of a rebate 
+                      period under the agreement, such drug product 
+                      information as the Secretary shall require for 
+                      each of the manufacturer's covered outpatient 
+                      drugs.''; and
+                    (C) in subparagraph (C)--
+                          (i) in clause (ii), by inserting ``, including 
+                      information related to drug pricing, drug product 
+                      information, and data related to drug pricing or 
+                      drug product information,'' after ``provides false 
+                      information'';
+                          (ii) by adding at the end the following new 
+                      clauses:
+                          ``(iii) Misclassified drug product or 
+                      misreported information.--
+                                    ``(I) <<NOTE: Penalties.>>  In 
+                                general.--Any manufacturer with an 
+                                agreement under this section that 
+                                knowingly (as defined in section 
+                                1003.110 of title 42, Code of Federal 
+                                Regulations (or any successor 
+                                regulation)) misclassifies a covered 
+                                outpatient drug, such as by knowingly 
+                                submitting incorrect drug product 
+                                information, is subject to a civil money 
+                                penalty for each covered outpatient drug 
+                                that is misclassified in an amount not 
+                                to exceed 2 times the amount of the 
+                                difference between--
+                                            ``(aa) the total amount of 
+                                        rebates that the manufacturer 
+                                        paid with respect to the drug to 
+                                        all States for all rebate 
+                                        periods during which the drug 
+                                        was misclassified; and
+                                            ``(bb) the total amount of 
+                                        rebates that the manufacturer 
+                                        would have been required to pay, 
+                                        as determined by the Secretary 
+                                        using drug product information 
+                                        provided by the manufacturer, 
+                                        with respect to the drug to all 
+                                        States for all rebate periods 
+                                        during which the drug was 
+                                        misclassified if the drug had 
+                                        been correctly classified.
+                                    ``(II) Other penalties and recovery 
+                                of underpaid rebates.--The civil money 
+                                penalties described in subclause (I) are 
+                                in addition to other penalties as may be 
+                                prescribed by law and any other recovery 
+                                of the underlying underpayment for 
+                                rebates due under this section or the 
+                                terms of the rebate agreement as 
+                                determined by the Secretary.
+                          ``(iv) Increasing oversight and enforcement.--
+                      Each year the Secretary shall retain, in addition 
+                      to any amount retained by the Secretary to recoup 
+                      investigation and litigation costs related to the 
+                      enforcement of the civil money penalties under 
+                      this subparagraph
+
+[[Page 133 STAT. 861]]
+
+                      and subsection (c)(4)(B)(ii)(III), an amount equal 
+                      to 25 percent of the total amount of civil money 
+                      penalties collected under this subparagraph and 
+                      subsection (c)(4)(B)(ii)(III) for the year, and 
+                      such retained amount shall be available to the 
+                      Secretary, without further appropriation and until 
+                      expended, for activities related to the oversight 
+                      and enforcement of this section and agreements 
+                      under this section, including--
+                                    ``(I) improving drug data reporting 
+                                systems;
+                                    ``(II) evaluating and ensuring 
+                                manufacturer compliance with rebate 
+                                obligations; and
+                                    ``(III) oversight and enforcement 
+                                related to ensuring that manufacturers 
+                                accurately and fully report drug 
+                                information, including data related to 
+                                drug classification.''; and
+                          (iii) in subparagraph (D)--
+                                    (I) in clause (iv), by striking ``, 
+                                and'' and inserting a comma;
+                                    (II) in clause (v), by striking the 
+                                period and inserting ``, and''; and
+                                    (III) by inserting after clause (v) 
+                                the following new clause:
+                          ``(vi) in the case of categories of drug 
+                      product or classification information that were 
+                      not considered confidential by the Secretary on 
+                      the day before the date of the enactment of this 
+                      clause.''.
+            (2) Technical amendments.--
+                    (A) Section 1903(i)(10) of the Social Security Act 
+                (42 U.S.C. 1396b(i)(10)) is amended--
+                          (i) in subparagraph (C)--
+                                    (I) by adjusting the left margin so 
+                                as to align with the left margin of 
+                                subparagraph (B); and
+                                    (II) by striking ``, and'' and 
+                                inserting a semicolon;
+                          (ii) in subparagraph (D), by striking ``; or'' 
+                      and inserting ``; and''; and
+                          (iii) by adding at the end the following new 
+                      subparagraph:
+            ``(E) with respect to any amount expended for a covered 
+        outpatient drug for which a suspension under section 
+        1927(c)(4)(B)(ii)(II) is in effect; or''.
+                    (B) Section 1927(b)(3)(C)(ii) of the Social Security 
+                Act (42 U.S.C. 1396r-8(b)(3)(C)(ii)) is amended by 
+                striking ``subsections (a) and (b)'' and inserting 
+                ``subsections (a), (b), (f)(3), and (f)(4)''.
+
+    (b) Recovery of Unpaid Rebate Amounts Due to Misclassification of 
+Covered Outpatient Drugs.--
+            (1) In general.--Section 1927(c) of the Social Security Act 
+        (42 U.S.C. 1396r-8(c)) is amended by adding at the end the 
+        following new paragraph:
+            ``(4) Recovery of unpaid rebate amounts due to 
+        misclassification of covered outpatient drugs.--
+                    ``(A) <<NOTE: Determination.>>  In general.--If the 
+                Secretary determines that a manufacturer with an 
+                agreement under this section paid a lower per-unit 
+                rebate amount to a State for a rebate period as a result 
+                of the misclassification by the manufacturer of a 
+                covered outpatient drug (without regard to
+
+[[Page 133 STAT. 862]]
+
+                whether the manufacturer knowingly made the 
+                misclassification or should have known that the 
+                misclassification would be made) than the per-unit 
+                rebate amount that the manufacturer would have paid to 
+                the State if the drug had been correctly classified, the 
+                manufacturer shall pay to the State an amount equal to 
+                the product of--
+                          ``(i) the difference between--
+                                    ``(I) the per-unit rebate amount 
+                                paid to the State for the period; and
+                                    ``(II) the per-unit rebate amount 
+                                that the manufacturer would have paid to 
+                                the State for the period, as determined 
+                                by the Secretary, if the drug had been 
+                                correctly classified; and
+                          ``(ii) the total units of the drug paid for 
+                      under the State plan in the period.
+                    ``(B) Authority to correct misclassifications.--
+                          ``(i) <<NOTE: Determination. Notification.>>  
+                      In general.--If the Secretary determines that a 
+                      manufacturer with an agreement under this section 
+                      has misclassified a covered outpatient drug 
+                      (without regard to whether the manufacturer 
+                      knowingly made the misclassification or should 
+                      have known that the misclassification would be 
+                      made), the Secretary shall notify the manufacturer 
+                      of the misclassification and require the 
+                      manufacturer to correct the misclassification in a 
+                      timely manner.
+                          ``(ii) Enforcement.--If, after receiving 
+                      notice of a misclassification from the Secretary 
+                      under clause (i), a manufacturer fails to correct 
+                      the misclassification by such time as the 
+                      Secretary shall require, until the manufacturer 
+                      makes such correction, the Secretary may do any or 
+                      all of the following:
+                                    ``(I) Correct the misclassification, 
+                                using drug product information provided 
+                                by the manufacturer, on behalf of the 
+                                manufacturer.
+                                    ``(II) Suspend the misclassified 
+                                drug and the drug's status as a covered 
+                                outpatient drug under the manufacturer's 
+                                national rebate agreement, and exclude 
+                                the misclassified drug from Federal 
+                                financial participation in accordance 
+                                with section 1903(i)(10)(E).
+                                    ``(III) <<NOTE: Penalties.>>  Impose 
+                                a civil money penalty (which shall be in 
+                                addition to any other recovery or 
+                                penalty which may be available under 
+                                this section or any other provision of 
+                                law) for each rebate period during which 
+                                the drug is misclassified not to exceed 
+                                an amount equal to the product of--
+                                            ``(aa) the total number of 
+                                        units of each dosage form and 
+                                        strength of such misclassified 
+                                        drug paid for under any State 
+                                        plan during such a rebate 
+                                        period; and
+                                            ``(bb) 23.1 percent of the 
+                                        average manufacturer price for 
+                                        the dosage form and strength of 
+                                        such misclassified drug.
+                    ``(C) Reporting and transparency.--
+                          ``(i) In general.--The Secretary shall submit 
+                      a report to Congress on at least an annual basis 
+                      that
+
+[[Page 133 STAT. 863]]
+
+                      includes information on the covered outpatient 
+                      drugs that have been identified as misclassified, 
+                      any steps taken to reclassify such drugs, the 
+                      actions the Secretary has taken to ensure the 
+                      payment of any rebate amounts which were unpaid as 
+                      a result of such misclassification, and a 
+                      disclosure of expenditures from the fund created 
+                      in subsection (b)(3)(C)(iv), including an 
+                      accounting of how such funds have been allocated 
+                      and spent in accordance with such subsection.
+                          ``(ii) Public access.--The Secretary shall 
+                      make the information contained in the report 
+                      required under clause (i) available to the public 
+                      on a timely basis.
+                    ``(D) Other penalties and actions.--Actions taken 
+                and penalties imposed under this clause shall be in 
+                addition to other remedies available to the Secretary 
+                including terminating the manufacturer's rebate 
+                agreement for noncompliance with the terms of such 
+                agreement and shall not exempt a manufacturer from, or 
+                preclude the Secretary from pursuing, any civil money 
+                penalty under this title or title XI, or any other 
+                penalty or action as may be prescribed by law.''.
+            (2) Offset of recovered amounts against medical 
+        assistance.--Section 1927(b)(1)(B) of the Social Security Act 
+        (42 U.S.C. 1396r-8(b)(1)(B)) is amended by inserting ``, 
+        including amounts received by a State under subsection (c)(4),'' 
+        after ``in any quarter''.
+
+    (c) Clarifying Definitions.--Section 1927(k) of the Social Security 
+Act (42 U.S.C. 1396r-8(k)) is amended--
+            (1) in paragraph (2)(A), by striking ``paragraph (5)'' and 
+        inserting ``paragraph (4)''; and
+            (2) in paragraph (7)(A)--
+                    (A) by striking ``an original new drug application'' 
+                and inserting ``a new drug application'' each place it 
+                appears;
+                    (B) in clause (i), by striking ``(not including any 
+                drug described in paragraph (5))'' and inserting ``, 
+                including a drug product approved for marketing as a 
+                non-prescription drug that is regarded as a covered 
+                outpatient drug under paragraph (4),'';
+                    (C) in clause (ii)--
+                          (i) by striking ``was originally marketed'' 
+                      and inserting ``is marketed''; and
+                          (ii) by inserting ``, unless the Secretary 
+                      determines that a narrow exception applies (as 
+                      described in section 447.502 of title 42, Code of 
+                      Federal Regulations (or any successor 
+                      regulation))'' before the period; and
+                    (D) in clause (iv)--
+                          (i) by inserting ``, including a drug product 
+                      approved for marketing as a non-prescription drug 
+                      that is regarded as a covered outpatient drug 
+                      under paragraph (4),'' after ``covered outpatient 
+                      drug'';
+                          (ii) by inserting ``unless the Secretary 
+                      determines that a narrow exception applies (as 
+                      described in section 447.502 of title 42, Code of 
+                      Federal Regulations (or any successor 
+                      regulation))'' after ``under the new drug 
+                      application''; and
+                          (iii) by adding at the end the following new 
+                      sentence: ``Such term also includes a covered 
+                      outpatient
+
+[[Page 133 STAT. 864]]
+
+                      drug that is a biological product licensed, 
+                      produced, or distributed under a biologics license 
+                      application approved by the Food and Drug 
+                      Administration.''.
+
+    (d) Exclusion of Manufacturers for Knowing Misclassification of 
+Covered Outpatient Drugs.--Section 1128(b) of the Social Security Act 
+(42 U.S.C. 1320a-7(b)) is amended by adding at the end the following new 
+paragraph:
+            ``(17) Knowingly misclassifying covered outpatient drugs.--
+        Any manufacturer or officer, director, agent, or managing 
+        employee of such manufacturer that knowingly misclassifies a 
+        covered outpatient drug under an agreement under section 1927, 
+        knowingly fails to correct such misclassification, or knowingly 
+        provides false information related to drug pricing, drug product 
+        information, or data related to drug pricing or drug product 
+        information.''.
+
+    (e) <<NOTE: 42 USC 1320a-7 note.>>  Effective Date.--The amendments 
+made by this section shall take effect on the date of the enactment of 
+this Act, and shall apply to covered outpatient drugs supplied by 
+manufacturers under agreements under section 1927 of the Social Security 
+Act (42 U.S.C. 1396r-8) on or after such date.
+SEC. 7. EXTENSION OF THIRD-PARTY LIABILITY PERIOD FOR CHILD 
+                    SUPPORT SERVICES.
+
+    (a) In General.--Section 202(a)(2) of the Bipartisan Budget Act of 
+2013 (Public Law 113-67) is amended by striking ``90 days'' and 
+inserting ``100 days''.
+    (b) <<NOTE: 42 USC 1396a note.>>  Effective Date.--The amendment 
+made by this section shall take effect on the date of the enactment of 
+this Act.
+SEC. 8. DENIAL OF FFP FOR CERTAIN EXPENDITURES RELATING TO VACUUM 
+                    ERECTION SYSTEMS AND PENILE PROSTHETIC 
+                    IMPLANTS.
+
+    (a) In General.--Section 1903(i) of the Social Security Act (42 
+U.S.C. 1396b(i)) is amended by inserting after paragraph (11) the 
+following:
+            ``(12) with respect to any amounts expended for--
+                    ``(A) a vacuum erection system that is not medically 
+                necessary; or
+                    ``(B) the insertion, repair, or removal and 
+                replacement of a penile prosthetic implant (unless such 
+                insertion, repair, or removal and replacement is 
+                medically necessary); or''.
+
+    (b) <<NOTE: 42 USC 1396b note.>>  Effective Date.--The amendment 
+made by subsection (a) shall apply with respect to items and services 
+furnished on or after January 1, 2020.
+SEC. 9. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying with 
+the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the
+
+[[Page 133 STAT. 865]]
+
+Congressional Record by the Chairman of the House Budget Committee, 
+provided that such statement has been submitted prior to the vote on 
+passage.
+
+    Approved April 18, 2019.
+
+LEGISLATIVE HISTORY--H.R. 1839:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 165 (2019):
+            Mar. 25, considered and passed House.
+            Apr. 2, considered and passed Senate.
+
+                                  
+

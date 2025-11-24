@@ -1,0 +1,469 @@
+
+[109th Congress Public Law 424]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ424.109]
+
+[[Page 2901]]
+
+                    TSUNAMI WARNING AND EDUCATION ACT
+
+[[Page 120 STAT. 2902]]
+
+Public Law 109-424
+109th Congress
+
+                                 An Act
+
+
+ 
+ To authorize and strengthen the tsunami detection, forecast, warning, 
+     and mitigation program of the National Oceanic and Atmospheric 
+ Administration, to be carried out by the National Weather Service, and 
+       for other purposes. <<NOTE: Dec. 20, 2006 -  [H.R. 1674]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Tsunami Warning 
+and Education Act.>> 
+SECTION 1. <<NOTE: 33 USC 3201 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Tsunami Warning and Education Act''.
+SEC. 2. <<NOTE: 33 USC 3201.>> DEFINITIONS.
+
+    In this Act:
+            (1) The term ``Administration'' means the National Oceanic 
+        and Atmospheric Administration.
+            (2) The term ``Administrator'' means the Administrator of 
+        the National Oceanic and Atmospheric Administration.
+SEC. 3. <<NOTE: 33 USC 3202.>> PURPOSES.
+
+    The purposes of this Act are--
+            (1) to improve tsunami detection, forecasting, warnings, 
+        notification, outreach, and mitigation to protect life and 
+        property in the United States;
+            (2) to enhance and modernize the existing Pacific Tsunami 
+        Warning System to increase coverage, reduce false alarms, and 
+        increase the accuracy of forecasts and warnings, and to expand 
+        detection and warning systems to include other vulnerable States 
+        and United States territories, including the Atlantic Ocean, 
+        Caribbean Sea, and Gulf of Mexico areas;
+            (3) to improve mapping, modeling, research, and assessment 
+        efforts to improve tsunami detection, forecasting, warnings, 
+        notification, outreach, mitigation, response, and recovery;
+            (4) to improve and increase education and outreach 
+        activities and ensure that those receiving tsunami warnings and 
+        the at-risk public know what to do when a tsunami is 
+        approaching;
+            (5) to provide technical and other assistance to speed 
+        international efforts to establish regional tsunami warning 
+        systems in vulnerable areas worldwide, including the Indian 
+        Ocean; and
+            (6) to improve Federal, State, and international 
+        coordination for detection, warnings, and outreach for tsunami 
+        and other coastal impacts.
+
+[[Page 120 STAT. 2903]]
+
+SEC. 4. <<NOTE: 33 USC 3203.>> TSUNAMI FORECASTING AND WARNING 
+                    PROGRAM.
+
+    (a) In General.--The Administrator, through the National Weather 
+Service and in consultation with other relevant Administration offices, 
+shall operate a program to provide tsunami detection, forecasting, and 
+warnings for the Pacific and Arctic Ocean regions and for the Atlantic 
+Ocean, Caribbean Sea, and Gulf of Mexico region.
+    (b) Components.--The program under this section shall--
+            (1) include the tsunami warning centers established under 
+        subsection (d);
+            (2) utilize and maintain an array of robust tsunami 
+        detection technologies;
+            (3) maintain detection equipment in operational condition to 
+        fulfill the detection, forecasting, and warning requirements of 
+        this Act;
+            (4) provide tsunami forecasting capability based on models 
+        and measurements, including tsunami inundation models and maps 
+        for use in increasing the preparedness of communities, including 
+        through the TsunamiReady program;
+            (5) maintain data quality and management systems to support 
+        the requirements of the program;
+            (6) include a cooperative effort among the Administration, 
+        the United States Geological Survey, and the National Science 
+        Foundation under which the Geological Survey and the National 
+        Science Foundation shall provide rapid and reliable seismic 
+        information to the Administration from international and 
+        domestic seismic networks;
+            (7) provide a capability for the dissemination of warnings 
+        to at-risk States and tsunami communities through rapid and 
+        reliable notification to government officials and the public, 
+        including utilization of and coordination with existing Federal 
+        warning systems, including the National Oceanic and Atmospheric 
+        Administration Weather Radio All Hazards Program;
+            (8) allow, as practicable, for integration of tsunami 
+        detection technologies with other environmental observing 
+        technologies; and
+            (9) include any technology the Administrator considers 
+        appropriate to fulfill the objectives of the program under this 
+        section.
+
+    (c) System Areas.--The program under this section shall operate--
+            (1) a Pacific tsunami warning system capable of forecasting 
+        tsunami anywhere in the Pacific and Arctic Ocean regions and 
+        providing adequate warnings; and
+            (2) an Atlantic Ocean, Caribbean Sea, and Gulf of Mexico 
+        tsunami warning system capable of forecasting tsunami and 
+        providing adequate warnings in areas of the Atlantic Ocean, 
+        Caribbean Sea, and Gulf of Mexico that are determined--
+                    (A) to be geologically active, or to have 
+                significant potential for geological activity; and
+                    (B) to pose significant risks of tsunami for States 
+                along the coastal areas of the Atlantic Ocean, Caribbean 
+                Sea, or Gulf of Mexico.
+
+    (d) Tsunami Warning Centers.--
+            (1) In general.-- <<NOTE: Establishment.>> The 
+        Administrator, through the National Weather Service, shall 
+        maintain or establish--
+
+[[Page 120 STAT. 2904]]
+
+                    (A) a Pacific Tsunami Warning Center in Hawaii;
+                    (B) a West Coast and Alaska Tsunami Warning Center 
+                in Alaska; and
+                    (C) any additional forecast and warning centers 
+                determined by the National Weather Service to be 
+                necessary.
+            (2) Responsibilities.--The responsibilities of each tsunami 
+        warning center shall include--
+                    (A) continuously monitoring data from seismological, 
+                deep ocean, and tidal monitoring stations;
+                    (B) evaluating earthquakes that have the potential 
+                to generate tsunami;
+                    (C) evaluating deep ocean buoy data and tidal 
+                monitoring stations for indications of tsunami resulting 
+                from earthquakes and other sources;
+                    (D) disseminating forecasts and tsunami warning 
+                bulletins to Federal, State, and local government 
+                officials and the public;
+                    (E) coordinating with the tsunami hazard mitigation 
+                program described in section 5 to ensure ongoing sharing 
+                of information between forecasters and emergency 
+                management officials; and
+                    (F) making data gathered under this Act and post-
+                warning analyses conducted by the National Weather 
+                Service or other relevant Administration offices 
+                available to researchers.
+
+    (e) Transfer of Technology; Maintenance and Upgrades.--
+            (1) In general.--In carrying out this section, the National 
+        Weather Service, in consultation with other relevant 
+        Administration offices, shall--
+                    (A) develop requirements for the equipment used to 
+                forecast tsunami, which shall include provisions for 
+                multipurpose detection platforms, reliability and 
+                performance metrics, and to the maximum extent 
+                practicable how the equipment will be integrated with 
+                other United States and global ocean and coastal 
+                observation systems, the global earth observing system 
+                of systems, global seismic networks, and the Advanced 
+                National Seismic System;
+                    (B) develop and execute a plan for the transfer of 
+                technology from ongoing research described in section 6 
+                into the program under this section; and
+                    (C) ensure that maintaining operational tsunami 
+                detection equipment is the highest priority within the 
+                program carried out under this Act.
+            (2) Report to congress.--
+                    (A) Not later than 1 year after the date of 
+                enactment of this Act, the National Weather Service, in 
+                consultation with other relevant Administration offices, 
+                shall transmit to Congress a report on how the tsunami 
+                forecast system under this section will be integrated 
+                with other United States and global ocean and coastal 
+                observation systems, the global earth observing system 
+                of systems, global seismic networks, and the Advanced 
+                National Seismic System.
+                    (B) Not later than 3 years after the date of 
+                enactment of this Act, the National Weather Service, in 
+                consultation with other relevant Administration offices, 
+                shall transmit a report to Congress on how technology 
+                developed under
+
+[[Page 120 STAT. 2905]]
+
+                section 6 is being transferred into the program under 
+                this section.
+
+    (f) Federal Cooperation.--When deploying and maintaining tsunami 
+detection technologies, the Administrator shall seek the assistance and 
+assets of other appropriate Federal agencies.
+    (g) Annual Equipment Certification.--At the same time Congress 
+receives the budget justification documents in support of the 
+President's annual budget request for each fiscal year, the 
+Administrator shall transmit to the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Science of the House 
+of Representatives a certification that--
+            (1) identifies the tsunami detection equipment deployed 
+        pursuant to this Act, as of December 31 of the preceding 
+        calendar year;
+            (2) certifies which equipment is operational as of December 
+        31 of the preceding calendar year;
+            (3) in the case of any piece of such equipment that is not 
+        operational as of such date, identifies that equipment and 
+        describes the mitigation strategy that is in place--
+                    (A) to repair or replace that piece of equipment 
+                within a reasonable period of time; or
+                    (B) to otherwise ensure adequate tsunami detection 
+                coverage;
+            (4) identifies any equipment that is being developed or 
+        constructed to carry out this Act but which has not yet been 
+        deployed, if the Administration has entered into a contract for 
+        that equipment prior to December 31 of the preceding calendar 
+        year, and provides a schedule for the deployment of that 
+        equipment; and
+            (5) certifies that the Administrator expects the equipment 
+        described in paragraph (4) to meet the requirements, cost, and 
+        schedule provided in that contract.
+
+    (h) Congressional Notifications.-- <<NOTE: Deadline.>> The 
+Administrator shall notify the Committee on Commerce, Science, and 
+Transportation of the Senate and the Committee on Science of the House 
+of Representatives within 30 days of--
+            (1) impaired regional forecasting capabilities due to 
+        equipment or system failures; and
+            (2) significant contractor failures or delays in completing 
+        work associated with the tsunami forecasting and warning system.
+
+    (i) Report.--Not later than January 31, 2010, the Comptroller 
+General of the United States shall transmit a report to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Science of the House of Representatives that--
+            (1) evaluates the current status of the tsunami detection, 
+        forecasting, and warning system and the tsunami hazard 
+        mitigation program established under this Act, including 
+        progress toward tsunami inundation mapping of all coastal areas 
+        vulnerable to tsunami and whether there has been any degradation 
+        of services as a result of the expansion of the program;
+            (2) evaluates the National Weather Service's ability to 
+        achieve continued improvements in the delivery of tsunami 
+        detection, forecasting, and warning services by assessing 
+        policies and plans for the evolution of modernization systems,
+
+[[Page 120 STAT. 2906]]
+
+        models, and computational abilities (including the adoption of 
+        new technologies); and
+            (3) lists the contributions of funding or other resources to 
+        the program by other Federal agencies, particularly agencies 
+        participating in the program.
+
+    (j) External Review.--The Administrator shall enter into an 
+arrangement with the National Academy of Sciences to review the tsunami 
+detection, forecast, and warning program established under this Act to 
+assess further modernization and coverage needs, as well as long-term 
+operational reliability issues, taking into account measures implemented 
+under this Act. The review shall also include an assessment of how well 
+the forecast equipment has been integrated into other United States and 
+global ocean and coastal observation systems and the global earth 
+observing system of systems. <<NOTE: Deadline. Reports.>> Not later than 
+2 years after the date of enactment of this Act, the Administrator shall 
+transmit a report containing the National Academy of Sciences' 
+recommendations, the Administrator's responses to the recommendations, 
+including those where the Administrator disagrees with the Academy, a 
+timetable to implement the accepted recommendations, and the cost of 
+implementing all the Academy's recommendations, to the Committee on 
+Commerce, Science, and Transportation of the Senate and the Committee on 
+Science of the House of Representatives.
+
+    (k) Report.--Not later than 3 months after the date of enactment of 
+this Act, the Administrator shall establish a process for monitoring and 
+certifying contractor performance in carrying out the requirements of 
+any contract to construct or deploy tsunami detection equipment, 
+including procedures and penalties to be imposed in cases of significant 
+contractor failure or negligence.
+SEC. 5. <<NOTE: 33 USC 3204.>> NATIONAL TSUNAMI HAZARD MITIGATION 
+                    PROGRAM.
+
+    (a) In General.--The Administrator, through the National Weather 
+Service and in consultation with other relevant Administration offices, 
+shall conduct a community-based tsunami hazard mitigation program to 
+improve tsunami preparedness of at-risk areas in the United States and 
+its territories.
+    (b) Coordinating Committee.-- <<NOTE: Establishment.>> In conducting 
+the program under this section, the Administrator shall establish a 
+coordinating committee comprising representatives of Federal, State, 
+local, and tribal government officials. The Administrator may establish 
+subcommittees to address region-specific issues. The committee shall--
+            (1) recommend how funds appropriated for carrying out the 
+        program under this section will be allocated;
+            (2) ensure that areas described in section 4(c) in the 
+        United States and its territories can have the opportunity to 
+        participate in the program;
+            (3) provide recommendations to the National Weather Service 
+        on how to improve the TsunamiReady program, particularly on ways 
+        to make communities more tsunami resilient through the use of 
+        inundation maps and other mitigation practices; and
+            (4) ensure that all components of the program are integrated 
+        with ongoing hazard warning and risk management activities, 
+        emergency response plans, and mitigation programs in affected 
+        areas, including integrating information to assist in tsunami 
+        evacuation route planning.
+
+[[Page 120 STAT. 2907]]
+
+    (c) Program Components.--The program under this section shall--
+            (1) use inundation models that meet a standard of accuracy 
+        defined by the Administration to improve the quality and extent 
+        of inundation mapping, including assessment of vulnerable inner 
+        coastal and nearshore areas, in a coordinated and standardized 
+        fashion to maximize resources and the utility of data collected;
+            (2) promote and improve community outreach and education 
+        networks and programs to ensure community readiness, including 
+        the development of comprehensive coastal risk and vulnerability 
+        assessment training and decision support tools, implementation 
+        of technical training and public education programs, and 
+        providing for certification of prepared communities;
+            (3) integrate tsunami preparedness and mitigation programs 
+        into ongoing hazard warning and risk management activities, 
+        emergency response plans, and mitigation programs in affected 
+        areas, including integrating information to assist in tsunami 
+        evacuation route planning;
+            (4) promote the adoption of tsunami warning and mitigation 
+        measures by Federal, State, tribal, and local governments and 
+        nongovernmental entities, including educational programs to 
+        discourage development in high-risk areas; and
+            (5) provide for periodic external review of the program.
+
+    (d) Savings Clause.--Nothing in this section shall be construed to 
+require a change in the chair of any existing tsunami hazard mitigation 
+program subcommittee.
+SEC. 6. <<NOTE: 33 USC 3205.>> TSUNAMI RESEARCH PROGRAM.
+
+    The Administrator shall, in consultation with other agencies and 
+academic institutions, and with the coordinating committee established 
+under section 5(b), establish or maintain a tsunami research program to 
+develop detection, forecast, communication, and mitigation science and 
+technology, including advanced sensing techniques, information and 
+communication technology, data collection, analysis, and assessment for 
+tsunami tracking and numerical forecast modeling. Such research program 
+shall--
+            (1) consider other appropriate research to mitigate the 
+        impact of tsunami;
+            (2) coordinate with the National Weather Service on 
+        technology to be transferred to operations;
+            (3) include social science research to develop and assess 
+        community warning, education, and evacuation materials; and
+            (4) ensure that research and findings are available to the 
+        scientific community.
+SEC. 7. <<NOTE: 33 USC 3206.>>  GLOBAL TSUNAMI WARNING AND 
+                    MITIGATION NETWORK.
+
+    (a) International Tsunami Warning System.--The Administrator, 
+through the National Weather Service and in consultation with other 
+relevant Administration offices, in coordination with other members of 
+the United States Interagency Committee of the National Tsunami Hazard 
+Mitigation Program, shall provide technical assistance and training to 
+the Intergovernmental Oceanographic Commission, the World Meteorological 
+Organization, and other international entities, as part of international 
+efforts to develop a fully functional global tsunami forecast and 
+warning system comprising regional tsunami warning networks, modeled on 
+the International Tsunami Warning System of the Pacific.
+
+[[Page 120 STAT. 2908]]
+
+    (b) International Tsunami Information Center.--The Administrator, 
+through the National Weather Service and in consultation with other 
+relevant Administration offices, in cooperation with the 
+Intergovernmental Oceanographic Commission, shall operate an 
+International Tsunami Information Center to improve tsunami preparedness 
+for all Pacific Ocean nations participating in the International Tsunami 
+Warning System of the Pacific, and may also provide such assistance to 
+other nations participating in a global tsunami warning system 
+established through the Intergovernmental Oceanographic Commission. As 
+part of its responsibilities around the world, the Center shall--
+            (1) monitor international tsunami warning activities around 
+        the world;
+            (2) assist member states in establishing national warning 
+        systems, and make information available on current technologies 
+        for tsunami warning systems;
+            (3) maintain a library of materials to promulgate knowledge 
+        about tsunami in general and for use by the scientific 
+        community; and
+            (4) disseminate information, including educational materials 
+        and research reports.
+
+    (c) Detection Equipment; Technical Advice and Training.--In carrying 
+out this section, the National Weather Service--
+            (1) shall give priority to assisting nations in identifying 
+        vulnerable coastal areas, creating inundation maps, obtaining or 
+        designing real-time detection and reporting equipment, and 
+        establishing communication and warning networks and contact 
+        points in each vulnerable nation;
+            (2) may establish a process for transfer of detection and 
+        communication technology to affected nations for the purposes of 
+        establishing the international tsunami warning system; and
+            (3) shall provide technical and other assistance to support 
+        international tsunami programs.
+
+    (d) Data-Sharing Requirement.--The National Weather Service, when 
+deciding to provide assistance under this section, may take into 
+consideration the data sharing policies and practices of nations 
+proposed to receive such assistance, with a goal to encourage all 
+nations to support full and open exchange of data.
+SEC. 8. <<NOTE: 33 USC 3207.>> AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Administrator to 
+carry out this Act--
+            (1) $25,000,000 for fiscal year 2008, of which--
+                    (A) not less than 27 percent of the amount 
+                appropriated shall be for the tsunami hazard mitigation 
+                program under section 5; and
+                    (B) not less than 8 percent of the amount 
+                appropriated shall be for the tsunami research program 
+                under section 6;
+            (2) $26,000,000 for fiscal year 2009, of which--
+                    (A) not less than 27 percent of the amount 
+                appropriated shall be for the tsunami hazard mitigation 
+                program under section 5; and
+                    (B) not less than 8 percent of the amount 
+                appropriated shall be for the tsunami research program 
+                under section 6;
+            (3) $27,000,000 for fiscal year 2010, of which--
+
+[[Page 120 STAT. 2909]]
+
+                    (A) not less than 27 percent of the amount 
+                appropriated shall be for the tsunami hazard mitigation 
+                program under section 5; and
+                    (B) not less than 8 percent of the amount 
+                appropriated shall be for the tsunami research program 
+                under section 6;
+            (4) $28,000,000 for fiscal year 2011, of which--
+                    (A) not less than 27 percent of the amount 
+                appropriated shall be for the tsunami hazard mitigation 
+                program under section 5; and
+                    (B) not less than 8 percent of the amount 
+                appropriated shall be for the tsunami research program 
+                under section 6; and
+            (5) $29,000,000 for fiscal year 2012, of which--
+                    (A) not less than 27 percent of the amount 
+                appropriated shall be for the tsunami hazard mitigation 
+                program under section 5; and
+                    (B) not less than 8 percent of the amount 
+                appropriated shall be for the tsunami research program 
+                under section 6.
+
+    Approved December 20, 2006.
+
+LEGISLATIVE HISTORY--H.R. 1674 (S. 50):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 109-698 (Comm. on Science).
+SENATE REPORTS: No. 109-59 accompanying S. 50 (Comm. on Commerce, 
+Science, and Transportation).
+CONGRESSIONAL RECORD, Vol. 152 (2006):
+            Dec. 6, considered and passed House.
+            Dec. 8, considered and passed Senate.
+
+                                  
+

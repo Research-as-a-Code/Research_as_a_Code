@@ -1,0 +1,60 @@
+
+[118th Congress Public Law 39]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 138 STAT. 16]]
+
+Public Law 118-39
+118th Congress
+
+                                 An Act
+
+
+ 
+   To amend the Tariff Act of 1930 to protect personally identifiable 
+   information, and for other purposes. <<NOTE: Feb. 9, 2024 -  [H.R. 
+                                1568]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Moving Americans 
+Privacy Protection Act.>> 
+SECTION 1. <<NOTE: 19 USC 1654 note.>>  SHORT TITLE.
+
+    This Act may be cited as the ``Moving Americans Privacy Protection 
+Act''.
+SEC. 2. PROTECTION OF PERSONALLY IDENTIFIABLE INFORMATION.
+
+    (a) In General.--Paragraph (2) of section 431(c) of the Tariff Act 
+of 1930 (19 U.S.C. 1431(c)) is amended to read as follows:
+    ``(2)(A) The information listed in paragraph (1) shall not be 
+available for public disclosure if--
+            ``(i) the Secretary of the Treasury makes an affirmative 
+        finding on a shipment-by-shipment basis that disclosure is 
+        likely to pose a threat of personal injury or property damage; 
+        or
+            ``(ii) the information is exempt under the provisions of 
+        section 552(b)(1) of title 5, United States Code.
+
+    ``(B) The Secretary shall ensure that any personally identifiable 
+information, including Social Security numbers and passport numbers, is 
+removed from any manifest signed, produced, delivered, or electronically 
+transmitted under this section before access to the manifest is provided 
+to the public.''.
+    (b) <<NOTE: 19 USC 1431 note.>>  Effective Date.--The amendment made 
+by subsection (a) shall take effect on the date that is 30 days after 
+the date of the enactment of this Act.
+
+    Approved February 9, 2024.
+
+LEGISLATIVE HISTORY--H.R. 1568 (S. 758):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 118-287 (Comm. on Ways and Means).
+CONGRESSIONAL RECORD, Vol. 170 (2024):
+            Jan. 16, 18, considered and passed House.
+            Jan. 31, considered and passed Senate.
+
+                                  
+

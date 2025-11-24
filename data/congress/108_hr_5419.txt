@@ -1,0 +1,770 @@
+
+[108th Congress Public Law 494]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ494.108]
+
+                          ENHANCE 911 SERVICES
+Public Law 108-494
+108th Congress
+
+                                 An Act
+
+
+ 
+To amend the National Telecommunications and Information Administration 
+    Organization Act to facilitate the reallocation of spectrum from 
+ governmental to commercial users; to improve, enhance, and promote the 
+    Nation's homeland security, public safety, and citizen activated 
+    emergency response capabilities through the use of enhanced 911 
+services, to further upgrade Public Safety Answering Point capabilities 
+ and related functions in receiving E-911 calls, and to support in the 
+    construction and operation of a ubiquitous and reliable citizen 
+   activated system; and to provide that funds received as universal 
+  service contributions under section 254 of the Communications Act of 
+  1934 and the universal service support programs established pursuant 
+thereto are not subject to certain provisions of title 31, United States 
+    Code, commonly known as the Antideficiency Act, for a period of 
+              time. <<NOTE: Dec. 23, 2004 -  [H.R. 5419]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+    TITLE I--E-911 <<NOTE: Ensuring Needed Help Arrives Near Callers 
+Employing 911 Act of 2004.>> 
+
+SEC. 101. SHORT TITLE. <<NOTE: 47 USC 901 note.>> 
+
+    This title may be cited as the ``Ensuring Needed Help Arrives Near 
+Callers Employing 911 Act of 2004'' or the ``ENHANCE 911 Act of 2004''.
+
+SEC. 102. FINDINGS. <<NOTE: 47 USC 942 note.>> 
+
+    The Congress finds that--
+            (1) for the sake of our Nation's homeland security and 
+        public safety, a universal emergency telephone number (911) that 
+        is enhanced with the most modern and state-of-the-art 
+        telecommunications capabilities possible should be available to 
+        all citizens in all regions of the Nation;
+            (2) enhanced emergency communications require Federal, 
+        State, and local government resources and coordination;
+            (3) any funds that are collected from fees imposed on 
+        consumer bills for the purposes of funding 911 services or 
+        enhanced 911 should go only for the purposes for which the funds 
+        are collected; and
+            (4) enhanced 911 is a high national priority and it requires 
+        Federal leadership, working in cooperation with State and local 
+        governments and with the numerous organizations dedicated to 
+        delivering emergency communications services.
+
+SEC. 103. PURPOSES. <<NOTE: 47 USC 942 note.>> 
+
+    The purposes of this title are--
+            (1) to coordinate 911 services and E-911 services, at the 
+        Federal, State, and local levels; and
+            (2) to ensure that funds collected on telecommunications 
+        bills for enhancing emergency 911 services are used only for the 
+        purposes for which the funds are being collected.
+
+SEC. 104. COORDINATION OF E-911 IMPLEMENTATION.
+
+    Part C of title I of the National Telecommunications and Information 
+Administration Organization Act (47 U.S.C. 901 et seq.) is amended by 
+adding at the end the following:
+
+``SEC. 158. COORDINATION OF E-911 IMPLEMENTATION. <<NOTE: 47 USC 942.>> 
+
+    ``(a) E-911 Implementation Coordination Office.--
+            ``(1) Establishment.--The Assistant Secretary and the 
+        Administrator of the National Highway Traffic Safety 
+        Administration shall--
+                    ``(A) establish a joint program to facilitate 
+                coordination and communication between Federal, State, 
+                and local emergency communications systems, emergency 
+                personnel, public safety organizations, 
+                telecommunications carriers, and telecommunications 
+                equipment manufacturers and vendors involved in the 
+                implementation of E-911 services; and
+                    ``(B) create an E-911 Implementation Coordination 
+                Office to implement the provisions of this section.
+            ``(2) Management plan.--The Assistant Secretary and the 
+        Administrator shall jointly develop a management plan for the 
+        program established under this section. Such plan shall include 
+        the organizational structure and funding profiles for the 5-year 
+        duration of the program. <<NOTE: Deadline.>> The Assistant 
+        Secretary and the Administrator shall, within 90 days after the 
+        date of enactment of this Act, submit the management plan to the 
+        Committees on Energy and Commerce and Appropriations of the 
+        House of Representatives and the Committees on Commerce, 
+        Science, and Transportation and Appropriations of the Senate.
+            ``(3) Purpose of office.--The Office shall--
+                    ``(A) take actions, in concert with coordinators 
+                designated in accordance with subsection (b)(3)(A)(ii), 
+                to improve such coordination and communication;
+                    ``(B) develop, collect, and disseminate information 
+                concerning practices, procedures, and technology used in 
+                the implementation of E-911 services;
+                    ``(C) advise and assist eligible entities in the 
+                preparation of implementation plans required under 
+                subsection (b)(3)(A)(iii);
+                    ``(D) receive, review, and recommend the approval or 
+                disapproval of applications for grants under subsection 
+                (b); and
+                    ``(E) oversee the use of funds provided by such 
+                grants in fulfilling such implementation plans.
+            ``(4) Reports.--The Assistant Secretary and the 
+        Administrator shall provide a joint annual report to Congress by 
+        the first day of October of each year on the activities of the 
+        Office to improve coordination and communication with respect to 
+        the implementation of E-911 services.
+
+    ``(b) Phase II E-911 Implementation Grants.--
+            ``(1) Matching grants.--The Assistant Secretary and the 
+        Administrator, after consultation with the Secretary of Homeland 
+        Security and the Chairman of the Federal Communications 
+        Commission, and acting through the Office, shall provide grants 
+        to eligible entities for the implementation and operation of 
+        Phase II E-911 services.
+            ``(2) Matching requirement.--The Federal share of the cost 
+        of a project eligible for a grant under this section shall not 
+        exceed 50 percent. The non-Federal share of the cost shall be 
+        provided from non-Federal sources.
+            ``(3) Coordination required.--In providing grants under 
+        paragraph (1), the Assistant Secretary and the Administrator 
+        shall require an eligible entity to certify in its application 
+        that--
+                    ``(A) in the case of an eligible entity that is a 
+                State government, the entity--
+                          ``(i) has coordinated its application with the 
+                      public safety answering points (as such term is 
+                      defined in section 222(h)(4) of the Communications 
+                      Act of 1934) located within the jurisdiction of 
+                      such entity;
+                          ``(ii) has designated a single officer or 
+                      governmental body of the entity to serve as the 
+                      coordinator of implementation of E-911 services, 
+                      except that such designation need not vest such 
+                      coordinator with direct legal authority to 
+                      implement E-911 services or manage emergency 
+                      communications operations;
+                          ``(iii) has established a plan for the 
+                      coordination and implementation of E-911 services; 
+                      and
+                          ``(iv) has integrated telecommunications 
+                      services involved in the implementation and 
+                      delivery of phase II E-911 services; or
+                    ``(B) in the case of an eligible entity that is not 
+                a State, the entity has complied with clauses (i), 
+                (iii), and (iv) of subparagraph (A), and the State in 
+                which it is located has complied with clause (ii) of 
+                such subparagraph.
+            ``(4) <<NOTE: Regulations. Deadlines.>>  Criteria.--The 
+        Assistant Secretary and the Administrator shall jointly issue 
+        regulations within 180 days after the date of enactment of the 
+        ENHANCE 911 Act of 2004, after a public comment period of not 
+        less than 60 days, prescribing the criteria for selection for 
+        grants under this section, and shall update such regulations as 
+        necessary. The criteria shall include performance requirements 
+        and a timeline for completion of any project to be financed by a 
+        grant under this section.
+
+    ``(c) Diversion of E-911 Charges.--
+            ``(1) Designated e-911 charges.--For the purposes of this 
+        subsection, the term `designated E-911 charges' means any taxes, 
+        fees, or other charges imposed by a State or other taxing 
+        jurisdiction that are designated or presented as dedicated to 
+        deliver or improve E-911 services.
+            ``(2) Certification.--Each applicant for a matching grant 
+        under this section shall certify to the Assistant Secretary and 
+        the Administrator at the time of application, and each applicant 
+        that receives such a grant shall certify to the Assistant 
+        Secretary and the Administrator annually thereafter during any 
+        period of time during which the funds from the grant are 
+        available to the applicant, that no portion of any designated E-
+        911 charges imposed by a State or other taxing jurisdiction 
+        within which the applicant is located are being obligated or 
+        expended for any purpose other than the purposes for which such 
+        charges are designated or presented during the period beginning 
+        180 days immediately preceding the date of the application and 
+        continuing through the period of time during which the funds 
+        from the grant are available to the applicant.
+            ``(3) Condition of grant.--Each applicant for a grant under 
+        this section shall agree, as a condition of receipt of the 
+        grant, that if the State or other taxing jurisdiction within 
+        which the applicant is located, during any period of time during 
+        which the funds from the grant are available to the applicant, 
+        obligates or expends designated E-911 charges for any purpose 
+        other than the purposes for which such charges are designated or 
+        presented, all of the funds from such grant shall be returned to 
+        the Office.
+            ``(4) Penalty for providing false information.--Any 
+        applicant that provides a certification under paragraph (1) 
+        knowing that the information provided in the certification was 
+        false shall--
+                    ``(A) not be eligible to receive the grant under 
+                subsection (b);
+                    ``(B) return any grant awarded under subsection (b) 
+                during the time that the certification was not valid; 
+                and
+                    ``(C) not be eligible to receive any subsequent 
+                grants under subsection (b).
+
+    ``(d) Authorization; Termination.--
+            ``(1) Authorization.--There are authorized to be 
+        appropriated to the Department of Transportation, for the 
+        purposes of grants under the joint program operated under this 
+        section with the Department of Commerce, not more than 
+        $250,000,000 for each of the fiscal years 2005 through 2009, not 
+        more than 5 percent of which for any fiscal year may be 
+        obligated or expended for administrative costs.
+            ``(2) Termination.--The provisions of this section shall 
+        cease to be effective on October 1, 2009.
+
+    ``(e) Definitions.--As used in this section:
+            ``(1) Office.--The term `Office' means the E-911 
+        Implementation Coordination Office.
+            ``(2) Administrator.--The term `Administrator' means the 
+        Administrator of the National Highway Traffic Safety 
+        Administration.
+            ``(3) Eligible entity.--
+                    ``(A) In general.--The term `eligible entity' means 
+                a State or local government or a tribal organization (as 
+                defined in section 4(l) of the Indian Self-Determination 
+                and Education Assistance Act (25 U.S.C. 450b(l))).
+                    ``(B) Instrumentalities.--Such term includes public 
+                authorities, boards, commissions, and similar bodies 
+                created by one or more eligible entities described in 
+                subparagraph (A) to provide E-911 services.
+                    ``(C) Exception.--Such term does not include any 
+                entity that has failed to submit the most recently 
+                required certification under subsection (c) within 30 
+                days after the date on which such certification is due.
+            ``(4) E-911 services.--The term `E-911 services' means both 
+        phase I and phase II enhanced 911 services, as described in 
+        section 20.18 of the Commission's regulations (47 C.F.R. 20.18), 
+        as in effect on the date of enactment of the ENHANCE 911 Act of 
+        2004, or as subsequently revised by the Federal Communications 
+        Commission.
+            ``(5) Phase ii e-911 services.--The term `phase II E-911 
+        services' means only phase II enhanced 911 services, as 
+        described in such section 20.18 (47 C.F.R. 20.18), as in effect 
+        on such date, or as subsequently revised by the Federal 
+        Communications Commission.
+            ``(6) State.--The term `State' means any State of the United 
+        States, the District of Columbia, Puerto Rico, the Northern 
+        Mariana Islands, and any territory or possession of the United 
+        States.''.
+
+SEC. 105. GAO STUDY OF STATE AND LOCAL USE OF 911 SERVICE CHARGES.
+
+    (a) <<NOTE: Deadline.>> In General.--Within 60 days after the date 
+of enactment of this Act, the Comptroller General shall initiate a study 
+of--
+            (1) the imposition of taxes, fees, or other charges imposed 
+        by States or political subdivisions of States that are 
+        designated or presented as dedicated to improve emergency 
+        communications services, including 911 services or enhanced 911 
+        services, or related to emergency communications services 
+        operations or improvements; and
+            (2) the use of revenues derived from such taxes, fees, or 
+        charges.
+
+    (b) Report.--Within 18 months after initiating the study required by 
+subsection (a), the Comptroller General shall transmit a report on the 
+results of the study to the Senate Committee on Commerce, Science, and 
+Transportation and the House of Representatives Committee on Energy and 
+Commerce setting forth the findings, conclusions, and recommendations, 
+if any, of the study, including--
+            (1) the identity of each State or political subdivision that 
+        imposes such taxes, fees, or other charges; and
+            (2) the amount of revenues obligated or expended by that 
+        State or political subdivision for any purpose other than the 
+        purposes for which such taxes, fees, or charges were designated 
+        or presented.
+
+SEC. 106. REPORT ON THE DEPLOYMENT OF E-911 PHASE II SERVICES BY TIER 
+            III SERVICE PROVIDERS.
+
+    Within 90 days after the date of enactment of this Act, the Federal 
+Communications Commission shall submit a report to the Committee on 
+Energy and Commerce of the House of Representatives and the Committee on 
+Commerce, Science, and Transportation of the Senate detailing--
+            (1) the number of tier III commercial mobile service 
+        providers that are offering phase II E-911 services;
+            (2) the number of requests for waivers from compliance with 
+        the Commission's phase II E-911 service requirements received by 
+        the Commission from such tier III providers;
+            (3) the number of waivers granted or denied by the 
+        Commission to such tier III providers;
+            (4) how long each waiver request remained pending before it 
+        was granted or denied;
+            (5) how many waiver requests are pending at the time of the 
+        filing of the report;
+            (6) when the pending requests will be granted or denied;
+            (7) actions the Commission has taken to reduce the amount of 
+        time a waiver request remains pending; and
+            (8) the technologies that are the most effective in the 
+        deployment of phase II E-911 services by such tier III 
+        providers.
+
+SEC. 107. FCC REQUIREMENTS FOR CERTAIN TIER III CARRIERS.
+
+    (a) In General.--The Federal Communications Commission shall act on 
+any petition filed by a qualified Tier III carrier requesting a waiver 
+of compliance with the requirements of section 20.18(g)(1)(v) of the 
+Commission's rules (47 C.F.R. 20.18(g)(1)(v)) within 100 days after the 
+Commission receives the petition. The Commission shall grant the waiver 
+of compliance with the requirements of section 20.18(g)(1)(v) of the 
+Commission's rules (47 C.F.R. 20.18(g)(1)(v)) requested by the petition 
+if it determines that strict enforcement of the requirements of that 
+section would result in consumers having decreased access to emergency 
+services.
+    (b) Qualified Tier III Carrier Defined.--In this section, the term 
+``qualified Tier III carrier'' means a provider of commercial mobile 
+service (as defined in section 332(d) of the Communications Act of 1934 
+(47 U.S.C. 332(d)) that had 500,000 or fewer subscribers as of December 
+31, 2001.
+
+ TITLE II--SPECTRUM RELOCATION <<NOTE: Commercial Spectrum Enhancement 
+Act.>> 
+
+SEC. 201. SHORT TITLE. <<NOTE: 47 USC 901 note.>> 
+
+    This title may be cited as the ``Commercial Spectrum Enhancement 
+Act''.
+
+SEC. 202. RELOCATION OF ELIGIBLE FEDERAL ENTITIES FOR THE REALLOCATION 
+            OF SPECTRUM FOR COMMERCIAL PURPOSES.
+
+    Section 113(g) of the National Telecommunications and Information 
+Administration Organization Act (47 U.S.C. 923(g)) is amended by 
+striking paragraphs (1) through (3) and inserting the following:
+            ``(1) Eligible federal entities.--Any Federal entity that 
+        operates a Federal Government station assigned to a band of 
+        frequencies specified in paragraph (2) and that incurs 
+        relocation costs because of the reallocation of frequencies from 
+        Federal use to non-Federal use shall receive payment for such 
+        costs from the Spectrum Relocation Fund, in accordance with 
+        section 118 of this Act. For purposes of this paragraph, Federal 
+        power agencies exempted under subsection (c)(4) that choose to 
+        relocate from the frequencies identified for reallocation 
+        pursuant to subsection (a), are eligible to receive payment 
+        under this paragraph.
+            ``(2) Eligible frequencies.--The bands of eligible 
+        frequencies for purposes of this section are as follows:
+                    ``(A) the 216-220 megahertz band, the 1432-1435 
+                megahertz band, the 1710-1755 megahertz band, and the 
+                2385-2390 megahertz band of frequencies; and
+                    ``(B) any other band of frequencies reallocated from 
+                Federal use to non-Federal use after January 1, 2003, 
+                that is assigned by competitive bidding pursuant to 
+                section 309(j) of the Communications Act of 1934 (47 
+                U.S.C. 309(j)), except for bands of frequencies 
+                previously identified by the National Telecommunications 
+                and Information Administration in the Spectrum 
+                Reallocation Final Report, NTIA Special Publication 95-
+                32 (1995).
+            ``(3) Definition of relocation costs.--For purposes of this 
+        subsection, the term `relocation costs' means the costs incurred 
+        by a Federal entity to achieve comparable capability of systems, 
+        regardless of whether that capability is achieved by relocating 
+        to a new frequency assignment or by utilizing an alternative 
+        technology. Such costs include--
+                    ``(A) the costs of any modification or replacement 
+                of equipment, software, facilities, operating manuals, 
+                training costs, or regulations that are attributable to 
+                relocation;
+                    ``(B) the costs of all engineering, equipment, 
+                software, site acquisition and construction costs, as 
+                well as any legitimate and prudent transaction expense, 
+                including outside consultants, and reasonable additional 
+                costs incurred by the Federal entity that are 
+                attributable to relocation, including increased 
+                recurring costs associated with the replacement 
+                facilities;
+                    ``(C) the costs of engineering studies, economic 
+                analyses, or other expenses reasonably incurred in 
+                calculating the estimated relocation costs that are 
+                provided to the Commission pursuant to paragraph (4) of 
+                this subsection;
+                    ``(D) the one-time costs of any modification of 
+                equipment reasonably necessary to accommodate commercial 
+                use of such frequencies prior to the termination of the 
+                Federal entity's primary allocation or protected status, 
+                when the eligible frequencies as defined in paragraph 
+                (2) of this subsection are made available for private 
+                sector uses by competitive bidding and a Federal entity 
+                retains primary allocation or protected status in those 
+                frequencies for a period of time after the completion of 
+                the competitive bidding process; and
+                    ``(E) the costs associated with the accelerated 
+                replacement of systems and equipment if such 
+                acceleration is necessary to ensure the timely 
+                relocation of systems to a new frequency assignment.
+            ``(4) Notice to commission of estimated relocation costs.--
+                    ``(A) The Commission shall notify the NTIA at least 
+                18 months prior to the commencement of any auction of 
+                eligible frequencies defined in paragraph (2). At least 
+                6 months prior to the commencement of any such auction, 
+                the NTIA, on behalf of the Federal entities and after 
+                review by the Office of Management and Budget, shall 
+                notify the Commission of estimated relocation costs and 
+                timelines for such relocation.
+                    ``(B) Upon timely request of a Federal entity, the 
+                NTIA shall provide such entity with information 
+                regarding an alternative frequency assignment or 
+                assignments to which their radiocommunications 
+                operations could be relocated for purposes of 
+                calculating the estimated relocation costs and timelines 
+                to be submitted to the Commission pursuant to 
+                subparagraph (A).
+                    ``(C) To the extent practicable and consistent with 
+                national security considerations, the NTIA shall provide 
+                the information required by subparagraphs (A) and (B) by 
+                the geographic location of the Federal entities' 
+                facilities or systems and the frequency bands used by 
+                such facilities or systems.
+            ``(5) Notice to congressional committees and gao.--The NTIA 
+        shall, at the time of providing an initial estimate of 
+        relocation costs to the Commission under paragraph (4)(A), 
+        submit to Committees on Appropriations and Energy and Commerce 
+        of the House of Representatives for approval, to the Committees 
+        on Appropriations and Commerce, Science, and Transportation of 
+        the Senate for approval, and to the Comptroller General a copy 
+        of such estimate and the timelines for 
+        relocation. <<NOTE: Deadline.>> Unless disapproved within 30 
+        days, the estimate shall be approved. If disapproved, the NTIA 
+        may resubmit a revised initial estimate.
+            ``(6) Implementation of procedures.--The NTIA shall take 
+        such actions as necessary to ensure the timely relocation of 
+        Federal entities' spectrum-related operations from frequencies 
+        defined in paragraph (2) to frequencies or facilities of 
+        comparable capability. <<NOTE: Notification.>> Upon a finding by 
+        the NTIA that a Federal entity has achieved comparable 
+        capability of systems by relocating to a new frequency 
+        assignment or by utilizing an alternative technology, the NTIA 
+        shall terminate the entity's authorization and notify the 
+        Commission that the entity's relocation has been completed. The 
+        NTIA shall also terminate such entity's authorization if the 
+        NTIA determines that the entity has unreasonably failed to 
+        comply with the timeline for relocation submitted by the 
+        Director of the Office of Management and Budget under section 
+        118(d)(2)(B).''.
+
+SEC. 203. MINIMUM AUCTION RECEIPTS AND DISPOSITION OF PROCEEDS.
+
+    (a) Auction Design.--Section 309(j)(3) of the Communications Act of 
+1934 (47 U.S.C. 309(j)(3)) is amended--
+            (1) by striking ``and'' at the end of subparagraph (D);
+            (2) by striking the period at the end of subparagraph (E) 
+        and inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(F) for any auction of eligible frequencies 
+                described in section 113(g)(2) of the National 
+                Telecommunications and Information Administration 
+                Organization Act (47 U.S.C. 923(g)(2)), the recovery of 
+                110 percent of estimated relocation costs as provided to 
+                the Commission pursuant to section 113(g)(4) of such 
+                Act.''.
+
+    (b) Special Auction Provisions for Eligible Frequencies.--Section 
+309(j) of such Act is further amended by adding at the end the following 
+new paragraph:
+            ``(15) Special auction provisions for eligible 
+        frequencies.--
+                    ``(A) Special regulations.--The Commission shall 
+                revise the regulations prescribed under paragraph (4)(F) 
+                of this subsection to prescribe methods by which the 
+                total cash proceeds from any auction of eligible 
+                frequencies described in section 113(g)(2) of the 
+                National Telecommunications and Information 
+                Administration Organization Act (47 U.S.C. 923(g)(2)) 
+                shall at least equal 110 percent of the total estimated 
+                relocation costs provided to the Commission pursuant to 
+                section 113(g)(4) of such Act.
+                    ``(B) Conclusion of auctions contingent on minimum 
+                proceeds.--The Commission shall not conclude any auction 
+                of eligible frequencies described in section 113(g)(2) 
+                of such Act if the total cash proceeds attributable to 
+                such spectrum are less than 110 percent of the total 
+                estimated relocation costs provided to the Commission 
+                pursuant to section 113(g)(4) of such 
+                Act. <<NOTE: Deadline.>> If the Commission is unable to 
+                conclude an auction for the foregoing reason, the 
+                Commission shall cancel the auction, return within 45 
+                days after the auction cancellation date any deposits 
+                from participating bidders held in escrow, and absolve 
+                such bidders from any obligation to the United States to 
+                bid in any subsequent reauction of such spectrum.
+                    ``(C) Authority to issue prior to deauthorization.--
+                In any auction conducted under the regulations required 
+                by subparagraph (A), the Commission may grant a license 
+                assigned for the use of eligible frequencies prior to 
+                the termination of an eligible Federal entity's 
+                authorization. However, the Commission shall condition 
+                such license by requiring that the licensee cannot cause 
+                harmful interference to such Federal entity until such 
+                entity's authorization has been terminated by the 
+                National Telecommunications and Information 
+                Administration.''.
+
+    (c) Deposit of Proceeds.--Paragraph (8) of section 309(j) of the 
+Communications Act of 1934 (47 U.S.C. 309(j)) is amended--
+            (1) in subparagraph (A), by inserting ``or subparagraph 
+        (D)'' after ``subparagraph (B)''; and
+            (2) by adding at the end the following new subparagraph:
+                    ``(D) Disposition of cash proceeds.--Cash proceeds 
+                attributable to the auction of any eligible frequencies 
+                described in section 113(g)(2) of the National 
+                Telecommunications and Information Administration 
+                Organization Act (47 U.S.C. 923(g)(2)) shall be 
+                deposited in the Spectrum Relocation Fund established 
+                under section 118 of such Act, and shall be available in 
+                accordance with that section.''.
+
+SEC. 204. ESTABLISHMENT OF FUND AND PROCEDURES.
+
+    Part B of the National Telecommunications and Information 
+Administration Organization Act is amended by adding after section 117 
+(47 U.S.C. 927) the following new section:
+
+``SEC. 118. SPECTRUM RELOCATION FUND. <<NOTE: 47 USC 928.>> 
+
+    ``(a) Establishment of Spectrum Relocation Fund.--There is 
+established on the books of the Treasury a separate fund to be known as 
+the `Spectrum Relocation Fund' (in this section referred to as the 
+`Fund'), which shall be administered by the Office of Management and 
+Budget (in this section referred to as `OMB'), in consultation with the 
+NTIA.
+    ``(b) Crediting of Receipts.--The Fund shall be credited with the 
+amounts specified in section 309(j)(8)(D) of the Communications Act of 
+1934 (47 U.S.C. 309(j)(8)(D)).
+    ``(c) Used To Pay Relocation Costs.--The amounts in the Fund from 
+auctions of eligible frequencies are authorized to be used to pay 
+relocation costs, as defined in section 113(g)(3) of this Act, of an 
+eligible Federal entity incurring such costs with respect to relocation 
+from those frequencies.
+    ``(d) Fund Availability.--
+            ``(1) Appropriation.--There are hereby appropriated from the 
+        Fund such sums as are required to pay the relocation costs 
+        specified in subsection (c).
+            ``(2) Transfer conditions.--None of the funds provided under 
+        this subsection may be transferred to any eligible Federal 
+        entity--
+                    ``(A) unless the Director of OMB has determined, in 
+                consultation with the NTIA, the appropriateness of such 
+                costs and the timeline for relocation; and
+                    ``(B) until 30 days after the Director of OMB has 
+                submitted to the Committees on Appropriations and Energy 
+                and Commerce of the House of Representatives for 
+                approval, to the Committees on Appropriations and 
+                Commerce, Science, and Transportation of the Senate for 
+                approval, and to the Comptroller General a detailed plan 
+                describing specifically how the sums transferred from 
+                the Fund will be used to pay relocation costs in 
+                accordance with such subsection and the timeline for 
+                such relocation.
+        Unless <<NOTE: Deadline.>> disapproved within 30 days, the 
+        amounts in the Fund shall be available immediately. If the plan 
+        is disapproved, the Director may resubmit a revised plan.
+            ``(3) <<NOTE: Deadline.>> Reversion of unused funds.--Any 
+        auction proceeds in the Fund that are remaining after the 
+        payment of the relocation costs that are payable from the Fund 
+        shall revert to and be deposited in the general fund of the 
+        Treasury not later than 8 years after the date of the deposit of 
+        such proceeds to the Fund.
+
+    ``(e) Transfer to Eligible Federal Entities.--
+            ``(1) Transfer.--
+                    ``(A) Amounts made available pursuant to subsection 
+                (d) shall be transferred to eligible Federal entities, 
+                as defined in section 113(g)(1) of this Act.
+                    ``(B) An eligible Federal entity may receive more 
+                than one such transfer, but if the sum of the subsequent 
+                transfer or transfers exceeds 10 percent of the original 
+                transfer--
+                          ``(i) such subsequent transfers are subject to 
+                      prior approval by the Director of OMB as required 
+                      by subsection (d)(2)(A);
+                          ``(ii) <<NOTE: Deadline.>> the notice to the 
+                      committees containing the plan required by 
+                      subsection (d)(2)(B) shall be not less than 45 
+                      days prior to the date of the transfer that causes 
+                      such excess above 10 percent;
+                          ``(iii) such notice shall include, in addition 
+                      to such plan, an explanation of need for such 
+                      subsequent transfer or transfers; and
+                          ``(iv) <<NOTE: Deadline.>> the Comptroller 
+                      General shall, within 30 days after receiving such 
+                      plan, review such plan and submit to such 
+                      committees an assessment of the explanation for 
+                      the subsequent transfer or transfers.
+                    ``(C) Such transferred amounts shall be credited to 
+                the appropriations account of the eligible Federal 
+                entity which has incurred, or will incur, such costs, 
+                and shall, subject to paragraph (2), remain available 
+                until expended.
+            ``(2) <<NOTE: Reports.>> Retransfer to fund.--An eligible 
+        Federal entity that has received such amounts shall report its 
+        expenditures to OMB and shall transfer any amounts in excess of 
+        actual relocation costs back to the Fund immediately after the 
+        NTIA has notified the Commission that the entity's relocation is 
+        complete, or has determined that such entity has unreasonably 
+        failed to complete such relocation in accordance with the 
+        timeline required by subsection (d)(2)(A).''.
+
+SEC. 205. TELECOMMUNICATIONS DEVELOPMENT FUND.
+
+    Section 714(f) of the Communications Act of 1934 (47 U.S.C. 614(f)) 
+is amended to read as follows:
+    ``(f) Lending and Credit Operations.--Loans or other extensions of 
+credit from the Fund shall be made available to an eligible small 
+business on the basis of--
+            ``(1) the analysis of the business plan of the eligible 
+        small business;
+            ``(2) the reasonable availability of collateral to secure 
+        the loan or credit extension;
+            ``(3) the extent to which the loan or credit extension 
+        promotes the purposes of this section; and
+            ``(4) other lending policies as defined by the Board.''.
+
+SEC. 206. CONSTRUCTION. <<NOTE: 47 USC 921 note.>> 
+
+     Nothing in this title is intended to modify section 1062(b) of the 
+National Defense Authorization Act for Fiscal Year 2000 (Public Law 106-
+65).
+
+SEC. 207. ANNUAL REPORT. <<NOTE: 47 USC 928 note.>> 
+
+    The National Telecommunications and Information Administration shall 
+submit an annual report to the Committees on Appropriations and Energy 
+and Commerce of the House of Representatives, the Committees on 
+Appropriations and Commerce, Science, and Transportation of the Senate, 
+and the Comptroller General on--
+            (1) the progress made in adhering to the timelines 
+        applicable to relocation from eligible frequencies required 
+        under section 118(d)(2)(A) of the National Telecommunications 
+        and Information Administration Organization Act, separately 
+        stated on a communication system-by-system basis and on an 
+        auction-by-auction basis; and
+            (2) with respect to each relocated communication system and 
+        auction, a statement of the estimate of relocation costs 
+        required under section 113(g)(4) of such Act, the actual 
+        relocations costs incurred, and the amount of such costs paid 
+        from the Spectrum Relocation Fund.
+
+SEC. 208. PRESERVATION OF AUTHORITY; NTIA REPORT REQUIRED.
+
+    (a) <<NOTE: 47 USC 923 note.>> Spectrum Management Authority 
+Retained.--Except as provided with respect to the bands of frequencies 
+identified in section 113(g)(2)(A) of the National Telecommunications 
+and Information Administration Organization Act (47 U.S.C. 923(g)(2)(A)) 
+as amended by this title, nothing in this title or the amendments made 
+by this title shall be construed as limiting the Federal Communications 
+Commission's authority to allocate bands of frequencies that are 
+reallocated from Federal use to non-Federal use for unlicensed, public 
+safety, shared, or non-commercial use.
+
+    (b) NTIA Report Required.--Within 1 year after the date of enactment 
+of this Act, the Administrator of the National Telecommunications and 
+Information Administration shall submit to the Energy and Commerce 
+Committee of the House of Representatives and the Commerce, Science, and 
+Transportation Committee of the Senate a report on various policy 
+options to compensate Federal entities for relocation costs when such 
+entities' frequencies are allocated by the Commission for unlicensed, 
+public safety, shared, or non-commercial use.
+
+SEC. 209. COMMERCIAL SPECTRUM LICENSE POLICY REVIEW.
+
+    (a) <<NOTE: Reports. Deadline.>>  Examination.--The Comptroller 
+General shall examine national commercial spectrum license policy as 
+implemented by the Federal Communications Commission, and shall report 
+its findings to the Senate Committee on Commerce, Science, and 
+Transportation and the House of Representatives Committee on Energy and 
+Commerce within 270 days.
+
+    (b) Content.--The report shall address each of the following:
+            (1) An estimate of the respective proportions of 
+        electromagnetic spectrum capacity that have been assigned by the 
+        Federal Communications Commission--
+                    (A) prior to enactment of section 309(j) of the 
+                Communications Act of 1934 (47 U.S.C. 309(j)) providing 
+                to the Commission's competitive bidding authority,
+                    (B) after enactment of that section using the 
+                Commission's competitive bidding authority, and
+                    (C) by means other than competitive bidding,
+        and a description of the classes of licensees assigned under 
+        each method.
+            (2) The extent to which requiring entities to obtain 
+        licenses through competitive bidding places those entities at a 
+        competitive or financial disadvantage to offer services similar 
+        to entities that did not acquire licenses through competitive 
+        bidding.
+            (3) The effect, if any, of the use of competitive bidding 
+        and the resulting diversion of licensees' financial resources on 
+        the introduction of new services including the quality, pace, 
+        and scope of the offering of such services to the public.
+            (4) The effect, if any, of participation in competitive 
+        bidding by incumbent spectrum license holders as applicants or 
+        investors in an applicant, including a discussion of any 
+        additional effect if such applicant qualified for bidding 
+        credits as a designated entity.
+            (5) The effect on existing license holders and consumers of 
+        services offered by these providers of the Administration's 
+        Spectrum License User Fee proposal contained in the President's 
+        Budget of the United States Government for Fiscal Year 2004 
+        (Budget, page 299; Appendix, page 1046), and an evaluation of 
+        whether the enactment of this proposal could address, either in 
+        part or in whole, any possible competitive disadvantages 
+        described in paragraph (2).
+
+    (c) FCC Assistance.--The Federal Communications Commission shall 
+provide information and assistance, as necessary, to facilitate the 
+completion of the examination required by subsection (a).
+
+ TITLE III--UNIVERSAL SERVICE <<NOTE: Universal Service Antideficiency 
+Temporary Suspension Act.>> 
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Universal Service Antideficiency 
+Temporary Suspension Act''.
+
+SEC. 302. APPLICATION OF CERTAIN TITLE 31 PROVISIONS TO UNIVERSAL 
+            SERVICE FUND.
+
+    (a) <<NOTE: Effective date. Termination date.>> In General.--During 
+the period beginning on the date of enactment of this Act and ending on 
+December 31, 2005, section 1341 and subchapter II of chapter 15 of title 
+31, United States Code, do not apply--
+            (1) to any amount collected or received as Federal universal 
+        service contributions required by section 254 of the 
+        Communications Act of 1934 (47 U.S.C. 254), including any 
+        interest earned on such contributions; nor
+            (2) to the expenditure or obligation of amounts attributable 
+        to such contributions for universal service support programs 
+        established pursuant to that section.
+
+    (b) Post-2005 Fulfillment of Protected Obligations.--Section 1341 
+and subchapter II of chapter 15 of title 31, United States Code, do not 
+apply after December 31, 2005, to an expenditure or obligation described 
+in subsection (a)(2) made or authorized during the period described in 
+subsection (a).
+
+    Approved December 23, 2004.
+
+LEGISLATIVE HISTORY--H.R. 5419 (S. 1250):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 108-130 accompanying S. 1250 (Comm. on Commerce, 
+Science, and Transportation).
+CONGRESSIONAL RECORD, Vol. 150 (2004):
+            Nov. 20, considered and passed House.
+            Dec. 8, considered and passed Senate.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 40 (2004):
+            Dec. 23, Presidential statement.
+
+                                  
+

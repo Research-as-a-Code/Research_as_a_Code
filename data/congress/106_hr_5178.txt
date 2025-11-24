@@ -1,0 +1,214 @@
+
+[106th Congress Public Law 430]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ430.106]
+
+
+[[Page 114 STAT. 1901]]
+
+Public Law 106-430
+106th Congress
+
+                                 An Act
+
+
+ 
+To require changes in the bloodborne pathogens standard in effect under 
+    the Occupational Safety and Health Act of 1970. <<NOTE: Nov. 6, 
+                         2000 -  [H.R. 5178]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Needlestick Safety and 
+Prevention Act.>> assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Needlestick Safety and Prevention 
+Act''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds the following:
+            (1) Numerous workers who are occupationally exposed to 
+        bloodborne pathogens have contracted fatal and other serious 
+        viruses and diseases, including the human immunodeficiency virus 
+        (HIV), hepatitis B, and hepatitis C from exposure to blood and 
+        other potentially infectious materials in their workplace.
+            (2) In 1991 the Occupational Safety and Health 
+        Administration issued a standard regulating occupational 
+        exposure to bloodborne pathogens, including the human 
+        immunodeficiency virus, (HIV), the hepatitis B virus (HBV), and 
+        the hepatitis C virus (HCV).
+            (3) Compliance with the bloodborne pathogens standard has 
+        significantly reduced the risk that workers will contract a 
+        bloodborne disease in the course of their work.
+            (4) Nevertheless, occupational exposure to bloodborne 
+        pathogens from accidental sharps injuries in health care 
+        settings continues to be a serious problem. In March 2000, the 
+        Centers for Disease Control and Prevention estimated that more 
+        than 380,000 percutaneous injuries from contaminated sharps 
+        occur annually among health care workers in United States 
+        hospital settings. Estimates for all health care settings are 
+        that 600,000 to 800,000 needlestick and other percutaneous 
+        injuries occur among health care workers annually. Such injuries 
+        can involve needles or other sharps contaminated with bloodborne 
+        pathogens, such as HIV, HBV, or HCV.
+            (5) Since publication of the bloodborne pathogens standard 
+        in 1991 there has been a substantial increase in the number and 
+        assortment of effective engineering controls available to 
+        employers. There is now a large body of research and data 
+        concerning the effectiveness of newer engineering controls, 
+        including safer medical devices.
+            (6) 396 interested parties responded to a Request for 
+        Information (in this section referred to as the ``RFI'') 
+        conducted
+
+[[Page 114 STAT. 1902]]
+
+        by the Occupational Safety and Health Administration in 1998 on 
+        engineering and work practice controls used to eliminate or 
+        minimize the risk of occupational exposure to bloodborne 
+        pathogens due to percutaneous injuries from contaminated sharps. 
+        Comments were provided by health care facilities, groups 
+        representing healthcare workers, researchers, educational 
+        institutions, professional and industry associations, and 
+        manufacturers of medical devices.
+            (7) Numerous studies have demonstrated that the use of safer 
+        medical devices, such as needleless systems and sharps with 
+        engineered sharps injury protections, when they are part of an 
+        overall bloodborne pathogens risk-reduction program, can be 
+        extremely effective in reducing accidental sharps injuries.
+            (8) In March 2000, the Centers for Disease Control and 
+        Prevention estimated that, depending on the type of device used 
+        and the procedure involved, 62 to 88 percent of sharps injuries 
+        can potentially be prevented by the use of safer medical 
+        devices.
+            (9) The OSHA 200 Log, as it is currently maintained, does 
+        not sufficiently reflect injuries that may involve exposure to 
+        bloodborne pathogens in healthcare facilities. More than 98 
+        percent of healthcare facilities responding to the RFI have 
+        adopted surveillance systems in addition to the OSHA 200 Log. 
+        Information gathered through these surveillance systems is 
+        commonly used for hazard identification and evaluation of 
+        program and device effectiveness.
+            (10) Training and education in the use of safer medical 
+        devices and safer work practices are significant elements in the 
+        prevention of percutaneous exposure incidents. Staff involvement 
+        in the device selection and evaluation process is also an 
+        important element to achieving a reduction in sharps injuries, 
+        particularly as new safer devices are introduced into the work 
+        setting.
+            (11) Modification of the bloodborne pathogens standard is 
+        appropriate to set forth in greater detail its requirement that 
+        employers identify, evaluate, and make use of effective safer 
+        medical devices.
+
+SEC. 3. BLOODBORNE PATHOGENS STANDARD.
+
+    The bloodborne pathogens standard published at 29 CFR 1910.1030 
+shall be revised as follows:
+            (1) The definition of ``Engineering Controls'' (at 29 CFR 
+        1910.1030(b)) shall include as additional examples of controls 
+        the following: ``safer medical devices, such as sharps with 
+        engineered sharps injury protections and needleless systems''.
+            (2) The term ``Sharps with Engineered Sharps Injury 
+        Protections'' shall be added to the definitions (at 29 CFR 
+        1910.1030(b)) and defined as ``a nonneedle sharp or a needle 
+        device used for withdrawing body fluids, accessing a vein or 
+        artery, or administering medications or other fluids, with a 
+        built-in safety feature or mechanism that effectively reduces 
+        the risk of an exposure incident''.
+            (3) The term ``Needleless Systems'' shall be added to the 
+        definitions (at 29 CFR 1910.1030(b)) and defined as ``a device 
+        that does not use needles for: (A) the collection of bodily 
+        fluids or withdrawal of body fluids after initial venous or 
+        arterial access is established; (B) the administration of 
+        medication or
+
+[[Page 114 STAT. 1903]]
+
+        fluids; or (C) any other procedure involving the potential for 
+        occupational exposure to bloodborne pathogens due to 
+        percutaneous injuries from contaminated sharps''.
+            (4) In addition to the existing requirements concerning 
+        exposure control plans (29 CFR 1910.1030(c)(1)(iv)), the review 
+        and update of such plans shall be required to also--
+                    (A) ``reflect changes in technology that eliminate 
+                or reduce exposure to bloodborne pathogens''; and
+                    (B) ``document annually consideration and 
+                implementation of appropriate commercially available and 
+                effective safer medical devices designed to eliminate or 
+                minimize occupational exposure''.
+            (5) <<NOTE: Records.>> The following additional 
+        recordkeeping requirement shall be added to the bloodborne 
+        pathogens standard at 29 CFR 1910.1030(h): ``The employer shall 
+        establish and maintain a sharps injury log for the recording of 
+        percutaneous injuries from contaminated sharps. The information 
+        in the sharps injury log shall be recorded and maintained in 
+        such manner as to protect the confidentiality of the injured 
+        employee. The sharps injury log shall contain, at a minimum--
+                    ``(A) the type and brand of device involved in the 
+                incident,
+                    ``(B) the department or work area where the exposure 
+                incident occurred, and
+                    ``(C) an explanation of how the incident 
+                occurred.''.
+        The requirement for such sharps injury log shall not apply to 
+        any employer who is not required to maintain a log of 
+        occupational injuries and illnesses under 29 CFR 1904 and the 
+        sharps injury log shall be maintained for the period required by 
+        29 CFR 1904.6.
+            (6) The following new section shall be added to the 
+        bloodborne pathogens standard: ``An employer, who is required to 
+        establish an Exposure Control Plan shall solicit input from non-
+        managerial employees responsible for direct patient care who are 
+        potentially exposed to injuries from contaminated sharps in the 
+        identification, evaluation, and selection of effective 
+        engineering and work practice controls and shall document the 
+        solicitation in the Exposure Control Plan.''.
+
+SEC. 4. EFFECT OF MODIFICATIONS.
+
+    The modifications under section 3 shall be in force until superseded 
+in whole or in part by regulations promulgated by the Secretary of Labor 
+under section 6(b) of the Occupational Safety and Health Act of 1970 (29 
+U.S.C. 655(b)) and shall be enforced in the same manner and to the same 
+extent as any rule or regulation promulgated under section 6(b).
+
+SEC. 5. PROCEDURE AND EFFECTIVE DATE.
+
+    (a) Procedure.--The modifications of the bloodborne pathogens 
+standard prescribed by section 3 shall take effect without regard to the 
+procedural requirements applicable to regulations promulgated under 
+section 6(b) of the Occupational Safety and Health Act of 1970 (29 
+U.S.C. 655(b)) or the procedural requirements of chapter 5 of title 5, 
+United States Code.
+    (b) Effective Date.--The modifications to the bloodborne pathogens 
+standard required by section 3 shall--
+            (1) <<NOTE: Deadline. Federal Register, 
+        publication.>> within 6 months of the date of the enactment of 
+        this Act, be made and published in the Federal Register by the
+
+[[Page 114 STAT. 1904]]
+
+        Secretary of Labor acting through the Occupational Safety and 
+        Health Administration; and
+            (2) at the end of 90 days after such publication, take 
+        effect.
+
+    Approved November 6, 2000.
+
+LEGISLATIVE HISTORY--H.R. 5178:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 146 (2000):
+            Oct. 3, considered and passed House.
+            Oct. 26, considered and passed Senate.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 36 (2000):
+            Nov. 6, Presidential statement.
+
+                                  
+

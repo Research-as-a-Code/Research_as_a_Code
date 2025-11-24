@@ -1,0 +1,1166 @@
+
+[116th Congress Public Law 271]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 134 STAT. 3331]]
+
+Public Law 116-271
+116th Congress
+
+                                 An Act
+
+
+ 
+ To reauthorize the Integrated Coastal and Ocean Observation System Act 
+ of 2009, to clarify the authority of the Administrator of the National 
+   Oceanic and Atmospheric Administration with respect to post-storm 
+   assessments, and to require the establishment of a National Water 
+  Center, and for other purposes. <<NOTE: Dec. 31, 2020 -  [S. 914]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Coordinated 
+Ocean Observations and Research Act of 2020. 33 USC 3601 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Coordinated Ocean 
+Observations and Research Act of 2020''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+  TITLE I--REAUTHORIZATION OF INTEGRATED COASTAL AND OCEAN OBSERVATION 
+                           SYSTEM ACT OF 2009
+
+Sec. 101. Purposes.
+Sec. 102. Definitions.
+Sec. 103. Integrated Coastal and Ocean Observation System.
+Sec. 104. Financing and agreements.
+Sec. 105. Reports to Congress.
+Sec. 106. Public-private use policy.
+Sec. 107. Repeal of independent cost estimate.
+Sec. 108. Authorization of appropriations.
+Sec. 109. Reports and research plans.
+Sec. 110. Strategic research plan.
+Sec. 111. Stakeholder input on monitoring.
+Sec. 112. Research activities.
+
+      TITLE II--NAMED STORM EVENT MODEL AND POST-STORM ASSESSMENTS
+
+Sec. 201. Named Storm Event Model and post-storm assessments.
+
+               TITLE III--WATER PREDICTION AND FORECASTING
+
+Sec. 301. Water prediction and forecasting.
+
+  TITLE I--REAUTHORIZATION OF INTEGRATED COASTAL AND OCEAN OBSERVATION 
+                           SYSTEM ACT OF 2009
+
+SEC. 101. PURPOSES.
+
+    Section 12302 of the Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3601) is amended to read as follows:
+``SEC. 12302. PURPOSES.
+
+    ``The purposes of this subtitle are--
+
+[[Page 134 STAT. 3332]]
+
+            ``(1) to establish and sustain a national integrated System 
+        of ocean, coastal, and Great Lakes observing systems, comprised 
+        of Federal and non-Federal components coordinated at the 
+        national level by the Council and at the regional level by a 
+        network of regional coastal observing systems, and that includes 
+        in situ, remote, and other coastal and ocean observation and 
+        modeling capabilities, technologies, data management systems, 
+        communication systems, and product development systems, and is 
+        designed to address regional and national needs for ocean and 
+        coastal information, to gather specific data on key ocean, 
+        coastal, and Great Lakes variables, and to ensure timely and 
+        sustained dissemination and availability of these data--
+                    ``(A) to the public;
+                    ``(B) to support national defense, search and rescue 
+                operations, marine commerce, navigation safety, weather, 
+                climate, and marine forecasting, energy siting and 
+                production, economic development, ecosystem-based 
+                marine, coastal, and Great Lakes resource management, 
+                public safety, and public outreach and education;
+                    ``(C) to promote greater public awareness and 
+                stewardship of the Nation's ocean, coastal, and Great 
+                Lakes resources and the general public welfare;
+                    ``(D) to provide easy access to ocean, coastal, and 
+                Great Lakes data and promote data sharing between 
+                Federal and non-Federal sources and promote public data 
+                sharing;
+                    ``(E) to enable advances in scientific understanding 
+                to support the sustainable use, conservation, 
+                management, and understanding of healthy ocean, coastal, 
+                and Great Lakes resources to ensure the Nation can 
+                respond to opportunities to enhance food, economic, and 
+                national security; and
+                    ``(F) to monitor and model changes in the oceans and 
+                Great Lakes, including with respect to chemistry, 
+                harmful algal blooms, hypoxia, water levels, and other 
+                phenomena;
+            ``(2) to improve the Nation's capability to measure, track, 
+        observe, understand, and predict events related directly and 
+        indirectly to weather and climate, natural climate variability, 
+        and interactions between the oceanic and atmospheric 
+        environments, including the Great Lakes;
+            ``(3) to sustain, upgrade, and modernize the Nation's ocean 
+        and Great Lakes observing infrastructure to detect changes and 
+        ensure delivery of reliable and timely information; and
+            ``(4) to authorize activities--
+                    ``(A) to promote basic and applied research to 
+                develop, test, and deploy innovations and improvements 
+                in coastal and ocean observation technologies, including 
+                advanced observing technologies such as unmanned 
+                maritime systems needed to address critical data gaps, 
+                modeling systems, other scientific and technological 
+                capabilities to improve the understanding of weather and 
+                climate, ocean-atmosphere dynamics, global climate 
+                change, and the physical, chemical, and biological 
+                dynamics of the ocean, coastal, and Great Lakes 
+                environments; and
+                    ``(B) to conserve healthy and restore degraded 
+                coastal ecosystems.''.
+
+[[Page 134 STAT. 3333]]
+
+SEC. 102. DEFINITIONS.
+
+    Section 12303 of the Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3602) is amended--
+            (1) in paragraph (2), by striking ``section 7902'' and 
+        inserting ``section 8932'';
+            (2) in paragraph (5), by striking ``integrated into the 
+        System and are managed through States, regional organizations, 
+        universities, nongovernmental organizations, or the private 
+        sector'' and inserting ``managed through States, regional 
+        organizations, universities, nongovernmental organizations, or 
+        the private sector and integrated into the System by a regional 
+        coastal observing system, the National Oceanic and Atmospheric 
+        Administration, or the agencies participating in the Interagency 
+        Ocean Observation Committee'';
+            (3) by amending paragraph (6) to read as follows:
+            ``(6) Regional coastal observing system.--The term `regional 
+        coastal observing system' means an organizational body that is 
+        certified or established by contract or memorandum by the lead 
+        Federal agency designated in section 12304(c)(3) and coordinates 
+        State, Federal, local, tribal, and private interests at a 
+        regional level with the responsibility of engaging the private 
+        and public sectors in designing, operating, and improving 
+        regional coastal observing systems in order to ensure the 
+        provision of data and information that meet the needs of user 
+        groups from the respective regions.''; and
+            (4) in paragraph (7), by striking ``National Oceanic and 
+        Atmospheric Administration'' and inserting ``Administrator''.
+SEC. 103. INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM.
+
+    (a) System Elements.--
+            (1) In general.--Section 12304(b) of the Integrated Coastal 
+        and Ocean Observation System Act of 2009 (33 U.S.C. 3603(b)) is 
+        amended by striking paragraph (1) and inserting the following:
+            ``(1) In general.--In order to fulfill the purposes of this 
+        subtitle, the System shall be national in scope and consist of--
+                    ``(A) Federal assets to fulfill national and 
+                international observation missions and priorities;
+                    ``(B) non-Federal assets, including a network of 
+                regional coastal observing systems identified under 
+                subsection (c)(4), to fulfill regional and national 
+                observation missions and priorities;
+                    ``(C) <<NOTE: Reviews. Recommenda- tions.>>  
+                observing, modeling, data management, and communication 
+                systems for the timely integration and dissemination of 
+                data and information products from the System, including 
+                reviews of data collection procedures across regions and 
+                programs to make recommendations for data collection 
+                standards across the System to meet national ocean, 
+                coastal, and Great Lakes observation, applied research, 
+                and weather forecasting needs;
+                    ``(D) a product development system to transform 
+                observations into products in a format that may be 
+                readily used and understood; and
+                    ``(E) a research and development program conducted 
+                under the guidance of the Council, consisting of--
+
+[[Page 134 STAT. 3334]]
+
+                          ``(i) basic and applied research and 
+                      technology development--
+                                    ``(I) to improve understanding of 
+                                coastal and ocean systems and their 
+                                relationships to human activities; and
+                                    ``(II) to ensure improvement of 
+                                operational assets and products, 
+                                including related infrastructure, 
+                                observing technologies such as unmanned 
+                                maritime systems, and information and 
+                                data processing and management 
+                                technologies;
+                          ``(ii) an advanced observing technology 
+                      development program to fill gaps in technology;
+                          ``(iii) large scale computing resources and 
+                      research to advance modeling of ocean, coastal, 
+                      and Great Lakes processes;
+                          ``(iv) models to improve regional weather 
+                      forecasting capabilities and regional weather 
+                      forecasting products; and
+                          ``(v) <<NOTE: Reviews. Recommenda- tions.>>  
+                      reviews of data collection procedures across 
+                      regions and programs to make recommendations for 
+                      data collection standards across the System to 
+                      meet national ocean, coastal, and Great Lakes 
+                      observation, applied research, and weather 
+                      forecasting needs.''.
+            (2) Availability of data.--Section 12304(b)(3) of such Act 
+        (33 U.S.C. 3603(b)(3)) is amended by inserting ``for research 
+        and for use in the development of products to address societal 
+        needs'' before the period at the end.
+
+    (b) Policy Oversight, Administration, and Regional Coordination.--
+Section 12304(c) of the Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3603(c)) is amended by striking paragraphs (2), 
+(3), and (4), and inserting the following:
+            ``(2) Interagency ocean observation committee.--
+                    ``(A) Establishment.--The Council shall establish or 
+                designate a committee, which shall be known as the 
+                `Interagency Ocean Observation Committee'.
+                    ``(B) Duties.--The Interagency Ocean Observation 
+                Committee shall--
+                          ``(i) prepare annual and long-term plans for 
+                      consideration and approval by the Council for the 
+                      integrated design, operation, maintenance, 
+                      enhancement, and expansion of the System to meet 
+                      the objectives of this subtitle and the System 
+                      Plan;
+                          ``(ii) develop and transmit to Congress, along 
+                      with the budget submitted by the President to 
+                      Congress pursuant to section 1105(a) of title 31, 
+                      United States Code, an annual coordinated, 
+                      comprehensive budget--
+                                    ``(I) to operate all elements of the 
+                                System identified in subsection (b); and
+                                    ``(II) to ensure continuity of data 
+                                streams from Federal and non-Federal 
+                                assets;
+                          ``(iii) establish requirements for observation 
+                      data variables to be gathered by both Federal and 
+                      non-Federal assets and identify, in consultation 
+                      with regional coastal observing systems, 
+                      priorities for System observations;
+
+[[Page 134 STAT. 3335]]
+
+                          ``(iv) establish and define protocols and 
+                      standards for System data processing, management, 
+                      collection, configuration standards, formats, and 
+                      communication for new and existing assets 
+                      throughout the System network;
+                          ``(v) develop contract requirements for each 
+                      regional coastal observing system--
+                                    ``(I) to establish eligibility for 
+                                integration into the System;
+                                    ``(II) to ensure compliance with all 
+                                applicable standards and protocols 
+                                established by the Council; and
+                                    ``(III) to ensure that regional 
+                                observations are integrated into the 
+                                System on a sustained basis;
+                          ``(vi) identify gaps in observation coverage 
+                      or needs for capital improvements of both Federal 
+                      assets and non-Federal assets;
+                          ``(vii) subject to the availability of 
+                      appropriations, establish through 1 or more 
+                      Federal agencies participating in the Interagency 
+                      Ocean Observation Committee, in consultation with 
+                      the System advisory committee established under 
+                      subsection (d), a competitive matching grant or 
+                      other programs--
+                                    ``(I) to promote intramural and 
+                                extramural research and development of 
+                                new, innovative, and emerging 
+                                observation technologies including 
+                                testing and field trials; and
+                                    ``(II) to facilitate the migration 
+                                of new, innovative, and emerging 
+                                scientific and technological advances 
+                                from research and development to 
+                                operational deployment;
+                          ``(viii) periodically--
+                                    ``(I) review the System Plan; and
+                                    ``(II) submit to the Council such 
+                                recommendations as the Interagency Ocean 
+                                Observation Committee may have for 
+                                improvements to the System Plan;
+                          ``(ix) ensure collaboration among Federal 
+                      agencies participating in the Interagency Ocean 
+                      Observation Committee; and
+                          ``(x) perform such additional duties as the 
+                      Council may delegate.
+            ``(3) Lead federal agency.--
+                    ``(A) In general.--The National Oceanic and 
+                Atmospheric Administration shall function as the lead 
+                Federal agency for the implementation and administration 
+                of the System.
+                    ``(B) Consultation required.--In carrying out this 
+                paragraph, the Administrator shall consult with the 
+                Council, the Interagency Ocean Observation Committee, 
+                other Federal agencies that maintain portions of the 
+                System, and the regional coastal observing systems.
+                    ``(C) Requirements.--In carrying out this paragraph, 
+                the Administrator shall--
+                          ``(i) establish and operate an Integrated 
+                      Ocean Observing System Program Office within the 
+                      National Oceanic and Atmospheric Administration 
+                      that--
+
+[[Page 134 STAT. 3336]]
+
+                                    ``(I) utilizes, to the extent 
+                                necessary, personnel from Federal 
+                                agencies participating in the 
+                                Interagency Ocean Observation Committee; 
+                                and
+                                    ``(II) oversees daily operations and 
+                                coordination of the System;
+                          ``(ii) implement policies, protocols, and 
+                      standards approved by the Council and delegated by 
+                      the Interagency Ocean Observation Committee;
+                          ``(iii) <<NOTE: Guidelines.>>  promulgate 
+                      program guidelines--
+                                    ``(I) <<NOTE: Certification.>>  to 
+                                certify and integrate regional 
+                                associations into the System; and
+                                    ``(II) to provide regional coastal 
+                                and ocean observation data that meet the 
+                                needs of user groups from the respective 
+                                regions;
+                          ``(iv) have the authority to enter into and 
+                      oversee contracts, leases, grants, or cooperative 
+                      agreements with non-Federal assets, including 
+                      regional coastal observing systems, to support the 
+                      purposes of this subtitle on such terms as the 
+                      Administrator deems appropriate;
+                          ``(v) implement and maintain a merit-based, 
+                      competitive funding process to support non-Federal 
+                      assets, including the development and maintenance 
+                      of a national network of regional coastal 
+                      observing systems, and develop and implement a 
+                      process for the periodic review and evaluation of 
+                      the regional associations;
+                          ``(vi) provide opportunities for competitive 
+                      contracts and grants for demonstration projects to 
+                      design, develop, integrate, deploy, maintain, and 
+                      support components of the System;
+                          ``(vii) <<NOTE: Procedures.>>  establish and 
+                      maintain efficient and effective administrative 
+                      procedures for the timely allocation of funds 
+                      among contractors, grantees, and non-Federal 
+                      assets, including regional coastal observing 
+                      systems;
+                          ``(viii) <<NOTE: Review. Evaluation.>>  
+                      develop and implement a process for the periodic 
+                      review and evaluation of the regional coastal 
+                      observing systems;
+                          ``(ix) formulate an annual process by which 
+                      gaps in observation coverage or needs for capital 
+                      improvements of Federal assets and non-Federal 
+                      assets of the System are--
+                                    ``(I) identified by the regional 
+                                associations described in the System 
+                                Plan, the Administrator, or other 
+                                members of the System; and
+                                    ``(II) submitted to the Interagency 
+                                Ocean Observation Committee;
+                          ``(x) develop and be responsible for a data 
+                      management and communication system, in accordance 
+                      with standards and protocols established by the 
+                      Interagency Ocean Observation Committee, by which 
+                      all data collected by the System regarding ocean 
+                      and coastal waters of the United States including 
+                      the Great Lakes, are processed, stored, 
+                      integrated, and made available to all end-user 
+                      communities;
+
+[[Page 134 STAT. 3337]]
+
+                          ``(xi) <<NOTE: Reports.>>  not less frequently 
+                      than once each year, submit to the Interagency 
+                      Ocean Observation Committee a report on the 
+                      accomplishments, operational needs, and 
+                      performance of the System to contribute to the 
+                      annual and long-term plans prepared pursuant to 
+                      paragraph (2)(B)(i);
+                          ``(xii) <<NOTE: Update. Plan.>>  develop and 
+                      periodically update a plan to efficiently 
+                      integrate into the System new, innovative, or 
+                      emerging technologies that have been demonstrated 
+                      to be useful to the System and which will fulfill 
+                      the purposes of this subtitle and the System Plan; 
+                      and
+                          ``(xiii) work with users and regional 
+                      associations to develop products to enable real-
+                      time data sharing for decision makers, including 
+                      with respect to weather forecasting and modeling, 
+                      search and rescue operations, corrosive seawater 
+                      forecasts, water quality monitoring and 
+                      communication, and harmful algal bloom 
+                      forecasting.
+            ``(4) Regional coastal observing systems.--
+                    ``(A) In general.--A regional coastal observing 
+                system described in the System Plan as a regional 
+                association may not be certified or established under 
+                this subtitle unless it--
+                          ``(i) has been or shall be certified or 
+                      established by contract or agreement by the 
+                      Administrator;
+                          ``(ii) meets--
+                                    ``(I) the certification standards 
+                                and compliance procedure guidelines 
+                                issued by the Administrator; and
+                                    ``(II) the information needs of user 
+                                groups in the region while adhering to 
+                                national standards;
+                          ``(iii) demonstrates an organizational 
+                      structure, that under funding limitations is 
+                      capable of--
+                                    ``(I) gathering required System 
+                                observation data;
+                                    ``(II) supporting and integrating 
+                                all aspects of coastal and ocean 
+                                observing and information programs 
+                                within a region; and
+                                    ``(III) reflecting the needs of 
+                                State, local, and tribal governments, 
+                                commercial interests, and other users 
+                                and beneficiaries of the System and 
+                                other requirements specified under this 
+                                subtitle and the System Plan;
+                          ``(iv) identifies--
+                                    ``(I) gaps in observation coverage 
+                                needs for capital improvements of 
+                                Federal assets and non-Federal assets of 
+                                the System; and
+                                    ``(II) <<NOTE: Recommenda- tions.>>  
+                                other recommendations to assist in the 
+                                development of the annual and long-term 
+                                plans prepared pursuant to paragraph 
+                                (2)(B)(i) and transmits such information 
+                                to the Interagency Ocean Observation 
+                                Committee through the Program Office 
+                                established under paragraph (3)(C)(i);
+                          ``(v) <<NOTE: Strategic plan.>>  develops and 
+                      operates under a strategic plan that will ensure 
+                      the efficient and effective administration of 
+                      programs and assets to support daily data
+
+[[Page 134 STAT. 3338]]
+
+                      observations for integration into the System, 
+                      pursuant to the standards approved by the Council;
+                          ``(vi) works cooperatively with governmental 
+                      and nongovernmental entities at all levels to 
+                      identify and provide information products of the 
+                      System for multiple users within the service area 
+                      of the regional coastal observing system; and
+                          ``(vii) <<NOTE: Compliance.>>  complies with 
+                      all financial oversight requirements established 
+                      by the Administrator, including requirements 
+                      relating to audits.
+                    ``(B) Participation.--For the purposes of this 
+                subtitle, employees of Federal agencies are permitted to 
+                be members of the governing body for the regional 
+                coastal observing systems and may participate in the 
+                functions of the regional coastal observing systems.''.
+
+    (c) System Advisory Committee.--Section 12304(d) of the Integrated 
+Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(d)) is 
+amended--
+            (1) in paragraph (1), by striking ``or the Interagency Ocean 
+        Observing Committee.'' and inserting ``or the Council under this 
+        subtitle''; and
+            (2) in paragraph (2)--
+                    (A) in subparagraph (A), by inserting ``, data 
+                sharing,'' after ``data management'';
+                    (B) in subparagraph (C), by striking ``and'' at the 
+                end;
+                    (C) by striking subparagraph (D) and inserting the 
+                following:
+                    ``(D) additional priorities, including--
+                          ``(i) a national surface current mapping 
+                      network designed to improve fine scale sea surface 
+                      mapping using high frequency radar technology and 
+                      other emerging technologies to address national 
+                      priorities, including Coast Guard search and 
+                      rescue operation planning and harmful algal bloom 
+                      forecasting and detection that--
+                                    ``(I) is comprised of existing high 
+                                frequency radar and other sea surface 
+                                current mapping infrastructure operated 
+                                by national programs and regional 
+                                coastal observing systems;
+                                    ``(II) incorporates new high 
+                                frequency radar assets or other fine 
+                                scale sea surface mapping technology 
+                                assets, and other assets needed to fill 
+                                gaps in coverage on United States 
+                                coastlines; and
+                                    ``(III) follows a deployment plan 
+                                that prioritizes closing gaps in high 
+                                frequency radar infrastructure in the 
+                                United States, starting with areas 
+                                demonstrating significant sea surface 
+                                current data needs, especially in areas 
+                                where additional data will improve Coast 
+                                Guard search and rescue models;
+                          ``(ii) fleet acquisition for unmanned maritime 
+                      systems for deployment and data integration to 
+                      fulfill the purposes of this subtitle;
+                          ``(iii) an integrative survey program for 
+                      application of unmanned maritime systems to the 
+                      real-time or near real-time collection and 
+                      transmission of sea floor,
+
+[[Page 134 STAT. 3339]]
+
+                      water column, and sea surface data on biology, 
+                      chemistry, geology, physics, and hydrography;
+                          ``(iv) remote sensing and data assimilation to 
+                      develop new analytical methodologies to assimilate 
+                      data from the System into hydrodynamic models;
+                          ``(v) integrated, multi-State monitoring to 
+                      assess sources, movement, and fate of sediments in 
+                      coastal regions;
+                          ``(vi) a multi-region marine sound monitoring 
+                      system to be--
+                                    ``(I) <<NOTE: Consultation.>>  
+                                planned in consultation with the 
+                                Interagency Ocean Observation Committee, 
+                                the National Oceanic and Atmospheric 
+                                Administration, the Department of the 
+                                Navy, and academic research 
+                                institutions; and
+                                    ``(II) developed, installed, and 
+                                operated in coordination with the 
+                                National Oceanic and Atmospheric 
+                                Administration, the Department of the 
+                                Navy, and academic research 
+                                institutions; and
+                    ``(E) any other purpose identified by the 
+                Administrator or the Council.'';
+                    (D) in paragraph (3)(B), by inserting ``The 
+                Administrator may stagger the terms of the System 
+                advisory committee members.'' before ``Members''; and
+                    (E) in paragraph (4)--
+                          (i) in subparagraph (A), by striking ``and the 
+                      Interagency Ocean Observing Committee''; and
+                          (ii) in subparagraph (C), by striking 
+                      ``Observing'' and inserting ``Observation''.
+
+    (d) Civil Liability.--Section 12304(e) of the Integrated Coastal and 
+Ocean Observation System Act of 2009 (33 U.S.C. 3603(e)) is amended--
+            (1) by striking ``information coordination entity'' each 
+        place it appears and inserting ``coastal observing system''; and
+            (2) by striking ``contract, lease, grant, or cooperative 
+        agreement under subsection (c)(3)(D)'' and inserting ``a 
+        memorandum of agreement of certification under subsection 
+        (c)(3)(C)(iii)''.
+
+    (e) Conforming Amendments.--The Integrated Coastal and Ocean 
+Observation System Act of 2009 (33 U.S.C. 3601 et seq.) is amended by 
+striking ``regional information coordination entities'' each place it 
+appears and inserting ``regional coastal observing systems''.
+SEC. 104. FINANCING AND AGREEMENTS.
+
+    Section 12305(a) of the Integrated Coastal and Ocean Observation 
+System Act of 2009 (33 U.S.C. 3604(a)) is amended to read as follows:
+    ``(a) In General.--The Secretary of Commerce may execute an 
+agreement, on a reimbursable or nonreimbursable basis, with any State or 
+subdivision thereof, any Federal agency, any public or private 
+organization, or any individual to carry out activities under this 
+subtitle.''.
+SEC. 105. REPORTS TO CONGRESS.
+
+    Section 12307 of the Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3606) is amended to read as follows:
+
+[[Page 134 STAT. 3340]]
+
+``SEC. 12307. REPORT TO CONGRESS.
+
+    ``(a) <<NOTE: Time period. President.>>  Requirement.--Not later 
+than March 30, 2022, and every 5 years thereafter, the Administrator 
+shall prepare, and the President acting through the Council shall 
+approve and transmit to Congress, a report on progress made in 
+implementing this subtitle.
+
+    ``(b) Contents.--Each report required under subsection (a) shall 
+include--
+            ``(1) a description of activities carried out under this 
+        subtitle and the System Plan;
+            ``(2) <<NOTE: Evaluation.>>  an evaluation of the 
+        effectiveness of the System, including an evaluation of progress 
+        made by the Council to achieve the goals identified under the 
+        System Plan;
+            ``(3) <<NOTE: Determination.>>  the identification of 
+        Federal and non-Federal assets as determined by the Council that 
+        have been integrated into the System, including assets essential 
+        to the gathering of required observation data variables 
+        necessary to meet the respective missions of Council agencies;
+            ``(4) <<NOTE: Review.>>  a review of procurements, planned 
+        or initiated, by each department or agency represented on the 
+        Council to enhance, expand, or modernize the observation 
+        capabilities and data products provided by the System, including 
+        data management and communication subsystems;
+            ``(5) <<NOTE: Summary.>>  a summary of the existing gaps in 
+        observation infrastructure and monitoring data collection, 
+        including--
+                    ``(A) priorities considered by the System advisory 
+                committee;
+                    ``(B) the national sea surface current mapping 
+                network;
+                    ``(C) coastal buoys;
+                    ``(D) ocean chemistry monitoring;
+                    ``(E) marine sound monitoring; and
+                    ``(F) unmanned maritime systems technology gaps;
+            ``(6) <<NOTE: Assessment. Coordination.>>  an assessment 
+        regarding activities to integrate Federal and non-Federal 
+        assets, nationally and on the regional level, and discussion of 
+        the performance and effectiveness of regional coastal observing 
+        systems to coordinate regional observation operations;
+            ``(7) a description of benefits of the program to users of 
+        data products resulting from the System (including the general 
+        public, industries, scientists, resource managers, emergency 
+        responders, policy makers, and educators);
+            ``(8) <<NOTE: Recommenda- tions.>>  recommendations, if any, 
+        concerning--
+                    ``(A) modifications to the System; and
+                    ``(B) funding levels for the System in subsequent 
+                fiscal years; and
+            ``(9) the results of a periodic external independent 
+        programmatic audit of the System.''.
+SEC. 106. PUBLIC-PRIVATE USE POLICY.
+
+    Section 12308 of the Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3607) is amended to read as follows:
+``SEC. 12308. PUBLIC-PRIVATE USE POLICY.
+
+    ``The Council shall maintain a policy that defines processes for 
+making decisions about the roles of the Federal Government, the States, 
+regional coastal observing systems, the academic community, and the 
+private sector in providing to end-user communities environmental 
+information, products, technologies, and services
+
+[[Page 134 STAT. 3341]]
+
+related to the System. The Administrator shall ensure that the National 
+Oceanic and Atmospheric Administration adheres to the decision making 
+process developed by the Council regarding the roles of the Federal 
+Government, the States, the regional coastal observing systems, the 
+academic community, and the private sector in providing end-user 
+communities environmental information, data products, technologies, and 
+services related to the System.''.
+SEC. 107. REPEAL OF INDEPENDENT COST ESTIMATE.
+
+    (a) In General.--The Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3601 et seq.) is amended by striking section 
+12309 (33 U.S.C. 3608).
+    (b) Table of Contents Amendment.--The table of contents in section 
+1(b) of the Omnibus Public Land Management Act of 2009 (Public Law 111-
+11; 123 Stat. 991) is amended by striking the item related to section 
+12309.
+SEC. 108. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 12311 of the Integrated Coastal and Ocean Observation System 
+Act of 2009 (33 U.S.C. 3610) is amended to read as follows:
+``SEC. 12311. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated to the Secretary of 
+Commerce to support the integrated oceans observations under this 
+subtitle--
+            ``(1) $48,000,000 for fiscal year 2021;
+            ``(2) $50,000,000 for fiscal year 2022;
+            ``(3) $52,000,000 for fiscal year 2023;
+            ``(4) $54,000,000 for fiscal year 2024; and
+            ``(5) $56,000,000 for fiscal year 2025.''.
+SEC. 109. REPORTS AND RESEARCH PLANS.
+
+    Section 12404(c) of the Federal Ocean Acidification Research And 
+Monitoring Act of 2009 (33 U.S.C. 3703(c)) is amended by adding at the 
+end the following:
+            ``(4) Economic vulnerability report.--
+                    ``(A) <<NOTE: Time period.>>  In general.--Not later 
+                than 2 years after the date of the enactment of the 
+                Coordinated Ocean Observations and Research Act of 2020, 
+                and every 6 years thereafter, the Subcommittee shall 
+                transmit to the appropriate committees of Congress a 
+                report that--
+                          ``(i) is named the `Ocean Chemistry Coastal 
+                      Community Vulnerability Assessment';
+                          ``(ii) identifies gaps in ocean acidification 
+                      monitoring by public, academic, and private assets 
+                      in the network of regional coastal observing 
+                      systems;
+                          ``(iii) identifies geographic areas which have 
+                      gaps in ocean acidification research;
+                          ``(iv) identifies United States coastal 
+                      communities, including island communities, fishing 
+                      communities, low-population rural communities, 
+                      tribal and subsistence communities, and island 
+                      communities, that may be impacted by ocean 
+                      acidification;
+                          ``(v) identifies impacts of changing ocean 
+                      carbonate chemistry on the communities described 
+                      in clause (iv), including impacts from changes in 
+                      ocean and coastal marine resources that are not 
+                      managed by the Federal Government;
+
+[[Page 134 STAT. 3342]]
+
+                          ``(vi) identifies gaps in understanding of the 
+                      impacts of ocean acidification on economically or 
+                      commercially important species, particularly those 
+                      which support United States commercial, 
+                      recreational, and tribal fisheries and 
+                      aquaculture;
+                          ``(vii) identifies habitats that may be 
+                      particularly vulnerable to corrosive sea water, 
+                      including areas experiencing multiple stressors 
+                      such as hypoxia, sedimentation, and harmful algal 
+                      blooms;
+                          ``(viii) identifies areas in which existing 
+                      National Integrated Coastal and Ocean Observation 
+                      System assets, including unmanned maritime 
+                      systems, may be leveraged as platforms for the 
+                      deployment of new sensors or other applicable 
+                      observing technologies;
+                          ``(ix) is written in collaboration with 
+                      Federal agencies responsible for carrying out this 
+                      subtitle, including representatives of--
+                                    ``(I) the National Marine Fisheries 
+                                Service and the Office for Coastal 
+                                Management of the National Oceanic and 
+                                Atmospheric Administration;
+                                    ``(II) regional coastal observing 
+                                systems established under section 
+                                12304(c)(4);
+                                    ``(III) regional ocean acidification 
+                                networks; and
+                                    ``(IV) sea grant programs (as 
+                                defined in section 203 of the National 
+                                Sea Grant College Program Act (33 U.S.C. 
+                                1122)); and
+                          ``(x) <<NOTE: Consultation.>>  is written in 
+                      consultation with experts, including subsistence 
+                      users, academia, and stakeholders familiar with 
+                      the economic, social, ecological, geographic, and 
+                      resource concerns of coastal communities in the 
+                      United States.
+                    ``(B) Form of report.--
+                          ``(i) Initial report.--The initial report 
+                      required under subparagraph (A) shall include the 
+                      information described in clauses (i) through 
+                      (viii) of that subparagraph on a national level.
+                          ``(ii) Subsequent reports.--Each report 
+                      required under subparagraph (A) after the initial 
+                      report--
+                                    ``(I) may describe the information 
+                                described in clauses (i) through (viii) 
+                                of that subparagraph on a national 
+                                level; or
+                                    ``(II) may consist of separate 
+                                reports for each region of the National 
+                                Oceanic and Atmospheric Administration.
+                          ``(iii) Regional reports.--If the Subcommittee 
+                      opts to prepare a report required under 
+                      subparagraph (A) as separate regional reports 
+                      under clause (ii)(II), the Subcommittee shall 
+                      submit a report for each region of the National 
+                      Oceanic and Atmospheric Administration not less 
+                      frequently than once during each 6-year reporting 
+                      period.
+                    ``(C) Appropriate committees of congress defined.--
+                In this paragraph and in paragraph (5), the term 
+                `appropriate committees of Congress' means the Committee 
+                on Commerce, Science, and Transportation of the Senate, 
+                the Committee on Science, Space, and Technology
+
+[[Page 134 STAT. 3343]]
+
+                of the House of Representatives, and the Committee on 
+                Natural Resources of the House of Representatives.
+            ``(5) Monitoring prioritization plan.--Not later than 180 
+        days after the date of the submission of the initial report 
+        under paragraph (4)(A), the Subcommittee shall transmit to the 
+        appropriate committees of Congress a report that develops a plan 
+        to deploy new sensors or other applicable observing technologies 
+        such as unmanned maritime systems--
+                    ``(A) based on such initial report;
+                    ``(B) prioritized by--
+                          ``(i) the threat to coastal economies and 
+                      ecosystems;
+                          ``(ii) gaps in data; and
+                          ``(iii) research needs; and
+                    ``(C) that leverage existing platforms, where 
+                possible.''.
+SEC. 110. STRATEGIC RESEARCH PLAN.
+
+    (a) Contents.--Section 12405(b) of the Federal Ocean Acidification 
+Research And Monitoring Act of 2009 (33 U.S.C. 3704(b)) is amended--
+            (1) in paragraph (8), by striking ``and'' at the end;
+            (2) in paragraph (9), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(10) <<NOTE: Recommenda- tions.>>  make recommendations 
+        for research to be conducted, including in the social sciences 
+        and economics, to address the key knowledge gaps identified in 
+        the Ocean Chemistry Coastal Community Vulnerability Assessment 
+        conducted under section 12404(c)(4).''.
+
+    (b) Program Elements.--Section 12405(c) of the Federal Ocean 
+Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(c)) is 
+amended by adding at the end the following:
+            ``(6) Research to understand the combined impact of changes 
+        in ocean chemistry and other stressors, including sediment 
+        delivery, hypoxia, and harmful algal blooms, on each other and 
+        on living marine resources, including aquaculture and coastal 
+        ecosystems.
+            ``(7) Applied research to identify adaptation strategies for 
+        species impacted by changes in ocean chemistry including 
+        vegetation-based systems, shell recycling, species and genetic 
+        diversity, applied technologies, aquaculture methodologies, and 
+        management recommendations.''.
+
+    (c) Participation.--Section 12405(e) of the Federal Ocean 
+Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(e)) is 
+amended in the first sentence by inserting ``, tribal governments, and 
+subsistence users'' after ``groups''.
+    (d) <<NOTE: Deadline. 33 USC 3704 note.>>  Revised Strategic 
+Research Plan.--Not later than one year after the date of the enactment 
+of this Act, the Joint Subcommittee on Ocean Science and Technology of 
+the National Science and Technology Council shall submit to Congress a 
+revised strategic research plan under section 12405 of the Federal Ocean 
+Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704) that 
+includes the matters required by the amendments made by this section.
+SEC. 111. STAKEHOLDER INPUT ON MONITORING.
+
+    Section 12406(a) of the Federal Ocean Acidification Research And 
+Monitoring Act of 2009 (33 U.S.C. 3705(a)) is amended--
+            (1) in paragraph (2), by striking ``and'' at the end;
+
+[[Page 134 STAT. 3344]]
+
+            (2) in paragraph (3), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) includes an ongoing mechanism that allows industry 
+        members, coastal stakeholders, fishery management councils and 
+        commissions, non-Federal resource managers, community 
+        acidification networks, indigenous knowledge groups, and 
+        scientific experts to provide input on monitoring needs that are 
+        necessary to support on the ground management, decision making, 
+        and adaptation related to ocean acidification and its 
+        impacts.''.
+SEC. 112. RESEARCH ACTIVITIES.
+
+    Section 12407(a) of the Federal Ocean Acidification Research And 
+Monitoring Act of 2009 (33 U.S.C. 3706(a)) is amended to read as 
+follows:
+    ``(a) Research Activities.--The Director of the National Science 
+Foundation shall continue to carry out research activities on ocean 
+acidification which shall support competitive, merit-based, peer-
+reviewed proposals for research, observation, and monitoring of ocean 
+acidification and its impacts, including--
+            ``(1) impacts on marine organisms, including species 
+        cultured for aquaculture, and marine ecosystems;
+            ``(2) impacts on ocean, coastal, and estuarine 
+        biogeochemistry;
+            ``(3) the development of methodologies and technologies to 
+        evaluate ocean acidification and its impacts; and
+            ``(4) impacts of multiple stressors on ecosystems exhibiting 
+        hypoxia, harmful algal blooms, or sediment delivery, combined 
+        with changes in ocean chemistry.''.
+
+      TITLE II--NAMED STORM EVENT MODEL AND POST-STORM ASSESSMENTS
+
+SEC. 201. NAMED STORM EVENT MODEL AND POST-STORM ASSESSMENTS.
+
+    (a) Amendments to the Omnibus Public Land Management Act of 2009.--
+Section 12312 of the Omnibus Public Land Management Act of 2009 (33 
+U.S.C. 3611) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (2), by striking the period at the 
+                end and inserting the following: ``, except that the 
+                term shall not apply with respect to a State or 
+                territory that has an operational wind and flood loss 
+                allocation system.'';
+                    (B) in paragraph (6), by inserting ``sustained'' 
+                before ``winds''; and
+                    (C) in paragraph (7), by striking ``that threaten 
+                any portion of a coastal State'' and inserting ``for 
+                which post-storm assessments are conducted'';
+            (2) in subsection (b)--
+                    (A) in paragraph (1)--
+                          (i) in subparagraph (A)--
+                                    (I) by striking ``540 days after the 
+                                date of the enactment of the Consumer 
+                                Option for an
+
+[[Page 134 STAT. 3345]]
+
+                                Alternative System to Allocate Losses 
+                                Act of 2012'' and inserting ``December 
+                                31, 2020''; and
+                                    (II) by striking ``by regulation'';
+                          (ii) in subparagraph (B), by striking 
+                      ``every'' and inserting ``an''; and
+                          (iii) by adding at the end the following:
+                    ``(C) Public review.--The Administrator shall seek 
+                input and suggestions from the public before the Named 
+                Storm Event Model, or any modification to the Named 
+                Storm Event Model, takes effect.''; and
+                    (B) in paragraph (2)--
+                          (i) by redesignating subparagraphs (B) and (C) 
+                      as subparagraphs (D) and (E), respectively;
+                          (ii) by inserting after subparagraph (A) the 
+                      following:
+                    ``(B) Data collection.--
+                          ``(i) <<NOTE: Determination.>>  In general.--
+                      Upon identification of a named storm under 
+                      subparagraph (A), and pursuant to the protocol 
+                      established under subsection (c), the 
+                      Administrator may deploy sensors to enhance the 
+                      collection of covered data in the areas in coastal 
+                      States that the Administrator determines are at 
+                      the highest risk of experiencing geophysical 
+                      events that would cause indeterminate losses.
+                          ``(ii) Rule of construction.--If the 
+                      Administrator takes action under clause (i), that 
+                      action may not be construed as indicating that a 
+                      post-storm assessment will be developed for any 
+                      coastal State in which that action is taken.
+                    ``(C) <<NOTE: Deadline. Notification.>>  
+                Identification of indeterminate losses in coastal 
+                states.--Not later than 30 days after the first date on 
+                which sustained winds of not less than 39 miles per hour 
+                are measured in a coastal State during a named storm 
+                identified under subparagraph (A), the Secretary of 
+                Homeland Security shall notify the Administrator with 
+                respect to the existence of any indeterminate losses in 
+                that coastal State resulting from that named storm.'';
+                          (iii) in subparagraph (D), as so 
+                      redesignated--
+                                    (I) by striking ``identification of 
+                                a named storm under subparagraph (A)'' 
+                                and inserting ``confirmation of 
+                                indeterminate losses identified under 
+                                subparagraph (C) with respect to a named 
+                                storm''; and
+                                    (II) by striking ``assessment for 
+                                such named storm'' and inserting 
+                                ``assessment for each coastal State that 
+                                suffered such indeterminate losses as a 
+                                result of the named storm'';
+                          (iv) in subparagraph (E), as so redesignated--
+                                    (I) by striking ``an identification 
+                                of a named storm is made under 
+                                subparagraph (A)'' and inserting ``any 
+                                indeterminate losses are identified 
+                                under subparagraph (C)''; and
+                                    (II) by striking ``for such storm 
+                                under subparagraph (B)'' and inserting 
+                                ``under subparagraph (D) for any coastal 
+                                State that suffered such indeterminate 
+                                losses''; and
+                          (v) by adding at the end the following:
+
+[[Page 134 STAT. 3346]]
+
+                    ``(F) Separate post-storm assessments for a single 
+                named storm.--
+                          ``(i) In general.--The Administrator may 
+                      conduct a separate post-storm assessment for each 
+                      coastal State in which indeterminate losses are 
+                      identified under subparagraph (C).
+                          ``(ii) Timeline.--If the Administrator 
+                      conducts a separate post-storm assessment under 
+                      clause (i), the Administrator shall complete the 
+                      assessment based on the dates of actions that the 
+                      Administrator takes under subparagraph (D).''; and
+            (3) in subsection (c)--
+                    (A) in paragraph (1), by striking ``540 days after 
+                the date of the enactment of the Consumer Option for an 
+                Alternative System to Allocate Losses Act of 2012'' and 
+                inserting ``December 31, 2020'';
+                    (B) in paragraph (2), by inserting ``, in the 
+                discretion of the Administrator,'' after ``of sensors as 
+                may''; and
+                    (C) in paragraph (4)(B), by inserting ``and expend'' 
+                after ``receive''.
+
+    (b) Amendments to the National Flood Insurance Act of 1968.--Section 
+1337 of the National Flood Insurance Act of 1968 (42 U.S.C. 4057) is 
+amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (3), by striking the period at the 
+                end and inserting the following: ``, except that the 
+                term shall not apply with respect to a State or 
+                territory that has an operational wind and flood loss 
+                allocation system.''; and
+                    (B) in paragraph (5), by inserting ``sustained'' 
+                after ``maximum'';
+            (2) in subsection (b)--
+                    (A) in paragraph (1), by striking ``establish by 
+                rule'' and inserting ``publish for comment in the 
+                Federal Register''; and
+                    (B) <<NOTE: Determination.>>  in paragraph (2)(B), 
+                by inserting after ``Elevation Certificate'' the 
+                following: ``, or other data or information used to 
+                determine a property's current risk of flood, as 
+                determined by the Administrator,'';
+            (3) <<NOTE: Federal Register, publication.>>  in subsection 
+        (c)(3)(A)(i), by striking ``the issuance of the rule 
+        establishing the COASTAL Formula'' and inserting ``publication 
+        of the COASTAL Formula in the Federal Register as required by 
+        subsection (b)(1)'';
+            (4) in subsection (d), by striking ``section 
+        12312(b)(2)(C)'' and inserting ``section 12312(b)(2)(E)'';
+            (5) in subsection (h)--
+                    (A) by inserting ``that issues a standard flood 
+                insurance policy under the national flood insurance 
+                program'' after ``company''; and
+                    (B) by striking ``or the COASTAL Formula'' and 
+                inserting ``, the COASTAL Formula, or any other loss 
+                allocation or post-storm assessment arising under the 
+                laws or ordinances of any State'';
+            (6) <<NOTE: Deadline. Federal Register, publication.>>  in 
+        subsection (i), by striking ``after the date on which the 
+        Administrator issues the rule establishing the COASTAL Formula 
+        under subsection (b)'' and inserting ``60 days after
+
+[[Page 134 STAT. 3347]]
+
+        publication of the COASTAL Formula in the Federal Register as 
+        required by subsection (b)(1)''; and
+            (7) by adding at the end the following:
+
+    ``(k) Rule of Construction.--Nothing in this section shall be 
+construed to create a cause of action under this Act.''.
+
+               TITLE III--WATER PREDICTION AND FORECASTING
+
+SEC. 301. <<NOTE: 42 USC 10371.>>  WATER PREDICTION AND 
+                        FORECASTING.
+
+    (a) National Water Center.--
+            (1) Establishment.--
+                    (A) In general.--The Under Secretary of Commerce for 
+                Oceans and Atmosphere shall establish a center--
+                          (i) to serve as the research and operational 
+                      center of excellence for hydrologic analyses, 
+                      forecasting, and related decision support services 
+                      within the National Oceanic and Atmospheric 
+                      Administration and the National Weather Service; 
+                      and
+                          (ii) to facilitate collaboration across 
+                      Federal and State departments and agencies, 
+                      academia, and the private sector on matters 
+                      relating to water resources.
+                    (B) Designation.--The center established under 
+                subparagraph (A) shall be known as the ``National Water 
+                Center''.
+            (2) Functions.--The functions of the National Water Center 
+        shall include the following:
+                    (A) Improving understanding of water resources, 
+                stakeholder needs regarding water resources, and 
+                identifying science and services gaps relating to water 
+                resources.
+                    (B) Developing and implementing advanced water 
+                resources modeling capabilities.
+                    (C) Facilitating the transition of hydrologic 
+                research into operations.
+                    (D) Delivering analyses, forecasts, and inundation 
+                information and guidance for all hydrologic events in 
+                the United States, including flash flooding, riverine 
+                flooding, and water resources outlooks.
+                    (E) <<NOTE: Coordination.>>  In coordination with 
+                warning coordination meteorologists, providing decision-
+                support services to inform emergency management and 
+                water resources decisions.
+
+    (b) National Instructions.--
+            (1) <<NOTE: Deadline. Public information.>>  In general.--
+        Not later than one year after the date of the enactment of this 
+        Act, the Under Secretary, acting through the Director of the 
+        National Weather Service, shall make public an operations and 
+        services policy directive for the National Water Center.
+            (2) Contents.--The directive required by paragraph (1) shall 
+        include national instructions to perform the functions of the 
+        National Water Center, including the following:
+                    (A) Operational staff responsibilities.
+                    (B) <<NOTE: Guidelines.>>  Guidelines for content, 
+                format, and provision of hydrologic and inundation 
+                products developed by the National Water Center.
+                    (C) <<NOTE: Procedures.>>  Procedures for 
+                cooperation and coordination between the National Water 
+                Center, the National Weather
+
+[[Page 134 STAT. 3348]]
+
+                Service National Centers for Environmental Prediction, 
+                National Weather Service River Forecast Centers, and 
+                National Weather Service Weather Forecast Offices.
+
+    (c) Total Water Prediction.--The Under Secretary, acting through the 
+Director of the Office of Water Prediction of the National Weather 
+Service, shall--
+            (1) initiate and lead research and development activities to 
+        develop operational water resource prediction and related 
+        decision support products;
+            (2) collaborate with, and provide decision support regarding 
+        total water prediction to--
+                    (A) the relevant Federal agencies represented on the 
+                National Science and Technology Council, Committee on 
+                Environment, Natural Resources, and Sustainability and 
+                the Subcommittee on Disaster Reduction;
+                    (B) State water resource agencies; and
+                    (C) State and local emergency management agencies; 
+                and
+            (3) in carrying out the responsibilities described in 
+        paragraphs (1) and (2), collaboratively develop capabilities 
+        necessary for total water predictive capacity, including 
+        observations, modeling, data management, supercomputing, social 
+        science, and communications.
+
+    (d) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out the activities under this section amounts as 
+follows:
+            (1) $44,500,000 for fiscal year 2021.
+            (2) $45,000,000 for fiscal year 2022.
+            (3) $45,500,000 for fiscal year 2023.
+            (4) $46,000,000 for fiscal year 2024.
+
+    (e) Derivation of Funds.--Funds to carry out this section shall be 
+derived from amounts authorized to be appropriated to the National 
+Weather Service and the National Ocean Service that are enacted after 
+the date of the enactment of this Act.
+
+    Approved December 31, 2020.
+
+LEGISLATIVE HISTORY--S. 914:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 116-168 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 166 (2020):
+            July 30, considered and passed Senate.
+            Dec. 3, considered and passed House, amended.
+            Dec. 16, Senate concurred in House amendment.
+DAILY COMPILATION OF PRESIDENTIAL DOCUMENTS (2020):
+            Dec. 31, Presidential statement.
+
+                                  
+

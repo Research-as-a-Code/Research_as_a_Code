@@ -1,0 +1,339 @@
+
+[107th Congress Public Law 9]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ009.107]
+
+
+[[Page 115 STAT. 11]]
+
+Public Law 107-9
+107th Congress
+
+                                 An Act
+
+
+ 
+    To establish a Federal interagency task force for the purpose of 
+   coordinating actions to prevent the outbreak of bovine spongiform 
+  encephalopathy (commonly known as ``mad cow disease'') and foot-and-
+ mouth disease in the United States. <<NOTE: May 24, 2001 -  [S. 700]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Animal Disease 
+Risk Assessment, Prevention, and Control Act of 2001.>> 
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Animal Disease Risk Assessment, 
+Prevention, and Control Act of 2001''.
+
+SEC. 2. FINDINGS AND PURPOSE.
+
+    (a) Findings.--Congress finds that--
+            (1) it is in the interest of the United States to maintain 
+        healthy livestock herds;
+            (2) managing the risks of foot-and-mouth disease, bovine 
+        spongiform encephalopathy, and related diseases in the United 
+        States may require billions of dollars for remedial activities 
+        by consumers, producers, and distributors of livestock and 
+        animal and blood products;
+            (3) the potential introduction of those diseases into the 
+        United States would cause devastating financial losses to--
+                    (A) the agriculture industry and other economic 
+                sectors; and
+                    (B) United States trade in the affected animals and 
+                animal products;
+            (4) foot-and-mouth disease is a severe and highly contagious 
+        viral infection affecting cattle, deer, goats, sheep, swine, and 
+        other animals;
+            (5) the most effective means of eradicating foot-and-mouth 
+        disease is by the slaughter of affected animals;
+            (6) while foot-and-mouth disease was eradicated in the 
+        United States in 1929, the virus could be reintroduced by--
+                    (A) a single infected animal, an animal product, or 
+                a person carrying the virus;
+                    (B) an act of terrorism; or
+                    (C) other means;
+            (7) once introduced, foot-and-mouth disease can spread 
+        quickly through--
+                    (A) exposure to aerosols from infected animals;
+                    (B) direct contact with infected animals; and
+                    (C) contact with contaminated feed, equipment, or 
+                humans harboring the virus or carrying the virus on 
+                their clothing;
+
+[[Page 115 STAT. 12]]
+
+            (8) foot-and-mouth disease is endemic to more than \2/3\ of 
+        the world and is considered to be widespread in parts of Africa, 
+        Asia, Europe, and South America;
+            (9) foot-and-mouth disease occurs in over 7 different 
+        serotypes and 60 subtypes;
+            (10) as foot-and-mouth disease outbreaks have occurred, the 
+        United States has banned the importation of live ruminants and 
+        swine and many animal products from countries affected by foot-
+        and-mouth disease;
+            (11) recently, the United States has implemented bans in 
+        response to outbreaks in Argentina, the European Union, and 
+        Taiwan;
+            (12) although United States exclusion programs have been 
+        successful at keeping foot-and-mouth disease out of the United 
+        States since 1929, recent outbreaks in Argentina, the European 
+        Union, and Taiwan are placing an unprecedented strain on our 
+        animal health system;
+            (13) bovine spongiform encephalopathy is a transmissible, 
+        neuro-degenerative disease found in cattle;
+            (14) in cattle with bovine spongiform encephalopathy, the 
+        active agent is found primarily in the brain and spinal cord and 
+        has not been found in commonly consumed beef products;
+            (15) bovine spongiform encephalopathy is thought to have an 
+        incubation period of several years but is ultimately fatal to 
+        cattle within weeks of onset of the active disease;
+            (16) bovine spongiform encephalopathy was first widely found 
+        in 1986 in cattle in the United Kingdom;
+            (17) bovine spongiform encephalopathy-carrying cattle have 
+        been found in cattle in Belgium, Denmark, France, Germany, 
+        Ireland, Italy, Liechtenstein, Luxembourg, the Netherlands, 
+        Portugal, Spain, and Switzerland;
+            (18) cattle infected with bovine spongiform encephalopathy 
+        originating from the United Kingdom have been found and 
+        intercepted in Canada;
+            (19) since 1989, the Secretary of Agriculture has prohibited 
+        the importation of live grazing animals from countries where 
+        bovine spongiform encephalopathy has been found in cattle;
+            (20) other products derived from grazing animals, such as 
+        blood meal, bonemeal, fat, fetal bovine serum, glands, meat-and-
+        bone meal, and offal, are prohibited from entry, except under 
+        special conditions or under permits issued by the Secretary of 
+        Agriculture for scientific or research purposes;
+            (21) on December 12, 1997, the Secretary of Agriculture 
+        extended those restrictions to include all countries in Europe 
+        because of concerns about widespread risk factors and inadequate 
+        surveillance for bovine spongiform encephalopathy;
+            (22) on December 7, 2000, the Secretary of Agriculture 
+        prohibited all imports of rendered animal protein products from 
+        Europe;
+            (23) Creutzfeldt-Jacob disease is a human spongiform 
+        encephalopathy;
+            (24) on March 20, 1996, the Spongiform Encephalopathy 
+        Advisory Committee of the United Kingdom announced the 
+        identification of 10 cases of a new variant of Creutzfeldt-Jacob 
+        disease;
+            (25) all 10 patients developed onsets of the disease in 1994 
+        or 1995;
+
+[[Page 115 STAT. 13]]
+
+            (26) scientific experts (including scientists at the 
+        Department of Agriculture, the Department of Health and Human 
+        Services, and the World Health Organization) are studying the 
+        possible link (including potential routes of transmission) 
+        between bovine spongiform encephalopathy and variant 
+        Creutzfeldt-Jacob disease;
+            (27) from October 1996 to December 2000, 87 cases of variant 
+        Creutzfeldt-Jacob disease have been reported in the United 
+        Kingdom, 3 cases in France, and 1 case in Ireland; and
+            (28) to reduce the risk of human spongiform encephalopathies 
+        in the United States, the Commissioner of Food and Drugs has--
+                    (A) banned individuals who lived in Great Britain 
+                for at least 180 days since 1980 from donating blood in 
+                the United States; and
+                    (B) established regulations that prohibit the 
+                feeding of most animal-derived proteins to grazing 
+                animals.
+
+    (b) Purpose.--The purpose of this Act is to provide the people of 
+the United States and Congress with information concerning--
+            (1) actions by Federal agencies to prevent foot-and-mouth 
+        disease, bovine spongiform encephalopathy, and related diseases;
+            (2) the sufficiency of legislative authority to prevent or 
+        control foot-and-mouth disease, bovine spongiform 
+        encephalopathy, and related diseases in the United States;
+            (3) the economic impacts associated with the potential 
+        introduction of foot-and-mouth disease, bovine spongiform 
+        encephalopathy, and related diseases into the United States; and
+            (4) the risks to public health from possible links between 
+        bovine spongiform encephalopathy and other spongiform 
+        encephalopathies to human illnesses.
+
+SEC. 3. REPORT TO CONGRESS.
+
+    (a) Preliminary Report.--
+            (1) In <<NOTE: Deadline.>> general.--Not later than 30 days 
+        after the date of enactment of this Act, the Secretary of 
+        Agriculture shall submit to the committees and subcommittees 
+        described in paragraph (2) a preliminary report concerning--
+                    (A) coordinated interagency activities to assess, 
+                prevent, and control the spread of foot-and-mouth 
+                disease and bovine spongiform encephalopathy in the 
+                United States;
+                    (B) sources of information from the Federal 
+                Government available to the public on foot-and-mouth 
+                disease and bovine spongiform encephalopathy; and
+                    (C) any immediate needs for additional legislative 
+                authority, appropriations, or product bans to prevent 
+                the introduction of foot-and-mouth disease or bovine 
+                spongiform encephalopathy into the United States.
+            (2) Submission of report to congress.--The Secretary shall 
+        submit the preliminary report to--
+                    (A) the Committee on Agriculture of the House of 
+                Representatives;
+                    (B) the Committee on Agriculture, Nutrition, and 
+                Forestry of the Senate;
+
+[[Page 115 STAT. 14]]
+
+                    (C) the Subcommittee on Agriculture, Rural 
+                Development, and Related Agencies of the Committee on 
+                Appropriations of the Senate; and
+                    (D) the Subcommittee on Agriculture, Rural 
+                Development, Food and Drug Administration, and Related 
+                Agencies of the Committee on Appropriations of the House 
+                of Representatives.
+
+    (b) Final Report.--
+            (1) In <<NOTE: Deadline.>> general.--Not later than 180 days 
+        after the date of enactment of this Act, the Secretary of 
+        Agriculture shall submit to the committees and subcommittees 
+        described in subsection (a)(2) a final report that--
+                    (A) discusses the economic impacts associated with 
+                the potential introduction of foot-and-mouth disease, 
+                bovine spongiform encephalopathy, and related diseases 
+                into the United States;
+                    (B) discusses the potential risks to public and 
+                animal health from foot-and-mouth disease, bovine 
+                spongiform encephalopathy, and related diseases; and
+                    (C) provides recommendations to protect the health 
+                of animal herds and citizens of the United States from 
+                those risks including, if necessary, recommendations for 
+                additional legislation, appropriations, or product bans.
+            (2) Contents.--The report shall contain--
+                    (A) an assessment of the risks to the public 
+                presented by the potential presence of foot-and-mouth 
+                disease, bovine spongiform encephalopathy, and related 
+                diseases in domestic and imported livestock, livestock 
+                and animal products, wildlife, and blood products;
+                    (B) recommendations to reduce and manage the risks 
+                of foot-and-mouth disease, bovine spongiform 
+                encephalopathy, and related diseases;
+                    (C) any plans of the Secretary to identify, prevent, 
+                and control foot-and-mouth disease, bovine spongiform 
+                encephalopathy, and related diseases in domestic and 
+                imported livestock, livestock products, wildlife, and 
+                blood products;
+                    (D) a description of the incidence and prevalence of 
+                foot-and-mouth disease, bovine spongiform 
+                encephalopathy, variant Creutzfeldt-Jacob disease, and 
+                related diseases in other countries;
+                    (E) a description and an analysis of the 
+                effectiveness of the measures taken to assess, prevent, 
+                and control the risks of foot-and-mouth disease, bovine 
+                spongiform encephalopathy, variant Creutzfeldt-Jacob 
+                disease, and related diseases in other countries;
+                    (F) a description and an analysis of the 
+                effectiveness of the measures that the public, private, 
+                and nonprofit sectors have taken to assess, prevent, and 
+                control the risk of foot-and-mouth disease, bovine 
+                spongiform encephalopathy, and related diseases in the 
+                United States, including controls of ports of entry and 
+                other conveyances;
+                    (G) a description of the measures taken to prevent 
+                and control the risk of bovine spongiform encephalopathy 
+                and variant Creutzfeldt-Jacob disease transmission 
+                through blood collection and transfusion;
+
+[[Page 115 STAT. 15]]
+
+                    (H) a description of any measures (including any 
+                planning or managerial initiatives such as interagency, 
+                intergovernmental, international, and public-private 
+                sector partnerships) that any Federal agency plans to 
+                initiate or continue to assess, prevent, and control the 
+                spread of foot-and-mouth disease, bovine spongiform 
+                encephalopathy, variant Creutzfeldt-Jacob disease, and 
+                related diseases in the United States and other 
+                countries;
+                    (I) plans by Federal agencies (including the Centers 
+                for Disease Control and Prevention)--
+                          (i) to monitor the incidence and prevalence of 
+                      the transmission of foot-and-mouth disease, bovine 
+                      spongiform encephalopathy, variant Creutzfeldt-
+                      Jacob disease, and related diseases in the United 
+                      States; and
+                          (ii) to assess the effectiveness of efforts to 
+
+                      prevent and control the spread of foot-and-mouth 
+                      disease, bovine spongiform encephalopathy, variant 
+                      Creutzfeldt-Jacob disease, and related diseases in 
+                      the United States;
+                    (J) plans by Federal agencies (including the 
+                Agricultural Research Service, the Cooperative State 
+                Research, Education, and Extension Service, and the 
+                National Institutes of Health) to carry out, in 
+                partnership with the private sector--
+                          (i) research programs into the causes and 
+                      mechanism of transmission of foot-and-mouth 
+                      disease and bovine spongiform encephalopathy; and
+                          (ii) diagnostic tools and preventive and 
+                      therapeutic agents for foot-and-mouth disease, 
+                      bovine spongiform encephalopathy, variant 
+                      Creutzfeldt-Jacob disease, and related diseases;
+                    (K) plans for providing appropriate compensation for 
+                affected animals in the event of the introduction of 
+                foot-and-mouth disease, bovine spongiform 
+                encephalopathy, or related diseases into the United 
+                States; and
+                    (L) recommendations to Congress for legislation that 
+                will improve efforts to assess, prevent, or control the 
+                transmission of foot-and-mouth disease, bovine 
+                spongiform encephalopathy, variant Creutzfeldt-Jacob 
+                disease, and related diseases in the United States and 
+                in other countries.
+
+    (c) Consultation.--
+            (1) Preliminary report.--In preparing the preliminary report 
+        under subsection (a), the Secretary shall consult with--
+                    (A) the Secretary of the Treasury;
+                    (B) the Secretary of Commerce;
+                    (C) the Secretary of State;
+                    (D) the Secretary of Health and Human Services;
+                    (E) the Secretary of Defense;
+                    (F) the United States Trade Representative;
+                    (G) the Director of the Federal Emergency Management 
+                Agency; and
+                    (H) representatives of other appropriate Federal 
+                agencies;
+            (2) Final report.--In preparing the final report under 
+        subsection (b), the Secretary shall consult with--
+                    (A) the individuals listed in paragraph (1);
+
+[[Page 115 STAT. 16]]
+
+                    (B) private and nonprofit sector experts in 
+                infectious disease, research, prevention, and control;
+                    (C) international, State, and local governmental 
+                animal health officials;
+                    (D) private, nonprofit, and public sector livestock 
+                experts;
+                    (E) representatives of blood collection and 
+                distribution entities; and
+                    (F) representatives of consumer and patient 
+                organizations and other interested members of the 
+                public.
+
+    Approved May 24, 2001.
+
+LEGISLATIVE HISTORY--S. 700:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 147 (2001):
+            Apr. 5, considered and passed Senate.
+            May 9, considered and passed House.
+WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 37 (2001):
+            May 24, Presidential statement.
+
+                                  
+

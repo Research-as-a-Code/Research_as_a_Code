@@ -1,0 +1,252 @@
+
+[111th Congress Public Law 371]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 4071]]
+
+                    LOCAL COMMUNITY RADIO ACT OF 2010
+
+[[Page 124 STAT. 4072]]
+
+Public Law 111-371
+111th Congress
+
+                                 An Act
+
+
+ 
+     To implement the recommendations of the Federal Communications 
+ Commission report to the Congress regarding low-power FM service, and 
+       for other purposes. <<NOTE: Jan. 4, 2011 -  [H.R. 6533]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Local 
+Community Radio Act of 2010. 47 USC 303 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Local Community Radio Act of 2010''.
+SEC. 2. AMENDMENT.
+
+    Section 632 of the Departments of Commerce, Justice, and State, the 
+Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 
+106-553; 114 Stat. 2762A-111), is amended to read as follows:
+    ``Sec. 632. (a) The Federal Communications Commission shall modify 
+the rules authorizing the operation of low-power FM radio stations, as 
+proposed in MM Docket No. 99-25, to--
+            ``(1) prescribe protection for co-channels and first- and 
+        second-adjacent channels; and
+            ``(2) prohibit any applicant from obtaining a low-power FM 
+        license if the applicant has engaged in any manner in the 
+        unlicensed operation of any station in violation of section 301 
+        of the Communications Act of 1934 (47 U.S.C. 301).
+
+    ``(b) Any license that was issued by the Federal Communications 
+Commission to a low-power FM station prior to April 2, 2001, and that 
+does not comply with the modifications adopted by the Commission in MM 
+Docket No. 99-25 on April 2, 2001, shall remain invalid.''.
+SEC. 3. MINIMUM DISTANCE SEPARATION REQUIREMENTS.
+
+    (a) In General.--The Federal Communications Commission shall modify 
+its rules to eliminate third-adjacent minimum distance separation 
+requirements between--
+            (1) low-power FM stations; and
+            (2) full-service FM stations, FM translator stations, and FM 
+        booster stations.
+
+    (b) Restriction.--
+            (1) In general.--The Federal Communications Commission shall 
+        not amend its rules to reduce the minimum co-channel and first- 
+        and second-adjacent channel distance separation requirements in 
+        effect on the date of enactment of this Act between--
+                    (A) low-power FM stations; and
+                    (B) full-service FM stations.
+
+[[Page 124 STAT. 4073]]
+
+            (2) Waiver.--
+                    (A) In general.--Notwithstanding paragraph (1), the 
+                Federal Communications Commission may grant a waiver of 
+                the second-adjacent channel distance separation 
+                requirement to low-power FM stations that establish, 
+                using methods of predicting interference taking into 
+                account all relevant factors, including terrain-
+                sensitive propagation models, that their proposed 
+                operations will not result in interference to any 
+                authorized radio service.
+                    (B) Requirements.--
+                          (i) Suspension.--Any low-power FM station that 
+                      receives a waiver under subparagraph (A) shall be 
+                      required to suspend operation immediately upon 
+                      notification by the Federal Communications 
+                      Commission that it is causing interference to the 
+                      reception of an existing or modified full-service 
+                      FM station without regard to the location of the 
+                      station receiving interference.
+                          (ii) Elimination of interference.--A low-power 
+                      FM station described in clause (i) shall not 
+                      resume operation until such interference has been 
+                      eliminated or it can demonstrate to the Federal 
+                      Communications Commission that the interference 
+                      was not due to emissions from the low-power FM 
+                      station, except that such station may make short 
+                      test transmissions during the period of suspended 
+                      operation to check the efficacy of remedial 
+                      measures.
+                          (iii) <<NOTE: Deadline.>>  Notification.--Upon 
+                      receipt of a complaint of interference from a low-
+                      power FM station operating pursuant to a waiver 
+                      authorized under subparagraph (A), the Federal 
+                      Communications Commission shall notify the 
+                      identified low-power FM station by telephone or 
+                      other electronic communication within 1 business 
+                      day.
+SEC. 4. PROTECTION OF RADIO READING SERVICES.
+
+    The Federal Communications Commission shall comply with its existing 
+minimum distance separation requirements for full-service FM stations, 
+FM translator stations, and FM booster stations that broadcast radio 
+reading services via an analog subcarrier frequency to avoid potential 
+interference by low-power FM stations.
+SEC. 5. ENSURING AVAILABILITY OF SPECTRUM FOR LOW-POWER FM 
+                    STATIONS.
+
+    The Federal Communications Commission, when licensing new FM 
+translator stations, FM booster stations, and low-power FM stations, 
+shall ensure that--
+            (1) licenses are available to FM translator stations, FM 
+        booster stations, and low-power FM stations;
+            (2) such decisions are made based on the needs of the local 
+        community; and
+            (3) FM translator stations, FM booster stations, and low-
+        power FM stations remain equal in status and secondary to 
+        existing and modified full-service FM stations.
+SEC. 6. PROTECTION OF TRANSLATOR INPUT SIGNALS.
+
+    The Federal Communications Commission shall modify its rules to 
+address the potential for predicted interference to FM translator
+
+[[Page 124 STAT. 4074]]
+
+input signals on third-adjacent channels set forth in section 2.7 of the 
+technical report entitled ``Experimental Measurements of the Third-
+Adjacent Channel Impacts of Low-Power FM Stations, Volume One--Final 
+Report (May 2003)''.
+SEC. 7. ENSURING EFFECTIVE REMEDIATION OF INTERFERENCE.
+
+    The Federal Communications Commission shall modify the interference 
+complaint process described in section 73.810 of its rules (47 CFR 
+73.810) as follows:
+            (1) With respect to those low-power FM stations licensed at 
+        locations that do not satisfy third-adjacent channel spacing 
+        requirements under section 73.807 of the Commission's rules (47 
+        CFR 73.807), the Federal Communications Commission shall provide 
+        the same interference protections that FM translator stations 
+        and FM booster stations are required to provide as set forth in 
+        section 74.1203 of its rules (47 CFR 74.1203) as in effect on 
+        the date of enactment of this Act.
+            (2) <<NOTE: Time period. Public information.>>  For a period 
+        of 1 year after a new low-power FM station is constructed on a 
+        third-adjacent channel, such low-power FM station shall be 
+        required to broadcast periodic announcements that alert 
+        listeners that interference that they may be experiencing could 
+        be the result of the operation of such low-power FM station on a 
+        third-adjacent channel and shall instruct affected listeners to 
+        contact such low-power FM station to report any interference. 
+        The Federal Communications Commission shall require all newly 
+        constructed low-power FM stations on third-adjacent channels 
+        to--
+                    (A) <<NOTE: Notification. Deadline.>>  notify the 
+                Federal Communications Commission and all affected 
+                stations on third-adjacent channels of an interference 
+                complaint by electronic communication within 48 hours 
+                after the receipt of such complaint; and
+                    (B) cooperate in addressing any such interference.
+            (3) Low-power FM stations on third-adjacent channels shall 
+        be required to address complaints of interference within the 
+        protected contour of an affected station and shall be encouraged 
+        to address all other interference complaints, including 
+        complaints to the Federal Communications Commission based on 
+        interference to a full-service FM station, an FM translator 
+        station, or an FM booster station by the transmitter site of a 
+        low-power FM station on a third-adjacent channel at any distance 
+        from the full-service FM station, FM translator station, or FM 
+        booster station. <<NOTE: Notice. Deadline.>>  The Federal 
+        Communications Commission shall provide notice to the licensee 
+        of a low-power FM station of the existence of such interference 
+        within 7 calendar days of the receipt of a complaint from a 
+        listener or another station.
+            (4) To the extent possible, the Federal Communications 
+        Commission shall grant low-power FM stations on third-adjacent 
+        channels the technical flexibility to remediate interference 
+        through the colocation of the transmission facilities of the 
+        low-power FM station and any stations on third-adjacent 
+        channels.
+            (5) The Federal Communications Commission shall--
+                    (A) permit the submission of informal evidence of 
+                interference, including any engineering analysis that an 
+                affected station may commission;
+                    (B) accept complaints based on interference to a 
+                full-service FM station, FM translator station, or FM 
+                booster
+
+[[Page 124 STAT. 4075]]
+
+                station by the transmitter site of a low-power FM 
+                station on a third-adjacent channel at any distance from 
+                the full-service FM station, FM translator station, or 
+                FM booster station; and
+                    (C) accept complaints of interference to mobile 
+                reception.
+            (6) The Federal Communications Commission shall for full-
+        service FM stations that are licensed in significantly populated 
+        States with more than 3,000,000 population and a population 
+        density greater than 1,000 people per one square mile land area, 
+        require all low-power FM stations licensed after the date of 
+        enactment of this Act and located on third-adjacent, second-
+        adjacent, first-adjacent, or co-channels to such full-service FM 
+        stations, to provide the same interference remediation 
+        requirements to complaints of interference, without regard to 
+        whether such complaints of interference occur within or outside 
+        of the protected contour of such stations, under the same 
+        interference complaint and remediation procedures that FM 
+        translator stations and FM booster stations are required to 
+        provide to full-service stations as set forth in section 74.1203 
+        of its rules (47 CFR 74.1203) as in effect on the date of 
+        enactment of this Act. Notwithstanding the provisions of section 
+        74.1203, no interference that arises outside the relevant 
+        distance for the full-service station class specified in the 
+        first column titled ``required'' for ``Co-channel minimum 
+        separation (km)'' in the table listed in section 73.807(a)(1) of 
+        the Commission's rules (47 CFR 73.807(a)(1)) shall require 
+        remediation.
+SEC. 8. FCC STUDY ON IMPACT OF LOW-POWER FM STATIONS ON FULL-
+                    SERVICE COMMERCIAL FM STATIONS.
+
+    (a) In General.--The Federal Communications Commission shall conduct 
+an economic study on the impact that low-power FM stations will have on 
+full-service commercial FM stations.
+    (b) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Federal Communications Commission shall submit a report to 
+the Committee on Commerce, Science, and Transportation of the Senate and 
+the Committee on Energy and Commerce of the House of Representatives on 
+the study conducted under subsection (a).
+
+[[Page 124 STAT. 4076]]
+
+    (c) Licensing Not Affected by Study.--Nothing in this section shall 
+affect the licensing of new low-power FM stations as otherwise permitted 
+under this Act.
+
+    Approved January 4, 2011.
+
+LEGISLATIVE HISTORY--H.R. 6533:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 156 (2010):
+            Dec. 17, considered and passed House.
+            Dec. 18, considered and passed Senate.
+
+                                  
+

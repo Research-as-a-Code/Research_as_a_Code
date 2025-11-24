@@ -1,0 +1,629 @@
+
+[109th Congress Public Law 290]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ290.109]
+
+[[Page 120 STAT. 1317]]
+
+Public Law 109-290
+109th Congress
+
+                                 An Act
+
+
+ 
+   To protect members of the Armed Forces from unscrupulous practices 
+        regarding sales of insurance, financial, and investment 
+             products. <<NOTE: Sept. 29, 2006 -  [S. 418]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Military Personnel 
+Financial Services Protection Act. 10 USC 992 note.>> assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Military Personnel 
+Financial Services Protection Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Congressional findings.
+Sec. 3. Definitions.
+Sec. 4. Prohibition on future sales of periodic payment plans.
+Sec. 5. Required disclosures regarding offers or sales of securities on 
+           military installations.
+Sec. 6. Method of maintaining broker and dealer registration, 
+           disciplinary, and other data.
+Sec. 7. Filing depositories for investment advisers.
+Sec. 8. State insurance and securities jurisdiction on military 
+           installations.
+Sec. 9. Required development of military personnel protection standards 
+           regarding insurance sales; administrative coordination.
+Sec. 10. Required disclosures regarding life insurance products.
+Sec. 11. Improving life insurance product standards.
+Sec. 12. Required reporting of disciplinary actions.
+Sec. 13. Reporting barred persons selling insurance or securities.
+Sec. 14. Study and reports by Inspector General of the Department of 
+           Defense.
+
+SEC. 2. <<NOTE: 10 USC 992 note.>> CONGRESSIONAL FINDINGS.
+
+    Congress finds that--
+            (1) members of the Armed Forces perform great sacrifices in 
+        protecting our Nation in the War on Terror;
+            (2) the brave men and women in uniform deserve to be offered 
+        first-rate financial products in order to provide for their 
+        families and to save and invest for retirement;
+            (3) members of the Armed Forces are being offered high-cost 
+        securities and life insurance products by some financial 
+        services companies engaging in abusive and misleading sales 
+        practices;
+            (4) one securities product offered to service members, known 
+        as the ``mutual fund contractual plan'', largely disappeared 
+        from the civilian market in the 1980s, due to excessive sales 
+        charges;
+            (5) with respect to a mutual fund contractual plan, a 50 
+        percent sales commission is assessed against the first year of 
+        contributions, despite an average commission on other securities 
+        products of less than 6 percent on each sale;
+
+[[Page 120 STAT. 1318]]
+
+            (6) excessive sales charges allow abusive and misleading 
+        sales practices in connection with mutual fund contractual plan;
+            (7) certain life insurance products being offered to members 
+        of the Armed Forces are improperly marketed as investment 
+        products, providing minimal death benefits in exchange for 
+        excessive premiums that are front-loaded in the first few years, 
+        making them entirely inappropriate for most military personnel; 
+        and
+            (8) the need for regulation of the marketing and sale of 
+        securities and life insurance products on military bases 
+        necessitates Congressional action.
+
+SEC. 3. <<NOTE: 10 USC 992 note.>> DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Life insurance product.--
+                    (A) In general.--The term ``life insurance product'' 
+                means any product, including individual and group life 
+                insurance, funding agreements, and annuities, that 
+                provides insurance for which the probabilities of the 
+                duration of human life or the rate of mortality are an 
+                element or condition of insurance.
+                    (B) Included insurance.--The term ``life insurance 
+                product'' includes the granting of--
+                          (i) endowment benefits;
+                          (ii) additional benefits in the event of death 
+                      by accident or accidental means;
+                          (iii) disability income benefits;
+                          (iv) additional disability benefits that 
+                      operate to safeguard the contract from lapse or to 
+                      provide a special surrender value, or special 
+                      benefit in the event of total and permanent 
+                      disability;
+                          (v) benefits that provide payment or 
+                      reimbursement for long-term home health care, or 
+                      long-term care in a nursing home or other related 
+                      facility;
+                          (vi) burial insurance; and
+                          (vii) optional modes of settlement or proceeds 
+                      of life insurance.
+                    (C) Exclusions.--Such term does not include workers 
+                compensation insurance, medical indemnity health 
+                insurance, or property and casualty insurance.
+            (2) NAIC.--The term ``NAIC'' means the National Association 
+        of Insurance Commissioners (or any successor thereto).
+
+SEC. 4. <<NOTE: 10 USC 992 note.>> PROHIBITION ON FUTURE SALES OF 
+            PERIODIC PAYMENT PLANS.
+
+    (a) Amendment.--Section 27 of the Investment Company Act of 1940 (15 
+U.S.C. 80a-27) is amended by adding at the end the following new 
+subsection:
+    ``(j) Termination of Sales.--
+            ``(1) Termination.--Effective 30 days after the date of 
+        enactment of the Military Personnel Financial Services 
+        Protection Act, it shall be unlawful, subject to subsection 
+        (i)--
+                    ``(A) for any registered investment company to issue 
+                any periodic payment plan certificate; or
+                    ``(B) for such company, or any depositor of or 
+                underwriter for any such company, or any other person, 
+                to sell such a certificate.
+
+[[Page 120 STAT. 1319]]
+
+            ``(2) No invalidation of existing certificates.--Paragraph 
+        (1) shall not be construed to alter, invalidate, or otherwise 
+        affect any rights or obligations, including rights of 
+        redemption, under any periodic payment plan certificate issued 
+        and sold before 30 days after such date of enactment.''.
+
+    (b) Technical Amendment.--Section 27(i)(2)(B) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-27(i)(2)(B)) is amended by striking 
+``section 26(e)'' each place that term appears and inserting ``section 
+26(f)''.
+    (c) Report on Refunds, Sales Practices, and Revenues From Periodic 
+Payment Plans.--Not later than 6 months after the date of enactment of 
+this Act, the Securities and Exchange Commission shall submit to the 
+Committee on Financial Services of the House of Representatives and the 
+Committee on Banking, Housing, and Urban Affairs of the Senate, a report 
+describing--
+            (1) any measures taken by a broker or dealer registered with 
+        the Securities and Exchange Commission pursuant to section 15(b) 
+        of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) to 
+        voluntarily refund payments made by military service members on 
+        any periodic payment plan certificate, and the amounts of such 
+        refunds;
+            (2) after such consultation with the Secretary of Defense, 
+        as the Commission considers appropriate, the sales practices of 
+        such brokers or dealers on military installations over the 5 
+        years preceding the date of submission of the report and any 
+        legislative or regulatory recommendations to improve such 
+        practices; and
+            (3) the revenues generated by such brokers or dealers in the 
+        sales of periodic payment plan certificates over the 5 years 
+        preceding the date of submission of the report, and the products 
+        marketed by such brokers or dealers to replace the revenue 
+        generated from the sales of periodic payment plan certificates 
+        prohibited under subsection (a).
+
+SEC. 5. <<NOTE: 10 USC 992 note.>> REQUIRED DISCLOSURES REGARDING OFFERS 
+            OR SALES OF SECURITIES ON MILITARY INSTALLATIONS.
+
+    Section 15A(b) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o-3(b)) is amended by inserting immediately after paragraph (13) the 
+following:
+            ``(14) The rules of the association include provisions 
+        governing the sales, or offers of sales, of securities on the 
+        premises of any military installation to any member of the Armed 
+        Forces or a dependent thereof, which rules require--
+                    ``(A) the broker or dealer performing brokerage 
+                services to clearly and conspicuously disclose to 
+                potential investors--
+                          ``(i) that the securities offered are not 
+                      being offered or provided by the broker or dealer 
+                      on behalf of the Federal Government, and that its 
+                      offer is not sanctioned, recommended, or 
+                      encouraged by the Federal Government; and
+                          ``(ii) the identity of the registered broker-
+                      dealer offering the securities;
+                    ``(B) such broker or dealer to perform an 
+                appropriate suitability determination, including 
+                consideration of costs
+
+[[Page 120 STAT. 1320]]
+
+                and knowledge about securities, prior to making a 
+                recommendation of a security to a member of the Armed 
+                Forces or a dependent thereof; and
+                    ``(C) that no person receive any referral fee or 
+                incentive compensation in connection with a sale or 
+                offer of sale of securities, unless such person is an 
+                associated person of a registered broker or dealer and 
+                is qualified pursuant to the rules of a self-regulatory 
+                organization.''.
+
+SEC. 6. <<NOTE: 10 USC 992 note.>> METHOD OF MAINTAINING BROKER AND 
+            DEALER REGISTRATION, DISCIPLINARY, AND OTHER DATA.
+
+    Section 15A(i) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78o-3(i)) is amended to read as follows:
+    ``(i) Obligation To Maintain Registration, Disciplinary, and Other 
+Data.--
+            ``(1) Maintenance of system to respond to inquiries.--A 
+        registered securities association shall--
+                    ``(A) establish and maintain a system for collecting 
+                and retaining registration information;
+                    ``(B) <<NOTE: Communications and tele- 
+                communications.>> establish and maintain a toll-free 
+                telephone listing, and a readily accessible electronic 
+                or other process, to receive and promptly respond to 
+                inquiries regarding--
+                          ``(i) registration information on its members 
+                      and their associated persons; and
+                          ``(ii) registration information on the members 
+                      and their associated persons of any registered 
+                      national securities exchange that uses the system 
+                      described in subparagraph (A) for the registration 
+                      of its members and their associated persons; and
+                    ``(C) <<NOTE: Regulations.>> adopt rules governing 
+                the process for making inquiries and the type, scope, 
+                and presentation of information to be provided in 
+                response to such inquiries in consultation with any 
+                registered national securities exchange providing 
+                information pursuant to subparagraph (B)(ii).
+            ``(2) Recovery of costs.--A registered securities 
+        association may charge persons making inquiries described in 
+        paragraph (1)(B), other than individual investors, reasonable 
+        fees for responses to such inquiries.
+            ``(3) <<NOTE: Regulations.>> Process for disputed 
+        information.--Each registered securities association shall adopt 
+        rules establishing an administrative process for disputing the 
+        accuracy of information provided in response to inquiries under 
+        this subsection in consultation with any registered national 
+        securities exchange providing information pursuant to paragraph 
+        (1)(B)(ii).
+            ``(4) Limitation on liability.--A registered securities 
+        association, or an exchange reporting information to such an 
+        association, shall not have any liability to any person for any 
+        actions taken or omitted in good faith under this subsection.
+            ``(5) Definition.--For purposes of this subsection, the term 
+        `registration information' means the information reported in 
+        connection with the registration or licensing of brokers and 
+        dealers and their associated persons, including disciplinary 
+        actions, regulatory, judicial, and arbitration proceedings, and 
+        other information required by law, or exchange or association 
+        rule, and the source and status of such information.''.
+
+[[Page 120 STAT. 1321]]
+
+SEC. 7. <<NOTE: 10 USC 992 note.>> FILING DEPOSITORIES FOR INVESTMENT 
+            ADVISERS.
+
+    (a) Investment Advisers.--Section 204 of the Investment Advisers Act 
+of 1940 (15 U.S.C. 80b-4) is amended--
+            (1) by striking ``Every investment'' and inserting the 
+        following:
+
+    ``(a) In General.--Every investment''; and
+            (2) by adding at the end the following:
+
+    ``(b) Filing Depositories.--The Commission may, by rule, require an 
+investment adviser--
+            ``(1) to file with the Commission any fee, application, 
+        report, or notice required to be filed by this title or the 
+        rules issued under this title through any entity designated by 
+        the Commission for that purpose; and
+            ``(2) to pay the reasonable costs associated with such 
+        filing and the establishment and maintenance of the systems 
+        required by subsection (c).
+
+    ``(c) Access to Disciplinary and Other Information.--
+            ``(1) Maintenance of system to respond to inquiries.--
+                    ``(A) <<NOTE: Communication and tele- 
+                communications.>> In general.--The Commission shall 
+                require the entity designated by the Commission under 
+                subsection (b)(1) to establish and maintain a toll-free 
+                telephone listing, or a readily accessible electronic or 
+                other process, to receive and promptly respond to 
+                inquiries regarding registration information (including 
+                disciplinary actions, regulatory, judicial, and 
+                arbitration proceedings, and other information required 
+                by law or rule to be reported) involving investment 
+                advisers and persons associated with investment 
+                advisers.
+                    ``(B) Applicability.--This subsection shall apply to 
+                any investment adviser (and the persons associated with 
+                that adviser), whether the investment adviser is 
+                registered with the Commission under section 203 or 
+                regulated solely by a State, as described in section 
+                203A.
+            ``(2) Recovery of costs.--An entity designated by the 
+        Commission under subsection (b)(1) may charge persons making 
+        inquiries, other than individual investors, reasonable fees for 
+        responses to inquiries described in paragraph (1).
+            ``(3) Limitation on liability.--An entity designated by the 
+        Commission under subsection (b)(1) shall not have any liability 
+        to any person for any actions taken or omitted in good faith 
+        under this subsection.''.
+
+    (b) Conforming Amendments.--
+            (1) Investment advisers act of 1940.--Section 203A of the 
+        Investment Advisers Act of 1940 (15 U.S.C. 80b-3a) is amended--
+                    (A) by striking subsection (d); and
+                    (B) by redesignating subsection (e) as subsection 
+                (d).
+            (2) National securities markets improvement act of 1996.--
+        Section 306 of the National Securities Markets Improvement Act 
+        of 1996 (15 U.S.C. 80b-10, note) is repealed.
+
+SEC. 8. <<NOTE: 10 USC 992 note.>> STATE INSURANCE AND SECURITIES 
+            JURISDICTION ON MILITARY INSTALLATIONS.
+
+    (a) <<NOTE: Applicability.>> Clarification of Jurisdiction.--Any 
+provision of law, regulation, or order of a State with respect to 
+regulating the business of insurance or securities shall apply to 
+insurance or securities activities conducted on Federal land or 
+facilities in the United
+
+
+[[Page 120 STAT. 1322]]
+
+States and abroad, including military installations, except to the 
+extent that such law, regulation, or order--
+            (1) directly conflicts with any applicable Federal law, 
+        regulation, or authorized directive; or
+            (2) would not apply if such activity were conducted on State 
+        land.
+
+    (b) Primary State Jurisdiction.--To the extent that multiple State 
+laws would otherwise apply pursuant to subsection (a) to an insurance or 
+securities activity of an individual or entity on Federal land or 
+facilities, the State having the primary duty to regulate such activity 
+and the laws of which shall apply to such activity in the case of a 
+conflict shall be--
+            (1) the State within which the Federal land or facility is 
+        located; or
+            (2) if the Federal land or facility is located outside of 
+        the United States, the State in which--
+                    (A) in the case of an individual engaged in the 
+                business of insurance, such individual has been issued a 
+                resident license;
+                    (B) in the case of an entity engaged in the business 
+                of insurance, such entity is domiciled;
+                    (C) in the case of an individual engaged in the 
+                offer or sale (or both) of securities, such individual 
+                is registered or required to be registered to do 
+                business or the person solicited by such individual 
+                resides; or
+                    (D) in the case of an entity engaged in the offer or 
+                sale (or both) of securities, such entity is registered 
+                or is required to be registered to do business or the 
+                person solicited by such entity resides.
+
+SEC. 9. <<NOTE: 10 USC 992 note.>> REQUIRED DEVELOPMENT OF MILITARY 
+            PERSONNEL PROTECTION STANDARDS REGARDING INSURANCE SALES; 
+            ADMINISTRATIVE COORDINATION.
+
+    (a) State Standards.--Congress intends that--
+            (1) the States collectively work with the Secretary of 
+        Defense to ensure implementation of appropriate standards to 
+        protect members of the Armed Forces from dishonest and predatory 
+        insurance sales practices while on a military installation of 
+        the United States (including installations located outside of 
+        the United States); and
+            (2) <<NOTE: Deadline.>> each State identify its role in 
+        promoting the standards described in paragraph (1) in a uniform 
+        manner, not later than 12 months after the date of enactment of 
+        this Act.
+
+    (b) State Report.--It is the sense of Congress that the NAIC should, 
+after consultation with the Secretary of Defense and, not later than 12 
+months after the date of enactment of this Act, conduct a study to 
+determine the extent to which the States have met the requirement of 
+subsection (a), and report the results of such study to the Committee on 
+Financial Services of the House of Representatives and the Committee on 
+Banking, Housing, and Urban Affairs of the Senate.
+    (c) Administrative Coordination; Sense of Congress.--It is the sense 
+of the Congress that senior representatives of the Secretary of Defense, 
+the Securities and Exchange Commission, and the NAIC should meet not 
+less frequently than twice a year to coordinate their activities to 
+implement this Act and monitor
+
+[[Page 120 STAT. 1323]]
+
+the enforcement of relevant regulations relating to the sale of 
+financial products on military installations of the United States.
+
+SEC. 10. <<NOTE: 10 USC 992 note.>> REQUIRED DISCLOSURES REGARDING LIFE 
+            INSURANCE PRODUCTS.
+
+    (a) Requirement.--Except as provided in subsection (e), no person 
+may sell, or offer for sale, any life insurance product to any member of 
+the Armed Forces or a dependent thereof on a military installation of 
+the United States, unless a disclosure in accordance with this section 
+is provided to such member or dependent at the time of the sale or 
+offer.
+    (b) Disclosure.--A disclosure in accordance with this section is a 
+written disclosure that--
+            (1) states that subsidized life insurance is available to 
+        the member of the Armed Forces from the Federal Government under 
+        the Servicemembers' Group Life Insurance program (also referred 
+        to as ``SGLI''), under subchapter III of chapter 19 of title 38, 
+        United States Code;
+            (2) states the amount of insurance coverage available under 
+        the SGLI program, together with the costs to the member of the 
+        Armed Forces for such coverage;
+            (3) states that the life insurance product that is the 
+        subject of the disclosure is not offered or provided by the 
+        Federal Government, and that the Federal Government has in no 
+        way sanctioned, recommended, or encouraged the sale of the life 
+        insurance product being offered;
+            (4) fully discloses any terms and circumstances under which 
+        amounts accumulated in a savings fund or savings feature under 
+        the life insurance product that is the subject of the disclosure 
+        may be diverted to pay, or reduced to offset, premiums due for 
+        continuation of coverage under such product;
+            (5) states that no person has received any referral fee or 
+        incentive compensation in connection with the offer or sale of 
+        the life insurance product, unless such person is a licensed 
+        agent of the person engaged in the business of insurance that is 
+        issuing such product;
+            (6) is made in plain and readily understandable language and 
+        in a type font at least as large as the font used for the 
+        majority of the solicitation material used with respect to or 
+        relating to the life insurance product; and
+            (7) with respect to a sale or solicitation on Federal land 
+        or facilities located outside of the United States, lists the 
+        address and phone number at which consumer complaints are 
+        received by the State insurance commissioner for the State 
+        having the primary jurisdiction and duty to regulate the sale of 
+        such life insurance products pursuant to section 8.
+
+    (c) Voidability.--The sale of a life insurance product in violation 
+of this section shall be voidable from its inception, at the sole option 
+of the member of the Armed Forces, or dependent thereof, as applicable, 
+to whom the product was sold.
+    (d) Enforcement.--If it is determined by a Federal or State agency, 
+or in a final court proceeding, that any person has intentionally 
+violated, or willfully disregarded the provisions of, this section, in 
+addition to any other penalty under applicable Federal or State law, 
+such person shall be prohibited from further engaging in the business of 
+insurance with respect to employees of the Federal Government on Federal 
+land, except--
+
+[[Page 120 STAT. 1324]]
+
+            (1) with respect to existing policies; and
+            (2) to the extent required by the Federal Government 
+        pursuant to previous commitments.
+
+    (e) Exceptions.--This section shall not apply to any life insurance 
+product specifically contracted by or through the Federal Government.
+
+SEC. 11. IMPROVING LIFE INSURANCE PRODUCT STANDARDS.
+
+    (a) <<NOTE: Deadline. 10 USC 992 note.>> In General.--It is the 
+sense of Congress that the NAIC should, after consultation with the 
+Secretary of Defense, and not later than 6 months after the date of 
+enactment of this Act, conduct a study and submit a report to the 
+Committee on Banking, Housing, and Urban Affairs of the Senate and the 
+Committee on Financial Services of the House of Representatives on--
+            (1) ways of improving the quality of and sale of life 
+        insurance products sold on military installations of the United 
+        States, which may include--
+                    (A) limiting such sales authority to persons that 
+                are certified as meeting appropriate best practices 
+                procedures; and
+                    (B) creating standards for products specifically 
+                designed to meet the particular needs of members of the 
+                Armed Forces, regardless of the sales location; and
+            (2) the extent to which life insurance products marketed to 
+        members of the Armed Forces comply with otherwise applicable 
+        provisions of State law.
+
+    (b) Conditional GAO Report.--If the NAIC does not submit the report 
+as described in subsection (a), the Comptroller General of the United 
+States shall--
+            (1) study any proposals that have been made to improve the 
+        quality of and sale of life insurance products sold on military 
+        installations of the United States; and
+            (2) not later than 6 months after the expiration of the 
+        period referred to in subsection (a), submit a report on such 
+        proposals to the Committee on Banking, Housing, and Urban 
+        Affairs of the Senate and the Committee on Financial Services of 
+        the House of Representatives.
+
+SEC. 12. <<NOTE: 10 USC 992 note.>> REQUIRED REPORTING OF DISCIPLINARY 
+            ACTIONS.
+
+    (a) Reporting by Insurers.--Beginning <<NOTE: Effective date.>> 1 
+year after the date of enactment of this Act, no insurer may enter into 
+or renew a contractual relationship with any other person that sells or 
+solicits the sale of any life insurance product on any military 
+installation of the United States, unless the insurer has implemented a 
+system to report to the State insurance commissioner of the State of 
+domicile of the insurer and the State of residence of that other 
+person--
+            (1) any disciplinary action taken by any Federal or State 
+        government entity with respect to sales or solicitations of life 
+        insurance products on a military installation that the insurer 
+        knows, or in the exercise of due diligence should have known, to 
+        have been taken; and
+            (2) any significant disciplinary action taken by the insurer 
+        with respect to sales or solicitations of life insurance 
+        products on a military installation of the United States.
+
+    (b) Reporting by States.--It is the sense of Congress that, not 
+later than 1 year after the date of enactment of this Act, the States 
+should collectively implement a system to--
+
+[[Page 120 STAT. 1325]]
+
+            (1) receive reports of disciplinary actions taken against 
+        persons that sell or solicit the sale of any life insurance 
+        product on any military installation of the United States by 
+        insurers or Federal or State government entities with respect to 
+        such sales or solicitations; and
+            (2) disseminate such information to all other States and to 
+        the Secretary of Defense.
+
+    (c) Definition.--As used in this section, the term ``insurer'' means 
+a person engaged in the business of insurance.
+
+SEC. 13. <<NOTE: Records. 10 USC 992 note.>> REPORTING BARRED PERSONS 
+            SELLING INSURANCE OR SECURITIES.
+
+    (a) Establishment.--The Secretary of Defense shall maintain a list 
+of the name, address, and other appropriate information relating to 
+persons engaged in the business of securities or insurance that have 
+been barred or otherwise limited in any manner that is not generally 
+applicable to all such type of persons, from any or all military 
+installations of the United States, or that have engaged in any 
+transaction that is prohibited by this Act.
+    (b) Notice and Access.--The Secretary of Defense shall ensure that--
+            (1) the appropriate Federal and State agencies responsible 
+        for securities and insurance regulation are promptly notified 
+        upon the inclusion in or removal from the list required by 
+        subsection (a) of a person under the jurisdiction of one or more 
+        of such agencies; and
+            (2) the list is kept current and easily accessible--
+                    (A) for use by such agencies; and
+                    (B) for purposes of enforcing or considering any 
+                such bar or limitation by the appropriate Federal 
+                personnel, including commanders of military 
+                installations.
+
+    (c) Regulations.--
+            (1) In general.--The Secretary of Defense shall issue 
+        regulations in accordance with this subsection to provide for 
+        the establishment and maintenance of the list required by this 
+        section, including appropriate due process considerations.
+            (2) Timing.--
+                    (A) Proposed regulations.--
+                Not <<NOTE: Deadline.>> later than the expiration of the 
+                60-day period beginning on the date of enactment of this 
+                Act, the Secretary of Defense shall prepare and submit 
+                to the appropriate Committees of Congress a copy of the 
+                regulations required by this subsection that are 
+                proposed to be published for comment. <<NOTE: Federal 
+                Register, publication.>> The Secretary may not publish 
+                such regulations for comment in the Federal Register 
+                until the expiration of the 15-day period beginning on 
+                the date of such submission to the appropriate 
+                Committees of Congress.
+                    (B) Final regulations.--
+                Not <<NOTE: Deadline.>> later than 90 days after the 
+                date of enactment of this Act, the Secretary of Defense 
+                shall submit to the appropriate Committees of Congress a 
+                copy of the regulations under this section to be 
+                published in final form.
+                    (C) Effective date.--Final regulations under this 
+                paragraph shall become effective 30 days after the date 
+                of their submission to the appropriate Committees of 
+                Congress under subparagraph (B).
+
+[[Page 120 STAT. 1326]]
+
+    (d) Definition.--For purposes of this section, the term 
+``appropriate Committees of Congress'' means--
+            (1) the Committee on Financial Services and the Committee on 
+        Armed Services of the House of Representatives; and
+            (2) the Committee on Banking, Housing, and Urban Affairs and 
+        the Committee on Armed Services of the Senate.
+
+SEC. 14. <<NOTE: 10 USC 992 note.>> STUDY AND REPORTS BY INSPECTOR 
+            GENERAL OF THE DEPARTMENT OF DEFENSE.
+
+    (a) Study.--The Inspector General of the Department of Defense shall 
+conduct a study on the impact of Department of Defense Instruction 
+1344.07 (as in effect on the date of enactment of this Act) and the 
+reforms included in this Act on the quality and suitability of sales of 
+securities and insurance products marketed or otherwise offered to 
+members of the Armed Forces.
+    (b) Reports.--Not later than 12 months after the date of enactment 
+of this Act, the Inspector General of the Department of Defense shall 
+submit an initial report on the results of the study conducted under 
+subsection (a) to the Committee on Banking, Housing, and Urban Affairs 
+of the Senate and the Committee on Financial Services of the House of 
+Representatives, and shall submit followup reports to those committees 
+on December 31, 2008 and December 31, 2010.
+
+    Approved September 29, 2006.
+
+LEGISLATIVE HISTORY--S. 418 (H.R. 458):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 109-282 (Comm. on Banking, Housing, and Urban    
+Affairs).
+CONGRESSIONAL RECORD, Vol. 152 (2006):
+            July 19, considered and passed Senate.
+            Sept. 20, 21, considered and passed House.
+
+                                  
+

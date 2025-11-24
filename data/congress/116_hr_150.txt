@@ -1,0 +1,354 @@
+
+[116th Congress Public Law 103]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 3265]]
+
+   GRANT REPORTING EFFICIENCY AND AGREEMENTS TRANSPARENCY ACT OF 2019
+
+[[Page 133 STAT. 3266]]
+
+Public Law 116-103
+116th Congress
+
+                                 An Act
+
+
+ 
+          To modernize Federal grant reporting, and for other 
+            purposes. <<NOTE: Dec. 30, 2019 -  [H.R. 150]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Grant Reporting 
+Efficiency and Agreements Transparency Act of 2019. 31 USC 6401 note.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Grant Reporting 
+Efficiency and Agreements Transparency Act of 2019'' or the ``GREAT 
+Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+Sec. 3. Definitions.
+Sec. 4. Data standards for grant reporting.
+Sec. 5. Single Audit Act.
+Sec. 6. Consolidation of assistance-related information; publication of 
+           public information as open data.
+Sec. 7. Evaluation of nonproprietary identifiers.
+Sec. 8. Rule of construction.
+Sec. 9. No additional funds authorized.
+
+SEC. 2. <<NOTE: 31 USC 6401 note.>>  PURPOSES.
+
+    The purposes of this Act are to--
+            (1) modernize reporting by recipients of Federal grants and 
+        cooperative agreements by creating and imposing data standards 
+        for the information that those recipients are required by law to 
+        report to the Federal Government;
+            (2) implement the recommendation by the Director of the 
+        Office of Management and Budget contained in the report 
+        submitted under section 5(b)(6) of the Federal Funding 
+        Accountability and Transparency Act of 2006 (31 U.S.C. 6101 
+        note) relating to the development of a ``comprehensive taxonomy 
+        of standard definitions for core data elements required for 
+        managing Federal financial assistance awards'';
+            (3) reduce burden and compliance costs of recipients of 
+        Federal grants and cooperative agreements by enabling technology 
+        solutions, existing or yet to be developed, for use in both the 
+        public and private sectors to better manage the data that 
+        recipients already provide to the Federal Government; and
+            (4) strengthen oversight and management of Federal grants 
+        and cooperative agreements by agencies by consolidating the 
+        collection and display of and access to open data that has been 
+        standardized and, where appropriate, increasing transparency to 
+        the public.
+
+[[Page 133 STAT. 3267]]
+
+SEC. 3. <<NOTE: 31 USC 6401 note.>>  DEFINITIONS.
+
+    In this Act, the terms ``agency'', ``Director'', ``Federal award'', 
+and ``Secretary'' have the meanings given those terms in section 6401 of 
+title 31, United States Code, as added by section 4(a) of this Act.
+SEC. 4. DATA STANDARDS FOR GRANT REPORTING.
+
+    (a) Amendment.--Subtitle V of title 31, United States Code, is 
+amended by inserting <<NOTE: 31 USC 6401 prec.>>  after chapter 63 the 
+following:
+
+            ``CHAPTER 64--DATA STANDARDS FOR GRANT REPORTING
+
+``Sec.
+``6401. Definitions.
+``6402. Data standards for grant reporting.
+``6403. Guidance applying data standards for grant reporting.
+``6404. Agency requirements.
+
+``Sec. 6401. <<NOTE: 31 USC 6401.>>  Definitions
+
+    ``In this chapter:
+            ``(1) Agency.--The term `agency' has the meaning given the 
+        term in section 552(f) of title 5.
+            ``(2) Core data elements.--The term `core data elements' 
+        means data elements relating to financial management, 
+        administration, or management that--
+                    ``(A) are not program-specific in nature or program-
+                specific outcome measures, as defined in section 1115(h) 
+                of this title; and
+                    ``(B) are required by agencies for all or the vast 
+                majority of recipients of Federal awards for purposes of 
+                reporting.
+            ``(3) Director.--The term `Director' means the Director of 
+        the Office of Management and Budget.
+            ``(4) Executive department.--The term `Executive department' 
+        has the meaning given the term in section 101 of title 5.
+            ``(5) Federal award.--The term `Federal award'--
+                    ``(A) means the transfer of anything of value for a 
+                public purpose of support or stimulation authorized by a 
+                law of the United States, including financial assistance 
+                and Government facilities, services, and property;
+                    ``(B) includes a grant, a subgrant, a cooperative 
+                agreement, or any other transaction; and
+                    ``(C) does not include a transaction or agreement--
+                          ``(i) that provides for conventional public 
+                      information services or procurement of property or 
+                      services for the direct benefit or use of the 
+                      Government; or
+                          ``(ii) that provides only--
+                                    ``(I) direct Government cash 
+                                assistance to an individual;
+                                    ``(II) a subsidy;
+                                    ``(III) a loan;
+                                    ``(IV) a loan guarantee; or
+                                    ``(V) insurance.
+            ``(6) Secretary.--The term `Secretary' means the head of the 
+        standard-setting agency.
+
+[[Page 133 STAT. 3268]]
+
+            ``(7) Standard-setting agency.--The term `standard-setting 
+        agency' means the Executive department designated under section 
+        6402(a)(1).
+            ``(8) State.--The term `State' means each State of the 
+        United States, the District of Columbia, each commonwealth, 
+        territory, or possession of the United States, and each 
+        federally recognized Indian Tribe.
+``Sec. 6402. <<NOTE: 31 USC 6402.>>  Data standards for grant 
+                  reporting
+
+    ``(a) In General.--
+            ``(1) Designation of standard-setting agency.--The Director 
+        shall designate the Executive department that administers the 
+        greatest number of programs under which Federal awards are 
+        issued in a calendar year as the standard-setting agency.
+            ``(2) <<NOTE: Deadline.>>  Establishment of standards.--Not 
+        later than 2 years after the date of enactment of this chapter, 
+        the Secretary and the Director shall establish Governmentwide 
+        data standards for information reported by recipients of Federal 
+        awards.
+            ``(3) Data elements.--The data standards established under 
+        paragraph (2) shall include, at a minimum--
+                    ``(A) standard definitions for data elements 
+                required for managing Federal awards; and
+                    ``(B) unique identifiers for Federal awards and 
+                recipients of Federal awards that can be consistently 
+                applied Governmentwide.
+
+    ``(b) Scope.--The data standards established under subsection (a)--
+            ``(1) shall include core data elements;
+            ``(2) may cover information required by law to be reported 
+        to any agency by recipients of Federal awards, including audit-
+        related information reported under chapter 75 of this title; and
+            ``(3) may not be used by the Director or any agency to 
+        require the collection of any data not otherwise required under 
+        Federal law.
+
+    ``(c) Requirements.--The data standards established under subsection 
+(a) shall, to the extent reasonable and practicable--
+            ``(1) render information reported by recipients of Federal 
+        awards fully searchable and machine-readable;
+            ``(2) be nonproprietary;
+            ``(3) incorporate standards developed and maintained by 
+        voluntary consensus standards bodies;
+            ``(4) be consistent with and implement applicable accounting 
+        and reporting principles; and
+            ``(5) incorporate the data standards established under the 
+        Federal Funding Accountability and Transparency Act of 2006 (31 
+        U.S.C. 6101 note).
+
+    ``(d) Consultation.--In establishing the data standards under 
+subsection (a), the Secretary and the Director shall consult with--
+            ``(1) the Secretary of the Treasury to ensure that the data 
+        standards established under subsection (a) incorporate the data 
+        standards established under the Federal Funding Accountability 
+        and Transparency Act of 2006 (31 U.S.C. 6101 note);
+            ``(2) the head of each agency that issues Federal awards;
+            ``(3) recipients of Federal awards and organizations 
+        representing recipients of Federal awards;
+
+[[Page 133 STAT. 3269]]
+
+            ``(4) private sector experts;
+            ``(5) members of the public, including privacy experts, 
+        privacy advocates, auditors, and industry stakeholders; and
+            ``(6) State and local governments.
+``Sec. 6403. <<NOTE: 31 USC 6403.>>  Guidance applying data 
+                  standards for grant reporting
+
+    ``(a) <<NOTE: Deadline.>>  In General.--Not later than 3 years after 
+the date of enactment of this chapter--
+            ``(1) the Secretary and the Director shall jointly issue 
+        guidance to all agencies directing the agencies to apply the 
+        data standards established under section 6402(a) to all 
+        applicable reporting by recipients of Federal awards; and
+            ``(2) the Director shall prescribe guidance applying the 
+        data standards established under section 6402(a) to audit-
+        related information reported under chapter 75 of this title.
+
+    ``(b) Guidance.--The guidance issued under subsection (a) shall--
+            ``(1) to the extent reasonable and practicable--
+                    ``(A) minimize the disruption of existing reporting 
+                practices of, and not increase the reporting burden on, 
+                agencies or recipients of Federal awards; and
+                    ``(B) explore opportunities to implement modern 
+                technologies in reporting relating to Federal awards;
+            ``(2) <<NOTE: Lists.>>  allow the Director to permit 
+        exceptions for classes of Federal awards, including exceptions 
+        for Federal awards granted to Indian Tribes and Tribal 
+        organizations consistent with the Indian Self-Determination and 
+        Education Assistance Act (25 U.S.C. 5301 et seq.), if the 
+        Director publishes a list of those exceptions and submits the 
+        list to the Committee on Homeland Security and Governmental 
+        Affairs of the Senate and the Committee on Oversight and Reform 
+        of the House of Representatives; and
+            ``(3) take into consideration the consultation required 
+        under section 6402(d).
+
+    ``(c) Updating Guidance.--
+            ``(1) <<NOTE: Time periods.>>  In general.--Not less 
+        frequently than once every 10 years, the Director shall update 
+        the guidance issued under subsection (a).
+            ``(2) Procedures.--In updating guidance under paragraph (1), 
+        the Director shall, to the maximum extent practicable, follow 
+        the procedures for the development of the data standards and 
+        guidance prescribed under this section and section 6402.
+``Sec. 6404. <<NOTE: 31 USC 6404.>>  Agency requirements
+
+    ``Not <<NOTE: Deadline.>>  later than 1 year after the date on which 
+guidance is issued or updated under subsection (b) or (c), respectively, 
+of section 6403, the head of each agency shall--
+            ``(1) ensure that all of the Federal awards that the agency 
+        issues use data standards for all future information collection 
+        requests; and
+            ``(2) amend existing information collection requests under 
+        chapter 35 of title 44 (commonly known as the `Paperwork 
+        Reduction Act') to comply with the data standards established 
+        under section 6402 of this chapter, in accordance with the 
+        guidance issued by the Secretary and the Director under section 
+        6403 of this chapter.''.
+
+[[Page 133 STAT. 3270]]
+
+    (b) Technical and Conforming Amendment.--The table of chapters for 
+subtitle V of title 31, United States Code, <<NOTE: 31 USC 6101 prec.>>  
+is amended by inserting after the item relating to chapter 63 the 
+following:
+
+``64. Data standards for grant reporting.........................6401''.
+SEC. 5. SINGLE AUDIT ACT.
+
+    (a) Amendments.--
+            (1) Audit requirements.--Section 7502(h) of title 31, United 
+        States Code, is amended, in the matter preceding paragraph (1), 
+        by inserting ``in an electronic form in accordance with the data 
+        standards established under chapter 64 and'' after ``the 
+        reporting package,''.
+            (2) Regulations.--Section 7505 of title 31, United States 
+        Code, is amended by adding at the end the following:
+
+    ``(d) Such guidance shall require audit-related information reported 
+under this chapter to be reported in an electronic form in accordance 
+with the data standards established under chapter 64.''.
+    (b) <<NOTE: Deadline. 31 USC 7505 note.>>  Guidance.--Not later than 
+3 years after the date of enactment of this Act, the Director shall 
+issue guidance requiring audit-related information reported under 
+chapter 75 of title 31, United States Code, to be reported in an 
+electronic form consistent with the data standards established under 
+chapter 64 of that title, as added by section 4(a) of this Act.
+SEC. 6. <<NOTE: 31 USC 6402 note.>>  CONSOLIDATION OF ASSISTANCE-
+                    RELATED INFORMATION; PUBLICATION OF PUBLIC 
+                    INFORMATION AS OPEN DATA.
+
+    (a) <<NOTE: Deadline.>>  Collection of Information.--Not later than 
+5 years after the date of enactment of this Act, the Secretary and the 
+Director shall, using the data standards established under chapter 64 of 
+title 31, United States Code, as added by section 4(a) of this Act, 
+enable the collection, public display, and maintenance of Federal award 
+information as a Governmentwide data set, subject to reasonable 
+restrictions established by the Director to ensure protection of 
+personally identifiable information and otherwise sensitive information.
+
+    (b) <<NOTE: Website.>>  Publication of Information.--The Secretary 
+and the Director shall require the publication of data reported by 
+recipients of Federal awards that is collected from all agencies on a 
+single public portal, which may be an existing Governmentwide website, 
+as determined appropriate by the Director.
+
+    (c) FOIA.--Nothing in this section shall require the disclosure to 
+the public of information that would be exempt from disclosure under 
+section 552 of title 5, United States Code (commonly known as the 
+``Freedom of Information Act'').
+SEC. 7. <<NOTE: 31 USC 6402 note.>>  EVALUATION OF NONPROPRIETARY 
+                    IDENTIFIERS.
+
+    (a) Determination Required.--The Director and the Secretary shall 
+determine whether to use nonproprietary identifiers described in section 
+6402(a)(3)(B) of title 31, United States Code, as added by section 4(a) 
+of this Act.
+    (b) Factors to Be Considered.--In making the determination under 
+subsection (a), the Director and the Secretary shall consider factors 
+such as accessibility and cost to recipients of Federal awards, agencies 
+that issue Federal awards, private sector experts, and members of the 
+public, including privacy experts, privacy advocates, transparency 
+experts, and transparency advocates.
+
+[[Page 133 STAT. 3271]]
+
+    (c) Publication and Report on Determination.--Not later than the 
+earlier of 1 year after the date of enactment of this Act or the date on 
+which the Director and the Secretary establish data standards under 
+section 6402(a)(2) of title 31, United States Code, as added by section 
+4(a) of this Act, the Director and the Secretary shall publish and 
+submit to the Committee on Homeland Security and Governmental Affairs of 
+the Senate and the Committee on Oversight and Reform of the House of 
+Representatives a report explaining the reasoning for the determination 
+made under subsection (a).
+SEC. 8. <<NOTE: 31 USC 6401 note.>>  RULE OF CONSTRUCTION.
+
+    Nothing in this Act, or the amendments made by this Act, shall be 
+construed to require the collection of data that is not otherwise 
+required under any Federal law, rule, or regulation.
+SEC. 9. NO ADDITIONAL FUNDS AUTHORIZED.
+
+    No additional funds are authorized to carry out the requirements of 
+this Act and the amendments made by this Act. Such requirements shall be 
+carried out using amounts otherwise authorized.
+
+    Approved December 30, 2019.
+
+LEGISLATIVE HISTORY--H.R. 150:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 116-96 (Comm. on Homeland Security and Governmental 
+Affairs).
+CONGRESSIONAL RECORD, Vol. 165 (2019):
+            Jan. 15, 17, considered and passed House.
+            Oct. 21, considered and passed Senate, amended.
+            Dec. 16, House concurred in Senate amendment.
+
+                                  
+

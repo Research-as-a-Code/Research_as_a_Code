@@ -1,0 +1,137 @@
+
+[117th Congress Public Law 116]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 1179]]
+
+                      BETTER CYBERCRIME METRICS ACT
+
+[[Page 136 STAT. 1180]]
+
+Public Law 117-116
+117th Congress
+
+                                 An Act
+
+
+ 
+      To establish cybercrime reporting mechanisms, and for other 
+              purposes. <<NOTE: May 5, 2022 -  [S. 2629]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Better 
+Cybercrime Metrics Act. 34 USC 30109 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Better Cybercrime Metrics Act''.
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) Public polling indicates that cybercrime could be the 
+        most common crime in the United States.
+            (2) The United States lacks comprehensive cybercrime data 
+        and monitoring, leaving the country less prepared to combat 
+        cybercrime that threatens national and economic security.
+            (3) In addition to existing cybercrime vulnerabilities, the 
+        people of the United States and the United States have faced a 
+        heightened risk of cybercrime during the COVID-19 pandemic.
+            (4) Subsection (c) of the Uniform Federal Crime Reporting 
+        Act of 1988 (34 U.S.C. 41303(c)) requires the Attorney General 
+        to ``acquire, collect, classify, and preserve national data on 
+        Federal criminal offenses as part of the Uniform Crime Reports'' 
+        and requires all Federal departments and agencies that 
+        investigate criminal activity to ``report details about crime 
+        within their respective jurisdiction to the Attorney General in 
+        a uniform matter and on a form prescribed by the Attorney 
+        General''.
+SEC. 3. CYBERCRIME TAXONOMY.
+
+    (a) <<NOTE: Deadline. Contracts.>>  In General.--Not later than 90 
+days after the date of enactment of this Act, the Attorney General shall 
+seek to enter into an agreement with the National Academy of Sciences to 
+develop a taxonomy for the purpose of categorizing different types of 
+cybercrime and cyber-enabled crime faced by individuals and businesses.
+
+    (b) Development.--In developing the taxonomy under subsection (a), 
+the National Academy of Sciences shall--
+            (1) ensure the taxonomy is useful for the Federal Bureau of 
+        Investigation to classify cybercrime in the National Incident-
+        Based Reporting System, or any successor system;
+            (2) <<NOTE: Consultation.>>  consult relevant stakeholders, 
+        including--
+                    (A) the Cybersecurity and Infrastructure Security 
+                Agency of the Department of Homeland Security;
+
+[[Page 136 STAT. 1181]]
+
+                    (B) Federal, State, and local law enforcement 
+                agencies;
+                    (C) criminologists and academics;
+                    (D) cybercrime experts; and
+                    (E) business leaders; and
+            (3) take into consideration relevant taxonomies developed by 
+        non-governmental organizations, international organizations, 
+        academies, or other entities.
+
+    (c) <<NOTE: Summaries.>>  Report.--Not later than 1 year after the 
+date on which the Attorney General enters into an agreement under 
+subsection (a), the National Academy of Sciences shall submit to the 
+appropriate committees of Congress a report detailing and summarizing--
+            (1) the taxonomy developed under subsection (a); and
+            (2) any findings from the process of developing the taxonomy 
+        under subsection (a).
+
+    (d) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section $1,000,000.
+SEC. 4. CYBERCRIME REPORTING.
+
+    (a) In General.--Not later than 2 years after the date of enactment 
+of this Act, the Attorney General shall establish a category in the 
+National Incident-Based Reporting System, or any successor system, for 
+the collection of cybercrime and cyber-enabled crime reports from 
+Federal, State, and local officials.
+    (b) Recommendations.--In establishing the category required under 
+subsection (a), the Attorney General shall, as appropriate, incorporate 
+recommendations from the taxonomy developed under section 3(a).
+SEC. 5. NATIONAL CRIME VICTIMIZATION SURVEY.
+
+    (a) <<NOTE: Deadline. Coordination.>>  In General.--Not later than 
+540 days after the date of enactment of this Act, the Director of the 
+Bureau of Justice Statistics, in coordination with the Director of the 
+Bureau of the Census, shall include questions relating to cybercrime 
+victimization in the National Crime Victimization Survey.
+
+    (b) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section $2,000,000.
+SEC. 6. <<NOTE: Assessments.>>  GAO STUDY ON CYBERCRIME METRICS.
+
+    Not later than 180 days after the date of enactment of this Act, the 
+Comptroller General of the United States shall submit to Congress a 
+report that assesses--
+            (1) the effectiveness of reporting mechanisms for cybercrime 
+        and cyber-enabled crime in the United States; and
+
+[[Page 136 STAT. 1182]]
+
+            (2) disparities in reporting data between--
+                    (A) data relating to cybercrime and cyber-enabled 
+                crime; and
+                    (B) other types of crime data.
+
+    Approved May 5, 2022.
+
+LEGISLATIVE HISTORY--S. 2629:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD:
+                                                        Vol. 167 (2021):
+                                    Dec. 7, considered and passed 
+                                        Senate.
+                                                        Vol. 168 (2022):
+                                    Mar. 28, 29, considered and passed 
+                                        House.
+
+                                  
+

@@ -1,0 +1,281 @@
+
+[114th Congress Public Law 140]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 130 STAT. 317]]
+
+Public Law 114-140
+114th Congress
+
+                                 An Act
+
+
+ 
+  To establish the Commission on Evidence-Based Policymaking, and for 
+         other purposes. <<NOTE: Mar. 30, 2016 -  [H.R. 1831]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Evidence-Based 
+Policymaking Commission Act of 2016.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Evidence-Based Policymaking 
+Commission Act of 2016''.
+SEC. 2. ESTABLISHMENT.
+
+    There is established in the executive branch a commission to be 
+known as the ``Commission on Evidence-Based Policymaking'' (in this Act 
+referred to as the ``Commission'').
+SEC. 3. MEMBERS OF THE COMMISSION.
+
+    (a) Number and Appointment.--The Commission shall be comprised of 15 
+members as follows:
+            (1) <<NOTE: President.>>  Three shall be appointed by the 
+        President, of whom--
+                    (A) one shall be an academic researcher, data 
+                expert, or have experience in administering programs;
+                    (B) one shall be an expert in protecting personally-
+                identifiable information and data minimization; and
+                    (C) one shall be the Director of the Office of 
+                Management and Budget (or the Director's designee).
+            (2) Three shall be appointed by the Speaker of the House of 
+        Representatives, of whom--
+                    (A) two shall be academic researchers, data experts, 
+                or have experience in administering programs; and
+                    (B) one shall be an expert in protecting personally-
+                identifiable information and data minimization.
+            (3) Three shall be appointed by the Minority Leader of the 
+        House of Representatives, of whom--
+                    (A) two shall be academic researchers, data experts, 
+                or have experience in administering programs; and
+                    (B) one shall be an expert in protecting personally-
+                identifiable information and data minimization.
+            (4) Three shall be appointed by the Majority Leader of the 
+        Senate, of whom--
+                    (A) two shall be academic researchers, data experts, 
+                or have experience in administering programs; and
+                    (B) one shall be an expert in protecting personally-
+                identifiable information and data minimization.
+            (5) Three shall be appointed by the Minority Leader of the 
+        Senate, of whom--
+
+[[Page 130 STAT. 318]]
+
+                    (A) two shall be academic researchers, data experts, 
+                or have experience in administering programs; and
+                    (B) one shall be an expert in protecting personally-
+                identifiable information and data minimization.
+
+    (b) Expertise.--In making appointments under this section, 
+consideration should be given to individuals with expertise in 
+economics, statistics, program evaluation, data security, 
+confidentiality, or database management.
+    (c) <<NOTE: President.>>  Chairperson and Co-Chairperson.--The 
+President shall select the chairperson of the Commission and the Speaker 
+of the House of Representatives shall select the co-chairperson.
+
+    (d) <<NOTE: Deadline.>>  Timing of Appointments.--Appointments to 
+the Commission shall be made not later than 45 days after the date of 
+enactment of this Act.
+
+    (e) Terms; Vacancies.--Each member shall be appointed for the 
+duration of the Commission. Any vacancy in the Commission shall not 
+affect its powers, and shall be filled in the manner in which the 
+original appointment was made.
+    (f) Compensation.--Members of the Commission shall serve without 
+pay.
+    (g) Travel Expenses.--Each member of the Commission shall be allowed 
+travel expenses, including per diem in lieu of subsistence, at rates 
+authorized for employees of agencies under subchapter I of chapter 57 of 
+title 5, United States Code, while away from their homes or regular 
+places of business in the performance of services for the Commission.
+SEC. 4. DUTIES OF THE COMMISSION.
+
+    (a) <<NOTE: Recommenda- tions.>>  Study of Data.--The Commission 
+shall conduct a comprehensive study of the data inventory, data 
+infrastructure, database security, and statistical protocols related to 
+Federal policymaking and the agencies responsible for maintaining that 
+data to--
+            (1) determine the optimal arrangement for which 
+        administrative data on Federal programs and tax expenditures, 
+        survey data, and related statistical data series may be 
+        integrated and made available to facilitate program evaluation, 
+        continuous improvement, policy-relevant research, and cost-
+        benefit analyses by qualified researchers and institutions while 
+        weighing how integration might lead to the intentional or 
+        unintentional access, breach, or release of personally-
+        identifiable information or records;
+            (2) make recommendations on how data infrastructure, 
+        database security, and statistical protocols should be modified 
+        to best fulfill the objectives identified in paragraph (1); and
+            (3) make recommendations on how best to incorporate outcomes 
+        measurement, institutionalize randomized controlled trials, and 
+        rigorous impact analysis into program design.
+
+    (b) Clearinghouse.--In undertaking the study required by subsection 
+(a), the Commission shall--
+            (1) consider whether a clearinghouse for program and survey 
+        data should be established and how to create such a 
+        clearinghouse; and
+            (2) <<NOTE: Evaluation.>>  evaluate--
+                    (A) what administrative data and survey data are 
+                relevant for program evaluation and Federal policy-
+                making and should be included in a potential 
+                clearinghouse;
+
+[[Page 130 STAT. 319]]
+
+                    (B) which survey data the administrative data 
+                identified in subparagraph (A) may be linked to, in 
+                addition to linkages across administrative data series, 
+                including the effect such linkages may have on the 
+                security of those data;
+                    (C) what are the legal and administrative barriers 
+                to including or linking these data series;
+                    (D) what data-sharing infrastructure should be used 
+                to facilitate data merging and access for research 
+                purposes;
+                    (E) how a clearinghouse could be self-funded;
+                    (F) which types of researchers, officials, and 
+                institutions should have access to data and what the 
+                qualifications of the researchers, officials, and 
+                institutions should be;
+                    (G) what limitations should be placed on the use of 
+                data provided;
+                    (H) how to protect information and ensure individual 
+                privacy and confidentiality;
+                    (I) how data and results of research can be used to 
+                inform program administrators and policymakers to 
+                improve program design;
+                    (J) what incentives may facilitate interagency 
+                sharing of information to improve programmatic 
+                effectiveness and enhance data accuracy and 
+                comprehensiveness; and
+                    (K) how individuals whose data are used should be 
+                notified of its usages.
+
+    (c) <<NOTE: Recommenda- tions.>>  Report.--Upon the affirmative vote 
+of at least three-quarters of the members of the Commission, the 
+Commission shall submit to the President and Congress a detailed 
+statement of its findings and conclusions as a result of the activities 
+required by subsections (a) and (b), together with its recommendations 
+for such legislation or administrative actions as the Commission 
+considers appropriate in light of the results of the study.
+
+    (d) Deadline.--The report under subsection (c) shall be submitted 
+not later than the date that is 15 months after the date a majority of 
+the members of the Commission are appointed pursuant to section 3.
+    (e) Definition.--In this section, the term ``administrative data'' 
+means data--
+            (1) held by an agency or a contractor or grantee of an 
+        agency (including a State or unit of local government); and
+            (2) collected for other than statistical purposes.
+SEC. 5. OPERATION AND POWERS OF THE COMMISSION.
+
+    (a) <<NOTE: Consultation.>>  Executive Branch Assistance.--The heads 
+of the following agencies shall advise and consult with the Commission 
+on matters within their respective areas of responsibility:
+            (1) The Bureau of the Census.
+            (2) The Internal Revenue Service.
+            (3) The Department of Health and Human Services.
+            (4) The Department of Agriculture.
+            (5) The Department of Housing and Urban Development.
+            (6) The Social Security Administration.
+            (7) The Department of Education.
+            (8) The Department of Justice.
+            (9) The Office of Management and Budget.
+            (10) The Bureau of Economic Analysis.
+            (11) The Bureau of Labor Statistics.
+
+[[Page 130 STAT. 320]]
+
+            (12) Any other agency, as determined by the Commission.
+
+    (b) <<NOTE: Deadline.>>  Meetings.--The Commission shall meet not 
+later than 30 days after the date upon which a majority of its members 
+have been appointed and at such times thereafter as the chairperson or 
+co-chairperson shall determine.
+
+    (c) Rules of Procedure.--The chairperson and co-chairperson shall, 
+with the approval of a majority of the members of the Commission, 
+establish written rules of procedure for the Commission, which shall 
+include a quorum requirement to conduct the business of the Commission.
+    (d) Hearings.--The Commission may, for the purpose of carrying out 
+this Act, hold hearings, sit and act at times and places, take 
+testimony, and receive evidence as the Commission considers appropriate.
+    (e) Contracts.--The Commission may contract with and compensate 
+government and private agencies or persons for any purpose necessary to 
+enable it to carry out this Act.
+    (f) Mails.--The Commission may use the United States mails in the 
+same manner and under the same conditions as other agencies of the 
+Federal Government.
+    (g) Gifts.--The Commission may accept, use, and dispose of gifts or 
+donations of services or property.
+SEC. 6. FUNDING.
+
+    (a) In General.--Subject to subsection (b) and the availability of 
+appropriations--
+            (1) at the request of the Director of the Census, the 
+        agencies identified as ``Principal Statistical Agencies'' in the 
+        report, published by the Office of Management and Budget, 
+        entitled ``Statistical Programs of the United States Government, 
+        Fiscal Year 2015'' shall transfer funds, as specified in advance 
+        in appropriations Acts and in a total amount not to exceed 
+        $3,000,000, to the Bureau of the Census for purposes of carrying 
+        out the activities of the Commission as provided in this Act; 
+        and
+            (2) the Bureau of the Census shall provide administrative 
+        support to the Commission, which may include providing physical 
+        space at, and access to, the headquarters of the Bureau of the 
+        Census, located in Suitland, Maryland.
+
+    (b) Prohibition on New Funding.--No additional funds are authorized 
+to be appropriated to carry out this Act. This Act shall be carried out 
+using amounts otherwise available for the Bureau of the Census or the 
+agencies described in subsection (a)(1).
+SEC. 7. PERSONNEL.
+
+    (a) <<NOTE: Appointment.>>  Director.--The Commission shall have a 
+Director who shall be appointed by the chairperson with the concurrence 
+of the co-chairperson. The Director shall be paid at a rate of pay 
+established by the chairperson and co-chairperson, not to exceed the 
+annual rate of basic pay payable for level V of the Executive Schedule 
+(section 5316 of title 5, United States Code).
+
+    (b) Staff.--The Director may appoint and fix the pay of additional 
+staff as the Director considers appropriate.
+    (c) Experts and Consultants.--The Commission may procure temporary 
+and intermittent services under section 3109(b) of title 5, United 
+States Code, at rates for individuals which do not exceed the daily 
+equivalent of the annual rate of basic pay for a comparable position 
+paid under the General Schedule.
+
+[[Page 130 STAT. 321]]
+
+SEC. 8. TERMINATION.
+
+    The Commission shall terminate not later than 18 months after the 
+date of enactment of this Act.
+
+    Approved March 30, 2016.
+
+LEGISLATIVE HISTORY--H.R. 1831 (S. 991):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-211 (Comm. on Oversight and Government Reform).
+SENATE REPORTS: No. 114-151 (Comm. on Homeland Security and Governmental 
+Affairs) accompanying S. 991.
+CONGRESSIONAL RECORD:
+                                                        Vol. 161 (2015):
+                                    July 27, considered and passed 
+                                        House.
+                                                        Vol. 162 (2016):
+                                    Mar. 16, considered and passed 
+                                        Senate, amended.
+                                    Mar. 17, House concurred in Senate 
+                                        amendment.
+
+                                  
+

@@ -1,0 +1,129 @@
+
+[111th Congress Public Law 360]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 124 STAT. 4051]]
+
+Public Law 111-360
+111th Congress
+
+                                 An Act
+
+
+ 
+To exclude an external power supply for certain security or life safety 
+   alarms and surveillance system components from the application of 
+    certain energy efficiency standards under the Energy Policy and 
+        Conservation Act. <<NOTE: Jan. 4, 2011 -  [H.R. 5470]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+SECTION 1. EFFICIENCY STANDARDS FOR CLASS A EXTERNAL POWER 
+                              SUPPLIES.
+
+    Section 325(u)(3) of the Energy Policy and Conservation Act (42 
+U.S.C. 6295(u)(3)) is amended--
+            (1) in subparagraph (A), by striking ``(D)'' and inserting 
+        ``(E)''; and
+            (2) by adding at the end the following:
+                    ``(E) Nonapplication of no-load mode energy 
+                efficiency standards to external power supplies for 
+                certain security or life safety alarms or surveillance 
+                systems.--
+                          ``(i) Definition of security or life safety 
+                      alarm or surveillance system.--In this 
+                      subparagraph:
+                                    ``(I) In general.--The term 
+                                `security or life safety alarm or 
+                                surveillance system' means equipment 
+                                designed and marketed to perform any of 
+                                the following functions (on a continuous 
+                                basis):
+                                            ``(aa) Monitor, detect, 
+                                        record, or provide notification 
+                                        of intrusion or access to real 
+                                        property or physical assets or 
+                                        notification of threats to life 
+                                        safety.
+                                            ``(bb) Deter or control 
+                                        access to real property or 
+                                        physical assets, or prevent the 
+                                        unauthorized removal of physical 
+                                        assets.
+                                            ``(cc) Monitor, detect, 
+                                        record, or provide notification 
+                                        of fire, gas, smoke, flooding, 
+                                        or other physical threats to 
+                                        real property, physical assets, 
+                                        or life safety.
+                                    ``(II) Exclusion.--The term 
+                                `security or life safety alarm or 
+                                surveillance system' does not include 
+                                any product with a principal function 
+                                other than life safety, security, or 
+                                surveillance that--
+                                            ``(aa) is designed and 
+                                        marketed with a built-in alarm 
+                                        or theft-deterrent feature; or
+                                            ``(bb) does not operate 
+                                        necessarily and continuously in 
+                                        active mode.
+
+[[Page 124 STAT. 4052]]
+
+                          ``(ii) Nonapplication of no-load mode 
+                      requirements.--The No-Load Mode energy efficiency 
+                      standards established by this paragraph shall not 
+                      apply to an external power supply manufactured 
+                      before July 1, 2017, that--
+                                    ``(I) is an AC-to-AC external power 
+                                supply;
+                                    ``(II) has a nameplate output of 20 
+                                watts or more;
+                                    ``(III) is certified to the 
+                                Secretary as being designed to be 
+                                connected to a security or life safety 
+                                alarm or surveillance system component; 
+                                and
+                                    ``(IV) on establishment within the 
+                                External Power Supply International 
+                                Efficiency Marking Protocol, as 
+                                referenced in the `Energy Star Program 
+                                Requirements for Single Voltage External 
+                                Ac-Dc and Ac-Ac Power Supplies', 
+                                published by the Environmental 
+                                Protection Agency, of a distinguishing 
+                                mark for products described in this 
+                                clause, is permanently marked with the 
+                                distinguishing mark.
+                          ``(iii) Administration.--In carrying out this 
+                      subparagraph, the Secretary shall--
+                                    
+                                ``(I) <<NOTE: Submission. Deadline.>>  
+                                require, with appropriate safeguard for 
+                                the protection of confidential business 
+                                information, the submission of unit 
+                                shipment data on an annual basis; and
+                                    ``(II) restrict the eligibility of 
+                                external power supplies for the 
+                                exemption provided under this 
+                                subparagraph on a finding that a 
+                                substantial number of the external power 
+                                supplies are being marketed to or 
+                                installed in applications other than 
+                                security or life safety alarm or 
+                                surveillance systems.''.
+
+    Approved January 4, 2011.
+
+LEGISLATIVE HISTORY--H.R. 5470:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 156 (2010):
+            Dec. 8, considered and passed House.
+            Dec. 21, considered and passed Senate.
+
+                                  
+

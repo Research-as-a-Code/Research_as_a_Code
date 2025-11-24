@@ -1,0 +1,1355 @@
+
+[115th Congress Public Law 246]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 3129]]
+
+            DEPARTMENT OF ENERGY RESEARCH AND INNOVATION ACT
+
+[[Page 132 STAT. 3130]]
+
+Public Law 115-246
+115th Congress
+
+                                 An Act
+
+
+ 
+To establish Department of Energy policy for science and energy research 
+and development programs, and reform National Laboratory management and 
+technology transfer programs, and for other purposes. <<NOTE: Sept. 28, 
+                          2018 -  [H.R. 589]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Department of 
+Energy Research and Innovation Act.>> 
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title. <<NOTE: 42 USC 18601 note.>> --This Act may be 
+cited as the ``Department of Energy Research and Innovation Act''.
+
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+        TITLE I--LABORATORY MODERNIZATION AND TECHNOLOGY TRANSFER
+
+Sec. 101. Short title.
+Sec. 102. Inclusion of early stage technology demonstration in 
+           authorized technology transfer activities.
+Sec. 103. Sense of Congress on accelerating energy innovation.
+Sec. 104. Restoration of laboratory directed research and development 
+           program.
+Sec. 105. Research grants database.
+Sec. 106. Technology transfer and transitions assessment.
+Sec. 107. Agreements for commercializing technology pilot program.
+Sec. 108. Short-term cost-share pilot program.
+
+          TITLE II--DEPARTMENT OF ENERGY RESEARCH COORDINATION
+
+Sec. 201. Short title.
+Sec. 202. Protection of information.
+Sec. 203. Crosscutting research and development.
+Sec. 204. Strategic research portfolio analysis and coordination plan.
+Sec. 205. Strategy for facilities and infrastructure.
+Sec. 206. Energy Innovation Hubs.
+
+        TITLE III--DEPARTMENT OF ENERGY OFFICE OF SCIENCE POLICY
+
+Sec. 301. Short title.
+Sec. 302. Mission.
+Sec. 303. Basic energy sciences.
+Sec. 304. Advanced scientific computing research.
+Sec. 305. High-energy physics.
+Sec. 306. Biological and environmental research.
+Sec. 307. Fusion energy.
+Sec. 308. Nuclear physics.
+Sec. 309. Science laboratories infrastructure program.
+
+SEC. 2. <<NOTE: 42 USC 18601.>>  DEFINITIONS.
+
+    In this Act:
+            (1) Department.--The term ``Department'' means the 
+        Department of Energy.
+            (2) Director.--The term ``Director'' means the Director of 
+        the Office of Science of the Department, except as otherwise 
+        indicated.
+
+[[Page 132 STAT. 3131]]
+
+            (3) National laboratory.--The term ``National Laboratory'' 
+        has the meaning given that term in section 2 of the Energy 
+        Policy Act of 2005 (42 U.S.C. 15801).
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+
+    TITLE I <<NOTE: Laboratory Modernization and Technology Transfer 
+Act.>> --LABORATORY MODERNIZATION AND TECHNOLOGY TRANSFER
+SEC. 101. <<NOTE: 42 USC 18601 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Laboratory Modernization and 
+Technology Transfer Act''.
+SEC. 102. INCLUSION OF EARLY STAGE TECHNOLOGY DEMONSTRATION IN 
+                        AUTHORIZED TECHNOLOGY TRANSFER ACTIVITIES.
+
+    Section 1001 of the Energy Policy Act of 2005 (42 U.S.C. 16391) is 
+amended--
+            (1) by redesignating subsection (g) as subsection (h); and
+            (2) by inserting after subsection (f) the following:
+
+    ``(g) Early Stage Technology Demonstration.--The Secretary shall 
+permit the directors of the National Laboratories to use funds 
+authorized to support technology transfer within the Department to carry 
+out early stage and precommercial technology demonstration activities to 
+remove technology barriers that limit private sector interest and 
+demonstrate potential commercial applications of any research and 
+technologies arising from National Laboratory activities.''.
+SEC. 103. <<NOTE: 42 USC 18611.>>  SENSE OF CONGRESS ON 
+                        ACCELERATING ENERGY INNOVATION.
+
+    It is the sense of Congress that--
+            (1) although important progress has been made in cost 
+        reduction and deployment of clean energy technologies, 
+        accelerating clean energy innovation will help meet critical 
+        competitiveness, energy security, and environmental goals;
+            (2) accelerating the pace of clean energy innovation in the 
+        United States calls for--
+                    (A) supporting existing research and development 
+                programs at the Department and the world-class National 
+                Laboratories;
+                    (B) exploring and developing new pathways for 
+                innovators, investors, and decision-makers to leverage 
+                the resources of the Department for addressing the 
+                challenges and comparative strengths of geographic 
+                regions; and
+                    (C) recognizing the financial constraints of the 
+                Department, regularly reviewing clean energy programs to 
+                ensure that taxpayer investments are maximized;
+            (3) the energy supply, demand, policies, markets, and 
+        resource options of the United States vary by geographic region;
+            (4) a regional approach to innovation can bridge the gaps 
+        between local talent, institutions, and industries to identify 
+        opportunities and convert United States investment into domestic 
+        companies; and
+            (5) Congress, the Secretary, and energy industry 
+        participants should advance efforts that promote international,
+
+[[Page 132 STAT. 3132]]
+
+        domestic, and regional cooperation on the research and 
+        development of energy innovations that--
+                    (A) provide clean, affordable, and reliable energy 
+                for everyone;
+                    (B) promote economic growth;
+                    (C) are critical for energy security; and
+                    (D) are sustainable without government support.
+SEC. 104. <<NOTE: 42 USC 18612.>>  RESTORATION OF LABORATORY 
+                        DIRECTED RESEARCH AND DEVELOPMENT PROGRAM.
+
+    (a) In General.--Except as provided in subsection (b), the Secretary 
+shall ensure that laboratory operating contractors do not allocate costs 
+of general and administrative overhead to laboratory directed research 
+and development.
+    (b) Exception for National Security Laboratories.--This section 
+shall not apply to the national security laboratories with respect to 
+which section 3119 of the National Defense Authorization Act for Fiscal 
+Year 2017 (Public Law 114-328) applies.
+SEC. 105. <<NOTE: 42 USC 18613.>>  RESEARCH GRANTS DATABASE.
+
+    (a) In General. <<NOTE: Public information.>> --The Secretary shall 
+establish and maintain a public database, accessible on the website of 
+the Department, that contains a searchable listing of each unclassified 
+research and development project contract, grant, cooperative agreement, 
+task order for a federally funded research and development center, or 
+other transaction administered by the Department.
+
+    (b) Requirements.--Each listing described in subsection (a) shall 
+include, at a minimum, for each listed project, the Department office 
+carrying out the project, the project name, an abstract or summary of 
+the project, funding levels, project duration, contractor or grantee 
+name (including the names of any subcontractors), and expected 
+objectives and milestones.
+    (c) Relevant Literature and Patents.--The Secretary shall provide 
+information through the public database established under subsection (a) 
+on relevant literature and patents that are associated with each 
+research and development project contract, grant, or cooperative 
+agreement, or other transaction, of the Department.
+SEC. 106. <<NOTE: Reports. Recommenda- tions. 42 USC 18614.>>  
+                        TECHNOLOGY TRANSFER AND TRANSITIONS 
+                        ASSESSMENT.
+
+    Not later than 1 year after the date of enactment of this Act, and 
+as often as the Secretary determines to be necessary thereafter, the 
+Secretary shall transmit to the appropriate committees of Congress a 
+report that includes recommended changes to the policy of the Department 
+and legislative changes to section 1001 of the Energy Policy Act of 2005 
+(42 U.S.C. 16391) to improve the ability of the Department to 
+successfully transfer new energy technologies to the private sector.
+SEC. 107. <<NOTE: 42 USC 18615.>>  AGREEMENTS FOR COMMERCIALIZING 
+                        TECHNOLOGY PILOT PROGRAM.
+
+    (a) In General.--The Secretary shall carry out the Agreements for 
+Commercializing Technology pilot program of the Department, as announced 
+by the Secretary on December 8, 2011, in accordance with this section.
+    (b) Terms.--Each agreement entered into pursuant to the pilot 
+program referred to in subsection (a) shall provide to the contractor of 
+the applicable National Laboratory, to the maximum extent determined to 
+be appropriate by the Secretary, increased authority to
+
+[[Page 132 STAT. 3133]]
+
+negotiate contract terms, such as intellectual property rights, payment 
+structures, performance guarantees, and multiparty collaborations.
+    (c) Eligibility.--
+            (1) In general.--Any director of a National Laboratory may 
+        enter into an agreement pursuant to the pilot program referred 
+        to in subsection (a).
+            (2) Agreements with non-federal entities.--To carry out 
+        paragraph (1) and subject to paragraph (3), the Secretary shall 
+        permit the directors of the National Laboratories to execute 
+        agreements with a non-Federal entity, including a non-Federal 
+        entity already receiving Federal funding that will be used to 
+        support activities under agreements executed pursuant to 
+        paragraph (1), provided that such funding is solely used to 
+        carry out the purposes of the Federal award.
+            (3) Restriction <<NOTE: Applicability.>> .--The requirements 
+        of chapter 18 of title 35, United States Code (commonly known as 
+        the ``Bayh-Dole Act'') shall apply if--
+                    (A) the agreement is a funding agreement (as that 
+                term is defined in section 201 of that title); and
+                    (B) at least one of the parties to the funding 
+                agreement is eligible to receive rights under that 
+                chapter.
+
+    (d) Submission to Secretary.--Each affected director of a National 
+Laboratory shall submit to the Secretary, with respect to each agreement 
+entered into under this section--
+            (1) <<NOTE: Summary.>>  a summary of information relating to 
+        the relevant project;
+            (2) <<NOTE: Cost estimate.>>  the total estimated costs of 
+        the project;
+            (3) <<NOTE: Timeframe estimate.>>  estimated commencement 
+        and completion dates of the project; and
+            (4) other documentation determined to be appropriate by the 
+        Secretary.
+
+    (e) Certification.--The Secretary shall require the contractor of 
+the affected National Laboratory to certify that each activity carried 
+out under a project for which an agreement is entered into under this 
+section--
+            (1) is not in direct competition with the private sector; 
+        and
+            (2) does not present, or minimizes, any apparent conflict of 
+        interest, and avoids or neutralizes any actual conflict of 
+        interest, as a result of the agreement under this section.
+
+    (f) Extension.--The pilot program referred to in subsection (a) 
+shall be extended until September 30, 2019.
+    (g) <<NOTE: Coordination.>>  Reports.--
+            (1) Overall assessment <<NOTE: Assessments.>> .--Not later 
+        than 60 days after the date described in subsection (f), the 
+        Secretary, in coordination with directors of the National 
+        Laboratories, shall submit to the appropriate committees of 
+        Congress a report that--
+                    (A) assesses the overall effectiveness of the pilot 
+                program referred to in subsection (a);
+                    (B) identifies opportunities to improve the 
+                effectiveness of the pilot program;
+                    (C) assesses the potential for program activities to 
+                interfere with the responsibilities of the National 
+                Laboratories to the Department; and
+                    (D) <<NOTE: Recommenda- tions.>>  provides a 
+                recommendation regarding the future of the pilot 
+                program.
+
+[[Page 132 STAT. 3134]]
+
+            (2) Transparency.--The Secretary, in coordination with 
+        directors of the National Laboratories, shall submit to the 
+        appropriate committees of Congress an annual report that 
+        accounts for all incidences of, and provides a justification 
+        for, non-Federal entities using funds derived from a Federal 
+        contract or award to carry out agreements pursuant to this 
+        section.
+SEC. 108. SHORT-TERM COST-SHARE PILOT PROGRAM.
+
+    (a) In General.--Section 988(b) of the Energy Policy Act of 2005 (42 
+U.S.C. 16352(b)) is amended--
+            (1) in paragraph (1), by striking ``Except as provided in 
+        paragraphs (2) and (3)'' and inserting ``Except as provided in 
+        paragraphs (2), (3), and (4)''; and
+            (2) by adding at the end the following:
+            ``(4) Exemption for institutions of higher education and 
+        other nonprofit institutions.--
+                    ``(A) In general.--Paragraph (1) shall not apply to 
+                a research or development activity performed by an 
+                institution of higher education or nonprofit institution 
+                (as defined in section 4 of the Stevenson-Wydler 
+                Technology Innovation Act of 1980 (15 U.S.C. 3703)).
+                    ``(B) Termination date. <<NOTE: Applicability. Time 
+                period.>> --The exemption under subparagraph (A) shall 
+                apply during the 2-year period beginning on the date of 
+                enactment of this paragraph.''.
+
+    (b) <<NOTE: Time periods.>>  Reports.--
+            (1) Initial report.--As soon as practicable after the date 
+        of enactment of this Act, the Secretary shall submit to the 
+        appropriate committees of Congress a report that describes the 
+        use of cost-sharing waivers by the Department under section 
+        988(b) of the Energy Policy Act of 2005 (42 U.S.C. 16352(b)) 
+        during the 2-year period ending on the date of enactment of this 
+        Act.
+            (2) Annual reports.--Annually during the 2-year period 
+        beginning on the date of enactment of this Act, the Secretary 
+        shall submit to the appropriate committees of Congress a report 
+        that describes the use of cost-sharing waivers by the Department 
+        under section 988(b) of the Energy Policy Act of 2005 (42 U.S.C. 
+        16352(b)) during the period covered by the report.
+
+  TITLE II <<NOTE: Department of Energy Research Coordination Act.>> --
+DEPARTMENT OF ENERGY RESEARCH COORDINATION
+SEC. 201. <<NOTE: 42 USC 18601 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Department of Energy Research 
+Coordination Act''.
+SEC. 202. PROTECTION OF INFORMATION.
+
+    Section 5012 of the America Competes Act (42 U.S.C. 16538) is 
+amended--
+            (1) in subsection (a)(3), by striking ``subsection (n)(1)'' 
+        and inserting ``subsection (o)(1)'';
+            (2) by redesignating subsection (n) as subsection (o); and
+            (3) by inserting after subsection (m) the following:
+
+[[Page 132 STAT. 3135]]
+
+    ``(n) Protection of Information.--The following types of information 
+collected by ARPA-E from recipients of financial assistance awards shall 
+be considered commercial and financial information obtained from a 
+person and privileged or confidential and not subject to disclosure 
+under section 552(b)(4) of title 5, United States Code:
+            ``(1) Plans for commercialization of technologies developed 
+        under the award, including business plans, technology-to-market 
+        plans, market studies, and cost and performance models.
+            ``(2) Investments provided to an awardee from third parties 
+        (such as venture capital firms, hedge funds, and private equity 
+        firms), including amounts and the percentage of ownership of the 
+        awardee provided in return for the investments.
+            ``(3) Additional financial support that the awardee--
+                    ``(A) plans to or has invested into the technology 
+                developed under the award; or
+                    ``(B) is seeking from third parties.
+            ``(4) Revenue from the licensing or sale of new products or 
+        services resulting from research conducted under the award.''.
+SEC. 203. <<NOTE: 42 USC 18631.>>  CROSSCUTTING RESEARCH AND 
+                        DEVELOPMENT.
+
+    (a) In General.--The Secretary shall use the capabilities of the 
+Department to identify strategic opportunities for collaborative 
+research, development, demonstration, and commercial application of 
+innovative science and technologies.
+    (b) Existing Programs; Coordination of Activities.--To the maximum 
+extent practicable, the Secretary shall seek--
+            (1) to leverage existing programs of the Department; and
+            (2) to consolidate and coordinate activities throughout the 
+        Department to promote collaboration and crosscutting approaches 
+        within programs of the Department.
+
+    (c) Additional Actions.--The Secretary shall--
+            (1) prioritize activities that use all affordable domestic 
+        resources;
+            (2) develop a planning, evaluation, and technical assessment 
+        framework for setting objective long-term strategic goals and 
+        evaluating progress that--
+                    (A) ensures integrity and independence; and
+                    (B) provides the flexibility to adapt to market 
+                dynamics;
+            (3) ensure that activities shall be undertaken in a manner 
+        that does not duplicate other activities within the Department 
+        or other Federal Government activities; and
+            (4) identify programs that may be more effectively left to 
+        the States, industry, nongovernmental organizations, 
+        institutions of higher education, or other stakeholders.
+SEC. 204. STRATEGIC RESEARCH PORTFOLIO ANALYSIS AND COORDINATION 
+                        PLAN.
+
+    The Energy Policy Act of 2005 is amended by striking section 994 (42 
+U.S.C. 16358) and inserting the following:
+
+[[Page 132 STAT. 3136]]
+
+``SEC. 994. <<NOTE: 42 USC 16358.>>  STRATEGIC RESEARCH PORTFOLIO 
+                        ANALYSIS AND COORDINATION PLAN.
+
+    ``(a) In General.--The Secretary shall periodically review all of 
+the science and technology activities of the Department in a strategic 
+framework that takes into account--
+            ``(1) the frontiers of science to which the Department can 
+        contribute;
+            ``(2) the national needs relevant to the statutory missions 
+        of the Department; and
+            ``(3) global energy dynamics.
+
+    ``(b) Coordination Analysis and Plan.--
+            ``(1) In general.--As part of the review under subsection 
+        (a), the Secretary shall develop a plan to improve coordination 
+        and collaboration in research, development, demonstration, and 
+        commercial application activities across organizational 
+        boundaries of the Department.
+            ``(2) Plan contents.--The plan developed under paragraph (1) 
+        shall describe--
+                    ``(A) crosscutting scientific and technical issues 
+                and research questions that span more than one program 
+                or major office of the Department;
+                    ``(B) ways in which the applied technology programs 
+                of the Department are coordinating activities and 
+                addressing the questions referred to in subparagraph 
+                (A);
+                    ``(C) ways in which the technical interchange within 
+                the Department, particularly between the Office of 
+                Science and the applied technology programs, could be 
+                enhanced, including ways in which the research agendas 
+                of the Office of Science and the applied programs could 
+                better interact and assist each other;
+                    ``(D) ways in which the Secretary would ensure that 
+                the overall research agenda of the Department includes, 
+                in addition to fundamental, curiosity-driven research, 
+                fundamental research related to topics of concern to the 
+                applied programs, and applications in Departmental 
+                technology programs of research results generated by 
+                fundamental, curiosity-driven research;
+                    ``(E) <<NOTE: Assessments.>>  critical assessments 
+                of any ongoing programs that have experienced subpar 
+                performance or cost overruns of 10 percent or more over 
+                1 or more years;
+                    ``(F) any activities that may be more effectively 
+                left to the States, industry, nongovernmental 
+                organizations, institutions of higher education, or 
+                other stakeholders; and
+                    ``(G) <<NOTE: Evaluations. Proposals.>>  detailed 
+                evaluations and proposals for innovation hubs, 
+                institutes, and research centers of the Department, 
+                including--
+                          ``(i) an affirmation that the hubs, 
+                      institutes, and research centers will--
+                                    ``(I) advance the mission of the 
+                                Department; and
+                                    ``(II) prioritize research, 
+                                development, and demonstration; and
+                          ``(ii) an affirmation that any hubs, 
+                      institutes, or research centers that are 
+                      established or renewed within the Office of 
+                      Science are consistent with the mission of the 
+                      Office of Science described in subsection (c)
+
+[[Page 132 STAT. 3137]]
+
+                      of section 209 of the Department of Energy 
+                      Organization Act (42 U.S.C. 7139).
+
+    ``(c) Submission to Congress <<NOTE: Time period.>> .--Every 4 
+years, the Secretary shall submit to Congress--
+            ``(1) the results of the review under subsection (a); and
+            ``(2) the coordination plan under subsection (b).''.
+SEC. 205. STRATEGY FOR FACILITIES AND INFRASTRUCTURE.
+
+    (a) Amendments.--Section 993 of the Energy Policy Act of 2005 (42 
+U.S.C. 16357) is amended--
+            (1) by striking the section heading and inserting the 
+        following: ``strategy for facilities and infrastructure''; and
+            (2) in subsection (b)(1), by striking ``2008'' and inserting 
+        ``2018''.
+
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+the Energy Policy Act of 2005 is amended by striking the item relating 
+to section 993 and inserting the following:
+
+``Sec. 993. Strategy for facilities and infrastructure.''.
+
+SEC. 206 <<NOTE: 42 USC 18632.>> . ENERGY INNOVATION HUBS.
+
+    (a) Definitions.--In this section:
+            (1) Advanced energy technology.--The term ``advanced energy 
+        technology'' means--
+                    (A) an innovative technology--
+                          (i) that produces energy from solar, wind, 
+                      geothermal, biomass, tidal, wave, ocean, or other 
+                      renewable energy resources;
+                          (ii) that produces nuclear energy;
+                          (iii) for carbon capture and sequestration;
+                          (iv) that enables advanced vehicles, vehicle 
+                      components, and related technologies that result 
+                      in significant energy savings;
+                          (v) that generates, transmits, distributes, 
+                      uses, or stores energy more efficiently than 
+                      conventional technologies, including through Smart 
+                      Grid technologies; or
+                          (vi) that enhances the energy independence and 
+                      security of the United States by enabling improved 
+                      or expanded supply and production of domestic 
+                      energy resources, including coal, oil, and natural 
+                      gas;
+                    (B) a research, development, demonstration, or 
+                commercial application activity necessary to ensure the 
+                long-term, secure, and sustainable supply of an energy-
+                critical element; or
+                    (C) any other innovative energy technology area 
+                identified by the Secretary.
+            (2) Hub.--
+                    (A) In general.--The term ``Hub'' means an Energy 
+                Innovation Hub established under this section.
+                    (B) Inclusion.--The term ``Hub'' includes any Energy 
+                Innovation Hub in existence on the date of enactment of 
+                this Act.
+            (3) Qualifying entity.--The term ``qualifying entity'' 
+        means--
+                    (A) an institution of higher education;
+
+[[Page 132 STAT. 3138]]
+
+                    (B) an appropriate State or Federal entity, 
+                including a federally funded research and development 
+                center of the Department;
+                    (C) a nongovernmental organization with expertise in 
+                advanced energy technology research, development, 
+                demonstration, or commercial application; or
+                    (D) any other relevant entity the Secretary 
+                determines appropriate.
+
+    (b) Authorization of Program.--
+            (1) In general.--The Secretary shall carry out a program to 
+        enhance the economic, environmental, and energy security of the 
+        United States by making awards to consortia for establishing and 
+        operating hubs, to be known as ``Energy Innovation Hubs'', to 
+        conduct and support, at, if practicable, one centralized 
+        location, multidisciplinary, collaborative research, 
+        development, demonstration, and commercial application of 
+        advanced energy technologies.
+            (2) <<NOTE: Designation.>>  Technology development focus.--
+        The Secretary shall designate for each Hub a unique advanced 
+        energy technology or basic research focus.
+            (3) Coordination.--The Secretary shall ensure the 
+        coordination of, and avoid unnecessary duplication of, the 
+        activities of each Hub with the activities of--
+                    (A) other research entities of the Department, 
+                including the National Laboratories, the Advanced 
+                Research Projects Agency--Energy, and Energy Frontier 
+                Research Centers; and
+                    (B) industry.
+
+    (c) Application Process.--
+            (1) Eligibility.--To be eligible to receive an award for the 
+        establishment and operation of a Hub under subsection (b)(1), a 
+        consortium shall--
+                    (A) be composed of not fewer than two qualifying 
+                entities;
+                    (B) operate subject to a binding agreement, entered 
+                into by each member of the consortium, that documents--
+                          (i) the proposed partnership agreement, 
+                      including the governance and management structure 
+                      of the Hub;
+                          (ii) measures the consortium will undertake to 
+                      enable cost-effective implementation of activities 
+                      under the program described in subsection (b)(1); 
+                      and
+                          (iii) a proposed budget, including financial 
+                      contributions from non-Federal sources; and
+                    (C) operate as a nonprofit organization.
+            (2) Application.--
+                    (A) In general.--A consortium seeking to establish 
+                and operate a Hub under subsection (b)(1) shall submit 
+                to the Secretary an application at such time, in such 
+                manner, and containing such information as the Secretary 
+                may require, including a detailed description of each 
+                element of the consortium agreement required under 
+                paragraph (1)(B).
+                    (B) Requirement.--If the consortium members will not 
+                be located at one centralized location, the application 
+                under subparagraph (A) shall include a communications 
+                plan that ensures close coordination and integration of 
+                Hub activities.
+
+[[Page 132 STAT. 3139]]
+
+            (3) Selection.--
+                    (A) In general.--The Secretary shall select 
+                consortia for awards for the establishment and operation 
+                of Hubs through a competitive selection process.
+                    (B) Considerations.--In selecting consortia under 
+                subparagraph (A), the Secretary shall consider--
+                          (i) the information disclosed by the 
+                      consortium under this subsection; and
+                          (ii) any existing facilities a consortium will 
+                      provide for Hub activities.
+
+    (d) Term.--
+            (1) In general.--An award made to a Hub under this section 
+        shall be for a period of not more than 5 years, subject to the 
+        availability of appropriations, after which the award may be 
+        renewed, subject to a rigorous merit review.
+            (2) Existing hubs.--A Hub already in existence on, or 
+        undergoing a renewal process on, the date of enactment of this 
+        Act--
+                    (A) may continue to receive support during the 5-
+                year period beginning on the date of establishment of 
+                that Hub; and
+                    (B) shall be eligible for renewal of that support at 
+                the end of that 5-year period.
+
+    (e) Hub Operations.--
+            (1) In general.--Each Hub shall conduct or provide for 
+        multidisciplinary, collaborative research, development, 
+        demonstration, and commercial application of advanced energy 
+        technologies within the technology development focus designated 
+        under subsection (b)(2).
+            (2) Activities.--Each Hub shall--
+                    (A) encourage collaboration and communication among 
+                the member qualifying entities of the consortium and 
+                awardees;
+                    (B) <<NOTE: Plans. Web posting.>>  develop and 
+                publish proposed plans and programs on a publicly 
+                accessible website;
+                    (C) <<NOTE: Reports.>>  submit an annual report to 
+                the Department summarizing the activities of the Hub, 
+                including--
+                          (i) detailing organizational expenditures; and
+                          (ii) describing each project undertaken by the 
+                      Hub; and
+                    (D) monitor project implementation and coordination.
+            (3) Conflicts of interest.--Each Hub shall maintain conflict 
+        of interest procedures, consistent with the conflict of interest 
+        procedures of the Department.
+            (4) Prohibition on construction.--
+                    (A) In general.--Except as provided in subparagraph 
+                (B)--
+                          (i) no funds provided under this section may 
+                      be used for construction of new buildings or 
+                      facilities for Hubs; and
+                          (ii) construction of new buildings or 
+                      facilities shall not be considered as part of the 
+                      non-Federal share of a Hub cost-sharing agreement.
+                    (B) Test bed and renovation exception.--Nothing in 
+                this paragraph prohibits the use of funds provided under 
+                this section or non-Federal cost share funds for the 
+                construction of a test bed or renovations to existing
+
+[[Page 132 STAT. 3140]]
+
+                buildings or facilities for the purposes of research if 
+                the Secretary determines that the test bed or 
+                renovations are limited to a scope and scale necessary 
+                for the research to be conducted.
+
+    TITLE III <<NOTE: Department of Energy Office of Science Policy 
+Act.>> --DEPARTMENT OF ENERGY OFFICE OF SCIENCE POLICY
+SEC. 301. <<NOTE: 42 USC 18601 note.>>  SHORT TITLE.
+
+    This title may be cited as the ``Department of Energy Office of 
+Science Policy Act''.
+SEC. 302. MISSION.
+
+    Section 209 of the Department of Energy Organization Act (42 U.S.C. 
+7139) is amended by adding at the end the following:
+    ``(c) Mission.--The mission of the Office of Science shall be the 
+delivery of scientific discoveries, capabilities, and major scientific 
+tools to transform the understanding of nature and to advance the 
+energy, economic, and national security of the United States.''.
+SEC. 303. BASIC ENERGY SCIENCES.
+
+    (a) <<NOTE: 42 USC 18641.>>  Energy Frontier Research Centers.--
+            (1) In general.--The Director shall carry out a program to 
+        provide awards, on a competitive, merit-reviewed basis, to 
+        multi-institutional collaborations or other appropriate entities 
+        to conduct fundamental and use-inspired energy research to 
+        accelerate scientific breakthroughs.
+            (2) Collaborations.--A collaboration receiving an award 
+        under this subsection may include multiple types of institutions 
+        and private sector entities.
+            (3) Selection and duration.--
+                    (A) In general.--A collaboration under this 
+                subsection shall be selected for a period of 4 years.
+                    (B) Existing centers.--An Energy Frontier Research 
+                Center in existence and supported by the Director on the 
+                date of enactment of this Act may continue to receive 
+                support for a period of 4 years beginning on the date of 
+                establishment of that center.
+                    (C) Reapplication.--After the end of the period 
+                described in subparagraph (A) or (B), as applicable, a 
+                recipient of an award may reapply for selection on a 
+                competitive, merit-reviewed basis.
+                    (D) Termination.--Consistent with the existing 
+                authorities of the Department, the Director may 
+                terminate an underperforming center for cause during the 
+                performance period.
+            (4) No funding for construction.--No funding provided 
+        pursuant to this subsection may be used for the construction of 
+        new buildings or facilities.
+
+    (b) <<NOTE: 42 USC 18641.>>  Basic Energy Sciences User 
+Facilities.--
+            (1) In general.--The Director shall carry out a program for 
+        the development, construction, operation, and maintenance of 
+        national user facilities.
+            (2) Requirements.--To the maximum extent practicable, the 
+        national user facilities developed, constructed, operated,
+
+[[Page 132 STAT. 3141]]
+
+        or maintained under paragraph (1) shall serve the needs of the 
+        Department, industry, the academic community, and other relevant 
+        entities to create and examine materials and chemical processes 
+        for the purpose of improving the competitiveness of the United 
+        States.
+            (3) Included facilities.--The national user facilities 
+        developed, constructed, operated, or maintained under paragraph 
+        (1) shall include--
+                    (A) x-ray light sources;
+                    (B) neutron sources;
+                    (C) nanoscale science research centers; and
+                    (D) such other facilities as the Director considers 
+                appropriate, consistent with section 209 of the 
+                Department of Energy Organization Act (42 U.S.C. 7139).
+
+    (c) Accelerator Research and Development <<NOTE: Consultation. 42 
+USC 18641.>> .--The Director shall carry out research and development on 
+advanced accelerator and storage ring technologies relevant to the 
+development of basic energy sciences user facilities, in consultation 
+with the High Energy Physics and Nuclear Physics programs of the Office 
+of Science.
+
+    (d) Solar Fuels Research Initiative.--
+            (1) In general.--Section 973 of the Energy Policy Act of 
+        2005 (42 U.S.C. 16313) is amended to read as follows:
+``SEC. 973. SOLAR FUELS RESEARCH INITIATIVE.
+
+    ``(a) Initiative.--
+            ``(1) In general.--The Secretary shall carry out a research 
+        initiative, to be known as the `Solar Fuels Research Initiative' 
+        (referred to in this section as the `Initiative') to expand 
+        theoretical and fundamental knowledge of photochemistry, 
+        electrochemistry, biochemistry, and materials science useful for 
+        the practical development of experimental systems to convert 
+        solar energy to chemical energy.
+            ``(2) Leveraging.--In carrying out programs and activities 
+        under the Initiative, the Secretary shall leverage expertise and 
+        resources from--
+                    ``(A) the Basic Energy Sciences Program and the 
+                Biological and Environmental Research Program of the 
+                Office of Science; and
+                    ``(B) the Office of Energy Efficiency and Renewable 
+                Energy.
+            ``(3) Teams.--
+                    ``(A) In general.--In carrying out the Initiative, 
+                the Secretary shall organize activities among 
+                multidisciplinary teams to leverage, to the maximum 
+                extent practicable, expertise from the National 
+                Laboratories, institutions of higher education, and the 
+                private sector.
+                    ``(B) Goals.--The multidisciplinary teams described 
+                in subparagraph (A) shall pursue aggressive, milestone-
+                driven, basic research goals.
+                    ``(C) Resources.--The Secretary shall provide 
+                sufficient resources to the multidisciplinary teams 
+                described in subparagraph (A) to achieve the goals 
+                described in subparagraph (B) over a period of time to 
+                be determined by the Secretary.
+            ``(4) Additional activities.--The Secretary may organize 
+        additional activities under this subsection through Energy
+
+[[Page 132 STAT. 3142]]
+
+        Frontier Research Centers, Energy Innovation Hubs, or other 
+        organizational structures.
+
+    ``(b) Artificial Photosynthesis.--
+            ``(1) In general.--The Secretary shall carry out under the 
+        Initiative a program to support research needed to bridge 
+        scientific barriers to, and discover knowledge relevant to, 
+        artificial photosynthetic systems.
+            ``(2) Activities.--As part of the program described in 
+        paragraph (1)--
+                    ``(A) the Director of the Office of Basic Energy 
+                Sciences shall support basic research to pursue distinct 
+                lines of scientific inquiry, including--
+                          ``(i) photoinduced production of hydrogen and 
+                      oxygen from water; and
+                          ``(ii) the sustainable photoinduced reduction 
+                      of carbon dioxide to fuel products including 
+                      hydrocarbons, alcohols, carbon monoxide, and 
+                      natural gas; and
+                    ``(B) the Assistant Secretary for Energy Efficiency 
+                and Renewable Energy shall support translational 
+                research, development, and validation of physical 
+                concepts developed under the program.
+            ``(3) Standard of review.--The Secretary shall review 
+        activities carried out under the program described in paragraph 
+        (1) to determine the achievement of technical milestones.
+            ``(4) Prohibition.--No funds allocated to the program 
+        described in paragraph (1) may be obligated or expended for 
+        commercial application of energy technology.
+
+    ``(c) Biochemistry, Replication of Natural Photosynthesis, and 
+Related Processes.--
+            ``(1) In general.--The Secretary shall carry out under the 
+        Initiative a program to support research needed to replicate 
+        natural photosynthetic processes by use of artificial 
+        photosynthetic components and materials.
+            ``(2) Activities.--As part of the program described in 
+        paragraph (1)--
+                    ``(A) the Director of the Office of Basic Energy 
+                Sciences shall support basic research to expand 
+                fundamental knowledge to replicate natural synthesis 
+                processes, including--
+                          ``(i) the photoinduced reduction of dinitrogen 
+                      to ammonia;
+                          ``(ii) the absorption of carbon dioxide from 
+                      ambient air;
+                          ``(iii) molecular-based charge separation and 
+                      storage;
+                          ``(iv) photoinitiated electron transfer; and
+                          ``(v) catalysis in biological or biomimetic 
+                      systems;
+                    ``(B) the Associate Director of Biological and 
+                Environmental Research shall support systems biology and 
+                genomics approaches to understand genetic and 
+                physiological pathways connected to photosynthetic 
+                mechanisms; and
+                    ``(C) the Assistant Secretary for Energy Efficiency 
+                and Renewable Energy shall support translational 
+                research, development, and validation of physical 
+                concepts developed under the program.
+
+[[Page 132 STAT. 3143]]
+
+            ``(3) Standard of review.--The Secretary shall review 
+        activities carried out under the program described in paragraph 
+        (1) to determine the achievement of technical milestones.
+            ``(4) Prohibition.--No funds allocated to the program 
+        described in paragraph (1) may be obligated or expended for 
+        commercial application of energy technology.''.
+            (2) Conforming amendment.--The table of contents for the 
+        Energy Policy Act of 2005 is amended by striking the item 
+        relating to section 973 and inserting the following:
+
+``Sec. 973. Solar fuels research initiative.''.
+
+    (e) Electricity Storage Research Initiative.--
+            (1) In general.--Section 975 of the Energy Policy Act of 
+        2005 (42 U.S.C. 16315) is amended to read as follows:
+``SEC. 975. ELECTRICITY STORAGE RESEARCH INITIATIVE.
+
+    ``(a) Initiative.--
+            ``(1) In general.--The Secretary shall carry out a research 
+        initiative, to be known as the `Electricity Storage Research 
+        Initiative' (referred to in this section as the `Initiative')--
+                    ``(A) to expand theoretical and fundamental 
+                knowledge to control, store, and convert--
+                          ``(i) electrical energy to chemical energy; 
+                      and
+                          ``(ii) chemical energy to electrical energy; 
+                      and
+                    ``(B) to support scientific inquiry into the 
+                practical understanding of chemical and physical 
+                processes that occur within systems involving 
+                crystalline and amorphous solids, polymers, and organic 
+                and aqueous liquids.
+            ``(2) Leveraging.--In carrying out programs and activities 
+        under the Initiative, the Secretary shall leverage expertise and 
+        resources from--
+                    ``(A) the Basic Energy Sciences Program, the 
+                Advanced Scientific Computing Research Program, and the 
+                Biological and Environmental Research Program of the 
+                Office of Science; and
+                    ``(B) the Office of Energy Efficiency and Renewable 
+                Energy.
+            ``(3) Teams.--
+                    ``(A) In general.--In carrying out the Initiative, 
+                the Secretary shall organize activities among 
+                multidisciplinary teams to leverage, to the maximum 
+                extent practicable, expertise from the National 
+                Laboratories, institutions of higher education, and the 
+                private sector.
+                    ``(B) Goals.--The multidisciplinary teams described 
+                in subparagraph (A) shall pursue aggressive, milestone-
+                driven, basic research goals.
+                    ``(C) Resources.--The Secretary shall provide 
+                sufficient resources to the multidisciplinary teams 
+                described in subparagraph (A) to achieve the goals 
+                described in subparagraph (B) over a period of time to 
+                be determined by the Secretary.
+            ``(4) Additional activities.--The Secretary may organize 
+        additional activities under this subsection through Energy 
+        Frontier Research Centers, Energy Innovation Hubs, or other 
+        organizational structures.
+
+    ``(b) Multivalent Systems.--
+
+[[Page 132 STAT. 3144]]
+
+            ``(1) In general.--The Secretary shall carry out under the 
+        Initiative a program to support research needed to bridge 
+        scientific barriers to, and discover knowledge relevant to, 
+        multivalent ion materials in electric energy storage systems.
+            ``(2) Activities.--As part of the program described in 
+        paragraph (1)--
+                    ``(A) the Director of the Office of Basic Energy 
+                Sciences shall investigate electrochemical properties 
+                and the dynamics of materials, including charge transfer 
+                phenomena and mass transport in materials; and
+                    ``(B) the Assistant Secretary for Energy Efficiency 
+                and Renewable Energy shall support translational 
+                research, development, and validation of physical 
+                concepts developed under the program.
+            ``(3) Standard of review.--The Secretary shall review 
+        activities carried out under the program described in paragraph 
+        (1) to determine the achievement of technical milestones.
+            ``(4) Prohibition.--No funds allocated to the program 
+        described in paragraph (1) may be obligated or expended for 
+        commercial application of energy technology.
+
+    ``(c) Electrochemistry Modeling and Simulation.--
+            ``(1) In general.--The Secretary shall carry out under the 
+        Initiative a program to support research to model and simulate 
+        organic electrolytes, including the static and dynamic 
+        electrochemical behavior and phenomena of organic electrolytes 
+        at the molecular and atomic level in monovalent and multivalent 
+        systems.
+            ``(2) Activities.--As part of the program described in 
+        paragraph (1)--
+                    ``(A) <<NOTE: Coordination.>>  the Director of the 
+                Office of Basic Energy Sciences, in coordination with 
+                the Associate Director of Advanced Scientific Computing 
+                Research, shall support the development of high 
+                performance computational tools through a joint 
+                development process to maximize the effectiveness of 
+                current and projected high performance computing 
+                systems; and
+                    ``(B) the Assistant Secretary for Energy Efficiency 
+                and Renewable Energy shall support translational 
+                research, development, and validation of physical 
+                concepts developed under the program.
+            ``(3) Standard of review.--The Secretary shall review 
+        activities carried out under the program described in paragraph 
+        (1) to determine the achievement of technical milestones.
+            ``(4) Prohibition.--No funds allocated to the program 
+        described in paragraph (1) may be obligated or expended for 
+        commercial application of energy technology.
+
+    ``(d) Mesoscale Electrochemistry.--
+            ``(1) In general.--The Secretary shall carry out under the 
+        Initiative a program to support research needed to reveal 
+        electrochemistry in confined mesoscale spaces, including 
+        scientific discoveries relevant to--
+                    ``(A) bio-electrochemistry and electrochemical 
+                energy conversion and storage in confined spaces; and
+                    ``(B) the dynamics of the phenomena described in 
+                subparagraph (A).
+            ``(2) Activities.--As part of the program described in 
+        paragraph (1)--
+
+[[Page 132 STAT. 3145]]
+
+                    ``(A) the Director of the Office of Basic Energy 
+                Sciences and the Associate Director of Biological and 
+                Environmental Research shall investigate phenomena of 
+                mesoscale electrochemical confinement for the purpose of 
+                replicating and controlling new electrochemical 
+                behavior; and
+                    ``(B) the Assistant Secretary for Energy Efficiency 
+                and Renewable Energy shall support translational 
+                research, development, and validation of physical 
+                concepts developed under the program.
+            ``(3) Standard of review.--The Secretary shall review 
+        activities carried out under the program described in paragraph 
+        (1) to determine the achievement of technical milestones.
+            ``(4) Prohibition.--No funds allocated to the program 
+        described in paragraph (1) may be obligated or expended for 
+        commercial application of energy technology.''.
+            (2) Conforming amendment.--The table of contents for the 
+        Energy Policy Act of 2005 is amended by striking the item 
+        relating to section 975 and inserting the following:
+
+``Sec. 975. Electricity storage research initiative.''.
+
+SEC. 304. <<NOTE: 42 USC 18642.>>  ADVANCED SCIENTIFIC COMPUTING 
+                        RESEARCH.
+
+    (a) American Super Computing Leadership.--
+            (1) Renaming of act.--
+                    (A) In general.--Section 1 of the Department of 
+                Energy High-End Computing Revitalization Act of 2004 (15 
+                U.S.C. 5501 note; Public Law 108-423) is amended by 
+                striking ``Department of Energy High-End Computing 
+                Revitalization Act of 2004'' and inserting ``American 
+                Super Computing Leadership Act of 2017''.
+                    (B) Conforming amendment.--Section 976(a)(1) of the 
+                Energy Policy Act of 2005 (42 U.S.C. 16316(1)) is 
+                amended by striking ``Department of Energy High-End 
+                Computing Revitalization Act of 2004'' and inserting 
+                ``American Super Computing Leadership Act of 2017''.
+            (2) Definitions.--Section 2 of the American Super Computing 
+        Leadership Act of 2017 (15 U.S.C. 5541) is amended--
+                    (A) by redesignating paragraphs (2) through (5) as 
+                paragraphs (3) through (6), respectively;
+                    (B) by striking paragraph (1) and inserting the 
+                following:
+            ``(1) Department.--The term `Department' means the 
+        Department of Energy.
+            ``(2) Exascale computing.--The term `exascale computing' 
+        means computing through the use of a computing machine that 
+        performs near or above 10 to the 18th power operations per 
+        second.''; and
+                    (C) in paragraph (6) (as redesignated by 
+                subparagraph (A)), by striking ``, acting through the 
+                Director of the Office of Science of the Department of 
+                Energy''.
+            (3) Department of energy high-end computing research and 
+        development program.--Section 3 of the American Super Computing 
+        Leadership Act of 2017 (15 U.S.C. 5542) is amended--
+                    (A) in subsection (a)(1), by striking ``program'' 
+                and inserting ``coordinated program across the 
+                Department'';
+                    (B) in subsection (b)(2), by striking ``, which 
+                may'' and all that follows through ``architectures''; 
+                and
+
+[[Page 132 STAT. 3146]]
+
+                    (C) by striking subsection (d) and inserting the 
+                following:
+
+    ``(d) Exascale Computing Program.--
+            ``(1) In general.--The Secretary shall conduct a research 
+        program (referred to in this subsection as the `Program') for 
+        exascale computing, including the development of two or more 
+        exascale computing machine architectures, to promote the 
+        missions of the Department.
+            ``(2) Execution.--
+                    ``(A) In general.--In carrying out the Program, the 
+                Secretary shall--
+                          ``(i) establish two or more National 
+                      Laboratory partnerships with industry partners and 
+                      institutions of higher education for the research 
+                      and development of two or more exascale computing 
+                      architectures across all applicable organizations 
+                      of the Department;
+                          ``(ii) conduct mission-related codesign 
+                      activities in developing the exascale computing 
+                      architectures under clause (i);
+                          ``(iii) develop such advancements in hardware 
+                      and software technology as are required to fully 
+                      realize the potential of an exascale production 
+                      system in addressing Department target 
+                      applications and solving scientific problems 
+                      involving predictive modeling and simulation and 
+                      large scale data analytics and management;
+                          ``(iv) explore the use of exascale computing 
+                      technologies to advance a broad range of science 
+                      and engineering; and
+                          ``(v) provide, as appropriate, on a 
+                      competitive, merit-reviewed basis, access for 
+                      researchers in industries in the United States, 
+                      institutions of higher education, National 
+                      Laboratories, and other Federal agencies to the 
+                      exascale computing systems developed pursuant to 
+                      clause (i).
+                    ``(B) Selection of partners.--The Secretary shall 
+                select the partnerships with the computing facilities of 
+                the Department under subparagraph (A) through a 
+                competitive, peer-review process.
+            ``(3) Codesign and application development.--
+                    ``(A) In general.--The Secretary shall--
+                          ``(i) carry out the Program through an 
+                      integration of applications, computer science, 
+                      applied mathematics, and computer hardware 
+                      architecture using the partnerships established 
+                      pursuant to paragraph (2) to ensure that, to the 
+                      maximum extent practicable, two or more exascale 
+                      computing machine architectures are capable of 
+                      solving Department target applications and broader 
+                      scientific problems, including predictive modeling 
+                      and simulation and large scale data analytics and 
+                      management; and
+                          ``(ii) conduct outreach programs to increase 
+                      the readiness for the use of such platforms by 
+                      domestic industries, including manufacturers.
+                    ``(B) Report.--The Secretary shall submit to 
+                Congress a report describing--
+
+[[Page 132 STAT. 3147]]
+
+                          ``(i) how the integration under subparagraph 
+                      (A) is furthering application science data and 
+                      computational workloads across application 
+                      interests, including national security, material 
+                      science, physical science, cybersecurity, 
+                      biological science, the Materials Genome and BRAIN 
+                      Initiatives of the President, advanced 
+                      manufacturing, and the national electric grid; and
+                          ``(ii) the roles and responsibilities of 
+                      National Laboratories and industry, including the 
+                      definition of the roles and responsibilities 
+                      within the Department to ensure an integrated 
+                      program across the Department.
+            ``(4) Project review.--
+                    ``(A) In general.--The exascale architectures 
+                developed pursuant to partnerships established pursuant 
+                to paragraph (2) shall be reviewed through a project 
+                review process.
+                    ``(B) Report.--Not later than 90 days after the date 
+                of enactment of this subsection, the Secretary shall 
+                submit to Congress a report on--
+                          ``(i) the results of the review conducted 
+                      under subparagraph (A); and
+                          ``(ii) the coordination and management of the 
+                      Program to ensure an integrated research program 
+                      across the Department.
+            ``(5) Annual reports. <<NOTE: Consultation.>> --At the time 
+        of the budget submission of the Department for each fiscal year, 
+        the Secretary, in consultation with the members of the 
+        partnerships established pursuant to paragraph (2), shall submit 
+        to Congress a report that describes funding for the Program as a 
+        whole by functional element of the Department and critical 
+        milestones.''.
+
+    (b) High-Performance Computing and Networking Research.--The 
+Director shall support research in high-performance computing and 
+networking relevant to energy applications, including modeling, 
+simulation, and advanced data analytics for basic and applied energy 
+research programs carried out by the Secretary.
+    (c) Applied Mathematics and Software Development for High-End 
+Computing Systems.--The Director shall carry out activities to develop, 
+test, and support--
+            (1) mathematics, models, and algorithms for complex systems 
+        and programming environments; and
+            (2) tools, languages, and operating systems for high-end 
+        computing systems (as defined in section 2 of the American Super 
+        Computing Leadership Act of 2017 (15 U.S.C. 5541)).
+SEC. 305. <<NOTE: 42 USC 18643.>>  HIGH-ENERGY PHYSICS.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) the Director should incorporate the findings and 
+        recommendations of the report of the Particle Physics Project 
+        Prioritization Panel entitled ``Building for Discovery: 
+        Strategic Plan for U.S. Particle Physics in the Global Context'' 
+        into the planning process of the Department; and
+            (2) the nations that lead in particle physics by hosting 
+        international teams dedicated to a common scientific goal 
+        attract the world's best talent and inspire future generations 
+        of physicists and technologists.
+
+[[Page 132 STAT. 3148]]
+
+    (b) International Collaboration.--The Director, as practicable and 
+in coordination with other appropriate Federal agencies as necessary, 
+shall ensure the access of United States researchers to the most 
+advanced accelerator facilities and research capabilities in the world, 
+including the Large Hadron Collider.
+    (c) Neutrino Research.--The Director shall carry out research 
+activities on rare decay processes and the nature of the neutrino, which 
+may include collaborations with the National Science Foundation or 
+international collaborations.
+    (d) Dark Energy and Dark Matter Research.--The Director shall carry 
+out research activities on the nature of dark energy and dark matter, 
+which may include collaborations with the National Aeronautics and Space 
+Administration or the National Science Foundation; or international 
+collaborations.
+SEC. 306. <<NOTE: 42 USC 18644.>>  BIOLOGICAL AND ENVIRONMENTAL 
+                        RESEARCH.
+
+    (a) Biological Systems.--The Director shall carry out research and 
+development activities in fundamental, structural, computational, and 
+systems biology to increase systems-level understanding of the complex 
+biological systems, which may include activities--
+            (1) to accelerate breakthroughs and new knowledge that would 
+        enable the cost-effective, sustainable production of--
+                    (A) biomass-based liquid transportation fuels;
+                    (B) bioenergy; and
+                    (C) biobased materials;
+            (2) to improve understanding of the global carbon cycle, 
+        including processes for removing carbon dioxide from the 
+        atmosphere, through photosynthesis and other biological 
+        processes, for sequestration and storage; and
+            (3) to understand the biological mechanisms used to 
+        transform, immobilize, or remove contaminants from subsurface 
+        environments.
+
+    (b) Limitation for Research Funds.--The Director shall not approve 
+new climate science-related initiatives without making a determination 
+that such work is well-coordinated with any relevant work carried out by 
+other Federal agencies.
+    (c) Low-Dose Radiation Research Program.--
+            (1) In general.--The Director shall carry out a research 
+        program on low-dose radiation.
+            (2) Purpose.--The purpose of the program is to enhance the 
+        scientific understanding of, and reduce uncertainties associated 
+        with, the effects of exposure to low-dose radiation to inform 
+        improved risk-management methods.
+SEC. 307. <<NOTE: 42 USC 18645.>>  FUSION ENERGY.
+
+    (a) Fusion Materials Research and Development.--As part of the 
+activities authorized in section 978 of the Energy Policy Act of 2005 
+(42 U.S.C. 16318)--
+            (1) <<NOTE: Coordination.>>  the Director, in coordination 
+        with the Assistant Secretary for Nuclear Energy of the 
+        Department, shall carry out research and development activities 
+        to identify, characterize, and demonstrate materials that can 
+        endure the neutron, plasma, and heat fluxes expected in a fusion 
+        power system; and
+            (2) <<NOTE: Assessment.>>  the Director shall provide an 
+        assessment of--
+
+[[Page 132 STAT. 3149]]
+
+                    (A) the need for one or more facilities that can 
+                examine and test potential fusion and next generation 
+                fission materials and other enabling technologies 
+                relevant to the development of fusion power; and
+                    (B) whether a single new facility that substantially 
+                addresses magnetic fusion and next generation fission 
+                materials research needs is feasible, in conjunction 
+                with the expected capabilities of facilities operational 
+                as of the date of enactment of this Act.
+
+    (b) Tokamak Research and Development.--The Director shall support 
+research and development activities and facility operations to optimize 
+the tokamak approach to fusion energy.
+    (c) Inertial Fusion Energy Research and Development.--The Director 
+shall support research and development activities for inertial fusion 
+for energy applications.
+    (d) Alternative and Enabling Concepts.--The Director shall support 
+research and development activities and facility operations at 
+institutions of higher education, National Laboratories, and private 
+facilities in the United States for a portfolio of alternative and 
+enabling fusion energy concepts that may provide solutions to 
+significant challenges to the establishment of a commercial magnetic 
+fusion power plant, prioritized based on the ability of the United 
+States to play a leadership role in the international fusion research 
+community.
+    (e) Coordination With ARPA-E.--The Director shall coordinate with 
+the Director of the Advanced Research Projects Agency-Energy (referred 
+to in this subsection as ``ARPA-E'') to--
+            (1) assess the potential for any fusion energy project 
+        supported by ARPA-E to represent a promising approach to a 
+        commercially viable fusion power plant;
+            (2) determine whether the results of any fusion energy 
+        project supported by ARPA-E merit the support of follow-on 
+        research activities carried out by the Office of Science; and
+            (3) avoid the unintentional duplication of activities.
+
+    (f) Fairness in Competition for Solicitations for International 
+Project Activities. <<NOTE: Definition.>> --Section 33 of the Atomic 
+Energy Act of 1954 (42 U.S.C. 2053) is amended by inserting before the 
+first sentence the following: ``In this section, with respect to 
+international research projects, the term `private facilities or 
+laboratories' means facilities or laboratories located in the United 
+States.''.
+
+    (g) Identification of Priorities.--
+            (1) Report.--
+                    (A) In general <<NOTE: Time period.>> .--Not later 
+                than 2 years after the date of enactment of this Act, 
+                the Secretary shall submit to Congress a report on the 
+                fusion energy research and development activities that 
+                the Department proposes to carry out over the 10-year 
+                period following the date of the report under not fewer 
+                than 3 realistic budget scenarios, including a scenario 
+                based on 3-percent annual growth in the non-ITER portion 
+                of the budget for fusion energy research and development 
+                activities.
+                    (B) Inclusions.--The report required under 
+                subparagraph (A) shall--
+                          (i) identify specific areas of fusion energy 
+                      research and enabling technology development in 
+                      which the United States can and should establish 
+                      or solidify a lead in the global fusion energy 
+                      development effort;
+
+[[Page 132 STAT. 3150]]
+
+                          (ii) identify priorities for initiation of 
+                      facility construction and facility decommissioning 
+                      under each of the three budget scenarios described 
+                      in subparagraph (A); and
+                          (iii) assess the ability of the fusion 
+                      workforce of the United States to carry out the 
+                      activities identified under clauses (i) and (ii), 
+                      including the adequacy of programs at institutions 
+                      of higher education in the United States to train 
+                      the leaders and workers of the next generation of 
+                      fusion energy researchers.
+            (2) Process.--In order to develop the report required under 
+        paragraph (1)(A), the Secretary shall leverage best practices 
+        and lessons learned from the process used to develop the most 
+        recent report of the Particle Physics Project Prioritization 
+        Panel of the High Energy Physics Advisory Panel.
+            (3) Requirement.--No member of the Fusion Energy Sciences 
+        Advisory Committee shall be excluded from participating in 
+        developing or voting on final approval of the report required 
+        under paragraph (1)(A).
+SEC. 308. <<NOTE: 42 USC 18646.>>  NUCLEAR PHYSICS.
+
+    (a) Isotope Development and Production for Research Applications.--
+The Director--
+            (1) may carry out a program for the production of isotopes, 
+        including the development of techniques to produce isotopes, 
+        that the Secretary determines are needed for research, medical, 
+        industrial, or related purposes; and
+            (2) shall ensure that isotope production activities carried 
+        out under the program under this paragraph do not compete with 
+        private industry unless the Director determines that critical 
+        national interests require the involvement of the Federal 
+        Government.
+
+    (b) Renaming of the Rare Isotope Accelerator.--Section 981 of the 
+Energy Policy Act of 2005 (42 U.S.C. 16321) is amended--
+            (1) in the section heading, by striking ``rare isotope 
+        accelerator'' and inserting ``facility for rare isotope beams''; 
+        and
+            (2) by striking ``Rare Isotope Accelerator'' each place it 
+        appears and inserting ``Facility for Rare Isotope Beams''.
+SEC. 309. <<NOTE: 42 USC 18647.>>  SCIENCE LABORATORIES 
+                        INFRASTRUCTURE PROGRAM.
+
+    (a) In General.--The Director shall carry out a program to improve 
+the safety, efficiency, and mission readiness of infrastructure at 
+laboratories of the Office of Science.
+    (b) Inclusions.--The program under subsection (a) shall include 
+projects--
+            (1) to renovate or replace space that does not meet research 
+        needs;
+            (2) to replace facilities that are no longer cost effective 
+        to renovate or operate;
+            (3) to modernize utility systems to prevent failures and 
+        ensure efficiency;
+            (4) to remove excess facilities to allow safe and efficient 
+        operations; and
+
+[[Page 132 STAT. 3151]]
+
+            (5) to construct modern facilities to conduct advanced 
+        research in controlled environmental conditions.
+
+    Approved September 28, 2018.
+
+LEGISLATIVE HISTORY--H.R. 589 (S. 1460) (S. 2503):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: Nos. 115-242 and 115-241, accompanying S. 2503, (both 
+from Comm. on Energy and Natural Resources).
+CONGRESSIONAL RECORD:
+                                                        Vol. 163 (2017):
+                                    Jan. 24, considered and passed 
+                                        House.
+                                                        Vol. 164 (2018):
+                                    July 23, considered and passed 
+                                        Senate, amended.
+                                    Sept. 13, House concurred in Senate 
+                                        amendment.
+
+                                  
+

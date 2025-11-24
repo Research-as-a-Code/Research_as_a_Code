@@ -1,0 +1,151 @@
+
+[115th Congress Public Law 129]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 132 STAT. 329]]
+
+Public Law 115-129
+115th Congress
+
+                                 An Act
+
+
+ 
+To amend the Communications Act of 1934 to ensure the integrity of voice 
+  communications and to prevent unjust or unreasonable discrimination 
+        among areas of the United States in the delivery of such 
+           communications. <<NOTE: Feb. 26, 2018 -  [S. 96]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Improving Rural 
+Call Quality and Reliability Act of 2017. 47 USC 609 note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Improving Rural Call Quality and 
+Reliability Act of 2017''.
+SEC. 2. ENSURING THE INTEGRITY OF VOICE COMMUNICATIONS.
+
+    Part II of title II of the Communications Act of 1934 (47 U.S.C. 251 
+et seq.) is amended by adding at the end the following:
+``SEC. 262. <<NOTE: 47 USC 262.>>  ENSURING THE INTEGRITY OF VOICE 
+                        COMMUNICATIONS.
+
+    ``(a) Registration and Compliance by Intermediate Providers.--An 
+intermediate provider that offers or holds itself out as offering the 
+capability to transmit covered voice communications from one destination 
+to another and that charges any rate to any other entity (including an 
+affiliated entity) for the transmission shall--
+            ``(1) register with the Commission; and
+            ``(2) comply with the service quality standards for such 
+        transmission to be established by the Commission under 
+        subsection (c)(1)(B).
+
+    ``(b) Required Use of Registered Intermediate Providers.--A covered 
+provider may not use an intermediate provider to transmit covered voice 
+communications unless such intermediate provider is registered under 
+subsection (a)(1).
+    ``(c) Commission Rules.--
+            ``(1) <<NOTE: Deadlines.>>  In general.--
+                    ``(A) Registry.--Not later than 180 days after the 
+                date of enactment of this section, the Commission shall 
+                promulgate rules to establish a registry to record 
+                registrations under subsection (a)(1).
+                    ``(B) Service quality standards.--Not later than 1 
+                year after the date of enactment of this section, the 
+                Commission shall promulgate rules to establish service 
+                quality standards for the transmission of covered voice 
+                communications by intermediate providers.
+            ``(2) Requirements.--In promulgating the rules required by 
+        paragraph (1), the Commission shall--
+
+[[Page 132 STAT. 330]]
+
+                    ``(A) ensure the integrity of the transmission of 
+                covered voice communications to all customers in the 
+                United States; and
+                    ``(B) prevent unjust or unreasonable discrimination 
+                among areas of the United States in the delivery of 
+                covered voice communications.
+
+    ``(d) <<NOTE: Web posting.>>  Public Availability of Registry.--The 
+Commission shall make the registry established under subsection 
+(c)(1)(A) publicly available on the website of the Commission.
+
+    ``(e) Scope of Application.--The requirements of this section shall 
+apply regardless of the format by which any communication or service is 
+provided, the protocol or format by which the transmission of such 
+communication or service is achieved, or the regulatory classification 
+of such communication or service.
+    ``(f) Rule of Construction.--Nothing in this section shall be 
+construed to affect the regulatory classification of any communication 
+or service.
+    ``(g) Effect on Other Laws.--Nothing in this section shall be 
+construed to preempt or expand the authority of a State public utility 
+commission or other relevant State agency to collect data, or 
+investigate and enforce State law and regulations, regarding the 
+completion of intrastate voice communications, regardless of the format 
+by which any communication or service is provided, the protocol or 
+format by which the transmission of such communication or service is 
+achieved, or the regulatory classification of such communication or 
+service.
+    ``(h) Exception.--The requirement under subsection (a)(2) to comply 
+with the service quality standards established under subsection 
+(c)(1)(B) shall not apply to a covered provider that--
+            ``(1) <<NOTE: Effective date. Certification.>>  on or before 
+        the date that is 1 year after the date of enactment of this 
+        section, has certified as a Safe Harbor provider under section 
+        64.2107(a) of title 47, Code of Federal Regulations, or any 
+        successor regulation; and
+            ``(2) continues to meet the requirements under such section 
+        64.2107(a).
+
+    ``(i) Definitions.--In this section:
+            ``(1) Covered provider.--The term `covered provider' has the 
+        meaning given the term in section 64.2101 of title 47, Code of 
+        Federal Regulations, or any successor thereto.
+            ``(2) Covered voice communication.--The term `covered voice 
+        communication' means a voice communication (including any 
+        related signaling information) that is generated--
+                    ``(A) from the placement of a call from a connection 
+                using a North American Numbering Plan resource or a call 
+                placed to a connection using such a numbering resource; 
+                and
+                    ``(B) through any service provided by a covered 
+                provider.
+            ``(3) Intermediate provider.--The term `intermediate 
+        provider' means any entity that--
+                    ``(A) enters into a business arrangement with a 
+                covered provider or other intermediate provider for the 
+                specific purpose of carrying, routing, or transmitting 
+                voice traffic that is generated from the placement of a 
+                call placed--
+                          ``(i) from an end user connection using a 
+                      North American Numbering Plan resource; or
+
+[[Page 132 STAT. 331]]
+
+                          ``(ii) to an end user connection using such a 
+                      numbering resource; and
+                    ``(B) does not itself, either directly or in 
+                conjunction with an affiliate, serve as a covered 
+                provider in the context of originating or terminating a 
+                given call.''.
+
+    Approved February 26, 2018.
+
+LEGISLATIVE HISTORY--S. 96 (H.R. 460):
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 115-6 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD:
+                                                        Vol. 163 (2017):
+                                    Aug. 3, considered and passed 
+                                        Senate.
+                                                        Vol. 164 (2018):
+                                    Feb. 8, considered and passed House.
+
+                                  
+

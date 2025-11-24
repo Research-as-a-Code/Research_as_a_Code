@@ -1,0 +1,1203 @@
+
+[111th Congress Public Law 325]
+[From the U.S. Government Printing Office]
+
+
+
+[[Page 124 STAT. 3537]]
+
+Public Law 111-325
+111th Congress
+
+                                 An Act
+
+
+ 
+   To amend the Internal Revenue Code of 1986 to modify certain rules 
+      applicable to regulated investment companies, and for other 
+            purposes. <<NOTE: Dec. 22, 2010 -  [H.R. 4337]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Regulated 
+Investment Company Modernization Act of 2010. 26 USC 1 note.>> 
+SECTION 1. SHORT TITLE, ETC.
+
+    (a) Short Title.--This Act may be cited as the ``Regulated 
+Investment Company Modernization Act of 2010''.
+    (b) Reference.--Except as otherwise expressly provided, whenever in 
+this Act an amendment or repeal is expressed in terms of an amendment 
+to, or repeal of, a section or other provision, the reference shall be 
+considered to be made to a section or other provision of the Internal 
+Revenue Code of 1986.
+    (c) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title, etc.
+
+   TITLE I--CAPITAL LOSS CARRYOVERS OF REGULATED INVESTMENT COMPANIES
+
+Sec. 101. Capital loss carryovers of regulated investment companies.
+
+  TITLE II--MODIFICATION OF GROSS INCOME AND ASSET TESTS OF REGULATED 
+                          INVESTMENT COMPANIES
+
+Sec. 201. Savings provisions for failures of regulated investment 
+           companies to satisfy gross income and asset tests.
+
+    TITLE III--MODIFICATION OF RULES RELATED TO DIVIDENDS AND OTHER 
+                              DISTRIBUTIONS
+
+Sec. 301. Modification of dividend designation requirements and 
+           allocation rules for regulated investment companies.
+Sec. 302. Earnings and profits of regulated investment companies.
+Sec. 303. Pass-thru of exempt-interest dividends and foreign tax credits 
+           in fund of funds structure.
+Sec. 304. Modification of rules for spillover dividends of regulated 
+           investment companies.
+Sec. 305. Return of capital distributions of regulated investment 
+           companies.
+Sec. 306. Distributions in redemption of stock of a regulated investment 
+           company.
+Sec. 307. Repeal of preferential dividend rule for publicly offered 
+           regulated investment companies.
+Sec. 308. Elective deferral of certain late-year losses of regulated 
+           investment companies.
+Sec. 309. Exception to holding period requirement for certain regularly 
+           declared exempt-interest dividends.
+
+ TITLE IV--MODIFICATIONS RELATED TO EXCISE TAX APPLICABLE TO REGULATED 
+                          INVESTMENT COMPANIES
+
+Sec. 401. Excise tax exemption for certain regulated investment 
+           companies owned by tax exempt entities.
+
+[[Page 124 STAT. 3538]]
+
+Sec. 402. Deferral of certain gains and losses of regulated investment 
+           companies for excise tax purposes.
+Sec. 403. Distributed amount for excise tax purposes determined on basis 
+           of taxes paid by regulated investment company.
+Sec. 404. Increase in required distribution of capital gain net income.
+
+                        TITLE V--OTHER PROVISIONS
+
+Sec. 501. Repeal of assessable penalty with respect to liability for tax 
+           of regulated investment companies.
+Sec. 502. Modification of sales load basis deferral rule for regulated 
+           investment companies.
+
+   TITLE I--CAPITAL LOSS CARRYOVERS OF REGULATED INVESTMENT COMPANIES
+
+SEC. 101. CAPITAL LOSS CARRYOVERS OF REGULATED INVESTMENT 
+                        COMPANIES.
+
+    (a) In General.--Subsection (a) of section 1212 <<NOTE: 26 USC 
+1212.>>  is amended by redesignating paragraph (3) as paragraph (4) and 
+by inserting after paragraph (2) the following new paragraph:
+            ``(3) Regulated investment companies.--
+                    ``(A) In general.--If a regulated investment company 
+                has a net capital loss for any taxable year--
+                          ``(i) paragraph (1) shall not apply to such 
+                      loss,
+                          ``(ii) the excess of the net short-term 
+                      capital loss over the net long-term capital gain 
+                      for such year shall be a short-term capital loss 
+                      arising on the first day of the next taxable year, 
+                      and
+                          ``(iii) the excess of the net long-term 
+                      capital loss over the net short-term capital gain 
+                      for such year shall be a long-term capital loss 
+                      arising on the first day of the next taxable year.
+                    ``(B) Coordination with general rule.--If 
+                a <<NOTE: Applicability.>>  net capital loss to which 
+                paragraph (1) applies is carried over to a taxable year 
+                of a regulated investment company--
+                          ``(i) Losses to which this paragraph 
+                      applies.--Clauses (ii) and (iii) of subparagraph 
+                      (A) shall be applied without regard to any amount 
+                      treated as a short-term capital loss under 
+                      paragraph (1).
+                          ``(ii) Losses to which general rule applies.--
+                      Paragraph (1) shall be applied by substituting 
+                      `net capital loss for the loss year or any taxable 
+                      year thereafter (other than a net capital loss to 
+                      which paragraph (3)(A) applies)' for `net capital 
+                      loss for the loss year or any taxable year 
+                      thereafter'.''.
+
+    (b) Conforming Amendments.--
+            (1) Subparagraph (C) of section 1212(a)(1) is amended to 
+        read as follows:
+                    ``(C) a capital loss carryover to each of the 10 
+                taxable years succeeding the loss year, but only to the 
+                extent such loss is attributable to a foreign 
+                expropriation loss,''.
+            (2) Paragraph (10) of section 1222 is amended by striking 
+        ``section 1212'' and inserting ``section 1212(a)(1)''.
+
+    (c) <<NOTE: 26 USC 1212 note.>>  Effective Date.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        amendments made by this section shall apply to net capital
+
+[[Page 124 STAT. 3539]]
+
+        losses for taxable years beginning after the date of the 
+        enactment of this Act.
+            (2) Coordination rules.--Subparagraph 
+        (B) <<NOTE: Applicability.>>  of section 1212(a)(3) of the 
+        Internal Revenue Code of 1986, as added by this section, shall 
+        apply to taxable years beginning after the date of the enactment 
+        of this Act.
+
+  TITLE II--MODIFICATION OF GROSS INCOME AND ASSET TESTS OF REGULATED 
+                          INVESTMENT COMPANIES
+
+SEC. 201. SAVINGS PROVISIONS FOR FAILURES OF REGULATED INVESTMENT 
+                        COMPANIES TO SATISFY GROSS INCOME AND 
+                        ASSET TESTS.
+
+    (a) Asset Test.--Subsection (d) of section 851 <<NOTE: 26 USC 
+851.>>  is amended--
+            (1) by striking ``A corporation which meets'' and inserting 
+        the following:
+            ``(1) In general.--A corporation which meets'', and
+            (2) by adding at the end the following new paragraph:
+            ``(2) Special rules regarding failure to satisfy 
+        requirements.--If paragraph (1) does not preserve a 
+        corporation's status as a regulated investment company for any 
+        particular quarter--
+                    ``(A) In general.--A corporation that fails to meet 
+                the requirements of subsection (b)(3) (other than a 
+                failure described in subparagraph (B)(i)) for such 
+                quarter shall nevertheless be considered to have 
+                satisfied the requirements of such subsection for such 
+                quarter if--
+                          ``(i) following the corporation's 
+                      identification of the failure to satisfy the 
+                      requirements of such subsection for such quarter, 
+                      a description of each asset that causes the 
+                      corporation to fail to satisfy the requirements of 
+                      such subsection at the close of such quarter is 
+                      set forth in a schedule for such quarter filed in 
+                      the manner provided by the Secretary,
+                          ``(ii) the failure to meet the requirements of 
+                      such subsection for such quarter is due to 
+                      reasonable cause and not due to willful neglect, 
+                      and
+                          ``(iii)(I) <<NOTE: Deadline.>>  the 
+                      corporation disposes of the assets set forth on 
+                      the schedule specified in clause (i) within 6 
+                      months after the last day of the quarter in which 
+                      the corporation's identification of the failure to 
+                      satisfy the requirements of such subsection 
+                      occurred or such other time period prescribed by 
+                      the Secretary and in the manner prescribed by the 
+                      Secretary, or
+                          ``(II) the requirements of such subsection are 
+                      otherwise met within the time period specified in 
+                      subclause (I).
+                    ``(B) Rule for certain de minimis failures.--A 
+                corporation that fails to meet the requirements of 
+                subsection (b)(3) for such quarter shall nevertheless be 
+                considered to have satisfied the requirements of such 
+                subsection for such quarter if--
+
+[[Page 124 STAT. 3540]]
+
+                          ``(i) such failure is due to the ownership of 
+                      assets the total value of which does not exceed 
+                      the lesser of--
+                                    ``(I) 1 percent of the total value 
+                                of the corporation's assets at the end 
+                                of the quarter for which such 
+                                measurement is done, or
+                                    ``(II) $10,000,000, and
+                          ``(ii)(I) <<NOTE: Deadline.>>  the 
+                      corporation, following the identification of such 
+                      failure, disposes of assets in order to meet the 
+                      requirements of such subsection within 6 months 
+                      after the last day of the quarter in which the 
+                      corporation's identification of the failure to 
+                      satisfy the requirements of such subsection 
+                      occurred or such other time period prescribed by 
+                      the Secretary and in the manner prescribed by the 
+                      Secretary, or
+                          ``(II) the requirements of such subsection are 
+                      otherwise met within the time period specified in 
+                      subclause (I).
+                    ``(C) Tax.--
+                          ``(i) Tax imposed.--If subparagraph (A) 
+                      applies to a corporation for any quarter, there is 
+                      hereby imposed on such corporation a tax in an 
+                      amount equal to the greater of--
+                                    ``(I) $50,000, or
+                                    ``(II) the amount determined 
+                                (pursuant to regulations promulgated by 
+                                the Secretary) by multiplying the net 
+                                income generated by the assets described 
+                                in the schedule specified in 
+                                subparagraph (A)(i) for the period 
+                                specified in clause (ii) by the highest 
+                                rate of tax specified in section 11.
+                          ``(ii) Period.--For purposes of clause 
+                      (i)(II), the period described in this clause is 
+                      the period beginning on the first date that the 
+                      failure to satisfy the requirements of subsection 
+                      (b)(3) occurs as a result of the ownership of such 
+                      assets and ending on the earlier of the date on 
+                      which the corporation disposes of such assets or 
+                      the end of the first quarter when there is no 
+                      longer a failure to satisfy such subsection.
+                          ``(iii) Administrative provisions.--For 
+                      purposes of subtitle F, a tax imposed by this 
+                      subparagraph shall be treated as an excise tax 
+                      with respect to which the deficiency procedures of 
+                      such subtitle apply.''.
+
+    (b) Gross Income Test.--Section 851 <<NOTE: 26 USC 851.>>  is 
+amended by adding at the end the following new subsection:
+
+    ``(i) Failure To Satisfy Gross Income Test.--
+            ``(1) Disclosure requirement.--A corporation that fails to 
+        meet the requirement of paragraph (2) of subsection (b) for any 
+        taxable year shall nevertheless be considered to have satisfied 
+        the requirement of such paragraph for such taxable year if--
+                    ``(A) following the corporation's identification of 
+                the failure to meet such requirement for such taxable 
+                year, a description of each item of its gross income 
+                described in such paragraph is set forth in a schedule 
+                for such taxable year filed in the manner provided by 
+                the Secretary, and
+
+[[Page 124 STAT. 3541]]
+
+                    ``(B) the failure to meet such requirement is due to 
+                reasonable cause and not due to willful neglect.
+            ``(2) Imposition of tax on failures.--If paragraph (1) 
+        applies to a regulated investment company for any taxable year, 
+        there is hereby imposed on such company a tax in an amount equal 
+        to the excess of--
+                    ``(A) the gross income of such company which is not 
+                derived from sources referred to in subsection (b)(2), 
+                over
+                    ``(B) \1/9\ of the gross income of such company 
+                which is derived from such sources.''.
+
+    (c) Deduction of Taxes Paid From Investment Company Taxable 
+Income.--Paragraph (2) of section 852(b) <<NOTE: 26 USC 852.>>  is 
+amended by adding at the end the following new subparagraph:
+                    ``(G) There shall be deducted an amount equal to the 
+                tax imposed by subsections (d)(2) and (i) of section 851 
+                for the taxable year.''.
+
+    (d) <<NOTE: 26 USC 851 note.>>  Effective Date.--The amendments made 
+by this section shall apply to taxable years with respect to which the 
+due date (determined with regard to any extensions) of the return of tax 
+for such taxable year is after the date of the enactment of this Act.
+
+    TITLE III--MODIFICATION OF RULES RELATED TO DIVIDENDS AND OTHER 
+                              DISTRIBUTIONS
+
+SEC. 301. MODIFICATION OF DIVIDEND DESIGNATION REQUIREMENTS AND 
+                        ALLOCATION RULES FOR REGULATED INVESTMENT 
+                        COMPANIES.
+
+    (a) Capital Gain Dividends.--
+            (1) In general.--Subparagraph (C) of section 852(b)(3) is 
+        amended to read as follows:
+                    ``(C) Definition of capital gain dividend.--For 
+                purposes of this part--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), a capital gain dividend is any 
+                      dividend, or part thereof, which is reported by 
+                      the company as a capital gain dividend in written 
+                      statements furnished to its shareholders.
+                          ``(ii) Excess reported amounts.--If the 
+                      aggregate reported amount with respect to the 
+                      company for any taxable year exceeds the net 
+                      capital gain of the company for such taxable year, 
+                      a capital gain dividend is the excess of--
+                                    ``(I) the reported capital gain 
+                                dividend amount, over
+                                    ``(II) the excess reported amount 
+                                which is allocable to such reported 
+                                capital gain dividend amount.
+                          ``(iii) Allocation of excess reported 
+                      amount.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), the excess 
+                                reported amount (if any) which is 
+                                allocable to the reported capital gain 
+                                dividend amount is that portion of the 
+                                excess reported amount which bears the 
+                                same ratio to the excess
+
+[[Page 124 STAT. 3542]]
+
+                                reported amount as the reported capital 
+                                gain dividend amount bears to the 
+                                aggregate reported amount.
+                                    ``(II) Special rule for noncalendar 
+                                year taxpayers.--In the 
+                                case <<NOTE: Applicability.>>  of any 
+                                taxable year which does not begin and 
+                                end in the same calendar year, if the 
+                                post-December reported amount equals or 
+                                exceeds the excess reported amount for 
+                                such taxable year, subclause (I) shall 
+                                be applied by substituting `post-
+                                December reported amount' for `aggregate 
+                                reported amount' and no excess reported 
+                                amount shall be allocated to any 
+                                dividend paid on or before December 31 
+                                of such taxable year.
+                          ``(iv) Definitions.--For purposes of this 
+                      subparagraph--
+                                    ``(I) Reported capital gain dividend 
+                                amount.--The term `reported capital gain 
+                                dividend amount' means the amount 
+                                reported to its shareholders under 
+                                clause (i) as a capital gain dividend.
+                                    ``(II) Excess reported amount.--The 
+                                term `excess reported amount' means the 
+                                excess of the aggregate reported amount 
+                                over the net capital gain of the company 
+                                for the taxable year.
+                                    ``(III) Aggregate reported amount.--
+                                The term `aggregate reported amount' 
+                                means the aggregate amount of dividends 
+                                reported by the company under clause (i) 
+                                as capital gain dividends for the 
+                                taxable year (including capital gain 
+                                dividends paid after the close of the 
+                                taxable year described in section 855).
+                                    ``(IV) Post-december reported 
+                                amount.--The term `post-December 
+                                reported amount' means the aggregate 
+                                reported amount determined by taking 
+                                into account only dividends paid after 
+                                December 31 of the taxable year.
+                          ``(v) Adjustment for determinations.--If there 
+                      is an increase in the excess described in 
+                      subparagraph (A) for the taxable year which 
+                      results from a determination (as defined in 
+                      section 860(e)), the company may, subject to the 
+                      limitations of this subparagraph, increase the 
+                      amount of capital gain dividends reported under 
+                      clause (i).
+                          ``(vi) Special rule for losses late in the 
+                      calendar year.--For special rule for certain 
+                      losses after October 31, see paragraph (8).''.
+            (2) Conforming amendment.--Subparagraph (B) of section 
+        860(f)(2) is <<NOTE: 26 USC 860.>>  amended by inserting ``or 
+        reported (as the case may be)'' after ``designated''.
+
+    (b) Exempt-Interest Dividends.--Subparagraph (A) of section 
+852(b)(5) is amended to read as follows:
+                    ``(A) Definition of exempt-interest dividend.--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), an exempt-interest dividend is any 
+                      dividend or part thereof (other than a capital 
+                      gain dividend) paid by a regulated investment 
+                      company and reported by the company as an exempt-
+                      interest dividend in written statements furnished 
+                      to its shareholders.
+
+[[Page 124 STAT. 3543]]
+
+                          ``(ii) Excess reported amounts.--If the 
+                      aggregate reported amount with respect to the 
+                      company for any taxable year exceeds the exempt 
+                      interest of the company for such taxable year, an 
+                      exempt-interest dividend is the excess of--
+                                    ``(I) the reported exempt-interest 
+                                dividend amount, over
+                                    ``(II) the excess reported amount 
+                                which is allocable to such reported 
+                                exempt-interest dividend amount.
+                          ``(iii) Allocation of excess reported 
+                      amount.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), the excess 
+                                reported amount (if any) which is 
+                                allocable to the reported exempt-
+                                interest dividend amount is that portion 
+                                of the excess reported amount which 
+                                bears the same ratio to the excess 
+                                reported amount as the reported exempt-
+                                interest dividend amount bears to the 
+                                aggregate reported amount.
+                                    ``(II) Special rule for noncalendar 
+                                year taxpayers.--In the 
+                                case <<NOTE: Applicability.>>  of any 
+                                taxable year which does not begin and 
+                                end in the same calendar year, if the 
+                                post-December reported amount equals or 
+                                exceeds the excess reported amount for 
+                                such taxable year, subclause (I) shall 
+                                be applied by substituting `post-
+                                December reported amount' for `aggregate 
+                                reported amount' and no excess reported 
+                                amount shall be allocated to any 
+                                dividend paid on or before December 31 
+                                of such taxable year.
+                          ``(iv) Definitions.--For purposes of this 
+                      subparagraph--
+                                    ``(I) Reported exempt-interest 
+                                dividend amount.--The term `reported 
+                                exempt-interest dividend amount' means 
+                                the amount reported to its shareholders 
+                                under clause (i) as an exempt-interest 
+                                dividend.
+                                    ``(II) Excess reported amount.--The 
+                                term `excess reported amount' means the 
+                                excess of the aggregate reported amount 
+                                over the exempt interest of the company 
+                                for the taxable year.
+                                    ``(III) Aggregate reported amount.--
+                                The term `aggregate reported amount' 
+                                means the aggregate amount of dividends 
+                                reported by the company under clause (i) 
+                                as exempt-interest dividends for the 
+                                taxable year (including exempt-interest 
+                                dividends paid after the close of the 
+                                taxable year described in section 855).
+                                    ``(IV) Post-december reported 
+                                amount.--The term `post-December 
+                                reported amount' means the aggregate 
+                                reported amount determined by taking 
+                                into account only dividends paid after 
+                                December 31 of the taxable year.
+                                    ``(V) Exempt interest.--The term 
+                                `exempt interest' means, with respect to 
+                                any regulated investment company, the 
+                                excess of the amount of interest 
+                                excludable from gross income under
+
+[[Page 124 STAT. 3544]]
+
+                                section 103(a) over the amounts 
+                                disallowed as deductions under sections 
+                                265 and 171(a)(2).''.
+
+    (c) Foreign Tax Credits.--
+            (1) In general.--Subsection (c) of section 853 <<NOTE: 26 
+        USC 853.>>  is amended--
+                    (A) by striking ``so designated by the company in a 
+                written notice mailed to its shareholders not later than 
+                60 days after the close of the taxable year'' and 
+                inserting ``so reported by the company in a written 
+                statement furnished to such shareholder'', and
+                    (B) by striking ``Notice'' in the heading and 
+                inserting ``Statements''.
+            (2) Conforming amendments.--Subsection (d) of section 853 is 
+        amended--
+                    (A) by striking ``and the notice to shareholders 
+                required by subsection (c)'' in the text thereof, and
+                    (B) by striking ``and Notifying Shareholders'' in 
+                the heading thereof.
+
+    (d) Credits for Tax Credit Bonds.--
+            (1) In general.--Subsection (c) of section 853A is amended--
+                    (A) by striking ``so designated by the regulated 
+                investment company in a written notice mailed to its 
+                shareholders not later than 60 days after the close of 
+                its taxable year'' and inserting ``so reported by the 
+                regulated investment company in a written statement 
+                furnished to such shareholder'', and
+                    (B) by striking ``Notice'' in the heading and 
+                inserting ``Statements''.
+            (2) Conforming amendments.--Subsection (d) of section 853A 
+        is amended--
+                    (A) by striking ``and the notice to shareholders 
+                required by subsection (c)'' in the text thereof, and
+                    (B) by striking ``and Notifying Shareholders'' in 
+                the heading thereof.
+
+    (e) Dividend Received Deduction, etc.--
+            (1) In general.--Paragraph (1) of section 854(b) is 
+        amended--
+                    (A) by striking ``designated under this subparagraph 
+                by the regulated investment company'' in subparagraph 
+                (A) and inserting ``reported by the regulated investment 
+                company as eligible for such deduction in written 
+                statements furnished to its shareholders'',
+                    (B) by striking ``designated by the regulated 
+                investment company'' in subparagraph (B)(i) and 
+                inserting ``reported by the regulated investment company 
+                as qualified dividend income in written statements 
+                furnished to its shareholders'',
+                    (C) by striking ``designated'' in subparagraph 
+                (C)(i) and inserting ``reported'', and
+                    (D) by striking ``designated'' in subparagraph 
+                (C)(ii) and inserting ``reported''.
+            (2) Conforming amendments.--Subsection (b) of section 854 is 
+        amended by striking paragraph (2) and by redesignating 
+        paragraphs (3), (4), and (5), as paragraphs (2), (3), and (4), 
+        respectively.
+
+    (f) Dividends Paid to Certain Foreign Persons.--
+
+[[Page 124 STAT. 3545]]
+
+            (1) Interest-related dividends.--Subparagraph (C) of section 
+        871(k)(1) is <<NOTE: 26 USC 871.>>  amended by striking all that 
+        precedes ``any taxable year of the company beginning'' and 
+        inserting the following:
+                    ``(C) Interest-related dividend.--For purposes of 
+                this paragraph--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), an interest related dividend is any 
+                      dividend, or part thereof, which is reported by 
+                      the company as an interest related dividend in 
+                      written statements furnished to its shareholders.
+                          ``(ii) Excess reported amounts.--If the 
+                      aggregate reported amount with respect to the 
+                      company for any taxable year exceeds the qualified 
+                      net interest income of the company for such 
+                      taxable year, an interest related dividend is the 
+                      excess of--
+                                    ``(I) the reported interest related 
+                                dividend amount, over
+                                    ``(II) the excess reported amount 
+                                which is allocable to such reported 
+                                interest related dividend amount.
+                          ``(iii) Allocation of excess reported 
+                      amount.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), the excess 
+                                reported amount (if any) which is 
+                                allocable to the reported interest 
+                                related dividend amount is that portion 
+                                of the excess reported amount which 
+                                bears the same ratio to the excess 
+                                reported amount as the reported interest 
+                                related dividend amount bears to the 
+                                aggregate reported amount.
+                                    ``(II) Special rule for noncalendar 
+                                year taxpayers.--In the 
+                                case <<NOTE: Applicability.>>  of any 
+                                taxable year which does not begin and 
+                                end in the same calendar year, if the 
+                                post-December reported amount equals or 
+                                exceeds the excess reported amount for 
+                                such taxable year, subclause (I) shall 
+                                be applied by substituting `post-
+                                December reported amount' for `aggregate 
+                                reported amount' and no excess reported 
+                                amount shall be allocated to any 
+                                dividend paid on or before December 31 
+                                of such taxable year.
+                          ``(iv) Definitions.--For purposes of this 
+                      subparagraph--
+                                    ``(I) Reported interest related 
+                                dividend amount.--The term `reported 
+                                interest related dividend amount' means 
+                                the amount reported to its shareholders 
+                                under clause (i) as an interest related 
+                                dividend.
+                                    ``(II) Excess reported amount.--The 
+                                term `excess reported amount' means the 
+                                excess of the aggregate reported amount 
+                                over the qualified net interest income 
+                                of the company for the taxable year.
+                                    ``(III) Aggregate reported amount.--
+                                The term `aggregate reported amount' 
+                                means the aggregate amount of dividends 
+                                reported by the company under clause (i) 
+                                as interest related dividends for
+
+[[Page 124 STAT. 3546]]
+
+                                the taxable year (including interest 
+                                related dividends paid after the close 
+                                of the taxable year described in section 
+                                855).
+                                    ``(IV) Post-december reported 
+                                amount.--The term `post-December 
+                                reported amount' means the aggregate 
+                                reported amount determined by taking 
+                                into account only dividends paid after 
+                                December 31 of the taxable year.
+                          ``(v) Termination.--The term `interest related 
+                      dividend' shall not include any dividend with 
+                      respect to''.
+            (2) Short-term capital gain dividends.--Subparagraph (C) of 
+        section 871(k)(2) <<NOTE: 26 USC 871.>>  is amended by striking 
+        all that precedes ``any taxable year of the company beginning'' 
+        and inserting the following:
+                    ``(C) <<NOTE: Definitions.>>  Short-term capital 
+                gain dividend.--For purposes of this paragraph--
+                          ``(i) In general.--Except as provided in 
+                      clause (ii), the term `short-term capital gain 
+                      dividend' means any dividend, or part thereof, 
+                      which is reported by the company as a short-term 
+                      capital gain dividend in written statements 
+                      furnished to its shareholders.
+                          ``(ii) Excess reported amounts.--If the 
+                      aggregate reported amount with respect to the 
+                      company for any taxable year exceeds the qualified 
+                      short-term gain of the company for such taxable 
+                      year, the term `short-term capital gain dividend' 
+                      means the excess of--
+                                    ``(I) the reported short-term 
+                                capital gain dividend amount, over
+                                    ``(II) the excess reported amount 
+                                which is allocable to such reported 
+                                short-term capital gain dividend amount.
+                          ``(iii) Allocation of excess reported 
+                      amount.--
+                                    ``(I) In general.--Except as 
+                                provided in subclause (II), the excess 
+                                reported amount (if any) which is 
+                                allocable to the reported short-term 
+                                capital gain dividend amount is that 
+                                portion of the excess reported amount 
+                                which bears the same ratio to the excess 
+                                reported amount as the reported short-
+                                term capital gain dividend amount bears 
+                                to the aggregate reported amount.
+                                    ``(II) Special rule for noncalendar 
+                                year taxpayers.--In the 
+                                case <<NOTE: Applicability.>>  of any 
+                                taxable year which does not begin and 
+                                end in the same calendar year, if the 
+                                post-December reported amount equals or 
+                                exceeds the excess reported amount for 
+                                such taxable year, subclause (I) shall 
+                                be applied by substituting `post-
+                                December reported amount' for `aggregate 
+                                reported amount' and no excess reported 
+                                amount shall be allocated to any 
+                                dividend paid on or before December 31 
+                                of such taxable year.
+                          ``(iv) Definitions.--For purposes of this 
+                      subparagraph--
+                                    ``(I) Reported short-term capital 
+                                gain dividend amount.--The term 
+                                `reported short-term capital gain 
+                                dividend amount' means the amount 
+                                reported to its shareholders under 
+                                clause (i) as a short-term capital gain 
+                                dividend.
+
+[[Page 124 STAT. 3547]]
+
+                                    ``(II) Excess reported amount.--The 
+                                term `excess reported amount' means the 
+                                excess of the aggregate reported amount 
+                                over the qualified short-term gain of 
+                                the company for the taxable year.
+                                    ``(III) Aggregate reported amount.--
+                                The term `aggregate reported amount' 
+                                means the aggregate amount of dividends 
+                                reported by the company under clause (i) 
+                                as short-term capital gain dividends for 
+                                the taxable year (including short-term 
+                                capital gain dividends paid after the 
+                                close of the taxable year described in 
+                                section 855).
+                                    ``(IV) Post-december reported 
+                                amount.--The term `post-December 
+                                reported amount' means the aggregate 
+                                reported amount determined by taking 
+                                into account only dividends paid after 
+                                December 31 of the taxable year.
+                          ``(v) Termination.--The term `short-term 
+                      capital gain dividend' shall not include any 
+                      dividend with respect to''.
+
+    (g) Conforming Amendments.--Section 855 <<NOTE: 26 USC 855.>>  is 
+amended--
+            (1) by striking subsection (c) and redesignating subsection 
+        (d) as subsection (c), and
+            (2) by striking ``, (c) and (d)'' in subsection (a) and 
+        inserting ``and (c)''.
+
+    (h) <<NOTE: 26 USC 852 note.>>  Effective Date.--The amendments made 
+by this section shall apply to taxable years beginning after the date of 
+the enactment of this Act.
+
+    (i) Application of JGTRRA Sunset.--Section 303 of the Jobs and 
+Growth Tax Relief Reconciliation Act of 2003 <<NOTE: 26 USC 854 note.>>  
+shall apply to the amendments made by subparagraphs (B) and (D) of 
+subsection (e)(1) to the same extent and in the same manner as section 
+303 of such Act applies to the amendments made by section 302 of such 
+Act.
+SEC. 302. EARNINGS AND PROFITS OF REGULATED INVESTMENT COMPANIES.
+
+    (a) In General.--Paragraph (1) of section 852(c) is amended to read 
+as follows:
+            ``(1) Treatment of nondeductible items.--
+                    ``(A) Net capital loss.--If a regulated investment 
+                company has a net capital loss for any taxable year--
+                          ``(i) such net capital loss shall not be taken 
+                      into account for purposes of determining the 
+                      company's earnings and profits, and
+                          ``(ii) any capital loss arising on the first 
+                      day of the next taxable year by reason of clause 
+                      (ii) or (iii) of section 1212(a)(3)(A) shall be 
+                      treated as so arising for purposes of determining 
+                      earnings and profits.
+                    ``(B) Other nondeductible items.--
+                          ``(i) In general.--The earnings and profits of 
+                      a regulated investment company for any taxable 
+                      year (but not its accumulated earnings and 
+                      profits) shall not be reduced by any amount which 
+                      is not allowable as a deduction (other than by 
+                      reason of section 265 or 171(a)(2)) in computing 
+                      its taxable income for such taxable year.
+
+[[Page 124 STAT. 3548]]
+
+                          ``(ii) Coordination with treatment of net 
+                      capital losses.--Clause (i) shall not apply to a 
+                      net capital loss to which subparagraph (A) 
+                      applies.''.
+
+    (b) Conforming Amendments.--
+            (1) Subsection (c) of section 852 <<NOTE: 26 USC 852.>>  is 
+        amended by adding at the end the following new paragraph:
+            ``(4) Regulated investment company.--For purposes of this 
+        subsection, the term `regulated investment company' includes a 
+        domestic corporation which is a regulated investment company 
+        determined without regard to the requirements of subsection 
+        (a).''.
+            (2) Paragraphs (1)(A) and (2)(A) of section 871(k) are each 
+        amended by inserting ``which meets the requirements of section 
+        852(a) for the taxable year with respect to which the dividend 
+        is paid'' before the period at the end.
+
+    (c) <<NOTE: 26 USC 852 note.>>  Effective Date.--The amendments made 
+by this section shall apply to taxable years beginning after the date of 
+the enactment of this Act.
+SEC. 303. PASS-THRU OF EXEMPT-INTEREST DIVIDENDS AND FOREIGN TAX 
+                        CREDITS IN FUND OF FUNDS STRUCTURE.
+
+    (a) In General.--Section 852 is amended by adding at the end the 
+following new subsection:
+    ``(g) Special Rules for Fund of Funds.--
+            ``(1) In general.--In the case of a qualified fund of 
+        funds--
+                    ``(A) such fund shall be qualified to pay exempt-
+                interest dividends to its shareholders without regard to 
+                whether such fund satisfies the requirements of the 
+                first sentence of subsection (b)(5), and
+                    ``(B) such fund may elect the application of section 
+                853 (relating to foreign tax credit allowed to 
+                shareholders) without regard to the requirement of 
+                subsection (a)(1) thereof.
+            ``(2) Qualified fund of funds.--For purposes of this 
+        subsection, the term `qualified fund of funds' means a regulated 
+        investment company if (at the close of each quarter of the 
+        taxable year) at least 50 percent of the value of its total 
+        assets is represented by interests in other regulated investment 
+        companies.''.
+
+    (b) <<NOTE: 26 USC 852 note.>>  Effective Date.--The amendment made 
+by this section shall apply to taxable years beginning after the date of 
+the enactment of this Act.
+SEC. 304. MODIFICATION OF RULES FOR SPILLOVER DIVIDENDS OF 
+                        REGULATED INVESTMENT COMPANIES.
+
+    (a) Deadline for Declaration of Dividend.--Paragraph (1) of section 
+855(a) is amended to read as follows:
+            ``(1) declares a dividend before the later of--
+                    ``(A) the 15th day of the 9th month following the 
+                close of the taxable year, or
+                    ``(B) in the case of an extension of time for filing 
+                the company's return for the taxable year, the due date 
+                for filing such return taking into account such 
+                extension, and''.
+
+    (b) Deadline for Distribution of Dividend.--Paragraph (2) of section 
+855(a) is amended by striking ``the first regular dividend payment'' and 
+inserting ``the first dividend payment of the same type of dividend''.
+
+[[Page 124 STAT. 3549]]
+
+    (c) Short-term Capital Gain.--Subsection (a) <<NOTE: 26 USC 855.>>  
+of section 855 is amended by adding at the end the following: ``For 
+purposes of paragraph (2), a dividend attributable to any short-term 
+capital gain with respect to which a notice is required under the 
+Investment Company Act of 1940 shall be treated as the same type of 
+dividend as a capital gain dividend.''.
+
+    (d) <<NOTE: 26 USC 855 note.>>  Effective Date.--The amendments made 
+by this section shall apply to distributions in taxable years beginning 
+after the date of the enactment of this Act.
+SEC. 305. RETURN OF CAPITAL DISTRIBUTIONS OF REGULATED INVESTMENT 
+                        COMPANIES.
+
+    (a) In General.--Subsection (b) of section 316 is amended by adding 
+at the end the following new paragraph:
+            ``(4) Certain distributions by regulated investment 
+        companies in excess of earnings and profits.--In the case of a 
+        regulated investment company that has a taxable year other than 
+        a calendar year, if the distributions by the company with 
+        respect to any class of stock of such company for the taxable 
+        year exceed the company's current and accumulated earnings and 
+        profits which may be used for the payment of dividends on such 
+        class of stock, the company's current earnings and profits 
+        shall, for purposes of subsection (a), be allocated first to 
+        distributions with respect to such class of stock made during 
+        the portion of the taxable year which precedes January 1.''.
+
+    (b) <<NOTE: 26 USC 316 note.>>  Effective Date.--The amendment made 
+by this section shall apply to distributions made in taxable years 
+beginning after the date of the enactment of this Act.
+SEC. 306. DISTRIBUTIONS IN REDEMPTION OF STOCK OF A REGULATED 
+                        INVESTMENT COMPANY.
+
+    (a) Redemptions Treated as Exchanges.--
+            (1) In general.--Subsection (b) of section 302 is amended by 
+        redesignating paragraph (5) as paragraph (6) and by inserting 
+        after paragraph (4) the following new paragraph:
+            ``(5) Redemptions by certain regulated investment 
+        companies.--Except to the extent provided in regulations 
+        prescribed by the Secretary, subsection (a) shall apply to any 
+        distribution in redemption of stock of a publicly offered 
+        regulated investment company (within the meaning of section 
+        67(c)(2)(B)) if--
+                    ``(A) such redemption is upon the demand of the 
+                stockholder, and
+                    ``(B) such company issues only stock which is 
+                redeemable upon the demand of the stockholder.''.
+            (2) Conforming amendment.--Subsection (a) of section 302 is 
+        amended by striking ``or (4)'' and inserting ``(4), or (5)''.
+
+    (b) <<NOTE: 26 USC 267 note.>>  Losses on Redemptions Not Disallowed 
+for Fund-of-funds Regulated Investment Companies.--Paragraph (3) of 
+section 267(f) is amended by adding at the end the following new 
+subparagraph:
+                    ``(D) Redemptions by fund-of-funds regulated 
+                investment companies.--Except to the extent provided in 
+                regulations prescribed by the Secretary, subsection 
+                (a)(1) shall not apply to any distribution in redemption 
+                of stock of a regulated investment company if--
+
+[[Page 124 STAT. 3550]]
+
+                          ``(i) such company issues only stock which is 
+                      redeemable upon the demand of the stockholder, and
+                          ``(ii) such redemption is upon the demand of 
+                      another regulated investment company.''.
+
+    (c) <<NOTE: 26 USC 267 note.>>  Effective Date.--The amendments made 
+by this section shall apply to distributions after the date of the 
+enactment of this Act.
+SEC. 307. REPEAL OF PREFERENTIAL DIVIDEND RULE FOR PUBLICLY 
+                        OFFERED REGULATED INVESTMENT COMPANIES.
+
+    (a) In General.--Subsection (c) of section 562 is amended by 
+striking ``The amount'' and inserting ``Except in the case of a publicly 
+offered regulated investment company (as defined in section 
+67(c)(2)(B)), the amount''.
+    (b) Conforming Amendment.--Section 562(c) is amended by inserting 
+``(other than a publicly offered regulated investment company (as so 
+defined))'' after ``regulated investment company'' in the second 
+sentence thereof.
+    (c) <<NOTE: 26 USC 562 note.>>  Effective Date.--The amendments made 
+by this section shall apply to distributions in taxable years beginning 
+after the date of the enactment of this Act.
+SEC. 308. ELECTIVE DEFERRAL OF CERTAIN LATE-YEAR LOSSES OF 
+                        REGULATED INVESTMENT COMPANIES.
+
+    (a) In General.--Paragraph (8) of section 852(b) is amended to read 
+as follows:
+            ``(8) Elective deferral of certain late-year losses.--
+                    ``(A) In general.--Except as otherwise provided by 
+                the Secretary, a regulated investment company may elect 
+                for any taxable year to treat any portion of any 
+                qualified late-year loss for such taxable year as 
+                arising on the first day of the following taxable year 
+                for purposes of this title.
+                    ``(B) Qualified late-year loss.--For purposes of 
+                this paragraph, the term `qualified late-year loss' 
+                means--
+                          ``(i) any post-October capital loss, and
+                          ``(ii) any late-year ordinary loss.
+                    ``(C) Post-october capital loss.--For purposes of 
+                this paragraph, the term `post-October capital loss' 
+                means the greatest of--
+                          ``(i) the net capital loss attributable to the 
+                      portion of the taxable year after October 31,
+                          ``(ii) the net long-term capital loss 
+                      attributable to such portion of the taxable year, 
+                      or
+                          ``(iii) the net short-term capital loss 
+                      attributable to such portion of the taxable year.
+                    ``(D) Late-year ordinary loss.--For purposes of this 
+                paragraph, the term `late-year ordinary loss' means the 
+                excess (if any) of--
+                          ``(i) the sum of--
+                                    ``(I) the specified losses (as 
+                                defined in section 4982(e)(5)(B)(ii)) 
+                                attributable to the portion of the 
+                                taxable year after October 31, plus
+                                    ``(II) the ordinary losses not 
+                                described in subclause (I) attributable 
+                                to the portion of the taxable year after 
+                                December 31, over
+                          ``(ii) the sum of--
+
+[[Page 124 STAT. 3551]]
+
+                                    ``(I) the specified gains (as 
+                                defined in section 4982(e)(5)(B)(i)) 
+                                attributable to the portion of the 
+                                taxable year after October 31, plus
+                                    ``(II) the ordinary income not 
+                                described in subclause (I) attributable 
+                                to the portion of the taxable year after 
+                                December 31.
+                    ``(E) Special rule for companies determining 
+                required capital gain distributions on taxable year 
+                basis.--In the case of a company to which an election 
+                under section 4982(e)(4) applies--
+                          ``(i) if such company's taxable year ends with 
+                      the month of November, the amount of qualified 
+                      late-year losses (if any) shall be computed 
+                      without regard to any income, gain, or loss 
+                      described in subparagraphs (C), (D)(i)(I), and 
+                      (D)(ii)(I), and
+                          ``(ii) if such company's taxable year ends 
+                      with the month of December, subparagraph (A) shall 
+                      not apply.''.
+
+    (b) Conforming Amendments.--
+            (1) Subsection (b) of section 852 <<NOTE: 26 USC 852.>>  is 
+        amended by striking paragraph (10).
+            (2) Paragraph (2) of section 852(c) is amended by striking 
+        the first sentence and inserting the following: ``For purposes 
+        of applying this chapter to distributions made by a regulated 
+        investment company with respect to any calendar year, the 
+        earnings and profits of such company shall be determined without 
+        regard to any net capital loss attributable to the portion of 
+        the taxable year after October 31 and without regard to any 
+        late-year ordinary loss (as defined in subsection (b)(8)(D)).''
+            (3) Subparagraph (D) of section 871(k)(2) is amended by 
+        striking the last two sentences and inserting the following: 
+        ``For purposes of this subparagraph, the net short-term capital 
+        gain of the regulated investment company shall be computed by 
+        treating any short-term capital gain dividend includible in 
+        gross income with respect to stock of another regulated 
+        investment company as a short-term capital gain.''.
+
+    (c) <<NOTE: 26 USC 852 note.>>  Effective Date.--The amendments made 
+by this section shall apply to taxable years beginning after the date of 
+the enactment of this Act.
+SEC. 309. EXCEPTION TO HOLDING PERIOD REQUIREMENT FOR CERTAIN 
+                        REGULARLY DECLARED EXEMPT-INTEREST 
+                        DIVIDENDS.
+
+    (a) In General.--Subparagraph (E) of section 852(b)(4) is amended by 
+striking all that precedes ``In the case of a regulated investment 
+company'' and inserting the following:
+                    ``(E) Exception to holding period requirement for 
+                certain regularly declared exempt-interest dividends.--
+                          ``(i) Daily dividend companies.--Except as 
+                      otherwise provided by regulations, subparagraph 
+                      (B) shall not apply with respect to a regular 
+                      dividend paid by a regulated investment company 
+                      which declares exempt-interest dividends on a 
+                      daily basis in an amount equal to at least 90 
+                      percent of its net tax-exempt interest and 
+                      distributes such dividends on a monthly or more 
+                      frequent basis.
+
+[[Page 124 STAT. 3552]]
+
+                          ``(ii) Authority to shorten required holding 
+                      period with respect to other companies.--''.
+
+    (b) Conforming Amendment.--Clause (ii) of section 852(b)(4)(E), as 
+amended by subsection (a), <<NOTE: 26 USC 852.>>  is amended by 
+inserting ``(other than a company described in clause (i))'' after 
+``regulated investment company''.
+
+    (c) <<NOTE: 26 USC 852 note.>>  Effective Date.--The amendments made 
+by this section shall apply to losses incurred on shares of stock for 
+which the taxpayer's holding period begins after the date of the 
+enactment of this Act.
+
+ TITLE IV--MODIFICATIONS RELATED TO EXCISE TAX APPLICABLE TO REGULATED 
+                          INVESTMENT COMPANIES
+
+SEC. 401. EXCISE TAX EXEMPTION FOR CERTAIN REGULATED INVESTMENT 
+                        COMPANIES OWNED BY TAX EXEMPT ENTITIES.
+
+    (a) In General.--Subsection (f) of section 4982 is amended--
+            (1) by striking ``either'' in the matter preceding paragraph 
+        (1),
+            (2) by striking ``or'' at the end of paragraph (1),
+            (3) by striking the period at the end of paragraph (2), and
+            (4) by inserting after paragraph (2) the following new 
+        paragraphs:
+            ``(3) any other tax-exempt entity whose ownership of 
+        beneficial interests in the company would not preclude the 
+        application of section 817(h)(4), or
+            ``(4) another regulated investment company described in this 
+        subsection.''.
+
+    (b) <<NOTE: 26 USC 4982 note.>>  Effective Date.--The amendment made 
+by this section shall apply to calendar years beginning after the date 
+of the enactment of this Act.
+SEC. 402. DEFERRAL OF CERTAIN GAINS AND LOSSES OF REGULATED 
+                        INVESTMENT COMPANIES FOR EXCISE TAX 
+                        PURPOSES.
+
+    (a) In General.--Subsection (e) of section 4982 is amended by 
+striking paragraphs (5) and (6) and inserting the following new 
+paragraphs:
+            ``(5) Treatment of specified gains and losses after october 
+        31 of calendar year.--
+                    ``(A) In general.--Any specified gain or specified 
+                loss which (but for this paragraph) would be properly 
+                taken into account for the portion of the calendar year 
+                after October 31 shall be treated as arising on January 
+                1 of the following calendar year.
+                    ``(B) Specified gains and losses.--For purposes of 
+                this paragraph--
+                          ``(i) Specified gain.--The term `specified 
+                      gain' means ordinary gain from the sale, exchange, 
+                      or other disposition of property (including the 
+                      termination of a position with respect to such 
+                      property). Such term shall include any foreign 
+                      currency gain attributable to a section 988 
+                      transaction (within the meaning of
+
+[[Page 124 STAT. 3553]]
+
+                      section 988) and any amount includible in gross 
+                      income under section 1296(a)(1).
+                          ``(ii) Specified loss.--The term `specified 
+                      loss' means ordinary loss from the sale, exchange, 
+                      or other disposition of property (including the 
+                      termination of a position with respect to such 
+                      property). Such term shall include any foreign 
+                      currency loss attributable to a section 988 
+                      transaction (within the meaning of section 988) 
+                      and any amount allowable as a deduction under 
+                      section 1296(a)(2).
+                    ``(C) Special rule for companies electing to use the 
+                taxable year.--In the case of any company making an 
+                election under paragraph (4), subparagraph (A) shall be 
+                applied by substituting the last day of the company's 
+                taxable year for October 31.
+            ``(6) Treatment of mark to market gain.--
+                    ``(A) In general.--For purposes of determining a 
+                regulated investment company's ordinary income, 
+                notwithstanding paragraph (1)(C), each specified mark to 
+                market provision shall be applied as if such company's 
+                taxable year ended on October 31. In the case of a 
+                company making an election under paragraph (4), the 
+                preceding sentence shall be applied by substituting the 
+                last day of the company's taxable year for October 31.
+                    ``(B) Specified mark to market provision.--For 
+                purposes of this paragraph, the term `specified mark to 
+                market provision' means sections 1256 and 1296 and any 
+                other provision of this title (or regulations 
+                thereunder) which treats property as disposed of on the 
+                last day of the taxable year.
+            ``(7) Elective deferral of certain ordinary losses.--Except 
+        as provided in regulations prescribed by the Secretary, in the 
+        case of a regulated investment company which has a taxable year 
+        other than the calendar year--
+                    ``(A) such company may elect to determine its 
+                ordinary income for the calendar year without regard to 
+                any net ordinary loss (determined without regard to 
+                specified gains and losses taken into account under 
+                paragraph (5)) which is attributable to the portion of 
+                such calendar year which is after the beginning of the 
+                taxable year which begins in such calendar year, and
+                    ``(B) any amount of net ordinary loss not taken into 
+                account for a calendar year by reason of subparagraph 
+                (A) shall be treated as arising on the 1st day of the 
+                following calendar year.''.
+
+    (b) <<NOTE: 26 USC 4982 note.>>  Effective Date.--The amendments 
+made by this section shall apply to calendar years beginning after the 
+date of the enactment of this Act.
+SEC. 403. DISTRIBUTED AMOUNT FOR EXCISE TAX PURPOSES DETERMINED ON 
+                        BASIS OF TAXES PAID BY REGULATED 
+                        INVESTMENT COMPANY.
+
+    (a) In General.--Subsection (c) of section 4982 <<NOTE: 26 USC 
+4982.>>  is amended by adding at the end the following new paragraph:
+            ``(4) Special rule for estimated tax payments.--
+
+[[Page 124 STAT. 3554]]
+
+                    ``(A) In general.--In the case of a regulated 
+                investment company which elects the application of this 
+                paragraph for any calendar year--
+                          ``(i) the distributed amount with respect to 
+                      such company for such calendar year shall be 
+                      increased by the amount on which qualified 
+                      estimated tax payments are made by such company 
+                      during such calendar year, and
+                          ``(ii) the distributed amount with respect to 
+                      such company for the following calendar year shall 
+                      be reduced by the amount of such increase.
+                    ``(B) Qualified estimated tax payments.--For 
+                purposes of this paragraph, the term `qualified 
+                estimated tax payments' means, with respect to any 
+                calendar year, payments of estimated tax of a tax 
+                described in paragraph (1)(B) for any taxable year which 
+                begins (but does not end) in such calendar year.''.
+
+    (b) <<NOTE: 26 USC 4982 note.>>  Effective Date.--The amendment made 
+by this section shall apply to calendar years beginning after the date 
+of the enactment of this Act.
+SEC. 404. INCREASE IN REQUIRED DISTRIBUTION OF CAPITAL GAIN NET 
+                        INCOME.
+
+    (a) In General.--Subparagraph (B) of section 4982(b)(1) <<NOTE: 26 
+USC 4982.>>  is amended by striking ``98 percent'' and inserting ``98.2 
+percent''.
+
+    (b) <<NOTE: 26 USC 4982 note.>>  Effective Date.--The amendments 
+made by this section shall apply to calendar years beginning after the 
+date of the enactment of this Act.
+
+                        TITLE V--OTHER PROVISIONS
+
+SEC. 501. REPEAL OF ASSESSABLE PENALTY WITH RESPECT TO LIABILITY 
+                        FOR TAX OF REGULATED INVESTMENT COMPANIES.
+
+    (a) In General.--Part I of subchapter B of chapter 68 is amended by 
+striking section 6697 (and by striking the item relating to such section 
+in the table of sections of such part).
+    (b) Conforming Amendment.--Section 860 is amended by striking 
+subsection (j).
+    (c) <<NOTE: 26 USC 860 note.>>  Effective Date.--The amendments made 
+by this section shall apply to taxable years beginning after the date of 
+the enactment of this Act.
+SEC. 502. MODIFICATION OF SALES LOAD BASIS DEFERRAL RULE FOR 
+                        REGULATED INVESTMENT COMPANIES.
+
+    (a) In General.--Subparagraph (C) of section 852(f)(1) is amended by 
+striking ``subsequently acquires'' and inserting ``acquires, during the 
+period beginning on the date of the disposition referred to in 
+subparagraph (B) and ending on January 31 of the calendar year following 
+the calendar year that includes the date of such disposition,''.
+
+[[Page 124 STAT. 3555]]
+
+    (b) <<NOTE: 26 USC 852 note.>>  Effective Date.--The amendment made 
+by this section shall apply to charges incurred in taxable years 
+beginning after the date of the enactment of this Act.
+
+    Approved December 22, 2010.
+
+LEGISLATIVE HISTORY--H.R. 4337:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 156 (2010):
+            Sept. 28, considered and passed House.
+            Dec. 8, considered and passed Senate, amended.
+            Dec. 15, House concurred in Senate amendment.
+
+                                  
+

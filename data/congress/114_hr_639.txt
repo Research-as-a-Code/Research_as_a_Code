@@ -1,0 +1,332 @@
+
+[114th Congress Public Law 89]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 697]]
+
+     IMPROVING REGULATORY TRANSPARENCY FOR NEW MEDICAL THERAPIES ACT
+
+[[Page 129 STAT. 698]]
+
+Public Law 114-89
+114th Congress
+
+                                 An Act
+
+
+ 
+ To amend the Controlled Substances Act with respect to drug scheduling 
+recommendations by the Secretary of Health and Human Services, and with 
+  respect to registration of manufacturers and distributors seeking to 
+    conduct clinical testing. <<NOTE: Nov. 25, 2015 -  [H.R. 639]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Improving 
+Regulatory Transparency for New Medical Therapies Act.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Improving Regulatory Transparency for 
+New Medical Therapies Act''.
+SEC. 2. SCHEDULING OF SUBSTANCES INCLUDED IN NEW FDA-APPROVED 
+                    DRUGS.
+
+    (a) Effective Date of Approval.--
+            (1) Effective date of drug approval.--Section 505 of the 
+        Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) is amended 
+        by adding at the end the following:
+
+    ``(x) Date of Approval in the Case of Recommended Controls Under the 
+CSA.--
+            ``(1) In general.--In the case of an application under 
+        subsection (b) with respect to a drug for which the Secretary 
+        provides notice to the sponsor that the Secretary intends to 
+        issue a scientific and medical evaluation and recommend controls 
+        under the Controlled Substances Act, approval of such 
+        application shall not take effect until the interim final rule 
+        controlling the drug is issued in accordance with section 201(j) 
+        of the Controlled Substances Act.
+            ``(2) <<NOTE: Definition.>>  Date of approval.--For purposes 
+        of this section, with respect to an application described in 
+        paragraph (1), the term `date of approval' shall mean the later 
+        of--
+                    ``(A) the date an application under subsection (b) 
+                is approved under subsection (c); or
+                    ``(B) the date of issuance of the interim final rule 
+                controlling the drug.''.
+            (2) Effective date of approval of biological products.--
+        Section 351 of the Public Health Service Act (42 U.S.C. 262) is 
+        amended by adding at the end the following:
+
+    ``(n) Date of Approval in the Case of Recommended Controls Under the 
+CSA.--
+            ``(1) In general.--In the case of an application under 
+        subsection (a) with respect to a biological product for which 
+        the Secretary provides notice to the sponsor that the Secretary 
+        intends to issue a scientific and medical evaluation and 
+        recommend controls under the Controlled Substances Act, approval
+
+[[Page 129 STAT. 699]]
+
+        of such application shall not take effect until the interim 
+        final rule controlling the biological product is issued in 
+        accordance with section 201(j) of the Controlled Substances Act.
+            ``(2) <<NOTE: Definition.>>  Date of approval.--For purposes 
+        of this section, with respect to an application described in 
+        paragraph (1), references to the date of approval of such 
+        application, or licensure of the product subject to such 
+        application, shall mean the later of--
+                    ``(A) the date an application is approved under 
+                subsection (a); or
+                    ``(B) the date of issuance of the interim final rule 
+                controlling the biological product.''.
+            (3) Effective date of approval of animal drugs.--
+                    (A) In general.--Section 512 of the Federal Food, 
+                Drug, and Cosmetic Act (21 U.S.C. 360b) is amended by 
+                adding at the end the following:
+
+    ``(q) Date of Approval in the Case of Recommended Controls Under the 
+CSA.--
+            ``(1) In general.--In the case of an application under 
+        subsection (b) with respect to a drug for which the Secretary 
+        provides notice to the sponsor that the Secretary intends to 
+        issue a scientific and medical evaluation and recommend controls 
+        under the Controlled Substances Act, approval of such 
+        application shall not take effect until the interim final rule 
+        controlling the drug is issued in accordance with section 201(j) 
+        of the Controlled Substances Act.
+            ``(2) <<NOTE: Definition.>>  Date of approval.--For purposes 
+        of this section, with respect to an application described in 
+        paragraph (1), the term `date of approval' shall mean the later 
+        of--
+                    ``(A) the date an application under subsection (b) 
+                is approved under subsection (c); or
+                    ``(B) the date of issuance of the interim final rule 
+                controlling the drug.''.
+                    (B) Conditional approval.--Section 571(d) of the 
+                Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+                360ccc(d)) is amended by adding at the end the 
+                following:
+            ``(4)(A) In the case of an application under subsection (a) 
+        with respect to a drug for which the Secretary provides notice 
+        to the sponsor that the Secretary intends to issue a scientific 
+        and medical evaluation and recommend controls under the 
+        Controlled Substances Act, conditional approval of such 
+        application shall not take effect until the interim final rule 
+        controlling the drug is issued in accordance with section 201(j) 
+        of the Controlled Substances Act.
+            ``(B) For purposes of this section, with respect to an 
+        application described in subparagraph (A), the term `date of 
+        approval' shall mean the later of--
+                    ``(i) the date an application under subsection (a) 
+                is conditionally approved under subsection (b); or
+                    ``(ii) the date of issuance of the interim final 
+                rule controlling the drug.''.
+                    (C) Indexing of legally marketed unapproved new 
+                animal drugs.--Section 572 of the Federal Food, Drug, 
+                and Cosmetic Act (21 U.S.C. 360ccc-1) is amended by 
+                adding at the end the following:
+
+    ``(k) <<NOTE: Determination.>>  In the case of a request under 
+subsection (d) to add a drug to the index under subsection (a) with 
+respect to a drug
+
+[[Page 129 STAT. 700]]
+
+for which the Secretary provides notice to the person filing the request 
+that the Secretary intends to issue a scientific and medical evaluation 
+and recommend controls under the Controlled Substances Act, a 
+determination to grant the request to add such drug to the index shall 
+not take effect until the interim final rule controlling the drug is 
+issued in accordance with section 201(j) of the Controlled Substances 
+Act.''.
+            (4) Date of approval for designated new animal drugs.--
+        Section 573(c) of the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 360ccc-2(c)) is amended by adding at the end the 
+        following:
+            ``(3) <<NOTE: Time period.>>  For purposes of determining 
+        the 7-year period of exclusivity under paragraph (1) for a drug 
+        for which the Secretary intends to issue a scientific and 
+        medical evaluation and recommend controls under the Controlled 
+        Substances Act, the drug shall not be considered approved or 
+        conditionally approved until the date that the interim final 
+        rule controlling the drug is issued in accordance with section 
+        201(j) of the Controlled Substances Act.''.
+
+    (b) Scheduling of Newly Approved Drugs.--Section 201 of the 
+Controlled Substances Act (21 U.S.C. 811) is amended by inserting after 
+subsection (i) the following:
+    ``(j)(1) <<NOTE: Deadline. Regulations.>>  With respect to a drug 
+referred to in subsection (f), if the Secretary of Health and Human 
+Services recommends that the Attorney General control the drug in 
+schedule II, III, IV, or V pursuant to subsections (a) and (b), the 
+Attorney General shall, not later than 90 days after the date described 
+in paragraph (2), issue an interim final rule controlling the drug in 
+accordance with such subsections and section 202(b) using the procedures 
+described in paragraph (3).
+
+    ``(2) The date described in this paragraph shall be the later of--
+            ``(A) the date on which the Attorney General receives the 
+        scientific and medical evaluation and the scheduling 
+        recommendation from the Secretary of Health and Human Services 
+        in accordance with subsection (b); or
+            ``(B) the date on which the Attorney General receives 
+        notification from the Secretary of Health and Human Services 
+        that the Secretary has approved an application under section 
+        505(c), 512, or 571 of the Federal Food, Drug, and Cosmetic Act 
+        or section 351(a) of the Public Health Service Act, or indexed a 
+        drug under section 572 of the Federal Food, Drug, and Cosmetic 
+        Act, with respect to the drug described in paragraph (1).
+
+    ``(3) A rule issued by the Attorney General under paragraph (1) 
+shall become immediately effective as an interim final rule without 
+requiring the Attorney General to demonstrate good cause therefor. 
+The <<NOTE: Comments. Hearing.>>  interim final rule shall give 
+interested persons the opportunity to comment and to request a hearing. 
+After the conclusion of such proceedings, the Attorney General shall 
+issue a final rule in accordance with the scheduling criteria of 
+subsections (b), (c), and (d) of this section and section 202(b).''.
+
+    (c) Extension of Patent Term.--Section 156 of title 35, United 
+States Code, is amended--
+            (1) in subsection (d)(1), in the matter preceding 
+        subparagraph (A), by inserting ``, or in the case of a drug 
+        product
+
+[[Page 129 STAT. 701]]
+
+        described in subsection (i), within the sixty-day period 
+        beginning on the covered date (as defined in subsection (i))'' 
+        after ``marketing or use''; and
+            (2) by adding at the end the following:
+
+    ``(i)(1) <<NOTE: Notification. Effective date.>>  For purposes of 
+this section, if the Secretary of Health and Human Services provides 
+notice to the sponsor of an application or request for approval, 
+conditional approval, or indexing of a drug product for which the 
+Secretary intends to recommend controls under the Controlled Substances 
+Act, beginning on the covered date, the drug product shall be considered 
+to--
+            ``(A) have been approved or indexed under the relevant 
+        provision of the Public Health Service Act or Federal Food, 
+        Drug, and Cosmetic Act; and
+            ``(B) have permission for commercial marketing or use.
+
+    ``(2) <<NOTE: Definition.>>  In this subsection, the term `covered 
+date' means the later of--
+            ``(A) the date an application is approved--
+                    ``(i) under section 351(a)(2)(C) of the Public 
+                Health Service Act; or
+                    ``(ii) under section 505(b) or 512(c) of the Federal 
+                Food, Drug, and Cosmetic Act;
+            ``(B) the date an application is conditionally approved 
+        under section 571(b) of the Federal Food, Drug, and Cosmetic 
+        Act;
+            ``(C) the date a request for indexing is granted under 
+        section 572(d) of the Federal Food, Drug, and Cosmetic Act; or
+            ``(D) the date of issuance of the interim final rule 
+        controlling the drug under section 201(j) of the Controlled 
+        Substances Act.''.
+SEC. 3. ENHANCING NEW DRUG DEVELOPMENT.
+
+    Section 303 of the Controlled Substances Act (21 U.S.C. 823) is 
+amended by adding at the end the following:
+    ``(i)(1) <<NOTE: Deadlines.>>  For purposes of registration to 
+manufacture a controlled substance under subsection (d) for use only in 
+a clinical trial, the Attorney General shall register the applicant, or 
+serve an order to show cause upon the applicant in accordance with 
+section 304(c), not later than 180 days after the date on which the 
+application is accepted for filing.
+
+    ``(2) <<NOTE: Notification.>>  For purposes of registration to 
+manufacture a controlled substance under subsection (a) for use only in 
+a clinical trial, the Attorney General shall, in accordance with the 
+regulations issued by the Attorney General, issue a notice of 
+application not later than 90 days after the application is accepted for 
+filing. Not later than 90 days after the date on which the period for 
+comment pursuant to such notice ends, the Attorney General shall 
+register the applicant, or serve an order to show cause upon the 
+applicant in accordance with section 304(c), unless the Attorney General 
+has granted a hearing on the application under section 1008(i) of the 
+Controlled Substances Import and Export Act.''.
+SEC. 4. RE-EXPORTATION AMONG MEMBERS OF THE EUROPEAN ECONOMIC 
+                    AREA.
+
+    Section 1003 of the Controlled Substances Import and Export Act (21 
+U.S.C. 953) is amended--
+            (1) in subsection (f)--
+                    (A) in paragraph (5)--
+                          (i) by striking ``(5)'' and inserting 
+                      ``(5)(A)'';
+
+[[Page 129 STAT. 702]]
+
+                          (ii) by inserting ``, except that the 
+                      controlled substance may be exported from a second 
+                      country that is a member of the European Economic 
+                      Area to another country that is a member of the 
+                      European Economic Area, provided that the first 
+                      country is also a member of the European Economic 
+                      Area'' before the period at the end; and
+                          (iii) by adding at the end the following:
+            ``(B) Subsequent to any re-exportation described in 
+        subparagraph (A), a controlled substance may continue to be 
+        exported from any country that is a member of the European 
+        Economic Area to any other such country, if--
+                    ``(i) the conditions applicable with respect to the 
+                first country under paragraphs (1), (2), (3), (4), (6), 
+                and (7) are met by each subsequent country from which 
+                the controlled substance is exported pursuant to this 
+                paragraph; and
+                    ``(ii) the conditions applicable with respect to the 
+                second country under paragraphs (1), (2), (3), (4), (6), 
+                and (7) are met by each subsequent country to which the 
+                controlled substance is exported pursuant to this 
+                paragraph.''; and
+                    (B) in paragraph (6)--
+                          (i) by striking ``(6)'' and inserting 
+                      ``(6)(A)''; and
+                          (ii) by adding at the end the following:
+            ``(B) <<NOTE: Deadline.>>  In the case of re-exportation 
+        among members of the European Economic Area, within 30 days 
+        after each re-exportation, the person who exported the 
+        controlled substance from the United States delivers to the 
+        Attorney General--
+                    ``(i) <<NOTE: Certification.>>  documentation 
+                certifying that such re-exportation has occurred; and
+                    ``(ii) information concerning the consignee, 
+                country, and product.''; and
+            (2) by adding at the end the following:
+
+    ``(g) Limitation.--Subject to paragraphs (5) and (6) of subsection 
+(f) in the case of any controlled substance in schedule I or II or any 
+narcotic drug in schedule III or IV, the Attorney General shall not 
+promulgate nor enforce any regulation, subregulatory guidance, or 
+enforcement policy which impedes re-exportation of any controlled 
+substance among European Economic Area countries, including by 
+promulgating or enforcing any requirement that--
+            ``(1) re-exportation from the first country to the second 
+        country or re-exportation from the second country to another 
+        country occur within a specified period of time; or
+
+[[Page 129 STAT. 703]]
+
+            ``(2) information concerning the consignee, country, and 
+        product be provided prior to exportation of the controlled 
+        substance from the United States or prior to each re-exportation 
+        among members of the European Economic Area.''.
+
+    Approved November 25, 2015.
+
+LEGISLATIVE HISTORY--H.R. 639:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 114-41, Pt. 1 (Comm. on Energy and Commerce).
+CONGRESSIONAL RECORD, Vol. 161 (2015):
+            Mar. 16, considered and passed House.
+            Oct. 26, considered and passed Senate, amended.
+            Nov. 16, House concurred in Senate amendment.
+
+                                  
+

@@ -1,0 +1,268 @@
+
+[108th Congress Public Law 435]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ435.108]
+
+
+[[Page 118 STAT. 2615]]
+
+Public Law 108-435
+108th Congress
+
+                                 An Act
+
+
+ 
+    To make permanent the moratorium on taxes on Internet access and 
+multiple and discriminatory taxes on electronic commerce imposed by the 
+      Internet Tax Freedom Act. <<NOTE: Dec. 3, 2004 -  [S. 150]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Internet Tax 
+Nondiscrimi- nation Act.>> 
+
+SECTION 1. SHORT TITLE. <<NOTE: 47 USC 609 note.>> 
+
+    This Act may be cited as the ``Internet Tax Nondiscrimination Act''.
+SEC. 2. FOUR-YEAR EXTENSION OF INTERNET TAX MORATORIUM.
+
+    (a) In General.--Subsection (a) of section 1101 of the Internet Tax 
+Freedom Act (47 U.S.C. 151 note) is amended to read as follows:
+    ``(a) Moratorium.--No State or political subdivision thereof may 
+impose any of the following taxes during the period beginning November 
+1, 2003, and ending November 1, 2007:
+            ``(1) Taxes on Internet access.
+            ``(2) Multiple or discriminatory taxes on electronic 
+        commerce.''.
+
+    (b) Conforming Amendments.--(1) Section 1101 of the Internet Tax 
+Freedom Act (47 U.S.C. 151 note) is amended by striking subsection (d) 
+and redesignating subsections (e) and (f) as subsections (d) and (e), 
+respectively.
+    (2) Section 1104(10) of the Internet Tax Freedom Act (47 U.S.C. 151 
+note) is amended to read as follows:
+            ``(10) Tax on internet access.--
+                    ``(A) In general.--The term `tax on Internet access' 
+                means a tax on Internet access, regardless of whether 
+                such tax is imposed on a provider of Internet access or 
+                a buyer of Internet access and regardless of the 
+                terminology used to describe the tax.
+                    ``(B) General exception.--The term `tax on Internet 
+                access' does not include a tax levied upon or measured 
+                by net income, capital stock, net worth, or property 
+                value.''.
+
+    (3) Section 1104(2)(B)(i) of the Internet Tax Freedom Act (47 U.S.C. 
+151 note) is amended by striking ``except with respect to a tax (on 
+Internet access) that was generally imposed and actually enforced prior 
+to October 1, 1998,''.
+    (c) Internet Access Service; Internet Access.--
+            (1) Internet access service.--Paragraph (3)(D) of section 
+        1101(d) (as redesignated by subsection (b)(1) of this section) 
+        of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended 
+        by striking the second sentence and inserting ``The
+
+[[Page 118 STAT. 2616]]
+
+        term `Internet access service' does not include 
+        telecommunications services, except to the extent such services 
+        are purchased, used, or sold by a provider of Internet access to 
+        provide Internet access.''.
+            (2) Internet access.--Section 1104(5) <<NOTE: 47 USC 151 
+        note.>> of that Act is amended by striking the second sentence 
+        and inserting ``The term `Internet access' does not include 
+        telecommunications services, except to the extent such services 
+        are purchased, used, or sold by a provider of Internet access to 
+        provide Internet access.''.
+SEC. 3. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
+
+    The Internet Tax Freedom Act (47 U.S.C. 151 note) is amended--
+            (1) by redesignating section 1104 as section 
+        1105; <<NOTE: 47 USC 151 note.>>  and
+            (2) by inserting after section 1103 the following:
+
+``SEC. 1104. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
+
+    ``(a) Pre-October 1998 Taxes.--
+            ``(1) In general.--Section 1101(a) does not apply to a tax 
+        on Internet access that was generally imposed and actually 
+        enforced prior to October 1, 1998, if, before that date--
+                    ``(A) the tax was authorized by statute; and
+                    ``(B) either--
+                        ``(i) a provider of Internet access services had 
+                      a reasonable opportunity to know, by virtue of a 
+                      rule or other public proclamation made by the 
+                      appropriate administrative agency of the State or 
+                      political subdivision thereof, that such agency 
+                      has interpreted and applied such tax to Internet 
+                      access services; or
+                        ``(ii) a State or political subdivision thereof 
+                      generally collected such tax on charges for 
+                      Internet access.
+            ``(2) Termination.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), this subsection shall not apply after 
+                November 1, 2007.
+                    ``(B) State telecommunications service tax.--
+                          ``(i) Date for termination.--This subsection 
+                      shall not apply after November 1, 2006, with 
+                      respect to a State telecommunications service tax 
+                      described in clause (ii).
+                          ``(ii) Description of tax.--A State 
+                      telecommunications service tax referred to in 
+                      subclause (i) is a State tax--
+                                    ``(I) enacted by State law on or 
+                                after October 1, 1991, and imposing a 
+                                tax on telecommunications service; and
+                                    ``(II) applied to Internet access 
+                                through administrative code or 
+                                regulation issued on or after December 
+                                1, 2002.''.
+
+    ``(b) Pre-November 2003 Taxes.--
+            ``(1) In general.--Section 1101(a) does not apply to a tax 
+        on Internet access that was generally imposed and actually 
+        enforced as of November 1, 2003, if, as of that date, the tax 
+        was authorized by statute and--
+                    ``(A) a provider of Internet access services had a 
+                reasonable opportunity to know by virtue of a public 
+                rule or other public proclamation made by the 
+                appropriate
+
+[[Page 118 STAT. 2617]]
+
+                administrative agency of the State or political 
+                subdivision thereof, that such agency has interpreted 
+                and applied such tax to Internet access services; and
+                    ``(B) a State or political subdivision thereof 
+                generally collected such tax on charges for Internet 
+                access.
+            ``(2) Termination.--This subsection shall not apply after 
+        November 1, 2005.''.
+
+SEC. 4. ACCOUNTING RULE.
+
+    The Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by 
+adding at the end the following:
+
+``SEC. 1106. ACCOUNTING RULE.
+
+    ``(a) In General.--If charges for Internet access are aggregated 
+with and not separately stated from charges for telecommunications 
+services or other charges that are subject to taxation, then the charges 
+for Internet access may be subject to taxation unless the Internet 
+access provider can reasonably identify the charges for Internet access 
+from its books and records kept in the regular course of business.
+    ``(b) Definitions.--In this section:
+            ``(1) Charges for internet access.--The term `charges for 
+        Internet access' means all charges for Internet access as 
+        defined in section 1105(5).
+            ``(2) Charges for telecommunications services.--The term 
+        `charges for telecommunications services' means all charges for 
+        telecommunications services, except to the extent such services 
+        are purchased, used, or sold by a provider of Internet access to 
+        provide Internet access.''.
+
+SEC. 5. EFFECT ON OTHER LAWS.
+
+    The Internet Tax Freedom Act (47 U.S.C. 151 note), as amended by 
+section 4, is amended by adding at the end the following:
+
+``SEC. 1107. EFFECT ON OTHER LAWS.
+
+    ``(a) Universal Service.--Nothing in this Act shall prevent the 
+imposition or collection of any fees or charges used to preserve and 
+advance Federal universal service or similar State programs--
+            ``(1) authorized by section 254 of the Communications Act of 
+        1934 (47 U.S.C. 254); or
+            ``(2) in effect on February 8, 1996.
+
+    ``(b) 911 and E-911 Services.--Nothing in this Act shall prevent the 
+imposition or collection, on a service used for access to 911 or E-911 
+services, of any fee or charge specifically designated or presented as 
+dedicated by a State or political subdivision thereof for the support of 
+911 or E-911 services if no portion of the revenue derived from such fee 
+or charge is obligated or expended for any purpose other than support of 
+911 or E-911 services.
+    ``(c) Non-Tax Regulatory Proceedings.--Nothing in this Act shall be 
+construed to affect any Federal or State regulatory proceeding that is 
+not related to taxation.''.
+SEC. 6. EXCEPTION FOR VOICE AND OTHER SERVICES OVER THE INTERNET.
+
+    The Internet Tax Freedom Act (47 U.S.C. 151 note), as amended by 
+section 5, is amended by adding at the end the following:
+
+[[Page 118 STAT. 2618]]
+
+``SEC. 1108. EXCEPTION FOR VOICE SERVICES OVER THE INTERNET.
+
+    ``Nothing in this Act shall be construed to affect the imposition of 
+tax on a charge for voice or similar service utilizing Internet Protocol 
+or any successor protocol. This section shall not apply to any services 
+that are incidental to Internet access, such as voice-capable e-mail or 
+instant messaging.''.
+
+SEC. 6A. EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.
+
+    The Internet Tax Freedom Act (47 U.S.C. 151 note), as amended by 
+section 6, is amended by adding at the end the following:
+
+``SEC. 1109. EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.
+
+    ``Nothing in this Act shall prohibit Texas or a political 
+subdivision thereof from imposing or collecting the Texas municipal 
+access line fee pursuant to Texas Local Govt. Code Ann. ch. 283 (Vernon 
+2005) and the definition of access line as determined by the Public 
+Utility Commission of Texas in its `Order Adopting Amendments to Section 
+26.465 As Approved At The February 13, 2003 Public Hearing', issued 
+March 5, 2003, in Project No. 26412.''.
+SEC. 7. GAO STUDY OF EFFECTS OF INTERNET TAX MORATORIUM ON STATE 
+                    AND LOCAL GOVERNMENTS AND ON BROADBAND 
+                    DEPLOYMENT.
+
+    The Comptroller General shall conduct a study of the impact of the 
+Internet tax moratorium, including its effects on the revenues of State 
+and local governments and on the deployment and adoption of broadband 
+technologies for Internet access throughout the United States, including 
+the impact of the Internet Tax Freedom Act (47 U.S.C. 151 note) on 
+build-out of broadband technology resources in rural underserved areas 
+of the country. The study shall compare deployment and adoption rates in 
+States that tax broadband Internet access service with States that do 
+not tax such service, and take into account other factors to determine 
+whether the Internet Tax Freedom Act has had an impact on the deployment 
+or adoption of broadband Internet access 
+services. <<NOTE: Reports. Deadline.>> The Comptroller General shall 
+report the findings, conclusions, and any recommendations from the study 
+to the Senate Committee on Commerce, Science, and Transportation and the 
+House of Representatives Committee on Energy and Commerce no later than 
+November 1, 2005.
+
+[[Page 118 STAT. 2619]]
+
+SEC. 8. EFFECTIVE DATE. <<NOTE: 47 USC 151 note.>> 
+
+    The amendments made by this Act take effect on November 1, 2003.
+
+    Approved December 3, 2004.
+
+LEGISLATIVE HISTORY--S. 150 (H.R. 49):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 108-234 accompanying H.R. 49 (Comm. on the 
+Judiciary).
+SENATE REPORTS: No. 108-155 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD:
+                                                        Vol. 149 (2003):
+                                    Nov. 6, 7, considered in Senate.
+                                                        Vol. 150 (2004):
+                                    Apr. 27-29, considered and passed 
+                                        Senate.
+                                    Nov. 19, considered and passed 
+                                        House.
+
+                                  
+

@@ -1,0 +1,122 @@
+
+[108th Congress Public Law 281]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ281.108]
+
+[[Page 118 STAT. 889]]
+
+Public Law 108-281
+108th Congress
+
+                                 An Act
+
+
+ 
+    To amend the E-Government Act of 2002 with respect to rulemaking 
+  authority of the Judicial Conference. <<NOTE: Aug. 2, 2004 -  [H.R. 
+                                1303]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. RULEMAKING AUTHORITY OF JUDICIAL CONFERENCE.
+
+    Section 205(c) of the E-Government Act of 2002 (Public Law 107-347; 
+44 U.S.C. 3501 note) is amended by striking paragraph (3) and inserting 
+the following:
+            ``(3) Privacy and security concerns.--
+                    ``(A)(i) The Supreme Court shall prescribe rules, in 
+                accordance with sections 2072 and 2075 of title 28, 
+                United States Code, to protect privacy and security 
+                concerns relating to electronic filing of documents and 
+                the public availability under this subsection of 
+                documents filed electronically or converted to 
+                electronic form.
+                    ``(ii) Such rules shall provide to the extent 
+                practicable for uniform treatment of privacy and 
+                security issues throughout the Federal courts.
+                    ``(iii) Such rules shall take into consideration 
+                best practices in Federal and State courts to protect 
+                private information or otherwise maintain necessary 
+                information security.
+                    ``(iv) Except as provided in clause (v), to the 
+                extent that such rules provide for the redaction of 
+                certain categories of information in order to protect 
+                privacy and security concerns, such rules shall provide 
+                that a party that wishes to file an otherwise proper 
+                document containing such protected information may file 
+                an unredacted document under seal, which shall be 
+                retained by the court as part of the record, and which, 
+                at the discretion of the court and subject to any 
+                applicable rules issued in accordance with chapter 131 
+                of title 28, United States Code, shall be either in lieu 
+                of, or in addition to, a redacted copy in the public 
+                file.
+                    ``(v) Such rules may require the use of appropriate 
+                redacted identifiers in lieu of protected information 
+                described in clause (iv) in any pleading, motion, or 
+                other paper filed with the court (except with respect to 
+                a paper that is an exhibit or other evidentiary matter, 
+                or with respect to a reference list described in this 
+                subclause), or in any written discovery response--
+                          ``(I) by authorizing the filing under seal, 
+                      and permitting the amendment as of right under 
+                      seal, of a reference list that--
+
+[[Page 118 STAT. 890]]
+
+                                    ``(aa) identifies each item of 
+                                unredacted protected information that 
+                                the attorney or, if there is no 
+                                attorney, the party, certifies is 
+                                relevant to the case; and
+                                    ``(bb) specifies an appropriate 
+                                redacted identifier that uniquely 
+                                corresponds to each item of unredacted 
+                                protected information listed; and
+                          ``(II) by providing that all references in the 
+                      case to the redacted identifiers in such reference 
+                      list shall be construed, without more, to refer to 
+                      the corresponding unredacted item of protected 
+                      information.
+                    ``(B)(i) Subject to clause (ii), the Judicial 
+                Conference of the United States may issue interim rules, 
+                and interpretive statements relating to the application 
+                of such rules, which conform to the requirements of this 
+                paragraph and which shall cease to have effect upon the 
+                effective date of the rules required under subparagraph 
+                (A).
+                    ``(ii) Pending issuance of the rules required under 
+                subparagraph (A), any rule or order of any court, or of 
+                the Judicial Conference, providing for the redaction of 
+                certain categories of information in order to protect 
+                privacy and security concerns arising from electronic 
+                filing or electronic conversion shall comply with, and 
+                be construed in conformity with, subparagraph (A)(iv).
+                    ``(C) <<NOTE: Deadlines. Reports.>> Not later than 1 
+                year after the rules prescribed under subparagraph (A) 
+                take effect, and every 2 years thereafter, the Judicial 
+                Conference shall submit to Congress a report on the 
+                adequacy of those rules to protect privacy and 
+                security.''.
+
+    Approved August 2, 2004.
+
+LEGISLATIVE HISTORY--H.R. 1303:
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 108-239 (Comm. on the Judiciary).
+CONGRESSIONAL RECORD:
+                                                        Vol. 149 (2003):
+                                    Oct. 7, considered and passed House.
+                                                        Vol. 150 (2004):
+                                    July 9, considered and passed 
+                                        Senate.
+                                    July 13, Senate vitiated passage.
+                                    July 15, considered and passed 
+                                        Senate.
+
+                                  
+

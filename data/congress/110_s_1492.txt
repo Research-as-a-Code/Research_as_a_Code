@@ -1,0 +1,579 @@
+
+[110th Congress Public Law 385]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ385.110]
+
+[[Page 4095]]
+
+                   BROADBAND DATA SERVICES IMPROVEMENT
+
+[[Page 122 STAT. 4096]]
+
+Public Law 110-385
+110th Congress
+
+                                 An Act
+
+
+ 
+     To improve the quality of Federal and State data regarding the 
+   availability and quality of broadband services and to promote the 
+    deployment of affordable broadband services to all parts of the 
+              Nation. <<NOTE: Oct. 10, 2008 -  [S. 1492]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+   TITLE I--BROADBAND <<NOTE: Broadband Data Improvement Act.>> DATA 
+IMPROVEMENT
+
+SEC. 101. <<NOTE: 47 USC 1301 note.>> SHORT TITLE.
+
+    This title may be cited as the ``Broadband Data Improvement Act''.
+
+SEC. 102 <<NOTE: 47 USC 1301.>> FINDINGS.
+
+    The Congress finds the following:
+            (1) The deployment and adoption of broadband technology has 
+        resulted in enhanced economic development and public safety for 
+        communities across the Nation, improved health care and 
+        educational opportunities, and a better quality of life for all 
+        Americans.
+            (2) Continued progress in the deployment and adoption of 
+        broadband technology is vital to ensuring that our Nation 
+        remains competitive and continues to create business and job 
+        growth.
+            (3) Improving Federal data on the deployment and adoption of 
+        broadband service will assist in the development of broadband 
+        technology across all regions of the Nation.
+            (4) The Federal Government should also recognize and 
+        encourage complementary State efforts to improve the quality and 
+        usefulness of broadband data and should encourage and support 
+        the partnership of the public and private sectors in the 
+        continued growth of broadband services and information 
+        technology for the residents and businesses of the Nation.
+
+SEC. 103 <<NOTE: 47 USC 1303.>> IMPROVING FEDERAL DATA ON BROADBAND.
+
+    (a) Improving Section 706 Inquiry.--Section 706 of the 
+Telecommunications Act of 1996 (47 U.S.C. 157 note) is amended--
+            (1) by striking ``regularly'' in subsection (b) and 
+        inserting ``annually'';
+            (2) by redesignating subsection (c) as subsection (d); and
+            (3) by inserting after subsection (b) the following:
+
+    ``(c) Demographic Information for Unserved Areas.-- 
+<<NOTE: Lists.>> As part of the inquiry required by subsection (b), the 
+Commission
+
+[[Page 122 STAT. 4097]]
+
+shall compile a list of geographical areas that are not served by any 
+provider of advanced telecommunications capability (as defined by 
+section 706(c)(1) of the Telecommunications Act of 1996 (47 U.S.C. 157 
+note)) and to the extent that data from the Census Bureau is available, 
+determine, for each such unserved area--
+            ``(1) the population;
+            ``(2) the population density; and
+            ``(3) the average per capita income.''.
+
+    (b) International Comparison.--
+            (1) In general.--As part of the assessment and report 
+        required by section 706 of the Telecommunications Act of 1996 
+        (47 U.S.C. 157 note), the Federal Communications Commission 
+        shall include information comparing the extent of broadband 
+        service capability (including data transmission speeds and price 
+        for broadband service capability) in a total of 75 communities 
+        in at least 25 countries abroad for each of the data rate 
+        benchmarks for broadband service utilized by the Commission to 
+        reflect different speed tiers.
+            (2) Contents.--The Commission shall choose communities for 
+        the comparison under this subsection in a manner that will 
+        offer, to the extent possible, communities of a population size, 
+        population density, topography, and demographic profile that are 
+        comparable to the population size, population density, 
+        topography, and demographic profile of various communities 
+        within the United States. The Commission shall include in the 
+        comparison under this subsection--
+                    (A) a geographically diverse selection of countries; 
+                and
+                    (B) communities including the capital cities of such 
+                countries.
+            (3) Similarities and differences.--The Commission shall 
+        identify relevant similarities and differences in each 
+        community, including their market structures, the number of 
+        competitors, the number of facilities-based providers, the types 
+        of technologies deployed by such providers, the applications and 
+        services those technologies enable, the regulatory model under 
+        which broadband service capability is provided, the types of 
+        applications and services used, business and residential use of 
+        such services, and other media available to consumers.
+
+    (c) Consumer Survey of Broadband Service Capability.--
+            (1) In <<NOTE: Public information.>> general.--For the 
+        purpose of evaluating, on a statistically significant basis, the 
+        national characteristics of the use of broadband service 
+        capability, the Commission shall conduct and make public 
+        periodic surveys of consumers in urban, suburban, and rural 
+        areas in the large business, small business, and residential 
+        consumer markets to determine--
+                    (A) the types of technology used to provide the 
+                broadband service capability to which consumers 
+                subscribe;
+                    (B) the amounts consumers pay per month for such 
+                capability;
+                    (C) the actual data transmission speeds of such 
+                capability;
+                    (D) the types of applications and services consumers 
+                most frequently use in conjunction with such capability;
+                    (E) for consumers who have declined to subscribe to 
+                broadband service capability, the reasons given by such 
+                consumers for declining such capability;
+
+[[Page 122 STAT. 4098]]
+
+                    (F) other sources of broadband service capability 
+                which consumers regularly use or on which they rely; and
+                    (G) any other information the Commission deems 
+                appropriate for such purpose.
+            (2) Public availability.--The Commission shall make publicly 
+        available the results of surveys conducted under this subsection 
+        at least once per year.
+
+    (d) Improving Census Data on Broadband.--The Secretary of Commerce, 
+in consultation with the Federal Communications Commission, shall expand 
+the American Community Survey conducted by the Bureau of the Census to 
+elicit information for residential households, including those located 
+on native lands, to determine whether persons at such households own or 
+use a computer at that address, whether persons at that address 
+subscribe to Internet service and, if so, whether such persons subscribe 
+to dial-up or broadband Internet service at that address.
+    (e) Proprietary Information.--Nothing in this title shall reduce or 
+remove any obligation the Commission has to protect proprietary 
+information, nor shall this title be construed to compel the Commission 
+to make publicly available any proprietary information.
+
+SEC. 104. STUDY ON ADDITIONAL BROADBAND METRICS AND STANDARDS.
+
+    (a) In General.--The Comptroller General shall conduct a study to 
+consider and evaluate additional broadband metrics or standards that may 
+be used by industry and the Federal Government to provide users with 
+more accurate information about the cost and capability of their 
+broadband connection, and to better compare the deployment and 
+penetration of broadband in the United States with other countries. At a 
+minimum, such study shall consider potential standards or metrics that 
+may be used--
+            (1) to calculate the average price per megabit per second of 
+        broadband offerings;
+            (2) to reflect the average actual speed of broadband 
+        offerings compared to advertised potential speeds and to 
+        consider factors affecting speed that may be outside the control 
+        of a broadband provider;
+            (3) to compare, using comparable metrics and standards, the 
+        availability and quality of broadband offerings in the United 
+        States with the availability and quality of broadband offerings 
+        in other industrialized nations, including countries that are 
+        members of the Organization for Economic Cooperation and 
+        Development; and
+            (4) to distinguish between complementary and substitutable 
+        broadband offerings in evaluating deployment and penetration.
+
+    (b) Report.--Not <<NOTE: Recommen- dations.>> later than 1 year 
+after the date of enactment of this Act, the Comptroller General shall 
+submit a report to the Senate Committee on Commerce, Science, and 
+Transportation and the House of Representatives Committee on Energy and 
+Commerce on the results of the study, with recommendations for how 
+industry and the Federal Communications Commission can use such metrics 
+and comparisons to improve the quality of broadband data and to better 
+evaluate the deployment and penetration of comparable broadband service 
+at comparable rates across all regions of the Nation.
+
+[[Page 122 STAT. 4099]]
+
+SEC. 105. STUDY ON THE IMPACT OF BROADBAND SPEED AND PRICE ON SMALL 
+            BUSINESSES.
+
+    (a) In General.--Subject to appropriations, the Small Business 
+Administration Office of Advocacy shall conduct a study evaluating the 
+impact of broadband speed and price on small businesses.
+    (b) Report.--Not <<NOTE: Survey.>> later than 2 years after the date 
+of enactment of this Act, the Office shall submit a report to the Senate 
+Committee on Commerce, Science, and Transportation, the Senate Committee 
+on Small Business and Entrepreneurship, the House of Representatives 
+Committee on Energy and Commerce, and the House of Representatives 
+Committee on Small Business on the results of the study, including--
+            (1) a survey of broadband speeds available to small 
+        businesses;
+            (2) a survey of the cost of broadband speeds available to 
+        small businesses;
+            (3) a survey of the type of broadband technology used by 
+        small businesses; and
+            (4) any policy recommendations that may improve small 
+        businesses access to comparable broadband services at comparable 
+        rates in all regions of the Nation.
+
+SEC. 106. <<NOTE: 47 USC 1304.>> ENCOURAGING STATE INITIATIVES TO 
+            IMPROVE BROADBAND.
+
+    (a) Purposes.--The purposes of any grant under subsection (b) are--
+            (1) to ensure that all citizens and businesses in a State 
+        have access to affordable and reliable broadband service;
+            (2) to achieve improved technology literacy, increased 
+        computer ownership, and broadband use among such citizens and 
+        businesses;
+            (3) to establish and empower local grassroots technology 
+        teams in each State to plan for improved technology use across 
+        multiple community sectors; and
+            (4) to establish and sustain an environment ripe for 
+        broadband services and information technology investment.
+
+    (b) Establishment of State Broadband Data and Development Grant 
+Program.--
+            (1) In general.--The Secretary of Commerce shall award 
+        grants, taking into account the results of the peer review 
+        process under subsection (d), to eligible entities for the 
+        development and implementation of statewide initiatives to 
+        identify and track the availability and adoption of broadband 
+        services within each State.
+            (2) Competitive basis.--Any grant under subsection (b) shall 
+        be awarded on a competitive basis.
+
+    (c) Eligibility.--To be eligible to receive a grant under subsection 
+(b), an eligible entity shall--
+            (1) submit an application to the Secretary of Commerce, at 
+        such time, in such manner, and containing such information as 
+        the Secretary may require;
+            (2) contribute matching non-Federal funds in an amount equal 
+        to not less than 20 percent of the total amount of the grant; 
+        and
+            (3) agree to comply with confidentiality requirements in 
+        subsection (h)(2) of this section.
+
+    (d) Peer Review; Nondisclosure.--
+
+[[Page 122 STAT. 4100]]
+
+            (1) In general.--The <<NOTE: Regulations.>> Secretary shall 
+        by regulation require appropriate technical and scientific peer 
+        review of applications made for grants under this section.
+            (2) Review procedures.--The regulations required under 
+        paragraph (1) shall require that any technical and scientific 
+        peer review group--
+                    (A) be provided a written description of the grant 
+                to be reviewed;
+                    (B) provide the results of any review by such group 
+                to the Secretary of Commerce; and
+                    (C) certify <<NOTE: Certification.>> that such group 
+                will enter into voluntary nondisclosure agreements as 
+                necessary to prevent the unauthorized disclosure of 
+                confidential and proprietary information provided by 
+                broadband service providers in connection with projects 
+                funded by any such grant.
+
+    (e) Use of Funds.--A grant awarded to an eligible entity under 
+subsection (b) shall be used--
+            (1) to provide a baseline assessment of broadband service 
+        deployment in each State;
+            (2) to identify and track--
+                    (A) areas in each State that have low levels of 
+                broadband service deployment;
+                    (B) the rate at which residential and business users 
+                adopt broadband service and other related information 
+                technology services; and
+                    (C) possible suppliers of such services;
+            (3) to identify barriers to the adoption by individuals and 
+        businesses of broadband service and related information 
+        technology services, including whether or not--
+                    (A) the demand for such services is absent; and
+                    (B) the supply for such services is capable of 
+                meeting the demand for such services;
+            (4) to identify the speeds of broadband connections made 
+        available to individuals and businesses within the State, and, 
+        at a minimum, to rely on the data rate benchmarks for broadband 
+        service utilized by the Commission to reflect different speed 
+        tiers, to promote greater consistency of data among the States;
+            (5) to create and facilitate in each county or designated 
+        region in a State a local technology planning team--
+                    (A) with members representing a cross section of the 
+                community, including representatives of business, 
+                telecommunications labor organizations, K-12 education, 
+                health care, libraries, higher education, community-
+                based organizations, local government, tourism, parks 
+                and recreation, and agriculture; and
+                    (B) which shall--
+                          (i) benchmark technology use across relevant 
+                      community sectors;
+                          (ii) set goals for improved technology use 
+                      within each sector; and
+                          (iii) develop <<NOTE: Plans. Recommen- 
+                      dations.>> a tactical business plan for achieving 
+                      its goals, with specific recommendations for 
+                      online application development and demand 
+                      creation;
+            (6) to work collaboratively with broadband service providers 
+        and information technology companies to encourage deployment and 
+        use, especially in unserved areas and areas in which
+
+[[Page 122 STAT. 4101]]
+
+        broadband penetration is significantly below the national 
+        average, through the use of local demand aggregation, mapping 
+        analysis, and the creation of market intelligence to improve the 
+        business case for providers to deploy;
+            (7) to establish programs to improve computer ownership and 
+        Internet access for unserved areas and areas in which broadband 
+        penetration is significantly below the national average;
+            (8) to collect and analyze detailed market data concerning 
+        the use and demand for broadband service and related information 
+        technology services;
+            (9) to facilitate information exchange regarding the use and 
+        demand for broadband services between public and private 
+        sectors; and
+            (10) to create within each State a geographic inventory map 
+        of broadband service, including the data rate benchmarks for 
+        broadband service utilized by the Commission to reflect 
+        different speed tiers, which shall--
+                    (A) identify gaps in such service through a method 
+                of geographic information system mapping of service 
+                availability based on the geographic boundaries of where 
+                service is available or unavailable among residential or 
+                business customers; and
+                    (B) provide a baseline assessment of statewide 
+                broadband deployment in terms of households with high-
+                speed availability.
+
+    (f) Participation Limit.--For each State, an eligible entity may not 
+receive a new grant under this section to fund the activities described 
+in subsection (d) within such State if such organization obtained prior 
+grant awards under this section to fund the same activities in that 
+State in each of the previous 4 consecutive years.
+    (g) Reporting; Broadband Inventory Map.--The Secretary of Commerce 
+shall--
+            (1) require each recipient of a grant under subsection (b) 
+        to submit a report on the use of the funds provided by the 
+        grant; and
+            (2) create <<NOTE: Web site.>> a web page on the Department 
+        of Commerce website that aggregates relevant information made 
+        available to the public by grant recipients, including, where 
+        appropriate, hypertext links to any geographic inventory maps 
+        created by grant recipients under subsection (e)(10).
+
+    (h) Access to Aggregate Data.--
+            (1) In general.--Subject to paragraph (2), the Commission 
+        shall provide eligible entities access, in electronic form, to 
+        aggregate data collected by the Commission based on the Form 477 
+        submissions of broadband service providers.
+            (2) Limitation.--Notwithstanding any provision of Federal or 
+        State law to the contrary, an eligible entity shall treat any 
+        matter that is a trade secret, commercial or financial 
+        information, or privileged or confidential, as a record not 
+        subject to public disclosure except as otherwise mutually agreed 
+        to by the broadband service provider and the eligible 
+        entity. <<NOTE: Applicability.>> This paragraph applies only to 
+        information submitted by the Commission or a broadband provider 
+        to carry out the provisions of this title and shall not 
+        otherwise limit or affect the rules
+
+[[Page 122 STAT. 4102]]
+
+        governing public disclosure of information collected by any 
+        Federal or State entity under any other Federal or State law or 
+        regulation.
+
+    (i) Definitions.--In this section:
+            (1) Commission.--The term ``Commission'' means the Federal 
+        Communications Commission.
+            (2) Eligible entity.--The term ``eligible entity'' means--
+                    (A) an entity that is either--
+                          (i) an agency or instrumentality of a State, 
+                      or a municipality or other subdivision (or agency 
+                      or instrumentality of a municipality or other 
+                      subdivision) of a State;
+                          (ii) a nonprofit organization that is 
+                      described in section 501(c)(3) of the Internal 
+                      Revenue Code of 1986 and that is exempt from 
+                      taxation under section 501(a) of such Code; or
+                          (iii) an independent agency or commission in 
+                      which an office of a State is a member on behalf 
+                      of the State; and
+                    (B) is the single eligible entity in the State that 
+                has been designated by the State to receive a grant 
+                under this section.
+
+    (j) No Regulatory Authority.--Nothing in this section shall be 
+construed as giving any public or private entity established or affected 
+by this title any regulatory jurisdiction or oversight authority over 
+providers of broadband services or information technology.
+
+  TITLE II--PROTECTING <<NOTE: Protecting Children in the 21st Century 
+Act.>> CHILDREN
+
+SEC. 201. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short <<NOTE: 15 USC 6551 note.>> Title.--This title may be 
+cited as the ``Protecting Children in the 21st Century Act''.
+
+    (b) Table of Contents.--The table of contents for this title is as 
+follows:
+
+Sec. 201. Short title; table of contents.
+
+           SUBTITLE A--PROMOTING A SAFE INTERNET FOR CHILDREN
+
+Sec. 211. Internet safety.
+Sec. 212. Public awareness campaign.
+Sec. 213. Annual reports.
+Sec. 214. Online safety and technology working group.
+Sec. 215. Promoting online safety in schools.
+Sec. 216. Definitions.
+
+           SUBTITLE B--ENHANCING CHILD PORNOGRAPHY ENFORCEMENT
+
+Sec. 221. Child pornography prevention; forfeitures related to child 
+           pornography violations.
+
+           SUBTITLE A--PROMOTING A SAFE INTERNET FOR CHILDREN
+
+SEC. 211. <<NOTE: 15 USC 6551.>> INTERNET SAFETY.
+
+    For the purposes of this title, the issue of Internet safety 
+includes issues regarding the use of the Internet in a manner that 
+promotes safe online activity for children, protects children
+
+[[Page 122 STAT. 4103]]
+
+from cybercrimes, including crimes by online predators, and helps 
+parents shield their children from material that is inappropriate for 
+minors.
+
+SEC. 212. <<NOTE: 15 USC 6552.>> PUBLIC AWARENESS CAMPAIGN.
+
+    The Federal Trade Commission shall carry out a nationwide program to 
+increase public awareness and provide education regarding strategies to 
+promote the safe use of the Internet by children. The program shall 
+utilize existing resources and efforts of the Federal Government, State 
+and local governments, nonprofit organizations, private technology and 
+financial companies, Internet service providers, World Wide Web-based 
+resources, and other appropriate entities, that includes--
+            (1) identifying, promoting, and encouraging best practices 
+        for Internet safety;
+            (2) establishing and carrying out a national outreach and 
+        education campaign regarding Internet safety utilizing various 
+        media and Internet-based resources;
+            (3) facilitating access to, and the exchange of, information 
+        regarding Internet safety to promote up-to-date knowledge 
+        regarding current issues; and
+            (4) facilitating access to Internet safety education and 
+        public awareness efforts the Commission considers appropriate by 
+        States, units of local government, schools, police departments, 
+        nonprofit organizations, and other appropriate entities.
+
+SEC. 213. <<NOTE: 15 USC 6553.>> ANNUAL REPORTS.
+
+    The Commission shall submit a report to the Committee on Commerce, 
+Science, and Transportation of the Senate and the Committee on Energy 
+and Commerce of the House of Representatives not later than March 31 of 
+each year that describes the activities carried out under section 103 by 
+the Commission during the preceding calendar year.
+
+SEC. 214. <<NOTE: 15 USC 6554.>> ONLINE SAFETY AND TECHNOLOGY WORKING 
+            GROUP.
+
+    (a) Establishment.--Within <<NOTE: Deadline.>> 90 days after the 
+date of enactment of this Act, the Assistant Secretary of Commerce for 
+Communications and Information shall establish an Online Safety and 
+Technology working group comprised of representatives of relevant 
+sectors of the business community, public interest groups, and other 
+appropriate groups and Federal agencies to review and evaluate--
+            (1) the status of industry efforts to promote online safety 
+        through educational efforts, parental control technology, 
+        blocking and filtering software, age-appropriate labels for 
+        content or other technologies or initiatives designed to promote 
+        a safe online environment for children;
+            (2) the status of industry efforts to promote online safety 
+        among providers of electronic communications services and remote 
+        computing services by reporting apparent child pornography under 
+        section 13032 of title 42, United States Code, including any 
+        obstacles to such reporting;
+            (3) the practices of electronic communications service 
+        providers and remote computing service providers related to 
+        record retention in connection with crimes against children; and
+            (4) the development of technologies to help parents shield 
+        their children from inappropriate material on the Internet.
+
+[[Page 122 STAT. 4104]]
+
+    (b) Report.--Within 1 year after the working group is first 
+convened, it shall submit a report to the Assistant Secretary, the 
+Committee on Commerce, Science, and Transportation of the Senate, and 
+the Committee on Energy and Commerce of the House of Representatives 
+that--
+            (1) describes in detail its findings, including any 
+        information related to the effectiveness of such strategies and 
+        technologies and any information about the prevalence within 
+        industry of educational campaigns, parental control 
+        technologies, blocking and filtering software, labeling, or 
+        other technologies to assist parents; and
+            (2) includes <<NOTE: Recommen- dations.>> recommendations as 
+        to what types of incentives could be used or developed to 
+        increase the effectiveness and implementation of such strategies 
+        and technologies.
+
+    (c) FACA Not To Apply to Working Group.--The Federal Advisory 
+Committee Act (5 U.S.C. App.) shall not apply to the working group.
+
+SEC. 215. PROMOTING ONLINE SAFETY IN SCHOOLS.
+
+    Section 254(h)(5)(B) of the Communications Act of 1934 (47 U.S.C. 
+254(h)(5)(b)) is amended--
+            (1) by striking ``and'' after the semicolon in clause (i);
+            (2) by striking ``minors.'' in clause (ii) and inserting 
+        ``minors; and''; and
+            (3) by adding at the end the following:
+                          ``(iii) as part of its Internet safety policy 
+                      is educating minors about appropriate online 
+                      behavior, including interacting with other 
+                      individuals on social networking websites and in 
+                      chat rooms and cyberbullying awareness and 
+                      response.''.
+
+SEC. 216. <<NOTE: 15 USC 6555.>> DEFINITIONS.
+
+    In this title:
+            (1) Commission.--The term ``Commission'' means the Federal 
+        Trade Commission.
+            (2) Internet.--The term ``Internet'' means collectively the 
+        myriad of computer and telecommunications facilities, including 
+        equipment and operating software, which comprise the 
+        interconnected world-wide network of networks that employ the 
+        Transmission Control Protocol/Internet Protocol, or any 
+        predecessor successor protocols to such protocol, to communicate 
+        information of all kinds by wire or radio.
+
+[[Page 122 STAT. 4105]]
+
+           SUBTITLE B--ENHANCING CHILD PORNOGRAPHY ENFORCEMENT
+
+SEC. 221. CHILD PORNOGRAPHY PREVENTION; FORFEITURES RELATED TO CHILD 
+            PORNOGRAPHY VIOLATIONS.
+
+    (a) In General.--Section 503(b)(1) of the Communications Act of 1934 
+(47 U.S.C. 503(b)(1)) is amended by striking ``or 1464'' in subparagraph 
+(D) and inserting ``1464, or 2252''.
+
+    Approved October 10, 2008.
+
+LEGISLATIVE HISTORY--S. 1492:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 110-204 (Comm. on Commerce, Science, and 
+Transportation).
+CONGRESSIONAL RECORD, Vol. 154 (2008):
+            Sept. 26, considered and passed Senate.
+            Sept. 29, considered and passed House, amended.
+            Sept. 30, Senate concurred in House amendments.
+
+                                  
+

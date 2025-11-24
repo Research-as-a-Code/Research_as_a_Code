@@ -1,0 +1,106 @@
+
+[110th Congress Public Law 241]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ241.110]
+
+[[Page 121 STAT. 1565]]
+
+Public Law 110-241
+110th Congress
+
+                                 An Act
+
+
+ 
+To amend the Fair Credit Reporting Act to make technical corrections to 
+   the definition of willful noncompliance with respect to violations 
+involving the printing of an expiration date on certain credit and debit 
+card receipts before the date of the enactment of this Act. <<NOTE: June 
+                        3, 2008 -  [H.R. 4008]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Credit and Debit 
+Card Receipt Clarification Act of 2007.>> 
+SECTION 1. <<NOTE: 15 USC 1601 note.>> SHORT TITLE.
+
+    This Act may be cited as the ``Credit and Debit Card Receipt 
+Clarification Act of 2007''.
+SEC. 2. <<NOTE: 15 USC 1681n note.>> FINDINGS; PURPOSE.
+
+    (a) Findings.--The Congress finds as follows:
+            (1) The Fair and Accurate Credit Transactions Act (commonly 
+        referred to as ``FACTA'' ) was enacted into law in 2003 and 1 of 
+        the purposes of such Act is to prevent criminals from obtaining 
+        access to consumers' private financial and credit information in 
+        order to reduce identity theft and credit card fraud.
+            (2) As part of that law, the Congress enacted a requirement, 
+        through an amendment to the Fair Credit Reporting Act, that no 
+        person that accepts credit cards or debit cards for the 
+        transaction of business shall print more than the last 5 digits 
+        of the card number or the expiration date upon any receipt 
+        provided to the card holder at the point of the sale or 
+        transaction.
+            (3) Many merchants understood that this requirement would be 
+        satisfied by truncating the account number down to the last 5 
+        digits based in part on the language of the provision as well as 
+        the publicity in the aftermath of the passage of the law.
+            (4) Almost immediately after the deadline for compliance 
+        passed, hundreds of lawsuits were filed alleging that the 
+        failure to remove the expiration date was a willful violation of 
+        the Fair Credit Reporting Act even where the account number was 
+        properly truncated.
+            (5) None of these lawsuits contained an allegation of harm 
+        to any consumer's identity.
+            (6) Experts in the field agree that proper truncation of the 
+        card number, by itself as required by the amendment made by the 
+        Fair and Accurate Credit Transactions Act, regardless of the 
+        inclusion of the expiration date, prevents a potential fraudster 
+        from perpetrating identity theft or credit card fraud.
+            (7) Despite repeatedly being denied class certification, the 
+        continued appealing and filing of these lawsuits represents
+
+[[Page 121 STAT. 1566]]
+
+        a significant burden on the hundreds of companies that have been 
+        sued and could well raise prices to consumers without 
+        corresponding consumer protection benefit.
+
+    (b) Purpose.--The purpose of this Act is to ensure that consumers 
+suffering from any actual harm to their credit or identity are protected 
+while simultaneously limiting abusive lawsuits that do not protect 
+consumers but only result in increased cost to business and potentially 
+increased prices to consumers.
+SEC. 3. CLARIFICATION OF WILLFUL NONCOMPLIANCE FOR ACTIONS BEFORE 
+                    THE DATE OF THE ENACTMENT OF THIS ACT.
+
+    (a) In General.--Section 616 of the Fair Credit Reporting Act (15 
+U.S.C. 1681n) is amended by adding at the end the following new 
+subsection:
+    ``(d) Clarification of Willful Noncompliance.--For the purposes of 
+this section, any person who printed an expiration date on any receipt 
+provided to a consumer cardholder at a point of sale or transaction 
+between December 4, 2004, and the date of the enactment of this 
+subsection but otherwise complied with the requirements of section 
+605(g) for such receipt shall not be in willful noncompliance with 
+section 605(g) by reason of printing such expiration date on the 
+receipt.''.
+    (b) <<NOTE: 15 USC 1681n note.>> Scope of Application.--The 
+amendment made by subsection (a) shall apply to any action, other than 
+an action which has become final, that is brought for a violation of 
+605(g) of the Fair Credit Reporting Act to which such amendment applies 
+without regard to whether such action is brought before or after the 
+date of the enactment of this Act.
+
+    Approved June 3, 2008.
+
+LEGISLATIVE HISTORY--H.R. 4008:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 154 (2008):
+            May 13, considered and passed House.
+            May 20, considered and passed Senate.
+
+                                  
+

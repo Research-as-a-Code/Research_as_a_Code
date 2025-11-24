@@ -1,0 +1,561 @@
+
+[106th Congress Public Law 40]
+[From the U.S. Government Printing Office]
+
+
+<DOC>
+[DOCID: f:publ040.106]
+
+
+[[Page 113 STAT. 207]]
+
+Public Law 106-40
+106th Congress
+
+                                 An Act
+
+
+ 
+To <<NOTE: Aug. 5, 1999 -  [S. 880]>> amend the Clean Air Act to remove 
+   flammable fuels from the list of substances with respect to which 
+ reporting and other activities are required under the risk management 
+                  plan program, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Chemical Safety 
+Information, Site Security and Fuels Regulatory Relief Act. 42 USC 7401 
+note.>> 
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Chemical Safety Information, Site 
+Security and Fuels Regulatory Relief Act''.
+SEC. 2. REMOVAL OF PROPANE SOLD BY RETAILERS AND OTHER FLAMMABLE 
+                    FUELS FROM RISK MANAGEMENT LIST.
+
+    Section 112(r) of the Clean Air Act (42 U.S.C. 7412(r)) is amended--
+            (1) by redesignating subparagraphs (A) through (C) of 
+        paragraph (4) as clauses (i) through (iii), respectively, and 
+        indenting appropriately;
+            (2) by striking in paragraph (4) ``Administrator shall 
+        consider each of the following criteria--'' and inserting the 
+        following: ``Administrator--
+                    ``(A) shall consider--'';
+            (3) in subparagraph (A)(iii) (as designated by paragraphs 
+        (1) and (2)), of paragraph (4) by striking the period at the end 
+        and inserting ``; and'';
+            (4) by adding at the end of paragraph (4) the following:
+                    ``(B) shall not list a flammable substance when used 
+                as a fuel or held for sale as a fuel at a retail 
+                facility under this subsection solely because of the 
+                explosive or flammable properties of the substance, 
+                unless a fire or explosion caused by the substance will 
+                result in acute adverse health effects from human 
+                exposure to the substance, including the unburned fuel 
+                or its combustion byproducts, other than those caused by 
+                the heat of the fire or impact of the explosion.''; and
+            (5) by inserting the following new subparagraph at the end 
+        of paragraph (2):
+                    ``(D) The term `retail facility' means a stationary 
+                source at which more than one-half of the income is 
+                obtained from direct sales to end users or at which more 
+                than one-half of the fuel sold, by volume, is sold 
+                through a cylinder exchange program.''.
+
+[[Page 113 STAT. 208]]
+
+SEC. 3. PUBLIC ACCESS TO OFF-SITE CONSEQUENCE ANALYSIS 
+                    INFORMATION.
+
+    (a) In General.--Section 112(r)(7) of the Clean Air Act (42 U.S.C. 
+7412(r)(7)) is amended by adding at the end the following:
+                    ``(H) Public access to off-site consequence analysis 
+                information.--
+                          ``(i) Definitions.--In this subparagraph:
+                                    ``(I) Covered person.--The term 
+                                `covered person' means--
+                                            ``(aa) an officer or 
+                                        employee of the United States;
+                                            ``(bb) an officer or 
+                                        employee of an agent or 
+                                        contractor of the Federal 
+                                        Government;
+                                            ``(cc) an officer or 
+                                        employee of a State or local 
+                                        government;
+                                            ``(dd) an officer or 
+                                        employee of an agent or 
+                                        contractor of a State or local 
+                                        government;
+                                            ``(ee) an individual 
+                                        affiliated with an entity that 
+                                        has been given, by a State or 
+                                        local government, responsibility 
+                                        for preventing, planning for, or 
+                                        responding to accidental 
+                                        releases;
+                                            ``(ff) an officer or 
+                                        employee or an agent or 
+                                        contractor of an entity 
+                                        described in item (ee); and
+                                            ``(gg) a qualified 
+                                        researcher under clause (vii).
+                                    ``(II) Official use.--The term 
+                                `official use' means an action of a 
+                                Federal, State, or local government 
+                                agency or an entity referred to in 
+                                subclause (I)(ee) intended to carry out 
+                                a function relevant to preventing, 
+                                planning for, or responding to 
+                                accidental releases.
+                                    ``(III) Off-site consequence 
+                                analysis information.--The term `off-
+                                site consequence analysis information' 
+                                means those portions of a risk 
+                                management plan, excluding the executive 
+                                summary of the plan, consisting of an 
+                                evaluation of 1 or more worst-case 
+                                release scenarios or alternative release 
+                                scenarios, and any electronic data base 
+                                created by the Administrator from those 
+                                portions.
+                                    ``(IV) Risk management plan.--The 
+                                term `risk management plan' means a risk 
+                                management plan submitted to the 
+                                Administrator by an owner or operator of 
+                                a stationary source under subparagraph 
+                                (B)(iii).
+                          `` <<NOTE: Deadline. President.>> (ii) 
+                      Regulations.--Not later than 1 year after the date 
+                      of enactment of this subparagraph, the President 
+                      shall--
+                                    ``(I) assess--
+                                            ``(aa) the increased risk of 
+                                        terrorist and other criminal 
+                                        activity associated with the 
+                                        posting of off-site consequence 
+                                        analysis information on the 
+                                        Internet; and
+                                            ``(bb) the incentives 
+                                        created by public disclosure of 
+                                        off-site consequence analysis
+
+[[Page 113 STAT. 209]]
+
+                                        information for reduction in the 
+                                        risk of accidental releases; and
+                                    ``(II) based on the assessment under 
+                                subclause (I), promulgate regulations 
+                                governing the distribution of off-site 
+                                consequence analysis information in a 
+                                manner that, in the opinion of the 
+                                President, minimizes the likelihood of 
+                                accidental releases and the risk 
+                                described in subclause (I)(aa) and the 
+                                likelihood of harm to public health and 
+                                welfare, and--
+                                            ``(aa) allows access by any 
+                                        member of the public to paper 
+                                        copies of off-site consequence 
+                                        analysis information for a 
+                                        limited number of stationary 
+                                        sources located anywhere in the 
+                                        United States, without any 
+                                        geographical restriction;
+                                            ``(bb) allows other public 
+                                        access to off-site consequence 
+                                        analysis information as 
+                                        appropriate;
+                                            ``(cc) allows access for 
+                                        official use by a covered person 
+                                        described in any of items (cc) 
+                                        through (ff) of clause (i)(I) 
+                                        (referred to in this subclause 
+                                        as a `State or local covered 
+                                        person') to off-site consequence 
+                                        analysis information relating to 
+                                        stationary sources located in 
+                                        the person's State;
+                                            ``(dd) allows a State or 
+                                        local covered person to provide, 
+                                        for official use, off-site 
+                                        consequence analysis information 
+                                        relating to stationary sources 
+                                        located in the person's State to 
+                                        a State or local covered person 
+                                        in a contiguous State; and
+                                            ``(ee) allows a State or 
+                                        local covered person to obtain 
+                                        for official use, by request to 
+                                        the Administrator, off-site 
+                                        consequence analysis information 
+                                        that is not available to the 
+                                        person under item (cc).
+                          ``(iii) Availability under freedom of 
+                      information act.--
+                                    ``(I) First year.--Off-site 
+                                consequence analysis information, and 
+                                any ranking of stationary sources 
+                                derived from the information, shall not 
+                                be made available under section 552 of 
+                                title 5, United States Code, during the 
+                                1-year period beginning on the date of 
+                                enactment of this subparagraph.
+                                    ``(II) After first year.--If the 
+                                regulations under clause (ii) are 
+                                promulgated on or before the end of the 
+                                period described in subclause (I), off-
+                                site consequence analysis information 
+                                covered by the regulations, and any 
+                                ranking of stationary sources derived 
+                                from the information, shall not be made 
+                                available under section 552 of title 5, 
+                                United States Code, after the end of 
+                                that period.
+                                    ``(III) Applicability.--Subclauses 
+                                (I) and (II) apply to off-site 
+                                consequence analysis information 
+                                submitted to the Administrator before, 
+                                on, or after the date of enactment of 
+                                this subparagraph.
+
+[[Page 113 STAT. 210]]
+
+                          ``(iv) Availability of information during 
+                      transition period.--The Administrator shall make 
+                      off-site consequence analysis information 
+                      available to covered persons for official use in a 
+                      manner that meets the requirements of items (cc) 
+                      through (ee) of clause (ii)(II), and to the public 
+                      in a form that does not make available any 
+                      information concerning the identity or location of 
+                      stationary sources, during the period--
+                                    ``(I) beginning on the date of 
+                                enactment of this subparagraph; and
+                                    ``(II) ending on the earlier of the 
+                                date of promulgation of the regulations 
+                                under clause (ii) or the date that is 1 
+                                year after the date of enactment of this 
+                                subparagraph.
+                          ``(v) Prohibition on unauthorized disclosure 
+                      of information by covered persons.--
+                                    `` <<NOTE: Effective date.>> (I) In 
+                                general.--Beginning on the date of 
+                                enactment of this subparagraph, a 
+                                covered person shall not disclose to the 
+                                public off-site consequence analysis 
+                                information in any form, or any 
+                                statewide or national ranking of 
+                                identified stationary sources derived 
+                                from such information, except as 
+                                authorized by this subparagraph 
+                                (including the regulations promulgated 
+                                under clause (ii)). After the end of the 
+                                1-year period beginning on the date of 
+                                enactment of this subparagraph, if 
+                                regulations have not been promulgated 
+                                under clause (ii), the preceding 
+                                sentence shall not apply.
+                                    ``(II) Criminal penalties.--
+                                Notwithstanding section 113, a covered 
+                                person that willfully violates a 
+                                restriction or prohibition established 
+                                by this subparagraph (including the 
+                                regulations promulgated under clause 
+                                (ii)) shall, upon conviction, be fined 
+                                for an infraction under section 3571 of 
+                                title 18, United States Code, (but shall 
+                                not be subject to imprisonment) for each 
+                                unauthorized disclosure of off-site 
+                                consequence analysis information, except 
+                                that subsection (d) of such section 3571 
+                                shall not apply to a case in which the 
+                                offense results in pecuniary loss unless 
+                                the defendant knew that such loss would 
+                                occur. The disclosure of off-site 
+                                consequence analysis information for 
+                                each specific stationary source shall be 
+                                considered a separate offense. The total 
+                                of all penalties that may be imposed on 
+                                a single person or organization under 
+                                this item shall not exceed $1,000,000 
+                                for violations committed during any 1 
+                                calendar year.
+                                    ``(III) Applicability.--If the owner 
+                                or operator of a stationary source makes 
+                                off-site consequence analysis 
+                                information relating to that stationary 
+                                source available to the public without 
+                                restriction--
+                                            ``(aa) subclauses (I) and 
+                                        (II) shall not apply with 
+                                        respect to the information; and
+                                            
+                                        `` <<NOTE: Notification.>> (bb) 
+                                        the owner or operator shall 
+                                        notify the Administrator of the 
+                                        public availability of the 
+                                        information.
+
+[[Page 113 STAT. 211]]
+
+                                    ``(IV) List.--The Administrator 
+                                shall maintain and make publicly 
+                                available a list of all stationary 
+                                sources that have provided notification 
+                                under subclause (III)(bb).
+                          ``(vi) Notice.--The Administrator shall 
+                      provide notice of the definition of official use 
+                      as provided in clause (i)(III) and examples of 
+                      actions that would and would not meet that 
+                      definition, and notice of the restrictions on 
+                      further dissemination and the penalties 
+                      established by this Act to each covered person who 
+                      receives off-site consequence analysis information 
+                      under clause (iv) and each covered person who 
+                      receives off-site consequence analysis information 
+                      for an official use under the regulations 
+                      promulgated under clause (ii).
+                          ``(vii) Qualified researchers.--
+                                    `` <<NOTE: Deadline.>> (I) In 
+                                general.--Not later than 180 days after 
+                                the date of enactment of this 
+                                subparagraph, the Administrator, in 
+                                consultation with the Attorney General, 
+                                shall develop and implement a system for 
+                                providing off-site consequence analysis 
+                                information, including facility 
+                                identification, to any qualified 
+                                researcher, including a qualified 
+                                researcher from industry or any public 
+                                interest group.
+                                    ``(II) Limitation on 
+                                dissemination.--The system shall not 
+                                allow the researcher to disseminate, or 
+                                make available on the Internet, the off-
+                                site consequence analysis information, 
+                                or any portion of the off-site 
+                                consequence analysis information, 
+                                received under this clause.
+                          ``(viii) Read-only information technology 
+                      system.--In consultation with the Attorney General 
+                      and the heads of other appropriate Federal 
+                      agencies, the Administrator shall establish an 
+                      information technology system that provides for 
+                      the availability to the public of off-site 
+                      consequence analysis information by means of a 
+                      central data base under the control of the Federal 
+                      Government that contains information that users 
+                      may read, but that provides no means by which an 
+                      electronic or mechanical copy of the information 
+                      may be made.
+                          ``(ix) Voluntary industry accident prevention 
+                      standards.--The Environmental Protection Agency, 
+                      the Department of Justice, and other appropriate 
+                      agencies may provide technical assistance to 
+                      owners and operators of stationary sources and 
+                      participate in the development of voluntary 
+                      industry standards that will help achieve the 
+                      objectives set forth in paragraph (1).
+                          ``(x) Effect on state or local law.--
+                                    ``(I) In general.--Subject to 
+                                subclause (II), this subparagraph 
+                                (including the regulations promulgated 
+                                under this subparagraph) shall supersede 
+                                any provision of State or local law that 
+                                is inconsistent with this subparagraph 
+                                (including the regulations).
+
+[[Page 113 STAT. 212]]
+
+                                    ``(II) Availability of information 
+                                under state law.--Nothing in this 
+                                subparagraph precludes a State from 
+                                making available data on the off-site 
+                                consequences of chemical releases 
+                                collected in accordance with State law.
+                          ``(xi) Report.--
+                                    `` <<NOTE: Deadline.>> (I) In 
+                                general.--Not later than 3 years after 
+                                the date of enactment of this 
+                                subparagraph, the Attorney General, in 
+                                consultation with appropriate State, 
+                                local, and Federal Government agencies, 
+                                affected industry, and the public, shall 
+                                submit to Congress a report that 
+                                describes the extent to which 
+                                regulations promulgated under this 
+                                paragraph have resulted in actions, 
+                                including the design and maintenance of 
+                                safe facilities, that are effective in 
+                                detecting, preventing, and minimizing 
+                                the consequences of releases of 
+                                regulated substances that may be caused 
+                                by criminal activity. As part of this 
+                                report, the Attorney General, using 
+                                available data to the extent possible, 
+                                and a sampling of covered stationary 
+                                sources selected at the discretion of 
+                                the Attorney General, and in 
+                                consultation with appropriate State, 
+                                local, and Federal governmental 
+                                agencies, affected industry, and the 
+                                public, shall review the vulnerability 
+                                of covered stationary sources to 
+                                criminal and terrorist activity, current 
+                                industry practices regarding site 
+                                security, and security of transportation 
+                                of regulated substances. The Attorney 
+                                General shall submit this report, 
+                                containing the results of the review, 
+                                together with recommendations, if any, 
+                                for reducing vulnerability of covered 
+                                stationary sources to criminal and 
+                                terrorist activity, to the Committee on 
+                                Commerce of the United States House of 
+                                Representatives and the Committee on 
+                                Environment and Public Works of the 
+                                United States Senate and other relevant 
+                                committees of Congress.
+                                    `` <<NOTE: Deadline.>> (II) Interim 
+                                report.--Not later than 12 months after 
+                                the date of enactment of this 
+                                subparagraph, the Attorney General shall 
+                                submit to the Committee on Commerce of 
+                                the United States House of 
+                                Representatives and the Committee on 
+                                Environment and Public Works of the 
+                                United States Senate, and other relevant 
+                                committees of Congress, an interim 
+                                report that includes, at a minimum--
+                                            ``(aa) the preliminary 
+                                        findings under subclause (I);
+                                            ``(bb) the methods used to 
+                                        develop the findings; and
+                                            ``(cc) an explanation of the 
+                                        activities expected to occur 
+                                        that could cause the findings of 
+                                        the report under subclause (I) 
+                                        to be different than the 
+                                        preliminary findings.
+
+[[Page 113 STAT. 213]]
+
+                                    ``(III) Availability of 
+                                information.--Information that is 
+                                developed by the Attorney General or 
+                                requested by the Attorney General and 
+                                received from a covered stationary 
+                                source for the purpose of conducting the 
+                                review under subclauses (I) and (II) 
+                                shall be exempt from disclosure under 
+                                section 552 of title 5, United States 
+                                Code, if such information would pose a 
+                                threat to national security.
+                          ``(xii) Scope.--This subparagraph--
+                                    ``(I) applies only to covered 
+                                persons; and
+                                    ``(II) does not restrict the 
+                                dissemination of off-site consequence 
+                                analysis information by any covered 
+                                person in any manner or form except in 
+                                the form of a risk management plan or an 
+                                electronic data base created by the 
+                                Administrator from off-site consequence 
+                                analysis information.
+                          ``(xiii) Authorization of appropriations.--
+                      There are authorized to be appropriated to the 
+                      Administrator and the Attorney General such sums 
+                      as are necessary to carry out this subparagraph 
+                      (including the regulations promulgated under 
+                      clause (ii)), to remain available until 
+                      expended.''.
+
+     <<NOTE: 42 USC 7412 note.>> (b) Reports.--
+            (1) Definition of accidental release.--In this subsection, 
+        the term ``accidental release'' has the meaning given the term 
+        in section 112(r)(2) of the Clean Air Act (42 U.S.C. 
+        7412(r)(2)).
+            (2) Report <<NOTE: Deadline.>> on status of certain 
+        amendments.--Not later than 2 years after the date of enactment 
+        of this Act, the Comptroller General of the United States shall 
+        submit to Congress a report on the status of the development of 
+        amendments to the National Fire Protection Association Code for 
+        Liquefied Petroleum Gas that will result in the provision of 
+        information to local emergency response personnel concerning the 
+        off-site effects of accidental releases of substances exempted 
+        from listing under section 112(r)(4)(B) of the Clean Air Act (as 
+        added by section 3).
+            (3) Report <<NOTE: Deadline.>> on compliance with certain 
+        information submission requirements.--Not later than 3 years 
+        after the date of enactment of this Act, the Comptroller General 
+        of the United States shall submit to Congress a report that--
+                    (A) describes the level of compliance with Federal 
+                and State requirements relating to the submission to 
+                local emergency response personnel of information 
+                intended to help the local emergency response personnel 
+                respond to chemical accidents or related environmental 
+                or public health threats; and
+                    (B) contains an analysis of the adequacy of the 
+                information required to be submitted and the efficacy of 
+                the methods for delivering the information to local 
+                emergency response personnel.
+
+    (c) Reevaluation <<NOTE: President. Deadline. 42 USC 7412 note.>> of 
+Regulations.--The President shall reevaluate the regulations promulgated 
+under this section within 6 years after the enactment of this Act. If 
+the President determines not to modify such regulations, the President 
+shall publish a notice in the Federal Register stating that such 
+reevaluation has been
+
+[[Page 113 STAT. 214]]
+
+completed and that a determination has been made not to modify the 
+regulations. Such notice shall include an explanation of the basis of 
+such decision.
+
+SEC. 4. <<NOTE: 42 USC 7412 note.>> PUBLIC MEETING DURING MORATORIUM 
+            PERIOD.
+
+    (a) In <<NOTE: Deadline.>> General.--Not later than 180 days after 
+the date of enactment of this Act, each owner or operator of a 
+stationary source covered by section 112(r)(7)(B)(ii) of the Clean Air 
+Act shall convene a public meeting, after reasonable public notice, in 
+order to describe and discuss the local implications of the risk 
+management plan submitted by the stationary source pursuant to section 
+112(r)(7)(B)(iii) of the Clean Air Act, including a summary of the off-
+site consequence analysis portion of the plan. Two or more stationary 
+sources may conduct a joint meeting. In lieu of conducting such a 
+meeting, small business stationary sources as defined in section 
+507(c)(1) of the Clean Air Act may comply with this section by publicly 
+posting a summary of the off-site consequence analysis information for 
+their facility not later than 180 days after the enactment of this 
+Act. <<NOTE: Certification.>> Not later than 10 months after the date of 
+enactment of this Act, each such owner or operator shall send a 
+certification to the director of the Federal Bureau of Investigation 
+stating that such meeting has been held, or that such summary has been 
+posted, within 1 year prior to, or within 6 months after, the date of 
+the enactment of this Act. This section shall not apply to sources that 
+employ only Program 1 processes within the meaning of regulations 
+promulgated under section 112(r)(7)(B)(i) of the Clean Air Act.
+
+    (b) Enforcement.--The Administrator of the Environmental Protection 
+Agency may bring an action in the appropriate United States district 
+court against any person who fails or refuses to comply with the 
+requirements of this section, and such court may issue such orders, and 
+take such other actions, as may be necessary to require compliance with 
+such requirements.
+
+    Approved Aug. 5, 1999.
+
+LEGISLATIVE HISTORY--S. 880:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 106-70 (Comm. on Environment and Public Works).
+CONGRESSIONAL RECORD, Vol. 145 (1999):
+            June 23, considered and passed Senate.
+            July 21, considered and passed House, amended.
+            Aug. 2, Senate concurred in House amendments.
+
+                                  
+

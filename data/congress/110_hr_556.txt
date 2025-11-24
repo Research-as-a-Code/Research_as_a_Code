@@ -1,0 +1,955 @@
+
+[110th Congress Public Law 49]
+[From the U.S. Government Printing Office]
+
+
+[DOCID: f:publ049.110]
+
+[[Page 245]]
+
+          FOREIGN INVESTMENT AND NATIONAL SECURITY ACT OF 2007
+
+[[Page 121 STAT. 246]]
+
+Public Law 110-49
+110th Congress
+
+                                 An Act
+
+
+ 
+ To ensure national security while promoting foreign investment and the 
+ creation and maintenance of jobs, to reform the process by which such 
+   investments are examined for any effect they may have on national 
+security, to establish the Committee on Foreign Investment in the United 
+ States, and for other purposes. <<NOTE: July 26, 2007 -  [H.R. 556]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress <<NOTE: Foreign Investment and 
+National Security Act of 2007. 50 USC app. 2061 note.>> assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Foreign Investment 
+and National Security Act of 2007''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. United States security improvement amendments; clarification of 
+           review and investigation process.
+Sec. 3. Statutory establishment of the Committee on Foreign Investment 
+           in the United States.
+Sec. 4. Additional factors for consideration.
+Sec. 5. Mitigation, tracking, and postconsummation monitoring and 
+           enforcement.
+Sec. 6. Action by the President.
+Sec. 7. Increased oversight by Congress.
+Sec. 8. Certification of notices and assurances.
+Sec. 9. Regulations.
+Sec. 10. Effect on other law.
+Sec. 11. Clerical amendments
+Sec. 12. Effective date.
+
+SEC. 2. UNITED STATES SECURITY IMPROVEMENT AMENDMENTS; CLARIFICATION OF 
+            REVIEW AND INVESTIGATION PROCESS.
+
+    Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170) is amended by striking subsections (a) and (b) and inserting the 
+following:
+    ``(a) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Committee; chairperson.--The terms `Committee' and 
+        `chairperson' mean the Committee on Foreign Investment in the 
+        United States and the chairperson thereof, respectively.
+            ``(2) Control.--The term `control' has the meaning given to 
+        such term in regulations which the Committee shall prescribe.
+            ``(3) Covered transaction.--The term `covered transaction' 
+        means any merger, acquisition, or takeover that is proposed or 
+        pending after August 23, 1988, by or with any foreign person 
+        which could result in foreign control of any person engaged in 
+        interstate commerce in the United States.
+
+[[Page 121 STAT. 247]]
+
+            ``(4) Foreign government-controlled transaction.--The term 
+        `foreign government-controlled transaction' means any covered 
+        transaction that could result in the control of any person 
+        engaged in interstate commerce in the United States by a foreign 
+        government or an entity controlled by or acting on behalf of a 
+        foreign government.
+            ``(5) Clarification.--The term `national security' shall be 
+        construed so as to include those issues relating to `homeland 
+        security', including its application to critical infrastructure.
+            ``(6) Critical infrastructure.--The term `critical 
+        infrastructure' means, subject to rules issued under this 
+        section, systems and assets, whether physical or virtual, so 
+        vital to the United States that the incapacity or destruction of 
+        such systems or assets would have a debilitating impact on 
+        national security.
+            ``(7) Critical technologies.--The term `critical 
+        technologies' means critical technology, critical components, or 
+        critical technology items essential to national defense, 
+        identified pursuant to this section, subject to regulations 
+        issued at the direction of the President, in accordance with 
+        subsection (h).
+            ``(8) Lead agency.--The term `lead agency' means the agency, 
+        or agencies, designated as the lead agency or agencies pursuant 
+        to subsection (k)(5) for the review of a transaction.
+
+    ``(b) National Security Reviews and Investigations.--
+            ``(1) National security reviews.--
+                    ``(A) <<NOTE: President.>> In general.--Upon 
+                receiving written notification under subparagraph (C) of 
+                any covered transaction, or pursuant to a unilateral 
+                notification initiated under subparagraph (D) with 
+                respect to any covered transaction, the President, 
+                acting through the Committee--
+                          ``(i) shall review the covered transaction to 
+                      determine the effects of the transaction on the 
+                      national security of the United States; and
+                          ``(ii) shall consider the factors specified in 
+                      subsection (f) for such purpose, as appropriate.
+                    ``(B) Control by foreign government.--If the 
+                Committee determines that the covered transaction is a 
+                foreign government-controlled transaction, the Committee 
+                shall conduct an investigation of the transaction under 
+                paragraph (2).
+                    ``(C) Written notice.--
+                          ``(i) In general.--Any party or parties to any 
+                      covered transaction may initiate a review of the 
+                      transaction under this paragraph by submitting a 
+                      written notice of the transaction to the 
+                      Chairperson of the Committee.
+                          ``(ii) Withdrawal of notice.--No covered 
+                      transaction for which a notice was submitted under 
+                      clause (i) may be withdrawn from review, unless a 
+                      written request for such withdrawal is submitted 
+                      to the Committee by any party to the transaction 
+                      and approved by the Committee.
+                          ``(iii) Continuing discussions.--A request for 
+                      withdrawal under clause (ii) shall not be 
+                      construed to preclude any party to the covered 
+                      transaction from continuing informal discussions 
+                      with the Committee
+
+[[Page 121 STAT. 248]]
+
+                      or any member thereof regarding possible 
+                      resubmission for review pursuant to this 
+                      paragraph.
+                    ``(D) Unilateral initiation of review.--Subject to 
+                subparagraph (F), the President or the Committee may 
+                initiate a review under subparagraph (A) of--
+                          ``(i) any covered transaction;
+                          ``(ii) any covered transaction that has 
+                      previously been reviewed or investigated under 
+                      this section, if any party to the transaction 
+                      submitted false or misleading material information 
+                      to the Committee in connection with the review or 
+                      investigation or omitted material information, 
+                      including material documents, from information 
+                      submitted to the Committee; or
+                          ``(iii) any covered transaction that has 
+                      previously been reviewed or investigated under 
+                      this section, if--
+                                    ``(I) any party to the transaction 
+                                or the entity resulting from 
+                                consummation of the transaction 
+                                intentionally materially breaches a 
+                                mitigation agreement or condition 
+                                described in subsection (l)(1)(A);
+                                    ``(II) such breach is certified to 
+                                the Committee by the lead department or 
+                                agency monitoring and enforcing such 
+                                agreement or condition as an intentional 
+                                material breach; and
+                                    ``(III) the Committee determines 
+                                that there are no other remedies or 
+                                enforcement tools available to address 
+                                such breach.
+                    ``(E) Timing.--Any <<NOTE: Deadline.>>  review under 
+                this paragraph shall be completed before the end of the 
+                30-day period beginning on the date of the acceptance of 
+                written notice under subparagraph (C) by the 
+                chairperson, or beginning on the date of the initiation 
+                of the review in accordance with subparagraph (D), as 
+                applicable.
+                    ``(F) Limit on delegation of certain authority.--The 
+                authority of the Committee to initiate a review under 
+                subparagraph (D) may not be delegated to any person, 
+                other than the Deputy Secretary or an appropriate Under 
+                Secretary of the department or agency represented on the 
+                Committee.
+            ``(2) National security investigations.--
+                    ``(A) In general.--In each case described in 
+                subparagraph (B), the Committee shall immediately 
+                conduct an investigation of the effects of a covered 
+                transaction on the national security of the United 
+                States, and take any necessary actions in connection 
+                with the transaction to protect the national security of 
+                the United States.
+                    ``(B) Applicability.--Subparagraph (A) shall apply 
+                in each case in which--
+                          ``(i) a review of a covered transaction under 
+                      paragraph (1) results in a determination that--
+                                    ``(I) the transaction threatens to 
+                                impair the national security of the 
+                                United States and that threat has not 
+                                been mitigated during or prior to the 
+                                review of a covered transaction under 
+                                paragraph (1);
+                                    ``(II) the transaction is a foreign 
+                                government-controlled transaction; or
+
+[[Page 121 STAT. 249]]
+
+                                    ``(III) the transaction would result 
+                                in control of any critical 
+                                infrastructure of or within the United 
+                                States by or on behalf of any foreign 
+                                person, if the Committee determines that 
+                                the transaction could impair national 
+                                security, and that such impairment to 
+                                national security has not been mitigated 
+                                by assurances provided or renewed with 
+                                the approval of the Committee, as 
+                                described in subsection (l), during the 
+                                review period under paragraph (1); or
+                          ``(ii) the lead agency recommends, and the 
+                      Committee concurs, that an investigation be 
+                      undertaken.
+                    ``(C) Timing.--Any <<NOTE: Deadline.>>  
+                investigation under subparagraph (A) shall be completed 
+                before the end of the 45-day period beginning on the 
+                date on which the investigation commenced.
+                    ``(D) Exception.--
+                          ``(i) In general.--Notwithstanding 
+                      subparagraph (B)(i), an investigation of a foreign 
+                      government-controlled transaction described in 
+                      subclause (II) of subparagraph (B)(i) or a 
+                      transaction involving critical infrastructure 
+                      described in subclause (III) of subparagraph 
+                      (B)(i) shall not be required under this paragraph, 
+                      if the Secretary of the Treasury and the head of 
+                      the lead agency jointly determine, on the basis of 
+                      the review of the transaction under paragraph (1), 
+                      that the transaction will not impair the national 
+                      security of the United States.
+                          ``(ii) Nondelegation.--The authority of the 
+                      Secretary or the head of an agency referred to in 
+                      clause (i) may not be delegated to any person, 
+                      other than the Deputy Secretary of the Treasury or 
+                      the deputy head (or the equivalent thereof) of the 
+                      lead agency, respectively.
+                    ``(E) Guidance on certain transactions with national 
+                security implications.--The <<NOTE: Deadline. Federal 
+                Register, publication.>>  Chairperson shall, not later 
+                than 180 days after the effective date of the Foreign 
+                Investment and National Security Act of 2007, publish in 
+                the Federal Register guidance on the types of 
+                transactions that the Committee has reviewed and that 
+                have presented national security considerations, 
+                including transactions that may constitute covered 
+                transactions that would result in control of critical 
+                infrastructure relating to United States national 
+                security by a foreign government or an entity controlled 
+                by or acting on behalf of a foreign government.
+            ``(3) Certifications to congress.--
+                    ``(A) Certified notice at completion of review.--
+                Upon completion of a review under subsection (b) that 
+                concludes action under this section, the chairperson and 
+                the head of the lead agency shall transmit a certified 
+                notice to the members of Congress specified in 
+                subparagraph (C)(iii).
+                    ``(B) Certified report at completion of 
+                investigation.--As soon as is practicable after 
+                completion of an investigation under subsection (b) that 
+                concludes action under this section, the chairperson and 
+                the head of the
+
+[[Page 121 STAT. 250]]
+
+                lead agency shall transmit to the members of Congress 
+                specified in subparagraph (C)(iii) a certified written 
+                report (consistent with the requirements of subsection 
+                (c)) on the results of the investigation, unless the 
+                matter under investigation has been sent to the 
+                President for decision.
+                    ``(C) Certification procedures.--
+                          ``(i) In general.--Each certified notice and 
+                      report required under subparagraphs (A) and (B), 
+                      respectively, shall be submitted to the members of 
+                      Congress specified in clause (iii), and shall 
+                      include--
+                                    ``(I) a description of the actions 
+                                taken by the Committee with respect to 
+                                the transaction; and
+                                    ``(II) identification of the 
+                                determinative factors considered under 
+                                subsection (f).
+                          ``(ii) Content of certification.--Each 
+                      certified notice and report required under 
+                      subparagraphs (A) and (B), respectively, shall be 
+                      signed by the chairperson and the head of the lead 
+                      agency, and shall state that, in the determination 
+                      of the Committee, there are no unresolved national 
+                      security concerns with the transaction that is the 
+                      subject of the notice or report.
+                          ``(iii) Members of congress.--Each certified 
+                      notice and report required under subparagraphs (A) 
+                      and (B), respectively, shall be transmitted--
+                                    ``(I) to the Majority Leader and the 
+                                Minority Leader of the Senate;
+                                    ``(II) to the chair and ranking 
+                                member of the Committee on Banking, 
+                                Housing, and Urban Affairs of the Senate 
+                                and of any committee of the Senate 
+                                having oversight over the lead agency;
+                                    ``(III) to the Speaker and the 
+                                Minority Leader of the House of 
+                                Representatives;
+                                    ``(IV) to the chair and ranking 
+                                member of the Committee on Financial 
+                                Services of the House of Representatives 
+                                and of any committee of the House of 
+                                Representatives having oversight over 
+                                the lead agency; and
+                                    ``(V) with respect to covered 
+                                transactions involving critical 
+                                infrastructure, to the members of the 
+                                Senate from the State in which the 
+                                principal place of business of the 
+                                acquired United States person is 
+                                located, and the member from the 
+                                Congressional District in which such 
+                                principal place of business is located.
+                          ``(iv) Signatures; limit on delegation.--
+                                    ``(I) In general.--Each certified 
+                                notice and report required under 
+                                subparagraphs (A) and (B), respectively, 
+                                shall be signed by the chairperson and 
+                                the head of the lead agency, which 
+                                signature requirement may only be 
+                                delegated in accordance with subclause 
+                                (II).
+                                    ``(II) Limitation on delegation of 
+                                certifications.--The chairperson and the 
+                                head of the lead agency may delegate the 
+                                signature requirement under subclause 
+                                (I)--
+                                            ``(aa) only to an 
+                                        appropriate employee of the 
+                                        Department of the Treasury (in 
+                                        the case
+
+[[Page 121 STAT. 251]]
+
+                                        of the Secretary of the 
+                                        Treasury) or to an appropriate 
+                                        employee of the lead agency (in 
+                                        the case of the lead agency) who 
+                                        was appointed by the President, 
+                                        by and with the advice and 
+                                        consent of the Senate, with 
+                                        respect to any notice provided 
+                                        under paragraph (1) following 
+                                        the completion of a review under 
+                                        this section; or
+                                            ``(bb) only to a Deputy 
+                                        Secretary of the Treasury (in 
+                                        the case of the Secretary of the 
+                                        Treasury) or a person serving in 
+                                        the Deputy position or the 
+                                        equivalent thereof at the lead 
+                                        agency (in the case of the lead 
+                                        agency), with respect to any 
+                                        report provided under 
+                                        subparagraph (B) following an 
+                                        investigation under this 
+                                        section.
+            ``(4) Analysis by director of national intelligence.--
+                    ``(A) In general.--The Director of National 
+                Intelligence shall expeditiously carry out a thorough 
+                analysis of any threat to the national security of the 
+                United States posed by any covered transaction. The 
+                Director of National Intelligence shall also seek and 
+                incorporate the views of all affected or appropriate 
+                intelligence agencies with respect to the transaction.
+                    ``(B) Timing.--The <<NOTE: Deadline.>>  analysis 
+                required under subparagraph (A) shall be provided by the 
+                Director of National Intelligence to the Committee not 
+                later than 20 days after the date on which notice of the 
+                transaction is accepted by the Committee under paragraph 
+                (1)(C), but such analysis may be supplemented or 
+                amended, as the Director considers necessary or 
+                appropriate, or upon a request for additional 
+                information by the Committee. The Director may begin the 
+                analysis at any time prior to acceptance of the notice, 
+                in accordance with otherwise applicable law.
+                    ``(C) Interaction with intelligence community.--The 
+                Director of National Intelligence shall ensure that the 
+                intelligence community remains engaged in the 
+                collection, analysis, and dissemination to the Committee 
+                of any additional relevant information that may become 
+                available during the course of any investigation 
+                conducted under subsection (b) with respect to a 
+                transaction.
+                    ``(D) Independent role of director.--The Director of 
+                National Intelligence shall be a nonvoting, ex officio 
+                member of the Committee, and shall be provided with all 
+                notices received by the Committee under paragraph (1)(C) 
+                regarding covered transactions, but shall serve no 
+                policy role on the Committee, other than to provide 
+                analysis under subparagraphs (A) and (C) in connection 
+                with a covered transaction.
+            ``(5) Submission of additional information.--No provision of 
+        this subsection shall be construed as prohibiting any party to a 
+        covered transaction from submitting additional information 
+        concerning the transaction, including any proposed restructuring 
+        of the transaction or any modifications to any agreements in 
+        connection with the transaction, while any review or 
+        investigation of the transaction is ongoing.
+
+[[Page 121 STAT. 252]]
+
+            ``(6) Notice of results to parties.--The Committee shall 
+        notify the parties to a covered transaction of the results of a 
+        review or investigation under this section, promptly upon 
+        completion of all action under this section.
+            ``(7) Regulations.--Regulations prescribed under this 
+        section shall include standard procedures for--
+                    ``(A) submitting any notice of a covered transaction 
+                to the Committee;
+                    ``(B) submitting a request to withdraw a covered 
+                transaction from review;
+                    ``(C) resubmitting a notice of a covered transaction 
+                that was previously withdrawn from review; and
+                    ``(D) providing notice of the results of a review or 
+                investigation to the parties to the covered transaction, 
+                upon completion of all action under this section.''.
+
+SEC. 3. STATUTORY ESTABLISHMENT OF THE COMMITTEE ON FOREIGN INVESTMENT 
+            IN THE UNITED STATES.
+
+    Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170) is amended by striking subsection (k) and inserting the following:
+    ``(k) Committee on Foreign Investment in the United States.--
+            ``(1) Establishment.--The Committee on Foreign Investment in 
+        the United States, established pursuant to Executive Order No. 
+        11858, shall be a multi agency committee to carry out this 
+        section and such other assignments as the President may 
+        designate.
+            ``(2) Membership.--The Committee shall be comprised of the 
+        following members or the designee of any such member:
+                    ``(A) The Secretary of the Treasury.
+                    ``(B) The Secretary of Homeland Security.
+                    ``(C) The Secretary of Commerce.
+                    ``(D) The Secretary of Defense.
+                    ``(E) The Secretary of State.
+                    ``(F) The Attorney General of the United States.
+                    ``(G) The Secretary of Energy.
+                    ``(H) The Secretary of Labor (nonvoting, ex 
+                officio).
+                    ``(I) The Director of National Intelligence 
+                (nonvoting, ex officio).
+                    ``(J) The heads of any other executive department, 
+                agency, or office, as the President determines 
+                appropriate, generally or on a case-by-case basis.
+            ``(3) Chairperson.--The Secretary of the Treasury shall 
+        serve as the chairperson of the Committee.
+            ``(4) <<NOTE: Establishment. President.>> Assistant 
+        secretary for the department of the treasury.--There shall be 
+        established an additional position of Assistant Secretary of the 
+        Treasury, who shall be appointed by the President, by and with 
+        the advice and consent of the Senate. The Assistant Secretary 
+        appointed under this paragraph shall report directly to the 
+        Undersecretary of the Treasury for International Affairs. The 
+        duties of the Assistant Secretary shall include duties related 
+        to the Committee on Foreign Investment in the United States, as 
+        delegated by the Secretary of the Treasury under this section.
+            ``(5) Designation of lead agency.--The Secretary of the 
+        Treasury shall designate, as appropriate, a member or members
+
+[[Page 121 STAT. 253]]
+
+        of the Committee to be the lead agency or agencies on behalf of 
+        the Committee--
+                    ``(A) for each covered transaction, and for 
+                negotiating any mitigation agreements or other 
+                conditions necessary to protect national security; and
+                    ``(B) for all matters related to the monitoring of 
+                the completed transaction, to ensure compliance with 
+                such agreements or conditions and with this section.
+            ``(6) Other members.--The chairperson shall consult with the 
+        heads of such other Federal departments, agencies, and 
+        independent establishments in any review or investigation under 
+        subsection (a), as the chairperson determines to be appropriate, 
+        on the basis of the facts and circumstances of the covered 
+        transaction under review or investigation (or the designee of 
+        any such department or agency head).
+            ``(7) Meetings.--The Committee shall meet upon the direction 
+        of the President or upon the call of the chairperson, without 
+        regard to section 552b of title 5, United States Code (if 
+        otherwise applicable).''.
+
+SEC. 4. ADDITIONAL FACTORS FOR CONSIDERATION.
+
+    Section 721(f) of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170(f)) is amended--
+            (1) in the matter preceding paragraph (1), by striking 
+        ``among other factors'';
+            (2) in paragraph (4)--
+                    (A) in subparagraph (A) by striking ``or'' at the 
+                end;
+                    (B) by redesignating subparagraph (B) as 
+                subparagraph (C);
+                    (C) by inserting after subparagraph (A) the 
+                following:
+                    ``(B) identified by the Secretary of Defense as 
+                posing a potential regional military threat to the 
+                interests of the United States; or''; and
+                    (D) by striking ``and'' at the end;
+            (3) in paragraph (5), by striking the period at the end and 
+        inserting a semicolon; and
+            (4) by adding at the end the following:
+            ``(6) the potential national security-related effects on 
+        United States critical infrastructure, including major energy 
+        assets;
+            ``(7) the potential national security-related effects on 
+        United States critical technologies;
+            ``(8) whether the covered transaction is a foreign 
+        government-controlled transaction, as determined under 
+        subsection (b)(1)(B);
+            ``(9) as appropriate, and particularly with respect to 
+        transactions requiring an investigation under subsection 
+        (b)(1)(B), a review of the current assessment of--
+                    ``(A) the adherence of the subject country to 
+                nonproliferation control regimes, including treaties and 
+                multilateral supply guidelines, which shall draw on, but 
+                not be limited to, the annual report on `Adherence to 
+                and Compliance with Arms Control, Nonproliferation and 
+                Disarmament Agreements and Commitments' required by 
+                section 403 of the Arms Control and Disarmament Act;
+                    ``(B) the relationship of such country with the 
+                United States, specifically on its record on cooperating 
+                in counter-terrorism efforts, which shall draw on, but 
+                not be limited
+
+[[Page 121 STAT. 254]]
+
+                to, the report of the President to Congress under 
+                section 7120 of the Intelligence Reform and Terrorism 
+                Prevention Act of 2004; and
+                    ``(C) the potential for transshipment or diversion 
+                of technologies with military applications, including an 
+                analysis of national export control laws and 
+                regulations;
+            ``(10) the long-term projection of United States 
+        requirements for sources of energy and other critical resources 
+        and material; and
+            ``(11) such other factors as the President or the Committee 
+        may determine to be appropriate, generally or in connection with 
+        a specific review or investigation.''.
+
+SEC. 5. MITIGATION, TRACKING, AND POSTCONSUMMATION MONITORING AND 
+            ENFORCEMENT.
+
+    Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170) is amended by adding at the end the following:
+    ``(l) Mitigation, Tracking, and Postconsummation Monitoring and 
+Enforcement.--
+            ``(1) Mitigation.--
+                    ``(A) In general.--The Committee or a lead agency 
+                may, on behalf of the Committee, negotiate, enter into 
+                or impose, and enforce any agreement or condition with 
+                any party to the covered transaction in order to 
+                mitigate any threat to the national security of the 
+                United States that arises as a result of the covered 
+                transaction.
+                    ``(B) Risk-based analysis required.--Any agreement 
+                entered into or condition imposed under subparagraph (A) 
+                shall be based on a risk-based analysis, conducted by 
+                the Committee, of the threat to national security of the 
+                covered transaction.
+            ``(2) Tracking authority for withdrawn notices.--
+                    ``(A) In general.--If any written notice of a 
+                covered transaction that was submitted to the Committee 
+                under this section is withdrawn before any review or 
+                investigation by the Committee under subsection (b) is 
+                completed, the Committee shall establish, as 
+                appropriate--
+                          ``(i) interim protections to address specific 
+                      concerns with such transaction that have been 
+                      raised in connection with any such review or 
+                      investigation pending any resubmission of any 
+                      written notice under this section with respect to 
+                      such transaction and further action by the 
+                      President under this section;
+                          ``(ii) specific time frames for resubmitting 
+                      any such written notice; and
+                          ``(iii) a process for tracking any actions 
+                      that may be taken by any party to the transaction, 
+                      in connection with the transaction, before the 
+                      notice referred to in clause (ii) is resubmitted.
+                    ``(B) Designation of agency.--The lead agency, other 
+                than any entity of the intelligence community (as 
+                defined in the National Security Act of 1947), shall, on 
+                behalf of the Committee, ensure that the requirements of 
+                subparagraph (A) with respect to any covered transaction 
+                that is subject to such subparagraph are met.
+            ``(3) Negotiation, modification, monitoring, and 
+        enforcement.--
+
+[[Page 121 STAT. 255]]
+
+                    ``(A) Designation of lead agency.--The lead agency 
+                shall negotiate, modify, monitor, and enforce, on behalf 
+                of the Committee, any agreement entered into or 
+                condition imposed under paragraph (1) with respect to a 
+                covered transaction, based on the expertise with and 
+                knowledge of the issues related to such transaction on 
+                the part of the designated department or agency. Nothing 
+                in this paragraph shall prohibit other departments or 
+                agencies in assisting the lead agency in carrying out 
+                the purposes of this paragraph.
+                    ``(B) Reporting by designated agency.--
+                          ``(i) Modification reports.--The lead agency 
+                      in connection with any agreement entered into or 
+                      condition imposed with respect to a covered 
+                      transaction shall--
+                                    ``(I) provide periodic reports to 
+                                the Committee on any material 
+                                modification to any such agreement or 
+                                condition imposed with respect to the 
+                                transaction; and
+                                    ``(II) ensure that any material 
+                                modification to any such agreement or 
+                                condition is reported to the Director of 
+                                National Intelligence, the Attorney 
+                                General of the United States, and any 
+                                other Federal department or agency that 
+                                may have a material interest in such 
+                                modification.
+                          ``(ii) Compliance.--The Committee shall 
+                      develop and agree upon methods for evaluating 
+                      compliance with any agreement entered into or 
+                      condition imposed with respect to a covered 
+                      transaction that will allow the Committee to 
+                      adequately assure compliance, with- out--
+                                    ``(I) unnecessarily diverting 
+                                Committee resources from assessing any 
+                                new covered transaction for which a 
+                                written notice has been filed pursuant 
+                                to subsection (b)(1)(C), and if 
+                                necessary, reaching a mitigation 
+                                agreement with or imposing a condition 
+                                on a party to such covered transaction 
+                                or any covered transaction for which a 
+                                review has been reopened for any reason; 
+                                or
+                                    ``(II) placing unnecessary burdens 
+                                on a party to a covered transaction.''.
+
+SEC. 6. ACTION BY THE PRESIDENT.
+
+    Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170) is amended by striking subsections (d) and (e) and inserting the 
+following:
+    ``(d) Action by the President.--
+            ``(1) In general.--Subject to paragraph (4), the President 
+        may take such action for such time as the President considers 
+        appropriate to suspend or prohibit any covered transaction that 
+        threatens to impair the national security of the United States.
+            ``(2) <<NOTE: Deadline.>> Announcement by the president.--
+        The President shall announce the decision on whether or not to 
+        take action pursuant to paragraph (1) not later than 15 days 
+        after the date on which an investigation described in subsection 
+        (b) is completed.
+
+[[Page 121 STAT. 256]]
+
+            ``(3) Enforcement.--The President may direct the Attorney 
+        General of the United States to seek appropriate relief, 
+        including divestment relief, in the district courts of the 
+        United States, in order to implement and enforce this 
+        subsection.
+            ``(4) Findings of the president.--The President may exercise 
+        the authority conferred by paragraph (1), only if the President 
+        finds that--
+                    ``(A) there is credible evidence that leads the 
+                President to believe that the foreign interest 
+                exercising control might take action that threatens to 
+                impair the national security; and
+                    ``(B) provisions of law, other than this section and 
+                the International Emergency Economic Powers Act, do not, 
+                in the judgment of the President, provide adequate and 
+                appropriate authority for the President to protect the 
+                national security in the matter before the President.
+            ``(5) Factors to be considered.--For purposes of determining 
+        whether to take action under paragraph (1), the President shall 
+        consider, among other factors each of the factors described in 
+        subsection (f), as appropriate.
+
+    ``(e) Actions and Findings Nonreviewable.--The actions of the 
+President under paragraph (1) of subsection (d) and the findings of the 
+President under paragraph (4) of subsection (d) shall not be subject to 
+judicial review.''.
+
+SEC. 7. INCREASED OVERSIGHT BY CONGRESS.
+
+    (a) Report on Actions.--Section 721(g) of the Defense Production Act 
+of 1950 (50 U.S.C. App. 2170(g)) is amended to read as follows:
+    ``(g) Additional Information to Congress; Confidentiality.--
+            ``(1) Briefing requirement on request.--The Committee shall, 
+        upon request from any Member of Congress specified in subsection 
+        (b)(3)(C)(iii), promptly provide briefings on a covered 
+        transaction for which all action has concluded under this 
+        section, or on compliance with a mitigation agreement or 
+        condition imposed with respect to such transaction, on a 
+        classified basis, if deemed necessary by the sensitivity of the 
+        information. Briefings under this paragraph may be provided to 
+        the congressional staff of such a Member of Congress having 
+        appropriate security clearance.
+            ``(2) Application of confidentiality provisions.--
+                    ``(A) In general.--The disclosure of information 
+                under this subsection shall be consistent with the 
+                requirements of subsection (c). Members of Congress and 
+                staff of either House of Congress or any committee of 
+                Congress, shall be subject to the same limitations on 
+                disclosure of information as are applicable under 
+                subsection (c).
+                    ``(B) Proprietary information.--Proprietary 
+                information which can be associated with a particular 
+                party to a covered transaction shall be furnished in 
+                accordance with subparagraph (A) only to a committee of 
+                Congress, and only when the committee provides 
+                assurances of confidentiality, unless such party 
+                otherwise consents in writing to such disclosure.''.
+
+[[Page 121 STAT. 257]]
+
+    (b) Annual Report.--Section 721 of the Defense Production Act of 
+1950 (50 U.S.C. App. 2170) is amended by adding at the end the 
+following:
+    ``(m) Annual Report to Congress.--
+            ``(1) In general.--The chairperson shall transmit a report 
+        to the chairman and ranking member of the committee of 
+        jurisdiction in the Senate and the House of Representatives, 
+        before July 31 of each year on all of the reviews and 
+        investigations of covered transactions completed under 
+        subsection (b) during the 12-month period covered by the report.
+            ``(2) Contents of report relating to covered transactions.--
+        The annual report under paragraph (1) shall contain the 
+        following information, with respect to each covered transaction, 
+        for the reporting period:
+                    ``(A) A list of all notices filed and all reviews or 
+                investigations completed during the period, with basic 
+                information on each party to the transaction, the nature 
+                of the business activities or products of all pertinent 
+                persons, along with information about any withdrawal 
+                from the process, and any decision or action by the 
+                President under this section.
+                    ``(B) Specific, cumulative, and, as appropriate, 
+                trend information on the numbers of filings, 
+                investigations, withdrawals, and decisions or actions by 
+                the President under this section.
+                    ``(C) Cumulative and, as appropriate, trend 
+                information on the business sectors involved in the 
+                filings which have been made, and the countries from 
+                which the investments have originated.
+                    ``(D) Information on whether companies that withdrew 
+                notices to the Committee in accordance with subsection 
+                (b)(1)(C)(ii) have later refiled such notices, or, 
+                alternatively, abandoned the transaction.
+                    ``(E) The types of security arrangements and 
+                conditions the Committee has used to mitigate national 
+                security concerns about a transaction, including a 
+                discussion of the methods that the Committee and any 
+                lead agency are using to determine compliance with such 
+                arrangements or conditions.
+                    ``(F) A detailed discussion of all perceived adverse 
+                effects of covered transactions on the national security 
+                or critical infrastructure of the United States that the 
+                Committee will take into account in its deliberations 
+                during the period before delivery of the next report, to 
+                the extent possible.
+            ``(3) Contents of report relating to critical 
+        technologies.--
+                    ``(A) <<NOTE: President.>> In general.--In order to 
+                assist Congress in its oversight responsibilities with 
+                respect to this section, the President and such agencies 
+                as the President shall designate shall include in the 
+                annual report submitted under paragraph (1)--
+                          ``(i) an evaluation of whether there is 
+                      credible evidence of a coordinated strategy by 1 
+                      or more countries or companies to acquire United 
+                      States companies involved in research, 
+                      development, or production of
+
+[[Page 121 STAT. 258]]
+
+                      critical technologies for which the United States 
+                      is a leading producer; and
+                          ``(ii) an evaluation of whether there are 
+                      industrial espionage activities directed or 
+                      directly assisted by foreign governments against 
+                      private United States companies aimed at obtaining 
+                      commercial secrets related to critical 
+                      technologies.
+                    ``(B) Release of unclassified study.--All 
+                appropriate portions of the annual report under 
+                paragraph (1) may be classified. An unclassified version 
+                of the report, as appropriate, consistent with 
+                safeguarding national security and privacy, shall be 
+                made available to the public.''.
+
+    (c) <<NOTE: 50 USC app. 2170 note.>> Study and Report.--
+            (1) Study required.--Before the end of the 120-day period 
+        beginning on the date of enactment of this Act and annually 
+        thereafter, the Secretary of the Treasury, in consultation with 
+        the Secretary of State and the Secretary of Commerce, shall 
+        conduct a study on foreign direct investments in the United 
+        States, especially investments in critical infrastructure and 
+        industries affecting national security, by--
+                    (A) foreign governments, entities controlled by or 
+                acting on behalf of a foreign government, or persons of 
+                foreign countries which comply with any boycott of 
+                Israel; or
+                    (B) foreign governments, entities controlled by or 
+                acting on behalf of a foreign government, or persons of 
+                foreign countries which do not ban organizations 
+                designated by the Secretary of State as foreign 
+                terrorist organizations.
+            (2) Report.--Before the end of the 30-day period beginning 
+        upon the date of completion of each study under paragraph (1), 
+        and thereafter in each annual report under section 721(m) of the 
+        Defense Production Act of 1950 (as added by this section), the 
+        Secretary of the Treasury shall submit a report to Congress, for 
+        transmittal to all appropriate committees of the Senate and the 
+        House of Representatives, containing the findings and 
+        conclusions of the Secretary with respect to the study described 
+        in paragraph (1), together with an analysis of the effects of 
+        such investment on the national security of the United States 
+        and on any efforts to address those effects.
+
+    (d) Investigation by Inspector General.--
+            (1) In general.--The Inspector General of the Department of 
+        the Treasury shall conduct an independent investigation to 
+        determine all of the facts and circumstances concerning each 
+        failure of the Department of the Treasury to make any report to 
+        the Congress that was required under section 721(k) of the 
+        Defense Production Act of 1950, as in effect on the day before 
+        the date of enactment of this Act.
+            (2) Report to the congress.--Before the end of the 270-day 
+        period beginning on the date of enactment of this Act, the 
+        Inspector General of the Department of the Treasury shall submit 
+        a report on the investigation under paragraph (1) containing the 
+        findings and conclusions of the Inspector General, to the 
+        chairman and ranking member of each committee of the Senate and 
+        the House of Representatives having jurisdiction over any aspect 
+        of the report, including, at a minimum, the Committee on Foreign 
+        Relations, the Committee on Banking, Housing, and Urban Affairs, 
+        and the Committee on Commerce, Science, and Transportation of 
+        the Senate, and the Committee
+
+[[Page 121 STAT. 259]]
+
+        on Foreign Affairs, the Committee on Financial Services, and the 
+        Committee on Energy and Commerce of the House of 
+        Representatives.
+
+SEC. 8. CERTIFICATION OF NOTICES AND ASSURANCES.
+
+    Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170) is amended by adding at the end the following:
+    ``(n) Certification of Notices and Assurances.--Each notice, and any 
+followup information, submitted under this section and regulations 
+prescribed under this section to the President or the Committee by a 
+party to a covered transaction, and any information submitted by any 
+such party in connection with any action for which a report is required 
+pursuant to paragraph (3)(B) of subsection (l), with respect to the 
+implementation of any mitigation agreement or condition described in 
+paragraph (1)(A) of subsection (l), or any material change in 
+circumstances, shall be accompanied by a written statement by the chief 
+executive officer or the designee of the person required to submit such 
+notice or information certifying that, to the best of the knowledge and 
+belief of that person--
+            ``(1) the notice or information submitted fully complies 
+        with the requirements of this section or such regulation, 
+        agreement, or condition; and
+            ``(2) the notice or information is accurate and complete in 
+        all material respects.''.
+
+SEC. 9. REGULATIONS.
+
+    Section 721(h) of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170(h)) is amended to read as follows:
+    ``(h) Regulations.--
+            ``(1) <<NOTE: President.>> In general.--The President shall 
+        direct, subject to notice and comment, the issuance of 
+        regulations to carry out this section.
+            ``(2) Effective date.--Regulations issued under this section 
+        shall become effective not later than 180 days after the 
+        effective date of the Foreign Investment and National Security 
+        Act of 2007.
+            ``(3) Content.--Regulations issued under this subsection 
+        shall--
+                    ``(A) provide for the imposition of civil penalties 
+                for any violation of this section, including any 
+                mitigation agreement entered into or conditions imposed 
+                pursuant to subsection (l);
+                    ``(B) to the extent possible--
+                          ``(i) minimize paperwork burdens; and
+                          ``(ii) coordinate reporting requirements under 
+                      this section with reporting requirements under any 
+                      other provision of Federal law; and
+                    ``(C) provide for an appropriate role for the 
+                Secretary of Labor with respect to mitigation 
+                agreements.''.
+
+SEC. 10. EFFECT ON OTHER LAW.
+
+    Section 721(i) of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170(i)) is amended to read as follows:
+    ``(i) Effect on Other Law.--No provision of this section shall be 
+construed as altering or affecting any other authority, process, 
+regulation, investigation, enforcement measure, or review provided by or 
+established under any other provision of Federal law, including the 
+International Emergency Economic Powers Act, or
+
+[[Page 121 STAT. 260]]
+
+any other authority of the President or the Congress under the 
+Constitution of the United States.''.
+
+SEC. 11. CLERICAL AMENDMENTS.
+
+    (a) Title 31.--Section 301(e) of title 31, United States Code, is 
+amended by striking ``8 Assistant'' and inserting ``9 Assistant''.
+    (b) Title 5.--Section 5315 of title 5, United States Code, is 
+amended in the item relating to ``Assistant Secretaries of the 
+Treasury'', by striking ``(8)'' and inserting ``(9)''.
+
+SEC. 12. <<NOTE: 5 USC 5315 note.>> EFFECTIVE DATE.
+
+    The amendments made by this Act shall apply after the end of the 90-
+day period beginning on the date of enactment of this Act.
+
+    Approved July 26, 2007.
+
+LEGISLATIVE HISTORY--H.R. 556 (S. 1610):
+---------------------------------------------------------------------------
+
+HOUSE REPORTS: No. 110-24, Pt. 1 (Comm. Financial Services).
+SENATE REPORTS: No. 110-80 accompanying S. 1610 (Comm. on Banking, 
+Housing, and Urban Affairs).
+CONGRESSIONAL RECORD, Vol. 153 (2007):
+            Feb. 28, considered and passed House.
+            June 29, considered and passed Senate, amended, in lieu of 
+                S. 1610.
+            June 10, 11, House considered and concurred in Senate 
+                amendment.
+
+                                  
+

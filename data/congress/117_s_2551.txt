@@ -1,0 +1,142 @@
+
+[117th Congress Public Law 207]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 2237]]
+
+                    ARTIFICIAL INTELLIGENCE TRAINING
+
+                    FOR THE ACQUISITION WORKFORCE ACT
+
+[[Page 136 STAT. 2238]]
+
+Public Law 117-207
+117th Congress
+
+                                 An Act
+
+
+ 
+   To require the Director of the Office of Management and Budget to 
+   establish or otherwise provide an artificial intelligence training 
+          program for the acquisition workforce, and for other 
+             purposes. <<NOTE: Oct. 17, 2022 -  [S. 2551]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Artificial 
+Intelligence Training for the Acquisition Workforce Act. 41 USC 1703 
+note.>> 
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Artificial Intelligence Training for 
+the Acquisition Workforce Act'' or the ``AI Training Act''.
+SEC. 2. ARTIFICIAL INTELLIGENCE TRAINING PROGRAMS.
+
+    (a) Definitions.--In this section:
+            (1) AI.--The term ``AI'' has the meaning given the term 
+        ``artificial intelligence'' in section 238(g) of the John S. 
+        McCain National Defense Authorization Act for Fiscal Year 2019 
+        (10 U.S.C. 2358 note).
+            (2) AI training program.--The term ``AI training program'' 
+        means the training program established under subsection (b)(1).
+            (3) Covered workforce.--The term ``covered workforce'' 
+        means--
+                    (A) employees of an executive agency who are 
+                responsible for--
+                          (i) program management;
+                          (ii) the planning, research, development, 
+                      engineering, testing, and evaluation of systems, 
+                      including quality control and assurance;
+                          (iii) procurement and contracting;
+                          (iv) logistics; or
+                          (v) cost estimating; and
+                    (B) other personnel of an executive agency 
+                designated by the head of the executive agency to 
+                participate in the AI training program.
+            (4) Director.--The term ``Director'' means the Director of 
+        the Office of Management and Budget.
+            (5) Executive agency.--The term ``executive agency''--
+                    (A) has the meaning given the term in section 133 of 
+                title 41, United States Code; and
+                    (B) does not include--
+                          (i) the Department of Defense or a component 
+                      of the Department of Defense; or
+                          (ii) the National Nuclear Security 
+                      Administration or a component of the National 
+                      Nuclear Security Administration.
+
+    (b) Requirement.--
+
+[[Page 136 STAT. 2239]]
+
+            (1) <<NOTE: Deadline. Coordination.>>  In general.--Not 
+        later than 1 year after the date of enactment of this Act, and 
+        not less frequently than annually thereafter, the Director, in 
+        coordination with the Administrator of General Services and any 
+        other person determined relevant by the Director, shall develop 
+        and implement or otherwise provide an AI training program for 
+        the covered workforce.
+            (2) Purpose.--The purpose of the AI training program shall 
+        be to ensure that the covered workforce has knowledge of the 
+        capabilities and risks associated with AI.
+            (3) Topics.--The AI training program shall include 
+        information relating to--
+                    (A) the science underlying AI, including how AI 
+                works;
+                    (B) introductory concepts relating to the 
+                technological features of artificial intelligence 
+                systems;
+                    (C) the ways in which AI can benefit the Federal 
+                Government;
+                    (D) the risks posed by AI, including discrimination 
+                and risks to privacy;
+                    (E) ways to mitigate the risks described in 
+                subparagraph (D), including efforts to create and 
+                identify AI that is reliable, safe, and trustworthy; and
+                    (F) future trends in AI, including trends for 
+                homeland and national security and innovation.
+            (4) <<NOTE: Time period.>> Updates.--Not less frequently 
+        than once every 2 years, the Director shall update the AI 
+        training program to--
+                    (A) incorporate new information relating to AI; and
+                    (B) ensure that the AI training program continues to 
+                satisfy the requirements under paragraph (3).
+            (5) Format.--The Director is encouraged to develop and 
+        implement or otherwise include under the AI training program 
+        interactive learning with--
+                    (A) technologists;
+                    (B) scholars; and
+                    (C) other experts from the private, public, and 
+                nonprofit sectors.
+            (6) Metrics.--The Director shall ensure the existence of a 
+        means by which to--
+                    (A) understand and measure the participation of the 
+                covered workforce; and
+                    (B) receive and consider feedback from participants 
+                in the AI training program to improve the AI training 
+                program.
+
+[[Page 136 STAT. 2240]]
+
+            (7) Sunset.--Effective 10 years after the date of enactment 
+        of this Act, this section shall have no force or effect.
+
+    Approved October 17, 2022.
+
+LEGISLATIVE HISTORY--S. 2551:
+---------------------------------------------------------------------------
+
+SENATE REPORTS: No. 117-40 (Comm. on Homeland Security and Governmental 
+Affairs).
+CONGRESSIONAL RECORD:
+                                                        Vol. 167 (2021):
+                                    Dec. 17, considered and passed 
+                                        Senate.
+                                                        Vol. 168 (2022):
+                                    Sept. 28, 29, considered and passed 
+                                        House.
+
+                                  
+

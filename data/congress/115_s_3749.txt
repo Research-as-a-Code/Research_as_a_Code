@@ -1,0 +1,1916 @@
+
+[115th Congress Public Law 397]
+[From the U.S. Government Publishing Office]
+
+
+
+[[Page 132 STAT. 5297]]
+
+Public Law 115-397
+115th Congress
+
+                                 An Act
+
+
+ 
+  To amend the Congressional Accountability Act of 1995 to reform the 
+   procedures provided under such Act for the initiation, review, and 
+resolution of claims alleging that employing offices of the legislative 
+   branch have violated the rights and protections provided to their 
+     employees under such Act, including protections against sexual 
+    harassment, and for other purposes. <<NOTE: Dec. 21, 2018 -  [S. 
+                                3749]>> 
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, <<NOTE: Congressional 
+Accountability Act of 1995 Reform Act. 2 USC 1301 note.>> 
+SECTION 1. SHORT TITLE; REFERENCES IN ACT; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Congressional 
+Accountability Act of 1995 Reform Act''.
+    (b) References in Act.--Except as otherwise expressly provided, 
+whenever in this Act an amendment or repeal is expressed in terms of an 
+amendment to or repeal of a section or other provision, the reference 
+shall be considered to be made to that section or other provision of the 
+Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.).
+    (c) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; references in Act; table of contents.
+
+            TITLE I--REFORM OF DISPUTE RESOLUTION PROCEDURES
+
+Subtitle A--Reform of Procedures for Initiation, Preliminary Review, and 
+                          Resolution of Claims
+
+Sec. 101. Description of procedures available for consideration of 
+           alleged violations.
+Sec. 102. Reform of process for initiation of procedures.
+Sec. 103. Preliminary review of claims by hearing officer.
+Sec. 104. Availability of mediation during process.
+
+                        Subtitle B--Other Reforms
+
+Sec. 111. Requiring Members of Congress to reimburse Treasury for 
+           amounts paid as settlements and awards in cases of acts by 
+           Members.
+Sec. 112. Automatic referral to Congressional Ethics Committees of 
+           disposition of certain claims alleging violations of 
+           Congressional Accountability Act of 1995 involving Members of 
+           Congress and senior staff.
+Sec. 113. Availability of remote work assignment or paid leave of 
+           absence during pendency of procedures.
+Sec. 114. Modification of rules on confidentiality of proceedings.
+Sec. 115. Reimbursement by other employing offices of legislative branch 
+           of payments of certain awards and settlements.
+
+  TITLE II--IMPROVING OPERATIONS OF OFFICE OF CONGRESSIONAL WORKPLACE 
+                                 RIGHTS
+
+Sec. 201. Reports on awards and settlements.
+Sec. 202. Workplace climate surveys of employing offices.
+Sec. 203. Record retention.
+Sec. 204. Confidential advisors.
+Sec. 205. GAO study of management practices.
+
+[[Page 132 STAT. 5298]]
+
+Sec. 206. GAO audit of cybersecurity.
+
+                    TITLE III--MISCELLANEOUS REFORMS
+
+Sec. 301. Application of Genetic Information Nondiscrimination Act of 
+           2008.
+Sec. 302. Extension to unpaid staff of rights and protections against 
+           employment discrimination.
+Sec. 303. Clarification of treatment of Library of Congress visitors.
+Sec. 304. Notices.
+Sec. 305. Clarification of coverage of employees of Helsinki and China 
+           Commissions.
+Sec. 306. Training and education programs of other employing offices.
+Sec. 307. Support for out-of-area covered employees.
+Sec. 308. Renaming Office of Compliance as Office of Congressional 
+           Workplace Rights.
+
+                        TITLE IV--EFFECTIVE DATE
+
+Sec. 401. Effective date.
+
+            TITLE I--REFORM OF DISPUTE RESOLUTION PROCEDURES
+
+Subtitle A--Reform of Procedures for Initiation, Preliminary Review, and 
+                          Resolution of Claims
+
+SEC. 101. DESCRIPTION OF PROCEDURES AVAILABLE FOR CONSIDERATION OF 
+                        ALLEGED VIOLATIONS.
+
+    (a) Procedures Described.--Section 401 (2 U.S.C. 1401) is amended to 
+read as follows:
+``SEC. 401. PROCEDURE FOR CONSIDERATION OF ALLEGED VIOLATIONS.
+
+    ``(a) Filing and Review of Claims.--Except as otherwise provided, 
+the procedure for consideration of an alleged violation of part A of 
+title II consists of--
+            ``(1) the filing of a claim by the covered employee alleging 
+        the violation, as provided in section 402;
+            ``(2) the preliminary review of the claim, to be conducted 
+        by a hearing officer as provided in section 403;
+            ``(3) mediation as provided in section 404, if requested and 
+        agreed to by the parties under that section; and
+            ``(4) <<NOTE: Hearing.>>  a formal hearing as provided in 
+        section 405, subject to Board review as provided in section 406 
+        and judicial review in the United States Court of Appeals for 
+        the Federal Circuit as provided in section 407.
+
+    ``(b) Right of Employee to File Civil Action.--
+            ``(1) Civil action.--Only a covered employee who has filed a 
+        claim timely as provided in section 402 and who has not 
+        submitted a request for a hearing on the claim pursuant to 
+        section 405(a) may, during the period described in paragraph 
+        (3), file a civil action in a District Court of the United 
+        States with respect to the violation alleged in the claim, as 
+        provided in section 408.
+            ``(2) Effect of filing civil action.--Notwithstanding 
+        paragraph (2), (3), or (4) of subsection (a), if the covered 
+        employee files such a civil action--
+
+[[Page 132 STAT. 5299]]
+
+                    ``(A) the preliminary review of the claim by the 
+                hearing officer as provided in section 403 shall 
+                terminate upon the filing of the action by the covered 
+                employee; and
+                    ``(B) the procedure for consideration of the alleged 
+                violation shall not include any further review of the 
+                claim by the hearing officer as provided in section 403.
+            ``(3) Period for filing civil action.--The period described 
+        in this paragraph with respect to a claim is the 70-day period 
+        which begins on the date the covered employee files the claim 
+        under section 402.
+            ``(4) Special rule for employees who 
+        fail <<NOTE: Deadline.>>  to state a claim for which relief may 
+        be granted.--Notwithstanding paragraph (3), if a covered 
+        employee receives a written notice from the hearing officer 
+        under section 403(d)(2) that the employee has the right to file 
+        a civil action with respect to the claim in accordance with 
+        section 408, the covered employee may file the civil action not 
+        later than 90 days after receiving such written notice.
+
+    ``(c) Special Rule for Architect of the Capitol and Capitol 
+Police.--In the case of an employee of the Office of the Architect of 
+the Capitol or of the Capitol Police, the Office, after receiving a 
+claim filed under section 402, may recommend that the employee use the 
+grievance procedures of the Architect of the Capitol or the Capitol 
+Police for resolution of the employee's grievance for a specific period 
+of time. Any deadline in this Act relating to a claim for which the 
+employee is using the grievance procedures, that has not already passed 
+by the first day of that specific period, shall be stayed during that 
+specific period.
+    ``(d) Election of Remedies for Library of Congress.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Direct act.--The term `direct Act' means an 
+                Act (other than this Act), or provision of the Revised 
+                Statutes, that is specified in section 201, 202, or 203.
+                    ``(B) Direct provision.--The term `direct provision' 
+                means a provision (including a definitional provision) 
+                of a direct Act that applies the rights or protections 
+                of a direct Act (including rights and protections 
+                relating to nonretaliation or noncoercion) to a Library 
+                claimant.
+                    ``(C) Library claimant.--The term `Library claimant' 
+                means, with respect to a direct provision, an employee 
+                of the Library of Congress who is covered by that direct 
+                provision.
+            ``(2) Election after proceedings initially <<NOTE: Time 
+        period.>>  brought under this act.--A Library claimant who 
+        initially files a claim for an alleged violation as provided in 
+        section 402 may, at any time before the date that is 10 days 
+        after a hearing officer submits the report on the preliminary 
+        review of the claim under section 403(c), elect to bring the 
+        claim for a proceeding before the corresponding Federal agency 
+        under the corresponding direct provision, instead of continuing 
+        with the procedures applicable to the claim under this title or 
+        filing a civil action in accordance with section 408.
+            ``(3) Election after proceedings initially brought under 
+        other civil rights or labor law.--A Library claimant who 
+        initially brings a claim, complaint, or charge under a direct 
+        provision for a proceeding before a Federal agency may,
+
+[[Page 132 STAT. 5300]]
+
+        prior to requesting a hearing under the agency's procedures, 
+        elect to--
+                    ``(A) continue with the agency's procedures and 
+                preserve the option (if any) to bring any civil action 
+                relating to the claim, complaint, or charge, that is 
+                available to the Library claimant; or
+                    ``(B) file a claim with the Office under section 402 
+                and continue with the corresponding procedures of this 
+                title available and applicable to a covered employee.
+            ``(4) Timing.--A Library claimant who meets the initial 
+        deadline under section 402(d) for filing a claim under this 
+        title, or any initial deadline for bringing a claim, complaint, 
+        or charge under the applicable direct provision, and then elects 
+        to change to alternative procedures as described in paragraph 
+        (2) or (3)(B), shall be considered to meet any initial deadline 
+        for the alternative procedures.
+            ``(5) Application.--This subsection shall take effect and 
+        shall apply as described in section 153(c) of the Legislative 
+        Branch Appropriations Act, 2018 (Public Law 115-141) (except to 
+        the extent such section applies to any violation of section 210 
+        or a provision of an Act specified in section 210).
+
+    ``(e) Rights of Parties to Retain Private Counsel.--Nothing in this 
+Act may be construed to limit the authority of any individual (including 
+a covered employee, the head of an employing office, or an individual 
+who is alleged to have committed personally an act which consists of a 
+violation of part A of title II) to retain counsel to protect the 
+interests of the individual at any point during any of the procedures 
+provided under this title for the consideration of an alleged violation 
+of part A of title II, including as provided under section 415(d)(8) 
+with respect to individuals subject to a reimbursement requirement of 
+section 415(d).
+    ``(f) Standards for Assertions Made by Parties.--Any party in any of 
+the procedures provided under this title, as well as any counsel or 
+other person representing a party in any of such procedures, shall have 
+an obligation to ensure that, to the best of the party's knowledge, 
+information, and belief, as formed after an inquiry which is reasonable 
+under the circumstances, each of the following is correct:
+            ``(1) No pleading, written motion, or other paper is 
+        presented for any improper purpose, such as to harass, cause 
+        unnecessary delay, or needlessly increase the cost of resolution 
+        of the matter.
+            ``(2) The claims, defenses, and other legal contentions the 
+        party advocates are warranted by existing law or by a 
+        nonfrivolous argument for extending, modifying, or reversing 
+        existing law or for establishing new law.
+            ``(3) The factual contentions have evidentiary support or, 
+        if specifically so identified, will likely have evidentiary 
+        support after a reasonable opportunity for further review or 
+        discovery.
+            ``(4) The denials of factual contentions are warranted on 
+        the evidence or, if specifically so identified, are reasonably 
+        based on belief or a lack of information.
+
+    ``(g) Procedure.--Nothing in this Act shall be construed to 
+supersede or limit section 225(d)(2).''.
+    (b) Conforming Amendment Relating to Civil Action.--Section 408(a) 
+(2 U.S.C. 1408(a)) is amended--
+            (1) by striking ``section 404'' and inserting ``section 
+        401'';
+
+[[Page 132 STAT. 5301]]
+
+            (2) by striking ``who has completed counseling under section 
+        402 and mediation under section 403''; and
+            (3) by striking the second sentence.
+
+    (c) Other Conforming Amendments to Title IV.--Title IV is amended--
+            (1) by striking section 404 (2 U.S.C. 1404); and
+            (2) by redesignating section 403 (2 U.S.C. 1403) as section 
+        404.
+
+    (d) Miscellaneous Conforming Amendment.--Section 225 (2 U.S.C. 1361) 
+is amended--
+            (1) by striking subsection (e); and
+            (2) by redesignating subsection (f) as subsection (e).
+
+    (e) Clerical Amendments.--The table of contents is amended--
+            (1) by striking the item relating to section 404; and
+            (2) by redesignating the item relating to section 403 as 
+        relating to section 404.
+SEC. 102. REFORM OF PROCESS FOR INITIATION OF PROCEDURES.
+
+    (a) Initiation of Procedures.--Section 402 (2 U.S.C. 1402) is 
+amended to read as follows:
+``SEC. 402. INITIATION OF PROCEDURES.
+
+    ``(a) Claim.--
+            ``(1) Filing of claim.--To commence a proceeding under this 
+        title, a covered employee alleging a violation of law made 
+        applicable under part A of title II shall file a claim with the 
+        Office. The Office shall not accept a claim which is filed after 
+        the deadline applicable under subsection (d).
+            ``(2) Contents of claim.--The claim filed under this section 
+        shall be made in writing under oath or affirmation, shall 
+        describe the facts that form the basis of the claim and the 
+        violation that is being alleged, shall identify the employing 
+        office alleged to have committed the violation or in which the 
+        violation is alleged to have occurred, and shall be in such form 
+        as the Office requires.
+            ``(3) No effect on ability of covered employee to seek 
+        information from office or pursue relief.--Nothing in paragraph 
+        (2), or subsection (b) or (c), may be construed to limit the 
+        ability of a covered employee--
+                    ``(A) to contact the Office or any other appropriate 
+                office prior to filing a claim under this section to 
+                seek information regarding the employee's rights under 
+                this Act and the procedures available under this Act;
+                    ``(B) in the case of a covered employee of an 
+                employing office of the House of Representatives or 
+                Senate, to refer information regarding an alleged 
+                violation of part A of title II to the Committee on 
+                Ethics of the House of Representatives or the Select 
+                Committee on Ethics of the Senate (as the case may be); 
+                or
+                    ``(C) to file a civil action in accordance with 
+                section 401(b).
+
+    ``(b) Initial Processing of Claim.--
+            ``(1) Intake and recording; notification to employing 
+        office.--Upon the filing of a claim by a covered employee under 
+        subsection (a), the Office shall take such steps as may be 
+        necessary for the initial intake and recording of the claim, 
+        including providing each party with all relevant information
+
+[[Page 132 STAT. 5302]]
+
+        with respect to the rights of the party under this Act, and 
+        shall transmit immediately a copy of the claim to the head of 
+        the employing office and the designated representative of that 
+        office.
+            ``(2) Special notification requirements for claims based on 
+        acts by members of congress.--
+                    ``(A) <<NOTE: Reimbursements.>>  In general.--In the 
+                case of a claim alleging a violation described in 
+                subparagraph (B) which consists of a violation described 
+                in section 415(d)(1)(A) by an individual, upon the 
+                filing of the claim under subsection (a), the Office 
+                shall notify immediately such individual of the claim, 
+                the possibility that the individual may be required to 
+                reimburse the account described in section 415(a) for 
+                the reimbursable portion of any award or settlement in 
+                connection with the claim, and the right of the 
+                individual under section 415(d)(8) to intervene in any 
+                mediation, hearing, or civil action under this title 
+                with respect to the claim.
+                    ``(B) Violations described.--A violation described 
+                in this subparagraph is--
+                          ``(i) harassment that is unlawful under 
+                      section 201(a) or 206(a); or
+                          ``(ii) intimidation, reprisal, or 
+                      discrimination that is unlawful under section 207 
+                      and is taken against a covered employee because of 
+                      a claim alleging a violation described in clause 
+                      (i).
+
+    ``(c) Use of Secure Electronic Reporting and Tracking System.--
+            ``(1) Establishment and operation of secure system.--The 
+        Office shall establish and operate a secure electronic reporting 
+        system through which a covered employee may initiate a 
+        proceeding under this title, and which will keep an electronic 
+        record of the date and time at which the proceeding is initiated 
+        and will track all subsequent actions or proceedings occurring 
+        with respect to the proceeding under this title.
+            ``(2) Accessibility to all parties.--The system shall be 
+        accessible to all parties to such actions or proceedings, but 
+        only until the completion of such actions or proceedings.
+            ``(3) <<NOTE: Reports.>>  Assessment of effectiveness of 
+        procedures.--The Office shall use the information contained in 
+        the system to make regular assessments of the effectiveness of 
+        the procedures under this title in providing for the timely 
+        resolution of claims, and shall submit semi-annual reports on 
+        such assessments each year to the Committee on House 
+        Administration of the House of Representatives and the Committee 
+        on Rules and Administration of the Senate.
+
+    ``(d) Deadline.--A covered employee may not file a claim under this 
+section with respect to an allegation of a violation of law after the 
+expiration of the 180-day period which begins on the date of the alleged 
+violation.''.
+    (b) Clerical Amendment.--The table of contents is amended by 
+amending the item relating to section 402 to read as follows:
+
+``Sec. 402. Initiation of procedures.''.
+
+[[Page 132 STAT. 5303]]
+
+SEC. 103. PRELIMINARY REVIEW OF CLAIMS BY HEARING OFFICER.
+
+    (a) Preliminary Review Described.--Title IV (2 U.S.C. 1401 et seq.), 
+as amended by section 101(c), is further amended by inserting after 
+section 402 the following new section:
+``SEC. 403. <<NOTE: 2 USC 1402a.>>  PRELIMINARY REVIEW OF CLAIMS.
+
+    ``(a) Preliminary Review by Hearing Officer.--
+            ``(1) <<NOTE: Deadline.>>  Appointment.--Not later than 7 
+        days after transmission to the employing office of a claim 
+        pursuant to section 402(b), the Executive Director shall appoint 
+        a hearing officer to conduct a preliminary review of the claim.
+            ``(2) Process for appointment.--The Executive Director shall 
+        appoint a hearing officer under this subsection in the same 
+        manner and in accordance with the same requirements and 
+        procedures applicable to the appointment of a hearing officer 
+        under section 405(c).
+
+    ``(b) Assessments Required.--In conducting a preliminary review of a 
+claim under this section, the hearing officer shall assess each of the 
+following:
+            ``(1) Whether the claimant is a covered employee authorized 
+        to obtain relief relating to the claim under this title.
+            ``(2) Whether the office which is the subject of the claim 
+        is an employing office under this Act.
+            ``(3) Whether the individual filing the claim has met the 
+        applicable deadlines for filing the claim under this title.
+            ``(4) The identification of factual and legal issues 
+        involved with respect to the claim.
+            ``(5) The specific relief sought by the individual.
+            ``(6) Whether, on the basis of the assessments made under 
+        paragraphs (1) through (5), the individual filing the claim is a 
+        covered employee who has stated a claim for which, if the 
+        allegations contained in the claim are true, relief may be 
+        granted under this title.
+            ``(7) The potential for the settlement of the claim without 
+        a formal hearing as provided under section 405 or a civil action 
+        as provided under section 408.
+
+    ``(c) Report on Review.--
+            ``(1) Report.--Not later than 30 days after a claim is filed 
+        under section 402, the hearing officer shall submit to the 
+        individual filing the claim and the office which is the subject 
+        of the claim a report on the preliminary review conducted under 
+        this section, and shall include in the report the hearing 
+        officer's determination as to whether the individual is a 
+        covered employee who has stated a claim for which relief may be 
+        granted under this title (as described in paragraph (6) of 
+        subsection (b)). The submission of the report shall conclude the 
+        preliminary review.
+            ``(2) <<NOTE: Notice.>>  Extension of deadline.--The hearing 
+        officer may (upon notice to the individual filing the claim and 
+        the employing office which is the subject of the claim) use an 
+        additional period of not to exceed 30 days to conclude the 
+        preliminary review.
+
+    ``(d) Effect of Determination of Failure to State Claim for Which 
+Relief May Be Granted.--If the hearing officer's report on the 
+preliminary review of a claim under subsection (c) includes the 
+determination that the individual filing the claim
+
+[[Page 132 STAT. 5304]]
+
+is not a covered employee or has not stated a claim for which relief may 
+be granted under this title--
+            ``(1) the individual (including an individual who is a 
+        Library claimant, as defined in section 401(d)(1)) may not 
+        obtain a formal hearing with respect to the claim as provided 
+        under section 405; and
+            ``(2) <<NOTE: Notice.>>  the hearing officer shall provide 
+        the individual and the Executive Director with a written notice 
+        that the individual may file a civil action with respect to the 
+        claim in accordance with section 408.
+
+    ``(e) Transmission of Report on Preliminary Review of Certain Claims 
+to Congressional Ethics Committees.--In the case of a hearing officer's 
+report under subsection (c) on the preliminary review of a claim 
+alleging a violation described in section 415(d)(1)(A), the hearing 
+officer shall transmit the report to--
+            ``(1) the Committee on Ethics of the House of 
+        Representatives, in the case of such an act by a Member of the 
+        House of Representatives (including a Delegate or Resident 
+        Commissioner to the Congress); or
+            ``(2) the Select Committee on Ethics of the Senate, in the 
+        case of such an act by a Senator.''.
+
+    (b) Deadline for Requesting Hearing After Preliminary Review.--
+Section 405(a) (2 U.S.C. 1405(a)) is amended to read as follows:
+    ``(a) Requirement for Hearings to Commence in Office.--
+            ``(1) Hearing required upon request.--If, not later than 10 
+        days after a hearing officer submits the report on the 
+        preliminary review of a claim under section 403(c), a covered 
+        employee submits a request to the Executive Director for a 
+        hearing under this section, the Executive Director shall appoint 
+        an independent hearing officer pursuant to subsection (c) to 
+        consider the claim and render a decision, and a hearing shall be 
+        commenced in the Office.
+            ``(2) Exceptions.--Paragraph (1) does not apply with respect 
+        to the claim if--
+                    ``(A) the hearing officer's report on the 
+                preliminary review of the claim under section 403(c) 
+                includes the determination that the individual filing 
+                the claim is not a covered employee who has stated a 
+                claim for which relief may be granted under this title 
+                (as described in section 403(d)); or
+                    ``(B) the covered employee files a civil action as 
+                provided in section 408 with respect to the claim.''.
+
+    (c) Prohibiting Hearing Officer Conducting Preliminary Review From 
+Conducting Hearing.--Section 405(c) (2 U.S.C. 1405(c)) is amended by 
+adding at the end the following new paragraph:
+            ``(3) Prohibiting hearing officer conducting preliminary 
+        review from conducting hearing.--The Executive Director may not 
+        appoint a hearing officer to conduct a hearing under this 
+        section with respect to a claim if the hearing officer conducted 
+        the preliminary review with respect to the claim under section 
+        403.''.
+
+    (d) Deadline for Commencement of Hearing; Permitting Additional 
+Time.--Section 405(d) (2 U.S.C. 1405(d)) is amended by striking 
+paragraph (2) and inserting the following:
+
+[[Page 132 STAT. 5305]]
+
+            ``(2) commenced no later than 90 days after the Executive 
+        Director receives the covered employee's request for the hearing 
+        under subsection (a), except that, upon mutual agreement of the 
+        parties or for good cause, the Office shall extend the time for 
+        commencing a hearing for not more than an additional 30 days; 
+        and''.
+
+    (e) Other Conforming Amendments Relating to Hearings Conducted by 
+Office of Congressional Workplace Rights.--Section 405 (2 U.S.C. 1405) 
+is amended as follows:
+            (1) In the heading, by striking ``complaint and''.
+            (2) In subsection (c)(1), by striking ``complaint'' and 
+        inserting ``request for a hearing under subsection (a)''.
+            (3) In subsection (d) in the matter preceding paragraph (1), 
+        by striking ``complaint'' and inserting ``claim''.
+            (4) In subsection (g), by striking ``complaint'' and 
+        inserting ``claim''.
+
+    (f) Other Conforming Amendment.--The heading of section 414 (2 
+U.S.C. 1414) is amended by striking ``of complaints''.
+    (g) Clerical Amendments.--The table of contents, as amended by 
+section 101(e), is further amended as follows:
+            (1) By inserting after the item relating to section 402 the 
+        following new item:
+
+``Sec. 403. Preliminary review of claims.''.
+
+            (2) By amending the item relating to section 405 to read as 
+        follows:
+
+``Sec. 405. Hearing.''.
+
+            (3) By amending the item relating to section 414 to read as 
+        follows:
+
+``Sec. 414. Settlement.''.
+
+SEC. 104. AVAILABILITY OF MEDIATION DURING PROCESS.
+
+    (a) Availability of Mediation.--Section 404(a) (2 U.S.C. 1403(a)), 
+as redesignated by section 101(c), is amended to read as follows:
+    ``(a) Availability of Mediation.--
+            ``(1) Notification regarding mediation.--
+                    ``(A) Covered employee.--Upon receipt of a claim 
+                under section 402, the Office shall notify the covered 
+                employee who filed the claim about the process for 
+                mediation under this section and the deadlines 
+                applicable to such mediation.
+                    ``(B) Employing office.--Upon transmission to the 
+                employing office of the claim pursuant to section 
+                402(b), the Office shall notify the employing office 
+                about the process for mediation under this section and 
+                the deadlines applicable to such mediation.
+            ``(2) Initiation.--
+                    ``(A) In general.--During the period described in 
+                subparagraph (B), either the covered employee who filed 
+                a claim under section 402 or the employing office named 
+                in the claim may file a request for mediation with the 
+                Office, which shall promptly notify the other party. If 
+                the other party agrees to the request, the Office shall 
+                promptly assign a mediator to the claim, and conduct 
+                mediation under this section.
+
+[[Page 132 STAT. 5306]]
+
+                    ``(B) Timing.--A covered employee or an employing 
+                office may file a request for mediation under 
+                subparagraph (A) during the period beginning on the date 
+                that the covered employee or employing office, 
+                respectively, receives a notification under paragraph 
+                (1) regarding a claim under section 402 and ending on 
+                the date on which a hearing officer issues a written 
+                decision relating to the claim under section 405(g) or 
+                the covered employee files a civil action with respect 
+                to the claim in accordance with section 408, as 
+                applicable.
+            ``(3) Failure to request or accept mediation to have no 
+        effect on treatment of claim.--The failure of a party to request 
+        mediation under this section with respect to a claim, or the 
+        failure of a party to agree to a request for mediation under 
+        this section, may not be taken into consideration under any 
+        procedure under this title with respect to the claim, including 
+        a preliminary review under section 403, a formal hearing under 
+        section 405, or a civil action under section 408.''.
+
+    (b) Requiring Parties to Be Separated During Mediation at Request of 
+Employee.--Section 404(b)(2) (2 U.S.C. 1403(b)(2)), as redesignated by 
+section 101(c), is amended by striking ``meetings with the parties 
+separately or jointly'' and inserting ``meetings with the parties during 
+which, at the request of any of the parties, the parties shall be 
+separated,''.
+    (c) Period of Mediation.--Section 404(c) (2 U.S.C. 1403(c)), as 
+redesignated by section 101(c), is amended by striking the first 2 
+sentences and inserting the following: ``The mediation period shall be 
+30 days, beginning on the first day after the second party agrees to the 
+request for the mediation. The mediation period may be extended for one 
+additional period of 30 days at the joint request of the covered 
+employee and employing office. Any deadline in this Act relating to a 
+claim for which mediation has been agreed to in this section, that has 
+not already passed by the first day of the mediation period, shall be 
+stayed during the mediation period.''.
+
+                        Subtitle B--Other Reforms
+
+SEC. 111. REQUIRING MEMBERS OF CONGRESS TO REIMBURSE TREASURY FOR 
+                        AMOUNTS PAID AS SETTLEMENTS AND AWARDS IN 
+                        CASES OF ACTS BY MEMBERS.
+
+    (a) Mandating Reimbursement of Amounts Paid.--Section 415 (2 U.S.C. 
+1415) is amended by adding at the end the following new subsection:
+    ``(d) Reimbursement by Members of Congress of Amounts Paid as 
+Settlements and Awards.--
+            ``(1) Reimbursement required for certain violations.--
+                    ``(A) In general.--Subject to subparagraphs (B) and 
+                (D), if a payment is made from the account described in 
+                subsection (a) for an award or settlement in connection 
+                with a claim alleging a violation described in 
+                subparagraph (C) committed personally by an individual 
+                who, at the time of committing the violation, was a 
+                Member of the House of Representatives (including a 
+                Delegate or Resident Commissioner to the Congress) or a 
+                Senator, the individual
+
+[[Page 132 STAT. 5307]]
+
+                shall reimburse the account for the amount of the award 
+                or settlement for the claim involved.
+                    ``(B) <<NOTE: Applicability.>>  Conditions.--In the 
+                case of an award made pursuant to a decision of a 
+                hearing officer under section 405, or a court in a civil 
+                action, subparagraph (A) shall apply only if the hearing 
+                officer or court makes a separate finding that a 
+                violation described in subparagraph (C) occurred which 
+                was committed personally by an individual who, at the 
+                time of committing the violation, was a Member of the 
+                House of Representatives (including a Delegate or 
+                Resident Commissioner to the Congress) or a Senator, and 
+                such individual shall reimburse the account for the 
+                amount of compensatory damages included in the award as 
+                would be available if awarded under section 1977A(b)(3) 
+                of the Revised Statutes (42 U.S.C. 1981a(b)(3)) 
+                irrespective of the size of the employing office. In the 
+                case of a settlement for a claim described in section 
+                416(d)(3), subparagraph (A) shall apply only if the 
+                conditions specified in section 416(d)(3) for requesting 
+                reimbursement are met.
+                    ``(C) Violations described.--A violation described 
+                in this subparagraph is--
+                          ``(i) harassment that is unlawful under 
+                      section 201(a) or 206(a); or
+                          ``(ii) intimidation, reprisal, or 
+                      discrimination that is unlawful under section 207 
+                      and is taken against a covered employee because of 
+                      a claim alleging a violation described in clause 
+                      (i).
+                    ``(D) Multiple claims.--If an award or settlement is 
+                made for multiple claims, some of which do not require 
+                reimbursement under this subsection, the individual 
+                described in subparagraph (A) shall only be required to 
+                reimburse for the amount (referred to in this Act as the 
+                `reimbursable portion') that is--
+                          ``(i) described in subparagraph (A), subject 
+                      to subparagraph (B); and
+                          ``(ii) included in the portion of the award or 
+                      settlement attributable to a claim requiring 
+                      reimbursement.
+            ``(2) Withholding amounts from compensation.--
+                    ``(A) Establishment of timetable and procedures by 
+                committees.--For purposes of carrying out subparagraph 
+                (B), the applicable Committee shall establish a 
+                timetable and procedures for the withholding of amounts 
+                from the compensation of an individual who is a Member 
+                of the House of Representatives or a Senator.
+                    ``(B) Deadline.--The payroll administrator shall 
+                withhold from an individual's compensation and transfer 
+                to the account described in subsection (a) (after making 
+                any deposit required under section 8432(f) of title 5, 
+                United States Code) such amounts as may be necessary to 
+                reimburse the account described in subsection (a) for 
+                the reimbursable portion of the award or settlement 
+                described in paragraph (1) if the individual has not 
+                reimbursed the account as required under paragraph (1) 
+                prior to the expiration of the 90-day period which 
+                begins on the date a payment is made from the account 
+                for such an award or settlement.
+
+[[Page 132 STAT. 5308]]
+
+                    ``(C) Applicable committee defined.--In this 
+                paragraph, the term `applicable Committee' means--
+                          ``(i) the Committee on House Administration of 
+                      the House of Representatives, in the case of an 
+                      individual who, at the time of the withholding, is 
+                      a Member of the House; or
+                          ``(ii) the Committee on Rules and 
+                      Administration of the Senate, in the case of an 
+                      individual who, at the time of the withholding, is 
+                      a Senator.
+            ``(3) Use of amounts in thrift savings fund as source of 
+        reimbursement.--
+                    ``(A) <<NOTE: Deadline.>>  In general.--If, by the 
+                expiration of the 180-day period that begins on the date 
+                a payment is made from the account described in 
+                subsection (a) for an award or settlement described in 
+                paragraph (1), an individual who is subject to a 
+                reimbursement requirement of this subsection has not 
+                reimbursed the account for the entire reimbursable 
+                portion as required under paragraph (1), withholding and 
+                transfers of amounts shall continue under paragraph (2) 
+                if the individual remains employed in the same position, 
+                and the Executive Director of the Federal Retirement 
+                Thrift Investment Board shall make a transfer described 
+                in subparagraph (B).
+                    ``(B) Transfers.--The transfer by such Executive 
+                Director is a transfer, from the account of the 
+                individual in the Thrift Savings Fund to the account 
+                described in subsection (a), of an amount equal to the 
+                amount of that reimbursable portion of the award or 
+                settlement, reduced by--
+                          ``(i) any amount the individual has 
+                      reimbursed, taking into account any amounts 
+                      withheld under paragraph (2); and
+                          ``(ii) if the individual remains employed in 
+                      the same position, any amount that the individual 
+                      is scheduled to reimburse, taking into account any 
+                      amounts to be withheld under the individual's 
+                      timetable under paragraph (2).
+                    ``(C) Initiation of transfer.--Notwithstanding 
+                section 8435 of title 5, United States Code, the 
+                Executive Director described in subparagraph (A) shall 
+                make the transfer under subparagraph (A) upon receipt of 
+                a written request to the Executive Director from the 
+                Secretary of the Treasury, in the form and manner 
+                required by the Executive Director.
+                    ``(D) Coordination between payroll administrator and 
+                the executive director.--The payroll administrator and 
+                the Executive Director described in subparagraph (A) 
+                shall carry out this paragraph in a manner that ensures 
+                the coordination of the withholding and transferring of 
+                amounts under this paragraph, in accordance with 
+                regulations promulgated by the Board under section 303 
+                and such Executive Director.
+            ``(4)  Administrative wage garnishment or other collection 
+        of wages from a subsequent position.--
+                    ``(A) <<NOTE: Deadline.>>  Individual subject to 
+                garnishment or other collection.--Subparagraph (B) shall 
+                apply to an individual who is subject to a reimbursement 
+                requirement of
+
+[[Page 132 STAT. 5309]]
+
+                this subsection if, at any time after the expiration of 
+                the 270-day period that begins on the date a payment is 
+                made from the account described in subsection (a) for an 
+                award or settlement described in paragraph (1), the 
+                individual--
+                          ``(i) has not reimbursed the account for the 
+                      entire reimbursable portion as required under 
+                      paragraph (1), through withholdings or transfers 
+                      under paragraphs (2) and (3);
+                          ``(ii) is not serving in a position as a 
+                      Member of the House of Representatives or a 
+                      Senator; and
+                          ``(iii) is employed in a subsequent non-
+                      Federal position.
+                    ``(B) <<NOTE: Deadline.>>  Garnishment or other 
+                collection of wages.--On the expiration of that 270-day 
+                period, the amount of the reimbursable portion of an 
+                award or settlement described in paragraph (1) (reduced 
+                by any amount the individual has reimbursed, taking into 
+                account any amounts withheld or transferred under 
+                paragraph (2) or (3)) shall be treated as a claim of the 
+                United States and transferred to the Secretary of the 
+                Treasury for collection. Upon that transfer, the 
+                Secretary of the Treasury shall collect the claim, in 
+                accordance with section 3711 of title 31, United States 
+                Code, including by administrative wage garnishment of 
+                the wages of the individual described in subparagraph 
+                (A) from the position described in subparagraph 
+                (A)(iii). The Secretary of the Treasury shall transfer 
+                the collected amount to the account described in 
+                subsection (a).
+            ``(5) Notification to office of personnel management and 
+        secretary of the treasury.--
+                    ``(A) Individual subject to annuity or 
+                social <<NOTE: Applicability.>>  security withholding.--
+                Subparagraph (B) shall apply to an individual subject to 
+                a reimbursement requirement of this subsection if, at 
+                any time after the expiration of the 270-day period 
+                described in paragraph (4)(A), the individual--
+                          ``(i) has not served in a position as a Member 
+                      of the House of Representatives or a Senator 
+                      during the preceding 90 days; and
+                          ``(ii) is not employed in a subsequent non-
+                      Federal position.
+                    ``(B) <<NOTE: Determination. Consultation.>>  
+                Annuity or social security withholding.--If, at any time 
+                after the 270-day period described in paragraph (4)(A), 
+                the individual described in subparagraph (A) has not 
+                reimbursed the account described in subsection (a) for 
+                the entire reimbursable portion of the award or 
+                settlement described in paragraph (1) (as determined by 
+                the Secretary of the Treasury), through withholdings, 
+                transfers, or collections under paragraphs (2) through 
+                (4), the Secretary of the Treasury (after consultation 
+                with the payroll administrator)--
+                          ``(i) <<NOTE: Notification.>>  shall notify 
+                      the Director of the Office of Personnel 
+                      Management, who shall take such actions as the 
+                      Director considers appropriate to withhold from 
+                      any annuity payable to the individual under 
+                      chapter 83 or chapter 84 of title 5, United States 
+                      Code, and transfer to the account described in 
+                      subsection (a), such amounts as may be necessary 
+                      to reimburse the
+
+[[Page 132 STAT. 5310]]
+
+                      account for the remainder of the reimbursable 
+                      portion of an award or settlement described in 
+                      paragraph (1); and
+                          ``(ii) shall (if necessary), notwithstanding 
+                      section 207 of the Social Security Act (42 U.S.C. 
+                      407), take such actions as the Secretary of the 
+                      Treasury considers appropriate to withhold from 
+                      any payment to the individual under title II of 
+                      the Social Security Act (42 U.S.C. 401 et seq.) 
+                      and transfer to the account described in 
+                      subsection (a), such amounts as may be necessary 
+                      to reimburse the account for the remainder of the 
+                      reimbursable portion of an award or settlement 
+                      described in paragraph (1).
+            ``(6) Coordination between opm and treasury.--The Director 
+        of the Office of Personnel Management and the Secretary of the 
+        Treasury shall carry out paragraph (5) in a manner that ensures 
+        the coordination of the withholding and transferring of amounts 
+        under such paragraph, in accordance with regulations promulgated 
+        by the Director and the Secretary.
+            ``(7) <<NOTE: Determination.>>  Certification.--Once the 
+        Executive Director determines that an individual who is subject 
+        to a reimbursement requirement of this subsection has reimbursed 
+        the account described in subsection (a) for the entire 
+        reimbursable portion, the Executive Director shall prepare a 
+        certification that the individual has completed that 
+        reimbursement, and submit the certification to--
+                    ``(A) the Committees on House Administration and 
+                Ethics of the House of Representatives, in the case of 
+                an individual who, at the time of committing the act 
+                involved, was a Member of the House of Representatives 
+                (including a Delegate or Resident Commissioner to the 
+                Congress); and
+                    ``(B) the Select Committee on Ethics of the Senate, 
+                in the case of an individual who, at the time of 
+                committing the act involved, was a Senator.
+            ``(8) Right to intervene.--An individual who is subject to a 
+        reimbursement requirement of this subsection shall have the 
+        unconditional right to intervene in any mediation, hearing, or 
+        civil action under this title to protect the interests of the 
+        individual in the determination of whether an award or 
+        settlement described in paragraph (1) should be made, and the 
+        amount of any such award or settlement, except that nothing in 
+        this paragraph may be construed to require the covered employee 
+        who filed the claim to be deposed by counsel for the individual 
+        in a deposition that is separate from any other deposition taken 
+        from the employee in connection with the hearing or civil 
+        action.
+            ``(9) Definitions.--In this subsection:
+                    ``(A) Non-federal position.--The term `non-Federal 
+                position' means a position other than the position of an 
+                employee, as defined in section 2105(a) of title 5, 
+                United States Code.
+                    ``(B) Payroll administrator.--The term `payroll 
+                administrator' means--
+                          ``(i) in the case of an individual who is a 
+                      Member of the House of Representatives, the Chief 
+                      Administrative Officer of the House of 
+                      Representatives, or an
+
+[[Page 132 STAT. 5311]]
+
+                      employee of the Office of the Chief Administrative 
+                      Officer who is designated by the Chief 
+                      Administrative Officer to carry out this 
+                      subsection; or
+                          ``(ii) in the case of an individual who is a 
+                      Senator, the Secretary of the Senate, or an 
+                      employee of the Office of the Secretary of the 
+                      Senate who is designated by the Secretary to carry 
+                      out this subsection.''.
+
+    (b) Conforming Amendment.--Section 8437(e)(3) of title 5, United 
+States Code, is amended by inserting ``an obligation of the Executive 
+Director to make a transfer under section 415(d)(3) of the Congressional 
+Accountability Act of 1995 (2 U.S.C. 1415(d)(3)),'' before ``or an 
+obligation''.
+    (c) <<NOTE: Applicability. 2 USC 1415 note.>>  Effective Date.--The 
+amendments made by subsections (a) and (b) shall apply with respect to 
+claims made on or after the date of the enactment of this Act.
+SEC. 112. AUTOMATIC REFERRAL TO CONGRESSIONAL ETHICS COMMITTEES OF 
+                        DISPOSITION OF CERTAIN CLAIMS ALLEGING 
+                        VIOLATIONS OF CONGRESSIONAL ACCOUNTABILITY 
+                        ACT OF 1995 INVOLVING MEMBERS OF CONGRESS 
+                        AND SENIOR STAFF.
+
+    Section 416(e) (2 U.S.C. 1416(e)) is amended to read as follows:
+    ``(e) Automatic Referral to Congressional Ethics Committee of 
+Dispositions of Claims Involving Members of Congress and Senior Staff.--
+            ``(1) Referral.--Upon the final disposition under this title 
+        (as described in paragraph (6)) of a claim alleging a violation 
+        described in section 415(d)(1)(C) committed personally by a 
+        Member of the House of Representatives (including a Delegate or 
+        Resident Commissioner to the Congress) or a Senator, or by a 
+        senior staff of the House of Representatives or Senate, the 
+        Executive Director shall refer the claim to--
+                    ``(A) the Committee on Ethics of the House of 
+                Representatives, in the case of a Member or senior staff 
+                of the House; or
+                    ``(B) the Select Committee on Ethics of the Senate, 
+                in the case of a Senator or senior staff of the Senate.
+            ``(2) Access to records and information.--If the Executive 
+        Director refers a claim to a Committee under paragraph (1), the 
+        Executive Director shall provide the Committee with access to 
+        the records of any preliminary reviews, hearings, or decisions 
+        of the hearing officers and the Board under this Act, and any 
+        information relating to an award or settlement paid, in response 
+        to such claim.
+            ``(3) Review by senate ethics committee of settlements of 
+        certain claims.--After the receipt of a settlement agreement for 
+        a claim that includes an allegation of a violation described in 
+        section 415(d)(1)(C) committed personally by a Senator, the 
+        Select Committee on Ethics of the Senate shall--
+                    ``(A) <<NOTE: Deadline.>>  not later than 90 days 
+                after that receipt, review the settlement agreement;
+                    ``(B) <<NOTE: Determination.>>  determine whether an 
+                investigation of the claim is warranted; and
+                    ``(C) <<NOTE: Notification.>>  if the Select 
+                Committee determines, after the investigation, that the 
+                claim that resulted in the settlement involved an actual 
+                violation described in section 415(d)(1)(C) committed 
+                personally by the Senator, then the
+
+[[Page 132 STAT. 5312]]
+
+                Select Committee shall notify the Executive Director to 
+                request the reimbursement described in section 415(d) 
+                and include the settlement in the report required by 
+                section 301(l).
+            ``(4) Protection of personally identifiable information.--If 
+        a Committee to which a claim is referred under paragraph (1) 
+        issues a report with respect to the claim, the Committee shall 
+        ensure that the report does not directly disclose the identity 
+        or position of the individual who filed the claim.
+            ``(5) Committee authority to protect identity of a 
+        claimant.--
+                    ``(A) Authority.--If a Committee to which a claim is 
+                referred under paragraph (1) issues a report as 
+                described in paragraph (4) concerning a Member of the 
+                House of Representatives (including a Delegate or 
+                Resident Commissioner to the Congress) or a Senator, or 
+                a senior staff of the House of Representatives or 
+                Senate, the Committee may make an appropriate redaction 
+                to the information or data included in the report if the 
+                Chairman and Vice Chairman of the Committee reach 
+                agreement--
+                          ``(i) that including the information or data 
+                      considered for redaction may lead to the 
+                      unintentional disclosure of the identity or 
+                      position of a claimant; and
+                          ``(ii) on the precise information or data to 
+                      be redacted.
+                    ``(B) Notation and statement.--The report including 
+                any such redaction shall note each redaction and include 
+                a statement that the redaction was made solely for the 
+                purpose of avoiding such an unintentional disclosure of 
+                the identity or position of a claimant.
+                    ``(C) Retention of reports.--The Committee making a 
+                redaction in accordance with this paragraph shall retain 
+                a copy of the report, without a redaction.
+            ``(6) Final disposition described.--In this subsection, the 
+        `final disposition' of a claim means any of the following:
+                    ``(A) An order or agreement to pay an award or 
+                settlement, including an agreement reached pursuant to 
+                mediation under section 404.
+                    ``(B) A final decision of a hearing officer under 
+                section 405(g) that is no longer subject to review by 
+                the Board under section 406.
+                    ``(C) A final decision of the Board under section 
+                406(e) that is no longer subject to appeal to the United 
+                States Court of Appeals for the Federal Circuit under 
+                section 407.
+                    ``(D) A final decision in a civil action under 
+                section 408 that is no longer subject to appeal.
+            ``(7) Senior staff defined.--In this subsection, the term 
+        `senior staff' means any individual who, at the time a violation 
+        occurred, was required to file a report under title I of the 
+        Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).''.
+SEC. 113. AVAILABILITY OF REMOTE WORK ASSIGNMENT OR PAID LEAVE OF 
+                        ABSENCE DURING PENDENCY OF PROCEDURES.
+
+    (a) In General.--Title IV (2 U.S.C. 1401 et seq.) is amended by 
+adding at the end the following new section:
+
+[[Page 132 STAT. 5313]]
+
+``SEC. 417. <<NOTE: 2 USC 1417.>>  OPTION TO REQUEST REMOTE WORK 
+                        ASSIGNMENT OR PAID LEAVE OF ABSENCE DURING 
+                        PENDENCY OF PROCEDURES.
+
+    ``(a) Options for Employees.--
+            ``(1) Remote work assignment.--At the request of a covered 
+        employee who files a claim alleging a violation of part A of 
+        title II by the covered employee's employing office, during the 
+        pendency of any of the procedures available under this title for 
+        consideration of the claim, the employing office may permit the 
+        covered employee to carry out the employee's responsibilities 
+        from a remote location (referred to in this section as 
+        `permitting a remote work assignment') where such relocation 
+        would have the effect of materially reducing interactions 
+        between the covered employee and any person alleged to have 
+        committed the violation, instead of from a location of the 
+        employing office.
+            ``(2) Exception for work assignments required to be carried 
+        out onsite.--If, in the determination of the covered employee's 
+        employing office, a covered employee who makes a request under 
+        this subsection cannot carry out the employee's responsibilities 
+        from a remote location or such relocation would not have the 
+        effect described in paragraph (1), the employing office may 
+        during the pendency of the procedures described in paragraph 
+        (1)--
+                    ``(A) grant a paid leave of absence to the covered 
+                employee;
+                    ``(B) permit a remote work assignment and grant a 
+                paid leave of absence to the covered employee; or
+                    ``(C) make another workplace adjustment, or permit a 
+                remote work assignment, that would have the effect of 
+                reducing interactions between the covered employee and 
+                any person alleged to have committed the violation 
+                described in paragraph (1).
+            ``(3) Ensuring no retaliation.--An employing office may not 
+        grant a covered employee's request under this subsection in a 
+        manner which would constitute a violation of section 207.
+            ``(4) No impact on vacation or personal leave.--In granting 
+        leave for a paid leave of absence under this section, an 
+        employing office shall not require the covered employee to 
+        substitute, for that leave, any of the accrued paid vacation or 
+        personal leave of the covered employee.
+
+    ``(b) Exception for Arrangements Subject to Collective Bargaining 
+Agreements.--Subsection (a) does not apply to the extent that it is 
+inconsistent with the terms and conditions of any collective bargaining 
+agreement which is in effect with respect to an employing office.''.
+    (b) Clerical Amendment.--The table of contents is amended by adding 
+at the end of the items relating to title IV the following new item:
+
+``Sec. 417. Option to request remote work assignment or paid leave of 
+           absence during pendency of procedures.''.
+
+SEC. 114. MODIFICATION OF RULES ON CONFIDENTIALITY OF PROCEEDINGS.
+
+    (a) Mediation.--Section 416(b) (2 U.S.C. 1416(b)) is amended by 
+striking ``All mediation'' and inserting ``All information discussed or 
+disclosed in the course of any mediation''.
+
+[[Page 132 STAT. 5314]]
+
+    (b) Claims.--Section 416 (2 U.S.C. 1416), as amended by section 112 
+and subsection (a) of this section, is further amended--
+            (1) by striking subsection (a);
+            (2) by redesignating subsections (b) through (f) as 
+        subsections (a) through (e), respectively;
+            (3) in subsection (b), as redesignated by paragraph (2) of 
+        this subsection, by striking ``subsections (d), (e), and (f)'' 
+        and inserting ``subsections (c), (d), and (e)''; and
+            (4) by adding at the end the following:
+
+    ``(f) Claims.--Nothing in this section may be construed to prohibit 
+a covered employee from disclosing the factual allegations underlying 
+the covered employee's claim, or to prohibit an employing office from 
+disclosing the factual allegations underlying the employing office's 
+defense to the claim, in the course of any proceeding under this 
+title.''.
+SEC. 115. REIMBURSEMENT BY OTHER EMPLOYING OFFICES OF LEGISLATIVE 
+                        BRANCH OF PAYMENTS OF CERTAIN AWARDS AND 
+                        SETTLEMENTS.
+
+    (a) Requiring Reimbursement.--Section 415 (2 U.S.C. 1415), as 
+amended by section 111, is further amended by adding at the end the 
+following new subsection:
+    ``(e) Reimbursement by Employing Offices.--
+            ``(1) Notification of payments made from account.--As soon 
+        as practicable after the Executive Director is made aware that a 
+        payment of an award or settlement under this Act has been made 
+        from the account described in subsection (a) in connection with 
+        a claim alleging a violation of section 201(a) or 206(a) by an 
+        employing office (other than an employing office of the House of 
+        Representatives or an employing office of the Senate), the 
+        Executive Director shall notify the head of the employing office 
+        that the payment has been made, and shall include in the 
+        notification a statement of the amount of the payment.
+            ``(2) <<NOTE: Deadline.>>  Reimbursement by office.--Not 
+        later than 180 days after receiving a notification from the 
+        Executive Director under paragraph (1), the head of the 
+        employing office involved shall transfer to the account 
+        described in subsection (a), out of any funds available for 
+        operating expenses of the office, a payment equal to the amount 
+        specified in the notification.
+            ``(3) Timetable and procedures for reimbursement.--The head 
+        of an employing office shall transfer a payment under paragraph 
+        (2) in accordance with such timetable and procedures as may be 
+        established under regulations promulgated by the Office.''.
+
+    (b) <<NOTE: Applicability. 2 USC 1415 note.>>  Effective Date.--The 
+amendment made by subsection (a) shall apply with respect to payments 
+made under section 415 of the Congressional Accountability Act of 1995 
+(2 U.S.C. 1415) for claims filed on or after the date of the enactment 
+of this Act.
+
+[[Page 132 STAT. 5315]]
+
+  TITLE II--IMPROVING OPERATIONS OF OFFICE OF CONGRESSIONAL WORKPLACE 
+                                 RIGHTS
+
+SEC. 201. REPORTS ON AWARDS AND SETTLEMENTS.
+
+    (a) Annual Reports on Awards and Settlements.--
+            (1) Requiring submission and publication of reports.--
+        Section 301 (2 U.S.C. 1381) is amended--
+                    (A) in subsection (h)(3), by striking ``complaint'' 
+                each place it appears and inserting ``claim''; and
+                    (B) by adding at the end the following new 
+                subsection:
+
+    ``(l) Annual Reports on Awards and Settlements.--
+            ``(1) In general.--Subject to the rules issued by the 
+        applicable committee pursuant to paragraph (2):
+                    ``(A) <<NOTE: Web posting.>>  Requirement.--The 
+                Office shall prepare and submit to Congress, and publish 
+                on the public website of the Office, an annual report 
+                regarding payments from the account described in section 
+                415(a) that were the result of claims alleging a 
+                violation of part A of title II (referred to in this 
+                subsection as `covered payments').
+                    ``(B) Reporting.--The reporting required under this 
+                paragraph shall--
+                          ``(i) for a covered payment, or the 
+                      reimbursable portion of a covered payment, 
+                      described in paragraph (2), conform to the 
+                      requirements of the rules issued by the applicable 
+                      committee under such paragraph; and
+                          ``(ii) for a covered payment, or the portion 
+                      of a covered payment, not described in paragraph 
+                      (2)--
+                                    ``(I) include the amount of the 
+                                covered payment or portion of the 
+                                covered payment and information on the 
+                                employing office involved; and
+                                    ``(II) identify each provision of 
+                                part A of title II that was the subject 
+                                of a claim resulting in the covered 
+                                payment or portion of the covered 
+                                payment.
+                    ``(C) Reporting periods and dates.--The reporting 
+                required under this paragraph--
+                          ``(i) for 2019, shall be submitted by the 60th 
+                      day after the date on which the committees 
+                      described in paragraph (2) issue the rules 
+                      described in paragraph (2) and shall reflect 
+                      covered payments made in calendar year 2019; and
+                          ``(ii) for 2020 and each subsequent calendar 
+                      year, shall be submitted by January 31 of that 
+                      year and shall reflect covered payments made in 
+                      the previous calendar year.
+            ``(2) Rules regarding reporting of covered payments for 
+        employing offices of the house and employing offices of the 
+        senate.--
+                    ``(A) <<NOTE: Deadline.>>  In general.--Not later 
+                than 180 days after the date of the enactment of this 
+                subsection, the Committee on House Administration of the 
+                House of Representatives and the Committee on Rules and 
+                Administration of the
+
+[[Page 132 STAT. 5316]]
+
+                Senate shall each issue rules establishing the content, 
+                format, and other requirements for the reporting 
+                required under paragraph (1)(B)(i) with respect to--
+                          ``(i) any covered payment made for claims 
+                      involving an employing office described in any of 
+                      subparagraphs (A) through (C) of section 101(a)(9) 
+                      of the House of Representatives or of the Senate, 
+                      respectively; and
+                          ``(ii) the reimbursable portion of any such 
+                      covered payment for which there is a finding 
+                      requiring reimbursement under section 415(d)(1)(B) 
+                      from a Member of the House of Representatives 
+                      (including a Delegate or Resident Commissioner to 
+                      the Congress) or a Senator, respectively.
+                    ``(B) Applicability.--The rules issued under 
+                subparagraph (A)--
+                          ``(i) by the Committee on House Administration 
+                      of the House of Representatives shall apply to 
+                      covered payments made for claims involving 
+                      employing offices described in subparagraph (A)(i) 
+                      of the House; and
+                          ``(ii) by the Committee on Rules and 
+                      Administration of the Senate shall apply to 
+                      covered payments made for claims involving 
+                      employing offices described in subparagraph (A)(i) 
+                      of the Senate.
+            ``(3) Protection of identity of individuals receiving awards 
+        and settlements.--In preparing, submitting, and publishing the 
+        reports required under paragraph (1), the Office shall ensure 
+        that the identity or position of any claimant is not disclosed.
+            ``(4) Authority to protect the identity of a claimant.--
+                    ``(A) <<NOTE: Consultations.>>  In general.--In 
+                carrying out paragraph (3), the Executive Director, in 
+                consultation with the Board, may make an appropriate 
+                redaction to the data included in the report described 
+                in paragraph (1) if the Executive Director, in 
+                consultation with the Board, determines that including 
+                the data considered for redaction may lead to the 
+                identity or position of a claimant unintentionally being 
+                disclosed. The report shall note each redaction and 
+                include a statement that the redaction was made solely 
+                for the purpose of avoiding such an unintentional 
+                disclosure of the identity or position of a claimant.
+                    ``(B) Recordkeeping.--The Executive Director shall 
+                retain a copy of the report described in paragraph (1), 
+                without redactions.
+            ``(5) Definition.--In this subsection, the term `claimant' 
+        means an individual who received an award or settlement, or who 
+        made an allegation of a violation against an employing office, 
+        under part A of title II.''.
+            (2) <<NOTE: 2 USC 1381 note.>>  Effective date.--The 
+        amendment made by paragraph (1)(B) shall take effect on January 
+        1, 2019.
+
+    (b) Report on Amounts Previously Paid.--
+            (1) <<NOTE: Web posting.>>  In general.--Not later than 30 
+        days after the date of the enactment of this Act, the Office of 
+        Congressional Workplace Rights shall submit to Congress and make 
+        available to the public on the Office's public website a report 
+        on all payments made with public funds (to include funds paid 
+        from the account described in section 415(a) of the 
+        Congressional Accountability Act of 1995 (2 U.S.C. 1415(a)), an 
+        account of
+
+[[Page 132 STAT. 5317]]
+
+        the House of Representatives or Senate, or any other account of 
+        the Federal Government) prior to the date of the enactment of 
+        this Act for awards and settlements in connection with 
+        violations of section 201(a) of the Congressional Accountability 
+        Act of 1995 (2 U.S.C. 1311(a)), or section 207 of such Act (2 
+        U.S.C. 1317), and shall include in the report the following 
+        information:
+                    (A) The amount paid for each such award or 
+                settlement.
+                    (B) The source of the public funds used for the 
+                award or settlement.
+            (2) Rule of construction regarding identification of house 
+        and senate accounts.--Nothing in paragraph (1)(B) may be 
+        construed to require or permit the Office of Congressional 
+        Workplace Rights to report the account of any specific office of 
+        the House of Representatives or Senate as the source of funds 
+        used for an award or settlement.
+
+    (c) Rulemaking Powers.--Section 501 (2 U.S.C. 1431) is amended in 
+the matter preceding paragraph (1) by inserting ``, section 301(l),'' 
+before ``and 304(c)''.
+SEC. 202. <<NOTE: 2 USC 1388.>>  WORKPLACE CLIMATE SURVEYS OF 
+                        EMPLOYING OFFICES.
+
+    (a) Requiring Surveys.--Title III (2 U.S.C. 1381 et seq.) is amended 
+by adding at the end the following new section:
+``SEC. 307. WORKPLACE CLIMATE SURVEYS OF EMPLOYING OFFICES.
+
+    ``(a) <<NOTE: Deadline.>>  Requirement to Conduct Secure Surveys.--
+Not later than 1 year after the date of the enactment of this section, 
+and every 2 years thereafter, the Office shall conduct a secure survey 
+of employing offices under this Act regarding the workplace environment 
+of such offices. Employee responses to the survey shall be voluntary.
+
+    ``(b) Special Inclusion of Information on Sexual Harassment.--In 
+each survey conducted under this section, the Office shall survey 
+respondents on attitudes regarding sexual harassment.
+    ``(c) Methodology.--
+            ``(1) In general.--The Office shall conduct each survey 
+        under this section in accordance with methodologies established 
+        by the Office.
+            ``(2) Confidentiality.--Under the methodologies established 
+        under paragraph (1), all responses to all portions of the survey 
+        shall be anonymous and confidential, and each respondent shall 
+        be told throughout the survey that all responses shall be 
+        anonymous and confidential.
+            ``(3) Survey form.--The Office shall limit the use of any 
+        information code or information on the survey form that makes a 
+        respondent to the survey, or the respondent's employing office, 
+        individually identifiable.
+
+    ``(d) Use of Results of Surveys.--The Office shall furnish the 
+information obtained from the surveys conducted under this section to 
+the Committee on House Administration of the House of Representatives 
+and the Committees on Homeland Security and Governmental Affairs and 
+Rules and Administration of the Senate.
+    ``(e) Consultation With Committees.--The Office shall carry out this 
+section, including establishment of methodologies and procedures under 
+subsection (c), in consultation with the Committee on House 
+Administration of the House of Representatives and the Committees on 
+Homeland Security and Governmental Affairs and Rules and Administration 
+of the Senate.''.
+
+[[Page 132 STAT. 5318]]
+
+    (b) Clerical Amendment.--The table of contents is amended by adding 
+at the end of the items relating to title III the following new item:
+
+``Sec. 307. Workplace climate surveys of employing offices.''.
+
+SEC. 203. RECORD RETENTION.
+
+    Section 301 (2 U.S.C. 1381), as amended by section 201(a), is 
+further amended by adding at the end the following new subsection:
+    ``(m) Record Retention.--The Office shall establish and maintain a 
+program for the permanent retention of its records, including the 
+records of preliminary reviews, mediations, hearings, and other 
+proceedings conducted under title IV.''.
+SEC. 204. CONFIDENTIAL ADVISORS.
+
+    Section 302 (2 U.S.C. 1382) is amended--
+            (1) by redesignating subsections (d) through (f) as 
+        subsections (e) through (g), respectively; and
+            (2) by inserting after subsection (c) the following:
+
+    ``(d) Confidential Advisors.--
+            ``(1) In general.--The Executive Director shall--
+                    ``(A) <<NOTE: Appointment.>>  appoint, and fix the 
+                compensation of, and may remove, 1 or more confidential 
+                advisors to carry out the duties described in this 
+                subsection; or
+                    ``(B) <<NOTE: Designation.>>  designate 1 or more 
+                employees of the Office to serve as a confidential 
+                advisor.
+            ``(2) Duties.--
+                    ``(A) Voluntary services.--A confidential advisor 
+                appointed or designated under paragraph (1) shall offer 
+                to provide to covered employees described in paragraph 
+                (4) the services described in subparagraph (B), which a 
+                covered employee may accept or decline.
+                    ``(B) Services.--The services referred to in 
+                subparagraph (A) are--
+                          ``(i) informing, on a privileged and 
+                      confidential basis, a covered employee who has 
+                      been subject to a practice that may be a violation 
+                      of part A of title II about the employee's rights 
+                      under this Act;
+                          ``(ii) consulting, on a privileged and 
+                      confidential basis, with a covered employee who 
+                      has been subject to a practice that may be a 
+                      violation of part A of title II regarding--
+                                    ``(I) the roles, responsibilities, 
+                                and authority of the Office; and
+                                    ``(II) the relative merits of 
+                                securing private counsel, designating a 
+                                non-attorney representative, or 
+                                proceeding without representation for 
+                                proceedings before the Office;
+                          ``(iii) advising and consulting with, on a 
+                      privileged and confidential basis, a covered 
+                      employee who has been subject to a practice that 
+                      may be a violation of part A of title II regarding 
+                      any claims the covered employee may have under 
+                      title IV, the factual allegations that support 
+                      each such claim, and the relative merits of the 
+                      procedural options available to the employee for 
+                      each such claim;
+
+[[Page 132 STAT. 5319]]
+
+                          ``(iv) assisting, on a privileged and 
+                      confidential basis, a covered employee who seeks 
+                      consideration under title IV of an allegation of a 
+                      violation of part A of title II in understanding 
+                      the procedures, and the significance of the 
+                      procedures, described in title IV, including--
+                                    ``(I) assisting or consulting with 
+                                the covered employee regarding the 
+                                drafting of a claim to be filed under 
+                                section 402(a); and
+                                    ``(II) consulting with the covered 
+                                employee regarding the procedural 
+                                options available to the covered 
+                                employee after a claim is filed, and the 
+                                relative merits of each option; and
+                          ``(v) informing, on a privileged and 
+                      confidential basis, a covered employee who has 
+                      been subject to a practice that may be a violation 
+                      of part A of title II about the option of 
+                      pursuing, in appropriate circumstances, a 
+                      complaint with the Committee on Ethics of the 
+                      House of Representatives or the Select Committee 
+                      on Ethics of the Senate.
+                    ``(C) Continuity of service.--Once a covered 
+                employee has accepted and received any services offered 
+                under this section from a confidential advisor appointed 
+                or designated under paragraph (1), any other services 
+                requested under this subsection by the covered employee 
+                shall be provided, to the extent practicable, by the 
+                same confidential advisor.
+            ``(3) Qualifications.--A confidential advisor appointed or 
+        designated under paragraph (1) shall be a lawyer who--
+                    ``(A) is admitted to practice before, and is in good 
+                standing with, the bar of a State of the United States, 
+                the District of Columbia, or a territory of the United 
+                States; and
+                    ``(B) has experience representing clients in cases 
+                involving the workplace laws incorporated by part A of 
+                title II.
+            ``(4) Individuals covered.--The services described in 
+        paragraph (2) are available to any covered employee (which, for 
+        purposes of this subsection, shall include any staff member 
+        described in section 201(d) and any former covered employee 
+        (including any such former staff member)), except that--
+                    ``(A) a former covered employee may only request 
+                such services if the practice that may be a violation of 
+                part A of title II occurred during the employment or 
+                service of the employee; and
+                    ``(B) <<NOTE: Deadline.>>  a covered employee 
+                described in this paragraph may only request such 
+                services before the expiration of the 180-day period 
+                described in section 402(d).
+            ``(5) Restrictions.--A confidential advisor appointed or 
+        designated under paragraph (1)--
+                    ``(A) shall not act as the designated representative 
+                for any covered employee in connection with the covered 
+                employee's participation in any proceeding, including 
+                any proceeding under this Act, any judicial proceeding, 
+                or any proceeding before any committee of Congress;
+                    ``(B) shall not offer or provide services described 
+                in paragraph (2)(B) to a covered employee if the covered
+
+[[Page 132 STAT. 5320]]
+
+                employee has designated an attorney representative in 
+                connection with the covered employee's participation in 
+                any proceeding under this Act, except that a 
+                confidential advisor may provide general assistance and 
+                information to such attorney representative regarding 
+                this Act and the role of the Office as the confidential 
+                advisor determines appropriate; and
+                    ``(C) shall not serve as a mediator in any mediation 
+                conducted pursuant to section 404.''.
+SEC. 205. GAO STUDY OF MANAGEMENT PRACTICES.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study of the management practices of the Office of 
+Congressional Workplace Rights.
+    (b) <<NOTE: Recommenda- tions.>>  Report to Congress.--Not later 
+than 180 days after the date of the enactment of this Act, the 
+Comptroller General of the United States shall submit to Congress a 
+report on the study conducted under subsection (a), and shall include in 
+the report such recommendations as the Comptroller General considers 
+appropriate for improvements to the management practices of the Office 
+of Congressional Workplace Rights.
+SEC. 206. GAO AUDIT OF CYBERSECURITY.
+
+    (a) Audit.--The Comptroller General of the United States shall 
+conduct an audit of the cybersecurity systems and practices of the 
+Office of Congressional Workplace Rights.
+    (b) <<NOTE: Recommenda- tions.>>  Report to Congress.--Not later 
+than 180 days after the date of the enactment of this Act, the 
+Comptroller General of the United States shall submit to Congress a 
+report on the audit conducted under subsection (a), and shall include in 
+the report such recommendations as the Comptroller General considers 
+appropriate for improvements to the cybersecurity systems and practices 
+of the Office of Congressional Workplace Rights.
+
+                    TITLE III--MISCELLANEOUS REFORMS
+
+SEC. 301. APPLICATION OF GENETIC INFORMATION NONDISCRIMINATION ACT 
+                        OF 2008.
+
+    Section 102 (2 U.S.C. 1302) is amended by adding at the end the 
+following:
+    ``(c) Genetic Information Nondiscrimination Act of 2008.--
+            ``(1) In general.--The provisions of this Act that apply to 
+        a violation of section 201(a)(1) shall be considered to apply to 
+        a violation of title II of the Genetic Information 
+        Nondiscrimination Act of 2008 (42 U.S.C. 2000ff et seq.), 
+        consistent with section 207(c) of that Act (42 U.S.C. 2000ff-
+        6(c)).
+            ``(2) Construction.--
+                    ``(A) No limitation on other laws.--Nothing in this 
+                section limits the provisions of this Act that apply to 
+                a violation of a law described in subparagraph (B).
+                    ``(B) Other laws.--A law described in this 
+                subparagraph is a law (even if not listed in subsection 
+                (a) or this subsection) that explicitly applies one or 
+                more provisions of this Act to a violation.''.
+
+[[Page 132 STAT. 5321]]
+
+SEC. 302. EXTENSION TO UNPAID STAFF OF RIGHTS AND PROTECTIONS 
+                        AGAINST EMPLOYMENT DISCRIMINATION.
+
+    (a) Extension.--Section 201 (2 U.S.C. 1311) is amended--
+            (1) by redesignating subsection (d) as subsection (e); and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+
+    ``(d) Application to Unpaid Staff.--
+            ``(1) In general.--Subsections (a) and (b) shall apply with 
+        respect to--
+                    ``(A) any staff member of an employing office who 
+                carries out official duties of the employing office but 
+                who is not paid by the employing office for carrying out 
+                such duties (referred to in this subsection as an 
+                `unpaid staff member'), including an intern, an 
+                individual detailed to an employing office, and an 
+                individual participating in a fellowship program, in the 
+                same manner and to the same extent as such subsections 
+                apply with respect to a covered employee; and
+                    ``(B) a former unpaid staff member, if the act that 
+                may be a violation of subsection (a) occurred during the 
+                service of the former unpaid staffer for the employing 
+                office.
+            ``(2) Rule of construction.--Nothing in paragraph (1) may be 
+        construed to extend liability for a violation of subsection (a) 
+        to an employing office on the basis of an action taken by any 
+        person who is not under the supervision or control of the 
+        employing office.
+            ``(3) Intern defined.--For purposes of this subsection, the 
+        term `intern' means an individual who performs service for an 
+        employing office which is uncompensated by the United States to 
+        earn credit awarded by an educational institution or to learn a 
+        trade or occupation, and includes any individual participating 
+        in a page program operated by any House of Congress.''.
+
+    (b) Technical Correction Relating to Office Responsible for 
+Disbursement of Pay to House Employees.--Section 101(7) (2 U.S.C. 
+1301(7)) is amended by striking ``disbursed by the Clerk of the House of 
+Representatives'' and inserting ``disbursed by the Chief Administrative 
+Officer of the House of Representatives''.
+SEC. 303. CLARIFICATION OF TREATMENT OF LIBRARY OF CONGRESS 
+                        VISITORS.
+
+    (a) Clarification.--Section 210 (2 U.S.C. 1331) is amended--
+            (1) by redesignating subsection (h) as subsection (i); and
+            (2) by inserting after subsection (g) the following:
+
+    ``(h) Election of Remedies Relating to Rights to Public Services and 
+Accommodations for Library Visitors.--
+            ``(1) Definition of library visitor.--In this subsection, 
+        the term `Library visitor' means an individual who is eligible 
+        to bring a claim for a violation under title II or III of the 
+        Americans with Disabilities Act of 1990 (other than a violation 
+        for which the exclusive remedy is under section 201) against the 
+        Library of Congress.
+            ``(2) Election of remedies.--
+                    ``(A) In general.--A Library visitor who alleges a 
+                violation of subsection (b) by the Library of Congress 
+                may, subject to subparagraph (B)--
+
+[[Page 132 STAT. 5322]]
+
+                          ``(i) file a charge against the Library of 
+                      Congress under subsection (d); or
+                          ``(ii) use the remedies and procedures set 
+                      forth in section 717 of the Civil Rights Act of 
+                      1964 (42 U.S.C. 2000e-16), as provided under 
+                      section 510 (other than paragraph (5)) of the 
+                      Americans with Disabilities Act of 1990 (42 U.S.C. 
+                      12209).
+                    ``(B) Timing.--A Library visitor that has initiated 
+                proceedings under clause (i) or (ii) of subparagraph (A) 
+                may elect to change and initiate a proceeding under the 
+                other clause--
+                          ``(i) in the case of a Library visitor who 
+                      first filed a charge pursuant to subparagraph 
+                      (A)(i), before the General Counsel files a 
+                      complaint under subsection (d)(3); or
+                          ``(ii) in the case of a Library visitor who 
+                      first initiated a proceeding under subparagraph 
+                      (A)(ii), before the Library visitor requests a 
+                      hearing under the procedures of the Library of 
+                      Congress described in such subparagraph.''.
+
+    (b) Conforming Amendment.--Section 210(d)(2) (2 U.S.C. 1331(d)(2)) 
+is amended by striking ``section 403'' and inserting ``section 404''.
+    (c) <<NOTE: 2 USC 1331 note.>>  Effective Date and Applicability.--
+The amendments made by subsection (a) shall take effect as if such 
+amendments were included in the enactment of section 153 of the 
+Legislative Branch Appropriations Act, 2018 (Public Law 115-141), and 
+shall apply as specified in section 153(c) of such Act.
+SEC. 304. NOTICES.
+
+    (a) Requiring Employing Offices to Post Notices.--Part E of title II 
+(2 U.S.C. 1361) is amended by adding at the end the following:
+``SEC. 226. <<NOTE: 2 USC 1362.>>  NOTICES.
+
+    ``(a) In General.--Every employing office shall post and keep posted 
+(in conspicuous places upon its premises where notices to covered 
+employees are customarily posted) a notice provided by the Office that--
+            ``(1) describes the rights, protections, and procedures 
+        applicable to covered employees of the employing office under 
+        this Act, concerning violations described in subsection (b); and
+            ``(2) includes contact information for the Office.
+
+    ``(b) Violations.--A violation described in this subsection is--
+            ``(1) discrimination prohibited by section 201(a) 
+        (including, in accordance with section 102(c), discrimination 
+        prohibited by title II of the Genetic Information 
+        Nondiscrimination Act of 2008 (42 U.S.C. 2000ff et seq.)) or 
+        206(a); and
+            ``(2) a violation of section 207 that is related to 
+        discrimination described in paragraph (1).''.
+
+    (b) Clerical Amendment.--The table of contents is amended by adding 
+at the end of the items relating to part E of title II the following new 
+item:
+
+``Sec. 226. Notices.''.
+
+[[Page 132 STAT. 5323]]
+
+SEC. 305. CLARIFICATION OF COVERAGE OF EMPLOYEES OF HELSINKI AND 
+                        CHINA COMMISSIONS.
+
+    (a) Clarification of Coverage.--Section 101 (2 U.S.C. 1301), as 
+amended by section 302(b), is further amended--
+            (1) by striking ``Except as otherwise'' and inserting ``(a) 
+        In General.--Except as otherwise''; and
+            (2) by adding at the end the following new subsection:
+
+    ``(b) Clarification of Coverage of Employees of Certain 
+Commissions.--
+            ``(1) Coverage.--With respect to the China Review 
+        Commission, the Congressional-Executive China Commission, and 
+        the Helsinki Commission--
+                    ``(A) any individual who is an employee of such 
+                Commission shall be considered a covered employee for 
+                purposes of this Act; and
+                    ``(B) the Commission shall be considered an 
+                employing office for purposes of this Act.
+            ``(2) Authority to provide legal assistance and 
+        representation.--Subject to paragraph (3), legal assistance and 
+        representation under this Act, including assistance and 
+        representation with respect to the proposal or acceptance of the 
+        disposition of a claim under this Act, shall be provided to the 
+        China Review Commission, the Congressional-Executive China 
+        Commission, and the Helsinki Commission--
+                    ``(A) by the Office of House Employment Counsel of 
+                the House of Representatives, in the case of assistance 
+                and representation in connection with a claim filed 
+                under title IV (including all subsequent proceedings 
+                under such title in connection with the claim) at a time 
+                when the chair of the Commission is a Member of the 
+                House, and in the case of assistance and representation 
+                in connection with any subsequent claim under title IV 
+                related to the initial claim where the subsequent claim 
+                involves the same parties; or
+                    ``(B) by the Office of Senate Chief Counsel for 
+                Employment of the Senate, in the case of assistance and 
+                representation in connection with a claim filed under 
+                title IV (including all subsequent proceedings under 
+                such title in connection with the claim) at a time when 
+                the chair of the Commission is a Senator, and in the 
+                case of assistance and representation in connection with 
+                any subsequent claim under title IV related to the 
+                initial claim where the subsequent claim involves the 
+                same parties.
+            ``(3) Definitions.--In this subsection--
+                    ``(A) the term `China Review Commission' means the 
+                United States-China Economic and Security Review 
+                Commission established under section 1238 of the Floyd 
+                D. Spence National Defense Authorization Act for Fiscal 
+                Year 2001 (22 U.S.C. 7002), as enacted into law by 
+                section 1 of Public Law 106-398;
+                    ``(B) the term `Congressional-Executive China 
+                Commission' means the Congressional-Executive Commission 
+                on the People's Republic of China established under 
+                title III of the U.S.-China Relations Act of 2000 
+                (Public Law 106-286; 22 U.S.C. 6911 et seq.); and
+
+[[Page 132 STAT. 5324]]
+
+                    ``(C) the term `Helsinki Commission' means the 
+                Commission on Security and Cooperation in Europe 
+                established under the Act entitled `An Act to establish 
+                a Commission on Security and Cooperation in Europe', 
+                approved June 3, 1976 (Public Law 94-304; 22 U.S.C. 3001 
+                et seq.).''.
+
+    (b) Coverage of Stennis Center.--
+            (1) Treatment of employees as covered employees.--Section 
+        101(a)(3) (2 U.S.C. 1301(a)(3)) is amended--
+                    (A) by striking ``or'' at the end of subparagraph 
+                (I);
+                    (B) by striking the period at the end of 
+                subparagraph (J) and inserting ``; or''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(K) the John C. Stennis Center for Public Service 
+                Training and Development.''.
+            (2) Treatment of center as employing office.--Section 
+        101(a)(9)(D) (2 U.S.C. 1301(a)(9)(D)) is amended by striking 
+        ``and the Office of Technology Assessment'' and inserting the 
+        following: ``the Office of Technology Assessment, and the John 
+        C. Stennis Center for Public Service Training and Development''.
+
+    (c) Conforming Amendments.--Paragraphs (7) and (8) of section 101(a) 
+(2 U.S.C. 1301(a)) are each amended by striking ``subparagraphs (C) 
+through (I)'' and inserting ``subparagraphs (C) through (K)''.
+    (d) <<NOTE: 2 USC 1301 note.>>  Effective Date.--The amendments made 
+by this section shall take effect as if included in the enactment of the 
+Congressional Accountability Act of 1995.
+SEC. 306. <<NOTE: 2 USC 1438.>>  TRAINING AND EDUCATION PROGRAMS 
+                        OF OTHER EMPLOYING OFFICES.
+
+    (a) Requiring Offices to Develop and Implement Programs.--Title V (2 
+U.S.C. 1431 et seq.) is amended--
+            (1) by redesignating section 509 as section 510; and
+            (2) by inserting after section 508 the following new 
+        section:
+``SEC. 509. <<NOTE: 2 USC 1437a.>>  TRAINING AND EDUCATION 
+                        PROGRAMS OF EMPLOYING OFFICES.
+
+    ``(a) Requiring Offices to Develop and Implement Programs.--Each 
+employing office shall develop and implement a program to train and 
+educate covered employees of the office in the rights and protections 
+provided under this Act, including the procedures available under title 
+IV to consider alleged violations of this Act.
+    ``(b) Report to Committees.--
+            ``(1) <<NOTE: Effective date.>>  In general.--Not later than 
+        45 days after the beginning of each Congress (beginning with the 
+        One Hundred Seventeenth Congress), each employing office shall 
+        submit a report to the Committee on House Administration of the 
+        House of Representatives and the Committee on Rules and 
+        Administration of the Senate on the implementation of the 
+        program required under subsection (a).
+            ``(2) Special rule for first report.--Not later than 180 
+        days after the date of the enactment of the Congressional 
+        Accountability Act of 1995 Reform Act, each employing office 
+        shall submit the report described in paragraph (1) to the 
+        Committees described in such paragraph.
+
+[[Page 132 STAT. 5325]]
+
+    ``(c) Exception for Offices of Congress.--This section does not 
+apply to an employing office of the House of Representatives or an 
+employing office of the Senate.''.
+    (b) Clerical Amendment.--The table of contents is amended--
+            (1) by redesignating the item relating to section 509 as 
+        relating to section 510; and
+            (2) by inserting after the item relating to section 508 the 
+        following new item:
+
+``Sec. 509. Training and education programs of employing offices.''.
+
+SEC. 307. SUPPORT FOR OUT-OF-AREA COVERED EMPLOYEES.
+
+    (a) In General.--Title V (2 U.S.C. 1431 et seq.), as amended by 
+section 306(a), <<NOTE: 2 USC 1438.>>  is further amended--
+            (1) by redesignating section 510 as section 511; and
+            (2) by inserting after section 509, as inserted by section 
+        306(a), the following:
+``SEC. 510. <<NOTE: 2 USC 1437b.>>  SUPPORT FOR OUT-OF-AREA 
+                        COVERED EMPLOYEES.
+
+    ``(a) In General.--All covered employees whose location of 
+employment is outside of the Washington, DC area (referred to in this 
+section as `out-of-area covered employees') shall have equitable access 
+to the resources and services provided by the Office and under this Act 
+as is provided to covered employees who work in the Washington, DC area.
+    ``(b) Office of Congressional Workplace Rights.--The Office shall--
+            ``(1) establish a method by which out-of-area covered 
+        employees may communicate securely with the Office, which shall 
+        include an option for real-time audiovisual communication; and
+            ``(2) <<NOTE: Guidance.>>  provide guidance to employing 
+        offices regarding how each office can facilitate equitable 
+        access to the resources and services provided under this Act for 
+        its out-of-area covered employees, including information 
+        regarding the communication methods described in paragraph (1).
+
+    ``(c) Employing Offices.--It is the sense of Congress that each 
+employing office with out-of-area covered employees should use its best 
+efforts to facilitate equitable access to the resources and services 
+provided under this Act for those employees.''.
+    (b) Clerical Amendment.--The table of contents, as amended by 
+section 306(b), <<NOTE: 2 USC 1381.>>  is amended--
+            (1) by redesignating the item relating to section 510 as 
+        relating to section 511; and
+            (2) by inserting after the item relating to section 509, as 
+        inserted by section 306(b), the following new item:
+
+``Sec. 510. Support for out-of-area covered employees.''.
+
+SEC. 308. RENAMING OFFICE OF COMPLIANCE AS OFFICE OF CONGRESSIONAL 
+                        WORKPLACE RIGHTS.
+
+    (a) Renaming.--Section 301 (2 U.S.C. 1381) is amended--
+            (1) in the section heading, by striking ``office of 
+        compliance'' and inserting ``office of congressional workplace 
+        rights''; and
+            (2) in subsection (a), by striking ``Office of Compliance'' 
+        and inserting ``Office of Congressional Workplace Rights''.
+
+[[Page 132 STAT. 5326]]
+
+    (b) Conforming Amendments to Congressional Accountability Act of 
+1995.--The Congressional Accountability Act of 1995, as amended by 
+section 305(a), is further amended as follows:
+            (1) In section 101(a)(1) (2 U.S.C. 1301(a)(1)), by striking 
+        ``Office of Compliance'' and inserting ``Office of Congressional 
+        Workplace Rights''.
+            (2) In section 101(a)(2) (2 U.S.C. 1301(a)(2)), by striking 
+        ``Office of Compliance'' and inserting ``Office of Congressional 
+        Workplace Rights''.
+            (3) In section 101(a)(3)(H) (2 U.S.C. 1301(a)(3)(H)), by 
+        striking ``Office of Compliance'' and inserting ``Office of 
+        Congressional Workplace Rights''.
+            (4) In section 101(a)(9)(D) (2 U.S.C. 1301(a)(9)(D)), by 
+        striking ``Office of Compliance'' and inserting ``Office of 
+        Congressional Workplace Rights''.
+            (5) In section 101(a)(10) (2 U.S.C. 1301(a)(10)), by 
+        striking ``Office of Compliance'' and inserting ``Office of 
+        Congressional Workplace Rights''.
+            (6) In section 101(a)(11) (2 U.S.C. 1301(a)(11)), by 
+        striking ``Office of Compliance'' and inserting ``Office of 
+        Congressional Workplace Rights''.
+            (7) In section 101(a)(12) (2 U.S.C. 1301(a)(12)), by 
+        striking ``Office of Compliance'' and inserting ``Office of 
+        Congressional Workplace Rights''.
+            (8) In section 210(a)(9) (2 U.S.C. 1331(a)(9)), by striking 
+        ``Office of Compliance'' and inserting ``Office of Congressional 
+        Workplace Rights''.
+            (9) In section 215(e)(1) (2 U.S.C. 1341(e)(1)), by striking 
+        ``Office of Compliance'' and inserting ``Office of Congressional 
+        Workplace Rights''.
+            (10) In section 220(e)(2)(G) (2 U.S.C. 1351(e)(2)(G)), by 
+        striking ``Office of Compliance'' and inserting ``Office of 
+        Congressional Workplace Rights''.
+            (11) In the title heading of title III, by striking ``OFFICE 
+        OF COMPLIANCE'' and inserting ``OFFICE OF CONGRESSIONAL 
+        WORKPLACE RIGHTS''.
+            (12) In section 304(c)(4) (2 U.S.C. 1384(c)(4)), by striking 
+        ``Office of Compliance'' and inserting ``Office of Congressional 
+        Workplace Rights''.
+            (13) In section 304(c)(5) (2 U.S.C. 1384(c)(5)), by striking 
+        ``Office of Compliance'' and inserting ``Office of Congressional 
+        Workplace Rights''.
+
+    (c) Clerical Amendments.--The table of contents is amended--
+            (1) by amending the item relating to the heading of title 
+        III to read as follows:
+
+      ``TITLE III--OFFICE OF CONGRESSIONAL WORKPLACE RIGHTS''; and
+
+            (2) by amending the item relating to section 301 to read as 
+        follows:
+
+``Sec. 301. Establishment of Office of Congressional Workplace 
+           Rights.''.
+
+    (d) <<NOTE: 2 USC 1381 note.>>  Effective Date; References in Other 
+Laws, Rules, and Regulations.--The amendments made by this section shall 
+take effect on the date of the enactment of this Act. Any reference to 
+the Office of Compliance in any law, rule, regulation, or other
+
+[[Page 132 STAT. 5327]]
+
+official paper in effect as of such date shall be considered to refer 
+and apply to the Office of Congressional Workplace Rights.
+
+                        TITLE IV--EFFECTIVE DATE
+
+SEC. 401. EFFECTIVE DATE.
+
+    (a) <<NOTE: 2 USC 1301 note.>>  In General.--Except as otherwise 
+provided in this Act, this Act and the amendments made by this Act shall 
+take effect upon the expiration of the 180-day period which begins on 
+the date of the enactment of this Act.
+
+    (b) <<NOTE: 2 USC 1301 note.>>  No Effect on Pending Proceedings.--
+Nothing in this Act or the amendments made by this Act may be construed 
+to affect any proceeding or payment of an award or settlement relating 
+to a claim under title IV of the Congressional Accountability Act of 
+1995 (2 U.S.C. 1401 et seq.) which is pending as of the date after that 
+180-day period. If, as of that date, an employee has begun any of the 
+proceedings under that title that were available to the employee prior 
+to that date, the employee may complete, or initiate and complete, all 
+such proceedings, and such proceedings shall remain in effect with 
+respect to, and provide the exclusive proceedings for, the claim 
+involved until the completion of all such proceedings.
+
+    Approved December 21, 2018.
+
+LEGISLATIVE HISTORY--S. 3749:
+---------------------------------------------------------------------------
+
+CONGRESSIONAL RECORD, Vol. 164 (2018):
+            Dec. 13, considered and passed Senate and House.
+
+                                  
+
