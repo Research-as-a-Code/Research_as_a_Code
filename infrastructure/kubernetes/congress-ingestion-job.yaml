@@ -1,0 +1,147 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
+# SPDX-License-Identifier: Apache-2.0
+
+# Kubernetes Job to ingest congress documents into Milvus
+# Runs INSIDE the cluster for direct service access (no port-forwarding!)
+
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: ingest-congress
+  namespace: rag-blueprint
+spec:
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+      - name: ingestion
+        image: python:3.13-slim
+        command: ["/bin/bash", "-c"]
+        args:
+          - |
+            pip install pymilvus httpx PyPDF2
+            cd /data
+            python3 /scripts/ingest_congress_fast.py
+        env:
+        - name: MILVUS_HOST
+          value: "milvus-standalone"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        volumeMounts:
+        - name: data
+          mountPath: /data/congress
+          subPath: congress
+        - name: scripts
+          mountPath: /scripts
+      volumes:
+      - name: data
+        hostPath:
+          path: /home/csaba/repos/AIML/Research_as_a_Code/data
+          type: Directory
+      - name: scripts
+        configMap:
+          name: congress-ingest-script
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: congress-ingest-script
+  namespace: rag-blueprint
+data:
+  ingest_congress_fast.py: |
+    #!/usr/bin/env python3
+    import os, sys, time
+    from pathlib import Path
+    from typing import List
+    import httpx
+    from pymilvus import connections, Collection, CollectionSchema, FieldSchema, DataType, utility
+    
+    MILVUS_HOST = os.getenv("MILVUS_HOST", "milvus-standalone")
+    MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
+    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL")
+    COLLECTION_NAME = "congress"
+    EMBEDDING_DIM = 1024
+    CHUNK_SIZE = 500
+    CHUNK_OVERLAP = 100
+    BATCH_SIZE = 10
+    
+    def chunk_text(text: str) -> List[str]:
+        chunks = []
+        start = 0
+        while start < len(text):
+            end = start + CHUNK_SIZE
+            chunk = text[start:end].strip()
+            if len(chunk) > 50:
+                chunks.append(chunk)
+            start += (CHUNK_SIZE - CHUNK_OVERLAP)
+        return chunks
+    
+    def get_embeddings(texts: List[str]) -> List[List[float]]:
+        try:
+            response = httpx.post(
+                f"{EMBEDDING_NIM_URL}/v1/embeddings",
+                json={"input": texts, "model": "snowflake/arctic-embed-l", "input_type": "passage"},
+                timeout=60.0
+            )
+            if response.status_code == 200:
+                return [item["embedding"] for item in response.json()["data"]]
+            return []
+        except Exception as e:
+            print(f"  ⚠️ Error: {e}")
+            return []
+    
+    def create_collection():
+        if utility.has_collection(COLLECTION_NAME):
+            return Collection(COLLECTION_NAME)
+        fields = [
+            FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
+            FieldSchema(name="embedding", dtype=DataType.FLOAT_VECTOR, dim=EMBEDDING_DIM),
+            FieldSchema(name="text", dtype=DataType.VARCHAR, max_length=65535),
+            FieldSchema(name="source", dtype=DataType.VARCHAR, max_length=1024),
+        ]
+        schema = CollectionSchema(fields=fields, description="Congress documents")
+        collection = Collection(name=COLLECTION_NAME, schema=schema)
+        collection.create_index("embedding", {"metric_type": "L2", "index_type": "HNSW", "params": {"M": 16, "efConstruction": 200}})
+        print(f"  ✅ Collection created!")
+        return collection
+    
+    print("🏛️ Congress Ingestion (FAST)")
+    connections.connect(alias="default", host=MILVUS_HOST, port=MILVUS_PORT)
+    collection = create_collection()
+    
+    text_files = sorted(Path("/data/congress").glob("*.txt"))
+    print(f"📚 Found {len(text_files)} files\n")
+    
+    all_embeddings, all_texts, all_sources = [], [], []
+    
+    for idx, txt_path in enumerate(text_files, 1):
+        with open(txt_path, 'r', encoding='utf-8', errors='ignore') as f:
+            text = f.read()
+        
+        chunks = chunk_text(text)
+        print(f"[{idx}/{len(text_files)}] {txt_path.name}: {len(chunks)} chunks")
+        
+        for i in range(0, len(chunks), BATCH_SIZE):
+            batch = chunks[i:i + BATCH_SIZE]
+            embeddings = get_embeddings(batch)
+            if embeddings:
+                all_embeddings.extend(embeddings)
+                all_texts.extend(batch)
+                all_sources.extend([txt_path.name] * len(batch))
+            time.sleep(0.1)
+        
+        if idx % 50 == 0 and all_embeddings:
+            print(f"\n💾 Bulk inserting {len(all_embeddings)} chunks...")
+            collection.insert([all_embeddings, all_texts, all_sources])
+            collection.flush()
+            all_embeddings, all_texts, all_sources = [], [], []
+    
+    if all_embeddings:
+        collection.insert([all_embeddings, all_texts, all_sources])
+        collection.flush()
+    
+    collection.load()
+    print(f"\n✅ Complete! Total chunks: {collection.num_entities}")
+

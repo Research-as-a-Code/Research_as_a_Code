@@ -1,0 +1,142 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
+# SPDX-License-Identifier: Apache-2.0
+
+# Kubernetes Job to ingest sustainability PDFs into Milvus
+# Based on working tariff ingestion approach
+
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: ingest-sustainability
+  namespace: rag-blueprint
+spec:
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+      - name: ingestion
+        image: python:3.13-slim
+        command: ["/bin/bash", "-c"]
+        args:
+          - |
+            pip install pymilvus httpx PyPDF2
+            cd /data
+            python3 /scripts/ingest_sustainability_fast.py
+        env:
+        - name: MILVUS_HOST
+          value: "milvus-standalone"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        volumeMounts:
+        - name: data
+          mountPath: /data/sustainability
+          subPath: sustainability
+        - name: scripts
+          mountPath: /scripts
+      volumes:
+      - name: data
+        hostPath:
+          path: /home/csaba/repos/AIML/Research_as_a_Code/data
+          type: Directory
+      - name: scripts
+        configMap:
+          name: sustainability-ingest-script
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sustainability-ingest-script
+  namespace: rag-blueprint
+data:
+  ingest_sustainability_fast.py: |
+    #!/usr/bin/env python3
+    # Sustainability PDF Ingestion - FAST version with batching
+    import os, sys, time
+    from pathlib import Path
+    from typing import List
+    import httpx
+    from pymilvus import connections, Collection, CollectionSchema, FieldSchema, DataType, utility
+    
+    MILVUS_HOST = os.getenv("MILVUS_HOST", "milvus-standalone")
+    MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
+    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL")
+    COLLECTION_NAME = "sustainability"
+    EMBEDDING_DIM = 1024
+    CHUNK_SIZE = 500
+    CHUNK_OVERLAP = 100
+    BATCH_SIZE = 10
+    
+    def extract_pdf(pdf_path: str) -> str:
+        try:
+            import PyPDF2
+            with open(pdf_path, 'rb') as f:
+                return "".join(page.extract_text() for page in PyPDF2.PdfReader(f).pages)
+        except: return ""
+    
+    def chunk_text(text: str) -> List[str]:
+        chunks, start = [], 0
+        while start < len(text):
+            chunk = text[start:start + CHUNK_SIZE].strip()
+            if len(chunk) > 50: chunks.append(chunk)
+            start += (CHUNK_SIZE - CHUNK_OVERLAP)
+        return chunks
+    
+    def get_embeddings(texts: List[str]) -> List[List[float]]:
+        try:
+            r = httpx.post(f"{EMBEDDING_NIM_URL}/v1/embeddings",
+                json={"input": texts, "model": "snowflake/arctic-embed-l", "input_type": "passage"},
+                timeout=60.0)
+            return [item["embedding"] for item in r.json()["data"]] if r.status_code == 200 else []
+        except: return []
+    
+    def create_collection():
+        if utility.has_collection(COLLECTION_NAME):
+            return Collection(COLLECTION_NAME)
+        fields = [
+            FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
+            FieldSchema(name="embedding", dtype=DataType.FLOAT_VECTOR, dim=EMBEDDING_DIM),
+            FieldSchema(name="text", dtype=DataType.VARCHAR, max_length=65535),
+            FieldSchema(name="source", dtype=DataType.VARCHAR, max_length=1024),
+        ]
+        collection = Collection(COLLECTION_NAME, CollectionSchema(fields, "Sustainability PDFs"))
+        collection.create_index("embedding", {"metric_type": "L2", "index_type": "HNSW", "params": {"M": 16, "efConstruction": 200}})
+        return collection
+    
+    print("🌱 Sustainability Ingestion (FAST)")
+    connections.connect(alias="default", host=MILVUS_HOST, port=MILVUS_PORT)
+    collection = create_collection()
+    
+    pdfs = sorted(Path("/data/sustainability").glob("*.pdf"))
+    print(f"📚 {len(pdfs)} PDFs\n")
+    
+    all_emb, all_txt, all_src = [], [], []
+    
+    for idx, pdf in enumerate(pdfs, 1):
+        text = extract_pdf(str(pdf))
+        chunks = chunk_text(text)
+        print(f"[{idx}/{len(pdfs)}] {pdf.name}: {len(chunks)} chunks")
+        
+        for i in range(0, len(chunks), BATCH_SIZE):
+            batch = chunks[i:i + BATCH_SIZE]
+            embeddings = get_embeddings(batch)
+            if embeddings:
+                all_emb.extend(embeddings)
+                all_txt.extend(batch)
+                all_src.extend([pdf.name] * len(batch))
+            time.sleep(0.1)
+        
+        if idx % 10 == 0 and all_emb:
+            print(f"💾 Bulk insert {len(all_emb)} chunks...")
+            collection.insert([all_emb, all_txt, all_src])
+            collection.flush()
+            all_emb, all_txt, all_src = [], [], []
+    
+    if all_emb:
+        collection.insert([all_emb, all_txt, all_src])
+        collection.flush()
+    
+    collection.load()
+    print(f"\n✅ Done! {collection.num_entities} chunks")
+
