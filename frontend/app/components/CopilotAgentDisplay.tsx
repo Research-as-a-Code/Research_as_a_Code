@@ -477,21 +477,8 @@ export function CopilotAgentDisplay({
         disabled={agentState.isProcessing}
       />
       
-      {/* TTD-DR Progress Display (only show if TTD-DR is active) */}
-      {agentState.strategy === 'ttd_dr' && (
-        <TTDDRProgressDisplay 
-          state={{
-            stage: agentState.ttd_dr_stage || 'idle',
-            currentIteration: agentState.ttd_dr_iteration || 0,
-            maxIterations: 5,
-            convergenceScores: agentState.ttd_dr_convergence || [],
-            currentQuestions: agentState.ttd_dr_questions || [],
-            gaps: agentState.ttd_dr_gaps || [],
-            improvements: agentState.ttd_dr_improvements || [],
-            draftWordCount: agentState.running_summary?.split(' ').length
-          }}
-        />
-      )}
+      {/* TTD-DR Progress Display removed - callback system not functional
+          Progress is visible in Execution Logs instead */}
       
       {!agentState.isProcessing && agentState.logs.length === 0 ? (
         <div className="text-gray-400 italic">
