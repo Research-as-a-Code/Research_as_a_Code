@@ -1,0 +1,53 @@
+apiVersion: karpenter.sh/v1beta1
+kind: NodePool
+metadata:
+  name: ingestion-temp
+spec:
+  disruption:
+    consolidationPolicy: WhenEmpty  # Terminate quickly when empty
+    consolidateAfter: 5m  # Wait only 5 minutes after pods finish
+    expireAfter: 6h  # Auto-delete after 6 hours
+  limits:
+    cpu: "64"  # Allow m5.4xlarge (16 vCPU)
+    memory: 256Gi
+  template:
+    metadata:
+      labels:
+        workload-type: ingestion
+    spec:
+      nodeClassRef:
+        name: nvidia-nim  # Reuse existing node class
+      requirements:
+      - key: karpenter.sh/capacity-type
+        operator: In
+        values:
+        - on-demand  # Reliable for data processing
+      - key: kubernetes.io/arch
+        operator: In
+        values:
+        - amd64
+      - key: node.kubernetes.io/instance-type
+        operator: In
+        values:
+        - m5.4xlarge  # 16 vCPU, 64GB RAM - for heavy Docling processing
+        - m5.2xlarge  # 8 vCPU, 32GB RAM - backup option
+      # NO GPU taint - these are CPU-only nodes
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ingestion-nodepool-info
+  namespace: rag-blueprint
+data:
+  info: |
+    Temporary nodepool for RAG ingestion jobs
+    Created: 2025-11-24
+    Auto-expires: 6 hours after creation
+    
+    To delete manually:
+      kubectl delete nodepool ingestion-temp
+    
+    Estimated cost:
+      m5.xlarge: ~$0.192/hour
+      If runs 3 hours: ~$0.58
+

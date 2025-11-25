@@ -267,18 +267,17 @@ spec:
         job: tariffs-docling-ingestion
     spec:
       restartPolicy: OnFailure
+      nodeSelector:
+        workload-type: ingestion  # Target ingestion nodepool
       containers:
       - name: ingest
-        image: python:3.11-slim
+        image: 962716963657.dkr.ecr.us-west-2.amazonaws.com/docling-ingestion:latest
         command:
         - /bin/bash
         - -c
         - |
           set -e
-          echo "📦 Installing dependencies..."
-          pip install --no-cache-dir pymilvus httpx docling
-          
-          echo "✅ Dependencies installed!"
+          echo "✅ Using pre-built Docling image (no installation needed!)"
           echo "🚀 Starting Docling-powered ingestion..."
           
           python /scripts/ingest_with_docling.py
@@ -286,7 +285,7 @@ spec:
         - name: COLLECTION_NAME
           value: "us_tariffs"
         - name: DATA_DIR
-          value: "/data"
+          value: "/data/tariffs"
         - name: FILE_PATTERN
           value: "*.pdf"
         - name: DROP_EXISTING
@@ -305,10 +304,10 @@ spec:
           readOnly: true
         resources:
           requests:
-            memory: "4Gi"
-            cpu: "2"
-          limits:
             memory: "8Gi"
+            cpu: "1"
+          limits:
+            memory: "16Gi"
             cpu: "4"
       volumes:
       - name: script
@@ -316,7 +315,6 @@ spec:
           name: tariffs-docling-ingest-script
           defaultMode: 0755
       - name: data
-        hostPath:
-          path: /home/csaba/repos/AIML/Research_as_a_Code/data/tariffs
-          type: Directory
+        persistentVolumeClaim:
+          claimName: ingestion-data
 
