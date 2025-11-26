@@ -338,9 +338,16 @@ def main():
     
     if failed > 0:
         logger.warning(f"⚠️  {failed} files failed to process")
-        sys.exit(1)
+        # Only fail if MOST files failed (>50%)
+        if failed > success:
+            logger.error(f"❌ Majority of files failed ({failed}/{failed+success}), exiting with error")
+            sys.exit(1)
+        else:
+            logger.info(f"✅ Ingestion mostly successful ({success}/{failed+success} files)")
+            sys.exit(0)  # Exit successfully despite some failures
     else:
         logger.info(f"✅ All {success} files processed successfully!")
+        sys.exit(0)
 
 
 if __name__ == "__main__":
