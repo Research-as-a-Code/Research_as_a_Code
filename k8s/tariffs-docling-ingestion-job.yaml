@@ -292,7 +292,7 @@ spec:
         - name: FILE_PATTERN
           value: "*.pdf"
         - name: DROP_EXISTING
-          value: "true"
+          value: "false"  # Incremental mode: keep existing data
         - name: MILVUS_HOST
           value: "milvus-standalone"
         - name: MILVUS_PORT
