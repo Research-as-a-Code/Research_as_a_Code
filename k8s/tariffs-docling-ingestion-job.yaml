@@ -265,13 +265,16 @@ spec:
     metadata:
       labels:
         job: tariffs-docling-ingestion
+      annotations:
+        karpenter.sh/do-not-disrupt: "true"  # Prevent Karpenter from evicting
+        cluster-autoscaler.kubernetes.io/safe-to-evict: "false"  # Prevent autoscaler eviction
     spec:
       restartPolicy: OnFailure
       nodeSelector:
         workload-type: ingestion  # Target ingestion nodepool
       containers:
       - name: ingest
-        image: 962716963657.dkr.ecr.us-west-2.amazonaws.com/docling-ingestion:latest
+        image: 962716963657.dkr.ecr.us-west-2.amazonaws.com/docling-ingestion:v2
         command:
         - /bin/bash
         - -c

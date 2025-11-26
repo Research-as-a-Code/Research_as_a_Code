@@ -6,7 +6,7 @@ spec:
   disruption:
     consolidationPolicy: WhenEmpty  # Terminate quickly when empty
     consolidateAfter: 5m  # Wait only 5 minutes after pods finish
-    expireAfter: 6h  # Auto-delete after 6 hours
+    expireAfter: 48h  # Allow long-running ingestion jobs (up to 2 days)
   limits:
     cpu: "64"  # Allow m5.4xlarge (16 vCPU)
     memory: 256Gi

@@ -1,0 +1,33 @@
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: ingestion-jobs-pdb
+  namespace: rag-blueprint
+spec:
+  minAvailable: 1  # At least 1 ingestion pod must remain running
+  selector:
+    matchLabels:
+      job: tariffs-docling-ingestion
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: congress-ingestion-pdb
+  namespace: rag-blueprint
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      job: congress-docling-ingestion
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: sustainability-ingestion-pdb
+  namespace: rag-blueprint
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      job: sustainability-docling-ingestion
+
