@@ -103,6 +103,7 @@ export default function Home() {
             <ul className="space-y-1">
               <li>✅ NVIDIA NeMo Agent Toolkit (LangGraph)</li>
               <li>✅ Universal Deep Research (UDR)</li>
+              <li>✅ Test-Time Diffusion Deep Researcher (TTD-DR)</li>
               <li>✅ CopilotKit (AG-UI Protocol)</li>
             </ul>
           </div>
