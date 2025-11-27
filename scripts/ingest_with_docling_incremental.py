@@ -388,12 +388,34 @@ def ingest_directory(
         
         success_count += 1
         
-        # Bulk insert every 50 files
-        if idx % 50 == 0 and all_embeddings:
+        # Bulk insert every 25 files OR when buffer exceeds 5000 chunks
+        # (Prevents gRPC message size limit: 64MB)
+        should_insert = (idx % 25 == 0) or (len(all_embeddings) >= 5000)
+        
+        if should_insert and all_embeddings:
             logger.info(f"\n💾 Bulk inserting {len(all_embeddings)} chunks into Milvus...")
-            collection.insert([all_embeddings, all_texts, all_sources])
-            collection.flush()
-            logger.info(f"  ✅ Inserted! Collection now has {collection.num_entities} total chunks\n")
+            try:
+                collection.insert([all_embeddings, all_texts, all_sources])
+                collection.flush()
+                logger.info(f"  ✅ Inserted! Collection now has {collection.num_entities} total chunks\n")
+            except Exception as e:
+                logger.error(f"  ❌ Bulk insert failed: {e}")
+                logger.info(f"  🔧 Trying smaller batches (2500 chunks at a time)...")
+                
+                # Split into smaller chunks if bulk insert fails
+                chunk_batch_size = 2500
+                for i in range(0, len(all_embeddings), chunk_batch_size):
+                    end_idx = min(i + chunk_batch_size, len(all_embeddings))
+                    try:
+                        collection.insert([
+                            all_embeddings[i:end_idx],
+                            all_texts[i:end_idx],
+                            all_sources[i:end_idx]
+                        ])
+                        collection.flush()
+                        logger.info(f"     ✅ Inserted chunks {i+1}-{end_idx}")
+                    except Exception as e2:
+                        logger.error(f"     ❌ Failed to insert chunks {i+1}-{end_idx}: {e2}")
             
             # Clear buffers
             all_embeddings = []
