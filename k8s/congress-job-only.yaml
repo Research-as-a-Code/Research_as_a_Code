@@ -1,0 +1,65 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: congress-docling-ingestion
+  namespace: rag-blueprint
+spec:
+  ttlSecondsAfterFinished: 86400
+  template:
+    metadata:
+      labels:
+        job: congress-docling-ingestion
+      annotations:
+        karpenter.sh/do-not-disrupt: "true"
+        cluster-autoscaler.kubernetes.io/safe-to-evict: "false"
+    spec:
+      restartPolicy: OnFailure
+      nodeSelector:
+        workload-type: ingestion
+      containers:
+      - name: ingest
+        image: 962716963657.dkr.ecr.us-west-2.amazonaws.com/docling-ingestion:v2
+        command:
+        - /bin/bash
+        - -c
+        - |
+          set -e
+          echo "✅ Using pre-built Docling image (no installation needed!)"
+          echo "🚀 Starting Congress ingestion..."
+          python /scripts/ingest_with_docling.py
+        env:
+        - name: COLLECTION_NAME
+          value: "congress"
+        - name: DATA_DIR
+          value: "/data/congress"
+        - name: FILE_PATTERN
+          value: "*.txt"
+        - name: DROP_EXISTING
+          value: "false"
+        - name: MILVUS_HOST
+          value: "milvus-standalone"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        volumeMounts:
+        - name: script
+          mountPath: /scripts
+        - name: data
+          mountPath: /data
+          readOnly: true
+        resources:
+          requests:
+            memory: "8Gi"
+            cpu: "1"
+          limits:
+            memory: "16Gi"
+            cpu: "4"
+      volumes:
+      - name: script
+        configMap:
+          name: tariffs-docling-ingest-script
+          defaultMode: 0755
+      - name: data
+        persistentVolumeClaim:
+          claimName: ingestion-data

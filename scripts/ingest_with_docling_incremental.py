@@ -102,7 +102,7 @@ def get_embeddings_batch(texts: List[str], nim_url: str) -> List[List[float]]:
 
 def get_already_ingested_files(collection_name: str) -> Set[str]:
     """
-    Query Milvus to find which files are already ingested
+    Query Milvus to find which files are already ingested (with pagination)
     Returns: Set of filenames that have chunks in the collection
     """
     try:
@@ -113,18 +113,41 @@ def get_already_ingested_files(collection_name: str) -> Set[str]:
         collection = Collection(collection_name)
         collection.load()
         
-        # Query for all unique source filenames
+        # Query for all unique source filenames with pagination
         logger.info(f"  🔍 Checking for already-ingested files...")
         
-        # Get all entities (we'll extract unique sources)
-        # Note: This is a simple approach; for huge collections, you'd paginate
-        query_result = collection.query(
-            expr="id >= 0",
-            output_fields=["source"],
-            limit=100000  # Adjust if you have more chunks
-        )
+        ingested_files = set()
+        offset = 0
+        page_size = 10000  # Conservative limit (offset+limit must be <16384)
+        max_offset = 16000  # Stay within Milvus window limit
         
-        ingested_files = set(item['source'] for item in query_result)
+        while offset < max_offset:
+            try:
+                query_result = collection.query(
+                    expr="id >= 0",
+                    output_fields=["source"],
+                    limit=min(page_size, max_offset - offset),
+                    offset=offset
+                )
+                
+                if not query_result:
+                    break
+                
+                # Add unique sources from this page
+                for item in query_result:
+                    ingested_files.add(item['source'])
+                
+                logger.info(f"     Scanned {offset + len(query_result)} chunks, found {len(ingested_files)} unique files so far...")
+                
+                # If we got less than requested, we're done
+                if len(query_result) < page_size:
+                    break
+                
+                offset += len(query_result)
+            except Exception as e:
+                logger.warning(f"     ⚠️  Error at offset {offset}: {e}")
+                break
+        
         logger.info(f"  ✅ Found {len(ingested_files)} already-ingested files")
         
         if ingested_files:
@@ -320,27 +343,29 @@ def ingest_directory(
 
 
 def main():
-    import argparse
+    # Get parameters from environment variables (for Kubernetes ConfigMap usage)
+    collection = os.getenv("COLLECTION_NAME", "us_tariffs")
+    data_dir = os.getenv("DATA_DIR", "/data")
+    pattern = os.getenv("FILE_PATTERN", "*.pdf")
+    drop = os.getenv("DROP_EXISTING", "false").lower() == "true"
     
-    parser = argparse.ArgumentParser(
-        description="Ingest documents with incremental/resume support"
-    )
-    parser.add_argument("collection", help="Collection name")
-    parser.add_argument("data_dir", help="Directory containing documents")
-    parser.add_argument("--pattern", default="*.pdf", help="File pattern")
-    parser.add_argument("--drop", action="store_true", help="Drop existing collection (disables incremental)")
-    parser.add_argument("--no-incremental", action="store_true", help="Disable incremental mode")
+    # Incremental mode: enabled unless drop=true
+    incremental = not drop
     
-    args = parser.parse_args()
-    
-    incremental = not args.no_incremental and not args.drop
+    logger.info(f"🎯 Configuration:")
+    logger.info(f"   Collection: {collection}")
+    logger.info(f"   Data dir: {data_dir}")
+    logger.info(f"   Pattern: {pattern}")
+    logger.info(f"   Drop existing: {drop}")
+    logger.info(f"   Incremental mode: {incremental}")
+    logger.info("")
     
     start_time = time.time()
     success, skipped, failed = ingest_directory(
-        collection_name=args.collection,
-        data_dir=Path(args.data_dir),
-        file_pattern=args.pattern,
-        drop_existing=args.drop,
+        collection_name=collection,
+        data_dir=Path(data_dir),
+        file_pattern=pattern,
+        drop_existing=drop,
         incremental=incremental
     )
     elapsed = time.time() - start_time
@@ -349,8 +374,9 @@ def main():
     print()
     
     # Only fail if MOST files failed (>50%)
-    if failed > success:
-        logger.error(f"❌ Majority of files failed ({failed}/{failed+success+skipped})")
+    total_attempted = success + failed
+    if total_attempted > 0 and failed > success:
+        logger.error(f"❌ Majority of files failed ({failed}/{total_attempted})")
         sys.exit(1)
     elif failed > 0:
         logger.warning(f"⚠️  {failed} files failed, but {success} succeeded")
