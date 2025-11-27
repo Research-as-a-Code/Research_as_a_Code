@@ -75,35 +75,100 @@ def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVE
     return chunks
 
 
-def get_embeddings_batch(texts: List[str], nim_url: str) -> List[List[float]]:
-    """Get embeddings from NIM for a batch of texts"""
-    try:
-        response = httpx.post(
-            f"{nim_url}/v1/embeddings",
-            json={
-                "input": texts,
-                "model": "snowflake/arctic-embed-l",
-                "input_type": "passage"
-            },
-            timeout=60.0
-        )
-        
-        if response.status_code == 200:
-            result = response.json()
-            return [item["embedding"] for item in result["data"]]
-        else:
-            logger.error(f"    ❌ Embedding API error: {response.status_code}")
-            return []
-            
-    except Exception as e:
-        logger.error(f"    ❌ Embedding error: {e}")
-        return []
-
-
-def get_already_ingested_files(collection_name: str) -> Set[str]:
+def get_embeddings_batch(texts: List[str], nim_url: str, max_retries: int = 3) -> List[List[float]]:
     """
-    Query Milvus to find which files are already ingested (with pagination)
-    Returns: Set of filenames that have chunks in the collection
+    Get embeddings from NIM for a batch of texts with retry logic and fallback to individual processing
+    
+    Args:
+        texts: List of text chunks to embed
+        nim_url: NIM service URL
+        max_retries: Number of retry attempts for batch (default: 3)
+    
+    Returns:
+        List of embedding vectors (may be partial if some individual chunks fail)
+    """
+    # Try batch processing with retries
+    for attempt in range(max_retries):
+        try:
+            response = httpx.post(
+                f"{nim_url}/v1/embeddings",
+                json={
+                    "input": texts,
+                    "model": "snowflake/arctic-embed-l",
+                    "input_type": "passage"
+                },
+                timeout=60.0
+            )
+            
+            if response.status_code == 200:
+                result = response.json()
+                return [item["embedding"] for item in result["data"]]
+            else:
+                if attempt < max_retries - 1:
+                    wait_time = 2 ** attempt  # Exponential backoff: 1s, 2s, 4s
+                    logger.warning(f"    ⚠️  Embedding API error {response.status_code}, retry {attempt+1}/{max_retries} in {wait_time}s...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    logger.warning(f"    ⚠️  Batch embedding failed after {max_retries} retries, trying individual chunks...")
+                    # Fall through to individual processing
+                    break
+                
+        except Exception as e:
+            if attempt < max_retries - 1:
+                wait_time = 2 ** attempt
+                logger.warning(f"    ⚠️  Embedding error: {e}, retry {attempt+1}/{max_retries} in {wait_time}s...")
+                time.sleep(wait_time)
+                continue
+            else:
+                logger.warning(f"    ⚠️  Batch embedding failed after {max_retries} retries, trying individual chunks...")
+                # Fall through to individual processing
+                break
+    
+    # Fallback: Process each chunk individually
+    logger.info(f"    🔧 Processing {len(texts)} chunks individually...")
+    embeddings = []
+    for idx, text in enumerate(texts, 1):
+        try:
+            response = httpx.post(
+                f"{nim_url}/v1/embeddings",
+                json={
+                    "input": [text],  # Single chunk
+                    "model": "snowflake/arctic-embed-l",
+                    "input_type": "passage"
+                },
+                timeout=60.0
+            )
+            
+            if response.status_code == 200:
+                result = response.json()
+                embeddings.append(result["data"][0]["embedding"])
+                if idx % 5 == 0:  # Log every 5 chunks
+                    logger.info(f"       ✅ Individual chunk {idx}/{len(texts)}")
+            else:
+                logger.error(f"       ❌ Chunk {idx} failed (status {response.status_code})")
+                # Continue with other chunks, this one is lost
+            
+            time.sleep(0.05)  # Small delay to avoid overwhelming API
+            
+        except Exception as e:
+            logger.error(f"       ❌ Chunk {idx} error: {e}")
+            # Continue with other chunks
+    
+    logger.info(f"    ✅ Individual processing: {len(embeddings)}/{len(texts)} chunks succeeded")
+    return embeddings
+
+
+def get_already_ingested_files(collection_name: str, expected_chunk_counts: dict = None) -> Set[str]:
+    """
+    Query Milvus to find which files are COMPLETELY ingested (with pagination)
+    
+    Args:
+        collection_name: Milvus collection name
+        expected_chunk_counts: Optional dict of {filename: expected_chunk_count}
+                              If provided, only skip files with matching counts
+    
+    Returns: Set of filenames that are fully ingested
     """
     try:
         if not utility.has_collection(collection_name):
@@ -113,13 +178,13 @@ def get_already_ingested_files(collection_name: str) -> Set[str]:
         collection = Collection(collection_name)
         collection.load()
         
-        # Query for all unique source filenames with pagination
+        # Query for all chunks to get filename → chunk count mapping
         logger.info(f"  🔍 Checking for already-ingested files...")
         
-        ingested_files = set()
+        file_chunk_counts = {}  # {filename: count}
         offset = 0
-        page_size = 10000  # Conservative limit (offset+limit must be <16384)
-        max_offset = 16000  # Stay within Milvus window limit
+        page_size = 10000
+        max_offset = 16000
         
         while offset < max_offset:
             try:
@@ -133,13 +198,13 @@ def get_already_ingested_files(collection_name: str) -> Set[str]:
                 if not query_result:
                     break
                 
-                # Add unique sources from this page
+                # Count chunks per file
                 for item in query_result:
-                    ingested_files.add(item['source'])
+                    filename = item['source']
+                    file_chunk_counts[filename] = file_chunk_counts.get(filename, 0) + 1
                 
-                logger.info(f"     Scanned {offset + len(query_result)} chunks, found {len(ingested_files)} unique files so far...")
+                logger.info(f"     Scanned {offset + len(query_result)} chunks, found {len(file_chunk_counts)} unique files so far...")
                 
-                # If we got less than requested, we're done
                 if len(query_result) < page_size:
                     break
                 
@@ -148,12 +213,33 @@ def get_already_ingested_files(collection_name: str) -> Set[str]:
                 logger.warning(f"     ⚠️  Error at offset {offset}: {e}")
                 break
         
-        logger.info(f"  ✅ Found {len(ingested_files)} already-ingested files")
-        
-        if ingested_files:
-            logger.info(f"     Examples: {list(ingested_files)[:5]}")
-        
-        return ingested_files
+        # If we have expected counts, filter for complete files only
+        if expected_chunk_counts:
+            complete_files = set()
+            incomplete_files = []
+            for filename, actual_count in file_chunk_counts.items():
+                expected = expected_chunk_counts.get(filename, 0)
+                if expected > 0 and actual_count >= expected:
+                    complete_files.add(filename)
+                elif expected > 0:
+                    incomplete_files.append(f"{filename} ({actual_count}/{expected})")
+            
+            logger.info(f"  ✅ Found {len(complete_files)} COMPLETE files")
+            if incomplete_files:
+                logger.info(f"  ⚠️  Found {len(incomplete_files)} INCOMPLETE files (will reprocess)")
+                logger.info(f"     Examples: {incomplete_files[:3]}")
+            
+            return complete_files
+        else:
+            # No expected counts: use simple filename presence (may include partial files)
+            logger.info(f"  ✅ Found {len(file_chunk_counts)} already-ingested files")
+            logger.info(f"     ⚠️  WARNING: Not verifying completeness (no expected counts)")
+            
+            if file_chunk_counts:
+                examples = list(file_chunk_counts.keys())[:5]
+                logger.info(f"     Examples: {examples}")
+            
+            return set(file_chunk_counts.keys())
         
     except Exception as e:
         logger.warning(f"  ⚠️  Could not query existing files: {e}")
