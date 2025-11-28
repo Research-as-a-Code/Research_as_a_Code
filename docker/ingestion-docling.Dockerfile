@@ -11,12 +11,14 @@ RUN apt-get update && apt-get install -y \
 RUN pip install --no-cache-dir \
     pymilvus==2.6.3 \
     httpx==0.28.1 \
-    docling==2.63.0
+    docling==2.63.0 \
+    llama-index-core==0.12.6
 
 # Verify installation
 RUN python -c "from docling.document_converter import DocumentConverter; print('✅ Docling installed successfully')" && \
     python -c "from pymilvus import connections; print('✅ Pymilvus installed successfully')" && \
-    python -c "import httpx; print('✅ Httpx installed successfully')"
+    python -c "import httpx; print('✅ Httpx installed successfully')" && \
+    python -c "from llama_index.core.node_parser import SemanticSplitterNodeParser; print('✅ LlamaIndex installed successfully')"
 
 # Set working directory
 WORKDIR /app
