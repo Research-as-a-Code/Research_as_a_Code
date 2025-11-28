@@ -55,10 +55,15 @@ class NvidiaNIMEmbedding(BaseEmbedding):
     Required by SemanticSplitterNodeParser for semantic similarity calculations
     """
     
-    def __init__(self, api_url: str, model: str = "snowflake/arctic-embed-l"):
-        super().__init__()
-        self.api_url = api_url
-        self.model = model
+    # Pydantic model fields
+    api_url: str = "http://embedding-service.nim.svc.cluster.local:8000"
+    model_name: str = "snowflake/arctic-embed-l"
+    
+    def __init__(self, api_url: str = None, model: str = "snowflake/arctic-embed-l", **kwargs):
+        if api_url:
+            kwargs['api_url'] = api_url
+        kwargs['model_name'] = model
+        super().__init__(**kwargs)
     
     def _get_query_embedding(self, query: str) -> List[float]:
         """Get embedding for a query (same as text embedding for our use case)"""
@@ -71,7 +76,7 @@ class NvidiaNIMEmbedding(BaseEmbedding):
                 f"{self.api_url}/v1/embeddings",
                 json={
                     "input": [text],
-                    "model": self.model,
+                    "model": self.model_name,
                     "input_type": "passage"
                 },
                 timeout=60.0
