@@ -1,0 +1,68 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: sustainability-langchain
+  namespace: rag-blueprint
+spec:
+  ttlSecondsAfterFinished: 86400
+  template:
+    metadata:
+      labels:
+        job: sustainability-langchain
+      annotations:
+        karpenter.sh/do-not-disrupt: "true"
+        cluster-autoscaler.kubernetes.io/safe-to-evict: "false"
+    spec:
+      restartPolicy: OnFailure
+      nodeSelector:
+        workload-type: ingestion
+      containers:
+      - name: ingest
+        image: 962716963657.dkr.ecr.us-west-2.amazonaws.com/docling-ingestion:v4
+        command:
+        - /bin/bash
+        - -c
+        - |
+          set -e
+          echo "✅ Using Docling + LangChain semantic chunking"
+          echo "   Method: MarkdownHeader + RecursiveCharacter"
+          echo "🚀 Starting Sustainability ingestion..."
+          python /scripts/ingest_tariffs.py
+        env:
+        - name: COLLECTION_NAME
+          value: "sustainability"
+        - name: DATA_DIR
+          value: "/data/sustainability"
+        - name: FILE_PATTERN
+          value: "*.*"
+        - name: DROP_EXISTING
+          value: "true"
+        - name: MILVUS_HOST
+          value: "milvus-standalone"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: EMBEDDING_NIM_URL
+          value: "http://embedding-service.nim.svc.cluster.local:8000"
+        - name: FAILURE_LOG_DIR
+          value: "/data/ingestion_failures"
+        volumeMounts:
+        - name: script
+          mountPath: /scripts
+        - name: data
+          mountPath: /data
+        resources:
+          requests:
+            memory: "8Gi"
+            cpu: "1"
+          limits:
+            memory: "16Gi"
+            cpu: "4"
+      volumes:
+      - name: script
+        configMap:
+          name: langchain-semantic-scripts
+          defaultMode: 0755
+      - name: data
+        persistentVolumeClaim:
+          claimName: ingestion-data
+
