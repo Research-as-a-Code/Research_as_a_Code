@@ -12,13 +12,14 @@ RUN pip install --no-cache-dir \
     pymilvus==2.6.3 \
     httpx==0.28.1 \
     docling==2.63.0 \
-    llama-index-core==0.12.6
+    langchain==0.3.14 \
+    langchain-text-splitters==0.3.4
 
 # Verify installation
 RUN python -c "from docling.document_converter import DocumentConverter; print('✅ Docling installed successfully')" && \
     python -c "from pymilvus import connections; print('✅ Pymilvus installed successfully')" && \
     python -c "import httpx; print('✅ Httpx installed successfully')" && \
-    python -c "from llama_index.core.node_parser import SemanticSplitterNodeParser; print('✅ LlamaIndex installed successfully')"
+    python -c "from langchain_text_splitters import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter; print('✅ LangChain installed successfully')"
 
 # Set working directory
 WORKDIR /app
