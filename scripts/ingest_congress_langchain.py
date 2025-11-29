@@ -30,8 +30,8 @@ MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
 EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
 EMBEDDING_DIM = 1024
 BATCH_SIZE = 10
+# Failure persistence configuration (directory created when needed, not at import time)
 FAILURE_LOG_DIR = Path(os.getenv("FAILURE_LOG_DIR", "/data/ingestion_failures"))
-FAILURE_LOG_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def extract_text(file_path: str) -> str:
