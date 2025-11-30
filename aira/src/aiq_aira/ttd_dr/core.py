@@ -261,7 +261,8 @@ class TTDDRIntegration(BaseResearchStrategy):
                 state.current_draft,
                 state.research_plan,
                 state.search_history,
-                state.convergence_scores
+                state.convergence_scores,
+                original_query=context.query  # Pass original query directly!
             )
             self.metrics.total_llm_calls += 1
             
@@ -537,13 +538,17 @@ class TTDDRIntegration(BaseResearchStrategy):
                                       draft: DraftState,
                                       plan: ResearchPlan,
                                       search_history: List[SearchQAPair],
-                                      convergence_scores: List[float]) -> str:
+                                      convergence_scores: List[float],
+                                      original_query: str = None) -> str:
         """Generate the final polished report (Stage 3)."""
         # Prepare search summary
         search_summary = f"Conducted {len(search_history)} searches across {draft.iteration} iterations"
         
+        # Use original query if provided, otherwise fall back to plan.main_topic
+        query_for_prompt = original_query if original_query else plan.main_topic
+        
         prompt = FINAL_REPORT_SYNTHESIS_PROMPT.format(
-            query=plan.main_topic,  # Add the actual topic!
+            query=query_for_prompt,  # Use original query, not LLM's summary
             draft=draft.content,
             research_plan=json.dumps(plan.to_dict(), indent=2),
             search_summary=search_summary,
