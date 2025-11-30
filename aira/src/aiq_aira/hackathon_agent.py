@@ -301,11 +301,19 @@ async def ttd_dr_execute_iterations_node(state: HackathonAgentState, config: Run
         }
         
     except Exception as e:
-        logger.error(f"TTD-DR iterations error: {e}")
-        step_logs.append(f"❌ TTD-DR iterations error: {str(e)}")
+        logger.error(f"TTD-DR iterations error: {e}, falling back to Simple RAG")
+        step_logs.append(f"⚠️ TTD-DR failed ({type(e).__name__}), using Simple RAG fallback")
+        
+        # Preserve context for Simple RAG fallback
+        # These variables are critical for generate_queries, search_sources, and synthesize_report
         return {
             "logs": step_logs,
-            "ttd_dr_result": None
+            "ttd_dr_result": None,
+            # Ensure all query context is preserved
+            "research_prompt": state.get("research_prompt", ""),
+            "report_organization": state.get("report_organization", ""),
+            "collection": state.get("collection", ""),
+            "search_web": state.get("search_web", True)
         }
 
 
