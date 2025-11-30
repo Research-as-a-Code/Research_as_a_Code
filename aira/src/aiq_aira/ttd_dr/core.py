@@ -395,22 +395,35 @@ class TTDDRIntegration(BaseResearchStrategy):
             num_questions=self.config.questions_per_iteration
         )
         
-        response = await self.llm.ainvoke([
-            SystemMessage(content="You are an expert at identifying research gaps."),
-            HumanMessage(content=prompt)
-        ])
-        
         try:
-            result = json.loads(response.content)
-            questions = result["questions"]
+            from pydantic import BaseModel, Field as PydanticField
+            from langchain_openai import ChatOpenAI as LangChainChatOpenAI
             
-            # Update draft gaps
-            draft.gaps_identified = result.get("gaps_identified", [])
+            class QuestionsSchema(BaseModel):
+                questions: list = PydanticField(description="List of research questions")
+                gaps_identified: list = PydanticField(default=[], description="Information gaps")
             
-            return questions
-        except (json.JSONDecodeError, KeyError) as e:
-            logger.warning(f"Failed to parse questions: {e}. Using fallback.")
-            # Fallback to simple questions
+            json_schema = QuestionsSchema.model_json_schema()
+            base_url = self.llm.openai_api_base if hasattr(self.llm, 'openai_api_base') else str(self.llm.base_url)
+            
+            guided_llm = LangChainChatOpenAI(
+                base_url=base_url,
+                model=self.llm.model_name,
+                api_key="not-used",
+                model_kwargs={"extra_body": {"nvext": {"guided_json": json_schema}}}
+            )
+            
+            response = await guided_llm.ainvoke([
+                SystemMessage(content="You are an expert at identifying research gaps."),
+                HumanMessage(content=prompt)
+            ])
+            
+            result = QuestionsSchema.model_validate_json(response.content)
+            draft.gaps_identified = result.gaps_identified
+            return result.questions
+            
+        except Exception as e:
+            logger.warning(f"Failed to generate questions: {e}. Using fallback.")
             return [
                 {"question": f"More information about {plan.main_topic}", "purpose": "general", "priority": "high"}
             ]
