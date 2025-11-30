@@ -48,6 +48,7 @@ from .components.search import IterativeSearchEngine
 from .components.denoiser import DraftDenoiser
 from .components.evolver import SelfEvolver
 from .components.synthesizer import ReportSynthesizer
+from .debug_logger import TTDDRDebugLogger
 
 logger = logging.getLogger(__name__)
 
@@ -162,6 +163,18 @@ class TTDDRIntegration(BaseResearchStrategy):
         Returns:
             ResearchResult with final report and metadata
         """
+        # Initialize debug logger
+        debug = TTDDRDebugLogger()
+        logger.info(f"🔍 TTD-DR Debug log: {debug.get_log_path()}")
+        
+        # Log initial context
+        debug.log_stage("START", iteration=0, 
+                       query=context.query,
+                       collection=str(context.collection),
+                       search_web=context.search_web)
+        debug.log_variable("context.query", context.query, "execute_start")
+        debug.log_variable("context.collection", context.collection, "execute_start")
+        
         start_time = time.time()
         
         # Initialize state
@@ -183,13 +196,24 @@ class TTDDRIntegration(BaseResearchStrategy):
         try:
             # Stage 1: Generate Research Plan
             logger.info(f"📋 TTD-DR Stage 1: Generating research plan for query: {context.query[:100]}...")
+            debug.log_stage("PLAN_GENERATION", iteration=0, query=context.query)
+            
             state.research_plan = await self._generate_research_plan(context)
             self.metrics.total_llm_calls += 1
             
+            # Log what plan contains
+            debug.log_variable("plan.main_topic", state.research_plan.main_topic, "after_plan_generation")
+            debug.log_variable("original_query", context.query, "after_plan_generation")
+            
             # Initialize draft (noisy starting point)
             logger.info("📝 TTD-DR: Creating initial draft...")
+            debug.log_stage("INITIAL_DRAFT", iteration=0, query=context.query)
+            
             state.current_draft = await self._create_initial_draft(context, state.research_plan)
             self.metrics.total_llm_calls += 1
+            
+            # Log draft preview
+            debug.log_variable("initial_draft", state.current_draft.content[:500], "after_initial_draft")
             
             # Stage 2: Iterative Search with Denoising
             logger.info(f"🔄 TTD-DR Stage 2: Beginning iterative refinement (max {self.config.max_iterations} iterations)")
@@ -200,6 +224,8 @@ class TTDDRIntegration(BaseResearchStrategy):
                 state.iteration = iteration + 1
                 
                 logger.info(f"🔄 TTD-DR Iteration {state.iteration}/{self.config.max_iterations}")
+                debug.log_stage("ITERATION_START", iteration=state.iteration,
+                               max_iterations=self.config.max_iterations)
                 
                 # 2a: Generate search questions based on current draft
                 questions = await self._generate_questions_from_draft(
@@ -255,6 +281,12 @@ class TTDDRIntegration(BaseResearchStrategy):
             
             # Stage 3: Generate Final Report
             logger.info("📄 TTD-DR Stage 3: Generating final report...")
+            debug.log_stage("FINAL_SYNTHESIS", iteration=state.iteration,
+                           original_query=context.query,
+                           plan_main_topic=state.research_plan.main_topic)
+            debug.log_variable("context.query_at_synthesis", context.query, "before_final_synthesis")
+            debug.log_variable("plan.main_topic_at_synthesis", state.research_plan.main_topic, "before_final_synthesis")
+            
             state.stage = TTDDRStage.SYNTHESIZING
             
             final_report = await self._synthesize_final_report(
