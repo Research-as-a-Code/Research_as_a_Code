@@ -69,11 +69,31 @@ class ResearchPlanner:
                 prompt += f"\n\nNote: Focus on information from the {collection} collection."
         
         try:
-            # Generate the plan
-            response = await self.llm.ainvoke([
+            # Generate the plan with NVIDIA guided_json
+            from pydantic import BaseModel, Field as PydanticField
+            from langchain_openai import ChatOpenAI as LangChainChatOpenAI
+            
+            class PlanSchemaLocal(BaseModel):
+                main_topic: str = PydanticField(description="Primary research focus")
+                key_areas: list = PydanticField(description="Major investigation areas")
+                sub_questions: list = PydanticField(description="Specific questions")
+                expected_sections: list = PydanticField(description="Report sections")
+                search_strategy: str = PydanticField(description="Search approach")
+            
+            json_schema = PlanSchemaLocal.model_json_schema()
+            base_url = self.llm.openai_api_base if hasattr(self.llm, 'openai_api_base') else str(self.llm.base_url)
+            model_name = self.llm.model_name if hasattr(self.llm, 'model_name') else "nvidia/llama-3.1-nemotron-nano-8b-v1"
+            
+            guided_llm = LangChainChatOpenAI(
+                base_url=base_url,
+                model=model_name,
+                api_key="not-used",
+                model_kwargs={"extra_body": {"nvext": {"guided_json": json_schema}}}
+            )
+            
+            response = await guided_llm.ainvoke([
                 SystemMessage(content="""You are an expert research planner. 
-                Create comprehensive, well-structured research plans that guide systematic investigation.
-                Always respond with valid JSON."""),
+                Create comprehensive, well-structured research plans that guide systematic investigation."""),
                 HumanMessage(content=prompt)
             ])
             
@@ -94,29 +114,16 @@ class ResearchPlanner:
     
     def _parse_plan_response(self, response: str) -> Dict[str, Any]:
         """
-        Parse the LLM response into a structured plan.
+        Parse the LLM response - now handled by guided_json upstream.
         
-        Args:
-            response: Raw LLM response
-            
-        Returns:
-            Parsed plan data dictionary
+        This method kept for backward compatibility but should receive
+        valid JSON from NVIDIA's guided_json.
         """
         try:
-            # Try to parse as JSON
-            if "```json" in response:
-                # Extract JSON from markdown code block
-                json_start = response.index("```json") + 7
-                json_end = response.index("```", json_start)
-                json_str = response[json_start:json_end].strip()
-                return json.loads(json_str)
-            else:
-                # Direct JSON parsing
-                return json.loads(response)
-                
+            # With guided_json, response should be valid JSON
+            return json.loads(response)
         except (json.JSONDecodeError, ValueError) as e:
             self.logger.warning(f"Failed to parse JSON response: {e}")
-            # Try to extract structure from text
             return self._extract_plan_from_text(response)
     
     def _extract_plan_from_text(self, text: str) -> Dict[str, Any]:
