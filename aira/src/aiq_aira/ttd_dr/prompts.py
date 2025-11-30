@@ -40,13 +40,17 @@ Research Plan:
 
 User Query: {query}
 
-Write a preliminary draft that:
-1. Covers all expected sections from the plan
-2. Includes placeholders [NEEDS RESEARCH] where information is missing
-3. Makes educated guesses marked with [UNVERIFIED]
-4. Provides structure even if content is incomplete
+IMPORTANT: The draft should address this specific query: {query}
+Use the actual topic throughout, do NOT use placeholders like [topic] or [Research Topic].
 
-This draft will be iteratively refined with real information. Make it comprehensive in structure but mark all uncertainties clearly.
+Write a preliminary draft that:
+1. Directly addresses: {query}
+2. Covers all expected sections from the plan
+3. Uses [NEEDS RESEARCH] only for missing specific data
+4. Marks uncertain claims with [UNVERIFIED]
+5. Uses the ACTUAL topic from the query, not generic placeholders
+
+This draft will be iteratively refined with real information. Make it specific to the query from the start.
 
 Draft Report:"""
 

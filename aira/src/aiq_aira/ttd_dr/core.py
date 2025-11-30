@@ -543,6 +543,7 @@ class TTDDRIntegration(BaseResearchStrategy):
         search_summary = f"Conducted {len(search_history)} searches across {draft.iteration} iterations"
         
         prompt = FINAL_REPORT_SYNTHESIS_PROMPT.format(
+            query=plan.main_topic,  # Add the actual topic!
             draft=draft.content,
             research_plan=json.dumps(plan.to_dict(), indent=2),
             search_summary=search_summary,
