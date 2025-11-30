@@ -149,6 +149,12 @@ Respond with JSON:
     
     try:
         decision = parse_json_markdown(response_text)
+        
+        # Check if parsing succeeded
+        if not decision or not isinstance(decision, dict):
+            logger.error(f"parse_json_markdown returned None or non-dict: {type(decision)}")
+            raise ValueError("Failed to parse LLM response as JSON")
+        
         strategy = decision.get("strategy", "SIMPLE_RAG")
         rationale = decision.get("rationale", "")
         plan = decision.get("plan", "")
