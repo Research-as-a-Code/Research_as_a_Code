@@ -160,11 +160,41 @@ Respond with JSON:
             rationale: str = PydanticField(description="Explanation")
             plan: str = PydanticField(default="", description="Research plan for DYNAMIC_STRATEGY")
         
-        # Create structured LLM (note: variable is 'llm' not 'reasoning_llm')
-        structured_llm = llm.with_structured_output(PlanningDecision)
+        # Convert Pydantic to JSON schema for NVIDIA NIM
+        json_schema = PlanningDecision.model_json_schema()
         
-        # Get structured response
-        decision_obj = await structured_llm.ainvoke(planning_prompt)
+        # Create ChatOpenAI with NVIDIA's guided_json
+        from langchain_openai import ChatOpenAI as LangChainChatOpenAI
+        
+        # Get config from existing llm
+        base_url_val = llm.openai_api_base if hasattr(llm, 'openai_api_base') else str(llm.base_url) if hasattr(llm, 'base_url') else None
+        model_name_val = llm.model_name if hasattr(llm, 'model_name') else "nvidia/llama-3.1-nemotron-nano-8b-v1"
+        
+        # Create LLM with NVIDIA guided_json
+        guided_llm = LangChainChatOpenAI(
+            base_url=base_url_val,
+            model=model_name_val,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {  # Older API format (v1.12.0)
+                        "guided_json": json_schema
+                    }
+                }
+            }
+        )
+        
+        # Create prompt
+        guided_prompt = f"""Analyze this research request:
+
+Topic: {prompt_text}
+Report Organization: {report_org}
+
+Choose: SIMPLE_RAG or DYNAMIC_STRATEGY. Provide rationale."""
+        
+        # Get response
+        response = await guided_llm.ainvoke(guided_prompt)
+        decision_obj = PlanningDecision.model_validate_json(response.content)
         
         logger.info(f"Planning decision: {decision_obj.strategy}")
         
