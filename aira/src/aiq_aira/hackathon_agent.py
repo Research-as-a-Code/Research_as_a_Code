@@ -148,30 +148,40 @@ Respond with JSON:
     from langchain_core.utils.json import parse_json_markdown
     
     try:
-        decision = parse_json_markdown(response_text)
+        # Use structured output for robust parsing
+        from pydantic import BaseModel, Field as PydanticField
+        from typing import Literal
         
-        # Check if parsing succeeded
-        if not decision or not isinstance(decision, dict):
-            logger.error(f"parse_json_markdown returned None or non-dict: {type(decision)}")
-            raise ValueError("Failed to parse LLM response as JSON")
+        class PlanningDecision(BaseModel):
+            """Structured planning decision schema."""
+            strategy: Literal["SIMPLE_RAG", "DYNAMIC_STRATEGY"] = PydanticField(
+                description="Selected research strategy"
+            )
+            rationale: str = PydanticField(description="Explanation")
+            plan: str = PydanticField(default="", description="Research plan for DYNAMIC_STRATEGY")
         
-        strategy = decision.get("strategy", "SIMPLE_RAG")
-        rationale = decision.get("rationale", "")
-        plan = decision.get("plan", "")
+        # Create structured LLM (note: variable is 'llm' not 'reasoning_llm')
+        structured_llm = llm.with_structured_output(PlanningDecision)
         
-        log_msg = f"✅ Strategy: {strategy}\n💡 Rationale: {rationale}"
+        # Get structured response
+        decision_obj = await structured_llm.ainvoke(planning_prompt)
+        
+        logger.info(f"Planning decision: {decision_obj.strategy}")
+        
+        log_msg = f"✅ Strategy: {decision_obj.strategy}\n💡 Rationale: {decision_obj.rationale}"
         
         return {
-            "plan": json.dumps(decision),
-            "udr_strategy": plan if strategy == "DYNAMIC_STRATEGY" else "",
+            "plan": decision_obj.model_dump_json(),
+            "udr_strategy": decision_obj.plan if decision_obj.strategy == "DYNAMIC_STRATEGY" else "",
             "logs": [log_msg]
         }
+        
     except Exception as e:
-        logger.error(f"Planning failed: {e}")
+        logger.error(f"Planning failed: {e}", exc_info=True)
         return {
             "plan": '{"strategy": "SIMPLE_RAG"}',
             "udr_strategy": "",
-            "logs": [f"⚠️ Planning error, defaulting to SIMPLE_RAG"]
+            "logs": [f"⚠️ Planning error ({type(e).__name__}: {str(e)[:100]}), defaulting to SIMPLE_RAG"]
         }
 
 
