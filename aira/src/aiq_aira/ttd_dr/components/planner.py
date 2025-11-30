@@ -58,8 +58,15 @@ class ResearchPlanner:
         prompt = RESEARCH_PLAN_PROMPT.format(query=query)
         
         # Add any context-specific instructions
-        if context.get("collection"):
-            prompt += f"\n\nNote: Focus on information from the {context['collection']} collection."
+        # Handle both dict and ResearchContext object
+        collection = context.get("collection") if isinstance(context, dict) else getattr(context, "collection", None)
+        if collection:
+            # Handle both single string and list of collections
+            if isinstance(collection, list):
+                coll_str = ", ".join(collection)
+                prompt += f"\n\nNote: Focus on information from these collections: {coll_str}"
+            else:
+                prompt += f"\n\nNote: Focus on information from the {collection} collection."
         
         try:
             # Generate the plan

@@ -12,7 +12,7 @@ This module provides the common interface for different research strategies:
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import Dict, Any, List, Optional, Tuple
+from typing import Dict, Any, List, Optional, Tuple, Union
 import logging
 
 logger = logging.getLogger(__name__)
@@ -59,12 +59,26 @@ class ResearchContext:
     
     Contains all the information needed by a strategy to execute,
     including the query, data sources, and configuration.
+    
+    Supports both single and multiple collections for multi-domain research.
     """
     query: str
-    collection: str = "default"
+    collection: Union[str, List[str]] = "default"  # Support multi-collection
     search_web: bool = True
     max_sources: int = 10
     user_preferences: Dict[str, Any] = field(default_factory=dict)
+    
+    def get_collection_list(self) -> List[str]:
+        """Get collection as a list (normalizes str to [str])"""
+        if isinstance(self.collection, list):
+            return self.collection
+        return [self.collection] if self.collection else []
+    
+    def get_collection_str(self) -> str:
+        """Get collection as string (for backward compatibility)"""
+        if isinstance(self.collection, list):
+            return self.collection[0] if self.collection else "default"
+        return self.collection
     
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary for passing to strategies."""
