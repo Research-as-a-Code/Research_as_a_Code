@@ -24,6 +24,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     "Create a comprehensive report with introduction, detailed analysis, and conclusion."
   );
   const [collection, setCollection] = useState("us_tariffs");  // Default to us_tariffs
+  const [selectedCollections, setSelectedCollections] = useState<string[]>(["us_tariffs"]);  // Multi-select
   const [searchWeb, setSearchWeb] = useState(true);
   const [isSubmitting, setIsSubmitting] = useState(false);
   
@@ -41,10 +42,15 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     
     // Trigger the CopilotKit action via context
     // This will be picked up by CopilotAgentDisplay's useEffect
+    // Use selectedCollections if any checked, send as single string or array
+    const collectionsToUse = selectedCollections.length === 1 
+      ? selectedCollections[0] 
+      : selectedCollections;
+    
     triggerResearch({
       topic,
       report_organization: reportOrg,
-      collection,
+      collection: collectionsToUse,
       search_web: searchWeb,
     });
     
@@ -141,39 +147,62 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
         </div>
       </div>
 
-      {/* Collection Name */}
+      {/* Collection Selection - Multi-select */}
       <div>
-        <label htmlFor="collection" className="block text-sm font-medium text-gray-200 mb-2">
-          RAG Collection Name
+        <label className="block text-sm font-medium text-gray-200 mb-2">
+          RAG Collections
         </label>
-        <input
-          type="text"
-          id="collection"
-          value={collection}
-          onChange={(e) => setCollection(e.target.value)}
-          placeholder="us_tariffs"
-          className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-        />
         
-        {/* Collection Options */}
-        <div className="mt-2 text-xs text-gray-400">
-          <span className="font-semibold">Options:</span>
-          <div className="mt-1 flex gap-3">
-            {collectionOptions.map((option, idx) => (
-              <button
-                key={idx}
-                type="button"
-                onClick={() => setCollection(option)}
-                className="text-blue-400 hover:text-blue-300 hover:underline"
-              >
-                • {option || "(Web only)"}
-              </button>
-            ))}
-          </div>
-          <p className="mt-1 text-gray-500">
-            <span className="font-mono bg-gray-700 px-1 rounded">us_tariffs</span> contains US Customs tariff PDFs
-          </p>
+        {/* Multi-select checkboxes */}
+        <div className="space-y-2 bg-gray-800 border border-gray-600 rounded-lg p-3">
+          {collectionOptions.filter(opt => opt).map((option) => (
+            <label key={option} className="flex items-center space-x-3 cursor-pointer hover:bg-gray-700 p-2 rounded">
+              <input
+                type="checkbox"
+                checked={selectedCollections.includes(option)}
+                onChange={(e) => {
+                  if (e.target.checked) {
+                    setSelectedCollections([...selectedCollections, option]);
+                  } else {
+                    setSelectedCollections(selectedCollections.filter(c => c !== option));
+                  }
+                }}
+                className="w-4 h-4 text-blue-600 bg-gray-700 border-gray-500 rounded focus:ring-2 focus:ring-blue-500"
+              />
+              <span className="text-gray-200">{option}</span>
+            </label>
+          ))}
         </div>
+        
+        {/* Quick actions */}
+        <div className="mt-2 flex gap-2">
+          <button
+            type="button"
+            onClick={() => setSelectedCollections(collectionOptions.filter(o => o))}
+            className="px-3 py-1 text-xs bg-blue-600 hover:bg-blue-700 rounded text-white"
+          >
+            Select All
+          </button>
+          <button
+            type="button"
+            onClick={() => setSelectedCollections([])}
+            className="px-3 py-1 text-xs bg-gray-600 hover:bg-gray-700 rounded text-white"
+          >
+            Clear
+          </button>
+        </div>
+        
+        {selectedCollections.length > 0 && (
+          <div className="mt-2 text-sm">
+            <span className="text-gray-400">Selected:</span>{" "}
+            <span className="text-green-400 font-medium">{selectedCollections.join(", ")}</span>
+            {selectedCollections.length > 1 && (
+              <span className="ml-2 text-xs text-blue-400">
+                (Results merged by relevance)
+              </span>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Search Web Checkbox */}

@@ -23,6 +23,7 @@ from aiq_aira.utils import get_domain
 from langchain_community.tools import TavilySearchResults
 from urllib.parse import urljoin
 import logging
+from typing import Union, List
 
 logger = logging.getLogger(__name__)
 
@@ -31,13 +32,29 @@ async def search_rag(
     url: str,  # Embedding NIM URL
     prompt: str,
     writer: StreamWriter,
-    collection: str
+    collection: Union[str, List[str]]
 ):
     """
     Direct Milvus + NIM search: Gets embeddings from NIM, queries Milvus, returns top results.
+    
+    Supports single or multiple collections:
+    - Single: collection="us_tariffs"
+    - Multiple: collection=["us_tariffs", "congress"]
+    
+    For multiple collections:
+    - Searches each with same top_k (4 per collection)
+    - Merges results by relevance score (L2 distance)
+    - Returns top results across all collections
     """ 
-    writer({"rag_answer": "\n Performing RAG search with Milvus \n"})
-    logger.info(f"RAG SEARCH (Direct Milvus) - collection: {collection}")
+    # Normalize to list for uniform processing
+    collections = [collection] if isinstance(collection, str) else collection
+    collections = [c for c in collections if c]  # Filter empty strings
+    
+    if not collections:
+        return ("No RAG collection specified", "")
+    
+    writer({"rag_answer": f"\n Performing RAG search across {len(collections)} collection(s) \n"})
+    logger.info(f"RAG SEARCH (Direct Milvus) - collections: {collections}")
     
     try:
         from pymilvus import connections, Collection, utility
@@ -51,12 +68,17 @@ async def search_rag(
         # Connect to Milvus
         connections.connect(alias="default", host=milvus_host, port=milvus_port)
         
-        # Check if collection exists
-        if not utility.has_collection(collection):
-            logger.warning(f"Collection '{collection}' does not exist")
-            return ("No RAG collection found", "")
+        # Check which collections exist
+        valid_collections = [c for c in collections if utility.has_collection(c)]
+        if not valid_collections:
+            logger.warning(f"None of the collections exist: {collections}")
+            return ("No RAG collections found", "")
         
-        # Get embedding from NIM
+        if len(valid_collections) < len(collections):
+            missing = set(collections) - set(valid_collections)
+            logger.warning(f"Collections not found: {missing}")
+        
+        # Get embedding from NIM (once for all collections)
         embedding_payload = {
             "input": prompt,
             "model": "snowflake/arctic-embed-l",
@@ -69,54 +91,83 @@ async def search_rag(
                 embed_result = await embed_response.json()
                 query_embedding = embed_result["data"][0]["embedding"]
             
-            # Query Milvus
-            coll = Collection(collection)
-            coll.load()
+            # Search each collection and collect results
+            all_hits = []  # List of (hit, collection_name) tuples
             
-            search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
-            results = coll.search(
-                data=[query_embedding],
-                anns_field="embedding",
-                param=search_params,
-                limit=4,
-                output_fields=["text", "source"]
-            )
+            for coll_name in valid_collections:
+                coll = Collection(coll_name)
+                coll.load()
+                
+                search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+                results = coll.search(
+                    data=[query_embedding],
+                    anns_field="embedding",
+                    param=search_params,
+                    limit=4,  # Same per-collection limit
+                    output_fields=["text", "source"]
+                )
+                
+                if results and len(results[0]) > 0:
+                    for hit in results[0]:
+                        all_hits.append((hit, coll_name))
+                    logger.info(f"  Found {len(results[0])} results from {coll_name}")
             
-            if not results or len(results[0]) == 0:
+            if not all_hits:
                 return ("No relevant documents found", "")
+            
+            # Sort all hits by relevance (L2 distance - lower is better)
+            all_hits.sort(key=lambda x: x[0].distance)
+            
+            # Take top results across all collections (up to 4 × num_collections)
+            max_results = min(len(all_hits), 4 * len(valid_collections))
+            top_hits = all_hits[:max_results]
+            
+            logger.info(f"Merged {len(all_hits)} results from {len(valid_collections)} collection(s), returning top {len(top_hits)}")
             
             content_parts = []
             citations_parts = []
             
-            # Group chunks by source PDF for clearer presentation
-            chunks_by_pdf = {}
-            for i, hit in enumerate(results[0]):
+            # Group chunks by source for clearer presentation
+            # Include collection name in grouping for multi-collection searches
+            chunks_by_source = {}  # {(collection, source): [(chunk_num, text), ...]}
+            
+            for i, (hit, coll_name) in enumerate(top_hits):
                 try:
                     text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
                     source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
-                    # Debug: Log which PDF each chunk came from
-                    logger.info(f"  📄 RAG chunk [{i+1}] from: {source}")
+                    distance = hit.distance
+                    
+                    # Log with collection context
+                    logger.info(f"  📄 RAG chunk [{i+1}] from {coll_name}/{source} (distance: {distance:.3f})")
                 except Exception:
                     text = str(hit.entity.get('text', ''))
                     source = str(hit.entity.get('source', f"Doc {i+1}"))
+                    distance = hit.distance if hasattr(hit, 'distance') else 0.0
                 
-                # Group by source PDF
-                if source not in chunks_by_pdf:
-                    chunks_by_pdf[source] = []
-                chunks_by_pdf[source].append((i+1, text))
-                citations_parts.append(source)
+                # Group by (collection, source) for multi-collection clarity
+                key = (coll_name, source) if len(valid_collections) > 1 else (source,)
+                if key not in chunks_by_source:
+                    chunks_by_source[key] = []
+                chunks_by_source[key].append((i+1, text))
+                citations_parts.append(f"{coll_name}/{source}" if len(valid_collections) > 1 else source)
             
-            # Format with PDF attribution
+            # Format with source attribution
             content_parts = []
-            chunk_mapping = []  # Track which chunks come from which PDF
+            chunk_mapping = []
             
-            for pdf_name, chunks in chunks_by_pdf.items():
-                content_parts.append(f"\nFrom {pdf_name}:")
+            for key, chunks in chunks_by_source.items():
+                # Format source name
+                if len(key) == 2:  # Multi-collection: (collection, source)
+                    source_label = f"{key[0]}/{key[1]}"
+                else:  # Single collection: (source,)
+                    source_label = key[0]
+                
+                content_parts.append(f"\nFrom {source_label}:")
                 chunk_numbers = []
                 for chunk_num, text in chunks:
                     content_parts.append(f"[{chunk_num}] {text}")
                     chunk_numbers.append(str(chunk_num))
-                chunk_mapping.append(f"{pdf_name} (chunks {', '.join(chunk_numbers)})")
+                chunk_mapping.append(f"{source_label} (chunks {', '.join(chunk_numbers)})")
 
             
             content = "\n".join(content_parts)
@@ -129,7 +180,7 @@ ANSWER: {content}
 CITATIONS: {citations_str}
 ---
 """
-            logger.info(f"RAG found {len(results[0])} results")
+            logger.info(f"RAG found {len(top_hits)} results across {len(valid_collections)} collection(s)")
             return (content, citations)
             
     except asyncio.TimeoutError:

@@ -13,7 +13,7 @@ This is the main backend service that:
 import os
 import uvicorn
 import logging
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, Union, List
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, HTTPException
@@ -321,9 +321,9 @@ class ResearchRequest(BaseModel):
         ..., 
         description="Desired report structure (e.g., 'Create a report with introduction, analysis, and conclusion')"
     )
-    collection: str = Field(
+    collection: Union[str, List[str]] = Field(
         default="",
-        description="Optional RAG collection to search"
+        description="RAG collection(s) to search - single string or list of collection names"
     )
     search_web: bool = Field(
         default=True,
