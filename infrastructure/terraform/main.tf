@@ -159,11 +159,35 @@ module "eks" {
 
   # Managed node groups for system workloads
   eks_managed_node_groups = {
-    system = {
-      name           = "${local.name}-system"
+    # On-demand nodes for critical stateful services (Milvus, etcd, MinIO)
+    system_ondemand = {
+      name           = "${local.name}-system-ondemand"
       instance_types = ["m5.xlarge"]
+      capacity_type  = "ON_DEMAND"
       
-      min_size     = 2
+      min_size     = 1
+      max_size     = 2
+      desired_size = 1
+
+      subnet_ids = module.vpc.private_subnets
+
+      labels = {
+        role = "system"
+        "karpenter.sh/capacity-type" = "on-demand"
+      }
+
+      tags = merge(local.tags, {
+        "Name" = "${local.name}-system-ondemand-node"
+      })
+    }
+    
+    # Spot nodes for stateless workloads (70% cost savings)
+    system_spot = {
+      name           = "${local.name}-system-spot"
+      instance_types = ["m5.xlarge", "m5a.xlarge", "m5n.xlarge"]  # Multiple types for better spot availability
+      capacity_type  = "SPOT"
+      
+      min_size     = 1
       max_size     = 4
       desired_size = 2
 
@@ -171,10 +195,11 @@ module "eks" {
 
       labels = {
         role = "system"
+        "karpenter.sh/capacity-type" = "spot"
       }
 
       tags = merge(local.tags, {
-        "Name" = "${local.name}-system-node"
+        "Name" = "${local.name}-system-spot-node"
       })
     }
   }

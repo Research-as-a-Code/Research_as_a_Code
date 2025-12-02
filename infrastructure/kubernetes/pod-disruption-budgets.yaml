@@ -1,0 +1,100 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
+# SPDX-License-Identifier: Apache-2.0
+
+# Pod Disruption Budgets for High Availability
+# Ensures at least 1 replica stays up during spot instance interruptions
+
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: aiq-agent-backend-pdb
+  namespace: aiq-agent
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      app: aiq-agent
+      component: backend
+
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: aiq-agent-frontend-pdb
+  namespace: aiq-agent
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      app: aiq-agent
+      component: frontend
+
+---
+# Milvus PDB - Keep it running during node replacements
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: milvus-standalone-pdb
+  namespace: rag-blueprint
+spec:
+  maxUnavailable: 0  # Critical: Never evict Milvus
+  selector:
+    matchLabels:
+      component: standalone
+      app: milvus
+
+---
+# etcd PDB - Critical metadata store
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: milvus-etcd-pdb
+  namespace: rag-blueprint
+spec:
+  maxUnavailable: 0  # Critical: Never evict etcd
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: etcd
+      app.kubernetes.io/instance: milvus
+
+---
+# MinIO PDB - Critical object storage
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: milvus-minio-pdb
+  namespace: rag-blueprint
+spec:
+  maxUnavailable: 0  # Critical: Never evict MinIO
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: minio
+      app.kubernetes.io/instance: milvus
+
+---
+# NIM Pods can tolerate interruptions (they restart cleanly)
+# But we still want to minimize disruption during updates
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: llama-instruct-nim-pdb
+  namespace: nim
+spec:
+  maxUnavailable: 1  # Allow disruption but one at a time
+  selector:
+    matchLabels:
+      app: llama-instruct-nim
+
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: embedding-nim-pdb
+  namespace: nim
+spec:
+  maxUnavailable: 1  # Allow disruption but one at a time
+  selector:
+    matchLabels:
+      app: embedding-nim
+

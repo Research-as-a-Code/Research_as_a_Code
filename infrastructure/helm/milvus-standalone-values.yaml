@@ -19,6 +19,9 @@ standalone:
     enabled: true
     storageClass: "gp2"  # Use gp2 for compatibility
     size: 20Gi
+  # Pin to on-demand nodes for data persistence and stability
+  nodeSelector:
+    karpenter.sh/capacity-type: on-demand
   # Tolerate GPU nodes (NVIDIA RAG Blueprint best practice)
   tolerations:
     - key: "nvidia.com/gpu"
@@ -39,6 +42,9 @@ etcd:
     requests:
       cpu: "250m"
       memory: "512Mi"
+  # Pin to on-demand nodes for metadata persistence
+  nodeSelector:
+    karpenter.sh/capacity-type: on-demand
   tolerations:
     - key: "nvidia.com/gpu"
       operator: "Exists"
@@ -58,6 +64,9 @@ minio:
     requests:
       cpu: "250m"
       memory: "512Mi"
+  # Pin to on-demand nodes for vector data persistence
+  nodeSelector:
+    karpenter.sh/capacity-type: on-demand
   tolerations:
     - key: "nvidia.com/gpu"
       operator: "Exists"
@@ -82,6 +91,9 @@ kafka:
     requests:
       cpu: "500m"
       memory: "1Gi"
+  # Pin to on-demand nodes for message queue stability
+  nodeSelector:
+    karpenter.sh/capacity-type: on-demand
   tolerations:
     - key: "nvidia.com/gpu"
       operator: "Exists"
