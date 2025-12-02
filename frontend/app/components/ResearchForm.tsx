@@ -42,10 +42,10 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     
     // Trigger the CopilotKit action via context
     // This will be picked up by CopilotAgentDisplay's useEffect
-    // Use selectedCollections if any checked, send as single string or array
-    const collectionsToUse = selectedCollections.length === 1 
-      ? selectedCollections[0] 
-      : selectedCollections;
+    // Convert multiple collections to comma-separated string
+    const collectionsToUse = selectedCollections.length > 0
+      ? selectedCollections.join(",")
+      : "";
     
     triggerResearch({
       topic,
