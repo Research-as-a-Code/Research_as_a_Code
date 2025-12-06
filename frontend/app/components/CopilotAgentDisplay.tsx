@@ -49,7 +49,7 @@ export function CopilotAgentDisplay({
     logs: [],
     queries: [],
     isProcessing: false,
-    strategy: 'udr'  // Default to UDR
+    strategy: 'auto'  // Default to Auto (let AI decide)
   });
   
   const { currentParams, clearParams, selectedStrategy, setSelectedStrategy } = useCopilotResearch();
@@ -98,7 +98,7 @@ export function CopilotAgentDisplay({
       {
         name: "strategy",
         type: "string",
-        description: "Research strategy to use: 'udr' or 'ttd_dr'",
+        description: "Research strategy to use: 'auto', 'udr', or 'ttd_dr'",
         required: false,
       },
     ],

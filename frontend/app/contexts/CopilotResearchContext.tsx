@@ -12,7 +12,7 @@
 
 import { createContext, useContext, useState, ReactNode } from "react";
 
-type ResearchStrategy = 'udr' | 'ttd_dr';
+type ResearchStrategy = 'auto' | 'udr' | 'ttd_dr';
 
 interface ResearchParams {
   topic: string;
@@ -34,7 +34,7 @@ const CopilotResearchContext = createContext<CopilotResearchContextType | null>(
 
 export function CopilotResearchProvider({ children }: { children: ReactNode }) {
   const [currentParams, setCurrentParams] = useState<ResearchParams | null>(null);
-  const [selectedStrategy, setSelectedStrategy] = useState<ResearchStrategy>('udr');
+  const [selectedStrategy, setSelectedStrategy] = useState<ResearchStrategy>('auto');
 
   const triggerResearch = (params: ResearchParams) => {
     console.log("🎯 Triggering CopilotKit research action:", params);

@@ -11,9 +11,9 @@
 "use client";
 
 import React from 'react';
-import { Code2, Sparkles, Zap, Clock, DollarSign, Target } from 'lucide-react';
+import { Code2, Sparkles, Zap, Clock, DollarSign, Target, Brain } from 'lucide-react';
 
-export type ResearchStrategy = 'udr' | 'ttd_dr';
+export type ResearchStrategy = 'auto' | 'udr' | 'ttd_dr';
 
 interface StrategyToggleProps {
   value: ResearchStrategy;
@@ -35,18 +35,65 @@ export function StrategyToggle({
         </h3>
         <div className="flex items-center gap-2 text-xs text-gray-400">
           <span className="px-2 py-1 bg-gray-800 rounded">
-            {value === 'udr' ? 'NVIDIA' : 'Google'}
+            {value === 'auto' ? 'AI Decides' : value === 'udr' ? 'NVIDIA' : 'Google'}
           </span>
         </div>
       </div>
       
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid grid-cols-3 gap-3">
+        {/* Auto Option */}
+        <button
+          onClick={() => !disabled && onChange('auto')}
+          disabled={disabled}
+          className={`
+            relative p-3 rounded-lg border-2 transition-all duration-200
+            ${value === 'auto' 
+              ? 'border-purple-500 bg-purple-500/10 shadow-lg shadow-purple-500/20' 
+              : 'border-gray-700 hover:border-gray-600 bg-gray-800/50'}
+            ${disabled ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}
+          `}
+        >
+          {value === 'auto' && (
+            <div className="absolute -top-2 -right-2">
+              <span className="flex h-4 w-4">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-purple-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-4 w-4 bg-purple-500"></span>
+              </span>
+            </div>
+          )}
+          
+          <div className="flex flex-col items-center text-center">
+            <div className={`mb-2 p-2 rounded-lg ${
+              value === 'auto' ? 'bg-purple-500/20' : 'bg-gray-700/50'
+            }`}>
+              <Brain className={`w-6 h-6 ${
+                value === 'auto' ? 'text-purple-400' : 'text-gray-400'
+              }`} />
+            </div>
+            
+            <h4 className="font-semibold text-gray-100 text-sm mb-1">Auto</h4>
+            <p className="text-[10px] text-gray-400 mb-2">
+              AI Decides
+            </p>
+            
+            <div className="w-full space-y-1 text-left">
+              <div className="flex items-center gap-1 text-[10px]">
+                <Zap className="w-2.5 h-2.5 text-yellow-500" />
+                <span className="text-gray-400">Smart routing</span>
+              </div>
+              <div className="flex items-center gap-1 text-[10px]">
+                <Target className="w-2.5 h-2.5 text-purple-500" />
+                <span className="text-gray-400">Adaptive</span>
+              </div>
+            </div>
+          </div>
+        </button>
         {/* UDR Option */}
         <button
           onClick={() => !disabled && onChange('udr')}
           disabled={disabled}
           className={`
-            relative p-4 rounded-lg border-2 transition-all duration-200
+            relative p-3 rounded-lg border-2 transition-all duration-200
             ${value === 'udr' 
               ? 'border-green-500 bg-green-500/10 shadow-lg shadow-green-500/20' 
               : 'border-gray-700 hover:border-gray-600 bg-gray-800/50'}
@@ -63,43 +110,28 @@ export function StrategyToggle({
           )}
           
           <div className="flex flex-col items-center text-center">
-            <div className={`mb-3 p-3 rounded-lg ${
+            <div className={`mb-2 p-2 rounded-lg ${
               value === 'udr' ? 'bg-green-500/20' : 'bg-gray-700/50'
             }`}>
-              <Code2 className={`w-8 h-8 ${
+              <Code2 className={`w-6 h-6 ${
                 value === 'udr' ? 'text-green-400' : 'text-gray-400'
               }`} />
             </div>
             
-            <h4 className="font-semibold text-gray-100 mb-1">UDR</h4>
-            <p className="text-xs text-gray-400 mb-3">
-              Universal Deep Research
+            <h4 className="font-semibold text-gray-100 text-sm mb-1">UDR</h4>
+            <p className="text-[10px] text-gray-400 mb-2">
+              Strategy-as-Code
             </p>
             
-            <div className="w-full space-y-2 text-left">
-              <p className="text-xs text-gray-500">
-                Strategy-as-Code approach
-              </p>
-              
-              {/* Characteristics */}
-              <div className="space-y-1 pt-2 border-t border-gray-700/50">
-                <div className="flex items-center gap-2 text-xs">
-                  <Zap className="w-3 h-3 text-yellow-500" />
-                  <span className="text-gray-400">10-30s</span>
-                </div>
-                <div className="flex items-center gap-2 text-xs">
-                  <DollarSign className="w-3 h-3 text-green-500" />
-                  <span className="text-gray-400">Lower cost</span>
-                </div>
-                <div className="flex items-center gap-2 text-xs">
-                  <Target className="w-3 h-3 text-blue-500" />
-                  <span className="text-gray-400">Precise execution</span>
-                </div>
+            <div className="w-full space-y-1 text-left">
+              <div className="flex items-center gap-1 text-[10px]">
+                <Zap className="w-2.5 h-2.5 text-yellow-500" />
+                <span className="text-gray-400">10-30s</span>
               </div>
-              
-              <p className="text-[10px] text-gray-600 pt-2">
-                Best for: Structured queries, quick results
-              </p>
+              <div className="flex items-center gap-1 text-[10px]">
+                <DollarSign className="w-2.5 h-2.5 text-green-500" />
+                <span className="text-gray-400">Lower cost</span>
+              </div>
             </div>
           </div>
         </button>
@@ -109,7 +141,7 @@ export function StrategyToggle({
           onClick={() => !disabled && onChange('ttd_dr')}
           disabled={disabled}
           className={`
-            relative p-4 rounded-lg border-2 transition-all duration-200
+            relative p-3 rounded-lg border-2 transition-all duration-200
             ${value === 'ttd_dr' 
               ? 'border-blue-500 bg-blue-500/10 shadow-lg shadow-blue-500/20' 
               : 'border-gray-700 hover:border-gray-600 bg-gray-800/50'}
@@ -126,43 +158,28 @@ export function StrategyToggle({
           )}
           
           <div className="flex flex-col items-center text-center">
-            <div className={`mb-3 p-3 rounded-lg ${
+            <div className={`mb-2 p-2 rounded-lg ${
               value === 'ttd_dr' ? 'bg-blue-500/20' : 'bg-gray-700/50'
             }`}>
-              <Sparkles className={`w-8 h-8 ${
+              <Sparkles className={`w-6 h-6 ${
                 value === 'ttd_dr' ? 'text-blue-400' : 'text-gray-400'
               }`} />
             </div>
             
-            <h4 className="font-semibold text-gray-100 mb-1">TTD-DR</h4>
-            <p className="text-xs text-gray-400 mb-3">
-              Test-Time Diffusion
+            <h4 className="font-semibold text-gray-100 text-sm mb-1">TTD-DR</h4>
+            <p className="text-[10px] text-gray-400 mb-2">
+              Iterative Refinement
             </p>
             
-            <div className="w-full space-y-2 text-left">
-              <p className="text-xs text-gray-500">
-                Iterative refinement approach
-              </p>
-              
-              {/* Characteristics */}
-              <div className="space-y-1 pt-2 border-t border-gray-700/50">
-                <div className="flex items-center gap-2 text-xs">
-                  <Clock className="w-3 h-3 text-orange-500" />
-                  <span className="text-gray-400">45-90s</span>
-                </div>
-                <div className="flex items-center gap-2 text-xs">
-                  <DollarSign className="w-3 h-3 text-red-500" />
-                  <span className="text-gray-400">Higher cost</span>
-                </div>
-                <div className="flex items-center gap-2 text-xs">
-                  <Target className="w-3 h-3 text-green-500" />
-                  <span className="text-gray-400">Superior quality</span>
-                </div>
+            <div className="w-full space-y-1 text-left">
+              <div className="flex items-center gap-1 text-[10px]">
+                <Clock className="w-2.5 h-2.5 text-orange-500" />
+                <span className="text-gray-400">45-90s</span>
               </div>
-              
-              <p className="text-[10px] text-gray-600 pt-2">
-                Best for: Complex research, quality focus
-              </p>
+              <div className="flex items-center gap-1 text-[10px]">
+                <Target className="w-2.5 h-2.5 text-blue-500" />
+                <span className="text-gray-400">Best quality</span>
+              </div>
             </div>
           </div>
         </button>
@@ -171,7 +188,13 @@ export function StrategyToggle({
       {/* Current Selection Description */}
       <div className="mt-4 p-3 bg-gray-800/50 rounded-lg">
         <p className="text-xs text-gray-400">
-          {value === 'udr' ? (
+          {value === 'auto' ? (
+            <>
+              <strong className="text-purple-400">Auto Mode:</strong> The AI planner will analyze 
+              your query and choose the best strategy. Simple queries use fast RAG, complex ones 
+              use UDR or TTD-DR automatically.
+            </>
+          ) : value === 'udr' ? (
             <>
               <strong className="text-green-400">UDR Mode:</strong> The agent will compile your 
               research request into executable Python code that orchestrates search tools. 
