@@ -1,0 +1,60 @@
+apiVersion: v1
+items:
+- apiVersion: karpenter.sh/v1beta1
+  kind: NodePool
+  metadata:
+    annotations:
+      karpenter.sh/nodepool-hash: "6447978712535504844"
+      kubectl.kubernetes.io/last-applied-configuration: |
+        {"apiVersion":"karpenter.sh/v1beta1","kind":"NodePool","metadata":{"annotations":{},"name":"nvidia-nim-gpu"},"spec":{"disruption":{"consolidationPolicy":"WhenUnderutilized"},"limits":{"cpu":"1000","memory":"1000Gi"},"template":{"metadata":{"labels":{"workload-type":"nvidia-nim"}},"spec":{"nodeClassRef":{"name":"nvidia-nim"},"requirements":[{"key":"karpenter.sh/capacity-type","operator":"In","values":["on-demand"]},{"key":"kubernetes.io/arch","operator":"In","values":["amd64"]},{"key":"node.kubernetes.io/instance-type","operator":"In","values":["g5.2xlarge"]},{"key":"karpenter.k8s.aws/instance-family","operator":"In","values":["g5"]}],"taints":[{"effect":"NoSchedule","key":"nvidia.com/gpu","value":"true"}]}},"weight":10}}
+    creationTimestamp: "2025-11-05T04:37:24Z"
+    generation: 7
+    name: nvidia-nim-gpu
+    resourceVersion: "10854647"
+    uid: 355107a4-9f12-4b94-82e5-825865bd5d40
+  spec:
+    disruption:
+      consolidationPolicy: WhenUnderutilized
+      expireAfter: 720h
+    limits:
+      cpu: "1000"
+      memory: 1000Gi
+    template:
+      metadata:
+        labels:
+          workload-type: nvidia-nim
+      spec:
+        nodeClassRef:
+          name: nvidia-nim
+        requirements:
+        - key: karpenter.sh/capacity-type
+          operator: In
+          values:
+          - on-demand
+        - key: kubernetes.io/arch
+          operator: In
+          values:
+          - amd64
+        - key: node.kubernetes.io/instance-type
+          operator: In
+          values:
+          - g5.2xlarge
+        - key: karpenter.k8s.aws/instance-family
+          operator: In
+          values:
+          - g5
+        taints:
+        - effect: NoSchedule
+          key: nvidia.com/gpu
+          value: "true"
+    weight: 10
+  status:
+    resources:
+      cpu: "16"
+      ephemeral-storage: 419405784Ki
+      memory: 64998224Ki
+      nvidia.com/gpu: "2"
+      pods: "116"
+kind: List
+metadata:
+  resourceVersion: ""

@@ -160,8 +160,8 @@ module "eks" {
   # Managed node groups for system workloads
   eks_managed_node_groups = {
     # On-demand nodes for critical stateful services (Milvus, etcd, MinIO)
-    system_ondemand = {
-      name           = "${local.name}-system-ondemand"
+    sys_od = {
+      name           = "${local.name}-sys-od"
       instance_types = ["m5.xlarge"]
       capacity_type  = "ON_DEMAND"
       
@@ -182,8 +182,8 @@ module "eks" {
     }
     
     # Spot nodes for stateless workloads (70% cost savings)
-    system_spot = {
-      name           = "${local.name}-system-spot"
+    sys_sp = {
+      name           = "${local.name}-sys-sp"
       instance_types = ["m5.xlarge", "m5a.xlarge", "m5n.xlarge"]  # Multiple types for better spot availability
       capacity_type  = "SPOT"
       

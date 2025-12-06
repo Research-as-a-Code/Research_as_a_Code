@@ -1,0 +1,1089 @@
+apiVersion: v1
+items:
+- apiVersion: v1
+  kind: Node
+  metadata:
+    annotations:
+      alpha.kubernetes.io/provided-node-ip: 10.0.25.229
+      csi.volume.kubernetes.io/nodeid: '{"ebs.csi.aws.com":"i-035d9fd8859f9032e"}'
+      karpenter.k8s.aws/ec2nodeclass-hash: "9413656231369219519"
+      karpenter.sh/managed-by: aiq-udf-eks
+      karpenter.sh/nodepool-hash: "6447978712535504844"
+      nfd.node.kubernetes.io/feature-labels: cpu-cpuid.ADX,cpu-cpuid.AESNI,cpu-cpuid.AVX,cpu-cpuid.AVX2,cpu-cpuid.CLZERO,cpu-cpuid.CMPXCHG8,cpu-cpuid.FMA3,cpu-cpuid.FP256,cpu-cpuid.FXSR,cpu-cpuid.FXSROPT,cpu-cpuid.HYPERVISOR,cpu-cpuid.IBPB,cpu-cpuid.IBRS,cpu-cpuid.IBRS_PREFERRED,cpu-cpuid.IBRS_PROVIDES_SMP,cpu-cpuid.LAHF,cpu-cpuid.MCOMMIT,cpu-cpuid.MOVBE,cpu-cpuid.MOVU,cpu-cpuid.OSXSAVE,cpu-cpuid.RDPRU,cpu-cpuid.SHA,cpu-cpuid.SPEC_CTRL_SSBD,cpu-cpuid.SSE4A,cpu-cpuid.STIBP,cpu-cpuid.SYSCALL,cpu-cpuid.SYSEE,cpu-cpuid.TOPEXT,cpu-cpuid.WBNOINVD,cpu-cpuid.X87,cpu-cpuid.XGETBV1,cpu-cpuid.XSAVE,cpu-cpuid.XSAVEC,cpu-cpuid.XSAVEOPT,cpu-hardware_multithreading,cpu-model.family,cpu-model.id,cpu-model.vendor_id,kernel-config.NO_HZ,kernel-config.NO_HZ_IDLE,kernel-version.full,kernel-version.major,kernel-version.minor,kernel-version.revision,nvidia.com/cuda.driver.major,nvidia.com/cuda.driver.minor,nvidia.com/cuda.driver.rev,nvidia.com/cuda.runtime.major,nvidia.com/cuda.runtime.minor,nvidia.com/gfd.timestamp,nvidia.com/gpu.compute.major,nvidia.com/gpu.compute.minor,nvidia.com/gpu.count,nvidia.com/gpu.family,nvidia.com/gpu.machine,nvidia.com/gpu.memory,nvidia.com/gpu.product,nvidia.com/gpu.replicas,nvidia.com/mig.capable,nvidia.com/mig.strategy,pci-10de.present,pci-1d0f.present,storage-nonrotationaldisk,system-os_release.ID,system-os_release.VERSION_ID,system-os_release.VERSION_ID.major
+      nfd.node.kubernetes.io/worker.version: v0.14.2
+      node.alpha.kubernetes.io/ttl: "0"
+      nvidia.com/gpu-driver-upgrade-enabled: "true"
+      volumes.kubernetes.io/controller-managed-attach-detach: "true"
+    creationTimestamp: "2025-11-23T16:53:17Z"
+    finalizers:
+    - karpenter.sh/termination
+    labels:
+      beta.kubernetes.io/arch: amd64
+      beta.kubernetes.io/instance-type: g5.2xlarge
+      beta.kubernetes.io/os: linux
+      failure-domain.beta.kubernetes.io/region: us-west-2
+      failure-domain.beta.kubernetes.io/zone: us-west-2b
+      feature.node.kubernetes.io/cpu-cpuid.ADX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AESNI: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX2: "true"
+      feature.node.kubernetes.io/cpu-cpuid.CLZERO: "true"
+      feature.node.kubernetes.io/cpu-cpuid.CMPXCHG8: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FMA3: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FP256: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSROPT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.HYPERVISOR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBPB: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBRS: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBRS_PREFERRED: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBRS_PROVIDES_SMP: "true"
+      feature.node.kubernetes.io/cpu-cpuid.LAHF: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MCOMMIT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MOVBE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MOVU: "true"
+      feature.node.kubernetes.io/cpu-cpuid.OSXSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.RDPRU: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SHA: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SPEC_CTRL_SSBD: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SSE4A: "true"
+      feature.node.kubernetes.io/cpu-cpuid.STIBP: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSCALL: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSEE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.TOPEXT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.WBNOINVD: "true"
+      feature.node.kubernetes.io/cpu-cpuid.X87: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XGETBV1: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEC: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEOPT: "true"
+      feature.node.kubernetes.io/cpu-hardware_multithreading: "true"
+      feature.node.kubernetes.io/cpu-model.family: "23"
+      feature.node.kubernetes.io/cpu-model.id: "49"
+      feature.node.kubernetes.io/cpu-model.vendor_id: AMD
+      feature.node.kubernetes.io/kernel-config.NO_HZ: "true"
+      feature.node.kubernetes.io/kernel-config.NO_HZ_IDLE: "true"
+      feature.node.kubernetes.io/kernel-version.full: 5.10.245-241.978.amzn2.x86_64
+      feature.node.kubernetes.io/kernel-version.major: "5"
+      feature.node.kubernetes.io/kernel-version.minor: "10"
+      feature.node.kubernetes.io/kernel-version.revision: "245"
+      feature.node.kubernetes.io/pci-10de.present: "true"
+      feature.node.kubernetes.io/pci-1d0f.present: "true"
+      feature.node.kubernetes.io/storage-nonrotationaldisk: "true"
+      feature.node.kubernetes.io/system-os_release.ID: amzn
+      feature.node.kubernetes.io/system-os_release.VERSION_ID: "2"
+      feature.node.kubernetes.io/system-os_release.VERSION_ID.major: "2"
+      k8s.io/cloud-provider-aws: e9c47b7a431c8df6bdcd5b727dc90ce4
+      karpenter.k8s.aws/instance-category: g
+      karpenter.k8s.aws/instance-cpu: "8"
+      karpenter.k8s.aws/instance-encryption-in-transit-supported: "true"
+      karpenter.k8s.aws/instance-family: g5
+      karpenter.k8s.aws/instance-generation: "5"
+      karpenter.k8s.aws/instance-gpu-count: "1"
+      karpenter.k8s.aws/instance-gpu-manufacturer: nvidia
+      karpenter.k8s.aws/instance-gpu-memory: "22888"
+      karpenter.k8s.aws/instance-gpu-name: a10g
+      karpenter.k8s.aws/instance-hypervisor: nitro
+      karpenter.k8s.aws/instance-local-nvme: "450"
+      karpenter.k8s.aws/instance-memory: "32768"
+      karpenter.k8s.aws/instance-network-bandwidth: "5000"
+      karpenter.k8s.aws/instance-size: 2xlarge
+      karpenter.sh/capacity-type: on-demand
+      karpenter.sh/initialized: "true"
+      karpenter.sh/nodepool: nvidia-nim-gpu
+      karpenter.sh/registered: "true"
+      kubernetes.io/arch: amd64
+      kubernetes.io/hostname: ip-10-0-25-229.us-west-2.compute.internal
+      kubernetes.io/os: linux
+      node.kubernetes.io/instance-type: g5.2xlarge
+      nvidia.com/cuda.driver.major: "570"
+      nvidia.com/cuda.driver.minor: "195"
+      nvidia.com/cuda.driver.rev: "03"
+      nvidia.com/cuda.runtime.major: "12"
+      nvidia.com/cuda.runtime.minor: "8"
+      nvidia.com/gfd.timestamp: "1764382003"
+      nvidia.com/gpu-driver-upgrade-state: upgrade-done
+      nvidia.com/gpu.compute.major: "8"
+      nvidia.com/gpu.compute.minor: "6"
+      nvidia.com/gpu.count: "1"
+      nvidia.com/gpu.deploy.container-toolkit: "true"
+      nvidia.com/gpu.deploy.dcgm: "true"
+      nvidia.com/gpu.deploy.dcgm-exporter: "true"
+      nvidia.com/gpu.deploy.device-plugin: "true"
+      nvidia.com/gpu.deploy.driver: pre-installed
+      nvidia.com/gpu.deploy.gpu-feature-discovery: "true"
+      nvidia.com/gpu.deploy.node-status-exporter: "true"
+      nvidia.com/gpu.deploy.operator-validator: "true"
+      nvidia.com/gpu.family: ampere
+      nvidia.com/gpu.machine: g5.2xlarge
+      nvidia.com/gpu.memory: "23028"
+      nvidia.com/gpu.present: "true"
+      nvidia.com/gpu.product: NVIDIA-A10G
+      nvidia.com/gpu.replicas: "1"
+      nvidia.com/mig.capable: "false"
+      nvidia.com/mig.strategy: single
+      topology.ebs.csi.aws.com/zone: us-west-2b
+      topology.kubernetes.io/region: us-west-2
+      topology.kubernetes.io/zone: us-west-2b
+      workload-type: nvidia-nim
+    name: ip-10-0-25-229.us-west-2.compute.internal
+    ownerReferences:
+    - apiVersion: karpenter.sh/v1beta1
+      blockOwnerDeletion: true
+      kind: NodeClaim
+      name: nvidia-nim-gpu-gx5cs
+      uid: 53e6ae5c-f366-4c91-bd20-e1f53c62803f
+    resourceVersion: "12362747"
+    uid: 2dd878ec-3406-416c-b39a-fdb79565f66a
+  spec:
+    providerID: aws:///us-west-2b/i-035d9fd8859f9032e
+    taints:
+    - effect: NoSchedule
+      key: nvidia.com/gpu
+      value: "true"
+  status:
+    addresses:
+    - address: 10.0.25.229
+      type: InternalIP
+    - address: ip-10-0-25-229.us-west-2.compute.internal
+      type: InternalDNS
+    - address: ip-10-0-25-229.us-west-2.compute.internal
+      type: Hostname
+    allocatable:
+      cpu: 7910m
+      ephemeral-storage: "192188443124"
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 31482280Ki
+      nvidia.com/gpu: "1"
+      pods: "58"
+    capacity:
+      cpu: "8"
+      ephemeral-storage: 209702892Ki
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 32499112Ki
+      nvidia.com/gpu: "1"
+      pods: "58"
+    conditions:
+    - lastHeartbeatTime: "2025-12-02T08:57:18Z"
+      lastTransitionTime: "2025-11-23T16:53:17Z"
+      message: kubelet has sufficient memory available
+      reason: KubeletHasSufficientMemory
+      status: "False"
+      type: MemoryPressure
+    - lastHeartbeatTime: "2025-12-02T08:57:18Z"
+      lastTransitionTime: "2025-11-23T16:53:17Z"
+      message: kubelet has no disk pressure
+      reason: KubeletHasNoDiskPressure
+      status: "False"
+      type: DiskPressure
+    - lastHeartbeatTime: "2025-12-02T08:57:18Z"
+      lastTransitionTime: "2025-11-23T16:53:17Z"
+      message: kubelet has sufficient PID available
+      reason: KubeletHasSufficientPID
+      status: "False"
+      type: PIDPressure
+    - lastHeartbeatTime: "2025-12-02T08:57:18Z"
+      lastTransitionTime: "2025-11-29T02:06:13Z"
+      message: kubelet is posting ready status
+      reason: KubeletReady
+      status: "True"
+      type: Ready
+    daemonEndpoints:
+      kubeletEndpoint:
+        Port: 10250
+    images:
+    - names:
+      - nvcr.io/nim/snowflake/arctic-embed-l@sha256:f92fb1baeebb609b45292231edd658828d287bb4554b1a0d58d066700361c53d
+      - nvcr.io/nim/snowflake/arctic-embed-l:1.0.1
+      sizeBytes: 8564024221
+    - names:
+      - nvcr.io/nvidia/k8s/dcgm-exporter@sha256:73a9900ebdfd1133586a421e94c74c44fba8565e90b13a05d5900c67dc591b79
+      - nvcr.io/nvidia/k8s/dcgm-exporter:3.3.0-3.2.0-ubuntu22.04
+      sizeBytes: 1071613950
+    - names:
+      - nvcr.io/nvidia/cloud-native/k8s-driver-manager@sha256:27c44f4720a4abf780217bd5e7903e4a008ebdbcf71238c4f106a0c22654776c
+      - nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.6.5
+      sizeBytes: 218271303
+    - names:
+      - nvcr.io/nvidia/cloud-native/gpu-operator-validator@sha256:549ec806717ecd832a1dd219d3cb671024d005df0cfd54269441d21a0083ee51
+      - nvcr.io/nvidia/cloud-native/gpu-operator-validator:v23.9.1
+      sizeBytes: 175407092
+    - names:
+      - nvcr.io/nvidia/k8s-device-plugin@sha256:d33ae90051cce4f32ee34faf2328832343c6065d808baf62fd38fd4c6bb5ab13
+      - nvcr.io/nvidia/k8s-device-plugin:v0.14.3-ubi8
+      sizeBytes: 173365426
+    - names:
+      - nvcr.io/nvidia/gpu-feature-discovery@sha256:8d1ec78f2b1ddb7f0c47453d0427231190747bda411733a7dd0c8f5196f09e9c
+      - nvcr.io/nvidia/gpu-feature-discovery:v0.8.2-ubi8
+      sizeBytes: 166015065
+    - names:
+      - nvcr.io/nvidia/k8s/container-toolkit@sha256:8f18d2ab49a0d7d735fcfa371fdb3d7b00a754362a4b573da8c2b6fcb534f7c9
+      - nvcr.io/nvidia/k8s/container-toolkit:v1.14.3-ubuntu20.04
+      sizeBytes: 127583103
+    - names:
+      - registry.k8s.io/nfd/node-feature-discovery@sha256:2a56d172c48b76531eb719780224ef278daa68b9088f592f16df2519bed08de4
+      - registry.k8s.io/nfd/node-feature-discovery:v0.14.2
+      sizeBytes: 72455487
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init@sha256:a731583bfd4927510ecb9af0383f82724cb74150c420f5cdcac592d552ba81ac
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.1
+      sizeBytes: 70445751
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.2
+      sizeBytes: 70445438
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.2
+      sizeBytes: 53394093
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni@sha256:f810a591312695d616290d8beead640b012a4e074716eafbe8ab387f8c11f566
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.1
+      sizeBytes: 53333428
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver@sha256:d2684734b1d44ffba221e4fb8fcd1ca8b44e21773e5f3994d73f5501b1374bf7
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver:v1.51.1
+      sizeBytes: 36369300
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent@sha256:f99fb1fea5e16dc3a2429ddd0a2660d0f3b4ba40b467e81e1898b001ee54c240
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent:v1.2.7-eksbuild.1
+      sizeBytes: 35997169
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      sizeBytes: 31243851
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar@sha256:d6826436945095d8b61a9c01d3c5aeeb40ac2e259b119ead4f31fb516919c6f5
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar:v2.14.0-eksbuild.5
+      sizeBytes: 17498688
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe@sha256:4893b2cc0157e092833512e36fbd8987682a32dff02a1ec2ecd9e3604c0be163
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe:v2.16.0-eksbuild.5
+      sizeBytes: 17479136
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause@sha256:529cf6b1b6e5b76e901abc43aee825badbd93f9c5ee5f1e316d46a83abbce5a2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause:3.5
+      sizeBytes: 298689
+    nodeInfo:
+      architecture: amd64
+      bootID: c41ab819-25be-43ed-b838-66e7ba9e1787
+      containerRuntimeVersion: containerd://1.7.27
+      kernelVersion: 5.10.245-241.978.amzn2.x86_64
+      kubeProxyVersion: v1.28.15-eks-c39b1d0
+      kubeletVersion: v1.28.15-eks-c39b1d0
+      machineID: ec264cb539a03193c50e220bbb437005
+      operatingSystem: linux
+      osImage: Amazon Linux 2
+      systemUUID: ec264cb5-39a0-3193-c50e-220bbb437005
+- apiVersion: v1
+  kind: Node
+  metadata:
+    annotations:
+      alpha.kubernetes.io/provided-node-ip: 10.0.30.141
+      csi.volume.kubernetes.io/nodeid: '{"ebs.csi.aws.com":"i-0ceef5a4c0bdb8dc6"}'
+      nfd.node.kubernetes.io/feature-labels: cpu-cpuid.ADX,cpu-cpuid.AESNI,cpu-cpuid.AVX,cpu-cpuid.AVX2,cpu-cpuid.AVX512BW,cpu-cpuid.AVX512CD,cpu-cpuid.AVX512DQ,cpu-cpuid.AVX512F,cpu-cpuid.AVX512VL,cpu-cpuid.CMPXCHG8,cpu-cpuid.FMA3,cpu-cpuid.FXSR,cpu-cpuid.FXSROPT,cpu-cpuid.HYPERVISOR,cpu-cpuid.LAHF,cpu-cpuid.MOVBE,cpu-cpuid.MPX,cpu-cpuid.OSXSAVE,cpu-cpuid.SYSCALL,cpu-cpuid.SYSEE,cpu-cpuid.X87,cpu-cpuid.XGETBV1,cpu-cpuid.XSAVE,cpu-cpuid.XSAVEC,cpu-cpuid.XSAVEOPT,cpu-cpuid.XSAVES,cpu-hardware_multithreading,cpu-model.family,cpu-model.id,cpu-model.vendor_id,kernel-config.NO_HZ,kernel-config.NO_HZ_IDLE,kernel-version.full,kernel-version.major,kernel-version.minor,kernel-version.revision,pci-1d0f.present,storage-nonrotationaldisk,system-os_release.ID,system-os_release.VERSION_ID,system-os_release.VERSION_ID.major
+      nfd.node.kubernetes.io/worker.version: v0.14.2
+      node.alpha.kubernetes.io/ttl: "0"
+      volumes.kubernetes.io/controller-managed-attach-detach: "true"
+    creationTimestamp: "2025-11-05T04:34:59Z"
+    labels:
+      beta.kubernetes.io/arch: amd64
+      beta.kubernetes.io/instance-type: m5.xlarge
+      beta.kubernetes.io/os: linux
+      eks.amazonaws.com/capacityType: ON_DEMAND
+      eks.amazonaws.com/nodegroup: aiq-udf-eks-system-20251105043352871100000010
+      eks.amazonaws.com/nodegroup-image: ami-0c0f1800552a28067
+      eks.amazonaws.com/sourceLaunchTemplateId: lt-0a2ba7f8dc98c44d6
+      eks.amazonaws.com/sourceLaunchTemplateVersion: "1"
+      failure-domain.beta.kubernetes.io/region: us-west-2
+      failure-domain.beta.kubernetes.io/zone: us-west-2b
+      feature.node.kubernetes.io/cpu-cpuid.ADX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AESNI: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX2: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512BW: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512CD: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512DQ: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512F: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512VL: "true"
+      feature.node.kubernetes.io/cpu-cpuid.CMPXCHG8: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FMA3: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSROPT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.HYPERVISOR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.LAHF: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MOVBE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MPX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.OSXSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSCALL: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSEE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.X87: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XGETBV1: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEC: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEOPT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVES: "true"
+      feature.node.kubernetes.io/cpu-hardware_multithreading: "true"
+      feature.node.kubernetes.io/cpu-model.family: "6"
+      feature.node.kubernetes.io/cpu-model.id: "85"
+      feature.node.kubernetes.io/cpu-model.vendor_id: Intel
+      feature.node.kubernetes.io/kernel-config.NO_HZ: "true"
+      feature.node.kubernetes.io/kernel-config.NO_HZ_IDLE: "true"
+      feature.node.kubernetes.io/kernel-version.full: 5.10.245-241.976.amzn2.x86_64
+      feature.node.kubernetes.io/kernel-version.major: "5"
+      feature.node.kubernetes.io/kernel-version.minor: "10"
+      feature.node.kubernetes.io/kernel-version.revision: "245"
+      feature.node.kubernetes.io/pci-1d0f.present: "true"
+      feature.node.kubernetes.io/storage-nonrotationaldisk: "true"
+      feature.node.kubernetes.io/system-os_release.ID: amzn
+      feature.node.kubernetes.io/system-os_release.VERSION_ID: "2"
+      feature.node.kubernetes.io/system-os_release.VERSION_ID.major: "2"
+      k8s.io/cloud-provider-aws: e9c47b7a431c8df6bdcd5b727dc90ce4
+      kubernetes.io/arch: amd64
+      kubernetes.io/hostname: ip-10-0-30-141.us-west-2.compute.internal
+      kubernetes.io/os: linux
+      node.kubernetes.io/instance-type: m5.xlarge
+      role: system
+      topology.ebs.csi.aws.com/zone: us-west-2b
+      topology.kubernetes.io/region: us-west-2
+      topology.kubernetes.io/zone: us-west-2b
+    name: ip-10-0-30-141.us-west-2.compute.internal
+    resourceVersion: "12362791"
+    uid: 061d3057-c961-47b4-b590-ba48258a71cc
+  spec:
+    providerID: aws:///us-west-2b/i-0ceef5a4c0bdb8dc6
+  status:
+    addresses:
+    - address: 10.0.30.141
+      type: InternalIP
+    - address: ip-10-0-30-141.us-west-2.compute.internal
+      type: InternalDNS
+    - address: ip-10-0-30-141.us-west-2.compute.internal
+      type: Hostname
+    allocatable:
+      cpu: 3920m
+      ephemeral-storage: "18242267924"
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 14880152Ki
+      pods: "58"
+    capacity:
+      cpu: "4"
+      ephemeral-storage: 20959212Ki
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 15896984Ki
+      pods: "58"
+    conditions:
+    - lastHeartbeatTime: "2025-12-02T08:57:26Z"
+      lastTransitionTime: "2025-11-05T04:34:59Z"
+      message: kubelet has sufficient memory available
+      reason: KubeletHasSufficientMemory
+      status: "False"
+      type: MemoryPressure
+    - lastHeartbeatTime: "2025-12-02T08:57:26Z"
+      lastTransitionTime: "2025-11-24T20:49:39Z"
+      message: kubelet has no disk pressure
+      reason: KubeletHasNoDiskPressure
+      status: "False"
+      type: DiskPressure
+    - lastHeartbeatTime: "2025-12-02T08:57:26Z"
+      lastTransitionTime: "2025-11-05T04:34:59Z"
+      message: kubelet has sufficient PID available
+      reason: KubeletHasSufficientPID
+      status: "False"
+      type: PIDPressure
+    - lastHeartbeatTime: "2025-12-02T08:57:26Z"
+      lastTransitionTime: "2025-11-05T04:35:14Z"
+      message: kubelet is posting ready status
+      reason: KubeletReady
+      status: "True"
+      type: Ready
+    daemonEndpoints:
+      kubeletEndpoint:
+        Port: 10250
+    images:
+    - names:
+      - docker.io/apachepulsar/pulsar@sha256:9c9947de139d4dd6c39fab55fac441ba431fc9d742eadc7833d5dcd6d1291720
+      - docker.io/apachepulsar/pulsar:3.0.7
+      sizeBytes: 794088271
+    - names:
+      - registry.k8s.io/ingress-nginx/controller@sha256:e4127065d0317bd11dc64c4dd38dcf7fb1c3d72e468110b4086e636dbaac943d
+      sizeBytes: 112870190
+    - names:
+      - nvcr.io/nvidia/cloud-native/k8s-nim-operator@sha256:5838cce1099cb525b9e813a3800c692f518493bfbe7a88df513d76d53c47dd1e
+      - nvcr.io/nvidia/cloud-native/k8s-nim-operator:v3.0.1
+      sizeBytes: 80516930
+    - names:
+      - docker.io/milvusdb/etcd@sha256:e29e706a985a78773fc5494b3014f85bef41805965c0e943213bf679800a73d0
+      - docker.io/milvusdb/etcd:3.5.18-r1
+      sizeBytes: 74547642
+    - names:
+      - registry.k8s.io/nfd/node-feature-discovery@sha256:2a56d172c48b76531eb719780224ef278daa68b9088f592f16df2519bed08de4
+      - registry.k8s.io/nfd/node-feature-discovery:v0.14.2
+      sizeBytes: 72455487
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init@sha256:a731583bfd4927510ecb9af0383f82724cb74150c420f5cdcac592d552ba81ac
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.1
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.1
+      sizeBytes: 70445751
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.1
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.1
+      sizeBytes: 53333428
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-frontend@sha256:2f4ec91cb9107e1247c7b1a87ac6ffcb8c86477e69165691a10f85b148d2df3c
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-frontend:latest
+      sizeBytes: 49593920
+    - names:
+      - public.ecr.aws/karpenter/controller@sha256:92f977a6a9d981155b5404f830a5e7fcf7fbd5ba0cadd0ac66a062de77c036b5
+      sizeBytes: 43002653
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-provisioner@sha256:f1a0ade1d61042dfdcd5ef0b99562ec39384968b731a07f5318e0e8b1fb7dba8
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-provisioner:v5.3.0-eksbuild.4
+      sizeBytes: 37660684
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver@sha256:d2684734b1d44ffba221e4fb8fcd1ca8b44e21773e5f3994d73f5501b1374bf7
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver:v1.51.1
+      sizeBytes: 36369300
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent@sha256:f99fb1fea5e16dc3a2429ddd0a2660d0f3b4ba40b467e81e1898b001ee54c240
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent:v1.2.7-eksbuild.1
+      sizeBytes: 35997169
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-resizer@sha256:9d80c48d0f3194f87441c555b06255294a9f95434dd49229f7ccabd776ffe804
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-resizer:v1.14.0-eksbuild.4
+      sizeBytes: 35665816
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-snapshotter@sha256:7266c1fb88473c947a8fad84db000f3317d18d706cfc8e9c14d8d250bb9c3a9f
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-snapshotter:v8.3.0-eksbuild.2
+      sizeBytes: 35652955
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-attacher@sha256:4e1f6591185a06946cb38c126d5fad73c0eb50f1e3adccab0b61faf842786873
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-attacher:v4.9.0-eksbuild.4
+      sizeBytes: 35637141
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      sizeBytes: 31243851
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar@sha256:d6826436945095d8b61a9c01d3c5aeeb40ac2e259b119ead4f31fb516919c6f5
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar:v2.14.0-eksbuild.5
+      sizeBytes: 17498688
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe@sha256:4893b2cc0157e092833512e36fbd8987682a32dff02a1ec2ecd9e3604c0be163
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe:v2.16.0-eksbuild.5
+      sizeBytes: 17479136
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/coredns@sha256:438a642765d217f9beebc2fc21db5b385890b73af257aac57f3bd4bef2b353db
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/coredns:v1.10.1-eksbuild.38
+      sizeBytes: 17260196
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause@sha256:529cf6b1b6e5b76e901abc43aee825badbd93f9c5ee5f1e316d46a83abbce5a2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause:3.5
+      sizeBytes: 298689
+    nodeInfo:
+      architecture: amd64
+      bootID: 51bb3f35-0356-401c-bbc4-2660459a5053
+      containerRuntimeVersion: containerd://1.7.27
+      kernelVersion: 5.10.245-241.976.amzn2.x86_64
+      kubeProxyVersion: v1.28.15-eks-113cf36
+      kubeletVersion: v1.28.15-eks-113cf36
+      machineID: ec20467153064c2a1416be55c21e502a
+      operatingSystem: linux
+      osImage: Amazon Linux 2
+      systemUUID: ec204671-5306-4c2a-1416-be55c21e502a
+    volumesAttached:
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0cdea0d8a0e23b326
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-030049fdf75bb14de
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0f9d98639e1cc04f8
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-065c4256a702d8680
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0d7d9e912ccb155cb
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-047eb8d148d410618
+    volumesInUse:
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-030049fdf75bb14de
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-047eb8d148d410618
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-065c4256a702d8680
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0cdea0d8a0e23b326
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0d7d9e912ccb155cb
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0f9d98639e1cc04f8
+- apiVersion: v1
+  kind: Node
+  metadata:
+    annotations:
+      alpha.kubernetes.io/provided-node-ip: 10.0.36.241
+      csi.volume.kubernetes.io/nodeid: '{"ebs.csi.aws.com":"i-061f3047253188aaf"}'
+      nfd.node.kubernetes.io/feature-labels: cpu-cpuid.ADX,cpu-cpuid.AESNI,cpu-cpuid.AVX,cpu-cpuid.AVX2,cpu-cpuid.AVX512BW,cpu-cpuid.AVX512CD,cpu-cpuid.AVX512DQ,cpu-cpuid.AVX512F,cpu-cpuid.AVX512VL,cpu-cpuid.CMPXCHG8,cpu-cpuid.FMA3,cpu-cpuid.FXSR,cpu-cpuid.FXSROPT,cpu-cpuid.HYPERVISOR,cpu-cpuid.LAHF,cpu-cpuid.MOVBE,cpu-cpuid.MPX,cpu-cpuid.OSXSAVE,cpu-cpuid.SYSCALL,cpu-cpuid.SYSEE,cpu-cpuid.X87,cpu-cpuid.XGETBV1,cpu-cpuid.XSAVE,cpu-cpuid.XSAVEC,cpu-cpuid.XSAVEOPT,cpu-cpuid.XSAVES,cpu-hardware_multithreading,cpu-model.family,cpu-model.id,cpu-model.vendor_id,kernel-config.NO_HZ,kernel-config.NO_HZ_IDLE,kernel-version.full,kernel-version.major,kernel-version.minor,kernel-version.revision,pci-1d0f.present,storage-nonrotationaldisk,system-os_release.ID,system-os_release.VERSION_ID,system-os_release.VERSION_ID.major
+      nfd.node.kubernetes.io/master.version: v0.14.2
+      nfd.node.kubernetes.io/worker.version: v0.14.2
+      node.alpha.kubernetes.io/ttl: "0"
+      volumes.kubernetes.io/controller-managed-attach-detach: "true"
+    creationTimestamp: "2025-11-05T04:34:57Z"
+    labels:
+      beta.kubernetes.io/arch: amd64
+      beta.kubernetes.io/instance-type: m5.xlarge
+      beta.kubernetes.io/os: linux
+      eks.amazonaws.com/capacityType: ON_DEMAND
+      eks.amazonaws.com/nodegroup: aiq-udf-eks-system-20251105043352871100000010
+      eks.amazonaws.com/nodegroup-image: ami-0c0f1800552a28067
+      eks.amazonaws.com/sourceLaunchTemplateId: lt-0a2ba7f8dc98c44d6
+      eks.amazonaws.com/sourceLaunchTemplateVersion: "1"
+      failure-domain.beta.kubernetes.io/region: us-west-2
+      failure-domain.beta.kubernetes.io/zone: us-west-2c
+      feature.node.kubernetes.io/cpu-cpuid.ADX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AESNI: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX2: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512BW: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512CD: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512DQ: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512F: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX512VL: "true"
+      feature.node.kubernetes.io/cpu-cpuid.CMPXCHG8: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FMA3: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSROPT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.HYPERVISOR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.LAHF: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MOVBE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MPX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.OSXSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSCALL: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSEE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.X87: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XGETBV1: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEC: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEOPT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVES: "true"
+      feature.node.kubernetes.io/cpu-hardware_multithreading: "true"
+      feature.node.kubernetes.io/cpu-model.family: "6"
+      feature.node.kubernetes.io/cpu-model.id: "85"
+      feature.node.kubernetes.io/cpu-model.vendor_id: Intel
+      feature.node.kubernetes.io/kernel-config.NO_HZ: "true"
+      feature.node.kubernetes.io/kernel-config.NO_HZ_IDLE: "true"
+      feature.node.kubernetes.io/kernel-version.full: 5.10.245-241.976.amzn2.x86_64
+      feature.node.kubernetes.io/kernel-version.major: "5"
+      feature.node.kubernetes.io/kernel-version.minor: "10"
+      feature.node.kubernetes.io/kernel-version.revision: "245"
+      feature.node.kubernetes.io/pci-1d0f.present: "true"
+      feature.node.kubernetes.io/storage-nonrotationaldisk: "true"
+      feature.node.kubernetes.io/system-os_release.ID: amzn
+      feature.node.kubernetes.io/system-os_release.VERSION_ID: "2"
+      feature.node.kubernetes.io/system-os_release.VERSION_ID.major: "2"
+      k8s.io/cloud-provider-aws: e9c47b7a431c8df6bdcd5b727dc90ce4
+      kubernetes.io/arch: amd64
+      kubernetes.io/hostname: ip-10-0-36-241.us-west-2.compute.internal
+      kubernetes.io/os: linux
+      node.kubernetes.io/instance-type: m5.xlarge
+      role: system
+      topology.ebs.csi.aws.com/zone: us-west-2c
+      topology.kubernetes.io/region: us-west-2
+      topology.kubernetes.io/zone: us-west-2c
+    name: ip-10-0-36-241.us-west-2.compute.internal
+    resourceVersion: "12362007"
+    uid: 941fe408-9e58-43aa-b5a7-9ec93bf5b319
+  spec:
+    providerID: aws:///us-west-2c/i-061f3047253188aaf
+  status:
+    addresses:
+    - address: 10.0.36.241
+      type: InternalIP
+    - address: ip-10-0-36-241.us-west-2.compute.internal
+      type: InternalDNS
+    - address: ip-10-0-36-241.us-west-2.compute.internal
+      type: Hostname
+    allocatable:
+      cpu: 3920m
+      ephemeral-storage: "18242267924"
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 14880152Ki
+      pods: "58"
+    capacity:
+      cpu: "4"
+      ephemeral-storage: 20959212Ki
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 15896984Ki
+      pods: "58"
+    conditions:
+    - lastHeartbeatTime: "2025-12-02T08:55:04Z"
+      lastTransitionTime: "2025-11-05T04:34:56Z"
+      message: kubelet has sufficient memory available
+      reason: KubeletHasSufficientMemory
+      status: "False"
+      type: MemoryPressure
+    - lastHeartbeatTime: "2025-12-02T08:55:04Z"
+      lastTransitionTime: "2025-11-29T10:10:56Z"
+      message: kubelet has no disk pressure
+      reason: KubeletHasNoDiskPressure
+      status: "False"
+      type: DiskPressure
+    - lastHeartbeatTime: "2025-12-02T08:55:04Z"
+      lastTransitionTime: "2025-11-05T04:34:56Z"
+      message: kubelet has sufficient PID available
+      reason: KubeletHasSufficientPID
+      status: "False"
+      type: PIDPressure
+    - lastHeartbeatTime: "2025-12-02T08:55:04Z"
+      lastTransitionTime: "2025-11-05T04:35:11Z"
+      message: kubelet is posting ready status
+      reason: KubeletReady
+      status: "True"
+      type: Ready
+    daemonEndpoints:
+      kubeletEndpoint:
+        Port: 10250
+    images:
+    - names:
+      - docker.io/milvusdb/milvus@sha256:fb57464669737ee9a9c43c6faa891527adab601241b0b488091c5f4eb4a13178
+      - docker.io/milvusdb/milvus:v2.6.5
+      sizeBytes: 1002012717
+    - names:
+      - docker.io/apachepulsar/pulsar@sha256:9c9947de139d4dd6c39fab55fac441ba431fc9d742eadc7833d5dcd6d1291720
+      - docker.io/apachepulsar/pulsar:3.0.7
+      sizeBytes: 794088271
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:529a0b717ac539d4cbddc8dc7df246608edbf0fa3557d814df1bf677f081722a
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent:latest
+      sizeBytes: 233738206
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:905ba17d40f822cf7e769e097e8911227f2d8118ae7a027d48bf77346626e6ed
+      sizeBytes: 233738106
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:7d6e1f17db2124016850683815a4d139f006f926112e6e6311fe97e578b538cd
+      sizeBytes: 233736724
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:68e9a49bd7d4e69e5c62f093a3a7598bf2ef15d8cdbb0cd8161fb6288a4e91dd
+      sizeBytes: 233736638
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:63737c81d36d2444eb9c45a34881b9722aa5e9bb90b5119efbebdd15d3bc36ca
+      sizeBytes: 233735987
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:3043905b4ca081489245ffa1a0bea70316fde8a7c41d1b065dabb08e123fc298
+      sizeBytes: 233735860
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:b4c3d5e3b1c30674e3cf18eeaa585141b7d7c289a2e160baa3aef8624b1ba9c1
+      sizeBytes: 233735814
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:5d4518573deaebb597de900b7e4f6ae0cc5e3a1f8ec18a527e4ff1c7e7afdc7c
+      sizeBytes: 233735658
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:989995e51ba7adb4c059fb3df58143d8ee47687acdc111bcbaf3e51d7c18e569
+      sizeBytes: 233735639
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:b2e080e196161f6fb619f21a879ab94e5197379e93b3a1eb02cf6f85eff7283a
+      sizeBytes: 233735433
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-agent@sha256:ce1a3a5e36c007046a092c4cda82f70fb79dccb1ad38b93eddef99e0333bb604
+      sizeBytes: 233734347
+    - names:
+      - nvcr.io/nvidia/gpu-operator@sha256:494fac8f1f0830e98c50cb3b171d6ac49d02815c40edbf59cb11ec389b66ba51
+      - nvcr.io/nvidia/gpu-operator:v23.9.1
+      sizeBytes: 218751213
+    - names:
+      - docker.io/milvusdb/etcd@sha256:e29e706a985a78773fc5494b3014f85bef41805965c0e943213bf679800a73d0
+      - docker.io/milvusdb/etcd:3.5.18-r1
+      sizeBytes: 74547642
+    - names:
+      - registry.k8s.io/nfd/node-feature-discovery@sha256:2a56d172c48b76531eb719780224ef278daa68b9088f592f16df2519bed08de4
+      - registry.k8s.io/nfd/node-feature-discovery:v0.14.2
+      sizeBytes: 72455487
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init@sha256:a731583bfd4927510ecb9af0383f82724cb74150c420f5cdcac592d552ba81ac
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.1
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.1
+      sizeBytes: 70445751
+    - names:
+      - docker.io/minio/minio@sha256:1dce27c494a16bae114774f1cec295493f3613142713130c2d22dd5696be6ad3
+      - docker.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
+      sizeBytes: 62642371
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.1
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.1
+      sizeBytes: 53333428
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-frontend@sha256:2f4ec91cb9107e1247c7b1a87ac6ffcb8c86477e69165691a10f85b148d2df3c
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-frontend:latest
+      sizeBytes: 49593920
+    - names:
+      - 962716963657.dkr.ecr.us-west-2.amazonaws.com/aiq-frontend@sha256:b863ec618661e668f8c13f8ff46fa1077d0f33f0fd57a40f350added50ded47b
+      sizeBytes: 49593140
+    - names:
+      - public.ecr.aws/karpenter/controller@sha256:92f977a6a9d981155b5404f830a5e7fcf7fbd5ba0cadd0ac66a062de77c036b5
+      sizeBytes: 43002653
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-provisioner@sha256:f1a0ade1d61042dfdcd5ef0b99562ec39384968b731a07f5318e0e8b1fb7dba8
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-provisioner:v5.3.0-eksbuild.4
+      sizeBytes: 37660684
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver@sha256:d2684734b1d44ffba221e4fb8fcd1ca8b44e21773e5f3994d73f5501b1374bf7
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver:v1.51.1
+      sizeBytes: 36369300
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent@sha256:f99fb1fea5e16dc3a2429ddd0a2660d0f3b4ba40b467e81e1898b001ee54c240
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent:v1.2.7-eksbuild.1
+      sizeBytes: 35997169
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-resizer@sha256:9d80c48d0f3194f87441c555b06255294a9f95434dd49229f7ccabd776ffe804
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-resizer:v1.14.0-eksbuild.4
+      sizeBytes: 35665816
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-snapshotter@sha256:7266c1fb88473c947a8fad84db000f3317d18d706cfc8e9c14d8d250bb9c3a9f
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-snapshotter:v8.3.0-eksbuild.2
+      sizeBytes: 35652955
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-attacher@sha256:4e1f6591185a06946cb38c126d5fad73c0eb50f1e3adccab0b61faf842786873
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-attacher:v4.9.0-eksbuild.4
+      sizeBytes: 35637141
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      sizeBytes: 31243851
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar@sha256:d6826436945095d8b61a9c01d3c5aeeb40ac2e259b119ead4f31fb516919c6f5
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar:v2.14.0-eksbuild.5
+      sizeBytes: 17498688
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe@sha256:4893b2cc0157e092833512e36fbd8987682a32dff02a1ec2ecd9e3604c0be163
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe:v2.16.0-eksbuild.5
+      sizeBytes: 17479136
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause@sha256:529cf6b1b6e5b76e901abc43aee825badbd93f9c5ee5f1e316d46a83abbce5a2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause:3.5
+      sizeBytes: 298689
+    nodeInfo:
+      architecture: amd64
+      bootID: a879a36b-490b-4bee-b284-7540fff977af
+      containerRuntimeVersion: containerd://1.7.27
+      kernelVersion: 5.10.245-241.976.amzn2.x86_64
+      kubeProxyVersion: v1.28.15-eks-113cf36
+      kubeletVersion: v1.28.15-eks-113cf36
+      machineID: ec237f4b9c9a02d60e03ce8f59f7f6ed
+      operatingSystem: linux
+      osImage: Amazon Linux 2
+      systemUUID: ec237f4b-9c9a-02d6-0e03-ce8f59f7f6ed
+    volumesAttached:
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-06184e793c2dd0315
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0be59ee0ac1ceec67
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0838db3c1e6931df0
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0d66bb425a060d43f
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-08b1f414488d8b0a7
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-0435aab24f9b9a6b5
+    - devicePath: ""
+      name: kubernetes.io/csi/ebs.csi.aws.com^vol-05da2842fbcf2a658
+    volumesInUse:
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0435aab24f9b9a6b5
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-05da2842fbcf2a658
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-06184e793c2dd0315
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0838db3c1e6931df0
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-08b1f414488d8b0a7
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0be59ee0ac1ceec67
+    - kubernetes.io/csi/ebs.csi.aws.com^vol-0d66bb425a060d43f
+- apiVersion: v1
+  kind: Node
+  metadata:
+    annotations:
+      alpha.kubernetes.io/provided-node-ip: 10.0.9.141
+      csi.volume.kubernetes.io/nodeid: '{"ebs.csi.aws.com":"i-045cd92d286860cae"}'
+      karpenter.k8s.aws/ec2nodeclass-hash: "9413656231369219519"
+      karpenter.sh/managed-by: aiq-udf-eks
+      karpenter.sh/nodepool-hash: "6447978712535504844"
+      nfd.node.kubernetes.io/feature-labels: cpu-cpuid.ADX,cpu-cpuid.AESNI,cpu-cpuid.AVX,cpu-cpuid.AVX2,cpu-cpuid.CLZERO,cpu-cpuid.CMPXCHG8,cpu-cpuid.FMA3,cpu-cpuid.FP256,cpu-cpuid.FXSR,cpu-cpuid.FXSROPT,cpu-cpuid.HYPERVISOR,cpu-cpuid.IBPB,cpu-cpuid.IBRS,cpu-cpuid.IBRS_PREFERRED,cpu-cpuid.IBRS_PROVIDES_SMP,cpu-cpuid.LAHF,cpu-cpuid.MCOMMIT,cpu-cpuid.MOVBE,cpu-cpuid.MOVU,cpu-cpuid.OSXSAVE,cpu-cpuid.RDPRU,cpu-cpuid.SHA,cpu-cpuid.SPEC_CTRL_SSBD,cpu-cpuid.SSE4A,cpu-cpuid.STIBP,cpu-cpuid.SYSCALL,cpu-cpuid.SYSEE,cpu-cpuid.TOPEXT,cpu-cpuid.WBNOINVD,cpu-cpuid.X87,cpu-cpuid.XGETBV1,cpu-cpuid.XSAVE,cpu-cpuid.XSAVEC,cpu-cpuid.XSAVEOPT,cpu-hardware_multithreading,cpu-model.family,cpu-model.id,cpu-model.vendor_id,kernel-config.NO_HZ,kernel-config.NO_HZ_IDLE,kernel-version.full,kernel-version.major,kernel-version.minor,kernel-version.revision,nvidia.com/cuda.driver.major,nvidia.com/cuda.driver.minor,nvidia.com/cuda.driver.rev,nvidia.com/cuda.runtime.major,nvidia.com/cuda.runtime.minor,nvidia.com/gfd.timestamp,nvidia.com/gpu.compute.major,nvidia.com/gpu.compute.minor,nvidia.com/gpu.count,nvidia.com/gpu.family,nvidia.com/gpu.machine,nvidia.com/gpu.memory,nvidia.com/gpu.product,nvidia.com/gpu.replicas,nvidia.com/mig.capable,nvidia.com/mig.strategy,pci-10de.present,pci-1d0f.present,rdma.available,storage-nonrotationaldisk,system-os_release.ID,system-os_release.VERSION_ID,system-os_release.VERSION_ID.major
+      nfd.node.kubernetes.io/worker.version: v0.14.2
+      node.alpha.kubernetes.io/ttl: "0"
+      nvidia.com/gpu-driver-upgrade-enabled: "true"
+      volumes.kubernetes.io/controller-managed-attach-detach: "true"
+    creationTimestamp: "2025-11-23T16:53:11Z"
+    finalizers:
+    - karpenter.sh/termination
+    labels:
+      beta.kubernetes.io/arch: amd64
+      beta.kubernetes.io/instance-type: g5.2xlarge
+      beta.kubernetes.io/os: linux
+      failure-domain.beta.kubernetes.io/region: us-west-2
+      failure-domain.beta.kubernetes.io/zone: us-west-2a
+      feature.node.kubernetes.io/cpu-cpuid.ADX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AESNI: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX: "true"
+      feature.node.kubernetes.io/cpu-cpuid.AVX2: "true"
+      feature.node.kubernetes.io/cpu-cpuid.CLZERO: "true"
+      feature.node.kubernetes.io/cpu-cpuid.CMPXCHG8: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FMA3: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FP256: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.FXSROPT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.HYPERVISOR: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBPB: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBRS: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBRS_PREFERRED: "true"
+      feature.node.kubernetes.io/cpu-cpuid.IBRS_PROVIDES_SMP: "true"
+      feature.node.kubernetes.io/cpu-cpuid.LAHF: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MCOMMIT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MOVBE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.MOVU: "true"
+      feature.node.kubernetes.io/cpu-cpuid.OSXSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.RDPRU: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SHA: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SPEC_CTRL_SSBD: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SSE4A: "true"
+      feature.node.kubernetes.io/cpu-cpuid.STIBP: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSCALL: "true"
+      feature.node.kubernetes.io/cpu-cpuid.SYSEE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.TOPEXT: "true"
+      feature.node.kubernetes.io/cpu-cpuid.WBNOINVD: "true"
+      feature.node.kubernetes.io/cpu-cpuid.X87: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XGETBV1: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVE: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEC: "true"
+      feature.node.kubernetes.io/cpu-cpuid.XSAVEOPT: "true"
+      feature.node.kubernetes.io/cpu-hardware_multithreading: "true"
+      feature.node.kubernetes.io/cpu-model.family: "23"
+      feature.node.kubernetes.io/cpu-model.id: "49"
+      feature.node.kubernetes.io/cpu-model.vendor_id: AMD
+      feature.node.kubernetes.io/kernel-config.NO_HZ: "true"
+      feature.node.kubernetes.io/kernel-config.NO_HZ_IDLE: "true"
+      feature.node.kubernetes.io/kernel-version.full: 5.10.245-241.978.amzn2.x86_64
+      feature.node.kubernetes.io/kernel-version.major: "5"
+      feature.node.kubernetes.io/kernel-version.minor: "10"
+      feature.node.kubernetes.io/kernel-version.revision: "245"
+      feature.node.kubernetes.io/pci-10de.present: "true"
+      feature.node.kubernetes.io/pci-1d0f.present: "true"
+      feature.node.kubernetes.io/rdma.available: "true"
+      feature.node.kubernetes.io/storage-nonrotationaldisk: "true"
+      feature.node.kubernetes.io/system-os_release.ID: amzn
+      feature.node.kubernetes.io/system-os_release.VERSION_ID: "2"
+      feature.node.kubernetes.io/system-os_release.VERSION_ID.major: "2"
+      k8s.io/cloud-provider-aws: e9c47b7a431c8df6bdcd5b727dc90ce4
+      karpenter.k8s.aws/instance-category: g
+      karpenter.k8s.aws/instance-cpu: "8"
+      karpenter.k8s.aws/instance-encryption-in-transit-supported: "true"
+      karpenter.k8s.aws/instance-family: g5
+      karpenter.k8s.aws/instance-generation: "5"
+      karpenter.k8s.aws/instance-gpu-count: "1"
+      karpenter.k8s.aws/instance-gpu-manufacturer: nvidia
+      karpenter.k8s.aws/instance-gpu-memory: "22888"
+      karpenter.k8s.aws/instance-gpu-name: a10g
+      karpenter.k8s.aws/instance-hypervisor: nitro
+      karpenter.k8s.aws/instance-local-nvme: "450"
+      karpenter.k8s.aws/instance-memory: "32768"
+      karpenter.k8s.aws/instance-network-bandwidth: "5000"
+      karpenter.k8s.aws/instance-size: 2xlarge
+      karpenter.sh/capacity-type: on-demand
+      karpenter.sh/initialized: "true"
+      karpenter.sh/nodepool: nvidia-nim-gpu
+      karpenter.sh/registered: "true"
+      kubernetes.io/arch: amd64
+      kubernetes.io/hostname: ip-10-0-9-141.us-west-2.compute.internal
+      kubernetes.io/os: linux
+      node.kubernetes.io/instance-type: g5.2xlarge
+      nvidia.com/cuda.driver.major: "570"
+      nvidia.com/cuda.driver.minor: "195"
+      nvidia.com/cuda.driver.rev: "03"
+      nvidia.com/cuda.runtime.major: "12"
+      nvidia.com/cuda.runtime.minor: "8"
+      nvidia.com/gfd.timestamp: "1764381998"
+      nvidia.com/gpu-driver-upgrade-state: upgrade-done
+      nvidia.com/gpu.compute.major: "8"
+      nvidia.com/gpu.compute.minor: "6"
+      nvidia.com/gpu.count: "1"
+      nvidia.com/gpu.deploy.container-toolkit: "true"
+      nvidia.com/gpu.deploy.dcgm: "true"
+      nvidia.com/gpu.deploy.dcgm-exporter: "true"
+      nvidia.com/gpu.deploy.device-plugin: "true"
+      nvidia.com/gpu.deploy.driver: pre-installed
+      nvidia.com/gpu.deploy.gpu-feature-discovery: "true"
+      nvidia.com/gpu.deploy.node-status-exporter: "true"
+      nvidia.com/gpu.deploy.operator-validator: "true"
+      nvidia.com/gpu.family: ampere
+      nvidia.com/gpu.machine: g5.2xlarge
+      nvidia.com/gpu.memory: "23028"
+      nvidia.com/gpu.present: "true"
+      nvidia.com/gpu.product: NVIDIA-A10G
+      nvidia.com/gpu.replicas: "1"
+      nvidia.com/mig.capable: "false"
+      nvidia.com/mig.strategy: single
+      topology.ebs.csi.aws.com/zone: us-west-2a
+      topology.kubernetes.io/region: us-west-2
+      topology.kubernetes.io/zone: us-west-2a
+      workload-type: nvidia-nim
+    name: ip-10-0-9-141.us-west-2.compute.internal
+    ownerReferences:
+    - apiVersion: karpenter.sh/v1beta1
+      blockOwnerDeletion: true
+      kind: NodeClaim
+      name: nvidia-nim-gpu-vvz4w
+      uid: 52c7c661-da7c-4674-9ec4-15c24df0ea69
+    resourceVersion: "12362612"
+    uid: 316dc10d-2a03-43dc-969a-4514ebccdc8d
+  spec:
+    providerID: aws:///us-west-2a/i-045cd92d286860cae
+    taints:
+    - effect: NoSchedule
+      key: nvidia.com/gpu
+      value: "true"
+    - effect: NoSchedule
+      key: karpenter.sh/disruption
+      value: disrupting
+  status:
+    addresses:
+    - address: 10.0.9.141
+      type: InternalIP
+    - address: ip-10-0-9-141.us-west-2.compute.internal
+      type: InternalDNS
+    - address: ip-10-0-9-141.us-west-2.compute.internal
+      type: Hostname
+    allocatable:
+      cpu: 7910m
+      ephemeral-storage: "192188443124"
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 31482280Ki
+      nvidia.com/gpu: "1"
+      pods: "58"
+    capacity:
+      cpu: "8"
+      ephemeral-storage: 209702892Ki
+      hugepages-1Gi: "0"
+      hugepages-2Mi: "0"
+      memory: 32499112Ki
+      nvidia.com/gpu: "1"
+      pods: "58"
+    conditions:
+    - lastHeartbeatTime: "2025-12-02T08:56:54Z"
+      lastTransitionTime: "2025-11-23T16:53:10Z"
+      message: kubelet has sufficient memory available
+      reason: KubeletHasSufficientMemory
+      status: "False"
+      type: MemoryPressure
+    - lastHeartbeatTime: "2025-12-02T08:56:54Z"
+      lastTransitionTime: "2025-11-23T16:53:10Z"
+      message: kubelet has no disk pressure
+      reason: KubeletHasNoDiskPressure
+      status: "False"
+      type: DiskPressure
+    - lastHeartbeatTime: "2025-12-02T08:56:54Z"
+      lastTransitionTime: "2025-11-23T16:53:10Z"
+      message: kubelet has sufficient PID available
+      reason: KubeletHasSufficientPID
+      status: "False"
+      type: PIDPressure
+    - lastHeartbeatTime: "2025-12-02T08:56:54Z"
+      lastTransitionTime: "2025-11-29T02:05:50Z"
+      message: kubelet is posting ready status
+      reason: KubeletReady
+      status: "True"
+      type: Ready
+    daemonEndpoints:
+      kubeletEndpoint:
+        Port: 10250
+    images:
+    - names:
+      - nvcr.io/nim/nvidia/llama-3.1-nemotron-nano-8b-v1@sha256:dce1749228efb965aefb34f1ef30e929f04115ab9eee338c4f0498e768ad311a
+      - nvcr.io/nim/nvidia/llama-3.1-nemotron-nano-8b-v1:latest
+      sizeBytes: 9637427557
+    - names:
+      - nvcr.io/nvidia/k8s/dcgm-exporter@sha256:73a9900ebdfd1133586a421e94c74c44fba8565e90b13a05d5900c67dc591b79
+      - nvcr.io/nvidia/k8s/dcgm-exporter:3.3.0-3.2.0-ubuntu22.04
+      sizeBytes: 1071613950
+    - names:
+      - nvcr.io/nvidia/cloud-native/k8s-driver-manager@sha256:27c44f4720a4abf780217bd5e7903e4a008ebdbcf71238c4f106a0c22654776c
+      - nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.6.5
+      sizeBytes: 218271303
+    - names:
+      - nvcr.io/nvidia/cloud-native/gpu-operator-validator@sha256:549ec806717ecd832a1dd219d3cb671024d005df0cfd54269441d21a0083ee51
+      - nvcr.io/nvidia/cloud-native/gpu-operator-validator:v23.9.1
+      sizeBytes: 175407092
+    - names:
+      - nvcr.io/nvidia/k8s-device-plugin@sha256:d33ae90051cce4f32ee34faf2328832343c6065d808baf62fd38fd4c6bb5ab13
+      - nvcr.io/nvidia/k8s-device-plugin:v0.14.3-ubi8
+      sizeBytes: 173365426
+    - names:
+      - nvcr.io/nvidia/gpu-feature-discovery@sha256:8d1ec78f2b1ddb7f0c47453d0427231190747bda411733a7dd0c8f5196f09e9c
+      - nvcr.io/nvidia/gpu-feature-discovery:v0.8.2-ubi8
+      sizeBytes: 166015065
+    - names:
+      - nvcr.io/nvidia/k8s/container-toolkit@sha256:8f18d2ab49a0d7d735fcfa371fdb3d7b00a754362a4b573da8c2b6fcb534f7c9
+      - nvcr.io/nvidia/k8s/container-toolkit:v1.14.3-ubuntu20.04
+      sizeBytes: 127583103
+    - names:
+      - registry.k8s.io/nfd/node-feature-discovery@sha256:2a56d172c48b76531eb719780224ef278daa68b9088f592f16df2519bed08de4
+      - registry.k8s.io/nfd/node-feature-discovery:v0.14.2
+      sizeBytes: 72455487
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init@sha256:a731583bfd4927510ecb9af0383f82724cb74150c420f5cdcac592d552ba81ac
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.1
+      sizeBytes: 70445751
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.20.4-eksbuild.2
+      sizeBytes: 70445438
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.2
+      sizeBytes: 53394093
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni@sha256:f810a591312695d616290d8beead640b012a4e074716eafbe8ab387f8c11f566
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni:v1.20.4-eksbuild.1
+      sizeBytes: 53333428
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver@sha256:d2684734b1d44ffba221e4fb8fcd1ca8b44e21773e5f3994d73f5501b1374bf7
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-ebs-csi-driver:v1.51.1
+      sizeBytes: 36369300
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent@sha256:f99fb1fea5e16dc3a2429ddd0a2660d0f3b4ba40b467e81e1898b001ee54c240
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon/aws-network-policy-agent:v1.2.7-eksbuild.1
+      sizeBytes: 35997169
+    - names:
+      - 602401143452.dkr.ecr-fips.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/kube-proxy:v1.28.15-minimal-eksbuild.31
+      sizeBytes: 31243851
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar@sha256:d6826436945095d8b61a9c01d3c5aeeb40ac2e259b119ead4f31fb516919c6f5
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/csi-node-driver-registrar:v2.14.0-eksbuild.5
+      sizeBytes: 17498688
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe@sha256:4893b2cc0157e092833512e36fbd8987682a32dff02a1ec2ecd9e3604c0be163
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/livenessprobe:v2.16.0-eksbuild.5
+      sizeBytes: 17479136
+    - names:
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause@sha256:529cf6b1b6e5b76e901abc43aee825badbd93f9c5ee5f1e316d46a83abbce5a2
+      - 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/pause:3.5
+      sizeBytes: 298689
+    nodeInfo:
+      architecture: amd64
+      bootID: c3ada090-4dd4-41ff-a46d-6ec4c4b12e06
+      containerRuntimeVersion: containerd://1.7.27
+      kernelVersion: 5.10.245-241.978.amzn2.x86_64
+      kubeProxyVersion: v1.28.15-eks-c39b1d0
+      kubeletVersion: v1.28.15-eks-c39b1d0
+      machineID: ec21a163be4b53808b03f93257d1ce96
+      operatingSystem: linux
+      osImage: Amazon Linux 2
+      systemUUID: ec21a163-be4b-5380-8b03-f93257d1ce96
+kind: List
+metadata:
+  resourceVersion: ""
