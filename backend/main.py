@@ -630,8 +630,13 @@ async def generate_research(request: ResearchRequest):
         final_state = await agent_graph.ainvoke(initial_state, request_config)
         print(f"🔍 DEBUG: Agent completed, execution_path will be determined", flush=True)
         
-        # Determine which path was taken
-        execution_path = "UDR" if final_state.get("udr_result", {}).get("success") else "Simple RAG"
+        # Determine which path was taken (check TTD-DR, UDR, then Simple RAG)
+        if final_state.get("ttd_dr_stage") == "complete":
+            execution_path = "TTD-DR"
+        elif final_state.get("udr_result", {}).get("success"):
+            execution_path = "UDR"
+        else:
+            execution_path = "Simple RAG"
         
         return ResearchResponse(
             final_report=final_state.get("final_report", ""),
