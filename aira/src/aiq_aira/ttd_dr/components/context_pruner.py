@@ -210,6 +210,7 @@ class ContextPruner:
             
             # Extract facts into knowledge base
             facts_extracted = 0
+            fact_contents = []  # Return fact strings for use in denoising
             for fact_data in result_data.get("extracted_facts", []):
                 fact = Fact(
                     content=fact_data.get("content", ""),
@@ -221,6 +222,8 @@ class ContextPruner:
                 )
                 self.knowledge_base.add_fact(fact)
                 facts_extracted += 1
+                # Store content string for immediate use
+                fact_contents.append(fact.content)
             
             # Update metrics
             self.total_notes_processed += 1
@@ -235,6 +238,7 @@ class ContextPruner:
             return {
                 "raw_notes": "",  # Clear the buffer - THIS IS KEY
                 "facts_extracted": facts_extracted,
+                "facts": fact_contents,  # Return facts for immediate use in denoising
                 "knowledge_base_size": len(self.knowledge_base.facts)
             }
             

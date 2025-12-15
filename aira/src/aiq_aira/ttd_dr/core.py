@@ -41,7 +41,10 @@ from .prompts import (
     QUESTION_GENERATION_PROMPT,
     DENOISING_PROMPT,
     CONVERGENCE_CHECK_PROMPT,
-    FINAL_REPORT_SYNTHESIS_PROMPT
+    FINAL_REPORT_SYNTHESIS_PROMPT,
+    CRITICAL_FEEDBACK_INJECTION,
+    REPAIR_QUESTIONS_PROMPT,
+    KNOWLEDGE_BASE_CONTEXT
 )
 from .components.planner import ResearchPlanner
 from .components.search import IterativeSearchEngine
@@ -243,6 +246,14 @@ class TTDDRIntegration(BaseResearchStrategy):
             state.stage = TTDDRStage.ITERATING
             print(f"🔶 TTD-DR CORE: Entering iteration loop (max={self.config.max_iterations})", flush=True, file=sys.stderr)
             
+            # ============================================
+            # FEEDBACK TRACKING (TTD-DR Enhancement)
+            # Store feedback from previous iteration to inject into next denoising
+            # ============================================
+            prev_red_team_feedback: Optional[str] = None
+            prev_evaluator_feedback: Optional[str] = None
+            knowledge_base_facts: List[str] = []
+            
             for iteration in range(self.config.max_iterations):
                 iteration_start = time.time()
                 state.iteration = iteration + 1
@@ -286,13 +297,24 @@ class TTDDRIntegration(BaseResearchStrategy):
                         confidence_score=confidence
                     ))
                 
-                # Denoise: Refine draft with new information
+                # ============================================
+                # DENOISING WITH FEEDBACK INJECTION (TTD-DR Enhancement)
+                # Pass Red Team/Evaluator feedback from previous iteration
+                # ============================================
                 old_draft = state.current_draft
+                
+                # Log if we're injecting feedback
+                if prev_red_team_feedback or prev_evaluator_feedback:
+                    print(f"🔶 TTD-DR CORE: Injecting feedback into denoising (Red Team: {bool(prev_red_team_feedback)}, Evaluator: {bool(prev_evaluator_feedback)})", flush=True, file=sys.stderr)
+                
                 state.current_draft = await self._denoise_draft(
                     state.current_draft,
                     answers,
                     state.research_plan,
-                    state.iteration
+                    state.iteration,
+                    red_team_feedback=prev_red_team_feedback,
+                    evaluator_feedback=prev_evaluator_feedback,
+                    knowledge_base_facts=knowledge_base_facts if knowledge_base_facts else None
                 )
                 self.metrics.total_llm_calls += 1
                 
@@ -367,6 +389,15 @@ class TTDDRIntegration(BaseResearchStrategy):
                             elif name == "context_pruner":
                                 pruner_result = result
                 
+                # ============================================
+                # PROCESS SELF-CORRECTION RESULTS
+                # Store feedback for injection into NEXT iteration
+                # ============================================
+                
+                # Reset feedback for this iteration
+                prev_red_team_feedback = None
+                prev_evaluator_feedback = None
+                
                 # Process Red Team results
                 if red_team_result is not None:
                     if isinstance(red_team_result, RedTeamResult):
@@ -375,8 +406,10 @@ class TTDDRIntegration(BaseResearchStrategy):
                             self.needs_quality_repair = True
                             logger.warning(f"🔴 Red Team: Major revision needed (score: {red_team_result.quality_score})")
                             print(f"🔶 TTD-DR: RED TEAM found issues requiring repair", flush=True, file=sys.stderr)
+                            # STORE FEEDBACK FOR NEXT ITERATION
+                            prev_red_team_feedback = f"Score: {red_team_result.quality_score}/10. Issues: {', '.join(red_team_result.critical_issues[:3])}"
                         else:
-                            print(f"🔶 TTD-DR: Red Team score={red_team_result.quality_score:.1f}", flush=True, file=sys.stderr)
+                            print(f"🔶 TTD-DR: Red Team PASS (score={red_team_result.quality_score:.1f})", flush=True, file=sys.stderr)
                     elif isinstance(red_team_result, Exception):
                         logger.warning(f"Red Team returned exception: {red_team_result}")
                 
@@ -388,18 +421,24 @@ class TTDDRIntegration(BaseResearchStrategy):
                         if eval_result.needs_quality_repair():
                             self.needs_quality_repair = True
                             logger.warning(f"📊 Evaluator: Quality repair needed (score: {eval_result.metrics.overall_score})")
+                            # STORE FEEDBACK FOR NEXT ITERATION
+                            prev_evaluator_feedback = f"Overall: {eval_result.metrics.overall_score}/10. Feedback: {eval_result.feedback[:300]}"
                         
                         # Log evaluation details
                         print(f"🔶 TTD-DR: Evaluator score={eval_result.metrics.overall_score:.1f}, converged={eval_result.converged}", flush=True, file=sys.stderr)
                     elif isinstance(eval_result, Exception):
                         logger.warning(f"Evaluator returned exception: {eval_result}")
                 
-                # Process Context Pruner results
+                # Process Context Pruner results - ACCUMULATE FACTS
                 if pruner_result is not None:
                     if isinstance(pruner_result, dict):
                         facts_extracted = pruner_result.get("facts_extracted", 0)
-                        if facts_extracted > 0:
-                            print(f"🔶 TTD-DR: Context Pruner extracted {facts_extracted} facts", flush=True, file=sys.stderr)
+                        new_facts = pruner_result.get("facts", [])
+                        if new_facts:
+                            # Add new facts to knowledge base, keep last 20
+                            knowledge_base_facts.extend(new_facts)
+                            knowledge_base_facts = knowledge_base_facts[-20:]
+                            print(f"🔶 TTD-DR: Context Pruner extracted {facts_extracted} facts (KB size: {len(knowledge_base_facts)})", flush=True, file=sys.stderr)
                     elif isinstance(pruner_result, Exception):
                         logger.warning(f"Context Pruner returned exception: {pruner_result}")
                 
@@ -675,8 +714,16 @@ class TTDDRIntegration(BaseResearchStrategy):
                             current_draft: DraftState,
                             new_information: List[Dict[str, Any]],
                             plan: ResearchPlan,
-                            iteration: int) -> DraftState:
-        """Denoise the draft by incorporating new information."""
+                            iteration: int,
+                            red_team_feedback: Optional[str] = None,
+                            evaluator_feedback: Optional[str] = None,
+                            knowledge_base_facts: Optional[List[str]] = None) -> DraftState:
+        """
+        Denoise the draft by incorporating new information.
+        
+        Key TTD-DR enhancement: Accepts feedback from Red Team and Evaluator
+        to guide the denoising process (dynamic prompt injection).
+        """
         # Prepare new information summary (handle both string and dict formats)
         # LIMIT answer lengths to prevent context overflow
         info_lines = []
@@ -691,6 +738,27 @@ class TTDDRIntegration(BaseResearchStrategy):
                 info_lines.append(f"Information: {str(info)[:1500]}")
         info_summary = "\n\n".join(info_lines)
         
+        # Add Knowledge Base facts if available (from Context Pruner)
+        if knowledge_base_facts:
+            kb_context = KNOWLEDGE_BASE_CONTEXT.format(
+                facts="\n".join([f"• {fact}" for fact in knowledge_base_facts[:15]])
+            )
+            info_summary = kb_context + "\n\n" + info_summary
+        
+        # Build critical feedback injection (from Red Team and/or Evaluator)
+        critical_feedback = ""
+        if red_team_feedback or evaluator_feedback:
+            feedback_details = []
+            if red_team_feedback:
+                feedback_details.append(f"RED TEAM: {red_team_feedback}")
+            if evaluator_feedback:
+                feedback_details.append(f"EVALUATOR: {evaluator_feedback}")
+            
+            critical_feedback = CRITICAL_FEEDBACK_INJECTION.format(
+                feedback_details="\n".join(feedback_details),
+                iteration=iteration
+            )
+        
         # Limit draft length to prevent context overflow
         draft_content = current_draft.content[:8000]  # Max 8000 chars for draft
         
@@ -699,7 +767,8 @@ class TTDDRIntegration(BaseResearchStrategy):
             new_information=info_summary,
             research_plan=json.dumps(plan.to_dict(), indent=2)[:1500],  # Limit plan
             iteration=iteration,
-            convergence_score=current_draft.convergence_score * 100
+            convergence_score=current_draft.convergence_score * 100,
+            critical_feedback=critical_feedback
         )
         
         response = await self.llm.ainvoke([
@@ -717,6 +786,10 @@ class TTDDRIntegration(BaseResearchStrategy):
             improvements.append("Verified claims")
         if len(revised_content) > len(current_draft.content) * 1.1:
             improvements.append("Added substantial content")
+        if red_team_feedback:
+            improvements.append("Addressed Red Team feedback")
+        if evaluator_feedback:
+            improvements.append("Addressed Evaluator feedback")
         
         return DraftState(
             content=revised_content,

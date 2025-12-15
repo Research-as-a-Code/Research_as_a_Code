@@ -117,6 +117,8 @@ Research Plan:
 Iteration: {iteration}
 Current Convergence: {convergence_score}%
 
+{critical_feedback}
+
 Task: Perform a denoising iteration by:
 
 1. **Incorporate New Information**: Add the newly retrieved facts into relevant sections
@@ -135,6 +137,61 @@ Quality Guidelines:
 Output the revised draft with clear improvements. Mark any remaining uncertainties.
 
 Revised Draft:"""
+
+
+# Critical Feedback Injection Template (used when Red Team or Evaluator found issues)
+CRITICAL_FEEDBACK_INJECTION = """
+⚠️ CRITICAL INTERVENTION REQUIRED ⚠️
+
+The following issues were detected in your previous draft:
+
+{feedback_details}
+
+You MUST address these issues in this revision:
+- If citations are missing, add them with the new information provided
+- If logic is flawed, restructure the argument
+- If accuracy is low, correct factual errors
+- If depth is insufficient, expand with more detail
+
+This is iteration {iteration} - make meaningful improvements."""
+
+
+# Repair Mode Question Generation (when quality score is low)
+REPAIR_QUESTIONS_PROMPT = """The draft report has quality issues that need targeted research to fix.
+
+Current Draft:
+{draft}
+
+Quality Feedback:
+{quality_feedback}
+
+Red Team Critique:
+{red_team_critique}
+
+Generate {num_questions} TARGETED search questions specifically to:
+1. Find citations for unsupported claims
+2. Verify disputed facts
+3. Fill identified gaps
+4. Strengthen weak arguments
+
+Focus on the specific weaknesses identified above.
+
+Format as JSON:
+{{
+    "questions": [
+        {{"question": "...", "purpose": "fix: [specific issue]", "priority": "high"}},
+        ...
+    ],
+    "targeted_fixes": ["issue1 being addressed", "issue2 being addressed"]
+}}"""
+
+
+# Knowledge Base Integration Prompt
+KNOWLEDGE_BASE_CONTEXT = """
+VERIFIED FACTS FROM KNOWLEDGE BASE:
+{facts}
+
+Use these verified facts to support your claims. Prioritize these over uncertain information."""
 
 # Self-Evolution: Variant Generation
 VARIANT_GENERATION_PROMPT = """Generate {num_variants} alternative versions of this answer to explore different approaches.

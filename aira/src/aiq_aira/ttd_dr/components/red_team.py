@@ -66,6 +66,12 @@ class RedTeamResult:
     needs_major_revision: bool
     quality_score: float  # 0-100
     
+    @property
+    def critical_issues(self) -> List[str]:
+        """Get list of critical issue descriptions for feedback injection."""
+        high_priority = self.get_high_priority_critiques()
+        return [f"{c.category}: {c.description}" for c in high_priority]
+    
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary."""
         return {
