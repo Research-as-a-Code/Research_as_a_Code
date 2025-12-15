@@ -211,8 +211,11 @@ class IterativeSearchEngine:
                 self.logger.warning(f"Web search failed: {e}")
         
         # Synthesize answer from results
+        import sys
+        print(f"🔸 TTD-DR SEARCH: Synthesizing answer from {len(search_results)} results", flush=True, file=sys.stderr)
         if search_results:
             answer = await self._synthesize_answer(question, search_results)
+            print(f"🔸 TTD-DR SEARCH: Answer synthesized, len={len(answer) if answer else 0}", flush=True, file=sys.stderr)
             confidence = 0.8 if len(sources) > 2 else 0.6
         else:
             answer = "No relevant information found for this question."
@@ -227,7 +230,7 @@ class IterativeSearchEngine:
     
     async def _search_rag(self, query: str, collection: str) -> List[Dict[str, Any]]:
         """
-        Search the RAG system.
+        Search the RAG system using direct Milvus connection.
         
         Args:
             query: Search query
@@ -236,29 +239,112 @@ class IterativeSearchEngine:
         Returns:
             List of search results
         """
+        import sys
+        print(f"🔸 TTD-DR SEARCH: _search_rag called, query={query[:50]}..., collection={collection}", flush=True, file=sys.stderr)
+        
         # Log tool call for UI visibility
         self.logger.info(f"🔍 [TTD-DR] Tool Call: search_rag(collection='{collection}')")
         
         try:
-            # Call RAG API
-            response = await self.client.post(
-                f"{self.rag_url}/query",
-                json={
-                    "query": query,
-                    "collection": collection,
-                    "top_k": 5
-                }
-            )
+            import os
+            import asyncio
+            from pymilvus import connections, Collection, utility
             
-            if response.status_code == 200:
-                data = response.json()
-                return data.get("results", [])
-            else:
-                self.logger.error(f"RAG search failed with status {response.status_code}")
-                return []
+            # Connect to Milvus
+            milvus_host = os.getenv("MILVUS_HOST", "milvus-standalone.rag-blueprint.svc.cluster.local")
+            milvus_port = os.getenv("MILVUS_PORT", "19530")
+            
+            # Run Milvus operations in thread pool (pymilvus is sync)
+            def _sync_search():
+                print(f"🔸 TTD-DR SEARCH: Connecting to Milvus at {milvus_host}:{milvus_port}", flush=True, file=sys.stderr)
+                connections.connect(alias="default", host=milvus_host, port=milvus_port)
+                
+                # Check if collection exists
+                print(f"🔸 TTD-DR SEARCH: Checking collection '{collection}' exists", flush=True, file=sys.stderr)
+                if not utility.has_collection(collection):
+                    self.logger.warning(f"Collection '{collection}' does not exist")
+                    print(f"🔸 TTD-DR SEARCH: Collection not found!", flush=True, file=sys.stderr)
+                    return []
+                
+                print(f"🔸 TTD-DR SEARCH: Loading collection", flush=True, file=sys.stderr)
+                coll = Collection(collection)
+                coll.load()
+                
+                # Get embedding for query using embedding NIM
+                print(f"🔸 TTD-DR SEARCH: Getting embedding...", flush=True, file=sys.stderr)
+                embedding = self._get_embedding_sync(query)
+                print(f"🔸 TTD-DR SEARCH: Got embedding, len={len(embedding) if embedding else 0}", flush=True, file=sys.stderr)
+                if not embedding:
+                    self.logger.warning("Failed to get embedding for query")
+                    return []
+                
+                # Search Milvus
+                print(f"🔸 TTD-DR SEARCH: Executing Milvus search...", flush=True, file=sys.stderr)
+                search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+                results = coll.search(
+                    data=[embedding],
+                    anns_field="embedding",  # Match UDR field name
+                    param=search_params,
+                    limit=5,
+                    output_fields=["text", "source"]
+                )
+                print(f"🔸 TTD-DR SEARCH: Milvus search done, got {len(results)} result sets", flush=True, file=sys.stderr)
+                
+                # Format results (match UDR's approach)
+                formatted = []
+                for hits in results:
+                    print(f"🔸 TTD-DR SEARCH: Processing {len(hits)} hits", flush=True, file=sys.stderr)
+                    for hit in hits:
+                        try:
+                            text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text')
+                            source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source')
+                        except Exception:
+                            text = str(getattr(hit.entity, 'text', ''))
+                            source = str(getattr(hit.entity, 'source', 'RAG Document'))
+                        
+                        formatted.append({
+                            "title": source or "RAG Document",
+                            "snippet": text or "",
+                            "content": text or "",
+                            "score": hit.score,
+                            "url": ""
+                        })
+                
+                print(f"🔸 TTD-DR SEARCH: Returning {len(formatted)} formatted results", flush=True, file=sys.stderr)
+                return formatted
+            
+            return await asyncio.to_thread(_sync_search)
                 
         except Exception as e:
             self.logger.error(f"RAG search error: {e}")
+            return []
+    
+    def _get_embedding_sync(self, text: str) -> List[float]:
+        """Get embedding from embedding NIM (synchronous for thread pool)."""
+        import httpx
+        import os
+        
+        embedding_url = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+        
+        try:
+            with httpx.Client(timeout=30.0) as client:
+                response = client.post(
+                    f"{embedding_url}/v1/embeddings",
+                    json={
+                        "input": [text],
+                        "model": "snowflake/arctic-embed-l",
+                        "input_type": "query"  # Required by arctic-embed-l
+                    }
+                )
+                
+                if response.status_code == 200:
+                    data = response.json()
+                    return data["data"][0]["embedding"]
+                else:
+                    self.logger.error(f"Embedding request failed: {response.status_code}")
+                    return []
+        except Exception as e:
+            self.logger.error(f"Embedding error: {e}")
             return []
     
     async def _search_web(self, query: str) -> List[Dict[str, Any]]:

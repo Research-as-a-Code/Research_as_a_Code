@@ -224,6 +224,8 @@ async def ttd_dr_init_node(state: HackathonAgentState, config: RunnableConfig):
     TTD-DR Step 1: Initialize and create research plan
     Progressive update: Shows initialization
     """
+    import sys
+    print("🔷 TTD-DR INIT NODE ENTERED", flush=True, file=sys.stderr)
     logger.info("TTD-DR: Step 1 - Initialize")
     
     ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
@@ -279,6 +281,8 @@ async def ttd_dr_execute_iterations_node(state: HackathonAgentState, config: Run
     Progressive update: Shows when iterations complete
     This is the long-running phase
     """
+    import sys
+    print("🔷 TTD-DR EXECUTE ITERATIONS NODE ENTERED", flush=True, file=sys.stderr)
     logger.info("TTD-DR: Step 2b - Execute Iterations")
     
     ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
@@ -291,7 +295,10 @@ async def ttd_dr_execute_iterations_node(state: HackathonAgentState, config: Run
     
     # Execute TTD-DR (this is the long operation)
     try:
+        print(f"🔷 TTD-DR: About to call execute(context={type(context).__name__})", flush=True, file=sys.stderr)
+        print(f"🔷 TTD-DR: context.query = {context.query[:100] if context.query else 'None'}...", flush=True, file=sys.stderr)
         result = await ttd_dr_integration.execute(context)
+        print(f"🔷 TTD-DR: execute() returned, success={result.success if result else 'None'}", flush=True, file=sys.stderr)
         
         step_logs.append("✅ Diffusion iterations complete")
         
@@ -1030,11 +1037,40 @@ async def final_report_node(state: HackathonAgentState, config: RunnableConfig):
     """
     Final report node: Formats and finalizes the report with citations.
     
-    This is called regardless of which path (UDR or RAG) was taken.
+    This is called regardless of which path (UDR, TTD-DR, or RAG) was taken.
+    
+    IMPORTANT: If TTD-DR was used, we use its final_report directly instead of regenerating.
+    This preserves the iteratively refined report from the TTD-DR diffusion process.
     
     NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
     logger.info("FINAL REPORT NODE: Finalizing report")
+    
+    # Check if TTD-DR was used - if so, use its result directly
+    ttd_dr_result = state.get("ttd_dr_result")
+    if ttd_dr_result and ttd_dr_result.success and ttd_dr_result.final_report:
+        logger.info("FINAL REPORT NODE: Using TTD-DR result directly (preserving diffusion-refined report)")
+        final_report = ttd_dr_result.final_report
+        
+        # Add sources if available
+        if ttd_dr_result.sources:
+            sources_text = "\n\n## Sources\n\n"
+            for i, source in enumerate(ttd_dr_result.sources[:10], 1):
+                title = source.get("title", "Unknown")
+                url = source.get("url", "")
+                sources_text += f"{i}. {title}"
+                if url:
+                    sources_text += f" - {url}"
+                sources_text += "\n"
+            final_report += sources_text
+        
+        return {
+            "final_report": final_report,
+            "logs": ["🎉 Research complete! Report ready for download."]
+        }
+    
+    # For UDR and Simple RAG, use AI-Q's finalization logic
+    logger.info("FINAL REPORT NODE: Using AI-Q finalization for non-TTD-DR path")
     
     # Create a no-op writer for AI-Q nodes that still expect it
     def noop_writer(data):
@@ -1058,32 +1094,41 @@ async def final_report_node(state: HackathonAgentState, config: RunnableConfig):
 def route_after_planner(state: HackathonAgentState) -> Literal["udr_strategy", "ttd_dr_strategy", "simple_rag"]:
     """
     Routing function: Decides which path to take after planning.
-    Now supports routing between UDR and TTD-DR based on user selection.
+    
+    IMPORTANT: User's explicit strategy selection takes precedence over LLM's suggestion.
+    - If user selected 'ttd_dr' → always route to TTD-DR
+    - If user selected 'udr' → always route to UDR
+    - If user selected 'auto' or empty → let LLM decide
     """
     import logging
     logger = logging.getLogger("uvicorn")
     
     plan = state.get("plan", "")
-    selected_strategy = state.get("strategy", "udr")  # User-selected: 'udr' or 'ttd_dr'
+    selected_strategy = state.get("strategy", "auto")  # User-selected: 'udr', 'ttd_dr', or 'auto'
     logger.info(f"🧭 ROUTING: plan field = {plan[:200] if plan else 'EMPTY'}...")
-    logger.info(f"🧭 ROUTING: selected_strategy = {selected_strategy}")
+    logger.info(f"🧭 ROUTING: user selected_strategy = {selected_strategy}")
     
+    # PRIORITY 1: Respect user's explicit strategy selection
+    if selected_strategy == "ttd_dr":
+        logger.info("🧭 ROUTING: → ttd_dr_strategy node (USER REQUESTED)")
+        return "ttd_dr_strategy"
+    elif selected_strategy == "udr":
+        logger.info("🧭 ROUTING: → udr_strategy node (USER REQUESTED)")
+        return "udr_strategy"
+    
+    # PRIORITY 2: If user selected 'auto' or no preference, let LLM decide
     try:
         import json
         decision = json.loads(plan)
         strategy = decision.get("strategy", "SIMPLE_RAG")
-        logger.info(f"🧭 ROUTING: Parsed strategy = {strategy}")
+        logger.info(f"🧭 ROUTING: LLM suggested strategy = {strategy}")
         
         if strategy == "DYNAMIC_STRATEGY":
-            # Route to selected dynamic strategy
-            if selected_strategy == "ttd_dr":
-                logger.info("🧭 ROUTING: → ttd_dr_strategy node")
-                return "ttd_dr_strategy"
-            else:
-                logger.info("🧭 ROUTING: → udr_strategy node (dynamic_strategy)")
-                return "udr_strategy"
+            # Default to UDR for dynamic strategy when auto
+            logger.info("🧭 ROUTING: → udr_strategy node (LLM suggested DYNAMIC)")
+            return "udr_strategy"
         else:
-            logger.info("🧭 ROUTING: → simple_rag node")
+            logger.info("🧭 ROUTING: → simple_rag node (LLM suggested SIMPLE)")
             return "simple_rag"
     except Exception as e:
         logger.error(f"🧭 ROUTING ERROR: {e}, defaulting to simple_rag")

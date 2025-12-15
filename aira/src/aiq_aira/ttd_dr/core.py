@@ -48,6 +48,9 @@ from .components.search import IterativeSearchEngine
 from .components.denoiser import DraftDenoiser
 from .components.evolver import SelfEvolver
 from .components.synthesizer import ReportSynthesizer
+from .components.red_team import RedTeamAgent, RedTeamResult
+from .components.evaluator import EvaluatorAgent, EvaluationResult
+from .components.context_pruner import ContextPruner
 from .debug_logger import TTDDRDebugLogger
 
 logger = logging.getLogger(__name__)
@@ -90,11 +93,20 @@ class TTDDRIntegration(BaseResearchStrategy):
         self.synthesis_llm = synthesis_llm or llm
         self.config = config or TTDDRConfig()
         
-        # Initialize components
+        # Initialize core components
         self.planner = ResearchPlanner(llm)
         self.searcher = IterativeSearchEngine(llm, rag_url, tavily_api_key)
         self.denoiser = DraftDenoiser(llm, self.config)
         self.synthesizer = ReportSynthesizer(self.synthesis_llm)
+        
+        # Self-correction components (TTD-DR innovation)
+        self.red_team = RedTeamAgent(llm)
+        self.evaluator = EvaluatorAgent(
+            llm, 
+            convergence_threshold=self.config.convergence_threshold * 100,
+            min_improvement=2.0
+        )
+        self.context_pruner = ContextPruner(llm)
         
         # Optional self-evolution component
         self.evolver = None
@@ -103,6 +115,10 @@ class TTDDRIntegration(BaseResearchStrategy):
         
         # Metrics tracking
         self.metrics = TTDDRMetrics()
+        
+        # State for self-correction
+        self.active_critique = None
+        self.needs_quality_repair = False
     
     def get_strategy_type(self) -> ResearchStrategyType:
         """Return the strategy type."""
@@ -194,11 +210,16 @@ class TTDDRIntegration(BaseResearchStrategy):
         )
         
         try:
+            import sys
+            print(f"🔶 TTD-DR CORE: Starting execute, query={context.query[:80]}...", flush=True, file=sys.stderr)
+            
             # Stage 1: Generate Research Plan
             logger.info(f"📋 TTD-DR Stage 1: Generating research plan for query: {context.query[:100]}...")
             debug.log_stage("PLAN_GENERATION", iteration=0, query=context.query)
             
+            print("🔶 TTD-DR CORE: Calling _generate_research_plan...", flush=True, file=sys.stderr)
             state.research_plan = await self._generate_research_plan(context)
+            print(f"🔶 TTD-DR CORE: Plan generated, main_topic={state.research_plan.main_topic[:50] if state.research_plan.main_topic else 'None'}...", flush=True, file=sys.stderr)
             self.metrics.total_llm_calls += 1
             
             # Log what plan contains
@@ -209,7 +230,9 @@ class TTDDRIntegration(BaseResearchStrategy):
             logger.info("📝 TTD-DR: Creating initial draft...")
             debug.log_stage("INITIAL_DRAFT", iteration=0, query=context.query)
             
+            print("🔶 TTD-DR CORE: About to create initial draft...", flush=True, file=sys.stderr)
             state.current_draft = await self._create_initial_draft(context, state.research_plan)
+            print(f"🔶 TTD-DR CORE: Initial draft created, length={len(state.current_draft.content) if state.current_draft else 0}", flush=True, file=sys.stderr)
             self.metrics.total_llm_calls += 1
             
             # Log draft preview
@@ -218,36 +241,49 @@ class TTDDRIntegration(BaseResearchStrategy):
             # Stage 2: Iterative Search with Denoising
             logger.info(f"🔄 TTD-DR Stage 2: Beginning iterative refinement (max {self.config.max_iterations} iterations)")
             state.stage = TTDDRStage.ITERATING
+            print(f"🔶 TTD-DR CORE: Entering iteration loop (max={self.config.max_iterations})", flush=True, file=sys.stderr)
             
             for iteration in range(self.config.max_iterations):
                 iteration_start = time.time()
                 state.iteration = iteration + 1
                 
+                print(f"🔶 TTD-DR CORE: Starting iteration {state.iteration}", flush=True, file=sys.stderr)
                 logger.info(f"🔄 TTD-DR Iteration {state.iteration}/{self.config.max_iterations}")
                 debug.log_stage("ITERATION_START", iteration=state.iteration,
                                max_iterations=self.config.max_iterations)
                 
                 # 2a: Generate search questions based on current draft
+                print(f"🔶 TTD-DR CORE: Generating questions for iteration {state.iteration}...", flush=True, file=sys.stderr)
                 questions = await self._generate_questions_from_draft(
                     state.current_draft,
                     state.research_plan,
                     state.search_history,
                     iteration
                 )
+                print(f"🔶 TTD-DR CORE: Generated {len(questions)} questions", flush=True, file=sys.stderr)
                 self.metrics.total_llm_calls += len(questions)
                 self.metrics.total_search_queries += len(questions)
                 
                 # 2b: Search for answers (with optional self-evolution)
+                print(f"🔶 TTD-DR CORE: Searching for answers...", flush=True, file=sys.stderr)
                 answers = await self._search_with_evolution(questions, context)
+                print(f"🔶 TTD-DR CORE: Got {len(answers)} answers", flush=True, file=sys.stderr)
                 
-                # Store Q&A pairs
+                # Store Q&A pairs (handle both string and dict question formats)
                 for q, a in zip(questions, answers):
+                    # Normalize question - handle both string and dict
+                    question_text = q if isinstance(q, str) else q.get("question", str(q)) if isinstance(q, dict) else str(q)
+                    # Normalize answer - handle both string and dict
+                    answer_text = a if isinstance(a, str) else a.get("answer", str(a)) if isinstance(a, dict) else str(a)
+                    sources = a.get("sources", []) if isinstance(a, dict) else []
+                    confidence = a.get("confidence", 0.8) if isinstance(a, dict) else 0.8
+                    
                     state.search_history.append(SearchQAPair(
-                        question=q["question"],
-                        answer=a["answer"],
-                        sources=a.get("sources", []),
+                        question=question_text,
+                        answer=answer_text,
+                        sources=sources,
                         iteration=state.iteration,
-                        confidence_score=a.get("confidence", 0.8)
+                        confidence_score=confidence
                     ))
                 
                 # Denoise: Refine draft with new information
@@ -259,6 +295,113 @@ class TTDDRIntegration(BaseResearchStrategy):
                     state.iteration
                 )
                 self.metrics.total_llm_calls += 1
+                
+                # ============================================
+                # SELF-CORRECTION LOOP (runs in parallel)
+                # This is the key TTD-DR innovation from the article
+                # Reference: Fareed Khan's TTD-DR implementation
+                # ============================================
+                
+                # Check if any self-correction components are enabled
+                run_self_correction = (
+                    self.config.enable_red_team or 
+                    self.config.enable_evaluator or 
+                    self.config.enable_context_pruning
+                )
+                
+                red_team_result = None
+                eval_result = None
+                pruner_result = None
+                
+                if run_self_correction:
+                    print(f"🔶 TTD-DR CORE: Running self-correction loop...", flush=True, file=sys.stderr)
+                    
+                    # Prepare research brief for agents
+                    research_brief = json.dumps(state.research_plan.to_dict(), indent=2)[:2000]
+                    
+                    # Build list of parallel tasks based on config
+                    parallel_tasks = []
+                    task_names = []
+                    
+                    if self.config.enable_red_team:
+                        parallel_tasks.append(self.red_team.critique(
+                            state.current_draft.content,
+                            research_brief,
+                            state.iteration
+                        ))
+                        task_names.append("red_team")
+                    
+                    if self.config.enable_evaluator:
+                        parallel_tasks.append(self.evaluator.evaluate(
+                            state.current_draft.content,
+                            research_brief,
+                            state.iteration,
+                            state.quality_scores[-1] if state.quality_scores else None
+                        ))
+                        task_names.append("evaluator")
+                    
+                    if self.config.enable_context_pruning:
+                        # Collect raw notes for context pruning
+                        raw_notes = "\n\n".join([
+                            f"Q: {qa.question}\nA: {qa.answer}" 
+                            for qa in state.search_history[-5:]  # Last 5 Q&A pairs
+                        ])
+                        parallel_tasks.append(self.context_pruner.process_raw_notes(
+                            raw_notes,
+                            state.research_plan.main_topic,
+                            state.iteration
+                        ))
+                        task_names.append("context_pruner")
+                    
+                    # Wait for all parallel tasks
+                    if parallel_tasks:
+                        results = await asyncio.gather(*parallel_tasks, return_exceptions=True)
+                        self.metrics.total_llm_calls += len(parallel_tasks)
+                        
+                        # Map results back to named variables
+                        for name, result in zip(task_names, results):
+                            if name == "red_team":
+                                red_team_result = result
+                            elif name == "evaluator":
+                                eval_result = result
+                            elif name == "context_pruner":
+                                pruner_result = result
+                
+                # Process Red Team results
+                if red_team_result is not None:
+                    if isinstance(red_team_result, RedTeamResult):
+                        self.active_critique = red_team_result
+                        if red_team_result.needs_major_revision:
+                            self.needs_quality_repair = True
+                            logger.warning(f"🔴 Red Team: Major revision needed (score: {red_team_result.quality_score})")
+                            print(f"🔶 TTD-DR: RED TEAM found issues requiring repair", flush=True, file=sys.stderr)
+                        else:
+                            print(f"🔶 TTD-DR: Red Team score={red_team_result.quality_score:.1f}", flush=True, file=sys.stderr)
+                    elif isinstance(red_team_result, Exception):
+                        logger.warning(f"Red Team returned exception: {red_team_result}")
+                
+                # Process Evaluator results
+                if eval_result is not None:
+                    if isinstance(eval_result, EvaluationResult):
+                        state.quality_scores.append(eval_result.metrics.overall_score)
+                        
+                        if eval_result.needs_quality_repair():
+                            self.needs_quality_repair = True
+                            logger.warning(f"📊 Evaluator: Quality repair needed (score: {eval_result.metrics.overall_score})")
+                        
+                        # Log evaluation details
+                        print(f"🔶 TTD-DR: Evaluator score={eval_result.metrics.overall_score:.1f}, converged={eval_result.converged}", flush=True, file=sys.stderr)
+                    elif isinstance(eval_result, Exception):
+                        logger.warning(f"Evaluator returned exception: {eval_result}")
+                
+                # Process Context Pruner results
+                if pruner_result is not None:
+                    if isinstance(pruner_result, dict):
+                        facts_extracted = pruner_result.get("facts_extracted", 0)
+                        if facts_extracted > 0:
+                            print(f"🔶 TTD-DR: Context Pruner extracted {facts_extracted} facts", flush=True, file=sys.stderr)
+                    elif isinstance(pruner_result, Exception):
+                        logger.warning(f"Context Pruner returned exception: {pruner_result}")
                 
                 # Calculate convergence score
                 convergence_score = await self._calculate_convergence(
@@ -274,9 +417,17 @@ class TTDDRIntegration(BaseResearchStrategy):
                 
                 logger.info(f"✅ Iteration {state.iteration} complete. Convergence: {convergence_score:.2%}, Time: {iteration_time:.1f}s")
                 
-                # Check for early convergence
-                if self.config.early_stop and convergence_score >= self.config.convergence_threshold:
-                    logger.info(f"🎯 Converged at iteration {state.iteration} (score: {convergence_score:.2%})")
+                # Check for early convergence (now also considers Evaluator)
+                should_stop = False
+                if self.config.early_stop:
+                    if convergence_score >= self.config.convergence_threshold:
+                        logger.info(f"🎯 Converged at iteration {state.iteration} (convergence: {convergence_score:.2%})")
+                        should_stop = True
+                    elif eval_result is not None and isinstance(eval_result, EvaluationResult) and eval_result.converged:
+                        logger.info(f"🎯 Evaluator indicates convergence at iteration {state.iteration}")
+                        should_stop = True
+                
+                if should_stop:
                     break
             
             # Stage 3: Generate Final Report
@@ -451,11 +602,26 @@ class TTDDRIntegration(BaseResearchStrategy):
                 HumanMessage(content=prompt)
             ])
             
+            import sys
+            print(f"🔸 TTD-DR QUESTIONS: LLM response = {response.content[:300] if response.content else 'EMPTY'}...", flush=True, file=sys.stderr)
+            
             result = QuestionsSchema.model_validate_json(response.content)
             draft.gaps_identified = result.gaps_identified
+            print(f"🔸 TTD-DR QUESTIONS: Parsed {len(result.questions)} questions", flush=True, file=sys.stderr)
+            
+            # Ensure we return at least some questions
+            if not result.questions:
+                print(f"🔸 TTD-DR QUESTIONS: Empty questions, using fallback", flush=True, file=sys.stderr)
+                return [
+                    {"question": f"More information about {plan.main_topic}", "purpose": "general", "priority": "high"},
+                    {"question": f"What are the key aspects of {plan.main_topic}?", "purpose": "research", "priority": "medium"}
+                ]
+            
             return result.questions
             
         except Exception as e:
+            import sys
+            print(f"🔸 TTD-DR QUESTIONS: Exception: {e}", flush=True, file=sys.stderr)
             logger.warning(f"Failed to generate questions: {e}. Using fallback.")
             return [
                 {"question": f"More information about {plan.main_topic}", "purpose": "general", "priority": "high"}
@@ -465,9 +631,19 @@ class TTDDRIntegration(BaseResearchStrategy):
                                     questions: List[Dict[str, Any]],
                                     context: ResearchContext) -> List[Dict[str, Any]]:
         """Search for answers with optional self-evolution."""
+        # Normalize questions - handle both string and dict formats
+        normalized_questions = []
+        for q in questions:
+            if isinstance(q, str):
+                normalized_questions.append(q)
+            elif isinstance(q, dict):
+                normalized_questions.append(q.get("question", str(q)))
+            else:
+                normalized_questions.append(str(q))
+        
         # Get initial answers
         answers = await self.searcher.search_multiple(
-            questions=[q["question"] for q in questions],
+            questions=normalized_questions,
             collection=context.collection,
             use_web=context.search_web
         )
@@ -476,14 +652,16 @@ class TTDDRIntegration(BaseResearchStrategy):
         if self.evolver and self.config.enable_self_evolution:
             evolved_answers = []
             for answer in answers:
-                evolved = await self.evolver.evolve_answer(
-                    answer["answer"],
-                    answer.get("sources", [])
-                )
+                # Normalize answer - handle both string and dict formats
+                answer_text = answer if isinstance(answer, str) else answer.get("answer", str(answer)) if isinstance(answer, dict) else str(answer)
+                sources = answer.get("sources", []) if isinstance(answer, dict) else []
+                confidence = answer.get("confidence", 0.8) if isinstance(answer, dict) else 0.8
+                
+                evolved = await self.evolver.evolve_answer(answer_text, sources)
                 evolved_answers.append({
                     "answer": evolved,
-                    "sources": answer.get("sources", []),
-                    "confidence": answer.get("confidence", 0.8) * 1.1  # Boost confidence
+                    "sources": sources,
+                    "confidence": confidence * 1.1  # Boost confidence
                 })
                 
                 # Track improvement
@@ -499,16 +677,27 @@ class TTDDRIntegration(BaseResearchStrategy):
                             plan: ResearchPlan,
                             iteration: int) -> DraftState:
         """Denoise the draft by incorporating new information."""
-        # Prepare new information summary
-        info_summary = "\n\n".join([
-            f"Q: {info.get('question', 'N/A')}\nA: {info['answer']}"
-            for info in new_information
-        ])
+        # Prepare new information summary (handle both string and dict formats)
+        # LIMIT answer lengths to prevent context overflow
+        info_lines = []
+        for info in new_information:
+            if isinstance(info, str):
+                info_lines.append(f"Information: {info[:1500]}")  # Limit to 1500 chars
+            elif isinstance(info, dict):
+                question = info.get('question', 'N/A')
+                answer = info.get('answer', str(info))[:1500]  # Limit answer to 1500 chars
+                info_lines.append(f"Q: {question[:200]}\nA: {answer}")
+            else:
+                info_lines.append(f"Information: {str(info)[:1500]}")
+        info_summary = "\n\n".join(info_lines)
+        
+        # Limit draft length to prevent context overflow
+        draft_content = current_draft.content[:8000]  # Max 8000 chars for draft
         
         prompt = DENOISING_PROMPT.format(
-            current_draft=current_draft.content,
+            current_draft=draft_content,
             new_information=info_summary,
-            research_plan=json.dumps(plan.to_dict(), indent=2),
+            research_plan=json.dumps(plan.to_dict(), indent=2)[:1500],  # Limit plan
             iteration=iteration,
             convergence_score=current_draft.convergence_score * 100
         )
@@ -579,10 +768,11 @@ class TTDDRIntegration(BaseResearchStrategy):
         # Use original query if provided, otherwise fall back to plan.main_topic
         query_for_prompt = original_query if original_query else plan.main_topic
         
+        # Limit draft and plan to prevent context overflow
         prompt = FINAL_REPORT_SYNTHESIS_PROMPT.format(
             query=query_for_prompt,  # Use original query, not LLM's summary
-            draft=draft.content,
-            research_plan=json.dumps(plan.to_dict(), indent=2),
+            draft=draft.content[:12000],  # Limit draft to 12000 chars
+            research_plan=json.dumps(plan.to_dict(), indent=2)[:2000],  # Limit plan
             search_summary=search_summary,
             iterations=draft.iteration,
             convergence=convergence_scores[-1] * 100 if convergence_scores else 0

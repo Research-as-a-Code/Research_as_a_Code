@@ -256,30 +256,29 @@ Format as JSON:
 }}"""
 
 # Stage 3: Final Report Synthesis
-FINAL_REPORT_SYNTHESIS_PROMPT = """Generate the final polished report from the converged draft.
+FINAL_REPORT_SYNTHESIS_PROMPT = """CRITICAL INSTRUCTION: Generate a report about "{query}".
 
-Refined Draft:
+BANNED: Do NOT use any of these placeholders: [topic], [Report Title], [Question], [Research Topic], [Name], [Date], or any brackets with generic text.
+
+REQUIRED: Use the ACTUAL topic "{query}" throughout the report.
+
+Source Material:
 {draft}
 
-Research Plan:
-{research_plan}
+Search Summary: {search_summary}
+Iterations: {iterations}, Convergence: {convergence}%
 
-Search History Summary:
-{search_summary}
+Write a polished, final report that:
 
-Total Iterations: {iterations}
-Final Convergence: {convergence}%
+1. TITLE: Create a specific title about "{query}" (NOT "[Report Title]")
+2. INTRODUCTION: Open with what this report covers about "{query}"
+3. BODY: Include actual findings about "{query}" from the source material
+4. CONCLUSION: Summarize key findings about "{query}"
 
-Create a final report that:
-1. Removes all remaining markers ([NEEDS RESEARCH], [UNVERIFIED])
-2. Ensures professional presentation
-3. Includes proper introduction and conclusion
-4. Maintains consistent tone and style
-5. Integrates all gathered information seamlessly
-6. Provides clear section headers
-7. Includes relevant examples and evidence
+REMEMBER: The topic is "{query}". Replace ALL placeholders with actual content.
 
-The report should be comprehensive, well-structured, and ready for presentation.
+Begin the report now:
+Remember: Use the ACTUAL topic "{query}" throughout, never use generic [topic] placeholders.
 
 Final Report:"""
 

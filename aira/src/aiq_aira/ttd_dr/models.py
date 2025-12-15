@@ -132,14 +132,25 @@ class TTDDRConfig:
     Configuration for TTD-DR execution.
     
     Controls the behavior of the iterative refinement process.
+    
+    Reference: Fareed Khan's TTD-DR implementation uses 8 iterations with
+    Red Team, Evaluator, and Context Pruning running in parallel.
     """
     # Iteration control
-    max_iterations: int = 5
+    # Article reference: 8 iterations for complex queries
+    # Reduced for faster results when LLM is slow
+    max_iterations: int = 3  # Default: 3 for balance (increase to 8 for full TTD-DR)
     convergence_threshold: float = 0.85
     early_stop: bool = True
     
-    # Self-evolution settings
-    enable_self_evolution: bool = True
+    # Self-correction components (TTD-DR innovation)
+    # These run in parallel after each refinement step
+    enable_red_team: bool = True  # Adversarial critique
+    enable_evaluator: bool = True  # Quality scoring
+    enable_context_pruning: bool = True  # Memory management
+    
+    # Self-evolution settings (separate from self-correction)
+    enable_self_evolution: bool = False  # Disabled by default (expensive)
     num_variants: int = 3
     evolution_rounds: int = 2
     
@@ -148,7 +159,7 @@ class TTDDRConfig:
     denoising_strategy: str = "adaptive"  # "aggressive", "conservative", "adaptive"
     
     # Search configuration
-    questions_per_iteration: int = 3
+    questions_per_iteration: int = 2  # Questions per iteration
     max_search_results: int = 5
     enable_web_search: bool = True
     
@@ -167,6 +178,9 @@ class TTDDRConfig:
             "max_iterations": self.max_iterations,
             "convergence_threshold": self.convergence_threshold,
             "early_stop": self.early_stop,
+            "enable_red_team": self.enable_red_team,
+            "enable_evaluator": self.enable_evaluator,
+            "enable_context_pruning": self.enable_context_pruning,
             "enable_self_evolution": self.enable_self_evolution,
             "num_variants": self.num_variants,
             "evolution_rounds": self.evolution_rounds,
