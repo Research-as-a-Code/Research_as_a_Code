@@ -6,582 +6,429 @@
  * 
  * Uses CopilotKit's useCopilotAction to invoke the AI-Q agent via AG-UI protocol.
  * Renders real-time agent state updates from CopilotKit.
+ * 
+ * Supports parallel execution of multiple strategies for side-by-side comparison.
  */
 
 "use client";
 
 import { useCopilotAction, useCopilotReadable } from "@copilotkit/react-core";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { useCopilotResearch } from "../contexts/CopilotResearchContext";
-import { StrategyToggle, ResearchStrategy } from "./StrategyToggle";
-import { TTDDRProgressDisplay, TTDDRStage } from "./TTDDRProgressDisplay";
+import { StrategySelector, ResearchStrategy, STRATEGY_CONFIG } from "./StrategySelector";
+import { TTDDRStage } from "./TTDDRProgressDisplay";
 
-interface AgentState {
+interface PerStrategyState {
   currentNode?: string;
   plan?: string;
-  udr_strategy?: string;  // UDR compiled strategy
-  ttd_dr_stage?: TTDDRStage;  // TTD-DR current stage
-  ttd_dr_iteration?: number;  // TTD-DR current iteration
-  ttd_dr_convergence?: number[];  // TTD-DR convergence scores
-  ttd_dr_questions?: string[];  // TTD-DR current questions
-  ttd_dr_gaps?: string[];  // TTD-DR identified gaps
-  ttd_dr_improvements?: string[];  // TTD-DR recent improvements
+  udr_strategy?: string;
+  ttd_dr_stage?: TTDDRStage;
+  ttd_dr_iteration?: number;
+  ttd_dr_convergence?: number[];
+  ttd_dr_questions?: string[];
+  ttd_dr_gaps?: string[];
+  ttd_dr_improvements?: string[];
   logs: string[];
-  queries: (string | { query: string; report_section?: string; rationale?: string })[];  // Can be string or object
+  queries: (string | { query: string; report_section?: string; rationale?: string })[];
   running_summary?: string;
   final_report?: string;
-  isProcessing: boolean;
-  strategy?: ResearchStrategy;  // Current strategy being used
+  isLoading: boolean;
+  error?: string;
+  startTime?: number;
+  endTime?: number;
 }
 
 interface CopilotAgentDisplayProps {
   onResearchStart: () => void;
-  onResearchComplete: (report: string) => void;
-  onActionRegistered?: (executeAction: (params: any) => Promise<void>) => void;
+  onResearchComplete: (strategy: ResearchStrategy, report: string) => void;
+  onAllComplete: () => void;
 }
 
 export function CopilotAgentDisplay({ 
   onResearchStart, 
   onResearchComplete,
-  onActionRegistered
+  onAllComplete
 }: CopilotAgentDisplayProps) {
-  const [agentState, setAgentState] = useState<AgentState>({
-    logs: [],
-    queries: [],
-    isProcessing: false,
-    strategy: 'auto'  // Default to Auto (let AI decide)
-  });
+  const [strategyStates, setStrategyStates] = useState<Map<ResearchStrategy, PerStrategyState>>(new Map());
+  const [isProcessing, setIsProcessing] = useState(false);
+  const abortControllersRef = useRef<Map<ResearchStrategy, AbortController>>(new Map());
   
-  const { currentParams, clearParams, selectedStrategy, setSelectedStrategy } = useCopilotResearch();
+  const { 
+    currentParams, 
+    clearParams, 
+    selectedStrategies, 
+    setSelectedStrategies,
+    updateReportResult,
+    clearReportResults,
+    setIsResearching
+  } = useCopilotResearch();
 
   // Make agent state available to CopilotKit
   useCopilotReadable({
-    description: "Current AI-Q agent execution state",
-    value: agentState
+    description: "Current AI-Q agent execution state for all strategies",
+    value: Object.fromEntries(strategyStates)
   });
   
-  // Expose selected strategy to parent components
   useCopilotReadable({
-    description: "Currently selected research strategy",
-    value: selectedStrategy
+    description: "Currently selected research strategies",
+    value: selectedStrategies
   });
 
-  // Register CopilotKit action for research generation (for AG-UI protocol)
-  useCopilotAction({
-    name: "generate_research",
-    description: "Generate a comprehensive research report using the AI-Q agent with RAG and web search",
-    parameters: [
-      {
-        name: "topic",
-        type: "string",
-        description: "The research topic or question",
-        required: true,
-      },
-      {
-        name: "report_organization",
-        type: "string",
-        description: "How to organize the report",
-        required: false,
-      },
-      {
-        name: "collection",
-        type: "string",
-        description: "RAG collection name (e.g., 'us_tariffs')",
-        required: false,
-      },
-      {
-        name: "search_web",
-        type: "boolean",
-        description: "Whether to search the web",
-        required: false,
-      },
-      {
-        name: "strategy",
-        type: "string",
-        description: "Research strategy to use: 'auto', 'udr', or 'ttd_dr'",
-        required: false,
-      },
-    ],
-    handler: async ({ topic, report_organization, collection, search_web, strategy }) => {
-      const DEPLOYMENT_VERSION = "v2.1-" + Date.now();  // Unique version for this deployment
-      console.log("🚀 CopilotKit action invoked via AG-UI:", { topic, collection, search_web });
-      console.log("📦 Deployment version:", DEPLOYMENT_VERSION);
+  // Helper to update a specific strategy's state
+  const updateStrategyState = useCallback((
+    strategy: ResearchStrategy, 
+    update: Partial<PerStrategyState> | ((prev: PerStrategyState) => PerStrategyState)
+  ) => {
+    setStrategyStates(prev => {
+      const newMap = new Map(prev);
+      const existing = newMap.get(strategy) || {
+        logs: [],
+        queries: [],
+        isLoading: false,
+      };
       
-      // Prevent duplicate execution - check if already processing
-      if (agentState.isProcessing) {
-        console.log("⏭️ Skipping duplicate execution (already processing)");
-        return "Research already in progress";
-      }
+      const updated = typeof update === 'function' 
+        ? update(existing)
+        : { ...existing, ...update };
       
-      const activeStrategy: ResearchStrategy = (strategy as ResearchStrategy) || selectedStrategy;
-      setAgentState({ 
-        logs: [], 
-        queries: [], 
-        isProcessing: true,
-        strategy: activeStrategy,
-        ttd_dr_stage: activeStrategy === 'ttd_dr' ? 'planning' : undefined
+      newMap.set(strategy, updated);
+      return newMap;
+    });
+  }, []);
+
+  // Execute research for a single strategy (returns a promise)
+  const executeStrategyResearch = useCallback(async (
+    strategy: ResearchStrategy,
+    params: {
+      topic: string;
+      report_organization: string;
+      collection: string;
+      search_web: boolean;
+    }
+  ): Promise<string> => {
+    const startTime = Date.now();
+    const controller = new AbortController();
+    abortControllersRef.current.set(strategy, controller);
+
+    // Initialize state for this strategy
+    updateStrategyState(strategy, {
+      logs: [],
+      queries: [],
+      isLoading: true,
+      startTime,
+      endTime: undefined,
+      final_report: undefined,
+      error: undefined,
+      ttd_dr_stage: strategy === 'ttd_dr' ? 'planning' : undefined,
+    });
+
+    // Update report results for tabbed display
+    updateReportResult(strategy, {
+      isLoading: true,
+      report: '',
+      error: undefined,
+      startTime,
+      endTime: undefined,
+    });
+
+    try {
+      const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+      const cacheBuster = `${Date.now()}-${Math.random().toString(36).substring(7)}`;
+      const endpoint = `${BACKEND_URL}/research/stream?cb=${cacheBuster}&strategy=${strategy}`;
+      
+      console.log(`🔗 [${strategy}] Starting stream to:`, endpoint);
+
+      const response = await fetch(endpoint, {
+        method: "POST",
+        cache: 'no-store',
+        headers: { 
+          "Content-Type": "application/json",
+          "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
+          "X-Request-ID": `${strategy}-${cacheBuster}`,
+        },
+        body: JSON.stringify({
+          topic: params.topic,
+          report_organization: params.report_organization,
+          collection: params.collection,
+          search_web: params.search_web,
+          strategy: strategy,
+        }),
+        signal: controller.signal,
       });
-      onResearchStart();
 
-      try {
-        const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
-        
-        // Add cache-busting parameter to prevent ELB/CDN caching
-        const cacheBuster = `${Date.now()}-${Math.random().toString(36).substring(7)}`;
-        const requestId = `req-${cacheBuster}`;
-        const endpoint = `${BACKEND_URL}/research/stream?cb=${cacheBuster}`;
-        
-        console.log("🔗 Backend URL:", BACKEND_URL);
-        console.log("🌐 Full endpoint (with cache-buster):", endpoint);
-        console.log("🆔 Request ID:", requestId, "- If you see this same ID again without submitting, responses are cached!");
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
 
-        // Call the streaming endpoint
-        console.log("📡 Initiating fetch to /research/stream...");
-        const response = await fetch(endpoint, {
-          method: "POST",
-          cache: 'no-store' as RequestCache,  // Force fetch to bypass ALL browser cache
-          headers: { 
-            "Content-Type": "application/json",
-            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
-            "Pragma": "no-cache",
-            "Expires": "0",
-            "X-Request-ID": cacheBuster  // Additional uniqueness marker
-          },
-          body: JSON.stringify({
-            topic: topic || "",
-            report_organization: report_organization || "Create a comprehensive report",
-            collection: collection || "",
-            search_web: search_web !== false,
-            strategy: activeStrategy,  // Pass strategy to backend
-          }),
-        });
+      const reader = response.body?.getReader();
+      if (!reader) throw new Error("No response body");
 
-        console.log("📨 Response received:", response.status, response.statusText);
-        console.log("📊 Response headers:", Object.fromEntries(response.headers.entries()));
+      const decoder = new TextDecoder();
+      let buffer = "";
+      let finalReport = "";
 
-        if (!response.ok) {
-          console.error("❌ Response not OK:", response.status);
-          throw new Error(`HTTP ${response.status}`);
-        }
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
 
-        const reader = response.body?.getReader();
-        console.log("📖 Reader obtained:", !!reader);
-        const decoder = new TextDecoder();
-        if (!reader) throw new Error("No response body");
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split("\n");
+        buffer = lines.pop() || "";
 
-        let buffer = "";
-        let finalReport = "";
-        let lastDataTime = Date.now();
-        const INACTIVITY_THRESHOLD = 120000; // 120 seconds (2 minutes) - extended as requested
-
-        console.log(`🕐 Starting stream read at ${new Date().toISOString()}, inactivity threshold: ${INACTIVITY_THRESHOLD/1000}s`);
-
-        while (true) {
-          const { done, value } = await reader.read();
-          if (done) break;
-
-          // Update last data time
-          const now = Date.now();
-          const timeSinceLastData = now - lastDataTime;
-          lastDataTime = now;
+        for (const line of lines) {
+          if (!line || line.startsWith(":")) continue;
           
-          // Warn if we haven't received data in a while (but stream is still open)
-          if (timeSinceLastData > INACTIVITY_THRESHOLD) {
-            console.warn(`⚠️ Stream inactive for ${(timeSinceLastData / 1000).toFixed(1)}s`);
-          }
+          if (line.startsWith("data: ")) {
+            try {
+              const data = JSON.parse(line.substring(6));
 
-          buffer += decoder.decode(value, { stream: true });
-          const lines = buffer.split("\n");
-          buffer = lines.pop() || "";
-
-          for (const line of lines) {
-            // Skip empty lines and SSE comments (keepalive)
-            if (!line || line.startsWith(":")) {
-              continue;
-            }
-            
-            if (line.startsWith("data: ")) {
-              try {
-                const data = JSON.parse(line.substring(6));
-
-                if (data.type === "update") {
-                  console.log("📦 State update from node:", data.node, "Keys:", Object.keys(data.state));
-                  
-                  setAgentState(prev => ({
-                    ...prev,
-                    currentNode: data.node,
-                    plan: data.state.plan || prev.plan,
-                    udr_strategy: data.state.udr_strategy || prev.udr_strategy,
-                    // Preserve the strategy selection throughout execution
-                    strategy: prev.strategy,  // Keep the initially selected strategy
-                    // Backend now sends accumulated logs, just use them directly
-                    logs: data.state.logs || prev.logs,
-                    queries: data.state.queries || prev.queries,
-                    running_summary: data.state.running_summary || prev.running_summary,
-                    // TTD-DR specific state updates
-                    ttd_dr_stage: data.state.ttd_dr_stage || prev.ttd_dr_stage,
-                    ttd_dr_iteration: data.state.ttd_dr_iteration ?? prev.ttd_dr_iteration,
-                    ttd_dr_convergence: data.state.ttd_dr_convergence || prev.ttd_dr_convergence,
-                    ttd_dr_questions: data.state.ttd_dr_questions || prev.ttd_dr_questions,
-                    ttd_dr_gaps: data.state.ttd_dr_gaps || prev.ttd_dr_gaps,
-                    ttd_dr_improvements: data.state.ttd_dr_improvements || prev.ttd_dr_improvements,
-                  }));
-                  
-                  if (data.state.final_report) {
-                    console.log("📄 Final report received in state, length:", data.state.final_report.length);
-                    finalReport = data.state.final_report;
-                  }
-                } else if (data.type === "complete") {
-                  setAgentState(prev => ({ ...prev, isProcessing: false }));
-                  if (finalReport) {
-                    onResearchComplete(finalReport);
-                  }
-                } else if (data.type === "error") {
-                  throw new Error(data.message);
+              if (data.type === "update") {
+                console.log(`📦 [${strategy}] State update from node:`, data.node);
+                
+                updateStrategyState(strategy, prev => ({
+                  ...prev,
+                  currentNode: data.node,
+                  plan: data.state.plan || prev.plan,
+                  udr_strategy: data.state.udr_strategy || prev.udr_strategy,
+                  logs: data.state.logs || prev.logs,
+                  queries: data.state.queries || prev.queries,
+                  running_summary: data.state.running_summary || prev.running_summary,
+                  ttd_dr_stage: data.state.ttd_dr_stage || prev.ttd_dr_stage,
+                  ttd_dr_iteration: data.state.ttd_dr_iteration ?? prev.ttd_dr_iteration,
+                  ttd_dr_convergence: data.state.ttd_dr_convergence || prev.ttd_dr_convergence,
+                  ttd_dr_questions: data.state.ttd_dr_questions || prev.ttd_dr_questions,
+                  ttd_dr_gaps: data.state.ttd_dr_gaps || prev.ttd_dr_gaps,
+                  ttd_dr_improvements: data.state.ttd_dr_improvements || prev.ttd_dr_improvements,
+                }));
+                
+                if (data.state.final_report) {
+                  finalReport = data.state.final_report;
                 }
-              } catch (e) {
-                console.error("Error parsing SSE event:", e, "Line:", line);
+              } else if (data.type === "complete") {
+                console.log(`✅ [${strategy}] Stream complete`);
+              } else if (data.type === "error") {
+                throw new Error(data.message);
+              }
+            } catch (e) {
+              if (e instanceof SyntaxError) {
+                console.error(`[${strategy}] Error parsing SSE:`, e, "Line:", line);
+              } else {
+                throw e;
               }
             }
           }
         }
-
-        console.log("✅ Stream processing complete!");
-        
-        // Ensure we mark processing as complete and trigger callback
-        setAgentState(prev => ({ ...prev, isProcessing: false }));
-        if (finalReport) {
-          console.log("📄 Final report received, length:", finalReport.length);
-          onResearchComplete(finalReport);
-        } else {
-          console.warn("⚠️ Stream completed but no final report was received");
-        }
-        
-        return `✅ Research completed! Generated ${finalReport.length} characters.`;
-      } catch (error: any) {
-        console.error("❌ Research failed in handler:");
-        console.error("Error name:", error.name);
-        console.error("Error message:", error.message);
-        console.error("Error stack:", error.stack);
-        console.error("Full error object:", error);
-        
-        setAgentState(prev => ({ ...prev, isProcessing: false }));
-        
-        // Handle specific streaming errors
-        if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
-          const betterError = new Error("Connection lost during research. Please try again.");
-          console.error("Throwing better error:", betterError);
-          throw betterError;
-        } else if (error.message?.includes('ERR_INCOMPLETE_CHUNKED_ENCODING')) {
-          const betterError = new Error("Stream was interrupted. The backend may have timed out. Try a simpler query.");
-          console.error("Throwing better error:", betterError);
-          throw betterError;
-        }
-        
-        console.error("Re-throwing original error");
-        throw error;
       }
+
+      const endTime = Date.now();
+      
+      updateStrategyState(strategy, {
+        isLoading: false,
+        final_report: finalReport,
+        endTime,
+      });
+
+      updateReportResult(strategy, {
+        isLoading: false,
+        report: finalReport,
+        endTime,
+      });
+
+      if (finalReport) {
+        onResearchComplete(strategy, finalReport);
+      }
+
+      return finalReport;
+
+    } catch (error: any) {
+      const endTime = Date.now();
+      const errorMessage = error.name === 'AbortError' 
+        ? 'Request was cancelled'
+        : error.message || 'Unknown error';
+      
+      console.error(`❌ [${strategy}] Research failed:`, errorMessage);
+      
+      updateStrategyState(strategy, {
+        isLoading: false,
+        error: errorMessage,
+        endTime,
+      });
+
+      updateReportResult(strategy, {
+        isLoading: false,
+        error: errorMessage,
+        endTime,
+      });
+
+      throw error;
+    } finally {
+      abortControllersRef.current.delete(strategy);
+    }
+  }, [updateStrategyState, updateReportResult, onResearchComplete]);
+
+  // Watch for form submissions and trigger parallel research
+  useEffect(() => {
+    const executeAllStrategies = async () => {
+      if (!currentParams || isProcessing) return;
+
+      console.log("🚀 Starting parallel research for strategies:", selectedStrategies);
+      
+      setIsProcessing(true);
+      setIsResearching(true);
+      clearReportResults();
+      setStrategyStates(new Map());
+      onResearchStart();
+
+      // Initialize all strategy states
+      for (const strategy of selectedStrategies) {
+        updateReportResult(strategy, {
+          isLoading: true,
+          report: '',
+          startTime: Date.now(),
+        });
+      }
+
+      // Execute all strategies in parallel
+      const promises = selectedStrategies.map(strategy =>
+        executeStrategyResearch(strategy, currentParams)
+          .catch(err => {
+            console.error(`[${strategy}] Failed:`, err);
+            return null; // Don't let one failure stop others
+          })
+      );
+
+      await Promise.allSettled(promises);
+
+      console.log("✅ All strategies completed");
+      setIsProcessing(false);
+      setIsResearching(false);
+      onAllComplete();
+      clearParams();
+    };
+
+    executeAllStrategies();
+  }, [currentParams]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // CopilotKit action registration
+  useCopilotAction({
+    name: "generate_research",
+    description: "Generate research reports using multiple strategies for comparison",
+    parameters: [
+      { name: "topic", type: "string", description: "The research topic", required: true },
+      { name: "report_organization", type: "string", description: "How to organize the report", required: false },
+      { name: "collection", type: "string", description: "RAG collection name", required: false },
+      { name: "search_web", type: "boolean", description: "Whether to search the web", required: false },
+    ],
+    handler: async ({ topic, report_organization, collection, search_web }) => {
+      console.log("🚀 CopilotKit action invoked:", { topic, selectedStrategies });
+      
+      if (isProcessing) {
+        return "Research already in progress";
+      }
+      
+      // This will trigger the useEffect above via context
+      return `Starting research with ${selectedStrategies.length} strategy(ies)`;
     },
     render: "Researching...",
   });
 
-  // Watch for form submissions and trigger the CopilotKit action
-  // This avoids duplicate execution - we only execute via useCopilotAction handler
-  useEffect(() => {
-    const executeResearch = async () => {
-      if (!currentParams) return;
-
-      console.log("🔥 Form submitted with params:", currentParams);
-      console.log("📊 Using strategy from context:", selectedStrategy);
-      
-      // Prevent duplicate execution - check if already processing
-      if (agentState.isProcessing) {
-        console.log("⏭️ Skipping useEffect execution (already processing via useCopilotAction)");
-        clearParams();
-        return;
-      }
-      
-      // Use strategy from context
-      const activeStrategy = (currentParams.strategy as ResearchStrategy) || selectedStrategy;
-      console.log("🎯 Active strategy for this request:", activeStrategy);
-      
-      setAgentState({ 
-        logs: [], 
-        queries: [], 
-        isProcessing: true,
-        strategy: activeStrategy,
-        ttd_dr_stage: activeStrategy === 'ttd_dr' ? 'planning' : undefined
-      });
-      onResearchStart();
-
-      try {
-        const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
-        
-        // Add cache-busting parameter to prevent ELB/CDN caching
-        const cacheBuster = `cb=${Date.now()}-${Math.random().toString(36).substring(7)}`;
-        const endpoint = `${BACKEND_URL}/research/stream?${cacheBuster}`;
-        
-        console.log("🔗 Backend URL:", BACKEND_URL);
-        console.log("🌐 Full endpoint:", endpoint);
-
-        // Create AbortController with 10 minute timeout for long-running research
-        const controller = new AbortController();
-        const timeoutId = setTimeout(() => {
-          console.warn("⏱️ Request timeout after 10 minutes");
-          controller.abort();
-        }, 10 * 60 * 1000);
-
-        const response = await fetch(endpoint, {
-          method: "POST",
-          cache: 'no-store' as RequestCache,  // Force fetch to bypass ALL browser cache
-          headers: { 
-            "Content-Type": "application/json",
-            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
-            "Pragma": "no-cache",
-            "Expires": "0",
-            "X-Request-ID": cacheBuster  // Additional uniqueness marker
-          },
-          body: JSON.stringify({
-            topic: currentParams.topic || "",
-            report_organization: currentParams.report_organization || "Create a comprehensive report",
-            collection: currentParams.collection || "",
-            search_web: currentParams.search_web !== false,
-            strategy: activeStrategy,  // Send selected strategy to backend
-          }),
-          signal: controller.signal,
-        });
-        
-        clearTimeout(timeoutId);
-
-        console.log("📨 Response received:", response.status, response.statusText);
-
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-
-        const reader = response.body?.getReader();
-        const decoder = new TextDecoder();
-        if (!reader) throw new Error("No response body");
-
-        let buffer = "";
-        let finalReport = "";
-        let lastDataTime = Date.now();
-        const INACTIVITY_THRESHOLD = 30000; // 30 seconds without data = warning
-
-        while (true) {
-          const { done, value } = await reader.read();
-          if (done) break;
-          
-          // Update last data time
-          const now = Date.now();
-          const timeSinceLastData = now - lastDataTime;
-          lastDataTime = now;
-          
-          // Warn if we haven't received data in a while (but stream is still open)
-          if (timeSinceLastData > INACTIVITY_THRESHOLD) {
-            console.warn(`⚠️ Stream inactive for ${(timeSinceLastData / 1000).toFixed(1)}s`);
-          }
-
-          buffer += decoder.decode(value, { stream: true });
-          const lines = buffer.split("\n");
-          buffer = lines.pop() || "";
-
-          for (const line of lines) {
-            if (!line || line.startsWith(":")) {
-              continue;
-            }
-
-            if (line.startsWith("data: ")) {
-              try {
-                const data = JSON.parse(line.substring(6));
-
-                if (data.type === "update") {
-                  console.log("📦 State update from node:", data.node, "Keys:", Object.keys(data.state));
-                  
-                  setAgentState((prev) => ({
-                    ...prev,
-                    currentNode: data.node,
-                    plan: data.state.plan || prev.plan,
-                    udr_strategy: data.state.udr_strategy || prev.udr_strategy,
-                    ttd_dr_stage: data.state.ttd_dr_stage || prev.ttd_dr_stage,
-                    ttd_dr_iteration: data.state.ttd_dr_iteration || prev.ttd_dr_iteration,
-                    ttd_dr_convergence: data.state.ttd_dr_convergence || prev.ttd_dr_convergence,
-                    ttd_dr_questions: data.state.ttd_dr_questions || prev.ttd_dr_questions,
-                    ttd_dr_gaps: data.state.ttd_dr_gaps || prev.ttd_dr_gaps,
-                    ttd_dr_improvements: data.state.ttd_dr_improvements || prev.ttd_dr_improvements,
-                    logs: data.state.logs || prev.logs,
-                    queries: data.state.queries || prev.queries,
-                    running_summary: data.state.running_summary || prev.running_summary,
-                  }));
-
-                  if (data.state.final_report) {
-                    console.log("📄 Final report received in state, length:", data.state.final_report.length);
-                    finalReport = data.state.final_report;
-                  }
-                } else if (data.type === "complete") {
-                  setAgentState((prev) => ({ ...prev, isProcessing: false }));
-                  if (finalReport) {
-                    onResearchComplete(finalReport);
-                  }
-                } else if (data.type === "error") {
-                  throw new Error(data.message);
-                }
-              } catch (e) {
-                console.error("Error parsing SSE event:", e, "Line:", line);
-              }
-            }
-          }
-        }
-
-        console.log("✅ Research completed!");
-        
-        // Ensure we mark processing as complete and trigger callback
-        setAgentState((prev) => ({ ...prev, isProcessing: false }));
-        if (finalReport) {
-          console.log("📄 Final report received, length:", finalReport.length);
-          onResearchComplete(finalReport);
-        } else {
-          console.warn("⚠️ Stream completed but no final report was received");
-        }
-        
-        clearParams();
-      } catch (error: any) {
-        console.error("❌ Research failed:");
-        console.error("Error:", error.message);
-        console.error("Error type:", error.name);
-        
-        // Add helpful error message to logs
-        const errorMessage = error.message?.includes("network error") || error.name === "TypeError"
-          ? "⚠️ Network connection lost. The research may still be processing on the server."
-          : `❌ Error: ${error.message}`;
-        
-        setAgentState((prev) => ({
-          ...prev,
-          isProcessing: false,
-          logs: [...prev.logs, errorMessage]
-        }));
-        
-        clearParams();
-      }
-    };
-
-    executeResearch();
-  }, [currentParams, clearParams, onResearchStart, onResearchComplete]);
+  // Aggregate stats across all strategies
+  const allLogs = Array.from(strategyStates.values()).flatMap(s => s.logs);
+  const anyLoading = Array.from(strategyStates.values()).some(s => s.isLoading);
 
   return (
     <div className="space-y-4 animate-fade-in">
-      {/* Strategy Selection Toggle */}
-      <StrategyToggle 
-        value={selectedStrategy} 
-        onChange={setSelectedStrategy} 
-        disabled={agentState.isProcessing}
+      {/* Strategy Selection */}
+      <StrategySelector 
+        selectedStrategies={selectedStrategies} 
+        onChange={setSelectedStrategies} 
+        disabled={isProcessing}
       />
       
-      {/* TTD-DR Progress Display removed - callback system not functional
-          Progress is visible in Execution Logs instead */}
-      
-      {!agentState.isProcessing && agentState.logs.length === 0 ? (
+      {!isProcessing && strategyStates.size === 0 ? (
         <div className="text-gray-400 italic">
-          Agent is idle. Submit a research request to begin.
+          Agent is idle. Select strategies and submit a research request.
           <div className="text-xs text-gray-500 mt-2">
             ✨ Powered by CopilotKit AG-UI Protocol
           </div>
         </div>
       ) : (
         <>
-          {/* Current Phase Indicator */}
-          <div className="bg-blue-900/50 border border-blue-500 rounded-lg p-4">
-            <div className="text-sm text-blue-300 mb-1">Current Phase</div>
-            <div className="text-xl font-semibold text-white flex items-center gap-2">
-              <span>{getPhaseEmoji(agentState.currentNode)}</span>
-              <span>{getPhaseLabel(agentState.currentNode)}</span>
-              {agentState.isProcessing && (
-                <span className="inline-block animate-pulse text-blue-400">●</span>
-              )}
-            </div>
-            {agentState.currentNode && (
-              <div className="text-xs text-blue-400 mt-1">Node: {agentState.currentNode}</div>
-            )}
-          </div>
-
-          {/* Strategy Path Indicator - Shows which execution path was taken */}
-          {agentState.plan && (
-            <div className="bg-purple-900/50 border border-purple-500 rounded-lg p-4">
-              <div className="text-sm text-purple-300 mb-2">Strategy Selected</div>
-              <div className="text-white">
-                {agentState.strategy === 'ttd_dr' ? (
-                  <span className="inline-flex items-center gap-2">
-                    <span className="text-2xl">🔬</span>
-                    <span className="font-semibold">Dynamic TTD-DR Strategy</span>
-                  </span>
-                ) : agentState.udr_strategy || agentState.strategy === 'udr' ? (
-                  <span className="inline-flex items-center gap-2">
-                    <span className="text-2xl">🚀</span>
-                    <span className="font-semibold">Dynamic UDR Strategy</span>
-                  </span>
-                ) : (
-                  <span className="inline-flex items-center gap-2">
-                    <span className="text-2xl">📚</span>
-                    <span className="font-semibold">Simple RAG Pipeline</span>
-                  </span>
+          {/* Per-Strategy Progress */}
+          {selectedStrategies.map(strategy => {
+            const state = strategyStates.get(strategy);
+            if (!state) return null;
+            
+            const config = STRATEGY_CONFIG[strategy];
+            const Icon = config.icon;
+            
+            return (
+              <div 
+                key={strategy}
+                className={`bg-gray-900/50 border rounded-lg p-4 ${
+                  state.isLoading ? config.borderColor : 'border-gray-700'
+                }`}
+              >
+                <div className="flex items-center justify-between mb-2">
+                  <div className="flex items-center gap-2">
+                    <Icon className={`w-5 h-5 ${config.color}`} />
+                    <span className={`font-semibold ${config.color}`}>{config.name}</span>
+                    {state.isLoading && (
+                      <span className="inline-block animate-pulse text-yellow-400">●</span>
+                    )}
+                    {!state.isLoading && state.final_report && (
+                      <span className="text-green-400">✓</span>
+                    )}
+                    {!state.isLoading && state.error && (
+                      <span className="text-red-400">✗</span>
+                    )}
+                  </div>
+                  {state.currentNode && (
+                    <span className="text-xs text-gray-500">
+                      Node: {state.currentNode}
+                    </span>
+                  )}
+                </div>
+                
+                {/* Compact log display */}
+                {state.logs.length > 0 && (
+                  <div className="text-xs text-gray-400 max-h-24 overflow-y-auto space-y-0.5">
+                    {state.logs.slice(-5).map((log, idx) => (
+                      <div key={idx} className="truncate">
+                        <span className="text-gray-600 mr-1">→</span>
+                        {log}
+                      </div>
+                    ))}
+                  </div>
+                )}
+                
+                {state.error && (
+                  <div className="text-xs text-red-400 mt-2">
+                    Error: {state.error}
+                  </div>
                 )}
               </div>
-              {agentState.plan && (
-                <div className="text-sm text-purple-200 mt-2 opacity-75">
-                  {agentState.plan.substring(0, 150)}...
-                </div>
-              )}
-            </div>
-          )}
+            );
+          })}
 
-          {/* Execution Logs */}
-          {agentState.logs.length > 0 && (
-            <div className="bg-blue-900/50 border border-blue-500 rounded-lg p-4">
-              <div className="text-sm text-blue-300 mb-3 font-semibold flex items-center justify-between">
-                <span>Execution Logs</span>
-                <span className="text-xs text-blue-400 bg-blue-500/20 px-2 py-1 rounded">
-                  {agentState.logs.length} {agentState.logs.length === 1 ? 'entry' : 'entries'}
-                </span>
-              </div>
-              <div className="space-y-2 max-h-80 overflow-y-auto pr-2">
-                {agentState.logs.map((log, idx) => (
-                  <div
-                    key={idx}
-                    className="text-sm text-blue-100 font-mono py-2 px-3 bg-blue-950/50 rounded border border-blue-800/30 animate-fade-in"
-                    style={{ animationDelay: `${Math.min(idx * 0.05, 0.5)}s` }}
-                  >
-                    <span className="text-blue-400 mr-2">→</span>
-                    {log}
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* Generated Queries */}
-          {agentState.queries.length > 0 && (
+          {/* Combined Queries Display */}
+          {Array.from(strategyStates.values()).some(s => s.queries.length > 0) && (
             <div className="bg-green-900/50 border border-green-500 rounded-lg p-4">
               <div className="text-sm text-green-300 mb-2 font-semibold">
-                Generated Queries ({agentState.queries.length})
+                Generated Queries
               </div>
-              <ul className="space-y-1">
-                {agentState.queries.map((query, idx) => (
-                  <li key={idx} className="text-sm text-green-200 flex items-start gap-2">
-                    <span className="text-green-400">•</span>
-                    <span>{typeof query === 'string' ? query : query.query}</span>
-                  </li>
-                ))}
+              <ul className="space-y-1 max-h-32 overflow-y-auto">
+                {Array.from(strategyStates.entries()).flatMap(([strategy, state]) =>
+                  state.queries.slice(0, 3).map((query, idx) => (
+                    <li key={`${strategy}-${idx}`} className="text-sm text-green-200 flex items-start gap-2">
+                      <span className={STRATEGY_CONFIG[strategy].color}>
+                        [{STRATEGY_CONFIG[strategy].name}]
+                      </span>
+                      <span>{typeof query === 'string' ? query : query.query}</span>
+                    </li>
+                  ))
+                )}
               </ul>
-            </div>
-          )}
-
-          {/* Running Summary */}
-          {agentState.running_summary && (
-            <div className="bg-yellow-900/50 border border-yellow-500 rounded-lg p-4">
-              <div className="text-sm text-yellow-300 mb-2 font-semibold">Running Summary</div>
-              <div className="text-sm text-yellow-100 max-h-40 overflow-y-auto">
-                {agentState.running_summary}
-              </div>
             </div>
           )}
         </>
@@ -622,4 +469,3 @@ function getPhaseLabel(node?: string): string {
   
   return labelMap[node] || "Processing";
 }
-

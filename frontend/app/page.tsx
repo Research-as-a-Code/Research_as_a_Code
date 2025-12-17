@@ -6,8 +6,9 @@
  * 
  * Displays the research interface with:
  * - Research prompt input
+ * - Multi-strategy selection for side-by-side comparison
  * - Real-time agentic flow visualization
- * - Final report display
+ * - Tabbed report display for comparing results
  */
 
 "use client";
@@ -15,14 +16,28 @@
 import { useState } from "react";
 import { CopilotAgentDisplay } from "./components/CopilotAgentDisplay";
 import { ResearchForm } from "./components/ResearchForm";
-import { ReportDisplay } from "./components/ReportDisplay";
+import { TabbedReportDisplay, ReportResult } from "./components/TabbedReportDisplay";
+import { ResearchStrategy } from "./components/StrategySelector";
+import { useCopilotResearch } from "./contexts/CopilotResearchContext";
 
 // Force dynamic rendering - never cache this page
 export const dynamic = 'force-dynamic';
 
 export default function Home() {
-  const [currentReport, setCurrentReport] = useState<string>("");
   const [isResearching, setIsResearching] = useState<boolean>(false);
+  const { reportResults } = useCopilotResearch();
+
+  const handleResearchStart = () => {
+    setIsResearching(true);
+  };
+
+  const handleResearchComplete = (strategy: ResearchStrategy, report: string) => {
+    console.log(`📄 [${strategy}] Report received, length:`, report.length);
+  };
+
+  const handleAllComplete = () => {
+    setIsResearching(false);
+  };
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900 text-white">
@@ -34,7 +49,8 @@ export default function Home() {
               🔬 AI-Q Research Assistant
             </h1>
             <p className="text-blue-300 text-lg">
-              Enhanced with <span className="text-green-400 font-semibold">Universal Deep Research</span>
+              <span className="text-green-400 font-semibold">Multi-Strategy Comparison</span>
+              {' '}- Run UDR & TTD-DR side-by-side
             </p>
             <p className="text-gray-400 text-sm mt-1">
               AWS & NVIDIA Agentic AI Unleashed Hackathon
@@ -42,8 +58,8 @@ export default function Home() {
           </div>
           <div className="text-right">
             <div className="inline-flex items-center gap-2 bg-blue-800/50 px-4 py-2 rounded-lg">
-              <span className="w-3 h-3 bg-green-400 rounded-full animate-pulse"></span>
-              <span className="text-sm">Agent Ready</span>
+              <span className={`w-3 h-3 rounded-full ${isResearching ? 'bg-yellow-400 animate-pulse' : 'bg-green-400'}`}></span>
+              <span className="text-sm">{isResearching ? 'Researching...' : 'Agent Ready'}</span>
             </div>
           </div>
         </div>
@@ -59,10 +75,9 @@ export default function Home() {
               Research Request
             </h2>
             <ResearchForm 
-              onResearchStart={() => setIsResearching(true)}
+              onResearchStart={handleResearchStart}
               onResearchComplete={(report) => {
-                setCurrentReport(report);
-                setIsResearching(false);
+                // This is kept for backward compatibility but not used with multi-strategy
               }}
             />
           </div>
@@ -71,26 +86,29 @@ export default function Home() {
           <div className="bg-gray-800/50 backdrop-blur-lg rounded-lg p-6 shadow-2xl border border-gray-700">
             <h2 className="text-2xl font-semibold mb-4 flex items-center gap-2">
               <span className="text-3xl">🤖</span>
-              Agentic Flow (CopilotKit AG-UI)
+              Strategy Selection & Progress
             </h2>
             <CopilotAgentDisplay 
-              onResearchStart={() => setIsResearching(true)}
-              onResearchComplete={(report) => {
-                setCurrentReport(report);
-                setIsResearching(false);
-              }}
+              onResearchStart={handleResearchStart}
+              onResearchComplete={handleResearchComplete}
+              onAllComplete={handleAllComplete}
             />
           </div>
         </div>
 
-        {/* Right Column: Report Display */}
+        {/* Right Column: Tabbed Report Display */}
         <div className="bg-gray-800/50 backdrop-blur-lg rounded-lg p-6 shadow-2xl border border-gray-700 flex flex-col">
           <h2 className="text-2xl font-semibold mb-4 flex items-center gap-2">
             <span className="text-3xl">📄</span>
-            Research Report
+            Research Reports
+            {reportResults.length > 1 && (
+              <span className="text-sm font-normal text-purple-400 ml-2">
+                (Comparison Mode)
+              </span>
+            )}
           </h2>
           <div className="flex-1 min-h-0">
-            <ReportDisplay report={currentReport} isLoading={isResearching} />
+            <TabbedReportDisplay results={reportResults} />
           </div>
         </div>
       </div>
@@ -116,11 +134,12 @@ export default function Home() {
             </ul>
           </div>
           <div>
-            <h3 className="text-white font-semibold mb-2">Deployment</h3>
+            <h3 className="text-white font-semibold mb-2">Features</h3>
             <ul className="space-y-1">
-              <li>☸️ Amazon EKS with Karpenter</li>
-              <li>🚀 NVIDIA NIM Microservices</li>
-              <li>📦 Docker + Helm + Terraform</li>
+              <li>🔄 Parallel Strategy Execution</li>
+              <li>📊 Side-by-Side Comparison</li>
+              <li>⏱️ Execution Time Tracking</li>
+              <li>📥 Combined Report Download</li>
             </ul>
           </div>
         </div>
@@ -128,4 +147,3 @@ export default function Home() {
     </main>
   );
 }
-
