@@ -15,10 +15,9 @@ import { useCopilotResearch } from "../contexts/CopilotResearchContext";
 
 interface ResearchFormProps {
   onResearchStart: () => void;
-  onResearchComplete: (report: string) => void;
 }
 
-export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFormProps) {
+export function ResearchForm({ onResearchStart }: ResearchFormProps) {
   const [topic, setTopic] = useState("");
   const [reportOrg, setReportOrg] = useState(
     "Create a comprehensive report with introduction, detailed analysis, and conclusion."

@@ -76,9 +76,6 @@ export default function Home() {
             </h2>
             <ResearchForm 
               onResearchStart={handleResearchStart}
-              onResearchComplete={(report) => {
-                // This is kept for backward compatibility but not used with multi-strategy
-              }}
             />
           </div>
 
