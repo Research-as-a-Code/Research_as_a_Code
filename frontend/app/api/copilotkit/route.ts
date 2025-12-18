@@ -19,8 +19,57 @@ const BACKEND_URL =
  * - Streaming responses (for "execute" method - newline-delimited JSON events)
  */
 
+/**
+ * GET handler for runtime discovery
+ * CopilotKit v1.x may make GET requests to discover available agents
+ */
+export async function GET(req: NextRequest) {
+  console.log("[CopilotKit Route] GET request for runtime info, backend:", BACKEND_URL);
+  
+  try {
+    // Try GET first (backend has explicit GET handler)
+    const backendResponse = await fetch(`${BACKEND_URL}/copilotkit/info`, {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+
+    if (backendResponse.ok) {
+      const text = await backendResponse.text();
+      try {
+        const data = JSON.parse(text);
+        console.log("[CopilotKit Route] GET response:", JSON.stringify(data));
+        return NextResponse.json(data);
+      } catch (parseError) {
+        console.error("[CopilotKit Route] GET response not JSON:", text.slice(0, 200));
+      }
+    }
+
+    // Fall back to POST with method: "info"
+    console.log("[CopilotKit Route] GET failed, falling back to POST");
+    const postResponse = await fetch(`${BACKEND_URL}/copilotkit/`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ method: "info" }),
+    });
+
+    const postData = await postResponse.json();
+    console.log("[CopilotKit Route] POST fallback response:", JSON.stringify(postData));
+    return NextResponse.json(postData);
+  } catch (error: any) {
+    console.error("[CopilotKit Route] GET Error:", error.message);
+    return NextResponse.json(
+      { error: "Failed to get runtime info", details: error.message },
+      { status: 500 }
+    );
+  }
+}
+
 export async function POST(req: NextRequest) {
-  console.log("[CopilotKit Route] Using BACKEND_URL:", BACKEND_URL);
+  console.log("[CopilotKit Route] POST request, backend:", BACKEND_URL);
   
   try {
     const body = await req.json();
@@ -81,7 +130,7 @@ export async function OPTIONS(req: NextRequest) {
     status: 200,
     headers: {
       "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Methods": "POST, OPTIONS",
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
       "Access-Control-Allow-Headers": "Content-Type",
     },
   });
