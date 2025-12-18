@@ -326,7 +326,7 @@ app.add_middleware(
 class CopilotKitDebugMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
         if "/copilotkit" in request.url.path:
-            # Log request
+            # Log request - cache body and restore it for downstream handlers
             body = await request.body()
             logger.info(f"🔍 CopilotKit Request: {request.method} {request.url.path}")
             if body:
@@ -335,6 +335,12 @@ class CopilotKitDebugMiddleware(BaseHTTPMiddleware):
                     logger.info(f"🔍 Request body: {json.dumps(body_json, indent=2)[:500]}")
                 except:
                     logger.info(f"🔍 Request body (raw): {body[:200]}")
+                
+                # Restore the body for downstream handlers by replacing _receive
+                # This is necessary because request.body() consumes the stream
+                async def receive():
+                    return {"type": "http.request", "body": body}
+                request._receive = receive
             
             # Get response
             response = await call_next(request)
