@@ -321,9 +321,9 @@ Variant {variant_number}:"""
             return {
                 "scores": scores,
                 "fitness_score": fitness_score,
-                "strengths": result.strengths or ["Good attempt"],
-                "weaknesses": result.weaknesses or ["Room for improvement"],
-                "suggestions": result.suggestions or ["Continue refining"]
+                "strengths": result.strengths,
+                "weaknesses": result.weaknesses,
+                "suggestions": result.suggestions
             }
             
         except Exception as e:
