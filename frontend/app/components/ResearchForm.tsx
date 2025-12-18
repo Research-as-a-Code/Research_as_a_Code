@@ -60,6 +60,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
 
   // Example topics - US Customs Tariff Code queries
   const exampleTopics = [
+    "What are the federal regulatory details, the import tariff codes, and sustainability implications of electronic bikes (e-bikes)?",
     "What is the tariff code for replacement batteries for a Raritan remote management card?",
     "What's the tariff code for a bag of Reese's Pieces?",
     "What is the tariff code of a replacement Roomba vacuum motherboard, used?",
@@ -72,6 +73,7 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
   const reportOrgOptions = [
     "Simplified report",
     "Create a comprehensive report with introduction, detailed analysis, and conclusion.",
+    "Create a comprehensive report with introduction, detailed analysis, and conclusion. Perform a deep research and must use dynamic strategy. Utilize all the provided data collections.",
     "Create a comprehensive report with introduction, detailed analysis, and conclusion. Perform a deep research and must use dynamic strategy. Try to utilize the us_tariff collection as well."
   ];
   
