@@ -182,52 +182,23 @@ async def lifespan(app: FastAPI):
                 # Create the LangGraph AGUI agent
                 logger.info("✅ LangGraphAGUIAgent available")
                 
-                # Create a wrapper class that adds dict_repr() for CopilotKitRemoteEndpoint compatibility
+                # Create a wrapper class that adds compatibility methods for CopilotKitRemoteEndpoint
                 class CompatibleLangGraphAgent(LangGraphAGUIAgent):
-                    """Wrapper to add dict_repr() method for CopilotKitRemoteEndpoint compatibility"""
+                    """Wrapper to add dict_repr() and execute() methods for CopilotKitRemoteEndpoint compatibility"""
+                    
                     def dict_repr(self):
                         return {
                             "name": self.name,
                             "description": self.description or "",
                             "type": "langgraph"
                         }
-                
-                langgraph_agent = CompatibleLangGraphAgent(
-                    name="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
-                    description="AI-Q Research Assistant with Universal Deep Research",
-                    graph=agent_graph,
-                    config=agent_config
-                )
-                logger.info("✅ CompatibleLangGraphAgent instance created")
-                
-                # Also create a "default" agent that points to the same graph
-                # This is needed because CopilotKit frontend looks for "default" when no specific agent is specified
-                default_agent = CompatibleLangGraphAgent(
-                    name="default",
-                    description="AI-Q Research Assistant with Universal Deep Research (default)",
-                    graph=agent_graph,
-                    config=agent_config
-                )
-                logger.info("✅ 'default' agent alias created")
-                
-                # Add compatibility methods if missing (compatibility fixes for copilotkit 0.1.70)
-                if not hasattr(langgraph_agent, 'dict_repr'):
-                    def dict_repr_method(self):
-                        return {
-                            'name': self.name,
-                            'description': self.description or ''
-                        }
-                    langgraph_agent.dict_repr = dict_repr_method.__get__(langgraph_agent, type(langgraph_agent))
-                    logger.info("✅ Added dict_repr compatibility method")
-                
-                # Add execute method that wraps the run method
-                if not hasattr(langgraph_agent, 'execute'):
-                    async def execute_method(self, *, state, config=None, messages, thread_id, node_name=None, actions=None, meta_events=None, **kwargs):
+                    
+                    async def execute(self, *, state, config=None, messages, thread_id, node_name=None, actions=None, meta_events=None, **kwargs):
                         """
                         Execute method that wraps LangGraphAGUIAgent.run()
                         This bridges the gap between Agent.execute() and LangGraphAGUIAgent.run()
                         """
-                        logger.info(f"✅ execute_method called! thread_id={thread_id}, node_name={node_name}")
+                        logger.info(f"✅ execute called! thread_id={thread_id}, node_name={node_name}")
                         
                         # Convert CopilotKit format to AG-UI format (using camelCase field names)
                         try:
@@ -258,11 +229,26 @@ async def lifespan(app: FastAPI):
                                     yield event_json
                             
                         except Exception as e:
-                            logger.error(f"❌ Error in execute_method: {e}", exc_info=True)
+                            logger.error(f"❌ Error in execute: {e}", exc_info=True)
                             raise
-                    
-                    langgraph_agent.execute = execute_method.__get__(langgraph_agent, type(langgraph_agent))
-                    logger.info("✅ Added execute compatibility method")
+                
+                langgraph_agent = CompatibleLangGraphAgent(
+                    name="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
+                    description="AI-Q Research Assistant with Universal Deep Research",
+                    graph=agent_graph,
+                    config=agent_config
+                )
+                logger.info("✅ CompatibleLangGraphAgent 'ai_q_researcher' created")
+                
+                # Also create a "default" agent that points to the same graph
+                # This is needed because CopilotKit frontend looks for "default" when no specific agent is specified
+                default_agent = CompatibleLangGraphAgent(
+                    name="default",
+                    description="AI-Q Research Assistant with Universal Deep Research (default)",
+                    graph=agent_graph,
+                    config=agent_config
+                )
+                logger.info("✅ CompatibleLangGraphAgent 'default' created")
                 
                 # Initialize CopilotKit RemoteEndpoint with both agents
                 logger.info("Creating CopilotKitRemoteEndpoint...")
