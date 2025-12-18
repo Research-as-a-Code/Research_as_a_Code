@@ -11,6 +11,10 @@ This is the main backend service that:
 """
 
 import os
+import uuid
+import json
+import time
+import asyncio
 import uvicorn
 import logging
 from typing import Dict, Any, Optional, Union, List
@@ -21,13 +25,20 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 
-# CopilotKit SDK
+# Starlette middleware for debugging
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+
+# CopilotKit SDK - optional dependency
 try:
-    from copilotkit import CopilotKitRemoteEndpoint
+    from copilotkit import CopilotKitRemoteEndpoint, LangGraphAGUIAgent
     from copilotkit.integrations.fastapi import add_fastapi_endpoint
+    from ag_ui.core.types import RunAgentInput
     COPILOTKIT_AVAILABLE = True
 except ImportError:
     COPILOTKIT_AVAILABLE = False
+    LangGraphAGUIAgent = None
+    RunAgentInput = None
     logging.warning("CopilotKit SDK not installed. Install with: pip install copilotkit")
 
 # AI-Q and UDR imports
@@ -169,8 +180,7 @@ async def lifespan(app: FastAPI):
                 logger.info("Integrating CopilotKit for real-time state streaming")
                 
                 # Create the LangGraph AGUI agent
-                from copilotkit import LangGraphAGUIAgent
-                logger.info("✅ LangGraphAGUIAgent imported")
+                logger.info("✅ LangGraphAGUIAgent available")
                 
                 # Create a wrapper class that adds dict_repr() for CopilotKitRemoteEndpoint compatibility
                 class CompatibleLangGraphAgent(LangGraphAGUIAgent):
@@ -217,10 +227,6 @@ async def lifespan(app: FastAPI):
                         Execute method that wraps LangGraphAGUIAgent.run()
                         This bridges the gap between Agent.execute() and LangGraphAGUIAgent.run()
                         """
-                        import uuid
-                        import json
-                        from ag_ui.core.types import RunAgentInput
-                        
                         logger.info(f"✅ execute_method called! thread_id={thread_id}, node_name={node_name}")
                         
                         # Convert CopilotKit format to AG-UI format (using camelCase field names)
@@ -331,10 +337,6 @@ app.add_middleware(
 
 
 # Debug middleware to log CopilotKit requests/responses
-from starlette.middleware.base import BaseHTTPMiddleware
-from starlette.requests import Request
-import json
-
 class CopilotKitDebugMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
         if "/copilotkit" in request.url.path:
@@ -440,10 +442,6 @@ async def generate_research_stream(request: ResearchRequest):
     This endpoint streams intermediate states as Server-Sent Events,
     allowing the frontend to display real-time progress updates.
     """
-    from fastapi.responses import StreamingResponse
-    import json
-    import uuid
-    
     if not agent_graph:
         raise HTTPException(status_code=503, detail="Agent not initialized")
     
@@ -451,9 +449,6 @@ async def generate_research_stream(request: ResearchRequest):
     
     async def event_stream():
         """Generator that yields SSE events with agent state updates."""
-        import asyncio
-        import time
-        
         try:
             # Send initial connection event
             yield f": connected at {time.time()}\n\n"
@@ -677,7 +672,6 @@ async def generate_research(request: ResearchRequest):
     # Run agent
     try:
         # Create per-request config with request parameters
-        import uuid
         thread_id = f"research-{uuid.uuid4().hex[:8]}"
         
         # Build request config by merging base agent_config with request params
