@@ -23,7 +23,7 @@ from pydantic import BaseModel, Field
 
 # CopilotKit SDK
 try:
-    from copilotkit import CopilotKitSDK
+    from copilotkit import CopilotKitRemoteEndpoint
     from copilotkit.integrations.fastapi import add_fastapi_endpoint
     COPILOTKIT_AVAILABLE = True
 except ImportError:
@@ -172,13 +172,33 @@ async def lifespan(app: FastAPI):
                 from copilotkit import LangGraphAGUIAgent
                 logger.info("✅ LangGraphAGUIAgent imported")
                 
-                langgraph_agent = LangGraphAGUIAgent(
+                # Create a wrapper class that adds dict_repr() for CopilotKitRemoteEndpoint compatibility
+                class CompatibleLangGraphAgent(LangGraphAGUIAgent):
+                    """Wrapper to add dict_repr() method for CopilotKitRemoteEndpoint compatibility"""
+                    def dict_repr(self):
+                        return {
+                            "name": self.name,
+                            "description": self.description or "",
+                            "type": "langgraph"
+                        }
+                
+                langgraph_agent = CompatibleLangGraphAgent(
                     name="ai_q_researcher",  # Must match frontend's useCoAgentStateRender name
                     description="AI-Q Research Assistant with Universal Deep Research",
                     graph=agent_graph,
                     config=agent_config
                 )
-                logger.info("✅ LangGraphAGUIAgent instance created")
+                logger.info("✅ CompatibleLangGraphAgent instance created")
+                
+                # Also create a "default" agent that points to the same graph
+                # This is needed because CopilotKit frontend looks for "default" when no specific agent is specified
+                default_agent = CompatibleLangGraphAgent(
+                    name="default",
+                    description="AI-Q Research Assistant with Universal Deep Research (default)",
+                    graph=agent_graph,
+                    config=agent_config
+                )
+                logger.info("✅ 'default' agent alias created")
                 
                 # Add compatibility methods if missing (compatibility fixes for copilotkit 0.1.70)
                 if not hasattr(langgraph_agent, 'dict_repr'):
@@ -238,10 +258,10 @@ async def lifespan(app: FastAPI):
                     langgraph_agent.execute = execute_method.__get__(langgraph_agent, type(langgraph_agent))
                     logger.info("✅ Added execute compatibility method")
                 
-                # Initialize CopilotKit SDK with the agent
-                logger.info("Creating CopilotKitSDK...")
-                copilot_sdk = CopilotKitSDK(agents=[langgraph_agent])
-                logger.info("✅ CopilotKitSDK created")
+                # Initialize CopilotKit RemoteEndpoint with both agents
+                logger.info("Creating CopilotKitRemoteEndpoint...")
+                copilot_sdk = CopilotKitRemoteEndpoint(agents=[langgraph_agent, default_agent])
+                logger.info("✅ CopilotKitRemoteEndpoint created with 'ai_q_researcher' and 'default' agents")
                 
                 # Add FastAPI endpoint
                 logger.info("Adding FastAPI endpoint for CopilotKit...")
@@ -310,6 +330,36 @@ app.add_middleware(
 )
 
 
+# Debug middleware to log CopilotKit requests/responses
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+import json
+
+class CopilotKitDebugMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        if "/copilotkit" in request.url.path:
+            # Log request
+            body = await request.body()
+            logger.info(f"🔍 CopilotKit Request: {request.method} {request.url.path}")
+            if body:
+                try:
+                    body_json = json.loads(body)
+                    logger.info(f"🔍 Request body: {json.dumps(body_json, indent=2)[:500]}")
+                except:
+                    logger.info(f"🔍 Request body (raw): {body[:200]}")
+            
+            # Get response
+            response = await call_next(request)
+            
+            # Log response status
+            logger.info(f"🔍 CopilotKit Response: {response.status_code}")
+            
+            return response
+        return await call_next(request)
+
+app.add_middleware(CopilotKitDebugMiddleware)
+
+
 # ========================================
 # Request/Response Models
 # ========================================
@@ -354,6 +404,31 @@ async def health_check():
         "status": "healthy",
         "service": "AI-Q Research Assistant with UDR",
         "copilotkit_enabled": COPILOTKIT_AVAILABLE
+    }
+
+
+@app.get("/copilotkit/info")
+async def copilotkit_info_get():
+    """
+    CopilotKit info endpoint (GET handler for frontend compatibility).
+    
+    The CopilotKit Python SDK 0.1.x only registers POST handlers,
+    but the frontend JavaScript SDK 1.x expects GET for /info.
+    This adds GET support for compatibility.
+    """
+    return {
+        "actions": [],
+        "agents": [
+            {
+                "name": "ai_q_researcher",
+                "description": "AI-Q Research Assistant with Universal Deep Research"
+            },
+            {
+                "name": "default",
+                "description": "AI-Q Research Assistant with Universal Deep Research (default)"
+            }
+        ],
+        "sdkVersion": "0.1.70"
     }
 
 

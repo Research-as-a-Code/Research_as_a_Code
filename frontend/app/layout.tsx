@@ -23,15 +23,15 @@ import { CopilotKit } from "@copilotkit/react-core";
 import { CopilotResearchProvider } from "./contexts/CopilotResearchContext";
 import Script from "next/script";
 import "./globals.css";
-import { useMemo } from "react";
-import { getBackendUrl } from "./utils/backendUrl";
 
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const backendUrl = useMemo(() => getBackendUrl(), []);
+  // Use local API route for CopilotKit - it proxies to the backend
+  // This is the recommended architecture for CopilotKit v1.x
+  const runtimeUrl = "/api/copilotkit";
 
   return (
     <html lang="en">
@@ -43,7 +43,7 @@ export default function RootLayout({
       </head>
       <body>
         <CopilotKit
-          runtimeUrl={`${backendUrl}/copilotkit/`}
+          runtimeUrl={runtimeUrl}
           agent="ai_q_researcher"
           showDevConsole={false}
         >
