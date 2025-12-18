@@ -1,10 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-
-// Backend URL configuration for server-side
-const BACKEND_URL = 
-  process.env.INFERENCE_ORIGIN || 
-  process.env.NEXT_PUBLIC_BACKEND_URL || 
-  "http://localhost:8000";
+import { BACKEND_URL } from "../../../utils/serverBackendUrl";
 
 /**
  * CopilotKit Info Route

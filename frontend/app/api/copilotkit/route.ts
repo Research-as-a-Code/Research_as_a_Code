@@ -1,12 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-
-// Backend URL configuration for server-side
-// In Kubernetes, INFERENCE_ORIGIN points to the backend service
-// Otherwise use NEXT_PUBLIC_BACKEND_URL or default
-const BACKEND_URL = 
-  process.env.INFERENCE_ORIGIN || 
-  process.env.NEXT_PUBLIC_BACKEND_URL || 
-  "http://localhost:8000";
+import { BACKEND_URL } from "../../utils/serverBackendUrl";
 
 /**
  * CopilotKit API Route
