@@ -303,7 +303,7 @@ class IterativeSearchEngine:
             
             # Connect to Milvus
             milvus_host = os.getenv("MILVUS_HOST", "milvus-standalone.rag-blueprint.svc.cluster.local")
-            milvus_port = os.getenv("MILVUS_PORT", "19530")
+            milvus_port = int(os.getenv("MILVUS_PORT", "19530"))
             
             # Run Milvus operations in thread pool (pymilvus is sync)
             def _sync_search():
