@@ -11,6 +11,7 @@
 "use client";
 
 import React, { createContext, useContext, useState, useCallback } from "react";
+import { getBackendUrl } from "../utils/backendUrl";
 
 interface AgentState {
   currentNode: string;
@@ -66,7 +67,7 @@ export function AgentStreamProvider({ children }: { children: React.ReactNode })
     // Reset state
     setState({ ...initialState, isProcessing: true });
 
-    const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+    const BACKEND_URL = getBackendUrl();
 
     try {
       // Use fetch with streaming for POST support

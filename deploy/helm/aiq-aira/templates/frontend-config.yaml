@@ -1,0 +1,20 @@
+{{- if .Values.frontend.enabled }}
+# Runtime configuration for the frontend
+# This ConfigMap is mounted to the frontend container at /app/public/config.js
+# Update the BACKEND_URL here and restart the frontend pods - no rebuild required!
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Release.Name }}-frontend-config
+  labels:
+    app: aira-frontend
+data:
+  config.js: |
+    // Runtime configuration for AI-Q Frontend
+    // This file is mounted via Kubernetes ConfigMap for true runtime configuration
+    // To update: edit this ConfigMap and restart the frontend pods
+    window.__RUNTIME_CONFIG__ = {
+      BACKEND_URL: "{{ .Values.frontend.runtimeConfig.backendUrl | default (printf "http://%s-aira-backend.%s.svc.cluster.local:%v" .Release.Name .Release.Namespace .Values.service.port) }}"
+    };
+{{- end }}
+

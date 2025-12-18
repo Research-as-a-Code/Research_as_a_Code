@@ -17,6 +17,7 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import { useCopilotResearch } from "../contexts/CopilotResearchContext";
 import { StrategySelector, ResearchStrategy, STRATEGY_CONFIG } from "./StrategySelector";
 import { TTDDRStage } from "./TTDDRProgressDisplay";
+import { getBackendUrl } from "../utils/backendUrl";
 
 interface PerStrategyState {
   currentNode?: string;
@@ -132,7 +133,7 @@ export function CopilotAgentDisplay({
     });
 
     try {
-      const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000";
+      const BACKEND_URL = getBackendUrl();
       const cacheBuster = `${Date.now()}-${Math.random().toString(36).substring(7)}`;
       const endpoint = `${BACKEND_URL}/research/stream?cb=${cacheBuster}&strategy=${strategy}`;
       

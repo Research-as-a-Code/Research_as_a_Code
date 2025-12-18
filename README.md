@@ -278,14 +278,43 @@ cd frontend
 # Install dependencies
 npm install
 
-# Set backend URL
-export NEXT_PUBLIC_BACKEND_URL="http://localhost:8000"
-
-# Run dev server
+# Run dev server (auto-detects localhost backend)
 npm run dev
 
 # Open http://localhost:3000
 ```
+
+### Frontend Backend URL Configuration
+
+The frontend supports multiple ways to configure the backend URL, in priority order:
+
+1. **Runtime Config (Recommended for Production)** - No rebuild required!
+   
+   Edit `frontend/public/config.js`:
+   ```javascript
+   window.__RUNTIME_CONFIG__ = {
+     BACKEND_URL: "http://your-backend-url.example.com"
+   };
+   ```
+   
+   For Kubernetes deployments, this file is mounted via ConfigMap. Update `values.yaml`:
+   ```yaml
+   frontend.runtimeConfig:
+     backendUrl: "http://your-backend-elb.amazonaws.com"
+   ```
+   Then run `helm upgrade` - pods restart automatically.
+
+2. **Build-time Environment Variable**
+   ```bash
+   # During Docker build
+   docker build --build-arg NEXT_PUBLIC_BACKEND_URL="http://backend:8000" ...
+   ```
+
+3. **Automatic Detection** - The frontend auto-detects:
+   - `localhost` → uses `http://localhost:8000`
+   - AWS ELB hostname → uses configured backend ELB
+
+> **Note**: `NEXT_PUBLIC_*` variables are baked into the JavaScript bundle at build time in Next.js. For true runtime configuration without rebuilding, use option 1 (Runtime Config).
 
 ### Testing UDR Integration
 
@@ -539,7 +568,31 @@ kubectl get nodes --show-labels | grep nvidia
 
 ### Issue: Frontend can't reach backend
 
-**Solution**: Check service networking
+**Symptoms**: 
+- `ERR_CONNECTION_REFUSED` errors
+- `Failed to load runtime info (http://localhost:8000/copilotkit/info)`
+- `Agent ai_q_researcher not found`
+
+**Solution 1**: Check if backend URL is configured correctly
+
+The frontend may be trying to connect to `localhost:8000` instead of the deployed backend. 
+
+For Kubernetes deployments, update the runtime config:
+```bash
+# Edit values.yaml
+frontend.runtimeConfig:
+  backendUrl: "http://your-backend-elb.amazonaws.com"
+
+# Apply changes
+helm upgrade <release-name> ./deploy/helm/aiq-aira
+```
+
+Or directly edit the ConfigMap:
+```bash
+kubectl edit configmap <release-name>-frontend-config -n <namespace>
+```
+
+**Solution 2**: Check service networking
 
 ```bash
 kubectl get svc -n aiq-agent

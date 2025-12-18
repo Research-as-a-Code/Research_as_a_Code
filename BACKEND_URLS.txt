@@ -1,10 +1,34 @@
-# Current Backend URLs (after fix)
+# Current Backend URLs
 
 Backend NLB: af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com
 
 Health Check: http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/health
 API Docs: http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com/docs
 
-Frontend URL (still needs backend update): http://af2f4f77d44fb4b41bc00856345951e2-974749261.us-west-2.elb.amazonaws.com
+Frontend URL: http://af2f4f77d44fb4b41bc00856345951e2-974749261.us-west-2.elb.amazonaws.com
 
-To rebuild frontend with correct backend URL, I'll update the deployment now...
+## Frontend Backend URL Configuration
+
+The frontend now supports runtime configuration WITHOUT rebuilding the Docker image.
+
+### Option 1: Update Helm Values (Recommended)
+```yaml
+# values.yaml
+frontend:
+  runtimeConfig:
+    backendUrl: "http://af3615e06391145bc88022ac024a36ca-bd296660cda3522f.elb.us-west-2.amazonaws.com"
+```
+Then: `helm upgrade <release> ./deploy/helm/aiq-aira`
+
+### Option 2: Edit ConfigMap Directly
+```bash
+kubectl edit configmap <release>-frontend-config -n <namespace>
+kubectl rollout restart deployment/<release>-aira-frontend -n <namespace>
+```
+
+### Option 3: Rebuild Image (Legacy)
+```bash
+./infrastructure/kubernetes/redeploy-frontend.sh
+```
+
+See frontend/README.md for full documentation.

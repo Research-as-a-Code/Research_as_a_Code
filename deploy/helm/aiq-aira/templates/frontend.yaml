@@ -15,6 +15,9 @@ spec:
         tags.datadoghq.com/env: "{{ .Values.datadogEnv }}"
         tags.datadoghq.com/service: "aira-frontend"
         tags.datadoghq.com/version: "{{ .Values.frontend.image.tag }}"
+      annotations:
+        # Force pod restart when ConfigMap changes
+        checksum/config: {{ include (print $.Template.BasePath "/frontend-config.yaml") . | sha256sum }}
     spec:
       imagePullSecrets:
         - name: {{ .Values.imagePullSecret.name }}
@@ -35,4 +38,13 @@ spec:
             {{- end }}
             - name: INFERENCE_ORIGIN
               value: http://{{ .Release.Name }}-aira-backend.{{ .Release.Namespace }}.svc.cluster.local:{{ .Values.service.port }}
+          volumeMounts:
+            - name: frontend-config
+              mountPath: /app/public/config.js
+              subPath: config.js
+              readOnly: true
+      volumes:
+        - name: frontend-config
+          configMap:
+            name: {{ .Release.Name }}-frontend-config
 {{- end }}

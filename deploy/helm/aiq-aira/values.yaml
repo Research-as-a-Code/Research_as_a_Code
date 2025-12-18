@@ -85,6 +85,20 @@ frontend:
     pullPolicy: Always
   replicaCount: 1
 
+# Frontend environment variables (build-time only for NEXT_PUBLIC_*)
+frontendEnvVars:
+  # This is read at build time only - use runtimeConfig for true runtime updates
+  NEXT_PUBLIC_BACKEND_URL: "http://localhost:8000"
+
+# Frontend runtime configuration (no rebuild required!)
+# These values are mounted as /app/public/config.js via ConfigMap
+# To update: change values here and run `helm upgrade` - pods will restart automatically
+frontend.runtimeConfig:
+  # Backend URL - set this to the external backend URL for production deployments
+  # If not set, defaults to the internal cluster service URL
+  # Example: "http://your-backend-elb.us-west-2.elb.amazonaws.com"
+  backendUrl: ""
+
 # ------------------------------------------------------------
 # The following values are optional utility services
 # ------------------------------------------------------------
