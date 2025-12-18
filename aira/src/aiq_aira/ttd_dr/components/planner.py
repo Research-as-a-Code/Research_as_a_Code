@@ -97,8 +97,9 @@ class ResearchPlanner:
                 HumanMessage(content=prompt)
             ])
             
-            # Parse the JSON response
-            plan_data = self._parse_plan_response(response.content)
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            plan_schema = PlanSchemaLocal.model_validate_json(response.content)
+            plan_data = plan_schema.model_dump()
             
             # Validate and enhance the plan
             plan = self._create_research_plan(plan_data, query)

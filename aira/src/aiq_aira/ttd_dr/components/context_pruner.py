@@ -12,15 +12,50 @@ Reference: Fareed Khan's TTD-DR implementation
 """
 
 import logging
-import json
 from dataclasses import dataclass, field
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, Literal
 
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 logger = logging.getLogger(__name__)
 
+
+# ========================================
+# Pydantic Schemas for NVIDIA Guided JSON
+# ========================================
+
+class FactSchema(BaseModel):
+    """Pydantic schema for a single extracted fact."""
+    content: str = PydanticField(description="The atomic fact statement")
+    source_title: Optional[str] = PydanticField(default=None, description="Source name if available")
+    source_url: Optional[str] = PydanticField(default=None, description="URL if available")
+    confidence_score: float = PydanticField(
+        ge=0, le=1, default=0.7,
+        description="Confidence in this fact (0-1)"
+    )
+    is_disputed: bool = PydanticField(default=False, description="Whether the fact is disputed")
+    category: Literal["background", "current_state", "analysis", "data", "prediction", "general"] = PydanticField(
+        default="general",
+        description="Category of the fact"
+    )
+
+
+class FactExtractionOutputSchema(BaseModel):
+    """Pydantic schema for fact extraction output."""
+    extracted_facts: List[FactSchema] = PydanticField(
+        default_factory=list,
+        description="List of extracted facts"
+    )
+    notes_processed: bool = PydanticField(default=True, description="Whether notes were processed")
+    summary: str = PydanticField(default="", description="Brief summary of what was extracted")
+
+
+# ========================================
+# Original Dataclasses (kept for compatibility)
+# ========================================
 
 @dataclass
 class Fact:
@@ -117,22 +152,6 @@ Categorize facts into:
 - "prediction": Future outlook, trends
 - "general": Other valuable information
 
-Respond in JSON format:
-{{
-    "extracted_facts": [
-        {{
-            "content": "The atomic fact statement",
-            "source_title": "Source name if available",
-            "source_url": "URL if available",
-            "confidence_score": 0.0-1.0,
-            "is_disputed": false,
-            "category": "background|current_state|analysis|data|prediction|general"
-        }}
-    ],
-    "notes_processed": true,
-    "summary": "Brief summary of what was extracted"
-}}
-
 Be selective. Quality over quantity. Only extract facts that would be useful in the final report.
 """
 
@@ -146,6 +165,8 @@ class ContextPruner:
     - Permanent knowledge base: Extracted facts persist
     
     This prevents context window overflow while preserving valuable information.
+    
+    Uses NVIDIA NIM guided_json for guaranteed structured output.
     """
     
     def __init__(self, llm: BaseChatModel, max_context_tokens: int = 8000):
@@ -165,6 +186,27 @@ class ContextPruner:
         self.total_notes_processed = 0
         self.total_facts_extracted = 0
         self.bytes_saved = 0
+        
+        # Extract LLM config for guided_json
+        self._base_url = getattr(llm, 'openai_api_base', None) or getattr(llm, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(llm, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+    
+    def _create_guided_llm(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for structured output."""
+        json_schema = FactExtractionOutputSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def process_raw_notes(self,
                                raw_notes: str,
@@ -201,24 +243,28 @@ class ContextPruner:
         )
         
         try:
-            response = await self.llm.ainvoke([
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm()
+            
+            response = await guided_llm.ainvoke([
                 SystemMessage(content="You are a knowledge extraction specialist."),
                 HumanMessage(content=prompt)
             ])
             
-            result_data = json.loads(response.content)
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            result_data = FactExtractionOutputSchema.model_validate_json(response.content)
             
             # Extract facts into knowledge base
             facts_extracted = 0
             fact_contents = []  # Return fact strings for use in denoising
-            for fact_data in result_data.get("extracted_facts", []):
+            for fact_schema in result_data.extracted_facts:
                 fact = Fact(
-                    content=fact_data.get("content", ""),
-                    source_url=fact_data.get("source_url"),
-                    source_title=fact_data.get("source_title"),
-                    confidence_score=fact_data.get("confidence_score", 0.7),
-                    is_disputed=fact_data.get("is_disputed", False),
-                    category=fact_data.get("category", "general")
+                    content=fact_schema.content,
+                    source_url=fact_schema.source_url,
+                    source_title=fact_schema.source_title,
+                    confidence_score=fact_schema.confidence_score,
+                    is_disputed=fact_schema.is_disputed,
+                    category=fact_schema.category
                 )
                 self.knowledge_base.add_fact(fact)
                 facts_extracted += 1
@@ -242,16 +288,9 @@ class ContextPruner:
                 "knowledge_base_size": len(self.knowledge_base.facts)
             }
             
-        except json.JSONDecodeError as e:
-            self.logger.warning(f"Failed to parse extraction response: {e}")
-            # Still clear the buffer to prevent overflow
-            return {
-                "raw_notes": "",
-                "facts_extracted": 0,
-                "error": str(e)
-            }
         except Exception as e:
             self.logger.error(f"Context pruning failed: {e}")
+            # Still clear the buffer to prevent overflow
             return {
                 "raw_notes": "",
                 "facts_extracted": 0,
@@ -290,4 +329,3 @@ class ContextPruner:
         self.total_notes_processed = 0
         self.total_facts_extracted = 0
         self.bytes_saved = 0
-

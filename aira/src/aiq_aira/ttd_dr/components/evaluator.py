@@ -12,15 +12,41 @@ Reference: Fareed Khan's TTD-DR implementation
 """
 
 import logging
-import json
 from dataclasses import dataclass
 from typing import Dict, Any, List, Optional
 
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 logger = logging.getLogger(__name__)
 
+
+# ========================================
+# Pydantic Schema for NVIDIA Guided JSON
+# ========================================
+
+class EvaluatorOutputSchema(BaseModel):
+    """Pydantic schema for evaluator output via guided JSON."""
+    accuracy: float = PydanticField(ge=0, le=100, description="Factual correctness score (0-100)")
+    completeness: float = PydanticField(ge=0, le=100, description="Coverage score (0-100)")
+    coherence: float = PydanticField(ge=0, le=100, description="Logical flow score (0-100)")
+    depth: float = PydanticField(ge=0, le=100, description="Analysis depth score (0-100)")
+    citation_quality: float = PydanticField(ge=0, le=100, description="Evidence quality score (0-100)")
+    overall_score: float = PydanticField(ge=0, le=100, description="Overall quality score (0-100)")
+    confidence: float = PydanticField(ge=0, le=1, description="Confidence in assessment (0-1)")
+    improvement_suggestions: List[str] = PydanticField(
+        default_factory=list,
+        description="Specific suggestions for improvement"
+    )
+    converged: bool = PydanticField(description="Whether draft has reached acceptable quality")
+    reasoning: str = PydanticField(default="", description="Brief explanation of scores")
+
+
+# ========================================
+# Original Dataclasses (kept for compatibility)
+# ========================================
 
 @dataclass
 class QualityMetrics:
@@ -134,23 +160,6 @@ Score each dimension from 0-100:
 ## Previous Score (if available)
 Previous overall score: {previous_score}
 
-Respond in JSON format:
-{{
-    "accuracy": 0-100,
-    "completeness": 0-100,
-    "coherence": 0-100,
-    "depth": 0-100,
-    "citation_quality": 0-100,
-    "overall_score": 0-100,
-    "confidence": 0.0-1.0,
-    "improvement_suggestions": [
-        "Specific suggestion 1",
-        "Specific suggestion 2"
-    ],
-    "converged": true/false,
-    "reasoning": "Brief explanation of scores"
-}}
-
 Remember: Be STRICT. Average work gets average scores. This counteracts LLM tendency toward generosity.
 """
 
@@ -161,6 +170,8 @@ class EvaluatorAgent:
     
     Runs after each refinement step to provide quantitative feedback.
     Determines convergence and triggers quality repair when needed.
+    
+    Uses NVIDIA NIM guided_json for guaranteed structured output.
     """
     
     def __init__(self, 
@@ -180,6 +191,27 @@ class EvaluatorAgent:
         self.min_improvement = min_improvement
         self.score_history: List[float] = []
         self.logger = logging.getLogger(f"{__name__}.EvaluatorAgent")
+        
+        # Extract LLM config for guided_json
+        self._base_url = getattr(llm, 'openai_api_base', None) or getattr(llm, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(llm, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+    
+    def _create_guided_llm(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for structured output."""
+        json_schema = EvaluatorOutputSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def evaluate(self,
                       draft: str,
@@ -209,23 +241,26 @@ class EvaluatorAgent:
         )
         
         try:
-            response = await self.llm.ainvoke([
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm()
+            
+            response = await guided_llm.ainvoke([
                 SystemMessage(content="You are a strict research quality evaluator."),
                 HumanMessage(content=prompt)
             ])
             
-            # Parse JSON response
-            result_data = json.loads(response.content)
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            result_data = EvaluatorOutputSchema.model_validate_json(response.content)
             
             # Build metrics
             metrics = QualityMetrics(
-                accuracy=result_data.get("accuracy", 50.0),
-                completeness=result_data.get("completeness", 50.0),
-                coherence=result_data.get("coherence", 50.0),
-                depth=result_data.get("depth", 50.0),
-                citation_quality=result_data.get("citation_quality", 50.0),
-                overall_score=result_data.get("overall_score", 50.0),
-                confidence=result_data.get("confidence", 0.5)
+                accuracy=result_data.accuracy,
+                completeness=result_data.completeness,
+                coherence=result_data.coherence,
+                depth=result_data.depth,
+                citation_quality=result_data.citation_quality,
+                overall_score=result_data.overall_score,
+                confidence=result_data.confidence
             )
             
             # Calculate iteration delta
@@ -241,8 +276,8 @@ class EvaluatorAgent:
             
             result = EvaluationResult(
                 metrics=metrics,
-                improvement_suggestions=result_data.get("improvement_suggestions", []),
-                converged=converged or result_data.get("converged", False),
+                improvement_suggestions=result_data.improvement_suggestions,
+                converged=converged or result_data.converged,
                 iteration_delta=delta
             )
             
@@ -259,22 +294,6 @@ class EvaluatorAgent:
             
             return result
             
-        except json.JSONDecodeError as e:
-            self.logger.warning(f"Failed to parse Evaluator response: {e}")
-            return EvaluationResult(
-                metrics=QualityMetrics(
-                    accuracy=50.0,
-                    completeness=50.0,
-                    coherence=50.0,
-                    depth=50.0,
-                    citation_quality=50.0,
-                    overall_score=50.0,
-                    confidence=0.3
-                ),
-                improvement_suggestions=["Continue refinement"],
-                converged=False,
-                iteration_delta=0.0
-            )
         except Exception as e:
             self.logger.error(f"Evaluation failed: {e}")
             return EvaluationResult(
@@ -333,4 +352,3 @@ class EvaluatorAgent:
     def reset(self):
         """Reset score history for new evaluation session."""
         self.score_history = []
-

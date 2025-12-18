@@ -9,11 +9,13 @@ variants are generated, evaluated, revised, and merged to produce superior resul
 """
 
 import asyncio
-import json
 import logging
 from typing import Dict, Any, List, Optional, Tuple
+
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 from ..models import TTDDRConfig, EvolutionVariant
 from ..prompts import (
@@ -24,6 +26,36 @@ from ..prompts import (
 )
 
 logger = logging.getLogger(__name__)
+
+
+# ========================================
+# Pydantic Schemas for NVIDIA Guided JSON
+# ========================================
+
+class ScoresSchema(BaseModel):
+    """Schema for individual evaluation scores."""
+    completeness: float = PydanticField(ge=0, le=10, description="Completeness score (0-10)")
+    accuracy: float = PydanticField(ge=0, le=10, description="Accuracy score (0-10)")
+    clarity: float = PydanticField(ge=0, le=10, description="Clarity score (0-10)")
+    relevance: float = PydanticField(ge=0, le=10, description="Relevance score (0-10)")
+    depth: float = PydanticField(ge=0, le=10, description="Depth score (0-10)")
+
+
+class EvolutionFeedbackSchema(BaseModel):
+    """Schema for evolution feedback output."""
+    scores: ScoresSchema = PydanticField(description="Individual evaluation scores")
+    strengths: List[str] = PydanticField(
+        default_factory=list,
+        description="List of answer strengths"
+    )
+    weaknesses: List[str] = PydanticField(
+        default_factory=list,
+        description="List of answer weaknesses"
+    )
+    suggestions: List[str] = PydanticField(
+        default_factory=list,
+        description="List of improvement suggestions"
+    )
 
 
 class SelfEvolver:
@@ -56,6 +88,28 @@ class SelfEvolver:
         self.judge_llm = judge_llm or llm
         self.config = config
         self.logger = logging.getLogger(f"{__name__}.{self.__class__.__name__}")
+        
+        # Extract LLM config for guided_json (use judge_llm for feedback)
+        judge = self.judge_llm
+        self._base_url = getattr(judge, 'openai_api_base', None) or getattr(judge, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(judge, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+    
+    def _create_guided_llm_for_feedback(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for evolution feedback."""
+        json_schema = EvolutionFeedbackSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def evolve_answer(self,
                           original_answer: str,
@@ -246,17 +300,31 @@ Variant {variant_number}:"""
         )
         
         try:
-            response = await self.judge_llm.ainvoke([
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm_for_feedback()
+            
+            response = await guided_llm.ainvoke([
                 SystemMessage(content="""You are an expert judge evaluating answer quality.
-                Provide objective, constructive feedback.
-                Always respond with valid JSON."""),
+                Provide objective, constructive feedback."""),
                 HumanMessage(content=prompt)
             ])
             
-            # Parse JSON response
-            feedback = self._parse_feedback_response(response.content)
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            result = EvolutionFeedbackSchema.model_validate_json(response.content)
             
-            return feedback
+            # Convert to dictionary and calculate fitness score
+            scores = result.scores.model_dump()
+            total = sum(scores.values())
+            count = len(scores)
+            fitness_score = total / (count * 10)  # Normalize to 0-1
+            
+            return {
+                "scores": scores,
+                "fitness_score": fitness_score,
+                "strengths": result.strengths or ["Good attempt"],
+                "weaknesses": result.weaknesses or ["Room for improvement"],
+                "suggestions": result.suggestions or ["Continue refining"]
+            }
             
         except Exception as e:
             self.logger.error(f"Failed to get feedback: {e}")

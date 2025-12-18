@@ -8,18 +8,36 @@ Core innovation of TTD-DR: Treats the draft as a "noisy" signal that gets
 progressively refined through iterations of information incorporation.
 """
 
-import json
 import logging
 import re
 from typing import Dict, Any, List, Optional, Tuple
 from difflib import SequenceMatcher
+
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 from ..models import DraftState, ResearchPlan, TTDDRConfig
 from ..prompts import DENOISING_PROMPT, CONVERGENCE_CHECK_PROMPT
 
 logger = logging.getLogger(__name__)
+
+
+# ========================================
+# Pydantic Schema for NVIDIA Guided JSON
+# ========================================
+
+class ConvergenceCheckSchema(BaseModel):
+    """Schema for convergence assessment output."""
+    convergence_score: float = PydanticField(
+        ge=0, le=100,
+        description="Convergence score from 0-100 (100 = fully converged)"
+    )
+    reasoning: str = PydanticField(
+        default="",
+        description="Brief explanation of the assessment"
+    )
 
 
 class DraftDenoiser:
@@ -51,6 +69,27 @@ class DraftDenoiser:
         self.llm = llm
         self.config = config
         self.logger = logging.getLogger(f"{__name__}.{self.__class__.__name__}")
+        
+        # Extract LLM config for guided_json
+        self._base_url = getattr(llm, 'openai_api_base', None) or getattr(llm, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(llm, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+    
+    def _create_guided_llm_for_convergence(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for convergence assessment."""
+        json_schema = ConvergenceCheckSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def denoise(self,
                      current_draft: DraftState,
@@ -404,27 +443,19 @@ class DraftDenoiser:
             current_draft=new_preview
         )
         
-        response = await self.llm.ainvoke([
+        # Use guided_json for guaranteed structured output
+        guided_llm = self._create_guided_llm_for_convergence()
+        
+        response = await guided_llm.ainvoke([
             SystemMessage(content="""You are an expert at assessing document quality and convergence.
-            Evaluate the improvement between drafts accurately. Always respond with valid JSON."""),
+            Evaluate the improvement between drafts accurately."""),
             HumanMessage(content=prompt)
         ])
         
-        try:
-            # Parse JSON response
-            if "```json" in response.content:
-                json_start = response.content.index("```json") + 7
-                json_end = response.content.index("```", json_start)
-                json_str = response.content[json_start:json_end].strip()
-                result = json.loads(json_str)
-            else:
-                result = json.loads(response.content)
-            
-            return result.get("convergence_score", 50) / 100.0
-            
-        except (json.JSONDecodeError, ValueError) as e:
-            self.logger.warning(f"Failed to parse convergence assessment: {e}")
-            raise
+        # Parse with Pydantic (guaranteed valid from guided_json)
+        result = ConvergenceCheckSchema.model_validate_json(response.content)
+        
+        return result.convergence_score / 100.0
     
     def _heuristic_convergence(self,
                               old_draft: str,

@@ -12,14 +12,43 @@ import asyncio
 import json
 import logging
 import httpx
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, Literal
+
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 from ..models import ResearchPlan, DraftState, SearchQAPair
 from ..prompts import QUESTION_GENERATION_PROMPT, ANSWER_SYNTHESIS_PROMPT
 
 logger = logging.getLogger(__name__)
+
+
+# ========================================
+# Pydantic Schema for NVIDIA Guided JSON
+# ========================================
+
+class QuestionSchema(BaseModel):
+    """Schema for a single research question."""
+    question: str = PydanticField(description="The research question")
+    purpose: str = PydanticField(description="Why this question is important")
+    priority: Literal["high", "medium", "low"] = PydanticField(
+        default="medium",
+        description="Priority level of the question"
+    )
+
+
+class QuestionsOutputSchema(BaseModel):
+    """Schema for question generation output."""
+    questions: List[QuestionSchema] = PydanticField(
+        default_factory=list,
+        description="List of research questions"
+    )
+    gaps_identified: List[str] = PydanticField(
+        default_factory=list,
+        description="Gaps identified in the current draft"
+    )
 
 
 class IterativeSearchEngine:
@@ -52,6 +81,27 @@ class IterativeSearchEngine:
         
         # HTTP client for API calls
         self.client = httpx.AsyncClient(timeout=30.0)
+        
+        # Extract LLM config for guided_json
+        self._base_url = getattr(llm, 'openai_api_base', None) or getattr(llm, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(llm, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+    
+    def _create_guided_llm_for_questions(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for question generation."""
+        json_schema = QuestionsOutputSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def generate_questions(self,
                                 draft: DraftState,
@@ -87,22 +137,23 @@ class IterativeSearchEngine:
         )
         
         try:
-            # Generate questions
-            response = await self.llm.ainvoke([
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm_for_questions()
+            
+            response = await guided_llm.ainvoke([
                 SystemMessage(content="""You are an expert at identifying research gaps and generating targeted questions.
-                Focus on information that will most improve the draft quality.
-                Always respond with valid JSON."""),
+                Focus on information that will most improve the draft quality."""),
                 HumanMessage(content=prompt)
             ])
             
-            # Parse response
-            result = self._parse_questions_response(response.content)
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            result = QuestionsOutputSchema.model_validate_json(response.content)
             
             # Update draft with identified gaps
-            if "gaps_identified" in result:
-                draft.gaps_identified = result["gaps_identified"]
+            if result.gaps_identified:
+                draft.gaps_identified = result.gaps_identified
             
-            questions = result.get("questions", [])
+            questions = [q.model_dump() for q in result.questions]
             
             # Ensure we have the requested number of questions
             while len(questions) < num_questions:

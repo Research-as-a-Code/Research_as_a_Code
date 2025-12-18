@@ -11,14 +11,37 @@ Reference: https://research.google/blog/deep-researcher-with-test-time-diffusion
 """
 
 import asyncio
+import json
 import logging
 import time
-import json
 from typing import Dict, Any, List, Optional, Tuple
 from datetime import datetime
 
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
+
+
+# ========================================
+# Pydantic Schemas for NVIDIA Guided JSON
+# ========================================
+
+class ResearchPlanSchema(BaseModel):
+    """Schema for research plan output."""
+    main_topic: str = PydanticField(description="Main topic of the research")
+    key_areas: List[str] = PydanticField(description="Key areas to cover")
+    sub_questions: List[str] = PydanticField(description="Sub-questions to answer")
+    expected_sections: List[str] = PydanticField(description="Expected sections in final report")
+    search_strategy: str = PydanticField(description="Search strategy to use")
+
+
+class ConvergenceCheckSchema(BaseModel):
+    """Schema for convergence check output."""
+    convergence_score: float = PydanticField(
+        ge=0, le=100,
+        description="Convergence score from 0-100"
+    )
 
 from ..research_strategy_base import (
     BaseResearchStrategy, 
@@ -119,6 +142,12 @@ class TTDDRIntegration(BaseResearchStrategy):
         # Metrics tracking
         self.metrics = TTDDRMetrics()
         
+        # Extract LLM config for guided_json
+        self._base_url = getattr(llm, 'openai_api_base', None) or getattr(llm, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(llm, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+        
         # State for self-correction
         self.active_critique = None
         self.needs_quality_repair = False
@@ -149,6 +178,36 @@ class TTDDRIntegration(BaseResearchStrategy):
             return False, "Query too short for meaningful research"
         
         return True, None
+    
+    def _create_guided_llm_for_plan(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for research plan generation."""
+        json_schema = ResearchPlanSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
+    
+    def _create_guided_llm_for_convergence(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for convergence check."""
+        json_schema = ConvergenceCheckSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def estimate_cost(self, context: ResearchContext) -> Dict[str, Any]:
         """Estimate execution cost."""
@@ -422,7 +481,8 @@ class TTDDRIntegration(BaseResearchStrategy):
                             self.needs_quality_repair = True
                             logger.warning(f"📊 Evaluator: Quality repair needed (score: {eval_result.metrics.overall_score})")
                             # STORE FEEDBACK FOR NEXT ITERATION
-                            prev_evaluator_feedback = f"Overall: {eval_result.metrics.overall_score}/10. Feedback: {eval_result.feedback[:300]}"
+                            suggestions = "; ".join(eval_result.improvement_suggestions[:3]) if eval_result.improvement_suggestions else "No specific suggestions"
+                            prev_evaluator_feedback = f"Overall: {eval_result.metrics.overall_score}/100. Suggestions: {suggestions[:300]}"
                         
                         # Log evaluation details
                         print(f"🔶 TTD-DR: Evaluator score={eval_result.metrics.overall_score:.1f}, converged={eval_result.converged}", flush=True, file=sys.stderr)
@@ -545,22 +605,25 @@ class TTDDRIntegration(BaseResearchStrategy):
         """Generate the research plan (Stage 1)."""
         prompt = RESEARCH_PLAN_PROMPT.format(query=context.query)
         
-        response = await self.llm.ainvoke([
-            SystemMessage(content="You are a research planning expert."),
-            HumanMessage(content=prompt)
-        ])
-        
         try:
-            # Parse JSON response
-            plan_data = json.loads(response.content)
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm_for_plan()
+            
+            response = await guided_llm.ainvoke([
+                SystemMessage(content="You are a research planning expert."),
+                HumanMessage(content=prompt)
+            ])
+            
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            plan_data = ResearchPlanSchema.model_validate_json(response.content)
             return ResearchPlan(
-                main_topic=plan_data["main_topic"],
-                key_areas=plan_data["key_areas"],
-                sub_questions=plan_data["sub_questions"],
-                expected_sections=plan_data["expected_sections"],
-                search_strategy=plan_data["search_strategy"]
+                main_topic=plan_data.main_topic,
+                key_areas=plan_data.key_areas,
+                sub_questions=plan_data.sub_questions,
+                expected_sections=plan_data.expected_sections,
+                search_strategy=plan_data.search_strategy
             )
-        except (json.JSONDecodeError, KeyError) as e:
+        except Exception as e:
             # Fallback to basic plan
             logger.warning(f"Failed to parse research plan: {e}. Using fallback.")
             return ResearchPlan(
@@ -807,15 +870,19 @@ class TTDDRIntegration(BaseResearchStrategy):
             current_draft=new_draft[:2000]
         )
         
-        response = await self.llm.ainvoke([
-            SystemMessage(content="You are an expert at assessing document quality."),
-            HumanMessage(content=prompt)
-        ])
-        
         try:
-            result = json.loads(response.content)
-            return result["convergence_score"] / 100.0
-        except (json.JSONDecodeError, KeyError) as e:
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm_for_convergence()
+            
+            response = await guided_llm.ainvoke([
+                SystemMessage(content="You are an expert at assessing document quality."),
+                HumanMessage(content=prompt)
+            ])
+            
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            result = ConvergenceCheckSchema.model_validate_json(response.content)
+            return result.convergence_score / 100.0
+        except Exception as e:
             logger.warning(f"Failed to parse convergence: {e}. Using heuristic.")
             # Simple heuristic based on length and markers
             length_ratio = len(new_draft) / max(len(old_draft), 1)

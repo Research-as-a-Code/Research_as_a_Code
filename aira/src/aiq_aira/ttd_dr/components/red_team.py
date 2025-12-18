@@ -12,16 +12,57 @@ Reference: Fareed Khan's TTD-DR implementation
 """
 
 import logging
-import json
 from dataclasses import dataclass
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, Literal
 from enum import Enum
 
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 logger = logging.getLogger(__name__)
 
+
+# ========================================
+# Pydantic Schemas for NVIDIA Guided JSON
+# ========================================
+
+class CritiqueSchema(BaseModel):
+    """Pydantic schema for guided JSON output."""
+    severity: Literal["low", "medium", "high", "critical"] = PydanticField(
+        description="Severity level of the critique"
+    )
+    category: Literal["logic", "evidence", "accuracy", "coherence", "bias", "general"] = PydanticField(
+        description="Category of the issue"
+    )
+    description: str = PydanticField(description="Specific description of the flaw")
+    location: str = PydanticField(description="Which section or part of the draft")
+    suggested_action: str = PydanticField(description="What should be done to fix this")
+    confidence: float = PydanticField(ge=0, le=1, description="Confidence in this critique (0-1)")
+
+
+class RedTeamOutputSchema(BaseModel):
+    """Pydantic schema for complete Red Team output."""
+    critiques: List[CritiqueSchema] = PydanticField(
+        default_factory=list,
+        description="List of critiques found in the draft"
+    )
+    overall_assessment: str = PydanticField(
+        description="Brief summary of the draft's major weaknesses"
+    )
+    needs_major_revision: bool = PydanticField(
+        description="Whether the draft needs major revision"
+    )
+    quality_score: float = PydanticField(
+        ge=0, le=100,
+        description="Overall quality score (0-100)"
+    )
+
+
+# ========================================
+# Original Dataclasses (kept for compatibility)
+# ========================================
 
 class CritiqueSeverity(Enum):
     """Severity levels for critiques."""
@@ -127,23 +168,6 @@ Analyze this draft AGGRESSIVELY. Look for:
 - Generic statements without specifics
 - Claims that would not withstand expert scrutiny
 
-Respond in JSON format:
-{{
-    "critiques": [
-        {{
-            "severity": "low|medium|high|critical",
-            "category": "logic|evidence|accuracy|coherence|bias",
-            "description": "Specific description of the flaw",
-            "location": "Which section or part of the draft",
-            "suggested_action": "What should be done to fix this",
-            "confidence": 0.0-1.0
-        }}
-    ],
-    "overall_assessment": "Brief summary of the draft's major weaknesses",
-    "needs_major_revision": true/false,
-    "quality_score": 0-100
-}}
-
 Be HARSH. A good Red Team finds problems. An excellent Red Team finds problems others missed.
 """
 
@@ -155,6 +179,8 @@ class RedTeamAgent:
     Runs in parallel with other maintenance tasks after each refinement
     step. Generates structured Critique objects that force the Supervisor
     to address weaknesses.
+    
+    Uses NVIDIA NIM guided_json for guaranteed structured output.
     """
     
     def __init__(self, llm: BaseChatModel):
@@ -166,6 +192,27 @@ class RedTeamAgent:
         """
         self.llm = llm
         self.logger = logging.getLogger(f"{__name__}.RedTeamAgent")
+        
+        # Extract LLM config for guided_json
+        self._base_url = getattr(llm, 'openai_api_base', None) or getattr(llm, 'base_url', None)
+        if self._base_url and hasattr(self._base_url, '__str__'):
+            self._base_url = str(self._base_url)
+        self._model_name = getattr(llm, 'model_name', "nvidia/llama-3.1-nemotron-nano-8b-v1")
+    
+    def _create_guided_llm(self) -> LangChainChatOpenAI:
+        """Create LLM with NVIDIA guided_json for structured output."""
+        json_schema = RedTeamOutputSchema.model_json_schema()
+        
+        return LangChainChatOpenAI(
+            base_url=self._base_url,
+            model=self._model_name,
+            api_key="not-used",
+            model_kwargs={
+                "extra_body": {
+                    "nvext": {"guided_json": json_schema}  # NVIDIA NIM v1.12.0 format
+                }
+            }
+        )
     
     async def critique(self, 
                       draft: str, 
@@ -190,36 +237,39 @@ class RedTeamAgent:
         )
         
         try:
-            response = await self.llm.ainvoke([
+            # Use guided_json for guaranteed structured output
+            guided_llm = self._create_guided_llm()
+            
+            response = await guided_llm.ainvoke([
                 SystemMessage(content="You are an adversarial Red Team analyst."),
                 HumanMessage(content=prompt)
             ])
             
-            # Parse JSON response
-            result_data = json.loads(response.content)
+            # Parse with Pydantic (guaranteed valid from guided_json)
+            result_data = RedTeamOutputSchema.model_validate_json(response.content)
             
             # Convert to Critique objects
             critiques = []
-            for c in result_data.get("critiques", []):
+            for c in result_data.critiques:
                 try:
-                    severity = CritiqueSeverity(c.get("severity", "medium"))
+                    severity = CritiqueSeverity(c.severity)
                 except ValueError:
                     severity = CritiqueSeverity.MEDIUM
                     
                 critiques.append(Critique(
                     severity=severity,
-                    category=c.get("category", "general"),
-                    description=c.get("description", ""),
-                    location=c.get("location", "unknown"),
-                    suggested_action=c.get("suggested_action", ""),
-                    confidence=c.get("confidence", 0.5)
+                    category=c.category,
+                    description=c.description,
+                    location=c.location,
+                    suggested_action=c.suggested_action,
+                    confidence=c.confidence
                 ))
             
             result = RedTeamResult(
                 critiques=critiques,
-                overall_assessment=result_data.get("overall_assessment", ""),
-                needs_major_revision=result_data.get("needs_major_revision", False),
-                quality_score=result_data.get("quality_score", 50.0)
+                overall_assessment=result_data.overall_assessment,
+                needs_major_revision=result_data.needs_major_revision,
+                quality_score=result_data.quality_score
             )
             
             # Log findings
@@ -231,28 +281,19 @@ class RedTeamAgent:
             
             return result
             
-        except json.JSONDecodeError as e:
-            self.logger.warning(f"Failed to parse Red Team response: {e}")
-            # Return a basic critique indicating parsing failed
+        except Exception as e:
+            self.logger.error(f"Red Team analysis failed: {e}")
+            # Return a basic result on failure
             return RedTeamResult(
                 critiques=[Critique(
                     severity=CritiqueSeverity.MEDIUM,
                     category="general",
-                    description="Red Team analysis could not be fully parsed",
+                    description=f"Red Team analysis failed: {str(e)}",
                     location="entire draft",
                     suggested_action="Continue refinement",
                     confidence=0.3
                 )],
-                overall_assessment="Analysis incomplete due to parsing error",
-                needs_major_revision=False,
-                quality_score=60.0
-            )
-        except Exception as e:
-            self.logger.error(f"Red Team analysis failed: {e}")
-            return RedTeamResult(
-                critiques=[],
                 overall_assessment=f"Analysis failed: {str(e)}",
                 needs_major_revision=False,
                 quality_score=50.0
             )
-
