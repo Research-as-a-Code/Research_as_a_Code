@@ -13,11 +13,7 @@
 import { useState } from "react";
 import { useCopilotResearch } from "../contexts/CopilotResearchContext";
 
-interface ResearchFormProps {
-  onResearchStart: () => void;
-}
-
-export function ResearchForm({ onResearchStart }: ResearchFormProps) {
+export function ResearchForm() {
   const [topic, setTopic] = useState("");
   const [reportOrg, setReportOrg] = useState(
     "Create a comprehensive report with introduction, detailed analysis, and conclusion."

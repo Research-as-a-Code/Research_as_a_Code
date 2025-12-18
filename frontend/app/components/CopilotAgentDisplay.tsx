@@ -39,17 +39,7 @@ interface PerStrategyState {
   endTime?: number;
 }
 
-interface CopilotAgentDisplayProps {
-  onResearchStart: () => void;
-  onResearchComplete: (strategy: ResearchStrategy, report: string) => void;
-  onAllComplete: () => void;
-}
-
-export function CopilotAgentDisplay({ 
-  onResearchStart, 
-  onResearchComplete,
-  onAllComplete
-}: CopilotAgentDisplayProps) {
+export function CopilotAgentDisplay() {
   const [strategyStates, setStrategyStates] = useState<Map<ResearchStrategy, PerStrategyState>>(new Map());
   const [isProcessing, setIsProcessing] = useState(false);
   const abortControllersRef = useRef<Map<ResearchStrategy, AbortController>>(new Map());
@@ -235,10 +225,6 @@ export function CopilotAgentDisplay({
         endTime,
       });
 
-      if (finalReport) {
-        onResearchComplete(strategy, finalReport);
-      }
-
       return finalReport;
 
     } catch (error: any) {
@@ -265,7 +251,7 @@ export function CopilotAgentDisplay({
     } finally {
       abortControllersRef.current.delete(strategy);
     }
-  }, [updateStrategyState, updateReportResult, onResearchComplete]);
+  }, [updateStrategyState, updateReportResult]);
 
   // Watch for form submissions and trigger parallel research
   useEffect(() => {
@@ -278,7 +264,6 @@ export function CopilotAgentDisplay({
       setIsResearching(true);
       clearReportResults();
       setStrategyStates(new Map());
-      onResearchStart();
 
       // Initialize all strategy states
       for (const strategy of selectedStrategies) {
@@ -303,7 +288,6 @@ export function CopilotAgentDisplay({
       console.log("✅ All strategies completed");
       setIsProcessing(false);
       setIsResearching(false);
-      onAllComplete();
       clearParams();
     };
 

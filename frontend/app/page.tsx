@@ -13,31 +13,16 @@
 
 "use client";
 
-import { useState } from "react";
 import { CopilotAgentDisplay } from "./components/CopilotAgentDisplay";
 import { ResearchForm } from "./components/ResearchForm";
-import { TabbedReportDisplay, ReportResult } from "./components/TabbedReportDisplay";
-import { ResearchStrategy } from "./components/StrategySelector";
+import { TabbedReportDisplay } from "./components/TabbedReportDisplay";
 import { useCopilotResearch } from "./contexts/CopilotResearchContext";
 
 // Force dynamic rendering - never cache this page
 export const dynamic = 'force-dynamic';
 
 export default function Home() {
-  const [isResearching, setIsResearching] = useState<boolean>(false);
-  const { reportResults } = useCopilotResearch();
-
-  const handleResearchStart = () => {
-    setIsResearching(true);
-  };
-
-  const handleResearchComplete = (strategy: ResearchStrategy, report: string) => {
-    console.log(`📄 [${strategy}] Report received, length:`, report.length);
-  };
-
-  const handleAllComplete = () => {
-    setIsResearching(false);
-  };
+  const { reportResults, isResearching } = useCopilotResearch();
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900 text-white">
@@ -74,9 +59,7 @@ export default function Home() {
               <span className="text-3xl">📝</span>
               Research Request
             </h2>
-            <ResearchForm 
-              onResearchStart={handleResearchStart}
-            />
+            <ResearchForm />
           </div>
 
           {/* Agent Flow Visualization - Powered by CopilotKit AG-UI */}
@@ -85,11 +68,7 @@ export default function Home() {
               <span className="text-3xl">🤖</span>
               Strategy Selection & Progress
             </h2>
-            <CopilotAgentDisplay 
-              onResearchStart={handleResearchStart}
-              onResearchComplete={handleResearchComplete}
-              onAllComplete={handleAllComplete}
-            />
+            <CopilotAgentDisplay />
           </div>
         </div>
 
