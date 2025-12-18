@@ -75,10 +75,12 @@ export function ResearchForm({ onResearchStart, onResearchComplete }: ResearchFo
     "Create a comprehensive report with introduction, detailed analysis, and conclusion. Perform a deep research and must use dynamic strategy. Try to utilize the us_tariff collection as well."
   ];
   
-  // Collection name options
+  // Collection name options - must match available Milvus collections
+  // See MULTI_COLLECTION_FEATURE.md for details
   const collectionOptions = [
-    "us_tariffs",
-    ""  // Empty for web-only
+    "us_tariffs",      // 29,081 chunks - tariff codes, regulations
+    "congress",        // 414,485 chunks - legislative text
+    "sustainability",  // 29,584 chunks - SDG reports
   ];
 
   return (
