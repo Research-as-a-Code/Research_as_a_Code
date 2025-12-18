@@ -16,7 +16,7 @@ variable "aws_region" {
 variable "eks_cluster_version" {
   description = "Kubernetes version for EKS cluster"
   type        = string
-  default     = "1.28"
+  default     = "1.31"
 }
 
 variable "ngc_api_key" {
