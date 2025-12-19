@@ -231,10 +231,10 @@ resource "aws_iam_role_policy_attachment" "karpenter_ssm" {
   policy_arn = "arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore"
 }
 
-# Additional IAM policy to fix Karpenter ec2:RunInstances permission for launch templates
-# The default Karpenter module policy has a tag condition that fails for new launch templates
-resource "aws_iam_role_policy" "karpenter_launch_template_fix" {
-  name = "KarpenterLaunchTemplateFix"
+# Additional IAM policy to fix Karpenter ec2 permissions
+# The default Karpenter module policy has restrictive conditions that fail for certain operations
+resource "aws_iam_role_policy" "karpenter_ec2_permissions_fix" {
+  name = "KarpenterEC2PermissionsFix"
   role = split("/", module.karpenter.irsa_arn)[1]  # Extract role name from ARN
 
   policy = jsonencode({
@@ -247,6 +247,17 @@ resource "aws_iam_role_policy" "karpenter_launch_template_fix" {
         Resource = [
           "arn:aws:ec2:${var.aws_region}:${data.aws_caller_identity.current.account_id}:launch-template/*"
         ]
+      },
+      {
+        Sid    = "AllowTerminateInstances"
+        Effect = "Allow"
+        Action = "ec2:TerminateInstances"
+        Resource = "arn:aws:ec2:${var.aws_region}:${data.aws_caller_identity.current.account_id}:instance/*"
+        Condition = {
+          StringEquals = {
+            "ec2:ResourceTag/karpenter.sh/nodepool" = "nvidia-nim-gpu"
+          }
+        }
       }
     ]
   })
