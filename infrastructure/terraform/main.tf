@@ -188,8 +188,8 @@ module "eks" {
       capacity_type  = "SPOT"
       
       min_size     = 1
-      max_size     = 4
-      desired_size = 2
+      max_size     = 6
+      desired_size = 4
 
       subnet_ids = module.vpc.private_subnets
 
@@ -229,6 +229,27 @@ module "karpenter" {
 resource "aws_iam_role_policy_attachment" "karpenter_ssm" {
   role       = module.karpenter.role_name
   policy_arn = "arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore"
+}
+
+# Additional IAM policy to fix Karpenter ec2:RunInstances permission for launch templates
+# The default Karpenter module policy has a tag condition that fails for new launch templates
+resource "aws_iam_role_policy" "karpenter_launch_template_fix" {
+  name = "KarpenterLaunchTemplateFix"
+  role = split("/", module.karpenter.irsa_arn)[1]  # Extract role name from ARN
+
+  policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Sid    = "AllowRunInstancesWithLaunchTemplate"
+        Effect = "Allow"
+        Action = "ec2:RunInstances"
+        Resource = [
+          "arn:aws:ec2:${var.aws_region}:${data.aws_caller_identity.current.account_id}:launch-template/*"
+        ]
+      }
+    ]
+  })
 }
 
 # Karpenter Helm Chart
