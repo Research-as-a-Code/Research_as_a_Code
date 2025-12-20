@@ -411,3 +411,69 @@ aws eks describe-nodegroup --cluster-name aiq-udf-eks --nodegroup-name <name>
 
 7. **EBS volumes are AZ-locked** - Plan stateful workload placement carefully.
 
+---
+
+## NVIDIA NIM Model Selection for A10G GPUs
+
+### Key Findings (December 2025)
+
+#### Nemotron Nano 8B v1 vs 9B v2
+
+| Model | Architecture | VRAM for Weights | State Cache | Works on A10G (24GB)? |
+|-------|--------------|------------------|-------------|----------------------|
+| **8B v1** | Transformer (Llama) | ~16GB bf16 | KV cache scales with seq_len | ✅ Yes, with 16K context |
+| **9B v2** | Mamba Hybrid (NemotronH) | ~18GB bf16 | **33.75GB fixed Mamba state** | ❌ No, needs 48GB+ |
+
+#### Why 9B v2 Fails on A10G
+
+The Nemotron 9B v2 uses a **hybrid Mamba architecture** with a fixed-size Mamba state cache:
+- `MambaCacheManager` allocates 33.75 GiB regardless of batch/seq length
+- This is fundamentally different from transformer KV cache
+- Even with `NIM_MAX_BATCH_SIZE=1`, the state cache is massive
+
+#### Available NIM Profiles for A10G
+
+| Model | Profiles | Engine | Precision |
+|-------|----------|--------|-----------|
+| 8B v1 | `tensorrt_llm-trtllm_buildable-bf16-tp1-pp1` | TensorRT-LLM | bf16 |
+| 8B v1 | `vllm-bf16-tp1-pp1` | vLLM | bf16 |
+| 9B v2 | `vllm-bf16-tp1-pp1` | vLLM only | bf16 |
+| 9B v2 | `vllm-bf16-tp2-pp1` | vLLM | bf16 (2 GPUs) |
+
+**Note**: FP8 optimized profiles for 8B v1 are only available on L40S (48GB) or H100 (80GB+).
+
+### Recommended Configuration for A10G
+
+```yaml
+env:
+- name: NIM_MAX_MODEL_LEN
+  value: "16384"  # 16K context - good balance for deep research
+```
+
+With this config:
+- **Model weights**: ~16GB
+- **KV cache**: ~6GB (for 16K context)
+- **TensorRT-LLM overhead**: ~2GB
+- **Total**: ~24GB (fits A10G)
+
+### Startup Time
+
+TensorRT-LLM builds the engine at first startup (~5-10 minutes). Use generous startup probes:
+
+```yaml
+startupProbe:
+  httpGet:
+    path: /v1/health/ready
+    port: 8000
+  initialDelaySeconds: 120
+  periodSeconds: 30
+  failureThreshold: 60  # Allow up to 30 minutes
+```
+
+### For Larger Models (9B+)
+
+Use `g5.12xlarge` (4× A10G, 96GB total) or `g5.48xlarge` (8× A10G, 192GB):
+- Set `nvidia.com/gpu: "2"` or `"4"` in resource limits
+- NIM will automatically select TP=2 or TP=4 profiles
+- Ensure NCCL works (AL2023 required, Bottlerocket has issues)
+

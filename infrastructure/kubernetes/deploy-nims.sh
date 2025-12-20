@@ -78,6 +78,7 @@ echo "=================================================="
 
 # Create a NIM deployment manifest for Nemotron-Nano-8B
 # Note: 9B-v2 requires >24GB VRAM (Mamba architecture) - use g5.12xlarge+ for 9B
+# The 8B model uses TensorRT-LLM bf16 on A10G with 16K context
 cat <<EOF | kubectl apply -f -
 apiVersion: apps/v1
 kind: Deployment
@@ -105,6 +106,8 @@ spec:
               key: NGC_API_KEY
         - name: NIM_CACHE_PATH
           value: /model-cache
+        - name: NIM_MAX_MODEL_LEN
+          value: "16384"
         ports:
         - containerPort: 8000
           name: http
@@ -113,6 +116,14 @@ spec:
             nvidia.com/gpu: "1"
           requests:
             nvidia.com/gpu: "1"
+        startupProbe:
+          httpGet:
+            path: /v1/health/ready
+            port: 8000
+          initialDelaySeconds: 120
+          periodSeconds: 30
+          failureThreshold: 60
+          timeoutSeconds: 10
         volumeMounts:
         - name: model-cache
           mountPath: /model-cache
