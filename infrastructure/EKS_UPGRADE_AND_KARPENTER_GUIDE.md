@@ -477,3 +477,120 @@ Use `g5.12xlarge` (4× A10G, 96GB total) or `g5.48xlarge` (8× A10G, 192GB):
 - NIM will automatically select TP=2 or TP=4 profiles
 - Ensure NCCL works (AL2023 required, Bottlerocket has issues)
 
+---
+
+## Cross-Node Security Group Issues
+
+### Symptom
+
+Pods on managed node groups cannot communicate with pods on Karpenter-provisioned GPU nodes:
+- DNS resolution works
+- Direct pod-to-pod IP connections time out
+- Same-node communication works fine
+
+### Root Cause
+
+Karpenter GPU nodes use the EKS cluster security group (`eks-cluster-sg-*`), while managed node groups use a separate node security group (`*-node-*`). By default, these don't allow cross-traffic.
+
+### Diagnosis
+
+```bash
+# Check which security groups nodes use
+aws ec2 describe-instances --filters "Name=tag:kubernetes.io/cluster/YOUR-CLUSTER,Values=owned" \
+  --query 'Reservations[].Instances[].[PrivateIpAddress,SecurityGroups[0].GroupId]' --output table
+
+# Example output:
+# 10.0.12.0   sg-08900183df289ae5a  (managed node group)
+# 10.0.38.236 sg-0c36bbdb818a4d1e0  (Karpenter GPU node)
+```
+
+### Fix
+
+Add bidirectional rules allowing all traffic between the two security groups:
+
+```bash
+# Allow traffic FROM managed node SG TO GPU cluster SG
+aws ec2 authorize-security-group-ingress \
+  --group-id sg-0c36bbdb818a4d1e0 \
+  --protocol all \
+  --source-group sg-08900183df289ae5a
+
+# Allow traffic FROM GPU cluster SG TO managed node SG  
+aws ec2 authorize-security-group-ingress \
+  --group-id sg-08900183df289ae5a \
+  --protocol all \
+  --source-group sg-0c36bbdb818a4d1e0
+```
+
+### Terraform Fix (Recommended)
+
+Add to `main.tf`:
+
+```hcl
+# Allow cross-SG communication between managed nodes and Karpenter nodes
+resource "aws_security_group_rule" "node_to_cluster" {
+  type                     = "ingress"
+  from_port                = 0
+  to_port                  = 65535
+  protocol                 = "all"
+  source_security_group_id = module.eks.node_security_group_id
+  security_group_id        = module.eks.cluster_primary_security_group_id
+}
+
+resource "aws_security_group_rule" "cluster_to_node" {
+  type                     = "ingress"
+  from_port                = 0
+  to_port                  = 65535
+  protocol                 = "all"
+  source_security_group_id = module.eks.cluster_primary_security_group_id
+  security_group_id        = module.eks.node_security_group_id
+}
+```
+
+---
+
+## NVIDIA NIM Guided JSON (Structured Output)
+
+### Working Format (Verified Dec 2025)
+
+For NVIDIA NIM with vLLM backend, use `nvext` at the **root level** of the request:
+
+```python
+# Direct API call
+response = client.chat.completions.create(
+    model="nvidia/llama-3.1-nemotron-nano-8b-v1",
+    messages=messages,
+    nvext={"guided_json": json_schema},  # ← Root level, NOT extra_body!
+)
+
+# LangChain ChatOpenAI
+llm = ChatOpenAI(
+    base_url=nim_url,
+    model="nvidia/llama-3.1-nemotron-nano-8b-v1",
+    model_kwargs={
+        "nvext": {"guided_json": json_schema}  # ← NOT in extra_body!
+    }
+)
+```
+
+### Formats That DON'T Work
+
+```python
+# ❌ These all fail with "Extra inputs are not permitted"
+extra_body={"guided_json": json_schema}
+extra_body={"nvext": {"guided_json": json_schema}}
+guided_json=json_schema  # At root level
+```
+
+### Implementation
+
+All TTD-DR components have been updated to use the correct format:
+- `core.py`
+- `evaluator.py`
+- `planner.py`
+- `denoiser.py`
+- `red_team.py`
+- `context_pruner.py`
+- `search.py`
+- `evolver.py`
+

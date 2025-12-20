@@ -1,4 +1,4 @@
-# NVIDIA Guided JSON - Future Enhancement
+# NVIDIA Guided JSON - Implementation Guide
 
 ## Discovery (Nov 29, 2025)
 
@@ -10,25 +10,38 @@ Found that NVIDIA NIM **DOES support structured output**, just not through LangC
 
 ## The NVIDIA Way
 
-### **Current/Stable API:**
+### ✅ **VERIFIED WORKING FORMAT (Dec 20, 2025):**
+
+For **direct API calls**, `nvext` must be at the **ROOT level** of the request body:
 ```python
 response = client.chat.completions.create(
     model="nvidia/llama-3.1-nemotron-nano-8b-v1",
     messages=messages,
-    extra_body={"guided_json": json_schema},  # ← NVIDIA's parameter
-    stream=False
+    nvext={"guided_json": json_schema},  # ← nvext at ROOT level, NOT in extra_body
 )
 ```
 
-### **Older API (v1.12.0):**
+### ❌ **FORMATS THAT DON'T WORK:**
 ```python
-response = client.chat.completions.create(
+# These all fail with "Extra inputs are not permitted"
+extra_body={"guided_json": json_schema}  # ❌
+extra_body={"nvext": {"guided_json": json_schema}}  # ❌
+guided_json=json_schema  # ❌ (error says to use nvext)
+```
+
+### **For LangChain ChatOpenAI:**
+Use `model_kwargs` to inject `nvext` at root level:
+```python
+llm = ChatOpenAI(
+    base_url=nim_url,
     model="nvidia/llama-3.1-nemotron-nano-8b-v1",
-    messages=messages,
-    extra_body={"nvext": {"guided_json": json_schema}},  # ← Wrapped in nvext
-    stream=False
+    model_kwargs={
+        "nvext": {"guided_json": json_schema}  # NOT extra_body!
+    }
 )
 ```
+
+**Tested on:** NIM LLM API v1.8.4, vLLM backend, llama-3.1-nemotron-nano-8b-v1
 
 **Reference:** [NIM 1.12.0 Structured Generation](https://docs.nvidia.com/nim/large-language-models/1.12.0/structured-generation.html)
 
@@ -119,14 +132,21 @@ If successful:
 
 ## Implementation Checklist
 
-- [ ] Test stable API: `extra_body={"guided_json": schema}`
-- [ ] Test older API: `extra_body={"nvext": {"guided_json": schema}}`
-- [ ] Determine which format your NIM version supports
-- [ ] Create helper function: `pydantic_to_json_schema()`
-- [ ] Implement in planner_node
-- [ ] Test planner_node thoroughly
-- [ ] Roll out to TTD-DR components (if planner works)
-- [ ] Update documentation with working approach
+- [x] Test stable API: `extra_body={"guided_json": schema}` → ❌ Does NOT work
+- [x] Test older API: `extra_body={"nvext": {"guided_json": schema}}` → ❌ Does NOT work  
+- [x] Test root-level: `nvext={"guided_json": schema}` → ✅ WORKS!
+- [x] Determine which format your NIM version supports → `nvext` at ROOT level
+- [x] Implement in planner_node → Updated to use model_kwargs={"nvext": {...}}
+- [x] Roll out to TTD-DR components:
+  - core.py (3 locations)
+  - evaluator.py
+  - planner.py
+  - denoiser.py
+  - red_team.py
+  - context_pruner.py
+  - search.py
+  - evolver.py
+- [x] Update documentation with working approach
 
 ---
 
@@ -158,5 +178,13 @@ If successful:
 
 ---
 
-**Status:** Ready to test when convenient. System works great as-is! 🎯
+**Status:** ✅ **COMPLETED** (December 20, 2025)
+
+All TTD-DR components updated with correct `nvext` format. Deployed and verified working on EKS cluster with:
+- NIM LLM API v1.8.4
+- vLLM backend (no TensorRT-LLM build needed)
+- `nvidia/llama-3.1-nemotron-nano-8b-v1` model
+- 8K context, 32 max batch size
+
+Key fix: Security groups between managed nodes and Karpenter GPU nodes needed cross-communication rules. 🎯
 

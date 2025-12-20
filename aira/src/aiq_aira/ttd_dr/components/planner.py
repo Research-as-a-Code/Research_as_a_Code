@@ -88,7 +88,7 @@ class ResearchPlanner:
                 base_url=base_url,
                 model=model_name,
                 api_key="not-used",
-                model_kwargs={"extra_body": {"nvext": {"guided_json": json_schema}}}
+                model_kwargs={"nvext": {"guided_json": json_schema}}
             )
             
             response = await guided_llm.ainvoke([

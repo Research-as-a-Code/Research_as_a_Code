@@ -176,11 +176,7 @@ Respond with JSON:
             model=model_name_val,
             api_key="not-used",
             model_kwargs={
-                "extra_body": {
-                    "nvext": {  # Older API format (v1.12.0)
-                        "guided_json": json_schema
-                    }
-                }
+                "nvext": {"guided_json": json_schema}  # NVIDIA NIM: nvext at root level
             }
         )
         
