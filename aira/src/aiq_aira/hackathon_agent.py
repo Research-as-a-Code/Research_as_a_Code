@@ -23,20 +23,31 @@ This module implements the two-level agentic system described in the design plan
 The agent state is designed to be streamed to CopilotKit for real-time UI visualization.
 """
 
+import asyncio
+import json
 import logging
 import operator
+import sys
+from collections import defaultdict
 from typing import List, Annotated, TypedDict, Literal, Optional
 from dataclasses import dataclass, field
+from urllib.parse import urlparse
 
+from pydantic import BaseModel, Field as PydanticField
 from langgraph.graph import StateGraph, END
 from langgraph.types import StreamWriter
+from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.runnables import RunnableConfig
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.language_models import BaseChatModel
+from langchain_core.utils.json import parse_json_markdown
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 from aiq_aira.schema import GeneratedQuery
 from aiq_aira.udr_integration import UDRIntegration, UDRExecutionResult
+from aiq_aira.ttd_dr import TTDDRIntegration
 from aiq_aira.nodes import generate_query, web_research, summarize_sources, reflect_on_summary, finalize_summary
+from aiq_aira.research_strategy_base import ResearchContext
 
 logger = logging.getLogger(__name__)
 
@@ -144,14 +155,8 @@ Respond with JSON:
         response_text += chunk.content
     
     # Parse response
-    import json
-    from langchain_core.utils.json import parse_json_markdown
-    
     try:
         # Use structured output for robust parsing
-        from pydantic import BaseModel, Field as PydanticField
-        from typing import Literal
-        
         class PlanningDecision(BaseModel):
             """Structured planning decision schema."""
             strategy: Literal["SIMPLE_RAG", "DYNAMIC_STRATEGY"] = PydanticField(
@@ -164,8 +169,6 @@ Respond with JSON:
         json_schema = PlanningDecision.model_json_schema()
         
         # Create ChatOpenAI with NVIDIA's guided_json
-        from langchain_openai import ChatOpenAI as LangChainChatOpenAI
-        
         # Get config from existing llm
         base_url_val = llm.openai_api_base if hasattr(llm, 'openai_api_base') else str(llm.base_url) if hasattr(llm, 'base_url') else None
         model_name_val = llm.model_name if hasattr(llm, 'model_name') else "nvidia/llama-3.1-nemotron-nano-8b-v1"
@@ -220,7 +223,6 @@ async def ttd_dr_init_node(state: HackathonAgentState, config: RunnableConfig):
     TTD-DR Step 1: Initialize and create research plan
     Progressive update: Shows initialization
     """
-    import sys
     print("🔷 TTD-DR INIT NODE ENTERED", flush=True, file=sys.stderr)
     logger.info("TTD-DR: Step 1 - Initialize")
     
@@ -232,7 +234,6 @@ async def ttd_dr_init_node(state: HackathonAgentState, config: RunnableConfig):
         }
     
     # Create context
-    from aiq_aira.research_strategy_base import ResearchContext
     context = ResearchContext(
         query=state["research_prompt"],
         collection=state.get("collection", "default"),
@@ -277,7 +278,6 @@ async def ttd_dr_execute_iterations_node(state: HackathonAgentState, config: Run
     Progressive update: Shows when iterations complete
     This is the long-running phase
     """
-    import sys
     print("🔷 TTD-DR EXECUTE ITERATIONS NODE ENTERED", flush=True, file=sys.stderr)
     logger.info("TTD-DR: Step 2b - Execute Iterations")
     
@@ -339,7 +339,6 @@ async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfi
     step_logs = ["📝 Formatting citations and finalizing report..."]
     
     # Format citations (same logic as before)
-    from collections import defaultdict
     rag_doc_counts = defaultdict(int)
     web_sources = []
     
@@ -359,7 +358,6 @@ async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfi
             url = src.get('url', 'N/A')
             if not title and url != 'N/A':
                 try:
-                    from urllib.parse import urlparse
                     domain = urlparse(url).netloc
                     title = domain or f'Web Source {idx}'
                 except:
@@ -398,10 +396,6 @@ async def ttd_dr_strategy_node_OLD(state: HackathonAgentState, config: RunnableC
     This implements Google's iterative refinement approach through multiple
     rounds of search and denoising until convergence.
     """
-    import asyncio
-    import sys
-    from aiq_aira.research_strategy_base import ResearchContext
-    
     logger.info("TTD-DR STRATEGY NODE: Starting Test-Time Diffusion research")
     
     ttd_dr_integration = config["configurable"].get("ttd_dr_integration")
@@ -459,8 +453,6 @@ async def ttd_dr_strategy_node_OLD(state: HackathonAgentState, config: RunnableC
             logger.info("✅ TTD-DR research completed successfully")
             
             # Format citations from TTD-DR sources with deduplication
-            from collections import defaultdict
-            
             logger.info(f"🔍 [TTD-DR] Formatting {len(result.sources)} sources for citations")
             
             # Track RAG documents and their counts
@@ -493,7 +485,6 @@ async def ttd_dr_strategy_node_OLD(state: HackathonAgentState, config: RunnableC
                     # If no title, extract domain from URL as fallback
                     if not title and url != 'N/A':
                         try:
-                            from urllib.parse import urlparse
                             domain = urlparse(url).netloc
                             title = domain or f'Web Source {idx}'
                         except:
@@ -526,7 +517,7 @@ async def ttd_dr_strategy_node_OLD(state: HackathonAgentState, config: RunnableC
                 citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
             
             # Collect all logs: progress updates + completion
-            all_ttd_logs = progress_logs.copy() if progress_logs else []
+            all_ttd_logs = []  # progress_logs was removed in refactoring
             all_ttd_logs.append("✅ TTD-DR research completed")
             
             return {
@@ -559,7 +550,6 @@ async def udr_prepare_node(state: HackathonAgentState, config: RunnableConfig):
     UDR Step 1: Prepare context and extract strategy
     Progressive update: Shows preparation phase
     """
-    import sys
     logger.info("UDR: Step 1 - Prepare")
     
     # Get UDR integration
@@ -575,7 +565,6 @@ async def udr_prepare_node(state: HackathonAgentState, config: RunnableConfig):
     # Extract strategy from plan
     strategy = state.get("udr_strategy", "")
     if isinstance(strategy, dict):
-        import json
         strategy = json.dumps(strategy, indent=2)
     
     # Build context
@@ -646,7 +635,6 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
     UDR Step 3: Execute compiled strategy and collect results
     Progressive update: Shows execution phase with tool calls
     """
-    import asyncio
     logger.info("UDR: Step 3 - Execute")
     
     udr_integration = config["configurable"].get("udr_integration")
@@ -672,7 +660,6 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
             step_logs.append("✅ UDR strategy execution complete")
             
             # Format citations (same logic as before)
-            from collections import defaultdict
             rag_doc_counts = defaultdict(int)
             web_sources = []
             
@@ -692,7 +679,6 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
                     url = src.get('url', 'N/A')
                     if not title and url != 'N/A':
                         try:
-                            from urllib.parse import urlparse
                             domain = urlparse(url).netloc
                             title = domain or f'Web Source {idx}'
                         except:
@@ -754,8 +740,6 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
     
     NOTE: Removed 'writer' parameter to fix LangGraph checkpointer compatibility issue.
     """
-    import asyncio
-    import sys
     
     # CRITICAL DEBUG: Use print() to ensure output appears
     print("=" * 80, flush=True, file=sys.stderr)
@@ -787,7 +771,6 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
     
     # Convert dict plan to string if needed (LLM sometimes returns structured JSON)
     if isinstance(strategy, dict):
-        import json
         strategy = json.dumps(strategy, indent=2)
     
     print("🔵 Building context...", flush=True, file=sys.stderr)
@@ -836,8 +819,6 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
         logger.info(f"✅ UDR SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
         
         # Format citations with deduplication
-        import sys
-        from collections import defaultdict
         
         print(f"🔍 [UDR] Formatting {len(result.sources)} sources for citations", flush=True, file=sys.stderr)
         logger.info(f"🔍 Formatting {len(result.sources)} sources for citations")
@@ -874,7 +855,6 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
                 # If no title, extract domain from URL as fallback
                 if not title and url != 'N/A':
                     try:
-                        from urllib.parse import urlparse
                         domain = urlparse(url).netloc
                         title = domain or f'Web Source {idx}'
                     except:
@@ -1096,9 +1076,6 @@ def route_after_planner(state: HackathonAgentState) -> Literal["udr_strategy", "
     - If user selected 'udr' → always route to UDR
     - If user selected 'auto' or empty → let LLM decide
     """
-    import logging
-    logger = logging.getLogger("uvicorn")
-    
     plan = state.get("plan", "")
     selected_strategy = state.get("strategy", "auto")  # User-selected: 'udr', 'ttd_dr', or 'auto'
     logger.info(f"🧭 ROUTING: plan field = {plan[:200] if plan else 'EMPTY'}...")
@@ -1114,7 +1091,6 @@ def route_after_planner(state: HackathonAgentState) -> Literal["udr_strategy", "
     
     # PRIORITY 2: If user selected 'auto' or no preference, let LLM decide
     try:
-        import json
         decision = json.loads(plan)
         strategy = decision.get("strategy", "SIMPLE_RAG")
         logger.info(f"🧭 ROUTING: LLM suggested strategy = {strategy}")
@@ -1206,7 +1182,6 @@ def create_hackathon_agent_graph() -> StateGraph:
     
     # Re-enable checkpointer for proper async node tracking
     # Without it, astream() completes before async nodes finish
-    from langgraph.checkpoint.memory import MemorySaver
     compiled_graph = workflow.compile(checkpointer=MemorySaver())
     
     logger.info("Hackathon agent graph compiled WITH checkpointer for proper streaming")
@@ -1221,7 +1196,7 @@ def create_configured_agent(
     reasoning_llm: BaseChatModel,
     instruct_llm: BaseChatModel,
     udr_integration: UDRIntegration,
-    ttd_dr_integration: 'TTDDRIntegration',
+    ttd_dr_integration: TTDDRIntegration,
     rag_url: str,
     num_reflections: int = 2
 ) -> tuple:

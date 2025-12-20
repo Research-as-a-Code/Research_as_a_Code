@@ -11,8 +11,11 @@ that guide the iterative search and refinement process.
 import json
 import logging
 from typing import Dict, Any, List, Optional
+
+from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 from ..models import ResearchPlan
 from ..prompts import RESEARCH_PLAN_PROMPT
@@ -70,9 +73,6 @@ class ResearchPlanner:
         
         try:
             # Generate the plan with NVIDIA guided_json
-            from pydantic import BaseModel, Field as PydanticField
-            from langchain_openai import ChatOpenAI as LangChainChatOpenAI
-            
             class PlanSchemaLocal(BaseModel):
                 main_topic: str = PydanticField(description="Primary research focus")
                 key_areas: list = PydanticField(description="Major investigation areas")

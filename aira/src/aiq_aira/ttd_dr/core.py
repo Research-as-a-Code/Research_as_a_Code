@@ -678,9 +678,6 @@ class TTDDRIntegration(BaseResearchStrategy):
         )
         
         try:
-            from pydantic import BaseModel, Field as PydanticField
-            from langchain_openai import ChatOpenAI as LangChainChatOpenAI
-            
             class QuestionsSchema(BaseModel):
                 questions: list = PydanticField(description="List of research questions")
                 gaps_identified: list = PydanticField(default=[], description="Information gaps")
