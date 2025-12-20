@@ -1,10 +1,11 @@
 # EKS Cluster Upgrade & Karpenter Operations Guide
 
-> **Last Updated**: December 19, 2025  
+> **Last Updated**: December 20, 2025  
 > **Cluster**: aiq-udf-eks  
 > **Region**: us-west-2
+> **Current Version**: Kubernetes 1.34
 
-This document captures learnings from upgrading the EKS cluster from v1.28 to v1.31 and managing Karpenter-provisioned GPU nodes.
+This document captures learnings from upgrading the EKS cluster from v1.28 to v1.34 and managing Karpenter-provisioned GPU nodes.
 
 ---
 
@@ -72,6 +73,36 @@ aws eks describe-nodegroup \
 | `Unsupported Kubernetes minor version update` | Skipping versions | Do incremental upgrades |
 | `PodEvictionFailure` during node group update | PDBs blocking eviction | Temporarily delete blocking PDBs |
 | Node group stuck in `UPDATING` | Pods can't be evicted | Check PDBs, delete stuck pods |
+| `AMI Type AL2_x86_64 is only supported for kubernetes versions 1.32 or earlier` | AL2 deprecated | Use `AL2023_x86_64_STANDARD` |
+
+### K8s 1.33+ AMI Requirements
+
+**Amazon Linux 2 (AL2) is deprecated for K8s 1.33+**. You must use:
+
+| Component | AMI Type | Notes |
+|-----------|----------|-------|
+| **Managed Node Groups** | `AL2023_x86_64_STANDARD` | Set in Terraform |
+| **Karpenter GPU Nodes** | `Bottlerocket` | AL2023 not supported in Karpenter v0.32 |
+
+```hcl
+# Terraform - managed node groups
+eks_managed_node_groups = {
+  sys_od = {
+    ami_type = "AL2023_x86_64_STANDARD"  # Required for K8s 1.33+
+    ...
+  }
+}
+```
+
+```yaml
+# Karpenter EC2NodeClass - GPU nodes
+apiVersion: karpenter.k8s.aws/v1beta1
+kind: EC2NodeClass
+spec:
+  amiFamily: Bottlerocket  # Not AL2!
+  # Note: Bottlerocket uses TOML userData, not bash
+  # Remove any bash userData when switching to Bottlerocket
+```
 
 ---
 

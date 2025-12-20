@@ -164,6 +164,7 @@ module "eks" {
       name           = "${local.name}-sys-od"
       instance_types = ["m5.xlarge"]
       capacity_type  = "ON_DEMAND"
+      ami_type       = "AL2023_x86_64_STANDARD"  # Required for K8s 1.33+
       
       min_size     = 1
       max_size     = 2
@@ -186,6 +187,7 @@ module "eks" {
       name           = "${local.name}-sys-sp"
       instance_types = ["m5.xlarge", "m5a.xlarge", "m5n.xlarge"]  # Multiple types for better spot availability
       capacity_type  = "SPOT"
+      ami_type       = "AL2023_x86_64_STANDARD"  # Required for K8s 1.33+
       
       min_size     = 1
       max_size     = 6
