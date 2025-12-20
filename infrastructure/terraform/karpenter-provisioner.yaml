@@ -1,10 +1,11 @@
 # SPDX-FileCopyrightText: Copyright (c) 2025 Research_as_a_Code Project
 # SPDX-License-Identifier: Apache-2.0
 
-# Karpenter NodePool for GPU instances
+# Karpenter NodePool for GPU instances (v1 API)
 # This will auto-provision g5.xlarge or g5.2xlarge instances when NIMs request GPUs
+# Updated for Karpenter v1.0+ with AL2023 support
 
-apiVersion: karpenter.sh/v1beta1
+apiVersion: karpenter.sh/v1
 kind: NodePool
 metadata:
   name: nvidia-nim-gpu
@@ -17,22 +18,21 @@ spec:
       requirements:
         - key: karpenter.sh/capacity-type
           operator: In
-          values: ["spot", "on-demand"]  # Prioritize spot (70% savings), fallback to on-demand
+          values: ["on-demand"]  # Use on-demand for GPU stability
         - key: kubernetes.io/arch
           operator: In
           values: ["amd64"]
         - key: node.kubernetes.io/instance-type
           operator: In
           values:
-            - g5.xlarge    # 1x NVIDIA A10G (24GB) - Good for embedding NIM
-            - g5.2xlarge   # 1x NVIDIA A10G (24GB) - Good for single NIM
-            - g5.4xlarge   # 1x NVIDIA A10G (24GB) - Good for Nemotron
-            - g5.8xlarge   # 1x NVIDIA A10G (24GB) - Good for larger workloads
-            - g5.12xlarge  # 4x NVIDIA A10G (96GB) - For multi-NIM on single node
+            - g5.xlarge    # 1x NVIDIA A10G (24GB) - For embedding NIM only
+            - g5.12xlarge  # 4x NVIDIA A10G (96GB) - For LLM NIMs (required for 9B)
         - key: karpenter.k8s.aws/instance-family
           operator: In
           values: ["g5"]
       nodeClassRef:
+        group: karpenter.k8s.aws
+        kind: EC2NodeClass
         name: nvidia-nim
       taints:
         - key: nvidia.com/gpu
@@ -42,23 +42,37 @@ spec:
     cpu: "1000"
     memory: 1000Gi
   disruption:
-    consolidationPolicy: WhenUnderutilized
-    expireAfter: 720h
+    consolidationPolicy: WhenEmptyOrUnderutilized
+    consolidateAfter: 1h
 
 ---
-apiVersion: karpenter.k8s.aws/v1beta1
+# EC2NodeClass for GPU nodes using AL2023
+# AL2023 provides traditional NVIDIA device mounting that vLLM requires
+# Unlike Bottlerocket which uses CDI-only mode
+apiVersion: karpenter.k8s.aws/v1
 kind: EC2NodeClass
 metadata:
   name: nvidia-nim
 spec:
-  amiFamily: AL2
-  role: "Karpenter-aiq-udf-eks-20251105001410250400000017"
+  # AL2023 is required for K8s 1.33+ and provides traditional GPU device mounting
+  # that vLLM needs (vs Bottlerocket's CDI-only mode which breaks vLLM)
+  amiFamily: AL2023
+  
+  # Use the EKS-optimized AL2023 NVIDIA AMI
+  amiSelectorTerms:
+    - alias: al2023@latest
+  
+  # Use existing instance profile (avoids IAM permission issues with Karpenter v1.0+)
+  instanceProfile: "Karpenter-aiq-udf-eks-20251105001411048200000019"
+  
   subnetSelectorTerms:
     - tags:
         karpenter.sh/discovery: "aiq-udf-eks"
+  
   securityGroupSelectorTerms:
     - tags:
         karpenter.sh/discovery: "aiq-udf-eks"
+  
   blockDeviceMappings:
     - deviceName: /dev/xvda
       ebs:
@@ -66,8 +80,17 @@ spec:
         volumeType: gp3
         encrypted: true
         deleteOnTermination: true
+  
+  # AL2023 uses NodeConfig YAML format for userData
   userData: |
+    MIME-Version: 1.0
+    Content-Type: multipart/mixed; boundary="BOUNDARY"
+    
+    --BOUNDARY
+    Content-Type: text/x-shellscript; charset="us-ascii"
+    
     #!/bin/bash
-    echo "Karpenter node provisioned for NVIDIA NIMs"
-    # Additional GPU node setup can go here
+    echo "Karpenter AL2023 GPU node provisioned for NVIDIA NIMs"
+    
+    --BOUNDARY--
 

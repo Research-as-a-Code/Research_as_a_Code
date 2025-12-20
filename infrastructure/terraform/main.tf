@@ -266,6 +266,8 @@ resource "aws_iam_role_policy" "karpenter_ec2_permissions_fix" {
 }
 
 # Karpenter Helm Chart
+# Upgraded from v0.32.0 to v1.0.x for AL2023 support
+# v1.0+ supports amiFamily: AL2023 which is required for K8s 1.34 GPU nodes
 resource "helm_release" "karpenter" {
   namespace        = "karpenter"
   create_namespace = true
@@ -273,8 +275,9 @@ resource "helm_release" "karpenter" {
   name       = "karpenter"
   repository = "oci://public.ecr.aws/karpenter"
   chart      = "karpenter"
-  version    = "v0.32.0"
+  version    = "1.0.8"  # Latest stable v1.0.x - supports AL2023 amiFamily
 
+  # v1.0+ uses different Helm value structure
   set {
     name  = "settings.clusterName"
     value = module.eks.cluster_name
@@ -293,6 +296,12 @@ resource "helm_release" "karpenter" {
   set {
     name  = "settings.interruptionQueue"
     value = module.karpenter.queue_name
+  }
+
+  # Required for v1.0+ webhook functionality
+  set {
+    name  = "webhook.enabled"
+    value = "true"
   }
 
   depends_on = [

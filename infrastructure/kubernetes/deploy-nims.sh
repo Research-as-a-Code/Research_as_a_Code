@@ -76,7 +76,8 @@ echo "=================================================="
 echo "Deploying NIMs using operator..."
 echo "=================================================="
 
-# Create a NIM deployment manifest for Nemotron-Nano-8B (Hackathon requirement)
+# Create a NIM deployment manifest for Nemotron-Nano-8B
+# Note: 9B-v2 requires >24GB VRAM (Mamba architecture) - use g5.12xlarge+ for 9B
 cat <<EOF | kubectl apply -f -
 apiVersion: apps/v1
 kind: Deployment

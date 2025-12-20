@@ -79,7 +79,7 @@ class Config:
     # NGC API Key (for NIM authentication if needed)
     NGC_API_KEY = os.getenv("NGC_API_KEY", "not-needed")
     
-    # Model names - Using Nemotron Nano 8B (as specified for hackathon)
+    # Model names - Using Nemotron Nano 8B (9B requires >24GB VRAM due to Mamba architecture)
     # Reasoning model for planning/analysis
     NEMOTRON_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
     # Instruct model for writing  
