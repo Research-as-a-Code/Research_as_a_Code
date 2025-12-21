@@ -202,7 +202,7 @@ class ContextPruner:
             model=self._model_name,
             api_key="not-used",
             model_kwargs={
-                "nvext": {"guided_json": json_schema}  # NVIDIA NIM: nvext at root level
+                "extra_body": {"nvext": {"guided_json": json_schema}}
             }
         )
     

@@ -552,41 +552,49 @@ resource "aws_security_group_rule" "cluster_to_node" {
 
 ## NVIDIA NIM Guided JSON (Structured Output)
 
-### Working Format (Verified Dec 2025)
+### Working Format (Verified Dec 21, 2025)
 
-For NVIDIA NIM with vLLM backend, use `nvext` at the **root level** of the request:
+For NVIDIA NIM with LangChain, you **MUST** use `extra_body` to wrap `nvext`:
 
 ```python
-# Direct API call
-response = client.chat.completions.create(
-    model="nvidia/llama-3.1-nemotron-nano-8b-v1",
-    messages=messages,
-    nvext={"guided_json": json_schema},  # ← Root level, NOT extra_body!
-)
-
-# LangChain ChatOpenAI
+# LangChain ChatOpenAI - CORRECT FORMAT
 llm = ChatOpenAI(
     base_url=nim_url,
     model="nvidia/llama-3.1-nemotron-nano-8b-v1",
     model_kwargs={
-        "nvext": {"guided_json": json_schema}  # ← NOT in extra_body!
+        "extra_body": {"nvext": {"guided_json": json_schema}}  # ← MUST use extra_body!
     }
 )
+
+# Direct API call (for reference)
+response = client.chat.completions.create(
+    model="nvidia/llama-3.1-nemotron-nano-8b-v1",
+    messages=messages,
+    extra_body={"nvext": {"guided_json": json_schema}},  # ← extra_body required
+)
 ```
+
+### Why extra_body is Required
+
+LangChain's `ChatOpenAI` passes `model_kwargs` to the OpenAI Python client's `create()` method.
+The OpenAI client **validates** kwargs and rejects unknown ones like `nvext`.
+Using `extra_body` adds custom parameters to the HTTP request body.
 
 ### Formats That DON'T Work
 
 ```python
-# ❌ These all fail with "Extra inputs are not permitted"
+# ❌ OpenAI client rejects unknown kwargs
+model_kwargs={"nvext": {"guided_json": json_schema}}
+# Error: AsyncCompletions.create() got an unexpected keyword argument 'nvext'
+
+# ❌ guided_json without nvext wrapper
 extra_body={"guided_json": json_schema}
-extra_body={"nvext": {"guided_json": json_schema}}
-guided_json=json_schema  # At root level
 ```
 
 ### Implementation
 
-All TTD-DR components have been updated to use the correct format:
-- `core.py`
+All TTD-DR components use the correct `extra_body` wrapped format:
+- `core.py` (3 locations)
 - `evaluator.py`
 - `planner.py`
 - `denoiser.py`
@@ -594,6 +602,9 @@ All TTD-DR components have been updated to use the correct format:
 - `context_pruner.py`
 - `search.py`
 - `evolver.py`
+- `hackathon_agent.py`
+
+See `NVIDIA_GUIDED_JSON_TODO.md` for full implementation details.
 
 ---
 

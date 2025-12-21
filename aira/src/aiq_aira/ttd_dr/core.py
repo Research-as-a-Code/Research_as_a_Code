@@ -188,7 +188,7 @@ class TTDDRIntegration(BaseResearchStrategy):
             model=self._model_name,
             api_key="not-used",
             model_kwargs={
-                "nvext": {"guided_json": json_schema}  # NVIDIA NIM: nvext at root level
+                "extra_body": {"nvext": {"guided_json": json_schema}}
             }
         )
     
@@ -201,7 +201,7 @@ class TTDDRIntegration(BaseResearchStrategy):
             model=self._model_name,
             api_key="not-used",
             model_kwargs={
-                "nvext": {"guided_json": json_schema}  # NVIDIA NIM: nvext at root level
+                "extra_body": {"nvext": {"guided_json": json_schema}}
             }
         )
     
@@ -689,7 +689,7 @@ class TTDDRIntegration(BaseResearchStrategy):
                 base_url=base_url,
                 model=self.llm.model_name,
                 api_key="not-used",
-                model_kwargs={"nvext": {"guided_json": json_schema}}
+                model_kwargs={"extra_body": {"nvext": {"guided_json": json_schema}}}
             )
             
             response = await guided_llm.ainvoke([

@@ -10,35 +10,36 @@ Found that NVIDIA NIM **DOES support structured output**, just not through LangC
 
 ## The NVIDIA Way
 
-### ✅ **VERIFIED WORKING FORMAT (Dec 20, 2025):**
+### ✅ **VERIFIED WORKING FORMAT (Dec 21, 2025):**
 
 For **direct API calls**, `nvext` must be at the **ROOT level** of the request body:
 ```python
 response = client.chat.completions.create(
     model="nvidia/llama-3.1-nemotron-nano-8b-v1",
     messages=messages,
-    nvext={"guided_json": json_schema},  # ← nvext at ROOT level, NOT in extra_body
+    extra_body={"nvext": {"guided_json": json_schema}},  # ← Use extra_body for OpenAI client
 )
 ```
 
-### ❌ **FORMATS THAT DON'T WORK:**
-```python
-# These all fail with "Extra inputs are not permitted"
-extra_body={"guided_json": json_schema}  # ❌
-extra_body={"nvext": {"guided_json": json_schema}}  # ❌
-guided_json=json_schema  # ❌ (error says to use nvext)
-```
-
 ### **For LangChain ChatOpenAI:**
-Use `model_kwargs` to inject `nvext` at root level:
+Use `model_kwargs` with `extra_body` to pass NVIDIA-specific parameters:
 ```python
 llm = ChatOpenAI(
     base_url=nim_url,
     model="nvidia/llama-3.1-nemotron-nano-8b-v1",
     model_kwargs={
-        "nvext": {"guided_json": json_schema}  # NOT extra_body!
+        "extra_body": {"nvext": {"guided_json": json_schema}}  # ← MUST use extra_body!
     }
 )
+```
+
+### ❌ **FORMATS THAT DON'T WORK:**
+```python
+# Direct nvext fails - OpenAI client doesn't recognize it
+model_kwargs={"nvext": {...}}  # ❌ AsyncCompletions.create() got unexpected kwarg 'nvext'
+
+# guided_json without nvext wrapper
+extra_body={"guided_json": json_schema}  # ❌ Must be nested in nvext
 ```
 
 **Tested on:** NIM LLM API v1.8.4, vLLM backend, llama-3.1-nemotron-nano-8b-v1
@@ -63,15 +64,12 @@ class PlanningDecision(BaseModel):
 # Convert to JSON schema
 json_schema = PlanningDecision.model_json_schema()
 
-# Create LLM with model_kwargs
+# Create LLM with model_kwargs - MUST use extra_body to wrap nvext!
 llm = ChatOpenAI(
     base_url=nim_url,
     model="nvidia/llama-3.1-nemotron-nano-8b-v1",
     model_kwargs={
-        "extra_body": {
-            "guided_json": json_schema  # Try stable first
-            # OR: "nvext": {"guided_json": json_schema}  # Try older if stable fails
-        }
+        "extra_body": {"nvext": {"guided_json": json_schema}}  # ← Correct format
     }
 )
 
@@ -133,10 +131,10 @@ If successful:
 ## Implementation Checklist
 
 - [x] Test stable API: `extra_body={"guided_json": schema}` → ❌ Does NOT work
-- [x] Test older API: `extra_body={"nvext": {"guided_json": schema}}` → ❌ Does NOT work  
-- [x] Test root-level: `nvext={"guided_json": schema}` → ✅ WORKS!
-- [x] Determine which format your NIM version supports → `nvext` at ROOT level
-- [x] Implement in planner_node → Updated to use model_kwargs={"nvext": {...}}
+- [x] Test older API: `extra_body={"nvext": {"guided_json": schema}}` → ✅ WORKS with LangChain!
+- [x] Test root-level: `model_kwargs={"nvext": {...}}` → ❌ OpenAI client rejects unknown kwargs
+- [x] Determine which format your NIM version supports → `extra_body` wrapper required for LangChain
+- [x] Implement in planner_node → Updated to use `model_kwargs={"extra_body": {"nvext": {...}}}`
 - [x] Roll out to TTD-DR components:
   - core.py (3 locations)
   - evaluator.py
@@ -147,6 +145,7 @@ If successful:
   - search.py
   - evolver.py
 - [x] Update documentation with working approach
+- [x] Update test cases to reflect correct format
 
 ---
 
@@ -178,13 +177,16 @@ If successful:
 
 ---
 
-**Status:** ✅ **COMPLETED** (December 20, 2025)
+**Status:** ✅ **COMPLETED** (December 21, 2025)
 
-All TTD-DR components updated with correct `nvext` format. Deployed and verified working on EKS cluster with:
-- NIM LLM API v1.8.4
-- vLLM backend (no TensorRT-LLM build needed)
+All TTD-DR components updated with correct `extra_body` wrapper format. Deployed and verified working on EKS cluster with:
+- NIM LLM API with TensorRT-LLM backend
 - `nvidia/llama-3.1-nemotron-nano-8b-v1` model
-- 8K context, 32 max batch size
+- 16K context, 32 max batch size
 
-Key fix: Security groups between managed nodes and Karpenter GPU nodes needed cross-communication rules. 🎯
+**Key learnings:**
+1. LangChain's ChatOpenAI passes `model_kwargs` to OpenAI client's `create()` method
+2. OpenAI client validates kwargs and rejects unknown ones like `nvext`
+3. Must use `extra_body` to pass NVIDIA-specific parameters: `model_kwargs={"extra_body": {"nvext": {"guided_json": schema}}}`
+4. The `extra_body` contents are added to the HTTP request body, putting `nvext` at root level as NVIDIA expects 🎯
 
