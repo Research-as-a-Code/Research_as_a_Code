@@ -1,6 +1,6 @@
 # EKS Cluster Upgrade & Karpenter Operations Guide
 
-> **Last Updated**: December 20, 2025  
+> **Last Updated**: December 21, 2025  
 > **Cluster**: aiq-udf-eks  
 > **Region**: us-west-2
 > **Current Version**: Kubernetes 1.34
@@ -18,6 +18,7 @@ This document captures learnings from upgrading the EKS cluster from v1.28 to v1
 5. [Milvus Scheduling Issues](#milvus-scheduling-issues)
 6. [Cost Optimization](#cost-optimization)
 7. [Terraform IaC Changes](#terraform-iac-changes)
+8. [TensorRT-LLM Memory Requirements](#tensorrt-llm-memory-requirements)
 
 ---
 
@@ -593,4 +594,291 @@ All TTD-DR components have been updated to use the correct format:
 - `context_pruner.py`
 - `search.py`
 - `evolver.py`
+
+---
+
+## AWS Resource Auditing and Cleanup
+
+### Periodic Resource Audit (2025-12-20)
+
+Performed a comprehensive audit of AWS resources in us-west-2 using AWS Global View CSV export.
+
+### Issues Found and Fixed
+
+#### 1. Orphaned Security Group (DELETED)
+
+**Resource:** `sg-090c4651c1ffe4121` (launch-wizard-1)
+- **VPC:** Default VPC (vpc-f9df1e9c) - NOT the EKS VPC
+- **Created:** 2023-10-31 from a one-off EC2 launch wizard
+- **Verification:** Confirmed no ENIs, instances, or other SGs reference it
+- **Action:** Deleted
+
+```bash
+# Verify SG is truly orphaned before deletion
+aws ec2 describe-network-interfaces --filters "Name=group-id,Values=sg-090c4651c1ffe4121" --region us-west-2
+aws ec2 describe-instances --filters "Name=instance.group-id,Values=sg-090c4651c1ffe4121" --region us-west-2
+aws ec2 describe-security-groups --filters "Name=ip-permission.group-id,Values=sg-090c4651c1ffe4121" --region us-west-2
+
+# Delete if all empty
+aws ec2 delete-security-group --group-id sg-090c4651c1ffe4121 --region us-west-2
+```
+
+#### 2. Failed Helm Release with Orphaned Pods (CLEANED UP)
+
+**Issue:** `milvus` Helm release in `rag-blueprint` namespace was in FAILED state
+- Left ~15 orphaned Pulsar pods running (`milvus-pulsarv3-*`)
+- Kafka pod was scheduled on a GPU node (wasting GPU resources)
+
+**Action:** Uninstalled the failed release
+
+```bash
+helm uninstall milvus -n rag-blueprint
+```
+
+#### 3. Unused GPU Node (DELETED)
+
+**Issue:** Karpenter GPU node `ip-10-0-17-35.us-west-2.compute.internal` had no NIM workloads
+- Was only running `milvus-kafka-0` (no GPU needed)
+- After milvus release cleanup, node was completely empty
+
+**Action:** Deleted the NodeClaim
+
+```bash
+kubectl delete nodeclaim nvidia-nim-gpu-s69ck
+```
+
+**Cost Savings:** ~$24/day = ~$720/month
+
+### Resource Inventory After Cleanup
+
+| Resource Type | Count | Purpose |
+|---------------|-------|---------|
+| GPU Nodes (Karpenter) | 2 | Optimal: 1 for embedding, 1 for LLM |
+| Managed Nodes | 5 | 4 spot + 1 on-demand |
+| NAT Gateways | 3 | One per AZ (HA) |
+| Security Groups | 6 | EKS cluster, nodes, ELBs (1 orphan deleted) |
+| Helm Releases | 1 | milvus-standalone only |
+
+### Audit Checklist for Future Reviews
+
+1. **Check for terminated instances in Global View CSV** - CSV may contain stale data
+2. **Verify security groups have attachments** before considering orphaned
+3. **Check Helm releases** for failed status: `helm list -A | grep -v deployed`
+4. **Review GPU node utilization** - ensure GPU workloads on GPU nodes:
+   ```bash
+   for node in $(kubectl get nodes -l karpenter.sh/nodepool=nvidia-nim-gpu --no-headers | awk '{print $1}'); do
+     echo "--- $node ---"
+     kubectl get pods -A --field-selector spec.nodeName=$node | grep -v kube-system
+   done
+   ```
+5. **Check for pods with GPU tolerations that don't need GPU** (waste of resources)
+
+### Cost Optimization Opportunities
+
+| Item | Current | Could Reduce To | Monthly Savings |
+|------|---------|-----------------|-----------------|
+| NAT Gateways | 3 | 1 (for non-HA) | ~$64/mo |
+| GPU nodes | 2 | 2 (optimal now) | - |
+
+### Default VPC Resources (Non-EKS)
+
+These exist in the default VPC (vpc-f9df1e9c) and are NOT related to EKS:
+- `sg-69fe750c` (default SG) - Normal, cannot delete
+- `subnet-*` (4 default subnets) - Normal defaults
+- `igw-5b79883e` - Default internet gateway
+- `rtb-ea9b568f` - Default route table
+
+These can be left alone unless you want to clean up the default VPC entirely.
+
+---
+
+## TensorRT-LLM Memory Requirements
+
+### Key Discovery (December 2025)
+
+TensorRT-LLM NIMs have **two distinct phases** with very different memory requirements:
+
+| Phase | System RAM | GPU VRAM | Duration |
+|-------|------------|----------|----------|
+| **Engine Build** | **~64GB** | ~24GB | 3-5 min |
+| **Inference** | ~10GB | ~20GB | Ongoing |
+
+**Critical Insight**: The TRT-LLM engine is built at **every pod startup** - it's NOT cached to disk. This means you cannot run TRT-LLM on small instances even if inference would fit.
+
+### Instance Sizing for TRT-LLM
+
+| Instance | RAM | VRAM | TRT-LLM Build | Inference | Cost/hr |
+|----------|-----|------|---------------|-----------|---------|
+| g5.xlarge | 16GB | 24GB | ❌ OOM | ✅ Works | $1.01 |
+| g5.2xlarge | 32GB | 24GB | ❌ OOM | ✅ Works | $1.21 |
+| g5.4xlarge | 64GB | 24GB | ✅ Works | ✅ Works | $1.62 |
+| g5.8xlarge | 128GB | 24GB | ✅ Works | ✅ Works | $2.45 |
+
+**Recommendation**: Use **g5.4xlarge** for TRT-LLM NIMs. It's the smallest instance that can handle the engine build.
+
+### NIM Backend Selection (NVIDIA Ignores Override)
+
+The NVIDIA NIM container includes both TensorRT-LLM and vLLM backends but **ignores** environment variables attempting to force vLLM:
+
+```yaml
+# These environment variables are IGNORED by the NIM:
+env:
+- name: NIM_BACKEND
+  value: "vllm"              # ❌ Ignored
+- name: NIM_MANIFEST_PROFILE_ID
+  value: "4f904d571fe60ff24695b5ee2aa42da58cb460787a968f1e8a09f5a7e862728d"  # ❌ Ignored
+```
+
+The NIM **always prefers TensorRT-LLM** when:
+1. GPU is compatible (A10G, L40S, H100, etc.)
+2. TRT-LLM buildable profile exists
+
+### PersistentVolume for Model Cache
+
+#### What Gets Cached
+
+A PersistentVolume at `NIM_CACHE_PATH=/model-cache` caches:
+
+| Cached | Not Cached |
+|--------|------------|
+| ✅ Model weights (15GB) | ❌ TRT-LLM compiled engine |
+| ✅ Tokenizer files | ❌ Runtime state |
+| ✅ NGC metadata | |
+
+#### PV Setup
+
+```yaml
+# PersistentVolumeClaim
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: nim-engine-cache
+  namespace: nim
+spec:
+  accessModes:
+    - ReadWriteOnce
+  storageClassName: gp2  # Or gp3 if available
+  resources:
+    requests:
+      storage: 50Gi
+---
+# Deployment volume mount
+spec:
+  template:
+    spec:
+      securityContext:
+        fsGroup: 1000  # Required! NIM runs as uid 1000
+      containers:
+      - name: nim
+        volumeMounts:
+        - name: model-cache
+          mountPath: /model-cache
+      volumes:
+      - name: model-cache
+        persistentVolumeClaim:
+          claimName: nim-engine-cache
+```
+
+#### PV Benefits and Limitations
+
+| Benefit | Impact |
+|---------|--------|
+| Faster startup | 3 min vs 15 min (no model download) |
+| Resilient to pod restarts | No re-download of 15GB |
+| Lower egress costs | Model not downloaded from NGC repeatedly |
+
+| Limitation | Implication |
+|------------|-------------|
+| TRT-LLM engine still rebuilds | Still needs 64GB RAM at startup |
+| Cannot enable g5.xlarge | Engine build will OOM |
+| PV is zone-locked (EBS) | Pod must schedule in same AZ |
+
+#### Cost Analysis
+
+| Configuration | Instance | Storage | Monthly Total |
+|---------------|----------|---------|---------------|
+| g5.8xlarge (no PV) | $1,789 | $0 | **$1,789** |
+| g5.4xlarge (no PV) | $1,183 | $0 | **$1,183** |
+| g5.4xlarge + PV | $1,183 | $4 | **$1,187** |
+
+**Savings with g5.4xlarge vs g5.8xlarge**: ~$600/month (34%)
+
+### Recommended NIM Deployment Configuration
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: llama-instruct-nim
+  namespace: nim
+spec:
+  template:
+    spec:
+      securityContext:
+        fsGroup: 1000  # Required for PVC write access
+      containers:
+      - name: nim
+        image: nvcr.io/nim/nvidia/llama-3.1-nemotron-nano-8b-v1:latest
+        resources:
+          requests:
+            memory: "48Gi"      # Ensures g5.4xlarge scheduling
+            nvidia.com/gpu: "1"
+          limits:
+            memory: "60Gi"
+            nvidia.com/gpu: "1"
+        env:
+        - name: NIM_CACHE_PATH
+          value: "/model-cache"
+        - name: NIM_MAX_MODEL_LEN
+          value: "8192"
+        - name: NIM_MAX_BATCH_SIZE
+          value: "32"
+        startupProbe:
+          httpGet:
+            path: /v1/health/ready
+            port: 8000
+          initialDelaySeconds: 60
+          periodSeconds: 10
+          failureThreshold: 180  # 30 minutes total
+        volumeMounts:
+        - name: model-cache
+          mountPath: /model-cache
+      volumes:
+      - name: model-cache
+        persistentVolumeClaim:
+          claimName: nim-engine-cache
+      tolerations:
+      - key: "nvidia.com/gpu"
+        operator: "Exists"
+        effect: "NoSchedule"
+```
+
+### Troubleshooting TRT-LLM OOM
+
+#### Symptoms
+
+```
+# Kubernetes shows:
+STATUS: OOMKilled
+RESTARTS: 15
+
+# Logs show (before kill):
+INFO: Building rank 0 with config...
+0it [00:00, ?it/s]165it [00:00, 1649.43it/s]...
+# Then container killed
+```
+
+#### Root Cause
+
+System RAM exhausted during TensorRT engine compilation, NOT GPU VRAM.
+
+#### Fix
+
+Increase instance size to g5.4xlarge (64GB RAM) or larger.
+
+### Future Considerations
+
+1. **Pre-built engines**: NVIDIA may release pre-compiled TRT-LLM engines in future NIM versions
+2. **Engine caching**: Future NIM versions may support saving compiled engines to PV
+3. **vLLM-only NIMs**: Using a vLLM-only image would eliminate the build step but sacrifice inference performance
 
