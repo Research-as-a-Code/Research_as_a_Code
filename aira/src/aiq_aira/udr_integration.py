@@ -394,13 +394,13 @@ class UDRStrategyExecutor:
         self.tavily_api_key = tavily_api_key
         
     async def _search_rag_tool(self, query: str, collection: str) -> Dict[str, Any]:
-        """Tool: Search RAG using direct Milvus + Embedding NIM (same as main agent)."""
+        """Tool: Search RAG using direct Milvus + Embedding NIM (same as main agent).
+        
+        Supports multiple collections passed as comma-separated string.
+        """
         import sys
         print("🔷 _search_rag_tool ENTERED!", flush=True, file=sys.stderr)
-        print(f"🔷 About to call logger.info with query length: {len(query)}", flush=True, file=sys.stderr)
-        # Skip logger.info - it might be causing a deadlock!
-        # logger.info(f"UDR Tool Call: search_rag(query='{query[:50]}...', collection='{collection}')")
-        print(f"🔷 Skipped logger.info, continuing...", flush=True, file=sys.stderr)
+        print(f"🔷 Query: {query[:50]}..., Collection(s): {collection}", flush=True, file=sys.stderr)
         
         try:
             from pymilvus import connections, Collection, utility
@@ -413,16 +413,11 @@ class UDRStrategyExecutor:
             # Connect to Milvus
             connections.connect(alias="default", host=milvus_host, port=milvus_port)
             
-            # Check if collection exists
-            if not utility.has_collection(collection):
-                logger.warning(f"Collection '{collection}' does not exist")
-                return {
-                    "content": f"Collection '{collection}' not found",
-                    "citations": [],
-                    "source": "rag"
-                }
+            # Parse multiple collections (comma-separated)
+            collection_names = [c.strip() for c in collection.split(',') if c.strip()]
+            print(f"🔷 Parsed {len(collection_names)} collection(s): {collection_names}", flush=True, file=sys.stderr)
             
-            # Get embedding from NIM
+            # Get embedding from NIM (do this once)
             async with aiohttp.ClientSession() as session:
                 embedding_payload = {
                     "input": query,
@@ -439,47 +434,59 @@ class UDRStrategyExecutor:
                     embed_result = await embed_response.json()
                     query_embedding = embed_result["data"][0]["embedding"]
             
-            # Query Milvus
-            coll = Collection(collection)
-            coll.load()
+            # Search all collections and aggregate results
+            all_content_parts = []
+            all_citations = []
+            results_per_collection = max(2, 6 // len(collection_names))  # Distribute results evenly
             
-            search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
-            results = coll.search(
-                data=[query_embedding],
-                anns_field="embedding",
-                param=search_params,
-                limit=4,
-                output_fields=["text", "source"]
-            )
+            for coll_name in collection_names:
+                # Check if collection exists
+                if not utility.has_collection(coll_name):
+                    logger.warning(f"Collection '{coll_name}' does not exist, skipping")
+                    print(f"🔷 Collection '{coll_name}' does not exist, skipping", flush=True, file=sys.stderr)
+                    continue
+                
+                # Query this collection
+                coll = Collection(coll_name)
+                coll.load()
+                
+                search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+                results = coll.search(
+                    data=[query_embedding],
+                    anns_field="embedding",
+                    param=search_params,
+                    limit=results_per_collection,
+                    output_fields=["text", "source"]
+                )
+                
+                if results and len(results[0]) > 0:
+                    print(f"🔷 Collection '{coll_name}': found {len(results[0])} results", flush=True, file=sys.stderr)
+                    for i, hit in enumerate(results[0]):
+                        try:
+                            text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
+                            source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
+                        except Exception:
+                            text = str(hit.entity.get('text', ''))
+                            source = str(hit.entity.get('source', f"Doc {i+1}"))
+                        
+                        all_content_parts.append(f"[{coll_name}/{source}] {text}")
+                        # Include collection name so we know which collection each document came from
+                        all_citations.append({"source": source, "collection": coll_name, "text": text[:200]})
             
-            if not results or len(results[0]) == 0:
+            if not all_content_parts:
                 return {
-                    "content": "No relevant documents found",
+                    "content": "No relevant documents found in any collection",
                     "citations": [],
                     "source": "rag"
                 }
             
-            # Format results
-            content_parts = []
-            citations = []
+            content = "\n\n".join(all_content_parts)
             
-            for i, hit in enumerate(results[0]):
-                try:
-                    text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
-                    source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
-                except Exception:
-                    text = str(hit.entity.get('text', ''))
-                    source = str(hit.entity.get('source', f"Doc {i+1}"))
-                
-                content_parts.append(f"[{i+1}] {text}")
-                citations.append({"source": source, "text": text[:200]})
-            
-            content = "\n\n".join(content_parts)
-            
-            logger.info(f"RAG found {len(results[0])} results from collection '{collection}'")
+            logger.info(f"RAG found {len(all_citations)} results across {len(collection_names)} collection(s)")
+            print(f"🔷 Total: {len(all_citations)} results across {len(collection_names)} collection(s)", flush=True, file=sys.stderr)
             return {
                 "content": content,
-                "citations": citations,
+                "citations": all_citations,
                 "source": "rag"
             }
             

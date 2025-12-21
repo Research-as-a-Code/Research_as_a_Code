@@ -338,7 +338,7 @@ async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfi
     
     step_logs = ["📝 Formatting citations and finalizing report..."]
     
-    # Format citations (same logic as before)
+    # Format citations - handle both UDR (nested citations) and TTD-DR (flat sources) formats
     rag_doc_counts = defaultdict(int)
     web_sources = []
     
@@ -346,13 +346,26 @@ async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfi
         src_type = src.get('source', src.get('type', 'unknown'))
         
         if src_type == 'rag':
+            # Check if this is UDR format (nested citations) or TTD-DR format (flat with collection/title)
             inner_citations = src.get('citations', [])
             if inner_citations:
+                # UDR format: nested citations with document details
                 for inner_src in inner_citations:
                     doc_name = inner_src.get('source', f'RAG Document {idx}')
-                    rag_doc_counts[doc_name] += 1
+                    # Use per-citation collection if available
+                    doc_collection = inner_src.get('collection', state.get('collection', 'default'))
+                    doc_key = (doc_name, doc_collection)
+                    rag_doc_counts[doc_key] += 1
+            elif src.get('collection'):
+                # TTD-DR format: flat source with collection and title at top level
+                doc_name = src.get('title', f'RAG Document {idx}')
+                doc_collection = src.get('collection')
+                doc_key = (doc_name, doc_collection)
+                rag_doc_counts[doc_key] += 1
             else:
-                rag_doc_counts[f'RAG Document {idx}'] += 1
+                # Fallback
+                fallback_collection = state.get('collection', 'default')
+                rag_doc_counts[(f'RAG Document {idx}', fallback_collection)] += 1
         elif src_type == 'web':
             title = src.get('title', '').strip()
             url = src.get('url', 'N/A')
@@ -369,11 +382,12 @@ async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfi
                 web_sources.append({'title': title, 'url': url})
     
     citations_formatted = []
-    for doc_name, count in sorted(rag_doc_counts.items()):
+    # Keys are now tuples: (doc_name, collection)
+    for (doc_name, doc_collection), count in sorted(rag_doc_counts.items()):
         if count > 1:
-            citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+            citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection} ({count} excerpts)")
         else:
-            citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+            citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection}")
     
     for ws in web_sources:
         citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
@@ -659,7 +673,7 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
             
             step_logs.append("✅ UDR strategy execution complete")
             
-            # Format citations (same logic as before)
+            # Format citations - track both document name and collection
             rag_doc_counts = defaultdict(int)
             web_sources = []
             
@@ -669,11 +683,22 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
                 if src_type == 'rag':
                     inner_citations = src.get('citations', [])
                     if inner_citations:
+                        # UDR format: nested citations with document details and collection
                         for inner_src in inner_citations:
                             doc_name = inner_src.get('source', f'RAG Document {idx}')
-                            rag_doc_counts[doc_name] += 1
+                            doc_collection = inner_src.get('collection', state.get('collection', 'default'))
+                            doc_key = (doc_name, doc_collection)
+                            rag_doc_counts[doc_key] += 1
+                    elif src.get('collection'):
+                        # Flat format with collection at top level
+                        doc_name = src.get('title', f'RAG Document {idx}')
+                        doc_collection = src.get('collection')
+                        doc_key = (doc_name, doc_collection)
+                        rag_doc_counts[doc_key] += 1
                     else:
-                        rag_doc_counts[f'RAG Document {idx}'] += 1
+                        # Fallback
+                        fallback_collection = state.get('collection', 'default')
+                        rag_doc_counts[(f'RAG Document {idx}', fallback_collection)] += 1
                 elif src_type == 'web':
                     title = src.get('title', '').strip()
                     url = src.get('url', 'N/A')
@@ -690,11 +715,12 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
                         web_sources.append({'title': title, 'url': url})
             
             citations_formatted = []
-            for doc_name, count in sorted(rag_doc_counts.items()):
+            # Keys are now tuples: (doc_name, collection)
+            for (doc_name, doc_collection), count in sorted(rag_doc_counts.items()):
                 if count > 1:
-                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection} ({count} excerpts)")
                 else:
-                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection}")
             
             for ws in web_sources:
                 citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
@@ -833,21 +859,33 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
             logger.info(f"  Source {idx}: type={src_type}, keys={list(src.keys())}")
             
             if src_type == 'rag':
-                # RAG source - check for nested citations from actual documents
+                # Check if this is UDR format (nested citations) or TTD-DR format (flat with collection/title)
                 inner_citations = src.get('citations', [])
                 print(f"    [UDR] RAG source has {len(inner_citations)} inner citations", flush=True, file=sys.stderr)
                 logger.info(f"    RAG source has {len(inner_citations)} inner citations")
                 
                 if inner_citations:
-                    # Collect and count document names
+                    # UDR format: nested citations with document details
                     for inner_src in inner_citations:
                         doc_name = inner_src.get('source', f'RAG Document {idx}')
-                        print(f"      [UDR] Inner citation: {doc_name}", flush=True, file=sys.stderr)
-                        rag_doc_counts[doc_name] += 1
+                        # Use per-citation collection if available, otherwise fallback
+                        doc_collection = inner_src.get('collection', state.get('collection', 'default'))
+                        # Create unique key: (doc_name, collection) to track per-collection
+                        doc_key = (doc_name, doc_collection)
+                        print(f"      [UDR] Inner citation: {doc_name} from collection: {doc_collection}", flush=True, file=sys.stderr)
+                        rag_doc_counts[doc_key] += 1
+                elif src.get('collection'):
+                    # TTD-DR format: flat source with collection and title at top level
+                    doc_name = src.get('title', f'RAG Document {idx}')
+                    doc_collection = src.get('collection')
+                    doc_key = (doc_name, doc_collection)
+                    print(f"      [UDR] Flat citation: {doc_name} from collection: {doc_collection}", flush=True, file=sys.stderr)
+                    rag_doc_counts[doc_key] += 1
                 else:
-                    # Fallback if no inner citations
+                    # Fallback if no inner citations and no collection
                     print(f"    [UDR] No inner citations, using fallback", flush=True, file=sys.stderr)
-                    rag_doc_counts[f'RAG Document {idx}'] += 1
+                    fallback_collection = state.get('collection', 'default')
+                    rag_doc_counts[(f'RAG Document {idx}', fallback_collection)] += 1
             elif src_type == 'web':
                 # Web source - deduplicate by URL
                 title = src.get('title', '').strip()
@@ -876,11 +914,12 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
         citations_formatted = []
         
         # Add RAG documents (with optional count if >1)
-        for doc_name, count in sorted(rag_doc_counts.items()):
+        # Keys are now tuples: (doc_name, collection)
+        for (doc_name, doc_collection), count in sorted(rag_doc_counts.items()):
             if count > 1:
-                citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
+                citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection} ({count} excerpts)")
             else:
-                citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
+                citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection}")
         
         # Add web sources
         for ws in web_sources:
