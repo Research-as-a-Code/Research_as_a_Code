@@ -39,7 +39,7 @@ class CritiqueSchema(BaseModel):
     description: str = PydanticField(description="Specific description of the flaw")
     location: str = PydanticField(description="Which section or part of the draft")
     suggested_action: str = PydanticField(description="What should be done to fix this")
-    confidence: float = PydanticField(ge=0, le=1, description="Confidence in this critique (0-1)")
+    confidence: float = PydanticField(ge=0, le=100, description="Confidence in this critique (0-100)")
 
 
 class RedTeamOutputSchema(BaseModel):

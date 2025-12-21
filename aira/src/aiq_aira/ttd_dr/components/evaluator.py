@@ -35,7 +35,7 @@ class EvaluatorOutputSchema(BaseModel):
     depth: float = PydanticField(ge=0, le=100, description="Analysis depth score (0-100)")
     citation_quality: float = PydanticField(ge=0, le=100, description="Evidence quality score (0-100)")
     overall_score: float = PydanticField(ge=0, le=100, description="Overall quality score (0-100)")
-    confidence: float = PydanticField(ge=0, le=1, description="Confidence in assessment (0-1)")
+    confidence: float = PydanticField(ge=0, le=100, description="Confidence in assessment (0-100)")
     improvement_suggestions: List[str] = PydanticField(
         default_factory=list,
         description="Specific suggestions for improvement"

@@ -44,7 +44,7 @@ class ResearchPlanSchema(BaseModel):
 class ConvergenceCheckSchema(BaseModel):
     """Schema from ttd_dr/core.py and denoiser.py"""
     convergence_score: int = PydanticField(ge=0, le=100, description="Convergence score 0-100")
-    confidence: float = PydanticField(ge=0, le=1, description="Confidence in assessment")
+    confidence: float = PydanticField(ge=0, le=100, description="Confidence in assessment (0-100)")
     reasoning: str = PydanticField(description="Explanation of convergence assessment")
     key_improvements: List[str] = PydanticField(default_factory=list, description="What improved")
     remaining_gaps: List[str] = PydanticField(default_factory=list, description="What needs work")
@@ -233,7 +233,7 @@ class TestResponseParsing:
         """Test parsing convergence check with constraints."""
         response_content = json.dumps({
             "convergence_score": 75,
-            "confidence": 0.85,
+            "confidence": 85,
             "reasoning": "Good progress on main topics",
             "key_improvements": ["Added citations", "Clarified methodology"],
             "remaining_gaps": ["Need more recent data"]
@@ -242,14 +242,14 @@ class TestResponseParsing:
         result = ConvergenceCheckSchema.model_validate_json(response_content)
         
         assert result.convergence_score == 75
-        assert 0 <= result.confidence <= 1
+        assert 0 <= result.confidence <= 100
         assert len(result.key_improvements) == 2
     
     def test_parse_with_empty_lists(self):
         """Test that empty lists are preserved (not replaced with defaults)."""
         response_content = json.dumps({
             "convergence_score": 50,
-            "confidence": 0.5,
+            "confidence": 50,
             "reasoning": "Moderate progress",
             "key_improvements": [],  # Intentionally empty
             "remaining_gaps": []     # Intentionally empty
