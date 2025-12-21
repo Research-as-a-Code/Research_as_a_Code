@@ -646,6 +646,22 @@ aws ec2 delete-security-group --group-id sg-090c4651c1ffe4121 --region us-west-2
 helm uninstall milvus -n rag-blueprint
 ```
 
+**Follow-up (Dec 21, 2025):** Orphaned Pulsar configmaps remained after pod cleanup:
+```bash
+# Check for orphaned Pulsar configmaps
+kubectl get configmap -n rag-blueprint | grep pulsar
+
+# Delete orphaned configmaps (safe if no Pulsar pods exist)
+kubectl delete configmap -n rag-blueprint \
+  milvus-standalone-pulsarv3-bookie \
+  milvus-standalone-pulsarv3-broker \
+  milvus-standalone-pulsarv3-proxy \
+  milvus-standalone-pulsarv3-recovery \
+  milvus-standalone-pulsarv3-zookeeper
+```
+
+**Note:** Milvus standalone v2.6.5+ uses "woodpecker" as its internal message queue, not Pulsar. Pulsar resources from older deployments can be safely removed.
+
 #### 3. Unused GPU Node (DELETED)
 
 **Issue:** Karpenter GPU node `ip-10-0-17-35.us-west-2.compute.internal` had no NIM workloads
