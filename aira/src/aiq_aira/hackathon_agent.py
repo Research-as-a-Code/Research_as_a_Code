@@ -45,6 +45,7 @@ from langchain_openai import ChatOpenAI as LangChainChatOpenAI
 
 from aiq_aira.schema import GeneratedQuery
 from aiq_aira.udr_integration import UDRIntegration, UDRExecutionResult
+from aiq_aira.citation_utils import format_citations_from_sources
 from aiq_aira.ttd_dr import TTDDRIntegration
 from aiq_aira.nodes import generate_query, web_research, summarize_sources, reflect_on_summary, finalize_summary
 from aiq_aira.research_strategy_base import ResearchContext
@@ -338,65 +339,17 @@ async def ttd_dr_finalize_node(state: HackathonAgentState, config: RunnableConfi
     
     step_logs = ["📝 Formatting citations and finalizing report..."]
     
-    # Format citations - handle both UDR (nested citations) and TTD-DR (flat sources) formats
-    rag_doc_counts = defaultdict(int)
-    web_sources = []
-    
-    for idx, src in enumerate(result.sources, 1):
-        src_type = src.get('source', src.get('type', 'unknown'))
-        
-        if src_type == 'rag':
-            # Check if this is UDR format (nested citations) or TTD-DR format (flat with collection/title)
-            inner_citations = src.get('citations', [])
-            if inner_citations:
-                # UDR format: nested citations with document details
-                for inner_src in inner_citations:
-                    doc_name = inner_src.get('source', f'RAG Document {idx}')
-                    # Use per-citation collection if available
-                    doc_collection = inner_src.get('collection', state.get('collection', 'default'))
-                    doc_key = (doc_name, doc_collection)
-                    rag_doc_counts[doc_key] += 1
-            elif src.get('collection'):
-                # TTD-DR format: flat source with collection and title at top level
-                doc_name = src.get('title', f'RAG Document {idx}')
-                doc_collection = src.get('collection')
-                doc_key = (doc_name, doc_collection)
-                rag_doc_counts[doc_key] += 1
-            else:
-                # Fallback
-                fallback_collection = state.get('collection', 'default')
-                rag_doc_counts[(f'RAG Document {idx}', fallback_collection)] += 1
-        elif src_type == 'web':
-            title = src.get('title', '').strip()
-            url = src.get('url', 'N/A')
-            if not title and url != 'N/A':
-                try:
-                    domain = urlparse(url).netloc
-                    title = domain or f'Web Source {idx}'
-                except:
-                    title = f'Web Source {idx}'
-            elif not title:
-                title = f'Web Source {idx}'
-            
-            if not any(ws['url'] == url for ws in web_sources):
-                web_sources.append({'title': title, 'url': url})
-    
-    citations_formatted = []
-    # Keys are now tuples: (doc_name, collection)
-    for (doc_name, doc_collection), count in sorted(rag_doc_counts.items()):
-        if count > 1:
-            citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection} ({count} excerpts)")
-        else:
-            citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection}")
-    
-    for ws in web_sources:
-        citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
+    # Use helper function to format citations
+    citations_formatted = format_citations_from_sources(
+        result.sources,
+        fallback_collection=state.get('collection', 'default')
+    )
     
     step_logs.append("✅ TTD-DR research completed")
     
     return {
         "final_report": result.final_report,
-        "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
+        "citations": citations_formatted,
         "logs": step_logs,
         "ttd_dr_stage": "complete"
     }
@@ -465,79 +418,18 @@ async def ttd_dr_strategy_node_OLD(state: HackathonAgentState, config: RunnableC
         
         if result.success:
             logger.info("✅ TTD-DR research completed successfully")
-            
-            # Format citations from TTD-DR sources with deduplication
             logger.info(f"🔍 [TTD-DR] Formatting {len(result.sources)} sources for citations")
             
-            # Track RAG documents and their counts
-            rag_doc_counts = defaultdict(int)
-            web_sources = []  # Web sources remain unique by URL
-            
-            for idx, src in enumerate(result.sources, 1):
-                src_type = src.get('source', src.get('type', 'unknown'))
-                logger.info(f"  [TTD-DR] Source {idx}: type={src_type}, keys={list(src.keys())}")
-                
-                if src_type == 'rag':
-                    # RAG source - check for nested citations from actual documents
-                    inner_citations = src.get('citations', [])
-                    logger.info(f"    [TTD-DR] RAG source has {len(inner_citations)} inner citations")
-                    
-                    if inner_citations:
-                        # Collect and count document names
-                        for inner_src in inner_citations:
-                            doc_name = inner_src.get('source', f'RAG Document {idx}')
-                            logger.info(f"      [TTD-DR] Inner citation: {doc_name}")
-                            rag_doc_counts[doc_name] += 1
-                    else:
-                        # Fallback if no inner citations
-                        logger.info(f"    [TTD-DR] No inner citations, using fallback")
-                        rag_doc_counts[f'RAG Document {idx}'] += 1
-                elif src_type == 'web':
-                    # Web source - deduplicate by URL
-                    title = src.get('title', '').strip()
-                    url = src.get('url', 'N/A')
-                    # If no title, extract domain from URL as fallback
-                    if not title and url != 'N/A':
-                        try:
-                            domain = urlparse(url).netloc
-                            title = domain or f'Web Source {idx}'
-                        except:
-                            title = f'Web Source {idx}'
-                    elif not title:
-                        title = f'Web Source {idx}'
-                    
-                    # Check if this URL was already added
-                    if not any(ws['url'] == url for ws in web_sources):
-                        web_sources.append({'title': title, 'url': url})
-                else:
-                    # Unknown source type
-                    web_sources.append({
-                        'title': src.get('title', f'Source {idx}'),
-                        'url': src.get('url', 'N/A')
-                    })
-            
-            # Format deduplicated citations
-            citations_formatted = []
-            
-            # Add RAG documents (with optional count if >1)
-            for doc_name, count in sorted(rag_doc_counts.items()):
-                if count > 1:
-                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')} ({count} excerpts)")
-                else:
-                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {state.get('collection', 'default')}")
-            
-            # Add web sources
-            for ws in web_sources:
-                citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
-            
-            # Collect all logs: progress updates + completion
-            all_ttd_logs = []  # progress_logs was removed in refactoring
-            all_ttd_logs.append("✅ TTD-DR research completed")
+            # Use helper function to format citations
+            citations_formatted = format_citations_from_sources(
+                result.sources,
+                fallback_collection=state.get('collection', 'default')
+            )
             
             return {
                 "final_report": result.final_report,
-                "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
-                "logs": all_ttd_logs,
+                "citations": citations_formatted,
+                "logs": ["✅ TTD-DR research completed"],
                 "ttd_dr_stage": "complete"
             }
         else:
@@ -673,57 +565,11 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
             
             step_logs.append("✅ UDR strategy execution complete")
             
-            # Format citations - track both document name and collection
-            rag_doc_counts = defaultdict(int)
-            web_sources = []
-            
-            for idx, src in enumerate(result.sources, 1):
-                src_type = src.get('source', src.get('type', 'unknown'))
-                
-                if src_type == 'rag':
-                    inner_citations = src.get('citations', [])
-                    if inner_citations:
-                        # UDR format: nested citations with document details and collection
-                        for inner_src in inner_citations:
-                            doc_name = inner_src.get('source', f'RAG Document {idx}')
-                            doc_collection = inner_src.get('collection', state.get('collection', 'default'))
-                            doc_key = (doc_name, doc_collection)
-                            rag_doc_counts[doc_key] += 1
-                    elif src.get('collection'):
-                        # Flat format with collection at top level
-                        doc_name = src.get('title', f'RAG Document {idx}')
-                        doc_collection = src.get('collection')
-                        doc_key = (doc_name, doc_collection)
-                        rag_doc_counts[doc_key] += 1
-                    else:
-                        # Fallback
-                        fallback_collection = state.get('collection', 'default')
-                        rag_doc_counts[(f'RAG Document {idx}', fallback_collection)] += 1
-                elif src_type == 'web':
-                    title = src.get('title', '').strip()
-                    url = src.get('url', 'N/A')
-                    if not title and url != 'N/A':
-                        try:
-                            domain = urlparse(url).netloc
-                            title = domain or f'Web Source {idx}'
-                        except:
-                            title = f'Web Source {idx}'
-                    elif not title:
-                        title = f'Web Source {idx}'
-                    
-                    if not any(ws['url'] == url for ws in web_sources):
-                        web_sources.append({'title': title, 'url': url})
-            
-            citations_formatted = []
-            # Keys are now tuples: (doc_name, collection)
-            for (doc_name, doc_collection), count in sorted(rag_doc_counts.items()):
-                if count > 1:
-                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection} ({count} excerpts)")
-                else:
-                    citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection}")
-            
-            for ws in web_sources:
-                citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
+            # Use helper function to format citations
+            citations_formatted = format_citations_from_sources(
+                result.sources,
+                fallback_collection=state.get('collection', 'default')
+            )
             
             return {
                 "udr_result": {
@@ -732,7 +578,7 @@ async def udr_execute_node(state: HackathonAgentState, config: RunnableConfig):
                     "sources": result.sources
                 },
                 "running_summary": result.synthesized_report,
-                "citations": "\n".join(citations_formatted) if citations_formatted else "No sources available",
+                "citations": citations_formatted,
                 "logs": step_logs
             }
         else:
@@ -843,98 +689,18 @@ async def udr_execute_strategy_node_OLD(state: HackathonAgentState, config: Runn
     
     if result.success:
         logger.info(f"✅ UDR SUCCESS: Report length: {len(result.synthesized_report)}, Sources: {len(result.sources)}")
-        
-        # Format citations with deduplication
-        
-        print(f"🔍 [UDR] Formatting {len(result.sources)} sources for citations", flush=True, file=sys.stderr)
         logger.info(f"🔍 Formatting {len(result.sources)} sources for citations")
         
-        # Track RAG documents and their counts
-        rag_doc_counts = defaultdict(int)
-        web_sources = []  # Web sources remain unique by URL
+        # Use helper function to format citations
+        citations_formatted = format_citations_from_sources(
+            result.sources,
+            fallback_collection=state.get('collection', 'default')
+        )
         
-        for idx, src in enumerate(result.sources, 1):
-            src_type = src.get('source', src.get('type', 'unknown'))
-            print(f"  [UDR] Source {idx}: type={src_type}, keys={list(src.keys())}", flush=True, file=sys.stderr)
-            logger.info(f"  Source {idx}: type={src_type}, keys={list(src.keys())}")
-            
-            if src_type == 'rag':
-                # Check if this is UDR format (nested citations) or TTD-DR format (flat with collection/title)
-                inner_citations = src.get('citations', [])
-                print(f"    [UDR] RAG source has {len(inner_citations)} inner citations", flush=True, file=sys.stderr)
-                logger.info(f"    RAG source has {len(inner_citations)} inner citations")
-                
-                if inner_citations:
-                    # UDR format: nested citations with document details
-                    for inner_src in inner_citations:
-                        doc_name = inner_src.get('source', f'RAG Document {idx}')
-                        # Use per-citation collection if available, otherwise fallback
-                        doc_collection = inner_src.get('collection', state.get('collection', 'default'))
-                        # Create unique key: (doc_name, collection) to track per-collection
-                        doc_key = (doc_name, doc_collection)
-                        print(f"      [UDR] Inner citation: {doc_name} from collection: {doc_collection}", flush=True, file=sys.stderr)
-                        rag_doc_counts[doc_key] += 1
-                elif src.get('collection'):
-                    # TTD-DR format: flat source with collection and title at top level
-                    doc_name = src.get('title', f'RAG Document {idx}')
-                    doc_collection = src.get('collection')
-                    doc_key = (doc_name, doc_collection)
-                    print(f"      [UDR] Flat citation: {doc_name} from collection: {doc_collection}", flush=True, file=sys.stderr)
-                    rag_doc_counts[doc_key] += 1
-                else:
-                    # Fallback if no inner citations and no collection
-                    print(f"    [UDR] No inner citations, using fallback", flush=True, file=sys.stderr)
-                    fallback_collection = state.get('collection', 'default')
-                    rag_doc_counts[(f'RAG Document {idx}', fallback_collection)] += 1
-            elif src_type == 'web':
-                # Web source - deduplicate by URL
-                title = src.get('title', '').strip()
-                url = src.get('url', 'N/A')
-                # If no title, extract domain from URL as fallback
-                if not title and url != 'N/A':
-                    try:
-                        domain = urlparse(url).netloc
-                        title = domain or f'Web Source {idx}'
-                    except:
-                        title = f'Web Source {idx}'
-                elif not title:
-                    title = f'Web Source {idx}'
-                
-                # Check if this URL was already added
-                if not any(ws['url'] == url for ws in web_sources):
-                    web_sources.append({'title': title, 'url': url})
-            else:
-                # Unknown source type
-                web_sources.append({
-                    'title': src.get('title', f'Source {idx}'),
-                    'url': src.get('url', 'N/A')
-                })
-        
-        # Format deduplicated citations
-        citations_formatted = []
-        
-        # Add RAG documents (with optional count if >1)
-        # Keys are now tuples: (doc_name, collection)
-        for (doc_name, doc_collection), count in sorted(rag_doc_counts.items()):
-            if count > 1:
-                citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection} ({count} excerpts)")
-            else:
-                citations_formatted.append(f"- [{doc_name}] RAG Collection: {doc_collection}")
-        
-        # Add web sources
-        for ws in web_sources:
-            citations_formatted.append(f"- [{ws['title']}] {ws['url']}")
-        
-        citations_formatted = "\n".join(citations_formatted) if citations_formatted else "No sources available"
-        
-        # Collect all logs: UDR provides complete orchestration + tool call logs
+        # Collect all logs
         all_logs = []
         if result.execution_log:
-            # UDR integration returns complete log including:
-            # - Compilation, validation, execution steps
-            # - Tool calls (search_rag, search_web, synthesize_findings)
             all_logs.extend(result.execution_log)
-        # Add completion message
         all_logs.append("✅ UDR strategy execution complete")
         
         return_value = {
