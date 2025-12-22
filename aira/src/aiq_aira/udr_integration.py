@@ -416,6 +416,15 @@ class UDRStrategyExecutor:
             collection_names = [c.strip() for c in collection.split(',') if c.strip()]
             print(f"🔷 Parsed {len(collection_names)} collection(s): {collection_names}", flush=True, file=sys.stderr)
             
+            # Guard against empty collection list to prevent ZeroDivisionError
+            if not collection_names:
+                logger.warning("No valid collection names provided")
+                return {
+                    "content": "No valid collection names provided",
+                    "citations": [],
+                    "source": "rag"
+                }
+            
             # Get embedding from NIM (do this once)
             async with aiohttp.ClientSession() as session:
                 embedding_payload = {
