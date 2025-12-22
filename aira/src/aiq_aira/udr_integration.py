@@ -23,15 +23,21 @@ The core innovation: Converts natural language research plans into executable Py
 that can make calls to NIMs, RAG services, and web search dynamically.
 """
 
+import ast
 import asyncio
 import logging
 import json
+import os
 import re
+import sys
 from typing import Dict, Any, Optional, List
 from dataclasses import dataclass
+
+import aiohttp
 from langchain_core.language_models import BaseChatModel
 from langchain_core.prompts import ChatPromptTemplate
-import aiohttp
+from langchain_community.tools import TavilySearchResults
+from pymilvus import connections, Collection, utility
 
 logger = logging.getLogger(__name__)
 
@@ -297,9 +303,6 @@ CODE:
         Returns:
             (is_valid, error_message): Tuple of validation result and error message if invalid
         """
-        import ast
-        import sys
-        
         # DEBUG: Print the generated code to see what LLM created
         print("=" * 80, flush=True, file=sys.stderr)
         print("🔍 VALIDATING GENERATED UDR CODE:", flush=True, file=sys.stderr)
@@ -398,14 +401,10 @@ class UDRStrategyExecutor:
         
         Supports multiple collections passed as comma-separated string.
         """
-        import sys
         print("🔷 _search_rag_tool ENTERED!", flush=True, file=sys.stderr)
         print(f"🔷 Query: {query[:50]}..., Collection(s): {collection}", flush=True, file=sys.stderr)
         
         try:
-            from pymilvus import connections, Collection, utility
-            import os
-            
             # Get Milvus connection info
             milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
             milvus_port = os.getenv("MILVUS_PORT", "19530")
@@ -500,7 +499,6 @@ class UDRStrategyExecutor:
     
     async def _search_web_tool(self, query: str) -> List[Dict[str, str]]:
         """Tool: Search web using Tavily."""
-        import sys
         print(f"🔷 _search_web_tool called with query length: {len(query)}", flush=True, file=sys.stderr)
         # Add to execution log for UI visibility
         if hasattr(self, '_current_execution_log') and self._current_execution_log is not None:
@@ -512,8 +510,6 @@ class UDRStrategyExecutor:
             return []
         
         try:
-            from langchain_community.tools import TavilySearchResults
-            
             print("🔷 Creating Tavily tool...", flush=True, file=sys.stderr)
             tool = TavilySearchResults(
                 max_results=3,
@@ -543,7 +539,6 @@ class UDRStrategyExecutor:
     
     async def _synthesize_findings_tool(self, data: List[Dict]) -> str:
         """Tool: Synthesize research findings using Nemotron NIM."""
-        import sys
         print(f"🔷 _synthesize_findings_tool called with {len(data)} items", flush=True, file=sys.stderr)
         # Add to execution log for UI visibility
         if hasattr(self, '_current_execution_log') and self._current_execution_log is not None:
@@ -622,7 +617,6 @@ Report:"""
         Returns:
             UDRExecutionResult with the synthesized report and metadata
         """
-        import sys
         print("🟡 EXECUTOR execute_strategy ENTERED!", flush=True, file=sys.stderr)
         print("🟡 About to call logger.info line 1...", flush=True, file=sys.stderr)
         logger.info("=" * 80)
@@ -779,7 +773,6 @@ class UDRIntegration:
         Returns:
             UDRExecutionResult with synthesized findings
         """
-        import sys
         print("🟢 UDR execute_dynamic_strategy called!", flush=True, file=sys.stderr)
         logger.info("Starting UDR dynamic strategy execution")
         print("🟢 About to compile strategy...", flush=True, file=sys.stderr)

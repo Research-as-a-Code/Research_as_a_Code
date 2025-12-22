@@ -13,6 +13,7 @@ Reference: https://research.google/blog/deep-researcher-with-test-time-diffusion
 import asyncio
 import json
 import logging
+import sys
 import time
 from typing import Dict, Any, List, Optional, Tuple
 from datetime import datetime
@@ -268,7 +269,6 @@ class TTDDRIntegration(BaseResearchStrategy):
         )
         
         try:
-            import sys
             print(f"🔶 TTD-DR CORE: Starting execute, query={context.query[:80]}...", flush=True, file=sys.stderr)
             
             # Stage 1: Generate Research Plan
@@ -696,8 +696,7 @@ class TTDDRIntegration(BaseResearchStrategy):
                 SystemMessage(content="You are an expert at identifying research gaps."),
                 HumanMessage(content=prompt)
             ])
-            
-            import sys
+
             print(f"🔸 TTD-DR QUESTIONS: LLM response = {response.content[:300] if response.content else 'EMPTY'}...", flush=True, file=sys.stderr)
             
             result = QuestionsSchema.model_validate_json(response.content)
@@ -715,7 +714,6 @@ class TTDDRIntegration(BaseResearchStrategy):
             return result.questions
             
         except Exception as e:
-            import sys
             print(f"🔸 TTD-DR QUESTIONS: Exception: {e}", flush=True, file=sys.stderr)
             logger.warning(f"Failed to generate questions: {e}. Using fallback.")
             return [

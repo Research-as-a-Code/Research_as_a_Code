@@ -11,13 +11,17 @@ based on the evolving draft and research plan.
 import asyncio
 import json
 import logging
-import httpx
+import os
+import sys
 from typing import Dict, Any, List, Optional, Literal
 
+import httpx
 from pydantic import BaseModel, Field as PydanticField
 from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI as LangChainChatOpenAI
+from pymilvus import connections, Collection, utility
+from tavily import TavilyClient
 
 from ..models import ResearchPlan, DraftState, SearchQAPair
 from ..prompts import QUESTION_GENERATION_PROMPT, ANSWER_SYNTHESIS_PROMPT
@@ -261,7 +265,6 @@ class IterativeSearchEngine:
                 self.logger.warning(f"Web search failed: {e}")
         
         # Synthesize answer from results
-        import sys
         print(f"🔸 TTD-DR SEARCH: Synthesizing answer from {len(search_results)} results", flush=True, file=sys.stderr)
         if search_results:
             answer = await self._synthesize_answer(question, search_results)
@@ -291,7 +294,6 @@ class IterativeSearchEngine:
         Returns:
             List of search results with collection info for each result
         """
-        import sys
         print(f"🔸 TTD-DR SEARCH: _search_rag called, query={query[:50]}..., collection={collection}", flush=True, file=sys.stderr)
         
         # Parse multiple collections (comma-separated)
@@ -302,10 +304,6 @@ class IterativeSearchEngine:
         self.logger.info(f"🔍 [TTD-DR] Tool Call: search_rag(collections={collection_names})")
         
         try:
-            import os
-            import asyncio
-            from pymilvus import connections, Collection, utility
-            
             # Connect to Milvus
             milvus_host = os.getenv("MILVUS_HOST", "milvus-standalone.rag-blueprint.svc.cluster.local")
             milvus_port = int(os.getenv("MILVUS_PORT", "19530"))
@@ -381,9 +379,6 @@ class IterativeSearchEngine:
     
     def _get_embedding_sync(self, text: str) -> List[float]:
         """Get embedding from embedding NIM (synchronous for thread pool)."""
-        import httpx
-        import os
-        
         embedding_url = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
         
         try:
@@ -424,8 +419,6 @@ class IterativeSearchEngine:
             return []
         
         try:
-            from tavily import TavilyClient
-            
             client = TavilyClient(api_key=self.tavily_api_key)
             response = await asyncio.to_thread(
                 client.search,
@@ -444,10 +437,7 @@ class IterativeSearchEngine:
                 })
             
             return results
-            
-        except ImportError:
-            self.logger.warning("Tavily package not installed, skipping web search")
-            return []
+
         except Exception as e:
             self.logger.error(f"Web search error: {e}")
             return []
