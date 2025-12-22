@@ -234,13 +234,14 @@ class IterativeSearchEngine:
             rag_results = await self._search_rag(question, collection)
             if rag_results:
                 search_results.extend(rag_results)
+                # Use per-result collection (from _search_rag) for proper citation formatting
                 sources.extend([{
                     "type": "rag",
-                    "collection": collection,
+                    "collection": r.get("collection", collection),  # Use per-result collection
                     "title": r.get("title", "RAG Document"),
                     "url": r.get("url", ""),
                     "snippet": r.get("snippet", "")[:200]
-                } for r in rag_results[:3]])
+                } for r in rag_results[:6]])
         except Exception as e:
             self.logger.warning(f"RAG search failed: {e}")
         
@@ -281,18 +282,24 @@ class IterativeSearchEngine:
         """
         Search the RAG system using direct Milvus connection.
         
+        Supports multiple collections passed as comma-separated string.
+        
         Args:
             query: Search query
-            collection: Collection to search
+            collection: Collection(s) to search (comma-separated for multiple)
             
         Returns:
-            List of search results
+            List of search results with collection info for each result
         """
         import sys
         print(f"🔸 TTD-DR SEARCH: _search_rag called, query={query[:50]}..., collection={collection}", flush=True, file=sys.stderr)
         
+        # Parse multiple collections (comma-separated)
+        collection_names = [c.strip() for c in collection.split(',') if c.strip()]
+        print(f"🔸 TTD-DR SEARCH: Parsed {len(collection_names)} collection(s): {collection_names}", flush=True, file=sys.stderr)
+        
         # Log tool call for UI visibility
-        self.logger.info(f"🔍 [TTD-DR] Tool Call: search_rag(collection='{collection}')")
+        self.logger.info(f"🔍 [TTD-DR] Tool Call: search_rag(collections={collection_names})")
         
         try:
             import os
@@ -303,64 +310,68 @@ class IterativeSearchEngine:
             milvus_host = os.getenv("MILVUS_HOST", "milvus-standalone.rag-blueprint.svc.cluster.local")
             milvus_port = int(os.getenv("MILVUS_PORT", "19530"))
             
+            # Get embedding once (shared across all collections)
+            print(f"🔸 TTD-DR SEARCH: Getting embedding...", flush=True, file=sys.stderr)
+            embedding = self._get_embedding_sync(query)
+            print(f"🔸 TTD-DR SEARCH: Got embedding, len={len(embedding) if embedding else 0}", flush=True, file=sys.stderr)
+            if not embedding:
+                self.logger.warning("Failed to get embedding for query")
+                return []
+            
             # Run Milvus operations in thread pool (pymilvus is sync)
             def _sync_search():
                 print(f"🔸 TTD-DR SEARCH: Connecting to Milvus at {milvus_host}:{milvus_port}", flush=True, file=sys.stderr)
                 connections.connect(alias="default", host=milvus_host, port=milvus_port)
                 
-                # Check if collection exists
-                print(f"🔸 TTD-DR SEARCH: Checking collection '{collection}' exists", flush=True, file=sys.stderr)
-                if not utility.has_collection(collection):
-                    self.logger.warning(f"Collection '{collection}' does not exist")
-                    print(f"🔸 TTD-DR SEARCH: Collection not found!", flush=True, file=sys.stderr)
-                    return []
+                all_formatted = []
+                results_per_collection = max(2, 6 // len(collection_names))  # Distribute results evenly
                 
-                print(f"🔸 TTD-DR SEARCH: Loading collection", flush=True, file=sys.stderr)
-                coll = Collection(collection)
-                coll.load()
+                for coll_name in collection_names:
+                    # Check if collection exists
+                    print(f"🔸 TTD-DR SEARCH: Checking collection '{coll_name}' exists", flush=True, file=sys.stderr)
+                    if not utility.has_collection(coll_name):
+                        self.logger.warning(f"Collection '{coll_name}' does not exist, skipping")
+                        print(f"🔸 TTD-DR SEARCH: Collection '{coll_name}' not found, skipping", flush=True, file=sys.stderr)
+                        continue
+                    
+                    print(f"🔸 TTD-DR SEARCH: Loading collection '{coll_name}'", flush=True, file=sys.stderr)
+                    coll = Collection(coll_name)
+                    coll.load()
+                    
+                    # Search Milvus
+                    print(f"🔸 TTD-DR SEARCH: Executing Milvus search on '{coll_name}'...", flush=True, file=sys.stderr)
+                    search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+                    results = coll.search(
+                        data=[embedding],
+                        anns_field="embedding",
+                        param=search_params,
+                        limit=results_per_collection,
+                        output_fields=["text", "source"]
+                    )
+                    print(f"🔸 TTD-DR SEARCH: Collection '{coll_name}' returned {len(results)} result sets", flush=True, file=sys.stderr)
+                    
+                    # Format results with collection info
+                    for hits in results:
+                        print(f"🔸 TTD-DR SEARCH: Processing {len(hits)} hits from '{coll_name}'", flush=True, file=sys.stderr)
+                        for hit in hits:
+                            try:
+                                text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text')
+                                source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source')
+                            except Exception:
+                                text = str(getattr(hit.entity, 'text', ''))
+                                source = str(getattr(hit.entity, 'source', 'RAG Document'))
+                            
+                            all_formatted.append({
+                                "title": source or "RAG Document",
+                                "snippet": text or "",
+                                "content": text or "",
+                                "score": hit.score,
+                                "url": "",
+                                "collection": coll_name  # Include collection for citation formatting
+                            })
                 
-                # Get embedding for query using embedding NIM
-                print(f"🔸 TTD-DR SEARCH: Getting embedding...", flush=True, file=sys.stderr)
-                embedding = self._get_embedding_sync(query)
-                print(f"🔸 TTD-DR SEARCH: Got embedding, len={len(embedding) if embedding else 0}", flush=True, file=sys.stderr)
-                if not embedding:
-                    self.logger.warning("Failed to get embedding for query")
-                    return []
-                
-                # Search Milvus
-                print(f"🔸 TTD-DR SEARCH: Executing Milvus search...", flush=True, file=sys.stderr)
-                search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
-                results = coll.search(
-                    data=[embedding],
-                    anns_field="embedding",  # Match UDR field name
-                    param=search_params,
-                    limit=5,
-                    output_fields=["text", "source"]
-                )
-                print(f"🔸 TTD-DR SEARCH: Milvus search done, got {len(results)} result sets", flush=True, file=sys.stderr)
-                
-                # Format results (match UDR's approach)
-                formatted = []
-                for hits in results:
-                    print(f"🔸 TTD-DR SEARCH: Processing {len(hits)} hits", flush=True, file=sys.stderr)
-                    for hit in hits:
-                        try:
-                            text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text')
-                            source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source')
-                        except Exception:
-                            text = str(getattr(hit.entity, 'text', ''))
-                            source = str(getattr(hit.entity, 'source', 'RAG Document'))
-                        
-                        formatted.append({
-                            "title": source or "RAG Document",
-                            "snippet": text or "",
-                            "content": text or "",
-                            "score": hit.score,
-                            "url": ""
-                        })
-                
-                print(f"🔸 TTD-DR SEARCH: Returning {len(formatted)} formatted results", flush=True, file=sys.stderr)
-                return formatted
+                print(f"🔸 TTD-DR SEARCH: Returning {len(all_formatted)} total formatted results", flush=True, file=sys.stderr)
+                return all_formatted
             
             return await asyncio.to_thread(_sync_search)
                 
