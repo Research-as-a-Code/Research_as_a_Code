@@ -1,0 +1,42 @@
+# AI-Q Local Development Dependencies
+# =====================================
+#
+# This file contains minimal dependencies for running AI-Q locally
+# with Ollama and Milvus Lite (no Kubernetes/NIM required).
+#
+# Install with: pip install -r requirements-local.txt
+
+# Core LangChain
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+
+# Vector Database - Milvus with Lite support
+pymilvus[lite]>=2.4.0
+
+# Web Framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+
+# HTTP Clients
+aiohttp>=3.9.0
+httpx>=0.25.0
+
+# Web Search (optional but recommended)
+tavily-python>=0.3.0
+
+# Document Processing (for ingestion)
+pypdf>=4.0.0
+python-docx>=1.0.0
+tiktoken>=0.5.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# CopilotKit SDK (optional - for real-time frontend streaming)
+# copilotkit>=0.1.0
+

@@ -39,6 +39,18 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.tools import TavilySearchResults
 from pymilvus import connections, Collection, utility
 
+# Local mode support
+try:
+    from local.milvus_helper import (
+        is_milvus_lite_mode, 
+        has_collection as milvus_has_collection,
+        search_collection as milvus_search_collection,
+    )
+    LOCAL_MODE_AVAILABLE = True
+except ImportError:
+    LOCAL_MODE_AVAILABLE = False
+    is_milvus_lite_mode = lambda: False
+
 logger = logging.getLogger(__name__)
 
 
@@ -405,13 +417,6 @@ class UDRStrategyExecutor:
         print(f"🔷 Query: {query[:50]}..., Collection(s): {collection}", flush=True, file=sys.stderr)
         
         try:
-            # Get Milvus connection info
-            milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
-            milvus_port = os.getenv("MILVUS_PORT", "19530")
-            
-            # Connect to Milvus
-            connections.connect(alias="default", host=milvus_host, port=milvus_port)
-            
             # Parse multiple collections (comma-separated)
             collection_names = [c.strip() for c in collection.split(',') if c.strip()]
             print(f"🔷 Parsed {len(collection_names)} collection(s): {collection_names}", flush=True, file=sys.stderr)
@@ -425,13 +430,18 @@ class UDRStrategyExecutor:
                     "source": "rag"
                 }
             
-            # Get embedding from NIM (do this once)
+            # Get embedding model from environment (supports Ollama and NIM)
+            embedding_model = os.getenv("EMBEDDING_MODEL", "snowflake/arctic-embed-l")
+            
+            # Get embedding from embedding service (works with both Ollama and NIM)
             async with aiohttp.ClientSession() as session:
                 embedding_payload = {
                     "input": query,
-                    "model": "snowflake/arctic-embed-l",
-                    "input_type": "query"
+                    "model": embedding_model,
                 }
+                # Only add input_type for NIM (not Ollama)
+                if not is_milvus_lite_mode():
+                    embedding_payload["input_type"] = "query"
                 
                 async with session.post(
                     f"{self.embedding_nim_url}/v1/embeddings",
@@ -447,39 +457,68 @@ class UDRStrategyExecutor:
             all_citations = []
             results_per_collection = max(2, 6 // len(collection_names))  # Distribute results evenly
             
-            for coll_name in collection_names:
-                # Check if collection exists
-                if not utility.has_collection(coll_name):
-                    logger.warning(f"Collection '{coll_name}' does not exist, skipping")
-                    print(f"🔷 Collection '{coll_name}' does not exist, skipping", flush=True, file=sys.stderr)
-                    continue
+            # Use Milvus Lite helper if in local mode, otherwise use standard pymilvus
+            if LOCAL_MODE_AVAILABLE and is_milvus_lite_mode():
+                # Milvus Lite mode - use helper functions
+                for coll_name in collection_names:
+                    if not milvus_has_collection(coll_name):
+                        logger.warning(f"Collection '{coll_name}' does not exist, skipping")
+                        print(f"🔷 Collection '{coll_name}' does not exist, skipping", flush=True, file=sys.stderr)
+                        continue
+                    
+                    results = milvus_search_collection(
+                        collection_name=coll_name,
+                        query_embedding=query_embedding,
+                        limit=results_per_collection,
+                        output_fields=["text", "source"]
+                    )
+                    
+                    if results:
+                        print(f"🔷 Collection '{coll_name}': found {len(results)} results", flush=True, file=sys.stderr)
+                        for result in results:
+                            text = result.get("text", "")
+                            source = result.get("source", "RAG Document")
+                            all_content_parts.append(f"[{coll_name}/{source}] {text}")
+                            all_citations.append({"source": source, "collection": coll_name, "text": text[:200]})
+            else:
+                # Standard Milvus standalone mode
+                milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
+                milvus_port = os.getenv("MILVUS_PORT", "19530")
+                connections.connect(alias="default", host=milvus_host, port=milvus_port)
                 
-                # Query this collection
-                coll = Collection(coll_name)
-                coll.load()
-                
-                search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
-                results = coll.search(
-                    data=[query_embedding],
-                    anns_field="embedding",
-                    param=search_params,
-                    limit=results_per_collection,
-                    output_fields=["text", "source"]
-                )
-                
-                if results and len(results[0]) > 0:
-                    print(f"🔷 Collection '{coll_name}': found {len(results[0])} results", flush=True, file=sys.stderr)
-                    for i, hit in enumerate(results[0]):
-                        try:
-                            text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
-                            source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
-                        except Exception:
-                            text = str(hit.entity.get('text', ''))
-                            source = str(hit.entity.get('source', f"Doc {i+1}"))
-                        
-                        all_content_parts.append(f"[{coll_name}/{source}] {text}")
-                        # Include collection name so we know which collection each document came from
-                        all_citations.append({"source": source, "collection": coll_name, "text": text[:200]})
+                for coll_name in collection_names:
+                    # Check if collection exists
+                    if not utility.has_collection(coll_name):
+                        logger.warning(f"Collection '{coll_name}' does not exist, skipping")
+                        print(f"🔷 Collection '{coll_name}' does not exist, skipping", flush=True, file=sys.stderr)
+                        continue
+                    
+                    # Query this collection
+                    coll = Collection(coll_name)
+                    coll.load()
+                    
+                    search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+                    results = coll.search(
+                        data=[query_embedding],
+                        anns_field="embedding",
+                        param=search_params,
+                        limit=results_per_collection,
+                        output_fields=["text", "source"]
+                    )
+                    
+                    if results and len(results[0]) > 0:
+                        print(f"🔷 Collection '{coll_name}': found {len(results[0])} results", flush=True, file=sys.stderr)
+                        for i, hit in enumerate(results[0]):
+                            try:
+                                text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
+                                source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
+                            except Exception:
+                                text = str(hit.entity.get('text', ''))
+                                source = str(hit.entity.get('source', f"Doc {i+1}"))
+                            
+                            all_content_parts.append(f"[{coll_name}/{source}] {text}")
+                            # Include collection name so we know which collection each document came from
+                            all_citations.append({"source": source, "collection": coll_name, "text": text[:200]})
             
             if not all_content_parts:
                 return {

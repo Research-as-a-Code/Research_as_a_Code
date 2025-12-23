@@ -128,6 +128,45 @@ cd ../../scripts
 
 ---
 
+## 💻 Local Development (No Cloud Required)
+
+Run AI-Q entirely on your local machine with **Ollama** for inference and **Milvus Lite** for vector storage:
+
+```bash
+# One-command setup (choose your GPU preset)
+./local/setup.sh workstation_large    # A5000/RTX 4090 (24GB VRAM)
+./local/setup.sh consumer_mid         # RTX 4070/3070 (8-12GB VRAM)
+./local/setup.sh cpu_only             # No GPU
+
+# Activate and start
+source .venv/bin/activate
+source .env.local
+python -m uvicorn backend.main:app --reload --port 8000
+```
+
+### Local Mode Features
+
+| Feature | Local Mode | Cloud (EKS) |
+|---------|------------|-------------|
+| Setup Time | ~10 minutes | ~1 hour |
+| Cost | Free (your hardware) | Cloud GPU costs |
+| Privacy | Data stays local | Data in cloud |
+| Models | Ollama (Llama, Qwen) | NVIDIA NIMs |
+| Vector DB | Milvus Lite (in-process) | Milvus Standalone |
+
+### Supported Model Presets
+
+| Preset | GPU VRAM | LLM Model |
+|--------|----------|-----------|
+| `workstation_xlarge` | 48GB | llama3.1:70b-instruct-q4_K_M |
+| `workstation_large` | 24GB | llama3.1:8b-instruct-q8_0 |
+| `consumer_mid` | 8-12GB | llama3.2:3b-instruct-q8_0 |
+| `cpu_only` | N/A | llama3.2:1b-instruct-q4_K_M |
+
+📖 **Full Guide:** [local/README.md](local/README.md)
+
+---
+
 ## 📦 What Gets Deployed
 
 ### NVIDIA NIM Microservices

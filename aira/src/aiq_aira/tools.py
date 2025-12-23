@@ -16,6 +16,7 @@
 import aiohttp
 import asyncio
 import json
+import os
 from urllib.parse import urljoin
 from aiq_aira.constants import ASYNC_TIMEOUT, RAG_API_KEY, TAVILY_INCLUDE_DOMAINS
 from langgraph.types import StreamWriter
@@ -24,6 +25,18 @@ from langchain_community.tools import TavilySearchResults
 from urllib.parse import urljoin
 import logging
 from typing import Union, List
+
+# Local mode support
+try:
+    from local.milvus_helper import (
+        is_milvus_lite_mode, 
+        has_collection as milvus_has_collection,
+        search_collection as milvus_search_collection,
+    )
+    LOCAL_MODE_AVAILABLE = True
+except ImportError:
+    LOCAL_MODE_AVAILABLE = False
+    is_milvus_lite_mode = lambda: False
 
 logger = logging.getLogger(__name__)
 
@@ -58,32 +71,18 @@ async def search_rag(
     
     try:
         from pymilvus import connections, Collection, utility
-        import os
-        import json
         
-        # Get Milvus connection info
-        milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
-        milvus_port = os.getenv("MILVUS_PORT", "19530")
+        # Get embedding model (supports Ollama and NIM)
+        embedding_model = os.getenv("EMBEDDING_MODEL", "snowflake/arctic-embed-l")
         
-        # Connect to Milvus
-        connections.connect(alias="default", host=milvus_host, port=milvus_port)
-        
-        # Check which collections exist
-        valid_collections = [c for c in collections if utility.has_collection(c)]
-        if not valid_collections:
-            logger.warning(f"None of the collections exist: {collections}")
-            return ("No RAG collections found", "")
-        
-        if len(valid_collections) < len(collections):
-            missing = set(collections) - set(valid_collections)
-            logger.warning(f"Collections not found: {missing}")
-        
-        # Get embedding from NIM (once for all collections)
+        # Get embedding from embedding service (works with both Ollama and NIM)
         embedding_payload = {
             "input": prompt,
-            "model": "snowflake/arctic-embed-l",
-            "input_type": "query"
+            "model": embedding_model,
         }
+        # Only add input_type for NIM (not Ollama)
+        if not (LOCAL_MODE_AVAILABLE and is_milvus_lite_mode()):
+            embedding_payload["input_type"] = "query"
         
         async with asyncio.timeout(ASYNC_TIMEOUT):
             async with session.post(f"{url}/v1/embeddings", json=embedding_payload) as embed_response:
@@ -91,32 +90,89 @@ async def search_rag(
                 embed_result = await embed_response.json()
                 query_embedding = embed_result["data"][0]["embedding"]
             
-            # Search each collection and collect results
-            all_hits = []  # List of (hit, collection_name) tuples
+            all_hits = []  # List of (result_dict, collection_name) tuples
             
-            for coll_name in valid_collections:
-                coll = Collection(coll_name)
-                coll.load()
+            # Use Milvus Lite helper if in local mode, otherwise use standard pymilvus
+            if LOCAL_MODE_AVAILABLE and is_milvus_lite_mode():
+                # Milvus Lite mode - use helper functions
+                valid_collections = [c for c in collections if milvus_has_collection(c)]
+                if not valid_collections:
+                    logger.warning(f"None of the collections exist: {collections}")
+                    return ("No RAG collections found", "")
                 
-                search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
-                results = coll.search(
-                    data=[query_embedding],
-                    anns_field="embedding",
-                    param=search_params,
-                    limit=4,  # Same per-collection limit
-                    output_fields=["text", "source"]
-                )
+                if len(valid_collections) < len(collections):
+                    missing = set(collections) - set(valid_collections)
+                    logger.warning(f"Collections not found: {missing}")
                 
-                if results and len(results[0]) > 0:
-                    for hit in results[0]:
-                        all_hits.append((hit, coll_name))
-                    logger.info(f"  Found {len(results[0])} results from {coll_name}")
+                for coll_name in valid_collections:
+                    results = milvus_search_collection(
+                        collection_name=coll_name,
+                        query_embedding=query_embedding,
+                        limit=4,
+                        output_fields=["text", "source"]
+                    )
+                    
+                    if results:
+                        for result in results:
+                            # Create a hit-like object for compatibility
+                            hit_dict = {
+                                "text": result.get("text", ""),
+                                "source": result.get("source", "RAG Document"),
+                                "distance": result.get("score", 0.0),
+                            }
+                            all_hits.append((hit_dict, coll_name))
+                        logger.info(f"  Found {len(results)} results from {coll_name}")
+            else:
+                # Standard Milvus standalone mode
+                milvus_host = os.getenv("MILVUS_HOST", "milvus.rag-blueprint.svc.cluster.local")
+                milvus_port = os.getenv("MILVUS_PORT", "19530")
+                connections.connect(alias="default", host=milvus_host, port=milvus_port)
+                
+                valid_collections = [c for c in collections if utility.has_collection(c)]
+                if not valid_collections:
+                    logger.warning(f"None of the collections exist: {collections}")
+                    return ("No RAG collections found", "")
+                
+                if len(valid_collections) < len(collections):
+                    missing = set(collections) - set(valid_collections)
+                    logger.warning(f"Collections not found: {missing}")
+                
+                for coll_name in valid_collections:
+                    coll = Collection(coll_name)
+                    coll.load()
+                    
+                    search_params = {"metric_type": "L2", "params": {"nprobe": 10}}
+                    results = coll.search(
+                        data=[query_embedding],
+                        anns_field="embedding",
+                        param=search_params,
+                        limit=4,  # Same per-collection limit
+                        output_fields=["text", "source"]
+                    )
+                    
+                    if results and len(results[0]) > 0:
+                        for hit in results[0]:
+                            # Convert to dict format for uniform handling
+                            try:
+                                text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
+                                source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', 'RAG Document')
+                            except Exception:
+                                text = str(getattr(hit.entity, 'text', ''))
+                                source = str(getattr(hit.entity, 'source', 'RAG Document'))
+                            
+                            hit_dict = {
+                                "text": text,
+                                "source": source,
+                                "distance": hit.distance,
+                            }
+                            all_hits.append((hit_dict, coll_name))
+                        logger.info(f"  Found {len(results[0])} results from {coll_name}")
             
             if not all_hits:
                 return ("No relevant documents found", "")
             
             # Sort all hits by relevance (L2 distance - lower is better)
-            all_hits.sort(key=lambda x: x[0].distance)
+            all_hits.sort(key=lambda x: x[0]["distance"])
             
             # Take top results across all collections (up to 4 × num_collections)
             max_results = min(len(all_hits), 4 * len(valid_collections))
@@ -131,18 +187,14 @@ async def search_rag(
             # Include collection name in grouping for multi-collection searches
             chunks_by_source = {}  # {(collection, source): [(chunk_num, text), ...]}
             
-            for i, (hit, coll_name) in enumerate(top_hits):
-                try:
-                    text = hit.entity.text if hasattr(hit.entity, 'text') else hit.entity.get('text', '')
-                    source = hit.entity.source if hasattr(hit.entity, 'source') else hit.entity.get('source', f"Doc {i+1}")
-                    distance = hit.distance
-                    
-                    # Log with collection context
-                    logger.info(f"  📄 RAG chunk [{i+1}] from {coll_name}/{source} (distance: {distance:.3f})")
-                except Exception:
-                    text = str(hit.entity.get('text', ''))
-                    source = str(hit.entity.get('source', f"Doc {i+1}"))
-                    distance = hit.distance if hasattr(hit, 'distance') else 0.0
+            for i, (hit_dict, coll_name) in enumerate(top_hits):
+                # hit_dict is now a dict with "text", "source", "distance" keys
+                text = hit_dict.get("text", "")
+                source = hit_dict.get("source", f"Doc {i+1}")
+                distance = hit_dict.get("distance", 0.0)
+                
+                # Log with collection context
+                logger.info(f"  📄 RAG chunk [{i+1}] from {coll_name}/{source} (distance: {distance:.3f})")
                 
                 # Group by (collection, source) for multi-collection clarity
                 key = (coll_name, source) if len(valid_collections) > 1 else (source,)

@@ -61,29 +61,65 @@ logger = logging.getLogger("uvicorn")
 # Configuration
 # ========================================
 
+# Check for local mode
+LOCAL_MODE = os.getenv("LOCAL_MODE", "false").lower() == "true" or \
+             os.getenv("MILVUS_LITE", "false").lower() == "true"
+
+
 class Config:
-    """Application configuration from environment variables."""
+    """Application configuration from environment variables.
     
-    # LLM Endpoints - Use cluster-local NIMs (deployed in nim namespace)
-    # These NIMs were running all along - just had wrong service name!
-    NEMOTRON_NIM_URL = os.getenv("NEMOTRON_NIM_URL", "http://instruct-llm-service.nim.svc.cluster.local:8000")
-    INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "http://instruct-llm-service.nim.svc.cluster.local:8000")
-    EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+    Supports two modes:
+    1. Cloud/Kubernetes mode: Uses NVIDIA NIMs in cluster
+    2. Local mode (MILVUS_LITE=true or LOCAL_MODE=true): Uses Ollama locally
+    """
     
-    # RAG uses direct Milvus integration - search_rag expects embedding NIM URL
-    RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+    # Local mode: Use Ollama endpoints
+    if LOCAL_MODE:
+        # LLM Endpoints - Ollama (OpenAI-compatible API)
+        LLM_BASE_URL = os.getenv("LLM_BASE_URL", "http://localhost:11434/v1")
+        EMBEDDING_BASE_URL = os.getenv("EMBEDDING_BASE_URL", "http://localhost:11434/v1")
+        
+        # Use the same base URL for all LLM services
+        NEMOTRON_NIM_URL = LLM_BASE_URL
+        INSTRUCT_LLM_URL = LLM_BASE_URL
+        EMBEDDING_NIM_URL = EMBEDDING_BASE_URL
+        RAG_SERVER_URL = EMBEDDING_BASE_URL
+        
+        # Model names for Ollama
+        LLM_MODEL = os.getenv("LLM_MODEL", "llama3.1:8b-instruct-q8_0")
+        EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "nomic-embed-text")
+        NEMOTRON_MODEL = LLM_MODEL
+        INSTRUCT_MODEL = LLM_MODEL
+        
+        # Milvus Lite configuration
+        MILVUS_LITE = True
+        MILVUS_DATA_PATH = os.getenv("MILVUS_DATA_PATH", "./data/milvus/milvus.db")
+    else:
+        # LLM Endpoints - Use cluster-local NIMs (deployed in nim namespace)
+        # These NIMs were running all along - just had wrong service name!
+        NEMOTRON_NIM_URL = os.getenv("NEMOTRON_NIM_URL", "http://instruct-llm-service.nim.svc.cluster.local:8000")
+        INSTRUCT_LLM_URL = os.getenv("INSTRUCT_LLM_URL", "http://instruct-llm-service.nim.svc.cluster.local:8000")
+        EMBEDDING_NIM_URL = os.getenv("EMBEDDING_NIM_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+        
+        # RAG uses direct Milvus integration - search_rag expects embedding NIM URL
+        RAG_SERVER_URL = os.getenv("RAG_SERVER_URL", "http://embedding-service.nim.svc.cluster.local:8000")
+        
+        # Model names - Using Nemotron Nano 8B (9B requires >24GB VRAM due to Mamba architecture)
+        NEMOTRON_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
+        INSTRUCT_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
+        
+        # For compatibility
+        LLM_MODEL = NEMOTRON_MODEL
+        EMBEDDING_MODEL = "snowflake/arctic-embed-l"
+        MILVUS_LITE = False
+        MILVUS_DATA_PATH = None
     
     # Tavily API Key (for web search)
     TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
     
     # NGC API Key (for NIM authentication if needed)
     NGC_API_KEY = os.getenv("NGC_API_KEY", "not-needed")
-    
-    # Model names - Using Nemotron Nano 8B (9B requires >24GB VRAM due to Mamba architecture)
-    # Reasoning model for planning/analysis
-    NEMOTRON_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
-    # Instruct model for writing  
-    INSTRUCT_MODEL = "nvidia/llama-3.1-nemotron-nano-8b-v1"
 
 
 # Global agent instance

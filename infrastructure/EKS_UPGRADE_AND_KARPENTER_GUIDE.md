@@ -1,11 +1,13 @@
 # EKS Cluster Upgrade & Karpenter Operations Guide
 
-> **Last Updated**: December 21, 2025  
+> **Last Updated**: December 22, 2025  
 > **Cluster**: aiq-udf-eks  
 > **Region**: us-west-2
 > **Current Version**: Kubernetes 1.34
 
 This document captures learnings from upgrading the EKS cluster from v1.28 to v1.34 and managing Karpenter-provisioned GPU nodes.
+
+> **💡 Local Development Alternative**: Don't need cloud infrastructure? See [local/README.md](../local/README.md) for running AI-Q entirely on your local machine with Ollama and Milvus Lite.
 
 ---
 
@@ -19,6 +21,7 @@ This document captures learnings from upgrading the EKS cluster from v1.28 to v1
 6. [Cost Optimization](#cost-optimization)
 7. [Terraform IaC Changes](#terraform-iac-changes)
 8. [TensorRT-LLM Memory Requirements](#tensorrt-llm-memory-requirements)
+9. [Local Development Alternative](#local-development-alternative)
 
 ---
 
@@ -908,4 +911,56 @@ Increase instance size to g5.4xlarge (64GB RAM) or larger.
 1. **Pre-built engines**: NVIDIA may release pre-compiled TRT-LLM engines in future NIM versions
 2. **Engine caching**: Future NIM versions may support saving compiled engines to PV
 3. **vLLM-only NIMs**: Using a vLLM-only image would eliminate the build step but sacrifice inference performance
+
+---
+
+## Local Development Alternative
+
+For development, testing, or scenarios where cloud infrastructure is not needed, AI-Q can run entirely locally using Ollama for inference and Milvus Lite for vector storage.
+
+### Quick Start
+
+```bash
+# One-command setup
+./local/setup.sh workstation_large
+
+# Start backend
+source .venv/bin/activate
+source .env.local
+python -m uvicorn backend.main:app --reload --port 8000
+```
+
+### Comparison: Local vs Cloud
+
+| Aspect | Local Mode | Cloud (EKS) |
+|--------|------------|-------------|
+| **Setup Time** | ~10 minutes | ~1 hour |
+| **Cost** | Free (your hardware) | $3-10/hour (GPU instances) |
+| **Privacy** | Data stays local | Data in AWS |
+| **LLM** | Ollama (Llama, Qwen) | NVIDIA NIMs |
+| **Vector DB** | Milvus Lite (in-process) | Milvus Standalone |
+| **Scalability** | Single machine | Multi-node auto-scaling |
+| **Inference Speed** | Good (GPU) / Slow (CPU) | Optimized (TensorRT) |
+
+### When to Use Local Mode
+
+- **Development**: Rapid iteration without cloud costs
+- **Testing**: CI/CD pipelines, unit tests
+- **Privacy**: Sensitive data that can't leave premises
+- **Demos**: Quick setup for presentations
+- **Offline**: Air-gapped or network-restricted environments
+
+### Key Files
+
+```
+local/
+├── README.md           # Full documentation
+├── setup.sh            # One-command setup script
+├── config.py           # Model presets and configuration
+├── milvus_helper.py    # Milvus Lite abstraction
+├── ingest_local.py     # Document ingestion
+└── env.example         # Environment template
+```
+
+📖 **Full Local Development Guide**: [local/README.md](../local/README.md)
 
