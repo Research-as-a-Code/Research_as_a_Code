@@ -440,7 +440,7 @@ class UDRStrategyExecutor:
                     "model": embedding_model,
                 }
                 # Only add input_type for NIM (not Ollama)
-                if not is_milvus_lite_mode():
+                if not (LOCAL_MODE_AVAILABLE and is_milvus_lite_mode()):
                     embedding_payload["input_type"] = "query"
                 
                 async with session.post(
